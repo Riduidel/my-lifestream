@@ -21,7 +21,7 @@
 * Website: http://riduidel.wordpress.com
 * Twitter: [@Riduidel](https://twitter.com/Riduidel)
 * Github: [@Riduidel](https://github.com/Riduidel)
-* LinkedIn: [@Nicolas Delsaux](https://linkedin.com/in/Nicolas Delsaux)
+* LinkedIn: [@Nicolas Delsaux](https://linkedin.com/in/nicolasdelsaux)
 
 ## 🤝 Contributing
 
