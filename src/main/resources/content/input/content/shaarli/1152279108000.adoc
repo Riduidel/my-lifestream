@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MappingService
+:jbake-tags: freeware,macosx,software,plugin,_mois_juil.,_année_2006
+:jbake-date: 2006-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1152279108000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fweb.mac.com%2Frjsdev%2FiWeb%2Fsoftware%2FMappingService.html&searchtags=freeware+macosx+software+plugin+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://web.mac.com/rjsdev/iWeb/software/MappingService.html[MappingService]
+
+Un service permettant, simplement grâce à une adresse écrite n'importe où sur l'écran, d'obtenir la carte associée grâce à Google Maps

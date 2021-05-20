@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Music timeline of plays and history
+:jbake-tags: visualisation,musique,histoire,google,_mois_févr.,_année_2014
+:jbake-date: 2014-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1391592965000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflowingdata.com%2F2014%2F01%2F17%2Fmusic-timeline-of-plays-and-history%2F&searchtags=visualisation+musique+histoire+google+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://flowingdata.com/2014/01/17/music-timeline-of-plays-and-history/[Music timeline of plays and history]
+
+Chapeau, google research ! C'est pas la première timeline de la musique depuis les années 50 que je vois, mais le fait qu'elle s'appuie sur Google Play pour donner de vrais exemples d'albums la rend particulièrement efficace.

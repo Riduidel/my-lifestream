@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Neal Stephenson
+:jbake-tags: author
+:jbake-date: 2000-07-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/545.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1430920344p5/545.jpg
+:jbake-source: https://www.goodreads.com/author/show/545
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070336913.html[Zodiac]
+* link:../books/9782253072102.html[L'Âge de diamant]
+* link:../books/9782253072218.html[Le Samouraï virtuel]
+* link:../books/9782253072362.html[Le Code Enigma (Cryptonomicon, #1)]
+* link:../books/9782253072447.html[Le Réseau Kinakuta (Cryptonomicon, #2)]
+* link:../books/9782253072553.html[Golgotha (Cryptonomicon, #3)]

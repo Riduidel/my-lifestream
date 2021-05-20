@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Anubis Gates
+:jbake-tags: serie
+:jbake-date: 2005-01-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Anubis_Gates.adoc
+:jbake-source: https://www.goodreads.com/series/291934
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780441023820.html[The Anubis Gates]

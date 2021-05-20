@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Please Open It sur Twitter : "Our #keycloak as a service is now open ! Create your own realm on our keycloak cluster :) Details on https://t.co/tqTl1xT4Yo Inscription and console : https://t.co/3ixKnMBufp If you care about authorizations, take a look (and send us feedbacks) about our authorizations platform."
+:jbake-tags: service,web,sécurité,java,keycloak,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571125608000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FPleaseOpen_It%2Fstatus%2F1183751659995963393&searchtags=service+web+s%C3%A9curit%C3%A9+java+keycloak+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/PleaseOpen_It/status/1183751659995963393[Please Open It sur Twitter : "Our #keycloak as a service is now open ! Create your own realm on our keycloak cluster :) Details on https://t.co/tqTl1xT4Yo Inscription and console : https://t.co/3ixKnMBufp If you care about authorizations, take a look (and send us feedbacks) about our authorizations platform."]
+
+C'est une idée de génie !

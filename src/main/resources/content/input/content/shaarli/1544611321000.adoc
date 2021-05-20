@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Au sujet des «gilets jaunes», je ne sais sur quel pied danser | Slate.fr
+:jbake-tags: france,politique,histoire,république,_mois_déc.,_année_2018
+:jbake-date: 2018-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1544611321000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.fr%2Fstory%2F170925%2Ftitiou-gilets-jaunes-insurrection-violences-policieres&searchtags=france+politique+histoire+r%C3%A9publique+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.slate.fr/story/170925/titiou-gilets-jaunes-insurrection-violences-policieres[Au sujet des «gilets jaunes», je ne sais sur quel pied danser | Slate.fr]
+
+C'est un bon texte, et une réflexion intelligente sur l'injonction contradictoire de célébrer l'insurrection fondatrice de la république et de condamner strictement la violence.

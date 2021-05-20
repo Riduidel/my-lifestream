@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simplifiez vous le monitoring avec Metrics
+:jbake-tags: java,framework,instrumentation,devops,programming,_mois_avr.,_année_2014
+:jbake-date: 2014-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1396861936000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.xebia.fr%2F2014%2F04%2F01%2Fsimplifiez-vous-le-monitoring-avec-metrics%2F&searchtags=java+framework+instrumentation+devops+programming+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.xebia.fr/2014/04/01/simplifiez-vous-le-monitoring-avec-metrics/[Simplifiez vous le monitoring avec Metrics]
+
+Très chouette article. Ca donne vraiment envie d'utiliser Metrics (du moins, encore plus que al doc officielle qui est déja bien fichue).

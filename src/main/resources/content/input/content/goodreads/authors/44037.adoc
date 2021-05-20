@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vernor Vinge
+:jbake-tags: author
+:jbake-date: 2003-03-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/44037.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1215099239p5/44037.jpg
+:jbake-source: https://www.goodreads.com/author/show/44037
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782221090299.html[Au tréfonds du ciel]
+* link:../books/9782221108468.html[Rainbows End]
+* link:../books/9782253072089.html[Un feu sur l'abîme]

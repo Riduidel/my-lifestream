@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Foundation Universe
+:jbake-tags: serie
+:jbake-date: 2006-11-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Foundation_Universe.adoc
+:jbake-source: https://www.goodreads.com/series/49421
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070415700.html[Fondation]
+* link:../books/9782070415717.html[Fondation et Empire]

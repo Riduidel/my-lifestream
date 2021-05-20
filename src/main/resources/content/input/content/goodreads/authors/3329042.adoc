@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emma Newman
+:jbake-tags: author
+:jbake-date: 2019-10-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3329042.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1425124402p5/3329042.jpg
+:jbake-source: https://www.goodreads.com/author/show/3329042
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290137079.html[Planetfall]
+* link:../books/9782290153673.html[After Atlas]

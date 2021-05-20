@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaarli API Documentation
+:jbake-tags: shaarli,api,http,documentation,rest,_mois_juin,_année_2020
+:jbake-date: 2020-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1591362886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fshaarli.github.io%2Fapi-documentation%2F&searchtags=shaarli+api+http+documentation+rest+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://shaarli.github.io/api-documentation/[Shaarli API Documentation]
+
+Damned ! Je découvre seulement maintenant qu Shaarli a une API HTTP. Il y a deux ou trois choses que j'aurais pu simplifier ...

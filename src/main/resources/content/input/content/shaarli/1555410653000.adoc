@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keeping Rust projects' README.md code examples up-to-date
+:jbake-tags: rust,programming,tutorial,test,documentation,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555410653000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.guillaume-gomez.fr%2Farticles%2F2019-04-13%2BKeeping%2BRust%2Bprojects%2527%2BREADME.md%2Bcode%2Bexamples%2Bup-to-date&searchtags=rust+programming+tutorial+test+documentation+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.guillaume-gomez.fr/articles/2019-04-13+Keeping+Rust+projects%27+README.md+code+examples+up-to-date[Keeping Rust projects' README.md code examples up-to-date]
+
+Oh mais c'est vraiment chouette, cette méthode pour tester le contenu des README et autres documents !

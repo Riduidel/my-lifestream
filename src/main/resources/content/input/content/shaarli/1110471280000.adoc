@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CornerClick
+:jbake-tags: software,freeware,macosx,launcher,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110471280000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgreg.vario.us%2Fcornerclick%2F&searchtags=software+freeware+macosx+launcher+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://greg.vario.us/cornerclick/[CornerClick]
+
+CornerClick allows you to assign actions to each corner of your screen in Mac OS X 10.3 (Panther). Your screen corners can act like four buttons which will never move. You will never miss when you try to click the corner of the screen.

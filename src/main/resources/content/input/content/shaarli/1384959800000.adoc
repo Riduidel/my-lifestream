@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Êtes-vous plutôt cerveau droit ou cerveau gauche ? Faites le test !
+:jbake-tags: test,neurologie,_mois_nov.,_année_2013
+:jbake-date: 2013-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1384959800000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.sommer-sommer.com%2Ftest-de-cerveau%2F&searchtags=test+neurologie+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://fr.sommer-sommer.com/test-de-cerveau/[Êtes-vous plutôt cerveau droit ou cerveau gauche ? Faites le test !]
+
+Marrant comme test. Cela dit, le fait que j'utilise ma souris de la main gauche alors que je suis droitier ne m'a pas aidé. Et certains questions m'ont plongé dans des abîmes de perplexité : - croisez vos jambes, laquelle est au-dessus ? - regardez un objet et fermez un oeil, lequel reste ouvert ? (j'ai dû le refaire 3-4 fois parce que je ne fermais pas un oeil SANS REFLECHIR)

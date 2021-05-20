@@ -1,0 +1,170 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jouons au Rust 2 - Simple fraction to mixed number
+:jbake-tags: collection,interface,rust,_mois_juin,_année_2018
+:jbake-date: 2018-06-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/03/jouons-au-rust-2-simple-fraction-to-mixed-number.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/03/jouons-au-rust-2-simple-fraction-to-mixed-number/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, celui-là a été plus long que prévu (et pour être honnête, je n'ai pas encore fini).
+</p>
+<p>
+L'énoncé du problème est sur <a href="https://www.codingame.com/ide/puzzle/simple-fraction-to-mixed-number">Codingame </a>et, franchement, ça paraît assez vu assez simple de transformer <code>7/3</code> en <code>2 1/3</code>.
+</p>
+<p>
+Mais en fait, c'est un peu plus compliqué quand y réfléchit un peu :
+<br/>
+<ul>
+<br/>
+<li>D'abord, il faut séparer la partie entière de la fraction. C'est assez simple puisqu'il suffit de retirer le dénominateur au numérateur tant que le numérateur est plus grand (en partie entière, évidement).</li>
+<br/>
+<li>Ensuite, il faut réduire la fraction. Et là, il y a du défi, puisqu'il faut séparer le numérateur et le dénominateur en nombres premiers, puis supprimer les nombres premiers trouvés dans le numérateur et le dénominateur.</li>
+<br/>
+<li>Et enfin, il faut afficher le résultat</li>
+<br/>
+</ul>
+<br/>
+Ah, et j'avais oublié le fait de créer la fraction depuis une chaîne de caractères.
+<br/>
+<h2>Lire une chaîne dans une struct</h2>
+<br/>
+Là-dessus, <a href="https://doc.rust-lang.org/rust-by-example/conversion/from_into.html">Rust by Example</a> explique clairement comment transformer une chaîne en un objet (une fraction dans mon cas). Et je dois dire que cette idée d'interfaces <code>From</code> et <code>Into</code> est particulièrement séduisante (d'autant qu'elle est facilement réplicable dans d'autres langages). Donc j'ai écrit une implémentation de <code>impl From for Fraction</code>, et ça a roulé, j'avais mon objet <code>Fraction</code> !
+<br/>
+<h2>Séparer la partie entière de la fraction</h2>
+<br/>
+Comme dans n'importe quel langage, les opérations sont faciles lorsque le modèle est bien aligné avec le langage. Et là, ma struct Fraction est ... bien compatible avec Rust :
+<br/>
+<pre>#[derive(Debug, Copy, Clone)]
+<br/>
+struct Fraction {
+<br/>
+pub signum:i32,
+<br/>
+pub integer_part:i32,
+<br/>
+pub numerator:i32,
+<br/>
+pub denominator:i32
+<br/>
+}</pre>
+<br/>
+Ca n'a l'air de rien, mais pour la séparation de la partie entière, le code est raisonnablement trivial :
+<br/>
+<pre>let mut next_numerator = self.numerator.abs();
+<br/>
+let mut next_denominator = self.denominator.abs();
+<br/>
+let mut next_integer_part = 0;
+<br/>
+while next_denominator&#60;=next_numerator {
+<br/>
+next_numerator = next_numerator-next_denominator;
+<br/>
+next_integer_part = next_integer_part+1;
+<br/>
+}
+<br/>
+return Fraction {
+<br/>
+signum:signum,
+<br/>
+integer_part:next_integer_part,
+<br/>
+numerator:next_numerator,
+<br/>
+denominator:next_denominator
+<br/>
+}</pre>
+<br/>
+Rien de sorcier, sauf que ça va fortement se compliquer dans un instant de toutes les façons possibles ...
+<br/>
+<h2>Réduire la fraction</h2>
+<br/>
+Alors là, il nous faut les facteurs premiers du numérateur et du dénominateur. Et pour ça, il me fallait les nombres premiers.
+<br/>
+<h3>Trouver les nombres premiers</h3>
+<br/>
+Heureusement, j'ai l'habitude de calculer les nombres premiers, et je connais la méthode du <a href="https://fr.wikipedia.org/wiki/Crible_d%27%C3%89ratosth%C3%A8ne">crible d'Erastothène</a> suffisamment bien pour l'implémenter sans frémir. Mais comme chaque test demande de convertir plusieurs fractions de taille inconnue, je voulais un crible extensible. J'avais donc initialement écrit un crible dans une structure statique
+<br/>
+<pre>struct Primes {
+<br/>
+// Contain all primes up to a given value built from the primes_upto fonction
+<br/>
+PRIMES:Vec,
+<br/>
+// Contain for each number upto the given value the potential for this number to be a prime
+<br/>
+NUMBERS:Vec
+<br/>
+}
+</p>
+<p>
+static PRIMES = Primes::new()</pre>
+<br/>
+Parce que je croyais follement que <code>static</code> avait le même sens qu'en Java. Alors que ça n'est <a href="https://doc.rust-lang.org/rust-by-example/custom_types/constants.html">pas le cas du tout</a>. J'ai donc du enlever le <code>static</code> et passer mon objet <code>Primes</code> dans mon main. Pas grave, mais un peu verbeux. Ce qui était plus grave, c'est que <code>Vec</code> n'implémente pas <code>Copy</code>. Autrement dit, je ne passe pas mon objet <code>Primes</code>en paramètre d'une fonction parce que lors de l'appel, il y a semble-t-il une copie de la variable qui est faite (en terme de cycle de vie Rust). Et ça, j'ai mis un moment à le comprendre ... Bref, c'est à ce moment que j'ai découvert <a href="https://doc.rust-lang.org/std/cell/struct.Cell.html">std::cell::Cell</a>. Cette classe un peu magique permet d'encapsuler le <code>Vec</code> pour qu'il ne "bouge" pas mais puisse quand même être une variable dans une struct. Exactement le genre de construction idiomatique pour laquelle je fais ces problèmes !
+</p>
+<p>
+J'avais donc ma structure de nombres premiers
+<br/>
+<pre>struct Primes {
+<br/>
+// Contain all primes up to a given value built from the primes_upto fonction
+<br/>
+PRIMES:Cell,
+<br/>
+// Contain for each number upto the given value the potential for this number to be a prime
+<br/>
+NUMBERS:Cell
+<br/>
+}</pre>
+<br/>
+Et l'ensemble des méthodes afférentes. Je laisse de côté la plupart des problèmes d'ownership et de borrowing parce que le compilateur Rust fait un travail exceptionnel d'explication des erreurs, avec même des suggestions de correction. J'adore ça.
+</p>
+<p>
+Je pose juste la syntaxe pour obtenir le dernier élément d'un <code>Vec</code> : <code>CURRENT_PRIMES.as_slice().last().unwrap_or(&#38;2i32);</code>. Le <code>last()</code> retourne une <code>Option</code>, et donc le <code>unwrap_or(...)</code> évite que le <code>None</code> ne pète une erreur, en remplaçant la valeur incorrecte.
+<br/>
+<h3>Décomposer en facteurs premiers</h3>
+<br/>
+Là aussi c'est assez simple : pour décomposer un nombre en facteurs premiers, on prend les facteurs premiers de 2 jusqu'à notre nombre, et on divise le nombre par tous ses diviseurs jusqu'à ce qu'il soit réduit à 1.
+</p>
+<p>
+Pour ça, je prend donc mes nombres premiers, et j'itère dessus avec un bon vieil <code>Iter</code> (que j'ai obtenu facilement de mon <code>Vec</code> avec <a href="https://doc.rust-lang.org/std/vec/struct.Vec.html#method.iter"><code>vec.iter()</code></a>). Seulement, en Rust, un <code>Iter</code> retourne des <a href="https://doc.rust-lang.org/std/option/enum.Option.html">Option</a>. Donc le pattern d'itération classique de Java
+<br/>
+<pre>while (iterator.hasNext()) {  value = iterator.next();}</pre>
+<br/>
+devient quelque chose du genre
+<br/>
+<pre>loop {  let value = iterator.next();
+<br/>
+match value {
+<br/>
+Some(v) =&#62; ...
+<br/>
+None =&#62; return ...
+<br/>
+}
+<br/>
+}</pre>
+<br/>
+(et encore je ne suis pas sûr de la syntaxe) Ca change !
+</p>
+<p>
+Cela dit, avec ça, j'arrive à obtenir ma liste de facteurs premiers, et je peux réduire ma fraction (à quelques bugs près).
+<br/>
+<h2>Afficher le résultat</h2>
+<br/>
+Comme au début, le trait <a href="https://doc.rust-lang.org/std/string/trait.ToString.html">ToString</a> permet de transformer ma structure en chaîne de caractère comme je veux. Par contre, je ne sais pas encore combiner ça avec le trait <a href="https://doc.rust-lang.org/std/fmt/trait.Display.html">Display</a>, qui me permettrait d'utiliser les macros d'affichage.
+<br/>
+<h2>Et ensuite ?</h2>
+<br/>
+J'ai encore quelques bugs pénibles à résoudre, qui vont me forcer à débugger mon code Rust (dans Eclipse ou VS Code, on verra) et à utiliser les outils de test intégrés dans Cargo.
+</p>
+<p>
+En fait, tout ça fait de ce problème un truc super cool qui m'a permiss d'apprendre énormément de choses, et de vérifier tout un tas d'hypothèses, alors qu'il s'agit d'un problème résolu de façon habituelle par des élèves de 4ème (mon fils fait en ce moment des exercices semblables, et quand je lui ai dit que je galérais, il m'a regardé d'un air affligé)
+</p>
+++++

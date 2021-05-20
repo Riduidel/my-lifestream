@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MaddAddam
+:jbake-tags: serie
+:jbake-date: 2018-06-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/MaddAddam.adoc
+:jbake-source: https://www.goodreads.com/series/55674
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782264043153.html[Le Dernier Homme]

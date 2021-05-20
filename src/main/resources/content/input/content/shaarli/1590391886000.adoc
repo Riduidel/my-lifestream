@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aurélie Vache sur Twitter : "RT @addyosmani: Loading bars explained. concept: @ahieiei (https://t.co/43xL2iH9jC) animation: @aaroniker_me (https://t.co/Xn0020UhIH) htt…" / Twitter
+:jbake-tags: interface,hack,charging,gui,_mois_mai,_année_2020
+:jbake-date: 2020-05-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1590391886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faurelievache%2Fstatus%2F1264294953104146434&searchtags=interface+hack+charging+gui+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/aurelievache/status/1264294953104146434[Aurélie Vache sur Twitter : "RT @addyosmani: Loading bars explained. concept: @ahieiei (https://t.co/43xL2iH9jC) animation: @aaroniker_me (https://t.co/Xn0020UhIH) htt…" / Twitter]
+
+J'adorerai voir une appli, un site web, ou quoi que ce soit d'autre, qui exploite cette représentation des barres de chargement.

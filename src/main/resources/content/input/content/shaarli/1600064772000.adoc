@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tech Bullshit Explained: Uncle Bob - Tech Bullshit Explained
+:jbake-tags: informatique,culture,évolution,_mois_sept.,_année_2020
+:jbake-date: 2020-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1600064772000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftechexplained.substack.com%2Fp%2Ftech-bullshit-explained-uncle-bob&searchtags=informatique+culture+%C3%A9volution+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://techexplained.substack.com/p/tech-bullshit-explained-uncle-bob[Tech Bullshit Explained: Uncle Bob - Tech Bullshit Explained]
+
+Encore une histoire de vieil homme blanc privilégié incapable de comprendre qu'il \*doit\* changer d'attitude ? (le fait que ce soit ce dans l'informatique n'y change en fait pas grand chose, à part démontrer que cette industrie a parfois cette culture masculiniste sordidement dégueulasse)

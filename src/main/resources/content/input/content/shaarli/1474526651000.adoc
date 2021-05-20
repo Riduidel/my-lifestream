@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeff Atwood on Twitter: ""No one cares about what you write or say. They’re looking for any excuse to not read or listen. You have to make sure they don’t have one.""
+:jbake-tags: citation,communication,_mois_sept.,_année_2016
+:jbake-date: 2016-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1474526651000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodinghorror%2Fstatus%2F777295121679126528&searchtags=citation+communication+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/codinghorror/status/777295121679126528[Jeff Atwood on Twitter: ""No one cares about what you write or say. They’re looking for any excuse to not read or listen. You have to make sure they don’t have one.""]
+
+Ou comment bien communiquer

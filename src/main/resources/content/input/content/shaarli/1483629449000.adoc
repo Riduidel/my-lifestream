@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plugin Documentation
+:jbake-tags: maven,release,_mois_janv.,_année_2017
+:jbake-date: 2017-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1483629449000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmaestrodev.github.io%2Fcollabnet-plugins%2Fplugin-info.html&searchtags=maven+release+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://maestrodev.github.io/collabnet-plugins/plugin-info.html[Plugin Documentation]
+
+Alors ça, ça pourrait me servir ...

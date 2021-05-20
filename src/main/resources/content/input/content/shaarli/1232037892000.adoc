@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebHome < Main < Reprap
+:jbake-tags: science,art,3d,technologie,open-source,prototyping,robotics,3d-printer,diy,_mois_janv.,_année_2009
+:jbake-date: 2009-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1232037892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.reprap.org%2Fbin%2Fview%2FMain%2FWebHome&searchtags=science+art+3d+technologie+open-source+prototyping+robotics+3d-printer+diy+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.reprap.org/bin/view/Main/WebHome[WebHome < Main < Reprap]
+
+Ce truc, c'est la fin du monde, le début de la singularité, l'enfer du capitalisme : une machine capable de se recopier à bas prix et, surtout,d e copier la plupart des objets utilitaires de la vie courante. Regardez ce qui a déja été construit avec, et vous comprendrez ... Vous comprendrez que là, pour le coup, une bonne part de la SF avant-gardiste vient de prendre pied dans la réalité.

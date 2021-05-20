@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CS 3230 - Robocode Project
+:jbake-tags: programming,tutorial,java,robocode,documentation,_mois_déc.,_année_2008
+:jbake-date: 2008-12-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1229153805000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codepoet.org%2F%7Emarkw%2Fweber%2Fjava%2Frobocode%2F&searchtags=programming+tutorial+java+robocode+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.codepoet.org/~markw/weber/java/robocode/[CS 3230 - Robocode Project]
+
+Encore un peu de doc, avec cette fois des articles complémentaires de ceux d'IBM concernant eux aussi le tracking prédictif de l'ennemi, l'esquive de balles, le déplacement non prévisible, et d'autres trucs vraiment pratiques et complexes.

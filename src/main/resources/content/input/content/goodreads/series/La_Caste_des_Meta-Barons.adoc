@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Caste des Méta-Barons
+:jbake-tags: serie
+:jbake-date: 2011-04-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/La_Caste_des_Meta-Barons.adoc
+:jbake-source: https://www.goodreads.com/series/69165
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782731610086.html[Othon Le Trisaïeul (La Caste des Méta-Barons, #1)]
+* link:../books/9782731610758.html[Honorata la trisaïeule (La Caste des Méta-Barons, #2)]
+* link:../books/9782731611793.html[Aghnar Le Bisaïeul (La Caste des Méta-Barons, #3)]
+* link:../books/9782731612271.html[Oda la Bisaïeule (La Caste des Méta-Barons, #4)]
+* link:../books/9782731612493.html[Tête-D'Acier L'aïeul (La Caste des Méta-Barons, #5)]
+* link:../books/9782731612677.html[Doña Vicenta Gabriela de Rokha L'aïeule (La Caste des Méta-Barons, #6)]
+* link:../books/9782731614640.html[Aghora, le père-mère (La Caste des Méta-Barons, #7)]
+* link:../books/9782731661484.html[Sans-Nom, le dernier Méta-Baron (La Caste des Méta-Barons, #8)]

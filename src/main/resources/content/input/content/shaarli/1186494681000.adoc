@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: InformIT: Security Reference Guide > Pimp My N800
+:jbake-tags: n800,sécurité,documentation,reference,hack,matériel,_mois_août,_année_2007
+:jbake-date: 2007-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1186494681000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.informit.com%2Fguides%2Fcontent.asp%3Fg%3Dsecurity%26seqNum%3D249%26rl%3D1&searchtags=n800+s%C3%A9curit%C3%A9+documentation+reference+hack+mat%C3%A9riel+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.informit.com/guides/content.asp?g=security&seqNum=249&rl=1[InformIT: Security Reference Guide > Pimp My N800]
+
+Quelques hacks pour pouvoir faire plus de trucs sur le n800

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Data Structures and Algorithms with Object-Oriented Design Patterns in Ruby
+:jbake-tags: algorithme,coding,développement,ebook,free,reference,ruby,_mois_mai,_année_2007
+:jbake-date: 2007-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1178892252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.brpreiss.com%2Fbooks%2Fopus8%2F&searchtags=algorithme+coding+d%C3%A9veloppement+ebook+free+reference+ruby+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.brpreiss.com/books/opus8/[Data Structures and Algorithms with Object-Oriented Design Patterns in Ruby]
+
+Un livre sur les structures de données et la programmation orientée objet à base d'exemples en Ruby

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Politest, le test pour se positionner politiquement
+:jbake-tags: web,politique,france,_mois_févr.,_année_2005
+:jbake-date: 2005-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1108557677000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpolitest.chez.tiscali.fr%2F&searchtags=web+politique+france+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://politest.chez.tiscali.fr/[Politest, le test pour se positionner politiquement]
+
+Bienvenue sur le site du Politest ! Grâce au Politest, vous allez pouvoir déterminer si vous vous situez à gauche ou à droite, ainsi que le (ou les) parti(s) politique(s) dont vous êtes le plus proche. Vous aurez également des indications qui vo

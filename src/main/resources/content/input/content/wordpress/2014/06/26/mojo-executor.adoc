@@ -1,0 +1,144 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mojo Executor
+:jbake-tags: ca sert à presque rien,_mois_juin,_année_2014
+:jbake-date: 2014-06-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/06/26/mojo-executor.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/06/26/mojo-executor/
+:jbake-style: wordpress
+
+++++
+<p>
+Admettons que vous deviez écrire un <a href="http://maven-guide-fr.erwan-alliaume.com/maven-guide-fr/site/reference/writing-plugins-simple-java-mojo.html">Mojo maven</a>. ou, pire encore, un <a href="http://maven-guide-fr.erwan-alliaume.com/maven-guide-fr/site/reference/writing-plugins-sect-custom-lifecycle.html">cycle de vie personnalisé</a>. Vous allez sans doute faire des trucs déja implémentés par d'autres plugins maven. Et vous vous en voudrez.
+</p>
+<p>
+Eh bien pour que vous ne vous en vouliez plus, n'éhsitez pas à appeler ces cibles directement avec <a href="http://timmoore.github.io/mojo-executor/">Mojo-Executor</a>.
+</p>
+<p>
+Allez voir sur le site, c'est vraiment très très pratique dès qu'on veut reprendre un truc déja disponible dans un plugin du build. Et par vraiment, j'euphémise à mort. En fait, ça change tout.
+</p>
+<p>
+Bon, il y a juste un truc qui me chiffone un peu, c'est qu'il faut lui passer un Plugin complet (c'est-à-dire avec une version valide). or, dans le code java, la version, on ne la connaît pas forcément, d'autant plus que le projet peut déja utiliser ce plugin et que, dans ce cas-là, sa version est déja connue des composants Maven. D'où cette petite méthode qui facilite bien la vie :
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">define(["jquery"], function($) {
+<br/>
+function ReinvokableDeferred() {
+<br/>
+this.success = [];
+<br/>
+this.failure = [];
+<br/>
+this.any = [];
+<br/>
+}
+</p>
+<p>
+ReinvokableDeferred.prototype = {
+<br/>
+_add : function(array, called) {
+<br/>
+for(var arg in called) {
+<br/>
+array.push(called[arg]);
+<br/>
+}
+<br/>
+},
+<br/>
+then : function() {
+<br/>
+this._add(this.success, arguments);
+<br/>
+},
+<br/>
+done : function() {
+<br/>
+this._add(this.success, arguments);
+<br/>
+},
+<br/>
+fail : function() {
+<br/>
+this._add(this.failure, arguments);
+<br/>
+},
+<br/>
+always : function() {
+<br/>
+this._add(this.any, arguments);
+<br/>
+},
+<br/>
+deferred : function() {
+<br/>
+var returned = $.Deferred();
+<br/>
+returned.done.call(returned, this.success);
+<br/>
+returned.fail.call(returned, this.failure);
+<br/>
+returned.always.call(returned, this.any);
+<br/>
+return returned;
+<br/>
+}
+<br/>
+};
+</p>
+<p>
+return ReinvokableDeferred;
+<br/>
+});</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>/]
+</p>
+<p>
+Ah, et si ça ne suffit pas, ajoutez-y ces petites méthodes qui facilitent l'ajout d'attributs (très pratique quand on fait de l'ant-exec)
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">	public static Attributes with(Attribute...attributes) {
+<br/>
+return new Attributes(attributes);
+<br/>
+}
+</p>
+<p>
+public static Attribute attr(String key, String value) {
+<br/>
+return new Attribute(key, value);
+<br/>
+}
+</p>
+<p>
+public static Attribute attr(String key, File value) {
+<br/>
+return new Attribute(key, value.getAbsolutePath());
+<br/>
+}
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>/]
+</p>
+<p>
+Avec tout ça, votre prochain mojo sera vraiment facile à écrire.
+</p>
+<p>
+Au passage, il semble que le même type ait écrit un <a href="http://baptiste-wicht.com/posts/2010/05/improve-performance-builds-maven-cli-plugin.html">maven-cli-plugin</a>, actuellement difficile à trouver, pour éviter la perte de temps du démarrage de maven (ce qui ne m'intéresse pas professionnellement, puisque notre build prend 20 mns à s'exécuter).
+</p>
+++++

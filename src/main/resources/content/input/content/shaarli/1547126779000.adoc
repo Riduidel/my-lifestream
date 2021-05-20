@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SamEtMax on Twitter: "Meme en utilisant Firefox, si je tape "Ublock Origin" dans Google, le premier lien est pour l'extension Chrome. J'ai l'impression de retourner à l'époque où tout le monde utilisait IE parceque c'était le truc devant leur nez"
+:jbake-tags: internet,économie,évolution,liberté,_mois_janv.,_année_2019
+:jbake-date: 2019-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1547126779000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsam_et_max%2Fstatus%2F1082937533376458753&searchtags=internet+%C3%A9conomie+%C3%A9volution+libert%C3%A9+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/sam_et_max/status/1082937533376458753[SamEtMax on Twitter: "Meme en utilisant Firefox, si je tape "Ublock Origin" dans Google, le premier lien est pour l'extension Chrome. J'ai l'impression de retourner à l'époque où tout le monde utilisait IE parceque c'était le truc devant leur nez"]
+
+J'ai essayé (assez mal) d'expliquer la même chose à des collègues, mais bon ...

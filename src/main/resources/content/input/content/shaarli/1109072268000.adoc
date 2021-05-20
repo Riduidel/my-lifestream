@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fractal Explorer
+:jbake-tags: software,freeware,windows,mathématiques,fractals,image,_mois_févr.,_année_2005
+:jbake-date: 2005-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1109072268000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.eclectasy.com%2FFractal-Explorer%2F&searchtags=software+freeware+windows+math%C3%A9matiques+fractals+image+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.eclectasy.com/Fractal-Explorer/[Fractal Explorer]
+
+Fractal Explorer is a freeware fractal generator that can produce mysterious and beautiful mathematically-based images. Not just a tool for professionals, FE can provide hours of entertainment for beginners and experts alike !

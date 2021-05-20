@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oglaf : Chiffons, in : Le Rabat-joie
+:jbake-tags: zombie,culture,humour,_mois_juil.,_année_2015
+:jbake-date: 2015-07-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1436421348000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Foglaf.lapin.org%2Findex.php%3Fnumber%3D455&searchtags=zombie+culture+humour+_mois_juil.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://oglaf.lapin.org/index.php?number=455[Oglaf : Chiffons, in : Le Rabat-joie]
+
+Il y a du Valnuit là-dedans, je trouve

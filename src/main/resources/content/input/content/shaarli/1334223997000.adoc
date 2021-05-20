@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PhotoShow
+:jbake-tags: dns-323,freeware,software,open-source,php,photographie,gallerie,_mois_avr.,_année_2012
+:jbake-date: 2012-04-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1334223997000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.photoshow-gallery.com%2F&searchtags=dns-323+freeware+software+open-source+php+photographie+gallerie+_mois_avr.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.photoshow-gallery.com/[PhotoShow]
+
+Une gallerie photo en PHP SANS base de données (particulièrement cool sur le NAS !)

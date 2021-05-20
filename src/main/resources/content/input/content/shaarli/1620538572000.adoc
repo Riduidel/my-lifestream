@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A perceptual color space for image processing
+:jbake-tags: image,représentation,concepts,algorithme,_mois_mai,_année_2021
+:jbake-date: 2021-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1620538572000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbottosson.github.io%2Fposts%2Foklab%2F&searchtags=image+repr%C3%A9sentation+concepts+algorithme+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://bottosson.github.io/posts/oklab/[A perceptual color space for image processing]
+
+C'est assez loin de ce que je fais habituellement. Mais je comprend le sens de cette idée.

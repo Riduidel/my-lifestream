@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven jDocBook Plugin - JBoss Community
+:jbake-tags: docbook,documentation,maven,java,lifestream,_mois_oct.,_année_2010
+:jbake-date: 2010-10-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1286971430000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jboss.org%2Fmaven-jdocbook-plugin%2F&searchtags=docbook+documentation+maven+java+lifestream+_mois_oct.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.jboss.org/maven-jdocbook-plugin/[Maven jDocBook Plugin - JBoss Community]
+
+Peut-être la possibilité de faire un lifestream d'une façon radicalement différente ?

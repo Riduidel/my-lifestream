@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What is Test Driven Development (TDD)? Tutorial with Example
+:jbake-tags: tdd,test,agile,modélisation,architecture,_mois_sept.,_année_2019
+:jbake-date: 2019-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1568186647000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.guru99.com%2Ftest-driven-development.html&searchtags=tdd+test+agile+mod%C3%A9lisation+architecture+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.guru99.com/test-driven-development.html[What is Test Driven Development (TDD)? Tutorial with Example]
+
+Ce tutorial me fait découvrir l'agile model driven development .... Il va falloir que je relise ça à tête reposée

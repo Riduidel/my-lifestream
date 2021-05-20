@@ -1,0 +1,43 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wolverine, les origines
+:jbake-tags:  enfant, famille, rayon-emprunt, surhomme,_année_2013,_mois_mars,_note_3,rayon-bd,read
+:jbake-date: 2013-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782809420111.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362826963l/17566366._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362826963l/17566366._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/17566366
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+L’inauguration de cette gamme se fait en grande pompe avec Wolverine en invité d’honneur . Joe Quesada et Bill Jemas ont confié à Paul Jenkins (Inhumans, Sentry) le soin de raconter pour la première fois, les origines du mutant griffu, restées longtemps secrètes. L’impeccable Andy Kubert (X-Men) est au dessin de cet album inévitable, qui se paie en plus le luxe de proposer la saga dans laquelle Wolverine se souvient de ses origines. Elle est signée Daniel Way et Mark Texeira.
+</div>
+++++
+
+
+## Authors
+* link:../authors/9717.html[Andy Kubert]
+* link:../authors/33530.html[Daniel Way]
+* link:../authors/54523.html[Javier Saltares]
+* link:../authors/6982960.html[Mark Teixera]
+* link:../authors/54522.html[Mark Texeira]
+* link:../authors/12803.html[Paul Jenkins]
+
+## Series
+* link:../series/Marvel_Deluxe__Lobezno.html[Marvel Deluxe: Lobezno]
+* link:../series/Marvel_Premiere_Classic.html[Marvel Premiere Classic]
+* link:../series/Marvel_Ultimate_Graphic_Novels_Collection.html[Marvel Ultimate Graphic Novels Collection]
+* link:../series/Marvel_Ultimate_Graphic_Novels_Collection__Publication_Order.html[Marvel Ultimate Graphic Novels Collection: Publication Order]
+* link:../series/Marvel.___.html[Marvel. Официальная коллекция комиксов]
+* link:../series/Wielka_Kolekcja_Komiksow_Marvela.html[Wielka Kolekcja Komiksów Marvela]
+* link:../series/Wolverine_Origin.html[Wolverine Origin]
+* link:../series/Wolverine__Miniseries.html[Wolverine: Miniseries]
+* link:../series/Wolverine__Origin.html[Wolverine: Origin]
+
+## Review
+
+++++
+Mouais ...<br/>Si la première partie de ce recueil a unertaine autonomie, et nous fait découvrir un Wolverine très différent de celui qu'on connaît, la seconde essaye de mélanger un maximum de références au corups d'oeuvres déja existantes et est du coup incompréhensible pour le non érudit.
+++++

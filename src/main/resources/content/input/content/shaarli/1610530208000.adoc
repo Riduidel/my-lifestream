@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Practical Markup Language (PML)
+:jbake-tags: documentation,écriture,format,_mois_janv.,_année_2021
+:jbake-date: 2021-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1610530208000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.pml-lang.dev%2F&searchtags=documentation+%C3%A9criture+format+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.pml-lang.dev/[Practical Markup Language (PML)]
+
+Donc des gens ont encore réinventé un langage de description de texte 🤨 ... Et comme les accolades, c'est tendance, il y a des accolades 🙄

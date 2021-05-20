@@ -1,0 +1,52 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La vie est une question de principes
+:jbake-tags: agile,architecture_agile,c4model,organisation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/10/la-vie-est-une-question-de-principes.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/10/la-vie-est-une-question-de-principes/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série concernant la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> en utilisant <a href="https://riduidel.wordpress.com/tag/c4model/">C4</a>. Il fait suite à celui traitant des <a href="https://riduidel.wordpress.com/2020/04/09/parlons-contexte-parlons-contraintes/">contraintes</a>. Parce qu'une fois qu'on a assimilé l'ensemble des éléments du contexte (et comme je l'ai déjà écrit, les contraintes font partie du contexte), il est temps de commencer à réfléchir au produit que notre équipe va créer. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je vais me permettre d'insister dix secondes sur la notion de produit. En effet, dans la plupart des organisations, on parle à tord de projet. Un projet, c'est un rêve, quelque chose qui n'a pas forcément de réalité. Or notre présence dans une organisation a évidement beaucoup de réalité. Elle a un objectif : transformer un projet en produit. La différence entre les deux est que le produit, contrairement au projet, existe. Le produit a des utilisateurs. Le produit rend un service. A mon avis, c'est une des raisons pour lesquelles (avec le changement imprévu de contexte) les projets ne deviennent pas des produits, tout simplement parce qu'il n'y a pas vraiment de besoin de réalisation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce paragraphe ressemble aux discussions que j'ai parfois avec des <a href="https://www.scrum.org/resources/what-is-a-product-owner">product owners</a> ou des coaches agiles. Et c'est quelque chose qui leur parle beaucoup (sans doute à cause de ces histoires de MVP). Ca leur parle, parce que je dépasse la frontière de la technique brute pour entrer dans le domaine des principes de développement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et les principes de l'équipe, c'est le sujet de cet article.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En effet, une fois que les contraintes sont énoncées, il est temps de s'intéresser aux <a href="https://structurizr.com/help/documentation/principles">principes</a>. De quoi parle Simon Brown dans ce cas ? De principes techniques, et en particulier de principes à petite échelle : un ORM, une interface, tout ça, ça concerne un monolithe (qui est une très bonne architecture, mais j'en reparlerai ultérieurement). Comme la plupart des organisations embrassent actuellement des architectures microservices, je pense qu'il faut ajouter à ceux dont parlent Simon d'autres questions de principes, comme par exemple comment votre équipe découpe son système en conteneurs et en composants ? Et puisqu'on parle de produits, et pas de projets, comment va-t-on emmener le code du poste du développeur jusqu'à la prod ? Est-ce qu'on va faire du déploiement continu sur tous les environnements ? Et dans ce cas, comment seront menés les tests ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'avantage de ce chapitre, c'est qu'il n'est pas question de détailler, mais plutôt d'énoncer les principes qui vont guider les décisions de l'équipe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, évidement, comme je l'ai écrit à propos du <a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">métier d'architecte</a>, il ne s'agit pas ici d'écrire cette partie tout seul dans son coin, mais bien d'assister l'équipe dans la définition de principes <strong>soutenables</strong>. Pourquoi est-ce que j'insiste sur le terme soutenable ? Exactement comme dans l'agile, où on vise à avoir un rythme de livraison soutenable, parce qu'on sait que le projet va durer, définir des principes trop exigeants n'a aucun autre intérêt que celui de détruire le moral de l'équipe. Par exemple, si vous dites que le code doit être testé unitairement à 100%, ça n'est <a href="https://jeroenmols.com/blog/2017/11/28/coveragproblem/">pas soutenable</a>. En revanche, si vous dites que la couverture de code par les tests ne doit pas diminuer dans le temps, d'un seul coup, vous poussez l'équipe vers l'amélioration continue d'une manière ... qui semble facile au début, mais qui deviendra de plus en plus exigeante. Et c'est bien. Autrement, dit, il faut se méfier des principes ayant une formulation absolue : "toujours", "jamais" ne s'encombrent que rarement du contexte. Or tout est contexte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Qui plus est, les principes font partie des choses à remettre en question lors des rétrospectives agiles. En effet, si un développeur dit qu'il a été gêné par un des principes de l'équipe, il y a forcément une action à mener. Ca peut être de modifier ce principe. Ca peut être aussi de former le développeur. Parce que ces principes sont l'une des clés de voûte du projet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Au passage, ils peuvent (et à mon sens doivent) être la trace écrite de l'organisation agile de l'équipe. C'est-à-dire qu'ils doivent inclure l'organisation en sprints (ou pas), la manière dont les outils agiles sont utilisés, ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si on en revient à notre exemple, c'est la raison pour laquelle <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype/commit/ea8b908ba885a3d97cab2466721f37b36f274069">les principes choisis</a> sont très simples. Et ces principes très simples vont nous permettre d'entamer la définition de l'architecture dans de bonnes conditions. C'est ce que nous verrons dans le prochain article.</p>
+<!-- /wp:paragraph -->
+++++

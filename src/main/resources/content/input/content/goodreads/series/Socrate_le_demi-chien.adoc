@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Socrate le demi-chien
+:jbake-tags: serie
+:jbake-date: 2011-04-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Socrate_le_demi-chien.adoc
+:jbake-source: https://www.goodreads.com/series/58551
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782205050707.html[Socrate le demi-chien: Héraclès]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The environmental impact of today's transport types - TNMT
+:jbake-tags: transport,pollution,infographie,écologie,_mois_avr.,_année_2021
+:jbake-date: 2021-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1619785265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftnmt.com%2Finfographics%2Fcarbon-emissions-by-transport-type%2F&searchtags=transport+pollution+infographie+%C3%A9cologie+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://tnmt.com/infographics/carbon-emissions-by-transport-type/[The environmental impact of today's transport types - TNMT]
+
+Une évaluation poussée de la production de CO² par les différents moyens de transport. C'est assez intéressant. Hélas, il manque l'avion ...

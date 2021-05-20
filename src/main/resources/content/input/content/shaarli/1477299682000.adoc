@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: matthias-k/gitdb2
+:jbake-tags: git,programming,library,python,database,_mois_oct.,_année_2016
+:jbake-date: 2016-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1477299682000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmatthias-k%2Fgitdb2&searchtags=git+programming+library+python+database+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/matthias-k/gitdb2[matthias-k/gitdb2]
+
+Vous les voyez tous ces gens qui vous proposent des bases de données réplicables ?

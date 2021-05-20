@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jules Ivanic on Twitter: "It seems that Docker, and maybe Kubernetes also, was thought to run mono process apps, like NodeJS apps. It wasn't thought for multi-threaded apps like the ones we write with the JVM. Exact same problem as expressed here: https://t.co/qovp5lmyya"
+:jbake-tags: citation,conteneur,kubernetes,docker,performance,thread,_mois_mars,_année_2019
+:jbake-date: 2019-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1552498858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fguizmaii%2Fstatus%2F1105837407113543681&searchtags=citation+conteneur+kubernetes+docker+performance+thread+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/guizmaii/status/1105837407113543681[Jules Ivanic on Twitter: "It seems that Docker, and maybe Kubernetes also, was thought to run mono process apps, like NodeJS apps. It wasn't thought for multi-threaded apps like the ones we write with the JVM. Exact same problem as expressed here: https://t.co/qovp5lmyya"]
+
+C'est une position intéressante, mais je vois plus ce point comme un point aveugle de l'histoire de la conteneurisation. Il faudrait qu'un des spécialistes des conteneurs de mon entourage me le confirme ...

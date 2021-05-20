@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: salesforce/sloop: Kubernetes History Visualization
+:jbake-tags: kubernetes,observation,monitoring,system,_mois_avr.,_année_2020
+:jbake-date: 2020-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1586284431000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsalesforce%2Fsloop&searchtags=kubernetes+observation+monitoring+system+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/salesforce/sloop[salesforce/sloop: Kubernetes History Visualization]
+
+Oh c'est vraiment chouette comme outil d'observation Kubernetes !

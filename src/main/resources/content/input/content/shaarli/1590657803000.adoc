@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Zenika – <Animés par la passion>
+:jbake-tags: zenika,blog,entreprise,conseil,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590657803000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.zenika.com%2F&searchtags=zenika+blog+entreprise+conseil+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.zenika.com/[Blog Zenika – <Animés par la passion>]
+
+Le blog de Zenika, dont les articles sont écrits très souvent par mes collègues (et avec talent), et même parfois par moi.

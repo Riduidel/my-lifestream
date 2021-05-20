@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Morgan McGuire sur Twitter : "It is relatively easy to write a compiler. It is challenging and requires about 5x as much code to write a compiler that gives useful error messages, because you structure it differently when you need to retain state and history. This applies to most tools programming as well!" / Twitter
+:jbake-tags: citation,programming,erreur,_mois_févr.,_année_2021
+:jbake-date: 2021-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1613397541000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2FCasualEffects%2Fstatus%2F1361060538319568905&searchtags=citation+programming+erreur+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/CasualEffects/status/1361060538319568905[Morgan McGuire sur Twitter : "It is relatively easy to write a compiler. It is challenging and requires about 5x as much code to write a compiler that gives useful error messages, because you structure it differently when you need to retain state and history. This applies to most tools programming as well!" / Twitter]
+
+Personnellement, j'aime beaucoup avoir un code qui m'envoie des messages d'erreur aussi explicites que possibles, parce que c'est un investissement.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco 🇺🇳🇪🇺 on Twitter: "To recap, software developers spent decades discussing stuff like "vim vs. emacs", but there are some of us who don't want twitts on politics because it's "too divisive" 😂 If you want to unfollow me for politics, let me at least give you a good reason: I mix spaces & tabs… https://t.co/yrJ2as3bqY"
+:jbake-tags: programming,politique,_mois_déc.,_année_2018
+:jbake-date: 2018-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1544429268000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F1071849403441405954&searchtags=programming+politique+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/1071849403441405954[Mario Fusco 🇺🇳🇪🇺 on Twitter: "To recap, software developers spent decades discussing stuff like "vim vs. emacs", but there are some of us who don't want twitts on politics because it's "too divisive" 😂 If you want to unfollow me for politics, let me at least give you a good reason: I mix spaces & tabs… https://t.co/yrJ2as3bqY"]
+
+Les développeurs qui ne comprennent pas l'impact politique de leurs décisions devraient réfléchir un peu plus sérieusement au sens de leur travail

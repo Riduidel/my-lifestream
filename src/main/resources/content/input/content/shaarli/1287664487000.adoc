@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome to Apache Forrest
+:jbake-tags: documentation,framework,html,java,software,lifestream,_mois_oct.,_année_2010
+:jbake-date: 2010-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1287664487000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforrest.apache.org%2F&searchtags=documentation+framework+html+java+software+lifestream+_mois_oct.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://forrest.apache.org/[Welcome to Apache Forrest]
+
+Ah tiens, ça ressemblerait quasiment à un équivalent de webgen dans le supermonde Java

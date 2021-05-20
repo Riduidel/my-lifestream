@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paolo Bacigalupi
+:jbake-tags: author
+:jbake-date: 2013-07-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1226977.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1375566282p5/1226977.jpg
+:jbake-source: https://www.goodreads.com/author/show/1226977
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290032664.html[La Fille automate]
+* link:../books/9782290085769.html[Ferrailleurs des mers]

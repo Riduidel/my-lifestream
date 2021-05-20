@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: adaptive path » ajax: a new approach to web applications
+:jbake-tags: web,documentation,concepts,_mois_févr.,_année_2005
+:jbake-date: 2005-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1109170216000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.adaptivepath.com%2Fpublications%2Fessays%2Farchives%2F000385.php&searchtags=web+documentation+concepts+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.adaptivepath.com/publications/essays/archives/000385.php[adaptive path » ajax: a new approach to web applications]
+
+Good article on Asynchronous JavaScript + XML (JavaScript, XmlHttpRequest, DOM, XHTML etc.)

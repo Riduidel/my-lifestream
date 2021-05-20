@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: All About Agile: How To Implement Scrum In 10 Easy Steps
+:jbake-tags: article,développement,programming,reference,software,agile,scrum,_mois_avr.,_année_2008
+:jbake-date: 2008-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1207657028000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkw-agiledevelopment.blogspot.com%2F2007%2F09%2Fhow-to-implement-scrum-in-10-easy-steps.html&searchtags=article+d%C3%A9veloppement+programming+reference+software+agile+scrum+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://kw-agiledevelopment.blogspot.com/2007/09/how-to-implement-scrum-in-10-easy-steps.html[All About Agile: How To Implement Scrum In 10 Easy Steps]
+
+Une liste de trucs bien pratiques pour implémenter correctement scrum.

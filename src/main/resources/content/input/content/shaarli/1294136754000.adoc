@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: enunciate
+:jbake-tags: java,framework,api,web,rest,_mois_janv.,_année_2011
+:jbake-date: 2011-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1294136754000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fenunciate.webcohesion.com%2F&searchtags=java+framework+api+web+rest+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://enunciate.webcohesion.com/[enunciate]
+
+Un outil qui, à première vue, semble génial pour générer de multiples APIs clientes connectées à un même code serveur, en n'écrivant d'ailleurs que le serveur. Et en bonus, toute la documentation est générée automatiquement !

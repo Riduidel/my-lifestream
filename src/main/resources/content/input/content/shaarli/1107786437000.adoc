@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les-Mathematiques.net - Cours de mathématiques supérieures
+:jbake-tags: culture,mathématiques,prépa,_mois_févr.,_année_2005
+:jbake-date: 2005-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1107786437000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.les-mathematiques.net%2F&searchtags=culture+math%C3%A9matiques+pr%C3%A9pa+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.les-mathematiques.net/[Les-Mathematiques.net - Cours de mathématiques supérieures]
+
+Des cours de Mathématiques niveau universitaire.Ce site est un lieu de rencontre pour ceux qui étudient et qui aiment les Mathématiques. Le forum permet à chacun de soumettre ses questions.

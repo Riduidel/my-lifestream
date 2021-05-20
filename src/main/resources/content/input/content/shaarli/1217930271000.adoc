@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FileHamster
+:jbake-tags: software,freeware,utilities,backup,_mois_août,_année_2008
+:jbake-date: 2008-08-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1217930271000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mogware.com%2FFileHamster%2F&searchtags=software+freeware+utilities+backup+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.mogware.com/FileHamster/[FileHamster]
+
+Un outil de création d'historique automatisé. C'est à mon sens un très bon premier pas vers le backup total, mais ca risque de mettre monj serveur de stockage à genoux.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mastodon.social/@emilyhorsman on Twitter: "Yesterday my prof said you could use a ternary expression as the LHS of an assignment in C++. I was super skeptical. I was wrong 😅 why this yes this is what you think it is… https://t.co/GJmDiRpYpb"
+:jbake-tags: citation,programming,langage,_mois_sept.,_année_2018
+:jbake-date: 2018-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1536516792000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Femilymhorsman%2Fstatus%2F1037499651925127168&searchtags=citation+programming+langage+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/emilymhorsman/status/1037499651925127168[mastodon.social/@emilyhorsman on Twitter: "Yesterday my prof said you could use a ternary expression as the LHS of an assignment in C++. I was super skeptical. I was wrong 😅 why this yes this is what you think it is… https://t.co/GJmDiRpYpb"]
+
+Ohlala, cette syntaxe C++ ... Heureusement que ça ne marche pas dans d'autres langages, parce que c'est vraiment ignoble.

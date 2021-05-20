@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dev47Apps
+:jbake-tags: webcam,virtuel,windows,périphérique,system,_mois_nov.,_année_2020
+:jbake-date: 2020-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1605898048000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.dev47apps.com%2F&searchtags=webcam+virtuel+windows+p%C3%A9riph%C3%A9rique+system+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.dev47apps.com/[Dev47Apps]
+
+Plutôt que le plugin OBS, je vais utiliser cette vraie webcam qui me permet d'utiliser facilement mon téléphone dans n'importe quelle application.

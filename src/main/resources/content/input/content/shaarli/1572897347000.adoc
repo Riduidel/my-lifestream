@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VisArch sur Twitter : "We let modeling fall out of practice. We need to use UML, or UMLish, or C4 plus UMLish, and/or ad hoc sketches. Get ideas out of our heads where we can see what we’re thinking..."
+:jbake-tags: uml,documentation,plantuml,méthode,architecture,_mois_nov.,_année_2019
+:jbake-date: 2019-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1572897347000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fruthmalan%2Fstatus%2F1121284512711872512&searchtags=uml+documentation+plantuml+m%C3%A9thode+architecture+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ruthmalan/status/1121284512711872512[VisArch sur Twitter : "We let modeling fall out of practice. We need to use UML, or UMLish, or C4 plus UMLish, and/or ad hoc sketches. Get ideas out of our heads where we can see what we’re thinking..."]
+
+Complètement d'accord, c'est pour ça que j'ai maintenant ma méthode d'architecture vachement pratique, et il va falloir que j'en parle ... plus.

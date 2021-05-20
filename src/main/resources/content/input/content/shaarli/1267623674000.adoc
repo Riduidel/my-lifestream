@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Achievements
+:jbake-tags: fun,jeu,geek,python,junit,hudson,@toblog,@todo,_mois_mars,_année_2010
+:jbake-date: 2010-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1267623674000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fexogen.github.com%2Fnose-achievements%2F&searchtags=fun+jeu+geek+python+junit+hudson+%40toblog+%40todo+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://exogen.github.com/nose-achievements/[Achievements]
+
+Wow, faudrait faire une version pour jUnit/Hudson

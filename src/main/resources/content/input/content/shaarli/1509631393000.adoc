@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Standard_init_linux.go:175 exec user process caused no such file - General Discussions - Docker Forums
+:jbake-tags: programming,culture,erreur,_mois_nov.,_année_2017
+:jbake-date: 2017-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1509631393000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fforums.docker.com%2Ft%2Fstandard-init-linux-go-175-exec-user-process-caused-no-such-file%2F20025%2F3&searchtags=programming+culture+erreur+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://forums.docker.com/t/standard-init-linux-go-175-exec-user-process-caused-no-such-file/20025/3[Standard_init_linux.go:175 exec user process caused no such file - General Discussions - Docker Forums]
+
+Un jour, je ferais bouffer aux linuxiens élitistes leurs manies de merde, comme par exemple de ne pas être putain de foutus de traiter le CRLF avec un message d'erreur correct

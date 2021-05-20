@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: haltakov/natural-language-youtube-search: Search inside YouTube videos using natural language
+:jbake-tags: ia,youtube,search-engine,open-source,neural,networking,_mois_févr.,_année_2021
+:jbake-date: 2021-02-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1614511196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fhaltakov%2Fnatural-language-youtube-search&searchtags=ia+youtube+search-engine+open-source+neural+networking+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/haltakov/natural-language-youtube-search[haltakov/natural-language-youtube-search: Search inside YouTube videos using natural language]
+
+Alors ça c'est intéressant, et ça pourrait être utile à beaucoup de monde : un outil qui permet de chercher des vidéos Youtube qui contiennent "certains trucs".

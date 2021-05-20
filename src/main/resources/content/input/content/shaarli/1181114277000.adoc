@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: COLOURlovers :: Palettes
+:jbake-tags: couleur,css,design,développement,graphics,web,_mois_juin,_année_2007
+:jbake-date: 2007-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1181114277000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.colourlovers.com%2Fpalettes%2Ftop&searchtags=couleur+css+design+d%C3%A9veloppement+graphics+web+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.colourlovers.com/palettes/top[COLOURlovers :: Palettes]
+
+De très belles palettes de couleurs, utilisables sur n'importe quel site (ou application)

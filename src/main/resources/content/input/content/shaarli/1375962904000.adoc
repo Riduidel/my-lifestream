@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chrome and passwords
+:jbake-tags: sécurité,software,browser,password,_mois_août,_année_2013
+:jbake-date: 2013-08-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1375962904000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbeust.com%2Fweblog%2F2013%2F08%2F07%2Fchrome-and-passwords%2F&searchtags=s%C3%A9curit%C3%A9+software+browser+password+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://beust.com/weblog/2013/08/07/chrome-and-passwords/[Chrome and passwords]
+
+Ca me fait penser que mon KeePass n'est pas configuré pour se refermer après un délai configuré, ni d'ailleurs ma session Windows. Pas bien.

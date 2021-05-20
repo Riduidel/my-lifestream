@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'extension vidéo via UPnP ?
+:jbake-tags: écran,réseau,upnp,windows,_mois_juin,_année_2014
+:jbake-date: 2014-06-18
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/06/18/lextension-video-via-upnp.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/06/18/lextension-video-via-upnp/
+:jbake-style: wordpress
+
+++++
+<p>
+Depuis longtemps, je trouve les écrans dont je dispose trop petits. C'est maladif chez moi. Par exemple, au bureau, j'ai deux écrans Full HD, eh bien ça n'est pas assez (à ma décharge, je dois y lancer Eclipse, Flash Builder, Indesign, et quelques autres gros consomateurs d'esapce).
+</p>
+<p>
+A la maison, c'est encore pire : mon beau tout-en-un n'a (contrairement à un chouette <a href="http://www.rueducommerce.fr/Ordinateurs/PC/PC-de-bureau-Grand-Public/MSI/4918886-Ordinateur-Tout-en-un-23-6-Full-HD-AG240-Processeur-Intel-Core-i7-4700HQ-RAM-8-Go-HDD-1000-Go-SSD-128-Go-Carte-graphique-NVIDIA-GeForce-GTX-860M-2Go-DVD-FREE-DOS.htm#moid:MO-36B9FM30572164">modèle MSI</a> très récent) ni entrée ni sortie HDMI et est donc une île de vidéo au milieu d'un beau mur blanc. Or j'adorerais pouvoir balancer son image sur la télé ou ailleurs.
+</p>
+<p>
+Oh, ne croyez pas que je n'ai pas cherché. je sais par exemple que <a href="http://www.zoneos.com/zonescreen.htm">ZoneScreen </a>permet d'abuser VNC pour étendre un bureau sur une machine voisine. Mais la solution me semble un peu crapuleuse. Et en plus il n'est rgatuit que pour une utilisation domestique. Et il faut un logiciel sur le serveur (celui qui porte le clavier) et sur le client (celui qui reçoit l'image).
+</p>
+<p>
+Bon, mes réflexions étaient un peu coincées, quand j'ai lu cet article de Lifehacker expliquant que DLNA/UPnP, c'est la meilleure solution pour qui veut dupliquer l'affichage de son smartphone.
+</p>
+<p>
+Et là, j'ai eu un flash !
+</p>
+<p>
+Je me suis dit que, si le mec de ZoneScreen était capable d'écrire un driver Windows envoyant l'image à travers VNC, pourquoi ne pas faire un driver envoyant l'image vers un lecteur UPnP ?
+</p>
+<p>
+Evidement, je croyais que c'était une idée originale ... <a href="http://realmike.org/blog/2011/02/09/live-desktop-streaming-via-dlna-on-gnulinux/">pauvre </a><a href="http://superuser.com/q/377387/30716">fou </a><a href="http://blogs.windows.com/windows/b/windowsexperience/archive/2013/11/12/windows-8-1-on-your-big-screen-with-miracast.aspx">que </a><a href="http://forums.macrumors.com/showthread.php?t=1366181">j'étais</a>.
+</p>
+<p>
+Cela dit, je note bien qu'aucun de ces sites ne détient de réponse claire, alors qu'il me semble qu'en aprtant du code de ZoneScreen, il soit possible d'écrire "le bon driver" : celui qui, quand un novueau client UPnP s'y connecte, crée un écran plug'n'play virtuel des bonnes dimensions pour y afficher du contenu provenant de la machine source.
+</p>
+<p>
+Enfin bon, il faudrait pour ça que j'écrire un driver Windows ... ce qui n'est pas actuellement dans mes cordes.
+</p>
+++++

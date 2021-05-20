@@ -1,0 +1,49 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - mon appli est secure ... je crois
+:jbake-tags: java,sécurité,web,_mois_avr.,_année_2016
+:jbake-date: 2016-04-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-mon-appli-est-secure-je-crois.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-mon-appli-est-secure-je-crois/
+:jbake-style: wordpress
+
+++++
+<p>
+Allez c'est parti pour un peu de sécurité, enfin ... je crois. Donc petit retour d'expérience sur la sécurité. Ou plus exactement sur les projets où on gère la sécurité à la fin.
+</p>
+<p>
+Les MOA, les chefs de projet, ils ne parlent pas de la sécurité, parce que pour eux, ça n'est pas la sécurité.
+</p>
+<p>
+Donc dans votre appli, vous mettez des trucs qui servent à rien : Spring security, OAuth, et même un WAF (web application firewall ... genre f5, quoi).
+</p>
+<p>
+Et comme ça arrive en fin du projet, même les simples bugs sont critiques et toute l'équipe a l'air nulle.
+</p>
+<p>
+La sécurité, plus on s'approche des données, plus c'est fonctionnel, plus on s'éloigne, plus c'est technique.
+</p>
+<p>
+On pourrait lire tous les bouquins de l'OWASP et comprendre ce qu'ils font, ou on pourrait ... contrôler et valider que ça marche bien (autrement dit faire des tests).
+</p>
+<p>
+Et donc, ils ont développé une application (highway to URLHell) qui montre tous les points d'accès de l'application. Et rien que ça, c'est déja très chouette.
+</p>
+<p>
+Et là, on a une belle liste de boulettes :
+<br/>
+deleteAll accessible par 'importe quel user
+<br/>
+dump de la base accessible
+<br/>
+Opérations crud non protégées entre users (donc appel aux delete d'autres entrées)
+</p>
+<p>
+ca attaque quand même assez fort en termes de liens entre authentification et autorisation.
+</p>
+<p>
+Clairement, leur outil H2H est une super idée pour identifier le périmètre d'attaque d'une application. Et je vais sans doute le tester assez prochainement.
+</p>
+++++

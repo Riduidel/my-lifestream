@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Billets de Lilian - Comment récupérer le type MIME des fichiers ?
+:jbake-tags: java,type,mime,programming,library,api,_mois_janv.,_année_2021
+:jbake-date: 2021-01-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1611582493000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.lilian-benoit.fr%2F2021%2F01%2FRecuperer-le-type-des-fichiers.html&searchtags=java+type+mime+programming+library+api+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.lilian-benoit.fr/2021/01/Recuperer-le-type-des-fichiers.html[Billets de Lilian - Comment récupérer le type MIME des fichiers ?]
+
+Wow, je connaissais la détection avec Tika, mais pas celle avec Java, et encore moins l'adaptateur permettant d'utiliser la méthode du JDK avec la puissance de Tika

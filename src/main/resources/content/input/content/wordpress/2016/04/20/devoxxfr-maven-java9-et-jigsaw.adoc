@@ -1,0 +1,50 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Maven, Java9 et Jigsaw
+:jbake-tags: devoxx,informatique,java,maven,_mois_avr.,_année_2016
+:jbake-date: 2016-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/20/devoxxfr-maven-java9-et-jigsaw.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/20/devoxxfr-maven-java9-et-jigsaw/
+:jbake-style: wordpress
+
+++++
+<p>
+Après le gentil JGiven, on passe au film d'horreur modulaire. Coup de bol, Rémi Forax m'a donné quelques clés pour comprendre l'histoire (ça fait vraiment trop people de sortir des phrases comme ça).
+</p>
+<p>
+https://speakerdeck.com/aheritier/fr-apache-maven-java-9-et-le-projet-jigsaw-at-devoxx-france-2016
+</p>
+<p>
+Java6 est mort, Java7 est mourant, tout comme maven2 ...
+<br/>
+Et Java9 commence à faire du Jigsaw (visible danbs le build java9 depuis le début du mois).
+</p>
+<p>
+Actuellement, un build simple avec le dernier JDK 9 fonctionne avec maven. Et même la création d'un JAR fonctionne. Par contre, générer un JAR de javadoc ne fonctionne pas du tout.
+</p>
+<p>
+Et donc, clairement, maven marche en java9. MAIS certains plugins devront évoluer (jar, javadoc, ...). Mais heureusement, il y a une page dans le wiki de Maven qui liste les versions minimales et toutes les informations associées.
+</p>
+<p>
+Juste en passant, le build de maven ne dure qu'une minute. C'est rapide !
+</p>
+<p>
+Une fois qu'on ajoute des modules dans le code, il faut une version récente du maven-compiler-plugin pour supporte Jigsaw. Parce que l'équipe Maven l'a déja corrigé.
+<br/>
+Et une fois que ça compile ... on teste. Mais là, Surefire ne gère pas encore les modules, et du coup les tests s'exécutent en-dehors des modules. C'est moins bien, mais c'est déja ça.
+</p>
+<p>
+Mais globalement, tant qu'on ne joue pas à builder de l'OSGi/Jigsaw, tout à l'air bien facile à faire.
+</p>
+<p>
+Et maintenant, chez Maven, on essaye de modulariser. Mais c'est moins facile, puisqu'il faut nettoyer tous les arrangements faits avec le passé (plusieurs modules qui utilisent le même package, par exemple).
+</p>
+<p>
+Bon, et maintenant, le morceau compliqué des multi-releases jars : des jars buildables avec plusieurs versions. Ca sera implémenté (joliment, je trouve) avec un projet multi-module : un module basique, et un module par version de Java séparée, et enfin un assembly. ca fait vraiment bien sens, je trouve.
+</p>
+<p>
+Et lors de la compilation, Hervé nous rappelle qu'il faut utiliser le toolchain maven, pour garantir que le bon compilateur est utilisé.
+</p>
+++++

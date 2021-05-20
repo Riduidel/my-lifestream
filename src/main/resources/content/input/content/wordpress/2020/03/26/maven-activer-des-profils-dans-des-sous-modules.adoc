@@ -1,0 +1,89 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [maven] Activer des profils dans des sous-modules
+:jbake-tags: _mois_mars,_année_2020
+:jbake-date: 2020-03-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/03/26/maven-activer-des-profils-dans-des-sous-modules.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/03/26/maven-activer-des-profils-dans-des-sous-modules/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Quand vous utilisez <a href="https://maven.apache.org/">Maven</a>, généralement, vous faites un build simple et vous êtes contents (et vous avez raison). Et puis à un moment, vous vous dites que vous allez faire un <a href="https://maven.apache.org/guides/mini/guide-multiple-modules.html">build multi-module</a>. Concrètement à ce que vous pouvez lire ici ou là, ça n'est pas une mauvaise idée. C'est juste un peu plus compliqué. Mais ça n'est pas de ça que je veux vous parler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce dont je veux vous parler, c'est du moment où vous allez tenter de définir un profile dans un pom parent pour qu'il ne soit activé que dans un pom enfant. Vous allez lire la doc, et vous allez vous rendre compte qu'on peut activer un profil dans un nombre limité de cas. Et l'activer selon la valeur d'une propriété <a href="https://stackoverflow.com/a/5676534/15619">n'en fait pas partie</a>. Alors comment faire quelque chose qui n'est pas possible ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eh bien on va utiliser une "astuce". Plus exactement une combinaison astucieuse de deux éléments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, on peut toujours activer un profil si un fichier d'un nom donné existe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, première étape, créer un fichier avec un nom "bien connu" dans le sous-module dans lequel on veut activer le profil, et activer le profil selon le nom de ce fichier. Comme ça par exemple :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">&#60;profile&#62;
+	&#60;id&#62;generate-architecture-diagrams&#60;/id&#62;
+	&#60;activation&#62;
+		&#60;file&#62;
+			&#60;exists&#62;generates.architecture.diagrams&#60;/exists&#62;
+		&#60;/file&#62;
+	&#60;/activation&#62;
+</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Bon, du coup, vous vous retrouvez avec tout un tas de fichiers vides dans vos modules, et ça n'est aps vraiment sexy. Par contre, ces fichiers correspondent aux différents profils que vous voulez activer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais typiquement, dans ces profils, vous allez avoir besoin de configuration spécifique. Typiquement des dossiers d'entrée/sortie, des noms de classse, ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et ce serait vachement bien si vous pouviez utiliser ces fichiers pour stocker des propriétés de build, par exemple, non ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Coup de bol, vous pouvez, avec le <a href="https://www.mojohaus.org/properties-maven-plugin/">properties-maven-plugin</a> ! Regardez :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">&#60;plugin&#62;
+	&#60;groupId&#62;org.codehaus.mojo&#60;/groupId&#62;
+	&#60;artifactId&#62;properties-maven-plugin&#60;/artifactId&#62;
+	&#60;executions&#62;
+		&#60;execution&#62;
+			&#60;phase&#62;generate-resources&#60;/phase&#62;
+			&#60;id&#62;read architecture diagrams generation properties&#60;/id&#62;
+			&#60;goals&#62;
+				&#60;goal&#62;read-project-properties&#60;/goal&#62;
+			&#60;/goals&#62;
+			&#60;configuration&#62;
+				&#60;files&#62;
+					&#60;file&#62;generates.architecture.diagrams&#60;/file&#62;
+				&#60;/files&#62;
+			&#60;/configuration&#62;
+		&#60;/execution&#62;
+	&#60;/executions&#62;
+&#60;/plugin&#62;
+</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Et là, vous pourrez mettre le contenu spécifique à cette utilisation du profil dans votre fichier de configuration, et l'utiliser tranquillement dans votre build.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors évidement, ça rajoute du contenu, et tout le monde vous dira qu'avec la verbosité de maven, c'est juste l'enfer. Je ne suis pas vraiment d'accord. Enfin, si, c'est effectivement verbeux. Mais quand même, quand vous faites des multis-modules un peu gros, c'est pratique.</p>
+<!-- /wp:paragraph -->
+++++

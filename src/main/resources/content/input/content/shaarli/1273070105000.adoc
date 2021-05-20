@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HyperSpin-FE - Welcome to the Frontpage
+:jbake-tags: emulator,jeu,gui,software,frontend,freeware,_mois_mai,_année_2010
+:jbake-date: 2010-05-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1273070105000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hyperspin-fe.com%2F&searchtags=emulator+jeu+gui+software+frontend+freeware+_mois_mai+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.hyperspin-fe.com/[HyperSpin-FE - Welcome to the Frontpage]
+
+Un menu pour lancer tout un tas d'émulateurs. Est-ce que ça ne vaudrait pas mieux que XBMC comme lanceur de jeux ? Je m'interroge ...

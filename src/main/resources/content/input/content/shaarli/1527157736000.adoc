@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Immersive Math
+:jbake-tags: mathématiques,web,tutorial,_mois_mai,_année_2018
+:jbake-date: 2018-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1527157736000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fimmersivemath.com%2Fila%2Findex.html&searchtags=math%C3%A9matiques+web+tutorial+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://immersivemath.com/ila/index.html[Immersive Math]
+
+Enfin des maths expliqués de façon moderne !

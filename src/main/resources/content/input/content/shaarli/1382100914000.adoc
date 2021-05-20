@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fuck Off As A Service (FOAAS)
+:jbake-tags: rest,web-service,humour,_mois_oct.,_année_2013
+:jbake-date: 2013-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1382100914000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffoaas.com%2F&searchtags=rest+web-service+humour+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://foaas.com/[Fuck Off As A Service (FOAAS)]
+
+Alors ça c'est du bon web-service REST !

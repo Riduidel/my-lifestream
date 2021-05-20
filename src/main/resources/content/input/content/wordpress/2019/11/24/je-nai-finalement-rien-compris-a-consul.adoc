@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je n'ai finalement rien compris à Consul
+:jbake-tags: architecture,consul,devops,microservices,_mois_nov.,_année_2019
+:jbake-date: 2019-11-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/11/24/je-nai-finalement-rien-compris-a-consul.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/11/24/je-nai-finalement-rien-compris-a-consul/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Depuis quelques temps, j'ai pris l'habitude de regarder des vidéos de conférence pendant ma séance hebdomadaire de repassage du dimanche matin. C'est cool, parce que je vois comme ça sans doute autant de conférences que ce que je vois "en live".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et cette semaine, j'ai regardé cette conférence sur Consul.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=aQb2_WrmED0","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=aQb2_WrmED0
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Et je vous la recommande si vous ne connaissez pas Consul.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais je vous la recommande aussi (et peut-être même surtout) si vous connaissez déja Consul. Je le dis d'autant plus franchement que c'est mon cas : j'ai mis en place une architecture à base de <a href="https://www.consul.io/">Consul </a>+ <a href="https://traefik.io/">Traefik </a>+ <a href="https://rancher.com/rancher-1-6/">Rancher </a>(+ le petit <a href="https://gliderlabs.com/registrator/latest/">Registrator</a>, qui m'a bien fait transpirer). Donc j'ai déja mis des services avec des healthchecks dans Consul. Et ça marche bien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par contre, je n'avais jamais pensé à mettre des métadonnées dans mes services (enfin, si, mais c'était uniquement pour traefik). Je n'avais en fait pas pensé que ces métadonnées pourraient être utilisées de façon générique pour, par exemple, mettre à jour un API Manager ou pour gérer des ACLs. De ce point de vue, j'ai pris une baffe terrible. Et en fait, cette baffe vient d'un truc que je n'avais pas vu : <code><a href="https://www.consul.io/docs/commands/watch.html">consul watch</a></code>. Avec cette commande, on peut notifier des services "techniques" qu'une nouvelle instance de service est apparue ou a disparu. Et c'est grâce à cette brique que le speaker déploie ces services complémentaires.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A ce sujet, il évoque même la possibilité de faire du load-balancing "intelligent", c'est-à-dire tenant compte de la charge des services. Mais j'ai bien noté qu'il n'enregistrait pas cette charge dans les métadonnées, ce que j'ai trouvé ... un peu dommage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>N'empêche, ça me donne de très chouettes idées (en lien avec mon travail actuel sur l'"architecture as code").</p>
+<!-- /wp:paragraph -->
+++++

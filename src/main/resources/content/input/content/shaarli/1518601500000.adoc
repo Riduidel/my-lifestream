@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I'll stand by my assertion that for 99% of users (maybe even 99.99%), Kubernetes... | Hacker News
+:jbake-tags: opinion,conteneur,devops,_mois_févr.,_année_2018
+:jbake-date: 2018-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1518601500000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D16332184&searchtags=opinion+conteneur+devops+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://news.ycombinator.com/item?id=16332184[I'll stand by my assertion that for 99% of users (maybe even 99.99%), Kubernetes... | Hacker News]
+
+"TLDR; containers as production app deployment artefacts have, in the medium and long term, caused more problems than they've solved for almost every case I've seen." Parfaitement d'accord. Les conteneurs sont un moyen à destination des ops, et pas un outil pour les devs.

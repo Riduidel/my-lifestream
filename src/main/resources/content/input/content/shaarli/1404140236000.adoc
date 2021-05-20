@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une carte de la foudre en temps réel
+:jbake-tags: carte,météo,nature,éclairs,crowdsourcing,_mois_juin,_année_2014
+:jbake-date: 2014-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1404140236000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fcarte-foudre-en-temps-reel%2F&searchtags=carte+m%C3%A9t%C3%A9o+nature+%C3%A9clairs+crowdsourcing+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/carte-foudre-en-temps-reel/[Une carte de la foudre en temps réel]
+
+Cette histoire de carte des éclairs, c'est encore bien plus classe avec les explications. Chapeau aux volontaires

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Addy Osmani on Twitter: "Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless."
+:jbake-tags: entreprise,communication,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514903073000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faddyosmani%2Fstatus%2F940121473955463168&searchtags=entreprise+communication+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/addyosmani/status/940121473955463168[Addy Osmani on Twitter: "Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless."]
+
+Et c'est pour ça que je suis chez Zenika, parce que les gens sont gentils. Et j'aime ça.

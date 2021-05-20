@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: USB Raptor / Wiki / Home
+:jbake-tags: usb,sécurité,windows,open-source,software,_mois_août,_année_2020
+:jbake-date: 2020-08-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1597936097000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsourceforge.net%2Fp%2Fusbraptor%2Fwiki%2FHome%2F&searchtags=usb+s%C3%A9curit%C3%A9+windows+open-source+software+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://sourceforge.net/p/usbraptor/wiki/Home/[USB Raptor / Wiki / Home]
+
+Ca faisait bien longtemps que je me disait qu'un truc comme ça serait une très bonne idée ... Je vais peut-être bien le tester.

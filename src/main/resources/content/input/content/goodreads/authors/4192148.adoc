@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James S.A. Corey
+:jbake-tags: author
+:jbake-date: 2015-08-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4192148.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1573162332p5/4192148.jpg
+:jbake-source: https://www.goodreads.com/author/show/4192148
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782330051129.html[L'Éveil du Léviathan]
+* link:../books/9782330064532.html[La Guerre de Caliban]
+* link:../books/9782330096991.html[La Porte d'Abaddon]
+* link:../books/9782330104177.html[Les Jeux de Némésis (The Expanse, #5)]
+* link:../books/9782330117160.html[Les Feux de Cibola (The Expanse, #4)]

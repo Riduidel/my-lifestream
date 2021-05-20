@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Taffy DB : A JavaScript database for your browser
+:jbake-tags: browser,database,javascript,library,web,webgen,_mois_mars,_année_2008
+:jbake-date: 2008-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1205224865000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftaffydb.com%2F&searchtags=browser+database+javascript+library+web+webgen+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://taffydb.com/[Taffy DB : A JavaScript database for your browser]
+
+J'ai une vague idée d'un motyen très javascriptesque d'implémenter les tags avec webgen. Mais pour çàa, il me faudra un lien entre les pages et leurs tags. Et peut-être qu'une base de données Javascript serait une bonne solution ...

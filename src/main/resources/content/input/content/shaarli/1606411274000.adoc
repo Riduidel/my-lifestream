@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java libraries I like – Eduards Sizovs
+:jbake-tags: java,open-source,library,list,_mois_nov.,_année_2020
+:jbake-date: 2020-11-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1606411274000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsizovs.net%2F2020%2F11%2F24%2Fjava-libraries-i-like%2F&searchtags=java+open-source+library+list+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://sizovs.net/2020/11/24/java-libraries-i-like/[Java libraries I like – Eduards Sizovs]
+
+Je vais prendre de relire ça, parce qu'il y a quelques librairies manifestement intéressantes là-dedans ...

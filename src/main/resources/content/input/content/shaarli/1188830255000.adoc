@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iPhoto2Gmail
+:jbake-tags: freeware,gmail,macosx,photographie,plugin,software,tool,utilities,backup,_mois_sept.,_année_2007
+:jbake-date: 2007-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1188830255000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fiphoto2gmail.notoptimal.net%2F&searchtags=freeware+gmail+macosx+photographie+plugin+software+tool+utilities+backup+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://iphoto2gmail.notoptimal.net/[iPhoto2Gmail]
+
+Eh ben là, pour le coup, c'est de la pure sauvegarde !

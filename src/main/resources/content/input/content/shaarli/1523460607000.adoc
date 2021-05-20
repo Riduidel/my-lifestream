@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [JavaSpecialists 251] - Collections.checkedCollection()
+:jbake-tags: java,programming,collection,compilateur,_mois_avr.,_année_2018
+:jbake-date: 2018-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1523460607000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.javaspecialists.eu%2Farchive%2FIssue251.html&searchtags=java+programming+collection+compilateur+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.javaspecialists.eu/archive/Issue251.html[[JavaSpecialists 251] - Collections.checkedCollection()]
+
+Alors ça, je ne connaissais pas. Ca ne sert à mon avis plus à grand chose avec les types génériques ... Mais c'est quand même sacrément cool.

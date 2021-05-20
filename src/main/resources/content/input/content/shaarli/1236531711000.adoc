@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DSM-G600, DNS-323 and TS-I300 Hack Forum / setup.sh script (and documenntation) to run ffp and mount root on USB
+:jbake-tags: usb,documentation,dns-323,tutorial,exemple,script,_mois_mars,_année_2009
+:jbake-date: 2009-03-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1236531711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforum.dsmg600.info%2Ft3203-setup.sh-script-%28and-documenntation%29-mount-root.html&searchtags=usb+documentation+dns-323+tutorial+exemple+script+_mois_mars+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://forum.dsmg600.info/t3203-setup.sh-script-(and-documenntation)-mount-root.html[DSM-G600, DNS-323 and TS-I300 Hack Forum / setup.sh script (and documenntation) to run ffp and mount root on USB]
+
+J'ai déja essayé un script de montage sur le disque USB, mais je crois que celui-ci est bien mieux documenté, et peut-être même plus puissant ....

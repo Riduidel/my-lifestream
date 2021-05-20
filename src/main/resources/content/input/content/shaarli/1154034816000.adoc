@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Targetware
+:jbake-tags: software,jeu,macosx,simulateur,windows,_mois_juil.,_année_2006
+:jbake-date: 2006-07-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1154034816000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.targetware.net%2Findex.php&searchtags=software+jeu+macosx+simulateur+windows+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.targetware.net/index.php[Targetware]
+
+Un simulateur de vol, apparement multiplateforme, et pour l'instant en beta gratuite. Pourvu qu'il y ait un mode manchot !

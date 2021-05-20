@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: openVALIDATION - create validation rules with natural language.
+:jbake-tags: validation,langage,programming,_mois_oct.,_année_2019
+:jbake-date: 2019-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1570474280000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fopenvalidation.io%2F&searchtags=validation+langage+programming+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://openvalidation.io/[openVALIDATION - create validation rules with natural language.]
+
+Dites donc, ce truc ressemble bien à du Cucumber bien fait, non ? Et en plus intégrable dans OpenAPI ... Il va falloir tester ça !

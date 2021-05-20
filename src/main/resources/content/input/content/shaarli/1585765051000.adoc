@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wardleymaps – Medium
+:jbake-tags: carte,stratégie,entreprise,organisation,documentation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1585765051000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fwardleymaps&searchtags=carte+strat%C3%A9gie+entreprise+organisation+documentation+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/wardleymaps[wardleymaps – Medium]
+
+Et paf, le livre complet mis en lien dans l'article d'introduction aux cartes de Wardley

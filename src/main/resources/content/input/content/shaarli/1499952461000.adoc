@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mxgmn/WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
+:jbake-tags: ia,layout,library,graphics,générateur,_mois_juil.,_année_2017
+:jbake-date: 2017-07-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1499952461000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmxgmn%2FWaveFunctionCollapse&searchtags=ia+layout+library+graphics+g%C3%A9n%C3%A9rateur+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/mxgmn/WaveFunctionCollapse[mxgmn/WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.]
+
+Le nom est très cool, les démos particulièrement impressionnantes, et j'ai la sensation que ça ferait de très bon algorithmes de pathfinding

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: del.icio.us tag stemmer
+:jbake-tags: web,delicious,_mois_janv.,_année_2005
+:jbake-date: 2005-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1107167324000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hackdiary.com%2Fstemtags%2F%3Fuser%3Driduidel&searchtags=web+delicious+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.hackdiary.com/stemtags/?user=riduidel[del.icio.us tag stemmer]
+
+This page uses Porter stemming to show where you've made different del.icio.us tags with the same English word stem. You can use it to help clean up your personal fauxonomy.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nextion LCD Display tutorial
+:jbake-tags: webradio,écran,programming,iot,_mois_juin,_année_2019
+:jbake-date: 2019-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1560182726000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcityos.io%2Ftutorial%2F1917%2FNextion-LCD-Display-tutorial&searchtags=webradio+%C3%A9cran+programming+iot+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://cityos.io/tutorial/1917/Nextion-LCD-Display-tutorial[Nextion LCD Display tutorial]
+
+Oula, il semble bien que je doive coder un peu plus que ce que je croyais initialement ... Mais j'y arriverai ... Un jour !

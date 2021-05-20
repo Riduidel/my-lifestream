@@ -1,0 +1,45 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Encore un peu de wisdom ?
+:jbake-tags: java,javascript,web,wisdom,_mois_juin,_année_2014
+:jbake-date: 2014-06-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/06/27/encore-un-peu-de-wisdom.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/06/27/encore-un-peu-de-wisdom/
+:jbake-style: wordpress
+
+++++
+<p>
+Ben oui, après le message de <a title="Un peu de wisdom, ça fera du bien" href="http://riduidel.wordpress.com/2014/06/20/un-peu-de-wisdom-ca-fera-du-bien/">la semaine dernière</a>, vous ne vous attendiez tout de même pas à ce que ça s'arrête aussi vite ! Surtout que l'équipe de wisdom a sorti une <a href="http://wisdom-framework.org/releases">version 0.6</a> (ce serait d'ailleurs bien d'avoir une page différente par release, parce que là, c'est pas super pratique), que je me suis empressé d'installer, et qui fournit un monitor que je trouve très bien (surtout parce qu'il liste les routes utilisables).
+</p>
+<p>
+Donc, j'ai mis à jour, j'ai lancé mon application, toujours sur les traces du tutorial angular, et je suis passé à la page où <a href="https://docs.angularjs.org/tutorial/step_02">on ajoute du javascript</a>. Et j'ai remarqué plusieurs choses ...
+</p>
+<p>
+D'abord, évidement, que je pouvais appeler angular avec la bonne déclaration HTML :
+<br/>
+<pre>&#60;script src="/libs/angular.js"/&#62;</pre>
+<br/>
+Ensuite, et ça n'est pas évident pour moi, les tests Java ne sont pas relancés quand on redéploie l'application. J'ai bien l'impression que si l'équipe de wisdom regardait ce que fait par exemple <a href="http://infinitest.github.io/">Infinitest</a> (je dis infinitest, mais je crois qu'il y a au moins un autre outil de test du même style. Sinon, <a href="https://github.com/ronmamo/reflections">reflections</a> doit être capable de trouver les références à une classe Java dans tout un projet, je pense), ils pourraient facilement exécuter les tests "intéressants" au redéploiement.
+</p>
+<p>
+Dans le même ordre d'idées, je sais bien que wisdom encapsule une instance node. Donc, quand angular me dit de faire un test Javascript, j'imagine que je dois pouvoir le faire quelque part ... mais où ? La doc de wisdom ne me semble pas indiquer ça. Tiens, et ils annoncent en bonus
+<br/>
+<blockquote>
+<br/>
+<p class="ng-scope">Angular developers prefer the syntax of Jasmine's Behavior-driven Development (BDD) framework when writing tests. Although Angular does not require you to use Jasmine, we wrote all of the tests in this tutorial in Jasmine v1.3. You can learn about Jasmine on the <a href="http://jasmine.github.io/">Jasmine home page</a> and at the <a href="http://jasmine.github.io/1.3/introduction.html">Jasmine docs</a>.</p>
+<br/>
+<p class="ng-scope">The angular-seed project is pre-configured to run unit tests using <a href="http://karma-runner.github.io/">Karma</a> but you will need to ensure that Karma and its necessary plugins are installed. You can do this by running <code><span class="pln">npm install</span></code>.</p>
+<br/>
+</blockquote>
+<br/>
+OK, mais moi, dans mon projet, je n'ai pas de dépendance qui s'appelle karma ou Jasmine. j'imagine donc qu'il s'agit plus ou moins d'une forme de webjar ... Ah, oui, jasmine est un webjar. Mais karma ? D'après la doc, il semble que je doive <a href="http://localhost:9000/assets/index.html#_using_npm">développer une extension de watcher</a> (ou tout au moins un mojo) pour pouvoir l'utilser ... C'est pas un peu beaucoup, là ?
+</p>
+<p>
+J'imagine que je vais pouvoir commencer une FAQ officieuse pour wisdom avec toutes les réponses que je glane en les tanant par mail :-)
+</p>
+<p>
+Bon, c'est assez de frustration pour aujourd'hui, je crois :-) Ce qu'il faut toutefois comprendre, c'est qu'il s'agit de frustrations somme toute mineures : je pourrais tout à fait faire une application pure Java, avec des pages HTML statiques. Là, je me complique un peu la vie parce que je creuse les détails de l'intégration client/serveur. Et je suis quand même franchement admiratif du boulot fourni sur Wisdom. J'imagine que je peux dire "à la semaine prochaine pour un autre épisode".
+</p>
+++++

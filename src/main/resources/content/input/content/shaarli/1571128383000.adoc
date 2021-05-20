@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jwilber/roughViz: Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.
+:jbake-tags: javascript,dessin,graph,library,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571128383000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjwilber%2FroughViz&searchtags=javascript+dessin+graph+library+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/jwilber/roughViz[jwilber/roughViz: Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser.]
+
+Oh, c'est très chouette ! J'adore l'idée de faire des diagrammes vaguement griffonés

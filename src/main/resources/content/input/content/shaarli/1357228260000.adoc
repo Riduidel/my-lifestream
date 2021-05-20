@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenTTD - BaNaNaS
+:jbake-tags: simulation,extension,jeu,openttd,_mois_janv.,_année_2013
+:jbake-date: 2013-01-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1357228260000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbananas.openttd.org%2Fen%2F&searchtags=simulation+extension+jeu+openttd+_mois_janv.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://bananas.openttd.org/en/[OpenTTD - BaNaNaS]
+
+Ah, j'ai enfin trouvé des IAs contre qui tenter de construire des réseaux ferrés (parce que tout seul, ça tourne en rond au bout d'un moment).

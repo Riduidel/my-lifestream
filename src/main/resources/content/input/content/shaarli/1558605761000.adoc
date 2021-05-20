@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une version Kotlin d'une solution vachement chouette au problème classique des nombres arabes exprimés avec des chiffres romains
+:jbake-tags: kotlin,programming,kata,exemple,_mois_mai,_année_2019
+:jbake-date: 2019-05-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1558605761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2FRiduidel%2F36368eabf59f8cfb7d415dbe772d434a&searchtags=kotlin+programming+kata+exemple+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://gist.github.com/Riduidel/36368eabf59f8cfb7d415dbe772d434a[Une version Kotlin d'une solution vachement chouette au problème classique des nombres arabes exprimés avec des chiffres romains]
+
+C'est pas tous les jours que j'écris une solution qui mélange aussi bien le kotlin idiomatique et l'algorithme bien simplifié

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ShellCheck – Shell script analyzer
+:jbake-tags: linux,shell,compilateur,programming,_mois_janv.,_année_2016
+:jbake-date: 2016-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1454070878000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.shellcheck.net%2F&searchtags=linux+shell+compilateur+programming+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.shellcheck.net/[ShellCheck – Shell script analyzer]
+
+Bonne idée : un analyseur de script shell qui affiche bien les erreurs avec leur ligne !

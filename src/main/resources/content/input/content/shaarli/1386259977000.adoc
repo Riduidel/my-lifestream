@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shots Of Science | Un shot de science à 90° par jour
+:jbake-tags: science,photographie,_mois_déc.,_année_2013
+:jbake-date: 2013-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1386259977000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fshotsofscience.com%2Ffr%2F&searchtags=science+photographie+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://shotsofscience.com/fr/[Shots Of Science | Un shot de science à 90° par jour]
+
+Un site de photos de sciences avec des infos surprenantes. C'est juste dommage qu'il n'y ait pas de flux RSS pour les récupérer directement dans KrissFeed ... Via http://www.podcastscience.fm/emission/2013/11/18/podcast-science-151-le-phenotype-etendu/

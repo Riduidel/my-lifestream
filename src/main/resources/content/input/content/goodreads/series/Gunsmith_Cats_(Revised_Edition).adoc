@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gunsmith Cats (Revised Edition)
+:jbake-tags: serie
+:jbake-date: 2010-07-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Gunsmith_Cats_(Revised_Edition).adoc
+:jbake-source: https://www.goodreads.com/series/84547
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9781593077488.html[Gunsmith Cats: Volume 1]
+* link:../books/9781593077686.html[Gunsmith Cats Omnibus, Volume 2]

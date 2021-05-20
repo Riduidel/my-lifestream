@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mac Crack Attack!
+:jbake-tags: software,freeware,open-source,macosx,jeu,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110904891000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcrackattack.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+jeu+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://crackattack.sourceforge.net/[Mac Crack Attack!]
+
+Mac Crack Attack is a port of Crack Attack to the Mac OS X platform. Crack Attack is based on the Super Nintendo classic Tetris Attack. New in the mac version is sound, full-screen mode and some native Cocoa interfaces. Mac Crack Attack is a fast paced

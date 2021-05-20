@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HTTP Toolkit | Intercept, debug & build with HTTP
+:jbake-tags: software,windows,linux,macosx,réseau,http,debugger,_mois_janv.,_année_2019
+:jbake-date: 2019-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1547758802000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhttptoolkit.tech%2F&searchtags=software+windows+linux+macosx+r%C3%A9seau+http+debugger+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://httptoolkit.tech/[HTTP Toolkit | Intercept, debug & build with HTTP]
+
+C'est fou, on dirait un Fiddler ... mais pratique

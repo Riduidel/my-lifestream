@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Story Time : L'enfer du bug non-reproductible ! - Antichesse (o ^ω^ o)
+:jbake-tags: bug,fichier,nom,_mois_juin,_année_2020
+:jbake-date: 2020-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1591174974000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcakeozolives.com%2Fshaarli-antichesse%2F%3F_pazcA&searchtags=bug+fichier+nom+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://cakeozolives.com/shaarli-antichesse/?_pazcA[Story Time : L'enfer du bug non-reproductible ! - Antichesse (o ^ω^ o)]
+
+Ohlala, ces histoires de longueur de nom de fichier, c'est plus possible en 2020 ! Sérieusement, être limité à 143 caractères, ça fait fi de bien des usages !

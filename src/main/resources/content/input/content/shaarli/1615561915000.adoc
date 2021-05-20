@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Architecture No One Needs
+:jbake-tags: web,architecture,opinion,webdesign,_mois_mars,_année_2021
+:jbake-date: 2021-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1615561915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.gregnavis.com%2Farticles%2Fthe-architecture-no-one-needs.html&searchtags=web+architecture+opinion+webdesign+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.gregnavis.com/articles/the-architecture-no-one-needs.html[The Architecture No One Needs]
+
+Un avis aussi intéressant qu'iconoclaste sur les SPA

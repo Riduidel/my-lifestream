@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 🚨🚨 That's alot of YAML 🚨🚨
+:jbake-tags: yaml,programming,configuration,critique,_mois_mars,_année_2019
+:jbake-date: 2019-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1551815596000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnoyaml.com%2F&searchtags=yaml+programming+configuration+critique+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://noyaml.com/[🚨🚨 That's alot of YAML 🚨🚨]
+
+C'est bien ce site, c'est clair

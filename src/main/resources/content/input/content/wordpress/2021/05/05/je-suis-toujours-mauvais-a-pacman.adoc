@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je suis toujours mauvais à Pacman
+:jbake-tags: codingame,mémoire,performance,rust,_mois_mai,_année_2021
+:jbake-date: 2021-05-05
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/05/05/je-suis-toujours-mauvais-a-pacman.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/05/05/je-suis-toujours-mauvais-a-pacman/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Evidement, je ne parle pas de jouer moi-même au pacman, mais plutôt de celui auquel il faut jouer dans le <a href="https://riduidel.wordpress.com/2020/05/19/jai-mange-la-pillule-grise/">spring challenge 2020</a>. Parce que comme j'ai l'intention de concourir dès demain, en essayant autant que possible de faire du Rust, j'ai essayé de me remettre à niveau en reprenant le problème précédent, et en essayant d'améliorer la solution dont je disposais déja. Et, comme vous pouvez le voir dans <a href="https://www.codingame.com/replay/546236358">cette simulation</a>, ça ne marche pas si bien. Avant d'aller plus loin, on va d'abord voir rapidement ce que fait mon robot.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, à chaque tour</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>D'abord, je découpe le terrain (autrement dit, je construis un <a href="https://fr.wikipedia.org/wiki/Pavage_du_plan">pavage du plan</a>) pour disposer pour chaque pac d'un terrain disjoint.</li><li>Et ensuite, pour chaque pac, je score chaque déplacement en fonction des pillules atteignables au 7 prochains tours.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Il y a un certain nombre de choses qui ne sont pas implémentées, et c'est normal : je ne gère pas les ennemis, ni les changements de couleur, ni même le boost. Bref, c'est pas le niveau argent ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cela dit, mon robot est bien plus mauvais que simplement parce qu'il n'implémente pas ces fonctionnalités. Ce qui le rend vraiment mauvais, c'est qu'il privilégie l'accessoire à l'essentiel. Parce que dans ce jeu, il y a deux choses essentielles :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Survivre à l'adversaire</li><li>Manger les grosses pilules</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et mon code n'essaye de faire aucun des deux ... Bon, c'est con. Et, pire que tout, il n'est même pas performant, sans doute parce que le pavage du plan est assez consommateur en temps. Bref, la prochaine fois que je voudrais m'y mettre, je pense que je suis bon pour ... supprimer tout le code existant et tout refaire, tout simplement. J'ai donc appris un certain nombre de choses. La plus importante étant que faire du code performant en Rust ... c'est pas facile du tout. Lisez donc tranquillement cet article <a href="https://hashrust.com/blog/moves-copies-and-clones-in-rust/">Moves, copies and clones in Rust</a>, et vous comprendrez que l'impact de la sécurité mémoire sur le code écrit est loin d'être négligeable. Et je trouve ce problème assez ... stimulant (même si ça me donne parfois l’impression d'avancer avec un boulet au pied).</p>
+<!-- /wp:paragraph -->
+++++

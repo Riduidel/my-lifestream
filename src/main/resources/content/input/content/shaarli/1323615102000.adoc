@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Carte R4i SDHC Logiciel (Kernel French) Telecharger
+:jbake-tags: nintendo,dsi,r4i,download,Nintendo,DS,_mois_déc.,_année_2011
+:jbake-date: 2011-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1323615102000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.r4i-r4.fr%2Fpages%2FCarte-R4i-SDHC-Logiciel-Telecharger.html&searchtags=nintendo+dsi+r4i+download+Nintendo+DS+_mois_d%C3%A9c.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.r4i-r4.fr/pages/Carte-R4i-SDHC-Logiciel-Telecharger.html[Carte R4i SDHC Logiciel (Kernel French) Telecharger]
+
+La seule page où j'ai pu télécharger le kernel R4i

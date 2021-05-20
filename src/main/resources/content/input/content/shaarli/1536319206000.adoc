@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The GraalVM frenzy – Julien Ponge – Medium
+:jbake-tags: java,programming,jvm,graalvm,_mois_sept.,_année_2018
+:jbake-date: 2018-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1536319206000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40jponge%2Fthe-graalvm-frenzy-f54257f5932c&searchtags=java+programming+jvm+graalvm+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://medium.com/@jponge/the-graalvm-frenzy-f54257f5932c[The GraalVM frenzy – Julien Ponge – Medium]
+
+Très bon article sur ce qu'est GraalVM et son intérêt

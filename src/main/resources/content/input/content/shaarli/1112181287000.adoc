@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Drag-and-drop Sortable Lists with JavaScript and CSS
+:jbake-tags: web,css,javascript,exemple,tutorial,programming,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112181287000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tool-man.org%2Fdragsort%2F&searchtags=web+css+javascript+exemple+tutorial+programming+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tool-man.org/dragsort/[Drag-and-drop Sortable Lists with JavaScript and CSS]
+
+Drag-and-drop Sortable Lists in javascript and CSS

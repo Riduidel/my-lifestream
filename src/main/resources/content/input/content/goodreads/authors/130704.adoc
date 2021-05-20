@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rudy Rucker
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/130704.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1238411948p5/130704.jpg
+:jbake-source: https://www.goodreads.com/author/show/130704
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]

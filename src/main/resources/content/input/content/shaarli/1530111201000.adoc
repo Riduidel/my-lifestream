@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ivan Enderlin on Twitter: "Oops, I did it again^2. New benchmark results for my Rust parser (as a PHP native extension this time!) vs. the PHP parser for the Gutenberg project (next WordPress editor): https://t.co/iq7gxzp6JH. It is in average 2142 times faster (from 862x to 6905x) 🎉🎉🎉! #rustlang #php… https://t.co/bajCjBI1U2"
+:jbake-tags: rust,php,programming,benchmark,_mois_juin,_année_2018
+:jbake-date: 2018-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1530111201000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmnt_io%2Fstatus%2F1011972789279055872&searchtags=rust+php+programming+benchmark+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/mnt_io/status/1011972789279055872[Ivan Enderlin on Twitter: "Oops, I did it again^2. New benchmark results for my Rust parser (as a PHP native extension this time!) vs. the PHP parser for the Gutenberg project (next WordPress editor): https://t.co/iq7gxzp6JH. It is in average 2142 times faster (from 862x to 6905x) 🎉🎉🎉! #rustlang #php… https://t.co/bajCjBI1U2"]
+
+Ca commence à être \*vraiment\* rapide

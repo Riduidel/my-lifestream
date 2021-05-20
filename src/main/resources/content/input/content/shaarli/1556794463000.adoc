@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shane Gibson on Twitter: "Testers need to become the testing coaches rather than the testing doers, part of the the team (so on the field) helping the rest of the team up their testing T-Skills, helping identify ways of automating the testing and finally helping to identify the “non happy- path” tests.… https://t.co/by5PNeEgM7"
+:jbake-tags: citation,test,programming,_mois_mai,_année_2019
+:jbake-date: 2019-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1556794463000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fshagility%2Fstatus%2F1123268290510503936&searchtags=citation+test+programming+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/shagility/status/1123268290510503936[Shane Gibson on Twitter: "Testers need to become the testing coaches rather than the testing doers, part of the the team (so on the field) helping the rest of the team up their testing T-Skills, helping identify ways of automating the testing and finally helping to identify the “non happy- path” tests.… https://t.co/by5PNeEgM7"]
+
+Je suis complètement d'accord. Un testeur ne doit pas tester l'application, mais écrire les outils de test

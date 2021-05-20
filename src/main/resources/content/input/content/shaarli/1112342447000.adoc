@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BrainJar.com: Experiments in Web Programming
+:jbake-tags: web,documentation,html,javascript,css,dhtml,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112342447000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.brainjar.com%2F&searchtags=web+documentation+html+javascript+css+dhtml+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.brainjar.com/[BrainJar.com: Experiments in Web Programming]
+
+BrainJar.com features technical articles, tutorials and examples of programming for the web. It's not intended as a "cut and paste" site but rather a learning resource.

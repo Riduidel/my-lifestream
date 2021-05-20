@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vlad Taltos
+:jbake-tags: serie
+:jbake-date: 2007-02-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Vlad_Taltos.adoc
+:jbake-source: https://www.goodreads.com/series/40334
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070318421.html[Jhereg (Vlad Taltos, #1) ]
+* link:../books/9782070348237.html[Yendi (Vlad Taltos, #2)]
+* link:../books/9783608935158.html[Teckla (Vlad Taltos, #3)]
+* link:../books/9782070379910.html[Taltos]

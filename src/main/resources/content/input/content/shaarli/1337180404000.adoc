@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: awaitility - Awaitility is a small Java-based DSL for synchronizing asynchronous operations. It makes it easy to test asynchronous code. - Google Project Hosting
+:jbake-tags: développement,test,open-source,asynchronous,java,_mois_mai,_année_2012
+:jbake-date: 2012-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1337180404000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fawaitility%2F&searchtags=d%C3%A9veloppement+test+open-source+asynchronous+java+_mois_mai+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://code.google.com/p/awaitility/[awaitility - Awaitility is a small Java-based DSL for synchronizing asynchronous operations. It makes it easy to test asynchronous code. - Google Project Hosting]
+
+Une chouette petite lib pour faciliter l'écriture de code moyennement asynchrone.

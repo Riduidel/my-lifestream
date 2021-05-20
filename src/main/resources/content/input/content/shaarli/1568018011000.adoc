@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sunsetting Python 2 | Python.org
+:jbake-tags: python,histoire,version,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568018011000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.python.org%2Fdoc%2Fsunset-python-2%2F&searchtags=python+histoire+version+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.python.org/doc/sunset-python-2/[Sunsetting Python 2 | Python.org]
+
+Du coup les gloglos de Google/Chrome qui me font installer Python2 pour "gyp" vont peut-être enfin faire quelque chose.

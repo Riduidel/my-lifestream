@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tom Johnson on Twitter: "TDD isn't a practice. It's a principle. First, prove something needs to be done, defining success and how you fail to meet it. Then, meet it. That test could be a unit test, or an acceptance test, or an alert on monitoring."
+:jbake-tags: citation,test,spécification,tdd,métaphore,_mois_avr.,_année_2019
+:jbake-date: 2019-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1554291258000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftom_a_r_johnson%2Fstatus%2F1112121034596143105&searchtags=citation+test+sp%C3%A9cification+tdd+m%C3%A9taphore+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/tom_a_r_johnson/status/1112121034596143105[Tom Johnson on Twitter: "TDD isn't a practice. It's a principle. First, prove something needs to be done, defining success and how you fail to meet it. Then, meet it. That test could be a unit test, or an acceptance test, or an alert on monitoring."]
+
+Bonne vision du test unitaire en tant que métaphore de la chose à faire

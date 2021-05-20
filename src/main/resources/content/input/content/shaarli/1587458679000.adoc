@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Notes on Distributed Systems for Young Bloods – Something Similar
+:jbake-tags: architecture,organisation,distribué,_mois_avr.,_année_2020
+:jbake-date: 2020-04-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1587458679000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.somethingsimilar.com%2F2013%2F01%2F14%2Fnotes-on-distributed-systems-for-young-bloods%2F&searchtags=architecture+organisation+distribu%C3%A9+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/[Notes on Distributed Systems for Young Bloods – Something Similar]
+
+De très bons conseils concernant l'organisation de systèmes distribués

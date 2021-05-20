@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aurélie Vache on Twitter: "RT @MisterTechBlog: Typeless @RustLang… Can we simplify #RustLang for newbies? Visual Embedded Rust generates Rust code that doesn't contai…" / Twitter
+:jbake-tags: rust,programming,tutorial,plugin,vscode,_mois_août,_année_2019
+:jbake-date: 2019-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1566140461000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faurelievache%2Fstatus%2F1161909277927313408&searchtags=rust+programming+tutorial+plugin+vscode+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/aurelievache/status/1161909277927313408[Aurélie Vache on Twitter: "RT @MisterTechBlog: Typeless @RustLang… Can we simplify #RustLang for newbies? Visual Embedded Rust generates Rust code that doesn't contai…" / Twitter]
+
+Tellement chouette !

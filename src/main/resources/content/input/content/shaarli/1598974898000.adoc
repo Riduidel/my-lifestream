@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GWT - Tutorial
+:jbake-tags: gwt,java,tutorial,web,_mois_sept.,_année_2020
+:jbake-date: 2020-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1598974898000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.vogella.com%2Ftutorials%2FGWT%2Farticle.html&searchtags=gwt+java+tutorial+web+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.vogella.com/tutorials/GWT/article.html[GWT - Tutorial]
+
+GWT aka l'overengineering comme une forme d'art pervers. J'ai déja du mal avec les frameworks JS en JS. MAIS LA. PAR LES CORNES DE BELZEBUTH, on est vraiment loin dans la folie furieuse.

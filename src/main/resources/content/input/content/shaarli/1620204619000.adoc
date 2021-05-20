@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to disable maven blocking external HTTP repositores? - Stack Overflow
+:jbake-tags: maven,sécurité,http,_mois_mai,_année_2021
+:jbake-date: 2021-05-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1620204619000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F67002852%2F15619&searchtags=maven+s%C3%A9curit%C3%A9+http+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/67002852/15619[How to disable maven blocking external HTTP repositores? - Stack Overflow]
+
+Si vous utilisez un miroir maven en http, la mise à jour vers maven 3.8.1 va vous faire de la peine. Heureusement, il y a une solution !

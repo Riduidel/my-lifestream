@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What is the Future of Work?
+:jbake-tags: programming,culture,entreprise,_mois_sept.,_année_2013
+:jbake-date: 2013-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1380196707000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2Futrly52hW8g%2Fwhat-future-work&searchtags=programming+culture+entreprise+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/utrly52hW8g/what-future-work[What is the Future of Work?]
+
+Ca aprt comme une critique d'un livre, mais c'est en fait bien plus large : c'est un manifeste pour la diversité dans le développement. Et ça (et je le dit en tant qu'homme blanc développeur) c'est bien.

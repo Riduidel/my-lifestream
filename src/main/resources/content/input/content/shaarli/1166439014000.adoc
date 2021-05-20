@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Squeak: Squeak
+:jbake-tags: enfants,compilateur,développement,dynamic,éducation,environnement,geek,langage,multimedia,oop,open-source,programming,software,windows,linux,macosx,_mois_déc.,_année_2006
+:jbake-date: 2006-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1166439014000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.squeak.org%2F&searchtags=enfants+compilateur+d%C3%A9veloppement+dynamic+%C3%A9ducation+environnement+geek+langage+multimedia+oop+open-source+programming+software+windows+linux+macosx+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.squeak.org/[Squeak: Squeak]
+
+Un langage de programmation pour débutants (genre mes enfants) complet, gratuit et (peut-être) open-source, dispo avec toutes les infos utiles.

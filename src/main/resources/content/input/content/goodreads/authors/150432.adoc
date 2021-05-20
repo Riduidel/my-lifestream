@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lewis Shiner
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/150432.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1235134206p5/150432.jpg
+:jbake-source: https://www.goodreads.com/author/show/150432
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]

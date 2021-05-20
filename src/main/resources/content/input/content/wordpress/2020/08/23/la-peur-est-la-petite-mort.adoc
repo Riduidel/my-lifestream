@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La peur est la petite mort
+:jbake-tags: épidémie,peur,réflexion,terrorisme,_mois_août,_année_2020
+:jbake-date: 2020-08-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/08/23/la-peur-est-la-petite-mort.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/08/23/la-peur-est-la-petite-mort/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Pour ceux qui ne lisent pas de science-fiction, ou n'ont vu aucune des incarnations visuelles de Dune, ce titre est tiré de la <a href="https://fr.wikipedia.org/wiki/Bene_Gesserit#Litanie_contre_la_peur">litanie contre la peur du Bene Gesserrit</a> que je me permets de reproduire ici</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Je ne connaîtrai pas la peur car la peur tue l'esprit. La peur est la petite mort qui conduit à l'oblitération totale. J'affronterai ma peur. Je lui permettrai de passer sur moi, au travers de moi. Et lorsqu'elle sera passée, je tournerai mon œil intérieur sur son chemin. Et là où elle sera passée, il n'y aura plus rien. Rien que moi.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Quand j'ai lu ce roman il y a bien des années, je pense que je n'en avais pas compris tout le sens. Et puis des choses sont arrivées. Il y a d'abord eu "la montée du terrorisme" (je mets des guillemets parce que bon, une rapide histoire du <a href="https://fr.wikipedia.org/wiki/Terrorisme_en_France">terrorisme</a> permet de comprendre ce mensonge médiatique) des années 2000. Et puis surtout, surtout, il y a eu cette année le coronavirus. Ces deux phénomènes m'ont enfin permis de comprendre le sens de cette litanie et surtout la réalité du concept de panique "à l'échelle".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'on retrouve dans ces deux cas une même oblitération de la réflexion : on accumule les mesures pour montrer qu'on agit, sans forcément qu'il existe le moindre le lien entre la menace et les mesures proposées. Il me semble en effet qu'en ce moment, les mesures de lutte contre le coronavirus entrent dans cette volonté de montrer qu'on agit, sans pour autant réfléchir le moins du monde à l'efficacité réelle de celles-ci. Par exemple, lorsqu'on nous demande de porter le masque en extérieur (ce fameux masque que vous et moi avons taillé dans un vague foulard). Quelle est son intérêt ? Si vous regardez un peu les études de propagation de ce virus, vous trouverez par exemple cet article du <a href="https://www.huffingtonpost.fr/entry/mettre-un-masque-a-lexterieur-contre-le-coronavirus-est-ce-utile_fr_5f198861c5b6128e6821b4a8">Huffington</a>, qui traduit bien une chose : les scientifiques sont sûrs que le virus se propage bien en intérieur, mais franchement, en extérieur, c'est pas concluant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca n'empêchera évidement personne d'imposer des mesures spectaculaires et inutiles, comme le port du masque à vélo (sauf quand on fait du sport, parce que hein, mais comment distinguer le cycliste sportif du promeneur ?). Et, pire encore, ça n'empêchera personne de juger les attitudes des autres. Et la peur, qui était déjà dans la mesure pas forcément adaptée, mais prise parce que " les français ne respectent pas les règles" (je déteste cette expression), se retrouve dans ces jugements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Malheureusement, c'est tristement révélateur de quelque chose que je constate de plus en plus, qui me trouble, m'énerve, me désespère : l'intelligence est de plus en plus utilisée à contre-emploi : pas pour rendre les gens plus intelligents globalement, mais pour faire appel à leur peur, à leur instinct le plus primaire. C'est sans doute la pire menace qui soit ...</p>
+<!-- /wp:paragraph -->
+++++

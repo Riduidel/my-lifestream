@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je vais me retrousser les manches
+:jbake-tags: gradle,javafx,jphotoorganizer,kotlin,reactive,yapo,_mois_sept.,_année_2017
+:jbake-date: 2017-09-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/09/06/4845.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/09/06/4845/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme tous les ans, en rentrant de vacances, j'ai commencé à trier nos superbes photos des châteaux de la Loire.
+</p>
+<p>
+Donc paf, je lance <a href="http://www.geosetter.de/en/">GeoSetter </a>(dont l'intégration Google Maps ne marche plus <a href="http://www.geosetter.de/en/falsche-url-zur-karte-in-version-3-4-16/">depuis un moment</a>), j'intègre tous mes fichiers GPX, puis j'ouvre <a href="https://fr.wikipedia.org/wiki/Phase_One_Media_Pro">Microsoft Expression Media</a> pour saisir les tags IPTC complémentaires ... Et l'intégration avec Bing Maps ne marche plus non plus ! Oui, bon, ça fait déja deux logiciels. Dont aucun n'est à jour ni ne fonctionne parfaitement. Surtout que je renomme ensuite les photos avec <a href="http://www.xnview.com/fr/">XNView !</a> Et là, vous vous rendez bien compte que c'est n'importe quoi. Et je ne vais pas vous parler du fait que j'ai le même genre de workflow pour la musique.
+</p>
+<p>
+Et comme je suis en ce moment dans une dynamique de création, de nouveauté, d'innovation, de découverte, et que je veux me lancer dans JavaFX, Gradle, Kotlin, et la programmation réactive, et que je cherchais un thème ... eh ben c'est tout trouvé !
+</p>
+<p>
+Donc, d'abord, je crée le projet sur <a href="https://framagit.org/Riduidel/yapo">Framagit</a>.
+</p>
+<p>
+Ensuite, <a href="https://try.kotlinlang.org/#/Kotlin Koans/">je me forme un peu à Kotlin</a> (et à Gradle, mais ça a l'air plus simple - pour l'instant).
+</p>
+<p>
+Et après, à partir d'un peu d'étude d'iPhoto, de Microsoft Expression Media, de D<a href="http://daminion.net/">aminion Tools</a>, je me lance dans le développement de Yapo.
+</p>
+<p>
+Oui, parce que j'aurais pu reprendre le nom d'un projet sur le même thème que j'avais précédement lancé (<a href="https://riduidel.wordpress.com/2009/01/07/est-ce-que-je-peux-faire-mieux/">jPhotoOrganizer</a>), mais j*, ça fait un peu naze comme nom, et je ne voulais pas reprendre d'existant (surtout que l'existant, en l'occurence, est caché ... dans Google Code - RIP).
+</p>
+<p>
+Mais à mon avis, pour l'instant, je vais avoir des ambitions modestes : faire une espèce d'explorateur de fichier avec des actions supplémentaires pour les images ...
+</p>
+++++

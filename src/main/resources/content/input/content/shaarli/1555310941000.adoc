@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Shaya on Twitter: "Why you should avoid context switching in low latency code.… "
+:jbake-tags: programming,performance,cpu,_mois_avr.,_année_2019
+:jbake-date: 2019-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1555310941000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDanielShaya%2Fstatus%2F1115363927829958656&searchtags=programming+performance+cpu+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/DanielShaya/status/1115363927829958656[Daniel Shaya on Twitter: "Why you should avoid context switching in low latency code.… "]
+
+Ouch, le context switching, c'est effectivement assez mal

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Loosely Coupled Monolith - CodeOpinion
+:jbake-tags: architecture,programming,code,organisation,monolithe,microservices,_mois_août,_année_2020
+:jbake-date: 2020-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1598633056000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcodeopinion.com%2Floosely-coupled-monolith%2F&searchtags=architecture+programming+code+organisation+monolithe+microservices+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://codeopinion.com/loosely-coupled-monolith/[Loosely Coupled Monolith - CodeOpinion]
+
+C'est une vision bien plus intéressante que le découpage en contrôleur/service/repository dont les amateurs de Spring nous rebattent les oreilles (alors que c'est vraiment la pire organisation possible).

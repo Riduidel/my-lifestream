@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Blish
+:jbake-tags: author
+:jbake-date: 2006-08-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/43625.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1227585761p5/43625.jpg
+:jbake-source: https://www.goodreads.com/author/show/43625
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780575072398.html[The Seedling Stars]

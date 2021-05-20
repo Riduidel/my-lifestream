@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""In the end, regardless of where you are on the development hierarchy, keep coding. It’s where you’re most valuable." - The Developer's Code"
+:jbake-tags: citation,programming,carrière,_mois_juin,_année_2017
+:jbake-date: 2017-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1498461901000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F877626929939075073&searchtags=citation+programming+carri%C3%A8re+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/877626929939075073[Programming Wisdom on Twitter: ""In the end, regardless of where you are on the development hierarchy, keep coding. It’s where you’re most valuable." - The Developer's Code"]
+
+C'est mon mantra

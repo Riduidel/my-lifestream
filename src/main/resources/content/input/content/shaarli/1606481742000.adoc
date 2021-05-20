@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: uber/NullAway: A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+:jbake-tags: java,nullpointer,maven,compilateur,extension,_mois_nov.,_année_2020
+:jbake-date: 2020-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1606481742000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fuber%2FNullAway&searchtags=java+nullpointer+maven+compilateur+extension+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/uber/NullAway[uber/NullAway: A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead]
+
+Enfin un processeur d'annotation utile dans tous les projets ! Je vais tester, mais j'ai vraiment l'impression que c'est une solution valable à l'erreur à 1 milliard de dollars.

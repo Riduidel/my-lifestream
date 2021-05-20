@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Collaborative Single Player Mode
+:jbake-tags: organisation,entreprise,télétravail,asynchronous,communication,collaboration,_mois_nov.,_année_2020
+:jbake-date: 2020-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1605523828000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.rstankov.com%2Fcollaborative-single-player-mode%2F&searchtags=organisation+entreprise+t%C3%A9l%C3%A9travail+asynchronous+communication+collaboration+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.rstankov.com/collaborative-single-player-mode/[Collaborative Single Player Mode]
+
+Ca s'applique très bien dans mon cas. A part la règle du boy-scout, que j'aimerais vraiment appliquer, mais pour laquelle je n'ai pas le temps nécessaire pour tout remettre en place correctement.

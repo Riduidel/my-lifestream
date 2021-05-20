@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Image of the Beast
+:jbake-tags: serie
+:jbake-date: 1996-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Image_of_the_Beast.adoc
+:jbake-source: https://www.goodreads.com/series/127969
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266028745.html[Comme une bête]
+* link:../books/9782266028738.html[Gare à la bête]

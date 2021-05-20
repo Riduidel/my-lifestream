@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: .: jsolait.net :.
+:jbake-tags: programming,javascript,_mois_mars,_année_2005
+:jbake-date: 2005-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1111156557000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jsolait.net%2F&searchtags=programming+javascript+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.jsolait.net/[.: jsolait.net :.]
+
+The goal is to ease JavaScript development by building a library of reusable modules and components and enhancing JavaScript with simpler Class and Module handling mechanisms.

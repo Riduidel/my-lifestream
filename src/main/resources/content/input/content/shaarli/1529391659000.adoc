@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moving, Cloning, and Copying Coloring Books in Rust
+:jbake-tags: rust,pointer,move,mémoire,architecture,programming,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529391659000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjeenalee.com%2F2016%2F08%2F29%2Fmove-clone-copy.html&searchtags=rust+pointer+move+m%C3%A9moire+architecture+programming+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://jeenalee.com/2016/08/29/move-clone-copy.html[Moving, Cloning, and Copying Coloring Books in Rust]
+
+Pour ceux qui veulent comprendre l'une des vraies différences de Rust, cet article explique assez bien les histoires de move/clone/borrowing & co

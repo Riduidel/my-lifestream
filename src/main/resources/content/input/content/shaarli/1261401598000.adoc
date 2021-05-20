@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: _why's Estate
+:jbake-tags: whytheluckystiff,programming,ruby,art,_mois_déc.,_année_2009
+:jbake-date: 2009-12-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1261401598000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fviewsourcecode.org%2Fwhy%2F&searchtags=whytheluckystiff+programming+ruby+art+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://viewsourcecode.org/why/[_why's Estate]
+
+Le musée de why, un endroit pas très joli, mais très émouvant

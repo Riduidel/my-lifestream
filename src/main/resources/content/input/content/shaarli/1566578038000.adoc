@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to fully disable 'Ok Google' listening on your Android phone
+:jbake-tags: android,google,assistant,micro,intimité,_mois_août,_année_2019
+:jbake-date: 2019-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1566578038000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.androidpolice.com%2F2018%2F08%2F28%2Ffully-disable-ok-google-listening-android-phone%2F&searchtags=android+google+assistant+micro+intimit%C3%A9+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.androidpolice.com/2018/08/28/fully-disable-ok-google-listening-android-phone/[How to fully disable 'Ok Google' listening on your Android phone]
+
+Avant de voir comment désinstaller toute cette merde, voilà comment déja garantir que l'assistant google ne vient pas me casser les pieds (la suppression de la permission, c'est cool)

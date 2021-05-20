@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JXPath Home - JXPath
+:jbake-tags: java,programming,xml,xpath,library,jebliki,open-source,_mois_oct.,_année_2007
+:jbake-date: 2007-10-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1191240712000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcommons.apache.org%2Fjxpath%2F&searchtags=java+programming+xml+xpath+library+jebliki+open-source+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://commons.apache.org/jxpath/[JXPath Home - JXPath]
+
+Tant qu'on y est à faire des trucs de dingues, et pour avoir une recherche aussi balaize qu'en Ruby, JXPath me paraît bien pratique pour faire du pattern matching dans des objets Java, et donc des recherchs multicritères qui claquent. En vérité, l'id

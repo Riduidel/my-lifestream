@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ionescu007/SpecuCheck: SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)
+:jbake-tags: software,sécurité,windows,freeware,test,_mois_janv.,_année_2018
+:jbake-date: 2018-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1515157915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fionescu007%2FSpecuCheck&searchtags=software+s%C3%A9curit%C3%A9+windows+freeware+test+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/ionescu007/SpecuCheck[ionescu007/SpecuCheck: SpecuCheck is a Windows utility for checking the state of the software mitigations against CVE-2017-5754 (Meltdown) and hardware mitigations against CVE-2017-5715 (Spectre)]
+
+Cool, Sous windows, je peux facilement savoir avec cet exécutable si ma machine est protégée contre spectre/meltdown

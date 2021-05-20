@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stardance
+:jbake-tags: serie
+:jbake-date: 2017-06-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Stardance.adoc
+:jbake-source: https://www.goodreads.com/series/44907
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782917689813.html[La Danse des étoiles]

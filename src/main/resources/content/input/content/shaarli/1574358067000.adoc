@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Preview AsciiDoc with PlantUML in VS Code | Andreas' Blog
+:jbake-tags: asciidoc,plantuml,vscode,configuration,exemple,_mois_nov.,_année_2019
+:jbake-date: 2019-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1574358067000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.anoff.io%2F2019-05-08-asciidoc-plantuml-vscode%2F&searchtags=asciidoc+plantuml+vscode+configuration+exemple+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.anoff.io/2019-05-08-asciidoc-plantuml-vscode/[Preview AsciiDoc with PlantUML in VS Code | Andreas' Blog]
+
+Si vous voulez (comme moi) mettre du PlantUML dans votre Asciidoc, cet article est pour vous !

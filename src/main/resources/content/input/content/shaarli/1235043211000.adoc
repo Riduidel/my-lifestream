@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dyson
+:jbake-tags: freeware,windows,jeu,design,stratégie,ambient,_mois_févr.,_année_2009
+:jbake-date: 2009-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1235043211000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dyson-game.com%2F&searchtags=freeware+windows+jeu+design+strat%C3%A9gie+ambient+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.dyson-game.com/[Dyson]
+
+Un très joli jeu de ce qui pourrait être de la stratégie, mais alors dans ce cas très conceptuelle, la stratégie ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dai-shi/excalidraw-animate: A tool to animate Excalidraw drawings
+:jbake-tags: diagram,animation,library,open-source,web,_mois_mai,_année_2021
+:jbake-date: 2021-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1621184708000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdai-shi%2Fexcalidraw-animate&searchtags=diagram+animation+library+open-source+web+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/dai-shi/excalidraw-animate[dai-shi/excalidraw-animate: A tool to animate Excalidraw drawings]
+
+Je crois qu'il va bien falloir que je comprenne comment marche escalidraw, parce que ça m'a l'air riche de possibilité (évidement, il faudrait que j'arrive à le brancher à Structurizr)

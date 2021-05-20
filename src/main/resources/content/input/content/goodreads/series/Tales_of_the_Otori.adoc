@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tales of the Otori
+:jbake-tags: serie
+:jbake-date: 2019-08-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Tales_of_the_Otori.adoc
+:jbake-source: https://www.goodreads.com/series/49953
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782075088107.html[Le Silence du rossignol (Le Clan des Otori, #1)]
+* link:../books/9782075088206.html[Les Neiges de l'exil (Le Clan des Otori #2)]

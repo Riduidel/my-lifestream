@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: André-François Ruaud
+:jbake-tags: author
+:jbake-date: 2007-11-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1154045.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/1154045
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070344727.html[Croisière sans escale]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Roy van Rijn on Twitter: ""If you've failed at SOA, why do you think you'll succeed with microservices?" - @bobmcwhirter #JavaOne"
+:jbake-tags: citation,programming,web,microservices,_mois_sept.,_année_2016
+:jbake-date: 2016-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1474613342000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Froyvanrijn%2Fstatus%2F779027766352019456&searchtags=citation+programming+web+microservices+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/royvanrijn/status/779027766352019456[Roy van Rijn on Twitter: ""If you've failed at SOA, why do you think you'll succeed with microservices?" - @bobmcwhirter #JavaOne"]
+
+Ca ne me rappelle absolument pas le projet sur lequel je travaille ...

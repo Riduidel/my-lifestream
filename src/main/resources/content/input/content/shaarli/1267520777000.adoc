@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pro Con Lists
+:jbake-tags: productivité,online,web2.0,comparison,_mois_mars,_année_2010
+:jbake-date: 2010-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1267520777000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.proconlists.com%2F&searchtags=productivit%C3%A9+online+web2.0+comparison+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.proconlists.com/[Pro Con Lists]
+
+Un site d'aide à la décision franchement marrant : pour chaque décision, on note les éléments pour et contre, avec leurs poids rationnels et émotionnels. Et le camembert donne la réponse .. ou pas ;-)

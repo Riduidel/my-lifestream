@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Secure Coding For Java - Une introduction
+:jbake-tags: java,sécurité,présentation,programming,web,_mois_mars,_année_2015
+:jbake-date: 2015-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1427371971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.slideshare.net%2FSebastienGioria%2Fsecure-coding-for-java-une-introduction&searchtags=java+s%C3%A9curit%C3%A9+pr%C3%A9sentation+programming+web+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://fr.slideshare.net/SebastienGioria/secure-coding-for-java-une-introduction[Secure Coding For Java - Une introduction]
+
+Super présentation sur la sécurité dans les applications Java

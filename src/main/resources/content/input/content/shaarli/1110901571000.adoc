@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Advance Projects - News
+:jbake-tags: software,freeware,windows,macosx,linux,jeu,emulator,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110901571000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fadvancemame.sourceforge.net%2F&searchtags=software+freeware+windows+macosx+linux+jeu+emulator+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://advancemame.sourceforge.net/[Advance Projects - News]
+
+This site contains projects related to play Arcade and PC games with esotheric video hardware like TVs, Arcade Monitors, Fixed Frequencies Monitors and also for PC Monitors. They run in GNU/Linux, Mac OS X, DOS and Windows.

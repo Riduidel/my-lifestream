@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moving efficiently in the CLI
+:jbake-tags: tutorial,documentation,linux,shell,_mois_janv.,_année_2018
+:jbake-date: 2018-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1517413575000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fclementc.github.io%2Fblog%2F2018%2F01%2F25%2Fmoving_cli%2F&searchtags=tutorial+documentation+linux+shell+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://clementc.github.io/blog/2018/01/25/moving_cli/[Moving efficiently in the CLI]
+
+Une aide-mémoire bien pratique pour la ligne de commande, même si je hais la ligne de commande

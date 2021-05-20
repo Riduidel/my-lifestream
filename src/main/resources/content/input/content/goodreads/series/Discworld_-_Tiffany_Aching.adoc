@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld - Tiffany Aching
+:jbake-tags: serie
+:jbake-date: 2011-11-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld_-_Tiffany_Aching.adoc
+:jbake-source: https://www.goodreads.com/series/96852
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266212656.html[Les ch'tits hommes libres]
+* link:../books/9782266233019.html[Un chapeau de ciel (Les Annales du Disque-monde, #32)]
+* link:../books/9782266249799.html[L'Hiverrier]
+* link:../books/9782266296359.html[Je m'habillerai de nuit]

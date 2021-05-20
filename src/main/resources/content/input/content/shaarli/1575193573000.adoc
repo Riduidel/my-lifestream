@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [DEVFEST Lille 2019] Boostez vos applications avec des cachées distribuées/Datagrid - YouTube
+:jbake-tags: java,programming,cache,distribué,présentation,_mois_déc.,_année_2019
+:jbake-date: 2019-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1575193573000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dz-3N8dyIxd4&searchtags=java+programming+cache+distribu%C3%A9+pr%C3%A9sentation+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=z-3N8dyIxd4[[DEVFEST Lille 2019] Boostez vos applications avec des cachées distribuées/Datagrid - YouTube]
+
+Cette présentation d'Infinispan par Katia Aresti est vraiment très chouette. Elle parle d'infinispan, de JGroups (trop cool), de Quarkus (trop cool aussi).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moving Files from one Git Repository to Another, Preserving History | Greg Bayer
+:jbake-tags: programming,git,repository,migration,tutorial,_mois_juin,_année_2016
+:jbake-date: 2016-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1465997681000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgbayer.com%2Fdevelopment%2Fmoving-files-from-one-git-repository-to-another-preserving-history%2F&searchtags=programming+git+repository+migration+tutorial+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/[Moving Files from one Git Repository to Another, Preserving History | Greg Bayer]
+
+Un article très simple, très bien sur la migration de données d'un dépot git à un autre

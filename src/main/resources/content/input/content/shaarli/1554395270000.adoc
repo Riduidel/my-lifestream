@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: andoriyu/cargo-suity: This tool helps you automate testing of you rust application on CI.
+:jbake-tags: rust,cargo,test,junit,display,_mois_avr.,_année_2019
+:jbake-date: 2019-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1554395270000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fandoriyu%2Fcargo-suity&searchtags=rust+cargo+test+junit+display+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/andoriyu/cargo-suity[andoriyu/cargo-suity: This tool helps you automate testing of you rust application on CI.]
+
+Oh c'est très bien ça (parce que les affichages de test dans cargo, c'est pas la fête)

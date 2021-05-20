@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wallabag/windows-app · GitHub
+:jbake-tags: windows,wallabag,client,software,freeware,open-source,_mois_avr.,_année_2015
+:jbake-date: 2015-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1428137735000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fwallabag%2Fwindows-app&searchtags=windows+wallabag+client+software+freeware+open-source+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/wallabag/windows-app[wallabag/windows-app · GitHub]
+
+Un client Windows pour lire les articles sauvegardés, même en mode offline !

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Roland C. Wagner
+:jbake-tags: author
+:jbake-date: 2002-07-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1004574.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1344624792p5/1004574.jpg
+:jbake-source: https://www.goodreads.com/author/show/1004574
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070461554.html[Rêves de gloire]
+* link:../books/9782253072393.html[L'Œil du fouinain]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PalmOrb: Use your PalmOS PDA as a LCD status display via serial, USB, BlueTooth or IR
+:jbake-tags: software,freeware,palm,_mois_mars,_année_2005
+:jbake-date: 2005-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1109853595000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpalmorb.sourceforge.net%2F&searchtags=software+freeware+palm+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://palmorb.sourceforge.net/[PalmOrb: Use your PalmOS PDA as a LCD status display via serial, USB, BlueTooth or IR]
+
+Use your PalmOS PDA as a LCD status display via serial, USB, BlueTooth or IR

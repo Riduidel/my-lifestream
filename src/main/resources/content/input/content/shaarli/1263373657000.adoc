@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gridshore » Starting with grails
+:jbake-tags: documentation,tutorial,plugin,grails,for:mischler,_mois_janv.,_année_2010
+:jbake-date: 2010-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1263373657000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gridshore.nl%2F2009%2F12%2F20%2Fstarting-with-grails%2F&searchtags=documentation+tutorial+plugin+grails+for%3Amischler+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.gridshore.nl/2009/12/20/starting-with-grails/[Gridshore » Starting with grails]
+
+Un exemple d'utilisation de plugins "en masse" pour développer très vite une application grails

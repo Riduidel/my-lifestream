@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Janino -- an Embedded Java[TM] Compiler
+:jbake-tags: software,freeware,java,compilateur,_mois_janv.,_année_2005
+:jbake-date: 2005-01-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1106665437000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.janino.net%2F&searchtags=software+freeware+java+compilateur+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.janino.net/[Janino -- an Embedded Java[TM] Compiler]
+
+Janino is a compiler that reads a JavaTM expression, block, class body, source file or a set of source files, and generates JavaTM bytecode that is loaded and executed directly. Janino is not intended to be a development tool, but an embedded compiler for

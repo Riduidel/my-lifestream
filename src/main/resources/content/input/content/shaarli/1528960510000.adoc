@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: amos ✨ (mute #e32018) on Twitter: "I've said it before and I'll say it again: I don't care how senior you are, your "instincts" about performance are worth exactly nothing at all."
+:jbake-tags: citation,programming,performance,_mois_juin,_année_2018
+:jbake-date: 2018-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1528960510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffasterthanlime%2Fstatus%2F1006983512354893824&searchtags=citation+programming+performance+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/fasterthanlime/status/1006983512354893824[amos ✨ (mute #e32018) on Twitter: "I've said it before and I'll say it again: I don't care how senior you are, your "instincts" about performance are worth exactly nothing at all."]
+
+Le seul instinct qui existe, c'est de détecter à quel moment un problème de performance nécessite une action.

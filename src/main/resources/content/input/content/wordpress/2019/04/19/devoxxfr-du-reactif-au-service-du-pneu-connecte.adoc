@@ -1,0 +1,663 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - du réactif au service du pneu connecté
+:jbake-tags: devoxx,kafka,reactive,vertx,_mois_avr.,_année_2019
+:jbake-date: 2019-04-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/19/devoxxfr-du-reactif-au-service-du-pneu-connecte.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/19/devoxxfr-du-reactif-au-service-du-pneu-connecte/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/idriss_neumann" class="screenName"><img src="http://pbs.twimg.com/profile_images/1297261824371556352/9yMdakwV_mini.jpg" alt="profile of IoT, SRE, DevOps and μservices addict w/ docker, k8s, kafka, elasticstack, redis, python and vert.x. On Linux since 2000. https://t.co/oO8rew0Wy4, https://t.co/IOP8YBASPN, https://t.co/bhdkfzmNnG"/>idriss_neumann</a>
+<br/>
+<span class="name">Idriss Neumann ∞ 🐧 🐳 ☸️</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/idriss_neumann/status/1 118 799 928 409 636 864" class="date">18 avr. 2019 à 10:54:23</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">From reactive to to connected tire service with @vertx_project and @apachekafka at @DevoxxFR by @jponge and @FabienPomerol #Microservices https://t.co/6gZZtuoHLI</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bGk9wW4AAp_Di.jpg" alt="1 118 799 895 803 125 760"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bGlk8XsAA4W1Y.jpg" alt="1 118 799 906 322 493 440"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bGmAUWkAASHTO.jpg" alt="1 118 799 913 670 840 320"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bGmfTW0AE16BO.jpg" alt="1 118 799 921 988 161 537"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+<a href="https://twitter.com/jponge">Julien</a> travaille chez RedHat et Fabien, lui est chez Michelin et travaille sur un projet d’ingestion des données d’IoT. Parce que chez Michelin, ils ont des pneus connectés via du RFID pour
+</p>
+<p>
+</div>
+<br/>
+<div class="olist arabic data-line-6">
+<br/>
+<ol class="arabic">
+<br/>
+<li>Identifier les pneus</li>
+<br/>
+<li>Récupérer les infos des capteurs de pression des pneus</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Donc Michelin peut associer à un pneu un historique de température/pression. Ca se collecte via des outils embarqués (le tableau de bord) ou des smartphones. Et du coup, ça paraît bien de récupérer ces données pour générer des insights sur les flottes de pneus. Dans les use cases, on trouve
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-13">
+<br/>
+<ul>
+<br/>
+<li>le fleet management</li>
+<br/>
+<li>la prédiction de fin de vie des pneus</li>
+<br/>
+<li>la gestion de la sécurité (vérifier que la pression n’est pas trop faible)</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Des pneus, il y en a plein
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-19">
+<br/>
+<ul>
+<br/>
+<li>23 M de pneus</li>
+<br/>
+<li>1 Milliard d'événements
+<br/>
+<div class="ulist data-line-21">
+<br/>
+<ul>
+<br/>
+<li>Donc 500 req/s</li>
+<br/>
+</ul>
+<br/>
+</div></li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Évidement, ils essayent de consommer le moins d'énergie possible
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Avant, ils avaient une plateforme monolithique (en Grails - cool) avec un stockage MySQL. Évidement, ça ne tenait pas la charge.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Ils ont donc réécrit ça en micro-services …​ écrits avec Vert.x ! Ces services communiquent via Kafka, et écrivent leurs données dans MySQL/Neo4J/…​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-31">
+<br/>
+<h2 id="truepourquoi_vert_x">Pourquoi Vert.x ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+Le mode d'écriture classique des applications utilise des I/O bloquants. Ca ne scale pas bien comme le montre Michelin. Et c’est d’autant plus utile dans le monde des conteneurs (où il faut essayer d’optimiser l’usage des ressources).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-36">
+</p>
+<p>
+Pour améliorer ça, la solution est effectivement de faire de la boucle d'événement et de la traiter de façon asynchrone. Avec un système réactif, on est
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-38">
+<br/>
+<ul>
+<br/>
+<li>élastique (on peut ajouter des noeuds)</li>
+<br/>
+<li>résilient (on peut tenir compte des pannes)</li>
+<br/>
+<li>responsive (au sens où les temps de réponse restent raisonnables)</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+L’intérêt de vert.X est de s’adapter facilement à différents cas.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-44">
+<br/>
+<h2 id="trueingestion_de_donn_es">Ingestion de données</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Premier live-coding : Julien crée un verticle qui va répondre donner via HTTP, la marque du pneu quand on donne son id. Pour ça, il faut
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-49">
+<br/>
+<ul>
+<br/>
+<li>Un serveur HTTP (qui écoute sur le port de notre choix)</li>
+<br/>
+<li>Un routeur</li>
+<br/>
+<li>Et évidement une méthode qui retourne le résultat quand on fait la requête</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-53">
+</p>
+<p>
+C’est facile à écrire (je le sais, j’ai déjà fait la même chose) et Julien lance le verticle avec gradle (qui fournit comme Maven du live-reload).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-55">
+</p>
+<p>
+En vrai, c’est un peu plus compliqué :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-57">
+<br/>
+<ul>
+<br/>
+<li>Il y a trois routes HTTP</li>
+<br/>
+<li>Les données sont stockées dans MongoDB grâce au client réactif fourni par Vert.x</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-60">
+<br/>
+<h2 id="trueaggr_gation_de_services">Agrégation de services</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-62">
+</p>
+<p>
+Il faut parfois faire plusieurs requêtes asynchrones et assembler les résultats. On peut faire des callbacks, mais c’est assez complexe. Dans Vert.x, on a
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-66">
+<br/>
+<ul>
+<br/>
+<li>Des futures</li>
+<br/>
+<li>Des coroutines Kotlin ou Java (avec Quasar)</li>
+<br/>
+<li>Ou du RxJava que supporte très bien Vert.x</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-70">
+</p>
+<p>
+On passe donc à une deuxième démo où Julien va faire du machine learning (autrement dit de la régression linéaire) pour savoir si le pneu perd en pression. On a donc deux services en amont
+</p>
+<p>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/idriss_neumann" class="screenName"><img src="http://pbs.twimg.com/profile_images/1297261824371556352/9yMdakwV_mini.jpg" alt="profile of IoT, SRE, DevOps and μservices addict w/ docker, k8s, kafka, elasticstack, redis, python and vert.x. On Linux since 2000. https://t.co/oO8rew0Wy4, https://t.co/IOP8YBASPN, https://t.co/bhdkfzmNnG"/>idriss_neumann</a>
+<br/>
+<span class="name">Idriss Neumann ∞ 🐧 🐳 ☸️</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/idriss_neumann/status/1 118 805 700 828 962 816" class="date">18 avr. 2019 à 11:17:20</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@Michelin is using @vertx_project #microservices with @apachekafka to anticipate and alert the connected tires defects #IoT. Demo by @jponge and @FabienPomerol at @DevoxxFR https://t.co/bmSXzfQh2c</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bL1wOWsAA4rlt.jpg" alt="1 118 805 681 786 761 216"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bL2IcWwAAM2Ze.jpg" alt="1 118 805 688 287 936 512"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bL2dgX4AEsVqk.jpg" alt="1 118 805 693 941 932 033"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="ulist data-line-73">
+<br/>
+<ul>
+<br/>
+<li>le service donnant le nom du pneu</li>
+<br/>
+<li>un service faisant cette régression linéaire</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-76">
+</p>
+<p>
+Et pour les combiner, on appelle un <code>Single</code> RxJava. Évidement, on peut aussi produire ce <code>Single</code> à partir d’une requête en appelant <code>.rxSend()</code> qui va envoyer la requête et l’encapsuler dans un objet RxJava. Dans les bonus, RxJava fournit par exemple la gestion de la qualité de service en tentant de rappeler plusieurs fois le service (ou aussi une bonne gestion des timeout).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-78">
+<br/>
+<h2 id="trueevent_driven_microservices">Event driven microservices</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-80">
+</p>
+<p>
+Évidement, il est aussi possible de récupérer des données autrement qu’en HTTP. Par exemple, pour construire des alertes sur la pression des pneus, Michelin développe des services qui vont lire dans un topic Kafka pour écrire dans un autre topic …​ qui sera utilisé par le service d’alerte de pression de pneus.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-83">
+<br/>
+<h3 id="truedashboard">Dashboard</h3>
+<br/>
+<div class="paragraph data-line-85">
+</p>
+<p>
+Le dashboard va afficher les pressions des pneus avec les pneus qui ont une mauvaise pression. Pour simuler le système Michelin, Julien va utiliser Locust - un outil de charge en Python pour injecter des données.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-88">
+</p>
+<p>
+Donc le dashboard a plusieurs consomateurs Kafka :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-90">
+<br/>
+<ul>
+<br/>
+<li>Un premier pour les mesures d’ingestion qui pousse les mesures vers le bus d'événement de Vert.x (celui-ci peu envoyer les événements vers d’autres Vert.x, ou même vers le navigateur)</li>
+<br/>
+<li>Un autre pour la perte de pression</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-93">
+<br/>
+<h3 id="trueingestion">Ingestion</h3>
+<br/>
+<div class="paragraph data-line-95">
+</p>
+<p>
+On a juste remplacé l’ingestion dans MongoDB par une ingestion dans Kafka
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-97">
+<br/>
+<h3 id="truealerte">Alerte</h3>
+<br/>
+<div class="paragraph data-line-99">
+</p>
+<p>
+Ici, on écoute sur un topic Kafka pour pousser dans un autre topic Kafka. Donc, dans ce topic, grâce à RxJava, on va grouper les événements de pression par id de pneu puis faire une régression linéaire sur ces pressions pour pousser les résultats dans un autre topic.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-102">
+<br/>
+<h3 id="trueinterface_web">Interface web</h3>
+<br/>
+<div class="paragraph data-line-104">
+</p>
+<p>
+Pour produire l’interface web, on va simplement connecter le navigateur à l’event bus pour récupérer les événements. On peut aussi envoyer des événements depuis le navigateur dans le bus d'événements
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/paulp_si" class="screenName"><img src="http://pbs.twimg.com/profile_images/1234809694344110080/PQ_sUos7_mini.jpg" alt="profile of #Zz, Passionné par la tech et l’entrepreneuriat avec un goût prononcé pour l’#IoT et les #Humains - aka https://t.co/csrnuqYKoH - membre de @volcampIO"/>paulp_si</a>
+<br/>
+<span class="name">paulp</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/paulp_si/status/1 118 805 546 784 710 656" class="date">18 avr. 2019 à 11:16:43</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Demo de suivi de pression de pneumatiques et emission d’alertes à #DevoxxFr utilisant @vertx_project et #kafka https://t.co/JkWdxD0EAI</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-video">
+<br/>
+Media at <a href="http://pbs.twimg.com/ext_tw_video_thumb/1118805515444858880/pu/img/lRR9M2FK-qlGFZ3B.jpg">http://pbs.twimg.com/ext_tw_video_thumb/1118805515444858880/pu/img/lRR9M2FK-qlGFZ3B.jpg</a>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-107">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-109">
+</p>
+<p>
+Dans l'équipe de dév, composée d’une 15aine de personnes plutôt junior, le passage à l’asynchrone n’a pas été très simple. Sans doute parce que Vert.x est un toolkit plutôt qu’un framework. L'équipe a été tentée de construire une cathédrale (autrement dit un framework).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-112">
+</p>
+<p>
+L’event bus est aussi un point important : ce bus n’est pas durable, et il n’y a pas de gestion de la back pressure. Ca en fait un mauvais candidat pour communiquer entre micro-services. Il vaut donc mieux passer par un bus externe (comme Kafka ou RabbitMQ). Parce que ça n’est <strong>pas</strong> un bus de messaging.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-115">
+</p>
+<p>
+Rentrer dans le monde des micro-services, c’est rentrer dans un nouveau monde empli de problèmes spécifiques :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-117">
+<br/>
+<ul>
+<br/>
+<li>l’idempotence</li>
+<br/>
+<li>l’exactly once delivery</li>
+<br/>
+<li>le tracing</li>
+<br/>
+<li>la synchronisation</li>
+<br/>
+<li>la (dé)normalisation</li>
+<br/>
+<li>le cache distribué</li>
+<br/>
+<li>la concurrence</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-125">
+</p>
+<p>
+Attention également : il faut monitorer et tracer les appels. C’est important parce qu’il y a toujours plusieurs instances d’un micro-service, et qu’il faut savoir quelle instance a traité quel message.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-128">
+</p>
+<p>
+D’un point de vue personnel, pour avoir déjà beaucoup joué avec Vert.x, je n’ai pas appris grand chose …​ sauf sur la partie réactive. Par contre, la présentation était très chouette, et la discussion avec Julien et Fabien sur l'ASM (le club de rugby, hein), Golo, et d'autres sujets était très chouette !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/jponge" class="screenName"><img src="http://pbs.twimg.com/profile_images/1350099660074061824/RgNOhHrg_mini.jpg" alt="profile of 💡 Reactive @RedHat 📖 Vert.x in Action @ManningBooks ➡️ Personal account, tweets do not reflect the views of my employers"/>jponge</a>
+<br/>
+<span class="name">Julien Ponge</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/jponge/status/1 118 794 563 676 717 057" class="date">18 avr. 2019 à 10:33:04</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Full room it might be 😇 https://t.co/IxsPKKPdiZ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bBuMUW0AILeaI.jpg" alt="1 118 794 556 772 896 770"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

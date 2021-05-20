@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hansel - ReadMe
+:jbake-tags: java,langage,programming,test,library,build,XP,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112701537000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhansel.sourceforge.net%2F&searchtags=java+langage+programming+test+library+build+XP+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://hansel.sourceforge.net/[Hansel - ReadMe]
+
+Hansel is an extension to JUnit that adds code coverage testing to the testing framework.

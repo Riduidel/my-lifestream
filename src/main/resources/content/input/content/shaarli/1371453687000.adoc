@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stylesheet selector by Riduidel · Pull Request #95 · sebsauvage/Shaarli
+:jbake-tags: web,shaarli,github,php,javascript,jquery,_mois_juin,_année_2013
+:jbake-date: 2013-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1371453687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsebsauvage%2FShaarli%2Fpull%2F95&searchtags=web+shaarli+github+php+javascript+jquery+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://github.com/sebsauvage/Shaarli/pull/95[Stylesheet selector by Riduidel · Pull Request #95 · sebsauvage/Shaarli]
+
+Et paf ! comment appliquer n'importe quel thème défini dans le repo nodiscc sur votre Shaarli. Et maintenant sebsauvage n'a plus qu'à accepter cette pull request pour que tout le monde en profite ;-) Je dois dire que le truc le plus pénible pour un vieux javascripteur comme moi, c'est bien d'utiliser jQuery qui fait plein de trucs différement de javascript standard, sans que je comprenne vraiment en quoi c'est "mieux".

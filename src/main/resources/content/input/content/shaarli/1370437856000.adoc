@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gary Bernhardt WAT - YouTube
+:jbake-tags: javascript,ruby,langage,programming,fun,_mois_juin,_année_2013
+:jbake-date: 2013-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1370437856000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DkXEgk1Hdze0&searchtags=javascript+ruby+langage+programming+fun+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.youtube.com/watch?v=kXEgk1Hdze0[Gary Bernhardt WAT - YouTube]
+
+Un excellent, mais alors vraiment excellent lightning talk sur les bizarreries de Javascript et Ruby. Le dernier NaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaNNaN est particulièrement drôle

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jardin Zen css: La beaut‽ de la conception CSS
+:jbake-tags: web,css,langage,exemple,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112347471000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.csszengarden.com%2Ftr%2Ffrancais%2F&searchtags=web+css+langage+exemple+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.csszengarden.com/tr/francais/[Jardin Zen css: La beaut‽ de la conception CSS]
+
+Le principal exemple de ce que le CSS peut apporter au web

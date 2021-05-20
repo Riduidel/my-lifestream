@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Explain Git with D3
+:jbake-tags: git,design,concepts,interaction,tutorial,_mois_nov.,_année_2020
+:jbake-date: 2020-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1604324436000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fonlywei.github.io%2Fexplain-git-with-d3%2F&searchtags=git+design+concepts+interaction+tutorial+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://onlywei.github.io/explain-git-with-d3/[Explain Git with D3]
+
+Une belle explication des concepts derrière les opérations classiques avec git.

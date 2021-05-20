@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome to The Hitchhiker’s Guide to PlantUML! — The Hitchhiker's Guide to PlantUML documentation
+:jbake-tags: documentation,diagram,plantuml,_mois_juin,_année_2020
+:jbake-date: 2020-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1591126980000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcrashedmind.github.io%2FPlantUMLHitchhikersGuide%2F&searchtags=documentation+diagram+plantuml+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://crashedmind.github.io/PlantUMLHitchhikersGuide/[Welcome to The Hitchhiker’s Guide to PlantUML! — The Hitchhiker's Guide to PlantUML documentation]
+
+Si par hasard la doc de PlantUML (déja archi-complète) ne vous suffit pas, vous pouvez aussi lire celle-ci

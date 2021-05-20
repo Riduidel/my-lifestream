@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: start [SwingWiki]
+:jbake-tags: programming,langage,java,swing,documentation,_mois_févr.,_année_2005
+:jbake-date: 2005-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1108570620000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.swingwiki.org%2F&searchtags=programming+langage+java+swing+documentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.swingwiki.org/[start [SwingWiki]]
+
+This site contains best practices (namespace best), workarounds for common errors and Swing quirks (namespace workaround), instructions for common tasks (namespace howto) and other general tips. Start by looking at the index page, where you will find a li

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Remote Mob Programming | How we do Remote Mob Programming.
+:jbake-tags: télétravail,programming,méthode,partage,écran,_mois_avr.,_année_2020
+:jbake-date: 2020-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1586013488000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.remotemobprogramming.org%2F&searchtags=t%C3%A9l%C3%A9travail+programming+m%C3%A9thode+partage+%C3%A9cran+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.remotemobprogramming.org/[Remote Mob Programming | How we do Remote Mob Programming.]
+
+Un très chouette site de remote mob programming. D'autant bon qu'il fournit une liste de ressources assez claire.

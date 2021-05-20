@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TabFS
+:jbake-tags: web,file,fuse,open-source,chrome,firefox,_mois_janv.,_année_2021
+:jbake-date: 2021-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1609586592000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fomar.website%2Ftabfs%2F&searchtags=web+file+fuse+open-source+chrome+firefox+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://omar.website/tabfs/[TabFS]
+
+L'idée est franchement canon (et très unixienne). Et les cas d'usage sont ... intéressants. Mais je ne suis pas sûr de m'en servir (pas parce que FUSE ne marcherait pas sous Windows, puisqu'il s'y appelle Dokan)

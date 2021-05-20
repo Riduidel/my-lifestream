@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Ward on Twitter: "Mutable programming creates a multi-dimensional graph of possible states. I've finally realized that I can't grok the number of possible states in most programs. This is why I prefer immutable programming where state is a more comprehensible tree."
+:jbake-tags: citation,programming,_mois_avr.,_année_2018
+:jbake-date: 2018-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1522731440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_JamesWard%2Fstatus%2F976316466235609089&searchtags=citation+programming+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/_JamesWard/status/976316466235609089[James Ward on Twitter: "Mutable programming creates a multi-dimensional graph of possible states. I've finally realized that I can't grok the number of possible states in most programs. This is why I prefer immutable programming where state is a more comprehensible tree."]
+
+Je suis de plus en plus d'accord avec tout ça ...

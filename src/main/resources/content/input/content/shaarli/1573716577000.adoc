@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Franck Abgrall sur Twitter : "Thousands of open source projects are using readme-md-generator to bootstrap their README file 📄 Give it a try 😉 https://t.co/EnXsStjsRC"
+:jbake-tags: readme,générateur,node.js,javascript,open-source,_mois_nov.,_année_2019
+:jbake-date: 2019-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1573716577000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FFranckAbgrall%2Fstatus%2F1194600803140620290&searchtags=readme+g%C3%A9n%C3%A9rateur+node.js+javascript+open-source+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/FranckAbgrall/status/1194600803140620290[Franck Abgrall sur Twitter : "Thousands of open source projects are using readme-md-generator to bootstrap their README file 📄 Give it a try 😉 https://t.co/EnXsStjsRC"]
+
+J'ai utilisé cet outil sur deux de mes projets, et c'est bien cool (oui, ça marche aussi pour du Java).

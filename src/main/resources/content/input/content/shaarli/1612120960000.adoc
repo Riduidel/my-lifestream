@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jeffbr13/xq: Like jq, but for XML and XPath.
+:jbake-tags: command-line,python,xml,analyse,debug,_mois_janv.,_année_2021
+:jbake-date: 2021-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1612120960000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjeffbr13%2Fxq&searchtags=command-line+python+xml+analyse+debug+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/jeffbr13/xq[jeffbr13/xq: Like jq, but for XML and XPath.]
+
+NOM DE ZEUS ! Un équivalent de jq pour xml, c'est très très chouette (même si il y a de moins en moins de XML).

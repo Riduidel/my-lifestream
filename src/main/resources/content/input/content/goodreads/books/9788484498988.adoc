@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz /15
+:jbake-tags:  amour, combat, mort, vampires,_année_2014,_mois_mai,_note_3,rayon-bd,read
+:jbake-date: 2014-05-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9788484498988.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332708604l/555592._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332708604l/555592._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/555592
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Kurono e Izumi caen en la emboscada de los hombres de negro en Shibuya. Kurono rehúsa echarle una mano, pero Izumi, como si se burlara de él, acaba con todos ellos él solo. Por otra parte, Kurono empieza a temer que los peligros a los que se enfrenta continuamente acaben resultando fatídicos para Kojima. Por si fuera poco, un paparazzi le pilla in fraganti durante una cita secreta con Reika, la <i>idol</i>, lo que provoca el fin de su relación con Kojima. A pesar de la tristeza que le invade, Kurono hace de tripas corazón y sigue con las misiones. Pero la nueva presa que Gantz exige es...
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+* link:../authors/1134860.html[Marc Bernabé]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+Fin d'un combat dantesque contre des ... vampires ?<br/>Et début d'une chasse très particulière, puisque la cible n'est pas un monstre, mais la gentille petite Taé.<br/>Et ça ça fait bizarre, même au lecteur.
+++++

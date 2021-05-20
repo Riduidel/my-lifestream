@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: deray mckesson on Twitter: "We can disagree without attacking each other. Our ideas can be in conflict without us being in conflict. Everything isn't war."
+:jbake-tags: citation,_mois_mars,_année_2016
+:jbake-date: 2016-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1458288253000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fderay%2Fstatus%2F710659420456415232&searchtags=citation+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/deray/status/710659420456415232[deray mckesson on Twitter: "We can disagree without attacking each other. Our ideas can be in conflict without us being in conflict. Everything isn't war."]
+
+

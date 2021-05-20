@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Caleb Porzio on Twitter: "🤡 Cool thing I just found out is possible in HTML. No practical use, just fun.… "
+:jbake-tags: css,html,présentation,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556259410000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcalebporzio%2Fstatus%2F1121054728148926467&searchtags=css+html+pr%C3%A9sentation+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/calebporzio/status/1121054728148926467[Caleb Porzio on Twitter: "🤡 Cool thing I just found out is possible in HTML. No practical use, just fun.… "]
+
+Hey mais c'est très chouette comme idée !

@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Revelation Space
+:jbake-tags: serie
+:jbake-date: 2004-12-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Revelation_Space.adoc
+:jbake-source: https://www.goodreads.com/series/56392
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266136600.html[L'Espace de la révélation]
+* link:../books/9782266162807.html[L'Arche de la rédemption]
+* link:../books/9782266169011.html[Le Gouffre de l'absolution]
+* link:../books/9782266147583.html[La Cité du Gouffre]
+* link:../books/9782266145374.html[Diamond Dogs, Turquoise Days]

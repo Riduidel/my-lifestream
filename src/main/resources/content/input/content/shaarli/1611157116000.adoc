@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: novelWriter – A markdown-like editor for writing novels
+:jbake-tags: écriture,open-source,art,editor,windows,macosx,linux,python,_mois_janv.,_année_2021
+:jbake-date: 2021-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1611157116000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnovelwriter.io%2F&searchtags=%C3%A9criture+open-source+art+editor+windows+macosx+linux+python+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://novelwriter.io/[novelWriter – A markdown-like editor for writing novels]
+
+Un éditeur dédié à l'écriture de nouvelles ou de romans. A chaque fois que je vois un truc comme ça, ça me donne envie de me lancer dans l'écriture ... Mais je me retiens, parce que bon, je n'aurais pas le temps.

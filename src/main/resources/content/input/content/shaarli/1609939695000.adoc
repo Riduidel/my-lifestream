@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DALL·E: Creating Images from Text
+:jbake-tags: ia,neural,art,dessin,texte,_mois_janv.,_année_2021
+:jbake-date: 2021-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1609939695000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fopenai.com%2Fblog%2Fdall-e%2F&searchtags=ia+neural+art+dessin+texte+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://openai.com/blog/dall-e/[DALL·E: Creating Images from Text]
+
+Oh, GTP-3 appliqué aux concepts pour la création artistique. C'est très chouette (et très inspirant)

@@ -1,0 +1,53 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Et alors elles en sont où ces photos ?
+:jbake-tags: dns-323,ibook,iptc,photographie,_mois_juin,_année_2014
+:jbake-date: 2014-06-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/06/19/et-alors-elles-en-sont-ou-ces-photos.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/06/19/et-alors-elles-en-sont-ou-ces-photos/
+:jbake-style: wordpress
+
+++++
+<p>
+Hein ?
+</p>
+<p>
+Parce que bon, c'est bien beau d'annoncer <a href="http://riduidel.wordpress.com/2009/09/07/iphoto-corrector/">des </a>scripts et <a href="http://riduidel.wordpress.com/2010/01/11/une-ide-que-je-nimplmenterai-peut-tre-pas/">des bidules</a> et des <a href="http://riduidel.wordpress.com/2008/07/11/comment-bien-grer-ses-photos/">machins </a>pour trier les photos. Mais depuis que j'en parle, ça devrait être fini, non ? Eh bien non !
+</p>
+<p>
+En fait j'ai rencontré sur cet ensemble de projets un certain nombres de ... difficultés. En effet, mon dernier plan était,
+<br/>
+<ol>
+<br/>
+<li>Tagger mes photos via iView Media Pro (et son descendant de chez Microsoft)</li>
+<br/>
+<li>Renommer les photos avec  XnView</li>
+<br/>
+<li>Et enfin créer à partir de ces images un ensemble de dossiers reprenant des éléments clés</li>
+<br/>
+</ol>
+<br/>
+J'avais réussi. J'avais même dans ma branche de <a href="https://github.com/Riduidel/MinigalNano">MiniGalNano</a>, un script (habilement nommé <a href="https://github.com/Riduidel/MinigalNano/blob/master/reload.php">reload.php</a>) qui créait des paquets de dossiers à partir des images de ma bibliothèque.
+</p>
+<p>
+Hélas, c'est parti en sucette à cause d'une histoire débile : autant mon NAS, sur lequel tourne ce script, est lamentablement lent pour créer des vignettes de mes images (dont la résolution native est quelque chose du genre 3600x2400 pixels). J'ai même dû arrêter d'utiliser ce script tellement c'était pathétiquement lent.
+</p>
+<p>
+Du coup, j'ai réfléchi. Réfléchi longtemps. En gros, j'avais l'outil pour héberger les fichiers, mais je n'avais pas la puissance de calcul ... Ou alors, je l'avais peut-être ... partiellement.
+</p>
+<p>
+Vous savez peut-être que j'ai un <a href="http://riduidel.wordpress.com/tag/ibook/">iBook G4</a> qui traîne dans ma cave. Alors qu'est-ce qui m'empêche de mettre en place un démarrage planifié de cet iBook, pour qu'il fasse des vignettes de mes photos et les uploade ? Hein, qu'est-ce qui m'en empêche ? Rien d'autre que le temps que ça va prendre. Cela dit, ça risque d'aller vite :
+<br/>
+<ul>
+<br/>
+<li>Je peux utiliser fuse pour monter mon NAS en SFTP</li>
+<br/>
+<li>Et je peux utiliser <a href="http://photobatch.stani.be/">phatch </a>pour faire le redimenssionement. (et comme c'est du Python, j'imagine sans problème que ça va marcher sur l'iBook).</li>
+<br/>
+<li>Par contre, pour démarrer/arrêter automatiquement l'iBook, je ne sais pas trop comment faire ... Et surtout comment faire pour que l'iBook s'arrête dès qu'il a fini de bosser.</li>
+<br/>
+</ul>
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paint.NET
+:jbake-tags: software,freeware,windows,paint,_mois_janv.,_année_2005
+:jbake-date: 2005-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1105366128000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.eecs.wsu.edu%2Fpaint.net%2F&searchtags=software+freeware+windows+paint+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.eecs.wsu.edu/paint.net/[Paint.NET]
+
+Paint.NET has many of the powerful features that expensive commercial applications have, including the ability to use layers.

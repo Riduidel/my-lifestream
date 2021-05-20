@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hacker, Hack Thyself
+:jbake-tags: programming,sécurité,_mois_juin,_année_2017
+:jbake-date: 2017-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1497207206000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.codinghorror.com%2Fhacker-hack-thyself%2F&searchtags=programming+s%C3%A9curit%C3%A9+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.codinghorror.com/hacker-hack-thyself/[Hacker, Hack Thyself]
+
+Super article sur, à mon avis, la meilleure façon de voir la sécurité applicative

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ǝuuǝıɹpɐ on Twitter: "So, Mastodon. Just FYI, if a SINGLE hostile user on a SINGLE malicious instance follows you, all your posts may be kept forever --"
+:jbake-tags: web,sécurité,mastodon,_mois_avr.,_année_2017
+:jbake-date: 2017-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1492162448000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fadrienneleigh%2Fstatus%2F850061121184604160&searchtags=web+s%C3%A9curit%C3%A9+mastodon+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/adrienneleigh/status/850061121184604160[ǝuuǝıɹpɐ on Twitter: "So, Mastodon. Just FYI, if a SINGLE hostile user on a SINGLE malicious instance follows you, all your posts may be kept forever --"]
+
+C'est intéressant ... mais en fait complètement lié au fait que ce qu'on écrit sur un réseau y reste ... par nature ... pour toujours

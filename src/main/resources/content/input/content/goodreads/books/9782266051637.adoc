@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'étoile des elfes (Les portes de la mort, #2)
+:jbake-tags:  fantasy, rayon-imaginaire,_année_1995,_mois_janv.,_note_2,broc,read
+:jbake-date: 1995-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266051637.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/260228
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+On steamy Pryan, never-ending sunlight and plentiful rain have created a jungle so vast that humans and elves dwell high in the trees and only dwarves live anywhere near the ground. From the treetops the aristocratic elves sell weapons to the other races, whose incessant warfare sends a steady steam of profits and essential resources skyward. Now, generations of dissent and race hatred will not heal -- not even under the threat of annihilation at the hands of legendary Titans. Armed with little more than their wits and prophecy, an elf, a human, and a dwarf must unite to try to save the world from destruction.
+</div>
+++++
+
+
+## Authors
+* link:../authors/869.html[Margaret Weis]
+* link:../authors/868.html[Tracy Hickman]
+
+## Series
+* link:../series/The_Death_Gate_Cycle.html[The Death Gate Cycle]
+
+## Review
+
+++++
+
+++++

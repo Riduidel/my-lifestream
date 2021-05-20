@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hack Attack: Take Launchy beyond application launching
+:jbake-tags: @toread,hack,gtd,productivité,software,tips,tool,windows,_mois_nov.,_année_2007
+:jbake-date: 2007-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1194679336000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flifehacker.com%2Fsoftware%2Fhack-attack%2Ftake-launchy-beyond-application-launching-284127.php&searchtags=%40toread+hack+gtd+productivit%C3%A9+software+tips+tool+windows+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://lifehacker.com/software/hack-attack/take-launchy-beyond-application-launching-284127.php[Hack Attack: Take Launchy beyond application launching]
+
+Tiens, il semblerait qu"'on puisse faire avec Launchy des trucs presque aussi bien que ceux possibles avec Quicksilver (du genre "append to file" dans un todo.txt)

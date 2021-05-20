@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MediaFork
+:jbake-tags: dvd,freeware,macosx,multimedia,software,vidéo,utilities,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171639309000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmediafork.dynalias.com%2Fblog%2F&searchtags=dvd+freeware+macosx+multimedia+software+vid%C3%A9o+utilities+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://mediafork.dynalias.com/blog/[MediaFork]
+
+Un ripper de DVD pour mac

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dropboxifier
+:jbake-tags: utilities,synchronisation,freeware,windows,dropbox,_mois_mai,_année_2012
+:jbake-date: 2012-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1338321122000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdropboxifier.codeplex.com%2F&searchtags=utilities+synchronisation+freeware+windows+dropbox+_mois_mai+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://dropboxifier.codeplex.com/[Dropboxifier]
+
+Eh, avec ca, je vais pouvoir synchroniser mes différentes installations d'Urban Terror ! Cool !

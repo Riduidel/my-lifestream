@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""Generate good code for the frequent case; don't optimize the exceptional case" – Hanspeter Mössenböck From an awesome paper that summarizes Niklaus Wirth's approach to compiler construction: https://t.co/vrKEnzcPyx (PDF)… https://t.co/daClLmLAdO"
+:jbake-tags: citation,programming,optimisation,_mois_avr.,_année_2018
+:jbake-date: 2018-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1523853137000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F974806372285116417&searchtags=citation+programming+optimisation+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/974806372285116417[Programming Wisdom on Twitter: ""Generate good code for the frequent case; don't optimize the exceptional case" – Hanspeter Mössenböck From an awesome paper that summarizes Niklaus Wirth's approach to compiler construction: https://t.co/vrKEnzcPyx (PDF)… https://t.co/daClLmLAdO"]
+
+Il est compliqué pour moi d'être complètement d'accord avec cette citation, mais je la trouve quand même fabuleuse (justement parce qu'elle suscite la question)

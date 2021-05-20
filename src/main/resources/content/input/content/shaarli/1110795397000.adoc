@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: quicksilver: pull the strings
+:jbake-tags: software,macosx,launcher,_mois_mars,_année_2005
+:jbake-date: 2005-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1110795397000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fquicksilver.blacktree.com%2F&searchtags=software+macosx+launcher+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://quicksilver.blacktree.com/[quicksilver: pull the strings]
+
+a quick launch tool based on keystrokes. similar to LaunchBar, I think.

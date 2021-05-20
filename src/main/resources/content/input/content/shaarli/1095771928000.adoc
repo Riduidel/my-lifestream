@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreePOPs
+:jbake-tags: gateway,email,open-source,pop,proxy,software,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1095771928000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffreepops.sourceforge.net%2Fen%2F&searchtags=gateway+email+open-source+pop+proxy+software+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://freepops.sourceforge.net/en/[FreePOPs]
+
+FreePOPs is an easily extensible program, which allows to have an access to the most varied resources through the POP3 protocol. Mainly, it can be used to download mail from the most famous webmails, but it could also be used as an aggregator for RSS fee

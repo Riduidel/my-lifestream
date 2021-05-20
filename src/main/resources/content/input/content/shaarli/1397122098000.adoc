@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Benchmark
+:jbake-tags: java,optimisation,programming,blog,_mois_avr.,_année_2014
+:jbake-date: 2014-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1397122098000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.javabenchmark.org%2F&searchtags=java+optimisation+programming+blog+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.javabenchmark.org/[Java Benchmark]
+
+Le benchmarking d'applications Java est un sujet assez pointu. Et ce blog donne quelques bonnes idées pour les cas non triviaux.

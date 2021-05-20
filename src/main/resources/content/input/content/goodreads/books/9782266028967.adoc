@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Épée de l'aurore
+:jbake-tags:  combat, fantasy, voyage,_année_2020,_mois_juil.,_note_3,rayon-imaginaire,read
+:jbake-date: 2020-07-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266028967.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329527158l/13489696._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329527158l/13489696._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/13489696
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Cover Illustration: W. Siudmak
+</div>
+++++
+
+
+## Authors
+* link:../authors/16939.html[Michael Moorcock]
+
+## Series
+* link:../series/Hawkmoon.html[Hawkmoon]
+* link:../series/The_Eternal_Champion_Sequence.html[The Eternal Champion Sequence]
+* link:../series/The_History_of_the_Runestaff.html[The History of the Runestaff]
+
+## Review
+
+++++
+Après un voyage bien compliqué, Hawkmoon entre en possession de l'épée de l'aurore, qui lui permettra d'invoquer d'anciens guerriers pour en faire son armée. C'est distrayant, mais parfois quasiment insensé. 
+++++

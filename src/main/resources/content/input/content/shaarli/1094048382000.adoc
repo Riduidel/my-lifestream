@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ActiveState - Company Information, News Room, Whitepapers, ActiveState Dynamic Languages - Dynamic Tools for Dynamic Languages
+:jbake-tags: concepts,dynamic,langage,software,_mois_sept.,_année_2004
+:jbake-date: 2004-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1094048382000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.activestate.com%2FCompany%2FNewsRoom%2Fwhitepapers_ADL.plex&searchtags=concepts+dynamic+langage+software+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.activestate.com/Company/NewsRoom/whitepapers_ADL.plex[ActiveState - Company Information, News Room, Whitepapers, ActiveState Dynamic Languages - Dynamic Tools for Dynamic Languages]
+
+Dynamic languages are high-level, dynamically typed open source languages. These languages, designed to solve the problems that programmers of all abilities face in building and integrating heterogeneous systems, have proven themselves both despite and th

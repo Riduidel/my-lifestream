@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz/8
+:jbake-tags:  combat, monstre, mort,_année_2014,_mois_mai,_note_4,rayon-bd,read
+:jbake-date: 2014-05-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782845804531.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332179802l/4937615._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332179802l/4937615._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/4937615
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Gantz, #8.
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+Non mais alors ce tome !<br/>Il me fait un peu penser, par exemple, au premier tome du trône de fer. En effet, comme dans cette introduction, la violence impitoyable enlève au lecteur ses derniers bons sentiments pour un auteur qui massacre des personnages auxquels j'ai eu le temps de m'habituer.<br/>Et en plus, en plus, toute cette destruction laisse du temps au survivant pour s'interroger sur sa survie.
+++++

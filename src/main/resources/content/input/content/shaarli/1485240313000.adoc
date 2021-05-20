@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: http://jamesporter.me/2013/08/06/javascript-end-of-the-chain.html
+:jbake-tags: javascript,object,prototype,_mois_janv.,_année_2017
+:jbake-date: 2017-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1485240313000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjamesporter.me%2F2013%2F08%2F06%2Fjavascript-end-of-the-chain.html&searchtags=javascript+object+prototype+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://jamesporter.me/2013/08/06/javascript-end-of-the-chain.html[http://jamesporter.me/2013/08/06/javascript-end-of-the-chain.html]
+
+Chouette article sur l'héritage basé sur les prototypes, qui est bien chouette.

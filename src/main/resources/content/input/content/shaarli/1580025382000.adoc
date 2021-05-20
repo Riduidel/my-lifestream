@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 👻🎃 Status Quo 🎃👻 sur Twitter : "A list of useful tools more #rustlang developers should use."
+:jbake-tags: rust,programming,tool,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580025382000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FKardOnIce%2Fstatus%2F1220743402867830784&searchtags=rust+programming+tool+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/KardOnIce/status/1220743402867830784[👻🎃 Status Quo 🎃👻 sur Twitter : "A list of useful tools more #rustlang developers should use."]
+
+Si tu fais du Rust, cette liste d'outils complémentaires à rustup/cargo pourra t'être très utile

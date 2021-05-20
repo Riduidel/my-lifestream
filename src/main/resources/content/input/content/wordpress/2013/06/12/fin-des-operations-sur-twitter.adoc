@@ -1,0 +1,49 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fin des opérations sur Twitter ?
+:jbake-tags: shaarli,twitter,web,xmpp,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/12/fin-des-operations-sur-twitter.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/12/fin-des-operations-sur-twitter/
+:jbake-style: wordpress
+
+++++
+<p>
+Ceci n'a pas de rapport avec ma sortie du googleverse.
+</p>
+<p>
+Non, c'est plutôt lié à la politique de twitter interdisant peu à peu les clients externes.
+</p>
+<p>
+Depuis ce matin, je n'ai en effet plus accès à mon compte via mon interface de choix : pidgin et jabber.
+</p>
+<p>
+Je pourrais tout à fait basculer sur un client "officiel". Mais, à la lumière des révélations récentes, je me rends compte à mon tour que l'ère du <a href="http://www.fdn.fr/Internet-libre-ou-Minitel-2.html">minitel 2.0</a> est venue, et que je dois choisir si j'accepte de passer par un serveur central et privateur pour chaque opération, ou si je dois plutôt me battre pour conserver les quelques illusions de liberté qu'il me reste.
+</p>
+<p>
+Et, même si mes derniers échanges avec @LePenduXII étaient plaisants, même si l'humour global du réseau est agréable, je dois bien reconnaître que twitter ne colle pas. Ou plutôt, twitter colle trop. Un peu comme les restaurateurs grecs à côté de St-Michel à Paris, si vous voyez ce que je veux dire ...
+</p>
+<p>
+Donc, fini twitter.
+</p>
+<p>
+Et en attendant mieux, je vais sans doute poster quelques messages via mon <a href="http://sebsauvage.net/wiki/doku.php?id=php:shaarli">shaarli</a> (inaccessible du web, mais renvoyé vers <a href="https://www.ecirtam.net/shaarlirss/">shaarlirss</a> - cherchez les liens qui viennent du shaarli nommé "mes liens"). Le mieux pouvant sans doute venir de <a href="http://movim.eu/?l=fr">movim</a>, qui ressemble à pas mal de choses que twitter n'est pas.
+</p>
+<p>
+Alors oui, vous verrez encore des messages émis par moi. Mais ces messages ne seront plus jamais émis manuellement et mon compte va devenir un authentique bot : un point de présence dans le twitterverse reprenant mes contributions extérieures. Vous y verrrez donc passer les choses suivantes :
+<br/>
+<ul>
+<br/>
+<li>ce blog</li>
+<br/>
+<li>mon compte github (par la grâce de IFTTT)</li>
+<br/>
+<li>Goodreads</li>
+<br/>
+<li>Et shaarli si j'arrive à bidouiller un truc avec IFTTT. Mais j'en reparlerai ...</li>
+<br/>
+</ul>
+</p>
+++++

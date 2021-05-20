@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XP Games
+:jbake-tags: freeware,jeu,windows,XP,_mois_avr.,_année_2008
+:jbake-date: 2008-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1207745798000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhome.comcast.net%2F%7ESupportCD%2FXPGames.html&searchtags=freeware+jeu+windows+XP+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://home.comcast.net/~SupportCD/XPGames.html[XP Games]
+
+Une très grosse liste de jeux gratuits et parfois open-source pour XP.

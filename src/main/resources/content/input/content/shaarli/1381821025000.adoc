@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L’accéléromètre, nouvel outil des publicitaires en ligne ?
+:jbake-tags: confidentialité,intimité,signature,_mois_oct.,_année_2013
+:jbake-date: 2013-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1381821025000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.frandroid.com%2Factualites-generales%2F173302_laccelerometre-nouvel-outil-publicitaires-en-ligne&searchtags=confidentialit%C3%A9+intimit%C3%A9+signature+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.frandroid.com/actualites-generales/173302_laccelerometre-nouvel-outil-publicitaires-en-ligne[L’accéléromètre, nouvel outil des publicitaires en ligne ?]
+
+C'est finallement assez dingue, toutes ces informations qu'on peut récupérer d'un smartphone. je ne sais pas si c'est le cas sur un PC de bureau (même si je pense que si, comme le montre panopticlick), mais j'ai réellement l'impression d'une plus grande accessibilité des informations bas niveau sur les smartphones qui rend les servcioes marketting complètement dingues.

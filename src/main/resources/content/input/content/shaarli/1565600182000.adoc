@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Do-nothing scripting: the key to gradual automation – Dan Slimmon
+:jbake-tags: automatisation,interface,documentation,_mois_août,_année_2019
+:jbake-date: 2019-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1565600182000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.danslimmon.com%2F2019%2F07%2F15%2Fdo-nothing-scripting-the-key-to-gradual-automation%2F&searchtags=automatisation+interface+documentation+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/[Do-nothing scripting: the key to gradual automation – Dan Slimmon]
+
+C'est une assez bonne idée, et c'est surtout un premier pas vers l'automatisation : ce qui n'est pas automatisé est déja présent dans un contexte automatisable.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lorin Hochstein E_TOO_MANY_FAILURE_MODES sur Twitter : "Constructing abstractions helps you think. Consuming abstractions helps you avoid thinking." / Twitter
+:jbake-tags: abstraction,citation,réflexion,_mois_nov.,_année_2020
+:jbake-date: 2020-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1606582789000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flhochstein%2Fstatus%2F1332426061448048640&searchtags=abstraction+citation+r%C3%A9flexion+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/lhochstein/status/1332426061448048640[Lorin Hochstein E_TOO_MANY_FAILURE_MODES sur Twitter : "Constructing abstractions helps you think. Consuming abstractions helps you avoid thinking." / Twitter]
+
+La citation est très intéressante, sur ce qu'elle dit de l'intérêt (ou pas) des abstractions.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CmapTools - Home Page Cmap.html
+:jbake-tags: software,freeware,open-source,mapping,concepts,_mois_févr.,_année_2010
+:jbake-date: 2010-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1265317972000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcmap.ihmc.us%2Fconceptmap.html&searchtags=software+freeware+open-source+mapping+concepts+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://cmap.ihmc.us/conceptmap.html[CmapTools - Home Page Cmap.html]
+
+Un très bon logiciel qui peut par exemple servir à créer facilement une carte de navigation dans un site (avec même, après un tout petit peu de travail)

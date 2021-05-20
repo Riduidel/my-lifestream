@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gérard Klein
+:jbake-tags: author
+:jbake-date: 2013-07-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/143603.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1404801720p5/143603.jpg
+:jbake-source: https://www.goodreads.com/author/show/143603
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253058038.html[Les Seigneurs de La Guerre]
+* link:../books/9782253071891.html[L'Usage des armes]

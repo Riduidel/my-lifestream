@@ -1,0 +1,143 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'abandonne
+:jbake-tags: codingame,fail,_mois_mai,_année_2017
+:jbake-date: 2017-05-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/05/20/jabandonne.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/05/20/jabandonne/
+:jbake-style: wordpress
+
+++++
+<p>
+Samedi dernier, <a href="https://www.codingame.com">Codingame </a>lançait <a href="https://www.codingame.com/contests/code4life">code4life</a>, le dernier contest en date.
+</p>
+<p>
+N'écoutant que mon courage, je m'y suis jeté. Avec d'abord une implémentation basique pour atteindre le bronze, puis deux déclinaisons successives d'une machine à état.
+</p>
+<p>
+Et aujourd'hui, avec cette machine profondément optimisée, je suis environ 250ème en silver. Il ne fait aucun doute que d'ici Lundi matin, je vais perdre encore 500 places. Mais je vais arrêter là ce contest. Plusieurs raisons à ça, que je vais détailler ici (non, je ne mettrai pas de post-mortem sur GitHub).
+<br/>
+<h2>Fais une chose, et fais-la bien</h2>
+<br/>
+J'ai commencé mon nouveau poste chez Zenika la semaine dernière. Et j'ai entamé ma première mission ce jeudi. Je pourrais vous mettre la liste des mots-clés ici, mais ce serait sûrement un peu prétentieux. Toujours est-il que beaucoup de technologies dans ce projet sont pour moi une nouveauté, ce qui m'a forcé à courir à fond dans la direction des découvertes techniques, ce qui n'est pas forcément compatible avec la précision, la focalisation nécessaire à la réussite d'un contest. Du coup, depuis avant-hier, je n'ai plus de gaz pour réfléchir correctement au problème.
+</p>
+<p>
+C'est dommage pour mon succès à Codingame, et contrairement à un autre Nicolas, je ne risque pas de gagner de t-shirt, mais d'un autre côté, avoir trop de choses intéressantes à faire, c'est clairement un problème de riche.
+<br/>
+<h2>Les streams, c'est fini</h2>
+<br/>
+A un moment donné, j'ai commencé à avoir des sales problèmes de timeout. J'ai pu, à ma surprise et ma déception, j'ai pu associer chacun de ces timeouts à une utilisation des streams Java. Vous imaginez le truc ? <strong>Chaque utilisation de stream a occasionné à un moment ou un autre un timeout</strong>.
+</p>
+<p>
+Attention, je ne dis pas que les streams sont mauvais. Juste que pour un contest codingame, les streams doivent être soigneusement évités.
+</p>
+<p>
+Et ça n'est pas tout.
+</p>
+<p>
+Vous avez tous vus les déclarations de Comparator sauce Java8 comme <a href="<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">func (h *handler) checkAuth(context *db.DatabaseContext) error {
+<br/>
+h.user = nil
+<br/>
+if context == nil {
+<br/>
+return nil
+<br/>
+}
+</p>
+<p>
+defer checkAuthRollingMean.AddSince(time.Now())
+</p>
+<p>
+var err error
+<br/>
+// If oidc enabled, check for bearer ID token
+<br/>
+if context.Options.OIDCOptions != nil {
+<br/>
+if token := h.getBearerToken(); token != "" {
+<br/>
+h.user, _, err = context.Authenticator().AuthenticateUntrustedJWT(token, context.OIDCProviders, h.getOIDCCallbackURL)
+<br/>
+if h.user == nil || err != nil {
+<br/>
+return base.HTTPErrorf(http.StatusUnauthorized, "Invalid login")
+<br/>
+}
+<br/>
+return nil
+<br/>
+}
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>#file-sortlexicographicorder-java">cet exemple</a>
+</p>
+<p>
+Eh bien de la même manière, chaque déclaration de Comparator avec une fonction s'est révélée trop coûteuse en temps CPU. Du coup, j'ai tout viré et tout réécrit de façon traditionnelle.
+</p>
+<p>
+Et ça, n'importe quel chef de projet informatique vous le dira, ça a un coût. En l'occurence, du temps passé. En regardant mes commits Git, je dirais que j'ai perdu une heure à corriger ces problèmes de performance, avec à chaque fois ces étapes
+<br/>
+<ol>
+<br/>
+<li>Copier le test généré</li>
+<br/>
+<li>Exécuter le PerformanceTest avec debug et VisualVM connecté</li>
+<br/>
+<li>Trouver le bout de code lent</li>
+<br/>
+<li>Remplacer le stream par un foreach façon java5</li>
+<br/>
+</ol>
+<br/>
+Démoralisant.
+<br/>
+<h2>Les machines à état, c'est caca</h2>
+<br/>
+Quand on regarde les règles, clairement, il y a différents états. J'ai tenté de les détailler dans ce schéma (vous pouvez le regarder en détail, mais franchement, on s'en fout).
+</p>
+<p>
+[caption id="attachment_4649" align="alignnone" width="3172"]<img class="alignnone size-full wp-image-4649" src="https://riduidel.files.wordpress.com/2017/05/sequence.png" alt="sequence" width="3172" height="1212" /> Ca a l'air sophistiqué, non ? Eh ben ça l'est ... Et je suis loin d'être sûr de la justesse du truc[/caption]
+</p>
+<p>
+En fait, tout ça ne sert à rien.
+</p>
+<p>
+Ca simplifie peut-être un peu le code, mais d'une façon malsaine : je me retrouve à micromanager alors que je devrais arbitrer. Et du coup, chaque état (qui a certes une classe associée) se complique, devient plus lourd, nécessite plus de maintenance.
+</p>
+<p>
+En vrai, si j'écoutais ce que des gens plus intelligents disent, ce que j'aurais dû faire, c'est <a href="https://www.wikiwand.com/fr/Programmation_dynamique">de la programmation dynamique</a>.
+</p>
+<p>
+C'est-à-dire qu'à chaque tour, j'aurais dû calculer tous les mouvements possibles avec autant de profondeur que possible, et choisir le mouvement qui m'apportait statistiquement le meilleur résultat.
+</p>
+<p>
+Mais je me suis entêté avec ma machine à état. Et je me retrouve comme un con la veille de la fin, sans avoir le temps de corriger mon code. C'est moche. Très moche.
+<br/>
+<h2>OK, donc t'es qu'une merde en fait ?</h2>
+<br/>
+Pas tout à fait non plus.
+</p>
+<p>
+J'ai un peu modifié mon générateur de tests pour y inclure automatique un assertThat(myCommand).isNotEqualsTo("La commande exécutée") et ça me fait gagner encore un peu de temps. Par ailleurs, je compte en gagner encore plus - un jour - via un système d'annotation pour écrire automatiquement la méthode de génération de test unitaire (JavaParser et annotations seront de la partie).
+</p>
+<p>
+Et je vais prochainement releaser sur maven central mon plugin de génération de classe unique.
+</p>
+<p>
+Ce ne sont pas des victoires, c'est vrai, et je ne gagne pas de XP. Mais je fais des choses qui m'amusent aussi.
+<br/>
+<h2>Donc tu vas faire le prochain ?</h2>
+<br/>
+On verra ... Mais je pense que oui.
+</p>
+++++

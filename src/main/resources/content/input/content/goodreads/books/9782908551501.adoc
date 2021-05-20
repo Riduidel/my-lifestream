@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Joyau Mongol
+:jbake-tags:  amour, asie, rayon-bd, vengeance,_année_2012,_mois_mai,_note_5,aventure,read
+:jbake-date: 2012-05-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782908551501.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337589011l/7722619._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337589011l/7722619._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7722619
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans la jungle de Bornéo une femme masquée dirige de sanguinaires Dayaks...
+</div>
+++++
+
+
+## Authors
+* link:../authors/555180.html[Sergio Toppi]
+
+## Series
+* link:../series/Le_collectioneur.html[Le collectioneur]
+
+## Review
+
+++++
+Chaque lecture d'une oeuvre de Toppi est un voyage dans un imaginaire puissant et singulier.<br/>Dans celui-ci, le collectioneur va dans les îles indonésiennes, puis au fin fond de l'Afghanistan.<br/>Et chaque paysage, chaque personnage, chaque élément de décor semble être une oeuvre en soi.<br/>J'adore Toppi.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Asc2wp-asciidoc-to-wordpress by sminamie
+:jbake-tags: asciidoc,wordpress,python,open-source,script,_mois_mars,_année_2017
+:jbake-date: 2017-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1488822133000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsminamie.github.io%2Fasc2wp-Asciidoc-to-Wordpress%2F&searchtags=asciidoc+wordpress+python+open-source+script+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://sminamie.github.io/asc2wp-Asciidoc-to-Wordpress/[Asc2wp-asciidoc-to-wordpress by sminamie]
+
+Un outil pour publier de l'asciidoc sur Wordpress ... Intéressant

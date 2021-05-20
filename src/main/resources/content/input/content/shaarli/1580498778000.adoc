@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marie Guillaumet sur Twitter : "#TNT20 3/ Dans chaque salle, un chronomètre maison à écran numérique, posé bien en vue sur le bureau où tu as installé tes affaires. Ça décompte le temps *avant* puis *pendant* ta conf. Ça vibre 5 minutes avant la fin, et ça affiche le titre de la prochaine session.… https://t.co/o4ZIvcNWR4"
+:jbake-tags: conférence,chronomètre,pupitre,_mois_janv.,_année_2020
+:jbake-date: 2020-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1580498778000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FkReEsTaL%2Fstatus%2F1223290594749042694&searchtags=conf%C3%A9rence+chronom%C3%A8tre+pupitre+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/kReEsTaL/status/1223290594749042694[Marie Guillaumet sur Twitter : "#TNT20 3/ Dans chaque salle, un chronomètre maison à écran numérique, posé bien en vue sur le bureau où tu as installé tes affaires. Ça décompte le temps *avant* puis *pendant* ta conf. Ça vibre 5 minutes avant la fin, et ça affiche le titre de la prochaine session.… https://t.co/o4ZIvcNWR4"]
+
+J'avoue que le compte-à-rebours avant la présentation, et jusqu'à la fin, c'est bien pratique. Même si RevealJS offre un chouette écran de speaker.

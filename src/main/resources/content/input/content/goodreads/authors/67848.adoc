@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Carl von Clausewitz
+:jbake-tags: author
+:jbake-date: 2019-10-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/67848.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1249480258p5/67848.jpg
+:jbake-source: https://www.goodreads.com/author/show/67848
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782842059712.html[Principes fondamentaux de strategie militaire]

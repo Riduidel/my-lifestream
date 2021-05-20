@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: "More computing sins are committed in name of efficiency (without achieving it) than for any other reason including blind stupidity -W.A.Wulf"
+:jbake-tags: citation,programming,performance,_mois_sept.,_année_2016
+:jbake-date: 2016-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1473666120000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F774325073255788548&searchtags=citation+programming+performance+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/774325073255788548[Mario Fusco on Twitter: "More computing sins are committed in name of efficiency (without achieving it) than for any other reason including blind stupidity -W.A.Wulf"]
+
+Juste, comme souvent

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le design dans le libre : pistes de réflexion - MARIE & JULIEN
+:jbake-tags: open-source,design,interface,_mois_févr.,_année_2017
+:jbake-date: 2017-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1487004015000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmariejulien.com%2Fpost%2F2017%2F02%2F08%2FLe-design-dans-le-libre-%253A-pistes-de-r%25C3%25A9flexion&searchtags=open-source+design+interface+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://mariejulien.com/post/2017/02/08/Le-design-dans-le-libre-%3A-pistes-de-r%C3%A9flexion[Le design dans le libre : pistes de réflexion - MARIE & JULIEN]
+
+Lu en diagonale, mais je partage complètement cette réflexion sur le manque d'esthétique de l'open-source

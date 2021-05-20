@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The emperor’s new clothes were built with Node.js | Notes (beta)
+:jbake-tags: software,programming,javascript,_mois_juin,_année_2014
+:jbake-date: 2014-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1404057207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnotes.ericjiang.com%2Fposts%2F751&searchtags=software+programming+javascript+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://notes.ericjiang.com/posts/751[The emperor’s new clothes were built with Node.js | Notes (beta)]
+
+Tiens, un article parlant de l'expérience d'un développeur utilisant node.js ... Ca peut faire dégonfler l'affreux buzz

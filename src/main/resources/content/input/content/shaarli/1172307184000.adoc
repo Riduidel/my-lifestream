@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MythTV Ubuntu Installation Guide
+:jbake-tags: linux,multimedia,reference,documentation,tutorial,install,ubuntu,_mois_févr.,_année_2007
+:jbake-date: 2007-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1172307184000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dvrplayground.com%2Farticle%2F13712%2FMythTV-Ubuntu-Installation-Guide%2F%3Fpage%3D1&searchtags=linux+multimedia+reference+documentation+tutorial+install+ubuntu+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.dvrplayground.com/article/13712/MythTV-Ubuntu-Installation-Guide/?page=1[MythTV Ubuntu Installation Guide]
+
+Un tutorial d'installation de MythTV sur Ubuntu Edgy. Bon, c'esdt pas tout à faitt ma version, mais ça devrait pouvoir aller quand même, j'imagine ...

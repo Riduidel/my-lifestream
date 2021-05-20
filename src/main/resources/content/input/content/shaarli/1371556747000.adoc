@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Extreme Boating
+:jbake-tags: science,bateau,_mois_juin,_année_2013
+:jbake-date: 2013-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1371556747000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwhat-if.xkcd.com%2F50%2F&searchtags=science+bateau+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://what-if.xkcd.com/50/[Extreme Boating]
+
+Ca laisse rêveur, ces promenades en bateau sur des alcs de mercure ou d'helium liquide.

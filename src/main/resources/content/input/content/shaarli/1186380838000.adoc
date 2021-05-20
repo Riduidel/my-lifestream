@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Réunion des musées nationaux
+:jbake-tags: art,france,search,catalog,_mois_août,_année_2007
+:jbake-date: 2007-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1186380838000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.photo.rmn.fr%2Fcf%2Fhtm%2FSearch_New.aspx&searchtags=art+france+search+catalog+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.photo.rmn.fr/cf/htm/Search_New.aspx[Réunion des musées nationaux]
+
+Un moteur de recherche permettant de parcourir tout le fond d'images de la réunion des musées nationaux. On y trouve donc des images de toutes les oeuvres desq grands musées français, d'une manière très accessible.

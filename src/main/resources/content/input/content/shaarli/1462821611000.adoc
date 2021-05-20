@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The AI Games
+:jbake-tags: programming,web,ia,_mois_mai,_année_2016
+:jbake-date: 2016-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1462821611000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftheaigames.com%2F&searchtags=programming+web+ia+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://theaigames.com/[The AI Games]
+
+Très chouette site de compétition de bots. Avec des prix en cash !

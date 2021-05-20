@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Weld: Weld meets JUnit 5
+:jbake-tags: cdi,junit,test,library,open-source,_mois_avr.,_année_2020
+:jbake-date: 2020-04-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1586191912000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fweld.cdi-spec.org%2Fnews%2F2017%2F12%2F19%2Fweld-meets-junit5%2F&searchtags=cdi+junit+test+library+open-source+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://weld.cdi-spec.org/news/2017/12/19/weld-meets-junit5/[Weld: Weld meets JUnit 5]
+
+Une bonne librairie de test JUnit 5 pour faire du CDI avec Weld !

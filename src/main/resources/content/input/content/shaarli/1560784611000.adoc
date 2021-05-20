@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Venkat Subramaniam on Twitter: "Fallacies we fall for: * it works for them, so it should work for us * it works for us, so it should work for everyone else Understanding what yields the results, and the environment to achieve that, is important."
+:jbake-tags: conférence,citation,adaptation,_mois_juin,_année_2019
+:jbake-date: 2019-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1560784611000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvenkat_s%2Fstatus%2F1137894233254309893&searchtags=conf%C3%A9rence+citation+adaptation+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/venkat_s/status/1137894233254309893[Venkat Subramaniam on Twitter: "Fallacies we fall for: * it works for them, so it should work for us * it works for us, so it should work for everyone else Understanding what yields the results, and the environment to achieve that, is important."]
+
+Ah, dilemne : ce que dit Venkat colle tellement avec ma prochaine présentation ... est-ce que je change un peu mon contenu ?

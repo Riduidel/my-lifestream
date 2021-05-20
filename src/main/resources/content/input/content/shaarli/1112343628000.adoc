@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eyetrack III - What You Most Need to Know
+:jbake-tags: web,science,multimedia,documentation,concepts,test,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112343628000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.poynterextra.org%2Feyetrack2004%2Fmain.htm&searchtags=web+science+multimedia+documentation+concepts+test+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.poynterextra.org/eyetrack2004/main.htm[Eyetrack III - What You Most Need to Know]
+
+News websites have been with us for about a decade, and editors and designers still struggle with many unanswered questions: Is homepage layout effective? ... What effect do blurbs on the homepage have compared to headlines? ... When is multimedia appropr

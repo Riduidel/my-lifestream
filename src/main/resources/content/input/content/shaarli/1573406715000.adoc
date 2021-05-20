@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dreadbot - Brian Carrigan
+:jbake-tags: discord,bot,chatbot,rust,programming,_mois_nov.,_année_2019
+:jbake-date: 2019-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1573406715000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbcarrigan.com%2F2019%2F10%2F28%2Fdreadbot%2F&searchtags=discord+bot+chatbot+rust+programming+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://bcarrigan.com/2019/10/28/dreadbot/[Dreadbot - Brian Carrigan]
+
+Ca me rappelle une discussion avec Rémi au sujet des bots Discord d'acheteurs de sneakers ...

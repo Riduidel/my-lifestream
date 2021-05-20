@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Norde - Color and customize icon sets to fit your brand
+:jbake-tags: icon,windows,editor,_mois_avr.,_année_2020
+:jbake-date: 2020-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1586613587000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnorde.io%2F&searchtags=icon+windows+editor+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://norde.io/[Norde - Color and customize icon sets to fit your brand]
+
+Oh chouette, un éditeur d'icônes SVG !

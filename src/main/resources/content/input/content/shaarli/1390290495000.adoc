@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: clever spacey title here
+:jbake-tags: science,espace,rumeur,mème,_mois_janv.,_année_2014
+:jbake-date: 2014-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1390290495000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fimgur.com%2Fgallery%2FLTAxrk8&searchtags=science+espace+rumeur+m%C3%A8me+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://imgur.com/gallery/LTAxrk8[clever spacey title here]
+
+Et donc, cette histoire du stylo à 1 Million de dollars contre le crayon à papier russe était en fait une interprétation erronée de l'histoire spatiale. Et j'ai répandu cette erreur autour de moi ... Là, j'ai honte.

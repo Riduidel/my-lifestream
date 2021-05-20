@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lorànt Deutsch ou la bonne excuse du piratage
+:jbake-tags: web,psychologie,_mois_oct.,_année_2016
+:jbake-date: 2016-10-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1477557193000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.franceculture.fr%2Femissions%2Fla-vie-numerique%2Florant-deutsch-ou-la-bonne-excuse-du-piratage&searchtags=web+psychologie+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.franceculture.fr/emissions/la-vie-numerique/lorant-deutsch-ou-la-bonne-excuse-du-piratage[Lorànt Deutsch ou la bonne excuse du piratage]
+
+Un démontage malin de l'excuse du piratage

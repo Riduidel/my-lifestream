@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Remplacer l’arrière plan d’une visio par un fond virtuel (a.k.a. Chroma-Keying) | Mon WordPress
+:jbake-tags: webcam,télétravail,incrustation,linux,configuration,_mois_mai,_année_2020
+:jbake-date: 2020-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1589998004000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flhauspie.wordpress.com%2F2020%2F05%2F19%2Fremplacer-arriere-plan-visio-par-fond-virtuel%2F&searchtags=webcam+t%C3%A9l%C3%A9travail+incrustation+linux+configuration+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://lhauspie.wordpress.com/2020/05/19/remplacer-arriere-plan-visio-par-fond-virtuel/[Remplacer l’arrière plan d’une visio par un fond virtuel (a.k.a. Chroma-Keying) | Mon WordPress]
+
+La vache, c'est du boulot 😯 Malheureusement, je pense que c'est s'équiper pour un mauvais mode de télétravail (et je sais que j'en discuterai avec Logan).

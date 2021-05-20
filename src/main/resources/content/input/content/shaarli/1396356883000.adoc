@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Writing JUnit tests for memory leaks | Palantir
+:jbake-tags: java,unit,test,mémoire,programming,_mois_avr.,_année_2014
+:jbake-date: 2014-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1396356883000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.palantir.com%2F2007%2F11%2Fwriting-junit-tests-for-memory-leaks%2F&searchtags=java+unit+test+m%C3%A9moire+programming+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.palantir.com/2007/11/writing-junit-tests-for-memory-leaks/[Writing JUnit tests for memory leaks | Palantir]
+
+Très bon article (normal chez Palantir) expliquant comment faire un test unitaire vérifiant qu'un memory leak n'existe plus. Ca ne marche toutefois aps dans mon cas, hélas.

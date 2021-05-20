@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cordwainer Smith
+:jbake-tags: author
+:jbake-date: 2004-05-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/11390.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1244379873p5/11390.jpg
+:jbake-source: https://www.goodreads.com/author/show/11390
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070427000.html[Les Seigneurs de l'instrumentalité, IV : Légendes et glossaire du futur]
+* link:../books/9782070427154.html[Les Seigneurs de l'Instrumentalité, I : Les sondeurs vivent en vain]
+* link:../books/9782070427161.html[Les Seigneurs de l'Instrumentalité, II : La Planète Shayol]

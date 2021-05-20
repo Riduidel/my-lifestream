@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dot2graphml: Converter from GraphViz .dot format to yEd GraphML
+:jbake-tags: graph,format,xml,converter,_mois_févr.,_année_2017
+:jbake-date: 2017-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1487521563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackage.haskell.org%2Fpackage%2Fdot2graphml&searchtags=graph+format+xml+converter+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://hackage.haskell.org/package/dot2graphml[dot2graphml: Converter from GraphViz .dot format to yEd GraphML]
+
+Hey, un convertisseur dot vers graphml, cool !

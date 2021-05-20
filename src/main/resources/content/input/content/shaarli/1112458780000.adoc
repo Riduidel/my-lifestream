@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Free Atomic Clock Sync utility from worldtimeserver.com
+:jbake-tags: software,freeware,windows,system,clock,_mois_avr.,_année_2005
+:jbake-date: 2005-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1112458780000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.worldtimeserver.com%2Fatomic-clock%2F&searchtags=software+freeware+windows+system+clock+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.worldtimeserver.com/atomic-clock/[Free Atomic Clock Sync utility from worldtimeserver.com]
+
+This program will reference an atomic clock server to get the current time with the greatest accuracy available and update your PC's information. It can even be set to automatically check the time once a day to keep your PC's time accurate forever. Best o

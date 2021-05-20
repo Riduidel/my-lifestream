@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Authentication and Authorization - Free JAAS Book
+:jbake-tags: javaee,authentification,sécurité,java,jaas,_mois_sept.,_année_2012
+:jbake-date: 2012-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1348824849000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jaasbook.com%2F&searchtags=javaee+authentification+s%C3%A9curit%C3%A9+java+jaas+_mois_sept.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.jaasbook.com/[Java Authentication and Authorization - Free JAAS Book]
+
+Je suis en plein dedans, espérons que le bouquin soit utile !

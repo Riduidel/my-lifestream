@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stefan Baumgartner sur Twitter : "Tabs vs spaces https://t.co/r5SVjdCh0e" / Twitter
+:jbake-tags: programming,controverse,mode,style,_mois_mai,_année_2021
+:jbake-date: 2021-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1621167121000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fddprrt%2Fstatus%2F1212843901507252225&searchtags=programming+controverse+mode+style+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/ddprrt/status/1212843901507252225[Stefan Baumgartner sur Twitter : "Tabs vs spaces https://t.co/r5SVjdCh0e" / Twitter]
+
+C'est vrai que ces histoires de tab vs space, franchement, on n'en a strictement rien à foutre : n'importe quel 'éditeur moderne doit être capable de faire la conversion, et les interpréteurs/compilateurs y sont la plupart du temps insensibles.

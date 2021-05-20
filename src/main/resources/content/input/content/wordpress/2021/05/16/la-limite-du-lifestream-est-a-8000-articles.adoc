@@ -1,0 +1,72 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La limite du lifestream est à 8000 articles
+:jbake-tags: lifestream,performance,_mois_mai,_année_2021
+:jbake-date: 2021-05-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/05/16/la-limite-du-lifestream-est-a-8000-articles.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/05/16/la-limite-du-lifestream-est-a-8000-articles/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Pour ceux qui ne savent pas de quoi je parle, j'ai un projet de <a href="https://riduidel.wordpress.com/tag/lifestream/">lifestream</a> sur lequel je travaille depuis des années (les archives du tag remontent à 2010 au moins). ce projet a connu plusieurs incarnations. <a href="https://github.com/Riduidel/lifestream">La dernière</a> était un ensemble de plugins maven générant des fichiers Asciidoc que je passais ensuite dans <a href="https://github.com/jbake-org/jbake-maven-plugin">un plugin JBake</a> pour générer un site statique. Sur le papier, l'idée était chouette.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais le vrai problème d'un projet de développeur, c'est de le faire survivre à la prod. Mon choix pour la prod était de tout faire tourner sur mon Raspberry, parce qu'il tourne, et que je m'attache de plus en plus à limiter mon empreinte carbone numérique. Sauf que le Raspberry 3 a une mémoire limitée, et que mon lifestream comprend quelques fichiers :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>2200 fichiers générés depuis Goodreads</li><li>8400 fichiers générés depuis Shaarli</li><li>1300 fichiers depuis Wordpress</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Ca fait un bon paquet, et même en essayant d'optimiser les choses, je n'arrive pas à générer un site viable. Qu'est-ce que je peux faire maintenant ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>La solution la plus simple serait de changer de machine de génération : faire ça depuis un vrai ordinateur (comme par exemple celui depuis lequel j'écris cet article) avec une belle quantité de RAM me sortirait cette épine du pied</li><li>Une autre solution serait d'abandonner le site statique pour passer à un site dynamique ... mais ça m'embête beaucoup</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Parce que l'un des prérequis de ce lifestream est d'être hébergé dans les pages perso de free.fr. Pourquoi ? Parce que c'est une solution performante :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>C:\Users\nicolas-delsaux&#62;hey http://nicolas.delsaux.free.fr/lifestream/
+
+Summary:
+  Total:        6.2935 secs
+  Slowest:      4.1379 secs
+  Fastest:      0.3488 secs
+  Average:      1.0254 secs
+  Requests/sec: 31.7790
+
+  Total data:   6755645 bytes
+  Size/request: 33778 bytes
+
+Response time histogram:
+  0.349 &#091;1]     |
+  0.728 &#091;104]   |■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+  1.107 &#091;38]    |■■■■■■■■■■■■■■■
+  1.486 &#091;22]    |■■■■■■■■
+  1.864 &#091;13]    |■■■■■
+  2.243 &#091;6]     |■■
+  2.622 &#091;6]     |■■
+  3.001 &#091;1]     |
+  3.380 &#091;2]     |■
+  3.759 &#091;4]     |■■
+  4.138 &#091;3]     |■
+</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p>Vous pouvez faire le test de chez vous, vous aurez normalement d'assez bonnes performances. Malgré la lenteur des machines de free.fr. Et ça, c'est un des plus importants objectifs de ce projet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, je pense que la prochaine étape devrait tout simplement être de déplacer la génération vers mon ordinateur de bureau, avec une quelconque solution de tâche planifiée pour Windows ... Je vais néanmoins ajouter l'écriture des fichiers dans un repository GitHub, pour faciliter la réutilisation, et travailler sur l'écriture dans un outil comme <a href="https://github.com/sdaschner/asciiblog">AsciiBlog</a>. Ou alors tenter de générer le site dans GitHub Pages, ce qui pourrait aussi être chouette (même si ma 1/2 heure de génération JBake ne risque pas d'être compatible avec GitHub Actions). Bref, j'ai encore des idées...</p>
+<!-- /wp:paragraph -->
+++++

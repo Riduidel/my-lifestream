@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Openfiler — Friendly enterprise storage management platform
+:jbake-tags: freeware,matériel,nas,réseau,open-source,server,software,system,_mois_juin,_année_2008
+:jbake-date: 2008-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1214815375000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.openfiler.com%2F&searchtags=freeware+mat%C3%A9riel+nas+r%C3%A9seau+open-source+server+software+system+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.openfiler.com/[Openfiler — Friendly enterprise storage management platform]
+
+Et un concurrent de freenas, ce qui me fait trois possibilités pour avoir un serveur de stockage "de qualité"

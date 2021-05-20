@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JAlbum - the free web photo album software and photo gallery software
+:jbake-tags: software,photographie,album,web,gallerie,freeware,macosx,windows,linux,java,_mois_févr.,_année_2008
+:jbake-date: 2008-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1202746688000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjalbum.net%2F&searchtags=software+photographie+album+web+gallerie+freeware+macosx+windows+linux+java+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://jalbum.net/[JAlbum - the free web photo album software and photo gallery software]
+
+Un générateur d'albums photos pour le web apparement très complet. Il faut juste voir s'il redimenssionne les photos. Parce que les miennes sont pour l'instant un peu grosses (des coups de 3000 pxiels de côté)

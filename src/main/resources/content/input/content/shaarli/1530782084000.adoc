@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julien Tournay on Twitter: "Using reflection extensively in your library is an pretty reliable way to - have stuff breaking randomly for no reason - get a ridiculously unhelpful error message when that happens - generally make your users miserable Yes I'm looking at you *every #Java library EVER*"
+:jbake-tags: citation,programming,java,introspection,_mois_juil.,_année_2018
+:jbake-date: 2018-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1530782084000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fskaalf%2Fstatus%2F1014439640458321922&searchtags=citation+programming+java+introspection+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/skaalf/status/1014439640458321922[Julien Tournay on Twitter: "Using reflection extensively in your library is an pretty reliable way to - have stuff breaking randomly for no reason - get a ridiculously unhelpful error message when that happens - generally make your users miserable Yes I'm looking at you *every #Java library EVER*"]
+
+C'est pour ça que je suis passé il y a quelques temps aux visiteurs, et autres patterns un peu intelligents. En fait, utiliser l'introspection, c'est un anti-pattern.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: joshbuhler.com » Setting up the Subversion Client on Mac OS X
+:jbake-tags: software,programming,macosx,system,documentation,tutorial,_mois_janv.,_année_2006
+:jbake-date: 2006-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1136454130000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.joshbuhler.com%2F2005%2F07%2F05%2Fsetting-up-the-subversion-client-on-mac-os-x%2F&searchtags=software+programming+macosx+system+documentation+tutorial+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.joshbuhler.com/2005/07/05/setting-up-the-subversion-client-on-mac-os-x/[joshbuhler.com » Setting up the Subversion Client on Mac OS X]
+
+

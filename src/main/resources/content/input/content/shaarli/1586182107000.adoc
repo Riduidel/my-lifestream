@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wildfly-extras/wildfly-microprofile-config: WildFly/Swarm extension for Eclipse MicroProfile Config
+:jbake-tags: java,programming,cdi,extension,configuration,command-line,library,open-source,_mois_avr.,_année_2020
+:jbake-date: 2020-04-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1586182107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fwildfly-extras%2Fwildfly-microprofile-config&searchtags=java+programming+cdi+extension+configuration+command-line+library+open-source+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/wildfly-extras/wildfly-microprofile-config[wildfly-extras/wildfly-microprofile-config: WildFly/Swarm extension for Eclipse MicroProfile Config]
+
+Oh cool, une extension CDI pour lire la configuration "où qu'elle soit". Je trouve ça très cool, et j'ai bien l'intention de m'en servir.

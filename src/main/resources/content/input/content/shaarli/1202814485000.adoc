@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iCraig - Software - Geotagger
+:jbake-tags: freeware,macosx,photographie,plugin,software,tool,exif,_mois_févr.,_année_2008
+:jbake-date: 2008-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1202814485000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcraig.stanton.net.nz%2Fsoftware%2FGeotagger.html&searchtags=freeware+macosx+photographie+plugin+software+tool+exif+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://craig.stanton.net.nz/software/Geotagger.html[iCraig - Software - Geotagger]
+
+Un petit logicile pour géotagger des photos dans iPhoto. Puisque c'est manifestement la seule chose qui manque à mes photos, maintenant que je les tagge avec iPhoto

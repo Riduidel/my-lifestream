@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un plus joli shaarli ...
+:jbake-tags: javascript,php,shaarli,_mois_juin,_année_2013
+:jbake-date: 2013-06-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/17/un-plus-joli-shaarli.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/17/un-plus-joli-shaarli/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon,c e week-end, j'ai eu envie de coder.
+</p>
+<p>
+Ca m'arrive de temps en temps (généralement quand je fais plus de maintenance que de nouveau dév). Là, la lubie du moment, c'est <a href="http://sebsauvage.net/wiki/doku.php?id=php:shaarli">shaarli</a>. Peut-être parce que c'est du code bien de chez nous, élevé en liberté. Peut-être aussi parce que ce delicious-like en PHP (et en un seul fichier index.php) est très simple à hacker, et que ça me change sacrément de la purée de JavaEE que je mange tous les jours - mais dont je ne me lasse curieusement pas tant que ça.
+</p>
+<p>
+Toujours est-il que, la semaine dernière, je désespérais du style pas bandant que sebsauvage fournit par défaut. Il ne faut pas le prendre comme une critiquead hominem, hein. shaarli est riche de fonctionnalités, bien fichu, mais souffre juste, je trouve, d'un look un peu ... tristounet. Surtout quand je comapre le style par défaut avec ce que certains (<a href="http://links.hoa.ro/">ArthurHoaro</a>&#160;par exemple) en font. J'avais donc entré <a href="https://github.com/sebsauvage/Shaarli/issues/93">un item GitHub</a>&#160;en espérant que quelqu'un s'en emparerait. Et puis ça me titillait trop, surtout après <a href="https://github.com/nodiscc/shaarli-themes">ce commentaire</a> indiquant qu'il existait un repository GitHub listant des thèmes shaarli "tout prêts".
+</p>
+<p>
+J'ai donc sorti mon meilleur Notepad++ et, hier après-midi, devant un reportage racontant <a href="http://boutique.arte.tv/route_des_amphores_mare_nostrum">l'histoire des amphores lors de l'expansion romaine</a> (si vous le regardez, vous pourrez ensuite faire des parallèles étonnants avec l'oil democracy américaine), suivi d'un autre sur le port disparu d'Istambul (moins bien que le premier, il faut le reconnaître), j'ai modifié le panneau de configuration de shaarli pour y ajouter ça
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2013/06/mes-liens-opera_2013-06-17_10-46-13.png"><img class="aligncenter size-full wp-image-1478" alt="mes liens - Opera_2013-06-17_10-46-13" src="http://riduidel.files.wordpress.com/2013/06/mes-liens-opera_2013-06-17_10-46-13.png" width="520" height="337"></a>
+</p>
+<p>
+Bon, évidement, c'est pas super, mais je ne suis pas plus designer que sebsauvage :-)
+</p>
+<p>
+Au niveu des sombres détails techniques, 'lessentiel du boulot est fait par du Javascript qui va se connecter à un repository de CSS pour Shaarli (en l'occurence celui de nodiscc), et le PHP se contente de copier le fichier user.css dans le dossier inc. Evidement il écrase sommairement celui déja présent.
+</p>
+<p>
+Et en bonus, avec ça, et un peu de travail, tout le monde pourra avoir un shaarli sympathique ... Enfin, une fois que sebsauvage aura accepté ma pull request (raison principale pour alquelle j'écris ce message, d'ailleurs).
+</p>
+++++

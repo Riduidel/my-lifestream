@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le jeune Picsou on Twitter: "Tu vas sur le site de la BNF et t'as des milliers de livres en accès gratuit. Vous voyez, c'est ça un grand pays. On s'en fout de qui a la + belle plage ou de qui a le meilleur assaisonement du poulet. C'est d'la merde ça. En France y'a la sécu et la BNF. Fin du débat."
+:jbake-tags: france,politique,histoire,_mois_juin,_année_2018
+:jbake-date: 2018-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1528170474000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgreatpixou%2Fstatus%2F1003002983624429575&searchtags=france+politique+histoire+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/greatpixou/status/1003002983624429575[Le jeune Picsou on Twitter: "Tu vas sur le site de la BNF et t'as des milliers de livres en accès gratuit. Vous voyez, c'est ça un grand pays. On s'en fout de qui a la + belle plage ou de qui a le meilleur assaisonement du poulet. C'est d'la merde ça. En France y'a la sécu et la BNF. Fin du débat."]
+
+Le service public, c'est ça. Et c'est bien.

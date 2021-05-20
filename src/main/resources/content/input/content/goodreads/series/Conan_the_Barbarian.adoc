@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Conan the Barbarian
+:jbake-tags: serie
+:jbake-date: 2002-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Conan_the_Barbarian.adoc
+:jbake-source: https://www.goodreads.com/series/51066
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780812542257.html[Conan the Invincible (Conan, #1)]
+* link:../books/9782290309650.html[Conan L'aventurier]

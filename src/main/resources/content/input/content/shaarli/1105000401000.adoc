@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AnandTech - Free Full Computer Games
+:jbake-tags: software,freeware,windows,jeu,_mois_janv.,_année_2005
+:jbake-date: 2005-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1105000401000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforums.anandtech.com%2Fmessageview.aspx%3Fcatid%3D33&searchtags=software+freeware+windows+jeu+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://forums.anandtech.com/messageview.aspx?catid=33[AnandTech - Free Full Computer Games]
+
+An extensive list of free full games ready to be downloaded and played.

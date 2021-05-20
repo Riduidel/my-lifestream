@@ -1,0 +1,86 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le code de porc, ça me fend le coeur
+:jbake-tags: java,programming,security,_mois_avr.,_année_2014
+:jbake-date: 2014-04-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/04/11/le-code-de-porc-ca-me-fend-le-coeur.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/04/11/le-code-de-porc-ca-me-fend-le-coeur/
+:jbake-style: wordpress
+
+++++
+<p>
+<span style="position:fixed !important;top:0 !important;left:0 !important;font-size:xx-small !important;line-height:130% !important;padding:0 2px!important;z-index:500 !important;background-color:#d6e3fe !important;display:none;border:1px!important solid!important black !important;">1</span>
+</p>
+<p>
+C'est pas tous les jours que l'actualité me permet un jeu de mot foireux, donc j'en profite.
+</p>
+<p>
+Cette semaine, une énomre, monstrueuse, terrifiante faille a été découverte dans openSSL, une faille tellement énorme qu'on lui a donné un nom qui fait peur (ou pas) : <a href="http://heartbleed.com/">Heartbleed</a>.
+</p>
+<p>
+Une faille à priori compliquée, mais que XSKCD explique fort bien :
+</p>
+<p>
+&#160;
+</p>
+<p>
+&#160;
+</p>
+<p>
+[caption id="" align="alignnone" width="640"]<a href="http://xkcd.com/1354/"><img src="http://imgs.xkcd.com/comics/heartbleed_explanation.png" alt="" width="640" height="1364" /></a> Dit comme ça, ça paraît bien[/caption]
+</p>
+<p>
+Une faille tellement énorme que la liste des sites que j'utilise et qui sont impactés (livrée par <a href="http://mashable.com/2014/04/09/heartbleed-bug-websites-affected/">Mashable</a>), me fait frémir :*
+<br/>
+<ul>
+<br/>
+<li>Twitter (indirectement, apparement)</li>
+<br/>
+<li>Dropbox</li>
+<br/>
+<li>Google (j'ai ebncore mon vieux compte GMail, même s'il est voué à la destruction)</li>
+<br/>
+<li>GitHub (et là c'est <a href="https://github.com/blog/1818-security-heartbleed-vulnerability">la totale</a> : il faut changer de mot de passe et recréer les paires de clés permettant de connecter des machines à GitHub en SSH).</li>
+<br/>
+<li>IFTTT</li>
+<br/>
+<li>Wordpress</li>
+<br/>
+<li><a href="http://worldoftanks.eu//fr/news/46/openssl-global/">Wargaming </a>(c'est-à-dire Woprld of Tanks/Warplanes/Battleships)</li>
+<br/>
+</ul>
+<br/>
+Bref, c'est l'apocalypse du mot de passe ... heureusement que j'utilise Keepass :-)
+</p>
+<p>
+Mais ça n'est pas vraiment là où je voulais en venir.
+</p>
+<p>
+Dans un de ces hasards facétieux qu'affectionne l'esprit humain, j'ai découvert également cette semaine un Tumblr assez marrant, <a href="http://code-de-porc.tumblr.com/">Code de porc</a>. Ce site, un peu à l'image du <a href="http://thedailywtf.com/default.aspx">DailyWTF</a>, recense des exemples de code pourri.
+</p>
+<p>
+Et j'aime bien rire. Je suis donc allé y jeter un oeil, et effectivement, j'ai ri. Et puis, comme quand je découvre les IgNobels, j'ai réfléchi. Qu'est-ce qui peut rendre un code pourri (comme par exemple dans le cas d'OpenSSL permettre cette faille monstrueuse) ?
+</p>
+<p>
+Bon, pour Heartbleed, c'est facile : pas de tests unitaires, un commit fait le 1er janvier très tôt le matin, et pas de peer review stricte avant de livrer.
+</p>
+<p>
+Mais sur Code de Porc, il y a aussi un autre cas, plus sournois : le refactoring de trop.
+</p>
+<p>
+Vous savez, celui où vous remplacez toutes les occurences d'un booléen (qui vaut <code>true</code>) par sa valeur, ce qui fait apparaître des bon viex
+<br/>
+<pre>if(true) {
+<br/>
+///
+<br/>
+}</pre>
+<br/>
+Ceux-là, comment les éviter ?
+</p>
+<p>
+Est-ce que <a href="http://checkstyle.sourceforge.net/config.html">checkstyle </a>a des règles pour détecter les if(boolean) ? J'en sais rien. j'en sais tellement rien que je vais poser la question à <a href="http://stackoverflow.com/q/23013306/15619">StackOverflow</a> ...
+</p>
+++++

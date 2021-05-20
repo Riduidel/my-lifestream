@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MayaPosch/NymphCast: Audio and video casting system with support for custom applications.
+:jbake-tags: streaming,vidéo,open-source,windows,macosx,linux,raspberrypi,_mois_mars,_année_2020
+:jbake-date: 2020-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1583319132000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FMayaPosch%2FNymphCast&searchtags=streaming+vid%C3%A9o+open-source+windows+macosx+linux+raspberrypi+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/MayaPosch/NymphCast[MayaPosch/NymphCast: Audio and video casting system with support for custom applications.]
+
+Ca ressemble à une alternative à Chromecast ... mais en totalement ouvert.

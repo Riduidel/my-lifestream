@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: the less cool eliza on Twitter: "if i were writing a c program, i would simply free the memory when it is no longer in use"
+:jbake-tags: citation,rust,mémoire,_mois_juin,_année_2019
+:jbake-date: 2019-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1559809988000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmycoliza%2Fstatus%2F1136283346042929152&searchtags=citation+rust+m%C3%A9moire+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mycoliza/status/1136283346042929152[the less cool eliza on Twitter: "if i were writing a c program, i would simply free the memory when it is no longer in use"]
+
+Bon, je fais du Rust, donc je trouve ça drôle. Mais à part pour les amateurs, c'est difficilement compréhensible ...

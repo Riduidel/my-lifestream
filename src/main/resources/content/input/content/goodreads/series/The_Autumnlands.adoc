@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Autumnlands
+:jbake-tags: serie
+:jbake-date: 2016-07-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Autumnlands.adoc
+:jbake-source: https://www.goodreads.com/series/160012
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782365778367.html[The Autumnlands Tome 2 Retour à la terre]
+* link:../books/9782365778350.html[The Autumnlands, Vol. 1: De Griffes et de Crocs]

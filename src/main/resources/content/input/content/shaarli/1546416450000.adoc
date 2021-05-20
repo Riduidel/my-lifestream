@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: alexellis/k8s-on-raspbian: Kubernetes on Raspbian (Raspberry Pi)
+:jbake-tags: raspberrypi,kubernetes,documentation,tutorial,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546416450000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Falexellis%2Fk8s-on-raspbian&searchtags=raspberrypi+kubernetes+documentation+tutorial+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/alexellis/k8s-on-raspbian[alexellis/k8s-on-raspbian: Kubernetes on Raspbian (Raspberry Pi)]
+
+Est-ce que je veux vraiment monter un cluster K8s sur des Raspberries ? Je ne crois pas.

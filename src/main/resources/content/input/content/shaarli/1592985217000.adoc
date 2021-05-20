@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chess Variant Pages Homepage
+:jbake-tags: jeu,échec,variantes,catalog,_mois_juin,_année_2020
+:jbake-date: 2020-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1592985217000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.chessvariants.com%2F&searchtags=jeu+%C3%A9chec+variantes+catalog+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.chessvariants.com/[Chess Variant Pages Homepage]
+
+Apparement, il semble y avoir littéralement des tonnes de variantes de jeux d'échec (j'espère que toutes ne sont pas comme "Tempête sur l'échiquier"), et ce site en recense un bon paquet.

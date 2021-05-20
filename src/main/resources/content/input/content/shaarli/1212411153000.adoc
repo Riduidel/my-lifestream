@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Holub Associates: UML Reference Card
+:jbake-tags: uml,documentation,reference,_mois_juin,_année_2008
+:jbake-date: 2008-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1212411153000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.holub.com%2Fgoodies%2Fuml%2F&searchtags=uml+documentation+reference+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.holub.com/goodies/uml/[Holub Associates: UML Reference Card]
+
+Une page de référence sur UML, avec des explications nombreuses et détaillées sur les différents diagrammes existant.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fight spam with Mail.app JunkMatcher
+:jbake-tags: software,freeware,macosx,email,réseau,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110471783000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjunkmatcher.sourceforge.net%2FHome%2F&searchtags=software+freeware+macosx+email+r%C3%A9seau+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://junkmatcher.sourceforge.net/Home/[Fight spam with Mail.app JunkMatcher]
+
+JunkMatcher filters spam using flexible regular expressions, IP query against multiple blacklists (such as SpamCop.net) and varoius other techniques such as email property matching, HTML final rendering matching etc. You can match against almost every bit

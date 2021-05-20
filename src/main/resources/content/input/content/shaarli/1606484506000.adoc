@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Failsafe - Fault tolerance and resilience patterns for the JVM
+:jbake-tags: java,networking,exception,library,open-source,_mois_nov.,_année_2020
+:jbake-date: 2020-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1606484506000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjodah.net%2Ffailsafe%2F&searchtags=java+networking+exception+library+open-source+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://jodah.net/failsafe/[Failsafe - Fault tolerance and resilience patterns for the JVM]
+
+J'ai l'impression que c'est encore une implémentation Java de circuit breaker. MAIS celle-ci m'a l'air sacrément générique (suffisamment en tout cas pour gérer autre chose que des failles réseau ...)

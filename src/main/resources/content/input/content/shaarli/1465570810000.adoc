@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "“A great programmer thinks about the program on a constant basis... That method takes a great amount of mental energy.” - Bill Gates"
+:jbake-tags: citation,programming,psychologie,_mois_juin,_année_2016
+:jbake-date: 2016-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1465570810000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F740583923223285760&searchtags=citation+programming+psychologie+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/740583923223285760[Programming Wisdom on Twitter: "“A great programmer thinks about the program on a constant basis... That method takes a great amount of mental energy.” - Bill Gates"]
+
+Je suis toujours surpris quand je découvre que certaines personnes ne pensent pas au code du matin au soir ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iphotokeywordutilities - Google Code
+:jbake-tags: iphoto,metadata,open-source,programming,macosx,exif,_mois_juin,_année_2008
+:jbake-date: 2008-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1213101590000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fiphotokeywordutilities%2F&searchtags=iphoto+metadata+open-source+programming+macosx+exif+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://code.google.com/p/iphotokeywordutilities/[iphotokeywordutilities - Google Code]
+
+Des AppleScript pour remettre les tags des photos d'iPhoto dans les tags exif

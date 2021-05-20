@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)
+:jbake-tags: software,qualité,statistiques,microsoft,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577898115000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faugustl.com%2Fblog%2F2019%2Fbest_bug_predictor_is_organizational_complexity%2F&searchtags=software+qualit%C3%A9+statistiques+microsoft+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://augustl.com/blog/2019/best_bug_predictor_is_organizational_complexity/[The #1 bug predictor is not technical, it's organizational complexity (August Lilleaas' blog)]
+
+Une étude super intéressante de Microsoft sur la source principale des bugs (qui est la complexité organisationnelle). C'est vraiment intéressant.

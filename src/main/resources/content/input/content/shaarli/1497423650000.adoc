@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Feather – Simply beautiful open source icons
+:jbake-tags: web,icon,open-source,_mois_juin,_année_2017
+:jbake-date: 2017-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1497423650000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffeathericons.com%2F&searchtags=web+icon+open-source+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://feathericons.com/[Feather – Simply beautiful open source icons]
+
+Des icônes assez jolies, et open-source, et ça c'est cool !

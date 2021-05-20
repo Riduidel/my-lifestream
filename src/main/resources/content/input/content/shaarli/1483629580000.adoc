@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: asciidoctor-maven-examples/asciidoc-to-revealjs-example at master · asciidoctor/asciidoctor-maven-examples
+:jbake-tags: asciidoc,présentation,maven,_mois_janv.,_année_2017
+:jbake-date: 2017-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1483629580000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fasciidoctor%2Fasciidoctor-maven-examples%2Ftree%2Fmaster%2Fasciidoc-to-revealjs-example&searchtags=asciidoc+pr%C3%A9sentation+maven+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/asciidoctor/asciidoctor-maven-examples/tree/master/asciidoc-to-revealjs-example[asciidoctor-maven-examples/asciidoc-to-revealjs-example at master · asciidoctor/asciidoctor-maven-examples]
+
+Génial ! Je peux laisser tomber PowerPoint alors ?

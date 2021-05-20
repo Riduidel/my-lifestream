@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Collected Stories
+:jbake-tags: serie
+:jbake-date: 2010-05-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Collected_Stories.adoc
+:jbake-source: https://www.goodreads.com/series/162366
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253087830.html[Axiomatique]
+* link:../books/9782253159896.html[Radieux]
+* link:../books/9782253159889.html[Océanique]

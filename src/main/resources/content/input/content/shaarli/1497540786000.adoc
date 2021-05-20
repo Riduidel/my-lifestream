@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: pholser/junit-quickcheck: Property-based testing, JUnit-style
+:jbake-tags: java,test,junit,library,functionnal,_mois_juin,_année_2017
+:jbake-date: 2017-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1497540786000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fpholser%2Fjunit-quickcheck%2F&searchtags=java+test+junit+library+functionnal+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/pholser/junit-quickcheck/[pholser/junit-quickcheck: Property-based testing, JUnit-style]
+
+Un runner JUnit qui teste toutes les valeurs d'un domaine. C'est conceptuellement intéressant

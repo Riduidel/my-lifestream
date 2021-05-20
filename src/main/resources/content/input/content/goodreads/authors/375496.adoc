@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Diana Schutz
+:jbake-tags: author
+:jbake-date: 2017-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/375496.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1559557349p5/375496.jpg
+:jbake-source: https://www.goodreads.com/author/show/375496
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781595829702.html[Usagi Yojimbo, Vol. 27: A Town Called Hell (Usagi Yojimbo, #27)]

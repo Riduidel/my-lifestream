@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Code rant: The Configuration Complexity Clock
+:jbake-tags: configuration,programming,concepts,_mois_mai,_année_2017
+:jbake-date: 2017-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1494412109000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmikehadlow.blogspot.com%2F2012%2F05%2Fconfiguration-complexity-clock.html&searchtags=configuration+programming+concepts+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html[Code rant: The Configuration Complexity Clock]
+
+Une fable intéressante, et à retenir

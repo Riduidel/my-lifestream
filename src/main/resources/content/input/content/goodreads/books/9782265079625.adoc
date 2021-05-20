@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Entretien avec un vampire
+:jbake-tags: ,_année_1998,_mois_août,_note_3,read
+:jbake-date: 1998-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782265079625.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1309258
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+De nos jours, à la Nouvelle-Oréans, un jeune homme a été convoqué dans l'obscurité d'une chambre d'hôtel pour écouter la plus étrange histoire qui soit. Tandis que tourne le magnétophone, son mystérieux interlocuteur raconte sa vie, sa vie de vampire.<br />Comme l'interviewer, nous nous laissons subjuguer, fasciner et entraîner à travers les siècles dans un monde sensuel et terrifiant ou l'atroce le dispute au sublime. <br />Véritable livre culte, premier volet des désormais imcontournables <i>Chroniques des vampires</i>, <i>Entretien avec un vampire</i> renouvelle totalement l'un des mythes les plus riches et les plus ambigus du fantastique.
+</div>
+++++
+
+
+## Authors
+* link:../authors/7577.html[Anne Rice]
+
+## Series
+* link:../series/The_Vampire_Chronicles.html[The Vampire Chronicles]
+
+## Review
+
+++++
+
+++++

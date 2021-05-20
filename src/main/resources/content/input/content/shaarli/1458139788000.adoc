@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grsync for Windows download | SourceForge.net
+:jbake-tags: windows,software,freeware,réseau,rsync,_mois_mars,_année_2016
+:jbake-date: 2016-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1458139788000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fgrsync-win%2F&searchtags=windows+software+freeware+r%C3%A9seau+rsync+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://sourceforge.net/projects/grsync-win/[Grsync for Windows download | SourceForge.net]
+
+Une jolie GUI pour jouer du rsync ... On doit pouvoir trouver mieux, j'espère

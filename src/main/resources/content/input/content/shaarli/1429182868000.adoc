@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Android IMSI-Catcher Detector by SecUpwN
+:jbake-tags: android,software,open-source,réseau,_mois_avr.,_année_2015
+:jbake-date: 2015-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1429182868000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsecupwn.github.io%2FAndroid-IMSI-Catcher-Detector%2F&searchtags=android+software+open-source+r%C3%A9seau+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://secupwn.github.io/Android-IMSI-Catcher-Detector/[Android IMSI-Catcher Detector by SecUpwN]
+
+A installer prochainement

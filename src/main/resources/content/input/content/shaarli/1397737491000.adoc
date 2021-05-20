@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emmanuel Bernard: L'initiative codeforfrance.org
+:jbake-tags: france,révolution,open-source,web,_mois_avr.,_année_2014
+:jbake-date: 2014-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1397737491000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Femmanuelbernard.com%2Fblog%2F2014%2F04%2F17%2Fcodeforfrance-chiche%2F&searchtags=france+r%C3%A9volution+open-source+web+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://emmanuelbernard.com/blog/2014/04/17/codeforfrance-chiche/[Emmanuel Bernard: L'initiative codeforfrance.org]
+
+Chouette article sur l'initiative codeforfrance. Il faut encore que j'écoute le podcast (et je ne doute pas qu'il sera très intéressant), mais j'aime de plus en plus les gens (spécialement quand ils sont français) qui préfèrent agir plutôt que de râler bêtement. Ca me rappelle un peu l'attitude de JM Billaut, qui voit plus l'enthousiasme des startups que l'immobilisme des institutions.

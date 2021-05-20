@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Broken Earth
+:jbake-tags: serie
+:jbake-date: 2019-12-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Broken_Earth.adoc
+:jbake-source: https://www.goodreads.com/series/112296
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290172841.html[La Cinquième Saison (Les Livres de la Terre fracturée #1)]
+* link:../books/9782290172858.html[La Porte de cristal (Les Livres de la Terre fracturée #2)]
+* link:../books/9782290228777.html[Les Cieux pétrifiés (Les Livres de la Terre fracturée, #3)]

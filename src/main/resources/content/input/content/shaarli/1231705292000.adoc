@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Project Kenai — We're More Than Just a Forge
+:jbake-tags: software,programming,développement,subversion,collaboration,hosting,open-source,_mois_janv.,_année_2009
+:jbake-date: 2009-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1231705292000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkenai.com%2F&searchtags=software+programming+d%C3%A9veloppement+subversion+collaboration+hosting+open-source+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://kenai.com/[Project Kenai — We're More Than Just a Forge]
+
+Tiens, un truc qui a l'air terrible. Dans la veine de GitHub, mais plus joli, ety peut-être plus sourceforge-like. En tout cas ça m'a l'air d'être une sacrée idée à tester.

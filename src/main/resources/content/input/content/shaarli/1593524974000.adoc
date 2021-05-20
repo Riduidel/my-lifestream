@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pluggable file systems in Java
+:jbake-tags: java,api,file,zip,exemple,_mois_juin,_année_2020
+:jbake-date: 2020-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1593524974000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgolb.hplar.ch%2F2017%2F09%2FPluggable-file-systems-in-Java.html&searchtags=java+api+file+zip+exemple+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://golb.hplar.ch/2017/09/Pluggable-file-systems-in-Java.html[Pluggable file systems in Java]
+
+A chaque fois, j'oublie les capacités cachées des Files et Path Java NIO ... En l'occurence, ici, la capacité de lire un JAR/ZIP directement

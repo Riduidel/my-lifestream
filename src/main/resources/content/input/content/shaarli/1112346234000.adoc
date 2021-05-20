@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PVII CSS-TD
+:jbake-tags: web,css,langage,documentation,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112346234000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.projectseven.com%2Ftutorials%2Fcss%2Fcss_td%2F&searchtags=web+css+langage+documentation+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.projectseven.com/tutorials/css/css_td/[PVII CSS-TD]
+
+css and table mix well

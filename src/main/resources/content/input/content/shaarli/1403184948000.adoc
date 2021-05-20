@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sortie du connecteur Tuleap Agile Planner pour Eclipse en Open Source
+:jbake-tags: programming,agile,projet,management,eclipse,_mois_juin,_année_2014
+:jbake-date: 2014-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1403184948000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Fsortie-du-connecteur-tuleap-agile-planner-pour-eclipse-en-open-source&searchtags=programming+agile+projet+management+eclipse+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://linuxfr.org/news/sortie-du-connecteur-tuleap-agile-planner-pour-eclipse-en-open-source[Sortie du connecteur Tuleap Agile Planner pour Eclipse en Open Source]
+
+Ca c'est la classe : avoir accès à tout Tuleap directement dans Eclipse, c'est vraiment bien. Parce que bon, le lien entre le code, les tâches (dév ou bugs), c'ets bien, mais il y a aussi tout une partie planification qui mérite d'être étudiée de près, je trouve.

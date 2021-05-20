@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jumsoft | Process
+:jbake-tags: software,shareware,macosx,planner,outliner,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111400427000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jumsoft.com%2Fprocess%2F&searchtags=software+shareware+macosx+planner+outliner+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.jumsoft.com/process/[Jumsoft | Process]
+
+Outliner with a To-Do list/Project planning bias. Uses Webkit to display websites in the Notes pane.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Junction Link Magic
+:jbake-tags: freeware,shell,software,system,tool,utilities,windows,XP,_mois_juin,_année_2008
+:jbake-date: 2008-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1214577863000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rekenwonder.com%2Flinkmagic.htm&searchtags=freeware+shell+software+system+tool+utilities+windows+XP+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.rekenwonder.com/linkmagic.htm[Junction Link Magic]
+
+Un utilitaire graphique de gestion des points de jonction dans Windows. Ce sera déja plus pratique que l'utilitaire en ligne de commande que j'utilise pour l'instant.

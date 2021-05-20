@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Go: the Good, the Bad and the Ugly
+:jbake-tags: programming,langage,go,critique,_mois_avr.,_année_2018
+:jbake-date: 2018-04-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1523524529000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbluxte.net%2Fmusings%2F2018%2F04%2F10%2Fgo-good-bad-ugly%2F&searchtags=programming+langage+go+critique+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/[Go: the Good, the Bad and the Ugly]
+
+Extrêmement intéressant. Certains aspects horribles (en particulier la différence entre les collections natives et les autres) me semblent être des attributs typiques d'un mauvais langage.

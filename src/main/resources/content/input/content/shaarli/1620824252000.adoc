@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven on Java 9 and later - Six Things You Need To Know // nipafx
+:jbake-tags: java,maven,module,configuration,tutorial,_mois_mai,_année_2021
+:jbake-date: 2021-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1620824252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnipafx.dev%2Fmaven-on-java-9%2F&searchtags=java+maven+module+configuration+tutorial+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://nipafx.dev/maven-on-java-9/[Maven on Java 9 and later - Six Things You Need To Know // nipafx]
+
+Me voilà obligé de créer un fichier .mvn/jvm.config ... Tout ça pour compiler du GWT. Ce serait drôle, si ça n'était pas triste!

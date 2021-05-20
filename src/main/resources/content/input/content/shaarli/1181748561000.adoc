@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Louis Naugès: Recaptcha, une idée lumineuse !
+:jbake-tags: documentation,concepts,spam,_mois_juin,_année_2007
+:jbake-date: 2007-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1181748561000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnauges.typepad.com%2Fmy_weblog%2F2007%2F05%2Frecaptcha_une_i.html&searchtags=documentation+concepts+spam+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://nauges.typepad.com/my_weblog/2007/05/recaptcha_une_i.html[Louis Naugès: Recaptcha, une idée lumineuse !]
+
+Si jamais un jour je permets les commentaires anonymes dans le bliki, promis, j'utiliserai des recaptchas.

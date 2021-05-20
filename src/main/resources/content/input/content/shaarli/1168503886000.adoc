@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Pros and Cons of Pie
+:jbake-tags: discussion,gui,documentation,concepts,_mois_janv.,_année_2007
+:jbake-date: 2007-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1168503886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmy.opera.com%2Fusability%2Fblog%2F2007%2F01%2F04%2Fthe-pros-and-cons-of-pie&searchtags=discussion+gui+documentation+concepts+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://my.opera.com/usability/blog/2007/01/04/the-pros-and-cons-of-pie[The Pros and Cons of Pie]
+
+Un article très intéressant sur l'intérêt des menus circulaires, comme ceux e Firefox ou ceux fournis par Quicksilver

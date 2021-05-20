@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le voyage dans le temps, c'est possible sur internet
+:jbake-tags: firefox,lifestream,mémoire,web,_mois_août,_année_2014
+:jbake-date: 2014-08-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/08/21/le-voyage-dans-le-temps-cest-possible-sur-internet.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/08/21/le-voyage-dans-le-temps-cest-possible-sur-internet/
+:jbake-style: wordpress
+
+++++
+<p>Notez bien que, dans le sens le plus général, c'est déja possible à travers des outils comme <a href="https://archive.org/">Internet Wayback Machine</a>, mais c'est quand même assez peu pratique.</p><p>En revanche, là où ça devient pratique, c'est quand l'historique peut s'afficher directement dans le navigateur. Et ça, c'est ce que propose le protocole <a href="http://mementoweb.org/">Memento</a>. J'imagine qu'il doit y avoir un rapport avec <a href="https://fr.wikipedia.org/wiki/Memento_%28film%29">le film</a>, mais lequel ... mystère (En passant, la construction en ping-pong marche avant/marche arrière de ce film est la même que celle du superbe roman de Iain M Banks nommé "L'usage des armes").</p><p>Enfin bref, memento, c'est une bonne idée.</p><p>Mais dans ce cas, pourquoi, POURQUOI, malgré la RFC, choisissent-ils de ne l'implémenter qu'avec Chrome en standard ? Hein ? Pourquoi. Heureusement pour moi, Firefox est open-source, et il existe une extension alternative curieusement nommée <a href="https://addons.mozilla.org/en-US/firefox/addon/mementofox/">mementofox </a>qui va me permettre de tester ce truc que j'imagine dément.</p><p>Cela dit, ce dont j'ai vraiment besoin (essentiellement pour le link rewriting dans le lifestream), c'est d'une librairie Java me fournissant l'équivalent de memento, pour pouvoir être sûr de montrer les liens tels qu'ils étaient à l'époque où je les ai sauvegardés. Ca doit pouvoir se trouver, non ? A priori, non, toutefois comme il existe un navigateur memento pour Android, j'imagine qu'il doit être possible d'en extraire le code métier pour faire des requêtes memento à la main ...</p>
+++++

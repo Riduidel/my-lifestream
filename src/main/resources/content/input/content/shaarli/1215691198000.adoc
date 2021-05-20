@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: World of Padman
+:jbake-tags: fps,freeware,fun,jeu,linux,macosx,windows,multiplayer,online,_mois_juil.,_année_2008
+:jbake-date: 2008-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1215691198000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.worldofpadman.com%2F&searchtags=fps+freeware+fun+jeu+linux+macosx+windows+multiplayer+online+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.worldofpadman.com/[World of Padman]
+
+Une espèce de FPS marrant mais apparement assez bien fait.

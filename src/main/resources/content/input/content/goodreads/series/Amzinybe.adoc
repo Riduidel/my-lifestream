@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Amžinybė
+:jbake-tags: serie
+:jbake-date: 2016-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Amzinybe.adoc
+:jbake-source: https://www.goodreads.com/series/116528
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253071624.html[Éon]
+* link:../books/9782253071648.html[Éternité]

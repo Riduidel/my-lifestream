@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ciclo di Eymerich
+:jbake-tags: serie
+:jbake-date: 2014-08-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Ciclo_di_Eymerich.adoc
+:jbake-source: https://www.goodreads.com/series/65721
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266141697.html[Nicolas Eymerich, Inquisiteur]

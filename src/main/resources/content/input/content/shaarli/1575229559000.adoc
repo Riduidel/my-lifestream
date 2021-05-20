@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 𝙇𝙖𝙧𝙨 𝙍𝙤𝙨𝙚𝙣𝙦𝙪𝙞𝙨𝙩 sur Twitter : "Would you code your infra in JavaScript? Sounds terrible right? Then why go with YAML which is even more terrible?"
+:jbake-tags: citation,yaml,javascript,configuration,_mois_déc.,_année_2019
+:jbake-date: 2019-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1575229559000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flarsrosenquist%2Fstatus%2F1200766827145641985&searchtags=citation+yaml+javascript+configuration+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/larsrosenquist/status/1200766827145641985[𝙇𝙖𝙧𝙨 𝙍𝙤𝙨𝙚𝙣𝙦𝙪𝙞𝙨𝙩 sur Twitter : "Would you code your infra in JavaScript? Sounds terrible right? Then why go with YAML which is even more terrible?"]
+
+La violence de la charge n'a d'égal que sa justesse.

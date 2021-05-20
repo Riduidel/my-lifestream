@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Unicode progress bars
+:jbake-tags: unicode,interface,command-line,_mois_mai,_année_2019
+:jbake-date: 2019-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1557909414000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchangaco.oy.lc%2Funicode-progress-bars%2F&searchtags=unicode+interface+command-line+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://changaco.oy.lc/unicode-progress-bars/[Unicode progress bars]
+
+Ah oui, choisir les bons caractères unicode pour faire une belle barre de progression, c'est vraiment bien

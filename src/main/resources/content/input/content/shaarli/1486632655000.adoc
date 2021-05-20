@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jfokus 2017 - The DevOps Disaster
+:jbake-tags: devops,présentation,_mois_févr.,_année_2017
+:jbake-date: 2017-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1486632655000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2FBertJanSchrijver%2Fjfokus-2017-the-devops-disaster&searchtags=devops+pr%C3%A9sentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.slideshare.net/BertJanSchrijver/jfokus-2017-the-devops-disaster[Jfokus 2017 - The DevOps Disaster]
+
+Chouette présentation sur la façon dont Devops peut ne pas marcher

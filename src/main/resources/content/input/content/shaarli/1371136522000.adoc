@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tip: Using Notepad++ to Read Log Files | Architects Zone
+:jbake-tags: software,tips,notepad++,windows,_mois_juin,_année_2013
+:jbake-date: 2013-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1371136522000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farchitects.dzone.com%2Farticles%2Ftip-using-notepad-read-log&searchtags=software+tips+notepad%2B%2B+windows+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://architects.dzone.com/articles/tip-using-notepad-read-log[Tip: Using Notepad++ to Read Log Files | Architects Zone]
+
+une super méthode pour rendre les logs de Glassfish (ou d'autres) lisibles sans aucun outil autre que Notepad++

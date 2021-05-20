@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Automator World
+:jbake-tags: library,macosx,plugin,productivité,reference,scripting,tips,system,tutorial,documentation,_mois_mai,_année_2006
+:jbake-date: 2006-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1149090612000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.automatorworld.com%2F&searchtags=library+macosx+plugin+productivit%C3%A9+reference+scripting+tips+system+tutorial+documentation+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.automatorworld.com/[Automator World]
+
+Le site de référence (hors Apple) pour l'utilisation d'Automator, l'une des seules technos de mon iBook dont je n'ai encore rien fait.

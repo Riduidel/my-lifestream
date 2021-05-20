@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les mecs qui se déchirent sur StackOverflow | CommitStrip
+:jbake-tags: humour,web,informatique,stackoverflow,_mois_nov.,_année_2015
+:jbake-date: 2015-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1446627812000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.commitstrip.com%2Ffr%2F2015%2F11%2F03%2Fguys-who-overdo-it-on-stackoverflow%2F&searchtags=humour+web+informatique+stackoverflow+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.commitstrip.com/fr/2015/11/03/guys-who-overdo-it-on-stackoverflow/[Les mecs qui se déchirent sur StackOverflow | CommitStrip]
+
+C'est un bon résumé de l'attitude qu'il faut pour répondre sur Stackoverflow

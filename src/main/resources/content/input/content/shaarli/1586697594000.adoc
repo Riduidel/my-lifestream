@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MichaelMure/git-bug: Distributed, offline-first bug tracker embedded in git, with bridges
+:jbake-tags: github,gitlab,bug,_mois_avr.,_année_2020
+:jbake-date: 2020-04-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1586697594000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FMichaelMure%2Fgit-bug&searchtags=github+gitlab+bug+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/MichaelMure/git-bug[MichaelMure/git-bug: Distributed, offline-first bug tracker embedded in git, with bridges]
+
+J'adore cette idée ! Ca m'a l'air franchement génial ! Il ne manque plus qu'une passerelle vers Mylyn et la vie sera belle.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Human Task Switches Considered Harmful – Joel on Software
+:jbake-tags: organisation,management,_mois_sept.,_année_2019
+:jbake-date: 2019-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1568969412000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.joelonsoftware.com%2F2001%2F02%2F12%2Fhuman-task-switches-considered-harmful%2F&searchtags=organisation+management+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.joelonsoftware.com/2001/02/12/human-task-switches-considered-harmful/[Human Task Switches Considered Harmful – Joel on Software]
+
+Ca démonte le modèle organisationnel dans lequel je suis actuellement ...

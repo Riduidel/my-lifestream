@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chauves_de_France
+:jbake-tags: bizarre,_mois_oct.,_année_2004
+:jbake-date: 2004-10-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1098436416000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsite.voila.fr%2FChauves_de_France%2Findex.jhtml&searchtags=bizarre+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://site.voila.fr/Chauves_de_France/index.jhtml[Chauves_de_France]
+
+Bienvenue sur le site de la très noble et très joyeuse Confrérie Nationale des Chauves de France.

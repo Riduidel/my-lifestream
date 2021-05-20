@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Memory Error talk
+:jbake-tags: java,documentation,concepts,mémoire,management,_mois_août,_année_2007
+:jbake-date: 2007-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1186412314000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cs.uwm.edu%2F%7Eboyland%2Fpapers%2Fmemory-error-talk.pdf&searchtags=java+documentation+concepts+m%C3%A9moire+management+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.cs.uwm.edu/~boyland/papers/memory-error-talk.pdf[Memory Error talk]
+
+Un très bon PDF sur le problème qui m'occupe actuellement : comment se relever d'une OutOfMemoryError pour notifier l'utilisateur. Coup de bol, on utilise la même méthode. Coup de pas de bol : dans mon contexte, ça plante quand même.

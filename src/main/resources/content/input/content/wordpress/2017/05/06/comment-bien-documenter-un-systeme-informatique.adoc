@@ -1,0 +1,285 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment bien documenter un système informatique ?
+:jbake-tags: agile,documentation,_mois_mai,_année_2017
+:jbake-date: 2017-05-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/05/06/comment-bien-documenter-un-systeme-informatique.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/05/06/comment-bien-documenter-un-systeme-informatique/
+:jbake-style: wordpress
+
+++++
+<p>
+Je crois que je n'ai jamais écrit un titre aussi pompeux.
+</p>
+<p>
+Enfin bref, cet article s'appuie sur différentes expériences que j'ai vécues ... avec plus ou moins de succès.
+</p>
+<p>
+Avant tout, posons la situation.
+<br/>
+<h3>Quelques hypothèses</h3>
+<br/>
+<ul>
+<br/>
+<li>Vous faites partie d'une équipe de développement logiciel (je ne sais pas si ce que je vais décrire ici marche dans d'autres situations)</li>
+<br/>
+<li>Vous disposez d'un outil de build moderne (Maven, Gradle, ou tous leurs équivalents)</li>
+<br/>
+<li>Je vais parler ici de système, plus que de logiciel, parce que la plupart du temps, vous développez plusieurs logiciels livrables : un site web, un back-end, des plugins ou des applications clientes, ...</li>
+<br/>
+<li>Le système que vous développez est unique : personne d'autre dans le monde ne fait le même système que vous en utilisant les specs à votre disposition (ou pas)</li>
+<br/>
+<li>Vous pouvez créer un nouvel artefact dans votre base de code pour stocker la partie principale de votre documentation</li>
+<br/>
+</ul>
+<br/>
+<h3>Quelques prises de conscience utiles</h3>
+<br/>
+Vous avez donc, que vous utilisez une méthode agile ou en V, commencé par définir l'architecture de votre système avant de développer le code, qui a donné lieu à une structure de données.
+</p>
+<p>
+Ca, c'est pour le système que vous allez livrer. Mais avez-vous conscience de l'autre système ?
+</p>
+<p>
+<img class="alignnone size-full wp-image-4491" src="https://riduidel.files.wordpress.com/2017/05/6bwcqwx.png" alt="6bwCQwX" width="500" height="303" />
+</p>
+<p>
+Parce que vous faite quoi de votre gestionnaire de source ? De votre chaîne d'intégration et de déploiement continu ? A ce que je sache, ces éléments sont au minimum configurés pour votre équipe (dans le cas de git, ça va vite), et dans la plupart des cas hautement personnalisés selon vos besoins. Typiquement, vous avez deux systèmes à documenter :
+<br/>
+<ol>
+<br/>
+<li>Celui que vous allez livrer</li>
+<br/>
+<li>Celui qui vous permet de le livrer</li>
+<br/>
+</ol>
+<br/>
+Quelqu'un à l'esprit joueur pourrait y voir une forme d'inception : développer un logiciel avec un ensemble de logiciels qu'on est en train de développer ...
+</p>
+<p>
+<strong>Il vous faut documenter à la fois le système que vous livrez, et celui que vous utilisez pour livrer.</strong>
+</p>
+<p>
+Par ailleurs, est-il judicieux de parler de votre système, ou des différentes incarnations de celui-ci ?
+</p>
+<p>
+<img class="alignnone size-full wp-image-4507" src="https://riduidel.files.wordpress.com/2017/05/3bm98kt.png" alt="3Bm98kT" width="610" height="467" />
+</p>
+<p>
+Parce qu'après tout, votre système va connaître de multiples incarnations :
+<br/>
+<ul>
+<br/>
+<li>Architecture logique ne décrivant que les différents composants de l'application hors de toute réalité</li>
+<br/>
+<li>Architecture physique incluant les différents environnements
+<br/>
+<ul>
+<br/>
+<li>Environnements de dév,
+<br/>
+<ul>
+<br/>
+<li>de recette</li>
+<br/>
+<li>de prod</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+<li>Environnements locaux
+<br/>
+<ul>
+<br/>
+<li>en PAAS</li>
+<br/>
+<li>dans des conteneurs Docker</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+<strong>Dans l'idéal, votre documentation doit pouvoir se projeter sur ces différents environnements.</strong>
+<br/>
+<h3>Quelques outils et méthodes utiles</h3>
+<br/>
+D'abord, mettons-nous d'accord pour dire que, comme tout le monde, vous n'avez pas envie de vous répéter. Heureusement, ce problème de la non répétition est connu depuis longtemps. Regardez par exemple cet article : <a href="http://agilemodeling.com/essays/singleSourceInformation.htm">Single Source Information: An Agile Best Practice for Effective Documentation</a>. Il est un peu vieux et prône donc l'utilisation de <a href="http://www.redaction-technique.org/format-structure-dita-xml.html">Dita XML</a>. Ne vous enfuyez pas tout de suite, je suis sûr que vous allez voir où je veux en venir.
+<br/>
+<h4>Quel format de document source utiliser ?</h4>
+<br/>
+Effectivement, il faut limiter les sources de documentation et multiplier au contraire les formats de sortie. Ca revient à dire qu'<strong>il ne faut pas utiliser Office pour créer de la documentation</strong>, et pour plusieurs raisons :
+<br/>
+<ul>
+<br/>
+<li>Le livrable et la source documentaire sont identiques</li>
+<br/>
+<li>Le système de gestion de révision intégré est loin derrière les outils de développement à notre disposition</li>
+<br/>
+<li>Le travail collaboratif est pratiquement impossible</li>
+<br/>
+<li>La création de documents lourds ne marche pas</li>
+<br/>
+<li>L'inclusion de données externes mobiles est difficile à maintenir</li>
+<br/>
+</ul>
+<br/>
+En face, évidement, il y a eu XML (avec Docbook et Dita). Eux aussi avaient leurs défauts
+<br/>
+<ul>
+<br/>
+<li>Une syntaxe lourde</li>
+<br/>
+<li>Des include incroyablement difficiles à maintenir</li>
+<br/>
+<li>La nécessité d'utiliser des éditeurs spécialisés</li>
+<br/>
+</ul>
+<br/>
+Du coup, on pourrait penser que LaTeX pourrait être une réponse. Malheureusement, je crois que sa syntaxe n'est pas vraiment légère.
+</p>
+<p>
+Du coup, je recommande chaudement d'utiliser AsciiDoc.
+<br/>
+<ul>
+<br/>
+<li>La syntaxe est simple</li>
+<br/>
+<li>Il est possible de créer des structures de documents complexes (avec les include de fragments de documents)</li>
+<br/>
+<li>Il existe des éditeurs WYSIWYG (comme par exemple <a href="http://asciidocfx.com/">AsciidocFX</a>) qui facilitent réellement la montée en compétence</li>
+<br/>
+<li>Et enfin, les documents finaux peuvent être générés pendant le build de votre projet, ce qui permet de raprocher la documentation et le code</li>
+<br/>
+</ul>
+<br/>
+<h4>Comment dessiner les diagrammes ?</h4>
+<br/>
+Evidement, ce qui vaut pour les documents vaut également pour les diagrammes : pourquoi utiliser Visio, yEd pour des diagrammes qui vont être partagés ?
+</p>
+<p>
+Coup de bol, asciidoctor fournit une bibliothèque (<a href="http://asciidoctor.org/docs/asciidoctor-diagram/">asciidoctor-diagram</a>) qui permet de générer un paquet de type de schémas différents en intégrant quelques bibliothèques bien pratiques, et en particulier <a href="http://plantuml.com/">PlantUML</a>. C'est d'autant plus intéressant que ça limite, par la nature textuelle du diagramme, la taille du dessin qui va être créé (parce que je sais pas vous mais personnellement, quand je vois un diagramme avec plus de dix noeuds, je commence à pleurer un peu).
+<br/>
+<h3>Quel plan utiliser ?</h3>
+<br/>
+On arrive à l'une des questions cruciales.
+</p>
+<p>
+Avant tout, une bonne documentation, c'est une bonne histoire. Par conséquent, tout plan de documentation qui ne permettra pas l'exposé de l'histoire du système ne pourra pas être un bon plan. Et par histoire, je ne veux pas dire son historique des décisions. Non, je parle d'une histoire au sens le plus journalistique du terme : qui ? quoi ? quand où ? comment ? et surtout pourquoi ? Si votre plan ne contient pas ces éléments sous une forme ou une autre, vous n'y arriverez pas.
+</p>
+<p>
+Coup de bol, j'ai le bon plan. ou plutôt Simon Brown a le bon plan.
+</p>
+<p>
+Vous connaissez Structurizr ? Non ? Eh bien allez y faire un tour, c'est très intéressant.
+</p>
+<p>
+En revanche, à titre personnel, comme j'aime mettre plus de texte que de diagramme, je trouve sa page <a href="https://www.structurizr.com/help/documentation">Documentation </a>encore plus intéressante. Pour une raison en particulier : il y décrit le contenu d'une bonne documentation sous la forme d'un sommaire assez bien fichu. Le voici :
+<br/>
+<ol>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/context">Context</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/functional-overview">Functional Overview</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/quality-attributes">Quality Attributes</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/constraints">Constraints</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/principles">Principles</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/software-architecture">Software Architecture</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/code">Code</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/data">Data</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/infrastructure-architecture">Infrastructure Architecture</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/deployment">Deployment</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/development-environment">Development Environment</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/operation-and-support">Operation and Support</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/decision-log">Decision Log</a></li>
+<br/>
+</ol>
+<br/>
+Eh bien le plan que je vous propose de suivre, c'est celui-là précisément.
+<br/>
+<h3>Mais comment tout ça s'organise ?</h3>
+<br/>
+<h4>Créer un artefact de documentation pour le système livrable</h4>
+<br/>
+Dans votre gestionnaire de source, créez votre artefact de documentation. Généralement, je crée un module maven sous le projet principal. Si j'ai plusieurs sous-systèmes, je vais créer un module maven par sous-système et les agréger ensuite par chapitre (si le chapitre existe) au niveau principal
+</p>
+<p>
+Pour ma part, ce sera un projet maven dans lequel je vais tout de suite ajouter <a href="https://github.com/asciidoctor/asciidoctor-maven-plugin">le plugin asciidoc</a> avec la configuration nécessaire pour générer du PlantUML.
+</p>
+<p>
+Dans le dossier des sources asciidoc (donc dans mon cas dans src/docs/asciidoc), créez un dossier include dans lequel vous créez un fichier asciidoc pour chacun des chapitres de la doc.
+<br/>
+<h4>Ecrivez votre doc</h4>
+<br/>
+Pour chacun de ces chapitres, commencez par décrire le système d'une façon générale. Ne plongez dans les détails que si ces détails sont pertinents.
+<br/>
+<h4>Ou générez votre doc</h4>
+<br/>
+Il y a tout un tas d'éléments pour lesquels il peut être pertinent de générer certains éléments :
+<br/>
+<ul>
+<br/>
+<li>des diagrammes de classes extraits du code</li>
+<br/>
+<li>des listes de classes implémentant certaines interfaces (avec des propriétés utiles)</li>
+<br/>
+</ul>
+<br/>
+Par pitié, ne vous répétez pas : vous pouvez, et devez, générer ces informations en asciidoc à partir de votre code.
+</p>
+<p>
+Pour ça, j'utilise de façon systématique groovy : avant la génération de la doc, j'ai des scripts Groovy qui vont générer (dans target/generated/docs) les différents documents utiles.
+<br/>
+<h4>Générez la doc livrable</h4>
+<br/>
+Comme les fichiers asciidoc sont dans votre doc et utilisent le même système de build, vous pouvez générer la doc à chaque livraison, et même l'inclure comme artefact de votre build.
+</p>
+<p>
+Ca vous garantit une documentation
+<br/>
+<ul>
+<br/>
+<li>à jour (puisqu'il est facile pour les développeurs de la modifier</li>
+<br/>
+<li>propre (parce que Asciidoc génère facilement quele chose de joli)</li>
+<br/>
+<li>conforme aux différents besoin de doc (puisqu'on peut facilement inclure les différentes parties de la doc dans différents documents)</li>
+<br/>
+</ul>
+<br/>
+<h3>Et ça marche bien ?</h3>
+<br/>
+Chaque fois que j'ai utilisé cette méthode, j'ai réussi à produire de la documentation efficace, propre, et complète. Je ne sais pas si c'est une preuve
+<br/>
+<h3>Mais où documente-t-on le système de développement ?</h3>
+<br/>
+Dans la partie <em>Development Environement</em>, tout simplement.
+<br/>
+<h3>Ca n'est pas un peu fastidieux de tenir à jour les diagrammes PlantUML ?</h3>
+<br/>
+Ca peut rapidement l'être, c'est pour ça que je vous présenterai bientôt les différentes solutions auxquelles je pense pour ... les générer, évidement ! (je dois d'ailleurs les tester sur mes programmes Codingame).
+<br/>
+<h3>Tout ça n'est pas un nouveau nom sur une vieille idée ?</h3>
+<br/>
+Bien sûr que si. L'idée, c'est le litterate programming, qui a connu des dizaines d'incarnation. Celle-ci est juste un peu plus moderne.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C’est la Technozaure de Lille !
+:jbake-tags: conférence,lille,zenika,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556253940000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.zenika.com%2F2019%2F04%2F26%2Fcest-la-technozaure-de-lille%2F&searchtags=conf%C3%A9rence+lille+zenika+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.zenika.com/2019/04/26/cest-la-technozaure-de-lille/[C’est la Technozaure de Lille !]
+
+Il est pas beau cet article (que j'ai écrit) sur le technozaure qui a eu lieu à Lille il y a peu ? Merci à tous mes collègues !

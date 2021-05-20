@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andrew's Mac Tips -- Quick Look -- Window Dragon
+:jbake-tags: software,freeware,macosx,_mois_nov.,_année_2005
+:jbake-date: 2005-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1131111229000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.andrewburke.orcon.net.nz%2Fmac%2Fdragon.htm&searchtags=software+freeware+macosx+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.andrewburke.orcon.net.nz/mac/dragon.htm[Andrew's Mac Tips -- Quick Look -- Window Dragon]
+
+short description of really useful mac freewares and sharewares

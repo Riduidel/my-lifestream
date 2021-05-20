@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Warsow - A Fast Paced First Person Shooter Game
+:jbake-tags: 3d,freeware,jeu,linux,software,windows,fun,open-source,_mois_févr.,_année_2006
+:jbake-date: 2006-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1139322963000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.warsow.net%2F&searchtags=3d+freeware+jeu+linux+software+windows+fun+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.warsow.net/[Warsow - A Fast Paced First Person Shooter Game]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Data Visualization: Modern Approaches | Graphics | Smashing Magazine
+:jbake-tags: art,display,exemple,gallerie,graphics,programming,software,technologie,usability,visualisation,web,_mois_nov.,_année_2007
+:jbake-date: 2007-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1194006113000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.smashingmagazine.com%2F2007%2F08%2F02%2Fdata-visualization-modern-approaches%2F&searchtags=art+display+exemple+gallerie+graphics+programming+software+technologie+usability+visualisation+web+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.smashingmagazine.com/2007/08/02/data-visualization-modern-approaches/[Data Visualization: Modern Approaches | Graphics | Smashing Magazine]
+
+De superbes visualisations de données; pas toujours intelligibles, mais toujours très belles

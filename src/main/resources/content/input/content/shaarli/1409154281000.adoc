@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Static image gallery generator comparison (FOSS)
+:jbake-tags: web,image,gallerie,_mois_août,_année_2014
+:jbake-date: 2014-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1409154281000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nico.schottelius.org%2Fdocs%2Fstatic-image-gallery-generator-comparison%2F&searchtags=web+image+gallerie+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.nico.schottelius.org/docs/static-image-gallery-generator-comparison/[Static image gallery generator comparison (FOSS)]
+
+Une petite liste de générateurs de galleries totallement statiques

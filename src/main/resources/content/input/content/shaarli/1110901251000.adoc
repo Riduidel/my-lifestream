@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Saskatoon
+:jbake-tags: software,freeware,open-source,macosx,editor,programming,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110901251000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsaskatoon.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+editor+programming+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://saskatoon.sourceforge.net/[Saskatoon]
+
+A coder's text editor for Mac OS X (open-source). Features include: user-extensible syntax coloring, regular expression search and replace, run-in-shell, text transforms, a code snippets drawer, HTML pretty-printing, HTML preview, and excellent keyboard c

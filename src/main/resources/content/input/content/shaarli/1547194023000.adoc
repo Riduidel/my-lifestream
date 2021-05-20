@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kubernetes Deployments with Helm - Secrets | ePages Developer Portal
+:jbake-tags: helm,secret,kubernetes,tutorial,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547194023000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdeveloper.epages.com%2Fblog%2Ftech-stories%2Fkubernetes-deployments-with-helm-secrets%2F&searchtags=helm+secret+kubernetes+tutorial+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://developer.epages.com/blog/tech-stories/kubernetes-deployments-with-helm-secrets/[Kubernetes Deployments with Helm - Secrets | ePages Developer Portal]
+
+Un bon tutorial pour démarrer avec helm secrets

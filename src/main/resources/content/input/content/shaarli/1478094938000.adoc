@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: raspiBackup - Raspberry backups itself
+:jbake-tags: raspberrypi,linux,backup,_mois_nov.,_année_2016
+:jbake-date: 2016-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1478094938000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.linux-tips-and-tricks.de%2Fen%2Fraspberry%2F303-pi-creates-automatic-backups-of-itself%2F&searchtags=raspberrypi+linux+backup+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.linux-tips-and-tricks.de/en/raspberry/303-pi-creates-automatic-backups-of-itself/[raspiBackup - Raspberry backups itself]
+
+Bien plus propre que d'écrire des appels à dd à la main, je trouve

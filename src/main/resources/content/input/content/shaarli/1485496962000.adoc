@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Codemanship on Twitter: "TDD Tip #75: Avoid setting team targets for TDD like test coverage. They’re too easily gamed #101TddTips https://t.co/gMTuwwCAv3"
+:jbake-tags: programming,test,metrics,_mois_janv.,_année_2017
+:jbake-date: 2017-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1485496962000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodemanship%2Fstatus%2F824152214826549250&searchtags=programming+test+metrics+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/codemanship/status/824152214826549250[Codemanship on Twitter: "TDD Tip #75: Avoid setting team targets for TDD like test coverage. They’re too easily gamed #101TddTips https://t.co/gMTuwwCAv3"]
+
+Ironiquement, ça a été fait sur des projets ... que je connais.

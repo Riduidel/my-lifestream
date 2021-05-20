@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ActiveMQ Security Guide
+:jbake-tags: java,web,sécurité,certificat,authentification,_mois_oct.,_année_2017
+:jbake-date: 2017-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1508944382000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faccess.redhat.com%2Fdocumentation%2Fen-US%2FFuse_ESB%2F4.4.1%2Fhtml-single%2FActiveMQ_Security_Guide%2Findex.html%23SSL&searchtags=java+web+s%C3%A9curit%C3%A9+certificat+authentification+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://access.redhat.com/documentation/en-US/Fuse_ESB/4.4.1/html-single/ActiveMQ_Security_Guide/index.html#SSL[ActiveMQ Security Guide]
+
+Un bon guide de sécurisation ActiveMQ (parfait pour quelqu'un qui doit sécuriser des accès sans rien y comprendre)

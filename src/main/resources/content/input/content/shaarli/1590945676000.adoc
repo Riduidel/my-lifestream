@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Delft Students on Software Architecture - DESOSA 2020
+:jbake-tags: architecture,logiciel,programming,analyse,design,_mois_mai,_année_2020
+:jbake-date: 2020-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1590945676000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdesosa.nl%2F&searchtags=architecture+logiciel+programming+analyse+design+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://desosa.nl/[Delft Students on Software Architecture - DESOSA 2020]
+
+J'ai bien l'impression qu'il va me falloir prendre le temps de lire chacun de ces articles, pour le fond et pour la forme.

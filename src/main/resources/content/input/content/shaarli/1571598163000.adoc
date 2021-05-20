@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julien Vehent sur Twitter : "Unpopular opinion: unless you have a large dedicated ops team, don't even look at kubernetes. AWS, GCP, Azure and Heroku all have "batteries included" PaaS that are excellent and will get you a long way before k8s is needed. Plus it's a nightmare of complexity."
+:jbake-tags: kubernetes,administration,_mois_oct.,_année_2019
+:jbake-date: 2019-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1571598163000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjvehent%2Fstatus%2F1185303021984604171&searchtags=kubernetes+administration+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jvehent/status/1185303021984604171[Julien Vehent sur Twitter : "Unpopular opinion: unless you have a large dedicated ops team, don't even look at kubernetes. AWS, GCP, Azure and Heroku all have "batteries included" PaaS that are excellent and will get you a long way before k8s is needed. Plus it's a nightmare of complexity."]
+
+J'aimerai bien avoir l'avis de mes meilleurs Kubernetistes à ce sujet (mais en tant que développeur, j'ai tendance à être parfaitement d'accord avec cette opinion).

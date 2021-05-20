@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Peredur le naïf (Arthur, une épopée celtique, #7)
+:jbake-tags:  rayon-bd,_année_2010,_mois_mars,_note_3,combat,read
+:jbake-date: 2010-03-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847893274.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463845042l/6943642._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463845042l/6943642._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6943642
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/123874.html[David Chauvel]
+* link:../authors/208442.html[Jean-Luc Simon]
+* link:../authors/208441.html[Jérôme Lereculey]
+
+## Series
+* link:../series/Arthur__une_epopee_celtique.html[Arthur, une épopée celtique]
+
+## Review
+
+++++
+On sent un côté sombre poindre doucement, dans les interventions de Myrrdhin, mais aussi (et surtout) dans les aventures de ce courageux Peredur.
+++++

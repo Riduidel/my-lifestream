@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trampolining: a practical guide for awesome Java Developers
+:jbake-tags: java,programming,tutorial,librairie,_mois_janv.,_année_2020
+:jbake-date: 2020-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1578646573000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40johnmcclean%2Ftrampolining-a-practical-guide-for-awesome-java-developers-4b657d9c3076%23.63mh5t4x9&searchtags=java+programming+tutorial+librairie+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/@johnmcclean/trampolining-a-practical-guide-for-awesome-java-developers-4b657d9c3076#.63mh5t4x9[Trampolining: a practical guide for awesome Java Developers]
+
+La partie du début (sur les trampolines en tant que telle) est franchement cool. Par contre, l'intégration dans les streams devient vraiment fonctionnaliste ...

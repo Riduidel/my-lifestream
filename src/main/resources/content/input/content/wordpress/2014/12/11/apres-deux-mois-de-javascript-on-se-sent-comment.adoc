@@ -1,0 +1,183 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Après deux mois de Javascript, on se sent comment ?
+:jbake-tags: architecture,javascript,maven,_mois_déc.,_année_2014
+:jbake-date: 2014-12-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/12/11/apres-deux-mois-de-javascript-on-se-sent-comment.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/12/11/apres-deux-mois-de-javascript-on-se-sent-comment/
+:jbake-style: wordpress
+
+++++
+<p>
+La question peut paraître ... curieuse. Elle n'en demeure pas moins valide : quand on est comme moi un développeur Java un peu expérimenté, et qu'on passe d'un coup à ce langage aussi ubiquitaire que malaimé, qu'est-ce qui surprend ? Qu'est-ce qui étonne ? Qu'est-ce qui déçoit ?
+<br/>
+<h3>J'ai vu des choses ...</h3>
+<br/>
+Avant d'aller plus loin, une petite mise au point. Je ne vais pas vous parler du dernier projet à la mode de lad ernière startup qui démarre. Non. J'ai fait du Javascript ces deux derniers mois pour la même raison qui m'avait forcé à faire du Flex pendant trois ans en pointillés sur le même projet : si vous voulez faire une <a href="http://adobe-cep.github.io/CEP-Resources/">extension pour indesign CC 2014</a>, vous n'avez pas vraiment le choix, vous devez faire du HTML+Javascript. Alors du coup, je ne vais pas vous parler de Javascript qui communique avec son serveur via HTTP, mais de Javascript qui communique avec une extension Java/C++ via le système de communication créé par Adobe. Et, il faut le dire, Adobe fait des choix techniques ... surprenants (j'y reviendrais).
+</p>
+<p>
+En dehors de ces contraintes techniques spécifiques, l'application sur laquelle j'ai bossé n'a pas vraiment de spécificités. Enfin, pas trop :-)
+<br/>
+<h3>Alors, grunt, bower, npm ?</h3>
+<br/>
+hrm hrm ...
+</p>
+<p>
+Je vais essayer d'expliquer ça de façon claire, même si ça va choquer.
+</p>
+<p>
+Le projet pour lequel on fait cette interface est un projet multi-module de taille "moyenne" : 32 modules différents, compilant et générant tout un tas d'artefacts. Est-ce que j'allais introduire dans ce gros paquet de modules, et dans mon Jenkins, un autre outil, ou plutôt ensemble d'outils ? Non. Je voulais (peut-être de façon dogmatique) que cette interface soit packagée par maven.
+<br/>
+<h4>Tester du JS dans maven, c'est possible ?</h4>
+<br/>
+A la lumière de mes expériences avec Wisdom, je me suis dit que j'allais jeter un oeil à <a href="https://github.com/eirslett/frontend-maven-plugin">frontend-maven-plugin</a> histoire de profiter de ses fonctionnalités (en particulier les tests). Mais, curieusement, je n'ai pas réussi à lui faire faire quoi que ce soit. Alors j'ai arrêté de faire le mariole, et j'ai dit à l'un de mes collègues de faire un système de test Javascript à base de Fluentlenium (qui est devenu pour une raison que j'ignore du Selenium pur et dur) et de <a href="https://github.com/Pragmatists/junitparams">JunitParams</a>.
+</p>
+<p>
+Autrement dit, pour chaque test Javascript, on crée un fichier HTML le chargeant via requirejs (j'y reviendrai) et on récupère grâce à Selenium le résultat du test via un peu de Javascript. Ca pique un peu les yeux la première fois, mais ça marche en fait très bien (même si <a href="http://jasmine.github.io/2.0/introduction.html#section-Asynchronous_Support">tester du code asynchrone avec Jasmine</a> est un peu compliqué).
+<br/>
+<h4>Et les dépendances ?</h4>
+<br/>
+Bon, évidement, comme notre projet n'utilise pas HTTP, nos dépendances Javascript (pour lesquelles Webjars rempalce très avantageusement NPM) nécessitent un peu de travail, essentiellement pour faire une translation de chemin qui les rende facilement utilisables.
+</p>
+<p>
+Je m'explique.
+</p>
+<p>
+Notre projet a (par exemple) ces dépendances :
+<br/>
+<pre>
+<br/>
+&#60;dependency&#62;
+<br/>
+            &#60;groupId&#62;org.webjars&#60;/groupId&#62;
+<br/>
+            &#60;artifactId&#62;requirejs&#60;/artifactId&#62;
+<br/>
+            &#60;version&#62;2.1.14-3&#60;/version&#62;
+<br/>
+        &#60;/dependency&#62;
+<br/>
+        &#60;dependency&#62;
+<br/>
+            &#60;groupId&#62;org.webjars&#60;/groupId&#62;
+<br/>
+            &#60;artifactId&#62;requirejs-text&#60;/artifactId&#62;
+<br/>
+            &#60;version&#62;2.0.10&#60;/version&#62;
+<br/>
+        &#60;/dependency&#62;
+<br/>
+        &#60;dependency&#62;
+<br/>
+            &#60;groupId&#62;org.webjars&#60;/groupId&#62;
+<br/>
+            &#60;artifactId&#62;log4javascript&#60;/artifactId&#62;
+<br/>
+            &#60;version&#62;1.4.9&#60;/version&#62;
+<br/>
+        &#60;/dependency&#62;
+</p>
+<p>
+</pre>
+<br/>
+Comment je fais pour utiliser log4javascript sans m'emmerder à mettre son numéro de version partout ?
+</p>
+<p>
+Parce que, par exemple, avec Wisdom (désolé de prendre cet exemple de façon systématique, mais son utilisation m'a appris quelques trucs vraiment chouettes), je n'ai pas besoin de mettre le numéro de version grâce au <a href="https://github.com/wisdom-framework/wisdom/blob/master/framework/resource-controller/src/main/java/org/wisdom/resources/WebJarController.java"><code>WebJarController</code></a>.
+</p>
+<p>
+Eh bien c'est ... assez compliqué, et ça se fait en plusieurs étapes
+<br/>
+<ol>
+<br/>
+<li>On a un script groovy (encore merci à gmaven) qui nous permet de créer pour les dépendances Javascript des propriétés maven. Les artefacts mentionnés me donnent donc les propriétés <code>org.webjars:requirejs:javascript:require</code>, <code>org.webjars:requirejs-text:javascript:text</code> et <code>org.webjars:log4javascript:javascript:log4javascript</code> qui deviennent faciles à inclure dans un <code>&#60;script src="${org.webjars:log4javascript:javascript:log4javascript}"&#62;&#60;/script&#62;</code></li>
+<br/>
+<li>Le même script maven crée également une grosse variable <code>${requirejs.dependencies.compile.paths}</code> qui sera bien utile pour générer le shim de requirejs.</li>
+<br/>
+<li>Et tous nos artefacts javascript sont dézippés grâce à amven-assembly-plugin pour générer l'application.</li>
+<br/>
+</ol>
+<br/>
+Alors évidement, toutes ces technologies sont infiniment moins hypes que les build tools Javascript, mais elles nous permettent d'intégrer proprement des dépendances Javascripts dans notre build et ça, ça fait plaisir.
+<br/>
+<h3>Et <a href="http://requirejs.org/">requirejs</a>, c'est vraiment bien ?</h3>
+<br/>
+Vous allez rire (ou pas), mais pour l'instant, deux choses ont été embêtantes (mais résolues)
+<br/>
+<ol>
+<br/>
+<li>Si vous chargez tous vos scripts avec le protocole file://, vous serez limités par la longueur maximale des chemins de Windows. Et si vous avez des gros chemins, par exemple pour des classes Java dans des packages profonds pour lesquelles vous générez des stubs Javascript à l'aide de flexmojos (essentiellement parce que GraniteDS intègre un super générateur pour les entités et les services - et ne me demandez pas comment je transforme mes fichiers .as en .js), eh bien vous allez pouvoir vous amuser à écrire un algorithme de translation de chemin et un plugin amven (ou un script gmaven) pour copier les bons fichiers aux bons endroits au bon moment (parce que amven-assembly-plugin est clairement dépassé, là).</li>
+<br/>
+<li>Et si vous avez des dépendances en scope compile et d'autres en scope test, ça ne posera pas vraiment de problème à requirejs, mis à part bien sûr qu'il faudra distinguer le data-main de l'un et de l'autre.</li>
+<br/>
+</ol>
+<br/>
+Mais dans l'ensemble, require me réconcilie vraiment avec le côté "packageless" de Javascript. Je n'ai pas besoin de faire ces fameuses fonctions anonymes auto-appelées. Je déclare chacun de mes fichiers presque comme je le ferais en Java, et tout (ou presque) est explicite. Le fait de travailler dans un environnement contrôllé donne un sentiment de sécurité asssez plaisant, et des fichiers déclarés selon une syntaxe vraiment agréable.
+<br/>
+<h3>Et <a href="http://www.ractivejs.org/">Ractive</a>, c'est pas du flan ?</h3>
+<br/>
+Ce qui est assez marrant, c'est que plus je m'en sers, moins je comprends les mecs qui font de l'angular (oui, ça sonne comme du bashing, mais c'est plutôt de l'incompréhension).
+</p>
+<p>
+Il nous a été assez facile d'écrire des composants pas forcément triviaux, et à chaque fois qu'on se dit que Ractive pose un problème, il s'agit en fait d'un problème entre la chaise et le clavier (une erreur ID10T comme dirait mon collègue).
+</p>
+<p>
+Et le fait de ne pas s'embarasser d'une gestion du modèle nous a permis d'utiliser ce fameux protocole de communication Adobe sans "trop" de problèmes.
+<br/>
+<h3>Ah bon, alors vous faites pas de JSON ?</h3>
+<br/>
+J'ai dit protocole, je n'ai pas dit format d'échange.
+</p>
+<p>
+En fait, on utilise du JSON, mais sans passer par la librairie JSON fournie par Adobe (et je vous conseille de faire de même parce que cette librairie est buggée).
+</p>
+<p>
+En revanche, échanger du JSON entre du Java et du javascript pose une question sérieuse : on part d'un monde typé, dans lequel chaque objet peut avoir des méthodes associées, méthodes pour lesquelles on aimerait bien disposer d'équivalents en Javascript. Par exemple, l'un de nos objets doit s'afficher en utiliser le resourceBundle fourni, on a donc envie de mettre la méthode dans le fichier Javascript généré par Flexmojos (pas de panique, Flexmojos en génère en fait deux : un qui sera réécrit à chaque build pour contenir les champs définis par le Java, et un autre généré une seule fois, dans lequel on peut ajouter notre code).
+</p>
+<p>
+Mais comment fait-on pour que le JSON reçu du Java s'interprète non pas sous forme de hash anonyme, mais grâce à notre classe ?
+</p>
+<p>
+Eh bien là, c'est vraiment compliqué :
+<br/>
+<ol>
+<br/>
+<li>On demande à Jackson d'envoyer les informations de type dans le flu JSON grâce à son <a href="http://wiki.fasterxml.com/JacksonPolymorphicDeserialization">système de déserialisation polymorphe</a> (on a utilisé <code>jsonMapper.enableDefaultTyping(ObjectMapper.DefaultTyping.NON_FINAL, JsonTypeInfo.As.WRAPPER_OBJECT)</code>)</li>
+<br/>
+<li>Du coup, côté Javascript, on récupère des hashes qui associent à une classe le hash correspondant à l'objet, et là, c'est l'enfer : on a dû écrire un système qui "unmarshalle" ces hashes anonymes pour retourner des instances des classes Javascript correspondant aux aux classes Java. Et comme ça passe par require, il faut faire ce truc qui fait toujours peur : du code récursif asynchrone. Heureusement que Deferred est là, parce qu'il me semble que de tout le code Javascript, c'est la partie la plus compliquée que j'ai eu à écrire. Un enfer, je vous dit</li>
+<br/>
+<li>Ah, et en bonus, il ne faut pas oublier le code inverse : celui qui va prendre des objets Javascript ou des hashes anonymes pour créer de beaux obejts Java à l'autre bout du fil ... Pas gagné.</li>
+<br/>
+</ol>
+<br/>
+Tiens, d'ailleurs, c'est le moment idéal pour vous rappeler que, comme les maps javascript n'ont pas de clés non string, ça ne peut pas être le cas non plus pour le JSON. Alors comme vous ne voulez pas réécrire tout votre code serveur pour votre nouveau client moderne, eh bien vous aller devoir vous taper la (dé)sérialisation des maps sous forme de tableaux de tableaux ... Bon courage ;-)
+</p>
+<p>
+Autrement dit, comme d'habitude, la couche de communication va vous plonger dans un enfer sans nom, et surtout sans aucune raison valable.
+<br/>
+<h3>Oui mais alors, le fait que ce soit pas compilé, qu'il n'y ait pas vraiment d'objets, c'est galère ?</h3>
+<br/>
+Pour être honnête, oui.
+</p>
+<p>
+Et pour être encore plus honnête, c'est pas trop grave.
+</p>
+<p>
+Parce qu'en fait, il s'agit vraiment d'une interface HTML/Javascript : la partie complexe de l'application est bien au chaud, dans du code Java qui est correctement testé, qui a été écrit de façon à être raisonnablement robuste et qui est surtout déja utilisé en prod, donc qui a passé l'épreuve du feu.
+</p>
+<p>
+Du coup, même si on galère parfois sur des histoires de types, ou de paramètres manquants/mal typés que Javascript ne voit pas parce que ça n'est pas son problème, ça n'est pas vraiment dramatique.
+<br/>
+<h3>Et donc tu referais sans hésiter la même chose en plus gros ?</h3>
+<br/>
+A dire vrai, mon Wiko a une version portable de Firefox qui fait fonctionner Ractive sans problème (comme Chrome, d'ailleurs). Alors du coup, demain, si je dois développer une application web, je peux vous assurer que le serveur se cantonnera à envoyer du JSON à mon client require/Ractive qui me fera, lui, une chouette interface.
+</p>
+<p>
+Au passage, le bonus caché de Ractive, c'est que la philosophie est vraiment très proche de celle des web components, ce qui est loin d'être avantage mineur.
+</p>
+<p>
+Eventuellement, j'ajouterais un coup de Facebook Flow pour valider mon code, et peut-être aussi que j'utiliserais plus frontend-maven-plugin pour minifier et toutes ces sortes de choses, mais dans l'ensemble, je comprend mieux ces histoires de microservices : si le client peut s'occuper d'aggréger et de présenter les données, pourquoi s'embêter à utiliser toute la pile JavaEE là où Wisdom suffit largement ?
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Synchronizing Rails DB Contents via Fixtures [rails] [mysql] [rubyonrails] [activerecord] [fixtures]
+:jbake-tags: rails,ruby,script,database,dump,_mois_mai,_année_2007
+:jbake-date: 2007-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1179328441000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsnippets.dzone.com%2Fposts%2Fshow%2F3393&searchtags=rails+ruby+script+database+dump+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://snippets.dzone.com/posts/show/3393[Synchronizing Rails DB Contents via Fixtures [rails] [mysql] [rubyonrails] [activerecord] [fixtures]]
+
+Un petit script rake très sympathique pour se générer des cas de test à partir du contenu de la base. Notez bien qu'il peut aussi être très utile, une fois couplé avec le db:bootstrap : je crée ma base comme je peux, et une fois prête, je la db:

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Perian
+:jbake-tags: multimedia,player,plugin,software,open-source,freeware,macosx,_mois_oct.,_année_2006
+:jbake-date: 2006-10-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1159680929000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fperian.org%2F&searchtags=multimedia+player+plugin+software+open-source+freeware+macosx+_mois_oct.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://perian.org/[Perian]
+
+Un plugin Open-Source pour rendre Quicktime capable de tout lire

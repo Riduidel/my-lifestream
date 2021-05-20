@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MindRaider - Semantic Web Outliner
+:jbake-tags: software,freeware,open-source,java,windows,linux,macosx,web,sémantique,browser,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112692956000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmindraider.sourceforge.net%2F&searchtags=software+freeware+open-source+java+windows+linux+macosx+web+s%C3%A9mantique+browser+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://mindraider.sourceforge.net/[MindRaider - Semantic Web Outliner]
+
+\-- outliner/mindmapper software with metadata functionality

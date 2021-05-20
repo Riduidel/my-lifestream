@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+:jbake-tags: hacktoberfest,open-source,communication,documentation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1574530047000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fmeeshkan%2Fhow-to-remove-condescending-language-from-documentation-4a5p&searchtags=hacktoberfest+open-source+communication+documentation+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p[How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻]
+
+Une très chouette utilisation d'Hacktoberfest pour changer la communication des projets open-source. C'est vraiment une belle idée.

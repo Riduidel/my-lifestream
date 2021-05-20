@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La liste des plugins que j'utilise avec foobar2000
+:jbake-tags: foobar2000,plugins,podcast,_mois_août,_année_2014
+:jbake-date: 2014-08-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/08/12/la-liste-des-plugins-que-jutilise-avec-foobar2000.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/08/12/la-liste-des-plugins-que-jutilise-avec-foobar2000/
+:jbake-style: wordpress
+
+++++
+<p>Parce que je viens de jeter un oeil au site de <a href="http://www.foobar2000.org">foobar2000</a> et que mon retard de version est ... très important. Et comme foobar2000 ne gère pas lui-même ses plugions installés (ou alors je suis mal renseigné), je devrais les réinstaller après la mise à jour.</p><p>Alors effectivement, j'avais déja fait une liste dans un article subtilement nommé "<a title="foobar2000, de plus en plus dingue !" href="http://riduidel.wordpress.com/2011/10/11/foobar2000-de-plus-en-plus-dingue/">foobar2000, de plus en plus dingue</a>". Mais je ne suis pas sûr qu'elle soit à jour. Donc allons-y ...</p><ul><li>Album List (ouais, bon, Album List est en standard, donc pas la peine de demander une version spéciale) et <a href="http://www.foobar2000.org/components/view/foo_uie_albumlist">Album List Panel</a></li><li><a href="http://www.foobar2000.org/components/view/foo_audioscrobbler">AudioScrobbler </a>pour tout envoyer à last.fm</li><li><a href="http://www.foobar2000.org/components/view/foo_ui_columns">Columns UI</a> qui fait figure de complément indispensable</li><li><a href="http://www.foobar2000.org/components/view/foo_facets">Facets</a> qui affiche un truc "à la iTunes"</li><li><a href="http://dimovski.se/foobar-gntp/">Foobar GNTP</a> évidement</li><li><a href="http://www.foobar2000.org/components/view/foo_dop">iPod manager</a>, parce qu'on a tous des secrets honteux comme un iPod.</li><li><a href="http://www.foobar2000.org/components/view/foo_podcatcher">PodCatcher </a>pour tous ces podcasts de qualité</li><li><a href="http://www.hydrogenaud.io/forums/index.php?s=44fd769186ab78624e2f77185f872a3d&#38;showtopic=50312">Remove played files</a> qui est bien caché dans les forums</li><li><a href="http://wintense.com/plugins/foo_w7shell">Windows 7 Integration</a> pour avoir quelques chouettes gadgets (typiquement la barre de progression).</li></ul><p>Et avec ça, je pourrais faire ma mise à jour rapidement, j'espère.</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java 14 : quoi de neuf ? | Loic's Blog
+:jbake-tags: java,nouveautés,programming,langage,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579263622000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.loicmathieu.fr%2Fwordpress%2Finformatique%2Fjava-14-quoi-de-neuf%2F&searchtags=java+nouveaut%C3%A9s+programming+langage+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.loicmathieu.fr/wordpress/informatique/java-14-quoi-de-neuf/[Java 14 : quoi de neuf ? | Loic's Blog]
+
+Très bon article de Loïc sur les nouveautés de Java14. Je trouve les NullPointerException améliorées vraiment chouettes, et les String multilignes aussi. le reste ... un peu moins.

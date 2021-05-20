@@ -1,0 +1,60 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jouons au Rust 3 - Simple fraction to mixed number ... partie 2
+:jbake-tags: debugger,rust,test,_mois_juin,_année_2018
+:jbake-date: 2018-06-05
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/05/jouons-au-rust-3-simple-fraction-to-mixed-number-partie-2.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/05/jouons-au-rust-3-simple-fraction-to-mixed-number-partie-2/
+:jbake-style: wordpress
+
+++++
+<p>
+Dans <a href="https://riduidel.wordpress.com/2018/06/03/jouons-au-rust-2-simple-fraction-to-mixed-number/">le dernier article</a>, j'écrivais que j'avais besoin de tests et de débug pour avancer.
+<br/>
+<h2>Tester, c'est arrêter de douter</h2>
+<br/>
+Pour le test, j'ai trouvé facilement ce que je cherchais dans <a href="https://doc.rust-lang.org/rust-by-example/testing/unit_testing.html">cargo test</a>, et c'est bien cool. Il y a toutefois un idiome à maîtriser pour éviter de flanquer des tests dans le code de l'application que j'ai trouvé dans le <a href="https://www.reddit.com/r/rust/comments/2epnmn/how_to_organise_tests/">Reddit Rust</a>. C'est en fait assez simple : dans le code applicatif, je déclare
+<br/>
+<div>
+<br/>
+<pre>#[cfg(test)]
+</p>
+<p>
+mod test;</pre>
+<br/>
+</div>
+<br/>
+<div></div>
+<br/>
+Et je crée un fichier qui s'appelle <code>test.rs</code> dans le même dossier. Dans ce dossier, le code applicatif correspond au super module (évidement, pour comprendre ça, il faut comprendre la <a href="https://doc.rust-lang.org/rust-by-example/mod/super.html">visibilité du super-module Rust</a>).
+</p>
+<p>
+Et ça marche globalement bien.
+</p>
+<p>
+Suffisamment en tout cas pour m'avoir permis de comprendre un bug, surtout quand j'ai activé l'affichage des sorties de test (parce que par défaut, <a href="https://stackoverflow.com/q/25106554/15619">Rust n'affiche pas le stdout des tests</a>).
+<br/>
+<h2>Débugger, c'est pas gagné</h2>
+<br/>
+Je voulais corriger mes problèmes avec le débuggeur. Mais là, débugger du Rust sous Windows, ça ne semble pas gagné. Plus exactement, j'ai trouvé un paquet de guide pour débugger l'exécutable généré par le build Cargo, mais je n'ai pas trouvé grand chose sur le débuggage de tests. Du coup, <a href="https://stackoverflow.com/q/50707118/15619">j'ai posé la question sur Stackoverflow</a>.
+<br/>
+<h2>Et quand c'est trop lent ?</h2>
+<br/>
+Malgré cette absence de débuggeur, j'ai quand même à peu près réussi à résoudre ce problème de réduction de fraction, jusqu'à ce que je me heurte à un problème de performance :
+<br/>
+<pre>test::big_numerator_works has been running for over 60 seconds</pre>
+<br/>
+Bon, en fait, il a tourné pendant vingt bonnes minutes sans aboutir à un résultat ...
+</p>
+<p>
+Alors là, j'aurais pu utiliser <a href="http://seenaburns.com/benchmarking-rust-with-cargo-bench/">l'outil de bench de cargo</a>. Ou alors j'aurais pu utiliser <a href="https://bheisler.github.io/post/benchmarking-with-criterion-rs/">Criterion.rs</a> qui évite d'utiliser Rust nightly. Malheureusement je n'ai pas vraiment réussi à les faire marcher. Je vais donc réessayer de configurer tout ça.
+</p>
+<p>
+Bon, par contre, c'est déja trop tard, puisque j'ai au moins un bout de code qui ne répond pas dans les délais demandés par Codingame. Donc il me faudrait un profiler ... Et le seul que je trouve génère des flamegraphs. C'est pas parfait, mais ça pourrait m'aider ...
+</p>
+<p>
+En tout cas, je n'ai pas fini d'apprendre !
+</p>
+++++

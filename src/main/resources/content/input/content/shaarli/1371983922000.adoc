@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le renouveau de PHP – 24 jours de web
+:jbake-tags: @toread,@toblog,php,documentation,article,programming,_mois_juin,_année_2013
+:jbake-date: 2013-06-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1371983922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.24joursdeweb.fr%2F2012%2Fle-renouveau-de-php%2F&searchtags=%40toread+%40toblog+php+documentation+article+programming+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.24joursdeweb.fr/2012/le-renouveau-de-php/[Le renouveau de PHP – 24 jours de web]
+
+Il semble que cet article soit assez chouette. En tout cas il semble bien documenté (et recommandé par memiks ici http://shaarli.memiks.fr/?YWk41Q)

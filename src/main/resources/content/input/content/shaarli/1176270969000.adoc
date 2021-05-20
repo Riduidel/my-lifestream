@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MarcoPolo
+:jbake-tags: freeware,matériel,macosx,réseau,_mois_avr.,_année_2007
+:jbake-date: 2007-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1176270969000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.symonds.id.au%2Fmarcopolo%2F&searchtags=freeware+mat%C3%A9riel+macosx+r%C3%A9seau+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.symonds.id.au/marcopolo/[MarcoPolo]
+
+Un logiciel utilisant un système de classification pour déterminer la configuration réseau à partir dd'informations ééparses du système (comme par exemple les périphériques USB attachés, les réseaux Wifi disponibles, ...)

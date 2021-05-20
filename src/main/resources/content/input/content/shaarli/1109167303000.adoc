@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaScript Shell 1.1
+:jbake-tags: web,shell,windows,_mois_févr.,_année_2005
+:jbake-date: 2005-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1109167303000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.squarefree.com%2Fshell%2Fshell.html&searchtags=web+shell+windows+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.squarefree.com/shell/shell.html[JavaScript Shell 1.1]
+
+A web site displaying a kind of Javascript shell

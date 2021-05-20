@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: D Programming Language
+:jbake-tags: programming,langage,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112281147000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.digitalmars.com%2Fd%2Findex.html&searchtags=programming+langage+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.digitalmars.com/d/index.html[D Programming Language]
+
+

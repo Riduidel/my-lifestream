@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Literate DevOps
+:jbake-tags: litterate,programming,devops,_mois_janv.,_année_2017
+:jbake-date: 2017-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1483512966000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.howardism.org%2FTechnical%2FEmacs%2Fliterate-devops.html&searchtags=litterate+programming+devops+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.howardism.org/Technical/Emacs/literate-devops.html[Literate DevOps]
+
+Du litterate programming devops dans emacs 1 - ca me rappelle ma jeunesse 2 - ca se porte sans doute bien dans Asciidoc

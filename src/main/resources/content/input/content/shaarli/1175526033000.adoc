@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: floola.com - Wiwi - Home
+:jbake-tags: aggregator,freeware,linux,management,mp3,musique,podcast,portable,software,windows,macosx,ipod,_mois_avr.,_année_2007
+:jbake-date: 2007-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1175526033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.floola.com%2Fmodules%2Fwiwimod%2F&searchtags=aggregator+freeware+linux+management+mp3+musique+podcast+portable+software+windows+macosx+ipod+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.floola.com/modules/wiwimod/[floola.com - Wiwi - Home]
+
+Pour les possesseurs d'iPod, un remplçant gratuit à iTunes permettant l'exploitation de ce gadget (en même temps, il me tente bien, ce fameux gadget).

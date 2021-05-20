@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Luna Incognita (De Cape et de Crocs, #6)
+:jbake-tags:  lune, voyage,_année_2010,_mois_janv.,_note_5,rayon-bd,read
+:jbake-date: 2010-01-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847891126.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331920171l/1992891._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331920171l/1992891._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1992891
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Acte VI. Messieurs de Maupertuis et Villalobos, en fort galante et plaisante compagnie, voguent hardiment vers la Lune à bord d'un astronef de fortune. Que découvriront-ils sur cette planète inconnue ? Des géants, des cités qui se meuvent, comme dans le roman de Monsieur de Bergerac, Des trésors à coup sûr, puisque là-haut, l'or pousse sur les arbres ! Mais cet or suscite bien des convoitises : dans le sillage de nos gentilshommes, un inquiétant vaisseau cingle à son tour vers l'astre lunaire...
+</div>
+++++
+
+
+## Authors
+* link:../authors/876891.html[Alain Ayroles]
+* link:../authors/876892.html[Jean-Luc Masbou]
+
+## Series
+* link:../series/De_Cape_et_de_Crocs.html[De Cape et de Crocs]
+
+## Review
+
+++++
+
+++++

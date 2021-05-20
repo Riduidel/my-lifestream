@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Forums grenouille.com -> [Tuto]Routeur, Wi-Fi et NAT de la Freebox
+:jbake-tags: réseau,freebox,tutorial,nat,wifi,routeur,_mois_févr.,_année_2005
+:jbake-date: 2005-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1108717140000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforums.grenouille.com%2Findex.php%3Fshowtopic%3D21282&searchtags=r%C3%A9seau+freebox+tutorial+nat+wifi+routeur+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://forums.grenouille.com/index.php?showtopic=21282[Forums grenouille.com -> [Tuto]Routeur, Wi-Fi et NAT de la Freebox]
+
+La Freebox v3 nous offre une fonction de routage Wi-fi et ethernet. Autant être clair dés le début, la Freebox ne permets pas les réglages pointus d'un "vrai" routeur. Mais bien que trés simple, voir même basique, celle-ci fonctionne néanmoins c

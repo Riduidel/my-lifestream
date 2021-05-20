@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JSON as configuration files: please don’t
+:jbake-tags: programming,configuration,json,_mois_avr.,_année_2019
+:jbake-date: 2019-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1555328497000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farp242.net%2Fweblog%2Fjson_as_configuration_files-_please_dont&searchtags=programming+configuration+json+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://arp242.net/weblog/json_as_configuration_files-_please_dont[JSON as configuration files: please don’t]
+
+Tiens c'est marrant, parce que ces éléments sont précisément ceux qui font que c'est à mon avis un bon format ... parce qu'on n'a pas envie d'en faire "trop".

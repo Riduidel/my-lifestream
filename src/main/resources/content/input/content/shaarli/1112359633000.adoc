@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Javascript Closures
+:jbake-tags: web,javascript,expérience,langage,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112359633000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jibbering.com%2Ffaq%2Ffaq_notes%2Fclosures.html&searchtags=web+javascript+exp%C3%A9rience+langage+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.jibbering.com/faq/faq_notes/closures.html[Javascript Closures]
+
+The use of closures in Javascript

@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ce soir, c'est service workers, mais sans moi
+:jbake-tags: java,javascript,web,_mois_juin,_année_2015
+:jbake-date: 2015-06-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/06/24/ce-soir-cest-service-workers-mais-sans-moi.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/06/24/ce-soir-cest-service-workers-mais-sans-moi/
+:jbake-style: wordpress
+
+++++
+<p>
+Hélas, je ne suis pas au <a href="http://chtijug.org/session-web-hors-ligne-avec-les-service-workers-le-24-juin/">chtijug ce soir</a>, et c'est bien dommage, parce que les service workers, ça m'a l'air bien intéressant. J'essayerai de chopper la présentation d'Hubert demain ...
+</p>
+<p>
+Et pourquoi je n'y suis pas ? Parce que je ferai demain une démo d'une application développée avec Wisdom, JCR, requirejs, Ractivejs, jQuery et Bootstrap. Tout ça a l'air d'une hypitude révoltante, c'est vrai, mais en fait c'est beaucoup plus simple  manipuler que ce qu'on croit. Si je voulais faire un rapide bon/pas bon, je dirais (même si vous le savez déja)
+</p>
+<p>
+Bons côtés
+<br/>
+<ul>
+<br/>
+<li>Grosse productivité du live-reload de Wisdom incluant évidement les modifications du Javascript, du HTML, et même du POM</li>
+<br/>
+<li>RequireJS est toujours aussi pratique pour ajouter des librairies Javascript sans se poser la question de la page dans laquelle ce Javascript est inclus ... ou pas.</li>
+<br/>
+<li>RactiveJS permet vraiment de faire facilement des interfaces modernes (surtout quand les templates Mustache sont chargés séparément via RequireJS).</li>
+<br/>
+</ul>
+<br/>
+Mauvais côtés
+<br/>
+<ul>
+<br/>
+<li>L'implémentation de wisdom-JCR interdit le live-reload. Et même si je suis en contact avec les développeurs de cette extension, c'est vraiment moche.</li>
+<br/>
+<li>Dans le même ordre idée, avec wisdom, il ne fut jamais mettre un objet Java en cache, parce que quand on le charge après un reload, ce n'est plus le même objet Class, et du coup ça fait tout planter.</li>
+<br/>
+<li>J'ai eu besoin de générer des images à partir de ppt/pttx. Eh bien curieusement, il n'y a aucune librairie qui ait vraiment le niveau pour faire ça de façon professionnelle.</li>
+<br/>
+</ul>
+<br/>
+Les mauvais côtés ont quand même bien failli tuer ce projet. Heureusement, ils ne l'ont pas encore tué ... On verra demain soir.
+</p>
+++++

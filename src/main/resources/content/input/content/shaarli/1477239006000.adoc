@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HiFiBerry AMP+ - 25W digial audio amplifier for the Raspberry Pi | HiFiBerry - High quality Raspberry Pi Audio
+:jbake-tags: raspberrypi,son,_mois_oct.,_année_2016
+:jbake-date: 2016-10-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1477239006000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.hifiberry.com%2Fampplus&searchtags=raspberrypi+son+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.hifiberry.com/ampplus[HiFiBerry AMP+ - 25W digial audio amplifier for the Raspberry Pi | HiFiBerry - High quality Raspberry Pi Audio]
+
+Une bonne carte pour connecter directement les enceintes au raspberry

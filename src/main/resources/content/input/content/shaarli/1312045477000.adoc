@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Images " VirtualBoxes – Free VirtualBox® Images
+:jbake-tags: software,linux,image,free,_mois_juil.,_année_2011
+:jbake-date: 2011-07-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1312045477000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvirtualboxes.org%2Fimages%2F&searchtags=software+linux+image+free+_mois_juil.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://virtualboxes.org/images/[Images " VirtualBoxes – Free VirtualBox® Images]
+
+Un répertoire d'images Linux utilisables avec VirtualBox. Bien pratique pour tester une distrib rapidement ... ou pour d'autres usages ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dean Iverson on Twitter: "I'm beginning to think that using Dagger 2 (or perhaps DI in general) is antithetical to functional programming."
+:jbake-tags: citation,programming,cdi,functionnal,_mois_janv.,_année_2018
+:jbake-date: 2018-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1516001556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdeanriverson%2Fstatus%2F943535952189833216&searchtags=citation+programming+cdi+functionnal+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/deanriverson/status/943535952189833216[Dean Iverson on Twitter: "I'm beginning to think that using Dagger 2 (or perhaps DI in general) is antithetical to functional programming."]
+
+Très juste, c'est également mon avis

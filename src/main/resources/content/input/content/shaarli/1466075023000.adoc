@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FAQ – VendrediLecture
+:jbake-tags: twitter,lecture,_mois_juin,_année_2016
+:jbake-date: 2016-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1466075023000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.vendredilecture.com%2Ffaq%2F&searchtags=twitter+lecture+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.vendredilecture.com/faq/[FAQ – VendrediLecture]
+
+Je comprend enfin ces tweets étranges ...

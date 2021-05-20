@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSS Layout
+:jbake-tags: css,layout,exemple,design,web,_mois_avr.,_année_2020
+:jbake-date: 2020-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1585901081000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcsslayout.io%2F&searchtags=css+layout+exemple+design+web+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://csslayout.io/[CSS Layout]
+
+Oh cool, des patterns en pur CSS pour éviter les bootstrap et compagnie (bon, je vais continuer à utiliser bootstrap, mais c'est toujours sympa d'avoir des alternatives élégantes).

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ConSentiency Universe
+:jbake-tags: serie
+:jbake-date: 2002-01-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/ConSentiency_Universe.adoc
+:jbake-source: https://www.goodreads.com/series/60350
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253049326.html[L'Étoile et le Fouet]

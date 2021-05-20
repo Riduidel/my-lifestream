@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tea Shop - OnlineWardleyMaps - Draw Wardley Maps in seconds using this free online tool
+:jbake-tags: texte,carte,générateur,online,stratégie,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583163203000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fonlinewardleymaps.com%2F&searchtags=texte+carte+g%C3%A9n%C3%A9rateur+online+strat%C3%A9gie+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://onlinewardleymaps.com/[Tea Shop - OnlineWardleyMaps - Draw Wardley Maps in seconds using this free online tool]
+
+Faut que je regarde mieux le concept des cartes de Wardley, mais rien que le fait que ce soit décrit par un fichier texte me la rend plaisante.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gorilla password
+:jbake-tags: encryption,freeware,linux,macosx,open-source,portable,software,utilities,password,_mois_nov.,_année_2006
+:jbake-date: 2006-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1164916782000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fpx.de%2Ffp%2FSoftware%2FGorilla%2F&searchtags=encryption+freeware+linux+macosx+open-source+portable+software+utilities+password+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.fpx.de/fp/Software/Gorilla/[Gorilla password]
+
+Un logiciel de stockage de mot de passe multiplateforme, avec une version Windows portable sur la clé magique.

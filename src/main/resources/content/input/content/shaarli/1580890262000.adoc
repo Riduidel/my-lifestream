@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rob Napier sur Twitter : "Periodic Reminder: When debugging, you must first accept that something you believe is true is not true. If everything you believed about this system were true, it would work. It doesn't, so you're wrong about something. This is a surprisingly common stumbling block for devs."
+:jbake-tags: citation,debugger,psychologie,_mois_févr.,_année_2020
+:jbake-date: 2020-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1580890262000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcocoaphony%2Fstatus%2F1224364439429881856&searchtags=citation+debugger+psychologie+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/cocoaphony/status/1224364439429881856[Rob Napier sur Twitter : "Periodic Reminder: When debugging, you must first accept that something you believe is true is not true. If everything you believed about this system were true, it would work. It doesn't, so you're wrong about something. This is a surprisingly common stumbling block for devs."]
+
+Alors ça, c'est terriblement vrai. Tant que tu ne doutes pas, tu ne peux pas débugger.

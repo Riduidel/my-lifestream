@@ -1,0 +1,382 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un visiteur ... venu d'ailleurs
+:jbake-tags: design,java,visitor,_mois_déc.,_année_2020
+:jbake-date: 2020-12-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/12/10/un-visiteur-venu-dailleurs.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/12/10/un-visiteur-venu-dailleurs/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Ce titre d'un goût douteux vient d'une présentation du <a href="https://www.codingame.com/playgrounds/8339/design-pattern-visitor/design-pattern-visiteur">design pattern visiteur</a> que j'ai fait il y a peu, et dont je me suis dit qu'il serait chouette d'en faire un article "propre". Et comme la plupart des articles qui en parlent le font en UML, je vais vous le montrer avec du code ... Java (parce que c'est ce que je pratique).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Supposons donc que je souhaite afficher le dessin d'un arbre (oui, c'est un peu abstrait, mais c'est la version la plus concrète que j'ai trouvé, grâce à mon collègue Delphin). Pour ça, vous disposez de quelques classes : <code>Feuille</code>, <code>Fleur</code>. Et comme ce code est du code déja existant, les méthodes d'affichage portent des noms différents ... ce qui peut donner lieu par exemple à ce code (beaucoup trop simpliste, mais c'est pour donner l'idée).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/gist.github.com\/Riduidel\/5b6f48453524afb50b750397155320d3","type":"rich","providerNameSlug":"contenu-embarque","className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-contenu-embarque wp-block-embed-contenu-embarque"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import java.util.Arrays;
+import java.util.List;
+
+class Feuille {
+	public String montrerFeuille() { return "🍃"; }
+}
+class Fleur {
+	public String afficherFleur() { return "🌺"; }
+}
+public class Main {
+	public static void main(String[] args) {
+		List&lt;Object&gt; visitables = Arrays.asList(new Feuille(), new Fleur());
+		for (Object v : visitables) {
+			if (v instanceof Feuille) {
+				Feuille f = (Feuille) v;
+				System.out.println(f.montrerFeuille());
+			} else if (v instanceof Fleur) {
+				Fleur f = (Fleur) v;
+				System.out.println(f.afficherFleur());
+			}
+		}
+	}
+}</pre></body></html>
+</code>
+</pre></div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Bon, évidement, c'est un exemple pourri. Parce que ce que vous voulez faire, c'est les mettre dans une liste, et appeler leurs méthodes. Dans une vision classique, vous allez ajouter une interface, et ça donnera ce code</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/gist.github.com\/Riduidel\/7b0ba17affe0ea57211b3cc78e9b71c7","type":"rich","providerNameSlug":"contenu-embarque","className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-contenu-embarque wp-block-embed-contenu-embarque"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import java.util.Arrays;
+import java.util.List;
+
+class Feuille implements Affichable {
+	public String montrerFeuille() { return "🍃"; }
+
+	@Override public String afficher() { return montrerFeuille(); } 
+}
+class Fleur implements Affichable {
+	public String afficherFleur() { return "🌺"; }
+
+	@Override public String afficher() { return afficherFleur(); } 
+}
+interface Affichable {
+	public String afficher();
+}
+public class Main {
+	public static void main(String[] args) {
+		List&lt;Affichable&gt; affichables = Arrays.asList(new Feuille(), new Fleur());
+		for (Affichable affichable : affichables) {
+			System.out.println(affichable.afficher());
+		}
+	}
+}</pre></body></html>
+</code>
+</pre></div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Qui présente en fait un inconvénient important : à chaque usage, vous allez ajouter des méthodes dans votre interface, et les implémenter dans chacune de ces classes. Et le code de votre domaine se retrouvera pollué par des tonnes de bouts de trucs qui n'ont que peu de rapport. Or le principe de la programmation structurée, quelquesoit la structure, c'est de limiter la complexité, pour permettre au développeur d'attaquer des problèmes plus complexes. Et c'est à ça que sert le visiteur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors comment faire ? Eh bien, grâce au visiteur, pardi ! Celui-ci repose sur deux idées. D'abord, rendre notre modèle visitable, comme un musée, c'est-à-dire créer une interface <code>Visitable</code> implémentée par les différents éléments du modèle. Ensuite, créer une interface <code>Visitor</code> et des implémentations qui vont isoler la complexité. Regardez, ça n'est pas si compliqué.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/gist.github.com\/Riduidel\/14c110bd77b75d49ad6038ebea3eca2f","type":"rich","providerNameSlug":"contenu-embarque","className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-contenu-embarque wp-block-embed-contenu-embarque"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">class Feuille implements Visitable {
+	public String montrerFeuille() { return "🍃"; }
+
+	@Override public void accept(Visitor v) { v.visit(this); }
+}
+class Fleur implements Visitable {
+	public String afficherFleur() { return "🌺"; }
+
+	@Override public void accept(Visitor v) { v.visit(this); }
+}
+interface Visitable {
+	public void accept(Visitor v);
+}
+interface Visitor {
+
+	void visit(Feuille feuille);
+
+	void visit(Fleur fleur);
+	
+}
+public class Main {
+	public static void main(String[] args) {
+		List&lt;Visitable&gt; visitables = Arrays.asList(new Feuille(), new Fleur());
+		for (Visitable v : visitables) {
+			v.accept(new Visitor() {
+				@Override public void visit(Feuille feuille) { 
+					System.out.println(feuille.montrerFeuille()); 
+				}
+
+				@Override public void visit(Fleur fleur) { 
+					System.out.println(fleur.afficherFleur()); 
+				}
+			});
+		}
+	}
+}</pre></body></html>
+</code>
+</pre></div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Toutefois, il y a encore plusieurs problèmes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le premier est assez simple : nos objets sont beaucoup trop basiques. Et dans un modèle réel, il faudrait avoir des objets conteneurs. Dans notre cas, ce sera ... la <code>Branche</code>. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/gist.github.com\/Riduidel\/161b38bbf13cb33c10ba4435b81daeb4","type":"rich","providerNameSlug":"contenu-embarque","className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-contenu-embarque wp-block-embed-contenu-embarque"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">class Feuille implements Visitable {
+	public String montrerFeuille() { return "🍃"; }
+
+	@Override public void accept(Visitor v) { v.visit(this); }
+}
+class Fleur implements Visitable {
+	public String afficherFleur() { return "🌺"; }
+
+	@Override public void accept(Visitor v) { v.visit(this); }
+}
+class Branche implements Visitable {
+	List&lt;Visitable&gt; children = new ArrayList&lt;Visitable&gt;();
+	public Branche(List&lt;Visitable&gt; children) { this.children.addAll(children); }
+	public Branche(Visitable...children) { this(Arrays.asList(children)); }
+
+	@Override public void accept(Visitor v) {
+		v.startVisit(this);
+		for(Visitable c : children) {
+			c.accept(v);
+		}
+		v.endVisit(this);
+	}
+}
+interface Visitable {
+	public void accept(Visitor v);
+}
+interface Visitor {
+	void visit(Feuille feuille);
+	void visit(Fleur fleur);
+
+	void startVisit(Branche branche);
+	void endVisit(Branche branche);
+}
+public class Main {
+	public static void main(String[] args) {
+		List&lt;Visitable&gt; visitables = Arrays.asList(new Feuille(), new Fleur(),
+				new Branche(new Feuille(), new Fleur()));
+		for (Visitable v : visitables) {
+			v.accept(new Visitor() {
+				@Override public void visit(Feuille feuille) { 
+					System.out.println(feuille.montrerFeuille()); 
+				}
+
+				@Override public void visit(Fleur fleur) { 
+					System.out.println(fleur.afficherFleur()); 
+				}
+
+				@Override
+				public void startVisit(Branche branche) {
+					System.out.println("➡🌿");
+				}
+
+				@Override
+				public void endVisit(Branche branche) {
+					System.out.println("⬅🌿");
+				}
+			});
+		}
+	}
+}</pre></body></html>
+</code>
+</pre></div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et comme celle-ci implémente visitable, on voit bien que le compilateur va nous aider à implémenter le bon code : </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>On ajoute l'interface <code>Visitable</code>, du coup le compilateur nous dit qu'il faut rajouter la bonne méthode.</li><li>Quand on a implémenté l'interface <code>Visitable</code>, on a écrit la ligne <code>visitor.startVisit(this);</code> et <code>visitor.endVisit(this);</code> qui n'existent pas dans l'interface <code>Visitor</code>. Il faut donc les ajouter.</li><li>Et par conséquent, il faut aussi les ajouter dans l'implémentation anonyme qu'on utilise dans notre classe <code>Main</code>.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et ça, c'est un gros avantage du visiteur sur les interfaces "ad-hoc" : chaque usage est facilement identifié par le compilateur (ce qui est encore plus performant que de l'identifier par la recherche de code d'un IDE quelconque. Et ça, c'est un avantage d'autant plus performant que la base de code est importante.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cela dit, si vous regardez le code dans la classe <code>Main</code>, ça n'est pas très joli : il y a des tas de <code>System.out.println</code>, et personnellement, je préfèrerai en avoir un seul ... Ca veut dire construire une chaîne de caractère dans le visiteur et la retourner. Bon, on parle de <code>String</code>, mais ce serait bien si on pouvait retourner n'importe quoi, non ? Heureusement, avec Java, on peut faire des types génériques. Regardez le code suivant</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/gist.github.com\/Riduidel\/c89a12f39e0d55fa2b21b88a685f7a8f","type":"rich","providerNameSlug":"contenu-embarque","className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-contenu-embarque wp-block-embed-contenu-embarque"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+class Feuille implements Visitable {
+	public String montrerFeuille() { return "🍃"; }
+
+	@Override public &lt;Type&gt; Type accept(Visitor&lt;Type&gt; v) { return v.visit(this); }
+}
+class Fleur implements Visitable {
+	public String afficherFleur() { return "🌺"; }
+
+	@Override public &lt;Type&gt; Type accept(Visitor&lt;Type&gt; v) { return v.visit(this); }
+}
+class Branche implements Visitable {
+	List&lt;Visitable&gt; children = new ArrayList&lt;Visitable&gt;();
+	public Branche(List&lt;Visitable&gt; children) { this.children.addAll(children); }
+	public Branche(Visitable...children) { this(Arrays.asList(children)); }
+
+	@Override public &lt;Type&gt; Type accept(Visitor&lt;Type&gt; v) {
+		v.startVisit(this);
+		for(Visitable c : children) {
+			c.accept(v);
+		}
+		return v.endVisit(this);
+	}
+}
+interface Visitable {
+	public &lt;Type&gt; Type accept(Visitor&lt;Type&gt; v);
+}
+interface Visitor&lt;Type&gt; {
+	Type visit(Feuille feuille);
+	Type visit(Fleur fleur);
+
+	void startVisit(Branche branche);
+	Type endVisit(Branche branche);
+}
+public class Main {
+	public static void main(String[] args) {
+		List&lt;Visitable&gt; visitables = Arrays.asList(new Feuille(), new Fleur(),
+				new Branche(new Feuille(), new Fleur()));
+		for (Visitable v : visitables) {
+			System.out.println(v.accept(new Visitor&lt;String&gt;() {
+				@Override public String visit(Feuille feuille) {
+					return feuille.montrerFeuille();
+				}
+
+				@Override public String visit(Fleur fleur) {
+					return fleur.afficherFleur();
+				}
+
+				@Override public void startVisit(Branche branche) {
+				}
+
+				@Override public String endVisit(Branche branche) {
+					return "⬅🌿";
+				}
+			}));
+		}
+	}
+}</pre></body></html>
+</code>
+</pre></div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et au passage, une petite astuce : quand le code commence à utiliser plusieurs classes (et c'est le cas ici), commencez par lire le code utilisateur. En l’occurrence, le code qui est dans la méthode <code>main(...)</code>. Dans celui-ci, on voit bien que le visiteur est conçu pour ne retourner que des String, parce que j'utilise les types génériques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il y a toutefois un défaut. Dans ce cas, on n'a pas retourné le contenu de notre branche. Pour changer ça (et c'est précisément l'intérêt du visiteur), il suffit de modifier le visiteur défini dans la classe <code>Main </code>pour y ajouter un <code>StringBuilder </code>qu'on retourne ... comme ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/gist.github.com\/Riduidel\/a0cb4f411ed51b67b4f1b83343192f4b","type":"rich","providerNameSlug":"contenu-embarque","className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-contenu-embarque wp-block-embed-contenu-embarque"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">      new Visitor&lt;String&gt;() {
+				StringBuilder returned = new StringBuilder();
+				@Override public String visit(Feuille feuille) {
+					return returned.append(feuille.montrerFeuille()).append('\n').toString();
+				}
+
+				@Override public String visit(Fleur fleur) {
+					return returned.append(fleur.afficherFleur()).append('\n').toString();
+				}
+
+				@Override public void startVisit(Branche branche) {
+					returned.append("➡🌿").append('\n').toString();
+				}
+
+				@Override public String endVisit(Branche branche) {
+					return returned.append("⬅🌿").append('\n').toString();
+				}
+			}</pre></body></html>
+</code>
+</pre></div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>D'une manière générale, vous allez vite apprendre à aimer les Stack (quelquesoit leur forme) avec les visteurs 😅.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il nous manque une dernière chose : quand je visite un musée, je ne visite pas forcément toutes les pièces. Alors, comment faire un visiteur qui ne passe pas dans tous les objets ? Simplement en modifiant notre méthode <code>startVisit(...)</code> (je ne mets que les morceaux intéressants) :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/gist.github.com\/Riduidel\/69b5fd35b023915d0e54e0a09f77b80f","type":"rich","providerNameSlug":"contenu-embarque","className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-contenu-embarque wp-block-embed-contenu-embarque"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">class Branche implements Visitable {
+  // [....]
+	@Override public &lt;Type&gt; Type accept(Visitor&lt;Type&gt; v) {
+		if(v.startVisit(this)) {
+			for(Visitable c : children) {
+				c.accept(v);
+			}
+		}
+		return v.endVisit(this);
+	}
+}
+interface Visitor&lt;Type&gt; {
+  // [....]
+	boolean startVisit(Branche branche);
+  // [....]
+}
+public class Main {
+  // [....]
+				@Override public boolean startVisit(Branche branche) {
+					returned.append("➡🌿").append('\n').toString();
+					return true;
+				}
+  // [....]
+}</pre></body></html>
+</code>
+</pre></div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et là, vous avez l'implémentation "canonique" d'un visiteur en Java.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce design pattern est en fait très utilisé : dès que vous transformez un modèle en un autre, il est très pratique. Et ces transformations, vous en faites .... tout le temps : compter les objets, c'est une transformation, tout comme afficher un text, ou calculer une somme. Pour la petite histoire, le collègue qui me l'a fait découvrir il y a dix ans en mettait partout ... et à juste titre. Par ailleurs, je l'ai implémenté ici en java, mais j'ai déjà eu des résultats satisfaisants dans d'autres langages : du Rust, du Python, du Groovy (évidement). A mon sens, tous les langages présentant des structures de données arborescentes peuvent y trouver de l'utilité.</p>
+<!-- /wp:paragraph -->
+++++

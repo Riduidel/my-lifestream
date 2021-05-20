@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Generating fantasy maps
+:jbake-tags: fantastique,générateur,javascript,carte,_mois_mars,_année_2020
+:jbake-date: 2020-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1583265293000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmewo2.com%2Fnotes%2Fterrain%2F&searchtags=fantastique+g%C3%A9n%C3%A9rateur+javascript+carte+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://mewo2.com/notes/terrain/[Generating fantasy maps]
+
+Un article complet, et avec des exemples, sur une méthode de génération de cartes imaginaires. C'est très bien fait, et très détaillé.

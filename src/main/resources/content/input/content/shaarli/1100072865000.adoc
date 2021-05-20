@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sliding Layers: DHTML Layers in Motion
+:jbake-tags: développement,dhtml,javascript,layer,_mois_nov.,_année_2004
+:jbake-date: 2004-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1100072865000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dyn-web.com%2Fdhtml%2Fslide%2F&searchtags=d%C3%A9veloppement+dhtml+javascript+layer+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.dyn-web.com/dhtml/slide/[Sliding Layers: DHTML Layers in Motion]
+
+The sliding layers code from dyn-web can be used to move layers onload or in response to user actions such as hovering, clicking or scrolling. The layer movement can be steady, accelerating or decelerating.

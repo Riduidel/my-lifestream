@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Winsor McCay
+:jbake-tags: author
+:jbake-date: 2013-12-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/224293.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1237714831p5/224293.jpg
+:jbake-source: https://www.goodreads.com/author/show/224293
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9783822863008.html[Little Nemo: 1905-1914]

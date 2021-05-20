@@ -1,0 +1,61 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rss-bridge, c'est bien (et le php aussi)
+:jbake-tags: php,rss,web,_mois_févr.,_année_2014
+:jbake-date: 2014-02-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/02/20/rss-bridge-cest-bien-et-le-php-aussi.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/02/20/rss-bridge-cest-bien-et-le-php-aussi/
+:jbake-style: wordpress
+
+++++
+<p>
+Je vous parlais il y a peu <a href="http://riduidel.wordpress.com/2014/02/04/les-articles-tronques-ca-fait-chier/">de ma lassitude ce ces flux mal fichus</a>.
+</p>
+<p>
+J'avais donc installé <a href="https://github.com/Riduidel/rss-bridge">rss-bridge</a>, et je ne vous avais pas parlé de mes développements à ce sujet.
+</p>
+<p>
+Et bien maintenant, je peux. Parce que j'ai écrit deux bridges, un facile et un autre un peu moins.
+</p>
+<p>
+Le facile, c'est évidement <a href="https://github.com/Riduidel/rss-bridge/blob/master/bridges/Sexactu.php">Sexactu</a>, pour lequel les articles complets sont toujours disponibles sur la page <a href="http://www.gqmagazine.com/sexactu">gqmagazine.com/sexactu</a>, qui réduit donc la transformation à un peu de <a href="http://fr.wikipedia.org/wiki/Web_scraping">scrapping HTML</a>, chose pour laquelle mon lifestream m'a poussé à développer quelques compétences. Et donc, c'est assez facile.
+</p>
+<p>
+Le moins facile, c'est - curieusement - <a href="https://github.com/Riduidel/rss-bridge/blob/master/bridges/Les400Culs.php">Les 400 Culs</a> pour lequel j'ai dû développer une solution de cache de pages HTML. Tout ça parce que
+<br/>
+<ol>
+<br/>
+<li>Il y a des articles tronqués pour lesquels il faut aller sur une autre page pour avoir la version complète</li>
+<br/>
+<li>Le FileCache existant dans rss-bridge ne permet pas la mise en cache d'objets quelconques, du moins d'après ce que j'ai compris ...</li>
+<br/>
+</ol>
+<br/>
+Au-dela de ça, il y a deux ou trois trucs curieux que j'ai constaté, qui me changent du développement Java.
+</p>
+<p>
+La première est une surprise : comment peut-on livrer une application où on enlève sciement les rapports d'erreur ? Ca n'est pas une critique personnelle, juste une surprise. L'une des toutes premières lignes de rss-bridge est
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">date_default_timezone_set('UTC');
+<br/>
+error_reporting(0);
+<br/>
+//ini_set('display_errors','1'); error_reporting(E_ALL);  // For debugging only.</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Du coup, quand on développe un bridge, au début, on ne comprend pas (moi au moins) pourquoi aucun message d'erreur ne s'affiche, et puis on décommente la bonne ligne et là, on peut enfin travailler :-)
+</p>
+<p>
+A cette surprise près, travailler avec PHP est en un sens assez agréable parce que la doc est d'une qualité formidable, et qu'en plus il n'y a pas ces phases de compilation/packaging typique du code Java. ca laisse songeur, quand même, de voir que, malgré tous les défauts inhérents au langage (et ils sont nombreux), il est à ce point facile d'écrire un truc qui, en Java (et malgré toutes ses qualités), me prendrait du temps et nécessiterait quelques dépendances (d'un autre côté, c'est ausssi le cas ici puisque rss-bridge dépende  de <a href="http://simplehtmldom.sourceforge.net">Simple HTML DOM Parser</a> - qui est du reste un joli bout de code).
+</p>
+++++

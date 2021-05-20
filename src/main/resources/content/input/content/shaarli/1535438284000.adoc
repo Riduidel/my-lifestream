@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: warp - seanmonstar
+:jbake-tags: rust,programming,web,framework,open-source,_mois_août,_année_2018
+:jbake-date: 2018-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1535438284000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fseanmonstar.com%2Fpost%2F176530511587%2Fwarp&searchtags=rust+programming+web+framework+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://seanmonstar.com/post/176530511587/warp[warp - seanmonstar]
+
+Via gcouprie (mon maître Rust), je découvre ce framework web basé sur hyper, et ça a l'air vraiment chouette. C'est la pièce manquante pour ma démo Rust de la fin du mois de septembre

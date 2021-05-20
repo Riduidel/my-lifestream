@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: William Desmond
+:jbake-tags: author
+:jbake-date: 2010-03-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/179742.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1580943875p5/179742.jpg
+:jbake-source: https://www.goodreads.com/author/show/179742
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070398843.html[L'Ombre du bourreau (Livre du nouveau soleil de Teur #1 )]

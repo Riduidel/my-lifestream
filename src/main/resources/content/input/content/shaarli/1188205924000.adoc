@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jQuery for JavaScript programmers
+:jbake-tags: le-bliki,tutorial,documentation,javascript,ajax,_mois_août,_année_2007
+:jbake-date: 2007-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1188205924000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsimonwillison.net%2F2007%2FAug%2F15%2Fjquery%2F&searchtags=le-bliki+tutorial+documentation+javascript+ajax+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://simonwillison.net/2007/Aug/15/jquery/[jQuery for JavaScript programmers]
+
+une introduction à jQuery, ça pourrait être utile pour le bliki

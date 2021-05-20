@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: comma.ai
+:jbake-tags: open-source,programming,software,voiture,ia,_mois_mai,_année_2019
+:jbake-date: 2019-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1557839892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcomma.ai%2F&searchtags=open-source+programming+software+voiture+ia+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://comma.ai/[comma.ai]
+
+C'est absolument incroyable de voir que ce produit existe ... et que l'application qui pilote tout ça est open-source

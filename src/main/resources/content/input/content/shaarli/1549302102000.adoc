@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julien Roy on Twitter: "Le format d'un ADR (architecture decision record) #snowcamp… "
+:jbake-tags: architecture,décision,documentation,histoire,_mois_févr.,_année_2019
+:jbake-date: 2019-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1549302102000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjroy_aka_royto%2Fstatus%2F1088746846745477120&searchtags=architecture+d%C3%A9cision+documentation+histoire+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jroy_aka_royto/status/1088746846745477120[Julien Roy on Twitter: "Le format d'un ADR (architecture decision record) #snowcamp… "]
+
+C'est peut-être la séance que je regrette le plus d'avoir loupé à Snowcamp ...

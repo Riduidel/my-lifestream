@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Deploying your application secrets: Hashicorp Vault and continuous delivery
+:jbake-tags: vault,sécurité,web,déploiement,devops,_mois_avr.,_année_2019
+:jbake-date: 2019-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1556085703000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flesfurets.github.io%2Fvault-continuous-secret-deployment%2Fvault-continuous-secret-deployment-devoxx.html%23%2F&searchtags=vault+s%C3%A9curit%C3%A9+web+d%C3%A9ploiement+devops+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://lesfurets.github.io/vault-continuous-secret-deployment/vault-continuous-secret-deployment-devoxx.html#/[Deploying your application secrets: Hashicorp Vault and continuous delivery]
+
+J'ai quelques collègues qui seront très intéressés par ce retour d'expérience (je pense en particulier à notre vaultiste local).

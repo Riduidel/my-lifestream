@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julien Topçu sur Twitter : "Petit conseil : si vous voulez économiser beaucoup 💰, gagner du ⌚️, éviter des failles de sécurité et assurer l'évolutivité de votre SI => Ne développez pas vous-même des serveurs d'#authn (ni des surcouches par dessus) !! Utilisez des services managés ou @keycloak" / Twitter
+:jbake-tags: sécurité,web,citation,_mois_juin,_année_2020
+:jbake-date: 2020-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1592321767000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJulienTopcu%2Fstatus%2F1272834835183263745&searchtags=s%C3%A9curit%C3%A9+web+citation+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/JulienTopcu/status/1272834835183263745[Julien Topçu sur Twitter : "Petit conseil : si vous voulez économiser beaucoup 💰, gagner du ⌚️, éviter des failles de sécurité et assurer l'évolutivité de votre SI => Ne développez pas vous-même des serveurs d'#authn (ni des surcouches par dessus) !! Utilisez des services managés ou @keycloak" / Twitter]
+
+Parfaitement d'accord avec Julien : écrire soi-même un composant de sécurité est la plus sûre façon de voir cette sécurité contournée par un attaquant quelconque.

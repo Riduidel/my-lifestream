@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai essayé de benchmarker un peu... - LinuxFr.org
+:jbake-tags: web,e-commerce,comparatif,librairie,livre,_mois_août,_année_2014
+:jbake-date: 2014-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1407315930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnodes%2F102741%2Fcomments%2F1548909&searchtags=web+e-commerce+comparatif+librairie+livre+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://linuxfr.org/nodes/102741/comments/1548909[J'ai essayé de benchmarker un peu... - LinuxFr.org]
+
+Chouette comparatif de librairies en ligne. Ca me permettra de passer au-dela du traditionnel Amazon (qui reste assez incontournable comme palce de marché générique) via http://sebsauvage.net/links/?mie9Zg

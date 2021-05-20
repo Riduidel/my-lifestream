@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Regehr on Twitter: "how to deprecate an interface https://t.co/0bJlCNkrcq"
+:jbake-tags: programming,concepts,_mois_oct.,_année_2017
+:jbake-date: 2017-10-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1508399944000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjohnregehr%2Fstatus%2F920691341738123264&searchtags=programming+concepts+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/johnregehr/status/920691341738123264[John Regehr on Twitter: "how to deprecate an interface https://t.co/0bJlCNkrcq"]
+
+Wow, c'est puissant comme idée : rajouter un délai à chaque utilisation de l'interface dépréciée.

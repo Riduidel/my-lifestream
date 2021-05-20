@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: No Sailors Needed: Robot Sailboats Scour the Oceans for Data - The New York Times
+:jbake-tags: mer,voile,robot,_mois_sept.,_année_2016
+:jbake-date: 2016-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1473319566000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nytimes.com%2F2016%2F09%2F05%2Ftechnology%2Fno-sailors-needed-robot-sailboats-scour-the-oceans-for-data.html%3Fref%3Dtechnology%26_r%3D1&searchtags=mer+voile+robot+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.nytimes.com/2016/09/05/technology/no-sailors-needed-robot-sailboats-scour-the-oceans-for-data.html?ref=technology&_r=1[No Sailors Needed: Robot Sailboats Scour the Oceans for Data - The New York Times]
+
+Des voiliers autonomes ! Je savais que ça existait, mais en voir, ça change bien des choses

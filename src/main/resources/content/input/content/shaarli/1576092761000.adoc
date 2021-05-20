@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visualising organisation relationships with the 4S model
+:jbake-tags: architecture,entreprise,modèle,_mois_déc.,_année_2019
+:jbake-date: 2019-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1576092761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcode.joejag.com%2F2019%2Fthe-four-s-technique.html&searchtags=architecture+entreprise+mod%C3%A8le+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://code.joejag.com/2019/the-four-s-technique.html[Visualising organisation relationships with the 4S model]
+
+C'est une sacrément chouette initiative étendant le modèle C4 à l'architecture d'entreprise. Malheureusement, pour l'instant, ça n'est pas encore un modèle, mais juste un ensemble de schémas.

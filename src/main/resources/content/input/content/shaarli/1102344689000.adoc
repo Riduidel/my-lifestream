@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Navagent -- Surf3D - Home
+:jbake-tags: freeware,software,spatial,web,windows,_mois_déc.,_année_2004
+:jbake-date: 2004-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1102344689000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.surf3d.com%2F&searchtags=freeware+software+spatial+web+windows+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.surf3d.com/[Navagent -- Surf3D - Home]
+
+Surf3D allows power users to customize discovery and harvesting of information on the web. Navagent is delivering powerful search and data visualization software that empowers you to get what you want and save time doing it. Use our software to supercharg

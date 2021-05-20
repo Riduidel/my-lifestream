@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Efficient data transfer through zero copy
+:jbake-tags: java,réseau,disk,_mois_mai,_année_2018
+:jbake-date: 2018-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1527484607000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Flibrary%2Fj-zerocopy%2F&searchtags=java+r%C3%A9seau+disk+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.ibm.com/developerworks/library/j-zerocopy/[Efficient data transfer through zero copy]
+
+Mon client vient de me faire découvrir cette histoire de zero copy. Java NIO, c'est quand même génial !

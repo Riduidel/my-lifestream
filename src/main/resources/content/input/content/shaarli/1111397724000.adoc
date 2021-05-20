@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mac OS (X) application: FileType
+:jbake-tags: software,freeware,macosx,system,file,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111397724000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.frederikseiffert.de%2Ffiletype%2F&searchtags=software+freeware+macosx+system+file+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.frederikseiffert.de/filetype/[Mac OS (X) application: FileType]
+
+FileType is an application to change the file types (type- and creator-codes) of files. You can save the file types you frequently use in a database so you don't have to remember them. It's very easy to use.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ulid/spec: The canonical spec for ulid
+:jbake-tags: programming,concepts,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546416608000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fulid%2Fspec&searchtags=programming+concepts+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/ulid/spec[ulid/spec: The canonical spec for ulid]
+
+Une alternative aux UUID qui explique pourquoi c'est utile, et quels avantages en tirer. C'est pas mal du tout ... même si je pressens des risques de collision (très faibles, mais existants)

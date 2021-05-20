@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martin Thompson on Twitter: "I've meet so many impressive people at CERN the last few days it makes me despair that society values the wrong things. People become reality TV stars for no good reason yet amazing scientists pass by almost unnoticed. The media has a lot to answer for. Thanks #voxxdays"
+:jbake-tags: citation,critique,célébrité,_mois_mai,_année_2019
+:jbake-date: 2019-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1556796121000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmjpt777%2Fstatus%2F1123668256756203522&searchtags=citation+critique+c%C3%A9l%C3%A9brit%C3%A9+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mjpt777/status/1123668256756203522[Martin Thompson on Twitter: "I've meet so many impressive people at CERN the last few days it makes me despair that society values the wrong things. People become reality TV stars for no good reason yet amazing scientists pass by almost unnoticed. The media has a lot to answer for. Thanks #voxxdays"]
+
+Une belle critique de la célébrité

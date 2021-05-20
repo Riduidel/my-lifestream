@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HINT.FM / Fernanda Viegas & Martin Wattenberg
+:jbake-tags: reference,design,visualisation,graphics,inspiration,interface,for:mischler,_mois_janv.,_année_2010
+:jbake-date: 2010-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1262870640000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhint.fm%2F&searchtags=reference+design+visualisation+graphics+inspiration+interface+for%3Amischler+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://hint.fm/[HINT.FM / Fernanda Viegas & Martin Wattenberg]
+
+De très jolies visualisations, idéales comme sources d'inspiration pour des développements futurs (même si pas forcément applicables).

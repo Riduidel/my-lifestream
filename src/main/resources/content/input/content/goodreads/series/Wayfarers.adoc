@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wayfarers
+:jbake-tags: serie
+:jbake-date: 2021-03-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Wayfarers.adoc
+:jbake-source: https://www.goodreads.com/series/170872
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253260592.html[L'Espace d'un an (Voyageur, #1)]

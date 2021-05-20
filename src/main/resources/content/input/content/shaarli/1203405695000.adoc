@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ipernity: Statistical graphics of your photos? par Sebastian Yepes F.
+:jbake-tags: ruby,exif,statistiques,graph,_mois_févr.,_année_2008
+:jbake-date: 2008-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1203405695000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ipernity.com%2Fblog%2Fsebastian_yepes%2F29210&searchtags=ruby+exif+statistiques+graph+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.ipernity.com/blog/sebastian_yepes/29210[ipernity: Statistical graphics of your photos? par Sebastian Yepes F.]
+
+Moi je vous le dis, des petites statistiques sur les focales et autres trucs et bidules utilisés pour prendre mes photos, je ne dis vraiment pas non.

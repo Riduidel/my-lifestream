@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dierk König sur Twitter : "late night bug hunting made me re-learn: - bugs hide in untested areas - cleverness gives them cover - don’t try to outsmart the bug, remove the cover - a shortcut is the longest distance between start and finish - stick to your rules - don’t feeds the bugs after midnight."
+:jbake-tags: citation,bug,debug,méthode,_mois_janv.,_année_2020
+:jbake-date: 2020-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1578292388000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmittie%2Fstatus%2F1213834297674784769&searchtags=citation+bug+debug+m%C3%A9thode+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/mittie/status/1213834297674784769[Dierk König sur Twitter : "late night bug hunting made me re-learn: - bugs hide in untested areas - cleverness gives them cover - don’t try to outsmart the bug, remove the cover - a shortcut is the longest distance between start and finish - stick to your rules - don’t feeds the bugs after midnight."]
+
+Deux ou trois trucs à noter : le code malin offre plus de place aux bugs (typiquement l'injection de dépendance/les proxys/l'AOP), et trouver les bugs est avant tout une affaire de persévérance.

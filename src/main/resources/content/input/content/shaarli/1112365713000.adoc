@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JUnit, Testing Resources for Extreme Programming
+:jbake-tags: programming,java,test,library,environnement,build,XP,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112365713000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.junit.org%2Findex.htm&searchtags=programming+java+test+library+environnement+build+XP+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.junit.org/index.htm[JUnit, Testing Resources for Extreme Programming]
+
+

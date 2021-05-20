@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SpotMeta
+:jbake-tags: folksonomie,freeware,geek,macosx,open-source,productivité,search,sémantique,software,utilities,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171641124000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fluffy.co.uk%2Fspotmeta%2F&searchtags=folksonomie+freeware+geek+macosx+open-source+productivit%C3%A9+search+s%C3%A9mantique+software+utilities+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.fluffy.co.uk/spotmeta/[SpotMeta]
+
+Un petit logiciel permettant l'ajout de mots-clés aux fichiers du mac

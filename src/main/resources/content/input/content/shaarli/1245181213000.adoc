@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: darwiin-remote
+:jbake-tags: software,macosx,bluetooth,open-source,wiimote,_mois_juin,_année_2009
+:jbake-date: 2009-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1245181213000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdarwiin-remote.sourceforge.net%2F&searchtags=software+macosx+bluetooth+open-source+wiimote+_mois_juin+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://darwiin-remote.sourceforge.net/[darwiin-remote]
+
+Ce soft pour le mac m'a l'air sacrément bien fichu. Avec ça, je vais mener ma amchine à la baguette !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: William Louth on Twitter: "All these software developers who can’t seem to extract/define/create an appropriate model and interface for a bunch of code blocks are somehow going to create well designed microservices API? Right....."
+:jbake-tags: citation,programming,architecture,microservices,_mois_mars,_année_2018
+:jbake-date: 2018-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1522245122000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fautoletics%2Fstatus%2F978324381507178496&searchtags=citation+programming+architecture+microservices+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/autoletics/status/978324381507178496[William Louth on Twitter: "All these software developers who can’t seem to extract/define/create an appropriate model and interface for a bunch of code blocks are somehow going to create well designed microservices API? Right....."]
+
+Oh mon dieu, la service-pocalypse !

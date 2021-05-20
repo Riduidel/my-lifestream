@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keynote
+:jbake-tags: politique,racisme,économie,écologie,_mois_mai,_année_2018
+:jbake-date: 2018-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1526969545000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnabilhassein.github.io%2Fslides%2Fdeconstructconf-2018%2Fassets%2Fplayer%2FKeynoteDHTMLPlayer.html%230&searchtags=politique+racisme+%C3%A9conomie+%C3%A9cologie+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://nabilhassein.github.io/slides/deconstructconf-2018/assets/player/KeynoteDHTMLPlayer.html#0[Keynote]
+
+Une présentation qui fait réfléchir sur le rôle de la technologie dans l'extension du fossé séparant les riches des pauvres

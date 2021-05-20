@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 149. MOTHER JONES: Sit down and read
+:jbake-tags: art,citation,illustration,_mois_mai,_année_2014
+:jbake-date: 2014-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1399725126000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fzenpencils.com%2Fcomic%2F149-mother-jones-sit-down-and-read%2F&searchtags=art+citation+illustration+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://zenpencils.com/comic/149-mother-jones-sit-down-and-read/[149. MOTHER JONES: Sit down and read]
+
+Ca c'est de la mise en valeur de citation !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La roue de Deming (PDCA) | Chef d'équipe
+:jbake-tags: projet,management,tool,planning,_mois_févr.,_année_2017
+:jbake-date: 2017-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1486378420000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchefdequipe.fr%2Fles-outils%2Fla-roue-de-deming-pdca%2F&searchtags=projet+management+tool+planning+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://chefdequipe.fr/les-outils/la-roue-de-deming-pdca/[La roue de Deming (PDCA) | Chef d'équipe]
+
+C'est marrant de voir cet outil critiqué pour sa lenteur alors qu'aucune constante de temps n'est indiquée ...

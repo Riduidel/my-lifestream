@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby Quiz
+:jbake-tags: software,programming,ruby,challenge,test,_mois_mars,_année_2005
+:jbake-date: 2005-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1111153827000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rubyquiz.com%2F&searchtags=software+programming+ruby+challenge+test+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.rubyquiz.com/[Ruby Quiz]
+
+Ruby Quiz is a weekly programming challenge for Ruby programmers in the spirit of the Perl Quiz of the Week. A new Ruby Quiz is sent to the Ruby Talk mailing list each Friday. (Watch for the \[QUIZ\] subject identifier.) After a 48 hour no-spoiler period ha

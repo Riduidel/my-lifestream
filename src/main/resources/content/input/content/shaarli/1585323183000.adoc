@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Setting Up Git Identities · Micah Henning
+:jbake-tags: keepass,github,certificat,gpg,tutorial,_mois_mars,_année_2020
+:jbake-date: 2020-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1585323183000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.micah.soy%2Fposts%2Fsetting-up-git-identities%2F&searchtags=keepass+github+certificat+gpg+tutorial+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.micah.soy/posts/setting-up-git-identities/[Setting Up Git Identities · Micah Henning]
+
+Il va falloir que je regarde ça en détail pour le porter vers KeeAgent ...

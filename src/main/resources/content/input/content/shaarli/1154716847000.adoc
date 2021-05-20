@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Merging iPhoto Libraries, the easy way
+:jbake-tags: documentation,tutorial,image,macosx,photographie,_mois_août,_année_2006
+:jbake-date: 2006-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1154716847000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.macosxhints.com%2Fcomment.php%3Fmode%3Dview%26cid%3D42839%26query%3Dmerge%2520iphoto%2520library&searchtags=documentation+tutorial+image+macosx+photographie+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.macosxhints.com/comment.php?mode=view&cid=42839&query=merge%20iphoto%20library[Merging iPhoto Libraries, the easy way]
+
+Un tutorial pour importer une librairie iPhoto dans une autre, une chose qui n'est étrangement pas prévue dans iPhoto. Ca a pas l'air super simple, mais c'est faisable.

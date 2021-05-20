@@ -1,0 +1,52 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Software development, responsibility and ethics: the coming crisis
+:jbake-tags: devoxx,loi,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-software-development-responsibility-and-ethics-the-coming-crisis.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-software-development-responsibility-and-ethics-the-coming-crisis/
+:jbake-style: wordpress
+
+++++
+<p>
+Richard Fontana est actuellement avocat chez RedHat, en charge du droit du logiciel. Et ce que j'écris ici n'est pas forcément sa keynote, mais une retranscription faite le soir même, parce qu'il m'a quand même fallu un moment pour digérer le truc.
+</p>
+<p>
+Quand vous faites du code, vous croyez être tranquilles. Mais voilà, "software is eating the world", on l'a entendu au moins dix fois pendant Devoxx avant même ce code. Et si c'est vrai, eh bien ... vous êtes vraiment sûr que les gouvernements laisseront longtemps les logiciels se déclarer pénalement irresponsables, comme c'est indiqué dans le contrat de licence du JRE :
+<br/>
+<blockquote>THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+<br/>
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+<br/>
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+<br/>
+ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY
+<br/>
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+<br/>
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+<br/>
+OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+<br/>
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+<br/>
+STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+<br/>
+IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+<br/>
+POSSIBILITY OF SUCH DAMAGE.</blockquote>
+<br/>
+Enfin, c'est dans le JRE, mais c'est aussi dans <b>tous</b> les logiciels que vous utilisez. Dans d'autres domaines de l'ingénierie, et même ailleurs (typiquement la médecine), la responsabilité est toujours engagée. Qu'est-ce que ça change ? Pas tant de choses que ça : vous voyez toujours de nouveaux modèles de ponts, et l'innovation médicale se porte bien. En revanche, ce qui change, c'est que ces domaines ont pu être brutalement régulés par l'état, ou ont choisi de s'auto-réguler pour éliminer les mauvaises pratiques.
+</p>
+<p>
+Pour des raisons que Richard Fontana ne creuse pas, ça n'est pas encore arrivé dans le domaine du logiciel. Mais est-ce qu'il faut attendre d'être brutalement régulés ? Ou est-ce qu'il faut prendre le taureau par les cornes ?
+</p>
+<p>
+Autre question, quand ça arrivera, le code commercial aura un responsable facile à identifier : l'entreprise émettrice. Mais qui sera rendu pénalement responsable du code open-source ? Est-ce que je pourrais être rendu pénalement responsable du fait de bugs dans du code open-source que j'ai contribué ?
+</p>
+<p>
+Franchement, ça fait serrer les fesses.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LITERARYMOOSE.INFO: CSS Destroy
+:jbake-tags: web,css,expérience,exemple,opera,langage,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112347333000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.literarymoose.info%2F%3D%2Fcss.xhtml&searchtags=web+css+exp%C3%A9rience+exemple+opera+langage+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.literarymoose.info/=/css.xhtml[LITERARYMOOSE.INFO: CSS Destroy]
+
+This page collects experiments with Cascading Style Sheets

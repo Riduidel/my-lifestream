@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Photoblogs.org - The Photoblog Resource
+:jbake-tags: blog,photographie,_mois_oct.,_année_2004
+:jbake-date: 2004-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1097161493000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.photoblogs.org%2F&searchtags=blog+photographie+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.photoblogs.org/[Photoblogs.org - The Photoblog Resource]
+
+Photoblogs.org is a resource designed to help people find all kinds of photoblogs.

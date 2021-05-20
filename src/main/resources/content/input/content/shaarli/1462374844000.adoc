@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ltearno/pom-explorer: A tool to aid managing lots of maven projects
+:jbake-tags: java,maven,programming,open-source,software,_mois_mai,_année_2016
+:jbake-date: 2016-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1462374844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fltearno%2Fpom-explorer&searchtags=java+maven+programming+open-source+software+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/ltearno/pom-explorer[ltearno/pom-explorer: A tool to aid managing lots of maven projects]
+
+Très chouette outil pour faire de l'analyse un peu avancée d'un pom

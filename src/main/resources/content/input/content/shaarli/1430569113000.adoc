@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gene Kim on Twitter: "#DevOpsRSAC @mortman: "Automate everything u can; that which u can't automate, make automatable" (ht/ Galelio); untesting = unsecurable"
+:jbake-tags: citation,devops,test,automatisation,_mois_mai,_année_2015
+:jbake-date: 2015-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1430569113000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRealGeneKim%2Fstatus%2F590200220476002304&searchtags=citation+devops+test+automatisation+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/RealGeneKim/status/590200220476002304[Gene Kim on Twitter: "#DevOpsRSAC @mortman: "Automate everything u can; that which u can't automate, make automatable" (ht/ Galelio); untesting = unsecurable"]
+
+Automate everything u can; that which u can't automate, make automatable

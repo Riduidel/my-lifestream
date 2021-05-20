@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Uplift Saga
+:jbake-tags: serie
+:jbake-date: 2003-01-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Uplift_Saga.adoc
+:jbake-source: https://www.goodreads.com/series/41134
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290019818.html[Marée stellaire (Cycle de l’Élévation, #2)]

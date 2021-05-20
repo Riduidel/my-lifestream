@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C# programming with Visual Studio Code
+:jbake-tags: keepass,@project_keepass_ocr,vscode,plugin,c#,_mois_janv.,_année_2021
+:jbake-date: 2021-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1611433582000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcode.visualstudio.com%2FDocs%2Flanguages%2Fcsharp&searchtags=keepass+%40project_keepass_ocr+vscode+plugin+c%23+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://code.visualstudio.com/Docs/languages/csharp[C# programming with Visual Studio Code]
+
+Il semble que si je veux implémenter de la reconnaissance de calculatrice à l'écran dans Keepass, je doive me mettre à C\# .... Damn ! En tout cas, je pourrais le faire dans VSCode, c'est déja ça

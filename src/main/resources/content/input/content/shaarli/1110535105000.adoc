@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Red Alt - I Like Your Colors
+:jbake-tags: web,documentation,_mois_mars,_année_2005
+:jbake-date: 2005-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1110535105000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.redalt.com%2FTools%2Filyc.php&searchtags=web+documentation+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.redalt.com/Tools/ilyc.php[Red Alt - I Like Your Colors]
+
+There is a form at the bottom of this page that lets you choose any URL you want to extract colors from. The colors you see here are from the site that referred you to this page!

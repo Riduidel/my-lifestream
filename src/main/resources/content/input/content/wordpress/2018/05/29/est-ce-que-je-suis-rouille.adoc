@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Est-ce que je suis rouillé ?
+:jbake-tags: langage,rust,_mois_mai,_année_2018
+:jbake-date: 2018-05-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/05/29/est-ce-que-je-suis-rouille.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/05/29/est-ce-que-je-suis-rouille/
+:jbake-style: wordpress
+
+++++
+<p>
+Le titre est "à double sens".
+</p>
+<p>
+Parce que je suis peut-être rouillé parce que ça fait un moment que je n'ai rien codé.
+</p>
+<p>
+Mais aussi parce que, vous l'avez peut-être vu sur Twitter ou ailleurs, je commence à regarder sérieusement <a href="https://www.rust-lang.org/fr-FR/">Rust</a>. Et pour l'instant, j'y ai vu des choses différentes, mais rien d'aussi choquant que ce qu'a pu m'inspirer Go.
+</p>
+<p>
+Bon, je dois bien reconnaître que je suis seulement en train d'attaquer la partie sur l'ownership et le borrowing. Les noms sont un peu barbares, mais il s'agit en fait du mécanisme de gestion de références de Rust, qui est censé éviter les memory leaks, parce qu'il force le développeur à gérer sérieusement ses objets.
+</p>
+<p>
+Et puis ... Il y a la doc. Aussi bien <a href="https://doc.rust-lang.org/book/">la doc de référence</a> que le <a href="https://doc.rust-lang.org/rust-by-example/">Rust by example</a> sont vraiment bien fichus, progressifs, clairs, d'un niveau qui me fait penser la doc de Java un peu ... frustre.
+</p>
+<p>
+Et puis il y a cargo, qui est le package manager développé apparemment par la même équipe, et qui fournit tous les services d'un maven.
+</p>
+<p>
+Et puis si Rust n'est pas vraiment orienté objet, il en a quand même un sacré paquet d'attributs, en plus des aspects fonctionnels qu'on trouve maintenant dans tous les langages.
+</p>
+<p>
+Et puis il y a la non-facilité d'accès. Rust n'est pas tordu comme un C++. Mais il n'est pas non plus simple comme un Javascript. Et là, après mon mois de lecture de la doc, je me sens à peine capable d'aborder les problèmes simples de Codingame. Et c'est ce que je vais faire, parce qu'à mon avis, pour un langage performant comme Rust, c'est vraiment le terrain d'essai idéal.
+</p>
+<p>
+En vrai, il y a une approche peut-être un peu sélective dans ce langage, mais je sens venir avec toute une série de gratifications en termes de sûreté de fonctionnement. Et ça, ça me fait plaisir. Et vous allez donc en lire un moment.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Deis Overview | Your Paas. Your Rules.
+:jbake-tags: devops,linux,docker,déploiement,cloud,_mois_mai,_année_2014
+:jbake-date: 2014-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1399451913000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdeis.io%2Foverview%2F&searchtags=devops+linux+docker+d%C3%A9ploiement+cloud+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://deis.io/overview/[Deis Overview | Your Paas. Your Rules.]
+
+Trop chouette comme truc : au lieu d'installer des Debian et de tenter de maintenir une armée de serveurs, il "suffit" d'installer des instances Deis et de déployer des conteneurs Docker dessus. Trop simple !

@@ -1,0 +1,42 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Et si j'arrêtais de faire n'importe quoi avec mon Raspberry ?
+:jbake-tags: backup,optimisation,raspberrypi,_mois_sept.,_année_2018
+:jbake-date: 2018-09-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/09/27/et-si-jarretais-de-faire-nimporte-quoi-avec-mon-raspberry.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/09/27/et-si-jarretais-de-faire-nimporte-quoi-avec-mon-raspberry/
+:jbake-style: wordpress
+
+++++
+<p>
+Parce que <a href="https://riduidel.wordpress.com/2018/09/13/je-change-le-nas/">la dernière alerte</a> a été sévère.
+</p>
+<p>
+Je vais donc essayer ce soir d'améliorer deux ou trois choses ...
+<br/>
+<h2>Optimiser la gestion des logs</h2>
+<br/>
+D'abord, l'article <a href="http://www.magdiblog.fr/divers/comment-prolonger-la-duree-de-vie-de-vos-cartes-sd-sur-raspberry-pi/" rel="bookmark">Comment prolonger la durée de vie de vos cartes SD sur Raspberry Pi (màj)</a> montre comment utiliser un tmpfs et <a href="http://abel-it.co.uk/pi/ramlog.html">RAMLog</a> pour ne plus saloper la carte SD avec les écritures de log. Ca m'avait l'air très bien jusqu'à ce que je regarde la méthode d'installation ... Pas terrible.
+</p>
+<p>
+Et en bonus, le démarrage m'avait l'air hasardeux ...
+</p>
+<p>
+Du coup, je ne l'ai pas installé, car je lui ai préféré <a href="https://github.com/azlux/log2ram">log2ram</a> (trouvé grâce à ce <a href="https://forum.raspbian-france.fr/t/ramlog-ou-log2ram/1600">forum</a>). Si l'installation n'est pas plus conviviale, il s'agit ici de script shells qui m'ont l'air plus inspectables, et surtout sont intégrés correctement avec la gestion des services de Raspbian.
+</p>
+<p>
+Reste à voir sur le long terme si j'arrive à sauver l'engin ...
+<br/>
+<h2>Créer des backups corrects</h2>
+<br/>
+Bon, ben là, il y a un bon paquet de solutions à base de dd. Ca ne m'intéresse pas trop, parce qu'il faut arrêter le Raspberry.
+</p>
+<p>
+J'ai donc privilégié une solution basée sur un bon gros <a href="https://jekt.space/sauvegarder-automatiquement-le-syst%C3%A8me-de-votre-raspberry-pi-9ad0ea6848b">rsync</a> bien massif.
+</p>
+<p>
+Parce que même si ce rsync ne me permet pas de reconstruire de façon  immédiate un Raspberry fonctionnel, j'aurais au moins toutes les données sur mon NAS, ce qui aidera.
+</p>
+++++

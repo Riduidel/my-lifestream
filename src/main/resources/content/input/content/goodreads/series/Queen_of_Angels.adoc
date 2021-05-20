@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Queen of Angels
+:jbake-tags: serie
+:jbake-date: 2004-04-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Queen_of_Angels.adoc
+:jbake-source: https://www.goodreads.com/series/51175
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782221071595.html[La Reine des Anges]
+* link:../books/9782253068235.html[Oblique]

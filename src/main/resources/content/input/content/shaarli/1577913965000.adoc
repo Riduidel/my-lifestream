@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - sw-yx/spark-joy: ✨😂easy ways to add design flair, user delight, and whimsy to your product.
+:jbake-tags: webdesign,catalog,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577913965000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsw-yx%2Fspark-joy&searchtags=webdesign+catalog+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/sw-yx/spark-joy[GitHub - sw-yx/spark-joy: ✨😂easy ways to add design flair, user delight, and whimsy to your product.]
+
+Une liste bien complète de resources design, pour transformer un site moche en quelque chose de bien.

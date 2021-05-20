@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 3 tribes of programming
+:jbake-tags: programming,métier,culture,mathématiques,science,art,artisanat,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568013370000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjosephg.com%2Fblog%2F3-tribes%2F&searchtags=programming+m%C3%A9tier+culture+math%C3%A9matiques+science+art+artisanat+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://josephg.com/blog/3-tribes/[3 tribes of programming]
+
+C'est une très très très bonne réflexion ... et une excellente question à poser en entretien d'embauche 😈

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Learn Git Branching
+:jbake-tags: git,tutorial,web,hacktoberfest,_mois_sept.,_année_2020
+:jbake-date: 2020-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1601140065000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flearngitbranching.js.org%2F%3Flocale%3Dfr_FR&searchtags=git+tutorial+web+hacktoberfest+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://learngitbranching.js.org/?locale=fr_FR[Learn Git Branching]
+
+Apparement je risque de devoir faire une micro-familiarisation à Git la semaine prochaine. Et pour ça, ce genre de site ne peut qu'aider.

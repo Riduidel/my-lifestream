@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Traqueur d'acier : Combattez jusqu'au dernier et luttez pour la suprématie !
+:jbake-tags: jeu,world-of-tanks,mod,_mois_août,_année_2019
+:jbake-date: 2019-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1566382820000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fworldoftanks.eu%2Ffr%2Fnews%2Fgeneral-news%2Fsteel-hunter-announcement%2F&searchtags=jeu+world-of-tanks+mod+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://worldoftanks.eu/fr/news/general-news/steel-hunter-announcement/[Traqueur d'acier : Combattez jusqu'au dernier et luttez pour la suprématie !]
+
+Oh, tiens, le mode Battle Royale arrive dans World of Tanks ? Je suis curieux de voir ce que ça va donner ...

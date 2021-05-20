@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: One Manga | Your online manga reader. Read free manga online.
+:jbake-tags: ebook,library,online,image,reader,manga,_mois_juin,_année_2008
+:jbake-date: 2008-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1213359846000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.onemanga.com%2F&searchtags=ebook+library+online+image+reader+manga+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.onemanga.com/[One Manga | Your online manga reader. Read free manga online.]
+
+Un lecteur de manga en ligne. Bien sûr, c'est en anglais, mais la plupart du temps, ça ne compte pas trop ... si ?

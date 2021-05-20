@@ -1,0 +1,56 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenStreetMap, c'est bien
+:jbake-tags: cartographie,open-source,_mois_août,_année_2019
+:jbake-date: 2019-08-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/08/20/openstreetmap-cest-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/08/20/openstreetmap-cest-bien/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>En fouillant dans mes archives, je rends compte que je n'ai pas d'article expliquant à quel point je pense qu'OpenStreetMap est un truc incroyable. Donc je vais essayer d'expliquer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour commencer, un petit parallèle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quand Wikipedia s'est lancé, il y avait encore des encyclopédies en ligne, maintenues par des professionnels. Il y a avait même des articles écrits par ces mêmes professionnels expliquant que Wikipedia ne pourrait jamais atteindre le niveau de précision et d'exhaustivité de ces encyclopédies parce que fondamentalement, les contributeurs sont bénévoles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Aujourd'hui, OpenStreetMap est dans une situation équivalente.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous avez en effet d'un côté le mastodonte Google Maps, d'un autre tout une série d'acteurs historiques de la cartographie (je pense par exemple à mappy ou à ViaMichelin). Et au milieu, OpenStreetMap. Pourquoi qui que ce soit miserait sur OpenStreetMap ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que c'est gratuit ? C'est <a href="http://www.fredzone.org/microsoft-openstreetmap-493">la raison pour laquelle Microsoft contribue</a>, mais ça n'est pas la seule.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La vraie bonne raison pour laquelle c'est si bien, c'est surtout parce que les données y sont libres. Je peux contribuer si je veux (bon, je ne le fais pas, mais je peux). Je peux aussi construire un service s'appuyant sur leurs cartes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je peux enfin utiliser un service s'appuyant sur OpenStreetMap et ça, franchement, je ne m'en prive pas :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><a href="https://maps.openrouteservice.org/">OpenRouteService </a>fournit un calcul d'itinéraire très correct, et avec quelques ajouts intéressants ... et je m'en sers maintenant pour tous mes routages.</li><li> <a href="https://osmand.net/">OsmAnd </a>est mon application de carto sur téléphone portable de référence. Parce que les cartes sont disponibles hors-ligne depuis le début. Parce que l'application, comme le fonds cartographique, est libre. Et enfin parce qu'il y quelques plugins gratuits. Bon, il a quelques subtilités dans le téléchargement d'OsmAnd (la version libre, gratuite est totalement débloquée n'est disponible que sur F-Droid). Mais franchement, c'est un outil incroyable.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Au-delà de ça, il y a un écosystème très vaste d'<a href="https://wiki.openstreetmap.org/wiki/List_of_OSM-based_services">applications basées sur les données d'OpenStreetMap</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et pour toutes ces raisons (et aussi parce que sans OsmAnd, mes randonnées de vacances auraient été un peu plus compliquées), merci à OpenStreetMap et à ses contributeurs !</p>
+<!-- /wp:paragraph -->
+++++

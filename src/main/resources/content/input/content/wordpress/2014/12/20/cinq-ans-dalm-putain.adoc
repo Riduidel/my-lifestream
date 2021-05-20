@@ -1,0 +1,169 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cinq ans d'ALM, putain !
+:jbake-tags: alm,jenkins,maven,tuleap,_mois_déc.,_année_2014
+:jbake-date: 2014-12-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/12/20/cinq-ans-dalm-putain.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/12/20/cinq-ans-dalm-putain/
+:jbake-style: wordpress
+
+++++
+<p>
+Encore une suite à <a title="Cinq ans, putain !" href="http://riduidel.wordpress.com/2014/12/12/cinq-ans-putain/">cinq ans, putain !</a>
+</p>
+<p>
+Oui, je mets le terme <a href="http://fr.wikipedia.org/Application_lifecycle_management">ALM </a>à toutes les sauces, parce que c'est mon bon plaisir.
+</p>
+<p>
+Donc, sur ce gros projet, j'ai fait ce qu'on pourrait de l'ALM. Qu'est-ce que je mets sous ce terme ?
+</p>
+<p>
+L'ensemble des tâches qui permettent de passer du code au produit.
+</p>
+<p>
+Ca inclut, de façon non exhaustive
+<br/>
+<ul>
+<br/>
+<li>Les outils de build</li>
+<br/>
+<li>Les outils d'intégration continue</li>
+<br/>
+<li>L'intégration entre ces outils et les outils de suivi de bugs.</li>
+<br/>
+</ul>
+<br/>
+Et évidement, je vais vous (re)parler de <a title="La prochaine frontière ? l’ALM" href="http://riduidel.wordpress.com/2013/10/24/la-prochaine-frontiere-lalm/">Tuleap</a>.
+</p>
+<p>
+Mais avant, je vais reprendre les étages un par un
+<br/>
+<h4>Compiling !</h4>
+<br/>
+[caption id="" align="alignnone" width="413"]<img src="http://imgs.xkcd.com/comics/compiling.png" alt="" width="413" height="360" /> Aimablement fourni par http://xkcd.com/303/ mais vous vous en doutiez, non ?[/caption]
+</p>
+<p>
+Quand on a commencé notre projet, j'avais déja touché du build maven multi-module. Maias je n'imaginais pas que j'en ferais autant, puisque notre build intègre maintenant
+<br/>
+<ul>
+<br/>
+<li>De la compilation flex avec <a href="https://code.google.com/p/flex-mojos/">flexmojos</a> (raisonnablement facile)</li>
+<br/>
+<li>De la compilation C++ ... et selon la plateforme, cette compilation utilise soit Visual Studio, soit XCode ... alors ne me parlez pas de <a href="https://github.com/maven-nar/nar-maven-plugin">maven-nar-plugin</a>, parce qu'il est notoirement insuffisant pour nos besoins.</li>
+<br/>
+<li>Du packaging sous d'innombrables formes (war, ear, <a href="http://help.adobe.com/fr_FR/extensionmanager/cs/using/WSef3735c8b4d78bef5dd58210e53c97942-7fe9a.html">zxp</a>, ...)</li>
+<br/>
+</ul>
+<br/>
+Qu'est-ce que ça m'a appris ?
+<br/>
+<h5>It's alive</h5>
+<br/>
+Que la vraie force de maven n'est pas la création d'un format de dépendance universellement utilisé.
+</p>
+<p>
+Je veux dire, c'est vrai que c'est pratique, ces dépendances, mais quand on arrive à du build "d'entreprise", c'est-à-dire moche et farci de profils, la vraie force de maven, ça n'est pas ça. Non.
+</p>
+<p>
+La vraie force de maven, c'est de définir un <a href="https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html">cycle de vie universel</a>. Parce que ce cycle de vie permet, quelquesoit le type de projet, le langage utilisé, ou quelque concept que ce soit, de positionner les différentes opérations dans un tout <strong>cohérent</strong>. Ca n'a l'air de rien, comme ça, mais c'est réellement indispensable pour les gens qui s'occupent de faire un packaging réaliste. Parce que je sais, quand j'en arrive à la phase "packaging", que tout mon code est compilé, testé, que les ressources ont été traité.
+</p>
+<p>
+Franchement, quand je regarde les alternatives à maven, je me dis qu'ils n'ont rien compris : ne pas reprendre ce cycle de vie, c'est juste irresponsable maintenant.
+<br/>
+<h5>Groovy, baby</h5>
+<br/>
+Alors évidement, vous me direz qu'écrire un plugin maven pour les cas non standard, c'est l'enfer. Et c'est vrai.
+</p>
+<p>
+Heureusement, j'ai également découvert une gradation dans la personnalisation que j'applique de façon systématique (vous savez, pour tous ces trucs foireux - comme par exemple construire un fiochier de config requirejs à partir de dépendances Javascript) :
+<br/>
+<ol>
+<br/>
+<li>Je trouve un plugin maven qui convient ? C'est la fête</li>
+<br/>
+<li>Je trouve un ensemble de tâche ANT qui colle ? Cool</li>
+<br/>
+<li>Je peux écrire un script <a href="http://groovy.codehaus.org/">groovy </a>avec <a href="https://github.com/groovy/gmaven">gmaven </a>? Bien (dans ce cas-là, n'écrivez pas le script dans le build, mais mettez-le dans un dossier clairement séparé, par exemple src/build/gmaven)</li>
+<br/>
+<li>Aucun des trois n'est suffisant ? Alors il est temps d'écrire un plugin maven.</li>
+<br/>
+</ol>
+<br/>
+Avec ça, rien n'est impossible dans un build.
+</p>
+<p>
+Et notez que je ne suis passé du point 3 au point 4 que dans deux cas. Et dans les deux cas, c'est parce que je devais en fait écrire un plugin avec cycle de vie complet. Dans tous les autres cas, groovy a été suffisant, et je dirais même fun.
+<br/>
+<h5>Non mais tout ce XML, quand même ...</h5>
+<br/>
+Tout ce XML de maven ? A priori, on le regardait sous tes les angles dans m2e quand on ajoutait un nouveau type de build, et après, il n'y avait plus vraiment besoin d'intervenir dessus. Alors dire que c'est pénible, faut pas déconner. Le pire, en fait,a vec maven, c'est qu'Eclipse ne différencie pas les scopes des dépendances. Heureusement pour nous, Jenkins compilait en-dehors de tout IDE.
+<br/>
+<h4>Make me a sandwich</h4>
+<br/>
+[caption id="" align="alignnone" width="360"]<a href="https://xkcd.com/149/"><img class="" src="http://imgs.xkcd.com/comics/sandwich.png" alt="" width="360" height="299" /></a> Et encore, on n'a pas besoin de sudoer Jenkins[/caption]
+</p>
+<p>
+Ben oui, <a href="http://jenkins-ci.org/">Jenkins</a>, le gagnant de <a href="http://www.infoworld.com/article/2624074/application-development/oracle-hands-hudson-to-eclipse--but-jenkins-fork-seems-permanent.html">la grande guerre du fork</a>.
+</p>
+<p>
+Lui aussi, on l'a bien tanné.
+</p>
+<p>
+Justement à cause de notre build natif multi-plateforme. Parce que si on compile une partie de notre application selon la plateforme, on fait comment pour avoir les artefacts dans un build commun ?
+</p>
+<p>
+Eh bien on se fait un profil spécial Jenkins, dans lequel le build maven est découpé en parties multi-plateformes et dépendant de la palteforme, et on joue du build matrix plugin pour que tout compile et se package sans problème.
+</p>
+<p>
+Et ça marche, mpême si c'est pas très facile.
+<br/>
+<h5>Ca chauffe !</h5>
+<br/>
+A vrai dire, le plus grand échec a été l'implication de l'équipe : même avec <a href="http://wiki.hudson-ci.org/display/HUDSON/Radiator+View+Plugin">un bon radiateur</a>, personne (sauf la testeuse en chef - que toujours elle marche sur un chemin de roses fraîchement coupées) ne s'y est jamais vraiment intéressé. Et ça, c'est triste.
+</p>
+<p>
+Parce que ça veut dire que cette histoire d'intégration continue n'a été qu'une lubie de ma part, et que je n'ai pas réussi à en communiquer la valeur pour l'équipe, le projet, le produit.
+</p>
+<p>
+Là-dessus, je peux dire que je retiens la leçon, et que je ferais en sorte que les builds en échec ne puissent plus être ignorés.
+<br/>
+<h4>Tester c'est douter</h4>
+<br/>
+Cela dit, tout n'est pas si sombre, puisque le projet a quand même une bonne partie de son code testé, et que TDD a été utilisé dans la plupart <a href="http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html">des acceptations du terme</a>. La meilleure, et la plus efficace étant qu'aucun bug ne devait être marqué corrigé sans qu'un test ait été ajouté spécifiquement. Parce que
+<br/>
+<blockquote>ce qui a foiré foirera</blockquote>
+<br/>
+Ca a l'air con dit comme ça, mais ça c'est vérifié à chaque fois : les parties de code ayant connu un bug en ont toujours connu plus, et plus encore.
+</p>
+<p>
+Heureusement qu'il n'y avait pas d'exploitation statistique des liens entre code et bugs pour vérifier ça, sinon c'aurait été l'enfer.
+<br/>
+<h4>Et mylyn ? Et Tuleap ?</h4>
+<br/>
+Là, par contre, l'échec est patent.
+</p>
+<p>
+Plus encore quand je regarde ce que j'ai pu faire avec gaedo où, là, chaque bug est corrigé à travers un commentaire de commit.
+</p>
+<p>
+Imaginez que le seul lien dont on ait pu dispoiser était, éventuellement, un lien HTTP dans un commentaire de commit référençant un bug. Comme ça, par exemple :
+<br/>
+<blockquote>http://mantis/bugs/view.php?id=7137
+<br/>
+the error was stupid : I did not add children to parents when they were needed</blockquote>
+<br/>
+ca, c'est moi qui l'ait écrit aujourd'hui.
+</p>
+<p>
+Ce qui est bizarre, c'est que j'avais parlé de mylyn, de Tuleap, et qu'un autre collègue avait parlé de <a href="http://www.alt-tag.com/blog/2006/11/integrating-mantis-and-subversion/">svn commit hooks</a> ... mais aucune de ces tentatives n'a pris. Et pour des raisons diverses ... La pire étant celle qui nous a empêché d'utiliser Tuleap : "j'ai pas vraiment eu le temps de regarder". je dois dire que ça, ça m'a tué.
+<br/>
+<h4>Alors, content ?</h4>
+<br/>
+En fait, la plupart des choses installées vont continuer à fonctionner ... jusqu'à ce qu'on les arrête.
+</p>
+<p>
+En revanche, je reste convaincu de l'intérêt de ces outils, et je n'hésiterai pas à pousser leur adoption la prochaine fois.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Explainability – AVC
+:jbake-tags: programming,ia,debug,_mois_janv.,_année_2018
+:jbake-date: 2018-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1516957627000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Favc.com%2F2018%2F01%2Fexplainability%2F&searchtags=programming+ia+debug+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://avc.com/2018/01/explainability/[Explainability – AVC]
+
+Je commence également à penser que l'explicabilité des décisions algorithmiques va bientôt devenir un facteur de choix significatif.

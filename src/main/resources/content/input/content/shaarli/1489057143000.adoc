@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Teaching Elephants to Dance (and Fly!) A Developer's Journey to Digit…
+:jbake-tags: devops,programming,management,agile,javaee,_mois_mars,_année_2017
+:jbake-date: 2017-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1489057143000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.slideshare.net%2FDevNexus%2Fteaching-elephants-to-dance-and-fly-a-developers-journey-to-digital-transformation&searchtags=devops+programming+management+agile+javaee+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.slideshare.net/DevNexus/teaching-elephants-to-dance-and-fly-a-developers-journey-to-digital-transformation[Teaching Elephants to Dance (and Fly!) A Developer's Journey to Digit…]
+
+Excellente présentation sur la transformation devops

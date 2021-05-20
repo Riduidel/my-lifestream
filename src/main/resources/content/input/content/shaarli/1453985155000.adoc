@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java-faker by DiUS
+:jbake-tags: java,library,test,data,_mois_janv.,_année_2016
+:jbake-date: 2016-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1453985155000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdius.github.io%2Fjava-faker%2F&searchtags=java+library+test+data+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://dius.github.io/java-faker/[Java-faker by DiUS]
+
+Super chouette idée !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stephen Anderson sur Twitter : "I've run a couple all-day remote workshops over the past few weeks. I thought i'd share a few of the more *specific* things I've learned… [THREAD 1/?]"
+:jbake-tags: visioconférence,formation,conférence,astuce,_mois_avr.,_année_2020
+:jbake-date: 2020-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1585912844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fstephenanderson%2Fstatus%2F1245788945809539073&searchtags=visioconf%C3%A9rence+formation+conf%C3%A9rence+astuce+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/stephenanderson/status/1245788945809539073[Stephen Anderson sur Twitter : "I've run a couple all-day remote workshops over the past few weeks. I thought i'd share a few of the more *specific* things I've learned… [THREAD 1/?]"]
+
+Un très bon thread sur l'organisation de séminaires/formations à distance avec Zoom/Sococo/Slack/Miro et autres outils

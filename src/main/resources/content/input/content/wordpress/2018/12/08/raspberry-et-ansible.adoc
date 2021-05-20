@@ -1,0 +1,48 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Raspberry et Ansible
+:jbake-tags: ansible,automatisation,configuration,raspberrypi,_mois_déc.,_année_2018
+:jbake-date: 2018-12-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/12/08/raspberry-et-ansible.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/12/08/raspberry-et-ansible/
+:jbake-style: wordpress
+
+++++
+<p>
+La semaine dernière, j'ai bien cru que ma carte SD avait encore fait des siennes. A ma décharge, ce bon vieux <a href="https://github.com/rcarmo/rss2imap">rss2imap</a> ne marchait plus du tout, sans doute à cause d'une sale histoire de mise à jour de Python, j'imagine. J'allais donc me relancer dans une autre installation de mon Raspberry, quand je me suis souvenu d'une discussion avec mon collègue Maxime, qui m'avait demandé pourquoi je n'utilisais pas <a href="https://docs.ansible.com/">Ansible</a> pour installer le Raspberry. Et la proposition est séduisante. Parce qu'Ansible est précisément conçu pour ça. J'ai donc résolu, cette fois-ci, de me taper les scripts nécessaires (malgré mon peu d'amour le <a href="https://nicolas-delsaux.hd.free.fr/Shaarli/?searchterm=&#38;searchtags=citation+yaml+">YAML</a>).
+</p>
+<p>
+Alors certes, j'ai mis deux jours à écrire ces scripts (et encore, j'ai gagné un bon paquet de temps en reprenant <a href="http://www.hietala.org/automating-raspberry-pi-setup-with-ansible.html">ce raspberry-bootstrap</a>). Mais aujourd'hui, je peux installer mon Raspberry en quelques étapes simples, détaillées dans <a href="https://github.com/Riduidel/raspberrypi-server">mon projet GitHub</a> (j'espère ne pas avoir laissé de mot de passe ou de clé privée). Et je peux en plus faire les mises à jour à peu près facilement, simplement en modifiant les scripts et en les réappliquant. Je suis vraiment content d'avoir été un peu sérieux, parce que je suis certain que ça va m'aider !
+</p>
+<p>
+Il y a en revanche deux ou trois défauts.
+<br/>
+<ol>
+<br/>
+<li style="list-style-type:none;">
+<br/>
+<ol>
+<br/>
+<li style="list-style-type:none;">
+<br/>
+<ol>
+<br/>
+<li>Je n'ai curieusement pas réussi à faire fonctionner de façon fiable rsync dans mes scripts. C'est un peu gênant pour appliquer la configuration des applications web (Shaarli en premier).</li>
+<br/>
+<li>J'ai vécu un sale moment quand rss2imap s'est mis à me balancer des erreurs ssl et autres "broken pipe", jsqu'à ce que je me rende compte que c'était le paramètre <code>INLINE_IMAGES_DATA_URI = 1</code> qui forçait le Raspberry à inliner toutes les images, ce qui entraînait un trafic réseau un peu trop important à mon avis. Heureusement, en passant ce paramètre à 0, tout s'est mis à marcher bien mieux. Honnêtement, ça a furieusement réveillé mon envie de reprendre rrss2imap (que je suis obligé de mettre en sommeil jusqu'au mois de février).</li>
+<br/>
+<li>Je me suis rendu compte que mes backups précédents ne marchaient pas, essentiellement parce que je copiais les liens symboliques sans les résoudre. Du coup, j'ai perdu à peu près trois mois d'historique Shaarli (et ça, c'est vraiment triste). Et de la même manière, je suis pas sûr d'utiliser les flux RSS que j'utilisais en début de semaine. Heureusement, c'est maintenant résolu !</li>
+<br/>
+</ol>
+<br/>
+</li>
+<br/>
+</ol>
+<br/>
+&#160;</li>
+<br/>
+</ol>
+</p>
+++++

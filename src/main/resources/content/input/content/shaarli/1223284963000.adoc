@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parses ton blog avec Hpricot - Boldr : Ruby On Rails & Co
+:jbake-tags: ruby,hpricot,documentation,howto,_mois_oct.,_année_2008
+:jbake-date: 2008-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1223284963000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.boldr.fr%2Fposts%2Fparses-ton-blog-avec-hpricot&searchtags=ruby+hpricot+documentation+howto+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://blog.boldr.fr/posts/parses-ton-blog-avec-hpricot[Parses ton blog avec Hpricot - Boldr : Ruby On Rails & Co]
+
+Merci au petit Nicolas pour m'avoir rappelé comment le merveilleux hpricot peut parser du RSS

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trafic temps réel des voies rapides de Lille
+:jbake-tags: carte,lille,_mois_sept.,_année_2007
+:jbake-date: 2007-09-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1190721578000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bison-fute.equipement.gouv.fr%2Fdiri%2Flisteflashs.do%3FpageAstec%3Die1_lille.html%26langue%3Dfr&searchtags=carte+lille+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.bison-fute.equipement.gouv.fr/diri/listeflashs.do?pageAstec=ie1_lille.html&langue=fr[Trafic temps réel des voies rapides de Lille]
+
+Histoire d'arrêter d'être coincé dans les bouchons le matin et le soir

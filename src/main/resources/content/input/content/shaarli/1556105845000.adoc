@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DenisKolodin/cargo-docker: A cargo subcommand to build Rust with docker
+:jbake-tags: rust,programming,docker,cargo,_mois_avr.,_année_2019
+:jbake-date: 2019-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1556105845000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FDenisKolodin%2Fcargo-docker&searchtags=rust+programming+docker+cargo+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/DenisKolodin/cargo-docker[DenisKolodin/cargo-docker: A cargo subcommand to build Rust with docker]
+
+Est-ce que ça n'est pas la bonne solution pour faire du build multiplateforme Rust ? Lancer des conteneurs Docker dans le build Cargo et récupérer les résultats ?

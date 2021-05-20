@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NSSM - the Non-Sucking Service Manager
+:jbake-tags: ordinateur,administration,automatisation,_mois_sept.,_année_2016
+:jbake-date: 2016-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1474615567000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnssm.cc%2Fusage&searchtags=ordinateur+administration+automatisation+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://nssm.cc/usage[NSSM - the Non-Sucking Service Manager]
+
+Un wrapper facile pour créer des services ...

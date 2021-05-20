@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guillaume Nicoulaud on Twitter: "Tout commence en 1957, lorsque Bull annonce le lancement de son nouvel ordinateur haut de gamme, le Gamma 60 — ci-dessous, celui du Comptoir National d’Escompte de Paris (un des ancêtres de la BNP). #thread… https://t.co/QJG68vDtRn"
+:jbake-tags: histoire,france,informatique,stratégie,conférence,_mois_mars,_année_2019
+:jbake-date: 2019-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1552843003000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fordrespontane%2Fstatus%2F1106143470832545798&searchtags=histoire+france+informatique+strat%C3%A9gie+conf%C3%A9rence+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ordrespontane/status/1106143470832545798[Guillaume Nicoulaud on Twitter: "Tout commence en 1957, lorsque Bull annonce le lancement de son nouvel ordinateur haut de gamme, le Gamma 60 — ci-dessous, celui du Comptoir National d’Escompte de Paris (un des ancêtres de la BNP). #thread… https://t.co/QJG68vDtRn"]
+
+Très intéressant (et certains éléments vont me servir dans une prochaine présentation)

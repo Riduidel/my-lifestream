@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Towards Pattern Matching in Java | Kerflyn's Blog
+:jbake-tags: java,library,pattern,exemple,_mois_févr.,_année_2017
+:jbake-date: 2017-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1487883275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkerflyn.wordpress.com%2F2012%2F05%2F09%2Ftowards-pattern-matching-in-java%2F&searchtags=java+library+pattern+exemple+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://kerflyn.wordpress.com/2012/05/09/towards-pattern-matching-in-java/[Towards Pattern Matching in Java | Kerflyn's Blog]
+
+Mais c'est mignon tout plein cette implémentation de pattern matching en Java !

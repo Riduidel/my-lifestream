@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSS Diner - Where we feast on CSS Selectors!
+:jbake-tags: css,web,gaming,tutorial,_mois_mars,_année_2021
+:jbake-date: 2021-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1614774100000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fflukeout.github.io%2F&searchtags=css+web+gaming+tutorial+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://flukeout.github.io/[CSS Diner - Where we feast on CSS Selectors!]
+
+Oh, un jeu d'apprentissage des sélecteurs CSS ! C'est toujours cool ce genre de trucs.

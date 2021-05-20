@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OSTIF Official on Twitter: "Equifax uses open source software that it in no way contributes to, to protect $14B of data. Equifax blames OSS for hack. Don't be Equifax"
+:jbake-tags: open-source,économie,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1505455072000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FOSTIFofficial%2Fstatus%2F908087993050611713&searchtags=open-source+%C3%A9conomie+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/OSTIFofficial/status/908087993050611713[OSTIF Official on Twitter: "Equifax uses open source software that it in no way contributes to, to protect $14B of data. Equifax blames OSS for hack. Don't be Equifax"]
+
+Autrement dit, c'est pas parce que c'est open-source que c'est gratuit !

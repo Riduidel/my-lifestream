@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arkady Strugatsky
+:jbake-tags: author
+:jbake-date: 2003-04-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1159886.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1519335066p5/1159886.jpg
+:jbake-source: https://www.goodreads.com/author/show/1159886
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070461677.html[Il Est Difficile D'être Un Dieu]
+* link:../books/9782207503140.html[Stalker]

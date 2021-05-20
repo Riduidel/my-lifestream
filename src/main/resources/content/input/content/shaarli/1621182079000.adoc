@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pricing
+:jbake-tags: carte,web,application,concepts,_mois_mai,_année_2021
+:jbake-date: 2021-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1621182079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkumu.io%2Fpricing&searchtags=carte+web+application+concepts+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://kumu.io/pricing[Pricing]
+
+Un outil de mapping conceptuel. Ca a l'air intéressant. Mais est-ce plus intéressant que de simplement créer une carte graphviz ? (en tout cas, c'est sans doute plus facile à éditer)

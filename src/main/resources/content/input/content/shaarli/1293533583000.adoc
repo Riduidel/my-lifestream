@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: logstalgia - Project Hosting on Google Code
+:jbake-tags: visualisation,apache,linux,log,_mois_déc.,_année_2010
+:jbake-date: 2010-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1293533583000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Flogstalgia%2F&searchtags=visualisation+apache+linux+log+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://code.google.com/p/logstalgia/[logstalgia - Project Hosting on Google Code]
+
+un outil de visualisation de logs Apache assez rigolos. Dommage qu'il ne fasse que les logs Apache ...

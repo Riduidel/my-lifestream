@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jBrout
+:jbake-tags: freeware,image,management,photographie,python,software,windows,_mois_juin,_année_2008
+:jbake-date: 2008-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1213777908000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjbrout.python-hosting.com%2Fwiki%2FWikiStart&searchtags=freeware+image+management+photographie+python+software+windows+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://jbrout.python-hosting.com/wiki/WikiStart[jBrout]
+
+Un logiciel de gestion de phototèque qui, c'est une première, utilise les données EXIF des photos plutôt que de se refaire sa base de données à côté.

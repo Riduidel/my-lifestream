@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adrastée
+:jbake-tags: serie
+:jbake-date: 2013-07-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Adrastee.adoc
+:jbake-source: https://www.goodreads.com/series/121440
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782359104035.html[Adrastée Tome 1]
+* link:../books/9782359104042.html[Adrastée Tome 2]

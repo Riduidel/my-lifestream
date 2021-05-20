@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WordNet for Macintosh OS X
+:jbake-tags: software,freeware,open-source,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110968106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwordnet.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://wordnet.sourceforge.net/[WordNet for Macintosh OS X]
+
+WordNet is an online lexical reference system (it's a dictionary and much much more) developed at Princeton University's Cognitive Science Laboratory under the direction of Professor George A. Miller. Mac OS X version developed by William Taysom

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Fille automate
+:jbake-tags:  biotech, cyberpunk, révolution, sexe, écologie,_année_2013,_mois_juil.,_note_2,rayon-imaginaire,read
+:jbake-date: 2013-07-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290032664.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368160055l/17847732._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368160055l/17847732._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/17847732
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+A la fin du XXIe siècle, après un krach énergétique, la calorie est devenue l'unité la plus recherchée. Anderson Lake travaille en Thaïlande pour une multinationale agroalimentaire. Il rencontre Emiko, une fille automate qui n'est pas humaine mais un être artificiel programmé pour satisfaire les désirs des hommes d'affaires de Kyoto.
+</div>
+++++
+
+
+## Authors
+* link:../authors/1226977.html[Paolo Bacigalupi]
+* link:../authors/2930261.html[Sara Doke]
+
+## Series
+* link:../series/The_Windup_Universe.html[The Windup Universe]
+
+## Review
+
+++++
+Dans un futur lointain, un américain des hautes plaines, scientifique embauché par une boîte américaine de biotech, s'en va "négocier" l'accès pour son entreprise à une banque de gènes au fin fond de la Thaïlande. En chemin il rencontrera divers individus dans un monde futur marqué par la disparition du pétrole et (pour une raison que je n'ai pas compris) de la production d'électricité. Parmi ces individus, une fille automate donne son titre à la version française du roman. Fille automate ? C'est un assemblage de gènes humains, canins (pour l'obéissance) et autres dont le nom vient de ses gestes étrangement saccadés (un moyen pratique pour la repérer).<br/>Bon, je vous ai exposé l'histoire et une partie du contexte. Une autre partie du contexte est politique : l'action se passe dans une Thaïlande pas tout à fait stable : le ministère de l'écologie et ses chemises blanche a remplacé la terreur des Khmers rouges (c'était en Thaïlande ou au Cambodge ?) par la terreur écologique. Et ce pouvoir suscite la jalousie, et donc la révolution.<br/>Bon, le roman brasse tous ces thèmes et bien d'autres.<br/>Certains des thèmes sont traités avec justesse, voir même parfois avec un talent authentique. C'est le cas par exemple du traitement de la ville de Bangkok qui sert de décor à l'intégralité de ce roman. On sent la chaleur écrasante qui pèse sur les habitants, le côté fin de règne de cette ville plus basse que l'océan dont le palais semble enserrer entre des bidonvilles et des gratte-ciels abandonnés (ben oui, pas d'électricité, donc pas d'ascenceurs ni de climatisation). On vit également très bien le pays des multiples sourires (y compris manifestement celui du mec qui vous plante ou poignard entre les omoplates) et l'ambivalence de relations humaines très asiatiques, c'est-à-dire marquées par un respect et une courtoisie qui dissimulent une bonne dose d'hypocrisie.<br/>En revanche, les thèmes purement SF sont à mon goût moyennement traités.<br/>J'ai parlé par exemple de la fille automate. Bien. Il s'agit donc d'une dame de compagnie au sens japonnais du terme rachetée par un tenancier de bordel qui aime le bizarre, la nouveauté (et cette créature interdite par les chemises blanches en est un exemple parfait). J'ai personnellement trouvé dommage que l'auteur la munisse de superpouvoirs dans un but scénaristique ... moyen. Mais j'ai en revanche trouvé odieux le procédé putassier nous présentant toutes ces performances scéniques; Je parle ici des scènes où une authentique pute thaïlande l'utilise comme esclave sexuel, profitant de sa passivité et de sa soumission naturelle. ca n'apporte à mon sens rien au récit, puisque l'auteur aurait pu arriver au même résultat scénaristique (la libération de ses pulsions naturelles de son carcan éducatif) sans passer la des scènes de "je te fourre ce que je peux dans les orifices", mais plutôt via des évocations moins explicites des sévices subis.<br/>Un autre exemple ? OK ! il n'y a plus d'électricité. Pourquoi ? Aucune idée, mis à part peut-être le manque de pétrole. Parce qu'il semble que, pour l'auteur, on ne puisse produire de l'électricité que via des centrales thermiques au pétrole ou au charbon. Pas d'électricité "verte". Pas non plus de manipulation génétiques des anguilles pour en faire des centrales vivantes. Alors même qu'il y a des éléphants géants alimentant l'usine de ressorts. Oui, l'usine de ressorts qui sert à alimenter les moteurs des mobylettes et bateaux du coin. Et là, je regrette, mais l'incohérence m'a fait mal : le génie génétique est manifeste dans tout le roman, mais infoutu de produire de l'électricité ? CONNERIE. Ca m'a même énervé en fait.<br/>Alors d'accord, c'est un récit mettant intelligement le cyberpuynk à la sauce biotech. Mais c'est tout. Et les prix reçus sont - à mon avis - clairement galvaudés. Pour être honnête, l'auteur aurait plutôt dû écrire un dyptique avec d'un côté la quête des gènes locaux et d'un autre le désir d'indépendance de la fille automate. Mais là, ça donne juste un salmingondis indigeste pour moi.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arnaud Héritier #AtHome sur Twitter : "In the latest episode of #DevOpsRadio, @brianvdawson and @SachaLabourey explain why #COVID is a “chaos monkey” and what this means for innovation and #software development. Listen here: https://t.co/g937WRKVik https://t.co/zYloRsEv7C" / Twitter
+:jbake-tags: épidémie,chaos,organisation,_mois_août,_année_2020
+:jbake-date: 2020-08-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1596448711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faheritier%2Fstatus%2F1289545188596097024&searchtags=%C3%A9pid%C3%A9mie+chaos+organisation+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/aheritier/status/1289545188596097024[Arnaud Héritier #AtHome sur Twitter : "In the latest episode of #DevOpsRadio, @brianvdawson and @SachaLabourey explain why #COVID is a “chaos monkey” and what this means for innovation and #software development. Listen here: https://t.co/g937WRKVik https://t.co/zYloRsEv7C" / Twitter]
+
+Ce parallèle me semble aussi saisissant que pertinent. Bravo pour la métaphore !

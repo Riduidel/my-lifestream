@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julien Ponge on Twitter: "I think Kubernetes is a typical engineer thing. It seems to ignores 25 years of research about grid computing. Typical example: smarter topologies based on what pod talk to what pod and the underlying networking topology."
+:jbake-tags: citation,kubernetes,orchestrator,critique,_mois_févr.,_année_2019
+:jbake-date: 2019-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1549045397000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjponge%2Fstatus%2F1091244145761492992&searchtags=citation+kubernetes+orchestrator+critique+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jponge/status/1091244145761492992[Julien Ponge on Twitter: "I think Kubernetes is a typical engineer thing. It seems to ignores 25 years of research about grid computing. Typical example: smarter topologies based on what pod talk to what pod and the underlying networking topology."]
+
+Effectivement, le côté "plat" de l'orchestration K8s semble assez frustre aux gens qui connaissent le domaine ... (et je n'en fais pas partie)

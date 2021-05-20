@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wheregoes? - A tool for tracing the redirect path of URLs
+:jbake-tags: web,http,redirector,visualisation,_mois_mai,_année_2020
+:jbake-date: 2020-05-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1590562451000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwheregoes.com%2F&searchtags=web+http+redirector+visualisation+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://wheregoes.com/[Wheregoes? - A tool for tracing the redirect path of URLs]
+
+Oh c'est vraiment mignon cette page web qui donne la liste des redirections que subit une URL avant d'arriver à un vrai résultat.

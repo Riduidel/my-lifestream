@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mojodna/switchboard: (formerly-in-use) A toolkit for assembling XMPP clients and interacting with XMPP servers.
+:jbake-tags: xmpp,client,ruby,open-source,_mois_juin,_année_2019
+:jbake-date: 2019-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1559748593000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmojodna%2Fswitchboard&searchtags=xmpp+client+ruby+open-source+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/mojodna/switchboard[mojodna/switchboard: (formerly-in-use) A toolkit for assembling XMPP clients and interacting with XMPP servers.]
+
+Un chouette client XMPP en Ruby. Certains termes sont hélas peu clairs.

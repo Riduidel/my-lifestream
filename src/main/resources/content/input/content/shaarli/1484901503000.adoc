@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mermaid - Generation of diagrams and flowcharts from text in a similar manner as markdown.
+:jbake-tags: diagram,générateur,javascript,asciidoc,gantt,projet,_mois_janv.,_année_2017
+:jbake-date: 2017-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1484901503000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fknsv.github.io%2Fmermaid%2F%23styling40&searchtags=diagram+g%C3%A9n%C3%A9rateur+javascript+asciidoc+gantt+projet+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://knsv.github.io/mermaid/#styling40[mermaid - Generation of diagrams and flowcharts from text in a similar manner as markdown.]
+
+Enfin une bonne raison d'utiliser mermaid ? Il fait des diagrammes de Gantt sans fatigue !

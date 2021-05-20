@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 🌒 Eclipse Java IDE on Twitter: "The Eclipse IDE 2019-06 has been released! 🍾🎉 Here are 2 videos showing some IDE improvements (but not all!): 🌒 General and #Git (📽3:31): https://t.co/yjsUtnmHiK 🌒 #Java, #Maven and #Gradle (📽8:24): https://t.co/GQlxRi04YA ❤️👏💋 to all Eclipse contributors!"
+:jbake-tags: eclipse,programming,java,_mois_juin,_année_2019
+:jbake-date: 2019-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1561025314000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FEclipseJavaIDE%2Fstatus%2F1141636244599971840&searchtags=eclipse+programming+java+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/EclipseJavaIDE/status/1141636244599971840[🌒 Eclipse Java IDE on Twitter: "The Eclipse IDE 2019-06 has been released! 🍾🎉 Here are 2 videos showing some IDE improvements (but not all!): 🌒 General and #Git (📽3:31): https://t.co/yjsUtnmHiK 🌒 #Java, #Maven and #Gradle (📽8:24): https://t.co/GQlxRi04YA ❤️👏💋 to all Eclipse contributors!"]
+
+BIENTÔT sur ma machine (faut pas se leurer, c'est la meilleure façon pour moi de nettoyer Eclipse)

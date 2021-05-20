@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DoubleTake - Stitch Images to Panoramas on Mac OS X
+:jbake-tags: macosx,photographie,software,shareware,panorama,stitch,_mois_août,_année_2008
+:jbake-date: 2008-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1219087052000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fechoone.com%2Fdoubletake%2F&searchtags=macosx+photographie+software+shareware+panorama+stitch+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://echoone.com/doubletake/[DoubleTake - Stitch Images to Panoramas on Mac OS X]
+
+Un assembleur de photos pour créer des panoramas. Mac only, et d'une ergonomie vraiment léchée. Il ne lui manque en fait que la détection automatique des points de jonction.

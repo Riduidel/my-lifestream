@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Licencié pour un bug informatique qui lui a révélé tous les salaires du groupe Buffalo Grill - Var-Matin
+:jbake-tags: sécurité,_mois_déc.,_année_2016
+:jbake-date: 2016-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1481374689000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.varmatin.com%2Ffaits-divers%2Fun-varois-licencie-pour-un-bug-informatique-qui-lui-a-revele-les-salaires-de-tous-les-employes-du-groupe-buffalo-grill-99342&searchtags=s%C3%A9curit%C3%A9+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.varmatin.com/faits-divers/un-varois-licencie-pour-un-bug-informatique-qui-lui-a-revele-les-salaires-de-tous-les-employes-du-groupe-buffalo-grill-99342[Licencié pour un bug informatique qui lui a révélé tous les salaires du groupe Buffalo Grill - Var-Matin]
+
+La sécurité par l'incompétence. Cela dit, virer un mec parce qu'il a vu les salaires, ...

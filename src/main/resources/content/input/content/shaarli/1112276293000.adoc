@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gang of Four Desing Patterns
+:jbake-tags: programming,documentation,concepts,design,pattern,oop,catalog,uml,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112276293000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tml.hut.fi%2F%7Epnr%2FTik-76.278%2Fgof%2Fhtml%2F&searchtags=programming+documentation+concepts+design+pattern+oop+catalog+uml+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tml.hut.fi/~pnr/Tik-76.278/gof/html/[Gang of Four Desing Patterns]
+
+UML models of various design patterns

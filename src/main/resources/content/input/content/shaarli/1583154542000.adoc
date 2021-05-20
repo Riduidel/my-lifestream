@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 1and1/c4-notation: Technical resources for using the C4 model for visualizing software architecture.
+:jbake-tags: plantuml,c4,architecture,documentation,diagram,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583154542000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2F1and1%2Fc4-notation%23related-projects&searchtags=plantuml+c4+architecture+documentation+diagram+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/1and1/c4-notation#related-projects[1and1/c4-notation: Technical resources for using the C4 model for visualizing software architecture.]
+
+Une belle liste de ressources sur C4. Ca me donne envie d'essayer d'autres styles de rendu que celui de Ricardo

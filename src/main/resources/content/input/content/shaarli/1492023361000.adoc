@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Train and Track
+:jbake-tags: ordinateur,programming,trains,simulateur,_mois_avr.,_année_2017
+:jbake-date: 2017-04-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1492023361000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cr31.co.uk%2Fstagecast%2Ftrains%2Ftt0_intro.html&searchtags=ordinateur+programming+trains+simulateur+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.cr31.co.uk/stagecast/trains/tt0_intro.html[Train and Track]
+
+Très chouette ... même si je dois reconnaître avoir déja vu l'équivalent dans OpenTTD

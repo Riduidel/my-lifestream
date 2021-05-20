@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Edit
+:jbake-tags: software,freeware,macosx,editor,programming,_mois_mars,_année_2005
+:jbake-date: 2005-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1111668034000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jessies.org%2F%7Eenh%2Fsoftware%2Fedit%2F&searchtags=software+freeware+macosx+editor+programming+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.jessies.org/~enh/software/edit/[Edit]
+
+Edit started as a project to reimplement Rob Pike's acme editor in Java, so I could use it on Unix and Windows. (I'd got used to it at university, using Plan 9.) Eventually, my editor diverged and today probably represents my personality quite closely; in

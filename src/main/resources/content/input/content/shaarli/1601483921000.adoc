@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Push Pedal For Privacy | Hackaday
+:jbake-tags: interface,windows,matériel,hack,_mois_sept.,_année_2020
+:jbake-date: 2020-09-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1601483921000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2020%2F09%2F29%2Fpush-pedal-for-privacy%2F&searchtags=interface+windows+mat%C3%A9riel+hack+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://hackaday.com/2020/09/29/push-pedal-for-privacy/[Push Pedal For Privacy | Hackaday]
+
+Ah c'est très drôle cette idée ! Je me verrais bien l'adapter à ... ma wii balance board qui prend la poussière !

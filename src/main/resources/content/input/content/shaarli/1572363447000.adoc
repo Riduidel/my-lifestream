@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz
+:jbake-tags: web,javascript,application,platform,_mois_oct.,_année_2019
+:jbake-date: 2019-10-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1572363447000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackblitz.com%2F&searchtags=web+javascript+application+platform+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://stackblitz.com/[The online code editor for web apps. Powered by Visual Studio Code. - StackBlitz]
+
+Ca m'a l'air bien génial pour tester des idées marrantes ...

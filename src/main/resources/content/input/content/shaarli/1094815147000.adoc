@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JAYBE.org
+:jbake-tags: gmail,imap,email,pop,software,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1094815147000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jaybe.org%2Finfo.htm&searchtags=gmail+imap+email+pop+software+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.jaybe.org/info.htm[JAYBE.org]
+
+Pop Goes the Gmail is a program that sits between the http://gmail.com web server and your email client, converting messages from web format into POP3 format that a program such as Outlook Express or Thunderbird can understand.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: World Population API - API Browser
+:jbake-tags: api,population,freeware,_mois_nov.,_année_2016
+:jbake-date: 2016-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1478075560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fapi.population.io%2F&searchtags=api+population+freeware+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://api.population.io/[World Population API - API Browser]
+
+La prochaine fois que j'aurais besoin d'une liste de pays, ça sera pas mal.

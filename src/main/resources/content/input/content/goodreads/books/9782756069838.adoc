@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy En Enfer 02. La Carte de La Mort
+:jbake-tags:  fantastique, mort,_année_2017,_mois_janv.,_note_4,rayon-bd,read
+:jbake-date: 2017-01-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756069838.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584187251l/34799875._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584187251l/34799875._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/34799875
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Après avoir combattu le Vampire de Prague, Hellboy est mort et erre en Enfer. Il est touché par une maladie fatale, et trouve l’aide d’une équipe de docteurs totalement incompétents. Alors qu’il explore cet étrange territoire, nouveau pour lui, sa route croise celle de l’Arbre- Monde qu’il a aidé à créer, mais aussi sa propre soeur qui l’accuse d’un terrible crime…
+</div>
+++++
+
+
+## Authors
+* link:../authors/10182.html[Mike Mignola]
+
+## Series
+* link:../series/Hellboy_in_Hell.html[Hellboy in Hell]
+* link:../series/Hellboy_in_Hell_(Single_Issues).html[Hellboy in Hell (Single Issues)]
+
+## Review
+
+++++
+C'est donc fini pour Hellboy : non seulement il est mort, mais même en enfer, il affronte sa propre nature démoniaque avec des interlocuteurs qui le lui rappellent systématiquement.<br/>Ca n'est pas forcément toujours très construit. En revanche, c'est souvent très beau. Et en l'occurence, le dernier chapitre est monumentalement magnifique.<br/>Tous les fans de Hellboy seront contents, et même d'autres, je pense.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Red Hat Satellite to standardize on PostgreSQL backend
+:jbake-tags: économie,open-source,service,postgres,_mois_févr.,_année_2019
+:jbake-date: 2019-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1550221268000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.redhat.com%2Fen%2Fblog%2Fred-hat-satellite-standardize-postgresql-backend&searchtags=%C3%A9conomie+open-source+service+postgres+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.redhat.com/en/blog/red-hat-satellite-standardize-postgresql-backend[Red Hat Satellite to standardize on PostgreSQL backend]
+
+Quand tu changes la licence de ton produit "open-source", c'est un peu normal qu'un produit mieux installé, avec une licence plus propre, prenne ta place. Autrement dit, la licence anti-cloud de Mongo va favoriser Postgres (et personnellement, je trouve ça chouette)

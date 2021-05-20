@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Code De Porc
+:jbake-tags: @toblog,programming,humour,_mois_avr.,_année_2014
+:jbake-date: 2014-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1397122208000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode-de-porc.tumblr.com%2F&searchtags=%40toblog+programming+humour+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://code-de-porc.tumblr.com/[Code De Porc]
+
+Le blog qui tâche ... Cela dit, il ya parfois une explication (que je dois blogger, d'ailleurs)

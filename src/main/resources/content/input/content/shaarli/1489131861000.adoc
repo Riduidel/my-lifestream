@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je suis Sûr que c'est Vrai
+:jbake-tags: bizarre,web,_mois_mars,_année_2017
+:jbake-date: 2017-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1489131861000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjesuissurquecestvrai.tumblr.com%2F&searchtags=bizarre+web+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://jesuissurquecestvrai.tumblr.com/[Je suis Sûr que c'est Vrai]
+
+Ce site est une mine d'or de trucs bizarres

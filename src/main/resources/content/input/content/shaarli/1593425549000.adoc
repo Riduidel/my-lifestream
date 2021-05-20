@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Notes on Technical Writing - Markus Voelter - Medium
+:jbake-tags: écriture,technique,communication,_mois_juin,_année_2020
+:jbake-date: 2020-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1593425549000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40markusvoelter%2Fnotes-on-technical-writing-f20da3ebd371&searchtags=%C3%A9criture+technique+communication+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/@markusvoelter/notes-on-technical-writing-f20da3ebd371[Notes on Technical Writing - Markus Voelter - Medium]
+
+Un excellent article sur l'écriture technique. Les points sont très bons, et je me rend compte que je n'en respecte que très peu.

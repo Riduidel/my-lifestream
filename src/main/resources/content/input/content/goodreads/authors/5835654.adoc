@@ -1,0 +1,21 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C.H. Line
+:jbake-tags: author
+:jbake-date: 2013-08-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5835654.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/5835654
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782355923487.html[Front Mission Dog Life & Dog Style, tome 1]
+* link:../books/9782355923678.html[Front Mission Dog Life & Dog Style, tome 2]
+* link:../books/9782355923937.html[Front Mission Dog Life & Dog Style, tome 3]
+* link:../books/9782355924286.html[Front Mission Dog Life & Dog Style, tome 4]
+* link:../books/9782355924460.html[Front Mission Dog Life & Dog Style, tome 5]
+* link:../books/9782355924712.html[Front Mission - Dog Life and Dog Style Vol.6]
+* link:../books/9782355925160.html[Front Mission Dog Life & Dog Style, Vol 8]
+* link:../books/9782355925412.html[Front Mission Dog Life & Dog Style T09]
+* link:../books/9782355925627.html[Front Mission Dog Life & Dog Style T10]

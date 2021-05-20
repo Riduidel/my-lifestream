@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gunnm / Alita - Last Order: Deluxe Edition
+:jbake-tags: serie
+:jbake-date: 2011-03-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Gunnm___Alita_-_Last_Order__Deluxe_Edition.adoc
+:jbake-source: https://www.goodreads.com/series/250943
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9781421500577.html[Battle Angel Alita - Last Order : Angel & the Vampire, Vol. 06]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dr. Cat Hicks 📈👩🏻‍🔬🦄🏳️‍🌈 sur Twitter : "Software is eating the world but even more than all the ways that people who use that phrase mean. It's eating futures away from people, the way we invest in this society." / Twitter
+:jbake-tags: éthique,programming,philosophie,_mois_janv.,_année_2021
+:jbake-date: 2021-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1610810158000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgrimalkina%2Fstatus%2F1350230110721306627&searchtags=%C3%A9thique+programming+philosophie+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/grimalkina/status/1350230110721306627[Dr. Cat Hicks 📈👩🏻‍🔬🦄🏳️‍🌈 sur Twitter : "Software is eating the world but even more than all the ways that people who use that phrase mean. It's eating futures away from people, the way we invest in this society." / Twitter]
+
+A mon sens, une bonne partie des discussions sur l'éthique dans le monde informatique devraient se baser sur cette réflexion : créer des choix plutôt qu'en enlever.

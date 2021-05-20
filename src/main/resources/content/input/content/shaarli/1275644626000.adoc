@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaFX Language Reference
+:jbake-tags: javafx,langage,documentation,reference,for:mischler,_mois_juin,_année_2010
+:jbake-date: 2010-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1275644626000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fopenjfx.java.sun.com%2Fcurrent-build%2Fdoc%2Freference%2FJavaFXReference.html&searchtags=javafx+langage+documentation+reference+for%3Amischler+_mois_juin+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://openjfx.java.sun.com/current-build/doc/reference/JavaFXReference.html[JavaFX Language Reference]
+
+Très utile pour le débutant en moi

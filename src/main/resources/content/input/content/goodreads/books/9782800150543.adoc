@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ressources Humaines (Zombillénium #2)
+:jbake-tags:  complot, fantastique, zombies,_année_2011,_mois_sept.,_note_4,rayon-bd,read
+:jbake-date: 2011-09-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782800150543.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327584273l/12396960._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327584273l/12396960._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/12396960
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Tags sur les murs, avertissement du curé du coin : visiblement les esprits s'échauffent autour de Zombillénium. Quand on n'embauche que des morts (ou des sorcières !) dans une région où le taux de chômage est à 25%, il faut bien s'attendre à quelques frictions. Si l'on ajoute à ça des visiteurs une miette pénibles et des employés qui, pour être morts, n'en aimeraient pas moins prendre des vacances, on comprend que ce n'est pas trop le moment de venir parler revendications salariales à Francis Von Bloodt.<br />Un deuxième tome qui vient étoffer le casting de Zombillénium avec Astaroth, le démon adolescent, et qui confirme, s'il en était besoin, le talent tout particulier d'Arthur de Pins à manier un humour noir totalement jubilatoire.
+</div>
+++++
+
+
+## Authors
+* link:../authors/2887500.html[Arthur de Pins]
+
+## Series
+* link:../series/Zombillenium.html[Zombillénium]
+
+## Review
+
+++++
+Excellente histoire, alliant à une critique acerbe du monde débile de l'entreprise une intrigue pas évidente, mais diaboliquement bien conçue, et, curieusement, dans l'esprit des link:9782811239992.html[<strike>contes d'un buveur de bière</strike> Sous le vent d'acier]. Curieusement ? Pas tant que ça, parce qu'entre le placement du récit à Valenciennes, l'insertion d'une fausse édition (qu'on pense initiallement purement publicitaire) de La Voix du Nord, clairement, l'auteur apparaît comme un gars du Nord.<br/>D'ailleurs, même son dessin retranscrit cette espèce de platitude du paysage (une platitude qui me plaît beaucoup, d'ailleurs). Alors que, typiquement, le dessin informatique n'arrive pas à montrer ce genre d'intériorité.<br/>Bref, ça me plaît de plus en plus, ces histoires de Disneyland Zombie.
+++++

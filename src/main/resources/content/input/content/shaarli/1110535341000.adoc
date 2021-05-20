@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Game Optimizer
+:jbake-tags: software,freeware,macosx,jeu,_mois_mars,_année_2005
+:jbake-date: 2005-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1110535341000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinkware.clan-mac.com%2Foptimizer%2Finfo.html&searchtags=software+freeware+macosx+jeu+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://linkware.clan-mac.com/optimizer/info.html[Game Optimizer]
+
+Game Optimizer uses AppleScript to prompt the user to enter the name of the game. Then using several shell commands via AppleScript, it determines the Process ID (PID). Once i has the PID it then does a renice on it, effectively changing it's priority fro

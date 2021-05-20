@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Cités obscures : Livre 2
+:jbake-tags:  fantastique, ville, voyage,_année_2019,_mois_mai,_note_4,rayon-bd,read
+:jbake-date: 2019-05-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782203153745.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524234696l/39901344._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524234696l/39901344._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/39901344
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<b>Les Cités obscures revisitées.</b><br /><br />Les Cités obscures sont l'œuvre culte de François Schuiten et Benoît Peeters. Nourries de références à notre monde, notamment sur le plan architectural, les villes qu'ils mettent en scène s'inscrivent dans un univers parallèle.<br /><br />Ce deuxième Livre arpente la Tour, Armilia et Brüsel, fait découvrir les machines inventées par Axel Wappendorf et dévoile d'autres inédits, révélant encore un peu plus au voyageur issu de notre monde la richesse de l'univers obscur.<br /><br /><b>Ce volume contient : La Tour, La Route d'Armilia, Brüsel</b><br /><br /><b>DÉTAILS DE L’OUVRAGE:</b><br />386 pages - 20.6 x 27.4 cm<br />Couleur - Relié<br />ISBN : 9782203153745
+</div>
+++++
+
+
+## Authors
+* link:../authors/7616.html[Benoît Peeters]
+* link:../authors/573160.html[François Schuiten]
+
+## Series
+* link:../series/Les_Cites_obscures.html[Les Cités obscures]
+
+## Review
+
+++++
+Dans ce second tome, il y a la tour (une réminiscence très claire de la tour de Babel), il y a un voyage en dirigeable (ce qui évoque toujours pour moi une forme de perfection du voyage), une exploration d'une Brüssels folle.<br/>Tout cela est incroyablement fou, et loin tout en étant proche, empli de personnages certes assez faibles, mais de décors complètement géniaux. C'est foisonnant, c'est riche, c'est vraiment chouette. Il y a même un "dossier B" qui m'a fichtrement fait penser à la maison des feuilles.
+++++

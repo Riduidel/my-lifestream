@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Archipel Project's Blog
+:jbake-tags: virtualization,kvm,gui,_mois_janv.,_année_2011
+:jbake-date: 2011-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1294415273000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fantoinemercadal.fr%2Farchipelblog%2F&searchtags=virtualization+kvm+gui+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://antoinemercadal.fr/archipelblog/[Archipel Project's Blog]
+
+Une jolie GUI d'administration d'un parc de machines virtuelles.

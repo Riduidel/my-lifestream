@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Michel Demuth
+:jbake-tags: author
+:jbake-date: 2006-07-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/30445.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/30445
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253195023.html[Le Grand Vaisseau (Great Ship, #1)]
+* link:../books/9782266027229.html[Les Enfants de Dune]
+* link:../books/9782266128490.html[Mars la Verte (Mars #2)]
+* link:../books/9782266138345.html[Mars la Rouge (Mars #1)]

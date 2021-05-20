@@ -1,0 +1,174 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pas de chti jug sur Typescript pour moi
+:jbake-tags: javascript,web,_mois_mai,_année_2016
+:jbake-date: 2016-05-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/05/11/pas-de-chti-jug-sur-typescript-pour-moi.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/05/11/pas-de-chti-jug-sur-typescript-pour-moi/
+:jbake-style: wordpress
+
+++++
+<p>
+Ce soir, c'est chtijug sur Typescript. Et en plus, le lieu a l'air sympa.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/730443760291729408
+<br/>
+</div>
+</p>
+<p>
+Pas parce que je n'aime pas Cyril et ses amis, bien au contraire, je trouve le boulot du chijug vraiment chouette.
+</p>
+<p>
+Mais plutôt parce que ... comment dire ... tout cet écosystème Javascript me fatigue à un point fou.
+</p>
+<p>
+Je vous explique.
+</p>
+<p>
+J'ai fait ma première page web avec du Javascript en 1999 ... ou 2000. Bon, la wayback machine a une version datant de <a href="https://web.archive.org/web/20010818005830/http://nicolas.delsaux.free.fr/articles/">juillet 2001</a>. Enfin bref. A l'époque, faire du Javascript était un sale boulot.
+</p>
+<p>
+Heureusement, <a href="http://www.wikiwand.com/fr/JQuery">jQuery</a> a tout changé. Et pendant quelques années, faire du web dynamique était raisonnablement simple conceptuellement et techniquement.
+</p>
+<p>
+Et puis un jour, l'apocalypse de la sur-architecture s'est pointée sous les traits de nodejs. Je ne vais pas refaire l'article contre nodejs, parce qu'il suffit de regarder quelques twits de Mario Fusco ou Sam&#38;Max pour comprendre
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/mariofusco" class="screenName"><img src="http://pbs.twimg.com/profile_images/1375532877081931776/po3EMZQp_mini.jpg" alt="profile of Java Champion ~ Open source advocate ~ Frequent speaker ~ @jugmilano coordinator ~ Drools project lead at @RedHat ~ Pragmatic dreamer ~ Europeist"/>mariofusco</a>
+<br/>
+<span class="name">Mario Fusco 🇪🇺</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/mariofusco/status/730 006 640 204 861 440" class="date">10 mai 2016 à 14:08:40</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">troll mode: SUPER-PRO
+<br/>
+Node.js demystified https://t.co/96PuEQXUrv</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CiGBK1gWkAA9C4q.jpg" alt="730 006 637 772 181 504"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/sstephenson/status/730039913052176384
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/thomasfuchs" class="screenName"><img src="http://pbs.twimg.com/profile_images/1356094301852192772/XV-oyXWH_mini.jpg" alt="profile of 🤪JavaScript rants, 🕹old computers and a helping of 🐈cat photos. ⏱Purveyor of fine time tracking software https://t.co/5YS1XFCKsi #BlackLivesMatter he/him"/>thomasfuchs</a>
+<br/>
+<span class="name">Thomas Fuchs #BLM</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/thomasfuchs/status/708 675 139 253 174 273" class="date">12 mars 2016 à 16:24:54</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Marc was almost ready to implement his "hello world" React app https://t.co/ptdg4yteF1</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CdW4SMjWwAQMjrj.jpg" alt="708 675 139 127 394 308"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Et c'est quoi le rapport avec Typescript ?
+</p>
+<p>
+Pour être honnête, Typescript n'est pas une solution, mais un élément du problème.
+</p>
+<p>
+En effet, de mon point de vue, les langages modernes ont été créés pour permettre aux gens d'être plus productifs que l'assembleur ou le C, par exemple. Seulement, et au risque de choquer mes camarades Javaistes, le Javascript n'est pas ce genre de langage.
+</p>
+<p>
+Non.
+</p>
+<p>
+Comme l'écrivait Douglas Crockford il y a ... un moment, <a href="http://microclub.ch/2012/10/21/javascript-le-langage-de-programmation-le-plus-incompris-du-monde/">le javascript n'est pas le langage qu'on croit</a>. Et franchement, une fois qu'on comprend que le Javascript est un langage fonctionnel s'exécutant dans un environnement peu commode, il se passe une certaine épiphanie qui permet de mieux en comprendre la réelle simplicité. Une simplicité qui rend des monstruosités comme Angular, React, ou Typescript, aussi pratiques qu'un 38 tonnes en ville.
+</p>
+<p>
+C'est aussi pour ça (en plus de ne pas assister à une conf sans doute intéressante sur un langage qui doit sans aucun doute avoir de bons côtés) que j'ai décidé de ne plus me lancer dans des projets front-end en utilisant autre chose que des bibliothèques simples (voire élémentaires) qui remplissent proprement une fonction simple et claire. Des outils comme
+<br/>
+<ul>
+<br/>
+<li>RequireJS</li>
+<br/>
+<li>RactiveJS</li>
+<br/>
+<li>jQuery</li>
+<br/>
+<li>underscoreJS</li>
+<br/>
+</ul>
+<br/>
+Et sorti de là, comme disait il y a bien longtemps mon prof d'info, point-barre. Du coup, forcément, ce talk sur Typescript présentait un problème d'intérêt fondamental : comment diable pouvais-je m'intéresser à un langage dont la finalité actuelle est précisément de faire quelque chose qui me répugne au plus haut point ?
+</p>
+++++

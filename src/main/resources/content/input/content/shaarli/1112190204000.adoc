@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Design-up
+:jbake-tags: documentation,programming,concepts,management,XP,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112190204000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.design-up.com%2F&searchtags=documentation+programming+concepts+management+XP+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.design-up.com/[Design-up]
+
+Ce site est l'oeuvre d'une Ã©quipe de consultants spÃ©cialistes du dÃ©veloppement logiciel en technologies objet. Notre objectif est d'y prÃ©senter des mÃ©thodes et des principes d'organisation et de conception susceptibles d'accroÃ®tre l'effi

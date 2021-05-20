@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [BloodBowl JDP]
+:jbake-tags: jeu,fantasy,règle,_mois_août,_année_2006
+:jbake-date: 2006-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1155286914000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbloodbowl.jdp.free.fr%2Fskedus%2Farticle.php3%3Fid_article%3D129&searchtags=jeu+fantasy+r%C3%A8gle+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://bloodbowl.jdp.free.fr/skedus/article.php3?id_article=129[[BloodBowl JDP]]
+
+Via TowBowl Tactics (en pleine reconstruction), les règles complètes de BloodBowl v4. Malheureusement, je cherche celles de BloodBowl v2

@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Isabelle Rabarot
+:jbake-tags: author
+:jbake-date: 2011-01-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/664355.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/664355
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756001678.html[Le Cercle De Patmos, 2e partie (Arcanes #5)]
+* link:../books/9782756004099.html[Dans le vide de Kirkwood (Carmen Mc Callum #8)]
+* link:../books/9782840556633.html[Le sixième doigt du Pendjab (Carmen Mc Callum #6)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jschilling.net: Smell-O-Mints
+:jbake-tags: freeware,software,science,macosx,_mois_juil.,_année_2006
+:jbake-date: 2006-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1152278919000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jschilling.net%2Fsw_smellomints.php&searchtags=freeware+software+science+macosx+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.jschilling.net/sw_smellomints.php[jschilling.net: Smell-O-Mints]
+
+Une table périodique des éléments pour le mac

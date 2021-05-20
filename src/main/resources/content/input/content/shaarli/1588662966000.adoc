@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EionRobb / purple-hangouts / issues / #216 - URL indicated in youtube setup video doesn't seem to exist (any longer?) in Chrome — Bitbucket
+:jbake-tags: pidgin,google,plugin,configuration,_mois_mai,_année_2020
+:jbake-date: 2020-05-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1588662966000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbitbucket.org%2FEionRobb%2Fpurple-hangouts%2Fissues%2F216%2Furl-indicated-in-youtube-setup-video&searchtags=pidgin+google+plugin+configuration+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://bitbucket.org/EionRobb/purple-hangouts/issues/216/url-indicated-in-youtube-setup-video[EionRobb / purple-hangouts / issues / #216 - URL indicated in youtube setup video doesn't seem to exist (any longer?) in Chrome — Bitbucket]
+
+Si tu veux utiliser le merveilleux Pidgin avec Google Hangouts, suis la doc dans le détail, sinon t'auras pas le bon jeton OAuth, et tu seras dans la merde

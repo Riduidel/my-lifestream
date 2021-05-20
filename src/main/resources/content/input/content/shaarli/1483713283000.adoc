@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevOps Topologies
+:jbake-tags: devops,organisation,team,_mois_janv.,_année_2017
+:jbake-date: 2017-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1483713283000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fweb.devopstopologies.com%2F&searchtags=devops+organisation+team+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://web.devopstopologies.com/[DevOps Topologies]
+
+Très bon article expliquant comment concevoir une équipe DevOps qui marche

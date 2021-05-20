@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Giulia Enders
+:jbake-tags: author
+:jbake-date: 2016-07-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7831553.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1432041050p5/7831553.jpg
+:jbake-source: https://www.goodreads.com/author/show/7831553
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782330048815.html[Le Charme discret de l'intestin]

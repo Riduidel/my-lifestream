@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Online Searchable PDF creator
+:jbake-tags: pdf,recherche,web,_mois_avr.,_année_2019
+:jbake-date: 2019-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1555940840000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.sandwichpdf.com%2F&searchtags=pdf+recherche+web+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.sandwichpdf.com/[Online Searchable PDF creator]
+
+Sympa cet outil qui rend n'importe quel PDF cherchable. Bon, évidement, ils en conservent une copie chez eux ... Donc en terme de sécurité c'est absolument à ne pas faire. Mais parfois ... Il faut.

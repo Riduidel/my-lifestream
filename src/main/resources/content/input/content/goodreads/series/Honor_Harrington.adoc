@@ -1,0 +1,27 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Honor Harrington
+:jbake-tags: serie
+:jbake-date: 2006-09-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Honor_Harrington.adoc
+:jbake-source: https://www.goodreads.com/series/40419
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290348765.html[Mission Basilic (Honor Harrington #1)]
+* link:../books/9782290348758.html[Pour l'honneur de la reine (Honor Harrington #2)]
+* link:../books/9782290356883.html[Une guerre victorieuse et brève (Honor Harrington #3)]
+* link:../books/9782290357019.html[Au champ du déshonneur (Honor Harrington #4)]
+* link:../books/9782841722136.html[Pavillon de l'exil (Honor Harrington #5)]
+* link:../books/9782841723522.html[Les Cendres de la victoire, Tome 2 (Honor Harrington, #9-2)]
+* link:../books/9782841723515.html[Les Cendres de la victoire, Tome 1 (Honor Harrington, #9-1)]
+* link:../books/9782841723119.html[La Disparue de l'enfer, tome 2 (Honor Harrington, #8-2)]
+* link:../books/9782841723102.html[La Disparue de l'enfer, tome 1 (Honor Harrington, #8-1)]
+* link:../books/9782841722662.html[Aux mains de l'ennemi, tome 2 (Honor Harrington, #7-2)]
+* link:../books/9782841722297.html[Mascarade silésienne, tome 2 (Honor Harrington, #6-2)]
+* link:../books/9782841723911.html[Plaies d'honneur: Tome 1 (Honor Harrington, #10-1)]
+* link:../books/9782841723928.html[Plaies d'honneur - Tome 2 (Honor Harrington, #10-2)]
+* link:../books/9782841722655.html[Aux mains de l'ennemi, tome 1 (Honor Harrington, #7-1)]
+* link:../books/9782841722280.html[Mascarade silésienne, tome 1 (Honor Harrington, #6-1)]
+* link:../books/9782841724864.html[Honor Harrington, tome 11 : Coûte que coûte I]

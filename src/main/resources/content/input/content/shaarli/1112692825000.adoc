@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Succeeding With Struts: Dynamically Sized Forms
+:jbake-tags: java,programming,langage,j2ee,jsp,servlet,struts,documentation,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112692825000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.developer.com%2Fjava%2Fejb%2Farticle.php%2F3321521&searchtags=java+programming+langage+j2ee+jsp+servlet+struts+documentation+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.developer.com/java/ejb/article.php/3321521[Succeeding With Struts: Dynamically Sized Forms]
+
+

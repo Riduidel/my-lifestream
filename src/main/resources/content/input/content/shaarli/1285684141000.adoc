@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Monsieur Madame: Site officiel
+:jbake-tags: enfants,jeu,_mois_sept.,_année_2010
+:jbake-date: 2010-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1285684141000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mrmen.com%2Ffr%2F&searchtags=enfants+jeu+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.mrmen.com/fr/[Les Monsieur Madame: Site officiel]
+
+Ca va faire plaisir à au moins un des deux, ça

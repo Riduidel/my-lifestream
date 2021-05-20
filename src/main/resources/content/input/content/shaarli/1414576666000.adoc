@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Refusez les programmes de surveillance de données comme PRISM, XKeyscore etTempora - PRISM Break - PRISM Break
+:jbake-tags: sécurité,intimité,web,_mois_oct.,_année_2014
+:jbake-date: 2014-10-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1414576666000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fprism-break.org%2Ffr%2F&searchtags=s%C3%A9curit%C3%A9+intimit%C3%A9+web+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://prism-break.org/fr/[Refusez les programmes de surveillance de données comme PRISM, XKeyscore etTempora - PRISM Break - PRISM Break]
+
+Très bon site listant tout un tas de moyen de communication plutôt sécurisés ... ou tout au moins distincts des efforts de surveillance des gouvernements et entreprises.

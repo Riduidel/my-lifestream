@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Auto-hébergement
+:jbake-tags: software,php,dns-323,_mois_mars,_année_2013
+:jbake-date: 2013-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1364401905000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fauto%2F&searchtags=software+php+dns-323+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sebsauvage.net/auto/[Auto-hébergement]
+
+Il n'y a peut-être pas de pluralité des opinions, mais j'ai au moins des pistes pour bienf aire bosser mon DNS-323

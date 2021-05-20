@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jessie frazelle 👩🏼‍🚀 on Twitter: "I have to google the way the fucking arrows and numbers go for “2>&1” every damn time, ie “redirect stderrr to stdout”… https://t.co/S8efm8ghcS"
+:jbake-tags: mémoire,ergonomie,linux,shell,_mois_févr.,_année_2019
+:jbake-date: 2019-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1550134977000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjessfraz%2Fstatus%2F1095734961288622080&searchtags=m%C3%A9moire+ergonomie+linux+shell+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jessfraz/status/1095734961288622080[jessie frazelle 👩🏼‍🚀 on Twitter: "I have to google the way the fucking arrows and numbers go for “2>&1” every damn time, ie “redirect stderrr to stdout”… https://t.co/S8efm8ghcS"]
+
+On est plein dans ce cas ! (je serais tenté d'y voir une faiblesse de l'UX des systèmes Unix, mais bon, hein)

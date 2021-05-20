@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Is it maintained?
+:jbake-tags: github,activity,metrics,_mois_oct.,_année_2015
+:jbake-date: 2015-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1444909770000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fisitmaintained.com%2Fproject%2FRiduidel%2Fgaedo&searchtags=github+activity+metrics+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://isitmaintained.com/project/Riduidel/gaedo[Is it maintained?]
+
+Chouette outil de suivi d'activité des projets Github.

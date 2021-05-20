@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Benji Weber on Twitter: "OH: Monads solve everything, they're like Docker or React"
+:jbake-tags: citation,programming,mode,_mois_sept.,_année_2016
+:jbake-date: 2016-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1474613307000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbenjiweber%2Fstatus%2F778565169144266752&searchtags=citation+programming+mode+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/benjiweber/status/778565169144266752[Benji Weber on Twitter: "OH: Monads solve everything, they're like Docker or React"]
+
+Toujours plus de silver bullets !

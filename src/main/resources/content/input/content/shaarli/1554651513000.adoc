@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scott Hanselman on Twitter: "XML: Structured txt format with rich schema validation supoort. Cool. JSON: Nah, angle brackets are stressful. Curly brackets are where it’s at. And schema? Meh. If you really insist. YAML: White space and willpower!"
+:jbake-tags: xml,json,yaml,programming,_mois_avr.,_année_2019
+:jbake-date: 2019-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1554651513000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fshanselman%2Fstatus%2F1114495058005434373&searchtags=xml+json+yaml+programming+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/shanselman/status/1114495058005434373[Scott Hanselman on Twitter: "XML: Structured txt format with rich schema validation supoort. Cool. JSON: Nah, angle brackets are stressful. Curly brackets are where it’s at. And schema? Meh. If you really insist. YAML: White space and willpower!"]
+
+Ma passion ? Ecrire un recueil de twets contre le YAML

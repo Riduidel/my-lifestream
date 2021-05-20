@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apache Mavibot history : directory
+:jbake-tags: programming,concepts,data,structure,_mois_févr.,_année_2017
+:jbake-date: 2017-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1487318600000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblogs.apache.org%2Fdirectory%2Fentry%2Fapache-mavibot-history&searchtags=programming+concepts+data+structure+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blogs.apache.org/directory/entry/apache-mavibot-history[Apache Mavibot history : directory]
+
+La structure de données utilisable par un LDAP ou un Subversion est conceptuellement identique. Impressionant.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: KeyStore Explorer - Home
+:jbake-tags: java,sécurité,software,freeware,open-source,_mois_mars,_année_2014
+:jbake-date: 2014-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1394462494000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkeystore-explorer.sourceforge.net%2F&searchtags=java+s%C3%A9curit%C3%A9+software+freeware+open-source+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://keystore-explorer.sourceforge.net/[KeyStore Explorer - Home]
+
+Un chouette outil graphique de gestion de keystore. Parce que sans ça, les keystore, c'est la merde.

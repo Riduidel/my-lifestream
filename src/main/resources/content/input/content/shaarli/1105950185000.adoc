@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mathenpoche ... le site !
+:jbake-tags: culture,mathématiques,cours,_mois_janv.,_année_2005
+:jbake-date: 2005-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1105950185000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sesamath.hautesavoie.net%2Fmathenpoche%2F&searchtags=culture+math%C3%A9matiques+cours+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sesamath.hautesavoie.net/mathenpoche/[Mathenpoche ... le site !]
+
+MathEnPoche est un projet soutenu par l’association Sésamath. En accord avec sa charte, les ressources disponibles sur ce site sont gratuitement mises à disposition de la communauté éducative par des enseignants en exercice. Elles ont pour voca

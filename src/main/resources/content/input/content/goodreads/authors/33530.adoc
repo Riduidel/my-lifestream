@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Way
+:jbake-tags: author
+:jbake-date: 2013-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/33530.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1331662699p5/33530.jpg
+:jbake-source: https://www.goodreads.com/author/show/33530
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782809420111.html[Wolverine, les origines]

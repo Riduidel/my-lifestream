@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AI Progress Measurement | Electronic Frontier Foundation
+:jbake-tags: ia,performance,_mois_juil.,_année_2017
+:jbake-date: 2017-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1499766683000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.eff.org%2Fai%2Fmetrics&searchtags=ia+performance+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.eff.org/ai/metrics[AI Progress Measurement | Electronic Frontier Foundation]
+
+Très bon recensement des problèmes d'IA, et de la performance des algorithmes

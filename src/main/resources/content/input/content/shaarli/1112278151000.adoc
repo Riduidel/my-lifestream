@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J‽r‽me Lacaille
+:jbake-tags: concepts,science,IA,neural,réseau,documentation,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112278151000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cmla.ens-cachan.fr%2FUtilisateurs%2Flacaille%2Fcv.html&searchtags=concepts+science+IA+neural+r%C3%A9seau+documentation+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cmla.ens-cachan.fr/Utilisateurs/lacaille/cv.html[J‽r‽me Lacaille]
+
+Page web de JÃ©rÃ´me Lacaille, enseignant chercheur en IA et rÃ©seaux de neurones

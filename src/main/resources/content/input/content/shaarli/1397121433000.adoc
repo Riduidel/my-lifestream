@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebJars - Web Libraries in Jars
+:jbake-tags: software,java,maven,open-source,javascript,programming,packaging,_mois_avr.,_année_2014
+:jbake-date: 2014-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1397121433000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.webjars.org%2F&searchtags=software+java+maven+open-source+javascript+programming+packaging+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.webjars.org/[WebJars - Web Libraries in Jars]
+
+Tous les frameworks javascript disponibles dans des bon vieux jars mangeables par n'importe quel vrai (lire pour la plateforme java) outil de build. J'ai déja fait le boulot ingrat de repackager un twitter bootstrap. Donc j'apprécie l'énormité du truc. (trouvé via la doc de Wisdom Framework)

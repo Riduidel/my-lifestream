@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Things I Don’t Know as of 2018 - Overreacted
+:jbake-tags: programming,carrière,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546434481000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Foverreacted.io%2Fthings-i-dont-know-as-of-2018%2F&searchtags=programming+carri%C3%A8re+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://overreacted.io/things-i-dont-know-as-of-2018/[Things I Don’t Know as of 2018 - Overreacted]
+
+C'est un bel exercice d'humilité, auquel il serait bon que je me plie (et que d'autres se plient)

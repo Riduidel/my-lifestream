@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Intégration continue Ruby on Rails
+:jbake-tags: ruby,rails,test,programming,développement,tutorial,documentation,xp,_mois_juil.,_année_2007
+:jbake-date: 2007-07-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1184012500000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdubois.vct.free.fr%2Fblog%2F%3Fpage_id%3D40&searchtags=ruby+rails+test+programming+d%C3%A9veloppement+tutorial+documentation+xp+_mois_juil.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://dubois.vct.free.fr/blog/?page_id=40[Intégration continue Ruby on Rails]
+
+Un très bon article sur l'intégration continue et le test avec Ruby on Rails

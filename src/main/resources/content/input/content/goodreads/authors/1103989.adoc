@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gotlib
+:jbake-tags: author
+:jbake-date: 2016-04-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1103989.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1282736740p5/1103989.jpg
+:jbake-source: https://www.goodreads.com/author/show/1103989
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782205066876.html[Rubrique-à-brac, Intégrale]

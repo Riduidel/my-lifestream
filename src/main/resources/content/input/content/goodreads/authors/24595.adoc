@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tony Harris
+:jbake-tags: author
+:jbake-date: 2008-10-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/24595.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1578021152p5/24595.jpg
+:jbake-source: https://www.goodreads.com/author/show/24595
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782914409490.html[Les Cent Premiers Jours (Ex Machina #1)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: All consuming web service
+:jbake-tags: blog,livre,engineering,programming,software,web,xml,_mois_déc.,_année_2006
+:jbake-date: 2006-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1165414361000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.xml.com%2Fpub%2Fa%2Fws%2F2003%2F05%2F27%2Fallconsuming.html&searchtags=blog+livre+engineering+programming+software+web+xml+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.xml.com/pub/a/ws/2003/05/27/allconsuming.html[All consuming web service]
+
+Un service web bibliothécaire, à voir en détail

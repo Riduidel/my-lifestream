@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home - Ballerina.io
+:jbake-tags: programming,langage,web,cloud,docker,kubernetes,jvm,java,eclipse,_mois_août,_année_2018
+:jbake-date: 2018-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1535215559000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fballerina.io%2F&searchtags=programming+langage+web+cloud+docker+kubernetes+jvm+java+eclipse+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://ballerina.io/[Home - Ballerina.io]
+
+Un langage cloud natif éditable textuellement et graphiquement ...Quelle drôle d'idée ! Mais ça peut marcher ! (et ça sent la JVM à plein nez, et ça s'édite dans Eclipse)

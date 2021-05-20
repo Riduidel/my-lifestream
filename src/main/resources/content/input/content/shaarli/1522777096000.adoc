@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I've just learned Rust and I think I'm in love ·
+:jbake-tags: programming,rust,_mois_avr.,_année_2018
+:jbake-date: 2018-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1522777096000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frskupnik.github.io%2FI-learned-rust-and-I-think-Im-in-love&searchtags=programming+rust+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://rskupnik.github.io/I-learned-rust-and-I-think-Im-in-love[I've just learned Rust and I think I'm in love ·]
+
+Intéressant. Et même si la présence de & et de \* (et donc de pointeurs) me donne de l'eczéma, il y a tout un tas d'excellentes idées

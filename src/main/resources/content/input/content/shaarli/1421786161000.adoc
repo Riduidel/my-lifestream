@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andreessen Horowitz Invests in Stack Exchange
+:jbake-tags: entreprise,réussite,web,_mois_janv.,_année_2015
+:jbake-date: 2015-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1421786161000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.stackoverflow.com%2F2015%2F01%2Fandreessen-horowitz-invests-in-stack-exchange%2F&searchtags=entreprise+r%C3%A9ussite+web+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blog.stackoverflow.com/2015/01/andreessen-horowitz-invests-in-stack-exchange/[Andreessen Horowitz Invests in Stack Exchange]
+
+40 bon sang de millions de dollars pour StackExchange :-o Bravo à Joel, Jeff et leurs collègues

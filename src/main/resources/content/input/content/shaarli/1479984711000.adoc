@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Twitter, c'est pas pour moi. - Liens en vrac de sebsauvage
+:jbake-tags: twitter,web,communication,sociologie,_mois_nov.,_année_2016
+:jbake-date: 2016-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1479984711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Flinks%2F%3F5lUF8A&searchtags=twitter+web+communication+sociologie+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://sebsauvage.net/links/?5lUF8A[Twitter, c'est pas pour moi. - Liens en vrac de sebsauvage]
+
+Pas idiot. Pour éviter ça, personnellement, j'utilise tweetledee qui transforme ma timeline en flux RSS

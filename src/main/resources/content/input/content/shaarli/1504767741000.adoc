@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Accuratizing Software Estimation – Pointer IO – Medium
+:jbake-tags: management,projet,estimation,_mois_sept.,_année_2017
+:jbake-date: 2017-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1504767741000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fpointer-io%2Faccuratizing-software-estimation-cf81a9e9fd87&searchtags=management+projet+estimation+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.com/pointer-io/accuratizing-software-estimation-cf81a9e9fd87[Accuratizing Software Estimation – Pointer IO – Medium]
+
+Très intéressant, réaliste, et complètement foireux. J'aime beaucoup parce que je l'ai déja vu (et mis en oeuvre)

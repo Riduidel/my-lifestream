@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TurpIF/lambda-string: Lambda-string (LS) is a helping java agent that inject configurable toString method into lambdas with some useful meta-information.
+:jbake-tags: programming,java,debug,_mois_mai,_année_2018
+:jbake-date: 2018-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1525842919000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FTurpIF%2Flambda-string&searchtags=programming+java+debug+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/TurpIF/lambda-string[TurpIF/lambda-string: Lambda-string (LS) is a helping java agent that inject configurable toString method into lambdas with some useful meta-information.]
+
+Bonne idée ! Dommage qu'il faille en passer par un agent d'instrumentation

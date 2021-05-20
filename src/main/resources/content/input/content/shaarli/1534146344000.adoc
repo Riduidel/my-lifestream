@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #[derive(Debug)] on serde steroids
+:jbake-tags: rust,programming,macro,debug,_mois_août,_année_2018
+:jbake-date: 2018-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1534146344000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frreverser.com%2Fderive-serdebug%2F&searchtags=rust+programming+macro+debug+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://rreverser.com/derive-serdebug/[#[derive(Debug)] on serde steroids]
+
+Une façon intéressante d'optimiser les messages de Debug affichés, grâce à serde ... évidement

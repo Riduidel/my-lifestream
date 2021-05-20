@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Calcul du salaire brut en net
+:jbake-tags: emploi,salaire,calcul,impôts,_mois_sept.,_année_2014
+:jbake-date: 2014-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1411484717000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.salairebrutnet.fr%2F&searchtags=emploi+salaire+calcul+imp%C3%B4ts+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.salairebrutnet.fr/[Calcul du salaire brut en net]
+
+Un outil bien pratique pour avoir une vision simplifiée de ce qu'on peut gagner

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simplenote - Fast, free, synchronized notes for iPhone, iPod touch and iPad - Home
+:jbake-tags: gtd,notes,productivité,search,software,texte,_mois_juil.,_année_2010
+:jbake-date: 2010-07-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1279026037000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsimplenoteapp.com%2F&searchtags=gtd+notes+productivit%C3%A9+search+software+texte+_mois_juil.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://simplenoteapp.com/[Simplenote - Fast, free, synchronized notes for iPhone, iPod touch and iPad - Home]
+
+Un outil de prises de notes avec synchronisation en ligne. Pas aussi puissant qu'un Google Documents, mais c'est justement ce qu'on lui demande : permettre d'éditer simplement des notes de texte synchronisées avec différents logiciels.

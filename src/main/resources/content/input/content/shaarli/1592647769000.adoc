@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Représentation carto vélo du Nord-Pas de Calais
+:jbake-tags: lille,vélo,carte,openstreetmap,_mois_juin,_année_2020
+:jbake-date: 2020-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1592647769000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcarto.droitauvelo.org%2F%2314%2F50.6258%2F3.0733%2Fcouleur-veloroute-amenagements_cyclables&searchtags=lille+v%C3%A9lo+carte+openstreetmap+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://carto.droitauvelo.org/#14/50.6258/3.0733/couleur-veloroute-amenagements_cyclables[Représentation carto vélo du Nord-Pas de Calais]
+
+La carte des aménagements cyclables à Lille ... c'est pratique, mais a traduit aussi la faiblesse des équipements

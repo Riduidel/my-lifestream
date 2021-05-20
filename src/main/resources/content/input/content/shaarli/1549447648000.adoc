@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Twine / An open-source tool for telling interactive, nonlinear stories
+:jbake-tags: littérature,software,freeware,open-source,windows,macosx,linux,écriture,_mois_févr.,_année_2019
+:jbake-date: 2019-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1549447648000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwinery.org%2F&searchtags=litt%C3%A9rature+software+freeware+open-source+windows+macosx+linux+%C3%A9criture+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twinery.org/[Twine / An open-source tool for telling interactive, nonlinear stories]
+
+Dis donc, ça m'a l'air très chouette ce truc !

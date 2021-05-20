@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Closures: Magic Functions | Rusty Yato
+:jbake-tags: rust,programming,functionnal,documentation,tutorial,_mois_févr.,_année_2019
+:jbake-date: 2019-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1549310702000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkrishnasannasi.github.io%2Frust%2Fsyntactic%2Fsugar%2F2019%2F01%2F17%2FClosures-Magic-Functions.html&searchtags=rust+programming+functionnal+documentation+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://krishnasannasi.github.io/rust/syntactic/sugar/2019/01/17/Closures-Magic-Functions.html[Closures: Magic Functions | Rusty Yato]
+
+Cette analyse du fonctionnement des closures en Rust est ... spectaculairement lisible.

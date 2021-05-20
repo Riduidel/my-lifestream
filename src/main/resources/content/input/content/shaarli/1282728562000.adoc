@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Create Synchronicity: an easy, fast, and lightweight backup and synchronization application
+:jbake-tags: @toinstall,software,freeware,open-source,windows,synchronisation,backup,_mois_août,_année_2010
+:jbake-date: 2010-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1282728562000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsynchronicity.sourceforge.net%2F&searchtags=%40toinstall+software+freeware+open-source+windows+synchronisation+backup+_mois_ao%C3%BBt+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://synchronicity.sourceforge.net/[Create Synchronicity: an easy, fast, and lightweight backup and synchronization application]
+
+Un logiciel de synchro qui a l'air bien puissant. ca me paraît plutôt pratique pour envoyer mes photos, mes MP3, ... sur mon disque dur réseau

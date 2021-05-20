@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Docker for Pentesters
+:jbake-tags: docker,utilities,shell,_mois_juil.,_année_2019
+:jbake-date: 2019-07-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1563541220000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.ropnop.com%2Fdocker-for-pentesters%2F&searchtags=docker+utilities+shell+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.ropnop.com/docker-for-pentesters/[Docker for Pentesters]
+
+Oh c'est super chouette, et rempli d'idées applicables ailleurs que chez un pentester !

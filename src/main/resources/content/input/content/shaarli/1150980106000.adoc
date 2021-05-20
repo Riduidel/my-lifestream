@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SPREAD : easy & powerfull content management based on Ruby on Rails
+:jbake-tags: programming,productivité,management,_mois_juin,_année_2006
+:jbake-date: 2006-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1150980106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.spread-cms.org%2Fphilosophie-cms.php&searchtags=programming+productivit%C3%A9+management+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.spread-cms.org/philosophie-cms.php[SPREAD : easy & powerfull content management based on Ruby on Rails]
+
+De très bonnes citations pour tous les développeurs d'applications, web ou non.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: what happens when computer: the io programming language
+:jbake-tags: programming,langage,expérience,prototype,concepts,design,_mois_déc.,_année_2020
+:jbake-date: 2020-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1608027420000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwhat.happens.when.computer%2F2015-11-20%2Fio-basics%2F&searchtags=programming+langage+exp%C3%A9rience+prototype+concepts+design+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://what.happens.when.computer/2015-11-20/io-basics/[what happens when computer: the io programming language]
+
+Ca a l'air d'un langage très marrant. Et la programmation par prototype est effectivement une idée assez piteusement implémentée en Javascript qui mériterait d'être étudiée plus en détail.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dokan
+:jbake-tags: software,freeware,windows,system,stockage,file,driver,ssh,_mois_nov.,_année_2009
+:jbake-date: 2009-11-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1257412978000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdokan-dev.net%2Fen%2F&searchtags=software+freeware+windows+system+stockage+file+driver+ssh+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://dokan-dev.net/en/[Dokan]
+
+Un équivalent de FUSE pour Windows, qui semble permettre de monter une application Ruby comme un FileSystem sous windows

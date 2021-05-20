@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XScreenSaver
+:jbake-tags: macosx,software,freeware,screensaver,_mois_mai,_année_2006
+:jbake-date: 2006-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1148905423000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jwz.org%2Fxscreensaver%2F&searchtags=macosx+software+freeware+screensaver+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.jwz.org/xscreensaver/[XScreenSaver]
+
+Les économiseurs d'écran Linux pour les macs

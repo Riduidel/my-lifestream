@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wooden Brain
+:jbake-tags: freeware,macosx,notification,software,utilities,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171641618000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.woodenbrain.com%2Findex-more.html&searchtags=freeware+macosx+notification+software+utilities+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.woodenbrain.com/index-more.html[Wooden Brain]
+
+tout un tas de trucs, dont un système ajoutant des notifications Growl à des applications non prévues pour (comme par exemple Address Book, iCal)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Colibri - Type Ahead.
+:jbake-tags: software,freeware,windows,system,launcher,_mois_janv.,_année_2006
+:jbake-date: 2006-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1136213909000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcolibri.leetspeak.org%2Fwhatsnew%2F&searchtags=software+freeware+windows+system+launcher+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://colibri.leetspeak.org/whatsnew/[Colibri - Type Ahead.]
+
+A Quicksilver "clone" for Windows

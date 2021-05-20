@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby Class Hierarchy
+:jbake-tags: software,programming,langage,ruby,documentation,uml,concepts,_mois_avr.,_année_2005
+:jbake-date: 2005-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1113575710000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.insula.cz%2Fdali%2Fmaterial%2Frubycl%2F&searchtags=software+programming+langage+ruby+documentation+uml+concepts+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.insula.cz/dali/material/rubycl/[Ruby Class Hierarchy]
+
+This page offers a few charts describing various subtrees of Ruby class hierarchy.

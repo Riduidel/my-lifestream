@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Xeelee Sequence
+:jbake-tags: serie
+:jbake-date: 2013-12-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Xeelee_Sequence.adoc
+:jbake-source: https://www.goodreads.com/series/49784
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266195386.html[Gravité]
+* link:../books/9782266173759.html[Coalescence]

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Uncanny X-Men (1963)
+:jbake-tags: serie
+:jbake-date: 2011-10-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Uncanny_X-Men_(1963).adoc
+:jbake-source: https://www.goodreads.com/series/142958
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780785123293.html[Wolverine]

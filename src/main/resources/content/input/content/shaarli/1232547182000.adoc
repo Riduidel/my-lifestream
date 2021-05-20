@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adder
+:jbake-tags: lego,tutorial,robotics,_mois_janv.,_année_2009
+:jbake-date: 2009-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1232547182000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mapageweb.umontreal.ca%2Fcousined%2Flego%2F1-Varia%2FAdder%2Fadder.html&searchtags=lego+tutorial+robotics+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.mapageweb.umontreal.ca/cousined/lego/1-Varia/Adder/adder.html[Adder]
+
+Sans doute la page la plus claire sur le montage adder/substracter, qui me paraît nécessaire vu les déviations que j'ai pu constater sur mon petit robot de test ...

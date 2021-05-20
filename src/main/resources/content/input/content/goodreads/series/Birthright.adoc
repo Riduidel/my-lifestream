@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Birthright
+:jbake-tags: serie
+:jbake-date: 2002-08-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Birthright.adoc
+:jbake-source: https://www.goodreads.com/series/113990
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070428106.html[Santiago: A Myth of the Far Future (Santiago #1)]
+* link:../books/9780812524246.html[A Miracle of Rare Design (Birthright #21)]
+* link:../books/9782207306024.html[Le faiseur de veuves]
+* link:../books/9782207249291.html[Markham ou La dévoration]

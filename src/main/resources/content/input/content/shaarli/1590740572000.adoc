@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lille CityCrunch | Le webzine des bons plans sorties à Lille 🍻
+:jbake-tags: lille,culture,voyage,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590740572000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flille.citycrunch.fr%2F&searchtags=lille+culture+voyage+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://lille.citycrunch.fr/[Lille CityCrunch | Le webzine des bons plans sorties à Lille 🍻]
+
+Ce site est noyé de publirédactionnel. Mais il y a quand même des infos sympas sur la vie culturelle lilloise.

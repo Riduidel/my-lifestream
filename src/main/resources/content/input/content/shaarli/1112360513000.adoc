@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebFX - What you never thought possible!
+:jbake-tags: web,javascript,langage,library,programming,expérience,tutorial,dhtml,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112360513000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwebfx.eae.net%2F&searchtags=web+javascript+langage+library+programming+exp%C3%A9rience+tutorial+dhtml+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://webfx.eae.net/[WebFX - What you never thought possible!]
+
+On this page you'll be able to find Dynamic HTML samples that you can use on your own pages, all the samples may be used freely for personal use or you may change the source code for your own applications.

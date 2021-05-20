@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lambda Behave by RichardWarburton
+:jbake-tags: java,test,framework,open-source,functionnal,_mois_août,_année_2017
+:jbake-date: 2017-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1503383266000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frichardwarburton.github.io%2Flambda-behave%2F&searchtags=java+test+framework+open-source+functionnal+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://richardwarburton.github.io/lambda-behave/[Lambda Behave by RichardWarburton]
+
+Un outil de test Java proche conceptuellement des Jasmine/Mocha/Expect du Javascript, mais avec quelques changements qui le rendent vraiment intéressant

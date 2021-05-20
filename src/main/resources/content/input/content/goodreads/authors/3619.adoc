@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Roger Zelazny
+:jbake-tags: author
+:jbake-date: 2002-10-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3619.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1207671346p5/3619.jpg
+:jbake-source: https://www.goodreads.com/author/show/3619
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207302385.html[Deus Irae]

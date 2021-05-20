@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bird biodiversity in heavy metal songs – Journal of Geek Studies
+:jbake-tags: metal,nature,musique,data,_mois_sept.,_année_2019
+:jbake-date: 2019-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1567610397000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjgeekstudies.org%2F2019%2F09%2F01%2Fbird-biodiversity-in-heavy-metal-songs%2F&searchtags=metal+nature+musique+data+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jgeekstudies.org/2019/09/01/bird-biodiversity-in-heavy-metal-songs/[Bird biodiversity in heavy metal songs – Journal of Geek Studies]
+
+Des oiseaux, du metal ... c'est bizarre. Mais c'est aussi une très bonne introduction à l'analyse de données.

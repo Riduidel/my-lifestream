@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Burn
+:jbake-tags: burner,cd,dvd,freeware,macosx,software,open-source,_mois_oct.,_année_2006
+:jbake-date: 2006-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1159967848000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fburn-osx.sourceforge.net%2F&searchtags=burner+cd+dvd+freeware+macosx+software+open-source+_mois_oct.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://burn-osx.sourceforge.net/[Burn]
+
+Un graveur multiformats pour le Mac

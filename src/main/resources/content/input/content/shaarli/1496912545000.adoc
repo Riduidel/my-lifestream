@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: fabric8io/docker-maven-plugin
+:jbake-tags: maven,docker,plugin,_mois_juin,_année_2017
+:jbake-date: 2017-06-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1496912545000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdmp.fabric8.io%2F&searchtags=maven+docker+plugin+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://dmp.fabric8.io/[fabric8io/docker-maven-plugin]
+
+Très cool (et en particulier le fait de pouvoir créer des artefacts de type docker)

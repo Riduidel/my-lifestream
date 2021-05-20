@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Expanse (Chronological)
+:jbake-tags: serie
+:jbake-date: 2015-08-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Expanse_(Chronological).adoc
+:jbake-source: https://www.goodreads.com/series/281756
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782330051129.html[L'Éveil du Léviathan]
+* link:../books/9782330064532.html[La Guerre de Caliban]
+* link:../books/9782330096991.html[La Porte d'Abaddon]
+* link:../books/9782330117160.html[Les Feux de Cibola (The Expanse, #4)]
+* link:../books/9782330104177.html[Les Jeux de Némésis (The Expanse, #5)]

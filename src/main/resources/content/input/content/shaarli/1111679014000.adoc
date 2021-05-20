@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Memoranda
+:jbake-tags: software,freeware,java,windows,linux,macosx,productivité,_mois_mars,_année_2005
+:jbake-date: 2005-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1111679014000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmemoranda.sourceforge.net%2F&searchtags=software+freeware+java+windows+linux+macosx+productivit%C3%A9+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://memoranda.sourceforge.net/[Memoranda]
+
+An open source cross-platform diary manager and the tool for scheduling personal projects.

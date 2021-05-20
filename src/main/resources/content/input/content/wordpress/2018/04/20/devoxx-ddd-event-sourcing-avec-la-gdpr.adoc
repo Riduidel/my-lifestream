@@ -1,0 +1,280 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - DDD & Event sourcing avec la GDPR
+:jbake-tags: architecture,ddd,devoxx,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxx-ddd-event-sourcing-avec-la-gdpr.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxx-ddd-event-sourcing-avec-la-gdpr/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class="sect1 data-line-3">
+<br/>
+<h2 id="truela_gdpr_keskec">La GDPR keskecé</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+La GDPR régit la manière dont les organisations travaillent avec les données des citoyens européens à partir du 25 mai 2018. C’est bientôt. Pour une entreprise qui ne respecte pas cette GDPR, l’amende est de 4% du chiffre d’affaire du groupe plafonné (peut-être) à 20 millions d’euros. Et ce sans compter les poursuites pénales et l’information des utilisateurs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Les données des citoyens, c’est quoi ?
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-11">
+<br/>
+<ul>
+<br/>
+<li>Nom</li>
+<br/>
+<li>Adresse</li>
+<br/>
+<li>Adresse IP</li>
+<br/>
+<li>Les ensembles d’information permettant d’identifier un individu</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-16">
+</p>
+<p>
+Evidement, ça donne du travail …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-18">
+<br/>
+<h2 id="trueet_le_ddd_l_dedans">Et le DDD là-dedans ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+Saagie fournit une application de data governance. Cette appli, développée à l’arrache, est basé sur un paquet de CRUD qui manipulent les données en prod. Malheureusement, les problèmes liés à la GDPR ne sont pas adressables dans ce contexte.
+</p>
+<p>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/niceGg01" class="screenName"><img src="http://pbs.twimg.com/profile_images/729945002151907328/ipzTldi7_mini.jpg" alt="profile of IT HR Happy Geek Recruiter"/>niceGg01</a>
+<br/>
+<span class="name">Yannis Belloeuf</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/niceGg01/status/986 941 141 420 527 616" class="date">19 avr. 2018 à 14:14:39</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">#Devoxxfr conf sur #gdpr avec une approche domaine driven design qui rapproche le métier des développeurs https://t.co/WBXZKQs3sg</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DbJRuUsWkAIkOf-.jpg" alt="986 941 124 618 129 410"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-26">
+</p>
+<p>
+Donc, il ne faut pas écrire du code contraint par la technique, mais plus par le domaine métier.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Et pour ça, il y a plusieurs éléments
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-30">
+<br/>
+<ul>
+<br/>
+<li>Avoir un langage commun avec des termes qui sont utilisables par chacun et compris par tous.</li>
+<br/>
+<li>Ne pas avoir un modèle unique : ça mène d’une part à des classes énormes, et d’autre part à des problèmes de compréhension</li>
+<br/>
+<li>Les différents contextes dans lesquels s’expriment les modèles doivent être bornés</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+Pour obtenir ça, la méthode de design en couche avec des DAO, et de la base de donnée qui apparaît un peu partout est peu appropriée. Mettre le domaine au centre permet en revanche de rester "propre".
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+Et pour ça, se baser sur les événements peut être utile, parce que la plupart des modes sont d’une façon ou d’une autre événementiels.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+Et pour construire le domaine et identifier les événements, la technique de l’event storming est assez utile.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-41">
+</p>
+<p>
+Une fois ces événements identifiés, mettre le domaine au centre revient à mettre en place une <a href="http://fideloper.com/hexagonal-architecture">architecture hexagonale</a>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-43">
+<br/>
+<h2 id="trueevent_sourcing">Event sourcing</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-44">
+</p>
+<p>
+L’event sourcing, c’est le fait de définir les événements comme source unique de vérité. Avec ça, on peut reconstruire l'état des objets.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-47">
+</p>
+<p>
+Ca apporte en plus
+<br/>
+<ul>
+<br/>
+<li>La testabilité</li>
+<br/>
+<li>La gestion de version des données</li>
+<br/>
+<li>Le debug et la reproductibilité</li>
+<br/>
+<li>Le rollback (mais pas en supprimant le dernier événement)</li>
+<br/>
+<li>La tracabilité</li>
+<br/>
+<li>La recomposition des projections</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-55">
+</p>
+<p>
+En revanche, ça n’est qu’un pattern local, qui apporte évidement des inconvénients (comme par exemple le fait qu’il y aura toujours plus de données).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-57">
+<br/>
+<h2 id="truequestions">Questions</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-59">
+<br/>
+<h3 id="truecomment_g_re_t_on_les_donn_es_personnelles_dans_un_event_store_immuable">Comment gère-t-on les données personnelles dans un event store immuable ?</h3>
+<br/>
+<div class="paragraph data-line-60">
+</p>
+<p>
+Les données personnelles ne doivent pas s’y trouver, sinon c’est foutu. Ou alors, on stocke une clé de chiffrage par utilisateur (en dehors de l’event store) et toutes les données de l’utilisateur sont chiffrées dans l’event store.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-63">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-65">
+</p>
+<p>
+Les deux sujet sont intéressants, mais quel était le rapport ? En fait, il est dans les questions en fin de conférence, qui ont construit le lien.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

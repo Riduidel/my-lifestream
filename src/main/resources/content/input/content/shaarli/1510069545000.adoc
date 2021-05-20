@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: phantom reads on Twitter: "1997: ah cool I can view source and learn to program 2017: building a JS app is more complicated than C"
+:jbake-tags: web,javascript,histoire,citation,_mois_nov.,_année_2017
+:jbake-date: 2017-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1510069545000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmountain_ghosts%2Fstatus%2F927504284358504449&searchtags=web+javascript+histoire+citation+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/mountain_ghosts/status/927504284358504449[phantom reads on Twitter: "1997: ah cool I can view source and learn to program 2017: building a JS app is more complicated than C"]
+
+Est-ce que cette complexité est accidentelle ou réellement nécessaire ?

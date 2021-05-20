@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simon Brunning sur Twitter : "Finally managed to quit vim. https://t.co/FgapmqaYKw"
+:jbake-tags: humour,informatique,linux,_mois_déc.,_année_2017
+:jbake-date: 2017-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1513328890000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbrunns%2Fstatus%2F941320476894334977&searchtags=humour+informatique+linux+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/brunns/status/941320476894334977[Simon Brunning sur Twitter : "Finally managed to quit vim. https://t.co/FgapmqaYKw"]
+
+The only VALID way to quit vim

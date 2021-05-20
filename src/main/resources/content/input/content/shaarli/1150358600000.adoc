@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MxGraph Thin Client - JGraph in a browser!
+:jbake-tags: browser,editor,freeware,graph,javascript,library,programming,software,visualisation,web,ajax,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150358600000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jgraph.com%2Fmxgraph.html&searchtags=browser+editor+freeware+graph+javascript+library+programming+software+visualisation+web+ajax+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.jgraph.com/mxgraph.html[MxGraph Thin Client - JGraph in a browser!]
+
+Une librairie Ajax pour générer des graphiques dans le navigateur. Via Lars Trieloff

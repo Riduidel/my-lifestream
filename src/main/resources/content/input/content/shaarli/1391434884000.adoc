@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pour la CNIL, 18% des Français sont « suspects » | BUG BROTHER
+:jbake-tags: société,politique,informatique,france,_mois_févr.,_année_2014
+:jbake-date: 2014-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1391434884000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbugbrother.blog.lemonde.fr%2F2014%2F02%2F03%2Fpour-la-cnil-18-des-francais-sont-suspects%2F&searchtags=soci%C3%A9t%C3%A9+politique+informatique+france+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://bugbrother.blog.lemonde.fr/2014/02/03/pour-la-cnil-18-des-francais-sont-suspects/[Pour la CNIL, 18% des Français sont « suspects » | BUG BROTHER]
+
+Cette histoire de la CNIL, du point de vue de la lutte contre les fichages policiers illégaux, est tout simplement glaçante. Dans ces moments-là, je trouve que la France est vraiment un pays dangereux.

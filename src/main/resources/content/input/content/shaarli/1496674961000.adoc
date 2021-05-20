@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nicolas Mahoudeaux on Twitter: "@riduidel Cool c'est un weekend de trois jours ...... ca te laisserait le temps de régler tes problèmes d'intégration mastodon -> ( ) -> twitter 😜"
+:jbake-tags: twitter,rss,_mois_juin,_année_2017
+:jbake-date: 2017-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1496674961000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fnmahoude%2Fstatus%2F870661870830661637&searchtags=twitter+rss+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/nmahoude/status/870661870830661637[Nicolas Mahoudeaux on Twitter: "@riduidel Cool c'est un weekend de trois jours ...... ca te laisserait le temps de régler tes problèmes d'intégration mastodon -> ( ) -> twitter 😜"]
+
+Normalement, l'envoi sur Twitter devrait marcher un peu mieux

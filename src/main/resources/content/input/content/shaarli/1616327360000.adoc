@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dora Vargha sur Twitter : "Hungarian is a gender neutral language, it has no gendered pronouns, so Google Translate automatically chooses the gender for you. Here is how everyday sexism is consistently encoded in 2021. Fuck you, Google. https://t.co/EPqkEw5yEQ" / Twitter
+:jbake-tags: sexisme,ia,technologie,_mois_mars,_année_2021
+:jbake-date: 2021-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1616327360000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDoraVargha%2Fstatus%2F1373211762108076034&searchtags=sexisme+ia+technologie+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/DoraVargha/status/1373211762108076034[Dora Vargha sur Twitter : "Hungarian is a gender neutral language, it has no gendered pronouns, so Google Translate automatically chooses the gender for you. Here is how everyday sexism is consistently encoded in 2021. Fuck you, Google. https://t.co/EPqkEw5yEQ" / Twitter]
+
+Une IA est par définition conservatrice. Et cet exemple est ... triste.

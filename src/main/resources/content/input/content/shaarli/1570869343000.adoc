@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mun Programming Language
+:jbake-tags: programming,langage,lua,_mois_oct.,_année_2019
+:jbake-date: 2019-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1570869343000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmun-lang.org%2F&searchtags=programming+langage+lua+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://mun-lang.org/[Mun Programming Language]
+
+C'est un projet assez intéressant, qui s'inspire de Lua pour créer un langage statiquement typé

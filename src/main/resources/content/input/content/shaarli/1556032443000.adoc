@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ArchiMate + PlantUML = Sequence Diagram Joy – General Geekery
+:jbake-tags: plantuml,architecture,documentation,_mois_avr.,_année_2019
+:jbake-date: 2019-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1556032443000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsmileham.co.uk%2F2019%2F04%2F23%2Farchimate-plantuml-sequence-diagram-joy%2F&searchtags=plantuml+architecture+documentation+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://smileham.co.uk/2019/04/23/archimate-plantuml-sequence-diagram-joy/[ArchiMate + PlantUML = Sequence Diagram Joy – General Geekery]
+
+oh oh, un lien entre PLantUML et Archimate ? J'aime bien le développement organique de PlantUML.

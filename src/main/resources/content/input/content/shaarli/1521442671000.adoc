@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ten Reasons Why I Don't Like Golang
+:jbake-tags: programming,critique,go,_mois_mars,_année_2018
+:jbake-date: 2018-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1521442671000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.teamten.com%2Flawrence%2Fwritings%2Fwhy-i-dont-like-go.html&searchtags=programming+critique+go+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.teamten.com/lawrence/writings/why-i-dont-like-go.html[Ten Reasons Why I Don't Like Golang]
+
+J'avais vu ces points à la lecture d'un support de formation Go, mais ça fait toujours plaisir d'être conforté dans ses convictions ...

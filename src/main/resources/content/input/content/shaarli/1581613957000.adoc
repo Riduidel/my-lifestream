@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LOW←TECH MAGAZINE
+:jbake-tags: low-tech,web,français,technologie,_mois_févr.,_année_2020
+:jbake-date: 2020-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1581613957000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsolar.lowtechmagazine.com%2Ffr%2F&searchtags=low-tech+web+fran%C3%A7ais+technologie+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://solar.lowtechmagazine.com/fr/[LOW←TECH MAGAZINE]
+
+Une version française de low-tech magazine, ça paraît intéressant ...

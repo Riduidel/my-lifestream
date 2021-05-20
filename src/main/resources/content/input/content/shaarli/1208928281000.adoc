@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ☆ Desktoptopia ☆
+:jbake-tags: background,desktop,freeware,macosx,management,software,windows,wallpaper,_mois_avr.,_année_2008
+:jbake-date: 2008-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1208928281000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdesktoptopia.com%2F&searchtags=background+desktop+freeware+macosx+management+software+windows+wallpaper+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://desktoptopia.com/[☆ Desktoptopia ☆]
+
+Un logiciel mac et windows pour gérer au mieux le fond d'écran. Va falloir voir pour son utilisation avec Synergy, mais j'aime bien l'idée.

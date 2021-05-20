@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adium X(tras)
+:jbake-tags: software,freeware,plugin,macosx,réseau,chat,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112280897000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.adiumxtras.com%2F&searchtags=software+freeware+plugin+macosx+r%C3%A9seau+chat+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.adiumxtras.com/[Adium X(tras)]
+
+Plugins for Adium universal chat client

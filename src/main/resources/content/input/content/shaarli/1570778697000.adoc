@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The State of Java in 2019 | Baeldung
+:jbake-tags: java,programming,sondage,_mois_oct.,_année_2019
+:jbake-date: 2019-10-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1570778697000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.baeldung.com%2Fjava-in-2019&searchtags=java+programming+sondage+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.baeldung.com/java-in-2019[The State of Java in 2019 | Baeldung]
+
+Un bon résumé de l'état de Java. J'aime beaucoup les détails suivants 1 - Eclipse est maintenant un challenger 2 - Groovy est toujours devant Kotlin (ça me fait vraiment plaisir)

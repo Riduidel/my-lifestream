@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Terminal Redox: Some Developer Tools Written in Rust | Prevent Default
+:jbake-tags: rust,programming,terminal,software,_mois_avr.,_année_2019
+:jbake-date: 2019-04-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1556382324000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsts10.github.io%2F%2F2019%2F04%2F08%2Fterminal-redox-alacritty.html&searchtags=rust+programming+terminal+software+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://sts10.github.io//2019/04/08/terminal-redox-alacritty.html[Terminal Redox: Some Developer Tools Written in Rust | Prevent Default]
+
+Wow wow wow ... Avec ça, je peux transformer ma vie dans le terminal pour utiliser une masse de code Rust. C'est une bonne idée ... Il faut juste que j'aie envie d'utiliser un terminal (ce qui n'est pas le cas)

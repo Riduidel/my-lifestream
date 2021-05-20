@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - gitlab4j/gitlab4j-api: GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API
+:jbake-tags: java,git,gitlab,api,client,open-source,_mois_oct.,_année_2019
+:jbake-date: 2019-10-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1572509702000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgitlab4j%2Fgitlab4j-api&searchtags=java+git+gitlab+api+client+open-source+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/gitlab4j/gitlab4j-api[GitHub - gitlab4j/gitlab4j-api: GitLab4J API (gitlab4j-api) provides a full featured Java client library for working with GitLab repositories via the GitLab REST API]
+
+Oh, une API Java propre pour Gitlab. Ca correspond pile à certains usages que j'ai actuellement.

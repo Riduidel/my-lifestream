@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: andLinux.org -- Run Linux natively inside Windows
+:jbake-tags: emulator,freeware,install,linux,open-source,windows,ubuntu,system,_mois_mars,_année_2008
+:jbake-date: 2008-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1204532243000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.andlinux.org%2F&searchtags=emulator+freeware+install+linux+open-source+windows+ubuntu+system+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.andlinux.org/[andLinux.org -- Run Linux natively inside Windows]
+
+Une version d'Ubuntu basée sur coLinux pour lancer facilement des applications Linux sous Windows

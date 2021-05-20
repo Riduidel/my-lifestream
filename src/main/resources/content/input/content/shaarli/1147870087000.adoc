@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LibreSource - JXyDiff
+:jbake-tags: java,library,xml,comparison,_mois_mai,_année_2006
+:jbake-date: 2006-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1147870087000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpotiron.loria.fr%2Fprojects%2Fjxydiff&searchtags=java+library+xml+comparison+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://potiron.loria.fr/projects/jxydiff[LibreSource - JXyDiff]
+
+via Lars Trieloff, la page d'un logiciel de comparaison de fichiers XML. L'un des responsables était conseiller scientifique chez Xyleme quand j'y étais, et il ne m'étonnerait pas que je connaisse le développeur de ce truc.

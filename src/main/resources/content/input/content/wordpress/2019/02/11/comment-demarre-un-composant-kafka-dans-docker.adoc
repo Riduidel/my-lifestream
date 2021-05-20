@@ -1,0 +1,1916 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment démarre un composant Kafka dans Docker ?
+:jbake-tags: debug,kafka,script,_mois_févr.,_année_2019
+:jbake-date: 2019-02-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/02/11/comment-demarre-un-composant-kafka-dans-docker.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/02/11/comment-demarre-un-composant-kafka-dans-docker/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme j'en ai bien bavé pour comprendre ça, je vais essayer de l’expliquer pour voir à quel point j'ai compris ...
+</p>
+<p>
+Donc, je démarre un kafka-connect sur ma machine que je connecte à un cluster kafka hébergé chez aiven.io.
+</p>
+<p>
+Pour ça, un bon gros docker-compose, ça aide
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html lang="en"><head>
+<br/>
+<meta charset="utf-8">
+<br/>
+<link rel="dns-prefetch" href="https://github.githubassets.com">
+<br/>
+<link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+<br/>
+<link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+<br/>
+<link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-uGiH6wbEDXS0vWuvN3hZbENUuT1jRMWy2XVfJIgd3mEESUBtD/hnFdIiujVyRcPJ5dofwZ6e196xmCczSkgz9g==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-b86887eb06c40d74b4bd6baf3778596c.css">
+<br/>
+<link crossorigin="anonymous" media="all" integrity="sha512-gEUpuli94xYShC0AAbAVQoQqxAoVyNDUWuD3x6Hsvwm8f1L7gbiu4bEM1HDLEkRz4ofHAvdAdmeqaUtzBCy6xg==" rel="stylesheet" href="https://github.githubassets.com/assets/site-804529ba58bde31612842d0001b01542.css">
+<br/>
+<link crossorigin="anonymous" media="all" integrity="sha512-8rXKu7ZOFdS3H7Rk0wJ38WQFoEp6b7HTSZ58yDoWzKX+JDPYC6vtbIdTIbhWT90/16upZIaZDCPOA8P9a8mv5A==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-f2b5cabbb64e15d4b71fb464d30277f1.css">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-2Tv1VQoy2kaxDIPWa40DzxC7ou3lAWTHqe/npmKNz/mJnES617GVYxEkryY/xZ8U/RXi1EkE31stiFb4orAVXQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-d93bf5550a32da46b10c83d66b8d03cf.css">
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-oRkKscjEH1b2bAAJURl5E/Q7RFJnHgCDjcbhNpHzxJ3s5G5I2oNZc9b4KrHgOG2D8rpkXsPu88B5p8lOCe8f6Q==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-a1190ab1.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-xs/XWtVY6sgxCZKGLtrGrcsYgDgR0UR1Nx14ivzvJC0S8ZEB7BAxAOBDF8xFrtPq/6Vek9n2A2A8mx/odP+fMg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-c6cfd75a.js"></script>
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-+MwvC3rSAaQjKVbALblvS0KULukVYcqzY2ug5b5z0SjYWX4K+vXVEMZfgEK3viB9kTD2txkEu+XhQrmmAGGaUw==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-f8cc2f0b.js"></script>
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-aEeAsfpL9cBt2DYP2NfaqKLyYLkN4BS+/ikvLHM+abhqZsoNmd3Wxqwu6TGp7Pf/vqvvGeL26/NswwMkS1WwQg==" type="application/javascript" data-module-id="./chunk-color-modes.js" src="https://github.githubassets.com/assets/chunk-color-modes-684780b1.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-zaLwmM/bgGhKnDy4YPvbl92aZ1yaF7e3A+bjdCoWZSCls/co65VBCDE+blnNwcfc61E/cQHJiFDokMdSGmTYxQ==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-cda2f098.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-6j/oSF+kbW+yetNPvI684VzAu9pzug6Vj2h+3u1LdCuRhR4jnuiHZfeQKls3nxcT/S3H+oIt7FtigE/aeoj+gg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-ea3fe848.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ymxyvUviKFi+en2si3ZTyY4YCLRKlk0cKK/ngD9ir8xoeH44pCE1I4MBRQE5PcErmUJMhlcAk3+pgwHB7VcseA==" type="application/javascript" data-module-id="./chunk-edit.js" src="https://github.githubassets.com/assets/chunk-edit-ca6c72bd.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-DAk56F8lz8k6kg6vf15oE4tu4MTIPDT9DUo3VwO8SLYyb3ws4QU433BG7eVXOS50wzl7dUuMFRfTP1rHlHi45g==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-0c0939e8.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-j5Eltv6XYkPt7XVCMWLH6qhNBoFOzxXLIsaoffjjTl2fw/sXVfluH+EGE5dYJPEBwsmqK0LenheRi9hmNcWnCA==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-8f9125b6.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-QM/lwlNqhmQdgdKAm7AmH4UPduFZRVyImbYS6vxhjNHvktVItzONWSYyvdRP83nsaNC1HZVeWmKSFh6uNHcF5A==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-40cfe5c2.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-9WNXtB07IyWypiPmkuucspwog4mme9q5GKGMSgd7FI0DPimmg/pEw+aaAofFV1vuWMt9I8H5QpsVtlbHGg1YBA==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-f56357b4.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-JoWpXsdKsRKFyspZP0lsV/mUnqLhErMvFLeq7PwLuptuR0JgHOv5NMWIeBqqWHuWmhIltMifR+/rEjO553Raug==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-2685a95e.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ZyozqjwhoIovRiwFwpwYmlQUgmIyGt5y8DgJhtiLHr9EM6f51vmXxaIIZap+ly64QSLa0zeA7DPCD6Yio2/AGA==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-672a33aa.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-x4kU6fFUhRRm2c+AcnGrKXfEBgPxFF8vMQ9RJQraR7T4kQEgj+3RsoU4+8FYsR359M0xSovamhNcCQlYA03c0g==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-c78914e9.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-q5LNebftLi+t+DZS5swr2IUtyCsm/vIO9pC33gFyCkg7Fyt2VyfOjEysu2c8quyhFbxr2Wrezi9QvEvzRYxzIw==" type="application/javascript" src="https://github.githubassets.com/assets/gist-ab92cd79.js"></script>
+</p>
+<p>
+<meta name="viewport" content="width=device-width">
+</p>
+<p>
+<title>data munging · GitHub</title>
+<br/>
+<meta name="description" content="data munging. GitHub Gist: instantly share code, notes, and snippets.">
+<br/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch-gist.xml" title="Gist">
+<br/>
+<link rel="fluid-icon" href="https://gist.github.com/fluidicon.png" title="GitHub">
+<br/>
+<meta property="fb:app_id" content="1401488693436528">
+<br/>
+<meta name="apple-itunes-app" content="app-id=1477376905">
+<br/>
+<meta name="twitter:image:src" content="https://github.githubassets.com/images/modules/gists/gist-og-image.png"><meta name="twitter:site" content="@github"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="data munging"><meta name="twitter:description" content="data munging. GitHub Gist: instantly share code, notes, and snippets.">
+<br/>
+<meta property="og:image" content="https://github.githubassets.com/images/modules/gists/gist-og-image.png"><meta property="og:site_name" content="Gist"><meta property="og:type" content="article"><meta property="og:title" content="data munging"><meta property="og:url" content="https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592"><meta property="og:description" content="data munging. GitHub Gist: instantly share code, notes, and snippets."><meta property="article:author" content="262588213843476"><meta property="article:publisher" content="262588213843476">
+</p>
+<p>
+<link rel="assets" href="https://github.githubassets.com/">
+</p>
+<p>
+<meta name="request-id" content="E8A1:CBF8:1AF06FD:1C0263D:60683BD9" data-pjax-transient="true"><meta name="html-safe-nonce" content="4cc1cb82bb58cd0d47f69bbf11834b9b45d35c41197d7a534e96fc556e4ac334" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFOEExOkNCRjg6MUFGMDZGRDoxQzAyNjNEOjYwNjgzQkQ5IiwidmlzaXRvcl9pZCI6IjY1MjYyMDY1MTQ0NDYyMjAyMjQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"><meta name="visitor-hmac" content="66501c1e6b77aeb1c101e8c37df77b8778a014ac2742d96ef0bd50e454fdfecf" data-pjax-transient="true">
+</p>
+<p>
+<meta name="github-keyboard-shortcuts" content="" data-pjax-transient="true">
+</p>
+<p>
+<meta name="selected-link" value="gist_code" data-pjax-transient="">
+</p>
+<p>
+<meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+<br/>
+<meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+<br/>
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+<br/>
+<meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+</p>
+<p>
+<meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="gist"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event">
+</p>
+<p>
+<meta name="analytics-location" content="/<user-name>/<gist-id>" data-pjax-transient="true">
+</p>
+<p>
+<meta name="octolytics-dimension-public" content="true"><meta name="octolytics-dimension-gist_id" content="95525600"><meta name="octolytics-dimension-gist_name" content="d8ddfbe1c4944cc3e941901a89345592"><meta name="octolytics-dimension-anonymous" content="false"><meta name="octolytics-dimension-owner_id" content="171018"><meta name="octolytics-dimension-owner_login" content="Riduidel"><meta name="octolytics-dimension-forked" content="false">
+</p>
+<p>
+<meta name="hostname" content="gist.github.com">
+<br/>
+<meta name="user-login" content="">
+</p>
+<p>
+<meta name="expected-hostname" content="gist.github.com">
+</p>
+<p>
+<meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
+</p>
+<p>
+<meta http-equiv="x-pjax-version" content="fc0c038c4164e425256f8f913140a513b183e6f334283e4ba5b6964948ad5706">
+</p>
+<p>
+<link href="/Riduidel.atom" rel="alternate" title="atom" type="application/atom+xml">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-cMy3yKcMc+xxMnXvp1BuJTYlJ4zcLel56uLyEBl208hbiP8Pinp3vgobWXTWzQBHpB8rvT+k42s8a8bs0U5ibg==" rel="stylesheet" href="https://github.githubassets.com/assets/gist-70ccb7c8a70c73ec713275efa7506e25.css">
+</p>
+<p>
+<meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+</p>
+<p>
+<meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+</p>
+<p>
+<meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+</p>
+<p>
+<link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+<br/>
+<link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+<br/>
+<link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+</p>
+<p>
+<meta name="theme-color" content="#1e2327">
+</p>
+<p>
+</head>
+</p>
+<p>
+<body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+</p>
+<p>
+<div class="position-relative js-header-wrapper ">
+<br/>
+<a href="#start-of-content" class="px-2 py-4 color-bg-info-inverse color-text-white show-on-focus js-skip-to-content">Skip to content</a>
+<br/>
+<span class="progress-pjax-loader width-full js-pjax-loader-bar Progress position-fixed">
+<br/>
+<span style="background-color: #79b8ff;width: 0%;" class="Progress-item progress-pjax-loader-bar "></span>
+<br/>
+</span>
+</p>
+<p>
+<div class="Header js-details-container Details flex-wrap flex-md-nowrap p-responsive" role="banner">
+<br/>
+<div class="Header-item d-none d-md-flex">
+<br/>
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href="/">
+<br/>
+<svg class="octicon octicon-mark-github v-align-middle d-inline-block d-md-none" height="24" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-github v-align-middle d-none d-md-inline-block" viewBox="0 0 45 16" version="1.1" width="67" aria-hidden="true"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-gist v-align-middle d-none d-md-inline-block" viewBox="0 0 25 16" version="1.1" width="37" aria-hidden="true"><path fill-rule="evenodd" d="M4.7 8.73h2.45v4.02c-.55.27-1.64.34-2.53.34-2.56 0-3.47-2.2-3.47-5.05 0-2.85.91-5.06 3.48-5.06 1.28 0 2.06.23 3.28.73V2.66C7.27 2.33 6.25 2 4.63 2 1.13 2 0 4.69 0 8.03c0 3.34 1.11 6.03 4.63 6.03 1.64 0 2.81-.27 3.59-.64V7.73H4.7v1zm6.39 3.72V6.06h-1.05v6.28c0 1.25.58 1.72 1.72 1.72v-.89c-.48 0-.67-.16-.67-.7v-.02zm.25-8.72c0-.44-.33-.78-.78-.78s-.77.34-.77.78.33.78.77.78.78-.34.78-.78zm4.34 5.69c-1.5-.13-1.78-.48-1.78-1.17 0-.77.33-1.34 1.88-1.34 1.05 0 1.66.16 2.27.36v-.94c-.69-.3-1.52-.39-2.25-.39-2.2 0-2.92 1.2-2.92 2.31 0 1.08.47 1.88 2.73 2.08 1.55.13 1.77.63 1.77 1.34 0 .73-.44 1.42-2.06 1.42-1.11 0-1.86-.19-2.33-.36v.94c.5.2 1.58.39 2.33.39 2.38 0 3.14-1.2 3.14-2.41 0-1.28-.53-2.03-2.75-2.23h-.03zm8.58-2.47v-.86h-2.42v-2.5l-1.08.31v2.11l-1.56.44v.48h1.56v5c0 1.53 1.19 2.13 2.5 2.13.19 0 .52-.02.69-.05v-.89c-.19.03-.41.03-.61.03-.97 0-1.5-.39-1.5-1.34V6.94h2.42v.02-.01z"></path></svg>
+<br/>
+</a>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item d-md-none">
+<br/>
+<button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+<br/>
+<svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
+<br/>
+</button>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item Header-item--full js-site-search flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+<br/>
+<div class="header-search flex-self-stretch flex-md-self-auto mr-0 mr-md-3 mb-3 mb-md-0">
+<br/>
+<!-- '"` --><!-- </textarea></xmp> --><form class="position-relative js-quicksearch-form" role="search" aria-label="Site" action="/search" accept-charset="UTF-8" method="get">
+<br/>
+<div class="header-search-wrapper form-control input-sm js-chromeless-input-container">
+<br/>
+<input type="text" class="form-control input-sm js-site-search-focus header-search-input" data-hotkey="s,/" name="q" aria-label="Search" placeholder="Search…" autocorrect="off" autocomplete="off" autocapitalize="off">
+<br/>
+</div>
+</p>
+<p>
+</form></div>
+</p>
+<p>
+<nav aria-label="Global" class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto">
+<br/>
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, go to all gists, text:all gists" href="/discover">All gists</a>
+</p>
+<p>
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, go to GitHub, text:Back to GitHub" href="https://github.com">Back to GitHub</a>
+</p>
+<p>
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cad0c6e99d4cc8b91d6220bd95fcd8ba468267f30113a41d621e9e234b735fa4" href="https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592">
+<br/>
+Sign in
+<br/>
+</a>
+<br/>
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, sign up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4b941e60afa28d6b31aa42872f8bbd77c617b328f94dcc372fc29e59c5cf9359" href="/join?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592&amp;source=header-gist">
+<br/>
+Sign up
+<br/>
+</a></nav>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+<br/>
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href="/">
+<br/>
+<svg class="octicon octicon-mark-github v-align-middle d-inline-block d-md-none" height="24" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-github v-align-middle d-none d-md-inline-block" viewBox="0 0 45 16" version="1.1" width="67" aria-hidden="true"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-gist v-align-middle d-none d-md-inline-block" viewBox="0 0 25 16" version="1.1" width="37" aria-hidden="true"><path fill-rule="evenodd" d="M4.7 8.73h2.45v4.02c-.55.27-1.64.34-2.53.34-2.56 0-3.47-2.2-3.47-5.05 0-2.85.91-5.06 3.48-5.06 1.28 0 2.06.23 3.28.73V2.66C7.27 2.33 6.25 2 4.63 2 1.13 2 0 4.69 0 8.03c0 3.34 1.11 6.03 4.63 6.03 1.64 0 2.81-.27 3.59-.64V7.73H4.7v1zm6.39 3.72V6.06h-1.05v6.28c0 1.25.58 1.72 1.72 1.72v-.89c-.48 0-.67-.16-.67-.7v-.02zm.25-8.72c0-.44-.33-.78-.78-.78s-.77.34-.77.78.33.78.77.78.78-.34.78-.78zm4.34 5.69c-1.5-.13-1.78-.48-1.78-1.17 0-.77.33-1.34 1.88-1.34 1.05 0 1.66.16 2.27.36v-.94c-.69-.3-1.52-.39-2.25-.39-2.2 0-2.92 1.2-2.92 2.31 0 1.08.47 1.88 2.73 2.08 1.55.13 1.77.63 1.77 1.34 0 .73-.44 1.42-2.06 1.42-1.11 0-1.86-.19-2.33-.36v.94c.5.2 1.58.39 2.33.39 2.38 0 3.14-1.2 3.14-2.41 0-1.28-.53-2.03-2.75-2.23h-.03zm8.58-2.47v-.86h-2.42v-2.5l-1.08.31v2.11l-1.56.44v.48h1.56v5c0 1.53 1.19 2.13 2.5 2.13.19 0 .52-.02.69-.05v-.89c-.19.03-.41.03-.61.03-.97 0-1.5-.39-1.5-1.34V6.94h2.42v.02-.01z"></path></svg>
+<br/>
+</a>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item f4 mr-0" role="navigation">
+<br/>
+<a class="HeaderMenu-link no-underline mr-3" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cad0c6e99d4cc8b91d6220bd95fcd8ba468267f30113a41d621e9e234b735fa4" href="https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592">
+<br/>
+Sign&nbsp;in
+<br/>
+</a>        <a class="HeaderMenu-link d-inline-block no-underline border color-border-tertiary rounded px-2 py-1" data-ga-click="Header, sign up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4b941e60afa28d6b31aa42872f8bbd77c617b328f94dcc372fc29e59c5cf9359" href="/join?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592&amp;source=header-gist">
+<br/>
+Sign&nbsp;up
+<br/>
+</a>    </div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div id="start-of-content" class="show-on-focus"></div>
+</p>
+<p>
+<div data-pjax-replace="" id="js-flash-container">
+</p>
+<p>
+<template class="js-flash-template">
+<br/>
+<div class="flash flash-full  {{ className }}">
+<br/>
+<div class="container-lg px-2">
+<br/>
+<button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+</p>
+<p>
+<div>{{ message }}</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</template>
+<br/>
+</div>
+</p>
+<p>
+<include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+</p>
+<p>
+<div class="application-main " data-commit-hovercards-enabled="" data-discussion-hovercards-enabled="" data-issue-and-pr-hovercards-enabled="">
+<br/>
+<div itemscope="" itemtype="http://schema.org/Code">
+<br/>
+<main id="gist-pjax-container" data-pjax-container="">
+</p>
+<p>
+<div class="gist-detail-intro gist-banner pb-3">
+<br/>
+<div class="text-center container-lg px-3">
+<br/>
+<p class="lead">
+<br/>
+Instantly share code, notes, and snippets.
+<br/>
+</p>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class="gisthead pagehead color-bg-secondary pb-0 pt-3 mb-4">
+<br/>
+<div class="px-0">
+</p>
+<p>
+<div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+<br/>
+<div class="flex-auto min-width-0 width-fit mr-3">
+<br/>
+<div class="d-flex">
+<br/>
+<div class="d-none d-md-block">
+<br/>
+<a class="avatar mr-2 flex-shrink-0" data-hovercard-type="user" data-hovercard-url="/users/Riduidel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Riduidel"><img class=" avatar-user" src="https://avatars.githubusercontent.com/u/171018?s=64&amp;v=4" width="32" height="32" alt="@Riduidel"></a>
+<br/>
+</div>
+<br/>
+<div class="d-flex flex-column">
+<br/>
+<h1 class="break-word f3 text-normal mb-md-0 mb-1">
+<br/>
+<span class="author"><a data-hovercard-type="user" data-hovercard-url="/users/Riduidel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Riduidel">Riduidel</a></span><!--
+<br/>
+--><span class="mx-1 color-text-secondary">/</span><!--
+<br/>
+--><strong itemprop="name" class="css-truncate-target mr-1" style="max-width: 410px"><a href="/Riduidel/d8ddfbe1c4944cc3e941901a89345592">DataMunging.java</a></strong>
+<br/>
+</h1>
+<br/>
+<div class="note m-0">
+<br/>
+Last active <time-ago datetime="2019-04-03T19:50:22Z" class="no-wrap " title="3 avr. 2019, 21:50 UTC+2">2 years ago</time-ago>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<ul class="d-md-flex d-none pagehead-actions float-none">
+</p>
+<p>
+<li>
+<br/>
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist star button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1f6b736df116e18708363672c1a22bf80ea194bf25a820e9dfbf13fd65fa9237" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592">
+<br/>
+<svg class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+<br/>
+Star
+<br/>
+</a>
+<br/>
+<a class="social-count" aria-label="0 users starred this gist" href="/Riduidel/d8ddfbe1c4944cc3e941901a89345592/stargazers">
+<br/>
+0
+<br/>
+</a>
+<br/>
+</li>
+</p>
+<p>
+<li>
+<br/>
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to fork a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist fork button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="13be1cf4457e1e26f26162e6b9637aa35ce6c30ecf9357d62d20265653deac07" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592">
+<br/>
+<svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+<br/>
+Fork
+<br/>
+</a>    <span class="social-count">0</span>
+</p>
+<p>
+</li>
+<br/>
+</ul>
+<br/>
+</div>
+</p>
+<p>
+<div class="d-block d-md-none px-3 px-md-3 px-lg-5 mb-3">
+<br/>
+<a class="btn btn-sm btn-block tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist star button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1f6b736df116e18708363672c1a22bf80ea194bf25a820e9dfbf13fd65fa9237" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592">
+<br/>
+<svg class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+<br/>
+Star
+<br/>
+</a>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="d-flex flex-md-row flex-column px-0 pr-md-3 px-lg-5">
+<br/>
+<div class="flex-md-order-1 flex-order-2 flex-auto">
+<br/>
+<nav class="UnderlineNav box-shadow-none px-3 px-lg-0 " aria-label="Gist" data-pjax="#gist-pjax-container">
+</p>
+<p>
+<div class="UnderlineNav-body">
+<br/>
+<a class="js-selected-navigation-item selected UnderlineNav-item" data-pjax="true" data-hotkey="g c" aria-current="page" data-selected-links="gist_code /Riduidel/d8ddfbe1c4944cc3e941901a89345592" href="/Riduidel/d8ddfbe1c4944cc3e941901a89345592">
+<br/>
+<svg class="octicon octicon-code UnderlineNav-octicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
+<br/>
+Code
+<br/>
+</a>
+<br/>
+<a class="js-selected-navigation-item UnderlineNav-item" data-pjax="true" data-hotkey="g r" data-selected-links="gist_revisions /Riduidel/d8ddfbe1c4944cc3e941901a89345592/revisions" href="/Riduidel/d8ddfbe1c4944cc3e941901a89345592/revisions">
+<br/>
+<svg class="octicon octicon-git-commit" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"></path></svg>
+<br/>
+Revisions
+<br/>
+<span title="2" class="Counter hx_reponav_item_counter ">2</span>
+<br/>
+</a>
+</p>
+<p>
+</div>
+<br/>
+</nav>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="d-md-flex d-none flex-items-center flex-md-order-2 flex-order-1 file-navigation-options" data-multiple="">
+</p>
+<p>
+<div class="d-lg-table d-none">
+<br/>
+<div class="file-navigation-option v-align-middle">
+</p>
+<p>
+<div class="d-md-flex d-none">
+<br/>
+<div class="input-group">
+<br/>
+<div class="input-group-button">
+<br/>
+<details class="details-reset details-overlay select-menu">
+<br/>
+<summary class="btn btn-sm select-menu-button" data-ga-click="Repository, clone Embed, location:repo overview" aria-haspopup="menu" role="button">
+<br/>
+<span data-menu-button="">Embed</span>
+<br/>
+</summary>
+<br/>
+<details-menu class="select-menu-modal position-absolute" data-menu-input="gist-share-url" style="z-index: 99;" aria-label="Clone options" role="menu">
+<br/>
+<div class="select-menu-header">
+<br/>
+<span class="select-menu-title">What would you like to do?</span>
+<br/>
+</div>
+<br/>
+<div class="select-menu-list">
+<br/>
+<button name="button" type="button" class="select-menu-item width-full" aria-checked="true" role="menuitemradio" value="<script src=&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592.js&quot;></script>" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;EMBED&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:95525600,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="21e2ccfa7878d03f2d89d07375502904acd12c379a0ba22f11dd04be76e72db6">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+</p>
+<p>
+Embed
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Embed this gist in your website.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>                <button name="button" type="button" class="select-menu-item width-full" aria-checked="false" role="menuitemradio" value="https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;SHARE&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:95525600,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8f3b3d6c6c26d468ae78bd82e3268c90e61b77d8da09832f9a20f580cb1c7d5b">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+</p>
+<p>
+Share
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Copy sharable link for this gist.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>                <button name="button" type="button" class="select-menu-item width-full" aria-checked="false" role="menuitemradio" value="https://gist.github.com/d8ddfbe1c4944cc3e941901a89345592.git" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;USE_HTTPS&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:95525600,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4c3b60efd232113a11fa9688f69b21cc5c9a051cda49734b65b5aacd71f404ba">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+<br/>
+Clone via
+<br/>
+HTTPS
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Clone with Git or checkout with SVN using the repository’s web address.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>            </div>
+<br/>
+<div class="select-menu-list">
+<br/>
+<a role="link" class="select-menu-item select-menu-action" href="https://docs.github.com/articles/which-remote-url-should-i-use" target="_blank">
+<br/>
+<svg class="octicon octicon-question select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004a7.728 7.728 0 00-.313.195 2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.863-1.725A2.76 2.76 0 008 4c-.631 0-1.155.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 101.342.67z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+Learn more about clone URLs
+<br/>
+</div>
+<br/>
+</a>
+<br/>
+</div>
+<br/>
+</details-menu>
+<br/>
+</details>
+<br/>
+</div>
+</p>
+<p>
+<input id="gist-share-url" type="text" data-autoselect="" class="form-control input-monospace input-sm" value="<script src=&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592.js&quot;></script>" aria-label="Clone this repository at <script src=&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592.js&quot;></script>" readonly="">
+</p>
+<p>
+<div class="input-group-button">
+<br/>
+<clipboard-copy for="gist-share-url" aria-label="Copy to clipboard" class="btn btn-sm zeroclipboard-button" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;COPY_URL&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:95525600,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="fc9fa877b2dcc19b7e1d9c0b75362f86d0c54c9bee9d76ee59d022f3a040759c" tabindex="0" role="button"><svg class="octicon octicon-clippy" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.75 1a.75.75 0 00-.75.75v3c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-3a.75.75 0 00-.75-.75h-4.5zm.75 3V2.5h3V4h-3zm-2.874-.467a.75.75 0 00-.752-1.298A1.75 1.75 0 002 3.75v9.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 13.25v-9.5a1.75 1.75 0 00-.874-1.515.75.75 0 10-.752 1.298.25.25 0 01.126.217v9.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-9.5a.25.25 0 01.126-.217z"></path></svg></clipboard-copy>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="ml-2 file-navigation-option">
+<br/>
+<a class="btn btn-sm tooltipped tooltipped-s tooltipped-multiline js-remove-unless-platform" data-platforms="windows,mac" aria-label="Save Riduidel/d8ddfbe1c4944cc3e941901a89345592 to your computer and use it in GitHub Desktop." data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;OPEN_IN_DESKTOP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:95525600,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f8a52ec83f52a81ff0f0d1753977fd40c7266d16703e62d63387282177373cf1" href="https://desktop.github.com"><svg class="octicon octicon-desktop-download" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M4.927 5.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 0 00-.177.427z"></path><path d="M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z"></path></svg></a>
+<br/>
+</div>
+</p>
+<p>
+<div class="ml-2">
+<br/>
+<a class="btn btn-sm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;DOWNLOAD_ZIP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:95525600,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d4d98de5b3fb3879b58d03636c4352c39b00f19a46c407c8fa239ff8cda0e2c8" data-ga-click="Gist, download zip, location:gist overview" href="/Riduidel/d8ddfbe1c4944cc3e941901a89345592/archive/2e33f718701a6b0e769b588131468c556844a27d.zip">Download ZIP</a>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class="container-lg px-3 new-discussion-timeline">
+<br/>
+<div class="repository-content gist-content">
+</p>
+<p>
+<div>
+<br/>
+<div itemprop="about">
+<br/>
+data munging
+<br/>
+</div>
+</p>
+<p>
+<div class="js-gist-file-update-container js-task-list-container file-box">
+<br/>
+<div id="file-datamunging-java" class="file my-2">
+<br/>
+<div class="file-header d-flex flex-md-items-center flex-items-start">
+<br/>
+<div class="file-actions flex-order-2 pt-0">
+</p>
+<p>
+<a href="/Riduidel/d8ddfbe1c4944cc3e941901a89345592/raw/2e33f718701a6b0e769b588131468c556844a27d/DataMunging.java" role="button" class="btn btn-sm ">Raw</a>
+<br/>
+</div>
+<br/>
+<div class="file-info pr-4 d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+<br/>
+<span class="mr-1">
+<br/>
+<svg class="octicon octicon-code-square color-icon-secondary" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm9.22 3.72a.75.75 0 000 1.06L10.69 8 9.22 9.47a.75.75 0 101.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0zM6.78 6.53a.75.75 0 00-1.06-1.06l-2 2a.75.75 0 000 1.06l2 2a.75.75 0 101.06-1.06L5.31 8l1.47-1.47z"></path></svg>
+<br/>
+</span>
+<br/>
+<a class="wb-break-all" href="#file-datamunging-java">
+<br/>
+<strong class="user-select-contain gist-blob-name css-truncate-target">
+<br/>
+DataMunging.java
+<br/>
+</strong>
+<br/>
+</a>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div itemprop="text" class="Box-body p-0 blob-wrapper data type-java  gist-border-0">
+</p>
+<p>
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip="">
+<br/>
+<tbody><tr>
+<br/>
+<td id="file-datamunging-java-L1" class="blob-num js-line-number" data-line-number="1"></td>
+<br/>
+<td id="file-datamunging-java-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">DataMunging</span> {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L2" class="blob-num js-line-number" data-line-number="2"></td>
+<br/>
+<td id="file-datamunging-java-LC2" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-k">void</span> <span class="pl-en">main</span>(<span class="pl-k">String</span>[] <span class="pl-v">args</span>) <span class="pl-k">throws</span> <span class="pl-smi">IOException</span> {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L3" class="blob-num js-line-number" data-line-number="3"></td>
+<br/>
+<td id="file-datamunging-java-LC3" class="blob-code blob-code-inner js-file-line">		<span class="pl-smi">System</span><span class="pl-k">.</span>out<span class="pl-k">.</span>println(</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L4" class="blob-num js-line-number" data-line-number="4"></td>
+<br/>
+<td id="file-datamunging-java-LC4" class="blob-code blob-code-inner js-file-line">		<span class="pl-smi">Files</span><span class="pl-k">.</span>lines(<span class="pl-smi">Paths</span><span class="pl-k">.</span>get(<span class="pl-s"><span class="pl-pds">"</span>weather.dat<span class="pl-pds">"</span></span>))</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L5" class="blob-num js-line-number" data-line-number="5"></td>
+<br/>
+<td id="file-datamunging-java-LC5" class="blob-code blob-code-inner js-file-line">			.map(line <span class="pl-k">-</span><span class="pl-k">&gt;</span> line<span class="pl-k">.</span>trim())</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L6" class="blob-num js-line-number" data-line-number="6"></td>
+<br/>
+<td id="file-datamunging-java-LC6" class="blob-code blob-code-inner js-file-line">			.map(line <span class="pl-k">-</span><span class="pl-k">&gt;</span> line<span class="pl-k">.</span>split(<span class="pl-s"><span class="pl-pds">"</span> +<span class="pl-pds">"</span></span>))</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L7" class="blob-num js-line-number" data-line-number="7"></td>
+<br/>
+<td id="file-datamunging-java-LC7" class="blob-code blob-code-inner js-file-line">			.filter(elements <span class="pl-k">-</span><span class="pl-k">&gt;</span> elements[<span class="pl-c1">0</span>]<span class="pl-k">.</span>matches(<span class="pl-s"><span class="pl-pds">"</span>[0-9<span class="pl-cce">\\</span>*]+<span class="pl-pds">"</span></span>))</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L8" class="blob-num js-line-number" data-line-number="8"></td>
+<br/>
+<td id="file-datamunging-java-LC8" class="blob-code blob-code-inner js-file-line">			.map(elements <span class="pl-k">-</span><span class="pl-k">&gt;</span> <span class="pl-k">new</span> <span class="pl-smi">AbstractMap</span>.<span class="pl-k">SimpleEntry&lt;&gt;</span>(elements[<span class="pl-c1">0</span>], </td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L9" class="blob-num js-line-number" data-line-number="9"></td>
+<br/>
+<td id="file-datamunging-java-LC9" class="blob-code blob-code-inner js-file-line">					<span class="pl-smi">Integer</span><span class="pl-k">.</span>parseInt(elements[<span class="pl-c1">1</span>]<span class="pl-k">.</span>replace(<span class="pl-s"><span class="pl-pds">"</span>*<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>)) <span class="pl-k">-</span> <span class="pl-smi">Integer</span><span class="pl-k">.</span>parseInt(elements[<span class="pl-c1">2</span>]<span class="pl-k">.</span>replace(<span class="pl-s"><span class="pl-pds">"</span>*<span class="pl-pds">"</span></span>, <span class="pl-s"><span class="pl-pds">"</span><span class="pl-pds">"</span></span>)</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L10" class="blob-num js-line-number" data-line-number="10"></td>
+<br/>
+<td id="file-datamunging-java-LC10" class="blob-code blob-code-inner js-file-line">							)))</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L11" class="blob-num js-line-number" data-line-number="11"></td>
+<br/>
+<td id="file-datamunging-java-LC11" class="blob-code blob-code-inner js-file-line">			.min((e1, e2) <span class="pl-k">-</span><span class="pl-k">&gt;</span> e1<span class="pl-k">.</span>getValue()<span class="pl-k">-</span>e2<span class="pl-k">.</span>getValue())</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L12" class="blob-num js-line-number" data-line-number="12"></td>
+<br/>
+<td id="file-datamunging-java-LC12" class="blob-code blob-code-inner js-file-line">			.map(e <span class="pl-k">-</span><span class="pl-k">&gt;</span> e<span class="pl-k">.</span>getKey())</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L13" class="blob-num js-line-number" data-line-number="13"></td>
+<br/>
+<td id="file-datamunging-java-LC13" class="blob-code blob-code-inner js-file-line">			.get()</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L14" class="blob-num js-line-number" data-line-number="14"></td>
+<br/>
+<td id="file-datamunging-java-LC14" class="blob-code blob-code-inner js-file-line">				);</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L15" class="blob-num js-line-number" data-line-number="15"></td>
+<br/>
+<td id="file-datamunging-java-LC15" class="blob-code blob-code-inner js-file-line">	}</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-datamunging-java-L16" class="blob-num js-line-number" data-line-number="16"></td>
+<br/>
+<td id="file-datamunging-java-LC16" class="blob-code blob-code-inner js-file-line">}</td>
+<br/>
+</tr>
+<br/>
+</tbody></table>
+</p>
+<p>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<a name="comments"></a>
+<br/>
+<div class="js-quote-selection-container" data-quote-markdown=".js-comment-body">
+<br/>
+<div class="js-discussion ">
+<br/>
+<div class="ml-md-6 pl-md-3 ml-0 pl-0">
+</p>
+<p>
+<!-- Rendered timeline since 2019-04-03 12:50:22 -->
+<br/>
+<div id="partial-timeline-marker" class="js-timeline-marker js-updatable-content" data-last-modified="Wed, 03 Apr 2019 19:50:22 GMT">
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="discussion-timeline-actions">
+<br/>
+<div class="flash flash-warn mt-3">
+<br/>
+<a rel="nofollow" class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;signed out comment&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="79d842bceaf9877b29a5c727dfe20a1987635c83da2da49f794978747eb7c641" href="/join?source=comment-gist">Sign up for free</a>
+<br/>
+<strong>to join this conversation on GitHub</strong>.
+<br/>
+Already have an account?
+<br/>
+<a rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;signed out comment&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d8ddfbe1c4944cc3e941901a89345592&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5a1b984d34b784224c1616b2477ecdf66dcf68199befbb2272dd21f2544e1f4" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd8ddfbe1c4944cc3e941901a89345592">Sign in to comment</a>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div><!-- /.container -->
+</p>
+<p>
+</main>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+<br/>
+<div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
+<br/>
+<ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+<br/>
+<li class="mr-3 mr-lg-0">© 2021 GitHub, Inc.</li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+<br/>
+<li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
+<br/>
+</ul>
+</p>
+<p>
+<a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+<br/>
+<svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+</a>
+<br/>
+<ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+<br/>
+<li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="d-flex flex-justify-center pb-6">
+<br/>
+<span class="f6 color-text-tertiary"></span>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden="">
+<br/>
+<svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
+<br/>
+<button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+<br/>
+You can’t perform that action at this time.
+<br/>
+</div>
+</p>
+<p>
+<div class="js-stale-session-flash flash flash-warn flash-banner" hidden="">
+<br/>
+<svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
+<br/>
+<span class="js-stale-session-flash-signed-in" hidden="">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+<br/>
+<span class="js-stale-session-flash-signed-out" hidden="">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+<br/>
+</div>
+<br/>
+<template id="site-details-dialog">
+<br/>
+<details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary hx_rsm" open="">
+<br/>
+<summary role="button" aria-label="Close dialog"></summary>
+<br/>
+<details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+<br/>
+<button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog="">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+<br/>
+<div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+<br/>
+</details-dialog>
+<br/>
+</details>
+<br/>
+</template>
+</p>
+<p>
+<div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+<br/>
+<div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div aria-live="polite" class="sr-only"></div></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Ce qui m'intéresse, moi, c'est comment mes variables d'environnement arrivent dans l'exécutable Java que lance kafka-connect. Donc, une fois que tout est démarré, une petite inspection de l'entrypoint docker nous révèle que docker-compose a lancé le script
+<br/>
+<pre>docker inspect --format='{{.Config.Cmd}}' 44e
+<br/>
+'[/etc/confluent/docker/run]'
+<br/>
+</pre>
+<br/>
+Coup de bol, ce script provient des <a href="https://github.com/confluentinc/cp-docker-images">images Docker standard de chez confluent</a>. Et c'est plus précisément le fichier <a href="https://github.com/confluentinc/cp-docker-images/blob/5.1.0-post/debian/kafka-connect-base/include/etc/confluent/docker/run">cp-docker-images/debian/kafka-connect-base/include/etc/confluent/docker/run.</a> Ce script lance en fait un tas d'autres scripts, qu'il va falloir comprendre ... Dans l'ordre, il s'agit de
+<br/>
+<ol>
+<br/>
+<li><a href="https://github.com/confluentinc/cp-docker-images/blob/5.1.0-post/debian/kafka-connect-base/include/etc/confluent/docker/configure">configure</a></li>
+<br/>
+<li><a href="https://github.com/confluentinc/cp-docker-images/blob/5.1.0-post/debian/kafka-connect-base/include/etc/confluent/docker/ensure">ensure</a></li>
+<br/>
+<li><a href="https://github.com/confluentinc/cp-docker-images/blob/5.1.0-post/debian/kafka-connect-base/include/etc/confluent/docker/launch">launch</a></li>
+<br/>
+</ol>
+<br/>
+On commence gentiment par configure.
+</p>
+<p>
+Là ça commence à devenir un peu sioux, parce que les gens de chez confluent utilisent un outil développé par leurs soins, <a href="https://docs.confluent.io/current/installation/docker/docs/development.html#docker-utility-belt-dub">dub</a>, qui fait l'ensemble des traitements bas niveaux (vérifier que des variables d'environnement sont définies, appliquer des templates - merci d'avoir recodé confd).
+</p>
+<p>
+Bref, notre image vérifie qu'un certain nombre de variables d'environnements existent, avant d'appliquer un template pour créer un fichier <code>.properties</code> (dans mon cas, <code>/etc/kafka-connect/kafka-connect.properties</code>). En toute logique, celui-ci devrait contenir l'ensemble des variables d'environnement que j'ai défini, transformées en propriétés (jetez un oeil au template <a href="https://github.com/confluentinc/cp-docker-images/blob/5.1.0-post/debian/kafka-connect-base/include/etc/confluent/docker/kafka-connect.properties.template"><code>kafka-connect.properties.templates</code></a>, il montre bien que les variables dont le nom commence par <code>CONNECT_</code> sont transformées en propriétés Java).
+</p>
+<p>
+Qu'est-ce que j'ai comme propriétés ?
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">root@kafka-connect:/# cat /etc/kafka-connect/kafka-connect.properties
+<br/>
+config.storage.replication.factor=1
+<br/>
+status.storage.replication.factor=1
+<br/>
+ssl.protocol=TLS
+<br/>
+schema.registry.basic.auth.credentials.source=USER_INFO
+<br/>
+key.converter.schema.registry.url=https://kafka-test-adeo-disp.aivencloud.com:24120
+<br/>
+key.converter.basic.auth.user.info=LOGIN:PASSWORD
+<br/>
+key.converter=io.confluent.connect.avro.AvroConverter
+<br/>
+schema.registry.basic.auth.user.info=LOGIN:PASSWORD
+<br/>
+ssl.keystore.password=secret
+<br/>
+schema.registry.url=https://kafka-test-adeo-disp.aivencloud.com:24120
+<br/>
+schema.registry.ssl.truststore.password=secret
+<br/>
+rest.port=8083
+<br/>
+ssl.keystore.location=/etc/ksql-server/secrets/client.keystore.p12
+<br/>
+plugin.path=/usr/appli/connect-to-bigquery
+<br/>
+offset.storage.replication.factor=1
+<br/>
+insert.mode=upsert
+<br/>
+status.storage.topic=docker-connect-status
+<br/>
+security.protocol=SSL
+<br/>
+rest.advertised.host.name=kafka-connect
+<br/>
+value.converter.basic.auth.user.info=LOGIN:PASSWORD
+<br/>
+key.converter.basic.auth.credentials.source=USER_INFO
+<br/>
+config.storage.topic=docker-connect-configs
+<br/>
+group.id=compose-connect-group
+<br/>
+connect.debug=y
+<br/>
+ssl.truststore.location=/etc/ksql-server/secrets/client.truststore.jks
+<br/>
+internal.key.converter.schemas.enable=false
+<br/>
+bootstrap.servers=SSL://kafka-test-adeo-disp.aivencloud.com:24117
+<br/>
+internal.value.converter.schemas.enable=false
+<br/>
+ssl.truststore.password=secret
+<br/>
+log4j.loggers=org.apache.kafka.connect.runtime.rest=WARN,org.reflections=ERROR
+<br/>
+schema.registry.ssl.truststore.location=/etc/ksql-server/secrets/registry.truststore.jks
+<br/>
+internal.key.converter=org.apache.kafka.connect.json.JsonConverter
+<br/>
+log4j.root.loglevel=INFO
+<br/>
+value.converter.basic.auth.credentials.source=USER_INFO
+<br/>
+ssl.keystore.type=PKCS12
+<br/>
+value.converter=io.confluent.connect.avro.AvroConverter
+<br/>
+offset.storage.topic=docker-connect-offsets
+<br/>
+value.converter.schema.registry.url=https://kafka-test-adeo-disp.aivencloud.com:24120
+<br/>
+internal.value.converter=org.apache.kafka.connect.json.JsonConverter
+<br/>
+debug.suspend.flag=y</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Est-ce que c'est bon ? J'en ai bien l'impression. Notez juste que la variable <code>EXTRA_ARGS</code> n'a pas été transformée ... mais c'est normal, on en parlera plus tard.
+</p>
+<p>
+Bien, on peut maintenant passer à ensure.
+<br/>
+Celui-ci est "moins intéressant" pour moi, puisqu'il semble se contenter de vérifier que le cluster Kafka fonctionne correctement avant de lancer kafka-connect.
+</p>
+<p>
+Donc on arrive à launch, qui doit démarrer kafka-connect ...
+<br/>
+Ouais, enfin, c'est ce que vous croyez. parce qu'en fait, launch, après avoir assemblé certaines variables d'environnement, exécute le script <code>connect-distributed</code>. Et celui-là, curieusement, ne figure pas dans le dépôt de confluent ... Heureusement, il est forcément quelque part dans mon image docker. Du coup, je peux le copier et y jeter un oeil
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;"># Licensed to the Apache Software Foundation (ASF) under one or more
+<br/>
+# contributor license agreements.  See the NOTICE file distributed with
+<br/>
+# this work for additional information regarding copyright ownership.
+<br/>
+# The ASF licenses this file to You under the Apache License, Version 2.0
+<br/>
+# (the "License"); you may not use this file except in compliance with
+<br/>
+# the License.  You may obtain a copy of the License at
+<br/>
+#
+<br/>
+#    http://www.apache.org/licenses/LICENSE-2.0
+<br/>
+#
+<br/>
+# Unless required by applicable law or agreed to in writing, software
+<br/>
+# distributed under the License is distributed on an "AS IS" BASIS,
+<br/>
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+<br/>
+# See the License for the specific language governing permissions and
+<br/>
+# limitations under the License.
+</p>
+<p>
+if [ $# -lt 1 ];
+<br/>
+then
+<br/>
+echo "USAGE: $0 [-daemon] connect-distributed.properties"
+<br/>
+exit 1
+<br/>
+fi
+</p>
+<p>
+base_dir=$(dirname $0)
+</p>
+<p>
+###
+<br/>
+### Classpath additions for Confluent Platform releases (LSB-style layout)
+<br/>
+###
+<br/>
+#cd -P deals with symlink from /bin to /usr/bin
+<br/>
+java_base_dir=$( cd -P "$base_dir/../share/java" &amp;&amp; pwd )
+</p>
+<p>
+# confluent-common: required by kafka-serde-tools
+<br/>
+# kafka-serde-tools (e.g. Avro serializer): bundled with confluent-schema-registry package
+<br/>
+for library in "kafka" "confluent-common" "kafka-serde-tools" "monitoring-interceptors"; do
+<br/>
+dir="$java_base_dir/$library"
+<br/>
+if [ -d "$dir" ]; then
+<br/>
+classpath_prefix="$CLASSPATH:"
+<br/>
+if [ "x$CLASSPATH" = "x" ]; then
+<br/>
+classpath_prefix=""
+<br/>
+fi
+<br/>
+CLASSPATH="$classpath_prefix$dir/*"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+if [ "x$KAFKA_LOG4J_OPTS" = "x" ]; then
+<br/>
+LOG4J_CONFIG_NORMAL_INSTALL="/etc/kafka/connect-log4j.properties"
+<br/>
+LOG4J_CONFIG_ZIP_INSTALL="$base_dir/../etc/kafka/connect-log4j.properties"
+<br/>
+if [ -e "$LOG4J_CONFIG_NORMAL_INSTALL" ]; then # Normal install layout
+<br/>
+KAFKA_LOG4J_OPTS="-Dlog4j.configuration=file:${LOG4J_CONFIG_NORMAL_INSTALL}"
+<br/>
+elif [ -e "${LOG4J_CONFIG_ZIP_INSTALL}" ]; then # Simple zip file layout
+<br/>
+KAFKA_LOG4J_OPTS="-Dlog4j.configuration=file:${LOG4J_CONFIG_ZIP_INSTALL}"
+<br/>
+else # Fallback to normal default
+<br/>
+KAFKA_LOG4J_OPTS="-Dlog4j.configuration=file:$base_dir/../config/connect-log4j.properties"
+<br/>
+fi
+<br/>
+fi
+<br/>
+export KAFKA_LOG4J_OPTS
+</p>
+<p>
+if [ "x$KAFKA_HEAP_OPTS" = "x" ]; then
+<br/>
+export KAFKA_HEAP_OPTS="-Xms256M -Xmx2G"
+<br/>
+fi
+</p>
+<p>
+EXTRA_ARGS=${EXTRA_ARGS-'-name connectDistributed'}
+</p>
+<p>
+COMMAND=$1
+<br/>
+case $COMMAND in
+<br/>
+-daemon)
+<br/>
+EXTRA_ARGS="-daemon "$EXTRA_ARGS
+<br/>
+shift
+<br/>
+;;
+<br/>
+*)
+<br/>
+;;
+<br/>
+esac
+</p>
+<p>
+export CLASSPATH
+<br/>
+exec $(dirname $0)/kafka-run-class $EXTRA_ARGS org.apache.kafka.connect.cli.ConnectDistributed "$@"
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Et c'est là que mes <code>EXTRA_ARGS</code> reviennent à la charge ! (regardez autour de la ligne 60). Parce qu'ils sont intégrés à la ligne de commande que ce script passe à <code>kafka-run-class</code>
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">#!/bin/bash
+<br/>
+# Licensed to the Apache Software Foundation (ASF) under one or more
+<br/>
+# contributor license agreements.  See the NOTICE file distributed with
+<br/>
+# this work for additional information regarding copyright ownership.
+<br/>
+# The ASF licenses this file to You under the Apache License, Version 2.0
+<br/>
+# (the "License"); you may not use this file except in compliance with
+<br/>
+# the License.  You may obtain a copy of the License at
+<br/>
+#
+<br/>
+#    http://www.apache.org/licenses/LICENSE-2.0
+<br/>
+#
+<br/>
+# Unless required by applicable law or agreed to in writing, software
+<br/>
+# distributed under the License is distributed on an "AS IS" BASIS,
+<br/>
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+<br/>
+# See the License for the specific language governing permissions and
+<br/>
+# limitations under the License.
+</p>
+<p>
+if [ $# -lt 1 ];
+<br/>
+then
+<br/>
+echo "USAGE: $0 [-daemon] [-name servicename] [-loggc] classname [opts]"
+<br/>
+exit 1
+<br/>
+fi
+</p>
+<p>
+# CYGINW == 1 if Cygwin is detected, else 0.
+<br/>
+if [[ $(uname -a) =~ "CYGWIN" ]]; then
+<br/>
+CYGWIN=1
+<br/>
+else
+<br/>
+CYGWIN=0
+<br/>
+fi
+</p>
+<p>
+if [ -z "$INCLUDE_TEST_JARS" ]; then
+<br/>
+INCLUDE_TEST_JARS=false
+<br/>
+fi
+</p>
+<p>
+# Exclude jars not necessary for running commands.
+<br/>
+regex="(-(test|test-sources|src|scaladoc|javadoc)\.jar|jar.asc)$"
+<br/>
+should_include_file() {
+<br/>
+if [ "$INCLUDE_TEST_JARS" = true ]; then
+<br/>
+return 0
+<br/>
+fi
+<br/>
+file=$1
+<br/>
+if [ -z "$(echo "$file" | egrep "$regex")" ] ; then
+<br/>
+return 0
+<br/>
+else
+<br/>
+return 1
+<br/>
+fi
+<br/>
+}
+</p>
+<p>
+base_dir=$(dirname $0)/..
+</p>
+<p>
+if [ -z "$SCALA_VERSION" ]; then
+<br/>
+SCALA_VERSION=2.11.12
+<br/>
+fi
+</p>
+<p>
+if [ -z "$SCALA_BINARY_VERSION" ]; then
+<br/>
+SCALA_BINARY_VERSION=$(echo $SCALA_VERSION | cut -f 1-2 -d '.')
+<br/>
+fi
+</p>
+<p>
+# run ./gradlew copyDependantLibs to get all dependant jars in a local dir
+<br/>
+shopt -s nullglob
+<br/>
+for dir in "$base_dir"/core/build/dependant-libs-${SCALA_VERSION}*;
+<br/>
+do
+<br/>
+CLASSPATH="$CLASSPATH:$dir/*"
+<br/>
+done
+</p>
+<p>
+for file in "$base_dir"/examples/build/libs/kafka-examples*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+if [ -z "$UPGRADE_KAFKA_STREAMS_TEST_VERSION" ]; then
+<br/>
+clients_lib_dir=$(dirname $0)/../clients/build/libs
+<br/>
+streams_lib_dir=$(dirname $0)/../streams/build/libs
+<br/>
+rocksdb_lib_dir=$(dirname $0)/../streams/build/dependant-libs-${SCALA_VERSION}
+<br/>
+else
+<br/>
+clients_lib_dir=/opt/kafka-$UPGRADE_KAFKA_STREAMS_TEST_VERSION/libs
+<br/>
+streams_lib_dir=$clients_lib_dir
+<br/>
+rocksdb_lib_dir=$streams_lib_dir
+<br/>
+fi
+</p>
+<p>
+for file in "$clients_lib_dir"/kafka-clients*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+for file in "$streams_lib_dir"/kafka-streams*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+if [ -z "$UPGRADE_KAFKA_STREAMS_TEST_VERSION" ]; then
+<br/>
+for file in "$base_dir"/streams/examples/build/libs/kafka-streams-examples*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+<br/>
+else
+<br/>
+VERSION_NO_DOTS=`echo $UPGRADE_KAFKA_STREAMS_TEST_VERSION | sed 's/\.//g'`
+<br/>
+SHORT_VERSION_NO_DOTS=${VERSION_NO_DOTS:0:((${#VERSION_NO_DOTS} - 1))} # remove last char, ie, bug-fix number
+<br/>
+for file in "$base_dir"/streams/upgrade-system-tests-$SHORT_VERSION_NO_DOTS/build/libs/kafka-streams-upgrade-system-tests*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+<br/>
+fi
+</p>
+<p>
+for file in "$rocksdb_lib_dir"/rocksdb*.jar;
+<br/>
+do
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+done
+</p>
+<p>
+for file in "$base_dir"/tools/build/libs/kafka-tools*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+for dir in "$base_dir"/tools/build/dependant-libs-${SCALA_VERSION}*;
+<br/>
+do
+<br/>
+CLASSPATH="$CLASSPATH:$dir/*"
+<br/>
+done
+</p>
+<p>
+for cc_pkg in "api" "transforms" "runtime" "file" "json" "tools" "basic-auth-extension"
+<br/>
+do
+<br/>
+for file in "$base_dir"/connect/${cc_pkg}/build/libs/connect-${cc_pkg}*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+<br/>
+if [ -d "$base_dir/connect/${cc_pkg}/build/dependant-libs" ] ; then
+<br/>
+CLASSPATH="$CLASSPATH:$base_dir/connect/${cc_pkg}/build/dependant-libs/*"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+# classpath addition for release
+<br/>
+for file in "$base_dir"/libs/*;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+# classpath addition for releases with LSB-style layout
+<br/>
+CLASSPATH="$CLASSPATH":"$base_dir/share/java/kafka/*"
+</p>
+<p>
+# classpath for support jars (if needed)
+<br/>
+CLASSPATH="$CLASSPATH":"$base_dir/share/java/confluent-support-metrics/*"
+</p>
+<p>
+# classpath for support jards with LSB-style layout
+<br/>
+CLASSPATH="$CLASSPATH":"/usr/share/java/confluent-support-metrics/*"
+</p>
+<p>
+for file in "$base_dir"/core/build/libs/kafka_${SCALA_BINARY_VERSION}*.jar;
+<br/>
+do
+<br/>
+if should_include_file "$file"; then
+<br/>
+CLASSPATH="$CLASSPATH":"$file"
+<br/>
+fi
+<br/>
+done
+<br/>
+shopt -u nullglob
+</p>
+<p>
+if [ -z "$CLASSPATH" ] ; then
+<br/>
+echo "Classpath is empty. Please build the project first e.g. by running './gradlew jar -PscalaVersion=$SCALA_VERSION'"
+<br/>
+exit 1
+<br/>
+fi
+</p>
+<p>
+# JMX settings
+<br/>
+if [ -z "$KAFKA_JMX_OPTS" ]; then
+<br/>
+KAFKA_JMX_OPTS="-Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.authenticate=false  -Dcom.sun.management.jmxremote.ssl=false "
+<br/>
+fi
+</p>
+<p>
+# JMX port to use
+<br/>
+if [  $JMX_PORT ]; then
+<br/>
+KAFKA_JMX_OPTS="$KAFKA_JMX_OPTS -Dcom.sun.management.jmxremote.port=$JMX_PORT "
+<br/>
+fi
+</p>
+<p>
+# Log directory to use
+<br/>
+if [ "x$LOG_DIR" = "x" ]; then
+<br/>
+LOG_DIR="/var/log/kafka"
+<br/>
+fi
+</p>
+<p>
+# Log4j settings
+<br/>
+if [ -z "$KAFKA_LOG4J_OPTS" ]; then
+<br/>
+# Log to console. This is a tool.
+<br/>
+LOG4J_CONFIG_NORMAL_INSTALL="/etc/kafka/tools-log4j.properties"
+<br/>
+LOG4J_CONFIG_ZIP_INSTALL="$base_dir/etc/kafka/tools-log4j.properties"
+<br/>
+if [ -e "$LOG4J_CONFIG_NORMAL_INSTALL" ]; then # Normal install layout
+<br/>
+LOG4J_DIR="${LOG4J_CONFIG_NORMAL_INSTALL}"
+<br/>
+elif [ -e "${LOG4J_CONFIG_ZIP_INSTALL}" ]; then # Simple zip file layout
+<br/>
+LOG4J_DIR="${LOG4J_CONFIG_ZIP_INSTALL}"
+<br/>
+else # Fallback to normal default
+<br/>
+LOG4J_DIR="$base_dir/config/tools-log4j.properties"
+<br/>
+fi
+<br/>
+# If Cygwin is detected, LOG4J_DIR is converted to Windows format.
+<br/>
+(( CYGWIN )) &amp;&amp; LOG4J_DIR=$(cygpath --path --mixed "${LOG4J_DIR}")
+<br/>
+KAFKA_LOG4J_OPTS="-Dlog4j.configuration=file:${LOG4J_DIR}"
+<br/>
+else
+<br/>
+# create logs directory
+<br/>
+if [ ! -d "$LOG_DIR" ]; then
+<br/>
+mkdir -p "$LOG_DIR"
+<br/>
+fi
+<br/>
+fi
+</p>
+<p>
+# If Cygwin is detected, LOG_DIR is converted to Windows format.
+<br/>
+(( CYGWIN )) &amp;&amp; LOG_DIR=$(cygpath --path --mixed "${LOG_DIR}")
+<br/>
+KAFKA_LOG4J_OPTS="-Dkafka.logs.dir=$LOG_DIR $KAFKA_LOG4J_OPTS"
+</p>
+<p>
+# Generic jvm settings you want to add
+<br/>
+if [ -z "$KAFKA_OPTS" ]; then
+<br/>
+KAFKA_OPTS=""
+<br/>
+fi
+</p>
+<p>
+# Set Debug options if enabled
+<br/>
+if [ "x$KAFKA_DEBUG" != "x" ]; then
+</p>
+<p>
+# Use default ports
+<br/>
+DEFAULT_JAVA_DEBUG_PORT="5005"
+</p>
+<p>
+if [ -z "$JAVA_DEBUG_PORT" ]; then
+<br/>
+JAVA_DEBUG_PORT="$DEFAULT_JAVA_DEBUG_PORT"
+<br/>
+fi
+</p>
+<p>
+# Use the defaults if JAVA_DEBUG_OPTS was not set
+<br/>
+DEFAULT_JAVA_DEBUG_OPTS="-agentlib:jdwp=transport=dt_socket,server=y,suspend=${DEBUG_SUSPEND_FLAG:-n},address=$JAVA_DEBUG_PORT"
+<br/>
+if [ -z "$JAVA_DEBUG_OPTS" ]; then
+<br/>
+JAVA_DEBUG_OPTS="$DEFAULT_JAVA_DEBUG_OPTS"
+<br/>
+fi
+</p>
+<p>
+echo "Enabling Java debug options: $JAVA_DEBUG_OPTS"
+<br/>
+KAFKA_OPTS="$JAVA_DEBUG_OPTS $KAFKA_OPTS"
+<br/>
+fi
+</p>
+<p>
+# Which java to use
+<br/>
+if [ -z "$JAVA_HOME" ]; then
+<br/>
+JAVA="java"
+<br/>
+else
+<br/>
+JAVA="$JAVA_HOME/bin/java"
+<br/>
+fi
+</p>
+<p>
+# Memory options
+<br/>
+if [ -z "$KAFKA_HEAP_OPTS" ]; then
+<br/>
+KAFKA_HEAP_OPTS="-Xmx256M"
+<br/>
+fi
+</p>
+<p>
+# JVM performance options
+<br/>
+if [ -z "$KAFKA_JVM_PERFORMANCE_OPTS" ]; then
+<br/>
+KAFKA_JVM_PERFORMANCE_OPTS="-server -XX:+UseG1GC -XX:MaxGCPauseMillis=20 -XX:InitiatingHeapOccupancyPercent=35 -XX:+ExplicitGCInvokesConcurrent -Djava.awt.headless=true"
+<br/>
+fi
+</p>
+<p>
+# version option
+<br/>
+for args in "$@" ; do
+<br/>
+if [ "$args" = "--version" ]; then
+<br/>
+exec $JAVA $KAFKA_HEAP_OPTS $KAFKA_JVM_PERFORMANCE_OPTS $KAFKA_GC_LOG_OPTS $KAFKA_JMX_OPTS $KAFKA_LOG4J_OPTS -cp $CLASSPATH $KAFKA_OPTS "kafka.utils.VersionInfo"
+<br/>
+fi
+<br/>
+done
+</p>
+<p>
+while [ $# -gt 0 ]; do
+<br/>
+COMMAND=$1
+<br/>
+case $COMMAND in
+<br/>
+-name)
+<br/>
+DAEMON_NAME=$2
+<br/>
+CONSOLE_OUTPUT_FILE=$LOG_DIR/$DAEMON_NAME.out
+<br/>
+shift 2
+<br/>
+;;
+<br/>
+-loggc)
+<br/>
+if [ -z "$KAFKA_GC_LOG_OPTS" ]; then
+<br/>
+GC_LOG_ENABLED="true"
+<br/>
+fi
+<br/>
+shift
+<br/>
+;;
+<br/>
+-daemon)
+<br/>
+DAEMON_MODE="true"
+<br/>
+shift
+<br/>
+;;
+<br/>
+*)
+<br/>
+break
+<br/>
+;;
+<br/>
+esac
+<br/>
+done
+</p>
+<p>
+# GC options
+<br/>
+GC_FILE_SUFFIX='-gc.log'
+<br/>
+GC_LOG_FILE_NAME=''
+<br/>
+if [ "x$GC_LOG_ENABLED" = "xtrue" ]; then
+<br/>
+GC_LOG_FILE_NAME=$DAEMON_NAME$GC_FILE_SUFFIX
+</p>
+<p>
+# The first segment of the version number, which is '1' for releases before Java 9
+<br/>
+# it then becomes '9', '10', ...
+<br/>
+# Some examples of the first line of `java --version`:
+<br/>
+# 8 -&gt; java version "1.8.0_152"
+<br/>
+# 9.0.4 -&gt; java version "9.0.4"
+<br/>
+# 10 -&gt; java version "10" 2018-03-20
+<br/>
+# 10.0.1 -&gt; java version "10.0.1" 2018-04-17
+<br/>
+# We need to match to the end of the line to prevent sed from printing the characters that do not match
+<br/>
+JAVA_MAJOR_VERSION=$($JAVA -version 2&gt;&amp;1 | sed -E -n 's/.* version "([0-9]*).*$/\1/p')
+<br/>
+if [[ "$JAVA_MAJOR_VERSION" -ge "9" ]] ; then
+<br/>
+KAFKA_GC_LOG_OPTS="-Xlog:gc*:file=$LOG_DIR/$GC_LOG_FILE_NAME:time,tags:filecount=10,filesize=102400"
+<br/>
+else
+<br/>
+KAFKA_GC_LOG_OPTS="-Xloggc:$LOG_DIR/$GC_LOG_FILE_NAME -verbose:gc -XX:+PrintGCDetails -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -XX:+UseGCLogFileRotation -XX:NumberOfGCLogFiles=10 -XX:GCLogFileSize=100M"
+<br/>
+fi
+<br/>
+fi
+</p>
+<p>
+# Remove a possible colon prefix from the classpath (happens at lines like `CLASSPATH="$CLASSPATH:$file"` when CLASSPATH is blank)
+<br/>
+# Syntax used on the right side is native Bash string manipulation; for more details see
+<br/>
+# http://tldp.org/LDP/abs/html/string-manipulation.html, specifically the section titled "Substring Removal"
+<br/>
+CLASSPATH=${CLASSPATH#:}
+</p>
+<p>
+# If Cygwin is detected, classpath is converted to Windows format.
+<br/>
+(( CYGWIN )) &amp;&amp; CLASSPATH=$(cygpath --path --mixed "${CLASSPATH}")
+</p>
+<p>
+# Launch mode
+<br/>
+if [ "x$DAEMON_MODE" = "xtrue" ]; then
+<br/>
+nohup $JAVA $KAFKA_HEAP_OPTS $KAFKA_JVM_PERFORMANCE_OPTS $KAFKA_GC_LOG_OPTS $KAFKA_JMX_OPTS $KAFKA_LOG4J_OPTS -cp $CLASSPATH $KAFKA_OPTS "$@" &gt; "$CONSOLE_OUTPUT_FILE" 2&gt;&amp;1 &lt; /dev/null &amp;
+<br/>
+else
+<br/>
+exec $JAVA $KAFKA_HEAP_OPTS $KAFKA_JVM_PERFORMANCE_OPTS $KAFKA_GC_LOG_OPTS $KAFKA_JMX_OPTS $KAFKA_LOG4J_OPTS -cp $CLASSPATH $KAFKA_OPTS "$@"
+<br/>
+fi</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Là, par contre, ça devient touffu. Et j'ai l'impression que le packaging n'a pas forcément été la première préoccupation au moment de la construction de kafka-connect. D'ailleurs, je viens de découvrir que je peux simplifier mon option de debug, puisqu'il semble suffire de définir la variable d'environnement <code>KAFKA_DEBUG</code> pour activer le debugger Java.
+</p>
+<p>
+Et avec tout ça, le code Java de kafka-connect est enfin lancé !
+</p>
+++++

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mouse Guard
+:jbake-tags: serie
+:jbake-date: 2013-06-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Mouse_Guard.adoc
+:jbake-source: https://www.goodreads.com/series/67194
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070695737.html[Légendes de la Garde #2: Hiver 1152]

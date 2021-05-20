@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: pemistahl/lingua-rs: 👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike
+:jbake-tags: rust,langue,détection,open-source,library,_mois_déc.,_année_2020
+:jbake-date: 2020-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1606981495000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fpemistahl%2Flingua-rs&searchtags=rust+langue+d%C3%A9tection+open-source+library+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/pemistahl/lingua-rs[pemistahl/lingua-rs: 👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike]
+
+La détection de langue, c'est un sujet ... pénible. En Java, ça peut se faire avec Tika (http://tika.apache.org/1.5/detection.html\#Language\_Detection) et en Rust, ça peut maintenant se faire avec lingua

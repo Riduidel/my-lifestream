@@ -1,0 +1,459 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les furets sont au chtijug !
+:jbake-tags: chtijug,concepts,continuous_deployment,git,java,_mois_juil.,_année_2016
+:jbake-date: 2016-07-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/07/01/les-furets-sont-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/07/01/les-furets-sont-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class="paragraph data-line-1">
+</p>
+<p>
+Tout ce qui est présenté est disponible sur <a href="https://github.com/lesfurets">GitHub</a>, avec d’autres choses …
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Donc, les furets font de l’assurance. Et ils ont fait d’abord différents sites au look … discutable.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+En terme de code, actuellement, il y a 450K lignes de code, et un déploiement en prod par jour. Ca change pas mal des clients avec un déploiement par semestre …
+</p>
+<p>
+</div>
+<br/>
+<h1 id="truedomainmodel_stream" class="sect0">DomainModel.stream()</h1>
+<br/>
+<div class="paragraph data-line-10">
+<br/>
+http://fr.slideshare.net/gdigugli/softshake-2015-domainmodelstream
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-12">
+<br/>
+<h2 id="truea_quoi_a_sert">A quoi ça sert</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-14">
+</p>
+<p>
+La classe Person, chez eux, est … grosse, et riche d’héritage. Normal pour un projet qui a 7 ans. Et évidement, ce modèle circule dans l’entreprise, du client Javascript à la base backoffice qui reprend les données sous des formats différents.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-16">
+</p>
+<p>
+Evidement, comme c’est compliqué, ils ont cherché à simplifier tout ça, en utilisant globalement des domaines orientés colonne :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-18">
+<br/>
+<ul>
+<br/>
+<li>clé/valeur dans le client</li>
+<br/>
+<li>modèle colonnes dans Cassandra</li>
+<br/>
+<li>Vecteurs de données dans la base analytics</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-22">
+</p>
+<p>
+Du coup, utiliser un dictionnaire de clé partout devrait simplifier les choses.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Pour la suite, on va travailler sur un modèle simplifié.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-26">
+</p>
+<p>
+Premier souci : comment ça se passe quand on a des relations 1-n ? A priori, "ca marche" … personnellement, je n’y crois pas trop, mais admettons.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Il y a aussi le souci des champs accessibles par plusieurs chemin, qui cette fois-ci sont dupliqués dans les données disponibles.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Et passons tout de suite au livecoding.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-32">
+<br/>
+<h2 id="truemanipulation_simple_du_mod_le">Manipulation simple du modèle</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-35">
+</p>
+<p>
+Donc, on a d’un côté notre modèle objet traditionnel, et de l’autre, grâce à un wrapper généré par l’outil des furets. Dans ce wrapper orienté clé/valeur, écrire des données se fait avec un simple
+</p>
+<p>
+</div>
+<br/>
+<div class="literalblock data-line-37">
+<br/>
+<div class="content">
+<br/>
+<pre>SampleModelWrapper.set(FieldId, value)</pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+lire des données se fait simplement avec un
+</p>
+<p>
+</div>
+<br/>
+<div class="literalblock data-line-41">
+<br/>
+<div class="content">
+<br/>
+<pre>SampleModelWrapper.get(FieldId)</pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-43">
+</p>
+<p>
+Et en terme d’implémentation, ça se fait facilement en générant des lambdas (évidement, avant Java8, ça aurait marché tout aussi bien avec des classes internes, mais bon, les lambdas sont à la mode). Et, en plus, l’inférence de type semble assez faible, puisque le type contenu dans le <code>FieldId</code> ne suffit pas à contraindre suffisament le type de sortie.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-45">
+<br/>
+<h2 id="truemanipulation_avec_des_streams">Manipulation avec des streams</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+Donc évidement, faire <code>SampleModelWrapper#stream()</code> retourne toutes les valeurs du modèle. Et on peut transformer les valeurs en map en traversant le même stream. Pratique, mais pas exceptionnel. Même si le speaker n’est pas de cet avis. Et en un sens, je le comprend, puisque le mapping est traditionnellement un problème compliqué : regardez Jackson/JAXB et autres qui galèrent pour bien faire les mêmes choses.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-50">
+</p>
+<p>
+Petit bonus : on peut filtrer les éléments du wrapper selon différents tags, qui sont définis librement dans le wrapper. De cette manière, par exemple, on peut séparer les données du User et de l’Account du modèle d’exemple. Evidement, ça peut aussi servir à affiner l’accès à certaines interfaces selon les droits des utilisateurs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+A noter que le site des furets a environ 1000 clés dans les différents enums défnissant les modèles utilisés.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-54">
+<br/>
+<h2 id="trueintrospection">Introspection</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-57">
+</p>
+<p>
+Typiquement, quand on veut mettre les données dans une base Cassandra ou autre, il faut d’abord créer les colonnes typées associées, pour lesquelles on va naviguer le modèle, et pour chaque élément du modèle, on va créer une colonne dont le type sera obtenu grâce au <code>FieldInfo</code> correspondant à chaque champ.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-59">
+</p>
+<p>
+Evidement, pour moi, il est assez curieux de voir des gens réinventer des notions analogues aux <code>BeanInfo</code> / <code>PropertyDescriptor</code> disponible dans le vieux monde des JavaBeans. Mais dans l’ensemble, ça fait le job assez (peut-être trop, en fait) simplement. Trop simplement, parce que par exemple, les annotations portées par le modèle initial ne sont pas transportées à travers le wrapper.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-61">
+<br/>
+<h2 id="trueconclusion_partielle">Conclusion partielle</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-63">
+</p>
+<p>
+Je comprend tout à fait l’intérêt de mapper un modèle de beans vers des séries de colonnes. En revanche, l’implémentation, certes joliment Java8, manque quand même de certains aspects clés : la gestion des collections fait vraiment peur, l’introspection est fichtrement limitée.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-65">
+</p>
+<p>
+Cela dit, ça doit clairement bien limiter la complexité de la sérialisation, de la création d’interface graphique, ou même de persistence (non relationnelle, évidement, parce que sinon, c’est évidement merdique).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-67">
+</p>
+<p>
+Il y a en fait là-dedans une idée très intéressante qui a sans doute un rapport certain avec le NoSQL. je m'explique. Lorsqu'on codait il y a dix/quinze ans avec une base de données relationnelle, avoir du code proprement décomposé était une bonne idée. Maintenant que la plupart des outils de stockage sont dénormalisés, à typage faible, bref, merdiques en terme de support des liens sémantiques, avoir un modèle riche est presque une gêne. Et c'est dans ce cadre que ce système de wrapper de modèle présente un intérêt.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="truecontinuous_delivery" class="sect0">Continuous delivery</h1>
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+Bon, si vous ne savez pas ce qu’est le continous delivery, c’est assez simple : c’est l’idée de pouvoir envoyer du code en prod au plus tôt. Et actuellement, les furets font plusieurs mises en prod par jour.
+</p>
+<p>
+http://fr.slideshare.net/beastiefurets/devoxx-france-2015-git-octopus
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-74">
+<br/>
+<h2 id="truehistorique">Historique</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-77">
+</p>
+<p>
+D’une façon amusante, en 2012, ils faisaient une MEP par mois, parce que leurs sprints SCRUM duraient un mois. Les tests étaient joués en fin de sprint et pouvaient entraîner des retards de MEP du fait de tests à corriger. Pas très pratique …
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-79">
+</p>
+<p>
+En 2013, ils ont tenté d’accélérer les choses avec des sprints "bonus" d’une semaine. Le premier impact est que le temps de build est passé de 15 mn à 3 mn.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-81">
+</p>
+<p>
+En 2014/15, passage à Kanban avec une release chaque jour : les fonctionnalités sont marquées finies dans Kanban quand elles sont en prod. L’impact, évidement, c’est que la release est passée d’une journée entière à 2/3 heures. L’autre impact, c’est que les tests ont <strong>tous</strong> été automatisés. Histoire de se rassurer, les fonctionnalités passent quand même dans un environnement de staging pendant une journée pour vérifier que tout va bien.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-83">
+</p>
+<p>
+Pour le futur, l’objectif est de livrer encore plus vite : les fonctionnalités devraient apparaître presque une par une en prod.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-85">
+</p>
+<p>
+Curieusement, les MEP apportent toujours autant de code, voire même plus, parce qu’il y a beaucoup plus de fonctionnalités dedans.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-87">
+<br/>
+<h2 id="truequelques_aspects_techniques">Quelques aspects techniques</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-90">
+</p>
+<p>
+En-dehors des classiques environnements, il y a quelques points notables.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-92">
+</p>
+<p>
+Les tests sont joués en parallèle sur un grid selenium, qui tourne sur une machine avec un RAMFS (128 Go de RAM chez OVH pour 300 €/mois).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-94">
+</p>
+<p>
+Ils développé <a href="https://github.com/lesfurets/zeno-pixel">Zeno </a>qui va sur une URL pour faire une capture d'écran. Et qui fait la différence entre la prod et la préprod. De cette façon, on peut vérifier que les différences visibles sont bien liées aux fonctionnalités développées (et pas à des bugs, par exemple). Cet outil pourrait par exemple être utilisé pour faire de la veille concurrentielle.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-96">
+</p>
+<p>
+Evidement, le développement se fait en mode blue/green. Avec un double cluster.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-98">
+<br/>
+<h2 id="truecontinuous_delivery_en_d_tail">Continuous delivery en détail</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-101">
+</p>
+<p>
+Il y a en gros 3 modèles de développement
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-103">
+<br/>
+<ul>
+<br/>
+<li>trunk based : tout ce qui est dans le trunk part en prod. Ca implique le feature flipping qui est du code en trop.</li>
+<br/>
+<li>feature branching : tout les dévs sont fait dans des branches, qui sont réintégrées dans le trunk au moment de la MEP. Ca pose évidement des problèmes d’intégration continue.</li>
+<br/>
+<li>Et pour finir, le modèle github où le code est développé dans des branches, et réintégré dans le trunk via des pull requests, qui passeront dans l’intégration continue.</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-107">
+</p>
+<p>
+La grande astuce des furets pour simplifier tout ça est de tester les merge rapidement. Grâce à ce qu’ils appellent le continuous merge : lorsqu’un développeur a fini un développement, il est poussé sur un repository qui contient toutes les nouvelles features branches, et qui tente de les merger et de déployer le code sur l’environnement de staging.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-109">
+<br/>
+<h2 id="truegit_octopus">git octopus</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-112">
+</p>
+<p>
+Chez eux, les branches en cours de dev s’appellent <code>studies/</code> et celles qui sont finies s’appellent <code>features/</code>. Pour merger tout ça, ils ont un script appelé <a href="http://github.com/lesfurets/git-octopus">git octopus </a>disponible sur github. Le truc magique, c’est qu’il peut détecter les conflits entre les branches à merger avant le merge final.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-114">
+</p>
+<p>
+Pour résoudre les problèmes qui arrivent … ben là, essentiellement, c’est du git-fu (<em><a href="https://riduidel.wordpress.com/2016/06/14/je-deteste-encore-git/">et vous savez ce que j’en pense</a></em>). En fait, c’est pas vrai : tout ce qui est dit est également valable avec Subversion … et j’ai bien l’impression que c’est ce que gigomerge (mince, j'aurais bien mis le lien, mais je ne le retrouve plus) permet d’une certaine façon.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-117">
+</p>
+<p>
+Pour faciliter la gestion des conflits, ils ont également créé un outil de gestion des conflits … qui en fait se contente de créer un workflow d’escalade des exceptions.
+<br/>
+<h1>Conclusion</h1>
+<br/>
+Deux présentations très intéressantes, faites par des gens qui se soucient manifestement beaucoup de ce qu'ils livrent, et de la façon dont ils le livrent. Il y a là-dedans des choses vraiment très intéressantes (git octopus, conceptuellement, est très bien, et cette histoire de repository définissant le niveau de maturité d'une feature est également très chouette) D'autres sont en revanche plus discutable (la résolution de conflit me paraît plus de l'ordre de l'astuce que de la solution vraiment propre).
+</p>
+<p>
+Mais surtout, ce qui apparaît, c'est que, contrairement à bien des boîtes, ils ont l'ambition de se voir comme une boîte de développement logiciel, ce qui implique de produire de la qualité et de la visibilité. C'est sans doute ce qui leur permet de recruter des pointures, puisque nos deux intervenants paraissaient particulièrement compétents.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

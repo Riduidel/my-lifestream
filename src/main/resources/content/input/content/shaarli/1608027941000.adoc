@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) – Games from Within
+:jbake-tags: programming,oop,concepts,design,_mois_déc.,_année_2020
+:jbake-date: 2020-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1608027941000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgamesfromwithin.com%2Fdata-oriented-design&searchtags=programming+oop+concepts+design+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://gamesfromwithin.com/data-oriented-design[Data-Oriented Design (Or Why You Might Be Shooting Yourself in The Foot With OOP) – Games from Within]
+
+Je n'ai pas lu l'article, mais à priori il explique, peut-être brillament, pourquoi la programmation orientée objet n'est pas adaptée au développement de jeu vidéo ...

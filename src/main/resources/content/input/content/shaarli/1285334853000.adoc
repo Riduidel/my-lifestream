@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Spring Project
+:jbake-tags: software,freeware,windows,macosx,linux,@totest,jeu,rts,_mois_sept.,_année_2010
+:jbake-date: 2010-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1285334853000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fspringrts.com%2F&searchtags=software+freeware+windows+macosx+linux+%40totest+jeu+rts+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://springrts.com/[The Spring Project]
+
+Un moteur de RTS avec quelques jeux construits en l'utilisant. sans doute aussi bien que Warzone (faut espérer)

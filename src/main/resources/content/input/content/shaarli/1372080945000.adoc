@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keytool IUI
+:jbake-tags: java,sécurité,software,keystore,open-source,_mois_juin,_année_2013
+:jbake-date: 2013-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1372080945000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcode.google.com%2Fp%2Fkeytool-iui%2F&searchtags=java+s%C3%A9curit%C3%A9+software+keystore+open-source+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://code.google.com/p/keytool-iui/[Keytool IUI]
+
+La meilleure façon de travailler sur ces bon sang de keystore quand on n'y connait pas assez (comme moi par exemple).

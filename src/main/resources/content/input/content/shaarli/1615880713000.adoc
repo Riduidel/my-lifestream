@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Variety (cybernetics) - Wikipedia
+:jbake-tags: loi,organisation,system,métaphore,_mois_mars,_année_2021
+:jbake-date: 2021-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1615880713000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FVariety_%28cybernetics%29%23Law_of_requisite_variety&searchtags=loi+organisation+system+m%C3%A9taphore+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://en.wikipedia.org/wiki/Variety_(cybernetics)#Law_of_requisite_variety[Variety (cybernetics) - Wikipedia]
+
+J'ai vu citer cette loi à propos de la supervision d'un système quelconque (plutôt que cybernétique), et effectivement, ça a du sens.

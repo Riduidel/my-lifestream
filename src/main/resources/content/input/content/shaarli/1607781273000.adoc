@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mvnd: Maven's Speed Daemon, A Conversation with Peter Palaga and Guillaume Nodet
+:jbake-tags: maven,optimisation,build,java,_mois_déc.,_année_2020
+:jbake-date: 2020-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1607781273000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2020%2F12%2Fmvnd-mavens-speed-daemon%2F&searchtags=maven+optimisation+build+java+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.infoq.com/news/2020/12/mvnd-mavens-speed-daemon/[mvnd: Maven's Speed Daemon, A Conversation with Peter Palaga and Guillaume Nodet]
+
+Ca faisait des années que ce composant manquait à l'arsenal de maven. Et les résultats obtenus par mvnd sont spectaculaires : le build d'un module de Camel passe par exemple de 5 s à 0.23 s (c'est pas mal du tout)

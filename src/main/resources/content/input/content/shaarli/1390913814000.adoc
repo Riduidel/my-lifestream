@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pico - A stupidly simple, blazing fast, flat file CMS.
+:jbake-tags: web,lifestream,publishing,markdown,_mois_janv.,_année_2014
+:jbake-date: 2014-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1390913814000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpico.dev7studios.com%2F&searchtags=web+lifestream+publishing+markdown+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://pico.dev7studios.com/[Pico - A stupidly simple, blazing fast, flat file CMS.]
+
+Tiens, ça pourrait être une autre façon de publier le lifestream : je génère les fichiers Markdown et je les envoie là-dedans. Quoique j'ai déja suffisament travaillé sur jBake pour ne pas vouloir tout balancer ... via http://sebsauvage.net/links/?DcPR0Q

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lawrence Gripper on Twitter: "#VSCode Marketplace is down so if your trying to install an extension and it doesn't work - don't do what I did an waste 30mins downgrading/upgrading/tinkering with @code"
+:jbake-tags: vscode,microsoft,server,crash,_mois_sept.,_année_2018
+:jbake-date: 2018-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1536077238000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flawrencegripper%2Fstatus%2F1036923168034889728&searchtags=vscode+microsoft+server+crash+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/lawrencegripper/status/1036923168034889728[Lawrence Gripper on Twitter: "#VSCode Marketplace is down so if your trying to install an extension and it doesn't work - don't do what I did an waste 30mins downgrading/upgrading/tinkering with @code"]
+
+Formidable ! Le soir où je me lance dans l'utilisation de snippets pour le livecoding ...

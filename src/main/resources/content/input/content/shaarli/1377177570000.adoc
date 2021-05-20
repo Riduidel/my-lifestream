@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eddys' Run
+:jbake-tags: jeu,online,flash,_mois_août,_année_2013
+:jbake-date: 2013-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1377177570000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.eddysrun.com%2F&searchtags=jeu+online+flash+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.eddysrun.com/[Eddys' Run]
+
+Edward Snowden dans un jeu Flash ?! L'idée est bonne et le "take action" final très bien.

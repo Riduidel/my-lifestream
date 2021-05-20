@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martha Wells
+:jbake-tags: author
+:jbake-date: 2011-05-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/87305.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1397566224p5/87305.jpg
+:jbake-source: https://www.goodreads.com/author/show/87305
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782841721825.html[La mort du nécromant]

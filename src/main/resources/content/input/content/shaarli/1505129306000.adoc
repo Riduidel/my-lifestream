@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Use Stream API simpler (or don’t use it at all) – Tagir Valeev – Medium
+:jbake-tags: java,programming,stream,_mois_sept.,_année_2017
+:jbake-date: 2017-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1505129306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40tagir_valeev%2Fuse-stream-api-simpler-or-dont-use-it-at-all-ea0a44a4b1ff&searchtags=java+programming+stream+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.com/@tagir_valeev/use-stream-api-simpler-or-dont-use-it-at-all-ea0a44a4b1ff[Use Stream API simpler (or don’t use it at all) – Tagir Valeev – Medium]
+
+Un bon paquet d'antipatterns de streams Java 8

@@ -1,0 +1,53 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une étincelle au chtijug
+:jbake-tags: big-data,chtijug,java,scala,_mois_janv.,_année_2015
+:jbake-date: 2015-01-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/01/22/une-etincelle-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/01/22/une-etincelle-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+Et c'est reparti pour un tour, cette fois-ci sur du Big Data, je crois ...
+</p>
+<p>
+J'avais entendu parler de <a href="https://spark.apache.org/">Spark </a>dans <a href="http://lescastcodeurs.com/2014/12/22/lcc-115-interview-de-sam-bessalah-sur-la-data-science-hadoop-et-mesos/">l'interview de Sam Bessalah chez les castcodeurs</a>, et <a href="https://twitter.com/doanduyhai">Duy Hai Doan</a> est venu préciser les idées.
+</p>
+<p>
+Et Duy Hai a été sympa pour rendre les slides disponibles sur le web
+</p>
+<p>
+[slideshare id=43782004&#38;doc=introductiontospark-150122080431-conversion-gate02]
+</p>
+<p>
+Ainsi que sa présentation pour Spark avec Cassandra
+</p>
+<p>
+[slideshare id=43782025&#38;doc=cassandrasparkconnector-new-150122080510-conversion-gate02]
+</p>
+<p>
+En nous expliquant d'abord que Spark est bien plus concis que Hadoop (en partie parce qu'en Scala), et bien plus rapide (parce que stockant ses données en mémoire, plutôt que sur disque, comme Hadoop). En bonus, Spark traite les données en graphe (d'ailleurs, de façon amusante, <a href="https://github.com/tinkerpop/blueprints/wiki">Blueprints </a>n'est pas listée dans les API de graphe Big Data), en SQL, ou via des flux.
+</p>
+<p>
+Cool, non ?
+<br/>
+Petit détour par les <a href="https://spark.apache.org/docs/latest/programming-guide.html#resilient-distributed-datasets-rdds">RDD</a>, qui reprennent, conceptuellement, ce que toute personne ayant implémenté un processeur de requête comprendra : il n'interprète les requêtes qu'au dernier moment. Par exemple, un filter suivi par un groupBy ne sera évalué que si, à la fin, l'utilisateur du RDD tente de récupérer, d'une façon ou d'une autre, les données sur son poste. D'une façon intéressante, certaines <a href="https://spark.apache.org/docs/latest/programming-guide.html#transformations">opérations </a>vont redistribuer les données sur le réseau (typiquement, un groupBy) à cause de notions compliquées de "hashcode" de données. D'ailleurs, curieusement, on ne distingue pas les opérateurs impliquant un brassage (groupBy) des autres, ni d'ailleurs des actions démarrant le processus. Et personnellement, je trouve ça moche pour une raison bien simple : le développeur peut (et va) écrire du code inefficace, simplement parce qu'il ne saura pas comment distinguer le code efficace du code inefficace.
+<br/>
+On passe ensuite aux API.
+</p>
+<p>
+Spark supporte le SQL, le streaming, et le mapping d'objets. Pas mal ... Sauf bien sûr qu'il y a toujours ces histoires de redistributions de données temporaires, que je vois come le vrai défaut de Spark. Je m'explique ...
+</p>
+<p>
+Comme les opérations brassant les données peuvent les envoyer n'importe où, si on en écrit "par accident", on risque de passer d'un code très rapide (parce qu'en mémoire) par un code très lent (parce que sur le réseau). Et Spark ne fournit aucun moyen de distinguer les deux, malheureusement.
+</p>
+<p>
+Et ça empire si on utilise Cassandra comme couche de stockage, à cause de la nature multi-datacenter de l'outil, qui va certes permettre de survivre à des accidents nucléaires, au prix de coûts de transferts de données.
+</p>
+<p>
+Pour troller, Spark, c'est bien, pour faire du SQL distribué.
+</p>
+++++

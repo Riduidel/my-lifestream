@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ChoiceFormat (Java Platform SE 8 )
+:jbake-tags: java,programming,i18n,_mois_mars,_année_2019
+:jbake-date: 2019-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1552482216000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.oracle.com%2Fjavase%2F8%2Fdocs%2Fapi%2Fjava%2Ftext%2FChoiceFormat.html&searchtags=java+programming+i18n+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://docs.oracle.com/javase/8/docs/api/java/text/ChoiceFormat.html[ChoiceFormat (Java Platform SE 8 )]
+
+Je découvre seulement maintenant cette classe. C'est vraiment chouette pour l'i18n !

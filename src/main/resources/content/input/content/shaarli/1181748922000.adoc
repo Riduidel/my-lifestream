@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: In pursuit of code quality: Performance testing with JUnitPerf
+:jbake-tags: java,développement,test,profiling,performance,_mois_juin,_année_2007
+:jbake-date: 2007-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1181748922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Fjava%2Flibrary%2Fj-cq11296.html&searchtags=java+d%C3%A9veloppement+test+profiling+performance+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.ibm.com/developerworks/java/library/j-cq11296.html[In pursuit of code quality: Performance testing with JUnitPerf]
+
+Comment instrumenter des tests jUnit pour obtenir des indoces de performances unitaires.

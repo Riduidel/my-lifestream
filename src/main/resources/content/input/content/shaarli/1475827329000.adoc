@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: zsoltika/feeds: Collection of Dash docset feeds
+:jbake-tags: software,freeware,documentation,_mois_oct.,_année_2016
+:jbake-date: 2016-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1475827329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fzsoltika%2Ffeeds&searchtags=software+freeware+documentation+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/zsoltika/feeds[zsoltika/feeds: Collection of Dash docset feeds]
+
+Je n'ai plus qu'à retrouver le clone open-source de Zeal, et ce sera la fête

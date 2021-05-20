@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebAssembly: un état des lieux
+:jbake-tags: wasm,présentation,javascript,rust,_mois_févr.,_année_2019
+:jbake-date: 2019-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1550044888000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpreview.talks.m4dz.net%2Fa-state-of-webassembly%2Ffr%2F%23%2F&searchtags=wasm+pr%C3%A9sentation+javascript+rust+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://preview.talks.m4dz.net/a-state-of-webassembly/fr/#/[WebAssembly: un état des lieux]
+
+La présentation de m4dz sur WebAssembly est pas mal du tout, je vais essayer de l'attraper sur Youtube

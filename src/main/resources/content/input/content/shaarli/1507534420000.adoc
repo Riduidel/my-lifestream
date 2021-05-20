@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 6 Steps to help you debug your application - JDriven
+:jbake-tags: debug,programming,_mois_oct.,_année_2017
+:jbake-date: 2017-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1507534420000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.jdriven.com%2F2017%2F10%2F6-steps-to-help-you-debug-your-application%2F&searchtags=debug+programming+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.jdriven.com/2017/10/6-steps-to-help-you-debug-your-application/[6 Steps to help you debug your application - JDriven]
+
+Ca ressemble à un truc que je voulais préparer pour une conférence, mais j'aurais beaucoup plus détaillé les aspects non informatiques

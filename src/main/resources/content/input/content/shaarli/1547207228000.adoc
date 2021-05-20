@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hubert SABLONNIÈRE 😎 on Twitter: "😢 Aaron Swartz died 6 years ago ♥ We all need to remember who he was and what he did for us! 🎬 Watch the documentary The Internet own's Boy if you haven't seen it yet https://t.co/HceKgWmDqr https://t.co/CuMiUeovY6"
+:jbake-tags: mémoire,web,rss,histoire,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547207228000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhsablonniere%2Fstatus%2F1083671548807049216&searchtags=m%C3%A9moire+web+rss+histoire+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/hsablonniere/status/1083671548807049216[Hubert SABLONNIÈRE 😎 on Twitter: "😢 Aaron Swartz died 6 years ago ♥ We all need to remember who he was and what he did for us! 🎬 Watch the documentary The Internet own's Boy if you haven't seen it yet https://t.co/HceKgWmDqr https://t.co/CuMiUeovY6"]
+
+C'est aussi pour ça que je ne veux pas me débarrasser de rss2imap : même si du code Python pas très propre, c'est à la base son code.

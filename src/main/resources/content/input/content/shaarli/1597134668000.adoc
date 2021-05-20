@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 12 Organisational Design Principles that Embrace Complexity
+:jbake-tags: entreprise,organisation,principe,_mois_août,_année_2020
+:jbake-date: 2020-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1597134668000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tobysinclair.com%2Fpost%2Forganisational-design-principles-that-embrace-complexity&searchtags=entreprise+organisation+principe+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.tobysinclair.com/post/organisational-design-principles-that-embrace-complexity[12 Organisational Design Principles that Embrace Complexity]
+
+J'ai l'impression de lire le 12-factor apps, mais pour les entreprises, c'est marrant (et vraiment intéressant)

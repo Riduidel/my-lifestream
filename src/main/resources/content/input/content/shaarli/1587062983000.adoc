@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: woltapp/blurhash: A very compact representation of a placeholder for an image.
+:jbake-tags: image,javascript,initialisation,web,library,_mois_avr.,_année_2020
+:jbake-date: 2020-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1587062983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fwoltapp%2Fblurhash&searchtags=image+javascript+initialisation+web+library+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/woltapp/blurhash[woltapp/blurhash: A very compact representation of a placeholder for an image.]
+
+C'est chouette comme idée !

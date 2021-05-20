@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DIY iSync™ Phone Plugin
+:jbake-tags: bluetooth,english,guide,macosx,mobile,plugin,reference,software,tool,synchronisation,_mois_déc.,_année_2007
+:jbake-date: 2007-12-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1198595577000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fen.isync-hilfe.de%2F&searchtags=bluetooth+english+guide+macosx+mobile+plugin+reference+software+tool+synchronisation+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://en.isync-hilfe.de/[DIY iSync™ Phone Plugin]
+
+Un petit tutorial pour faire marcher n'importe quel téléphone avec iSync. Ca pourrait s'avérer plus que pratique le jour où j'aurais un téléphone.

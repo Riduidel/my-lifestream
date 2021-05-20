@@ -1,0 +1,145 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ré-réinstaller fonz_fun_plug
+:jbake-tags: dns-323,_mois_janv.,_année_2015
+:jbake-date: 2015-01-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/01/10/re-reinstaller-fonz_fun_plug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/01/10/re-reinstaller-fonz_fun_plug/
+:jbake-style: wordpress
+
+++++
+<p>
+Parce que j'ai rebooté mon NAS, et depuis, j'ai perdu
+<br/>
+<ul>
+<br/>
+<li>l'accès SSH</li>
+<br/>
+<li>Lighttpd</li>
+<br/>
+<li>minidlna</li>
+<br/>
+</ul>
+<br/>
+Heureusement, je peux toujours y accéder en "vrai" FTP et consulter le ffp.log qui me dit des choses aussi absconses que
+<br/>
+<pre>* /ffp/start/uwcron.sh ...
+<br/>
+wc: can't resolve symbol 'posix_fadvise64'
+<br/>
+</pre>
+<br/>
+ou
+<br/>
+<pre>* /ffp/start/sshd.sh ...
+</p>
+<p>
+/ffp/bin/ssh-keygen: symbol '_res': can't resolve symbol
+</p>
+<p>
+/ffp/bin/ssh-keygen: symbol '__stack_chk_guard': can't resolve symbol
+<br/>
+tr: can't resolve symbol 'posix_fadvise64'
+<br/>
+Starting /ffp/sbin/sshd
+</p>
+<p>
+/ffp/sbin/sshd: symbol '__stack_chk_guard': can't resolve symbol
+<br/>
+* /ffp/start/rsyncd.sh inactive
+<br/>
+</pre>
+<br/>
+Préferrant la brutalité à la subtilité, je vais donc réinstaller fonz_fun_plug 0.7. Heureusement que j'ai <a title="Réinstaller fonz_fun_plug" href="http://riduidel.wordpress.com/2013/03/25/reinstaller-fonz_fun_plug/">déja détaillé les étapes</a>.
+</p>
+<p>
+Donc allons-y ...
+</p>
+<p>
+(je démarre à 11H00)
+</p>
+<p>
+Au passage, je lis dans mon article de référence
+<br/>
+<blockquote>You may select to upgrade system package by packages from other repositories, but it may bring some system instability. Do it at your own risk ...</blockquote>
+<br/>
+Ouais, ben j'aurais dû le mettre dans une espèce de welocme message ...
+</p>
+<p>
+(et à 11H22, ffp est réinstallé, et je redémarre pour vérifier que les modifs fonctionnent - et oui, ça marche).
+</p>
+<p>
+Par contre, dans la partie
+<br/>
+<blockquote>Installer ensuite toutes les libs de minidlna, puis <a href="http://sourceforge.net/projects/minidlna/">minidlna</a></blockquote>
+<br/>
+Bêtement, je n'ai pas noté la liste des "libs de minidlna" ... heureusement, une rapide recherche sur "kylek minidlna" me donne <a href="http://forum.nas-central.org/viewtopic.php?f=249&#38;t=5643">cette liste</a> :
+<br/>
+<ul>
+<br/>
+<li>libjpeg-8c (system)</li>
+<br/>
+<li>flac (kylek)</li>
+<br/>
+<li>ogg (kylek)</li>
+<br/>
+<li>vorbis (kylek)</li>
+<br/>
+<li>libid3tag-0.15.1b (kylek)</li>
+<br/>
+<li>sqlite-3.7.9 (system)</li>
+<br/>
+<li>libexif-0.6.2 (system)</li>
+<br/>
+</ul>
+<br/>
+Et ça ira !
+</p>
+<p>
+Avec ça, minidlna redémarre correctement.
+</p>
+<p>
+J'ai en revanche un petit souçi avec lighttpd ... mais je vais arranger ça rapidement ...
+</p>
+<p>
+Donc, si après le démarrage de lighttpd, je ne vois rien dans mon navigateur internet, je dois aller jeter un oeil dans <code>/mnt/HD_b2/www/logs/error.log</code> pour y trouver des erreurs comme par exemple
+<br/>
+<pre>2015-01-10 18:36:22: (mod_fastcgi.c.1103) the fastcgi-backend /ffp/bin/php-cgi failed to start:
+<br/>
+2015-01-10 18:36:22: (mod_fastcgi.c.1107) child exited with status 16 /ffp/bin/php-cgi
+<br/>
+2015-01-10 18:36:22: (mod_fastcgi.c.1110) If you're trying to run your app as a FastCGI backend, make sure you're using the FastCGI-enabled version.
+<br/>
+If this is PHP on Gentoo, add 'fastcgi' to the USE flags.
+<br/>
+2015-01-10 18:36:22: (mod_fastcgi.c.1397) [ERROR]: spawning fcgi failed.
+<br/>
+</pre>
+<br/>
+Et donc, je n'ai pas dû installer la bonne version de PHP ...
+</p>
+<p>
+Bon, en fait, c'est pas ça : quand je tape <code>php -v</code>, j'obtiens ça
+<br/>
+<pre>php: can't load library 'libcurl.so.4'
+<br/>
+</pre>
+<br/>
+Normal, puisque curl n'est pas installé.
+</p>
+<p>
+Donc il <strong>faut</strong> installer curl avant de tenter d'utiliser du php !
+</p>
+<p>
+J'ai donc maintenant un lighttpd+php qui marche à peu près (suffisament en tout cas pour jtartQage). En revanche, pour krissfeed ou Shaarli, j'ai toujours des erreurs
+<br/>
+<blockquote><b>Fatal error</b>: Call to undefined function gzinflate() in <b>/mnt/HD_b2/www/pages/Shaarli/index.php</b> on line <b>773</b></blockquote>
+<br/>
+Qui sont liées, d'après internet à ... des problèmes curieux de zlib (que j'ai pourtant installée).
+</p>
+<p>
+Bon, en fait non, c'est juste parce qu'<strong>il ne faut pas oublier de copier le php.ini qui est sauvegardé sur GitHub !</strong>
+</p>
+++++

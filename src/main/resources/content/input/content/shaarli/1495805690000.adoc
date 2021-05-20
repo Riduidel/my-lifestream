@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""Users do not care about what is inside the box, as long as the box does what they need done." - Jef Raskin"
+:jbake-tags: citation,programming,interface,_mois_mai,_année_2017
+:jbake-date: 2017-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1495805690000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F867425422753050625&searchtags=citation+programming+interface+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/867425422753050625[Programming Wisdom on Twitter: ""Users do not care about what is inside the box, as long as the box does what they need done." - Jef Raskin"]
+
+Ca me rappelle ma femme

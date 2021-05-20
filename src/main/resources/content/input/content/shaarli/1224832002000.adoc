@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bloodmasters
+:jbake-tags: freeware,windows,jeu,fps,open-source,_mois_oct.,_année_2008
+:jbake-date: 2008-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1224832002000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bloodmasters.com%2Findex.php&searchtags=freeware+windows+jeu+fps+open-source+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.bloodmasters.com/index.php[Bloodmasters]
+
+Un petit jeu de baston Open-source pour Windows. Si c'est aussi bien que Soldat, je prend !

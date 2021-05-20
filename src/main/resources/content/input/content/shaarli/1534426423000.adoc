@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ramitsurana/awesome-kubernetes: A curated list for awesome kubernetes sources
+:jbake-tags: kubernetes,_mois_août,_année_2018
+:jbake-date: 2018-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1534426423000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Framitsurana%2Fawesome-kubernetes&searchtags=kubernetes+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/ramitsurana/awesome-kubernetes[ramitsurana/awesome-kubernetes: A curated list for awesome kubernetes sources]
+
+A garder sous le coude : même si le monde Kubernetes bouge rapidement, c'est une page qui a vocation à rester intéressante

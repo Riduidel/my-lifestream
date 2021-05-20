@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Postgres-XL: A Scalable, Open Source SQL Database Cluster
+:jbake-tags: software,database,open-source,clustering,_mois_juin,_année_2014
+:jbake-date: 2014-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1403766294000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FUtzEUi6xX38%2Fpostgres-xl-scalable-open&searchtags=software+database+open-source+clustering+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/UtzEUi6xX38/postgres-xl-scalable-open[Postgres-XL: A Scalable, Open Source SQL Database Cluster]
+
+Intéressant ... Si je devais me lancer aujourd'hui dans l'étude d'une base relationnelle, ce serait clairement Postgres ... Alors avec cette histoire de clustering, ilmaginez comme je suis tenté.

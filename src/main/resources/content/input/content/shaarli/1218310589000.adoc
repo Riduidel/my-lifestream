@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XBMC //
+:jbake-tags: open-source,software,windows,linux,macosx,multimedia,mediacenter,_mois_août,_année_2008
+:jbake-date: 2008-08-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1218310589000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxbmc.org%2F&searchtags=open-source+software+windows+linux+macosx+multimedia+mediacenter+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://xbmc.org/[XBMC //]
+
+un mediacenter pour tout un tas de plateformes ...et permettant la lecture depuis un serveur UPnP

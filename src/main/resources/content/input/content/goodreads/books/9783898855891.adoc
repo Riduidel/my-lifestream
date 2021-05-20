@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blade Of The Immortal 5
+:jbake-tags:  fantasy, japon, rayon-bd,_année_2000,_mois_janv.,_note_1,broc,read
+:jbake-date: 2000-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9783898855891.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1063065
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/180389.html[Hiroaki Samura]
+
+## Series
+* link:../series/Blade_of_the_Immortal___.html[Blade of the Immortal / 無限の住人]
+
+## Review
+
+++++
+
+++++

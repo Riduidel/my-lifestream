@@ -1,0 +1,60 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [maven] Un chemin de personnalisation
+:jbake-tags: build,groovy,maven,_mois_mars,_année_2020
+:jbake-date: 2020-03-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/03/25/maven-un-chemin-de-personnalisation.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/03/25/maven-un-chemin-de-personnalisation/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Je parlais du fait que Maven soit pénible à personnaliser. C'est vrai. Mais ça ne veut pas dire qu'il est impossible à personnaliser. Comment faire donc pour plier le build à vos besoins ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Trouver un plugin existant</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D'abord, si vous voulez faire quelque chose d'exotique, il peut exister un plugin préexistant accomplissant déja à peu près ce que vous voulez. J'écris à peu près très volontairement parce que,d 'expérience, le plugin fait rarement pile-poil ce que vous voulez. Du coup, plutôt que d'utiliser un plugin, vous en utilisez tout de suite deux ou trois, et c'est bien pénible (et c'est tant mieux).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais quand même, essayez d'abord de réutiliser un plugin existant, parce que la suite est ... un peu moins agréable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Ecrire un script</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pendant longtemps, c'était ma deuxième étape : si je ne trouvais vraiment pas de plugin faisant ce que je souhaite, je mettais <a href="https://github.com/groovy/GMavenPlus">gmaven-plus</a> dans mon build, et j'écrivais dans mon dossier <code>src/build/groovy</code> le script nécessaire. Ca marche très bien. Et en plus, on peut définir le <code>CLASSPATH</code> du script dans Maven (en plus d'utiliser le génial <code>@Grab</code>). Et on a accès aux propriétés du POM, ce qui rend la configuration très simple.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cette deuxième étape, je l'ai changée récement. J'ai remplacé gmaven-plus qui est un peu fastidieux à configurer. Et en plus, je 'lai remplacé par quelque chose de plus simple. Maintenant, ce que je fais, c'est simplement utiliser <a href="https://www.mojohaus.org/exec-maven-plugin/">exec-maven-plugin</a> et mettre mon code dans un dossier <code>src/[mon-action]/java</code> (que j'ajoute aux sources avec le toujours pratique <a href="https://www.mojohaus.org/build-helper-maven-plugin">build-helper-maven-plugin</a>). Ca pose un problème assez marrant : les dépendances de cette extension de build se retrouvent dans les dépendances de l'application, ce qui peut faire gonfler la taille de l'exécutable final.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, comme c'est pénible, ça me pousse dans le bon sens, qui est de mettre ce code dans un autre module Maven, avec un autre jeu de dépendances.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Ecrire un plugin</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Et une fois que j'en suis là, si je me rends compte que ce bout de code est susceptible d'être réutilisé dans plusieurs poms différents, je peux transformer cette classe Java/Groovy en authentique <a href="https://maven.apache.org/guides/plugin/guide-java-plugin-development.html">plugin Maven</a>. Mais je ne le fais pas trop vite, parce que souvent, quand on écrit un vrai plugin, on tombe sur deux-trois galères ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Comme vous le voyez, il y a plusieurs façons détendre Maven. Ca n'est pas vraiment agréable, parce que dans Maven, tout est fastidieux. Mais c'est plus supportable quand on se souvient que si l'expérience utilisateur de Maven est pénible, c'est pour aider le vrai utilisateur du build à le faire marcher longtemps.</p>
+<!-- /wp:paragraph -->
+++++

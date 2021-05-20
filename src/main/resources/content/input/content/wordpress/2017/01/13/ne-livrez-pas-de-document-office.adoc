@@ -1,0 +1,69 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ne livrez pas de document Office !
+:jbake-tags: asciidoc,documentation,_mois_janv.,_année_2017
+:jbake-date: 2017-01-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/01/13/ne-livrez-pas-de-document-office.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/01/13/ne-livrez-pas-de-document-office/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous travaillez sur un grand projet ... ou un moyen.
+</p>
+<p>
+Et par exemple, on vous demande de livrer de la doc sur le code, l'architecture. ou des éléments de volumétrie. Et là vous vous dites "je livre un Excel !" ou "Je livre un Word !". Par pitié, ne le faites pas.
+</p>
+<p>
+Pas parce que c'est moche, lourd, et peu conforme à vos valeurs éthiques de partage.
+</p>
+<p>
+Mais plutôt parce que les fichiers Office ne sont pas compatibles avec un processus de développement, ou plutôt d'écriture ?
+</p>
+<p>
+Parce qu'après tout, votre document a bien un cycle d'écriture, non ? Vous avez bien, sous une forme ou une autre, les étapes suivantes
+<br/>
+<ul>
+<br/>
+<li>Ecriture</li>
+<br/>
+<li>Relecture</li>
+<br/>
+<li>Livraison</li>
+<br/>
+<li>Passage à la version suivante</li>
+<br/>
+</ul>
+<br/>
+Si ça vous rappelle le cycle de vie d'artefacts de développement, ça n'est pas un hasard, c'est la même chose.
+</p>
+<p>
+Et d'un point de vue format, comment faire ?
+</p>
+<p>
+D'abord, si votre livrable ne bouge plus, c'est que ça n'est pas le même format que celui dans lequel vous écrivez. Typiquement, quand vous livrez un PDF, par exemple, vous ne pouvez pas vraiment le modifier (mis à part hacks visibles).
+</p>
+<p>
+Ensuite, dans l'idéal, vous cherchez un format qui vous permette de répondre aux critiques habituelles d'Office :
+<br/>
+<ul>
+<br/>
+<li>Pas de travail collaboratif possible</li>
+<br/>
+<li>Pas de merge</li>
+<br/>
+<li>Un outillage de composition de document assez faible</li>
+<br/>
+</ul>
+<br/>
+Autrement dit, vous cherchez un format source qui soit vraiment ça : un fichier source que vous pouvez gérer dans votre SCM, sur lequel vous pouvez faire des merge, et enfin que vous pouvez composer (ou compiler) dans votre chaîne de build. Eh bien, ce format existe. En fait, il y en a plusieurs, mais un seul qui marche : <a href="http://asciidoctor.org/docs/what-is-asciidoc/">Asciidoc</a>.
+</p>
+<p>
+De nos jours, avec Asciidoctor, vous pouvez compiler votre doc via maven, et la gérer dans votre SCM (je le fais déja). Vous pouvez par ailleurs créer de gros documents en assemblant plusieurs fragments (voir leur fameux tag <code>include</code>). Et, comme vous créez votre doc avec maven, elle est packagée et livrée comme le reste de votre application.
+</p>
+<p>
+Alors, pourquoi vous continuez à utiliser Office ? Parce que vos utilisateurs le demandent ? En vrai, je ne crois pas que ce soit une bonne raison.
+</p>
+++++

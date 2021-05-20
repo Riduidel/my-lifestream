@@ -1,0 +1,74 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Rideau !
+:jbake-tags: devoxx,mavie,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-rideau.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-rideau/
+:jbake-style: wordpress
+
+++++
+<p>
+Devoxx est fini, et je suis dans le train.
+<br/>
+<h3>Ce que j'en retire conceptuellement</h3>
+<br/>
+<h4>Globalement</h4>
+<br/>
+En montant dans le train, j'ai croisé l'un des GO du chtijug qui n'a pas eu la chance de venir à Devoxx, qui m'a demandé quels étaient mes trois talks préférés. Sans hésiter, j'ai répondu "la troisième matinée de keynotes sur l'impact social du développeur". Et, vraiment, je le pense. Ces quatre talks m'ont, chacun à leur façon, soigneusement mis en face de mes contradictions, et des contradictions de mon métier face au monde actuel. Ca me fait bien comprendre certains engagements citoyens que je vois émerger. Et clairement, ma vision du monde est changée. Ca, c'est ce qu'on pourrait appeler un point de vue stratégique.
+<br/>
+<h4>Localement</h4>
+<br/>
+D'un point de vue plus tactique, pour filer la métaphore, j'ai vu un très chouette talk d'<a href="https://riduidel.wordpress.com/2016/04/21/devoxxfr-modular-monoliths/">architecture de Simon Brown</a> qui m'a enfin permis de comprendre un point clé sur l'opposition monolithe/micro-services. Je vous explique : d'habitude, on les oppose soigneusement, comme si il n'y avait pas d'intermédiaire. Or, Simon démontre dans sa présentation que l'opposition est idiote, et qu'il existe un continuum entre les deux, ce continuum reposant sur une espèce de curseur d'isolation des composants : si votre application est un plat de spaghettis, vous êtes évidement dans la merde pour passer aux micro-services. Mais, si vous l'organisez proprement, est-ce que vous êtes sûrs que vous aurez besoin des micro-services ? Est-ce que vous ne pourrez pas développer des composants d'un niveau d'isolation équivalent sans passer par le plat de spaghetti réseau des micro-services ? L'organisation en composants étant, évidement, très proche de la vision de <a href="https://riduidel.wordpress.com/2016/04/21/devoxxfr-ddd/">DDD</a> proposée par Cyril Martraire dans son talk-surprise. Et cette vision d'une application correcte va évidement faciliter pas seulement le développement, mais aussi l'exploitation et la sécurisation. Un tout bien propre sur lui, donc.
+</p>
+<p>
+Et dans ce tout, comment vient s'intégrer la blockchain ? Parce que bon, je me suis tapé en tout au moins 4 heures sur le sujet. Eh bien, je dirais que c'est le chaînon manquant. Je vous explique ... Actuellement, les applications que nous écrivons sont opaques, et aussi dignes de confiance que, par exemple, le fameux système de paye des militaires qui ne marche pas. En effet, l'exécution du code se passe dans un silo bien protégé, quand bien même votre code n'a pas grande chose de plus confidentiel que, disons, un hébergement de blogs, un hosting d'applications façon clever cloud, ou autres. Avec la blockchain, et en particulier avec ethereum/embark, l'exécution de votre code devient une chose publique (inarrêtable, mais c'est un autre sujet), aussi bien dans son exécution que dans ses résultats.
+</p>
+<p>
+Par exemple, si le calcul de vos impôts était rendu public, qu'est-ce qu'il se passerait ? D'abord, instantanément, votre situation fiscale (donc financière), deviendrait publique. Vous imaginez le choc dans notre pays de l'argent tabou ? Si on met ce point révolutionnairement épineux de côté, vous auriez aussi la garantie de la justesse de son exécution, parce que cette exécution serait reproductible, et reproduite sur tous les noeuds du réseau l'hébergeant. En bonus, cette information serait infalsifiable. D'autres informations pourraient également bénéficier de ces propriétés de façon moins polémique. Par exemple, à mon sens, la prochaine machine à voter infalsifiable et légalement correcte s'appuiera sur une blockchain (ça posera juste le problème de la disponibilité des votes avant la fin du scrutin, mais j'ai à dire vrai de plus en plus de mal à comprendre le sens de ce secret).
+<br/>
+<h3>Ce que j'en retire humainement</h3>
+<br/>
+Il y a un côté un peu ... déstabilisant ... à se retrouver d'un coup plongé au milieu de plusieurs milliers de développeurs parlant <b>tous</b> de Java, d'exception, de déploiement, de l'impact du ClassLoader sur les performances, de frameworks plus ou moins connus, et de toutes ces choses sur lesquelles j'ai quelques connaissances, mais finalement beaucoup moins que ce dont je peux avoir l'impression hors de cette fête. Mais une fois que ce sentiment est dépassé, il ne reste que le plaisir.
+</p>
+<p>
+Ou plutôt les plaisirs.
+</p>
+<p>
+Il y a d'abord le plaisir évidement d'entendre des gens intelligents détailler avec talent des idées qui font rêver.
+</p>
+<p>
+Il y a ensuite le plaisir humain de pouvoir avoir des discussions intéressantes, intelligentes avec tout un tas de personnes : Clément, Julien, tous les castcodeurs (et en particulier une discussion vraiment chouete avec Vincent Massol sur XWiki, mon usage, son avenir).
+</p>
+<p>
+Et, même sans forcément leur parler, le plaisir de voir les orgas réussir un bon sang de truc génial, avec une banane incroyable malgré la charge évidente de faire tenir cet édifice sur leurs épaules. J'ai croisé cinq ou six fois Nicolas Martignole, à chaque fois j'ai été de lui lancer un "welcome to the jungle", mais il courrait tellement dans tous les sens qu'il n'aurait probablement rien entendu.
+</p>
+<p>
+Bon, évidement, tout n'est pas parfait : un talk franchement moins bon (de mon point de vue), deux sessions annulées (mais une remplacée avec talent), un village des exposants qui m'a franchement laissé froid (à part les stands Zenika &#38; Murex - longuement squattés Jeudi soir - et la bière Sonar - abondamment bue le même soir). Et puis surtout, le pire : la terrasse du palais des congrès fermée malgré un temps qui, franchement, s'y prêtait.
+</p>
+<p>
+Ouais, Nicolas Martignole écrira sans doute un bel article la semaine prochaine sur le blues des orgas, mais je ressens, moi, malgré le retour à la maison, le blues du spectateur qui retourne à son vieux projet après avoir vu, et eu, des idées géniales. Enfin, géniales, à mon niveau :
+<br/>
+<ul>
+<br/>
+<li>Implémenter browserWatch dans Wisdom framework - après avoir vu <a href="https://riduidel.wordpress.com/2016/04/20/devoxxfr-boucles-de-feedback-du-developpeur/">les boucles de feedback pour développeurs</a></li>
+<br/>
+<li>Ecrire une application de nomic sur la blockchain (dans un ethereum de test pour commencer) - ça impliquera des programmes auto-modifiables</li>
+<br/>
+<li>Ajouter une sortie graphml/archi au plugin maven de structurizer</li>
+<br/>
+<li>Peut-être commencer à faire des prez publiques, genre au chtijug, justement sur Wisdom pour commencer, avant de tenter un "développeur à 40 ans, so what ?"</li>
+<br/>
+<li>Trouver un moyen de manger un jour avec autour de la table quelques personnes à Lille qui <b>devraient</b> se rencontrer</li>
+<br/>
+<li>Me créer un autre job ? Devenir politicien-développeur ?</li>
+<br/>
+<li>Et surtout, surtout, commencer à militer dès Lundi pour revenir à Devoxx du 5 au 7 avril 2017 ... et avec quelques collègues de plus.</li>
+<br/>
+</ul>
+<br/>
+Et, si jamais certains membres de l'organisation tombent sur ce post, merci à eux pour tout (sauf pour la selfie durant la keynote, ça, c'était too much :-)).
+</p>
+++++

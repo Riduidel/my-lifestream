@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Smokin' Guns :: Home
+:jbake-tags: software,freeware,windows,linux,jeu,3d,fps,open-source,_mois_févr.,_année_2009
+:jbake-date: 2009-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1233665617000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.smokin-guns.net%2F&searchtags=software+freeware+windows+linux+jeu+3d+fps+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.smokin-guns.net/[Smokin' Guns :: Home]
+
+Une conversion complète de Quake3, qui me rappelle évidement bien sûr outlaws, ce fameux jeu d'il y a bien longtemps.

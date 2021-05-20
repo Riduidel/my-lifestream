@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je change le NAS !
+:jbake-tags: nas,qnap,raspberrypi,_mois_sept.,_année_2018
+:jbake-date: 2018-09-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/09/13/je-change-le-nas.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/09/13/je-change-le-nas/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme trop souvent ces dernières années, <a href="https://riduidel.wordpress.com/2009/02/09/ca-y-est/">mon vieux NAS</a> a mangé un disque dur. C'est-à-dire qu'après un redémarrage, l'un des deux disques n'était plus reconnu.
+</p>
+<p>
+Cette fois-ci, plutôt que de simplement racheter un disque SATA-3 chez ldlc, j'ai pris une décision coûteuse, mais rétrospectivement intéressante : j'ai acheté un nouveau NAS. En l'occurence un <a href="https://www.qnap.com/fr-fr/product/ts-231">QNAP TS-231+</a>. Sur le papier, c'est la même chose. Sauf que 9 ans, ça fait une sacrée différence en termes de processeur, d'interface, de fonctionnalités. Pour ne donner qu'un exemple, j'ai maintenant une belle interface web qui me permet d'installer un beau paquet d'applications, et en particulier Plex, qui me fournit un serveur UPnP vraiment très bien penssé et très riche en fonctionnalités. J'ai aussi un backup USB en one-button. J'ai encore d'autres fonctionnalités très chouettes que je verrai comment exploiter ... plus tard.
+</p>
+<p>
+Bon, au passage, j'ai aussi eu la acrte micro-SD de mon Raspberry qui a refusé de rebooter. Du coup, j'ai également mis à jour l'os du raspberry pour une version plus moderne de Raspbian. Et je suis en train de réfléchir (à moyen terme) à mettre en place une installation automatique via Ansible ... A cause d'un collègue trop malin ...
+</p>
+<p>
+Bref, la panne a été réparée, j'ai appris des choses intéressantes, et mon informatique domestique fonctionne à nouveau correctement.
+</p>
+++++

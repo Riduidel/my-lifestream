@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: freelan - an open-source, multi-platform, peer-to-peer VPN software
+:jbake-tags: software,freeware,open-source,windows,linux,réseau,vpn,_mois_oct.,_année_2013
+:jbake-date: 2013-10-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1380722275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freelan.org%2F&searchtags=software+freeware+open-source+windows+linux+r%C3%A9seau+vpn+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.freelan.org/[freelan - an open-source, multi-platform, peer-to-peer VPN software]
+
+Si jamais il existe une version pour mon NAS, ce serait sans doute un très bon moyen de monter un réseau familial à travers internet ... via http://sebsauvage.net/links/?kfffeA

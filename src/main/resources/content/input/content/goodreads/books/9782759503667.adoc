@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz/26
+:jbake-tags:  combat, monstre,_année_2014,_mois_juin,rayon-bd,read
+:jbake-date: 2014-06-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782759503667.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327750750l/9269463._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327750750l/9269463._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/9269463
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Gantz, #26.
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+* link:../authors/2741859.html[Laurent Latrille]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+
+++++

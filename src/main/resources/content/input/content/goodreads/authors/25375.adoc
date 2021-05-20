@@ -1,0 +1,24 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Peter F. Hamilton
+:jbake-tags: author
+:jbake-date: 2006-02-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/25375.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1235123752p5/25375.jpg
+:jbake-source: https://www.goodreads.com/author/show/25375
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253111160.html[Dragon déchu]
+* link:../books/9782266111195.html[Rupture dans le réel II - Émergence]
+* link:../books/9782266111201.html[Rupture dans le réel III - Expansion]
+* link:../books/9782266119481.html[L'Alchimiste du neutronium I - Consolidation]
+* link:../books/9782266123006.html[L'Alchimiste du neutronium II - Conflit]
+* link:../books/9782266130257.html[Rupture dans le réel I - Genèse]
+* link:../books/9782266133579.html[Le Dieu nu I - Résistance]
+* link:../books/9782266136150.html[Le Dieu nu II - Révélation]
+* link:../books/9782811200077.html[Pandore abusée (L'Étoile de Pandore #1)]
+* link:../books/9782811200367.html[Pandore menacée (L'Étoile de Pandore #2)]
+* link:../books/9782811201111.html[Judas déchaîné (L'Étoile de Pandore #3)]
+* link:../books/9782811201609.html[Judas démasqué (L'Étoile de Pandore #4)]

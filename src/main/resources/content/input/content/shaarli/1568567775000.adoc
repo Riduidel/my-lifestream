@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Command line interface for WordPress | WP-CLI
+:jbake-tags: wordpress,command-line,export,lifestream,_mois_sept.,_année_2019
+:jbake-date: 2019-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1568567775000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwp-cli.org%2F&searchtags=wordpress+command-line+export+lifestream+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://wp-cli.org/[Command line interface for WordPress | WP-CLI]
+
+Il va falloir que je regarde ça pour un projet qui va très vite avancer

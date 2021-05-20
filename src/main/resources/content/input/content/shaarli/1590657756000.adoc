@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - gregsramblings/google-cloud-4-words: The Google Cloud Developer's Cheat Sheet
+:jbake-tags: google,produit,catalog,résumé,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590657756000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgregsramblings%2Fgoogle-cloud-4-words%2F&searchtags=google+produit+catalog+r%C3%A9sum%C3%A9+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/gregsramblings/google-cloud-4-words/[GitHub - gregsramblings/google-cloud-4-words: The Google Cloud Developer's Cheat Sheet]
+
+Tous les produits Google expliqués en 4 mots, dans un flyer qui tient dans la poche.

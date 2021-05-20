@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ethereum Frontier
+:jbake-tags: programming,web,nomic,_mois_déc.,_année_2015
+:jbake-date: 2015-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1449679542000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ethereum.org%2F&searchtags=programming+web+nomic+_mois_d%C3%A9c.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://www.ethereum.org/[Ethereum Frontier]
+
+Djizouss ! Avec ça, la démocratie décentralisée semble possible. Une seule solution : tester le concept avec un peu de nomic, évidement !

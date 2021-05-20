@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gunnar Morling 🇪🇺 on Twitter: "While not the current main use case, yesterday's announcement of @QuarkusIO puts #Java IMO into the game for building small, fast-starting CLI tools, too. Think of creating tools like these in the language so many know, wired with #CDI, producing native binaries. Exciting times!… https://t.co/oH08mNFtP6"
+:jbake-tags: quarkus,idée,programming,java,_mois_mars,_année_2019
+:jbake-date: 2019-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1552250379000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgunnarmorling%2Fstatus%2F1104094359014785025&searchtags=quarkus+id%C3%A9e+programming+java+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gunnarmorling/status/1104094359014785025[Gunnar Morling 🇪🇺 on Twitter: "While not the current main use case, yesterday's announcement of @QuarkusIO puts #Java IMO into the game for building small, fast-starting CLI tools, too. Think of creating tools like these in the language so many know, wired with #CDI, producing native binaries. Exciting times!… https://t.co/oH08mNFtP6"]
+
+Oh ouais, Quarkus pour les outils en ligne de commande, ça paraît chouette !

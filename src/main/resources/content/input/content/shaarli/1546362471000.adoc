@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: QADAPT - debug_assert! for your memory usage - speice.io
+:jbake-tags: rust,programming,test,mémoire,_mois_janv.,_année_2019
+:jbake-date: 2019-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1546362471000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeice.io%2F2018%2F12%2Fallocation-safety.html&searchtags=rust+programming+test+m%C3%A9moire+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://speice.io/2018/12/allocation-safety.html[QADAPT - debug_assert! for your memory usage - speice.io]
+
+Wow, pour faire du Rust vraiment optimisé, il faut contrôler les allocations. Et pour contrôler les allocations, cet outil m'a l'air parfaitement approprié.

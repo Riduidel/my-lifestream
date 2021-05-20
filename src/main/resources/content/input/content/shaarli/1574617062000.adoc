@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ritwickdey/vscode-live-server: Launch a development local Server with live reload feature for static & dynamic pages.
+:jbake-tags: vscode,plugin,reload,http,_mois_nov.,_année_2019
+:jbake-date: 2019-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1574617062000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fritwickdey%2Fvscode-live-server&searchtags=vscode+plugin+reload+http+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/ritwickdey/vscode-live-server[ritwickdey/vscode-live-server: Launch a development local Server with live reload feature for static & dynamic pages.]
+
+Ah, c'était le morceau qui me manquait pour avoir une édition de mes documents vraiment hyper-fluide ... (j'aurais préféré un plugin Maven, mais je n'en ai pas trouvé)

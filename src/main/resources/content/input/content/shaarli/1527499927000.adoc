@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les développeurs devraient abandonner les méthodes agiles selon Ron Jeffries, l'un des signataires du Manifeste Agile
+:jbake-tags: management,agile,_mois_mai,_année_2018
+:jbake-date: 2018-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1527499927000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.developpez.com%2Factu%2F204756%2FLes-developpeurs-devraient-abandonner-les-methodes-agiles-selon-Ron-Jeffries-l-un-des-signataires-du-Manifeste-Agile%2F&searchtags=management+agile+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.developpez.com/actu/204756/Les-developpeurs-devraient-abandonner-les-methodes-agiles-selon-Ron-Jeffries-l-un-des-signataires-du-Manifeste-Agile/[Les développeurs devraient abandonner les méthodes agiles selon Ron Jeffries, l'un des signataires du Manifeste Agile]
+
+Je trouve intéressant que l'un des créateurs de l'agile reconnaisse l'erreur de la méthode - qui n'en est une que dans les entreprises qui l'appliquent "faussement".

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marvel Ultimate Graphic Novels Collection: Publication Order
+:jbake-tags: serie
+:jbake-date: 2011-10-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Marvel_Ultimate_Graphic_Novels_Collection__Publication_Order.adoc
+:jbake-source: https://www.goodreads.com/series/71873
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780785123293.html[Wolverine]
+* link:../books/9782809420111.html[Wolverine, les origines]
+* link:../books/9780785123279.html[Wolverine: Weapon X]

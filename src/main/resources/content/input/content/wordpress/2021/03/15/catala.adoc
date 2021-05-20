@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Catala
+:jbake-tags: concept,dsl,langage,_mois_mars,_année_2021
+:jbake-date: 2021-03-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/03/15/catala.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/03/15/catala/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a quelques temps, j'ai découvert sur Twitter le langage de programmation Catala. Et j'avais été impressioné par l'idée de créer un DSL (mais quel DSL) pour encoder un domaine législatif et y utiliser les capacités de l'informatique théorique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et ce matin, j'ai enfin eu le temps de regarder la présentation qu'en a fait Denis Merigoux à Lambda Lille.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/www.youtube.com\/watch?v=vaXGgrUHtuk","type":"rich","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=vaXGgrUHtuk
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et je suis encore plus impressioné, et nourri d'idées originales (mais plus les mêmes qu'avant).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ma première idée, à la lecture du peu d'informations que j'avais cherché, avait été de tenter d'utiliser Catala comme support à une partie de <a href="https://riduidel.wordpress.com/tag/nomic/">nomic</a>. Mais, en regardant cette présentation, j'ai compris que l'objectif de Catala était avant tout d'alimenter un moteur de calcul à partir d'une description de la loi fondée sur une logique à exceptions, ce qu'illustre fort bien Denis dans sa présentation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et du coup, j'ai complètement changé de fusil d'épaule. Je me dis aujourd'hui qu'au-dela de fournir un moteur de calcul plus correct à la DGFIP, il est tout à fait possible de créer un "robot fiscaliste" proposant des optimisations d'impôts. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais une partie de moi se dit que ce serait éthiquement mal d'aider les gens à "optimiser" leurs impôts ... Sauf qu'en fait, la réalité n'est pas si simple, et il faut avoir une vision politique des choses, parce qu'aucune entreprise ne peut prétendre être apolitique. Pour le dire autrement, je pense sincèrement que le fait que le droit fiscal soit rempli d'exceptions plus ou moins curieuses est une forme de clientélisme qui mérite d'être exposée plus clairement (regardez par exemple cette liste de <a href="https://www.francetransactions.com/impots/top-25-des-niches-fiscales.html">niches fiscales</a>, certaines sont ... curieuses). Et comment mieux exposer ça qu'en traçant clairement, comme le permet Catala, une optimisation d'impôt au texte de lui la permettant ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je vais donc mettre cette idée à côté de Proust, dont je vous parlerai prochainement.</p>
+<!-- /wp:paragraph -->
+++++

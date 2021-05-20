@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java 8 modules, Jigsaw and OSGi - Neil Bartlett
+:jbake-tags: java,osgi,jigsaw,programming,_mois_mai,_année_2016
+:jbake-date: 2016-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1464262952000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.slideshare.net%2Fmfrancis%2Fjava-8-modules-jigsaw-and-osgi-neil-bartlett&searchtags=java+osgi+jigsaw+programming+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://fr.slideshare.net/mfrancis/java-8-modules-jigsaw-and-osgi-neil-bartlett[Java 8 modules, Jigsaw and OSGi - Neil Bartlett]
+
+Intéressant, et un peu flippant

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Publishing GitHub event data with GitHub Actions and Pages - victoria.dev
+:jbake-tags: github,action,intégration,fichier,générateur,_mois_nov.,_année_2019
+:jbake-date: 2019-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1573141256000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvictoria.dev%2Fblog%2Fpublishing-github-event-data-with-github-actions-and-pages%2F&searchtags=github+action+int%C3%A9gration+fichier+g%C3%A9n%C3%A9rateur+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://victoria.dev/blog/publishing-github-event-data-with-github-actions-and-pages/[Publishing GitHub event data with GitHub Actions and Pages - victoria.dev]
+
+Une façon sacrément astucieuse d'utiliser GitHub Actions pour gérer des commentaires dans un site statique.

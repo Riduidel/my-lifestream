@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: REVERT TO CONSOLE › Gaelyk Chat Bot, Step By Step
+:jbake-tags: tutorial,documentation,gaelyk,jabber,@toread,_mois_sept.,_année_2010
+:jbake-date: 2010-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1285598867000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.reverttoconsole.com%2Fblog%2Fgroovy%2Fgaelyk-chat-bot-step-by-step%2F&searchtags=tutorial+documentation+gaelyk+jabber+%40toread+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.reverttoconsole.com/blog/groovy/gaelyk-chat-bot-step-by-step/[REVERT TO CONSOLE › Gaelyk Chat Bot, Step By Step]
+
+Un tutoriel pour utiliser XMPP avec gaelyk ... Oui, je sais très bien à quoi ça pourrait me servir :-)

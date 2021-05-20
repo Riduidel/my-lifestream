@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2018
+:jbake-tags: web,javascript,roadmap,_mois_janv.,_année_2018
+:jbake-date: 2018-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1515398599000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fkamranahmedse%2Fdeveloper-roadmap&searchtags=web+javascript+roadmap+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/kamranahmedse/developer-roadmap[kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2018]
+
+Intéressant, même si le back-end ne mentionne ni Java, ni Go, ni Rust

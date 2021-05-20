@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xo/usql: Universal command-line interface for SQL databases
+:jbake-tags: command-line,postgres,mysql,oracle,client,_mois_mai,_année_2021
+:jbake-date: 2021-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1620636414000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fxo%2Fusql&searchtags=command-line+postgres+mysql+oracle+client+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/xo/usql[xo/usql: Universal command-line interface for SQL databases]
+
+Une ligne de commande d'accès à pas mal de bases de données relationnelles ou pas. Et même si la ligne de commande, j'aime généralement pas, c'est quand même cool dans un conteneur.

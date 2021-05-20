@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: arkOS
+:jbake-tags: dns-323,linux,os,web,interface,_mois_oct.,_année_2013
+:jbake-date: 2013-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1382090168000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farkos.io%2F&searchtags=dns-323+linux+os+web+interface+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://arkos.io/[arkOS]
+
+Un chouette ensemble d'éléments système+UI pour les raspeberry PI. C'est apparement portable sur d'autres Linux. J'aimerai bien savoir si c'est portable sur mon NAS ... (http://forum.dsmg600.info/viewtopic.php?pid=48305\#p48305)

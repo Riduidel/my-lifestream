@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Macintosh Performance Comparison: eMac G4, iBook G4, iMac G5, Mac Mini, PowerBook G4
+:jbake-tags: web,macosx,benchmark,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109926886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.macintouch.com%2Fperfpack%2Fcomparison.html&searchtags=web+macosx+benchmark+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.macintouch.com/perfpack/comparison.html[Macintosh Performance Comparison: eMac G4, iBook G4, iMac G5, Mac Mini, PowerBook G4]
+
+

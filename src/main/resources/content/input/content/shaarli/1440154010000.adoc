@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Real Life First Person Shooter (Chatroulette version) - YouTube
+:jbake-tags: vidéo,web,jeu,geek,_mois_août,_année_2015
+:jbake-date: 2015-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1440154010000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dp747PrxmZJ4%26feature%3Dyoutu.be&searchtags=vid%C3%A9o+web+jeu+geek+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=p747PrxmZJ4&feature=youtu.be[Real Life First Person Shooter (Chatroulette version) - YouTube]
+
+Mais alors ça c'est vraiment génial. Pas seulement dans la réalisation, mais aussi dans l'interaction avec les utilisateurs.

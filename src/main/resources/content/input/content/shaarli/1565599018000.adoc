@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume
+:jbake-tags: programming,generics,java,rust,go,_mois_août,_année_2019
+:jbake-date: 2019-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1565599018000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthume.ca%2F2019%2F07%2F14%2Fa-tour-of-metaprogramming-models-for-generics%2F&searchtags=programming+generics+java+rust+go+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/[Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume]
+
+Un article bien long et complet sur l'implémentation des types génériques dans tout un tas de langage.

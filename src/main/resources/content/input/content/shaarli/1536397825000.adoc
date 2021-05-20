@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cargo-make | Rust task runner and build tool.
+:jbake-tags: programming,rust,cargo,plugin,pipeline,_mois_sept.,_année_2018
+:jbake-date: 2018-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1536397825000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsagiegurari.github.io%2Fcargo-make%2F&searchtags=programming+rust+cargo+plugin+pipeline+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://sagiegurari.github.io/cargo-make/[cargo-make | Rust task runner and build tool.]
+
+Une bonne façon de faire des builds façon Maven avec cargo (qui malheureusement ne chaîne pas les différentes opérations - parce que cargo build test run, ça marche pas).

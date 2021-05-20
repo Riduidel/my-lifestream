@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alex Alice
+:jbake-tags: author
+:jbake-date: 2014-10-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/796134.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1313667512p5/796134.jpg
+:jbake-source: https://www.goodreads.com/author/show/796134
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782369810131.html[La Conquête de l'espace - Vol. 1 (Le Château des étoiles, #1)]
+* link:../books/9782369810148.html[La Conquête de l'espace - Vol. 2 (Le Château des étoiles, #2)]

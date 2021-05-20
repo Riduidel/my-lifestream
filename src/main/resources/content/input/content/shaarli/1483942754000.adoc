@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Color Supply
+:jbake-tags: couleur,palette,web,_mois_janv.,_année_2017
+:jbake-date: 2017-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1483942754000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcolorsupplyyy.com%2Fapp%2F&searchtags=couleur+palette+web+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://colorsupplyyy.com/app/[Color Supply]
+
+Un sélecteur de couleurs assez amusant

@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Karim Berrouka
+:jbake-tags: author
+:jbake-date: 2018-01-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2123540.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/2123540
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290149737.html[Le Club des punks contre l'apocalypse zombie]
+* link:../books/9782290150726.html[Fées, weed et guillotines : petite fantasie pleine d'urbanité]
+* link:../books/9782290172919.html[Celle qui n’avait pas peur de Cthulhu]
+* link:../books/9782376863212.html[Les ballons dirigeables rêvent-ils de poupées gonflables ?]

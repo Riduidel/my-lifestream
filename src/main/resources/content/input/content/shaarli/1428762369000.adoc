@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pimp your Continuous Delivery Pipeline with Jenkins workflow (W-JAX 1…
+:jbake-tags: devops,build,packaging,open-source,présentation,jenkins,_mois_avr.,_année_2015
+:jbake-date: 2015-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1428762369000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2Fcloudbees%2Fpimp-your-continuous-delivery-pipeline-with-jenkins-workflow-wjax-14&searchtags=devops+build+packaging+open-source+pr%C3%A9sentation+jenkins+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.slideshare.net/cloudbees/pimp-your-continuous-delivery-pipeline-with-jenkins-workflow-wjax-14[Pimp your Continuous Delivery Pipeline with Jenkins workflow (W-JAX 1…]
+
+Chouette présentation de la façon "moderne" de faire des workflows jenkins

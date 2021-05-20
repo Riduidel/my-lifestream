@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: If PHP Were British - Web Development in Brighton - Added Bytes
+:jbake-tags: programming,humour,php,_mois_oct.,_année_2016
+:jbake-date: 2016-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1477294447000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.addedbytes.com%2Fblog%2Fif-php-were-british%2F&searchtags=programming+humour+php+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.addedbytes.com/blog/if-php-were-british/[If PHP Were British - Web Development in Brighton - Added Bytes]
+
+Ca marche pour à peu près tous les langages basés sur le C (dont java, of course)

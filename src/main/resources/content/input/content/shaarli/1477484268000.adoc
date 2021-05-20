@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Functor Fact on Twitter: "I/O is not some fringe use case. It’s why we write programs."
+:jbake-tags: citation,programming,functionnal,_mois_oct.,_année_2016
+:jbake-date: 2016-10-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1477484268000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FFunctorFact%2Fstatus%2F790958668611260417&searchtags=citation+programming+functionnal+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/FunctorFact/status/790958668611260417[Functor Fact on Twitter: "I/O is not some fringe use case. It’s why we write programs."]
+
+Ou alors, c'est de la programmation artistique, respectable, mais pas très utile

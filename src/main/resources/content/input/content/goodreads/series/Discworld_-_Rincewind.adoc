@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld - Rincewind
+:jbake-tags: serie
+:jbake-date: 2001-10-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld_-_Rincewind.adoc
+:jbake-source: https://www.goodreads.com/series/109518
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266071567.html[La Huitième Couleur (Les annales du Disque-Monde, #1)]
+* link:../books/9782266071550.html[Le Huitième Sortilège (Les Annales du Disque-monde, #2)]
+* link:../books/9782266106993.html[Sourcellerie (Les Annales du Disque-Monde, #5)]
+* link:../books/9782266111324.html[Eric (Les Annales du Disque-monde, #9)]
+* link:../books/9782266148030.html[Les Tribulations d'un mage en Aurient]
+* link:../books/9782266174152.html[Le dernier continent]
+* link:../books/9782841722518.html[Le dernier Héros]
+* link:../books/9782266273442.html[Allez les mages !]

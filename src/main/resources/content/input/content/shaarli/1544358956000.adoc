@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andrew Clay Shafer 雷启理 on Twitter: "most people are creating unmitigated horrors with microservices in nearly exactly the same way and for nearly exactly the same reasons they created disasters with Object Oriented Programming, the previous software panacea"
+:jbake-tags: histoire,informatique,architecture,_mois_déc.,_année_2018
+:jbake-date: 2018-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1544358956000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flittleidea%2Fstatus%2F1071639106608713730&searchtags=histoire+informatique+architecture+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/littleidea/status/1071639106608713730[Andrew Clay Shafer 雷启理 on Twitter: "most people are creating unmitigated horrors with microservices in nearly exactly the same way and for nearly exactly the same reasons they created disasters with Object Oriented Programming, the previous software panacea"]
+
+Effectivement. Changer la silver bullet, sans changer les hommes qui s'en servent, ne conduit qu'à reproduire encore et encore les mêmes erreurs.

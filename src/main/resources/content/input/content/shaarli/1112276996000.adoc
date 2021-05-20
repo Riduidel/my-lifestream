@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Design Patterns
+:jbake-tags: programming,concepts,design,pattern,documentation,catalog,exemple,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112276996000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dofactory.com%2FPatterns%2FPatterns.aspx&searchtags=programming+concepts+design+pattern+documentation+catalog+exemple+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.dofactory.com/Patterns/Patterns.aspx[Design Patterns]
+
+Design patterns are recurring solutions to software design problems you find again and again in real-world application development. Design patterns are about design and interaction of objects, as well as providing a communication platform concerning elega

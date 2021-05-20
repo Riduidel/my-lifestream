@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 5 impressive Windows XP tricks
+:jbake-tags: software,windows,system,tips,_mois_avr.,_année_2005
+:jbake-date: 2005-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1112864482000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.microsoft.com%2Fathome%2Fmoredone%2F5xptricks.mspx&searchtags=software+windows+system+tips+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.microsoft.com/athome/moredone/5xptricks.mspx[5 impressive Windows XP tricks]
+
+You know that feeling you get when your friends or family see you do something on your computer that they've never seen before? If you haven't had this opportunity, here's where you start. If you have, then you know that you're feeling like the worl

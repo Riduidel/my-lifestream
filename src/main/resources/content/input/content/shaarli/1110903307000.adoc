@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iTerm
+:jbake-tags: software,freeware,open-source,macosx,system,terminal,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110903307000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fiterm.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+system+terminal+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://iterm.sourceforge.net/[iTerm]
+
+iTerm is a full featured terminal emulation program written for OS X using Cocoa. We are aiming at providing users with best command line experience under OS X. The letter i represents a native Apple look and feel of the program interface, and an emphasis

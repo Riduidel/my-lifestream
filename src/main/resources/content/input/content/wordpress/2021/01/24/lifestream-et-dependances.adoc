@@ -1,0 +1,139 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lifestream et dépendances
+:jbake-tags: blog,code,dépendances,lifestream,_mois_janv.,_année_2021
+:jbake-date: 2021-01-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/01/24/lifestream-et-dependances.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/01/24/lifestream-et-dependances/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a quelques temps, j'avais entamé un <a href="https://github.com/Riduidel/lifestream">projet de lifestream</a>, un outil qui me permettrait de rassembler <a href="http://nicolas.delsaux.free.fr/lifestream/">au même endroit</a> l'ensemble de mes écrits quelquesoit (ou à peu près) le support. Après quelques alternoiements, j'ai enfin une version qui marche, et j'en suis plutôt content (même si la synchronisation depuis ma machine vers les serveurs web de free.fr est encore un peu capricieuse). Je retiens de ce projet plusieurs choses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, un peu comme sur ma mission actuelle, faire les choses simplement, c'est mieux, surtout lorsque le mainteneur reprend le code après une pause de deux ou trois ans.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, certains choix de dépendances peuvent faire mal. Et c'est drôle parce que ça me rappelle cette discussion récente</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/riduidel\/status\/1346127824902647808","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 346 127 824 902 647 808" class="date">4 janv. 2021 à 17:14:17</a>
+
+	<span class="content">
+	
+	<span class="text">En pleine hésitation : est-ce qu'il faut que j'ajoute vavr comme dépendance juste pour pouvoir utiliser Either ? Ou est-ce qu'il vaut mieux que j'utilise une microlibrairie comme https://t.co/2nZ2bZk8vp ?</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>En effet, pendant longtemps pour mon lifestream, je n'utilisais volontairement que <a href="https://htmlunit.sourceforge.io/">HtmlUni</a>t comme client web. Et pour Shaarli, comme pour Goodreads, ça marchait très bien. En revanche, pour Wordpress.com, je n'ai jamais réussi à passer la <a href="https://wordpress.com/log-in/fr">page de login</a>. Elle a pourtant l'air simple, cette page, non ? Eh bien en fait, c'est une horreur sans nom qui ne fonctionne qu'avec le Javascript, et pire qu'avec "simplement" du Javascript, il vous faut le vrai environnement d'exécution d'un navigateur, et pas ce que propose HtmlUnit. De ce fait, j'ai dû changer mon fusil d'épaule et remplacer le modeste HtmlUnit par la lourdeur de <a href="https://www.selenium.dev/">Selenium </a>(qui pilote dans ce cas Firefox). Et on voit revenir le débat que ma question avait levé, dans une version différente.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que clairement, personne ne se voit coder en une journée un client web. En revanche, en choisir un qui colle bien à mes besoins est assez facile (même si en l'espèce passer à Selenium implique que la "machine" qui fait tourner mon lifestream doit  disposer d'un vrai navigateur, ce qui est une sacrée contrainte). Alors comment je peux faire le lien entre ce gros bloc fonctionnel et la petite dépendance que peut être la définition d'un composant de programmation fonctionnelle comme <code>Either</code> ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que c'est bien ce que me reprochent Nicolas et Loïc, non ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/loicmathieu\/status\/1346132482496860163","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/loicmathieu" class="screenName"><img src="http://pbs.twimg.com/profile_images/1055114256247676928/wnb-1EtJ_mini.jpg" alt="profile of Software Architect, Java & JVM passionate, performance, #OSS contributor (mainly #Quarkus).
+Like to learn stuff and share what I learnt."/>loicmathieu</a>
+		<span class="name">Loïc Mathieu</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/loicmathieu/status/1 346 132 482 496 860 163" class="date">4 janv. 2021 à 17:32:48</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel Si tu as juste besoin d'une classe, écrit là au lieu d'importer une librairie avec toute la dette technique (et la complexité cognitive) que ça ajoute ...</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div><figcaption>Oui, c'est bien ce qu'ils me reprochent, ne pas coder Either moi-même</figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Eh bien dans ce cas, qui est en fait le même que celui du navigateur web, la vraie question est : est-ce que je veux entrer dans le détail de cette abstraction parce que je prétends la comprendre mieux que les développeurs initiaux ? Dans le cas précis d'Either, je pourrais utiliser la défense classique : pourquoi utilisez-vous le JDK plutôt que de tout recoder depuis objet ? Mais en vérité, ça n'est pas la bonne défense. La bonne défense, c'est que pour moi, Either (d'autant plus après la lecture d'un très bon article introductif sur les monades) est une des briques de base de la programmation fonctionnelle, et que je peux difficilement me permettre de recoder cette brique de base si je n'ai pas compris l'ensemble des détails afférents. Et clairement, je n'ai pas les connaissances suffisantes pour ce faire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et la vérité, c'est que pour moi, l'une des raisons fondamentales à l'usage de dépendances, c'est d'utiliser des abstractions sur étagères plutôt que de les recréer moi-même. J'en veux pour preuve un autre exemple, dans ce même projet de lifestream. Dans ce projet, j'utilise le très pratique <a href="http://commons.apache.org/proper/commons-vfs/">commons-vfs</a> pour lire et écrire dans les systèmes de fichiers (ça simplifie bien la vie). Et j'ai récemment ajouté la lecture des fichiers dans le zip fourni par l'export de Wordpress. Or l'implémentation standard de commons-vfs n'est pas capable de lister le contenu d'un zip. Mais, comme j'ai déjà beaucoup utilisé cette librairie, je connais bien cette limitation ... et j'ai même écrit une librairie complémentaire : <a href="https://github.com/Riduidel/commons-vfs-extensions/tree/master/commons-vfs-truezip">commons-vfs-truezip</a>. J'ai donc utilisé cette extension à cette librairie pour supporter mon cas d'utilisation, sans perdre les fonctionnalités que m'apporte commons-vfs. Et je crois que ça montre bien quelle est ma méthode : utiliser les dépendances qui ne correspondent pas au projet que je développe, même si j'ai moi-même créé ces dépendances, plutôt que de faire de mon code une solution à des tonnes de problèmes différents.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On verra ce que cette méthode donnera pour mon prochain "gros" projet ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/riduidel\/status\/1353017099589971971","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 353 017 099 589 971 971" class="date">23 janv. 2021 à 17:29:49</a>
+
+	<span class="content">
+	
+	<span class="text">A suivre : peut-être un plugin Keepass pour cliquer sur les espèces de claviers virtuels ridicules des sites web bancaires ... https://t.co/wxcdIAZoXK</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+++++

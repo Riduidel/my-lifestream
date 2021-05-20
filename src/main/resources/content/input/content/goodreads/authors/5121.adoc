@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bill Blackbeard
+:jbake-tags: author
+:jbake-date: 2013-12-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5121.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1497431685p5/5121.jpg
+:jbake-source: https://www.goodreads.com/author/show/5121
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9783822863008.html[Little Nemo: 1905-1914]

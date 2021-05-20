@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Natural Docs
+:jbake-tags: code,développement,open-source,perl,programming,software,documentation,générateur,_mois_juil.,_année_2006
+:jbake-date: 2006-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1152538446000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.naturaldocs.org%2F&searchtags=code+d%C3%A9veloppement+open-source+perl+programming+software+documentation+g%C3%A9n%C3%A9rateur+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.naturaldocs.org/[Natural Docs]
+
+un outil de documentation multi-langage. Ca doit sans doute pouvoir être très utile dans des projets web avec du java, du Javascript, des CSS, des JSPs, du XML, et autres ...

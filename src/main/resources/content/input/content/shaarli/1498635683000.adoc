@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discovering The Arcane World Of Esoteric Programming Languages - Federico Tomassetti - Software Architect
+:jbake-tags: informatique,programming,langage,_mois_juin,_année_2017
+:jbake-date: 2017-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1498635683000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftomassetti.me%2Fdiscovering-arcane-world-esoteric-programming-languages%2F&searchtags=informatique+programming+langage+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages/[Discovering The Arcane World Of Esoteric Programming Languages - Federico Tomassetti - Software Architect]
+
+Je connaissais déja la plupart de ces langages, mais c'est toujours agréable de voir des gens parler de ces créations qui sont plus de l'art que de l'ingéniérie

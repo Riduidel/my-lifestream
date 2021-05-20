@@ -1,0 +1,171 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais qu'est-ce que vous avez fait de Javascript ?
+:jbake-tags: javascript,_mois_sept.,_année_2017
+:jbake-date: 2017-09-09
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/09/09/mais-quest-ce-que-vous-avez-fait-de-javascript.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/09/09/mais-quest-ce-que-vous-avez-fait-de-javascript/
+:jbake-style: wordpress
+
+++++
+<p>
+<small>Note préliminaire : cet article est avant tout un recueil de mes opinions. Il ne s'agit pas de faits, ou d'éléments soigneusement étudiés, mais plus d'irritations, d'incompréhensions. (Vu que cet article est en train de devenir mon plus lu, je préfère baliser le terrain)</small>
+</p>
+<p>
+Je viens de finir un bon paquet de développement Javascript "full-stack" avec Nodejs, Vuejs et tout un tas de trucs. Et franchement,
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/885 524 157 143 949 312" class="date">13 juil. 2017 à 17:39:45</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Sérieusement, Chromium V8 et node.js, en terme d'accident industriel, ça se pose là.</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+(oui, il va y avoir un paquet de tweets, parce que j'ai eu l'occasion d'en parler)
+<br/>
+<h3>Mais qu'est-ce que vous avez fait au langage ?</h3>
+<br/>
+<img class=" size-full wp-image-4975 alignleft" src="https://riduidel.files.wordpress.com/2017/09/a7fc014bf8488b37d60ed7dc6c76acbff5d3fb7491ff3cbd302a4a9a4743ef14.jpg" alt="a7fc014bf8488b37d60ed7dc6c76acbff5d3fb7491ff3cbd302a4a9a4743ef14" width="515" height="330" />Quand je faisais du Javascript, avant, on avait <a href="http://javascript.crockford.com/javascript.html">un chouette langage fonctionnel salement déguisé</a> en Java par le biais d'un marketting stupide. Et un jour, V8 est arrivé, et comme l'héritage par prototype, c'est pas cool, ES5 et ES6 se sont succédés à un train d'enfer pour apporter toutes les folies des langages orientées objet : import, héritage, interfaces, closures, théoriquement, vous avez maintenant tout ça.
+<br/>
+<h4>Le cas particulier de l'import</h4>
+<br/>
+Ca marche comment l'import ? En Javascript classique, ça marche facilement avec <a href="http://www.requirejs.org/">requirejs </a> (la doc est claire, et le besoin assez simple). Avec ça, écrire une application un peu complexe, c'est quand même raisonnablement facile (je le sais, je l'ai fait). Mais en ES6, si vous êtes côté serveur (dans Nodejs, kwa), vous écrivez
+<br/>
+<pre>const expect = require('expect.js')</pre>
+<br/>
+Mais côté client, vous écrivez
+<br/>
+<pre>import localForage from 'localforage'</pre>
+<br/>
+Mais c'est vraiment génial, cette idée de<strong> NE PAS UTILISER LA MEME SYNTAXE DANS DIFFERENTS ENVIRONNEMENTS</strong> ! Je ne sais pas combien de langages précédents ont eu cette idée ... douteuse. Tout ce que je sais, c'est que je n'en connais aucun.
+<br/>
+<h4>Non mais static, c'est static ou bien ?</h4>
+<br/>
+Oui, parce que bon, superposer les concepts Java/C# sur une base Lisp, ça donne parfois des résultats curieux.
+</p>
+<p>
+Du coup, quand vous créez une classe comme ça
+<br/>
+<pre>class CaVaMarcher {
+<br/>
+static uneFonction() {
+<br/>
+}
+</p>
+<p>
+static uneAutre() {
+<br/>
+this.uneFonction()
+<br/>
+}
+<br/>
+}</pre>
+<br/>
+Est-ce que ça marche ? Eh bien je n'en sais rien. Mon code me dit que oui, mais ma tête me dit que non. <strong>PARCE QUE STATIC AVEC THIIS C'EST ENCORE UNE IDEE GENIALE</strong> ! A la décharge des fous qui ont créé ES5/ES6, this a toujours été un problème du Javascript.
+<br/>
+<h3>Mais qu'est-ce que vous avez fait au build ?</h3>
+<br/>
+Parce que bon, jusqu'à node/npm, livrer un projet JS, c'était pas super dur : tu prends tes fichiers, si tu es audacieux tu les minifie (mais en vrai ça n'est pas si important si tu caches bien ton JS, ou que tu utilises un CDN), tu les mets dans ton WEB-INF/resources (en Java), et BAM, c'est servi.
+<br/>
+<h4>Webpack de l'enfer</h4>
+<br/>
+<img class="alignnone size-full wp-image-4978" src="https://riduidel.files.wordpress.com/2017/09/escapefromhellgraphic.jpg" alt="escapefromhellgraphic" width="1280" height="720" />En 2017, comme tu fais de l'ES6, mais que ton navigateur ne le supporte pas forcément, tu passes par <a href="https://webpack.js.org/">webpack</a> pour le transformer en honnête Javascript.
+</p>
+<p>
+Et dans quel enfer tu t'enfonces ? A côté de ça, générer les interfaces des EJB 1.0 avec <a href="http://www.beust.com/ejbgen/">ejbgen</a> c'était de la rigolade. Que je vous raconte. Le truc génère un gros fichier Javascript (5 Mo pour notre application) à partir du paquet de code, d'images, de CSS (compilé depuis des préprocesseurs, parce que franchement, la syntaxe CSS n'est pas terriblement lisible - qu'ils disent). Pour ça, il faut configurer ça avec un fichier webpack.js à la syntaxe ... Tellement merdique. Regardez donc <a href="https://github.com/Arbitr108/webpack.config.js/blob/master/webpack.config.js">cet exemple</a>. C'est un cas vraiment super simple qui ne fait pas grand chose de sophistiqué. Et pourtant, c'est déja la merde non documentée. Alors quand il faut ajouter des trucs comme vuejs (j'en reparlerai, pas de panique), ça devient incroyablement tordu.
+</p>
+<p>
+Surtout avec les histoires de <a href="https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/">sourcemap </a>(qui sont un authentique exemple de complexité accidentelle) qui sont loin de marcher aussi bien qu'imaginé.
+</p>
+<p>
+Du coup, webpack, ça marche, mais franchement, ça a un côté terrifiant de complexité inutile dans le concept et dans l'implémentation. Heureusement, le reste du build cache ça.
+<br/>
+<h3>Non mais ce build JS</h3>
+<br/>
+<h4>npm de merde</h4>
+<br/>
+<img class="  wp-image-4983 alignleft" src="https://riduidel.files.wordpress.com/2017/09/dessin-de-merde.jpg" alt="dessin-de-merde" width="342" height="363" />Là ça m'énerve vraiment. Quand ces folies de build ES5/ES6 ont commencé, et que les besoins de gérer un cycle de vie et des dépendances se sont posés, il me semble que les Javascripteurs auraient pu, à défaut d'utiliser, tout au moins copier les idées de maven, par exemple, ou d'autres build tools du monde Java (ou d'autres, mais je ne les connais pas). Parce que franchement, les mecs qui ont créé npm (qui a fourni le format canonique du package.json) ne se sont pas trop fait chier : une liste de dépendances, et une map associant des noms de commandes, et c'est marre. Pareil pour la récupération des dépendances : les mettre dans un dossier node_modules dans le projet, sans trop se soucier de la version téléchargée, c'est une <strong>PUTAIN D'IDEE DE MERDE</strong>.
+<br/>
+<h4>Yarn de super-merde</h4>
+<br/>
+<img class="  wp-image-4980 alignleft" src="https://riduidel.files.wordpress.com/2017/09/800px-kin_no_unko.jpg" alt="800px-kin_no_unko" width="376" height="502" />A cause des défauts invraissemblables de npm, les mecs de facebook ont créé <a href="https://code.facebook.com/posts/1840075619545360">yarn </a>qui "ccorige le problème des versions incorrectes". <strong>PUTAIN MAIS ILS NE POUVAIENT PAS ETRE AMBITIEUX</strong> ? Parce que bon, d'accord, ces histoires de dépendances incertaines, c'est un problème. Mais il y en a d'autres.
+</p>
+<p>
+Comme par exemple le fait que les commandes soient dans cette saleté de map, et soient en fait des exécutables système (qui doivent donc être dans le PATH, et ne marchent donc pas sous Windows - gg les gars).
+</p>
+<p>
+Ou comme le fait qu'il n'y ait aucune espèce de build standard, et qu'il faut donc tout réécrire dans chaque projet.
+</p>
+<p>
+Ou comme le fait qu'il ne soit pas possible de définir de modèle de projet, ou de modularisation du build.
+</p>
+<p>
+Franchement, yarn, c'est bien de l'esbrouffe.
+<br/>
+<h3>Et ces frameworks de merde</h3>
+<br/>
+<img class=" size-full wp-image-4986 alignleft" src="https://riduidel.files.wordpress.com/2017/09/wrong-tool-pizza.jpg" alt="wrong-tool-pizza" width="374" height="302" />Parce que bon, angular, c'est l'horreur, tout le monde le sait, ça a été conçu par des mecs qui avaient trop fait de développement JavaEE et en avaient perdu l'esprit. React, je peux pas en dire du mal (mis à part le fait que si tu t'en sers sans la surcouche de <a href="http://redux.js.org/docs/basics/UsageWithReact.html">Redux</a>, t'as l'air d'être dans la merde, puisque tout le monde te dit qu'il faut utiliser Redux).
+</p>
+<p>
+Du coup, forcément, tu suis tout le monde comme un mouton, et tu prends <a href="https://vuejs.org/">vuejs</a> avec l'impression d'être un putain de révolutionnaire. Bon, c'est dommage pour toi, parce que <a href="https://ractive.js.org/">Ractivejs</a>, c'est comme vuejs, mais en mieux (si si, en mieux).
+</p>
+<p>
+D'abord, t'as pas le concept complètement con de fichier .vue dans lequel tu mélanges le HTML, le Javascript, et le CSS. Parce que qu'est-ce que vous avez <strong>PUTAIN DE PAS COMPRIS DANS LA SEPARATION DES RESPONSABILITES</strong> ? Je veux dire, quand t'écris ton composant, tu passes pas ton temps à modifier les trois en même temps, si ? En bonus, le fichier .vue, ben ton navigateur ne le comprend pas. Du coup, tu dois aller modifier ton webpack.config.js qui était déja bien merdique pour utiliser le vue-loader, qui fout un peu la merde avec le sass-loader. Bon, mais ce problème de build n'est en fait qu'un épiphénomène.
+</p>
+<p>
+Ben oui, parce que vuejs fournit peut-être des "composants", mais il faut encore que tu utilises un framework CSS, sinon tu vas galérer avec les resets CSS. Du coup, tu te rajoutes <a href="http://bulma.io/">Bulma</a> (oui, le nom est merdique pour les recherches dans Google) par exemple, mais tu dois aussi l'intégrer dans webpack parce qu'il est fourni en SCSS (re-argh).
+</p>
+<p>
+Et bien sûr, c'est quand tu ajoutes Bulma, vuejs, et toutes tes dépendances, que ton fichier JS généré atteint les 5 Mo. 5 Mo, tout ça parce que tu ne veux pas que l'utilisateur attende au démarrage de ta page. Non mais qu'est-ce que c'est que cette merde ? Tout ça pour un PUTAIN DE SITE MOBILE. Comment vous croyez que ça peut marcher avec une connexion un peu faible ? Ben mal. Très mal. Trop mal.
+<br/>
+<h3>Et ce offline de merde</h3>
+<br/>
+<img class="  wp-image-4989 alignleft" src="https://riduidel.files.wordpress.com/2017/09/pas-de-signal-panne.jpg" alt="pas-de-signal-panne" width="353" height="199" />Là, pour le coup, c'est chaud, mais je veux bien comprendre le concept. Quand ton navigateur est déconnecté, pour pouvoir utiliser l'application web, tu dois stocker toutes tes données dans le cache local.
+</p>
+<p>
+Mais là, tu fais comment ? Tu utilises localForage directement ? Ou tu passes par des web workers ? Et là, j'atteinds ma limite, donc je ne peux pas râler en majuscules.
+</p>
+<p>
+Mais pour tout le reste, clairement, le monde Javascript déconne à pleins tubes. J'espère bien que ça changera, parce que là, c'est super pour que les sociétés de service fourguent des consultants qui connaissent juste le framework à la mode. Mais honnêtement, c'est pas comme ça qu'on produit du logiciel durable. Mais est-ce que ça fait partie des besoins des clients ? Je n'en sais rien.
+<br/>
+<h3>Mais du coup tu vas refuser de faire du Javascript ?</h3>
+<br/>
+Non, parce que dans les bonnes conditions (donc sans node, sans webpack, sans framework aux idées à la con), développer une appli web Javascript (par exemple avec requirejs, Ractivejs, et un peu d'axios pour les requêtes Ajax, le tout en Javascript classique) est assez plaisant, et surtout très simple. Par contre, les outils actuels du développeur full stack Javascript sont, à mon sens, à la fois insuffisants et conceptuellement incorrects.
+</p>
+++++

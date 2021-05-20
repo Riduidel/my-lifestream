@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: George H. Fairbanks
+:jbake-tags: author
+:jbake-date: 2020-11-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4246328.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/4246328
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780984618101.html[Just Enough Software Architecture: A Risk-Driven Approach]

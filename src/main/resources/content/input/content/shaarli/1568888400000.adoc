@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Seb sur Twitter : "- Monolithe : gros tas de code avec des features dedans - Monolithe distribué : plusieurs tas de code connecté avec des features dedans - Microservice : 1 bout de code appelé par d'autres applications pour constituer des features."
+:jbake-tags: citation,microservices,_mois_sept.,_année_2019
+:jbake-date: 2019-09-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1568888400000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fseb_ve%2Fstatus%2F1174268134297100293&searchtags=citation+microservices+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/seb_ve/status/1174268134297100293[Seb sur Twitter : "- Monolithe : gros tas de code avec des features dedans - Monolithe distribué : plusieurs tas de code connecté avec des features dedans - Microservice : 1 bout de code appelé par d'autres applications pour constituer des features."]
+
+Tellement vrai

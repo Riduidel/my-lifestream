@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simon Brown on Twitter: "It’s funny, software developers often won’t listen to architects in their own organisations who haven’t written code for N years, yet they *will* listen to speakers at conferences who haven’t built or run real software systems for N years."
+:jbake-tags: citation,programming,culture,conférence,_mois_mars,_année_2019
+:jbake-date: 2019-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1552552409000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsimonbrown%2Fstatus%2F1106088844158480384&searchtags=citation+programming+culture+conf%C3%A9rence+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/simonbrown/status/1106088844158480384[Simon Brown on Twitter: "It’s funny, software developers often won’t listen to architects in their own organisations who haven’t written code for N years, yet they *will* listen to speakers at conferences who haven’t built or run real software systems for N years."]
+
+Tellement vrai ! Et je ne dis pas ça aprce que j'y suis immunisé, bien au contraire !

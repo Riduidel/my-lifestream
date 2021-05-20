@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MP3 TapeLess Deck Project
+:jbake-tags: hack,musique,player,android,vintage,_mois_mai,_année_2018
+:jbake-date: 2018-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1526960892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mp3tapelessdeck.pl%2F&searchtags=hack+musique+player+android+vintage+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.mp3tapelessdeck.pl/[MP3 TapeLess Deck Project]
+
+Via hackaday, un projet délirant de réutilisation de lecteur de cassettes à base de téléphone Android, et d'un peu de bidouille

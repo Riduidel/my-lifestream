@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Project:Omega - Page d'accueil
+:jbake-tags: web,tutorial,documentation,programming,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109931787000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.projectomega.org%2Fmain.php%3Flg%3Dfr&searchtags=web+tutorial+documentation+programming+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.projectomega.org/main.php?lg=fr[Project:Omega - Page d'accueil]
+
+Quand Mac OS X, avec ses formidables pouvoirs en matiÃ¨re de dÃ©veloppement, est sorti en 2001, aucune ressource n'Ã©tait disponible sur le Net en langue franÃ§aise pour apprendre Ã dÃ©couvrir ce systÃ¨me et les nombreux outils de programma

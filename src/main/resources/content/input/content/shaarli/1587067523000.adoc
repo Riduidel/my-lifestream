@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Announcing unverified.email . Pavlo Kerestey
+:jbake-tags: smtp,test,web,_mois_avr.,_année_2020
+:jbake-date: 2020-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1587067523000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkerestey.net%2Fwriting%2F2020-04-05-announcing-unverified-dot-email.html&searchtags=smtp+test+web+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://kerestey.net/writing/2020-04-05-announcing-unverified-dot-email.html[Announcing unverified.email . Pavlo Kerestey]
+
+C'est chouette ce serveur SMTP uilisable pour es tests

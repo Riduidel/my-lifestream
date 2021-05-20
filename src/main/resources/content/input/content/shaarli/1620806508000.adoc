@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Move analysis to Java 11 | SonarCloud Docs
+:jbake-tags: java,migration,outillage,_mois_mai,_année_2021
+:jbake-date: 2021-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1620806508000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsonarcloud.io%2Fdocumentation%2Fappendices%2Fmove-analysis-java-11%2F&searchtags=java+migration+outillage+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://sonarcloud.io/documentation/appendices/move-analysis-java-11/[Move analysis to Java 11 | SonarCloud Docs]
+
+La migration vers Java 11 fait beaucoup de mal, quand même

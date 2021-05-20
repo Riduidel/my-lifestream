@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nadia Fischer
+:jbake-tags: author
+:jbake-date: 2007-05-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2739518.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/2739518
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070328369.html[Les Amants étrangers]
+* link:../books/9782070343621.html[Révolte sur la lune]

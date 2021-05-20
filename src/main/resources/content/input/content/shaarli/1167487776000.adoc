@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mr. Neighborly's Humble Little Ruby Book
+:jbake-tags: documentation,ebook,free,langage,programming,rails,reference,ruby,tutorial,_mois_déc.,_année_2006
+:jbake-date: 2006-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1167487776000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.humblelittlerubybook.com%2Fbook%2Fhtml%2F&searchtags=documentation+ebook+free+langage+programming+rails+reference+ruby+tutorial+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.humblelittlerubybook.com/book/html/[Mr. Neighborly's Humble Little Ruby Book]
+
+Sans doute dans la lignée d'un why's book, un autre livre gratuit sur le Ruby

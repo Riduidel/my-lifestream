@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Cabaret des muses 3. Allez, Darling
+:jbake-tags:  animaux, art, broc,_année_2014,_mois_mars,_note_1,rayon-bd,read
+:jbake-date: 2014-03-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756005652.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395064583l/21478928._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395064583l/21478928._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/21478928
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Un nuovo affascinante viaggio nella pittura e nel fumetto ad opera di Gradimir Smudja, uno dei maggiori maestri contemporanei della "nona arte". Dopo l’illuminante e innovativa rilettura della vita di Vincent Van Gogh, Smudja, continua il suo cammino questa volta in compagnia di Toulouse Lautrec. La Francia e le sue strade diventano lo scenario di questo nuovo capolavoro europeo del disegno. Tutte le vicissitudini del grande pittore francese vengono rilette attraverso il suo stesso segno pittorico. Smudja pone la percezione del Fumetto oltre qualsiasi barriera culturale, rendendolo un medium atto a narrare l’universale. Divertendo il lettore, consegna un’entusiasmante rilettura della cultura europea al suo apice creativo nel momento del passaggio fondamentale tra ‘800 e ‘900.
+</div>
+++++
+
+
+## Authors
+* link:../authors/249242.html[Gradimir Smudja]
+
+## Series
+* link:../series/Le_Cabaret_des_muses.html[Le Cabaret des muses]
+
+## Review
+
+++++
+Encore pire que les tomes précédents, celui-ci abandonne carrément la vie de Toulouse-Lautrec pour nous reconstruire une biographie imaginaire d'un cheval de course célèbre au XIXème siàcle.<br/>C'est toujours aussi décousu, mais encore moins intéressant à mon goût (parce que les chevaux, c'est pas mon dada).
+++++

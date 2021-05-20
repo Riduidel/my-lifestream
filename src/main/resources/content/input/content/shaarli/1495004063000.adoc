@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wwerner/asciidoctor-archetype: A maven archetype to bootstrap an asciidoctor toolchain. No prerequisites other than Maven & Java required.
+:jbake-tags: asciidoc,maven,archetype,documentation,générateur,_mois_mai,_année_2017
+:jbake-date: 2017-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1495004063000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fwwerner%2Fasciidoctor-archetype&searchtags=asciidoc+maven+archetype+documentation+g%C3%A9n%C3%A9rateur+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/wwerner/asciidoctor-archetype[wwerner/asciidoctor-archetype: A maven archetype to bootstrap an asciidoctor toolchain. No prerequisites other than Maven & Java required.]
+
+Oh chouette, un archétype maven pour initialiser facilement un projet asciidoc

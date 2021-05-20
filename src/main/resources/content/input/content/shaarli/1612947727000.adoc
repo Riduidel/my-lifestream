@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ⚓ T273741 Investigate unusual media traffic pattern for AsterNovi-belgii-flower-1mb.jpg on Commons
+:jbake-tags: bug,http,wikipedia,networking,enquête,_mois_févr.,_année_2021
+:jbake-date: 2021-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1612947727000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fphabricator.wikimedia.org%2FT273741&searchtags=bug+http+wikipedia+networking+enqu%C3%AAte+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://phabricator.wikimedia.org/T273741[⚓ T273741 Investigate unusual media traffic pattern for AsterNovi-belgii-flower-1mb.jpg on Commons]
+
+Le travail d'enquête sur cet incident de charge de Wikipedia est joliment détaillé, c'est vraiment intéressant (quant au développeur qui fait un GET plutôt qu'un HEAD pour tester la connexion, c'est moyen)

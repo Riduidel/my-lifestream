@@ -1,0 +1,38 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy 14 - Masques & Monstres
+:jbake-tags:  mort, nazis, rayon-bd, surhomme,_année_2015,_mois_juin,_note_2,monstre,read
+:jbake-date: 2015-06-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756039589.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434437772l/25735975._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1434437772l/25735975._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/25735975
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Si la perspective d'affronter monstres et démons ne l'effraie pas, un coup de main n'est jamais de trop. Au cours d'enquêtes qui tournent au cauchemar, il affronte avec Batman des néo-nazis à Gotham City, il s'associe avec Starman, dont le père avait déjà défait ces soldats du surnaturel durant la Seconde Guerre Mondiale, puis il part à la chasse au fantôme à Arcadia City, chez la justicière Ghost.
+</div>
+++++
+
+
+## Authors
+* link:../authors/19585210.html[Dave Stewart]
+* link:../authors/28055.html[James Robinson]
+* link:../authors/10182.html[Mike Mignola]
+
+## Series
+* link:../series/Batman.html[Batman]
+* link:../series/Ghost.html[Ghost]
+* link:../series/Hellboy_-_Edicao_Historica.html[Hellboy - Edição Histórica]
+* link:../series/Hellboy_Edicao_Historica.html[Hellboy Edição Histórica]
+* link:../series/Hellboy__Edicion_cartone.html[Hellboy: Edición cartoné]
+* link:../series/Non-Canonical_Hellboy.html[Non-Canonical Hellboy]
+* link:../series/Starman.html[Starman]
+
+## Review
+
+++++
+Autant la première histoire est intéressante (et pas grâce à Batman, plutôt grâce à l'horreur Cthulienne de la fin), autant la deuxième histoire est pathétique de sexisme : le personnage de Ghost est franchement ridicule, autant par son physique de super-top-modèle que par sa quête inutile d'une mémoire qui la fait tomber dans le premier piège venu.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La recherche verte : prenez de meilleures décisions
+:jbake-tags: écologie,informatique,recherche,web,_mois_déc.,_année_2019
+:jbake-date: 2019-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1576180383000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffr.blog.ecosia.org%2Frecherche-verte%2F&searchtags=%C3%A9cologie+informatique+recherche+web+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fr.blog.ecosia.org/recherche-verte/[La recherche verte : prenez de meilleures décisions]
+
+Eh, ça me donne presque envie d'utiliser Ecosia, tiens !

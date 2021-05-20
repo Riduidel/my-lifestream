@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Franck Pachot sur Twitter : "So, today, #monolithic is used as a pejorative word for software which: - link their functions to be executed by one processor without unpredictable latency - are clever enough to share memory among multiple processes - can read/write to same files from multiple nodes 🙄"
+:jbake-tags: citation,critique,architecture,monolithe,microservices,_mois_nov.,_année_2019
+:jbake-date: 2019-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1573318453000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FFranckPachot%2Fstatus%2F1193072242990747651&searchtags=citation+critique+architecture+monolithe+microservices+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/FranckPachot/status/1193072242990747651[Franck Pachot sur Twitter : "So, today, #monolithic is used as a pejorative word for software which: - link their functions to be executed by one processor without unpredictable latency - are clever enough to share memory among multiple processes - can read/write to same files from multiple nodes 🙄"]
+
+Mouaip ... La critique du monolithe commence à ressembler à de l'authentique critique artistique ... Il va bien falloir un jour ou l'autre réévaluer nos critères de conception.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SvSIP
+:jbake-tags: voip,sip,ds,software,nintendo,Nintendo,DS,_mois_déc.,_année_2011
+:jbake-date: 2011-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1323687206000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsvsip.free.fr%2Fspip.php%3Frubrique8&searchtags=voip+sip+ds+software+nintendo+Nintendo+DS+_mois_d%C3%A9c.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://svsip.free.fr/spip.php?rubrique8[SvSIP]
+
+Un téléphone SIP dans la DS ? Sympa !

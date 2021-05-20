@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: spekt8/spekt8: Visualize your Kubernetes cluster in real time
+:jbake-tags: kubernetes,visualisation,software,web,_mois_oct.,_année_2019
+:jbake-date: 2019-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1570549175000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fspekt8%2Fspekt8&searchtags=kubernetes+visualisation+software+web+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/spekt8/spekt8[spekt8/spekt8: Visualize your Kubernetes cluster in real time]
+
+Je sens que je vais tester ça demain ...

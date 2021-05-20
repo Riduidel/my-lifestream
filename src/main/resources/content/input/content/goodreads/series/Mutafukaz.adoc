@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mutafukaz
+:jbake-tags: serie
+:jbake-date: 2008-11-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Mutafukaz.adoc
+:jbake-source: https://www.goodreads.com/series/46237
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782952450942.html[Dark Meat City (Mutafukaz, #1)]
+* link:../books/9782916739038.html[Troublants Trous Noir (Mutafukaz, #2)]
+* link:../books/9782359100105.html[Révélations (Mutafukaz, #3)]
+* link:../books/9782359103380.html[De4d end (Mutafukaz, #4)]
+* link:../books/9782359108156.html[V (Mutafukaz #5)]

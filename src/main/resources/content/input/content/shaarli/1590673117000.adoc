@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'actu en patates – Les dessins d'actualité et d'humeur de Martin Vidberg
+:jbake-tags: dessin,blog,humour,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590673117000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.lemonde.fr%2Fblog%2Fvidberg%2F&searchtags=dessin+blog+humour+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.lemonde.fr/blog/vidberg/[L'actu en patates – Les dessins d'actualité et d'humeur de Martin Vidberg]
+
+Le blog dessiné de Martin Vidberg sur le site du monde. C'est assez gentil, et il y a parfois des aperçus de jeux de société vraiment chouettes.

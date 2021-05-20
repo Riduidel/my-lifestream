@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Magdales
+:jbake-tags: web,freeware,jeu,_mois_sept.,_année_2006
+:jbake-date: 2006-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1157788565000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmagdales.free.fr%2Findex.php&searchtags=web+freeware+jeu+_mois_sept.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://magdales.free.fr/index.php[Magdales]
+
+Un jeu en ligne à tester

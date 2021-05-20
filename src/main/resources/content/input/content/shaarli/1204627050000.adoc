@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rails Envy: Ruby on Rails Rake Tutorial (aka. How rake turned me into an alcoholic)
+:jbake-tags: build,coding,développement,documentation,exemple,programming,ruby,reference,rake,_mois_mars,_année_2008
+:jbake-date: 2008-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1204627050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.railsenvy.com%2F2007%2F6%2F11%2Fruby-on-rails-rake-tutorial&searchtags=build+coding+d%C3%A9veloppement+documentation+exemple+programming+ruby+reference+rake+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.railsenvy.com/2007/6/11/ruby-on-rails-rake-tutorial[Rails Envy: Ruby on Rails Rake Tutorial (aka. How rake turned me into an alcoholic)]
+
+Un très bon, quoiqu'un peu court, tutorial sur rake

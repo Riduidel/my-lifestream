@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment d‽finir la taille du texte en ems (traduction) - Blog & Blues - Standards Web et accessibilit‽
+:jbake-tags: web,tutorial,html,css,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112343852000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.blog-and-blues.org%2Fweblog%2F2004%2F05%2F24%2F214-font-size-em&searchtags=web+tutorial+html+css+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.blog-and-blues.org/weblog/2004/05/24/214-font-size-em[Comment d‽finir la taille du texte en ems (traduction) - Blog & Blues - Standards Web et accessibilit‽]
+
+tutorial pour l'utilisation des em

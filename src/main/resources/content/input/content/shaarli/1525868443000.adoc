@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: redhat-developer/vscode-yaml: YAML support for VS Code with built-in kubernetes syntax support
+:jbake-tags: programming,dépendances,vscode,_mois_mai,_année_2018
+:jbake-date: 2018-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1525868443000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fredhat-developer%2Fvscode-yaml&searchtags=programming+d%C3%A9pendances+vscode+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/redhat-developer/vscode-yaml[redhat-developer/vscode-yaml: YAML support for VS Code with built-in kubernetes syntax support]
+
+Ah merde, à cause de ça, je vais devoir installer VSCode ... Alors que pourtant, ce genre d''éditeur, ça n'est conceptuellement pas mon rêve.

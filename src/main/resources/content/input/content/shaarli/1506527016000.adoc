@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UrbanTerror Server for armv61 (raspberry pi) - Urban Terror Forums
+:jbake-tags: raspberrypi,urban-terror,server,configuration,tutorial,_mois_sept.,_année_2017
+:jbake-date: 2017-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1506527016000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.urbanterror.info%2Fforums%2Ftopic%2F31327-urbanterror-server-for-armv61-raspberry-pi%2Fpage__p__354476%23entry354476&searchtags=raspberrypi+urban-terror+server+configuration+tutorial+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.urbanterror.info/forums/topic/31327-urbanterror-server-for-armv61-raspberry-pi/page__p__354476#entry354476[UrbanTerror Server for armv61 (raspberry pi) - Urban Terror Forums]
+
+Oh, des instructions complètes pour avoir un serveur Urban Terror sur mon Raspberry ?

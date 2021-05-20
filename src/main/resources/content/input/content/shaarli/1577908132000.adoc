@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Darren Shepherd sur Twitter : "I really don't get how people navigate the k8s ecosystem. It's so vast, so complex, and most projects are largely unproven. How do you gauge if the time investment to learn some new framework is worth it. I do this full time and it's even a struggle for me."
+:jbake-tags: kubernetes,devops,mode,évolution,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577908132000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fibuildthecloud%2Fstatus%2F1212216198596661248&searchtags=kubernetes+devops+mode+%C3%A9volution+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ibuildthecloud/status/1212216198596661248[Darren Shepherd sur Twitter : "I really don't get how people navigate the k8s ecosystem. It's so vast, so complex, and most projects are largely unproven. How do you gauge if the time investment to learn some new framework is worth it. I do this full time and it's even a struggle for me."]
+
+Je suis assez d'accord. J'ai l'impression de retrouver côté ops l'explosion cambrienne du Javascript après l'apparition de V8 ... Et c'est assez déstabilisant.

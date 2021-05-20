@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Collectif des Amis du Lundi (CAL)
+:jbake-tags: politique,social,_mois_mai,_année_2006
+:jbake-date: 2006-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1147677776000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lesamisdulundi.com%2F&searchtags=politique+social+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.lesamisdulundi.com/[Collectif des Amis du Lundi (CAL)]
+
+Pour tous ceux qui ne veulent pour l'instant défendre qu'un truc tellement français que c'en est ridicule : le Lundi de Pentecôte ferié. Bêtement, c'est mon cas.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Web Scraping in Python using Scrapy (with multiple examples)
+:jbake-tags: crawler,python,tutorial,web,_mois_août,_année_2019
+:jbake-date: 2019-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1566996728000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.analyticsvidhya.com%2Fblog%2F2017%2F07%2Fweb-scraping-in-python-using-scrapy%2F&searchtags=crawler+python+tutorial+web+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/[Web Scraping in Python using Scrapy (with multiple examples)]
+
+Très bon site expliquant comment scraper un site avec scrapy

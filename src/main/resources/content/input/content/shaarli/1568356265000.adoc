@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "now that Biscuit is more or less working, it's time for documentation writing https://t.co/JA8sXnMUGF" / Twitter
+:jbake-tags: documentation,programming,écriture,communication,agile,_mois_sept.,_année_2019
+:jbake-date: 2019-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1568356265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1172157607542513664&searchtags=documentation+programming+%C3%A9criture+communication+agile+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1172157607542513664[Geoffroy Couprie on Twitter: "now that Biscuit is more or less working, it's time for documentation writing https://t.co/JA8sXnMUGF" / Twitter]
+
+Je vais utiliser précisément ce tweet dans une présentation à venir. Et ce sera bien.

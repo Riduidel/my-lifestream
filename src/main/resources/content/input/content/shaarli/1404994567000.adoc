@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: http://get.carrotsearch.com/foamtree/demo/
+:jbake-tags: javascript,visualisation,graph,library,programming,_mois_juil.,_année_2014
+:jbake-date: 2014-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1404994567000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fget.carrotsearch.com%2Ffoamtree%2Fdemo%2F&searchtags=javascript+visualisation+graph+library+programming+_mois_juil.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://get.carrotsearch.com/foamtree/demo/[http://get.carrotsearch.com/foamtree/demo/]
+
+C'est conceptuellement assez délirant, et je crains fort que le fond se perde dans la forme, mais c'est très beau ... Et c'est malheureusement payant ...

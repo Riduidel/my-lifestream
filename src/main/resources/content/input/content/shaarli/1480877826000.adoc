@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "“ Java is to JavaScript what Car is to Carpet. ” - Chris Heilmann"
+:jbake-tags: java,javascript,comparison,citation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1480877826000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F804717535090327552&searchtags=java+javascript+comparison+citation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/804717535090327552[Programming Wisdom on Twitter: "“ Java is to JavaScript what Car is to Carpet. ” - Chris Heilmann"]
+
+C'est bien mieux que le alf/gandalf qui n'était vraiment pas correcte.

@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scott Lynch
+:jbake-tags: author
+:jbake-date: 2016-10-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/73149.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1332432746p5/73149.jpg
+:jbake-source: https://www.goodreads.com/author/show/73149
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290067925.html[Les Mensonges de Locke Lamora (Les Salauds Gentilhommes, #1)]
+* link:../books/9782290068298.html[Des horizons rouge sang (Les Salauds Gentilshommes, #2)]
+* link:../books/9782290068304.html[La République des voleurs (Les Salauds Gentilhommes, #3)]

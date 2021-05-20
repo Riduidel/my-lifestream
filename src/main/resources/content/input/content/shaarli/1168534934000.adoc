@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RoR API
+:jbake-tags: développement,documentation,plugin,programming,rails,ruby,search,web,_mois_janv.,_année_2007
+:jbake-date: 2007-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1168534934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rorapi.com%2F&searchtags=d%C3%A9veloppement+documentation+plugin+programming+rails+ruby+search+web+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.rorapi.com/[RoR API]
+
+Un moteur de recherche dans la documentation de Rails basé sur Google, semble-t-il

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Human speech may have a universal transmission rate: 39 bits per second | Hacker News
+:jbake-tags: science,linguistique,anatomie,_mois_sept.,_année_2019
+:jbake-date: 2019-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1567761459000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D20880789&searchtags=science+linguistique+anatomie+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://news.ycombinator.com/item?id=20880789[Human speech may have a universal transmission rate: 39 bits per second | Hacker News]
+
+Une discussion authentiquement épatante sur la compréhension orale (aussi bien l'écoute que la parole)

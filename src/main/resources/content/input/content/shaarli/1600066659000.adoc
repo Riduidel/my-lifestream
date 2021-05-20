@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jim-easterbrook/Photini: An easy to use digital photograph metadata (EXIF, IPTC, XMP) editing application.
+:jbake-tags: linux,photographie,iptc,editor,_mois_sept.,_année_2020
+:jbake-date: 2020-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1600066659000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjim-easterbrook%2FPhotini&searchtags=linux+photographie+iptc+editor+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/jim-easterbrook/Photini[jim-easterbrook/Photini: An easy to use digital photograph metadata (EXIF, IPTC, XMP) editing application.]
+
+Il semble bien que j'aie à utiliser un tel outil ... Je vous expliquerai pourquoi ... plus tard.

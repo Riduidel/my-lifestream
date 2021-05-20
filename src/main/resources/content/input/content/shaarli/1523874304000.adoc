@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stephan on Twitter: "Interesting #GDPR solution for the "right to erasure" : Encrypt all user's data and when you have to delete it you just get rid of the private key. Will this become the norm?… https://t.co/dIZgKkhm0D"
+:jbake-tags: citation,architecture,data,sécurité,_mois_avr.,_année_2018
+:jbake-date: 2018-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1523874304000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FStephan007%2Fstatus%2F985103374118014976&searchtags=citation+architecture+data+s%C3%A9curit%C3%A9+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/Stephan007/status/985103374118014976[Stephan on Twitter: "Interesting #GDPR solution for the "right to erasure" : Encrypt all user's data and when you have to delete it you just get rid of the private key. Will this become the norm?… https://t.co/dIZgKkhm0D"]
+
+Super bonne idée.

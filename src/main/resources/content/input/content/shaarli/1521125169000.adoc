@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VisArch on Twitter: "Visual modeling (sketchily, as meets the needs of the moment) is ***agile*** — a way the explore and test ideas, to find alternatives"
+:jbake-tags: programming,architecture,visualisation,diagram,_mois_mars,_année_2018
+:jbake-date: 2018-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1521125169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fruthmalan%2Fstatus%2F973191740571209728&searchtags=programming+architecture+visualisation+diagram+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/ruthmalan/status/973191740571209728[VisArch on Twitter: "Visual modeling (sketchily, as meets the needs of the moment) is ***agile*** — a way the explore and test ideas, to find alternatives"]
+
+Personnellement, je ne comprend même pas comment on peut développer sans faire de schémas d'architecture, même salement crayonnés

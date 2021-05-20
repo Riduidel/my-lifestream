@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaGame.Net - FREE Web-based Games
+:jbake-tags: web,java,jeu,programming,library,portal,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112361072000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.javagame.net%2F&searchtags=web+java+jeu+programming+library+portal+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.javagame.net/[JavaGame.Net - FREE Web-based Games]
+
+library and portal for java games

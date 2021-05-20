@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clean Coder Blog
+:jbake-tags: sociologie,culture,informatique,_mois_oct.,_année_2014
+:jbake-date: 2014-10-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1414408672000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.cleancoder.com%2Funcle-bob%2F2014%2F10%2F26%2FLaughterInTheMaleDominatedRoom.html&searchtags=sociologie+culture+informatique+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.cleancoder.com/uncle-bob/2014/10/26/LaughterInTheMaleDominatedRoom.html[Clean Coder Blog]
+
+Une réflexion très intéressante sur l'usage de l'humour comme arme d'exclusion des femmes du champ du développement. Ca laisse vraiment pensif (et renforce ma théorie que la seule personne dont on doit se moquer, c'est soi-même).

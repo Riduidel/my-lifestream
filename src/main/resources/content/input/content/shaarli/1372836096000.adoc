@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: h5ai · a modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee · larsjung.de
+:jbake-tags: web,server,lighttpd,apache,software,_mois_juil.,_année_2013
+:jbake-date: 2013-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1372836096000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flarsjung.de%2Fh5ai%2F&searchtags=web+server+lighttpd+apache+software+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://larsjung.de/h5ai/[h5ai · a modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee · larsjung.de]
+
+Ohlala J'ai bien l'impression que je pourrais virer \*beaucoup\* de trucs avec cette espèce de chouette remplacement d'index autogénéré par mon serveur web.

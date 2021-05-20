@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeMind - free mind mapping software
+:jbake-tags: java,mapping,mind,productivité,software,_mois_août,_année_2004
+:jbake-date: 2004-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1093436128000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffreemind.sourceforge.net%2F&searchtags=java+mapping+mind+productivit%C3%A9+software+_mois_ao%C3%BBt+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://freemind.sourceforge.net/[FreeMind - free mind mapping software]
+
+FreeMind is a premier free mind-mapping software written in Java.

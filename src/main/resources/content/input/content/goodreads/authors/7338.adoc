@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kurt Busiek
+:jbake-tags: author
+:jbake-date: 2016-07-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7338.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1395515682p5/7338.jpg
+:jbake-source: https://www.goodreads.com/author/show/7338
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782365778350.html[The Autumnlands, Vol. 1: De Griffes et de Crocs]
+* link:../books/9782365778367.html[The Autumnlands Tome 2 Retour à la terre]

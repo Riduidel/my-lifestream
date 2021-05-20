@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alternative to Windows Search For Files + Duplicates Search
+:jbake-tags: software,freeware,windows,system,_mois_févr.,_année_2016
+:jbake-date: 2016-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1454504896000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nirsoft.net%2Futils%2Fsearch_my_files.html&searchtags=software+freeware+windows+system+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.nirsoft.net/utils/search_my_files.html[Alternative to Windows Search For Files + Duplicates Search]
+
+Ah, ça risque de mieux marcher que "everything", par exemple ... Parce que bon, l’indexation de mon disque, ça m'agace ...

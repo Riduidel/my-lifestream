@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dustin Nguyen
+:jbake-tags: author
+:jbake-date: 2014-01-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/306735.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1305954729p5/306735.jpg
+:jbake-source: https://www.goodreads.com/author/show/306735
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782809402759.html[Wildcats Version 3.0 T1]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenAPI-GUI v3.0.0
+:jbake-tags: openapi,swagger,online,editor,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555420357000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmermade.github.io%2Fopenapi-gui%2F&searchtags=openapi+swagger+online+editor+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://mermade.github.io/openapi-gui/[OpenAPI-GUI v3.0.0]
+
+Un éditeur bien complet de schémas openapi/swagger

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RicardoNiepel/C4-PlantUML: C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures
+:jbake-tags: plantuml,macro,diagram,c4,_mois_févr.,_année_2019
+:jbake-date: 2019-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1551088106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FRicardoNiepel%2FC4-PlantUML&searchtags=plantuml+macro+diagram+c4+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/RicardoNiepel/C4-PlantUML[RicardoNiepel/C4-PlantUML: C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures]
+
+OHLALA, ça me donne tellement envie de refaire tous mes diagrammes PlantUML comme ça ! (d'ailleurs j'ai un projet pour lequel ce serait \*très\* pratique)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WikiNotes
+:jbake-tags: freeware,macosx,open-source,productivité,software,wiki,_mois_juil.,_année_2010
+:jbake-date: 2010-07-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1279035196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwikinotes.mug-linz.at%2F&searchtags=freeware+macosx+open-source+productivit%C3%A9+software+wiki+_mois_juil.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://wikinotes.mug-linz.at/[WikiNotes]
+
+Un logiciel sympa pour prendre des notes un peu organisées.

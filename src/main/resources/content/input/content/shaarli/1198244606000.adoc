@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: aria2 project
+:jbake-tags: bittorrent,linux,macosx,réseau,p2p,shell,software,ubuntu,windows,web,open-source,_mois_déc.,_année_2007
+:jbake-date: 2007-12-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1198244606000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faria2.sourceforge.net%2F&searchtags=bittorrent+linux+macosx+r%C3%A9seau+p2p+shell+software+ubuntu+windows+web+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://aria2.sourceforge.net/[aria2 project]
+
+Un client p2p en ligne de commande qui a l'air absolument terrifique, tellement même que je vais mettre à jour mon Ubuntu pour pouvoir l'installer.

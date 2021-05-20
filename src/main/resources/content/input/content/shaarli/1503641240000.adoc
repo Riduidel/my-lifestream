@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Weird Python Integers – Kate Murphy
+:jbake-tags: python,programming,number,_mois_août,_année_2017
+:jbake-date: 2017-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1503641240000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkate.io%2Fblog%2F2017%2F08%2F22%2Fweird-python-integers%2F&searchtags=python+programming+number+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://kate.io/blog/2017/08/22/weird-python-integers/[Weird Python Integers – Kate Murphy]
+
+Hey, mais on peut faire exactement la même chose en Java !

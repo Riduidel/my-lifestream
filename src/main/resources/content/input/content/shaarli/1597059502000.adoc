@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Performance tip: constructing many non-trivial objects is slow – Daniel Lemire's blog
+:jbake-tags: performance,optimisation,object,allocation,mémoire,_mois_août,_année_2020
+:jbake-date: 2020-08-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1597059502000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flemire.me%2Fblog%2F2020%2F08%2F08%2Fperformance-tip-constructing-many-non-trivial-objects-is-slow%2F&searchtags=performance+optimisation+object+allocation+m%C3%A9moire+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://lemire.me/blog/2020/08/08/performance-tip-constructing-many-non-trivial-objects-is-slow/[Performance tip: constructing many non-trivial objects is slow – Daniel Lemire's blog]
+
+Je connais au moins un Nicolas de mon entourage qui sera content de lire la conclusion de cet article ... mais ça n'est pas moi ;-)

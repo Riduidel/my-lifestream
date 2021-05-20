@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Post-It Theater
+:jbake-tags: web,fun,comics,animated,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112269202000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bigempire.com%2Fpostittheater%2F&searchtags=web+fun+comics+animated+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bigempire.com/postittheater/[Post-It Theater]
+
+Welcome to the Post-It Theater. The finest source for flip-book entertainment in the world. These movies are all hand-drawn on Post-itÂ® brand notes and scanned. No computer simulated the action. Be sure to check in every week for a new feature, and don

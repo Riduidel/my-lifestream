@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Project Cartoon
+:jbake-tags: cartoons,design,développement,fun,management,programming,projet,software,_mois_oct.,_année_2007
+:jbake-date: 2007-10-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1193137631000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.projectcartoon.com%2F&searchtags=cartoons+design+d%C3%A9veloppement+fun+management+programming+projet+software+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.projectcartoon.com/[Project Cartoon]
+
+Un peu d'humour sur la gestion de projets, avec ce site qui permet de faire de la gestion de projet dans votre boîte un petit cartoon.

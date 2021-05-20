@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tweetjid (tweetjid) on Twitter
+:jbake-tags: jabber,twitter,xmpp,bot,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1371027938000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftweetjid&searchtags=jabber+twitter+xmpp+bot+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://twitter.com/tweetjid[tweetjid (tweetjid) on Twitter]
+
+Un ancien bot jabber tué par le changement de protocole de 2012. Pratique parce qu'il n'y avait pas d'inscription autre que celle de Jabber (par exxemple ça aurait très bien pu marcher avec mon compte dukgo ... pour peu que la syndication de serveurs XMPP marche chez google :-/).

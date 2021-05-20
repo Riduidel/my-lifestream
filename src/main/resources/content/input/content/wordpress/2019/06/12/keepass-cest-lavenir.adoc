@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keepass, c'est l'avenir
+:jbake-tags: keepass,sécurité,_mois_juin,_année_2019
+:jbake-date: 2019-06-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/06/12/keepass-cest-lavenir.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/06/12/keepass-cest-lavenir/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous savez qu'on vit dans un monde peu sûr.
+</p>
+<p>
+Et que les mots de passes le sont aussi rarement.
+</p>
+<p>
+Alors il y a un paquet de sites web qui ont décidé de renforcer leurs mots de passe avec la <a href="https://korben.info/authentification-double-facteur-2fa.html">2FA</a>. Et ma boîte souhaite l'activer. Je n'étais initialement vraiment pas chaud pour utiliser ça. Parce que bon, ouvrir mon téléphone à chaque fois que je me logge, ça me soûle. Donc j'ai traîné des pieds. Et puis un collègue m'a expliqué qu'il utilisait une <a href="https://www.yubico.com/">Yubikey</a> pour tout ça. C'était un peu mieux, mais pas encore parfait.
+</p>
+<p>
+Et ce matin, j'ai eu l'illumination : si j'utilise déja Keepass pour stocker mes mots de passe, pourquoi ne pas y ajouter ces mots de passe à usage unique ? Coup de bol, il existe <a href="https://keepass.info/plugins.html#keeotp">un plugin pour ça</a> ! J'ai donc installé et configuré KeeOTP pour l'utiliser avec GitHub.
+</p>
+<p>
+Et franchement, le confort est revenu : je fais taper mon login/password par Keepass, et de la même manière ce mot de passe à usage unique. Vraiment, là, c'est bien pratique. Et je vais pouvoir passer d'autres sites en OTP.
+</p>
+++++

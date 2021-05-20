@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PTHClock
+:jbake-tags: software,freeware,macosx,system,clock,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111048639000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pth.com%2FPTHClock%2F&searchtags=software+freeware+macosx+system+clock+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pth.com/PTHClock/[PTHClock]
+
+PTHClock is a very simple menu bar clock/calendar program for OS X. It should use very little CPU time and memory.

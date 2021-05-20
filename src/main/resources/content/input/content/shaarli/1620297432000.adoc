@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: criterion - crates.io: Rust Package Registry
+:jbake-tags: rust,performance,benchmark,crates,test,_mois_mai,_année_2021
+:jbake-date: 2021-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1620297432000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcrates.io%2Fcrates%2Fcriterion&searchtags=rust+performance+benchmark+crates+test+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://crates.io/crates/criterion[criterion - crates.io: Rust Package Registry]
+
+Une crate de benchmark Rust. C'est très cool pour éviter les régressions de performances

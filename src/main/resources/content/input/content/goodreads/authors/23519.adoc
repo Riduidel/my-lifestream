@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joe Casey
+:jbake-tags: author
+:jbake-date: 2014-01-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/23519.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1582410025p5/23519.jpg
+:jbake-source: https://www.goodreads.com/author/show/23519
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782809402759.html[Wildcats Version 3.0 T1]
+* link:../books/9782809404111.html[Wildcats 3.0 T02: Claude De Confidentialité]

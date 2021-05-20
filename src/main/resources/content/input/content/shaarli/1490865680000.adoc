@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Système audiophile Allo pour Raspberry Pi et Sparky - Framboise 314, le Raspberry Pi à la sauce française....
+:jbake-tags: webradio,matériel,raspberrypi,_mois_mars,_année_2017
+:jbake-date: 2017-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1490865680000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.framboise314.fr%2Fsysteme-audiophile-allo-pour-raspberry-pi-et-sparky%2F&searchtags=webradio+mat%C3%A9riel+raspberrypi+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.framboise314.fr/systeme-audiophile-allo-pour-raspberry-pi-et-sparky/[Système audiophile Allo pour Raspberry Pi et Sparky - Framboise 314, le Raspberry Pi à la sauce française....]
+
+Il me faudrait une version simplifiée de ce truc

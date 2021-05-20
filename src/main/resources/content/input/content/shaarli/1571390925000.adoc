@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Francois Armand sur Twitter : ""Our work as developers is to discover and assess failure modes". It is the guiding principle of the talk (and my day work). I will explain how to do it systematically (and yes, that implies social contracts, and that can be easy with b̶i̶f̶u̶n̶c̶t̶o̶r̶ ̶I̶O̶ good tooling)… https://t.co/hPe3haYqpS"
+:jbake-tags: citation,programming,exception,scala,_mois_oct.,_année_2019
+:jbake-date: 2019-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1571390925000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffanf42%2Fstatus%2F1184734220901593088&searchtags=citation+programming+exception+scala+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/fanf42/status/1184734220901593088[Francois Armand sur Twitter : ""Our work as developers is to discover and assess failure modes". It is the guiding principle of the talk (and my day work). I will explain how to do it systematically (and yes, that implies social contracts, and that can be easy with b̶i̶f̶u̶n̶c̶t̶o̶r̶ ̶I̶O̶ good tooling)… https://t.co/hPe3haYqpS"]
+
+Ca vaudrait le coup de regarder cette présentation ...

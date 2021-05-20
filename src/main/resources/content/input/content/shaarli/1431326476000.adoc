@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software architecture as code - Coding the Architecture
+:jbake-tags: software,conception,architecture,présentation,_mois_mai,_année_2015
+:jbake-date: 2015-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1431326476000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codingthearchitecture.com%2Fpresentations%2Fsaturn2015-software-architecture-as-code&searchtags=software+conception+architecture+pr%C3%A9sentation+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.codingthearchitecture.com/presentations/saturn2015-software-architecture-as-code[Software architecture as code - Coding the Architecture]
+
+C'est quoi le sens du terme architecture logicielle ? Une question .. cruciale ... pour moi

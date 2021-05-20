@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - jonasstrehle/supercookie: ⚠️ Browser fingerprinting via favicon!
+:jbake-tags: sécurité,web,favicon,_mois_févr.,_année_2021
+:jbake-date: 2021-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1612864340000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjonasstrehle%2Fsupercookie&searchtags=s%C3%A9curit%C3%A9+web+favicon+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/jonasstrehle/supercookie[GitHub - jonasstrehle/supercookie: ⚠️ Browser fingerprinting via favicon!]
+
+Je prédis qu'une prochaine version de Firefox changera ça...

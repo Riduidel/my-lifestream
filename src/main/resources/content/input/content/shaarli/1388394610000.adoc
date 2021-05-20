@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cubli, un robot cube qui balance
+:jbake-tags: robot,jeu,vidéo,_mois_déc.,_année_2013
+:jbake-date: 2013-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1388394610000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fcubli-un-robot-cube-qui-balance%2F&searchtags=robot+jeu+vid%C3%A9o+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/cubli-un-robot-cube-qui-balance/[Cubli, un robot cube qui balance]
+
+Il commence à régner une folie douce dans les modes de déplacement des robots : celui-là est un cube qui se contente, à l'aide de gyroscope, de se mettre sur une arrête ou un sommet et de retomber dans une direction contrôlée ...

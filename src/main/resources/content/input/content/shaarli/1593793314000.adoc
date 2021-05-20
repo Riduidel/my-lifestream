@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sébastien Blanc 🇪🇺 🥑 sur Twitter : "Okay ! Extra more fun ! I use @scratch Video Sensing blocks to move my pod to a k8s cluster with my hands. That triggers a custom block that I coded which deploy my pod in Minikube ! (Oh and I'm using @QuarkusIO as "proxy" between Scratch and k8s) https://t.co/oRCutel9ix" / Twitter
+:jbake-tags: scratch,intégration,web,quarkus,exemple,_mois_juil.,_année_2020
+:jbake-date: 2020-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1593793314000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsebi2706%2Fstatus%2F1279046743150264321&searchtags=scratch+int%C3%A9gration+web+quarkus+exemple+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/sebi2706/status/1279046743150264321[Sébastien Blanc 🇪🇺 🥑 sur Twitter : "Okay ! Extra more fun ! I use @scratch Video Sensing blocks to move my pod to a k8s cluster with my hands. That triggers a custom block that I coded which deploy my pod in Minikube ! (Oh and I'm using @QuarkusIO as "proxy" between Scratch and k8s) https://t.co/oRCutel9ix" / Twitter]
+
+Ah c'est génial ! Je ne connais que très peu scratch, mais je ne pensais pas qu'on pouvait y intégrer des blocs personnalisés (j'imagine que ça se fait via du http). Ca me donne de vraies idées marrantes.

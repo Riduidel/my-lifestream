@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adventures of Viktor & Julia
+:jbake-tags: serie
+:jbake-date: 2015-07-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Adventures_of_Viktor_&_Julia.adoc
+:jbake-source: https://www.goodreads.com/series/51176
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266174992.html[Les Enfants De Mars]

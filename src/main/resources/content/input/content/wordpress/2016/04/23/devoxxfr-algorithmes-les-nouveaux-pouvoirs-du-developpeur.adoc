@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Algorithmes, les nouveaux pouvoirs du développeur
+:jbake-tags: devoxx,futur,loi,politique,travail,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-algorithmes-les-nouveaux-pouvoirs-du-developpeur.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-algorithmes-les-nouveaux-pouvoirs-du-developpeur/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous connaissez Fabrice Epelboin ? Non ? Dommage, c'est un peu une forme de Cory Doctorow à la française, une sorte de métis étrange entre journaliste politique et "geek" (oui, je le mets entre parenthèse).
+</p>
+<p>
+Et ce type fait également cours à sciences-po pour présenter les développeurs aux étudiants de science-po ... c'est-à-dire pour certains nos futurs dirigeants.
+</p>
+<p>
+http://fr.slideshare.net/boin/keynote-devoxx-2016
+</p>
+<p>
+Fabrice est donc venu nous parler du fait que, oui, "software is eating the world", mais avec une nuance. En effet, pour lui, ça n'est pas tant ça que "code is law". En effet, si on y réfléchit un peu, comment est aujourd'hui implémentée la loi dans d'innombrables cas (typiquement le code général des impôts) ? Evidement, dans du logiciel. Et en parallèle, si on y réfléchit un peu, qu'est-ce qui, dans les vingt dernières décennies, a le plus changé le monde ? La politique ou le code ?
+</p>
+<p>
+A votre avis, qu'est-ce qui a permis les printemps arabes ? Twitter et facebook, non ?
+<br/>
+Pourquoi les adolescents actuels ont-ils une telle culture musicale/cinématographique ? Grâce au ministère de la culture ou grâce à Napster/aux MP3/à Popcorn ?
+</p>
+<p>
+Bref, comme il le dit, "le monde politique est dans une profonde incompréhension du monde contemporain" à cause en particulier d'une trop grande richesse d'information.
+</p>
+<p>
+En rester à l'observation, c'est bien, mais franchement, est-ce qu'il n'y a pas mieux à faire ? Maintenant qu'on sait que, grâce au logiciel, malgré l'environnement capitaliste, certaines des valeurs de partage les plus élevées du marxisme (le partage de l'information, la culture accessible, la fraternité et l'égalité entre tous les internautes), où est-ce qu'on va ? Eh bien, là, en bon "observateur", Fabrice n'en sait pas grand chose. En revanche, ce qu'il affirme de façon claire, c'est que la révolution industrielle est en cours, et qu'elle va profondément changer le monde.
+</p>
+++++

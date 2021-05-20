@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shamo
+:jbake-tags: serie
+:jbake-date: 2013-08-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Shamo.adoc
+:jbake-source: https://www.goodreads.com/series/83528
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782840559597.html[Coq De Combat, Tome 1 (Shamo, #1)]
+* link:../books/9782847890198.html[Coq De Combat (Shamo, #2)]
+* link:../books/9782847890204.html[Coq De Combat, Tome 3 (Shamo, #3)]

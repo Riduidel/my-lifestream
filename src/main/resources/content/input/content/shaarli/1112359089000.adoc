@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DHTML Image Annotation [Scribbling.net]
+:jbake-tags: web,javascript,langage,programming,dhtml,image,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112359089000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.scribbling.net%2Fdhtml-image-annotation&searchtags=web+javascript+langage+programming+dhtml+image+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.scribbling.net/dhtml-image-annotation[DHTML Image Annotation [Scribbling.net]]
+
+My favorite feature of the Flickr photo sharing service is the ability to annotate sections of a photo, like I did with a screenshot of my PC desktop. (Mouse over that picture and you'll see what I mean.) This is very cool, and I don't want you to have to

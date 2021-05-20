@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaarli - sebsauvage.net
+:jbake-tags: open-source,software,_mois_sept.,_année_2011
+:jbake-date: 2011-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1316019600000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fwiki%2Fdoku.php%3Fid%3Dphp%3Ashaarli&searchtags=open-source+software+_mois_sept.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://sebsauvage.net/wiki/doku.php?id=php:shaarli[Shaarli - sebsauvage.net]
+
+Welcome to Shaarli ! This is a bookmark. To edit or delete me, you must first login.

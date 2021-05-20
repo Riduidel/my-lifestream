@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Production Oriented Development
+:jbake-tags: méthode,code,concepts,design,_mois_févr.,_année_2020
+:jbake-date: 2020-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1582625662000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpaulosman.me%2F2019%2F12%2F30%2Fproduction-oriented-development.html&searchtags=m%C3%A9thode+code+concepts+design+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://paulosman.me/2019/12/30/production-oriented-development.html[Production Oriented Development]
+
+Ca ne sera une surprise pour à peu près personne, je suis complètement d'accord avec cet article. Surtout avec le premier point, en fait : ce qui n'est pas en prod n'existe pas.

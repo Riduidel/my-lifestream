@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: flagrantdisregard.com Flickr Toys
+:jbake-tags: fun,album,online,photographie,image,software,tool,_mois_juin,_année_2006
+:jbake-date: 2006-06-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1149866154000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflagrantdisregard.com%2Fflickr%2F&searchtags=fun+album+online+photographie+image+software+tool+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://flagrantdisregard.com/flickr/[flagrantdisregard.com Flickr Toys]
+
+Une gallerie d'outils pour jouer avec flickir (d'un autre côté, je n'ai pas de compte flickr, je vois pas trop pourquoi j'en parle)

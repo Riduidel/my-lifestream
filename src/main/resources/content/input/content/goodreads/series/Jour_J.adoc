@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jour J
+:jbake-tags: serie
+:jbake-date: 2010-09-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Jour_J.adoc
+:jbake-source: https://www.goodreads.com/series/301352
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782756018669.html[Les Russes sur la Lune!]

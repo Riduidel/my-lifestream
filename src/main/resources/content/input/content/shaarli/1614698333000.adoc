@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alexis Kauffmann sur Twitter : "[malin] Pour être autorisés à voir certaines vidéos, Google demande désormais aux utilisateurs européens de YouTube de confirmer leur âge en livrant leur numéro de carte bancaire ("confirmation immédiate") ou une pièce d'identité ("confirmation plus longue"). https://t.co/5vNp5OSrqL" / Twitter
+:jbake-tags: google,censure,intimité,identité,web,_mois_mars,_année_2021
+:jbake-date: 2021-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1614698333000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fframaka%2Fstatus%2F1366722755174010880&searchtags=google+censure+intimit%C3%A9+identit%C3%A9+web+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/framaka/status/1366722755174010880[Alexis Kauffmann sur Twitter : "[malin] Pour être autorisés à voir certaines vidéos, Google demande désormais aux utilisateurs européens de YouTube de confirmer leur âge en livrant leur numéro de carte bancaire ("confirmation immédiate") ou une pièce d'identité ("confirmation plus longue"). https://t.co/5vNp5OSrqL" / Twitter]
+
+Tiens, Google crée encore un nouveau mécanisme de censure \*et\* de collecte de l'information \*au nom de la protection des personnes vulnérables\*.

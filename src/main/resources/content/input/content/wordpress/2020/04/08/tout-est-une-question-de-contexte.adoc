@@ -1,0 +1,96 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tout est une question de contexte
+:jbake-tags: architecture_agile,c4model,structurizr,_mois_avr.,_année_2020
+:jbake-date: 2020-04-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/08/tout-est-une-question-de-contexte.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/08/tout-est-une-question-de-contexte/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>J'ai évoqué dans les précédents articles <a href="https://riduidel.wordpress.com/2020/04/06/pourquoi-documenter-une-architecture/">pourquoi il fallait documenter une architecture</a> (ou <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">comment</a>). Et dans cet article, comment celui où je discutais de <a href="https://riduidel.wordpress.com/2020/04/02/cest-quoi-une-architecture-logicielle/">ce qu'est l'architecture</a>, j'ai largement évoqué la notion de contexte. Ou plutôt, de contextes, parce que les contextes d'un logiciel sont multiples. C'est pour ça que <a href="https://c4model.com/">la méthode C4</a>, et donc <a href="https://structurizr.com/">Structurizr </a>et <a href="http://www.codingthearchitecture.com/2016/05/31/agile_software_architecture_documentation.html">Agile Architecture Documentation</a>, mettent tous les deux le contexte en premier (en même temps, tout ça vient de la même personne, il est donc plutôt heureux que Simon Brown soit cohérent).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le contexte est en fait assez simple à décrire, qu'il s'agisse du diagramme de contexte, ou du chapitre associé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Regardez donc comment <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype/commit/0e56a1f8e4f1e9a5591a6e0ae6be6913744b9e15">je le documente dans mon exemple</a> ... Bon, si l'idée d'aller voir un commit Git ne vous enthousiasme pas (ce que je comprend), un petit résumé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord en créant un créant un diagramme de contexte, ce qui n'est pas bien compliqué</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">Person waiting = model.addPerson("Waiting person", "Someone waiting for his train.");
+Person inTrain = model.addPerson("Person in train", "Someone already in the train.");
+SoftwareSystem softwareSystem = model.addSoftwareSystem("kafkatrain", "Crowd-sourced train timetable prediction system");
+waiting.uses(softwareSystem, "See train delay");
+inTrain.uses(softwareSystem, "Informs application that train is running");
+SoftwareSystem navitia = model.addSoftwareSystem(Location.External, "navitia", "Official train time-table");
+SoftwareSystem sncfLocation = model.addSoftwareSystem(Location.External, "SNCF geolocation", "SNCF train real-time location");
+softwareSystem.uses(navitia, "Get official time table");
+softwareSystem.uses(sncfLocation, "Get real-time train position");</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Notez en particulier que les systèmes externes sont clairement documentés grâce à la <code>Location.External</code>. Ce qui nous donne immédiatement un schéma de l'architecture globale assez lisible</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5622,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-07-14_09_04-example.png?w=567" alt="" class="wp-image-5622" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Alors certes, la librairie <a href="https://github.com/RicardoNiepel/C4-PlantUML">C4 pour PlantUML de Ricardo Niepel</a> que j'utilise n'est peut-être pas parfaite et n'inclut pas de légende (ce qui va à l'encontre de <a href="https://c4model.com/assets/software-architecture-diagram-review-checklist.pdf">la checklist de Simon Brown</a>), mais elle fournit néanmoins un style de diagramme très lisible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans ce contexte, nous avons donc un système en cours de développement, "kafkatrain", qui va interagir avec deux autres systèmes et être utilisé par deux catégories d'utilisateurs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Un diagramme comme ça, c'est chouette, mais c'est aussi très insuffisant. J’écrivais dans les articles précédents l'importance de l'histoire. Il faut donc en écrire une ici. Heureusement, <a href="https://structurizr.com/help/documentation/context">le modèle</a> est assez clair sur ce qu'il faut y mettre : tout ce qui concerne le contexte. Et c'est pour ça qu'on a <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype/blob/0e56a1f8e4f1e9a5591a6e0ae6be6913744b9e15/example/src/docs/asciidoc/01-context.adoc">un contexte assez simple</a> (parce que l'application est quand même triviale).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La description des autres systèmes et la manière dont ils vont être déployés ou supprimés fait évidement également partie du contexte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans mon projet d'exemple, je n'ai pas accès à un quelconque outil d'annuaire des applications. Qui me donnerait des descriptions cohérentes. Et surtout qui m'éviterait de faire du copier-coller. Parce que dans le domaine de l'architecture, et encore plus de la documentation, il faut vivre selon le <a href="https://fr.wikipedia.org/wiki/Ne_vous_r%C3%A9p%C3%A9tez_pas">principe DRY</a>. Et pour une raison assez simple : personne n'a envie d'écrire la documentation, et encore moins la documentation d'architecture. En revanche, tout le monde a envie d'avoir un système qui marche, et est donc capable d'écrire les descripteurs nécessaires. Donc, il faut absolument se baser sur les systèmes existants (c'est pour ça que j'ai mis en place <a href="http://cdi-spec.org/">CDI</a> dans les dernières versions de mon archétype de documentation d'architecture, pour pouvoir facilement étendre le système).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans une mission précédente, où je devais documenter des composants en forte interaction avec le reste du SI, il y avait une application web fournissant l'annuaire des applications. Cette application fournissait pour chaque composant</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Le nom</li><li>La description</li><li>Le logo</li><li>Un <a href="https://fr.wikipedia.org/wiki/RACI">RACI</a> du projet</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>J'ai donc écrit un composant qui permettait de se connecter à ce système pour étendre mon contexte avec les informations issues de cet outil. Evidement, ça veut dire plus de code. Mais ça veut aussi et surtout dire plus de réutilisation des informations utiles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, si vous travaillez dans un contexte dans lequel un tel outil existe, n'hésitez pas à le réutiliser, qu'il ait une API ou pas (croyez-moi, aspirer les données d'un site web aussi formaté qu'un annuaire, c'est loin d'être aussi long qu'on le craint, et c'est beaucoup plus rentable).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une dernière petite astuce, valable dans toutes les parties du document, est de ne pas hésiter à indiquer ce que vous ne savez pas. Si il existe un système avec lequel vous vous interconnectez qui n'est pas correctement décrit, notez-le. Une bonne documentation inclut en effet ce que vous savez, <strong>et</strong> ce que vous ne savez pas. Ca permet aux gens qui ont les informations et qui peuvent vous les communiquer de le faire de façon efficace. C'est aussi pour ça que le modèle de document que je fournis inclut pour chaque chapitre ce bloc Asciidoc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>   If you encounter any error, feel free to <span class="icon"></span> <a href="https://github.com/adeo/rfi-price-archi/issues/new?title=Error%20in%20example%20v.0.0.2-SNAPSHOT%20chapter%20Context">enter an issue on GitHub</a>. </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Evidement, si vous utilisez un autre système de gestion de source que GitHub, ça ne marchera pas. Mais si vous utilisez GitHub, le lien vous envoie directement vers la création d'issues avec le bon titre ! Et le fait d'avoir des issues GitHub (ou dans tout autre système) vaut mieux que les ADR en texte - mais j'y reviendrai le moment venu.</p>
+<!-- /wp:paragraph -->
+++++

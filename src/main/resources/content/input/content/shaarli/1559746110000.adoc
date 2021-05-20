@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: close2/shell-xmpp-client: Xmpp client written in bash / ash (openwrt). It's only dependency is ncat (or similar) for the actual ssl connection.
+:jbake-tags: xmpp,shell,script,lecture,_mois_juin,_année_2019
+:jbake-date: 2019-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1559746110000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fclose2%2Fshell-xmpp-client&searchtags=xmpp+shell+script+lecture+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/close2/shell-xmpp-client[close2/shell-xmpp-client: Xmpp client written in bash / ash (openwrt). It's only dependency is ncat (or similar) for the actual ssl connection.]
+
+Un script bash (basé sur netcat) utilisable pour se connecter à un serveur XMPP et y lire les messages (un par un)

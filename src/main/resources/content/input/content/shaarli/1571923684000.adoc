@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitUML
+:jbake-tags: plantuml,github,architecture,uml,diagram,_mois_oct.,_année_2019
+:jbake-date: 2019-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1571923684000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.gituml.com%2F&searchtags=plantuml+github+architecture+uml+diagram+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.gituml.com/[GitUML]
+
+Curieusement, ça me fait rêver

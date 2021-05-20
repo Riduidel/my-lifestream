@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Astral - Organize Your GitHub Stars Easily
+:jbake-tags: software,web,git,github,_mois_nov.,_année_2014
+:jbake-date: 2014-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1416839953000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fastralapp.com%2F&searchtags=software+web+git+github+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://astralapp.com/[Astral - Organize Your GitHub Stars Easily]
+
+Un site web pour lister mes repositories favoris sur Github. A priori, c'est une bonne idée. Sauf que ça fait doublon avec des banals liens stockés sur mon Shaarli (par exemple) Sauf que c'est encore un service fermé de plus. Sauf que c'est également un service commercial qui va me demander les clés de mon compte Github. Donc non merci Via http://onethingwell.org/post/103457644140/astral

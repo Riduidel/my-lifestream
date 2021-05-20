@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alexis Beingessner on Twitter: "reminder: most maintainers of open source software are unpaid volunteers who are stressed out, and showing up in an old issue just to say "why haven't you fixed this" only serves to demoralize and frustrate them"
+:jbake-tags: open-source,collaboration,_mois_juin,_année_2019
+:jbake-date: 2019-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1561622177000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGankro%2Fstatus%2F1144060424209518592&searchtags=open-source+collaboration+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Gankro/status/1144060424209518592[Alexis Beingessner on Twitter: "reminder: most maintainers of open source software are unpaid volunteers who are stressed out, and showing up in an old issue just to say "why haven't you fixed this" only serves to demoralize and frustrate them"]
+
+J'en parlais un peu mardi soir : l'open-source est développé dans la majeure partie des cas par des bénévoles. Si vous pouvez éviter de les faire chier avec des rappels constants à leur bugs passés, ce serait cool ... Pour le dire autrement, si vous avez un bug dans un produit open-source, essayez de proposer une correction.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Serverspec - Home
+:jbake-tags: ruby,server,configuration,test,open-source,library,_mois_juin,_année_2020
+:jbake-date: 2020-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1592813372000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fserverspec.org%2F&searchtags=ruby+server+configuration+test+open-source+library+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://serverspec.org/[Serverspec - Home]
+
+Un outil de validation d'installation de machine (pour vérifier que les différents paquets sont bien présents, entre autres choses). Manifestement, c'est du Ruby.

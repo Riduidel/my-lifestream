@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mon fournisseur OpenID est mort !
+:jbake-tags: identité,migration,openid,web,_mois_déc.,_année_2013
+:jbake-date: 2013-12-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/12/20/mon-fournisseur-openid-est-mort.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/12/20/mon-fournisseur-openid-est-mort/
+:jbake-style: wordpress
+
+++++
+<p>
+Et meeerde.
+</p>
+<p>
+Un fournisseur <a href="https://fr.wikipedia.org/wiki/OpenID">OpenID</a>, c'est un mec qui s'engage pour dire que je suis bien moi-même. C'est un peu le valet qui porte ma carte d'identité sur internet. Ca m'est surtout très utile chez StackExchange, qui utilise massivement OpenID (pour des raisons bien <a href="http://www.codinghorror.com/blog/2008/05/openid-does-the-world-really-need-yet-another-username-and-password.html">documentées</a>).
+</p>
+<p>
+j'avais choisi il y a un moment <a href="https://en.wikipedia.org/wiki/ClaimID">ClaimID</a>, essentiellement parce que ça n'était pas Google. Hélas, si ça n'est pas Google, ça veut aussi dire que ça peut être une entreprise plus fragile. La preuve ?
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2013/12/claimid-com-opera_2013-12-20_10-02-14.png"><img class="aligncenter size-large wp-image-1693" alt="ClaimID.com - Opera_2013-12-20_10-02-14" src="http://riduidel.files.wordpress.com/2013/12/claimid-com-opera_2013-12-20_10-02-14.png?w=520" width="520" height="363" /></a>
+</p>
+<p>
+Eh ouais : ClaimID a fermé. Comment je fais pour me connecter chez StackExchange maintenant ? Hein ? Il va falloir que je me trouve un autre fournisseur (qui pourrait être <a href="http://en.support.wordpress.com/settings/openid/">Wordpress.com</a> ou <a href="http://blog.stackoverflow.com/2011/05/stack-exchange-is-an-openid-provider/">StackExchange</a>). Qui pourrait être aussi <a href="http://wiki.openid.net/w/page/12995226/Run%20your%20own%20identity%20server">mon serveur perso</a>, même si je pense pas que ce sot la meilleure des idées ...
+</p>
+<p>
+Pour l'instant, j'ai rajouté Wordpress à mes fournisseurs OpenID chez StackExchange, en attendant autre chose ...
+</p>
+<p>
+Bon, pour l'instant, je vais essayer de basculer mon authentification StackExchange vers ... autre chose (Wordpress, sans doute), mais je ne sais pas si ce sera bien facile ...
+</p>
+++++

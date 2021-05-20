@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: maven - Getting the MavenProjectHelper in GMaven script without session.lookup - Stack Overflow
+:jbake-tags: groovy,maven,artifact,_mois_juil.,_année_2015
+:jbake-date: 2015-07-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1437128402000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F17365326%2Fgetting-the-mavenprojecthelper-in-gmaven-script-without-session-lookup&searchtags=groovy+maven+artifact+_mois_juil.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://stackoverflow.com/questions/17365326/getting-the-mavenprojecthelper-in-gmaven-script-without-session-lookup[maven - Getting the MavenProjectHelper in GMaven script without session.lookup - Stack Overflow]
+
+Et avec ça, créer des projets maven avec des gros paquets d'artefacts additionnels créés en Groovy, c'est vraiment facile !

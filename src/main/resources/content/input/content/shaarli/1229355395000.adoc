@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robocode: Home Page
+:jbake-tags: programming,java,jeu,database,robocode,exemple,_mois_déc.,_année_2008
+:jbake-date: 2008-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1229355395000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frobocoderepository.com%2F&searchtags=programming+java+jeu+database+robocode+exemple+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://robocoderepository.com/[Robocode: Home Page]
+
+Oh, tiens, un repositry de robots. je vais pouvoir faire quelques tests plus poussés d'y mien, l'ajouter au repository, et faire d'autres trucs chouettes !

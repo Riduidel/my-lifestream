@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vintage/Anchor Books on Twitter: ""If the world were clear, art would not exist." Albert Camus, who died #otd in 1960. https://t.co/kQqNLvJfMX"
+:jbake-tags: citation,art,_mois_janv.,_année_2017
+:jbake-date: 2017-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1483596809000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FVintageAnchor%2Fstatus%2F816660080317923328&searchtags=citation+art+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/VintageAnchor/status/816660080317923328[Vintage/Anchor Books on Twitter: ""If the world were clear, art would not exist." Albert Camus, who died #otd in 1960. https://t.co/kQqNLvJfMX"]
+
+Et en un sens, ça qualifie la programmation comme une forme d'art

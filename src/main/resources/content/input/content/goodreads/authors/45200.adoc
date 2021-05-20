@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manu Larcenet
+:jbake-tags: author
+:jbake-date: 2010-08-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/45200.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1349355259p5/45200.jpg
+:jbake-source: https://www.goodreads.com/author/show/45200
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782352070023.html[Bill Baroud Série Or (FG.FLUIDE GLAC.)]

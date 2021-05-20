@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dottask.mattboehm.rocks/
+:jbake-tags: graphviz,graph,task,management,application,web,_mois_janv.,_année_2020
+:jbake-date: 2020-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1579886463000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdottask.mattboehm.rocks%2F&searchtags=graphviz+graph+task+management+application+web+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://dottask.mattboehm.rocks/[dottask.mattboehm.rocks/]
+
+C'est marrant cette application de gestion des tâches dans un graphe dirigé ...

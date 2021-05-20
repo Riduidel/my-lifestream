@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HTML5 Genetic Algorithm Biped Walkers
+:jbake-tags: science,algorithme,ia,génétique,_mois_janv.,_année_2015
+:jbake-date: 2015-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1421670141000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frednuht.org%2Fgenetic_walkers%2F&searchtags=science+algorithme+ia+g%C3%A9n%C3%A9tique+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://rednuht.org/genetic_walkers/[HTML5 Genetic Algorithm Biped Walkers]
+
+Aussi facile que la marche à pied ? Ben la marche à pied, c'est apparement plutôt difficile, pour un algorithme génétique ...

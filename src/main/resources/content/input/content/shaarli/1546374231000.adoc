@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kafka Performance Tuning — Ways for Kafka Optimization
+:jbake-tags: kafka,optimisation,performance,_mois_janv.,_année_2019
+:jbake-date: 2019-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1546374231000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40rinu.gour123%2Fkafka-performance-tuning-ways-for-kafka-optimization-fdee5b19505b&searchtags=kafka+optimisation+performance+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/@rinu.gour123/kafka-performance-tuning-ways-for-kafka-optimization-fdee5b19505b[Kafka Performance Tuning — Ways for Kafka Optimization]
+
+Un peu d'optimisation Kafka ? Ca fait du bien

@@ -1,0 +1,538 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: To be or not to be serverless
+:jbake-tags: chtijug,cloud,serverless,_mois_mai,_année_2019
+:jbake-date: 2019-05-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/05/24/to-be-or-not-to-be-serverless.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/05/24/to-be-or-not-to-be-serverless/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/1 131 617 057 823 436 806" class="date">23 mai 2019 à 19:45:05</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Hello Serverless World 👋 https://t.co/7HLU90d5T0</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D7RPtVSX4AA-Mm7.jpg" alt="1 131 617 046 603 751 424"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+<a href="https://twitter.com/SteveHouel">Steve</a> va nous faire un tour d’horizon du serverless, dans le cadre de son tour de France (qui continuera à Lille le mois prochain).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-5">
+<br/>
+<h2 id="truepr_sentation">Présentation</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-7">
+<br/>
+<h3 id="trueun_peu_d_histoire">Un peu d’histoire</h3>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+EN 2006, on a commencé à remplacer la virtualisation par le cloud chez AWS (pour lequel Steve a un gros faible). Puis les conteneurs sont apparus et ont conquis le marché, puisqu'aujourd’hui, tout le monde connaît K8s. Puis le serverless est apparu aux environs de 2014.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-12">
+<br/>
+<h3 id="truec_est_quoi">C’est quoi ?</h3>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+En serverless, on ne gère pas les serveurs (ça ne veut pas dire qu’ils n’existent pas). En fait, on ne voit pas les serveurs (pas plus qu’on ne les gère). Si on veut distinguer, il y a
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-16">
+<br/>
+<ul>
+<br/>
+<li>BaaS : <strong>backend as a service</strong>. C’est le terme utilisé pour les bases de données accédés comme un service (<a href="https://www.mongodb.com/cloud/atlas">Mongo Atlas</a>, <a href="https://aiven.io/">Aiven</a>) ou des facilités comme <a href="https://auth0.com/">Auth0</a>.</li>
+<br/>
+<li>FaaS : <strong>function as a service</strong>. C’est la partie à laquelle on va plutôt s’intéresser. On y déploie des fonctions, pour lesquelles on ne gère pas le CPU/la RAM/l’OS. Et évidement, on paye à la requête.</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-19">
+<br/>
+<h3 id="truequ_est_ce_qui_n_est_pas_serverless">Qu’est-ce qui n’est pas serverless</h3>
+<br/>
+<div class="ulist data-line-21">
+<br/>
+<ul>
+<br/>
+<li>Evidement, le PaaS n’est pas serverless. Par exemple, Heroku n’est pas serverless. Parce que la granularité n’est pas la même …​ et le schéma de pricing n’est évidement pas le même.</li>
+<br/>
+<li>Les conteneurs ne sont pas du serverless. Parce qu’il va falloir gérer un orchestrateur.</li>
+<br/>
+<li>NoOps n’est pas non plus du serverless. Effectivement, il n’y a plus d’OS à gérer. Mais il faudra toujours garantir la sécurité. Il faudra également observer le système (ce qui devient beaucoup plus compliqué quand les composants se multiplient).</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-25">
+<br/>
+<h3 id="truequi_fait_du_serverless">Qui fait du serverless</h3>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+AWS évidement. Azure atteint presque le niveau. Il y a également des outils basés sur K8s (OpenFaas). OVH fournit aussi des OVH cloud functions. KNative, OpenWhisk, …​ sont aussi des fournisseurs, moins importants.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-32">
+<br/>
+<h3 id="trueca_veut_dire_quoi">Ca veut dire quoi ?</h3>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+Dans le mode classique, quand une application prend plus de CPU, on rajoute des machines en fonction des besoins. Mais sur chaque machine, on a surprovisionné pour se garder de la marge. Et bien sûr, ça coûte de l’argent.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+Du coup, on passe à la conteneurisation. Donc on ajoute des pods dans notre cluster. Mais il y a toujours un moment où on va devoir ajouter un nouveau worker K8s, ce qui est à nouveau de la surprovision …​ Mais grosse (parce que le worker K8s est souvent plus costaud).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+En serverless, chaque fonction (c’est-à-dire chaque élément de l’application) sera scalé indépendamment, isolé, et démarré en fonction des demandes. Cette fonction sera aussi arrêtée dès qu’elle n’est plus utilisée. L’intérêt évident, c’est de s’adapter efficacement aux patterns d’utilisation de l’application.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-46">
+<br/>
+<h3 id="truede_plus_haut">De plus haut</h3>
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+Dans une architecture serverless, il y aura un service externe qui émet des événements. La fonction réagit à cet événement en émettant d’autres événements, ou aussi en stockant des données
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-51">
+</p>
+<p>
+Un cas d’utilisation typique est celui de l’application web fortement utilisée de façon temporaire (comme par exemple les applis de vote de téléréalité) : les requêtes seront envoyées sur des fonctions qui vont écrire dans Dynamo pour produire un dashboard accessible worldwide. Un autre cas courant est celui du traitement de fichier en masse : on envoie les fichiers dans S3, ces insertions créent des événements qui sont traités par des fonctions pour écrire dans S3 ou Dynamo. L’IoT est aussi un très bon cas d’usage, en particulier parce que la consommation de ressources va évoluer rapidement dans le temps.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-55">
+<br/>
+<h3 id="trueb_n_fices">Bénéfices</h3>
+<br/>
+<div class="paragraph data-line-57">
+</p>
+<p>
+D’abord on réduit les coûts opérationnels. Pas parce qu’on a supprimé les ops, mais parce qu’on a limité la charge d’opération (en enlevant la gestion des machines). On réduit aussi le coût d’utilisation des BaaS (justement parce que ce sont les fournisseurs de ces backends qui en assurent le fonctionnement). Par ailleurs, la scalabilité devient beaucoup moins coûteuse : pas la peine de penser au déploiement de nouvelles machines, ni à la gestion de la parallélisation du code. L’optimisation du code permet réellement des économies, puisque chaque exécution du code a un coût identifiable. Enfin, l’exécution du code sera plus écologique (parce qu’on consomme évidement moins de ressources).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-64">
+<br/>
+<h3 id="truecontraintes">Contraintes</h3>
+<br/>
+<div class="paragraph data-line-66">
+</p>
+<p>
+Avant tout, il ya un vendor-lock-in certain : implémenter du serverless nécessite de s’adapter au fournisseur. Evidement, le métier ne va pas changer. En revanche, toute la partie data/communication sera dépendante du fournisseur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-69">
+</p>
+<p>
+Par ailleurs, en termes de sécurité, ça n’est pas forcément facile. D’abord parce qu’on sort de la classique DMZ. Ensuite parce chaque fournisseur a sa propré implémentation de politique de sécurité, ce qui nécessite nettement une adaptation.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+On ne peut bien sûr plus optimiser sa distribution Linux. En même temps, ça ne sert que dans moins de 1% des cas.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-74">
+</p>
+<p>
+Enfin, les vraies limites sont celles de l’exécution : le provider va limiter la durée d’exécution, le délai de démarrage (et ça, typiquement, à part Quarkus/Micronaut, ça rend le Java inutilisable), la possibilité de faire des tests d’intégration, et même le mode de déploiement/packaging/versioning.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-76">
+<br/>
+<h2 id="trued_mo">Démo</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-78">
+<br/>
+<h3 id="trueserverless">serverless</h3>
+<br/>
+<div class="paragraph data-line-79">
+</p>
+<p>
+Steve va faire la démonstration avec <a href="http://serverless.com/">serverless.com</a> (ils ont choisi le bon nom au bon moment). Normalement, l’outil est raisonnablement agnostique (dans sa version payante au moins).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-82">
+</p>
+<p>
+Logan me fait immédiatement la remarque que l’agnosticité du truc est un peu limité : pour créer son appli Python, Steve lance la commande <code>sls create -t aws-python3</code>. Et effectivement, le seul intérêt est que la commande est la même pour aws/azure/…​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-85">
+</p>
+<p>
+Ca crée donc un squelette Python, avec un <code>serverless.yml</code> (et oui, c’est de l’infra as code, donc c’est du YAML) qui décrit comment elle sera appelée.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-87">
+</p>
+<p>
+Et un appel à <code>sls deploy</code> va déployer les éléments nécessaires pour rendre la fonction utilisable depuis AWS.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-89">
+</p>
+<p>
+Et ça marche facilement !
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-91">
+<br/>
+<div class="content">
+<br/>
+<pre>curl -v https://zc0tvoviak.execute-api.eu-west-1.amazonaws.com/dev/users/lille
+</p>
+<p>
+{
+<br/>
+"message": "Hello Chti JUG",
+<br/>
+"input": {
+<br/>
+"resource": "/users/lille",
+<br/>
+"path": "/users/lille",
+<br/>
+"httpMethod": "GET",
+<br/>
+"headers": {
+<br/>
+"Accept": "*/*",
+<br/>
+"CloudFront-Forwarded-Proto": "https",
+<br/>
+"CloudFront-Is-Desktop-Viewer": "true",
+<br/>
+"CloudFront-Is-Mobile-Viewer": "false",
+<br/>
+"CloudFront-Is-SmartTV-Viewer": "false",
+<br/>
+"CloudFront-Is-Tablet-Viewer": "false",
+<br/>
+"CloudFront-Viewer-Country": "FR",
+<br/>
+"Host": "zc0tvoviak.execute-api.eu-west-1.amazonaws.com",
+<br/>
+"User-Agent": "curl/7.55.1",
+<br/>
+"Via": "1.1 351ae5c6dc020f41490e39fd18b2ac14.cloudfront.net (CloudFront)",
+<br/>
+"X-Amz-Cf-Id": "KkvQqh_2tZ40wbmC2Li9VGTYVg0_HhvCaYQ2gs-yKlLDuMq9OPc9Jg==",
+<br/>
+"X-Amzn-Trace-Id": "Root=1-5ce6dd72-a74747e4c52219abbbb04999",
+<br/>
+"X-Forwarded-For": "165.225.77.153, 70.132.45.71",
+<br/>
+"X-Forwarded-Port": "443",
+<br/>
+"X-Forwarded-Proto": "https"
+<br/>
+},
+<br/>
+"multiValueHeaders": {
+<br/>
+"Accept": ["*/*"],
+<br/>
+"CloudFront-Forwarded-Proto": ["https"],
+<br/>
+"CloudFront-Is-Desktop-Viewer": ["true"],
+<br/>
+"CloudFront-Is-Mobile-Viewer": ["false"],
+<br/>
+"CloudFront-Is-SmartTV-Viewer": ["false"],
+<br/>
+"CloudFront-Is-Tablet-Viewer": ["false"],
+<br/>
+"CloudFront-Viewer-Country": ["FR"],
+<br/>
+"Host": ["zc0tvoviak.execute-api.eu-west-1.amazonaws.com"],
+<br/>
+"User-Agent": ["curl/7.55.1"],
+<br/>
+"Via": ["1.1 351ae5c6dc020f41490e39fd18b2ac14.cloudfront.net (CloudFront)"],
+<br/>
+"X-Amz-Cf-Id": ["KkvQqh_2tZ40wbmC2Li9VGTYVg0_HhvCaYQ2gs-yKlLDuMq9OPc9Jg=="],
+<br/>
+"X-Amzn-Trace-Id": ["Root=1-5ce6dd72-a74747e4c52219abbbb04999"],
+<br/>
+"X-Forwarded-For": ["165.225.77.153, 70.132.45.71"],
+<br/>
+"X-Forwarded-Port": ["443"],
+<br/>
+"X-Forwarded-Proto": ["https"]
+<br/>
+},
+<br/>
+"queryStringParameters": null,
+<br/>
+"multiValueQueryStringParameters": null,
+<br/>
+"pathParameters": null,
+<br/>
+"stageVariables": null,
+<br/>
+"requestContext": {
+<br/>
+"resourceId": "so13c0",
+<br/>
+"resourcePath": "/users/lille",
+<br/>
+"httpMethod": "GET",
+<br/>
+"extendedRequestId": "aJeJ1FFMjoEFg9A=",
+<br/>
+"requestTime": "23/May/2019:17:50:42 +0000",
+<br/>
+"path": "/dev/users/lille",
+<br/>
+"accountId": "961550549303",
+<br/>
+"protocol": "HTTP/1.1",
+<br/>
+"stage": "dev",
+<br/>
+"domainPrefix": "zc0tvoviak",
+<br/>
+"requestTimeEpoch": 1558633842103,
+<br/>
+"requestId": "48707c94-7d83-11e9-ad78-57e2349266a5",
+<br/>
+"identity": {
+<br/>
+"cognitoIdentityPoolId": null,
+<br/>
+"accountId": null,
+<br/>
+"cognitoIdentityId": null,
+<br/>
+"caller": null,
+<br/>
+"sourceIp": "165.225.77.153",
+<br/>
+"principalOrgId": null,
+<br/>
+"accessKey": null,
+<br/>
+"cognitoAuthenticationType": null,
+<br/>
+"cognitoAuthenticationProvider": null,
+<br/>
+"userArn": null,
+<br/>
+"userAgent": "curl/7.55.1",
+<br/>
+"user": null
+<br/>
+},
+<br/>
+"domainName": "zc0tvoviak.execute-api.eu-west-1.amazonaws.com",
+<br/>
+"apiId": "zc0tvoviak"
+<br/>
+},
+<br/>
+"body": null,
+<br/>
+"isBase64Encoded": false
+<br/>
+}
+<br/>
+}</pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-174">
+</p>
+<p>
+Bon, il y a un peu de fuite de données, mais dans l’ensemble ça marche bien.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-176">
+<br/>
+<h3 id="truechalice">Chalice</h3>
+<br/>
+<div class="paragraph data-line-178">
+</p>
+<p>
+<a href="https://github.com/aws/chalice/">chalice</a> est un framework Python dédié au serverless, qui ressemble beaucoup à flask, mais avec certains décorateurs dédiés. Par contre, comme vous l’aurez vu dans l’url GitHub, c’est purement, totalement, et définitivement dédié à AWS.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-181">
+</p>
+<p>
+Et ça marche tout aussi bien.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-183">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-184">
+</p>
+<p>
+Si vous avez déja un outillage de qualité (Docker, K8s), ça n’est pas forcément nécessaire. Par ailleurs, vu la rareté des développeurs du marché du travail, et vues les exigences du serverless, c’est clairement limitant. C’est néanmoins extrêmement enthousiasmant pour les capacités de scalabilité.
+</p>
+<p>
+A mon avis ... on est dans une espèce de mouvement d'avant-garde où on essaye de s'intégrer au mieux dans un cadre financier fourni par les providers de cloud. Est-ce que c'est 'lavenir , Je n'en sais rien. En revanche, je sais que ça existe depuis ... un bon moment, et que ça ne semble pas totallement percer (mis à part des cas bien précis).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

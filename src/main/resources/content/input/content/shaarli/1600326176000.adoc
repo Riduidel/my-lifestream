@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Enhanced Class Decompiler | ecd
+:jbake-tags: eclipse,decompiler,plugin,open-source,debug,_mois_sept.,_année_2020
+:jbake-date: 2020-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1600326176000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fecd-plugin.github.io%2Fecd%2F&searchtags=eclipse+decompiler+plugin+open-source+debug+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ecd-plugin.github.io/ecd/[Enhanced Class Decompiler | ecd]
+
+Très chouette intégration des différents décompilateurs dans Eclipse. La meilleure partie étant évidement que ça permet de remplacer la vue des classes dans le débuggeur (et ça, c'est vraiment pratique)

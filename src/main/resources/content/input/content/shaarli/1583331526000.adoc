@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: plainas/tq: Perform a lookup by CSS selector on an HTML input
+:jbake-tags: css,html,command-line,python,_mois_mars,_année_2020
+:jbake-date: 2020-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1583331526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fplainas%2Ftq&searchtags=css+html+command-line+python+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/plainas/tq[plainas/tq: Perform a lookup by CSS selector on an HTML input]
+
+De l'extraction HTML ! En Python ! C'est cool !

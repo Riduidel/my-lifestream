@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby's wiki
+:jbake-tags: documentation,programming,reference,ruby,rails,wiki,software,_mois_nov.,_année_2006
+:jbake-date: 2006-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1163831973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.rubygarden.org%2FRuby&searchtags=documentation+programming+reference+ruby+rails+wiki+software+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://wiki.rubygarden.org/Ruby[Ruby's wiki]
+
+Un très gros wiki sur Ruby, avec des tonnes d'informations utiles

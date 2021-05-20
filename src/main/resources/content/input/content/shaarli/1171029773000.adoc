@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CriteriaQuery
+:jbake-tags: plugin,ruby,rails,search,SQL,mapping,_mois_févr.,_année_2007
+:jbake-date: 2007-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1171029773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.muermann.org%2Fruby%2Fcriteria_query%2F&searchtags=plugin+ruby+rails+search+SQL+mapping+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.muermann.org/ruby/criteria_query/[CriteriaQuery]
+
+Une extension au find\_by de Ruby, permettant une écriture beaucoup plus limpide de la recherche

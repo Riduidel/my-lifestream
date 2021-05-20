@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Animaux-Villes
+:jbake-tags: serie
+:jbake-date: 2003-05-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Les_Animaux-Villes.adoc
+:jbake-source: https://www.goodreads.com/series/163084
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290325391.html[Étoiles mourantes]

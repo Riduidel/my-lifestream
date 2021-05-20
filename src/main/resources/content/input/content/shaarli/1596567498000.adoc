@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: An introduction to Data Oriented Design with Rust - Statistically Insignificant
+:jbake-tags: rust,programming,optimisation,_mois_août,_année_2020
+:jbake-date: 2020-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1596567498000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjamesmcm.github.io%2Fblog%2F2020%2F07%2F25%2Fintro-dod%2F&searchtags=rust+programming+optimisation+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://jamesmcm.github.io/blog/2020/07/25/intro-dod/[An introduction to Data Oriented Design with Rust - Statistically Insignificant]
+
+Oh ca vaudra le coup de relire ça quand je me relancerai dans Codingame, parce qu'il y a deux ou trois trucs qui méritent d'être lus (même si je suis sûr que le compilateur Rust utilisé par Codingame n'est pas configuré avec les meilleures optimisations)

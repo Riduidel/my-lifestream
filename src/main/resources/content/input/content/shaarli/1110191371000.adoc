@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SourceForge.net: Project Info - Sarissa
+:jbake-tags: open-source,freeware,software,javascript,ajax,_mois_mars,_année_2005
+:jbake-date: 2005-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1110191371000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sourceforge.net%2Fprojects%2Fsarissa%2F&searchtags=open-source+freeware+software+javascript+ajax+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sourceforge.net/projects/sarissa/[SourceForge.net: Project Info - Sarissa]
+
+Sarissa is a cross-browser ECMAScript library for client side XML manipulation, including loading XML from URLs or strings, performing XSLT transformations, XPath queries and more. Supported: Gecko (Mozilla, Firefox etc), IE, KHTML (Konqueror, Safari).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium
+:jbake-tags: programming,editor,syntax,_mois_août,_année_2016
+:jbake-date: 2016-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1472655207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40hoffa%2F400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd%23.bogxemccg&searchtags=programming+editor+syntax+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://medium.com/@hoffa/400-000-github-repositories-1-billion-files-14-terabytes-of-code-spaces-or-tabs-7cfe0b5dd7fd#.bogxemccg[400,000 GitHub repositories, 1 billion files, 14 terabytes of code: Spaces or Tabs? – Medium]
+
+Donc, j'ai choisi les tabulations plutôt que les espaces. Dans ces cas-là, je me dis que 400 millions de mouches à merde en mangent ...

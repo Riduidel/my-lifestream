@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Lemire sur Twitter : "That is what I think is key. Tools, compilers, tool chains… that’s primary. Syntax is somewhat secondary. You might have preferences and habits, but if you are a committed programmers, you can deal with whatever language people throw at you.… https://t.co/Z1YUukRPvL"
+:jbake-tags: citation,programming,environnement,langage,_mois_mars,_année_2020
+:jbake-date: 2020-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1584209202000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flemire%2Fstatus%2F1238631973289103360&searchtags=citation+programming+environnement+langage+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/lemire/status/1238631973289103360[Daniel Lemire sur Twitter : "That is what I think is key. Tools, compilers, tool chains… that’s primary. Syntax is somewhat secondary. You might have preferences and habits, but if you are a committed programmers, you can deal with whatever language people throw at you.… https://t.co/Z1YUukRPvL"]
+
+Je dis depuis bien longtemps que Java est une réussite parce qu'il réunit trois facteurs essentiels 1. Une syntaxe efficace 2. Une bibliothèque riche 3. Un environnement d'exécution extrêmement efficace

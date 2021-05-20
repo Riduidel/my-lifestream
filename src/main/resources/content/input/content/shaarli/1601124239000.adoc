@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Windows 10 : les meilleurs logiciels pour nettoyer son PC en moins de 10 minutes
+:jbake-tags: windows,logiciel,nettoyage,_mois_sept.,_année_2020
+:jbake-date: 2020-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1601124239000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tomsguide.fr%2Fnettoyer-son-pc-windows-en-moins-de-10-minutes%2F&searchtags=windows+logiciel+nettoyage+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.tomsguide.fr/nettoyer-son-pc-windows-en-moins-de-10-minutes/[Windows 10 : les meilleurs logiciels pour nettoyer son PC en moins de 10 minutes]
+
+Une liste assez complète de logiciels de nettoyage pour Windows. Je retiens en particulier DWS et (bien sûr) CCleaner

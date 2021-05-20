@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rene Gielen on Twitter: "I recommend people to learn and understand Maven before start using Gradle unless they want to create Ant style builds with a fancy DSL. But once you understand that the "missing flexibility" is the real power of Maven, chances are you don't want to switch to Gradle any longer… https://t.co/LFCeHfytKC"
+:jbake-tags: maven,citation,programming,standard,_mois_avr.,_année_2018
+:jbake-date: 2018-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1522928750000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frgielen%2Fstatus%2F981229237217710080&searchtags=maven+citation+programming+standard+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/rgielen/status/981229237217710080[Rene Gielen on Twitter: "I recommend people to learn and understand Maven before start using Gradle unless they want to create Ant style builds with a fancy DSL. But once you understand that the "missing flexibility" is the real power of Maven, chances are you don't want to switch to Gradle any longer… https://t.co/LFCeHfytKC"]
+
+C'est peut-être le point que j'approuve le plus avec maven : ne pas donner le choix aux développeurs, c'est leur éviter de penser aux problèmes idiots que résoud l'approche.

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wielstadt
+:jbake-tags: serie
+:jbake-date: 2003-06-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Wielstadt.adoc
+:jbake-source: https://www.goodreads.com/series/45945
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266130493.html[Les ombres de Wielstadt (Wielstadt, #1)]
+* link:../books/9782266143066.html[Les masques de Wielstadt (Wielstadt, #2)]
+* link:../books/9782266155045.html[Le chevalier de Wielstadt (Wielstadt, #3)]

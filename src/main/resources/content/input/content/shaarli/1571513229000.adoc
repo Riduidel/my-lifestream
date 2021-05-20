@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: aquametalabs/aquameta: Web development platform built entirely in PostgreSQL
+:jbake-tags: postgres,web,application,développement,ide,_mois_oct.,_année_2019
+:jbake-date: 2019-10-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1571513229000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Faquametalabs%2Faquameta&searchtags=postgres+web+application+d%C3%A9veloppement+ide+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/aquametalabs/aquameta[aquametalabs/aquameta: Web development platform built entirely in PostgreSQL]
+
+C'est complètement fou, cette réinvention du concept de PL/SQL dans PostgreSQL, non ?

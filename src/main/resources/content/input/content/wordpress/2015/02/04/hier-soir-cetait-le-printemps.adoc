@@ -1,0 +1,192 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hier soir ... c'était le printemps ?
+:jbake-tags: chtijug,java,spring,_mois_févr.,_année_2015
+:jbake-date: 2015-02-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/02/04/hier-soir-cetait-le-printemps.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/02/04/hier-soir-cetait-le-printemps/
+:jbake-style: wordpress
+
+++++
+<p>
+Parce qu'hier soir, c'était chtijug, chtijug spécial Spring, et Spring boot en particulier
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/562 673 056 427 298 817" class="date">3 févr. 2015 à 19:04:45</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Session @springboot c'est parti! @Capgemini @euratechnologie @brianclozel @pivotal @HappyHackingD http://t.co/PhgJgJBTVG</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/B88EJo_CYAAOkj5.jpg" alt="562 673 042 111 750 144"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Pour laquelle <a href="https://spring.io/team/bclozel">Brian Clozel</a> a fait un gros boulot de livecoding.
+<br/>
+<h4>Alors Spring Boot, qu'est-ce que c'est ?</h4>
+<br/>
+Eh bien c'est tout ça
+</p>
+<p>
+https://speakerdeck.com/bclozel/intro-to-spring-boot
+</p>
+<p>
+D'après ce que j'ai compris, c'est une façon pour les gens de Spring de simplifier la vie des développeurs en fournissant
+<br/>
+<ol>
+<br/>
+<li>Une façon très chouette de bootstrapper une application <a href="http://projects.spring.io/spring-boot/#quick-start">à partir de leur site web</a>.</li>
+<br/>
+<li>Un framework d'utilisation de l'ensemble des couches Spring, qui inclut évidement le code, mais aussi les bonne spratiques d'utilisation</li>
+<br/>
+<li>Une interface "simplifiant" l'utilisation des autres bibliothèques de Spring.</li>
+<br/>
+</ol>
+<br/>
+En revanche, Spring Boot n'est pas une version simplifiée de Spring (tout Spring peut être utilisé dans Boot), ni un outil à réserver aux POC.
+</p>
+<p>
+Donc, brian nous a fait du live-coding. Et sans utiliser cette cochonnerie de thème sombre illisible. Et ça c'est bien.
+</p>
+<p>
+On a donc pu voir en action
+<br/>
+<ul>
+<br/>
+<li>Spring-data-mongo</li>
+<br/>
+<li>Spring-rest (je reviendrai plus bas là-dessus)</li>
+<br/>
+<li>Spring-security</li>
+<br/>
+</ul>
+<br/>
+Et quelques autres.
+</p>
+<p>
+Au passage, j'ai beaucoup apprécié la façon d'utiliser les TODO de Brian, qui lui permettait de dérouler dans un ordre sympatoche les différents éléments de sa démo.
+</p>
+<p>
+Il a ensuite fait une rapide présentation des différentes nouveautés de Spring 4.1 (en oubliant de préciser que certaines ne fonctionnent qu'avec java 8, comme par exemple les injections de types paramétrés).
+</p>
+<p>
+https://speakerdeck.com/sdeleuze/spring-framework-4-dot-1
+</p>
+<p>
+<h4>Sauf que ...</h4>
+<br/>
+Comme le dit fort bien Thibaud
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ThibaudVibes" class="screenName"><img src="http://pbs.twimg.com/profile_images/702616851805822976/SBweXzU-_mini.jpg" alt="profile of DevOps Director chez Mediatech-cx, développeur #JAVA avant tout.
+</p>
+<p>
+Brasseur amateur."/>ThibaudVibes</a>
+<br/>
+<span class="name">Thibaud VIBES</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ThibaudVibes/status/562 680 798 818 877 440" class="date">3 févr. 2015 à 19:35:31</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">#chtijug : @brianclozel a inventé le "live annotating" grâce à spring boot</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Pour clarifier un peu ... J'ai fait du Spring il y a maintenant 8 ans. A l'époque, on était en plein XML hell, et Spring en était le champion. Des fichiers XML partout, avec des beans à câbler dans tous les coins, c'était l'enfer. Et je me souviens en particulier à l'époque d'un aspect pénible de Spring, qui était le fait de devoir toujours passer par la doc pour obtenir des infos : rien n'était découvrable automagiquement dans l'IDE.
+</p>
+<p>
+Aujourd'hui, le XML Hell a été remplacé par <a href="http://almaer.com/blog/scared-of-annotation-hell">l'annotation hell</a>. Et honnêtement, ça ne change rien au problème : on ne sait toujours pas quel bean vient de quel endroit, et qui est injecté où.
+</p>
+<p>
+Vous serez tenté de me dire que c'est exactement pareil dans le JavaEE d'en face, et vous aurez raison. Cependant, dans le monde JavaEE, j'ai l'impression qu'il existe une distinction plus claire entre les différents types de composants : les EJBs, les beans sont plus facilement définis, et mieux isolés. Enfin, je trouve.
+<br/>
+<h4>Spring-data a tout copié sur gaedo ?</h4>
+<br/>
+Quoi ? Vous ne connaissez pas gaedo , La meilleure librairie de mapping objet/stockage en Java ?
+</p>
+<p>
+Je n'ai pas pu m'empêcher d'y penser quand j'ai vu cet écran
+</p>
+<p>
+<a href="https://riduidel.files.wordpress.com/2015/02/img_20150203_192539.jpg"><img class="alignnone  wp-image-2792" src="https://riduidel.files.wordpress.com/2015/02/img_20150203_192539.jpg?w=300" alt="IMG_20150203_192539" width="575" height="436" /></a>
+</p>
+<p>
+Que vous pouvez comparer avec la doc de gaedo sur<a href="https://github.com/Riduidel/gaedo/blob/master/src/site/markdown/5_dynamic_finders_the_reference.md"> les finders dynamiques</a>... Ouaip, c'est pareil. Et ouaip, on a tous copiés sur Ruby on Rails.
+<br/>
+<h4>Oui mais Spring boot, c'est léger ?</h4>
+<br/>
+Comparez par exemple avec <a href="http://dropwizard.io/">DropWizard </a>(comme l'a fait <a href="http://java.dzone.com/articles/dropwizard-vs-spring-boot">JavaLobby</a>), à <a href="http://wisdom-framework.org/">Wisdom </a>ou à <a href="http://www.ninjaframework.org/">ninja </a>... Dans tous les cas, Spring boot apporte effectivement la légereté de ces outils en s'appuyant sur la force de Spring. Mais du coup, c’est loin d'être aussi léger que ce que vous croyez : mettre en place un stockage va impliquer l'utilisation de Spring-data-*, qui va vous tirer des tonnes de dépendances, et il en sera de même pour implémente rune API REST : vous passerez par la librairie idoine du portfolio Spring à travers une couche d'adaptation, et du coup ce ce sera encore une fois un gros paquet de dépendances, et une complexité pas forcément masquée.
+<br/>
+<h4>Conclusion</h4>
+<br/>
+Donc une session intérressante, sur un des frameworks majeurs du monde Java, mais qui n'en était pas pour autant exaltante. Et c'est bien normal : Spring est une solution mature, déployée à des échelles industrielles, et dans des environnements qui n'ont rien de glamour. Ils ne cherchent donc pas à épater les utilisateurs, mais plutôt à trouver une solution qui marche, et qui réponde sérieusement aux problèmes des applications d'aujourd'hui.
+</p>
+++++

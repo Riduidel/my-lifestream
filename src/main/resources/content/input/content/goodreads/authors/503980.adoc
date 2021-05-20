@@ -1,0 +1,24 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christophe Quet
+:jbake-tags: author
+:jbake-date: 2012-02-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/503980.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1246081576p5/503980.jpg
+:jbake-source: https://www.goodreads.com/author/show/503980
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756003085.html[L'or bleu (Travis, #8)]
+* link:../books/9782756013862.html[Dommy (Travis, #9)]
+* link:../books/9782756020228.html[New York Delaware (Travis, #10)]
+* link:../books/9782756072876.html[Les Enfants de Marcos (Travis, #11)]
+* link:../books/9782756080765.html[Les Tueurs de fer (Travis #12.)]
+* link:../books/9782840552215.html[Opération Minotaure (Travis, #2)]
+* link:../books/9782840553106.html[Agent du Chaos (Travis, #3)]
+* link:../books/9782840555933.html[Protocole Oslo (Travis, #4)]
+* link:../books/9782840557470.html[Cybernation (Travis, #5)]
+* link:../books/9782847891072.html[Le Hameau des Chênes (Travis, #6.1)]
+* link:../books/9782847894363.html[La Tarentule (Travis, #7)]
+* link:../books/9782847899849.html[Huracan (Travis, #1)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les dirigeants français visualisés
+:jbake-tags: histoire,france,homme,_mois_nov.,_année_2014
+:jbake-date: 2014-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1415618202000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fles-dirigeants-francais-visualises%2F&searchtags=histoire+france+homme+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/les-dirigeants-francais-visualises/[Les dirigeants français visualisés]
+
+J'aime beaucoup cette histoire des rois de France par l'anecdotique.

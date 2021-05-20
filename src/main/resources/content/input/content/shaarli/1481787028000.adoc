@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: damienbeaufils/tests-pyramid-calculator: Test pyramid calculator for Java/Spring application
+:jbake-tags: java,test,reporting,_mois_déc.,_année_2016
+:jbake-date: 2016-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1481787028000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdamienbeaufils%2Ftests-pyramid-calculator&searchtags=java+test+reporting+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/damienbeaufils/tests-pyramid-calculator[damienbeaufils/tests-pyramid-calculator: Test pyramid calculator for Java/Spring application]
+
+L'idée est amusante, la réalisation sous forme d'un script sh est décevante.

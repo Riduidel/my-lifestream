@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/
+:jbake-tags: complot,science,_mois_juin,_année_2016
+:jbake-date: 2016-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1464937900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100708230258%2Fhttp%3A%2F%2Fpeople.csail.mit.edu%2Frahimi%2Fhelmet%2F&searchtags=complot+science+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/[https://web.archive.org/web/20100708230258/http://people.csail.mit.edu/rahimi/helmet/]
+
+Donc, les chapeaux en aluminium amplifient les signaux qu'ils sont censés arrêter ... bravo !

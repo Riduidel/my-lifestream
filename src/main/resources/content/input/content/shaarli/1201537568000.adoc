@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: .: Hotips Zone :. Trucs et Astuces » Blog Archive » Convertisseur hexadecimal - décimal - binaire en Javascript
+:jbake-tags: online,converter,mathématiques,_mois_janv.,_année_2008
+:jbake-date: 2008-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1201537568000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ioswebdesign.com%2Findex.php%2F2006%2F11%2F14%2Fconvertisseur-hexadecimal-decimal-binaire-en-javascript%2F&searchtags=online+converter+math%C3%A9matiques+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.ioswebdesign.com/index.php/2006/11/14/convertisseur-hexadecimal-decimal-binaire-en-javascript/[.: Hotips Zone :. Trucs et Astuces » Blog Archive » Convertisseur hexadecimal - décimal - binaire en Javascript]
+
+Un convertisseur de base pour les entiers. C'est très pratique pour transformer une couleur en base 10 en couleur hexa et réciproquement.

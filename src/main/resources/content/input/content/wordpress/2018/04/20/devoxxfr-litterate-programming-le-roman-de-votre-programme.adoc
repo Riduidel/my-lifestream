@@ -1,0 +1,168 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Litterate programming, le roman de votre programme
+:jbake-tags: devoxx,documentation,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-litterate-programming-le-roman-de-votre-programme.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-litterate-programming-le-roman-de-votre-programme/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Le litterature programming a été inventé par Donald Knuth …​ pas n’importe qui, en fait.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+A l'époque où il conçoit ce concept, il n’est pas absurde d'écrire un programme et de le faire imprimer. C’est préciséement l’objectif de la programmation lettrée.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Donc pour ça, Knuth conçoit un outil (web) qui permet d'écrire le code et sa description dans le même fichier.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-10">
+<br/>
+<h2 id="trueavantages_et_inconv_nients">Avantages et inconvénients</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-12">
+</p>
+<p>
+Ca permet d’expliciter sa pensée. La documentation est forcément présente et à jour. On s'éloigne par ailleurs de la programmation traditionnelle pour s’approcher du langage naturel. En revanche, l’outil est verbeux. Il faut également maîtriser à la fois le code et la langue le décrivant. Le refactoring est spécialement difficile. Et actuellement, faire de la programmation lettrée est à peu près impossible, aprce qu’on écrit dans l’ordre de la pensée.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-15">
+<br/>
+<h2 id="trueappliquer_aujourd_hui">Appliquer aujourd’hui</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Raphaël a tenté de le faire dans du code Java, à travers des commentaires beaucoup plus verbeux. C’est possible, mais assez peu approprié
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-19">
+<br/>
+<h2 id="truequ_est_ce_qui_s_en_rapproche_aujourd_hui">Qu’est-ce qui s’en rapproche aujourd’hui</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+D’abord, il y a les commentaires du code, qui vont pouvoir expliquer pourquoi le code fonctionne de cette façon. Il y a également les commentaires de commit, mais qui sont rarement explicites. La documentation traditionnelle peut aussi aider, même si elle n’est pas écrite simultanément. La javadoc documente correctement l’API, mais n’explique pas le fonctionnement du programme.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Les tests unitaires (en TDD) peuvent expliquer correctement le fonctionnement du code, à travers la documentation associée. Mais ils sont séparés du code principal, n’expliquent pas le fonctionnement. Par ailleurs, les documenter ne documentera que les cas lister. Enfin, le formalisme est loin d'être souple.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-28">
+<br/>
+<h2 id="truequ_est_ce_qui_pourrait_fonctionner">Qu’est-ce qui pourrait fonctionner ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-29">
+</p>
+<p>
+Des outils graphiques, avec l’inclusion d’image. Par exemple, Jupyter ressemble pas mal conceptuellement.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-31">
+<br/>
+<h2 id="truequestions">Questions</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-32">
+<br/>
+<h3 id="trueen_coffeescript">En coffeescript ?</h3>
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+A priori, il est possible d’intégrer du coffeescript dans les pages == Est-ce que ça n’est pas impossible de lier le code et sa documentation ? C’est certes compliqué, mais ça peut approcher des choses (typiquement, Asciidoc peut intégrer du code comme dans la doc Groovy).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-37">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-38">
+</p>
+<p>
+Malheureusement, j’en savais autant que le speaker sur la programmation lettrée. Et pire encore, j’ai eu l’impression d’avoir une meilleure vision de la manière "moderne" d’utiliser ces idées. Cela dit, c'est un concept qui m'a toujours paru méconnu.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

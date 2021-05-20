@@ -1,0 +1,79 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Septième semaine de confinement
+:jbake-tags: épidémie,confinement,javascript,_mois_mai,_année_2020
+:jbake-date: 2020-05-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/03/septieme-semaine-de-confinement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/03/septieme-semaine-de-confinement/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Ca fait donc maintenant sept semaines que notre environnement s'est réduit à ... quelques ... kilomètres autour de notre maison. Je ne vais pas mentir, c'est moralement dur de sentir cette restriction de liberté. C'est d'autant plus dur que cahque jour depuis le début de ce confinement, les gens censés nous gouverner démontrent. Non, affichent leur incapacité profonde à avoir une vision, une ambition, autre que personnelle. Et je ne peux pas m'empêcher de me demander quand et comment le pays des lumières, le pays de De Gaulle a pu se réduire à ces gesticulations d'amateurs incapables de la moindre jugeote. Sans même parler des mensonges devenus permanents, l'incapacité de ces gens à donner des décisions fiables plus d'une simple journée est un aveu patent de médiocrité. Et une leçon terrifiante, parce qu'en creux, de ce que peut ou de ce que doit être un dirigeant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cela dit, il y a de bons côtés à cette époque trouble. J'ai par exemple pu reprendre complètement mon <a href="https://riduidel.wordpress.com/tag/lifestream/">lifestream</a>, qui est maintenant presque complet ... En fait, il est fonctionnellement complet, mais manque encore d'intégration continue. J'ai d'ailleurs passé ces deux derniers jours à ajouter <a href="https://emojifrance.fr/">des emojis</a> partout. Regardez cette <a href="http://nicolas.delsaux.free.fr/lifestream/tags/index.html">liste de tags</a>, c'est un peu plus joli, non ? Et ça m'inspire plusieurs choses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, je comprend mieux certains développeurs fans des <a href="https://fr.wikipedia.org/wiki/%C3%89moji">emojis</a>, y compris dans <a href="https://gitmoji.carloscuesta.me/">les messages de commit</a>. En fait, je ne comprend pas pourquoi on ne les utilise pas beaucoup plus dans le développement et (notamment à la place des glyphicons à la <a href="https://fontawesome.com/">font awesome</a>). Parce que normalement, si j'ai bien compris, les emojis sont directement stockés dans les ressources du navigateur, il n'y a donc rien à télécharger ! Mais je demanderai à mes collègues développeurs web ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par ailleurs, j'ai réussi à implémenter un bout de Javascript assez marrant pour émuler une fonctionnalité de recherche par tag avancée. Et franchement, faire du JS en 2020, ça peut se faire comme il y a 20 ans (un peu mieux en fait, en particulier grâce aux <a href="https://developer.mozilla.org/fr/docs/Apprendre/HTML/Comment/Utiliser_attributs_donnes">attributs de données</a>, qui permettent de définir un modèle de données sans avoir de structures Javascript foireuses). Et c'est marrant parce que j'ai regardé aujourd'hui une présentation sur Svelte, </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/anthony_legoas\/status\/1253346110460112900","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/anthony_legoas" class="screenName"><img src="http://pbs.twimg.com/profile_images/1211607564552683520/SHabOF70_mini.jpg" alt="profile of CTO @ZenikaBrest @ZenikaIT  • organizer @SvelteSocietyFr @BrestJS @UXDesignBrest • web & mobile developer"/>anthony_legoas</a>
+		<span class="name">Anthony Le Goas</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/anthony_legoas/status/1 253 346 110 460 112 900" class="date">23 avr. 2020 à 17:32:53</a>
+
+	<span class="content">
+	
+	<span class="text">🎬 La vidéo de mon talk "@sveltejs, pourquoi tant de hype ?" joué lors de la RemoteClazz @ZenikaBrest @ZenikaRennes est maintenant disponible sur YouTube 😀👇
+https://t.co/cGPV5GwtSU</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>qui en explique l'avantage pour le développement web, et si je comprend la manoeuvre, j'ai bien l'impression qu'il s'agit d'un paradigme très différent de ce que je fais personnellement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A côté de ce projet qui est maintenant quasiment terminé, j'ai quand même quelques trucs qui foirent ... par exemple, il y a deux articles que je n'arrive décidément pas à écrire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Un premier sur la bonne taille d'un service</li><li>Un second sur le mode de construction de la communauté des développeurs.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Je sais à peu près pourquoi je bloque sur l'écriture de ces articles, mais ça ne rend pas le blocage moins désagréable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heureusement, comme à partir de demain je vais retrouver une activité très partielle, je pense que ça va aider en me secouant la boîte à idées, qui en a un peu besoin.</p>
+<!-- /wp:paragraph -->
+++++

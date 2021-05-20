@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What's worked in computer science
+:jbake-tags: programming,histoire,ordinateur,méthode,_mois_juin,_année_2017
+:jbake-date: 2017-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1497508509000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanluu.com%2Fbutler-lampson-1999%2F&searchtags=programming+histoire+ordinateur+m%C3%A9thode+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://danluu.com/butler-lampson-1999/[What's worked in computer science]
+
+Trè bon article. Rien que la table du début est une information fabuleusement utile

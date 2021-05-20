@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SynergyKM
+:jbake-tags: freeware,geek,hack,macosx,system,réseau,remote,gui,_mois_avr.,_année_2007
+:jbake-date: 2007-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1176270622000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsoftware.landryhetu.com%2Fsynergy%2F&searchtags=freeware+geek+hack+macosx+system+r%C3%A9seau+remote+gui+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://software.landryhetu.com/synergy/[SynergyKM]
+
+Une interface graphique pour configurer Synergy (http://synergy2.sourceforge.net)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LastGraph: Home
+:jbake-tags: audio,design,graphics,visualisation,last.fm,mashup,_mois_oct.,_année_2010
+:jbake-date: 2010-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1286367718000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flastgraph3.aeracode.org%2F&searchtags=audio+design+graphics+visualisation+last.fm+mashup+_mois_oct.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://lastgraph3.aeracode.org/[LastGraph: Home]
+
+last.fm semble avoir créé, comme plusieurs autres services web, un écosystème assez riche. par exemple, LastGraph crée de très jolis posters à partir de la musique que je dis à last.fm que je joue.

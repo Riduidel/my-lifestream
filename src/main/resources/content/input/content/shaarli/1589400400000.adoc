@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VOLE.wtf 🐹⁉️ because internet is stupid
+:jbake-tags: web,humour,original,expérience,_mois_mai,_année_2020
+:jbake-date: 2020-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1589400400000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvole.wtf%2F&searchtags=web+humour+original+exp%C3%A9rience+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://vole.wtf/[VOLE.wtf 🐹⁉️ because internet is stupid]
+
+Le site est original, et rempli de trucs aussi débiles que marrants (et intéressants)

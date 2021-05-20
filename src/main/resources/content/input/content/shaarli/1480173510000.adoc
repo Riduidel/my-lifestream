@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: From sprinklers to battlestations: Ars staffers’ crazy home lab experiments | Ars Technica
+:jbake-tags: ordinateur,geek,_mois_nov.,_année_2016
+:jbake-date: 2016-11-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1480173510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farstechnica.com%2Fstaff%2F2016%2F11%2Ffrom-sprinklers-to-battlestations-ars-staffers-crazy-home-lab-experiments%2F&searchtags=ordinateur+geek+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://arstechnica.com/staff/2016/11/from-sprinklers-to-battlestations-ars-staffers-crazy-home-lab-experiments/[From sprinklers to battlestations: Ars staffers’ crazy home lab experiments | Ars Technica]
+
+Les gens d'Ars technica sont quand même des sacrés geeks

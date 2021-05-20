@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: m.css math | m.css
+:jbake-tags: css,web,mathématiques,renderer,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529401971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmcss.mosra.cz%2Fadmire%2Fmath%2F%23demo&searchtags=css+web+math%C3%A9matiques+renderer+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://mcss.mosra.cz/admire/math/#demo[m.css math | m.css]
+
+C'est joli !

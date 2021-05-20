@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quantika
+:jbake-tags: serie
+:jbake-date: 2019-02-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Quantika.adoc
+:jbake-source: https://www.goodreads.com/series/162396
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782072697975.html[Vestiges (Quantika, #1)]

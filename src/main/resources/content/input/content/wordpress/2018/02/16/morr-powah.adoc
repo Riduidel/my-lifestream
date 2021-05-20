@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MORR POWAH !
+:jbake-tags: électronique,musique,raspberrypi,_mois_févr.,_année_2018
+:jbake-date: 2018-02-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/02/16/morr-powah.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/02/16/morr-powah/
+:jbake-style: wordpress
+
+++++
+<p>
+<img src="https://i.imgur.com/3EHyn8o.gif" alt="" />
+</p>
+<p>
+Pour ma webradio en cours de rémission, j'avais acheté un petit amplificateur à brancher sur mon Raspberry. Hélas, j'avais oublié que mes haut-parleurs avaient une impédance de 5 ohms ... Ce qui faisait que ma carte <a href="http://iqaudio.co.uk/hats/8-pi-dac-0712411999643.html">Pi-DAC+</a> ne pouvait sortir qu'un son minimal sur ces chouettes haut-parleurs.
+</p>
+<p>
+Du coup, j'ai dû demander au fournisseur d'échanger la carte (ce qu'il a fait de bon coeur - je dis ça parce qu'il s'agit d'un fournisseur anglais, qui n'est pas à ma connaissance tenu par les lois de la consommation française).
+</p>
+<p>
+Et j'ai maintenant un amplificateur <a href="http://iqaudio.co.uk/hats/9-pi-digiamp-0712411999650.html">Pi-DigiAMP+</a> ! Je ne l'ai pas encore testé, mais je suis déja satisfait du packaging et de la qualité des livraisons. Et demain, je ferais les premiers tests histoire de voir si je peux sortir quelque chose.
+</p>
+++++

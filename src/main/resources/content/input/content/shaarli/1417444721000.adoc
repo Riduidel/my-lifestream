@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gestionnaires de mot de passe sous Android - Attention à la fuite... - Korben
+:jbake-tags: sécurité,android,software,_mois_déc.,_année_2014
+:jbake-date: 2014-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1417444721000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkorben.info%2Fgestionnaires-de-mot-de-passe-sous-android-attention-la-fuite.html&searchtags=s%C3%A9curit%C3%A9+android+software+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://korben.info/gestionnaires-de-mot-de-passe-sous-android-attention-la-fuite.html[Gestionnaires de mot de passe sous Android - Attention à la fuite... - Korben]
+
+Bon, faut pas non plus s'alarmer : c'est un problème qui est connu et, par exemple, Keepass2Android fournit un clavier virtuel spécifique qui évite précisément ce problème. Cela dit, je vais quand même tester si ça marche vraiment bien ...

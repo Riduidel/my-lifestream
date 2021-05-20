@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cocoatech: Path Finder 3.2.2 now available!
+:jbake-tags: software,shareware,macosx,system,finder,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111051315000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cocoatech.com%2Fpf.php&searchtags=software+shareware+macosx+system+finder+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cocoatech.com/pf.php[Cocoatech: Path Finder 3.2.2 now available!]
+
+Welcome to Path Finder! Path Finder is a powerful file manager with many built-in utilities and tools. Built using 100% Cocoa and Objective-C, Path Finder leverages the built-in power of Mac OS X to give you fast, powerful access to your files and applica

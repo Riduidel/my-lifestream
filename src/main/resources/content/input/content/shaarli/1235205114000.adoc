@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mounting external disks to the DNS-323 USB port for fun and profit at horto.ca
+:jbake-tags: disk,howto,dns-323,tutorial,linux,_mois_févr.,_année_2009
+:jbake-date: 2009-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1235205114000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.horto.ca%2F%3Fp%3D27&searchtags=disk+howto+dns-323+tutorial+linux+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.horto.ca/?p=27[Mounting external disks to the DNS-323 USB port for fun and profit at horto.ca]
+
+Peut-être le meilleur tutorial sur le sujet du montage de périphériques USB sur mon disque dur réseau. Comme j'ai déja utilisé le HOWTO du wiki dns323, mais que je le trouve assez peu complet, je vais voir si ce tutoriel me permet, par exemple, d'automatiser toute la manoeuvre après un redémarrage.

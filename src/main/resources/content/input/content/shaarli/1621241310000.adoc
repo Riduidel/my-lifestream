@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lucky/bad_actor_poc
+:jbake-tags: sécurité,rust,programming,vscode,_mois_mai,_année_2021
+:jbake-date: 2021-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1621241310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flucky%2Fbad_actor_poc&searchtags=s%C3%A9curit%C3%A9+rust+programming+vscode+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/lucky/bad_actor_poc[lucky/bad_actor_poc]
+
+Sapristi ! C'est une sacrément belle attaque du poste de dév ! (en vérité, c'est plus une exploitation du Rust Server Protocol, à mon sens)

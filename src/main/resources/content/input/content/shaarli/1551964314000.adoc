@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quarkus - Supersonic Subatomic Java
+:jbake-tags: java,programming,framework,docker,kubernetes,_mois_mars,_année_2019
+:jbake-date: 2019-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1551964314000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fquarkus.io%2F&searchtags=java+programming+framework+docker+kubernetes+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://quarkus.io/[Quarkus - Supersonic Subatomic Java]
+
+Pour ceux qui font du Java moderne (au-delà de java 8, quoi), ce framework est, à mon avis, le truc le plus spectaculaire depuis \*très\* longtemps.

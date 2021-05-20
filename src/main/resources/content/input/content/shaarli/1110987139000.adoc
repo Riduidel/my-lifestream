@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Panic - Stattoo - Info that blends in with your Mac OS X Desktop!
+:jbake-tags: software,shareware,macosx,desktop,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110987139000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.panic.com%2Fstattoo%2F&searchtags=software+shareware+macosx+desktop+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.panic.com/stattoo/[Panic - Stattoo - Info that blends in with your Mac OS X Desktop!]
+
+This is rather gorgeous, though a bit limited to certain applications (Mail, iCal and so forth)

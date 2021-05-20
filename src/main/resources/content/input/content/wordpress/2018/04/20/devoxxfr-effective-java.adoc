@@ -1,0 +1,273 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Effective Java
+:jbake-tags: java,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-effective-java.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-effective-java/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Là, c’est du sérieux ! Joshua Bloch, l’auteur d’Effective Java vient nous parler de la troisième version de son livre. La deuxième datait de 2008, alors inutile de dire qu’il y a eu des changements depuis.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-6">
+</p>
+<p>
+Joshua ne va pas nous parler de tout son livre (parce qu’il n’a que 45 minutes)
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-8">
+<br/>
+<h2 id="truepr_f_rer_les_lambdas_aux_classes_anonymes">Préférer les lambdas aux classes anonymes</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Avant, les classes anonymes, c'était bien (et adapté aux patterns OO). Mais ça n’est plus très pratique avec la programmation fonctionnelle. Donc les lambdas, c’est mieux. Mais avec les comparateurs, c’est un peu plus pratique (puisqu’ils construisent les lambdas à la volée).
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-12">
+<br/>
+<h3 id="trueeviter_les_types_sauf_si_ils_sont_n_cessaires">Eviter les types sauf si ils sont nécessaires</h3>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Dans les lambdas, avec l’inférence de type, oublier les types, c’est cool. Parce que l’inférence de type, c’est magique, mais ça marche. Par contre, ça repose sur les informations des types génériques. Donc utilisez les génériques, sinon les lambdas ne marchent pas.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-18">
+<br/>
+<h3 id="trueutiliser_les_lambdas_dans_les_enums">Utiliser les lambdas dans les enums</h3>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Avant, on pouvait faire des enums avec comportement variable grâce aux classes anonymes. Maintenant, grâce aux lambdas, c’est nettement plus facile : il suffit de passer une lambda avec l’opération variable dans le constructeur de l’enum.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-22">
+<br/>
+<h3 id="trueattention_aux_lambdas">Attention aux lambdas</h3>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Elles n’ont ni nom, ni documentation. Donc si vous ne comprenez pas ce que fait une lambda, faites-en une méthode. Et les classes anonymes ont quelque avantages :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-27">
+<br/>
+<ul>
+<br/>
+<li>pas besoin d’interface fonctionnelle</li>
+<br/>
+<li>une classe anonyme a un this, et pas la lambda</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-30">
+<br/>
+<h2 id="truepr_f_rez_les_r_f_rences_de_m_thodes_aux_lambdas">Préférez les références de méthodes aux lambdas</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Ca rend le code d’autant plus lisible qu’il y a de nombreux paramètres à la méthode. Et dans une lambda, il faut faire attention au nom des paramètres
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-34">
+<br/>
+<h3 id="trueparfois_les_lambdas_sont_plus_courtes_crire">Parfois, les lambdas sont plus courtes à écrire</h3>
+<br/>
+<div class="paragraph data-line-35">
+</p>
+<p>
+Par exemple <code>(x → x)</code> est plus efficace que <code>(Function.identity())</code>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-37">
+<br/>
+<h3 id="trueattention_aux_types_de_r_f_rence_de_m_thode">Attention aux types de référence de méthode</h3>
+<br/>
+<div class="paragraph data-line-38">
+</p>
+<p>
+Chaque type de méthode a sa propre déclaration de référence, ce qui peut rendre les choses un peu compliquées (mais toujours plus simples que les lambdas).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-40">
+<br/>
+<h2 id="truepr_f_rez_les_interfaces_fonctionnelles_standard">Préférez les interfaces fonctionnelles standard</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-41">
+</p>
+<p>
+L’exemple est un peu long, mais globalement, l’idée, c’est que si une interface fonctionnelle existe déjà, utilisez-la plutôt que de redéclarer la vôtre. Parce que bon, Java a déjà 43 interfaces fonctionnelles ! Les plus importantes sont <code>UnaryOperator</code>, <code>BinaryOperator</code>, <code>Predicate</code>, <code>Function</code>, <code>Supplier</code>, <code>Consumer</code>. Et puis elles fournissent déjà une API, ce qui limite ce qu’un utilisateur de votre API doit apprendre. En plus, elles fournissent des méthodes par défaut intéressantes (comme <code>Predicate</code> qui fournit <code>combine</code> et <code>negate</code>)
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-45">
+<br/>
+<h3 id="truequand_ne_pas_les_utiliser">Quand ne pas les utiliser ?</h3>
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Evidement, quand aucune de ces interfaces ne correspond à votre besoin. Ou alors quand votre interface fonctionnelle définit un contrat clair (comme par exemple <code>Comparator</code>).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-49">
+</p>
+<p>
+Donc, écrivez votre interface fonctionnelle si
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-51">
+<br/>
+<ul>
+<br/>
+<li>elle sera beaucoup utilisée</li>
+<br/>
+<li>elle a un nom clair</li>
+<br/>
+<li>elle définit un contrat fort</li>
+<br/>
+<li>elle pourrait bénéficier de méthodes par défaut</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-56">
+</p>
+<p>
+Mais n’oubliez pas vos responsabilités : vous définissez une interface, et ça c’est pas de la tarte.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-58">
+<br/>
+<h2 id="trueutilisez_les_streams_avec_justesse">Utilisez les streams avec justesse</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-59">
+</p>
+<p>
+Donc un stream, c’est un flux de données traité par un pipeline dans lequel on trouve
+<br/>
+<ul>
+<br/>
+<li>un générateur</li>
+<br/>
+<li>zéro ou plus d’opérations intermédiaires</li>
+<br/>
+<li>et enfin une terminaison</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-64">
+</p>
+<p>
+Joshua nous montre ensuite un exemple dans lequel il remplace toutes les collections par des streams. Et c’est illisible. La conclusion est évidente : utilisez les streams avec justesse pour éviter de faire de votre code un bazar sans nom. Notez par ailleurs que les streams de caractères …​ ça ne marche pas. Par ailleurs, dans certains cas, il est difficile de déterminer si les streams seront meilleurs que les itérations traditionnelles.Enfin, la parallélisation des streams donne parfois des résultats désastreux (comme dans son exemple de calcul de nombre de Mersenne où chaque valeur dépend de toutes les valeurs précédents.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-73">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-75">
+</p>
+<p>
+Java est maintenant un langage multiparadigme. Choisissez avec soin les parties que vous utilisez.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

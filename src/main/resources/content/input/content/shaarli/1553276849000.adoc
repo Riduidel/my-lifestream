@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thomas Haessle 🇫🇷👨‍💻 on Twitter: "🧠 thought of day : if code is power, developing a framework is a lobbyist action. While main contribution in framework architecture come from Google, Microsoft, Facebook, IBM, Netflix : how they influenced us ? ⬇️"
+:jbake-tags: programming,marketing,communication,conférence,_mois_mars,_année_2019
+:jbake-date: 2019-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1553276849000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FOteku%2Fstatus%2F1108628707953004545&searchtags=programming+marketing+communication+conf%C3%A9rence+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Oteku/status/1108628707953004545[Thomas Haessle 🇫🇷👨‍💻 on Twitter: "🧠 thought of day : if code is power, developing a framework is a lobbyist action. While main contribution in framework architecture come from Google, Microsoft, Facebook, IBM, Netflix : how they influenced us ? ⬇️"]
+
+Ca colle bien au message d'une prochaine présentation

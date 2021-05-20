@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Event Queue · Decoupling Patterns · Game Programming Patterns
+:jbake-tags: programming,jeu,design,pattern,événement,tutorial,concepts,_mois_févr.,_année_2021
+:jbake-date: 2021-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1612515279000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgameprogrammingpatterns.com%2Fevent-queue.html&searchtags=programming+jeu+design+pattern+%C3%A9v%C3%A9nement+tutorial+concepts+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://gameprogrammingpatterns.com/event-queue.html[Event Queue · Decoupling Patterns · Game Programming Patterns]
+
+La vision d'une queue d'évènement par un développeur de jeu vidéo ... très intéressant parce que conceptuellement très "pur"

@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ah le coquin de SebSauvage !
+:jbake-tags: bug,shaarli,web,html,_mois_déc.,_année_2013
+:jbake-date: 2013-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1386171487000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fwiki%2Flib%2Fexe%2Ffetch.php%3Fw%3D300%26tok%3D7ba71b%26media%3Dphp%3Aphp_shaarli%3Ashaarli_cap12_tools.png&searchtags=bug+shaarli+web+html+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sebsauvage.net/wiki/lib/exe/fetch.php?w=300&tok=7ba71b&media=php:php_shaarli:shaarli_cap12_tools.png[Ah le coquin de SebSauvage !]
+
+C'est quoi cette façon de faire un export en vieil HTMl des familles sans fin de tags ? Hein ? C'EST QUOI ! Quoi, vous voulez des preuves en plus ? OK
+
+    Bookmarks Bookmarks 
+       
+        Paix et félicité: 7 points de réflexion sur Demolition man - Warrior du Dimanche 
+       
+       
+        Si même un navet comme Demolition Man se révèle prophétique, je n'ose pas imaginer ce que donnerait l'analyse d'une oeuvre "intelligente" ... Ou plutôt, c'est à se delmander combiend e messages subversifs et intelligents sont planqués dans ces fameux films d'action des années 80/90 ...
+
+Vous els voyez les balises de fin de DT et DD ? BEN MOI NON PLUS Heureusement que NekoHTML sait redresser ça, sinon je serais fâché.

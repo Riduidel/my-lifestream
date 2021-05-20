@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AssertJ / Fluent assertions for java
+:jbake-tags: java,framework,test,_mois_août,_année_2014
+:jbake-date: 2014-08-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1408433051000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjoel-costigliola.github.io%2Fassertj%2Fassertj-assertions-generator.html&searchtags=java+framework+test+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://joel-costigliola.github.io/assertj/assertj-assertions-generator.html[AssertJ / Fluent assertions for java]
+
+Oulalalala Ca m'a l'air d'être une fabuleusement bonne idée, ces assertions générées à partir du code métier de l'application

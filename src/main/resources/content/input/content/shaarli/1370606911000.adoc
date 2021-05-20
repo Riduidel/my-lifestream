@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Food for thought - The Oatmeal
+:jbake-tags: humour,animaux,comics,web,_mois_juin,_année_2013
+:jbake-date: 2013-06-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1370606911000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftheoatmeal.com%2Fcomics%2Fbacon_flavor&searchtags=humour+animaux+comics+web+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://theoatmeal.com/comics/bacon_flavor[Food for thought - The Oatmeal]
+
+Rho ... Mangez du bacon, c'est de l'amour de cochonnade :-)

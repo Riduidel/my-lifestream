@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: php.internals: Re: Flexible function naming
+:jbake-tags: php,documentation,programming,histoire,_mois_déc.,_année_2013
+:jbake-date: 2013-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1387372319000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnews.php.net%2Fphp.internals%2F70691&searchtags=php+documentation+programming+histoire+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://news.php.net/php.internals/70691[php.internals: Re: Flexible function naming]
+
+Vous avez déja lu "PHP, a fractal of fail" ? Non ? Bon, ben ce message explique une partie de la mentalité de l'auteur, je trouve : son histoire de table de hash des noms de fonction basé sur strlen() fait un peu mal, parce que c'est juste moche comme pas possible. Et le gars expliqu tranquillement que ça ne le dérangeait pas tant que ça ... Ca fait mal, je trouve.

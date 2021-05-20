@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Château des Etoiles GAZETTES
+:jbake-tags: serie
+:jbake-date: 2015-10-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Le_Chateau_des_Etoiles_GAZETTES.adoc
+:jbake-source: https://www.goodreads.com/series/243850
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782369810148.html[La Conquête de l'espace - Vol. 2 (Le Château des étoiles, #2)]

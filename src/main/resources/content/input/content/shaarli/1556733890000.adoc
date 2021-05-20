@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: csharad/rust-web-developer-roadmap: Roadmap to becoming a Rust Web Developer in 2019
+:jbake-tags: rust,programming,_mois_mai,_année_2019
+:jbake-date: 2019-05-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1556733890000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fcsharad%2Frust-web-developer-roadmap&searchtags=rust+programming+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/csharad/rust-web-developer-roadmap[csharad/rust-web-developer-roadmap: Roadmap to becoming a Rust Web Developer in 2019]
+
+C'est pas trop mal (même si certains aspects me paraissent discutables), et ça présente un bon "chemin" d'apprentissage

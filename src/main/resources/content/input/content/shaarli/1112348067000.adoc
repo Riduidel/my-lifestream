@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ten CSS tricks you may not know : evolt.org, Code
+:jbake-tags: web,css,documentation,tips,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348067000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.evolt.org%2Farticle%2FTen_CSS_tricks_you_may_not_know%2F17%2F60369%2F&searchtags=web+css+documentation+tips+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.evolt.org/article/Ten_CSS_tricks_you_may_not_know/17/60369/[Ten CSS tricks you may not know : evolt.org, Code]
+
+Some CSS tricks.

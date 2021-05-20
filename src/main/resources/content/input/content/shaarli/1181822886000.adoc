@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 10 Minute Mail
+:jbake-tags: disposable,free,email,productivité,service,spam,tool,web,_mois_juin,_année_2007
+:jbake-date: 2007-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1181822886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F10minutemail.com%2F10MinuteMail%2Findex.html&searchtags=disposable+free+email+productivit%C3%A9+service+spam+tool+web+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://10minutemail.com/10MinuteMail/index.html[10 Minute Mail]
+
+Un service d'adresses mail temporaire, pour éviter de se faire spammer.

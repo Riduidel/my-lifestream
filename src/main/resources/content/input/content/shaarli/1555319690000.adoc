@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Roy van Rijn on Twitter: "I’ve become old. I’ve become wary of new technology and new frameworks. I’ve become the grumpy fellow in the back who says. after someone demos GraphQL: “Isn’t that just like SQL queries from the front end.... like PHP?” Is this what is feels like to be a “senior developer”?"
+:jbake-tags: expérience,programming,mode,_mois_avr.,_année_2019
+:jbake-date: 2019-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1555319690000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Froyvanrijn%2Fstatus%2F1117700862959411200&searchtags=exp%C3%A9rience+programming+mode+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/royvanrijn/status/1117700862959411200[Roy van Rijn on Twitter: "I’ve become old. I’ve become wary of new technology and new frameworks. I’ve become the grumpy fellow in the back who says. after someone demos GraphQL: “Isn’t that just like SQL queries from the front end.... like PHP?” Is this what is feels like to be a “senior developer”?"]
+
+Effectivement, ça arrive à tous les développeurs "senior".

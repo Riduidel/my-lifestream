@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: robolord sur Twitter : "what did i do today? well i was working to get wapm’s packs from wrapped wasm to wasi wat. wat’s a wasi wat? well a wasi wat’s wat u write when u write a wasm pack for wasmer’s wapm. working with wasm-pack? write without wasi and use wasm not wat. i hope that clears up ur confusi"
+:jbake-tags: citation,humour,wasm,programming,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571128508000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_______lord%2Fstatus%2F1181648168552935425&searchtags=citation+humour+wasm+programming+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/_______lord/status/1181648168552935425[robolord sur Twitter : "what did i do today? well i was working to get wapm’s packs from wrapped wasm to wasi wat. wat’s a wasi wat? well a wasi wat’s wat u write when u write a wasm pack for wasmer’s wapm. working with wasm-pack? write without wasi and use wasm not wat. i hope that clears up ur confusi"]
+
+Ca ressemble vraiment à une chanson des blues brothers ...

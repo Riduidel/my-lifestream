@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A step-by-step guide to building a simple chess AI
+:jbake-tags: codingame,ia,programming,compétition,métaphore,_mois_mai,_année_2021
+:jbake-date: 2021-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1620588810000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fsimple-chess-ai-step-by-step-1d55a9266977%2F&searchtags=codingame+ia+programming+comp%C3%A9tition+m%C3%A9taphore+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/[A step-by-step guide to building a simple chess AI]
+
+Vu la richesse du contest codingame du moment, il semble que s'inspirer des IA d'échecs puisse être une bonne idée

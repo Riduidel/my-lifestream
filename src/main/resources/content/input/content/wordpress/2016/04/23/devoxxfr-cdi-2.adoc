@@ -1,0 +1,126 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - CDI 2
+:jbake-tags: devoxx,java,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-cdi-2.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-cdi-2/
+:jbake-style: wordpress
+
+++++
+<p>
+Injectons donc un peu de nouveauté maintenant ... avec CDI 2. Et à mon avis, avec José et Antoine, ça devrait être très intéressant (sans doute aussi parce que CDI me fascine comme le serpent fascine la souris).
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/antoine_sd" class="screenName"><img src="http://pbs.twimg.com/profile_images/676536790233178112/k5E-6YqZ_mini.jpg" alt="profile of Java Champion, I work at @Sciam_fr. Former Jakarta EE CDI spec lead, I’m still involved in @cdispec and MicroProfile"/>antoine_sd</a>
+<br/>
+<span class="name">Antoine Sabot-Durand</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/antoine_sd/status/723 511 529 270 812 673" class="date">22 avr. 2016 à 15:59:25</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Super participation de la communauté #DevoxxFR pour notre talk #CDI2 (cc @JosePaumard) https://t.co/6GiBTADjt5</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Cgpt5aBWIAE7570.jpg" alt="723 511 523 151 323 137"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Comme d'habitude, comme c'est une discussion sur la spec, le premier point important, c'est : vous pouvez contribuer à CDI 2. Alors si vous avez envie d'aider l'expert group, n'hésitez pas.
+</p>
+<p>
+CDI, pour l'instant, a 3 version
+<br/>
+<ol>
+<br/>
+<li>CDI 1.0 (2009)</li>
+<br/>
+<li>CDI 1.1 (2013)</li>
+<br/>
+<li>CDI 1.2 (2014)</li>
+<br/>
+</ol>
+<br/>
+Et CDI 2 devrait sortir avant Janvier 2017.
+</p>
+<p>
+Je vous passe les détails sur CDI ? Oui, je passe, parce que vous les connaissez évidement.
+</p>
+<p>
+Bon, le suivi de CDI 2 est assuré par un meeting IRC par semaine, et ça avance bien. Il y a un cdi-spec.org pour participer plus facilement.
+</p>
+<p>
+Je vous laisserai regarder la liste des nouvelles features, mais c'est vraiment vraiment chouette. La sécurité va être externalisée de la spec CDI pour être placée dans sa propre spec.
+</p>
+<p>
+Donc on pourra démarrer de façon standard CDI en JavaSE (on peut le faire actuellement, mais c'est dépendant de l'implémentation). Ce qui est mieux que de dépendre d'un conteneur JavaEE. A noter que la spec CDI a des liens vers le TCK, d onc on peut facilement regarder le code de test correspondant à une feature. Très pratique pour vérifier qu'on a bien compris un point.
+</p>
+<p>
+Il y a des discussions sur les scopes qui seront supportés en JavaSE. Typiquement, on pourrait ajouter un MehtodScope ... Si il est utilisable pour, par exemple, l'utiliser lors d'un MouseEvent, ça vaudrait le coup.
+</p>
+<p>
+Et passons aux événements !
+</p>
+<p>
+La grosse feature est l'utilisation d'événements asynchrones. Parce qu'en CDI 1, le mode de transport n'est pas spécifié, mais tout le monde fait du transfert synchrone. Du coup, certains utilisateurs ont abusé cette fonctionnalité pour en faire un visiteur (et vu la tête des speakers, Antoine l'aurait plus volontiers fait que José). Du coup, comme ça a été fait, et comme on fait du Java, et comme ça respecte la spec, il faut le garder, sinon tout le code historique va mourir. Evidement, on ne veut pas vraiment de ça.
+<br/>
+En bonus, les contextes CDI sont confondus avec les threads. Du coup, passer les événements en assynchrone va être compliqué.
+<br/>
+Donc, ce sera l'appelant de la méthode Event.fire() qui pourra décider si l'événement est synchrone ou pas. Et l'observer doit pouvoir être sûr d'être dans le bon contexte. Et là, mais je sais qu'ils me diront que c'est pas terrible, ils vont ajouter Event.fireAsync() et @ObservesAsync ... J'ai bien l'impression que j'aurais préféré Event.async().fire() et Observes(async=true) ... Mais je ne suis pas dans la spec.
+</p>
+<p>
+En revanche, là où il faut être attentif, c'est qu'un envoi incompatible ne donnera lieu à aucun déclenchement de méthode. C'est dommage qu'il n'y ait pas moyen de savoir qu'on fait une erreur dans ce cas.
+</p>
+<p>
+Bon, par contre, pour les événements mutables, ben là, ne le faites pas. RELLEMENT, NE LE FAITES PAS.
+</p>
+<p>
+Pour en revenir aux bonnes nouvelles, quand on fait fireAsync, on peut passer un ExecutorService pour définir le thread d'exécution de l'observer.
+</p>
+<p>
+Par contre, pour récupérer l'état après un appel asynchrone, le fireAsync va retourner un CompletionStage ... ce qui explique pourquoi il y a une méthode fireAsync() plutôt qu'un async().fire() ...
+</p>
+<p>
+Passons aux améliorations du support d'AOP.
+</p>
+<p>
+Bon, on va pouvoir injecter des contextes dans des @Produces. mais ce qui est intéressant là-dedans, c'est la classe UnManaged, qui permet de faire de l'injection sur des objets non créés par CDI. Parce que pour le reste, CDI 2 va "juste" simplifier énormément la transformation d'une annotation.
+</p>
+<p>
+Ca donne pas envie de faire du CDI 2 ? Eh ben si, vraiment.
+</p>
+++++

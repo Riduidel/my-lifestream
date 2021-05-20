@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Update on Jakarta EE Rights to Java Trademarks | Life at Eclipse
+:jbake-tags: programming,java,javaee,écosystème,_mois_mai,_année_2019
+:jbake-date: 2019-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1557125436000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feclipse-foundation.blog%2F2019%2F05%2F03%2Fjakarta-ee-java-trademarks%2F&searchtags=programming+java+javaee+%C3%A9cosyst%C3%A8me+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://eclipse-foundation.blog/2019/05/03/jakarta-ee-java-trademarks/[Update on Jakarta EE Rights to Java Trademarks | Life at Eclipse]
+
+Heureusement que JavaEE a depuis longtemps perdu de son intérêt (la faute aux microservices), sinon ce serait une nouvelle franchement dramatique.

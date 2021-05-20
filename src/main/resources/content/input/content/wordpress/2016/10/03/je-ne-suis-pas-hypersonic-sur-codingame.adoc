@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je ne suis pas hypersonic sur CodinGame
+:jbake-tags: codingame,game,java,programming,_mois_oct.,_année_2016
+:jbake-date: 2016-10-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/10/03/je-ne-suis-pas-hypersonic-sur-codingame.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/10/03/je-ne-suis-pas-hypersonic-sur-codingame/
+:jbake-style: wordpress
+
+++++
+<p>
+Depuis deux ou trois semaines, avec quelques collègues, nous avons créé des comptes CodinGame et nous nous sommes lancé dans les jeux pour programmeurs qui y sont disponibles.
+</p>
+<p>
+Au début, c'était simple ...
+</p>
+<p>
+Et puis, il y a deux semaines, ils ont lancé Hypersonic. Bon, hypersonic, c'est pas bien compliqué, c'est faire jouer un bot que vous programmez. Donc j'en ai codé <a href="https://github.com/Riduidel/codingame/tree/master/hypersonic">un</a>.
+</p>
+<p>
+Et j'ai fini quasi-dernier en bronze.
+</p>
+<p>
+Vous pouvez lire <a href="https://github.com/Riduidel/codingame/tree/master/hypersonic">le post-mortem</a> que j'ai écrit pour y voir les leçons techniques.
+</p>
+<p>
+J'en tire quelques autres leçons, plus humaines.
+</p>
+<p>
+La première est assez logique, pour un jeu : c'est la chose la plus amusante, la plus prenante, et la plus crispante que j'ai codé au moins cette année, et facilement ces cinq dernières années. Imaginer un algorithme, le développer, et le voir se comporter, même mal, a ce côté démiurgique qui est la raison pour laquelle je suis développeur. Le corollaire évident, c'est que je ne comprend toujours pas pourquoi mon métier est aussi chiant actuellement : j'ai utilisé des méthodes professionnelles pour développer ce bot : tests, profiling, ... Et c'était vraiment amusant. J'en tire la conclusion que notre métier est chiant parce que les demandes des clients sont, la plupart du temps, d'un ennui mortel.
+</p>
+<p>
+La seconde est assez logique, mais moins drôle : j'ai fini 1675ème ! C'est médiocre, évidement. Et c'est vrai que mon bot était médiocre : des timeouts partout, et des décisions suicidaires encore plus souvent. J'ai pris une vraie leçon d'humilité, ce qui est toujours bien.
+</p>
+<p>
+La dernière est plus intéressante : on est certes loin du fameux "meilleur programmeur de France", mais il y a beaucoup de monde, et qui semble prêt à y passer beaucoup de temps. Autrement dit, les développeurs sont des gens passionnés, prêts à se confronter les uns aux autres, et à communiquer autour de leurs succès ou de leurs échecs.
+</p>
+++++

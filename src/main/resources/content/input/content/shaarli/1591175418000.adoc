@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A simple way to get more value from tracing
+:jbake-tags: exploitation,informatique,devops,cloud,trace,_mois_juin,_année_2020
+:jbake-date: 2020-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1591175418000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanluu.com%2Ftracing-analytics%2F&searchtags=exploitation+informatique+devops+cloud+trace+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://danluu.com/tracing-analytics/[A simple way to get more value from tracing]
+
+Si vous vous intéressez au tracing, cet article est aussi intéressant qu'il est possible de l'être, à mon avis.

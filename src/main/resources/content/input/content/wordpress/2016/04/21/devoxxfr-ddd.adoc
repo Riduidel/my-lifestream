@@ -1,0 +1,65 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - DDD
+:jbake-tags: concepts,ddd,devoxx,programming,_mois_avr.,_année_2016
+:jbake-date: 2016-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-ddd.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-ddd/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme le speaker du talk "the quest for infrastructure management" n'est pas là, il y a à la place un talk sur le DDD ... Donc allons-y pour le DDD.
+</p>
+<p>
+Pour s'échauffer, Cyrille Martraire nous parle de son dinsoaure fait avec ... un peu de dinosaure.
+</p>
+<p>
+Donc, c'est parti.
+<br/>
+En 2001, avec JavaEE, on nous sort les patterns JavaEE. Et en 2003, c'est le début de DDD.
+</p>
+<p>
+Beaucoup de monde découvre DDD avec des frameworks, comme CQRS ... alors qu'en fait ça ne sert à rien.
+</p>
+<p>
+Et donc, en DDD, un des trucs importants, c'est d'utiliser un langage commun entre métier et dév ... Et évidement, il faut utiliser le langage du métier. Donc, choisissez bien vos mots, sachez précisément ce qu'il veut dire. et n'hésitez pas à utiliser un dictionnaire des synonymes. Du coup, un expert métier serait même capable de reconnaître tous les termes dans les classes. Et pour ça, faire un nuage de mots à partir du code est une bonne idée. Si les mots sont des mots de développeurs, c'est loupé.
+</p>
+<p>
+Quand est-ce que le DDD est utile ? Quand le métier est riche, quand le métier est complexe, quand c'est important. Parce que ça a un coût, évidement.
+<br/>
+Pour avancer dans le DDD, il faut avant tout être curieux du domaine métier.
+<br/>
+Ensuite, il faut comprendre vraiment ce domaine, typiquement grâce au BDD.
+</p>
+<p>
+Voir @carlopescio pour des concepts de physique du code : typiquement, la code gravity où les grosses classes attirent le code.
+</p>
+<p>
+Pour éviter ça, le DDD recommande vraiment de mettre le code là où c'est utile. Ca veut dire qu'on refactore en fonction du métier, et pas en fonction de Sonar.
+<br/>
+Et donc, modéliser un modèle métier en UML, c'est souvent une erreur parce que c'est bien facilement bien trop compliqué.
+</p>
+<p>
+Il n'y a rien à télécharger pour faire du DDD, mais seulement une boîte à outils méthodologiques. C'est surtout important en java, parce qu'en F# ou Clojure, c'est bien plus facile.
+</p>
+<p>
+Dans cette boîte à outils, il y a des value objects (égaux par champs), les entités (qui ont un cycle de vie), et les services, qui font des trucs.
+<br/>
+Entités et value objects sont newables, et les services sont injectables.
+</p>
+<p>
+L'un des intérêts des services, c'est que comme ils sont injectables, ils peuvent, dans leurs implémentations, fournir des services techniques (persistance, typiquement). Et c'est bien comme ça qu'on va passer du domaine métier aux services techniques : grâce à la "persistence ignorance".
+</p>
+<p>
+On passe ensuite aux bounded contexts, qui permettent d'exposer différents aspects de la même donnée. Leur but, c'est de diminuer le couplage, au prix toutefois d'une duplication de code ... au début. Parce que dès que le code évolue, cette duplication n'est plus réelle.
+</p>
+<p>
+L'avantage, c'est évidement de permettre de séparer les services selon les contextes pour prendre ceux qui sont le plus adaptés.
+</p>
+<p>
+Très intéressant, même si la plupart des idées, excepté le bounded context, vient en fait du vieux monde de la POO traditionelle (façon C++).
+</p>
+++++

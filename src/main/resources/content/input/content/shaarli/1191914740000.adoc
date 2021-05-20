@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Books for MacOS X
+:jbake-tags: livre,catalog,freeware,macosx,multimedia,software,open-source,_mois_oct.,_année_2007
+:jbake-date: 2007-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1191914740000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbooks.aetherial.net%2Fwordpress%2F&searchtags=livre+catalog+freeware+macosx+multimedia+software+open-source+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://books.aetherial.net/wordpress/[Books for MacOS X]
+
+Une application de catalogue de livres sur mac, et en plus Open-source ... Je me demande quand même si je ne vais pas réussir à faire mieux dans JeBliki ... Bah, on verra. En attendant, je ferais mieux de la tester un peu, cette appli.

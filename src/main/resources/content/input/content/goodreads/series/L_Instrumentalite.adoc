@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Instrumentalité
+:jbake-tags: serie
+:jbake-date: 2004-05-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/L_Instrumentalite.adoc
+:jbake-source: https://www.goodreads.com/series/180466
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070427161.html[Les Seigneurs de l'Instrumentalité, II : La Planète Shayol]
+* link:../books/9782070427000.html[Les Seigneurs de l'instrumentalité, IV : Légendes et glossaire du futur]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sync your Slack status with your calendar | Slack Tips | Slack
+:jbake-tags: slack,google,gcalendar,synchronisation,plugin,_mois_janv.,_année_2021
+:jbake-date: 2021-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1610813379000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fslack.com%2Fintl%2Ffr-fr%2Fslack-tips%2Fsync-your-slack-status-with-your-calendar&searchtags=slack+google+gcalendar+synchronisation+plugin+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://slack.com/intl/fr-fr/slack-tips/sync-your-slack-status-with-your-calendar[Sync your Slack status with your calendar | Slack Tips | Slack]
+
+Tiens, j'ai bien l'impression que ça pourrait être utile, maintenant que mes congés sont synchronisés depuis l'appli de gestion de temps vers Google Agenda ...

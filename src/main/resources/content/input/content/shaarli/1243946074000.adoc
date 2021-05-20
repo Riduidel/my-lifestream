@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Search for MP3s using Google - Automated!
+:jbake-tags: mp3,musique,search,howto,download,web,google,_mois_juin,_année_2009
+:jbake-date: 2009-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1243946074000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.smacki.com%2Fmp3%2520search%2520using%2520google&searchtags=mp3+musique+search+howto+download+web+google+_mois_juin+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.smacki.com/mp3%20search%20using%20google[How to Search for MP3s using Google - Automated!]
+
+Un super outil de recherche de MP3 dans les résultats de Google

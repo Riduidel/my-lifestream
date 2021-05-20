@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Create UML diagrams online in seconds, no special tools needed.
+:jbake-tags: uml,générateur,web,_mois_mai,_année_2009
+:jbake-date: 2009-05-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1241522571000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fyuml.me%2F&searchtags=uml+g%C3%A9n%C3%A9rateur+web+_mois_mai+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://yuml.me/[Create UML diagrams online in seconds, no special tools needed.]
+
+Encore un petit générateur de fragments UML rigolo. Il est d'autant plus rigolo que là, on se contente d'écrire une url qui génère une image.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: java@u-strasbg.fr
+:jbake-tags: java,mailing-list,archive,_mois_mai,_année_2021
+:jbake-date: 2021-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1621343637000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjava.u-strasbg.narkive.com&searchtags=java+mailing-list+archive+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://java.u-strasbg.narkive.com[java@u-strasbg.fr]
+
+Pas forcément la meilleure, mais néanmoins une archive correctement navigable de cette excellente liste de discussion

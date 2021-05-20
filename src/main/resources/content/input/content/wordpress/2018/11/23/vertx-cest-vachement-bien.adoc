@@ -1,0 +1,132 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vertx, c'est vachement bien !
+:jbake-tags: java,maven,programming,vertx,_mois_nov.,_année_2018
+:jbake-date: 2018-11-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/11/23/vertx-cest-vachement-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/11/23/vertx-cest-vachement-bien/
+:jbake-style: wordpress
+
+++++
+<p>
+J'ai commencé récemment un projet lisant des messages d'AciveMQ pour les écrire dans Kafka. J'aurais pu utiliser <a href="https://www.confluent.io/connector/kafka-connect-activemq/">Kafka Connect</a>, mais les condtions de licence sont peu favorables au type de déploiement envisagé. Et comme le client m'a laissé libre de la technologie, j'ai choisi de créer une petite application <a href="https://vertx.io/">Vertx</a> (parce que ça faisait longtemps que je voulais tester). En fait, j'ai déja utilisé Vertx, mais indirectement, à travers ... <a href="http://wisdom-framework.org/">Wisdom Framework</a> (que j'ai <a href="https://riduidel.wordpress.com/2014/06/20/un-peu-de-wisdom-ca-fera-du-bien/">beaucoup aimé utiliser</a>). Donc Vertx c'est bien, parce que c'est simple, rapide asynchrone, tout ça.
+</p>
+<p>
+Et je voudrais vraiment que vous reteniez ça, parce que je vais rentrer dans les petits détails qui grattent.
+</p>
+<p>
+D'abord, vertx, comme Wisdom, justement, a un <a href="https://reactiverse.io/vertx-maven-plugin/">chouette plugin maven</a> pour faire du rechargement à chaud. C'est super efficace pour l'expérience du développeur. Mais, à la différence de Vertx, le plugin ne détecte que les changements dans le code, et pas dans le <code>pom.xml</code>. Il y a <a href="https://github.com/reactiverse/vertx-maven-plugin/issues/7">un ticket dans GitHub</a> à ce sujet ... mais sans avancement visible (et c'est d'autant plus dommage que Clément Escoffier a bossé sur <a href="https://github.com/wisdom-framework/wisdom/issues/318">le plugin Wisdom pour maven</a>). C'est un peu gênant, mais moins que l'autre problème ...
+</p>
+<p>
+L'autre problème, c'est celui de la ligne de commande de Windows et sa limite à 8192 caractères, comme je l'ai <a href="https://github.com/reactiverse/vertx-maven-plugin/issues/79">indiqué sur Github</a>. Le meilleur contournement que j'ai trouvé a été d'utiliser <a href="https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/subst">subst</a> (évidement à travers <a href="https://www.ntwind.com/software/utilities/visual-subst.html">une interface graphique</a>) pour mapper mon repository maven sur le disque virtuel <code>M:</code>.
+</p>
+<p>
+A part ça, le build se passe assez bien ... Du moment qu'on a bien codé.
+</p>
+<p>
+Et là, les surprises sont nombreuses.
+</p>
+<p>
+D'abord, il m'a fallu un peu de temps avant de comprendre que, pour utiliser le plugin Maven dans de bonnes conditions, il ne faut pas créer un <code>main(...)</code>, mais plutôt un "<code>MainVerticle</code>" dans lequel on met le code d'initialisation avant de mettre le code applicatif dans d'autres verticles que ce <code>MainVerticle</code> charge. C'est un mode de déploiement comme un autre ... sauf quand j'ai voulu ajouter les métriques avec <a href="https://vertx.io/docs/vertx-micrometer-metrics/java/">micrometer</a>. Parce que micrometer demande à manipuler les <code>VertxOptions</code>. Et ça, ça se fait dans un <code>Launcher</code> comme celui-ci
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">public class Launcher extends io.vertx.core.Launcher {
+<br/>
+public static void main(String[] args) {
+<br/>
+new Launcher().dispatch(args);
+<br/>
+}
+</p>
+<p>
+@Override
+<br/>
+public void beforeStartingVertx(VertxOptions options) {
+<br/>
+super.beforeStartingVertx(options);
+<br/>
+options.setMetricsOptions(new MicrometerMetricsOptions()
+<br/>
+.setPrometheusOptions(new VertxPrometheusOptions().setEnabled(true)).setEnabled(true));
+<br/>
+}
+<br/>
+}
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Comme vous le voyez, l'implémentation n'est pas forcément immédiate, puisqu'il faut surcharger à la fois le main et la méthode de construction des options.
+</p>
+<p>
+Vertx, c'est bien, mais il n'y a pas d'injection de dépendances ... sauf avec <a href="http://docs.jboss.org/weld/weld-vertx/latest/">vertx-weld</a>. Et j'aime bien CDI, le modèle est bon, il y a des possibilités intéressantes d'événements et de cycle de vie ... sauf que parfois, ça coince !
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/1 065 283 297 138 393 088" class="date">21 nov. 2018 à 17:38:24</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">I'm having a bad time with #vertx router being non-static/share-no-routes ... a problem which is worsened by the fact that #vertx-weld give no access to a shared router (AFAIK)</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Si vous suivez le fil, vous verrez que Clément me propose une solution. Merci Clément ! Malheureusement, la bonne solution n'est pas celle-là. Sans vraiment rentrer dans les détails, <a href="https://github.com/weld/weld-vertx/blob/master/web/src/main/java/org/jboss/weld/vertx/web/WeldWebVerticle.java"><code>WeldWebVerticle</code></a> déclare une extension Weld : <a href="https://github.com/weld/weld-vertx/blob/6f92e5b1f37091e51141fb91c37b303bc1f745c5/web/src/main/java/org/jboss/weld/vertx/web/RouteExtension.java"><code>RouteExtension</code></a>, laquelle fournit l'injection de l'objet Vertx. Je me suis donc dit qu'il était possible d'étendre <code>WeldWebVerticle</code> pour permettre de rendre le routeur injectable.
+</p>
+<p>
+Il y a deux problèmes avec ça.
+<br/>
+<ol>
+<br/>
+<li>La méthode <code>WeldWebVerticle#createRouter()</code> retourne toujours une nouvelle instance de routeur, ce qui met un sacré bazar.</li>
+<br/>
+<li>Pour rendre le routeur injectable, il faut créer un <code>Bean</code> (au sens Weld) produisant cet objet.</li>
+<br/>
+</ol>
+<br/>
+Pour le premier point, ça n'est pas compliqué, il suffit de surcharger <code>createRouter</code> pour retourner toujours la même instance. Par contre, pour le second ... je ne voulais pas réimplémenter toute l'interface Bean, j'ai donc cherché à réutiliser une implémentation existante, comme <a href="https://github.com/weld/weld-vertx/commit/04bb4a66fc6a1d9145e420c7be6b36306a5b0d36"><code>VertxBean</code></a> par exemple. Malheureusement, <code>VertxBean</code> est une classe privée, j'ai donc dû la recopier ... et ça, je n'aime pas trop.
+</p>
+<p>
+Une fois que ces petits soucis de style ont été résolus, développer avec Vertx est vraiment une expérience hautement recommandable. En fait, j'ai l'air de râler, mais j'ai passé un bon moment à développer avec Vertx, et j'espère que ça n'est pas fini !
+</p>
+++++

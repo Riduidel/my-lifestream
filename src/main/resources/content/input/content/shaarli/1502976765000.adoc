@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Detroit by Air - The New York Times
+:jbake-tags: ville,histoire,urbanisme,jardin,_mois_août,_année_2017
+:jbake-date: 2017-08-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1502976765000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2014%2F12%2F07%2Fopinion%2Fsunday%2Fexposures-detroit-by-air-alex-maclean.html&searchtags=ville+histoire+urbanisme+jardin+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.nytimes.com/interactive/2014/12/07/opinion/sunday/exposures-detroit-by-air-alex-maclean.html[Detroit by Air - The New York Times]
+
+Detroit est en train de devenir un jardin et, curieusement, je trouve ça assez chouette

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Linux Live USB Creator : Puissant créateur de clé USB Linux
+:jbake-tags: software,windows,linux,tool,portable,install,usb,liveusb,_mois_déc.,_année_2009
+:jbake-date: 2009-12-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1259772743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.linuxliveusb.com%2F&searchtags=software+windows+linux+tool+portable+install+usb+liveusb+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.linuxliveusb.com/[Linux Live USB Creator : Puissant créateur de clé USB Linux]
+
+Un soft absolument terrible pour se créer un Linux sur clé USB qui soit indépendant de Windows mais puisse, au besoin, se lancer depuis Windows

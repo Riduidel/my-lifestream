@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Solomon Hykes sur Twitter : "4. Rationalizing an emotional decision. Go was fun. It felt right. We thought: “if we’re willing to adopt Go on a gut feeling, maybe other systems geeks will be too? And wouldn’t it be cool if we could get them to feel that way about Docker, too?”"
+:jbake-tags: citation,go,programming,langage,motivation,psychologie,_mois_févr.,_année_2020
+:jbake-date: 2020-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1581011240000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsolomonstre%2Fstatus%2F1225259193524834304&searchtags=citation+go+programming+langage+motivation+psychologie+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/solomonstre/status/1225259193524834304[Solomon Hykes sur Twitter : "4. Rationalizing an emotional decision. Go was fun. It felt right. We thought: “if we’re willing to adopt Go on a gut feeling, maybe other systems geeks will be too? And wouldn’t it be cool if we could get them to feel that way about Docker, too?”"]
+
+Ca me rappelle un truc que j'ai entendu à Snowcamp : nous rationalisons les choix que nous avons construit émotionellement, jamais l'inverse.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bookmarklets context menu - Add-ons for Firefox - Les petits liens d'Alda
+:jbake-tags: firefox,shaarli,extension,integration,_mois_déc.,_année_2017
+:jbake-date: 2017-12-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1513691567000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftools.aldarone.fr%2Fshare%2F%3F6PJwrA&searchtags=firefox+shaarli+extension+integration+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://tools.aldarone.fr/share/?6PJwrA[Bookmarklets context menu - Add-ons for Firefox - Les petits liens d'Alda]
+
+Ah, c'est donc comme ça que Shaarli fonctionne dans Firefox 57 : j'enregistre la bookmarklet, et avec l'extension indiquée, elle apparaît dans mon menu contextuel. C'est assez propre

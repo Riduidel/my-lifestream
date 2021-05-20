@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mark Wojciechowicz on Twitter: "Why God invented source control from Roy Osherove in The Art of Unit Testing http://t.co/Oz13eeNFTx"
+:jbake-tags: citation,programming,source-control,_mois_juin,_année_2015
+:jbake-date: 2015-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1434545828000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FMarkW_BI%2Fstatus%2F611130856028172288%2Fphoto%2F1&searchtags=citation+programming+source-control+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/MarkW_BI/status/611130856028172288/photo/1[Mark Wojciechowicz on Twitter: "Why God invented source control from Roy Osherove in The Art of Unit Testing http://t.co/Oz13eeNFTx"]
+
+Pourquoi le gestionnaire de source ? Hein ? Pourquoi

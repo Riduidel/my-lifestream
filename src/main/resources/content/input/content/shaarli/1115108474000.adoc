@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tinySpell: Check your spelling with this freeware
+:jbake-tags: software,freeware,windows,utilities,productivité,_mois_mai,_année_2005
+:jbake-date: 2005-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1115108474000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.megspace.com%2Fcomputers%2Ftinyspell%2F&searchtags=software+freeware+windows+utilities+productivit%C3%A9+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.megspace.com/computers/tinyspell/[tinySpell: Check your spelling with this freeware]
+
+Occasionally you need to check the spelling of words in an application that does not include a spelling checker and you don't want to launch your word processor just for that. This is when tinySpell becomes handy. It is a small utility that allows you to

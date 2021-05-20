@@ -1,0 +1,24 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jsoup
+:jbake-tags: ca sert à presque rien,html,java,_mois_avr.,_année_2020
+:jbake-date: 2020-04-30
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/30/jsoup.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/30/jsoup/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Pour changer des gros articles, un truc un peu plus léger (ou tout au moins pratique pour plus de gens).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous écrivez sans doute dans votre application un bout de code qui doit parser des données. Quand c'est du CSV, ça va à peu près. Quand c'est du HTML, vous vous retrouvez assez rapidement coincé, parce que c'est pas vraiment du XML, et qu'il y a plein de cas foireux. Heureusement, <a href="https://jsoup.org/">JSoup </a>est là ! JSoup est une librairie inspirée par beautiful soup qui vous permet de parser à peu près n'importe quel fichier HTML du vrai monde. Même quand c'est du vieux HTML 3.2 ou une quelconque déclinaison créée pour Microsoft ou autre, ça marche.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et ce qui est vraiment chouette, c'est qu'on peut parser le document en utilisant la syntaxe CSS ! Comme dans cet exemple : <code>Elements thumbnails = document.select("div.thumbnail img")</code>. En plus, la doc est assez correctement écrite et franchement claire. Alors ne vous battez plus avec du parsing HTML, passez par JSoup !</p>
+<!-- /wp:paragraph -->
+++++

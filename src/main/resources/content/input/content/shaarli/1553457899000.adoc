@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming to an interface – Thomas Uhrig
+:jbake-tags: java,programming,interface,concepts,_mois_mars,_année_2019
+:jbake-date: 2019-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1553457899000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftuhrig.de%2Fprogramming-to-an-interface%2F&searchtags=java+programming+interface+concepts+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://tuhrig.de/programming-to-an-interface/[Programming to an interface – Thomas Uhrig]
+
+Extrêmement intéressant, surtout quand on essaye d'expliquer l'intérêt des interfaces à des débutants :-)

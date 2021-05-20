@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Giraut
+:jbake-tags: serie
+:jbake-date: 2011-10-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Giraut.adoc
+:jbake-source: https://www.goodreads.com/series/41790
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780812516333.html[A Million Open Doors (Giraut #1)]

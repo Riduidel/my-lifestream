@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fritz Leiber
+:jbake-tags: author
+:jbake-date: 2014-07-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/23001.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1423163995p5/23001.jpg
+:jbake-source: https://www.goodreads.com/author/show/23001
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780345422040.html[Tales of the Cthulhu Mythos]
+* link:../books/9782266023498.html[Épées et sorciers (Le Cycle des Épées, #4)]
+* link:../books/9782266029308.html[Epées et démons (Le cycle des épées, #1)]
+* link:../books/9782266031783.html[Les lubies lunatiques]
+* link:../books/9782266036108.html[La Magie des glaces (Le Cycle des épées, #6)]
+* link:../books/9782266041522.html[Le Crépuscule des épées (Le Cycle des Épées, #7)]
+* link:../books/9782266041898.html[Epées et mort (Le Cycle des Épées, #2)]
+* link:../books/9782266042970.html[Les Épées de Lankhmar (Le Cycle des Épées, #5)]

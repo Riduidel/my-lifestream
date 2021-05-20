@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guy Abadia
+:jbake-tags: author
+:jbake-date: 2000-07-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2709.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/2709
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253047353.html[L'Oreille interne]
+* link:../books/9782253052708.html[Sur l'onde de choc]
+* link:../books/9782253071624.html[Éon]
+* link:../books/9782253071648.html[Éternité]
+* link:../books/9782253072072.html[Le Troupeau aveugle]
+* link:../books/9782253072089.html[Un feu sur l'abîme]
+* link:../books/9782253072218.html[Le Samouraï virtuel]
+* link:../books/9782253072348.html[Héritage]
+* link:../books/9782253119272.html[La Cinquième Tête de Cerbère]
+* link:../books/9782266027236.html[L'Empereur-Dieu de Dune]
+* link:../books/9782266028134.html[Les Hérétiques de Dune]
+* link:../books/9782266064774.html[Hypérion 2]
+* link:../books/9782290321133.html[Jack Barron et l'éternité]

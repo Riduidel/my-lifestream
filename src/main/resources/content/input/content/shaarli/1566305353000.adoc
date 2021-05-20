@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The OpenStreetMap Ecosystem - Jakob Miksch
+:jbake-tags: open-source,carte,openstreetmap,outillage,_mois_août,_année_2019
+:jbake-date: 2019-08-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1566305353000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjakobmiksch.eu%2Fpost%2Fopenstreetmap_overview%2F&searchtags=open-source+carte+openstreetmap+outillage+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jakobmiksch.eu/post/openstreetmap_overview/[The OpenStreetMap Ecosystem - Jakob Miksch]
+
+Un bon résumé des outils OpenStreetMap. Je retiens en particulier StrretComplete, qui pourrait faire de moi un contributeur OpenStreetMap ...

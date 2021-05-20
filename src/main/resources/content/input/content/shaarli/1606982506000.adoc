@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Make Your Code Reviewer Fall in Love with You · mtlynch.io
+:jbake-tags: code,review,guide,communication,_mois_déc.,_année_2020
+:jbake-date: 2020-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1606982506000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmtlynch.io%2Fcode-review-love%2F&searchtags=code+review+guide+communication+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://mtlynch.io/code-review-love/[How to Make Your Code Reviewer Fall in Love with You · mtlynch.io]
+
+Pour une fois, voici un bon guide concernant les codes review (je dis pour une fois, parce que la plupart du temps, ces guides ont une tendance pénible à la pontification)

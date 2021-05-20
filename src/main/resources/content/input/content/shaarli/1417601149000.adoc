@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Need Micro Caching? Memoization to the Rescue
+:jbake-tags: java,programming,library,tutorial,_mois_déc.,_année_2014
+:jbake-date: 2014-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1417601149000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FWCGbsGw_e68%2Fneed-micro-caching-memoization&searchtags=java+programming+library+tutorial+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/WCGbsGw_e68/need-micro-caching-memoization[Need Micro Caching? Memoization to the Rescue]
+
+Il faut vraiment que je plonge dans Guava. Parce que du code de mémoization, j'en ai déja écrit des dizaines de fois ... Alors que j'aurais pu utiliser Guava ...

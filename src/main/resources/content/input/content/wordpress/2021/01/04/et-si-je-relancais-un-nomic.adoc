@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Et si ... je relancais un nomic ?
+:jbake-tags: culture,facebook,jeu,nomic,_mois_janv.,_année_2021
+:jbake-date: 2021-01-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/01/04/et-si-je-relancais-un-nomic.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/01/04/et-si-je-relancais-un-nomic/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Ca fait un moment que ça me titille. Et j'en ai même fait <a href="https://github.com/Riduidel/conferences/blob/master/nomic-agile/src/slides/asciidoc/index.adoc">une présentation</a> pour quelques collègues.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et vu que certains y avaient trouvé de l'intérêt, je vais lancer quelque chose de simple histoire de voir où ça pourrait me mener (avant une initiative bien plus ambitieuse à base de GitHub et de pull requests, voire même de <a href="https://catala-lang.org/fr/">Catala</a>). Bref, allons-y pour quelques règles simples. Et je vais noter les règles avec mes différents commentaires à la fin</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>ZeNomic est une partie de nomic se jouant sur <a href="https://fr-fr.workplace.com/">Workplace</a></li><li>Le texte d'une règle ou d'une proposition ne doit pas dépasser 50 mots.</li><li>Une proposition peut être un ajout, une modification, ou une suppression de règle.</li><li>Chaque proposition de règle doit être faite dans via un sondage dans lequel les réponses valides sont "oui" ou "non".</li><li>Un sondage en vue de valider une proposition doit être ouvert au moins 12 heures, et au plus 27 jours.</li><li>Une proposition est acceptée si plus de la moitié des réponses au sondage (les commentaires ne comptent pas) sont "oui" au moment de la clôture du sondage.</li><li>Lorsqu'une proposition est acceptée, le joueur l'ayant proposée doit envoyer un message contenant toutes les règles en cours de validité.</li><li>Chaque personne proposant une règle ou votant lors d'une proposition est un joueur pour le reste de la partie.</li><li>A tout instant, il ne peut pas y avoir plus d'une proposition de règle en cours de vote. Les propositions supplémentaires sont ignorées.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et maintenant, quelques commentaires</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Comme l'objectif est de jouer avec mes collègues, et que le réseau social d'entreprise est Workplace (même si ça ne me plaît pas du tout), autant essayer d'en faire quelque chose d'intéressant ...</li><li>Je suis depuis <a href="https://riduidel.wordpress.com/2004/04/26/conanomic-rgles-initiales/">Conanomic</a> accro aux limites de taille de règles. Et si la limite à une phrase avait du sens pour Conanomic, la limite la plus simple est celle du nombre de mots.</li><li>J'ai failli oublier cet élément essentiel !</li><li>Dès que j'ai posé les yeux sur Workplace, je me suis dit que je devais m'en servir pour un nomic. En particulier les sondages, qui sont vraiment faits pour voter.</li><li>Je n'avais initialement pas écrit cette règle. Et puis je me suis rendu compte que sans ça, on pouvait bloquer la partie avec un sondage sans limite de validité, ou avancer librement en ouvrant des sondages très courts et en y répondant.</li><li>Je compte sur la subtilité des joueurs pour changer ces conditions fort simples assez rapidement.</li><li>Oui, bon, ça, c'est fastidieux, mais je pense qu'on doit pouvoir exploiter le média d'une façon rigolote.</li><li>Et oui, il faut bien définir les joueurs !</li><li>Et on termine par la limitation classique pour limiter l'activité, sans ça, ça diverge rapidement.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et onv a maintenant tester tout ça !</p>
+<!-- /wp:paragraph -->
+++++

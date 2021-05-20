@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martin Kleppmann sur Twitter : "Here are Hamming’s thoughts on whether writing software is more like classical engineering or more like writing a novel. You may disagree, but it’s certainly thought-provoking and worth reading. https://t.co/O8PMFVRAkQ" / Twitter
+:jbake-tags: informatique,science,art,artisanat,méthode,réflexion,_mois_juil.,_année_2020
+:jbake-date: 2020-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1594129575000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmartinkl%2Fstatus%2F1280137264643944448&searchtags=informatique+science+art+artisanat+m%C3%A9thode+r%C3%A9flexion+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/martinkl/status/1280137264643944448[Martin Kleppmann sur Twitter : "Here are Hamming’s thoughts on whether writing software is more like classical engineering or more like writing a novel. You may disagree, but it’s certainly thought-provoking and worth reading. https://t.co/O8PMFVRAkQ" / Twitter]
+
+Je pense que je vais encore devoir demander un achat de livre ...

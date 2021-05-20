@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TinyDisk :: Most Significant Bit Labs
+:jbake-tags: software,freeware,hack,java,_mois_janv.,_année_2007
+:jbake-date: 2007-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1168266780000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.msblabs.org%2Ftinydisk%2F&searchtags=software+freeware+hack+java+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.msblabs.org/tinydisk/[TinyDisk :: Most Significant Bit Labs]
+
+Un hack en Java pour utiliser TinyURL comme un gros CD

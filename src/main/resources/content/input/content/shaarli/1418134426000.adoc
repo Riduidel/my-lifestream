@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cartographie des affaires de corruption — Transparency International France
+:jbake-tags: justice,politique,économie,_mois_déc.,_année_2014
+:jbake-date: 2014-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1418134426000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvisualiserlacorruption.fr%2Fhome&searchtags=justice+politique+%C3%A9conomie+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://visualiserlacorruption.fr/home[Cartographie des affaires de corruption — Transparency International France]
+
+Le genre de carte qui montre bien que "la délinquance en col blanc" c'est partout.

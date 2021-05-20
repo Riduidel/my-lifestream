@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The ThrashBox™
+:jbake-tags: web,css,langage,tutorial,expérience,design,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348094000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.vertexwerks.com%2Ftests%2Fsidebox%2F&searchtags=web+css+langage+tutorial+exp%C3%A9rience+design+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.vertexwerks.com/tests/sidebox/[The ThrashBox™]
+
+Simple, Semantically Correct CSS Boxes with Clean Code

@@ -1,0 +1,21 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kim Stanley Robinson
+:jbake-tags: author
+:jbake-date: 2004-01-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1858.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1376955089p5/1858.jpg
+:jbake-source: https://www.goodreads.com/author/show/1858
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070313044.html[Les menhirs de glace]
+* link:../books/9782253115168.html[La Mémoire de la lumière]
+* link:../books/9782258060395.html[Chroniques des années noires]
+* link:../books/9782258084803.html[Le rêve de Galilée]
+* link:../books/9782266128490.html[Mars la Verte (Mars #2)]
+* link:../books/9782266128513.html[Mars la Bleue (Mars #3)]
+* link:../books/9782266138345.html[Mars la Rouge (Mars #1)]
+* link:../books/9782266160926.html[Les Martiens]
+* link:../books/9782330119904.html[2312]

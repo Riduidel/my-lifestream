@@ -1,0 +1,33 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Tarentule (Travis, #7)
+:jbake-tags:  complot, rayon-bd, robot,_année_2012,_mois_mars,_note_3,cyberpunk,read
+:jbake-date: 2012-03-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847894363.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330796421l/7864789._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330796421l/7864789._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7864789
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Mai 2053. Le service de sécu-rité de Vitruvia autorise l'approche de la Tarentule, l'engin de chantier qui doit détruire le Hameau des Chênes. Au coeur de celui-ci, Travis comprend la véritable nature de la toile qui a été tissée pour le piéger. Débarquant d'Istanbul, Vlad Nyrki prend lui aussi conscience que le dénouement sera fatalement venimeux.
+</div>
+++++
+
+
+## Authors
+* link:../authors/503980.html[Christophe Quet]
+* link:../authors/503981.html[Fred Duval]
+* link:../authors/989161.html[Pierre Schelle]
+* link:../authors/1150245.html[Stéphane Rosa]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+Une fin de cycle en demi-teinte, essentiellement à cause d'un paysage franchouillard pas vraiment raccord avec les ambitions initiales de la série, je trouve.<br/>En revanche, la tarentule est monstrueuse à souhait (comme le nouveau grand méchant), et Vlad Nykri reste fidèle à son aspect méchant repenti.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ZEIT – Serverless Slack Apps with Now
+:jbake-tags: programming,web,api,javascript,serverless,tutorial,_mois_févr.,_année_2019
+:jbake-date: 2019-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1549872709000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fzeit.co%2Fblog%2Fserverless-slack-apps-with-now&searchtags=programming+web+api+javascript+serverless+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://zeit.co/blog/serverless-slack-apps-with-now[ZEIT – Serverless Slack Apps with Now]
+
+Du serverless pour construire des applications slack ? Ca a l'air pas mal du tout ...

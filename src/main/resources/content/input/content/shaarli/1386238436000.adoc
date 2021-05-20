@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Epoch Converter - Unix Timestamp Converter
+:jbake-tags: lifestream,web,temps,transformer,_mois_déc.,_année_2013
+:jbake-date: 2013-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1386238436000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.epochconverter.com%2F&searchtags=lifestream+web+temps+transformer+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.epochconverter.com/[Epoch Converter - Unix Timestamp Converter]
+
+Très jolie page de conversion d'instants EPOCH en dates. (oui, il y a un rapport avec cette discussion sur les fichiers bookmarks de shaarli ...)

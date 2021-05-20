@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 0, 1, Many, a Zillion
+:jbake-tags: programming,concepts,_mois_mai,_année_2015
+:jbake-date: 2015-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1431757579000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstevehanov.ca%2Fblog%2Findex.php%3Fid%3D134&searchtags=programming+concepts+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://stevehanov.ca/blog/index.php?id=134[0, 1, Many, a Zillion]
+
+Un article qui fait vraiment réfléchir

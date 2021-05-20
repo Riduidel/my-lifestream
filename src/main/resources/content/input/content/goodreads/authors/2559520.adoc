@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joseph Fink
+:jbake-tags: author
+:jbake-date: 2017-06-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2559520.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1506319727p5/2559520.jpg
+:jbake-source: https://www.goodreads.com/author/show/2559520
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253083054.html[Bienvenue à Night Vale]

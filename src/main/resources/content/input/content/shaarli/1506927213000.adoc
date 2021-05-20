@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why to Docker Compose your developer environment
+:jbake-tags: docker,docker-compose,développeur,environnement,_mois_oct.,_année_2017
+:jbake-date: 2017-10-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1506927213000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fdanlebrero%2Fwhy-to-docker-compose-your-developer-environment&searchtags=docker+docker-compose+d%C3%A9veloppeur+environnement+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://dev.to/danlebrero/why-to-docker-compose-your-developer-environment[Why to Docker Compose your developer environment]
+
+Pas bête du tout, d'autant plus que j'utilise de pluis en plus de conteneurs simplement pour isoler mon travail

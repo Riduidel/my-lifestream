@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Erreurs de Films
+:jbake-tags: film,erreur,_mois_oct.,_année_2004
+:jbake-date: 2004-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1097243576000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.erreursdefilms.com%2F&searchtags=film+erreur+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.erreursdefilms.com/[Erreurs de Films]
+
+un site sur toutes les erreurs dans les films

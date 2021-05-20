@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'import de posterous, c'était quand même pas ça ...
+:jbake-tags: encoding,posterous,wordpress,_mois_juin,_année_2013
+:jbake-date: 2013-06-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/06/limport-de-posterous-cetait-quand-meme-pas-ca.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/06/limport-de-posterous-cetait-quand-meme-pas-ca/
+:jbake-style: wordpress
+
+++++
+<p>
+Et en particulier l'import des caractères non ASCII.
+</p>
+<p>
+Je sais d'ailleurs pas si c'est la faute de Posterous ou celle de Wordpress, toujours est-il que la plupart des entrées importées contiennet des "??" à la place de tous les caractères non ASCII.
+</p>
+<p>
+Allez donc écrire en français dans ces conditions :-(
+</p>
+++++

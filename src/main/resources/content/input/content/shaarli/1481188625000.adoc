@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML and Structurizr - Coding the Architecture
+:jbake-tags: architecture,uml,plantuml,documentation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1481188625000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codingthearchitecture.com%2F2016%2F12%2F08%2Fplantuml_and_structurizr.html&searchtags=architecture+uml+plantuml+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.codingthearchitecture.com/2016/12/08/plantuml_and_structurizr.html[PlantUML and Structurizr - Coding the Architecture]
+
+Extrêmement intéressant

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: nomemory/mockneat: MockNeat is a Java 8+ library that facilitates the generation of arbitrary data for your applications.
+:jbake-tags: java,framework,test,mock,générateur,_mois_mars,_année_2017
+:jbake-date: 2017-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1489161930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fnomemory%2Fmockneat&searchtags=java+framework+test+mock+g%C3%A9n%C3%A9rateur+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/nomemory/mockneat[nomemory/mockneat: MockNeat is a Java 8+ library that facilitates the generation of arbitrary data for your applications.]
+
+Ca m'a l'air extrêmement bien, à un défaut près : les tests ne sont plus répétables.

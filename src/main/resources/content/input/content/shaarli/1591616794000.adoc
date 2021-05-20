@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: There Are No Bugs, Just TODOs | Almad's Changelog
+:jbake-tags: bug,logiciel,entreprise,organisation,qualité,_mois_juin,_année_2020
+:jbake-date: 2020-06-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1591616794000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Falmad.blog%2Fessays%2Fno-bugs-just-todos%2F&searchtags=bug+logiciel+entreprise+organisation+qualit%C3%A9+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://almad.blog/essays/no-bugs-just-todos/[There Are No Bugs, Just TODOs | Almad's Changelog]
+
+Il est très bien, cet article ! Cette idée d'avoir un algorithme de résolution de priorité qui soit public et explicite me paraît honnêtement être de l'ordre du génie.

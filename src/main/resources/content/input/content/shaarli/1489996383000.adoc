@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dites non aux DSL | Sam & Max
+:jbake-tags: programming,langage,dsl,_mois_mars,_année_2017
+:jbake-date: 2017-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1489996383000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsametmax.com%2Fdites-non-aux-dsl%2F&searchtags=programming+langage+dsl+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://sametmax.com/dites-non-aux-dsl/[Dites non aux DSL | Sam & Max]
+
+Intéressant. En particulier le point expliquant qu'un DSL interne à un langage n'est en fait qu'une API bien écrite.

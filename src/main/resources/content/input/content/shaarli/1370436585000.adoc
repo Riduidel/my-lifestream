@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Developer's wife - Or how do they stand us? | Java Code Geeks
+:jbake-tags: article,humour,famille,_mois_juin,_année_2013
+:jbake-date: 2013-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1370436585000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.javacodegeeks.com%2F2012%2F11%2Fdevelopers-wife-or-how-do-they-stand-us.html&searchtags=article+humour+famille+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.javacodegeeks.com/2012/11/developers-wife-or-how-do-they-stand-us.html[Developer's wife - Or how do they stand us? | Java Code Geeks]
+
+Eh ouais, les femmes d'informaticiens sont des héroïnes cachées. C'est d'ailleurs pas pour rien - selon moi - qu'on y trouve une surreprésentation d'infirmères et de travailleurses dans le domaine social/humain ... Parce que pour vivre avec un ours, faut quand même aimer les gens dans leur ensemble (ce qui n'est évidement pas le cas des informaticiens).

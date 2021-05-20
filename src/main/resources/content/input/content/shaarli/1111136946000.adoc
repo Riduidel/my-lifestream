@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MBS: TinkerTool
+:jbake-tags: software,macosx,freeware,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1111136946000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bresink.com%2Fosx%2FTinkerTool.html&searchtags=software+macosx+freeware+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bresink.com/osx/TinkerTool.html[MBS: TinkerTool]
+
+System preference extention tool

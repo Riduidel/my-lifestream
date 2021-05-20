@@ -1,0 +1,154 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Ordinateur quantique
+:jbake-tags: physiquequantique,science,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxx-ordinateur-quantique.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxx-ordinateur-quantique/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Un ordinateur classique, c’est simple : un circuit imprimé fait d’un bon gros paquet de transistors. Avec ça on fait des portes logiques qui, à un plus haut niveau, nous amène aux langages de haut niveau comme java ou C#. Grâce à la loi de Moore, la puissance des ordinateurs a bien augmenté. Actuellement, les transistors font 14 nanomètres. Et ça pose un problème de taille : on s’approche des bords de la physique quantique et des effets tunnels. On ne pourra donc plus gagner en puissance en améliorant les transistors.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-9">
+<br/>
+<h2 id="trueun_peu_de_m_canique_quantique">Un peu de mécanique quantique</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+La physique quantique vite fait c’est
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-12">
+<br/>
+<ul>
+<br/>
+<li>La superposition des états quantiques</li>
+<br/>
+<li>Le principe d’incertitude</li>
+<br/>
+<li>La réduction d'état quantique qui arrive quand on cherche l'état d’une particule</li>
+<br/>
+<li>La dualité onde/particule</li>
+<br/>
+<li>L’intrication quantique qui lie l'état de deux particules</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-18">
+<br/>
+<h2 id="trueqbit">QBit</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Contrairement à un bit classique, un qbit stocke à la fois 0 et 1. Donc avec plusieurs qbits, on stocke l’ensemble des valeurs possibles pour ces qbits. Du coup, pour simuler un qbit, il faut beaucoup plus de bits (2^nombre de qbits).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Les opérateurs sont par conséquent sacrément différents. Les différents types de portes quantiques vont permettre de changer les possibilités d’apparition d’un résultat. Et donc de donner les probabilités d’apparition des différents résultats.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+Par ailleurs, à cause des réductions d'état, un programme quantique pourra donner plusieurs résultats différents.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-29">
+<br/>
+<h2 id="trueexemples_d_application">Exemples d’application</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Tous les problèmes de répartition et d’optimisation (choisir les gens à une table par exemple). En chimie, trouver l’organisation d’une molécule marche bien mieux avec ce type de programmes. L’algorithme de Shore permet de trouver les facteurs premiers d’un nombre en une centaine de secondes.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-34">
+<br/>
+<h2 id="trueo_ex_cuter_du_code_quantique">Où exécuter du code quantique</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-35">
+</p>
+<p>
+Actuellement, les ordinateurs quantiques sont …​ expérimentaux (isolés magnétiquement et thermiquement). Chez Microsoft, ils travaillent sur une forme de machine quantique un peu différente, pour qu’elle soit plus stable. IBM, Google et Microsoft fournissent tous des plateformes permettant d'écrire du code quantique, mais c’est assez difficile à tester.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-39">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+J’avais déjà lu quelques articles sur le sujet, et effectivement c’est très intéressant, mais aussi plus qu'à moitié incompréhensible. Sans doute qu’il va falloir attendre un bon moment avant que ça ne soit réellement utilisable.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

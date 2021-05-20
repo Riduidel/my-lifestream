@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Generic returns in Rust – The If Works
+:jbake-tags: rust,programming,type,conversion,_mois_mai,_année_2019
+:jbake-date: 2019-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1558088572000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.jcoglan.com%2F2019%2F04%2F22%2Fgeneric-returns-in-rust%2F&searchtags=rust+programming+type+conversion+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.jcoglan.com/2019/04/22/generic-returns-in-rust/[Generic returns in Rust – The If Works]
+
+Et un bon gros ... très gros ... paquet sur le polymorphisme en Rust. j'ai appris des trucs sur la signature des méthodes là-dedans ...

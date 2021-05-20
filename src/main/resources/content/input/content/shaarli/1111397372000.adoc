@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rainer Brockerhoff :: Zingg! :: Overview
+:jbake-tags: software,freeware,macosx,system,finder,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111397372000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.brockerhoff.net%2Fzingg%2F&searchtags=software+freeware+macosx+system+finder+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.brockerhoff.net/zingg/[Rainer Brockerhoff :: Zingg! :: Overview]
+
+Zingg! is a simple contextual menu for the Finder. (Version 1.4.1 is for Jaguar and Panther; version 1.1 is for Mac OS X 10.1.x.) It shows you a list of all applications that claim to open a particular file.

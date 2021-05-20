@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gaëtan sur Twitter : "Je suis de + en + partagé par cette initiative. D'un coté, je la trouve nécessaire pour combler une carence complête d'un guichet unique pour les utilisateurs. D'un autre, nous dévalorisons la valeur de nos métiers en faisant cela gratuitement alors que l'Etat aurait du financer" / Twitter
+:jbake-tags: citation,bénévolat,épidémie,communication,partage,_mois_avr.,_année_2021
+:jbake-date: 2021-04-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1617704669000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FErebuss%2Fstatus%2F1379367444024860674&searchtags=citation+b%C3%A9n%C3%A9volat+%C3%A9pid%C3%A9mie+communication+partage+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/Erebuss/status/1379367444024860674[Gaëtan sur Twitter : "Je suis de + en + partagé par cette initiative. D'un coté, je la trouve nécessaire pour combler une carence complête d'un guichet unique pour les utilisateurs. D'un autre, nous dévalorisons la valeur de nos métiers en faisant cela gratuitement alors que l'Etat aurait du financer" / Twitter]
+
+Les développeurs réfléchissent au sens de l'engagement, et c'est bien. Mais (même si je n'ai rien fait) je préfère être compté du côté des gens qui ont fait quelque chose pour améliorer la situation plutôt que du côté des "communicants" et autres "gouvernants".

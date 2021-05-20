@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: You Can Program Bug Free
+:jbake-tags: programming,développement,méthode,bug,_mois_mai,_année_2014
+:jbake-date: 2014-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1399449270000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2F24tPHy5N0OE%2Fyou-can-program-bug-free&searchtags=programming+d%C3%A9veloppement+m%C3%A9thode+bug+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/24tPHy5N0OE/you-can-program-bug-free[You Can Program Bug Free]
+
+Oh oh oh Je viens d'avoir la discussion avec un collègue, qui m'expliquait qu'il est préférable de livrer des nouvelles fonctionnalités sans bugs. Et du coup, j'ai fait un peu d'introspection (ça n'était pas glorieux) et je suis tombé sur cet article assez intéressant sur le rapport coût/bénéfice de la correction de bugs ...

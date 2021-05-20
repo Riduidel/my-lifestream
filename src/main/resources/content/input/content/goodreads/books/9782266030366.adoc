@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Comte Airain (La Légende de Hawkmoon #5)
+:jbake-tags:  fantasy, vengeance, voyage,_année_2020,_mois_juil.,_note_2,rayon-imaginaire,read
+:jbake-date: 2020-07-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266030366.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514581156l/6642566._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514581156l/6642566._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6642566
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Count Brass is the first novel in the The Chronicles of Castle Brass series by Michael Moorcock and featuring Duke Dorian Hawkmoon. It is a sequel to The Runestaff and is followed by The Champion of Garathorm.
+</div>
+++++
+
+
+## Authors
+* link:../authors/16939.html[Michael Moorcock]
+
+## Series
+* link:../series/Hawkmoon.html[Hawkmoon]
+* link:../series/The_Chronicles_of_Castle_Brass.html[The Chronicles of Castle Brass]
+* link:../series/The_Eternal_Champion_Sequence.html[The Eternal Champion Sequence]
+
+## Review
+
+++++
+Comme l'indique le titre, il sera ici question du comte Airain, ou plutôt d'une machination menée par quelques ennemis d'Hawkmoon pour se venger, par le biais de son ami. C'est plutôt tordu, et pas franchement joyeux. Et pour être honnête, on entre ici dans la partie dispensable des aventures d'Hawkmoon. ca n'est pas moins bien écrit (au contraire, même), mais c'est beaucoup plus contraint, beaucoup moins libre, et ça se ressent à la lecture.
+++++

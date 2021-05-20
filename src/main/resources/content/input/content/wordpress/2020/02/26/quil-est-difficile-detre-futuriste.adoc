@@ -1,0 +1,56 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Qu'il est difficile d'être futuriste
+:jbake-tags: art,écologie,vitesse,_mois_févr.,_année_2020
+:jbake-date: 2020-02-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/02/26/quil-est-difficile-detre-futuriste.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/02/26/quil-est-difficile-detre-futuriste/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Ce week-end, j'ai eu la chance de visiter le <a href="https://www.museeairespace.fr/">musée de l'air et de l'espace du Bourget</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evidement, ça n'est pas ma première visite dans un musée. Mais, à cause d'une année de prépa au thème de français éclairant (regardez <a href="https://fr.wikipedia.org/wiki/Enseignement_du_fran%C3%A7ais_dans_les_classes_pr%C3%A9paratoires_aux_grandes_%C3%A9coles_scientifiques#Th%C3%A8mes_et_%C5%93uvres_des_derni%C3%A8res_ann%C3%A9es">l'année 1993/1994</a>), j'ai bien plus visité les musées d'art classique qu'autre chose, malgré mon métier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais ce musée a été une révélation. Une révélation en un sens douloureuse qui se résume en un avion : <a href="https://fr.wikipedia.org/wiki/Concorde_(avion)">le Concorde</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://i.swisscows.ch/?link=https%3a%2f%2fwww.copybook.com%2fmedia%2fairport%2ffact_files%2fConcorde%2fG-Concorde-at-LBG.jpg" alt="" /><figcaption>Même dans un hangar on croit qu'il va s'en voler</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Parce que quand vous visitez ce musée, vous voyez évoluer l'évolution des machines volantes. Et si dès la première guerre mondiale on voit des engins sacrément stylés (sans parler de tout le progrès qui suit), la vraie baffe, ce sont ces deux engins sagement rangés dans un hangar.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left","sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large"><img src="https://i.swisscows.ch/?link=http%3a%2f%2fwww.mes-photos.eu%2fMusee-de-lAir-et-de-lEspace-Bourget-Concorde-6160.jpeg" alt="" /><figcaption>Sur cette passerelle, le vertige peut vous saisir</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Et quand j'étais sur la passerelle les séparant, j'ai enfin compris la force du manifeste futuriste dont voici les premières lignes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>1. Nous voulons chanter l’amour du risque, l’habitude de l’énergie et de la témérité. </p><p>2. Le courage, l’audace et la révolte seront les éléments essentiels de notre poésie.</p><p>3.  La littérature ayant jusqu’ici magnifié l’immobilité pensive, l’extase  et le sommeil, nous voulons exalter le mouvement agressif, l’insomnie  fiévreuse, le pas gymnastique, le saut périlleux, la gifle et le coup de  poing.</p><p>4. Nous déclarons que la splendeur du monde s’est  enrichie d’une beauté nouvelle : la beauté de la vitesse. Une automobile  de course avec son coffre orné de gros tuyaux tels des serpents à  l’haleine explosive … une automobile rugissante qui semble courir sur la  mitraille est plus belle que la Victoire de Samothrace.</p><p>5. Nous  voulons chanter l’homme qui tient le volant dont la tige idéale traverse  la Terre, lancée elle-même sur le circuit de son orbite.</p><cite>Extrait depuis <a href="https://spherepoetique.1fr1.net/t27-1909-le-manifeste-du-futurisme-de-marinetti">https://spherepoetique.1fr1.net/t27-1909-le-manifeste-du-futurisme-de-marinetti</a></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Et effectivement, que ce soit sur un bateau, en voiture, face à un avion, ou même en roller ou en ski, j'aime bouger, et j'aime la vitesse. J'aime cet élan. Et quand je lis ce manifeste, je me dis qu'effectivement, la vitesse est une beauté. Je me dis aussi, hélas, que ce manifeste est rempli de tellement d'horreurs que ne serait-ce que s'en réclamer est d'un mauvais goût assez extrême.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais pourtant que la vitesse est belle !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais cette vitesse a un coût, un coût qui aujourd'hui me paraît de moins en moins supportable. Ce coût, c'est celui d'une planète qui étouffe sous les déchets de cette vitesse. Comment concilier les deux ? A mon avis, en gardant de la vitesse le contact avec le monde extérieur. Parce que même si le Concorde a une beauté formelle invraisemblable, le passager n'est pas vraiment en contact avec les éléments. Du coup, il faut revenir à une vitesse plus naturelle, grâce aux vélos, aux rollers (qui exigent malheureusement des routes en bon état), à la voile (et ça me rend sacrément heureux). Et c'est à cette condition que le futurisme pourra avoir ... un avenir.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Interactive: The Top Programming Languages - IEEE Spectrum
+:jbake-tags: visualisation,programming,langage,_mois_juil.,_année_2014
+:jbake-date: 2014-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1405000405000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fspectrum.ieee.org%2Fstatic%2Finteractive-the-top-programming-languages%23index%2F1%2F1%2F1%2F1%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F1%2F50%2F&searchtags=visualisation+programming+langage+_mois_juil.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://spectrum.ieee.org/static/interactive-the-top-programming-languages#index/1/1/1/1/1/50/1/50/1/50/1/50/1/50/1/50/1/50/1/50/1/50/1/50/1/50/1/50/[Interactive: The Top Programming Languages - IEEE Spectrum]
+
+Chouette comparateur de langage ... Qui montre malheureusement que j'ai raison de faire encore et toujours du java.

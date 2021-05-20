@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Archipel du danger (De Cape et de Crocs #3)
+:jbake-tags:  bateau, mer, monstre, voyage,_année_2016,_mois_mai,_note_5,rayon-bd,read
+:jbake-date: 2016-05-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840552369.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1992877
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Voguant à bord du Hollandais Volant vers les îles Tangerines et leur trésor, nos héros s'emparent d'un navire pirate, délivrent une belle captive, subissent l'ire d'un monstre marin, font naufrage, explorent une île étrange, participent à une expérience... et affrontent de féroces cannibales.
+</div>
+++++
+
+
+## Authors
+* link:../authors/876891.html[Alain Ayroles]
+* link:../authors/876892.html[Jean-Luc Masbou]
+
+## Series
+* link:../series/De_Cape_et_de_Crocs.html[De Cape et de Crocs]
+
+## Review
+
+++++
+Très bon tome, rempli de références au hollandais volant (chouette) et aux savants du XVIIème (chouette). Et cette apparition d'un authentique Robinson en fin de tome est également très chouette.
+++++

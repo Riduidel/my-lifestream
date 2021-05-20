@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Travian
+:jbake-tags: jeu,online,web,multiplayer,_mois_juin,_année_2006
+:jbake-date: 2006-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1150310776000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.travian.fr%2F&searchtags=jeu+online+web+multiplayer+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.travian.fr/[Travian]
+
+Un jeu de stratégie et de gestion dans le navigateur, très bien fait et, surtout, très prenant.

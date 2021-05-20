@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JoliCode - Nginx et Lua, découverte d'OpenResty
+:jbake-tags: web,nginx,lua,scripting,configuration,tutorial,_mois_janv.,_année_2018
+:jbake-date: 2018-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1515408470000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjolicode.com%2Fblog%2Fnginx-et-lua-decouverte-d-openresty&searchtags=web+nginx+lua+scripting+configuration+tutorial+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://jolicode.com/blog/nginx-et-lua-decouverte-d-openresty[JoliCode - Nginx et Lua, découverte d'OpenResty]
+
+Une première approche en français de nginx+lua ... Intéressant

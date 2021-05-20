@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy in Hell (Single Issues)
+:jbake-tags: serie
+:jbake-date: 2014-04-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hellboy_in_Hell_(Single_Issues).adoc
+:jbake-source: https://www.goodreads.com/series/277460
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782756069838.html[Hellboy En Enfer 02. La Carte de La Mort]
+* link:../books/9782756048161.html[Hellboy en Enfer 1 : Secrets de famille]

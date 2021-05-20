@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Delft Students on Software Architecture -- DESOSA 2019
+:jbake-tags: architecture,documentation,exemple,open-source,_mois_févr.,_année_2020
+:jbake-date: 2020-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1581602032000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fse.ewi.tudelft.nl%2Fdesosa2019%2F&searchtags=architecture+documentation+exemple+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://se.ewi.tudelft.nl/desosa2019/[Delft Students on Software Architecture -- DESOSA 2019]
+
+Si tu cherches des exemples de documents d'architecture, il y en a un paquet sur ce site. Et bonus caché, comme il ya plusieurs formalismes, tu peux choisir celui qui t'intéresse le plus.

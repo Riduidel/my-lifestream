@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quokka - Live Scratchpad for JavaScript in your editor
+:jbake-tags: javascript,programming,plugin,vscode,_mois_janv.,_année_2019
+:jbake-date: 2019-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1547539322000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fquokkajs.com%2F&searchtags=javascript+programming+plugin+vscode+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://quokkajs.com/[Quokka - Live Scratchpad for JavaScript in your editor]
+
+Alors ça c'est un très bon playground javascript ! J'en parlerai à mes collègues plus fan du truc (à moins que l'un d'entre eux ne me pousse à faire une présentation là-dessus).

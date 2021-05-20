@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy, tome 12 : La Fiancée de l'enfer
+:jbake-tags:  fantastique, mexique, mort, vampires,_année_2012,_mois_avr.,_note_4,rayon-bd,read
+:jbake-date: 2012-04-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756025049.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332953083l/13564127._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332953083l/13564127._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/13564127
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Une jeune fille de 19 ans a été kidnappée. Hellboy part à sa recherche et retrouve sa trace en France, alors qu'elle est sur le point d'être offerte à un démon biblique. Hellboy luttera également contre des extraterrestres férus de modifications génétiques, combattra des zombies aux côtés de catcheurs mexicains, devra échapper à une maison hantée, et traquera un vampire aux allures d'ange !
+</div>
+++++
+
+
+## Authors
+* link:../authors/10182.html[Mike Mignola]
+
+## Series
+* link:../series/Hellboy.html[Hellboy]
+* link:../series/Hellboy__Edicion_cartone.html[Hellboy: Edición cartoné]
+* link:../series/Hellboy__Edicion_rustica.html[Hellboy: Edición rústica]
+
+## Review
+
+++++
+Ce tome est un recueil d'histoire plus ou moins courtes d'Hellboy le mettant - comme à chaque fois - face aux bizarreries d'un monde surnaturel qui existe peut-être, mais qui en tout cas sort de 'lesprit clairement dérangé de 5785459, et ça, clairement, ça se reconnait facilement.<br/><br/>Je voudrais en particulier parler de la première histoire (dont j'ai évidement oublié le titre) où il est question de Lucha Libre, de lutteurs mexicains, et de zombies. En la lisant, j'ai vraiment eu l'impression d'y voir passer l'ombre terrifiante de <a class="DirectBookReference destination_Serie" href="../series/Mutafukaz.html">Mutafukaz</a> ... et c'était vraiment chouette !
+++++

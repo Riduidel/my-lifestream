@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: maven-jgitflow-plugin
+:jbake-tags: maven,git,git-flow,plugin,release,développement,java,_mois_août,_année_2013
+:jbake-date: 2013-08-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1375446446000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbitbucket.org%2Fatlassian%2Fmaven-jgitflow-plugin%2Foverview&searchtags=maven+git+git-flow+plugin+release+d%C3%A9veloppement+java+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://bitbucket.org/atlassian/maven-jgitflow-plugin/overview[maven-jgitflow-plugin]
+
+Pour faire les releases maven dans un projet git utilisant git-flow. la classe !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "RT @yaahc_: My greatest hope for rust is that it ends the cult of "systems programming" and makes it actually accessible for everyone." / Twitter
+:jbake-tags: citation,rust,programming,culture,_mois_août,_année_2019
+:jbake-date: 2019-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1567268704000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1167805830995107840&searchtags=citation+rust+programming+culture+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1167805830995107840[Geoffroy Couprie on Twitter: "RT @yaahc_: My greatest hope for rust is that it ends the cult of "systems programming" and makes it actually accessible for everyone." / Twitter]
+
+Personnellement, je ne dis jamais que Rust est un langage de programmation système, mais plutôt un langage sûr.

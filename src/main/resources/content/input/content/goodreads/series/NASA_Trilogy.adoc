@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NASA Trilogy
+:jbake-tags: serie
+:jbake-date: 2004-06-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/NASA_Trilogy.adoc
+:jbake-source: https://www.goodreads.com/series/49787
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290309735.html[Titan]
+* link:../books/9782290327319.html[Poussière de Lune]

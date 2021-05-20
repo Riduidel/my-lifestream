@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le jour de la riposte ?
+:jbake-tags: politique,surveillance,_mois_févr.,_année_2014
+:jbake-date: 2014-02-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/02/11/le-jour-de-la-riposte.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/02/11/le-jour-de-la-riposte/
+:jbake-style: wordpress
+
+++++
+<p>
+<a href="https://thedaywefightback.org/international/"><img class="alignnone" alt="" src="http://img.linuxfr.org/img/68747470733a2f2f66722e6e6563657373617279616e6470726f706f7274696f6e6174652e6f72672f66696c65732f62616e6e65722d312d66722e6a7067/banner-1-fr.jpg" width="650" height="265" /></a>
+</p>
+<p>
+C'est aujourd'hui, et ça n'est pas une raison de se réjouir.
+</p>
+<p>
+Il y a  à peine plus d'un an, <a href="http://fr.wikipedia.org/wiki/Aaron_Swartz">Aaron Schwartz</a> se donnait la mort, pourchassé par une espèce de justice débile tenue par les ayants-droits et leurs séides (c'est comme ça que je vois les choses et, étant chez moi sur ce blog, je me permets de l'affirmer). Son crime ? Vouloir partager des articles scientifiques, simplement.
+</p>
+<p>
+Il y a moins d'un an, <a href="http://fr.wikipedia.org/wiki/Edward_Snowden">Edward Snowden</a> devenait l'égal des pires terroristes pour avoir simplement documenté les méthodes de surveillances des états-unis publiquement. Et pour ça, il est toujours poursuivi - et est réfugié politique dans l'un des rares pays osant l'accueillir : la Russie de Poutine (le même qui pourchasse les homosexuels et autres contestataires, bref, un parangon de démocratie).
+</p>
+<p>
+Est-ce que leurs actions ont fait changer le monde ? Je pense. Est-ce qu'il faut se reposer sur ses lauriers et laisser la NSA, la DGSE et d'autres grandes oreilles siphonner votre ordinateur et votre téléphone d'une façon qui fait rêver les polices du monde entier (même si c'est reconnu illégale dans bien des pays) ? NON.
+</p>
+<p>
+Alors, agissant à ma mesure, j'affiche (si Wordpress me laisse faire - bon, en fait, ça n'a pas marché, vous aurez donc juste cette image en tête de l'article), la banière de The Day We Fight back et je vous invite à signer leur pétition en ligne, et à diffuser cette information. Oui, c'est clairement de la propagande. Je le reconnais. mais c'est une propagande pour changer notre vie à tous, et tout de suite. Parce que, vous ne le savez peut-être pas, mais les services de renseignement divers peuvent même savoir si vous avez consulté mon site (et donc lu ce texte). Pareil pour les sites sur vos partis politiques préférés, et l'ensemble de votre vie numérique. Flippant ? oui.
+</p>
+<p>
+Vous trouverez un peu plus d'infos sur <a href="http://linuxfr.org/news/le-jour-de-la-riposte-the-day-we-fight-back-contre-la-surveillance-generalisee">LinuxFr</a>.
+</p>
+++++

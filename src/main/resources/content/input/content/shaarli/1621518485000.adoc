@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bootstrap 5 | Bootstrap Blog
+:jbake-tags: web,animated,css,html,framework,_mois_mai,_année_2021
+:jbake-date: 2021-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1621518485000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.getbootstrap.com%2F2021%2F05%2F05%2Fbootstrap-5%2F&searchtags=web+animated+css+html+framework+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://blog.getbootstrap.com/2021/05/05/bootstrap-5/[Bootstrap 5 | Bootstrap Blog]
+
+Ca me donne bien envie de mettre à jour mon site ...

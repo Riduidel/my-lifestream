@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Libres-Apps.Org - Annuaire Collaboratif d'Applications Libres
+:jbake-tags: software,windows,linux,macosx,library,open-source,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150365367000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.libres-apps.org%2F&searchtags=software+windows+linux+macosx+library+open-source+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.libres-apps.org/[Libres-Apps.Org - Annuaire Collaboratif d'Applications Libres]
+
+Une bibliothèque d'applications open-source pour les différentes plate-formes

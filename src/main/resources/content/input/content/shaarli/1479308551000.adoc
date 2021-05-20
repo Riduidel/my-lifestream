@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bredemeyer Consulting Training for Software Architects and Enterprise Architects
+:jbake-tags: software,architecture,_mois_nov.,_année_2016
+:jbake-date: 2016-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1479308551000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bredemeyer.com%2FWorkshops%2Farchitecture_workshop_overview.htm&searchtags=software+architecture+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.bredemeyer.com/Workshops/architecture_workshop_overview.htm[Bredemeyer Consulting Training for Software Architects and Enterprise Architects]
+
+Le rôle d'un architecte expliqué en une description de formation. C'est très fort.

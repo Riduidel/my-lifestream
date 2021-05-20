@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mars Trilogy
+:jbake-tags: serie
+:jbake-date: 2006-07-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Mars_Trilogy.adoc
+:jbake-source: https://www.goodreads.com/series/40710
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266138345.html[Mars la Rouge (Mars #1)]
+* link:../books/9782266128490.html[Mars la Verte (Mars #2)]
+* link:../books/9782266128513.html[Mars la Bleue (Mars #3)]
+* link:../books/9782266160926.html[Les Martiens]

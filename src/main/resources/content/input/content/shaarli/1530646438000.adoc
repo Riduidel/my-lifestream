@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bash scripting: my own cheatsheet – So Long, and Thanks for All the Fish
+:jbake-tags: programming,linux,bash,shell,_mois_juil.,_année_2018
+:jbake-date: 2018-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1530646438000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.andreafortuna.org%2Fcommand-line%2Fbash-scripting-my-own-cheatsheet%2F&searchtags=programming+linux+bash+shell+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.andreafortuna.org/command-line/bash-scripting-my-own-cheatsheet/[Bash scripting: my own cheatsheet – So Long, and Thanks for All the Fish]
+
+Un bon résumé du bash. Et vu que le monde magique des conteneurs ne peut pas se passer de ces horreurs passéistes, ça paraît utile de se documenter

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oh... So you’re still using Maslow’s Hierarchy of Needs? Awkward...
+:jbake-tags: psychologie,évolution,_mois_mai,_année_2020
+:jbake-date: 2020-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1589794367000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fux.christmas%2F2019%2F4&searchtags=psychologie+%C3%A9volution+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ux.christmas/2019/4[Oh... So you’re still using Maslow’s Hierarchy of Needs? Awkward...]
+
+Une vision un peu plus moderne (et donc forcément plus contextualisée) des besoins humains

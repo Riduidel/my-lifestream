@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Darren Shepherd sur Twitter : "Microservices are a way to ensure your application has the same level of complexity as your organization."
+:jbake-tags: microservices,architecture,organisation,citation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1571675342000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fibuildthecloud%2Fstatus%2F1186107840345206786&searchtags=microservices+architecture+organisation+citation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ibuildthecloud/status/1186107840345206786[Darren Shepherd sur Twitter : "Microservices are a way to ensure your application has the same level of complexity as your organization."]
+
+Et c'est pour ça qu'il ne faut pas se précipiter vers les microservices ...

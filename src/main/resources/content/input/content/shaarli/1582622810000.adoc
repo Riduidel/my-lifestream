@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Peeps, Hand-Drawn Illustration Library
+:jbake-tags: icon,svg,library,open-source,_mois_févr.,_année_2020
+:jbake-date: 2020-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1582622810000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.openpeeps.com%2F&searchtags=icon+svg+library+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.openpeeps.com/[Open Peeps, Hand-Drawn Illustration Library]
+
+Des tonnes de pépères disponibles gratuitement et assemblables librement

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mike Godwin on Twitter: "@DownTwist @Jamie_Foxworthy @M_feeney @daphnehk @ENBrown @PatHedgerCEI @ismurray @normative @Will_Duffield I've written a number of more recent pieces arguing for an industry-wide code of ethics that includes fiduciary obligations to users." / Twitter
+:jbake-tags: informatique,éthique,loi,organisation,_mois_août,_année_2019
+:jbake-date: 2019-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1565682373000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsfmnemonic%2Fstatus%2F1160646137017188352&searchtags=informatique+%C3%A9thique+loi+organisation+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/sfmnemonic/status/1160646137017188352[Mike Godwin on Twitter: "@DownTwist @Jamie_Foxworthy @M_feeney @daphnehk @ENBrown @PatHedgerCEI @ismurray @normative @Will_Duffield I've written a number of more recent pieces arguing for an industry-wide code of ethics that includes fiduciary obligations to users." / Twitter]
+
+Je pense qu'effectivement, dans quelques années, il y aura un code éthique pour les développeurs, un serment d'Hippocrate, qui deviendra un élément légal.

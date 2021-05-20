@@ -1,0 +1,170 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Il est RAID ... mort ?
+:jbake-tags: disquedur,dns-323,_mois_mars,_année_2017
+:jbake-date: 2017-03-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/03/07/il-est-raid-mort.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/03/07/il-est-raid-mort/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, ça sent pas bon
+</p>
+<p>
+<img class="alignnone size-full wp-image-4292" src="https://riduidel.files.wordpress.com/2017/03/2017-03-07-19_48_12.png" alt="2017-03-07 19_48_12-" width="642" height="101" />
+</p>
+<p>
+Oui, mon RAID est dégradé.
+</p>
+<p>
+Mais comment ?
+</p>
+<p>
+Une première réponse grâce à cet article : <a href="https://www.faqforge.com/linux/how-to-get-the-status-of-the-software-raid-on-linux/">How to get the status of a Linux software raid?</a>
+</p>
+<p>
+Qui donne ce résultat éloquent :
+<br/>
+<pre>[root@dlink-6A4EB1]# cat /proc/mdstat
+<br/>
+Personalities : [linear] [raid0] [raid1] [raid6] [raid5] [raid4]
+<br/>
+md0 : active raid1 sda2[0]
+<br/>
+975585856 blocks [2/1] [U_]
+</p>
+<p>
+unused devices:
+<br/>
+</pre>
+<br/>
+Effectivement, le U_ est clair : l'un des deux disques semble être dysfonctionnel. Mais lequel ?
+</p>
+<p>
+En regardant dans l'interface de Alt-F, je peux avoir ces informations là :
+<br/>
+<pre>/dev/sda2:
+<br/>
+Magic : a92b4efc
+<br/>
+Version : 0.90.00
+<br/>
+UUID : a112692c:cd4ddd32:b98be83a:b8b6c728
+<br/>
+Creation Time : Sun Feb  8 22:22:54 2009
+<br/>
+Raid Level : raid1
+<br/>
+Used Dev Size : 975585856 (930.39 GiB 999.00 GB)
+<br/>
+Array Size : 975585856 (930.39 GiB 999.00 GB)
+<br/>
+Raid Devices : 2
+<br/>
+Total Devices : 1
+<br/>
+Preferred Minor : 0
+</p>
+<p>
+Update Time : Tue Mar  7 20:15:34 2017
+<br/>
+State : clean
+<br/>
+Active Devices : 1
+<br/>
+Working Devices : 1
+<br/>
+Failed Devices : 1
+<br/>
+Spare Devices : 0
+<br/>
+Checksum : 67beb987 - correct
+<br/>
+Events : 12447483
+</p>
+<p>
+Number   Major   Minor   RaidDevice State
+<br/>
+this     0       8        2        0      active sync   /dev/sda2
+</p>
+<p>
+0     0       8        2        0      active sync   /dev/sda2
+<br/>
+1     1       0        0        1      faulty removed</pre>
+<br/>
+<pre>/dev/sdb2:
+<br/>
+Magic : a92b4efc
+<br/>
+Version : 0.90.00
+<br/>
+UUID : a112692c:cd4ddd32:b98be83a:b8b6c728
+<br/>
+Creation Time : Sun Feb  8 22:22:54 2009
+<br/>
+Raid Level : raid1
+<br/>
+Used Dev Size : 975585856 (930.39 GiB 999.00 GB)
+<br/>
+Array Size : 975585856 (930.39 GiB 999.00 GB)
+<br/>
+Raid Devices : 2
+<br/>
+Total Devices : 2
+<br/>
+Preferred Minor : 0
+</p>
+<p>
+Update Time : Wed Feb 15 09:09:56 2017
+<br/>
+State : clean
+<br/>
+Active Devices : 2
+<br/>
+Working Devices : 2
+<br/>
+Failed Devices : 0
+<br/>
+Spare Devices : 0
+<br/>
+Checksum : 67a3a500 - correct
+<br/>
+Events : 12444067
+</p>
+<p>
+Number   Major   Minor   RaidDevice State
+<br/>
+this     1       8       18        1      active sync   /dev/sdb2
+</p>
+<p>
+0     0       8        2        0      active sync   /dev/sda2
+<br/>
+1     1       8       18        1      active sync   /dev/sdb2</pre>
+<br/>
+Et donc, clairement, mon disque <code>/dev/sda1</code> a un problème.
+</p>
+<p>
+Du coup, j'essaye de l'enlever via Alt-F, encore une fois. Et c'est le drame :
+<br/>
+<pre>Removing the sda2 partition from the md0 RAID device failed:
+</p>
+<p>
+mdadm: hot remove failed for /dev/sda2: Device or resource busy
+<br/>
+</pre>
+<br/>
+Damned ! Comment je fais, maintenant ?
+</p>
+<p>
+Evidement, un coup d'oeil à ServerFault donne des réponses ...comme <a href="http://serverfault.com/q/359561/37080">celle-là</a>, mais par prudence, je ne vais pas l'appliquer tout de suite ...
+</p>
+<p>
+Et je vais surtout (encore) acheter un nouveau disque de 1 To ...
+</p>
+<p>
+J'en profiterai évidement pour faire jouer la garantie, parce que le disque Toshiba n'a quand même qu'un an ...
+</p>
+++++

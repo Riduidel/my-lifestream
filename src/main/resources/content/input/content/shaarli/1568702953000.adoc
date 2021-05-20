@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "RT @rakyll: Service mesh is a monolith representation of a distributed system." / Twitter
+:jbake-tags: citation,microservices,service,mesh,_mois_sept.,_année_2019
+:jbake-date: 2019-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1568702953000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1173664212721250304&searchtags=citation+microservices+service+mesh+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1173664212721250304[Geoffroy Couprie on Twitter: "RT @rakyll: Service mesh is a monolith representation of a distributed system." / Twitter]
+
+Cette citation pourrait donner lieu à de belles dissertations, si toutefois on réfléchissait un peu en profondeur à notre métier

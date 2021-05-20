@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Main Page - Microformats
+:jbake-tags: architecture,design,développement,documentation,html,management,programming,reference,sémantique,social,standard,_mois_août,_année_2007
+:jbake-date: 2007-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1187793729000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmicroformats.org%2Fwiki%2FMain_Page&searchtags=architecture+design+d%C3%A9veloppement+documentation+html+management+programming+reference+s%C3%A9mantique+social+standard+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://microformats.org/wiki/Main_Page[Main Page - Microformats]
+
+Une wikipedia des microformats, ça pourrait avoir beaucoup d'intérêt pour le bliki

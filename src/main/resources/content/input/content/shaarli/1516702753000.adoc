@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeff Atwood on Twitter: "I am at the point in my career as a programmer where I take far more pleasure in a well written, informative, helpful error message than I do in code “elegance”."
+:jbake-tags: citation,programming,debug,log,_mois_janv.,_année_2018
+:jbake-date: 2018-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1516702753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodinghorror%2Fstatus%2F955277567824506881&searchtags=citation+programming+debug+log+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/codinghorror/status/955277567824506881[Jeff Atwood on Twitter: "I am at the point in my career as a programmer where I take far more pleasure in a well written, informative, helpful error message than I do in code “elegance”."]
+
+Encore une perle de sagesse ...

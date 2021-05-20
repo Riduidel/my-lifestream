@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Microservices IRL: ça fonctionne chez un client, on vous dit comment!
+:jbake-tags: devops,devoxx,microservices,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxx-microservices-irl-ca-fonctionne-chez-un-client-on-vous-dit-comment.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxx-microservices-irl-ca-fonctionne-chez-un-client-on-vous-dit-comment/
+:jbake-style: wordpress
+
+++++
+<p>
+Et donc, des microservices ... en prod !
+</p>
+<p>
+Curieusement, comme d'habitude, ils nous expliquent que les microservices viennent des mouvements agiles, devops, et permettent au SI de s'adapter aux architectures web, cloud grâce aux conteneurs. Et enfin, un microservice, conceptuellement, c'est juste un environement d'exécution d'un bounded context DDD.
+<br/>
+Chaque microservice a son propre modèle de persistance et ses propres tables. Du coup, un antipattern est d'avoir des tables partagées entre microservices, comme c'est le cas pour DDD.
+<br/>
+Et évidement, dans les microservices, il y a de la répétition.
+</p>
+<p>
+Donc il y a comme lors de la présentation d’orchestration docker tout un tas d'outils aux noms bizarres : zookeeper, hystrix, ... qui permettent toutefois d'assembler "facilement" une application à base de microservices.
+</p>
+<p>
+Le déploiement se fait par Ansible, mais manuellement.
+<br/>
+Heureusement, un outil comme Spinnaker permet de faciliter ça, comme Jenkins 2.
+</p>
+<p>
+D'une façon amusante, pour le transfert des données, ils utilisent JSON, qui malheureusement ne contient pas de schéma. Ils auraient pu utiliser XML, mais c'est jugé trop verbeux ... Ou alors c'est que c'est trop old-school, j'en sais rien.
+</p>
+<p>
+En tout cas un bel exemple, et le dashboard hystrix est quand même un truc bien agréable à regarder (pour un dév comme pour un ops, en fait).
+</p>
+++++

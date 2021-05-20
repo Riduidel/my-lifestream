@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Hotline Free
+:jbake-tags: free,hotline,support,_mois_déc.,_année_2007
+:jbake-date: 2007-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1197096709000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dslvalley.com%2Fhotline%2Fhotline-free.php&searchtags=free+hotline+support+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.dslvalley.com/hotline/hotline-free.php[La Hotline Free]
+
+temps d'attente selon l'heure sur les différentes hotlines free

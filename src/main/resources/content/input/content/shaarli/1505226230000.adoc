@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Test an insecure registry | Docker Documentation
+:jbake-tags: windows,docker,sécurité,certificat,_mois_sept.,_année_2017
+:jbake-date: 2017-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1505226230000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.docker.com%2Fregistry%2Finsecure%2F%23windows&searchtags=windows+docker+s%C3%A9curit%C3%A9+certificat+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://docs.docker.com/registry/insecure/#windows[Test an insecure registry | Docker Documentation]
+
+Pour se connecter à une registry docker avec un certificat hors de la chaîne locale, cette page est bien pratique

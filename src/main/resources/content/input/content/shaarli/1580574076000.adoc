@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Monoliths are the future |> News and podcasts for developers |> Changelog
+:jbake-tags: architecture,déploiement,monolithe,microservices,_mois_févr.,_année_2020
+:jbake-date: 2020-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1580574076000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchangelog.com%2Fposts%2Fmonoliths-are-the-future&searchtags=architecture+d%C3%A9ploiement+monolithe+microservices+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://changelog.com/posts/monoliths-are-the-future[Monoliths are the future |> News and podcasts for developers |> Changelog]
+
+Le moment où on va repasser aux monolithes en tant qu'architecture applicative utile sera vraiment chouette, parce qu'il bénéficiera des leçons apprises des microservices.

@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bizarrama culturologique
+:jbake-tags:  humour, nouvelles,_année_2015,_mois_sept.,_note_3,rayon-bd,read
+:jbake-date: 2015-09-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756071947.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436955515l/25913281._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436955515l/25913281._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/25913281
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans le cadre de l'émission d'Arte "Personne ne bouge", on a demandé à Marion Montaigne, auteure des célèbres aventures du Professeur Moustache, son avis dessiné sur les sept péchés capitaux, les enfants stars, Noël, ou encore l'Australie. Du coup elle nous explique pourquoi Belzébuth est déprimé, comment le Père-Noël se paye un crash en traineau et nous raconte quelle est la véritable destination de l'Arche de Noé. Un voyage culturel drôle, varié et délirant !
+</div>
+++++
+
+
+## Authors
+* link:../authors/1315690.html[Marion Montaigne]
+
+
+
+## Review
+
+++++
+Une petite curiosité de Marion Montaigne, qui abandonne là ce qui a fait son succès.<br/>En effet, il n'est plus question ici de science ou de technique bizarre, mais simplement de morceaux d'anecdotes transformées en débuts d'histoires.<br/>Ca n'est pas inintéressant, mais quand même inférieur au reste de sa production, je trouve.
+++++

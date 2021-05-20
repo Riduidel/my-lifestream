@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Complaint-Driven Development
+:jbake-tags: software,développement,bug,_mois_févr.,_année_2014
+:jbake-date: 2014-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1392890626000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codinghorror.com%2Fblog%2F2014%2F02%2Fcomplaint-driven-development.html&searchtags=software+d%C3%A9veloppement+bug+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.codinghorror.com/blog/2014/02/complaint-driven-development.html[Complaint-Driven Development]
+
+Comment monter une boîte de logiciel, par Jeff Atwood ... Il y cinq ans, je n'aurais pas apprécié - ni même compris - cette histoire de complaint driven development. Mais, comme pour bien des choses, je crois qu'il a maintenant fondamentalement raison : avoir l'idée initiale et la développer, c'estf acile et rapide. Répondre aux besoins des utilisateurs, c'est un enfer sans nom qui va manger la motivation de chaque développeur. MAIS c'est ça qui fera du logiciel un succès.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Labels
+:jbake-tags: rancher,docker,conteneur,orchestrator,configuration,_mois_sept.,_année_2017
+:jbake-date: 2017-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1505388126000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Francher.com%2Fdocs%2Francher%2Fv1.6%2Fen%2Fcattle%2Flabels%2F&searchtags=rancher+docker+conteneur+orchestrator+configuration+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://rancher.com/docs/rancher/v1.6/en/cattle/labels/[Labels]
+
+La page à retenir pour l'utilisateur de Rancher qui veut déployer un conteneur

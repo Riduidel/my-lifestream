@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zombillénium
+:jbake-tags: serie
+:jbake-date: 2010-09-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Zombillenium.adoc
+:jbake-source: https://www.goodreads.com/series/58732
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782800147215.html[Gretchen (Zombillénium #1)]
+* link:../books/9782800150543.html[Ressources Humaines (Zombillénium #2)]
+* link:../books/9782800157559.html[Control Freaks (Zombillénium #3)]

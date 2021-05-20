@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Évanégyre
+:jbake-tags: serie
+:jbake-date: 2017-07-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Evanegyre.adoc
+:jbake-source: https://www.goodreads.com/series/164188
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070792214.html[Port d'âmes]

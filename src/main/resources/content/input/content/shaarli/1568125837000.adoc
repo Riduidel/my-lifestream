@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gregor on Twitter: "Drew up these models of doing architecture in a team - found them in a deck by @bitboss who referenced @StefanZoerner. I am happy to share it back :-) #ArchitectElevator https://t.co/r3GV98ZMFI" / Twitter
+:jbake-tags: architecture,software,organisation,équipe,_mois_sept.,_année_2019
+:jbake-date: 2019-09-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1568125837000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fghohpe%2Fstatus%2F1171379436739944449&searchtags=architecture+software+organisation+%C3%A9quipe+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ghohpe/status/1171379436739944449[Gregor on Twitter: "Drew up these models of doing architecture in a team - found them in a deck by @bitboss who referenced @StefanZoerner. I am happy to share it back :-) #ArchitectElevator https://t.co/r3GV98ZMFI" / Twitter]
+
+Ces différents modèles d'organisations des équipes de dév et d'architecte sont vraiment très chouettes et utiles.

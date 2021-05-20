@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: www.refactoring.be
+:jbake-tags: programming,documentation,concepts,XP,refactoring,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112276826000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.refactoring.be%2Fthumbnails.html&searchtags=programming+documentation+concepts+XP+refactoring+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.refactoring.be/thumbnails.html[www.refactoring.be]
+
+Expressing the Evolution of Object Oriented Designs

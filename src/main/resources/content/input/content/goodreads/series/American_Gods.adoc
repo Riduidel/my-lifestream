@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: American Gods
+:jbake-tags: serie
+:jbake-date: 2005-03-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/American_Gods.adoc
+:jbake-source: https://www.goodreads.com/series/114135
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290330418.html[American Gods]
+* link:../books/9782290352847.html[Anansi Boys]
+* link:../books/9782290021279.html[Des choses fragiles]

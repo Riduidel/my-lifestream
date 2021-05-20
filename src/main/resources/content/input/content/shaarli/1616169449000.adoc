@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jade Le Maître 🤖 sur Twitter : "Et, cerise sur le pompon, cherry on the marvelous cake, un des deux a pris un appel en anglais (+20% sur le volume vocal) qu'il a écourté car "I am in ze TGV it is not very confidential ". J'aime ce sens de l'à propos. Meanwhile nous sommes 3 à ouvrir dès yeux effarés quand même." / Twitter
+:jbake-tags: transport,sécurité,espionnage,_mois_mars,_année_2021
+:jbake-date: 2021-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1616169449000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FAratta%2Fstatus%2F1372515608118636546&searchtags=transport+s%C3%A9curit%C3%A9+espionnage+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/Aratta/status/1372515608118636546[Jade Le Maître 🤖 sur Twitter : "Et, cerise sur le pompon, cherry on the marvelous cake, un des deux a pris un appel en anglais (+20% sur le volume vocal) qu'il a écourté car "I am in ze TGV it is not very confidential ". J'aime ce sens de l'à propos. Meanwhile nous sommes 3 à ouvrir dès yeux effarés quand même." / Twitter]
+
+Bon, ben je vais continuer à faire de l'open-source dans le train, moi, c'est plus sûr ...

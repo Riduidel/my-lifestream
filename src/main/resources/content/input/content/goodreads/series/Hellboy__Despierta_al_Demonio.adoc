@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy: Despierta al Demonio
+:jbake-tags: serie
+:jbake-date: 2011-12-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hellboy__Despierta_al_Demonio.adoc
+:jbake-source: https://www.goodreads.com/series/138507
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782847890747.html[Au nom du Diable (Hellboy #2)]

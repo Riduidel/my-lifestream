@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tweet.IM - Control your Twitter with your instant messenger - Powered by ProcessOne
+:jbake-tags: jabber,twitter,xmpp,bot,@totest,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1371028199000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tweet.im%2F&searchtags=jabber+twitter+xmpp+bot+%40totest+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://www.tweet.im/[tweet.IM - Control your Twitter with your instant messenger - Powered by ProcessOne]
+
+Un bot jabber twitter écrit en erlang, ne nécessitant à priori pas de compte gtalk. Je l'ai utilisé un moment, et dans mon souvenir ça marchait bien. Mais sa survie est incertaines et il faut que je reteste. Bon il se trouve que l'inscription ne fonctionne pas pour l'instant.

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Witcher
+:jbake-tags: serie
+:jbake-date: 2005-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Witcher.adoc
+:jbake-source: https://www.goodreads.com/series/40911
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266151436.html[Le Dernier Vœu (Sorceleur, #1)]

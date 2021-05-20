@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Domoticz
+:jbake-tags: informatique,domotique,software,open-source,_mois_sept.,_année_2014
+:jbake-date: 2014-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1409560738000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.domoticz.com%2F&searchtags=informatique+domotique+software+open-source+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.domoticz.com/[Domoticz]
+
+Tiens, une plateforme de domotique qui semble intégrer le Scratch du MIT dans de la domotique. C'est \*très\* malin.

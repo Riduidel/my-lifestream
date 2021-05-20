@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gravitee IO sur Twitter : "Enjeux et Priorités entretein entre Jean-Marc Silvestre et Nicolas Géraud COO https://t.co/aQmbYkGA7p https://t.co/3Ae0YkCVOQ https://t.co/b9Wi9mH0A3" / Twitter
+:jbake-tags: api,interview,media,télévision,vulgarisation,_mois_janv.,_année_2021
+:jbake-date: 2021-01-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1610637571000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGraviteeIO%2Fstatus%2F1349633612426207234&searchtags=api+interview+media+t%C3%A9l%C3%A9vision+vulgarisation+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/GraviteeIO/status/1349633612426207234[Gravitee IO sur Twitter : "Enjeux et Priorités entretein entre Jean-Marc Silvestre et Nicolas Géraud COO https://t.co/aQmbYkGA7p https://t.co/3Ae0YkCVOQ https://t.co/b9Wi9mH0A3" / Twitter]
+
+Cette interview de Nicolas est très chouette, parce que Nicolas est quelqu'un de très clair. Et que Gravitee est un produit très chouette.

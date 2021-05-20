@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kent Beck sur Twitter : "Engineering turns ideas into reality. Science turns reality into ideas." / Twitter
+:jbake-tags: citation,science,ingénierie,_mois_févr.,_année_2021
+:jbake-date: 2021-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1612692365000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2FKentBeck%2Fstatus%2F1357698744444096515&searchtags=citation+science+ing%C3%A9nierie+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/KentBeck/status/1357698744444096515[Kent Beck sur Twitter : "Engineering turns ideas into reality. Science turns reality into ideas." / Twitter]
+
+Cette citation est incroyablement chouette sur l'antinomique existant entre l'ingénierie et la science.

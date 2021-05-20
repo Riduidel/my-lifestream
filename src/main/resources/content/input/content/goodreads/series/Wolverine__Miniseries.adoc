@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wolverine: Miniseries
+:jbake-tags: serie
+:jbake-date: 2011-10-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Wolverine__Miniseries.adoc
+:jbake-source: https://www.goodreads.com/series/232951
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780785123293.html[Wolverine]
+* link:../books/9782809420111.html[Wolverine, les origines]

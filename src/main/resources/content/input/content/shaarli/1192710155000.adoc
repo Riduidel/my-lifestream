@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MavenBook - Maven: The Definitive Guide (1.0 Alpha 2) - Table Of Content
+:jbake-tags: code,développement,documentation,ebook,freeware,guide,java,online,pdf,programming,qualité,projet,software,tool,maven,_mois_oct.,_année_2007
+:jbake-date: 2007-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1192710155000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sonatype.com%2Fbook%2F&searchtags=code+d%C3%A9veloppement+documentation+ebook+freeware+guide+java+online+pdf+programming+qualit%C3%A9+projet+software+tool+maven+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.sonatype.com/book/[MavenBook - Maven: The Definitive Guide (1.0 Alpha 2) - Table Of Content]
+
+Un très bon bouquin sur maven, disponible gratuitement.

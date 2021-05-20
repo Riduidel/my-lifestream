@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Accueil - Wikiversité
+:jbake-tags: cours,culture,documentation,éducation,français,online,reference,wiki,_mois_août,_année_2007
+:jbake-date: 2007-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1186397092000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.wikiversity.org%2Fwiki%2FAccueil&searchtags=cours+culture+documentation+%C3%A9ducation+fran%C3%A7ais+online+reference+wiki+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://fr.wikiversity.org/wiki/Accueil[Accueil - Wikiversité]
+
+Une wikipedia des cours; Ca pourra être utile rapidement pour les enfants ...

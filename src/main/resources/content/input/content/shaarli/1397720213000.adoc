@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TrueCrypt audit finds “no evidence of backdoors” or malicious code | Ars Technica
+:jbake-tags: sécurité,software,analyse,_mois_avr.,_année_2014
+:jbake-date: 2014-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1397720213000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farstechnica.com%2Fsecurity%2F2014%2F04%2Ftruecrypt-audit-finds-no-evidence-of-backdoors-or-malicious-code%2F&searchtags=s%C3%A9curit%C3%A9+software+analyse+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://arstechnica.com/security/2014/04/truecrypt-audit-finds-no-evidence-of-backdoors-or-malicious-code/[TrueCrypt audit finds “no evidence of backdoors” or malicious code | Ars Technica]
+
+Bon, je ne vais pas lire l'article complet. Mais, en tant qu'utilisateur quotidien de TrueCrypt, je suis bien content qu'il n'y ait pas de faille de sécurité apparente dans ce très chouette soft. via http://sebsauvage.net/links/?HoHy7Q

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ninja Web Framework | Full stack web framework for Java. Fast and productive. Built on Maven - runs on servlet containers. -
+:jbake-tags: web,java,framework,programming,_mois_janv.,_année_2014
+:jbake-date: 2014-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1391183044000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ninjaframework.org&searchtags=web+java+framework+programming+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.ninjaframework.org[Ninja Web Framework | Full stack web framework for Java. Fast and productive. Built on Maven - runs on servlet containers. -]
+
+Un framework web Java qui m'attire pas mal, je dois dire. J'aime son expressivité, son utilisation des conventions, et ses possibilités qui semblent assez ... importantes

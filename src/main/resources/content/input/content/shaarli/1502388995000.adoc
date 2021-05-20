@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Look into NASA’s Coding Philosophy – Student Voices
+:jbake-tags: programming,concepts,carrière,_mois_août,_année_2017
+:jbake-date: 2017-08-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1502388995000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmystudentvoices.com%2Fa-look-into-nasas-coding-philosophy-b747957c7f8a&searchtags=programming+concepts+carri%C3%A8re+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://mystudentvoices.com/a-look-into-nasas-coding-philosophy-b747957c7f8a[A Look into NASA’s Coding Philosophy – Student Voices]
+
+Diablement intéressant. La partie sur le mentoring, à elle seule, vaut la lecture

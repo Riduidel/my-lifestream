@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: code · Video for Everybody!
+:jbake-tags: web,vidéo,html5,_mois_nov.,_année_2015
+:jbake-date: 2015-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1446817684000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcamendesign.com%2Fcode%2Fvideo_for_everybody&searchtags=web+vid%C3%A9o+html5+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://camendesign.com/code/video_for_everybody[code · Video for Everybody!]
+
+Chouette solution pour afficher la vidéo quelquesoit le client. Malheureusement, ça implique le transcodage dans tout un paquet de formats.

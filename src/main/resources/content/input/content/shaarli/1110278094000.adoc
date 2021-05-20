@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shinkuro, Inc. - Tools for Collaboration
+:jbake-tags: freeware,macosx,windows,linux,réseau,sharing,im,software,_mois_mars,_année_2005
+:jbake-date: 2005-03-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1110278094000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.shinkuro.com%2Fproducts.php&searchtags=freeware+macosx+windows+linux+r%C3%A9seau+sharing+im+software+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.shinkuro.com/products.php[Shinkuro, Inc. - Tools for Collaboration]
+
+Use the Shinkuro software to share files across enterprise boundaries - securely. Just install the software on each machine, create a group and designate a folder you would like to share with the group. Any files you put in that folder will be shared with

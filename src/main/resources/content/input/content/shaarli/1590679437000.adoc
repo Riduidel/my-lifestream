@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Consistency Models
+:jbake-tags: science,informatique,distribué,protocole,cohérence,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590679437000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjepsen.io%2Fconsistency&searchtags=science+informatique+distribu%C3%A9+protocole+coh%C3%A9rence+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://jepsen.io/consistency[Consistency Models]
+
+La référence des modèles de consistance de systèmes distribués.

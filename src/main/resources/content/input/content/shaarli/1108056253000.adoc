@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DOFUS - Jeu de role massivement multijoueur sur Internet
+:jbake-tags: software,flash,online,jeu,rpg,_mois_févr.,_année_2005
+:jbake-date: 2005-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1108056253000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dofus.com%2F&searchtags=software+flash+online+jeu+rpg+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.dofus.com/[DOFUS - Jeu de role massivement multijoueur sur Internet]
+
+jeu de rôle massivement multijoueur utilisant une interface en flash

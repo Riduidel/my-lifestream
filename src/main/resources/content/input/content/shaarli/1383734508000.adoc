@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Surveillance des données, Bruxelles pointe les pays espions en Europe - Le Monde Informatique
+:jbake-tags: espionnage,nsa,sécurité,confidentialité,_mois_nov.,_année_2013
+:jbake-date: 2013-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1383734508000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemondeinformatique.fr%2Factualites%2Flire-surveillance-des-donnees-bruxelles-pointe-les-pays-espions-en-europe-55508.html&searchtags=espionnage+nsa+s%C3%A9curit%C3%A9+confidentialit%C3%A9+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.lemondeinformatique.fr/actualites/lire-surveillance-des-donnees-bruxelles-pointe-les-pays-espions-en-europe-55508.html[Surveillance des données, Bruxelles pointe les pays espions en Europe - Le Monde Informatique]
+
+Petite citation : « A un niveau très pragmatique, la surveillance à grande échelle semble avoir de fortes limitations et n'est certainement pas essentielle pour la prévention du crime » Autrement dit, personne ne sait à quoi ça sert, ni même si c'est simplement utile, mais on le fait quand même parce tout le monde le fait. Ca me rappelle tous les billets du blog de Richard Stross (très bon auteur de polar/sf) qui explique que les gens dans le monde du renseignement sont authentiquement dingues (Mc Masters Bujold le dit aussi quand elle parle de Vorkosigan). Bon, en bonus, les sommes et la masse salariale énoncées (qui doivent sans doute être sous-évaluées) sont déja follement énormes. via http://sebsauvage.net/links/?MGWN1A

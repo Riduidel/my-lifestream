@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocket.chat,hipchat (via xmpp), steam, twitch, ssh-chat, zulip, whatsapp and matrix with REST API (mattermost not required!)
+:jbake-tags: go,slack,xmpp,open-source,server,interface,_mois_juin,_année_2019
+:jbake-date: 2019-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1559749189000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2F42wim%2Fmatterbridge&searchtags=go+slack+xmpp+open-source+server+interface+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/42wim/matterbridge[42wim/matterbridge: bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocket.chat,hipchat (via xmpp), steam, twitch, ssh-chat, zulip, whatsapp and matrix with REST API (mattermost not required!)]
+
+oh dis donc, j'ai tout un tas de serveurs slack et autres que j'intègre pour l'instant directement dans pidgin, mais ça m'a l'air plus "classieux" de le faire côté serveur

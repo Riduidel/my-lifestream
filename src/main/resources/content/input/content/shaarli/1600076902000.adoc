@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Create a Declarative Pipeline Jenkinsfile for Maven Releasing | by Michael Kutz | Medium
+:jbake-tags: maven,release,jenkins,tutorial,simple,_mois_sept.,_année_2020
+:jbake-date: 2020-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1600076902000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40MichaKutz%2Fcreate-a-declarative-pipeline-jenkinsfile-for-maven-releasing-1d43c896880c&searchtags=maven+release+jenkins+tutorial+simple+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/@MichaKutz/create-a-declarative-pipeline-jenkinsfile-for-maven-releasing-1d43c896880c[Create a Declarative Pipeline Jenkinsfile for Maven Releasing | by Michael Kutz | Medium]
+
+La façon la plus simple de faire des releases maven depuis Jenkins.

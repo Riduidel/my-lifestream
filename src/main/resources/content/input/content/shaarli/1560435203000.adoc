@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dnsfilter [Wiki de sebsauvage.net]
+:jbake-tags: android,réseau,dns,sécurité,_mois_juin,_année_2019
+:jbake-date: 2019-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1560435203000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsebsauvage.net%2Fwiki%2Fdoku.php%3Fid%3Ddnsfilter&searchtags=android+r%C3%A9seau+dns+s%C3%A9curit%C3%A9+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://sebsauvage.net/wiki/doku.php?id=dnsfilter[dnsfilter [Wiki de sebsauvage.net]]
+
+Merci sebsauvage ! Je m'en vais configurer ça dès ce soir !

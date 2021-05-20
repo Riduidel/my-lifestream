@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pandoc - About pandoc
+:jbake-tags: lifestream,converter,tool,html,latex,markdown,_mois_sept.,_année_2012
+:jbake-date: 2012-09-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1348058106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjohnmacfarlane.net%2Fpandoc%2F&searchtags=lifestream+converter+tool+html+latex+markdown+_mois_sept.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://johnmacfarlane.net/pandoc/[Pandoc - About pandoc]
+
+Le principe de cet outil est excellent, et pourrait me permettre de récupérer des tonnes de messages dans divers formats HTML pour les retraduire en Markdown, dont je commence à être un peu fan.

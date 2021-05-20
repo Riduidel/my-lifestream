@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dividing frontend from backend is an antipattern | ThoughtWorks
+:jbake-tags: programming,entreprise,carrière,_mois_août,_année_2020
+:jbake-date: 2020-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1598632727000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.thoughtworks.com%2Finsights%2Fblog%2Fdividing-frontend-backend-antipattern&searchtags=programming+entreprise+carri%C3%A8re+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.thoughtworks.com/insights/blog/dividing-frontend-backend-antipattern[Dividing frontend from backend is an antipattern | ThoughtWorks]
+
+Même si je n'ai que peu de passion pour la compilation Javascript, je suis assez d'accord avec l'idée qu'un développeur ne doive pas être front ou back.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Michael on Twitter: "Ballé's Law: "Any system that operates in isolation will follow its own internal logic to the point of absurdity", proofs of Lead With Lean https://t.co/IBaiFUiCA4"
+:jbake-tags: citation,organisation,politique,_mois_nov.,_année_2016
+:jbake-date: 2016-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1480490266000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FMichael_Balle%2Fstatus%2F802818565871112192&searchtags=citation+organisation+politique+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/Michael_Balle/status/802818565871112192[Michael on Twitter: "Ballé's Law: "Any system that operates in isolation will follow its own internal logic to the point of absurdity", proofs of Lead With Lean https://t.co/IBaiFUiCA4"]
+
+Je travaille en ce moment sur un système qui expose particulièrement bien cet aspect.

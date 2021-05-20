@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emacs on Mac OS X - Customization Package
+:jbake-tags: software,freeware,open-source,macosx,programming,editor,_mois_mai,_année_2006
+:jbake-date: 2006-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1147361363000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.reitter-it-media.de%2Fsoftware%2Fosx_emacs.html&searchtags=software+freeware+open-source+macosx+programming+editor+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.reitter-it-media.de/software/osx_emacs.html[Emacs on Mac OS X - Customization Package]
+
+Substantial Emacs tweaks for Mac OS X.

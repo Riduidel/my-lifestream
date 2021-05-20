@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: willfarrell/docker-autoheal: Monitor and restart unhealthy docker containers.
+:jbake-tags: docker,qualité,observabilité,_mois_mars,_année_2020
+:jbake-date: 2020-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1583934595000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fwillfarrell%2Fdocker-autoheal&searchtags=docker+qualit%C3%A9+observabilit%C3%A9+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/willfarrell/docker-autoheal[willfarrell/docker-autoheal: Monitor and restart unhealthy docker containers.]
+
+C'est assez marrant comme concept ... C'est de l'uptime garanti sans le poids de Kubernetes

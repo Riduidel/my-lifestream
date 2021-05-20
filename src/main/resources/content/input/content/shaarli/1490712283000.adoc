@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SOLID Is OOP for Dummies
+:jbake-tags: marketing,programming,oop,concepts,_mois_mars,_année_2017
+:jbake-date: 2017-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1490712283000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.yegor256.com%2F2017%2F03%2F28%2Fsolid.html&searchtags=marketing+programming+oop+concepts+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.yegor256.com/2017/03/28/solid.html[SOLID Is OOP for Dummies]
+
+C'est parfaitement juste

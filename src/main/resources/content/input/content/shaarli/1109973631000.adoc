@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trance Software
+:jbake-tags: software,freeware,macosx,editor,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109973631000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.trancesoftware.com%2Fsoftware%2Ftextforge%2F&searchtags=software+freeware+macosx+editor+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.trancesoftware.com/software/textforge/[Trance Software]
+
+TextForge is a text editor for Mac OS X, written using the Cocoa API. TextForge was built from scratch to provide a reliable, powerful, fast, efficient, and Mac OS X native solution for editing text documents. Some highlights are:

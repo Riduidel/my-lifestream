@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hiroya Oku
+:jbake-tags: author
+:jbake-date: 2013-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/304949.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1295717599p5/304949.jpg
+:jbake-source: https://www.goodreads.com/author/show/304949
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781595825872.html[Gantz/13]
+* link:../books/9781595825988.html[Gantz/14]
+* link:../books/9782759502011.html[Gantz/22]
+* link:../books/9782759502028.html[Gantz/23]
+* link:../books/9782759502684.html[Gantz/24]
+* link:../books/9782759502691.html[Gantz/25]
+* link:../books/9782759503667.html[Gantz/26]
+* link:../books/9782759503674.html[Gantz/27]
+* link:../books/9782759503681.html[Gantz/28]
+* link:../books/9782845802452.html[Gantz, Tome 1]
+* link:../books/9782845802469.html[Gantz, Tome 2 (French Edition)]
+* link:../books/9782845803244.html[Gantz 3]
+* link:../books/9782845803251.html[Gantz, tome 4]
+* link:../books/9782845803268.html[Gantz, Tome 5]
+* link:../books/9782845803923.html[Gantz Tome 6]
+* link:../books/9782845804524.html[Gantz T07]
+* link:../books/9782845804531.html[Gantz/8]
+* link:../books/9782845806290.html[Gantz/12]
+* link:../books/9788483571095.html[Gantz /19]
+* link:../books/9788483572627.html[Gantz /20]
+* link:../books/9788483572856.html[Gantz /21]
+* link:../books/9788484494775.html[Gantz /9]
+* link:../books/9788484494782.html[Gantz /10]
+* link:../books/9788484496137.html[Gantz /11]
+* link:../books/9788484498988.html[Gantz /15]
+* link:../books/9788484498995.html[Gantz /16]
+* link:../books/9788484499008.html[Gantz /17]
+* link:../books/9788484499015.html[Gantz /18]

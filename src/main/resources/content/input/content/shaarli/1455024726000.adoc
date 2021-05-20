@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Panda Strike: React Is A Terrible Idea
+:jbake-tags: javascript,web,framework,mode,freeware,_mois_févr.,_année_2016
+:jbake-date: 2016-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1455024726000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.pandastrike.com%2Fposts%2F20150311-react-bad-idea&searchtags=javascript+web+framework+mode+freeware+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.pandastrike.com/posts/20150311-react-bad-idea[Panda Strike: React Is A Terrible Idea]
+
+Excellent article qui pointe bien du doigt l'une des failles des frameworks JS "à la mode" : ils sont générallement des émanations de l'ordre du marketting de grands groupes comme Facebook ou Google. Et pas des outils pour simplifier le dév.

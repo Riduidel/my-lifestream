@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Philosophy of Software Design
+:jbake-tags:  rayon-informatique,_année_2018,_mois_août,_note_4,rayon-emprunt,read
+:jbake-date: 2018-08-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9781732102200.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531857377l/39996759._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531857377l/39996759._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/39996759
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/14019088.html[John Ousterhout]
+
+
+
+## Review
+
+++++
+Ce court livre propose une réflexion basée sur quelques axes simples afin d'améliorer le design des logiciels. Notez que l'auteur ne parle pas d'architecture à dessein. A la place, il présente un certain nombre d'idées qui vont nourrir la réflexion sur le design. Par exemple<br/><br/>* Les modules doivent être profonds : présenter une faible surface d'interface tout en fournissant des fonctionnalités puissantes<br/>* Préférer la pensée stratégique à la pensée tactique : ne jamais se jeter sur le quick fix sans avoir mesuré son impact<br/>* Toujours réfléchir à plusieurs solutions : ça permet de voir les défauts et qualités des unes et des autres<br/>* Investir dans le design du logiciel de façon continue<br/>* Ne pas renvoyer d'erreurs si ça n'est pas absolument nécessaire<br/>* Ecrire le code dans l'ordre interface/commentaires/code. TOUJOURS<br/><br/>J'ai beaucoup apprécié la manière pragmatique dont ces éléments apparaissent, qui résonne avec certains éléments de mon expérience.<br/>Par ailleurs, un chapitre (19 - software trends) fournit un aperçu des opinions de l'auteur sur les grandes tendances logicielles. Autant l'agilité trouve grâce à ces yeux (à la réserve de ne pas coder "tactiquement"), autant le TDD est pour lui une erreur - sauf dans le cas précis de la correction de bugs. Et ses arguments sonnent assez juste.<br/><br/>C'est donc une excellente lecture pour tous les gens qui se retrouvent à concevoir un système logiciel. Je regrette juste que les exemples soient assez datés.
+++++

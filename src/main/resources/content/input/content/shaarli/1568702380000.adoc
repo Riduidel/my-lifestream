@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Premiers pas avec Github actions - zThulj
+:jbake-tags: github,devops,intégration,continuous,_mois_sept.,_année_2019
+:jbake-date: 2019-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1568702380000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.zthulj.fr%2Fblog%2Fgithub-actions-poc&searchtags=github+devops+int%C3%A9gration+continuous+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.zthulj.fr/blog/github-actions-poc[Premiers pas avec Github actions - zThulj]
+
+C'est marrant, mon collègue Jérémy se lance dans GitHub Actions en même temps que moi. Mais lui prend le temps de documenter ses découvertes. Et c'est bien.

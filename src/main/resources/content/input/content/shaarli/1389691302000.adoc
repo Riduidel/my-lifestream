@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Indesign JavaScript Help
+:jbake-tags: javascript,api,documentation,programming,chm,_mois_janv.,_année_2014
+:jbake-date: 2014-01-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1389691302000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jongware.com%2Fidjshelp.html&searchtags=javascript+api+documentation+programming+chm+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.jongware.com/idjshelp.html[Indesign JavaScript Help]
+
+La doc pour le Javascript dans indesign. Toutes les versions d'Indesign disposent de leur doc, en HTML et (joie) CHM

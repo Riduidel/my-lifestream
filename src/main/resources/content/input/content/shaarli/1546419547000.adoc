@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tchiotludo/kafkahq: Kafka GUI for topics, topics data, consumers group and more...
+:jbake-tags: kafka,interface,open-source,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546419547000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftchiotludo%2Fkafkahq&searchtags=kafka+interface+open-source+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/tchiotludo/kafkahq[tchiotludo/kafkahq: Kafka GUI for topics, topics data, consumers group and more...]
+
+Chouette, une autre interface d'accès à Kafka. peut-être que celle-là sera plus intéressante que celles déja existantes ...

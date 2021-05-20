@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Data API: Developer's Guide, Protocol - Google Book Search APIs - Google Code
+:jbake-tags: isbn,api,framework,web,_mois_mars,_année_2010
+:jbake-date: 2010-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1269963292000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fintl%2Ffr-FR%2Fapis%2Fbooks%2Fdocs%2Fgdata%2Fdevelopers_guide_protocol.html&searchtags=isbn+api+framework+web+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://code.google.com/intl/fr-FR/apis/books/docs/gdata/developers_guide_protocol.html[Data API: Developer's Guide, Protocol - Google Book Search APIs - Google Code]
+
+C'est l'un de mes plus vieux dadas : trouver une api de récupération de fiches bibliographiques (et en fait, surtout de couvertures) à partir de l'isbn. Pour ça, je teste plusieurs sources ...

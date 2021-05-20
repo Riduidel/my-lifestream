@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tim Powers
+:jbake-tags: author
+:jbake-date: 2005-01-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/8835.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1373471978p5/8835.jpg
+:jbake-source: https://www.goodreads.com/author/show/8835
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780441023820.html[The Anubis Gates]
+* link:../books/9782277223719.html[Sur Des Mers Plus Ignorées]
+* link:../books/9782277226109.html[Le Palais du déviant]
+* link:../books/9782277236023.html[Poker d'âmes]
+* link:../books/9782290356180.html[Les puissances de l'invisible]

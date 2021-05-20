@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome to Pol-Online.net!
+:jbake-tags: software,freeware,macosx,library,_mois_mars,_année_2005
+:jbake-date: 2005-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1111135373000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pol-online.net%2Findex.php%3Fpage%3Dfreeware&searchtags=software+freeware+macosx+library+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pol-online.net/index.php?page=freeware[Welcome to Pol-Online.net!]
+
+The following programs are freewares: this means they are fully functionnal and you can use them for free! Enjoy! Including x-tunes

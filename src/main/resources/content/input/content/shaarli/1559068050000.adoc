@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Note:
+:jbake-tags: twitter,api,description,_mois_mai,_année_2019
+:jbake-date: 2019-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1559068050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3Fk_VVoA&searchtags=twitter+api+description+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?k_VVoA[Note:]
+
+New twitter API requires me to provide an url for "whatever" reason. So here is the url of my app, which is mainly a beehive bridge

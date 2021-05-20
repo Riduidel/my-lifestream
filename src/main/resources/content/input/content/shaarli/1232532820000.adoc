@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'indispensable pour internet
+:jbake-tags: software,sécurité,windows,vulgarisation,documentation,reference,antivirus,_mois_janv.,_année_2009
+:jbake-date: 2009-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1232532820000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fsafehex.html&searchtags=software+s%C3%A9curit%C3%A9+windows+vulgarisation+documentation+reference+antivirus+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://sebsauvage.net/safehex.html[L'indispensable pour internet]
+
+Une page très complète et très didactique sur tous les aspects de la sécurisation d'un PC Windows, y compris concernant le wifi

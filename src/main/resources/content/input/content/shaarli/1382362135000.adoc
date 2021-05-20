@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment la NSA espionne la France
+:jbake-tags: espionnage,confidentialité,intimité,_mois_oct.,_année_2013
+:jbake-date: 2013-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1382362135000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Ftechnologies%2Farticle%2F2013%2F10%2F21%2Fcomment-la-nsa-espionne-la-france_3499758_651865.html&searchtags=espionnage+confidentialit%C3%A9+intimit%C3%A9+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.lemonde.fr/technologies/article/2013/10/21/comment-la-nsa-espionne-la-france_3499758_651865.html[Comment la NSA espionne la France]
+
+Les politiciens français sont juste des digital-abrutis : la NSA peut nous espionner sans souci, on va seulement se plaindre quand tout le monde l'aura déja fait ... Et l'autre guignol de Montebourg qui continue à croire qu'il faut sauver les mamouths français. Ca me tue littéralement. Chacun des gens que je connais qui bossent dans des secteurs un peu novateurs (typiquement l'informatique) peut avoir été espionné au nom de la guerre économique. mettez-vous ça dans le crâne une bonne fois pour toute. Et me faites pas rire avec vos citations de Machiavel, je connais au moins aussi bien. Via http://www.frandroid.com/actualites-generales/174374\_france-nsa-intercepte-70-millions-dappels-2012-2013

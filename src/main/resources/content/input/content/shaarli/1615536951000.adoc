@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vlad Mihalcea sur Twitter : "The numbers on the Planning Poker cards tell how many browser tabs you'll need to open to complete a given user story. https://t.co/UiMK7ED4HX" / Twitter
+:jbake-tags: citation,humour,agile,_mois_mars,_année_2021
+:jbake-date: 2021-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1615536951000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvlad_mihalcea%2Fstatus%2F1356833335323090951&searchtags=citation+humour+agile+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/vlad_mihalcea/status/1356833335323090951[Vlad Mihalcea sur Twitter : "The numbers on the Planning Poker cards tell how many browser tabs you'll need to open to complete a given user story. https://t.co/UiMK7ED4HX" / Twitter]
+
+J'aime beaucoup cette phrase

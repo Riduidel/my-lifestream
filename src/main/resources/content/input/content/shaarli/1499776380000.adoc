@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: nickjanssen/angus: Declarative build tool for the web.
+:jbake-tags: javascript,programming,build,declarative,_mois_juil.,_année_2017
+:jbake-date: 2017-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1499776380000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fnickjanssen%2Fangus&searchtags=javascript+programming+build+declarative+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/nickjanssen/angus[nickjanssen/angus: Declarative build tool for the web.]
+
+Enfin un outil de build Javascript qui ne m'oblige pas à écrire mes tâches moi-même !

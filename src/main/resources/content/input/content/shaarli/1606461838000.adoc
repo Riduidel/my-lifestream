@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pop!_OS by System76
+:jbake-tags: ubuntu,linux,distribution,créativité,open-source,_mois_nov.,_année_2020
+:jbake-date: 2020-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1606461838000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpop.system76.com%2F&searchtags=ubuntu+linux+distribution+cr%C3%A9ativit%C3%A9+open-source+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://pop.system76.com/[Pop!_OS by System76]
+
+Une autre variante d'Ubuntu, qui reprend un peu, je trouve, l'orientation d'Elementary, mais avec une vision différente : il s'agit cette fois d'une distribution pour créateurs (développeurs inclus)

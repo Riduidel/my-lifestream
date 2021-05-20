@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PHD Comics: Gravitational Waves Explained
+:jbake-tags: physique,espace,gravité,_mois_févr.,_année_2016
+:jbake-date: 2016-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1455278818000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.phdcomics.com%2Fcomics.php%3Ff%3D1853&searchtags=physique+espace+gravit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.phdcomics.com/comics.php?f=1853[PHD Comics: Gravitational Waves Explained]
+
+Très chouette explication sur ces fameuses ondes gravitationnelles

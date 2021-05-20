@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: command line - How to set custom resolution using xrandr when the resolution is not available in 'Display Settings' - Unix & Linux Stack Exchange
+:jbake-tags: linux,configuration,écran,affichage,fullhd,_mois_oct.,_année_2020
+:jbake-date: 2020-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1602323742000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Funix.stackexchange.com%2Fquestions%2F227876%2Fhow-to-set-custom-resolution-using-xrandr-when-the-resolution-is-not-available-i%2F227894%23227894&searchtags=linux+configuration+%C3%A9cran+affichage+fullhd+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://unix.stackexchange.com/questions/227876/how-to-set-custom-resolution-using-xrandr-when-the-resolution-is-not-available-i/227894#227894[command line - How to set custom resolution using xrandr when the resolution is not available in 'Display Settings' - Unix & Linux Stack Exchange]
+
+Sur un des ordinateurs que j'ai passé sous elementary OS, j'avais un problème de résolution pénible (je n'avais que du 1680x1050). Heureusement, ce script m'a aidé ! Reste maintenant à appliquer ça tout le temps ... Et à tous les utilisateurs !

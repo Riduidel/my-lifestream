@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: evry/docker-oidc-proxy: Docker Image built on Alpine Linux for secure OpenID Connect (OIDC) proxy authentication
+:jbake-tags: docker,openid,proxy,nginx,_mois_juil.,_année_2019
+:jbake-date: 2019-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1562330780000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fevry%2Fdocker-oidc-proxy&searchtags=docker+openid+proxy+nginx+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/evry/docker-oidc-proxy[evry/docker-oidc-proxy: Docker Image built on Alpine Linux for secure OpenID Connect (OIDC) proxy authentication]
+
+Un chouette proxy OIDC tournant dans un conteneur Docker ... C'est bien ... sauf que le conteneur est basé sur Alpine (aïe) et démarre avec l'utilisateur root (AIE)

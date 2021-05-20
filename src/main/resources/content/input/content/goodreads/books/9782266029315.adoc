@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Sorcière dormante
+:jbake-tags: _année_2017,_mois_août,_note_3,rayon-imaginaire,read
+:jbake-date: 2017-08-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266029315.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327927074l/6642559._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327927074l/6642559._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6642559
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Elric of Melniboné, proud prince of ruins, last lord of a dying race, wanders the lands of the Young Kingdoms in search of the evil sorcerer Theleb K'aarna. His object is revenge. But to achieve this, he must first brave such horrors as the Creatures of Chaos, the freezing wilderness of World's Edge, the golden-skinned Kelmain hordes, King Urish the Seven-fingered with his great cleaver Hackmeat, the Burning God, the Sighing Desert, and the terrible stone-age men of Pio. Although Elric holds within him a destiny greater than he could ever know, and controls the hellsword Stormbringer, stealer of souls, his task looks hopeless - until he encounters Myshella, Empress of the Dawn, the sleeping sorceress...
+</div>
+++++
+
+
+## Authors
+* link:../authors/16939.html[Michael Moorcock]
+
+## Series
+* link:../series/Elric_Chronological_Order.html[Elric Chronological Order]
+* link:../series/The_Elric_Saga.html[The Elric Saga]
+
+## Review
+
+++++
+Elric défend le château des dieux de la Loi contre son ennemi personnel, infiltre la cour des mendiants dans un passage qui me rappelle furieusement Fafhrd et le souricier gris, et rejoint ensuite Corum et Ereckose pour combattre un puissant sorcier. Cette dernière histoire pourrait aujourd'hui se voir comme du fan-service :l'auteur montre à ses lecteurs leurs héros préférés et c'est cool, même si je dois avouer que c'est un peu inférieur aux histoires où Elric amène les jeunes royaumes seul ou avec Tristelune.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Francois Armand sur Twitter : "Hey everybody, the slides of my @ScalaIO_FR #scalaio19 talk, "systematic error management in application - we ported @rudderio to #ZIO" are here: https://t.co/hobTGRCRMT The feedback I get are so nice, thank you everyone!"
+:jbake-tags: développeur,concepts,erreur,management,documentation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1572716272000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffanf42%2Fstatus%2F1189539762916470786&searchtags=d%C3%A9veloppeur+concepts+erreur+management+documentation+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/fanf42/status/1189539762916470786[Francois Armand sur Twitter : "Hey everybody, the slides of my @ScalaIO_FR #scalaio19 talk, "systematic error management in application - we ported @rudderio to #ZIO" are here: https://t.co/hobTGRCRMT The feedback I get are so nice, thank you everyone!"]
+
+La présentation est très intéressante ... même si je crains que le passage direct au monde fonctionnel ne soit un peu ... rapide 😉

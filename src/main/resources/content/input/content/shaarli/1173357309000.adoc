@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Change the behavior of the home and end keys
+:jbake-tags: documentation,clavier,tutorial,usability,macosx,_mois_mars,_année_2007
+:jbake-date: 2007-03-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1173357309000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.aaronadams.net%2Findex.php%2F2005%2F03%2F01%2Fchange_the_behavior_of_the_home_and_end_&searchtags=documentation+clavier+tutorial+usability+macosx+_mois_mars+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.aaronadams.net/index.php/2005/03/01/change_the_behavior_of_the_home_and_end_[Change the behavior of the home and end keys]
+
+Un petit tutorial pour que les touches "Home" et "End" fontionnent normallement sur mon Mac.

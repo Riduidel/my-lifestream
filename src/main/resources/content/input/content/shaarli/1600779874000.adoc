@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Checklist Windows 10 - le hollandais volant
+:jbake-tags: windows,installation,configuration,_mois_sept.,_année_2020
+:jbake-date: 2020-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1600779874000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flehollandaisvolant.net%2Ftuto%2Fwx-checklist%2F&searchtags=windows+installation+configuration+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://lehollandaisvolant.net/tuto/wx-checklist/[Checklist Windows 10 - le hollandais volant]
+
+Comme je risque prochainement de réinstaller un poste Windows 10, et que j'aimerai qu'il marche bien, ça peut valoir le coup de suivre cette liste ...

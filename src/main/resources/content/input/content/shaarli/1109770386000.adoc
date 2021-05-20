@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Tao of Mac - VNC
+:jbake-tags: software,freeware,windows,réseau,remote,vnc,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109770386000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthe.taoofmac.com%2Fspace%2FVNC&searchtags=software+freeware+windows+r%C3%A9seau+remote+vnc+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://the.taoofmac.com/space/VNC[The Tao of Mac - VNC]
+
+Probably the most useful Open Source tool of all (ok, SSH is more useful), VNC was originally created by the AT&T Research facility in Cambrige and is a remote display protocol that, despite being rather inefficient (something modern forks try to improve

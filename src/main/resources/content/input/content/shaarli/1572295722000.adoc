@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rich Harris sur Twitter : "My talk from @jscamp, "The Return of 'Write Less, Do More'" is up on YouTube: https://t.co/8BGp1RoIRj It's a 30 min talk on @sveltejs, and why less code = fewer bugs — kind of a sequel to "Rethinking Reactivity" (https://t.co/wqlIy0aEDs) Here's a summary thread:"
+:jbake-tags: web,platform,javascript,compilateur,_mois_oct.,_année_2019
+:jbake-date: 2019-10-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1572295722000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRich_Harris%2Fstatus%2F1188160012604133376&searchtags=web+platform+javascript+compilateur+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Rich_Harris/status/1188160012604133376[Rich Harris sur Twitter : "My talk from @jscamp, "The Return of 'Write Less, Do More'" is up on YouTube: https://t.co/8BGp1RoIRj It's a 30 min talk on @sveltejs, and why less code = fewer bugs — kind of a sequel to "Rethinking Reactivity" (https://t.co/wqlIy0aEDs) Here's a summary thread:"]
+
+Je ne pensais pas vouloir le regarder en entier, mais Rich Harris semble y raconter des choses vraiment chouettes.

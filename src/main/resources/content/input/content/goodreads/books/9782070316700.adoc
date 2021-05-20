@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Forêt des Mythagos
+:jbake-tags:  broc, dieu, rayon-imaginaire,_année_2004,_mois_août,_note_2,fantasy,read
+:jbake-date: 2004-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070316700.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414518430l/3628865._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414518430l/3628865._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3628865
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans un coin perdu du Herefordshire s'étend le bois de Ryhope, vestige d'une ancienne forêt remontant à la dernière glaciation ; un bois tellement dense qu'il paraît impossible d'y pénétrer au-delà d'une certaine limite. George Huxley, qui s'est établi avec sa famille à l'orée de Ryhope, est pour d'obscures raisons obsédé par cette forêt, par l'idée d'en explorer les profondeurs ; une obsession qui le conduit à négliger sa femme et ses enfants. Après sa mort, en 1946, ses deux fils se retrouvent à Ryhope où, grâce aux carnets qu'il a laissés, l'étrange vérité leur est peu à peu révélée : dans ce coin de l'ancienne Angleterre, il semble que l'inconscient collectif humain soit capable de donner vie aux peuplades des mythes et des légendes. Et qu'au détour d'un sentier, ou bien derrière un arbre, se dissimulent Guiwenneth, la belle princesse celte, Jason et ses argonautes, le roi Arthur Pendragon et bien d'autres héros encore...
+</div>
+++++
+
+
+## Authors
+* link:../authors/72538.html[Robert Holdstock]
+
+## Series
+* link:../series/Mythago_Wood.html[Mythago Wood]
+
+## Review
+
+++++
+Ce roman nous emmène à la suite du narrateur, fraîchement revenu de la guerre, aux confins d’une étrange forêt anglaise. Et bien sûr, l’inattendu déboule. Avec ce roman, j’ai voyagé dans une forme de réçit assez ancienne, mais subtilement renouvellée. En fait, l’histoire m’a profondément rappelé les récits de Lovecraft où le héros devient toujours l’occupant d’une maison isolée, et commence à se rendre compte que la réalité n’est pas ce qu’il croît, comme par exemple dans Le rôdeur devant le seuil ou L’affaire Charles Dexter Ward. Ici aussi, le héros va découvrir que le bois face auquel il vît est loin de l’image qu’il peut en avoir. Toutefois, la différence avec Lovecraft est importante. Car ici, pas de dieu chassé par l’humanité, pas d’êtres d’autres dimensions, mais plutôt une plongée en mythologie. En effet, en pénétrant dans ce bois, le héros constate rapidement(1) que celui-ci semble héberger des personnifications de la plupart des légendes des siècles passés. Et surtout que lui aussi peut, en pénétrant dans ce bois, devenir l’un de ces personnages légendaires. J’ai trouvé ce roman vraiment étrange. Pas particulièrement envoûtant, il est en revanche aussi joueur que l’auteur du jeu de rôle RuneQuest lorsqu’il a donné forme aux érudits de l’ambigu(2). Il met ainsi un point d’honneur à retracer la genèse de la plupart des mythes du folklore britannique, qui remonte parfois très loin. Ce jeu intellectuel très divertissant n’est cependan rien face à l’ambiance lourde, oppressante qu’on perçoit durant toute la première moitié du roman, quand le héros n’est encore qu’extérieur à ce bois. Malheureusement, je trouve que la deuxième partie rompt un peu cette ambiance, avec cette longue quête qui mène le héros jusqu’aux limites de ce monde. Et ce n’est évidement pas le seul défaut que je trouve à ce livre, pas assez fouillé par endroits, et beaucoup trop détaillé ailleurs(3). Bien sûr, je sais qu’il faut voir ce roman comme une évocation nostalgique de l’âge du mythe (mais n’est-ce pas là la raison de vivre de la fantasy dans son ensemble ?). Toutefois, le charme n’a pas pris avec moi, ce qui réduit hélas énormément l’intérêt de ce roman, qui ne peut alors être vu que comme une quête initiatique, et pas des plus fameuses. <br/><br/>(1) Principalement grâce aux documents de son père<br/>(2) des espèces de chercheurs désirant établir les connexions entre toutes les mythologies existantes, afin de renforcer ou d’affaiblir certaines croyances et, par là même, de remodeler la réalité.<br/>(3) Je ne pouvais que difficilement me retenir de bailler devant certaines descriptions de la maison familiale.
+++++

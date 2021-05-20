@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La France, précieux partenaire de l'espionnage de la NSA
+:jbake-tags: sécurité,confidentialité,internet,politique,_mois_déc.,_année_2013
+:jbake-date: 2013-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1386680563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Ftechnologies%2Farticle%2F2013%2F11%2F29%2Fla-france-precieux-partenaire-de-l-espionnage-de-la-nsa_3522653_651865.html&searchtags=s%C3%A9curit%C3%A9+confidentialit%C3%A9+internet+politique+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.lemonde.fr/technologies/article/2013/11/29/la-france-precieux-partenaire-de-l-espionnage-de-la-nsa_3522653_651865.html[La France, précieux partenaire de l'espionnage de la NSA]
+
+Je le savais déja (à cause de cette histoire de cpables rliant la france a l'ensemble de l'Afrique qui la plaçait dans une position idéale d'intecreption). Mais la façon dont la DGSE collabore avec la NSA est assez terrifiante. Une seule moralité : pour les échanges vraiment secrets, préferrez le courrier postal (bien mieux protégé) et le code à clé cachée. Pour l'anecdote, j'explique déja à mes enfants comment utiliser un livre comme clé de cryptage .... via http://sebsauvage.net/links/?Rmj04A

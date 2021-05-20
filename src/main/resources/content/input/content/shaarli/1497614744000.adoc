@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Little Alchemy
+:jbake-tags: web,jeu,évolution,alchimie,freeware,_mois_juin,_année_2017
+:jbake-date: 2017-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1497614744000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flittlealchemy.com%2F&searchtags=web+jeu+%C3%A9volution+alchimie+freeware+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://littlealchemy.com/[Little Alchemy]
+
+Un petit jeu très amusant.Merci @sebsauvage !

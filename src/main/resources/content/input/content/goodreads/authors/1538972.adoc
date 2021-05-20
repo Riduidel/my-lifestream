@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yann Minh
+:jbake-tags: author
+:jbake-date: 2001-12-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1538972.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/1538972
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782908382723.html[Les Récifs]

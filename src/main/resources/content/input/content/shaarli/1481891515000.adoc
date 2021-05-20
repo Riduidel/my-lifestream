@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Khartec - Waltz
+:jbake-tags: entreprise,architecture,automatisation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1481891515000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkhartec.github.io%2F&searchtags=entreprise+architecture+automatisation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://khartec.github.io/[Khartec - Waltz]
+
+Pas mal. Ce serait encore mieux si les informations étaient poussées par les applications

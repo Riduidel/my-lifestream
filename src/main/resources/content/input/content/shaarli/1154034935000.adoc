@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iConquer
+:jbake-tags: macosx,jeu,software,freeware,_mois_juil.,_année_2006
+:jbake-date: 2006-07-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1154034935000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.kavasoft.com%2FiConquer%2Findex.php&searchtags=macosx+jeu+software+freeware+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.kavasoft.com/iConquer/index.php[iConquer]
+
+Un RISK customizable pour mon Mac, avec quelques maps plutôt intéressantes

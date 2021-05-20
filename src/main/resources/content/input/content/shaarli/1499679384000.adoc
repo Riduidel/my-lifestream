@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Evolutionary Pac-Man bots using Grammatical Evolution
+:jbake-tags: ia,algorithme,génétique,audit,_mois_juil.,_année_2017
+:jbake-date: 2017-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1499679384000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhecoding.github.io%2FPac-Man%2F&searchtags=ia+algorithme+g%C3%A9n%C3%A9tique+audit+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://hecoding.github.io/Pac-Man/[Evolutionary Pac-Man bots using Grammatical Evolution]
+
+Wow, de l'algorithme génétique à base d'évaluation de grammaire ? Très chic, très auditable, très bien, quoi

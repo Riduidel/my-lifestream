@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Link Shell Extension
+:jbake-tags: freeware,shell,software,utilities,windows,XP,@toinstall,_mois_juin,_année_2008
+:jbake-date: 2008-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1214578201000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fschinagl.priv.at%2Fnt%2Fhardlinkshellext%2Fhardlinkshellext.html&searchtags=freeware+shell+software+utilities+windows+XP+%40toinstall+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html[Link Shell Extension]
+
+Encore mieux, une extension du shell pour gérer les jonctions

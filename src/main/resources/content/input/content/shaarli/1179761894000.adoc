@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby regular expressions
+:jbake-tags: regexp,ruby,reference,documentation,_mois_mai,_année_2007
+:jbake-date: 2007-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1179761894000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdoc.infosnel.nl%2Fruby_regular_expressions.html&searchtags=regexp+ruby+reference+documentation+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://doc.infosnel.nl/ruby_regular_expressions.html[Ruby regular expressions]
+
+Une référence sur ce que peut contenir une expression régulière en Ruby

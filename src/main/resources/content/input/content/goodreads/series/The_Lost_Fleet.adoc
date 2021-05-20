@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Lost Fleet
+:jbake-tags: serie
+:jbake-date: 2012-03-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Lost_Fleet.adoc
+:jbake-source: https://www.goodreads.com/series/41101
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782841724062.html[Indomptable (La Flotte perdue, #1)]
+* link:../books/9782841724444.html[Téméraire (La Flotte perdue, #2)]
+* link:../books/9782841724659.html[Courageux (La Flotte perdue, #3)]
+* link:../books/9782841724789.html[Vaillant (La Flotte perdue, #4)]
+* link:../books/9782841724901.html[Acharné (La Flotte perdue, #5)]
+* link:../books/9782841725106.html[Victorieux (La Flotte perdue, #6)]

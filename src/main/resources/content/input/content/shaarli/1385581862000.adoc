@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gwennel Web - WYSIWYG Editor for Mediawiki
+:jbake-tags: software,freeware,windows,editor,mediawiki,wysiwyg,_mois_nov.,_année_2013
+:jbake-date: 2013-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1385581862000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgwennel.com%2Fgwennel-web%2F&searchtags=software+freeware+windows+editor+mediawiki+wysiwyg+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://gwennel.com/gwennel-web/[Gwennel Web - WYSIWYG Editor for Mediawiki]
+
+Tout est dit dans le titre ... Les éditeurs WYSIWYG permettent n gain de temps énorme, je trouve. Alors pour faire avancer le codeless code, ça me paraît une bonne idée ...

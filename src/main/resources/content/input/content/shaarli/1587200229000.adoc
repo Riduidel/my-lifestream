@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: (3) BDX I/O 2019 - Test d’architecture avec ArchUnit : Mise en œuvre pour le DDD - Xavier Blanc - YouTube
+:jbake-tags: architecture,test,java,ddd,présentation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1587200229000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DhvJEjga-SHg%26list%3DWL%26index%3D4%26t%3D1575s&searchtags=architecture+test+java+ddd+pr%C3%A9sentation+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=hvJEjga-SHg&list=WL&index=4&t=1575s[(3) BDX I/O 2019 - Test d’architecture avec ArchUnit : Mise en œuvre pour le DDD - Xavier Blanc - YouTube]
+
+En train de regarder cette présentation ... Je suis troublé par le fait que le speaker vienne présenter le travail de son stagiaire ... sans le stagiaire. (et j'ai quelques propositions pour améliorer la détection)

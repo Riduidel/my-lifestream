@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: l-echo - Google Code
+:jbake-tags: windows,linux,macosx,software,freeware,open-source,jeu,puzzle,_mois_janv.,_année_2009
+:jbake-date: 2009-01-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1232628435000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fl-echo%2F&searchtags=windows+linux+macosx+software+freeware+open-source+jeu+puzzle+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://code.google.com/p/l-echo/[l-echo - Google Code]
+
+Un petit jeu de puzzle, apparement, qui a l'air d'avoir pas mal de potentiel ...

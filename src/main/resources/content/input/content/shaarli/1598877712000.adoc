@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Using a WAR module as dependency in Maven | The Pragmatic Integrator
+:jbake-tags: maven,war,classpath,packaging,plugin,tutorial,_mois_août,_année_2020
+:jbake-date: 2020-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1598877712000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpragmaticintegrator.wordpress.com%2F2010%2F10%2F22%2Fusing-a-war-module-as-dependency-in-maven%2F&searchtags=maven+war+classpath+packaging+plugin+tutorial+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://pragmaticintegrator.wordpress.com/2010/10/22/using-a-war-module-as-dependency-in-maven/[Using a WAR module as dependency in Maven | The Pragmatic Integrator]
+
+Je viens d'avoir le problème, et cette solution est vraiment à conserver dans un coin de ma tête (surtout quand j'explore l'architecture d'une application)

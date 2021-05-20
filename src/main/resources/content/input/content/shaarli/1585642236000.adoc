@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eclipse got Quarkused !
+:jbake-tags: eclipse,plugin,quarkus,_mois_mars,_année_2020
+:jbake-date: 2020-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1585642236000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fquarkus.io%2Fblog%2Feclipse-got-quarkused%2F&searchtags=eclipse+plugin+quarkus+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://quarkus.io/blog/eclipse-got-quarkused/[Eclipse got Quarkused !]
+
+Je n'ai pas encore d'idée d'application Quarkus, mais le jour où ça arrivera, ce plugin Eclipse me paraît un bon moyen de monter rapidement en compétence

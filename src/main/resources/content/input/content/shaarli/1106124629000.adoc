@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lynucs.org : Accueil - Captures d'écran de bureaux libres - Screenshots linux et autres logiciels libres
+:jbake-tags: linux,desktop,screenshot,tutorial,_mois_janv.,_année_2005
+:jbake-date: 2005-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1106124629000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lynucs.org%2F&searchtags=linux+desktop+screenshot+tutorial+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.lynucs.org/[Lynucs.org : Accueil - Captures d'écran de bureaux libres - Screenshots linux et autres logiciels libres]
+
+You can find on this site the most complete database of Free Desktop Screenshots, including Linux and most of the Free and Open Source applications. This site is also free : it's non-lucrative and has one only goal : Show what a Free Desktop can look l

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What I tell all new programmers
+:jbake-tags: programming,emploi,_mois_août,_année_2014
+:jbake-date: 2014-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1408699628000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjosephg.com%2Fblog%2Fwhat-i-tell-all-new-programmers%2F&searchtags=programming+emploi+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://josephg.com/blog/what-i-tell-all-new-programmers/[What I tell all new programmers]
+
+Des conseils plutôt malin sur le métier de développeur. J'aime bien le rappel que le développement, c'est loin d'être facile, mais que ça reste chaque jour exaltant

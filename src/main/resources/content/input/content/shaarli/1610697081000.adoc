@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Theia - Cloud and Desktop IDE Platform
+:jbake-tags: eclipse,open-source,vscode,software,programming,windows,macosx,linux,_mois_janv.,_année_2021
+:jbake-date: 2021-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1610697081000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftheia-ide.org%2F&searchtags=eclipse+open-source+vscode+software+programming+windows+macosx+linux+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://theia-ide.org/[Theia - Cloud and Desktop IDE Platform]
+
+Oh mais Eclipse Theia est basé sur les mêmes composants que VSCode ? Ca me donne envie de faire le switch, juste pour continuer à utiliser Eclipse 🤣

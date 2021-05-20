@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une liste de course pratique pour rss-bridge
+:jbake-tags: php,productivité,rss,web,_mois_mars,_année_2014
+:jbake-date: 2014-03-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/03/20/une-liste-de-course-pratique-pour-rss-bridge.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/03/20/une-liste-de-course-pratique-pour-rss-bridge/
+:jbake-style: wordpress
+
+++++
+<p>
+J'aime bien <a href="https://github.com/sebsauvage/rss-bridge">rss-bridge</a>. C'est pratique.
+</p>
+<p>
+Et comme je veux pouvoir y contribuer <a href="https://github.com/Riduidel/rss-bridge">un peu plus</a>, j'avais vaguement noté dans les issues github une liste de sites qui pourraient nécessiter un peu de boulot (ah, tiens, non).
+</p>
+<p>
+Mais c'était pas super pratique.
+</p>
+<p>
+J'ai donc pris une décision radicale : j'ai créé dans mon kriss-feed un dossier @todo:rss-bridge dans lequel je mets tous les flux pour lesquels je dois écrire un bridge.
+</p>
+<p>
+Et comme ça, dès qu'un nouvel élément y apparaît, je me rappelle que je dois vraiment bosser dessus.
+</p>
+<p>
+Et ça se voit bien :
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2014/03/kriss-feed-1_2014-03-20_17-03-14.png"><img class="aligncenter size-full wp-image-2252" alt="Kriss feed (1)_2014-03-20_17-03-14" src="http://riduidel.files.wordpress.com/2014/03/kriss-feed-1_2014-03-20_17-03-14.png" width="306" height="114" /></a>
+</p>
+<p>
+Bon, je ne sais pas si ça suffira à me sortir de la procrastination, mais je ne crois pas que ça pourra faire le moindre mal ... si ?
+</p>
+<p>
+Pour l'anecdote, cette histoire de @todo me vient d'un vieil article de lifehacker (qui apparaîtra lui aussi dans cette catégorie). Je m'en sers pour mes différents projets personnels, et c'est bien pratique.
+</p>
+++++

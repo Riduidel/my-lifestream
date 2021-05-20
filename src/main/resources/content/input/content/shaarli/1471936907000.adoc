@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""I fundamentally believe that if you are not learning new things, you stop doing great and useful things” - Satya Nadella, Microsoft CEO"
+:jbake-tags: citation,motivation,_mois_août,_année_2016
+:jbake-date: 2016-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1471936907000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F765564525785542656&searchtags=citation+motivation+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/765564525785542656[Programming Wisdom on Twitter: ""I fundamentally believe that if you are not learning new things, you stop doing great and useful things” - Satya Nadella, Microsoft CEO"]
+
+

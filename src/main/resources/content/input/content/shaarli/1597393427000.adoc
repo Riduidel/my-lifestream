@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Golden Rule of Generics
+:jbake-tags: programming,generics,java,rust,règle,_mois_août,_année_2020
+:jbake-date: 2020-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1597393427000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feffectivetypescript.com%2F2020%2F08%2F12%2Fgenerics-golden-rule%2F&searchtags=programming+generics+java+rust+r%C3%A8gle+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://effectivetypescript.com/2020/08/12/generics-golden-rule/[The Golden Rule of Generics]
+
+C'est pas bête du tout, cette règle d'or. Et c'est effectivement applicable bien au-delà de Typescript !

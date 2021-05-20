@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hype Driven Development
+:jbake-tags: programming,hype,mode,_mois_nov.,_année_2016
+:jbake-date: 2016-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1480318109000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.daftcode.pl%2Fhype-driven-development-3469fc2e9b22%23.iot3cf3r6&searchtags=programming+hype+mode+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22#.iot3cf3r6[Hype Driven Development]
+
+Très bon article sur l'impact négatif des modes dans l'informatique

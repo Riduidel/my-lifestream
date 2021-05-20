@@ -1,0 +1,99 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: D'un autre côté ... PluXML pourrait se révéler être l'outil idoine
+:jbake-tags: lifestream,maven,_mois_mai,_année_2013
+:jbake-date: 2013-05-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/05/15/dun-autre-cote-pluxml-pourrait-se-reveler-etre-loutil-idoine.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/05/15/dun-autre-cote-pluxml-pourrait-se-reveler-etre-loutil-idoine/
+:jbake-style: wordpress
+
+++++
+<p>
+Ce qui me fait sdire ça, c'est surtout le fait que la communauté semble particulièrement active et francophone.
+</p>
+<p>
+Après avoir posté <a href="http://riduidel.wordpress.com/2013/05/13/et-ce-sera-sans-pluxml/">mon message hie</a>r, j'ai rapidement reçu <a href="<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/334 027 208 312 098 817" class="date">13 mai 2013 à 21:27:47</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Et ce sera sans PluXML http://t.co/MChkvQzt2t</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>">une réponse sur Twitter</a> me dirigeant vers <a href="http://pluxopolis.net/article10/pluxml-comprendre-le-nom-des-fichiers-xml-des-articles">cet article expliquant le format des noms de fichiers des articles</a>. Du coup ...
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/334 601 896 205 639 680" class="date">15 mai 2013 à 11:31:23</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Merci à @fmonthel pour le lien vers http://t.co/ZPMJQwtC9l Maintenant, il ne me manque plus que le(s) XSD utilisé par PluXML</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Et c'est vrai : avec les XSD, je pourrai balancer un coup de xjc pour générer des classes Java qui iront bien (ou faire un peu de Groovy) pour ensuite aspirer Wordpress et Goodreads ... Et là, ce sera le retour du fameux build maven qui copie internet dans ma machine !
+</p>
+++++

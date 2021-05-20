@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aleksey Shipilëv on Twitter: "5 features that would allow me to write comfortably in any language: * Useful compile-time checks * Rich testing/audit opportunities * Good runtime/postmortem diagnostics * Usable and powerful debuggers * IDE support [Notice the absence of actual "language features"]"
+:jbake-tags: citation,programming,langage,_mois_juil.,_année_2019
+:jbake-date: 2019-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1561987386000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fshipilev%2Fstatus%2F1139901045180641280&searchtags=citation+programming+langage+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/shipilev/status/1139901045180641280[Aleksey Shipilëv on Twitter: "5 features that would allow me to write comfortably in any language: * Useful compile-time checks * Rich testing/audit opportunities * Good runtime/postmortem diagnostics * Usable and powerful debuggers * IDE support [Notice the absence of actual "language features"]"]
+
+C'est pas bête du tout comme vision des langages de programmation !

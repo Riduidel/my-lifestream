@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Développeur de jeux, Artiste envié ou Cousin attardé de l'IT ?
+:jbake-tags: programming,développement,travail,_mois_juil.,_année_2014
+:jbake-date: 2014-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1405002872000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infoq.com%2Ffr%2Finterviews%2Finterview-laurent-victorino%3Futm_campaign%3Dinfoq_content&searchtags=programming+d%C3%A9veloppement+travail+_mois_juil.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.infoq.com/fr/interviews/interview-laurent-victorino?utm_campaign=infoq_content[Développeur de jeux, Artiste envié ou Cousin attardé de l'IT ?]
+
+Très bonne interview. j'ai déja regardé les slides de sa présentation, et ça donne envie de le rencontrer ...

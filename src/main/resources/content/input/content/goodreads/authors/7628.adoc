@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Iain Banks
+:jbake-tags: author
+:jbake-date: 2002-05-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7628.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1374456581p5/7628.jpg
+:jbake-source: https://www.goodreads.com/author/show/7628
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070415724.html[Entrefer]
+* link:../books/9782253183570.html[Retour à Stonemouth]

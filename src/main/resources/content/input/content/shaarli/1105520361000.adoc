@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Atlas Sémantique - dictionnaire bilingue français-anglais / anglais-français dictionnaire des synonymes français / anglais et traduction
+:jbake-tags: web,sémantique,français,english,translator,_mois_janv.,_année_2005
+:jbake-date: 2005-01-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1105520361000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdico.isc.cnrs.fr%2F&searchtags=web+s%C3%A9mantique+fran%C3%A7ais+english+translator+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://dico.isc.cnrs.fr/[Atlas Sémantique - dictionnaire bilingue français-anglais / anglais-français dictionnaire des synonymes français / anglais et traduction]
+
+Ce logiciel propose, pour chaque mot, des synonymes et liens analogiques. C’est aussi un modèle pour la représentation géométrique des valeurs sémantiques des différents termes. Le projet a reçu le soutien de l’ Agence Universitaire de

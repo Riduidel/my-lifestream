@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sled theoretical performance guide | sled-rs.github.io
+:jbake-tags: informatique,performance,concepts,_mois_août,_année_2020
+:jbake-date: 2020-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1597136469000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsled.rs%2Fperf&searchtags=informatique+performance+concepts+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://sled.rs/perf[sled theoretical performance guide | sled-rs.github.io]
+
+Ca m'a l'air d'être un bon site sur les concepts de base autour de la performance informatique.

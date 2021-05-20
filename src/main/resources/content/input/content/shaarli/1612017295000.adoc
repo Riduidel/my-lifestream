@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kent Beck sur Twitter : "The goal of software design is to create chunks or slices that fit into a human mind. The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes." / Twitter
+:jbake-tags: architecture,introduction,citation,_mois_janv.,_année_2021
+:jbake-date: 2021-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1612017295000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FKentBeck%2Fstatus%2F1354418068869398538&searchtags=architecture+introduction+citation+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/KentBeck/status/1354418068869398538[Kent Beck sur Twitter : "The goal of software design is to create chunks or slices that fit into a human mind. The software keeps growing but the human mind maxes out, so we have to keep chunking and slicing differently if we want to keep making changes." / Twitter]
+
+Très bon tweet d'introduction à ma prochaine présentation sur C4/Structurizr/Plus

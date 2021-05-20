@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Collaborating on Open Source Software - Speaker Deck
+:jbake-tags: hacktoberfest,open-source,présentation,_mois_sept.,_année_2020
+:jbake-date: 2020-09-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1600700055000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fmlvandijk%2Fcollaborating-on-open-source-software-8d720d71-a31b-4079-8c67-08dbda6c0aac&searchtags=hacktoberfest+open-source+pr%C3%A9sentation+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://speakerdeck.com/mlvandijk/collaborating-on-open-source-software-8d720d71-a31b-4079-8c67-08dbda6c0aac[Collaborating on Open Source Software - Speaker Deck]
+
+A garder sous le coude pour Hacktoberfest

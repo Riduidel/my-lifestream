@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: kwout | A brilliant way to quote
+:jbake-tags: bookmark,browser,freeware,html,screenshot,sharing,tool,web,_mois_janv.,_année_2008
+:jbake-date: 2008-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1200903991000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkwout.com%2F&searchtags=bookmark+browser+freeware+html+screenshot+sharing+tool+web+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://kwout.com/[kwout | A brilliant way to quote]
+
+Un service web très sympa pour capturer des morceaux de pages web. Même s'il ne marche sans doute pas avec Opera, ça me paraît excessivement pratique.

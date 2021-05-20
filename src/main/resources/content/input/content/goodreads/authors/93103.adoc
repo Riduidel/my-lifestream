@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brandon Peterson
+:jbake-tags: author
+:jbake-date: 2011-01-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/93103.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/93103
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785121039.html[Ultimate X-Men Collection, Book 5]

@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Port d'âmes
+:jbake-tags:  amour, espionnage, fantasy, initiation, manipulation, économie,_année_2017,_mois_juil.,_note_1,rayon-imaginaire,read
+:jbake-date: 2017-07-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070792214.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494852134l/35139943._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494852134l/35139943._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/35139943
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Rhuys ap Kaledán est un héritier déchu. <br />Tout juste libéré de la servitude et des galères, il rejoint la cité franche d'Aniagrad, où tout se vend et tout s'achète, pour reconquérir l'honneur de sa famille. L'occasion lui en est rapidement donnée : Edelcar Menziel, un ancien ami de son père, lui propose de travailler sur la conversion dranique, un procédé perdu depuis des siècles qui permettrait de réaliser des machines magiques. Résolu à tracer son chemin dans la haute société de la ville, le jeune homme s'investit de tout son coeur dans le projet.<br /> Mais bientôt, coincé entre des intrigues politiques et son amour pour une mystérieuse jeune femme qui vend des fragments de son âme pour survivre, Rhuys découvre que le passé recèle des secrets bien sombres et tortueux. Aux prises avec l'ambition, la duplicité et le mensonge, il devra se montrer plus rusé que ses ennemis s'il veut atteindre son but sans perdre son âme.
+</div>
+++++
+
+
+## Authors
+* link:../authors/2820698.html[Lionel Davoust]
+
+## Series
+* link:../series/Evanegyre.html[Évanégyre]
+
+## Review
+
+++++
+Mettre deux idées très différentes dans le même roman, parfois ça passe parce que ça crée une tension romanesque, mais souvent çà échoue. Et honnêtement, ici, on se situe du côté de l'échec. En effet l'intrigue politico-économique est confuse, bourrée de poncifs, et occulte totalement cette histoire de transfert d'âme, qui aurait pu sans problème d'être le seul point final d'un récit qui aurait alors d'être dans doute plus contemplatif, mais qui aurait à mon avis nettement gagné en profondeur.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Foxtana Pro - Redirect Cortana – Adoptez cette extension pour 🦊 Firefox (fr)
+:jbake-tags: windows,firefox,plugin,voix,_mois_mai,_année_2019
+:jbake-date: 2019-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1556994044000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faddons.mozilla.org%2Ffr%2Ffirefox%2Faddon%2Ffoxtana-pro-redirect-cortana%2F%3Fsrc%3Dsearch&searchtags=windows+firefox+plugin+voix+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://addons.mozilla.org/fr/firefox/addon/foxtana-pro-redirect-cortana/?src=search[Foxtana Pro - Redirect Cortana – Adoptez cette extension pour 🦊 Firefox (fr)]
+
+Très bonne idée pour éviter le bazar Cortana (en même temps, il ne s'est jamais activé pour moi ... encore heureux !)

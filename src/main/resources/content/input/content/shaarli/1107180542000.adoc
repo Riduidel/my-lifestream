@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: @MAX software - Tray Player
+:jbake-tags: software,freeware,windows,multimedia,mp3,_mois_janv.,_année_2005
+:jbake-date: 2005-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1107180542000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.atmaxsoft.com%2Ftrayplayer.html&searchtags=software+freeware+windows+multimedia+mp3+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.atmaxsoft.com/trayplayer.html[@MAX software - Tray Player]
+
+@MAX Tray Player is a small, easy to use but also fairly powerful multimedia player. It is designed for those who like to listen to music while working on the computer. It embeds itself into Windows taskbar virtually becoming a part of Windows. Thus it do

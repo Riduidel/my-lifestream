@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TrueCrypt - Free Open-Source On-The-Fly Encryption for Windows XP/2000/2003
+:jbake-tags: encryption,freeware,system,windows,_mois_nov.,_année_2004
+:jbake-date: 2004-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1100853122000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftruecrypt.sourceforge.net%2F&searchtags=encryption+freeware+system+windows+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://truecrypt.sourceforge.net/[TrueCrypt - Free Open-Source On-The-Fly Encryption for Windows XP/2000/2003]
+
+Free open-source on-the-fly encryption software for Windows XP/2000/2003

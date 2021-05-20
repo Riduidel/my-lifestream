@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Colours on the web - color theory and color matching
+:jbake-tags: web,html,couleur,design,documentation,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112342177000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.webwhirlers.com%2Fcolors%2F&searchtags=web+html+couleur+design+documentation+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.webwhirlers.com/colors/[Colours on the web - color theory and color matching]
+
+Color theory and color matching

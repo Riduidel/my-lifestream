@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Higher-Order JavaScript
+:jbake-tags: programming,langage,javascript,documentation,_mois_mai,_année_2005
+:jbake-date: 2005-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1116183181000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Finterglacial.com%2Fhoj%2Fhoj.html&searchtags=programming+langage+javascript+documentation+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://interglacial.com/hoj/hoj.html[Higher-Order JavaScript]
+
+

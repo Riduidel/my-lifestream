@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jWebUnit - jWebUnit
+:jbake-tags: functionnal,java,qualité,software,test,_mois_août,_année_2004
+:jbake-date: 2004-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1093419555000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjwebunit.sourceforge.net%2F&searchtags=functionnal+java+qualit%C3%A9+software+test+_mois_ao%C3%BBt+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://jwebunit.sourceforge.net/[jWebUnit - jWebUnit]
+
+jWebUnit is a Java framework that facilitates creation of acceptance tests for web applications

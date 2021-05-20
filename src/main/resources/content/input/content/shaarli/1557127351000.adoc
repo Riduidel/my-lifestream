@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: softprops/cargo-thanks: 💖 🦀 give thanks to your fellow Rustaceans
+:jbake-tags: github,réputation,rust,cargo,plugin,_mois_mai,_année_2019
+:jbake-date: 2019-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1557127351000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsoftprops%2Fcargo-thanks&searchtags=github+r%C3%A9putation+rust+cargo+plugin+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/softprops/cargo-thanks[softprops/cargo-thanks: 💖 🦀 give thanks to your fellow Rustaceans]
+
+J'aime beaucoup cette idée de mettre automatiquement des like GitHub aux dépendances. Il faudrait vraiment en tirer un plugin maven ... (et à mon avis c'est possible)

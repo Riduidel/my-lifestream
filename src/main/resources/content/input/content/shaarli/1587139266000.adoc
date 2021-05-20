@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ArthurHoaro/shaarli2twitter: Automatically tweet your links from Shaarli
+:jbake-tags: shaarli,plugin,twitter,open-source,php,_mois_avr.,_année_2020
+:jbake-date: 2020-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1587139266000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FArthurHoaro%2Fshaarli2twitter&searchtags=shaarli+plugin+twitter+open-source+php+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/ArthurHoaro/shaarli2twitter[ArthurHoaro/shaarli2twitter: Automatically tweet your links from Shaarli]
+
+Hé, mais c'est très cool, ça, ça me débarasserait de mon seul usage d'IFTTT !

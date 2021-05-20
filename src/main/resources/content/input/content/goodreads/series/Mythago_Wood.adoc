@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mythago Wood
+:jbake-tags: serie
+:jbake-date: 2004-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Mythago_Wood.adoc
+:jbake-source: https://www.goodreads.com/series/51561
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070316700.html[La Forêt des Mythagos]

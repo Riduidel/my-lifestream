@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Unpoly: Unobtrusive JavaScript framework
+:jbake-tags: javascript,html,web,framework,_mois_nov.,_année_2020
+:jbake-date: 2020-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1606302038000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Funpoly.com%2F&searchtags=javascript+html+web+framework+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://unpoly.com/[Unpoly: Unobtrusive JavaScript framework]
+
+Wow, ça a l'air bien musclé comme outil, ça !

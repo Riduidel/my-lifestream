@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: limpfish.com - pics - Homer Simpson
+:jbake-tags: cartoons,fun,bizarre,_mois_nov.,_année_2007
+:jbake-date: 2007-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1195028866000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.limpfish.com%2Fpics%2Frembrandt_homer&searchtags=cartoons+fun+bizarre+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.limpfish.com/pics/rembrandt_homer[limpfish.com - pics - Homer Simpson]
+
+trop fort, cet Homer fait par Rembrandt

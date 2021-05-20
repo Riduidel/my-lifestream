@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: email - Yahoo Security Breach Affecting 500,000,000+ Accounts: Why would they believe it was "state-sponsored"? - Information Security Stack Exchange
+:jbake-tags: sécurité,web,communication,_mois_sept.,_année_2016
+:jbake-date: 2016-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1474871684000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsecurity.stackexchange.com%2Fa%2F137632&searchtags=s%C3%A9curit%C3%A9+web+communication+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://security.stackexchange.com/a/137632[email - Yahoo Security Breach Affecting 500,000,000+ Accounts: Why would they believe it was "state-sponsored"? - Information Security Stack Exchange]
+
+Un point intéressant sur la faille yahoo et "l'attaque sponsorisée par un état"

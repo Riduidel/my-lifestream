@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: leon-ai/leon: 🧠 Leon is your open-source personal assistant.
+:jbake-tags: raspberrypi,voix,assistant,_mois_mars,_année_2019
+:jbake-date: 2019-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1551691649000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fleon-ai%2Fleon&searchtags=raspberrypi+voix+assistant+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/leon-ai/leon[leon-ai/leon: 🧠 Leon is your open-source personal assistant.]
+
+Il y a vraiment de quoi faire un bon "ok moogle" avec ça

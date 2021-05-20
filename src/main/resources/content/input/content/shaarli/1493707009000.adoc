@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Confidante
+:jbake-tags: web,email,sécurité,_mois_mai,_année_2017
+:jbake-date: 2017-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1493707009000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fconfidante.cs.washington.edu%2F&searchtags=web+email+s%C3%A9curit%C3%A9+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://confidante.cs.washington.edu/[Confidante]
+
+Un client mail, malheureusement basé sur GMail, avec de l'encryption de bout en bout

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andres Almiray on Twitter: "re: software architects who don't code #VDZ17 https://t.co/C74lRxj5Wo"
+:jbake-tags: programming,software,architecture,_mois_févr.,_année_2017
+:jbake-date: 2017-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1487881106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faalmiray%2Fstatus%2F834680976760565761&searchtags=programming+software+architecture+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/aalmiray/status/834680976760565761[Andres Almiray on Twitter: "re: software architects who don't code #VDZ17 https://t.co/C74lRxj5Wo"]
+
+J'en connais un paquet qui n'auraient plus leurs ailes d'architectes

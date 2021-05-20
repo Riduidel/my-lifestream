@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Planet of Adventure
+:jbake-tags: serie
+:jbake-date: 1994-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Planet_of_Adventure.adoc
+:jbake-source: https://www.goodreads.com/series/49462
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782277117216.html[le Chasch (cycle de Tschaï, #1)]
+* link:../books/9780879974671.html[Servants of the Wankh (Planet of Adventure, #2)]
+* link:../books/9782277117230.html[le Dirdir (cycle de Tschaï, #3)]
+* link:../books/9782277117247.html[Le Pnume (cycle de Tschaï, #4)]

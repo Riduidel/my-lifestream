@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zendegi
+:jbake-tags:  amour, famille, hard-science, ia, mort, virtuel,_année_2014,_mois_juil.,_note_3,rayon-imaginaire,read
+:jbake-date: 2014-07-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253195085.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407600006l/22888239._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407600006l/22888239._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/22888239
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+2012. Martin Seymour est journaliste, en poste à Téhéran, où la révolution gronde. Dans le même temps, Nasim Golestani, jeune scientifique iranienne en exil aux États-Unis, ambitionne de travailler sur le PCH – un projet de cartographie des connexions neuronales du cerveau humain. 2027. Revenue au pays, Nasim orchestre Zendegi, univers virtuel qui passionne des millions de joueurs. Mais lorsque Zendegi est menacé par des concurrents puissants, Nasim développe un programme inspiré du PCH, qui confère aux personnages une autonomie stupéfiante. Tandis que la controverse grandit à l’égard de la nature et des droits de ces créations logicielles, une tragédie s’abat sur la famille de Martin, qui se tourne vers Nasim en quête d’une solution qu’elle seule peut lui offrir. Mais Zendegi est en train de se transformer en champ de bataille…
+</div>
+++++
+
+
+## Authors
+* link:../authors/32699.html[Greg Egan]
+
+
+
+## Review
+
+++++
+Attention aux spoilers.<br/>Dans un Iran du futur débarassé, plus ou moins, de la théocratie, une créatrice de jeux iranienne va aider un journaliste à numériser son esprit. Enfin, une partie suffisante de son esprit pour élver son fils puisque sa femme est morte et que lui-même est mourante (oui, je le reconnais, il s'agit là d'aspects n'apparaissant qu'à la centième page, mais la première partie est à mon sens sans intérêt).<br/>Et donc, ils vont ensemble de créer un clone virtuel à partir à la fois de l'individu du départ, et de modèles de comportements communs (et vous n'avez pas vraiment envie de savoir comment ces modèles ont été obtenus).<br/>C'est, je crois, la tentative la plus aboutie de <a class="DirectAuthorReference destination_Author" href="../authors/32699.html">Greg Egan</a> de nous parler de façon humaine de ce que peut être un clone virtuel, puisque la question numéro un n'est pas comment (ça, c'est juste de la technique ennuyeuse), mais pourquoi, et est-ce que ça vaut le coup de démarrer un programme sachant qu'il n'est pas forcément une repoduction fidèle de l'individu de départ.<br/>Qui plus est, son postulat scénaristique facilite quand même énormément l'empathie avec les personnages de son récit, malgré les lacunes du style Egan : rendez-vous compte que j'ai même été ému par certaines des aventures de son héros de papier mâché !<br/>Bref, de bonnes idées (normal pour Egan), un traitement presque humain de l'intrigue. Qu'attendre de plus ? Des vrais personnages, d'abord, et une intrigue qui soit constituée d'autre chose que d'un seul dilemne. Oh, je ne prétend pas que ce dilemne ne soit pas essentiel, et une interrogation suffisante sur ce qu'est l'identité. Mais je trouve que ça ne suffit pas quand on écrit des romans d'une telle ambition.<br/>Et même si le décor choisi est aussi original que bien traité, ça ne suffit pas non plus à emporter mon enthousiasme. j'ai bien aimé ce roman, c'est vrai, et il constitue une référence évidente sur son coeur de sujet. Mais il n'y a qu'une seule thèse développée, et elle est fort étroite, ce qui rend ce roman didactique assez spécifique à son sujet.
+++++

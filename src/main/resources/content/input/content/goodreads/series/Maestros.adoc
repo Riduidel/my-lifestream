@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maestros
+:jbake-tags: serie
+:jbake-date: 2019-03-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Maestros.adoc
+:jbake-source: https://www.goodreads.com/series/225056
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782378870416.html[Maestros, Vol. 1]

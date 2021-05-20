@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Graphrex |
+:jbake-tags: java,programming,développement,plugin,eclipse,regexp,_mois_févr.,_année_2014
+:jbake-date: 2014-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1391678644000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcrotonresearch.com%2Fgraphrex%2F&searchtags=java+programming+d%C3%A9veloppement+plugin+eclipse+regexp+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://crotonresearch.com/graphrex/[Graphrex |]
+
+Je suis une tanche en expressions régulières. Et ce plugin a le bon goût de me proposer le seul truc qui puisse m'aider : une représentation graphique de mon expression régulière. C'est \*très\* pratique.

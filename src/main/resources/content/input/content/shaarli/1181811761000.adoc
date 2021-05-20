@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: osgi
+:jbake-tags: documentation,reference,architecture,plugin,service,java,_mois_juin,_année_2007
+:jbake-date: 2007-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1181811761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsardes.inrialpes.fr%2Fecole%2Flivre%2Fpub%2FChapters%2FOSGI%2Fosgi.html&searchtags=documentation+reference+architecture+plugin+service+java+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://sardes.inrialpes.fr/ecole/livre/pub/Chapters/OSGI/osgi.html[osgi]
+
+Un poly de cours concernant le système OSGi. Très complet, très approfondi, et à lire.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Landbeest, A Single Servo Walking Robot | Hackaday
+:jbake-tags: robot,concepts,_mois_nov.,_année_2019
+:jbake-date: 2019-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1575128495000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2019%2F11%2F29%2Flandbeest-a-single-servo-walking-robot%2F&searchtags=robot+concepts+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hackaday.com/2019/11/29/landbeest-a-single-servo-walking-robot/[Landbeest, A Single Servo Walking Robot | Hackaday]
+
+Conceptuellement, ce robot est extrêmement intéressant : il n'y a qu'un moteur qui pilote aussi bien l'avancée que la rotation du robot. C'est très chouette.

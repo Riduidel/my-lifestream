@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ici Michel Fortin ï¿½ Black Light 1.5
+:jbake-tags: software,freeware,macosx,desktop,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109925754000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.michelf.com%2Flogiciels.php%3Fblack-light&searchtags=software+freeware+macosx+desktop+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.michelf.com/logiciels.php?black-light[ici Michel Fortin ï¿½ Black Light 1.5]
+
+Black Light vous permet dâ⊘inverser les couleurs Ã lâ⊘Ã©cran. Il fait cela en inversant la courbe gamma de lâ⊘Ã©cran. Quand vous ouvrez Black Light, lâ⊘Ã©cran est automatiquement inversÃ©. En quittant, les couleurs sont restaur

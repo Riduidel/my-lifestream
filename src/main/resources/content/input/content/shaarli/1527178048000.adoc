@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Winds 2.0: It’s Time to Revive RSS - The Stream Blog
+:jbake-tags: rss,application,windows,macosx,linux,_mois_mai,_année_2018
+:jbake-date: 2018-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1527178048000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgetstream.io%2Fblog%2Fwinds-2-0-its-time-to-revive-rss%2F&searchtags=rss+application+windows+macosx+linux+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://getstream.io/blog/winds-2-0-its-time-to-revive-rss/[Winds 2.0: It’s Time to Revive RSS - The Stream Blog]
+
+L'objectif de Winds est honorable (parce que j'adore aussi les flux RSS) mais les lecteurs en app ont un problème : quand on est dans un réseau un peu fermé (un réseau d'entreprise) il manque plein de flux sympas (d'où rss2imap qui envoie tout sur ma boîte mail perso)

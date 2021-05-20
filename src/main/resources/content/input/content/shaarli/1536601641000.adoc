@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: On Redis master-slave terminology - <antirez>
+:jbake-tags: programming,politique,communication,_mois_sept.,_année_2018
+:jbake-date: 2018-09-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1536601641000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fantirez.com%2Fnews%2F122&searchtags=programming+politique+communication+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://antirez.com/news/122[On Redis master-slave terminology - <antirez>]
+
+Je comprend - d'une certaine façon - le souhait de ne pas utiliser de termes offensants, mais les contre-arguments de l'auteur de Redis m'apparaissent très justes.

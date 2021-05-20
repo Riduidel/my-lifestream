@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Flux RSS des Shaarlis
+:jbake-tags: shaarli,rss,planète,_mois_juin,_année_2013
+:jbake-date: 2013-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1371197325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ecirtam.net%2Fshaarlirss%2F&searchtags=shaarli+rss+plan%C3%A8te+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://www.ecirtam.net/shaarlirss/[Flux RSS des Shaarlis]
+
+Tous les jours ou presque je me demande comment utiliser ce site de façon productive ... Et tous les jours ou presque je demande l'adresse dans le salon \#shaarli. Il serait temps que j'arrête, non ? Et en bonus, en fouillant bien, il y a sur la page un fichier OPML listant tous les shaarli. Et du coup, avec ça, on a un authentique annuaire des shaarli.

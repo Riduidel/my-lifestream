@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DHH on Twitter: "Microservices is not so much a technical pattern as a Keynesian one. Stimulating the economy by requiring three programmers to screw in the lightbulbs that used to take one. I strongly support its use at Big Cos and in downturns 😄👍"
+:jbake-tags: citation,architecture,microservices,_mois_mars,_année_2018
+:jbake-date: 2018-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1520097238000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdhh%2Fstatus%2F967785067639488512&searchtags=citation+architecture+microservices+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/dhh/status/967785067639488512[DHH on Twitter: "Microservices is not so much a technical pattern as a Keynesian one. Stimulating the economy by requiring three programmers to screw in the lightbulbs that used to take one. I strongly support its use at Big Cos and in downturns 😄👍"]
+
+Et ouais, et je le vois tous les jours. Cela dit, certains aspects de découplage peuvent être utiles ... mais ce sont des aspects marginalement utiles (par rapport à tout le bullshit qui nous est vendu).

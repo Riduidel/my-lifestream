@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [mrhaki] Groovy Goodness: Inspect Method Returns Nicely Formatted Object Values http://t.co/AGl58Ebe61 #groovy #groovylang
+:jbake-tags: groovy,langage,debug,_mois_sept.,_année_2015
+:jbake-date: 2015-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1442211321000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F642334092588097537&searchtags=groovy+langage+debug+_mois_sept.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/642334092588097537[[mrhaki] Groovy Goodness: Inspect Method Returns Nicely Formatted Object Values http://t.co/AGl58Ebe61 #groovy #groovylang]
+
+Ce petit inspect est un authentique coup de génie

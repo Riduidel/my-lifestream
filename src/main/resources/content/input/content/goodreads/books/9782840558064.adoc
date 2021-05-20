@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Drystan et Esylt (Arthur, une épopée celtique, #5)
+:jbake-tags:  amour, destin, rayon-bd, romantique,_année_2010,_mois_févr.,_note_4,fantasy,read
+:jbake-date: 2010-02-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840558064.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379604230l/6943640._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379604230l/6943640._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6943640
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/123874.html[David Chauvel]
+* link:../authors/208442.html[Jean-Luc Simon]
+* link:../authors/208441.html[Jérôme Lereculey]
+
+## Series
+* link:../series/Arthur__une_epopee_celtique.html[Arthur, une épopée celtique]
+
+## Review
+
+++++
+
+++++

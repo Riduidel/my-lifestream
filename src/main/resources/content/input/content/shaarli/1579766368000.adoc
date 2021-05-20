@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: amogilev/j9-reflection-utils: Provides solutions to reflective access issues appeared in Java 9
+:jbake-tags: java,open-source,évolution,introspection,library,_mois_janv.,_année_2020
+:jbake-date: 2020-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1579766368000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Famogilev%2Fj9-reflection-utils&searchtags=java+open-source+%C3%A9volution+introspection+library+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/amogilev/j9-reflection-utils[amogilev/j9-reflection-utils: Provides solutions to reflective access issues appeared in Java 9]
+
+Si c'est comme ça qu'il faut faire pour continuer à utiliser des librairies Java qui font de l'introspection (ou du Class.forName(....)), d'accord, c'est comme ça que je ferai.

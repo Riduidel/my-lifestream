@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gmaps Pedometer
+:jbake-tags: free,carte,online,software,visualisation,_mois_oct.,_année_2007
+:jbake-date: 2007-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1191851829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gmap-pedometer.com%2F&searchtags=free+carte+online+software+visualisation+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.gmap-pedometer.com/[Gmaps Pedometer]
+
+Un mashup sympa pour savoir sur quelle distance on a pu marcher/courir/pédaler/roller/ramper

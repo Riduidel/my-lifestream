@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kubernetes production best practices
+:jbake-tags: kubernetes,check,qualité,déploiement,_mois_nov.,_année_2019
+:jbake-date: 2019-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1573727926000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flearnk8s.io%2Fproduction-best-practices%2F&searchtags=kubernetes+check+qualit%C3%A9+d%C3%A9ploiement+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://learnk8s.io/production-best-practices/[Kubernetes production best practices]
+
+Oh c'est génial cette checklist !

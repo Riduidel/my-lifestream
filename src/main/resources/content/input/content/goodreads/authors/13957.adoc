@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scott Westerfeld
+:jbake-tags: author
+:jbake-date: 2007-10-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/13957.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1535403091p5/13957.jpg
+:jbake-source: https://www.goodreads.com/author/show/13957
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266148658.html[Les Légions immortelles (Succession, #1)]
+* link:../books/9782266159777.html[Le Secret de l'empire (Succession, #2)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The FC4 Framework | fc4-framework
+:jbake-tags: architecture,documentation,framework,c4,yaml,open-source,_mois_sept.,_année_2019
+:jbake-date: 2019-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1568358044000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffundingcircle.github.io%2Ffc4-framework%2F&searchtags=architecture+documentation+framework+c4+yaml+open-source+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fundingcircle.github.io/fc4-framework/[The FC4 Framework | fc4-framework]
+
+Alors ça, il va falloir d'une part que je le teste, et d'autre part que je voie comment l'intégrer dans ma méthode de documentation actuelle (à base d'Asciidoctor+PlantUML+macros C4)

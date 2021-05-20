@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Slides from my Rails Ajax presentation at Canada on Rails
+:jbake-tags: ajax,développement,programming,rails,ruby,documentation,_mois_avr.,_année_2006
+:jbake-date: 2006-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1145889485000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmir.aculo.us%2Farticles%2F2006%2F04%2F15%2Fslides-from-my-rails-ajax-presentation-at-canada-on-rails&searchtags=ajax+d%C3%A9veloppement+programming+rails+ruby+documentation+_mois_avr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://mir.aculo.us/articles/2006/04/15/slides-from-my-rails-ajax-presentation-at-canada-on-rails[Slides from my Rails Ajax presentation at Canada on Rails]
+
+

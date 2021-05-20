@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Huachao/vscode-restclient: REST Client Extension for Visual Studio Code
+:jbake-tags: web,client,vscode,http,_mois_juil.,_année_2018
+:jbake-date: 2018-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1530516829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FHuachao%2Fvscode-restclient&searchtags=web+client+vscode+http+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/Huachao/vscode-restclient[Huachao/vscode-restclient: REST Client Extension for Visual Studio Code]
+
+Pour quelqu'un comme moi qui n'est pas vraiment fan de la syntaxe de cURL, cette extension est vraiment un must-have

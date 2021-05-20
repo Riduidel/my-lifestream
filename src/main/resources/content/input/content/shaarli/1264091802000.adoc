@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: has_many :through - How dynamic finders work
+:jbake-tags: gaedo,ruby,rails,dynamic,finder,_mois_janv.,_année_2010
+:jbake-date: 2010-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1264091802000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.hasmanythrough.com%2F2006%2F8%2F13%2Fhow-dynamic-finders-work&searchtags=gaedo+ruby+rails+dynamic+finder+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://blog.hasmanythrough.com/2006/8/13/how-dynamic-finders-work[has_many :through - How dynamic finders work]
+
+Comment fonctionnent les finders dynamiques en Ruby, ça me permettra prochainement d'expliquer comment fonctionnent les finders dynamiques de gaedo (parce qu'on peut faire la même chose en Java, oui).

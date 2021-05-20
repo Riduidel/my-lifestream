@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Time Flies
+:jbake-tags: visualisation,temps,age,_mois_juil.,_année_2015
+:jbake-date: 2015-07-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1437115609000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmaximiliankiener.com%2Fdigitalprojects%2Ftime%2F&searchtags=visualisation+temps+age+_mois_juil.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://maximiliankiener.com/digitalprojects/time/[Why Time Flies]
+
+Très chouette visualisation de l'écoulement du temps ... et de son inflation percue

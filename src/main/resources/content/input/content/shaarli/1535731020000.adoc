@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: djc/tokio-imap: Tokio-based IMAP implementation
+:jbake-tags: programming,rust,imap,library,open-source,rrss2imap,_mois_août,_année_2018
+:jbake-date: 2018-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1535731020000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdjc%2Ftokio-imap&searchtags=programming+rust+imap+library+open-source+rrss2imap+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/djc/tokio-imap[djc/tokio-imap: Tokio-based IMAP implementation]
+
+Je ne comprend pas trop comment ça marche, mais c'est ce qu'il me faut

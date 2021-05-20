@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Feature Branching is Evil ! | Mon WordPress
+:jbake-tags: programming,feature,_mois_mai,_année_2018
+:jbake-date: 2018-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1525661215000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flhauspie.wordpress.com%2F2018%2F05%2F04%2Ffeature-branching-is-evil%2F&searchtags=programming+feature+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://lhauspie.wordpress.com/2018/05/04/feature-branching-is-evil/[Feature Branching is Evil ! | Mon WordPress]
+
+Chouette article de mon collègue Logan sur le feature flipping et son intérêt (ou pas)

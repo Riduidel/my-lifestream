@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Goodbye Microservices: From 100s of problem children to 1 superstar · Segment Blog
+:jbake-tags: architecture,microservices,_mois_oct.,_année_2019
+:jbake-date: 2019-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1570436753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsegment.com%2Fblog%2Fgoodbye-microservices%2F&searchtags=architecture+microservices+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://segment.com/blog/goodbye-microservices/[Goodbye Microservices: From 100s of problem children to 1 superstar · Segment Blog]
+
+Ca y est, les premiers retours d'expérience "oulala, les microservices c'est dur" arrivent. Il était temps :-) Pour la faire courte, sans surprise, faire plein de microservices dans une seule équipe,c 'est une mauvaise idée.

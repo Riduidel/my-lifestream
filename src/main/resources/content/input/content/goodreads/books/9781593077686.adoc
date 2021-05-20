@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gunsmith Cats Omnibus, Volume 2
+:jbake-tags:  amérique, combat,_année_2010,_mois_juil.,_note_2,rayon-bd,read
+:jbake-date: 2010-07-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9781593077686.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403208006l/816194._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403208006l/816194._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/816194
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Rally Vincent and Minnie-May Hopkins run a gunsmith shop in Chicago by the day...but they have a side-business as bounty hunters, and there are none better than they are. That’s rare for two girls in their late teens! But you can bet Kenichi Sonoda will make you want to believe it.
+</div>
+++++
+
+
+## Authors
+* link:../authors/221812.html[Kenichi Sonoda]
+
+## Series
+* link:../series/Gunsmith_Cats_(Revised_Edition).html[Gunsmith Cats (Revised Edition)]
+
+## Review
+
+++++
+Exactement les mêmes qualités et défauts que le premier tome : jolies filles, gros flingues, dézinguages à tout va ...
+++++

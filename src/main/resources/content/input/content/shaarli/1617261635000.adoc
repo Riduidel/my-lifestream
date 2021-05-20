@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hillel sur Twitter : "Been mulling over how to respond to this. Allen is right: you don't need to know math to program effectively. But he's not going far enough. There is NOTHING, not one single thing, you need to understand to "program effectively", except for software bullshit. https://t.co/4DGBqDFjbe" / Twitter
+:jbake-tags: citation,programming,carrière,apprentissage,_mois_avr.,_année_2021
+:jbake-date: 2021-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1617261635000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhillelogram%2Fstatus%2F1377068447998353411&searchtags=citation+programming+carri%C3%A8re+apprentissage+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/hillelogram/status/1377068447998353411[Hillel sur Twitter : "Been mulling over how to respond to this. Allen is right: you don't need to know math to program effectively. But he's not going far enough. There is NOTHING, not one single thing, you need to understand to "program effectively", except for software bullshit. https://t.co/4DGBqDFjbe" / Twitter]
+
+J'aime beaucoup le fait qu'Hillel prétende avoir une opinion extrême alors qu'en fait, c'est en train de devenir la norme ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clare Sudbery sur Twitter : "Fascinating podcast from @jessitron about "optimising for happiness" and "moldable development": Code is a rare form of data because we consume in its raw form (as text in an editor) rather than optimising our understanding of it by presenting it in more consumable ways. >>" / Twitter
+:jbake-tags: citation,code,editor,évolution,_mois_déc.,_année_2020
+:jbake-date: 2020-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1607167148000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FClareSudbery%2Fstatus%2F1334587399326863366&searchtags=citation+code+editor+%C3%A9volution+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ClareSudbery/status/1334587399326863366[Clare Sudbery sur Twitter : "Fascinating podcast from @jessitron about "optimising for happiness" and "moldable development": Code is a rare form of data because we consume in its raw form (as text in an editor) rather than optimising our understanding of it by presenting it in more consumable ways. >>" / Twitter]
+
+Ca me rappelle furieusement une discussion avec un collègue qui me parlait de nouveautés d'IntelliJ ... Et effectivement, l'édition de code est un domaine sacrément conservateur (petit rppel, vim est toujours une solution envisagée par certains).

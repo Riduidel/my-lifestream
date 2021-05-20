@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: codecentric/spring-boot-admin: Admin UI for administration of spring boot applications
+:jbake-tags: spring,management,monitoring,performance,_mois_nov.,_année_2019
+:jbake-date: 2019-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1573234932000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fcodecentric%2Fspring-boot-admin&searchtags=spring+management+monitoring+performance+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/codecentric/spring-boot-admin[codecentric/spring-boot-admin: Admin UI for administration of spring boot applications]
+
+Intéressant, ça mérite d'y jeter un oeil ...

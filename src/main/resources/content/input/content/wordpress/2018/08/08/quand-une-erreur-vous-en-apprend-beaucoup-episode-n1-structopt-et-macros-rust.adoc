@@ -1,0 +1,115 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quand une erreur vous en apprend beaucoup épisode ... n+1 : StructOpt et macros Rust
+:jbake-tags: compilateur,eclipse,macro,rrss2imap,rust,vscode,_mois_août,_année_2018
+:jbake-date: 2018-08-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/08/08/quand-une-erreur-vous-en-apprend-beaucoup-episode-n1-structopt-et-macros-rust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/08/08/quand-une-erreur-vous-en-apprend-beaucoup-episode-n1-structopt-et-macros-rust/
+:jbake-style: wordpress
+
+++++
+<p>
+Pourquoi ce épisode n+1 ? Parce que les erreurs sont le meilleur moyen d'apprendre, et qu'à mon avis il faut prendre chaque erreur comme une leçon de l'univers.
+</p>
+<p>
+Ce matin, je faisais donc un peu de Rust et, en lisant <a href="https://blog.kuviman.com/2018/07/20/glitchcat.html">glitchcat — Creating CLI apps in Rust is super easy</a>, je me suis dit que <a href="https://docs.rs/structopt/0.2.10/structopt/">StructOpt</a> était la manière dont je voulais traiter mes paramètres de ligne de commande. Donc j'ouvre mon projet rrss2imap dans VSCode, j'ajoute la dépendance dans cargo, et je lance un cargo build à la main.
+</p>
+<p>
+Et c'est le drame
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/1 027 125 698 643 804 161" class="date">8 août 2018 à 11:33:44</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">#structopt seems excellent, but I can't compile its #structopt-derive dependency using #cargo on Windows (I get weird link 1104 errors) any #rustacean had the problem before ?</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+J'ai même posté <a href="https://stackoverflow.com/q/51744103/15619">une question StackOverflow</a> là-dessus. Mais pour faire simple, lorsque je lance cargo build ou cargo run, j'obtiens une sale erreur du linker Windows :
+<br/>
+<pre class="lang-rust prettyprint prettyprinted"><code>   <span class="typ">Compiling</span><span class="pln"> atty v0</span><span class="pun">.</span><span class="lit">2.10</span>
+<br/>
+<span class="typ">Compiling</span><span class="pln"> clap v2</span><span class="pun">.</span><span class="lit">31.2</span>
+<br/>
+<span class="typ">Compiling</span><span class="pln"> structopt</span><span class="pun">-</span><span class="pln">derive v0</span><span class="pun">.</span><span class="lit">2.10</span><span class="pln">
+<br/>
+error</span><span class="pun">:</span><span class="pln"> linking with </span><span class="pun">`</span><span class="pln">C</span><span class="pun">:</span><span class="pln">\Program </span><span class="typ">Files</span> <span class="pun">(</span><span class="pln">x86</span><span class="pun">)</span><span class="pln">\Microsoft </span><span class="typ">Visual</span> <span class="typ">Studio</span><span class="pln">\2</span><span class="lit">017</span><span class="pln">\BuildTools\VC\Tools\MSVC\1</span><span class="lit">4.14</span><span class="pun">.</span><span class="lit">26428</span><span class="pln">\bin\HostX64\x</span><span class="lit">64</span><span class="pln">\link</span><span class="pun">.</span><span class="pln">exe</span><span class="pun">`</span><span class="pln"> failed</span><span class="pun">:</span><span class="pln"> exit code</span><span class="pun">:</span> <span class="lit">1104</span>
+<br/>
+<span class="pun">|</span>
+<br/>
+<span class="pun">=</span><span class="pln"> note</span><span class="pun">:</span> <span class="str">"C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\BuildTools\\VC\\Tools\\MSVC\\14.14.26428\\bin\\HostX64\\x64\\link.exe"</span> <span class="str">"/NOLOGO"</span> <span class="str">"/NXCOMPAT"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive0.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive1.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive10.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive11.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive12.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive13.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive14.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive15.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive2.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive3.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive4.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive5.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive6.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive7.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive8.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.structopt_derive9.rcgu.o"</span> <span class="str">"/OUT:C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.dll"</span> <span class="str">"/DEF:C:\\Users\\NICOLA~1\\AppData\\Local\\Temp\\rustc.NMAPUPGalI4H\\lib.def"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.crate.metadata.rcgu.o"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.crate.allocator.rcgu.o"</span> <span class="str">"/OPT:REF,NOICF"</span> <span class="str">"/DEBUG"</span> <span class="str">"/NATVIS:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\etc\\intrinsic.natvis"</span> <span class="str">"/NATVIS:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\etc\\liballoc.natvis"</span> <span class="str">"/NATVIS:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\etc\\libcore.natvis"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\libsyn-e2bf8da738ad52ef.rlib"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\libquote-90431d93ebae45fd.rlib"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\libproc_macro2-f91721dd8e02bb17.rlib"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\libunicode_xid-4611d062b1d773c0.rlib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"proc_macro-1f431d761952eacf.dll.lib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"syntax-c4a428491fc49b8f.dll.lib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"rustc_errors-5b01c9a7974f0222.dll.lib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"syntax_pos-09170bc016e0b11a.dll.lib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"rustc_data_structures-f974a5ad0e93670e.dll.lib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"serialize-2eb0aeb35010f869.dll.lib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"rustc_cratesio_shim-2e9a42f968785601.dll.lib"</span> <span class="str">"/LIBPATH:C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib"</span> <span class="str">"std-81327c94ecbc69b1.dll.lib"</span> <span class="str">"C:\\Users\\nicolas-delsaux\\.rustup\\toolchains\\stable-x86_64-pc-windows-msvc\\lib\\rustlib\\x86_64-pc-windows-msvc\\lib\\libcompiler_builtins-e8d853735a158029.rlib"</span> <span class="str">"opengl32.lib"</span> <span class="str">"kernel32.lib"</span> <span class="str">"setupapi.lib"</span> <span class="str">"msimg32.lib"</span> <span class="str">"credui.lib"</span> <span class="str">"winspool.lib"</span> <span class="str">"user32.lib"</span> <span class="str">"gdi32.lib"</span> <span class="str">"secur32.lib"</span> <span class="str">"dbghelp.lib"</span> <span class="str">"advapi32.lib"</span> <span class="str">"advapi32.lib"</span> <span class="str">"ws2_32.lib"</span> <span class="str">"userenv.lib"</span> <span class="str">"shell32.lib"</span> <span class="str">"msvcrt.lib"</span> <span class="str">"/DLL"</span> <span class="str">"/IMPLIB:C:\\Users\\nicolas-delsaux\\Documents\\open-source\\rrss2imap\\target\\debug\\deps\\structopt_derive-406f571196e63046.dll.lib"</span>
+<br/>
+<span class="pun">=</span><span class="pln"> note</span><span class="pun">:</span><span class="pln"> LINK </span><span class="pun">:</span><span class="pln"> fatal error LNK1104</span><span class="pun">:</span><span class="pln"> impossible d</span><span class="str">'ouvrir le fichier '</span><span class="pln">C</span><span class="pun">:</span><span class="pln">\Users\nicolas</span><span class="pun">-</span><span class="pln">delsaux\Documents\open</span><span class="pun">-</span><span class="pln">source\rrss2imap\target\debug\deps\structopt_derive</span><span class="pun">-</span><span class="lit">406f571196e63046</span><span class="pun">.</span><span class="pln">dll</span><span class="str">'</span>
+</p>
+<p>
+</code></pre>
+<br/>
+Surtout que si je fais la même chose en lançant Notepad++ plutôt que VSCode (ou Eclipse Corrosion), ça marche parfaitement. Il y a donc un point commun.
+</p>
+<p>
+Ce point commun, c'est <a href="https://github.com/rust-lang-nursery/rls">RLS</a>. Les mecs de VSCode ont eu une diée assez chouette : plutôt que de faire comme chaque IDE et réinventer son parseur/lexer, ils ont préféré créer un protocole (le language server protocol) que chaque langage peut implémenter à sa guise, et que VSCode utilise (en client) pour créer la coloration syntaxique, et tous les autres éléments fournis par un IDE.
+</p>
+<p>
+Et comme les mecs d'Eclipse sont loin d'être idiots, ils l'ont réutilisé dans Corrosion.
+</p>
+<p>
+Du coup, c'est génial : si il y a un bug dans VSCode et dans Eclipse, c'est sans doute lié à RLS.
+</p>
+<p>
+Or mon bug est visible dans les deux plateformes. C'est bien, mais de quel genre de bug s'agit-il ?
+</p>
+<p>
+Si vous lisez la doc de StructOpt, vous verrez qu'en fait tout repose sur l'ajout d'une macro derive :
+<br/>
+<pre class="rust rust-example-rendered"><span class="attribute">#[<span class="ident">macro_use</span>]</span>
+<br/>
+<span class="kw">extern</span> <span class="kw">crate</span> <span class="ident">structopt</span>;
+</p>
+<p>
+<span class="kw">...
+<br/>
+</span>
+<br/>
+<span class="attribute">#[<span class="ident">derive</span>(<span class="ident">Debug</span>, <span class="ident">StructOpt</span>)]</span></pre>
+<br/>
+Or les macros sont transformées durant la compilation. Du coup, le compilateur Rust utilisé par RLS doit charger la dll de structopt-derive pour pouvoir transformer le code. Et manifestement, il pense à la charger, mais pas à la décharger. Et c'est précisément ce qu'explique le ticket <a href="https://github.com/rust-lang-nursery/rls/issues/802">Windows: RLS keeping derive plugin DLLs opened prevents `cargo build` from working #802</a>.
+</p>
+<p>
+Bon, c'était pas de bol pour moi de tomber là-dessus, mais ça m'a appris quelques trucs sur Rust, RLS et les macros.
+</p>
+++++

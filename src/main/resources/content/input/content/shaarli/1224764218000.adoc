@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comparison of remote desktop software - Wikipedia, the free encyclopedia
+:jbake-tags: software,réseau,desktop,remote,comparison,wikipedia,_mois_oct.,_année_2008
+:jbake-date: 2008-10-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1224764218000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FComparison_of_remote_desktop_software&searchtags=software+r%C3%A9seau+desktop+remote+comparison+wikipedia+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://en.wikipedia.org/wiki/Comparison_of_remote_desktop_software[Comparison of remote desktop software - Wikipedia, the free encyclopedia]
+
+Un collègue m'a demandé l'info, et je me dis que c'est toujours quelque chose à avoir sous la main, au cas où ...

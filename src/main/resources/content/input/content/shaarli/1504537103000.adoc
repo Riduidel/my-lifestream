@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apache Maven
+:jbake-tags: maven,documentation,livre,_mois_sept.,_année_2017
+:jbake-date: 2017-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1504537103000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fndeloof.github.io%2Fapache-maven-book%2F&searchtags=maven+documentation+livre+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://ndeloof.github.io/apache-maven-book/[Apache Maven]
+
+Wow, l'excellent bouquin sur Maven est disponible en HTML. Génial !

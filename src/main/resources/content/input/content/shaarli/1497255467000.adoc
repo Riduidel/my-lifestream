@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: funkwerk/compose_plantuml: Generate Plantuml graphs from docker-compose files
+:jbake-tags: docker,plantuml,documentation,docker-compose,_mois_juin,_année_2017
+:jbake-date: 2017-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1497255467000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ffunkwerk%2Fcompose_plantuml&searchtags=docker+plantuml+documentation+docker-compose+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/funkwerk/compose_plantuml[funkwerk/compose_plantuml: Generate Plantuml graphs from docker-compose files]
+
+un conteneur docker pour documenter un docker-compose en PlantUML ? Quelle belle idée !

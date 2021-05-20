@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MainMenu
+:jbake-tags: software,freeware,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110985501000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmainmenu.xmgfree.com%2F&searchtags=software+freeware+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://mainmenu.xmgfree.com/[MainMenu]
+
+MainMenu is a menu item to repair permissions, run maintenance tasks, force empty the trash and a lot more, with most tasks providing feedback during execution. MainMenu does not have to be run in an administrator's account. This application is currently

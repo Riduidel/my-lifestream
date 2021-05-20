@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Asciidoctor Diagram | Asciidoctor
+:jbake-tags: diagram,texte,library,asciidoc,_mois_oct.,_année_2019
+:jbake-date: 2019-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1572445593000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fasciidoctor.org%2Fdocs%2Fasciidoctor-diagram%2F%23installation&searchtags=diagram+texte+library+asciidoc+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://asciidoctor.org/docs/asciidoctor-diagram/#installation[Asciidoctor Diagram | Asciidoctor]
+
+Bon, j'utilise depuis longtemps asciidoctor-diagram pour générer du PlantUML. Mais je découvre aujourd'hui le support de Vega !!!

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lemi Orhan Ergin on Twitter: "Let's clarify: * Jira is not Agile * Open Source is not Free * Using cloud is not DevOps * Rituals is not Scrum * Developed is not Done"
+:jbake-tags: citation,programming,organisation,agile,_mois_juin,_année_2017
+:jbake-date: 2017-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1497595238000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flemiorhan%2Fstatus%2F859158123722010628&searchtags=citation+programming+organisation+agile+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/lemiorhan/status/859158123722010628[Lemi Orhan Ergin on Twitter: "Let's clarify: * Jira is not Agile * Open Source is not Free * Using cloud is not DevOps * Rituals is not Scrum * Developed is not Done"]
+
+Ca a un côté tout le monde ment qui me plaît assez

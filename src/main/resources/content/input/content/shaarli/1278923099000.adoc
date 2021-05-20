@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Find movies, TV shows matching your taste & watch online - Jinni
+:jbake-tags: database,directory,engine,film,search,social,discovery,_mois_juil.,_année_2010
+:jbake-date: 2010-07-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1278923099000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jinni.com%2F&searchtags=database+directory+engine+film+search+social+discovery+_mois_juil.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.jinni.com/[Find movies, TV shows matching your taste & watch online - Jinni]
+
+Un site de recommandation de films/séries très graphique.

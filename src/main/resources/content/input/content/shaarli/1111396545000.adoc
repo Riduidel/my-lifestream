@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Freshly Squeezed Software - Freeware - Cool Utilities and Software for Mac OS X
+:jbake-tags: software,freeware,macosx,library,display,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111396545000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freshsqueeze.com%2Fproducts%2Ffreeware%2F&searchtags=software+freeware+macosx+library+display+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.freshsqueeze.com/products/freeware/[Freshly Squeezed Software - Freeware - Cool Utilities and Software for Mac OS X]
+
+Some nifty freeware, including scrensaver as background, RAM infos, ...

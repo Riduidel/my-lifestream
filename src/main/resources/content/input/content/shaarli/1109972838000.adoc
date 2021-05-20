@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ThumbNailer Home
+:jbake-tags: software,freeware,macosx,multimedia,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109972838000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage.mac.com%2Fmdewalt%2F&searchtags=software+freeware+macosx+multimedia+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://homepage.mac.com/mdewalt/[ThumbNailer Home]
+
+In a nutshell, Thumnailer is a freeware application that : - creates and displays picture thumbnails, - is a quick picture viewer, - let's you quickly screen pictures ... then quickly decide to delete or keep individual shots - it does slide sh

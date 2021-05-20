@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeWifi : guide de mise en route et d'utilisation - Freenews : l'actualité des freenautes
+:jbake-tags: howto,wifi,freebox,for:Clownny59,for:brasseld,_mois_mai,_année_2009
+:jbake-date: 2009-05-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1243410330000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freenews.fr%2Ffreenews-edition-nationale%2Ftutoriaux-172%2Farticle%2Ffreewifi-guide-de-mise-en-route-et&searchtags=howto+wifi+freebox+for%3AClownny59+for%3Abrasseld+_mois_mai+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.freenews.fr/freenews-edition-nationale/tutoriaux-172/article/freewifi-guide-de-mise-en-route-et[FreeWifi : guide de mise en route et d'utilisation - Freenews : l'actualité des freenautes]
+
+Un guide complet pour la mise en route du wifi communautaire de la freebox, qui me semble un gadget faramineux pour les vacances

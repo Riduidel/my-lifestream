@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DocBook Wiki
+:jbake-tags: software,freeware,open-source,web,XML,docbook,wiki,_mois_avr.,_année_2005
+:jbake-date: 2005-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1112528384000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdoc-book.sourceforge.net%2Fhomepage%2F&searchtags=software+freeware+open-source+web+XML+docbook+wiki+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://doc-book.sourceforge.net/homepage/[DocBook Wiki]
+
+DocBookWiki can display DocBook documents online. Different from the other applications, which convert a DocBook document into HTML first, in order to display it online, DocBookWiki converts it on the fly, so that the format for saving the document will s

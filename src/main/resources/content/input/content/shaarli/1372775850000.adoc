@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Associations : à qui profitent les subventions ?
+:jbake-tags: data,article,_mois_juil.,_année_2013
+:jbake-date: 2013-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1372775850000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Fpolitique%2Fvisuel%2F2013%2F07%2F01%2Fassociations-a-qui-profitent-les-subventions_3430228_823448.html&searchtags=data+article+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.lemonde.fr/politique/visuel/2013/07/01/associations-a-qui-profitent-les-subventions_3430228_823448.html[Associations : à qui profitent les subventions ?]
+
+C'est beau le data journalism

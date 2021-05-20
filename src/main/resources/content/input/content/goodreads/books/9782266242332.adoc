@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Player One
+:jbake-tags:  combat, cyberpunk,_année_2015,_mois_juil.,_note_2,rayon-imaginaire,read
+:jbake-date: 2015-07-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266242332.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426599455l/25161218._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1426599455l/25161218._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/25161218
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+2044. La Terre est à l'agonie.<br />Comme la majeure partie de l'humanité, Wade, 17 ans, passe son temps dans l'OASIS – un univers virtuel ou chacun peut vivre et être ce qui lui chante. Mais lorsque le fondateur de l'OASIS meurt sans héritier, une formidable chasse au trésor est lancée : celui qui découvrira les trois clefs cachées dans l'OASIS par son créateur remportera 250 milliards de dollars ! Multinationales et geeks s'affrontent alors dans une quête épique, dont l'avenir du monde est l'enjeu. Que le meilleur gagne...
+</div>
+++++
+
+
+## Authors
+* link:../authors/1314503.html[Arnaud Regnauld]
+* link:../authors/31712.html[Ernest Cline]
+
+## Series
+* link:../series/Ready_Player_One.html[Ready Player One]
+
+## Review
+
+++++
+Comme d'autres  oeuvres, ce roman est un monument à une époque : une espèce de condensé de nostalgie montrant à ceux qui se revendiquent aujourd'hui geek ce que voulait dire ce terme à l'époque des pionniers. Du coup, chaque oeuvre /produit ayant eu dans les années 80 le moindre intérêt pour l'auteur se voit citée, implicitement ou explicitement, de façon à fournir aux jeunes de notre époque un cadre d'appréciation de la culture pop des années 80. Les références ne sont évidemment pas les miennes (pas un mot de Cobra, ce qui me désole toujours)... Mais dans l'ensemble le schéma correspond bien à la mauvaise culture de ma jeunesse. <br/>Il y a  évidemment une histoire autour de ces références. Orientée jeune adulte puisque c'est actuellement le marché porteur (bien plus que la bit/chick/lit ou le mommy porn). Du coup, le héros de 17 ans est un champion des scripts kiddies capable de s'introduire dans un système ultra sécurisé . Mais c'est honnêtement bien moins intéressant pour moi que ce catalogue d'une certaine forme d'élitisme culturel. <br/>Ce qui me donne évidemment un avis des plus mitigés sur ce roman... Que je ne détaillerai finalement pas plus. 
+++++

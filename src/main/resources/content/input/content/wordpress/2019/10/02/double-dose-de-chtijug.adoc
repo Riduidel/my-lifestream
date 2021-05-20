@@ -1,0 +1,418 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Double dose de chtijug !
+:jbake-tags: java,quarkus,recrutement,_mois_oct.,_année_2019
+:jbake-date: 2019-10-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/10/02/double-dose-de-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/10/02/double-dose-de-chtijug/
+:jbake-style: wordpress
+
+++++
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/rlespinasse" class="screenName"><img src="http://pbs.twimg.com/profile_images/1265589141456199680/Vz3AmQYK_mini.jpg" alt="profile of I'm not young enough to know everything. -- J. M. Barrie."/>rlespinasse</a>
+		<span class="name">Romain LESPINASSE</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/rlespinasse/status/1 179 089 807 051 493 377" class="date">1 oct. 2019 à 19:44:51</a>
+
+	<span class="content">
+	
+	<span class="text">Joyeux anniversaire pour vos 10ans, @chtijug #InJavaAndBeerWeTrust https://t.co/0cGnmM8und</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EFz369yX0AM6sy6.jpg" alt="1 179 089 794 854 539 267"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/rlespinasse" class="screenName"><img src="http://pbs.twimg.com/profile_images/1265589141456199680/Vz3AmQYK_mini.jpg" alt="profile of I'm not young enough to know everything. -- J. M. Barrie."/>rlespinasse</a>
+		<span class="name">Romain LESPINASSE</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/rlespinasse/status/1 179 089 807 051 493 377" class="date">1 oct. 2019 à 19:44:51</a>
+
+	<span class="content">
+	
+	<span class="text">Joyeux anniversaire pour vos 10ans, @chtijug #InJavaAndBeerWeTrust https://t.co/0cGnmM8und</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EFz369yX0AM6sy6.jpg" alt="1 179 089 794 854 539 267"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:heading -->
+<h2 id="_quarkus">Quarkus</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Bon, j’ai déja vu cette présentation …​ <a href="https://riduidel.wordpress.com/2019/04/19/devoxxfr-graalvm-et-quarkus-changent-la-donne/">plusieurs </a><a href="https://riduidel.wordpress.com/2019/06/14/devfest-quarkus/">fois</a>. Et comme Emmanuel est sympa, il a choisi de prendre des risques pour nous re-présenter Quarkus. Et comme je l’ai déja vu, je vais me contenter des nouveautés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/emmanuelbernard" class="screenName"><img src="http://pbs.twimg.com/profile_images/1110868233488420865/kgwE0i1K_mini.png" alt="profile of Open Source software engineer: Hibernate team, Quarkus co-founder and more. Chief Architect on Data at Red Hat. @lescastcodeurs founder. Java Champion etc."/>emmanuelbernard</a>
+		<span class="name">Emmanuel Bernard</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/emmanuelbernard/status/1 179 079 156 866 457 609" class="date">1 oct. 2019 à 19:02:31</a>
+
+	<span class="content">
+	
+	<span class="text">J’ai complètement modifié ma démo, rajouté #VSCode, tout ça 30 mins avant le départ. @chtijug va être interessant 🤘</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/emmanuelbernard" class="screenName"><img src="http://pbs.twimg.com/profile_images/1110868233488420865/kgwE0i1K_mini.png" alt="profile of Open Source software engineer: Hibernate team, Quarkus co-founder and more. Chief Architect on Data at Red Hat. @lescastcodeurs founder. Java Champion etc."/>emmanuelbernard</a>
+		<span class="name">Emmanuel Bernard</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/emmanuelbernard/status/1 179 079 156 866 457 609" class="date">1 oct. 2019 à 19:02:31</a>
+
+	<span class="content">
+	
+	<span class="text">J’ai complètement modifié ma démo, rajouté #VSCode, tout ça 30 mins avant le départ. @chtijug va être interessant 🤘</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Emmanuel crée donc …​ une application de TODO, mais cette fois-ci à l’aide du&#160;<a href="https://code.quarkus.io/">générateur de projets</a>&#160;qui permet d’ajouter facilement des extensions. Et donc ça génère un zip, qu’il faut télécharger …​ parce qu’il contient tout le code !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une fois le zip téléchargé, on démarre en mode développement avec&#160;<code>mvn compile quarkus:dev</code>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et donc là, Emmanuel va créer ses ressources avec les snippets VSCode. Ca marche …​ assez bien. Sans doute parce que le plugin Quarkus utilise le plugin Java qui fournit l’ensemble des outils de compilation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et quand Emmanuel parle de JQL, il évoque cette de contribution de Loïc.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/loicmathieu" class="screenName"><img src="http://pbs.twimg.com/profile_images/1055114256247676928/wnb-1EtJ_mini.jpg" alt="profile of Software Architect, Java & JVM passionate, performance, #OSS contributor (mainly #Quarkus).
+Like to learn stuff and share what I learnt."/>loicmathieu</a>
+		<span class="name">Loïc Mathieu</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/loicmathieu/status/1 176 774 772 312 686 592" class="date">25 sept. 2019 à 10:25:43</a>
+
+	<span class="content">
+	
+	<span class="text">After one month of coding and one month of review, my PR for @MongoDB with Panache lands in @QuarkusIO.
+
+This has been a long and interesting journey that I'm proud to have made. Thanks all @QuarkusIO members that helped me to achieve this. #OSS 🥳
+
+https://t.co/jrM5rtMwRk</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/loicmathieu" class="screenName"><img src="http://pbs.twimg.com/profile_images/1055114256247676928/wnb-1EtJ_mini.jpg" alt="profile of Software Architect, Java & JVM passionate, performance, #OSS contributor (mainly #Quarkus).
+Like to learn stuff and share what I learnt."/>loicmathieu</a>
+		<span class="name">Loïc Mathieu</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/loicmathieu/status/1 176 774 772 312 686 592" class="date">25 sept. 2019 à 10:25:43</a>
+
+	<span class="content">
+	
+	<span class="text">After one month of coding and one month of review, my PR for @MongoDB with Panache lands in @QuarkusIO.
+
+This has been a long and interesting journey that I'm proud to have made. Thanks all @QuarkusIO members that helped me to achieve this. #OSS 🥳
+
+https://t.co/jrM5rtMwRk</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Emmanuel nous montre aussi l’implémentation d’OpenApi par Quarkus (et c’est bien pratique). Et dans l’écosystème, il y a aussi Kafka, Flyway, la compatibilité Spring, parmi tant d’autres …​</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_open_source_en_recrutement">Open-source en recrutement</h2>
+<!-- /wp:heading -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 179 111 961 595 916 295" class="date">1 oct. 2019 à 21:12:53</a>
+
+	<span class="content">
+	
+	<span class="text">Parlons d'open source, de recrutement et de freelancing avec @shirleyalmosni https://t.co/MUO9sdZzjd</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EF0MEdeWsAIQltz.jpg" alt="1 179 111 948 211 892 226"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 179 111 961 595 916 295" class="date">1 oct. 2019 à 21:12:53</a>
+
+	<span class="content">
+	
+	<span class="text">Parlons d'open source, de recrutement et de freelancing avec @shirleyalmosni https://t.co/MUO9sdZzjd</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EF0MEdeWsAIQltz.jpg" alt="1 179 111 948 211 892 226"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Shirley est recruteuse depuis dix ans, et indépendante depuis plus d’un an. Et il a y peu, l’un de ces employeurs a tenté de la poursuivre en justice.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="_des_recruteurs_éclairés">Des recruteurs éclairés</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Il y a maintenant des communautés de recruteurs : recruiter’s kitchen ou&#160;<a href="https://www.le-cercle-des-recruteurs-disparus.com/">le cercle des recruteurs disparus</a>&#160;qui permettent aux recruteurs de s’échanger les bonnes pratiques, de s’entraider. Il y a également&#160;<a href="https://lecoledurecrutement.fr/">une école du recrutement</a>&#160;qui vise aussi à apporter des bonnes pratiques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A titre personnel, Shirley a aussi profité de son nouveau statut d’indépendante pour changer sa méthode de recrutement : passer de la recherche des bons mots-clés à une expérience en immersion dans les équipes, pour mieux gérer le process en amont. Evidement, cette immersion lui permet de poser les bonnes questions (qui sont aussi les plus difficiles) : pourquoi les gens partent, est-ce que vous êtes sûrs de votre besoin, …​</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="_savoir_défendre_sa_liberté">Savoir défendre sa liberté</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ca ne s’applique évidement pas qu’au recruteur, mais à tout le monde. Cela dit, en particulier, chez les recruteurs, les questions sont plus directes (et douloureuses) : discrimination des minorités dans le processus de recrutement, par exemple. Ca implique de savoir dire non, de savoir dire stop, de poser les limites et de se faire respecter. Cette partie me fait furieusement penser à certaines collègues …​. Parce que clairement, les recruteurs ne sont pas dans une situation facile : coincés entre des exigences de recrutement et un vivier de talents pas toujours aussi vaste que ce que les recruteurs espèrent, ils sont soumis à une pression assez importante.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Un autre point commun, c’est que les recruteurs signent des contrats qui contiennent parfois difficiles des clauses …​ moralement difficiles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il faut aussi tenir compte des limites de la liberté d’expression. Typiquement, on peut se faire virer pour avoir trop parlé, ce qui est parfois dommage pour l’employé, mais aussi pour l’employeur qui perd un talent et qui sacrifie sa marque employeur pour rien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, les entreprises doivent prendre conscience que favoriser la libre expression des employés rend globalement l’entreprise meilleure, parce que plus visible, plus attractive.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="_la_question_du_choix">La question du choix</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Chez les recruteurs, la question du choix s’aborde très peu. En particulier parce qu’il existe une forme de droit d’auteur ou même de propriété : les compétences que le développeur a acquis sont prétendues appartenir à l’employeur, alors que ça n’est pas tout à fait vrai.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca se sent bien dans le vocabulaire du recrutement : il y a de l’acquisition, de l’élevage, de la chasse, …​ Tout ça n’est pas très glorieux. Pour aller un tout peu plus loin, il ne faut pas oublier qu’il y a eu dans la Silicon Valley un accord illégal entre les GAFAM pour éviter la mobilité des développeurs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="_comment_en_sortir">Comment en sortir ?</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D’abord en lançant des annonces open-source, c’est-à-dire en annoncant tous les détails : salaire, localisation, points positifs et négatifs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite en transformant le travail de recruteur en celui d’agent de carrière, en proposant aux gens des offres intéressantes, en CDI ou en freelance, ou autre. Ou en changeant la relation, c’est-à-dire en proposant aux gens des interlocuteurs auxquels ils ont envie de parler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="_sallier_avec_les_concurrents">S’allier avec les concurrents</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Actuellement, le marché de l’emploi est un jeu à somme nulle, où on perd aussi souvent qu’on gagne (en tant que recruteur). Ca veut dire qu’il faut aussi le plagiat, qui est une forme de reconnaissance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Les deux présentations étaient bien. J'ai un petit bémol sur celle de Shirley qui n'est peut-être pas encore complètement ... focalisée : parler aux développeurs de recrutement, c'est (pour prendre une métaphore un poil douteuse) parler au mouton des nouveaux ciseaux pour le tondre. Et encore, je ne suis pas juste, parce que Shirley explique bien en quoi le recrutement ne doit pas être ça. Et je suis encore moins juste parce qu'en tant que consultant faisant aussi du recrutement, il y a  un certain nombre d'aspects qui m'ont bien parlé. Autrement dit, c'était bien chouette.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 179 125 205 685 407 745" class="date">1 oct. 2019 à 22:05:30</a>
+
+	<span class="content">
+	
+	<span class="text">A la bonne vôtre! https://t.co/NwcyHtjwIQ</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EF0YHz8WwAAq3U_.jpg" alt="1 179 125 199 922 446 336"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 179 125 205 685 407 745" class="date">1 oct. 2019 à 22:05:30</a>
+
+	<span class="content">
+	
+	<span class="text">A la bonne vôtre! https://t.co/NwcyHtjwIQ</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EF0YHz8WwAAq3U_.jpg" alt="1 179 125 199 922 446 336"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+++++

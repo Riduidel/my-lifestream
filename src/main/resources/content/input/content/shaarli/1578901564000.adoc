@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: index | TIOBE - The Software Quality Company
+:jbake-tags: programming,comparatif,java,rust,groovy,_mois_janv.,_année_2020
+:jbake-date: 2020-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1578901564000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tiobe.com%2Ftiobe-index%2F&searchtags=programming+comparatif+java+rust+groovy+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.tiobe.com/tiobe-index/[index | TIOBE - The Software Quality Company]
+
+Sans surprise, Java est premier au TIOBE Index. Mais d'une façon surprenante (ou pas) , Rust est passé devant Scala ... Quand Rust dépassera Groovy, je serai content et triste à la fois.

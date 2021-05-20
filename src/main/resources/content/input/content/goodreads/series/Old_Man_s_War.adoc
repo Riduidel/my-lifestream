@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Old Man's War
+:jbake-tags: serie
+:jbake-date: 2017-01-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Old_Man_s_War.adoc
+:jbake-source: https://www.goodreads.com/series/40789
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782811217778.html[Le Vieil Homme et la Guerre]

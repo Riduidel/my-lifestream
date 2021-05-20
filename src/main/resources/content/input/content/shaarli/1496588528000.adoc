@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Accidentally destroyed production database on first day of a job, and was told to leave, on top of this i was told by the CTO that they need to get legal involved, how screwed am i? : cscareerquestions
+:jbake-tags: emploi,informatique,sécurité,formation,_mois_juin,_année_2017
+:jbake-date: 2017-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1496588528000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnp.reddit.com%2Fr%2Fcscareerquestions%2Fcomments%2F6ez8ag%2Faccidentally_destroyed_production_database_on%2F&searchtags=emploi+informatique+s%C3%A9curit%C3%A9+formation+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://np.reddit.com/r/cscareerquestions/comments/6ez8ag/accidentally_destroyed_production_database_on/[Accidentally destroyed production database on first day of a job, and was told to leave, on top of this i was told by the CTO that they need to get legal involved, how screwed am i? : cscareerquestions]
+
+Une boîte dont la prod ne résiste pas aux nouveaux arrivants, c'est la honte (pour la boîte)

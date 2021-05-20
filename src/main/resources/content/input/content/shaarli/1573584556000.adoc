@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: orf/ptail: Stream and display a fixed number of lines from a processes output.
+:jbake-tags: shell,command-line,utilities,rust,_mois_nov.,_année_2019
+:jbake-date: 2019-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1573584556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Forf%2Fptail&searchtags=shell+command-line+utilities+rust+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/orf/ptail[orf/ptail: Stream and display a fixed number of lines from a processes output.]
+
+Oh c'est mignon cette version de tail en Rust qui n'affiche que les n dernières lignes sous l'invite de commande !

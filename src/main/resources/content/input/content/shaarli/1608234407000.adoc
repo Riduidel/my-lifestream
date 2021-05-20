@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gunnarmorling/jfrunit: A JUnit extension for asserting JDK Flight Recorder events
+:jbake-tags: java,test,junit,extension,performance,_mois_déc.,_année_2020
+:jbake-date: 2020-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1608234407000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgunnarmorling%2Fjfrunit&searchtags=java+test+junit+extension+performance+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/gunnarmorling/jfrunit[gunnarmorling/jfrunit: A JUnit extension for asserting JDK Flight Recorder events]
+
+C'est une chouette idée. Mais je ne suis pas sûr que ça m'intéresse vraiment de tester le fait que le GC ait été invoqué. Pour le dire autrement, mes métriques de performance sont assez différentes.

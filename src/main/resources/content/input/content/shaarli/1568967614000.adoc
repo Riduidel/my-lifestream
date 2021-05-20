@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What is Software Architecture? | 8th Light
+:jbake-tags: software,architecture,exemple,documentation,_mois_sept.,_année_2019
+:jbake-date: 2019-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1568967614000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2F8thlight.com%2Fblog%2Fignacio-piantanida%2F2019%2F09%2F17%2Fsoftware-architecture.html%3Fhss_channel%3Dtw-67016603&searchtags=software+architecture+exemple+documentation+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://8thlight.com/blog/ignacio-piantanida/2019/09/17/software-architecture.html?hss_channel=tw-67016603[What is Software Architecture? | 8th Light]
+
+Certains aspects de l'architecture logicielle sont très bien décrits dans cet article.

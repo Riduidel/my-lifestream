@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Xilokit Deskloops
+:jbake-tags: desktop,freeware,productivité,software,utilities,windows,_mois_mai,_année_2006
+:jbake-date: 2006-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1148906027000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.xilokit.com%2Fdeskloops%2Fdeskloops.html&searchtags=desktop+freeware+productivit%C3%A9+software+utilities+windows+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.xilokit.com/deskloops/deskloops.html[Xilokit Deskloops]
+
+Un complément intéressant et amusant à ALT-TAB, trouvé alors que je cherchais un équivalent à Expose pour Windows

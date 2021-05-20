@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: List of Linux Live CDs
+:jbake-tags: linux,_mois_déc.,_année_2004
+:jbake-date: 2004-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1102410582000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.frozentech.com%2Fcontent%2Flivecd.php&searchtags=linux+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.frozentech.com/content/livecd.php[List of Linux Live CDs]
+
+A comprehensive, easy-to-search list of all available Linux-based Live CDs.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HID Wiimote - A Windows Device Driver for the Nintendo Wii Remote
+:jbake-tags: windows,wiimote,driver,bluetooth,_mois_janv.,_année_2018
+:jbake-date: 2018-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1516724456000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.julianloehr.de%2Feducational-work%2Fhid-wiimote%2F&searchtags=windows+wiimote+driver+bluetooth+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.julianloehr.de/educational-work/hid-wiimote/[HID Wiimote - A Windows Device Driver for the Nintendo Wii Remote]
+
+Oh bon sang de bois ! Un vrai driver Windows pour les différentes formes de wiimote (en incluant la balance). je vais ressortir ma wiimote de la naphtaline.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Docker: Git for deployment
+:jbake-tags: continuous-deployment,devops,programming,virtualization,_mois_oct.,_année_2013
+:jbake-date: 2013-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1381932477000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.scoutapp.com%2Farticles%2F2013%2F08%2F28%2Fdocker-git-for-deployment&searchtags=continuous-deployment+devops+programming+virtualization+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment[Docker: Git for deployment]
+
+Ca y est, j'ai enfin compris la force de Docker ! Reste maintenant à y trouver un usage ;-)

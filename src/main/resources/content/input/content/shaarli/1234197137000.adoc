@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: faint - The Face Annotation Interface"
+:jbake-tags: software,java,library,visualisation,photographie,xmp,visage,recognition,detection,_mois_févr.,_année_2009
+:jbake-date: 2009-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1234197137000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffaint.sourceforge.net%2F&searchtags=software+java+library+visualisation+photographie+xmp+visage+recognition+detection+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://faint.sourceforge.net/[faint - The Face Annotation Interface"]
+
+Une application - pas très jolie, c'est vrai - mais néanmoins spectaculairement simple pour tagger les photos facilement et rapidement avec les noms des gens qui sont dessus.

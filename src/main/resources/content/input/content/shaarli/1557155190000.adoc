@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vincent Zurczak's Blog – My technical blog
+:jbake-tags: webdesign,css,media,colonne,_mois_mai,_année_2019
+:jbake-date: 2019-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1557155190000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvzurczak.wordpress.com%2F&searchtags=webdesign+css+media+colonne+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://vzurczak.wordpress.com/[Vincent Zurczak's Blog – My technical blog]
+
+Juste pour le layout, je me disais ce matin que ce serait bien d'utiliser les media queries pour passer en mode multi-colonnes sur les écrans larges, et ce blog le fait (pas aussi bien que ce que j'aimerais, mais quand même pas mal du tout)

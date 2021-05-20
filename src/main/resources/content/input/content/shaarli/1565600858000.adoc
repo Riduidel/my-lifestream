@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The 3 Laws of Locality – Learn UI Design
+:jbake-tags: ergonomie,interface,design,_mois_août,_année_2019
+:jbake-date: 2019-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1565600858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flearnui.design%2Fblog%2Fthe-3-laws-of-locality.html&searchtags=ergonomie+interface+design+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://learnui.design/blog/the-3-laws-of-locality.html[The 3 Laws of Locality – Learn UI Design]
+
+Un rappel intéressant de certains éléments d'ergonomie

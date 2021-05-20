@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: takes.org
+:jbake-tags: java,web,framework,open-source,_mois_févr.,_année_2017
+:jbake-date: 2017-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1487781858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.takes.org%2F&searchtags=java+web+framework+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.takes.org/[takes.org]
+
+Il y a des trucs très intéressants à aller chercher là-dedans.

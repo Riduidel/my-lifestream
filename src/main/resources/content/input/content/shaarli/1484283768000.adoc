@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: André Staltz on Twitter: "Top 2 worst ideas for languages: 1. Dynamic/loose types (JS) 2. Strong types but no inference (Java) Top 2 popular languages: 1. JS 2. Java"
+:jbake-tags: programming,langage,critique,_mois_janv.,_année_2017
+:jbake-date: 2017-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1484283768000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fandrestaltz%2Fstatus%2F819189977028395009&searchtags=programming+langage+critique+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/andrestaltz/status/819189977028395009[André Staltz on Twitter: "Top 2 worst ideas for languages: 1. Dynamic/loose types (JS) 2. Strong types but no inference (Java) Top 2 popular languages: 1. JS 2. Java"]
+
+C'est vrai ... mais c'est aussi une vision extrêmement "à la mode" de ce que devrait être un langage

@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hiroaki Samura
+:jbake-tags: author
+:jbake-date: 2000-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/180389.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1205171556p5/180389.jpg
+:jbake-source: https://www.goodreads.com/author/show/180389
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782203372054.html[L'Habitant de l'infini, Tome 1 (L'Habitant de l'infini, #1)]
+* link:../books/9782203372122.html[L'Habitant de l'infini, Tome 2 (L'Habitant de l'infini, #2)]
+* link:../books/9782203372276.html[L'habitant De L'infini, Tome 4]
+* link:../books/9782203372320.html[L'habitant De L'infini, Tome 6]
+* link:../books/9783898855891.html[Blade Of The Immortal 5]
+* link:../books/9784063141092.html[無限の住人 3]
+* link:../books/9784063141658.html[Blade Of The Immortal Vol. 7 (Mugen No Junin) (In Japanese)]

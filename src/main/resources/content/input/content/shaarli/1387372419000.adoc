@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Undocumented Feature
+:jbake-tags: shaarli,internet,forum,_mois_déc.,_année_2013
+:jbake-date: 2013-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1387372419000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1305%2F&searchtags=shaarli+internet+forum+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xkcd.com/1305/[Undocumented Feature]
+
+Ca me rappelle tout à fait l'esprit de la shaarlisphere : c'est pas forcément documenté, on ne sait pas vraiment combien de temps les différens scripts suvrivront, l'anonymat est également garanti, et il y a une certaine forme d'amitié entre les différents shaarlieurs.

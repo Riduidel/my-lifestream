@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rpau/junit4git: Junit Extensions for Test Impact Analysis
+:jbake-tags: programming,java,test,optimisation,_mois_juin,_année_2018
+:jbake-date: 2018-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1528960362000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frpau%2Fjunit4git&searchtags=programming+java+test+optimisation+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/rpau/junit4git[rpau/junit4git: Junit Extensions for Test Impact Analysis]
+
+Un outil qui n'exécute que les tests impactés par les modifications du dernier commit. Ca me paraît assez chouette comme idée (et ça pourrait avantageusement remplacer infinitest)

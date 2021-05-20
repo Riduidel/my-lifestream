@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joel Grus – Fizz Buzz in Tensorflow
+:jbake-tags: programming,humour,python,ia,_mois_juin,_année_2016
+:jbake-date: 2016-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1465919428000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjoelgrus.com%2F2016%2F05%2F23%2Ffizz-buzz-in-tensorflow%2F&searchtags=programming+humour+python+ia+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/[Joel Grus – Fizz Buzz in Tensorflow]
+
+Exceptionnel ! Parfait pour un code kata

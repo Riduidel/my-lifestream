@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compile and install OpenTTD on a Raspberry Pi and run a dedicated server
+:jbake-tags: raspberrypi,server,jeu,open-source,_mois_mars,_année_2017
+:jbake-date: 2017-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1490125641000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tobias-schwarz.com%2Fposts%2F4%2F&searchtags=raspberrypi+server+jeu+open-source+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.tobias-schwarz.com/posts/4/[Compile and install OpenTTD on a Raspberry Pi and run a dedicated server]
+
+Intéressant ... je risque fort de m'en servir avec les enfants.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emmanuel Bernard sur Twitter : "I think I will officialize the list of things I’d love to tinker with but will never have/take time to do with 99% probability. Let’s call it the Battle Royale list."
+:jbake-tags: idée,communication,partage,web,_mois_oct.,_année_2019
+:jbake-date: 2019-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1571231235000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Femmanuelbernard%2Fstatus%2F1183985617694273536&searchtags=id%C3%A9e+communication+partage+web+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/emmanuelbernard/status/1183985617694273536[Emmanuel Bernard sur Twitter : "I think I will officialize the list of things I’d love to tinker with but will never have/take time to do with 99% probability. Let’s call it the Battle Royale list."]
+
+Je pense de plus en plus que tout le monde devrait faire ça, ça donnerait une espèce de crowd-funding des idées, et un mec qui veut implémenter un truc pourrait se trouver plein d'utilisateurs potentiels

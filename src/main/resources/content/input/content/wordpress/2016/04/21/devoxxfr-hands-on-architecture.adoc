@@ -1,0 +1,48 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - hands-on architecture
+:jbake-tags: architecture,_mois_avr.,_année_2016
+:jbake-date: 2016-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-hands-on-architecture.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-hands-on-architecture/
+:jbake-style: wordpress
+
+++++
+<p>
+Et maintenant, un peu d'architecture.
+</p>
+<p>
+Thomas commence sa présentation par un peu d'autobiographie. Il a commencé avec un bureau dans le placard d'une startup avant de rejoindre des boîtes comme Amazon ou Google. il note qu'avoir un mentor en architecture est vraiment bien. Bon, par contre, Thomas est américain, parle un français très suffisant, mais pas suffisant pour l'écrire. C'aurait peut-être été mieux de relire les slides ou de les laisser en anglais.
+</p>
+<p>
+Il existe une pyramide des besoins informatiques analogues à celle de Maslov. Et du coup, commencer en se demandant si on va utiliser Hibernate/Spring ou choisir de nommer les classes, c'est déja résoudre des problèmes d'un niveau très élevé. Donc dans les besoins informatiques, il y a, de bas en haut
+<br/>
+<ol>
+<br/>
+<li>Les spécifications</li>
+<br/>
+<li>Les métriques, c'est-à-dire le dimensionnement du système. pour ça, trois étapes chez amazon : définir les résultats dès le début, construire des indicateurs, et enfin définir des responsabilités.</li>
+<br/>
+<li>Les composants</li>
+<br/>
+<li>La testabilité</li>
+<br/>
+</ol>
+<br/>
+Pour faciliter ça, on peut utiliser des décompositions, comme MVC, qui a eu plusieurs incarnations : d'abord MVC, puis système 3-tiers
+</p>
+<p>
+Après cette pyramide des besoins, il y a aussi des choses plus concrètes : le réseau, le stockage, le déploiement, le monitoring.
+</p>
+<p>
+Chez Amazon, pour avoir des serveurs, il fallait aux environs de 2004 3-6 mois pour avoir une machine, et jusqu'à 12 mois pour une base de données.
+</p>
+<p>
+Et on enchaîne avec un kata d'architecture, où la salle sera répartie en 5 équipes aléatoires.
+</p>
+<p>
+Et ce kata est vraiment très chouette : en partant de besoins haut niveau, il faut développer une architecture technique complète. C'est vraiment très intéressant parce qu'il faut justement faire en une heure le cycle de conception qui amène à l'architecture. Franchement, c'est quelque chose que je referrais, et même que je pourrais animer.
+</p>
+++++

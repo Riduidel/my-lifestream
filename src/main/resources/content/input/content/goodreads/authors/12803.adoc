@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paul Jenkins
+:jbake-tags: author
+:jbake-date: 2013-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/12803.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1332831531p5/12803.jpg
+:jbake-source: https://www.goodreads.com/author/show/12803
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782809420111.html[Wolverine, les origines]

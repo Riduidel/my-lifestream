@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Game Maven from Crunchzilla
+:jbake-tags: web,software,éducation,programming,_mois_mars,_année_2014
+:jbake-date: 2014-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1394706727000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.crunchzilla.com%2Fgame-maven&searchtags=web+software+%C3%A9ducation+programming+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.crunchzilla.com/game-maven[Game Maven from Crunchzilla]
+
+Ah tiens, un autre outil d'apprentissage du code par le jeu. Chouette ! C'est juste dommage que tous ces outils (sauf Scratch) soient exclusivement en ligne. Via http://lifehacker.com/game-maven-teaches-you-how-to-code-while-making-games-1538776085

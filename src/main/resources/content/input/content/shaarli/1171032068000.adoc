@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DeLi Linux
+:jbake-tags: software,linux,lightweight,_mois_févr.,_année_2007
+:jbake-date: 2007-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1171032068000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdelili.lens.hl-users.com%2F&searchtags=software+linux+lightweight+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://delili.lens.hl-users.com/[DeLi Linux]
+
+Encore une distribution Linux, particulièrement adaptée aux très vieilles vieilleries

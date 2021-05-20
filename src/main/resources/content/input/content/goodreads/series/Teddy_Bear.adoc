@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Teddy Bear
+:jbake-tags: serie
+:jbake-date: 2010-07-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Teddy_Bear.adoc
+:jbake-source: https://www.goodreads.com/series/78071
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782723476294.html[Teddy Bear (Intégrale)]

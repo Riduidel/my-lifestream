@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Coral: The NYU Distribution Network
+:jbake-tags: web,proxy,p2p,_mois_avr.,_année_2005
+:jbake-date: 2005-04-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1112773143000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.coralcdn.org%2F&searchtags=web+proxy+p2p+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.coralcdn.org/[Coral: The NYU Distribution Network]
+
+Are you tired of clicking on some link from a web portal, only to find that the website is temporarily off-line because thousands or millions of other users are also trying to access it? Does your network have a really low-bandwidth connection, such that

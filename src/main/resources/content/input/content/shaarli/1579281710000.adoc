@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: classgraph/classgraph: An uber-fast, ultra-lightweight, parallelized Java classpath scanner and module scanner.
+:jbake-tags: java,programming,reflection,scan,library,open-source,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579281710000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fclassgraph%2Fclassgraph&searchtags=java+programming+reflection+scan+library+open-source+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/classgraph/classgraph[classgraph/classgraph: An uber-fast, ultra-lightweight, parallelized Java classpath scanner and module scanner.]
+
+Une alternative à Reflections qui ne charge pas les classes ? (enfin, qui ne les instancie pas), ça pourrait être intéressant (même dans Structurizr)

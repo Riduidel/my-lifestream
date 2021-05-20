@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - supabase/realtime: Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.
+:jbake-tags: postgres,événement,programming,web,websocket,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590734610000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsupabase%2Frealtime&searchtags=postgres+%C3%A9v%C3%A9nement+programming+web+websocket+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/supabase/realtime[GitHub - supabase/realtime: Listen to your to PostgreSQL database in realtime via websockets. Built with Elixir.]
+
+J'ai un collègue qui va vraiment beaucoup aimer cette idée ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML Open Security Architecture Icons
+:jbake-tags: plantuml,icon,sécurité,_mois_juin,_année_2019
+:jbake-date: 2019-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1561536997000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.mytechiebits.com%2FPlantumlOpenSecurityIcons&searchtags=plantuml+icon+s%C3%A9curit%C3%A9+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.mytechiebits.com/PlantumlOpenSecurityIcons[PlantUML Open Security Architecture Icons]
+
+Oh bon sang, des icônes de sécurité pour PlantUML !

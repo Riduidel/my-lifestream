@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Éric D. on Twitter: "Si vous voulez une bonne pratique de sécurité pour 2019, laissez tomber tout ce qu’on vous dit sur les mots de passe et retenez-en une qui va vous simplifier la vie plutôt que vous la complexifier : Utilisez un gestionnaire de mots de passe (il y en a des gratuits)"
+:jbake-tags: citation,sécurité,informatique,_mois_janv.,_année_2019
+:jbake-date: 2019-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1546373905000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fedasfr%2Fstatus%2F1079743790305472514&searchtags=citation+s%C3%A9curit%C3%A9+informatique+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/edasfr/status/1079743790305472514[Éric D. on Twitter: "Si vous voulez une bonne pratique de sécurité pour 2019, laissez tomber tout ce qu’on vous dit sur les mots de passe et retenez-en une qui va vous simplifier la vie plutôt que vous la complexifier : Utilisez un gestionnaire de mots de passe (il y en a des gratuits)"]
+
+Si vous cherchez une bonne résolution pour 2019, choisissez celle-là

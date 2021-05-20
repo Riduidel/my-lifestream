@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ✕✕✕✕✕ sur Twitter : "I think a great rule for drawing boxes-and-lines architecture diagrams is: never have overlaps or cycles. If you can't avoid one or both, it's a sign that you're providing too much detail. Zoom out to a different conceptual level, or split the diagram up."
+:jbake-tags: diagram,règle,dessin,compréhension,_mois_févr.,_année_2020
+:jbake-date: 2020-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1581357033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpeterbourgon%2Fstatus%2F1226110016912056321&searchtags=diagram+r%C3%A8gle+dessin+compr%C3%A9hension+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/peterbourgon/status/1226110016912056321[✕✕✕✕✕ sur Twitter : "I think a great rule for drawing boxes-and-lines architecture diagrams is: never have overlaps or cycles. If you can't avoid one or both, it's a sign that you're providing too much detail. Zoom out to a different conceptual level, or split the diagram up."]
+
+J'apprécie la tentation de définir une règle empirique pour dessiner un diagramme. Mais je ne pense pas que celle-ci soit bonne, même si elle est intéressante.

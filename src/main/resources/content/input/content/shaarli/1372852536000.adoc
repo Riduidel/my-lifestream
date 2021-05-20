@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Phototrails
+:jbake-tags: data-mining,analyse,photographie,_mois_juil.,_année_2013
+:jbake-date: 2013-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1372852536000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fphototrails.net%2F&searchtags=data-mining+analyse+photographie+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://phototrails.net/[Phototrails]
+
+Des photos considérées comme du big data, et donc aggrégées et traitées comme des gros paquets de données. Les visualisations sont curieuses, mais l'impression est là : on voit bien que les photos suivent un cycle jour-nuit, ou que les couleurs changeent selon les lieux

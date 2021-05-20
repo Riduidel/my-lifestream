@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le casse-tête de la vidéo à la demande | Slate.fr
+:jbake-tags: politique,internet,piratage,_mois_déc.,_année_2014
+:jbake-date: 2014-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1418812446000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.fr%2Fstory%2F95811%2Fcasse--tete-video-demande&searchtags=politique+internet+piratage+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.slate.fr/story/95811/casse--tete-video-demande[Le casse-tête de la vidéo à la demande | Slate.fr]
+
+Les industries de la culture ne VEULENT PAS s'adapter à internet : c'est tout aussi vrai du cinéma, de la musique,de la littérature.

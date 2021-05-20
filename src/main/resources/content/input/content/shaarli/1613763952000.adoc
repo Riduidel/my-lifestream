@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bruno Borges sur Twitter : "#Java https://t.co/Wrx90VMkOE" / Twitter
+:jbake-tags: java,mème,humour,version,_mois_févr.,_année_2021
+:jbake-date: 2021-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1613763952000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbrunoborges%2Fstatus%2F1362798857696940036&searchtags=java+m%C3%A8me+humour+version+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/brunoborges/status/1362798857696940036[Bruno Borges sur Twitter : "#Java https://t.co/Wrx90VMkOE" / Twitter]
+
+Perso, l'appli sur laquelle je bossais dernièrement pouvait tourner en 8 et 11 ... Mais la prod est toujours en 8 😅 (merci le déploiement à l'ancienne)

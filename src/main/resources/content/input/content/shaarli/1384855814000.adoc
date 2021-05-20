@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vidéosurveillance: la cam très rentable de l'Ile-de-France | Slate
+:jbake-tags: intimité,vidéosurveillance,décadence,_mois_nov.,_année_2013
+:jbake-date: 2013-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1384855814000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.fr%2Fstory%2F32295%2Fvideosurveillance-ile-de-france-lobby-securite&searchtags=intimit%C3%A9+vid%C3%A9osurveillance+d%C3%A9cadence+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.slate.fr/story/32295/videosurveillance-ile-de-france-lobby-securite[Vidéosurveillance: la cam très rentable de l'Ile-de-France | Slate]
+
+Excellent article sur le vidéo-siphonage des impôts par un lobby joliment constitué. La meilleure partie étant - évidement - celle qui explique que l'utilité de la chose n'a jamais été démontrée.

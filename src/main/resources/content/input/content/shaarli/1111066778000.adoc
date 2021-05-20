@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Chose Interactive - Process Wizard
+:jbake-tags: software,freeware,macosx,system,process,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111066778000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lachoseinteractive.net%2Fen%2Fproducts%2Fprocesswizard%2F&searchtags=software+freeware+macosx+system+process+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.lachoseinteractive.net/en/products/processwizard/[La Chose Interactive - Process Wizard]
+
+Process Wizard is a menu hack that allows you to access to all the processes of your system (applications, background applications, user processes, non user processes) and to change their priority (Unix nice value).

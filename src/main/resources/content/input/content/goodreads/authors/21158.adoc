@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nancy Kress
+:jbake-tags: author
+:jbake-date: 2005-01-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/21158.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1232323985p5/21158.jpg
+:jbake-source: https://www.goodreads.com/author/show/21158
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266117715.html[Réalité Partagée]
+* link:../books/9782266128179.html[Artefacts]
+* link:../books/9782266138215.html[Les faucheurs]
+* link:../books/9782376863014.html[Méfiez-vous du chien qui dort]
+* link:../books/9782843441400.html[Le Nexus du Docteur Erdmann]
+* link:../books/9782917689424.html[L'une rêve, l'autre pas]

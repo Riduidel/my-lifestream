@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arcane Majeur, Tome 1 : Pandora
+:jbake-tags:  fantastique, rayon-emprunt, uchronie,_année_2011,_mois_mai,_note_2,rayon-bd,read
+:jbake-date: 2011-05-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840558491.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/979211
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Fin des années 50, début des années 60. Après ses succès au sein du comité Magic durant la Seconde Guerre mondiale, la fondation Vane, responsable de l'exploitation des Arcanes, durant le dernier conflit mondial, est en sommeil. Les Arcanes, ces étranges jeux de cartes apparus en Sicile en 1942, semblent avoir le pouvoir de modifier le hasard. Mais les choses sont en passe de changer, une nouvelle partie commence?<br /><br />Partie à la recherche de ses origines, Pandara rencontre un joueur professionnel du nom de Chance qui semble en savoir long sur l'étrange jeu de cartes qu'elle tient de sa mère et qui lui confère le pouvoir d'influer sur le destin. Mais pourchassés par "les soeurs de l'Eternel Tourment", ils doivent s'enfuir vers Las Végas, au désespoir de Chance qui y a de nombreux ennemis...
+</div>
+++++
+
+
+## Authors
+* link:../authors/493724.html[Damien]
+* link:../authors/5621260.html[Jean-Pierre Pécau]
+
+## Series
+* link:../series/Arcane_Majeur.html[Arcane Majeur]
+
+## Review
+
+++++
+Intéressante histoire de joueurs de cartes, dans un esprit proche de link:9782277236023.html[Poker d'âmes].<br/>Cela dit, je me demande bien comment les auteurs de bd française peuvent envisager une production aussi industrielle de séries qui, pour certaines, n'auront aucun avenir autre que le premier tome.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - stefanprodan/kustomizer: Kustomize build, apply, prune command-line utility
+:jbake-tags: git,devops,kubernetes,open-source,command-line,_mois_mai,_année_2020
+:jbake-date: 2020-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1590087516000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fstefanprodan%2Fkustomizer&searchtags=git+devops+kubernetes+open-source+command-line+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/stefanprodan/kustomizer[GitHub - stefanprodan/kustomizer: Kustomize build, apply, prune command-line utility]
+
+C'est une alternative franchement intéressante à ces histoires de GitOps

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rodrigo Pombo on Twitter: "I was playing around with some text animations and thought I could use them to show a file's history on @github:… "
+:jbake-tags: git,histoire,visualisation,_mois_févr.,_année_2019
+:jbake-date: 2019-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1549438340000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpomber%2Fstatus%2F1092827841509707778&searchtags=git+histoire+visualisation+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/pomber/status/1092827841509707778[Rodrigo Pombo on Twitter: "I was playing around with some text animations and thought I could use them to show a file's history on @github:… "]
+
+Wow, c'est une super façon de montrer l'historique d'un fichier dans Git/GitHub. j'adorerais voir ce genre de feature apparaître dans SourceTree (avec évidement un gros bonus si l'espacement entre les révisions correspond au délai entre les modifications)

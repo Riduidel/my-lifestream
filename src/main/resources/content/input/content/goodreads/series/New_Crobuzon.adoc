@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: New Crobuzon
+:jbake-tags: serie
+:jbake-date: 2006-12-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/New_Crobuzon.adoc
+:jbake-source: https://www.goodreads.com/series/61490
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266154994.html[Les Scarifiés]
+* link:../books/9782266186353.html[Le Concile de fer]
+* link:../books/9782266165402.html[Perdido Street Station: Tome 1 (New Crobuzon #1.1)]

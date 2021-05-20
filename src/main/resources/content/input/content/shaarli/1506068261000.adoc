@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Idle Words - Anatomy of a Moral Panic
+:jbake-tags: journalisme,algorithme,terrorisme,_mois_sept.,_année_2017
+:jbake-date: 2017-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1506068261000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fidlewords.com%2F2017%2F09%2Fanatomy_of_a_moral_panic.htm&searchtags=journalisme+algorithme+terrorisme+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://idlewords.com/2017/09/anatomy_of_a_moral_panic.htm[Idle Words - Anatomy of a Moral Panic]
+
+J'ai l'impression que le journalisme est l'un des domaines les plus affectés par la révolution informatique. Je me demande si il ne faudrait pas lancer des expériences de data science sur le sujet ...

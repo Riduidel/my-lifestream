@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zola
+:jbake-tags: web,site,générateur,open-source,rust,_mois_sept.,_année_2019
+:jbake-date: 2019-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1568489511000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.getzola.org%2F&searchtags=web+site+g%C3%A9n%C3%A9rateur+open-source+rust+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.getzola.org/[Zola]
+
+Je pense que je vais devoir jeter un coup d'oeil à ce générateur ... Ne serait-ce qu'en tant qu'utilisateur ...

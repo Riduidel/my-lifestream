@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaarli fait la JAVA | Fabien Vauchelles
+:jbake-tags: lifestream,shaarli,java,api,client,programming,_mois_janv.,_année_2014
+:jbake-date: 2014-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1390983012000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffabien.vauchelles.com%2Fshaarli-java-api%2F&searchtags=lifestream+shaarli+java+api+client+programming+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://fabien.vauchelles.com/shaarli-java-api/[Shaarli fait la JAVA | Fabien Vauchelles]
+
+Eh, mais je pourrais utiliser ça pour mon lfiestream, plutôt que de passer par le moche export HTML ... Ou alors peut-être que je devrais garder l'export dans un coin, et mettre ça en place dans un autre module ... Faut que j'y réfléchisse, tiens via http://sebsauvage.net/links/?CYW2Qg

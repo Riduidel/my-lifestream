@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Seashore - About
+:jbake-tags: editor,freeware,graphics,image,macosx,open-source,software,_mois_oct.,_année_2006
+:jbake-date: 2006-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1161762258000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fseashore.sourceforge.net%2F&searchtags=editor+freeware+graphics+image+macosx+open-source+software+_mois_oct.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://seashore.sourceforge.net/[Seashore - About]
+
+Un éditeur d'images Open-source pour Mac. Ca doit pouvoir permettre un peu plus de retouches que les filtres fournis par iPhoto ...

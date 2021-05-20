@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Woody Zuill on Twitter: "A simple rule I follow when working on legacy code: Honor the coder and their code. The constraints they endured are not mine to know."
+:jbake-tags: citation,programming,histoire,_mois_avr.,_année_2018
+:jbake-date: 2018-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1523853319000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FWoodyZuill%2Fstatus%2F970316033331474434&searchtags=citation+programming+histoire+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/WoodyZuill/status/970316033331474434[Woody Zuill on Twitter: "A simple rule I follow when working on legacy code: Honor the coder and their code. The constraints they endured are not mine to know."]
+
+C'est la réciproque de la citation sur le psychopathe qui va maintenir mon code : le mec qui l'a écrit avant avait sans doute des contraintes que je devrais comprendre avant de m'énerver.

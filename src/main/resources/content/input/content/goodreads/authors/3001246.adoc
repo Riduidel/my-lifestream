@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yoon Ha Lee
+:jbake-tags: author
+:jbake-date: 2020-07-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3001246.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1603220064p5/3001246.jpg
+:jbake-source: https://www.goodreads.com/author/show/3001246
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782072876813.html[Le Gambit du Renard]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Standards and Conventions
+:jbake-tags: documentation,programming,java,langage,convention,naming,coding,javadoc,_mois_avr.,_année_2005
+:jbake-date: 2005-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1112624453000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdev.eclipse.org%2Fconventions.html&searchtags=documentation+programming+java+langage+convention+naming+coding+javadoc+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://dev.eclipse.org/conventions.html[Standards and Conventions]
+
+As with any product being built by a team, there are various areas where standards, conventions, and other guidelines can play a role in helping to ensure that the resulting product presents to developers and customers as a unified whole rather than as a

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Opera 10: Set Gmail as the Default Email Client | Browsers | Tech-Recipes
+:jbake-tags: browser,tips,opera,gmail,_mois_nov.,_année_2009
+:jbake-date: 2009-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1258548246000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tech-recipes.com%2Frx%2F4674%2Fopera-10-set-gmail-as-the-default-email-client%2F&searchtags=browser+tips+opera+gmail+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.tech-recipes.com/rx/4674/opera-10-set-gmail-as-the-default-email-client/[Opera 10: Set Gmail as the Default Email Client | Browsers | Tech-Recipes]
+
+Comment utiliser GMail comme mail par défaut dans Opera

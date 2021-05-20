@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability. |
+:jbake-tags: java,sécurité,sérialisation,_mois_nov.,_année_2015
+:jbake-date: 2015-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1447065361000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffoxglovesecurity.com%2F2015%2F11%2F06%2Fwhat-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability%2F&searchtags=java+s%C3%A9curit%C3%A9+s%C3%A9rialisation+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/[What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability. |]
+
+La faille qui fout la trouille ...

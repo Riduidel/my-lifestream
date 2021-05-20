@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sylvain Wallez sur Twitter : "The disruptive change in the Java ecosystem isn't so much FP than asynchronous programming. An incredible amount of JEE-ish libraries rely o… https://t.co/LbHDcfzkB6"
+:jbake-tags: programming,java,concepts,asynchronous,_mois_nov.,_année_2017
+:jbake-date: 2017-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1511776054000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbluxte%2Fstatus%2F934022026553159680&searchtags=programming+java+concepts+asynchronous+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/bluxte/status/934022026553159680[Sylvain Wallez sur Twitter : "The disruptive change in the Java ecosystem isn't so much FP than asynchronous programming. An incredible amount of JEE-ish libraries rely o… https://t.co/LbHDcfzkB6"]
+
+Complètement d'accord : l'immutable est assez facile à implémenter en Java (comme dans tout autre langage). Par contre, l’asynchrone, c'est une sacrément autre paire de manches.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WiFi embedded in USB Cables might Hack You
+:jbake-tags: hack,usb,sécurité,_mois_févr.,_année_2019
+:jbake-date: 2019-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1549986261000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.drhack.net%2Fhidden-wifi-in-usb-cables-hack%2F&searchtags=hack+usb+s%C3%A9curit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.drhack.net/hidden-wifi-in-usb-cables-hack/[WiFi embedded in USB Cables might Hack You]
+
+Ca me fait bien froid dans le dos, ce câble USB avec wifi intégré et driver de clavier

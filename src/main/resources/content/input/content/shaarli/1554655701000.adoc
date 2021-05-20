@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: meilisearch/MeiliES: A Rust based event store using the Redis protocol
+:jbake-tags: rust,programming,_mois_avr.,_année_2019
+:jbake-date: 2019-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1554655701000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmeilisearch%2FMeiliES&searchtags=rust+programming+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/meilisearch/MeiliES[meilisearch/MeiliES: A Rust based event store using the Redis protocol]
+
+Après l'alternative à Elastic, voici venir l'alternative à Kafka

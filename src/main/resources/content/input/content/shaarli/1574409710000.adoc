@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Start containers automatically | Docker Documentation
+:jbake-tags: docker,configuration,system,_mois_nov.,_année_2019
+:jbake-date: 2019-11-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1574409710000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.docker.com%2Fconfig%2Fcontainers%2Fstart-containers-automatically%2F%23use-a-restart-policy&searchtags=docker+configuration+system+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy[Start containers automatically | Docker Documentation]
+
+Exactement ce qu'il me fallait pour que j'aie un serveur PlantUML démarré en permanence sur ma machine !

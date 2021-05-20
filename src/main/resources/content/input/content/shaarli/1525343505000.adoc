@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Abdón Rodríguez on Twitter: "🏷️ A list of GitHub labels for reuse across projects 🔗 https://t.co/B2CFdl09Fm… "
+:jbake-tags: web,tag,folksonomie,bug,_mois_mai,_année_2018
+:jbake-date: 2018-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1525343505000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fabdonrd%2Fstatus%2F991697736230633474&searchtags=web+tag+folksonomie+bug+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/abdonrd/status/991697736230633474[Abdón Rodríguez on Twitter: "🏷️ A list of GitHub labels for reuse across projects 🔗 https://t.co/B2CFdl09Fm… "]
+
+Chouettes exemples de label GitHub/Gitlab/whatever

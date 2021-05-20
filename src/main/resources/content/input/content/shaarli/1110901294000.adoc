@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Longhand: A Free Calculator for Mac OS X
+:jbake-tags: software,freeware,macosx,mathématiques,calculator,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110901294000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flonghand.pansophists.net%2F&searchtags=software+freeware+macosx+math%C3%A9matiques+calculator+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://longhand.pansophists.net/[Longhand: A Free Calculator for Mac OS X]
+
+Longhand is a calculator for Mac OS X built from the ground up to facilitate calculation. Most other computer calculators try blindly to emulate the physical format of their predecessors. What works well in the real world, however, functions worst, and is

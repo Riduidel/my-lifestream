@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: In Defense of Douglas Crockford
+:jbake-tags: conférence,communauté,_mois_sept.,_année_2016
+:jbake-date: 2016-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1473075044000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fatom-morgan.github.io%2Fin-defense-of-douglas-crockford&searchtags=conf%C3%A9rence+communaut%C3%A9+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://atom-morgan.github.io/in-defense-of-douglas-crockford[In Defense of Douglas Crockford]
+
+Je comprend même pas comment une conférence "javascriptesque" peut se passer de Douglas Crockford.

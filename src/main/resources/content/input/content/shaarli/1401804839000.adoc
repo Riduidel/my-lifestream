@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Se passer de Google, Facebook et autres big brothers 2.0 #1 - les moteurs de recherche
+:jbake-tags: web,liberté,open-source,p2p,recherche,_mois_juin,_année_2014
+:jbake-date: 2014-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1401804839000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Fse-passer-de-google-facebook-et-autres-big-brothers-2-0-1-les-moteurs-de-recherche&searchtags=web+libert%C3%A9+open-source+p2p+recherche+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://linuxfr.org/news/se-passer-de-google-facebook-et-autres-big-brothers-2-0-1-les-moteurs-de-recherche[Se passer de Google, Facebook et autres big brothers 2.0 #1 - les moteurs de recherche]
+
+Très bon article présentant les alternatives habituelles à Google : DDG, Seeks, ... Je n'ai rien découvert (à part peut-être les critiques sur DDG), mais ça reste un bon point d'entrée.

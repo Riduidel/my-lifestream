@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Descartes
+:jbake-tags: javascript,css,programming,web,_mois_févr.,_année_2016
+:jbake-date: 2016-02-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1456473040000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdescartes.io%2F&searchtags=javascript+css+programming+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://descartes.io/[Descartes]
+
+Intéressant, même si je regrette un peu la réimplémentation d'un système de listener à la jQuery ...

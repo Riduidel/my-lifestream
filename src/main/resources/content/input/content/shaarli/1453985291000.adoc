@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alan Shreve on Twitter: "If profiler results are consistenty surprising to programmers then programmers consistently don't understand how their code works at runtime"
+:jbake-tags: citation,programming,profiler,_mois_janv.,_année_2016
+:jbake-date: 2016-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1453985291000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Finconshreveable%2Fstatus%2F692537523986436097&searchtags=citation+programming+profiler+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/inconshreveable/status/692537523986436097[Alan Shreve on Twitter: "If profiler results are consistenty surprising to programmers then programmers consistently don't understand how their code works at runtime"]
+
+Chouette !

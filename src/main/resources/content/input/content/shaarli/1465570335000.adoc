@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ssl/ssh multiplexer
+:jbake-tags: software,sécurité,web,server,open-source,_mois_juin,_année_2016
+:jbake-date: 2016-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1465570335000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rutschle.net%2Ftech%2Fsslh.shtml&searchtags=software+s%C3%A9curit%C3%A9+web+server+open-source+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.rutschle.net/tech/sslh.shtml[ssl/ssh multiplexer]
+
+Très pratique, sauf chez les employeurs qui font du packet sniffing et du MITM

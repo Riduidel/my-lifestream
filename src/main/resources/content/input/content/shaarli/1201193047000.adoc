@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome to Savage
+:jbake-tags: freeware,jeu,multiplayer,software,fps,rpg,rts,_mois_janv.,_année_2008
+:jbake-date: 2008-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1201193047000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.s2games.com%2Fsavage%2Findex.php&searchtags=freeware+jeu+multiplayer+software+fps+rpg+rts+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.s2games.com/savage/index.php[Welcome to Savage]
+
+Un jeu gratuit, très comùplet, et peut-être intéressant par son mélange stratégie/action

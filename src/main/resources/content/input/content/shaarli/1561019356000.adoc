@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Go implementation of Poly1305 that makes sense
+:jbake-tags: cryptographie,documentation,software,artisanat,_mois_juin,_année_2019
+:jbake-date: 2019-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1561019356000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.filippo.io%2Fa-literate-go-implementation-of-poly1305%2F&searchtags=cryptographie+documentation+software+artisanat+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.filippo.io/a-literate-go-implementation-of-poly1305/[A Go implementation of Poly1305 that makes sense]
+
+Oh, tiens, un article qui explique que la crypto est complexe aussi parce que le code n'est souvent pas du tout commenté (ce qui est mal).

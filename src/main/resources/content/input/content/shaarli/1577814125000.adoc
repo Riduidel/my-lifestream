@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Weird Hill
+:jbake-tags: art,illustration,poésie,_mois_déc.,_année_2019
+:jbake-date: 2019-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1577814125000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxkcd.com%2F2247%2F&searchtags=art+illustration+po%C3%A9sie+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://xkcd.com/2247/[xkcd: Weird Hill]
+
+Ce strip xkcd est sacrément poétique.

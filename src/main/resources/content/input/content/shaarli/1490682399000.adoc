@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Crafting perfect Java Docker build flow - Codefresh
+:jbake-tags: java,docker,programming,déploiement,integration,_mois_mars,_année_2017
+:jbake-date: 2017-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1490682399000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcodefresh.io%2Fblog%2Fjava_docker_pipeline%2F&searchtags=java+docker+programming+d%C3%A9ploiement+integration+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://codefresh.io/blog/java_docker_pipeline/[Crafting perfect Java Docker build flow - Codefresh]
+
+un article raisonnablement complet sur le développement et le déploiement de code java avec Docker

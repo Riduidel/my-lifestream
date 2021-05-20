@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Loi de Goodhart — Wikipédia
+:jbake-tags: psychologie,mesure,_mois_août,_année_2020
+:jbake-date: 2020-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1597404593000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FLoi_de_Goodhart&searchtags=psychologie+mesure+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://fr.wikipedia.org/wiki/Loi_de_Goodhart[Loi de Goodhart — Wikipédia]
+
+L'exemple typique en informatique est celui de la couverture de test : dès que ça devient un objectif, les tests cessent d'être bons.

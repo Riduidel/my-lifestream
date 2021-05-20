@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Periodic Table of Visualization Methods
+:jbake-tags: communication,concepts,display,éducation,graph,gui,guide,présentation,psychologie,science,visualisation,web,_mois_janv.,_année_2007
+:jbake-date: 2007-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1168250165000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.visual-literacy.org%2Fperiodic_table%2Fperiodic_table.html&searchtags=communication+concepts+display+%C3%A9ducation+graph+gui+guide+pr%C3%A9sentation+psychologie+science+visualisation+web+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.visual-literacy.org/periodic_table/periodic_table.html[A Periodic Table of Visualization Methods]
+
+Une liste de toutes les visualisations d'informations possibles, très utile en tant que référence conceptuelle. Et très bienf aite avec l'apparitiond 'un exemple de chaque visualisation.

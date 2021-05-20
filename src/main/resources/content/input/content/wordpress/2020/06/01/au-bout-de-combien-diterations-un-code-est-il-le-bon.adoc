@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Au bout de combien d'itérations un code est-il le bon ?
+:jbake-tags: agile,mavie,méthode,_mois_juin,_année_2020
+:jbake-date: 2020-06-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/06/01/au-bout-de-combien-diterations-un-code-est-il-le-bon.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/06/01/au-bout-de-combien-diterations-un-code-est-il-le-bon/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Suite aux <a href="https://riduidel.wordpress.com/2020/05/26/cette-histoire-de-flux-devient-vraiment-interessante/">précédents articles</a>, j'ai récemment écrit un nouveau module de mon générateur de <a href="https://github.com/Riduidel/lifestream">lifestream</a> pour traiter les flux OML. Sur le papier, c'était une bonne idée ... Donc je l'ai codé, et ensuite j'ai réfléchi. Et je me suis rendu compte que c'était une mauvaise idée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je ne vais pas vous expliquer pourquoi, parce que c'est de la technique assez basique, et franchement assez peu intéressante. Ce qui est plus intéressant, c'est la question sous-jacente.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En effet, j'ai découvert en participant à Codingame que ma première solution n'était jamais la bonne. Et par ailleurs, si vous regardez les repositories que je laisse traîner sur GitHub que c'est en fait également le cas des autres projets : pour que le code soit bon, il faut que je le réécrive plusieurs fois. En fait, j'ai découvert que le code était généralement bon après ... au moins deux réécritures complètes. D'ailleurs, ça ne me dérange même plus de réécrire mon code après un certain temps. Je me dis en fait plutôt que le moment de la réécriture est le moment où j'ai suffisamment appris ... ce qui n'est pas très rationnel, mais assez proche de ce que je ressens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et en fait, je me suis rendu compte avec un poil de tristesse que c'était aussi le cas du code que j'écrivais professionnellement ... Un poil de tristesse, parce que reprendre le code trois fois, ça n'est pas très économique à court terme. Par contre, je sais que ces réécritures ne sont jamais des réécritures complètes : les morceaux stables (par exemple, les tests et les interfaces publiques) demeurent. De plus, si j'y réfléchis, c'est très proche de ce que permet, et même recommande, la méthode agile : utiliser chaque sprint comme une expérience, et en tirer toutes les conclusions nécessaires. Quitte à ce que l'une de ces conclusions soient "on recommence".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je rapproche ça de la construction de prototypes et de maquettes, méthode utilisée dans bien des domaines de l'ingénierie, avec toutefois la différence importante que le prototype devient parfois la version définitive (ce qui n'est le cas que pour le <a href="https://riduidel.wordpress.com/2020/02/26/quil-est-difficile-detre-futuriste/">Concorde</a>, en fait).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Seulement, je m'interroge : est-ce que je suis leu seul à avoir cette pratique de l'informatique ? Est-ce même une bonne pratique ? Je n'ai pas vraiment de réponse à cette question, mais je la trouve franchement intéressante, parce que je me demande vraiment comment un logiciel se construit "correctement" - si tant est qu'une réalité existe derrière ce terme.</p>
+<!-- /wp:paragraph -->
+++++

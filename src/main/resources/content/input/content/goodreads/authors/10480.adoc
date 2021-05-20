@@ -1,0 +1,23 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Pierre Pugi
+:jbake-tags: author
+:jbake-date: 2003-02-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/10480.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/10480
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070336913.html[Zodiac]
+* link:../books/9782070362639.html[Péninsule]
+* link:../books/9782070426225.html[La Mécanique du Centaure]
+* link:../books/9782070447947.html[Roi du matin, Reine du jour]
+* link:../books/9782207111291.html[La Maison des derviches]
+* link:../books/9782207255704.html[L'Âge des Lumières]
+* link:../books/9782253115168.html[La Mémoire de la lumière]
+* link:../books/9782277237617.html[Le Grand Livre]
+* link:../books/9782290097991.html[Les Veilleurs]
+* link:../books/9782290324912.html[Sans parler du chien]
+* link:../books/9782290356906.html[Passage]

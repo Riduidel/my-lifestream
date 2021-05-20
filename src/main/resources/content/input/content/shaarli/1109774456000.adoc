@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parabolic Templat
+:jbake-tags: web,wifi,antenna,directionnal,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109774456000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freeantennas.com%2Fprojects%2Ftemplate%2F&searchtags=web+wifi+antenna+directionnal+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.freeantennas.com/projects/template/[Parabolic Templat]
+
+Parabolic Templat

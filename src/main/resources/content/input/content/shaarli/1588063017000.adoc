@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Sociotechnical Path to High-Performing Teams - Speaker Deck
+:jbake-tags: présentation,observabilité,management,équipe,dynamic,_mois_avr.,_année_2020
+:jbake-date: 2020-04-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1588063017000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fcharity%2Fthe-sociotechnical-path-to-high-performing-teams%3Fslide%3D50&searchtags=pr%C3%A9sentation+observabilit%C3%A9+management+%C3%A9quipe+dynamic+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://speakerdeck.com/charity/the-sociotechnical-path-to-high-performing-teams?slide=50[The Sociotechnical Path to High-Performing Teams - Speaker Deck]
+
+Très chouette présentation, qui parle un peu de code, pas mal d'observabilité, et énormément de l'impact humain que ça peut avoir.

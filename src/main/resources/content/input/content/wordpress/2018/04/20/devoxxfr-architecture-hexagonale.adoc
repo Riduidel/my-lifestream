@@ -1,0 +1,170 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Architecture hexagonale
+:jbake-tags: architecture,devoxx,java,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-architecture-hexagonale.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-architecture-hexagonale/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Pourquoi ? Parce qu'à priori, les présentations sur DDD et l’architecture hexagonale ne parlent pas de framework, alors que les développeurs utilisent pas mal les frameworks.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-6">
+</p>
+<p>
+Chez Saagie, le code s’exécute sur les bonnes machines, grâce à un container manager. Et celui-ci se trompe parfois. Ce container manager est développé avec un ensemble de couches classique. Et le code qui permettait au container manager de choisir où exécuter du code était éclaté dans plusieurs ensembles de service/DAO. Youen a donc refactoré ça dans une méthode à trois ifs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Comment éviter ça ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Théoriquement, l’architecture hexagonale permet d'éviter ça.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-15">
+<br/>
+<h2 id="truedomaine">Domaine</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-16">
+</p>
+<p>
+Dans le domaine, il ne faut pas de framework. Des librairies simples peuvent en revanche être utiles.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-18">
+</p>
+<p>
+Le domaine ne doit jamais contenir de code d’infrastructure.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-20">
+<br/>
+<h2 id="trueports">Ports</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Les ports sont les moyens d’appeler le domaine. Les ports primaires sont des méthodes du domaine appelables depuis l’extérieur. Et les ports secondaires sont des interfaces définies dans le domaine lui permettant d’appeler des éléments extérieurs.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-25">
+<br/>
+<h2 id="trueadapteurs">Adapteurs</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-26">
+</p>
+<p>
+Les adapteurs permettent au monde extérieur d’appeler les ports.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-28">
+<br/>
+<h2 id="truemise_en_oeuvre">Mise en oeuvre</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-29">
+</p>
+<p>
+Ensuite, Youen se lance dans une session de live-refactoring pour mettre en place ce type d’archiecture avec une application Spring Boot. Je vous ferai le diagramme de classe plus tard, mais globalement, en deux astuces, il arrive à écrire une application dont les règles métier sont totalement indépendantes des outils techniques utilisés pour communiquer avec le monde extérieur.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-32">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+Avec ça, Spring est dans son cas nominal, tout comme le domaine. L’architecture hexagonale est donc parfaitement respectée, en utilisant les techniques classiques du monde Java. Le domaine est donc propre, les tests faciles et le code s’adapte beaucoup plus facilement aux échelles. En revanche, les DTO sont un peu lourds, les développeurs doivent être formés et il n’y a pas forcément de starters pour les frameworks.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-38">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+En fait, l’architecture hexagonale, ça n’a rien de nouveau ni rien de vraiment sexy. Ca consiste surtout à séparer le code réseau du code métier et du code de stockage "d’une façon ou d’une autre". Et si la méthode choisie par Youen est présentée comme astucieuse, elle est en fait uniquement un bon découpage en classes. Autrement dit ça n’est pas bien compliqué, c’est facilement adaptable et ça me parle puissamment.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

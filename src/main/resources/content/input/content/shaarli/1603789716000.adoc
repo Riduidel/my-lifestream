@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Prevent layout shifts with CSS grid stacks - Hubert Sablonnière
+:jbake-tags: css,layout,méthode,affichage,gui,_mois_oct.,_année_2020
+:jbake-date: 2020-10-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1603789716000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.hsablonniere.com%2Fprevent-layout-shifts-with-css-grid-stacks--qcj5jo%2F&searchtags=css+layout+m%C3%A9thode+affichage+gui+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/[Prevent layout shifts with CSS grid stacks - Hubert Sablonnière]
+
+Ces histoires de CSS me rappellent avec plaisir mes années de développement Swing, où on avait les mêmes problèmes, résolus avec les mêmes méthodes théoriques (qui se basent sur la mise en page papier, figurez-vous)

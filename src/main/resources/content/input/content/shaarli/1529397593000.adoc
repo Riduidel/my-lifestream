@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Graphical depiction of ownership and borrowing in Rust - Rufflewind's Scratchpad
+:jbake-tags: programming,rust,borrowing,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529397593000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frufflewind.com%2F2017-02-15%2Frust-move-copy-borrow&searchtags=programming+rust+borrowing+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://rufflewind.com/2017-02-15/rust-move-copy-borrow[Graphical depiction of ownership and borrowing in Rust - Rufflewind's Scratchpad]
+
+Une super illustration de la mutabilité des pointeurs en Rust. Je vais l'imprimer (ou en faire un plugin VSCode) parce que c'est vraiment utile.

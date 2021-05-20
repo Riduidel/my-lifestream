@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shields.io: Quality metadata badges for open source projects
+:jbake-tags: documentation,github,web,_mois_juin,_année_2020
+:jbake-date: 2020-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1592680795000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fshields.io%2F&searchtags=documentation+github+web+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://shields.io/[Shields.io: Quality metadata badges for open source projects]
+
+Faut que je mette cette url sous la main, parce que je viens de passer 1/4 d'heure à chercher, et j'ai pas très envie de recommencer (surtout que je vais en mettre un peu partout).

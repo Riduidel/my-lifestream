@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: New pi-top laptop launched: hands on with the new pi-top computer - The MagPi MagazineThe MagPi Magazine
+:jbake-tags: ordinateur,portable,raspberrypi,robot,éducation,_mois_oct.,_année_2017
+:jbake-date: 2017-10-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1507897523000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.raspberrypi.org%2Fmagpi%2Fnew-pi-top-laptop%2F&searchtags=ordinateur+portable+raspberrypi+robot+%C3%A9ducation+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.raspberrypi.org/magpi/new-pi-top-laptop/[New pi-top laptop launched: hands on with the new pi-top computer - The MagPi MagazineThe MagPi Magazine]
+
+C'est génial : un ordinateur portable basé sur le Raspberry 3, et avec un rail magnétique pour y accrocher les expériences d'électronique !

@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tom Raney
+:jbake-tags: author
+:jbake-date: 2010-06-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7164.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/7164
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785108689.html[Ultimate X-Men, Vol. 2: Return to Weapon X]
+* link:../books/9782809400007.html[Ultimate X-Men: L'homme de demain (Ultimate X-Men, #1)]
+* link:../books/9782809422276.html[Ultimate X-Men, tome 6: Nord magnétique]
+* link:../books/9782809429046.html[Ultimate X-Men, tome 7 : le diable au corps]

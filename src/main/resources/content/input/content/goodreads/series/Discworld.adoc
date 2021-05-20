@@ -1,0 +1,52 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld
+:jbake-tags: serie
+:jbake-date: 2001-10-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld.adoc
+:jbake-source: https://www.goodreads.com/series/40650
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266071567.html[La Huitième Couleur (Les annales du Disque-Monde, #1)]
+* link:../books/9782266071550.html[Le Huitième Sortilège (Les Annales du Disque-monde, #2)]
+* link:../books/9782266080699.html[Les annales du Disque-Monde, tome 03 : La Huitième Fille]
+* link:../books/9782266080682.html[Mortimer (Les Annales du Disque-Monde, #4)]
+* link:../books/9782266106993.html[Sourcellerie (Les Annales du Disque-Monde, #5)]
+* link:../books/9782266091343.html[Trois Sœurcières (Les Annales du Disque-Monde, #6)]
+* link:../books/9782266099714.html[Pyramides (Les annales du Disque-Monde #7)]
+* link:../books/9782266099707.html[Au guet ! (Les Annales du Disque-monde, #8)]
+* link:../books/9782266111324.html[Eric (Les Annales du Disque-monde, #9)]
+* link:../books/9782266111966.html[Les zinzins d'Olive Oued (Les Annales du Disque-Monde, #10)]
+* link:../books/9782266121354.html[Le Faucheur (Les Annales du Disque-Monde, #11)]
+* link:../books/9782266121361.html[Mécontes de fées (Les Annales du Disque-Monde, #12)]
+* link:../books/9782266130486.html[Les petits dieux (Les Annales du Disque-monde, #13)]
+* link:../books/9782266131797.html[Nobliaux et sorcières (Les Annales du Disque-monde, #14)]
+* link:../books/9782266136983.html[Le Guet des orfèvres (Disque-Monde, #15)]
+* link:../books/9782266136990.html[Les annales du Disque-Monde, tome 16 : Accrocs du roc]
+* link:../books/9782266148030.html[Les Tribulations d'un mage en Aurient]
+* link:../books/9782266148047.html[Masquarade (Les annales du Disque-Monde, #18)]
+* link:../books/9782266159548.html[Pieds d'argile]
+* link:../books/9782266162142.html[Le Père Porcher (Les Annales du Disque-Monde, #20)]
+* link:../books/9782266169363.html[Va-t-en-guerre (Les annales du Disque-Monde, tome 21)]
+* link:../books/9782266174152.html[Le dernier continent]
+* link:../books/9782266194044.html[Carpe Jugulum]
+* link:../books/9782266194051.html[Le Cinquième Eléphant (Les Annales du Disque-Monde, #25)]
+* link:../books/9782266202909.html[La Verité]
+* link:../books/9782266203494.html[Procrastination (Les annales du Disque-Monde, tome 26)]
+* link:../books/9782841722518.html[Le dernier Héros]
+* link:../books/9782266182027.html[Le fabuleux Maurice et ses rongeurs savants]
+* link:../books/9782266212700.html[Ronde de Nuit (Les Annales du Disque-Monde #28)]
+* link:../books/9782266212656.html[Les ch'tits hommes libres]
+* link:../books/9782266225779.html[Le régiment monstrueux (Les Annales du Disque-monde, #29)]
+* link:../books/9782266233019.html[Un chapeau de ciel (Les Annales du Disque-monde, #32)]
+* link:../books/9782266236744.html[Timbré]
+* link:../books/9782266246903.html[Jeu de nains]
+* link:../books/9782266249799.html[L'Hiverrier]
+* link:../books/9782266266055.html[Monnayé (Discworld, #36; Moist Von Lipwig, #2)]
+* link:../books/9782266273442.html[Allez les mages !]
+* link:../books/9782266296359.html[Je m'habillerai de nuit]
+* link:../books/9782266277143.html[Coup de tabac]
+* link:../books/9782266277150.html[Déraillé (Discworld, #40, Moist von Lipwig #3)]
+* link:../books/9782841726530.html[Le Monde merveilleux du caca]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nbdev: A literate programming environment that democratizes software engineering best practices - The GitHub Blog
+:jbake-tags: python,programming,web,_mois_nov.,_année_2020
+:jbake-date: 2020-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1605981814000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.blog%2F2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices%2F&searchtags=python+programming+web+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/[Nbdev: A literate programming environment that democratizes software engineering best practices - The GitHub Blog]
+
+L'idée de Jupyter Notebooks est bien, mais l'implémentation m'a toujours parue pénible. Et là, nbdev est peut-être une belle solution pour que ça marche "facilement".

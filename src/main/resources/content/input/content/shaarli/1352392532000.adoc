@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CheckIO
+:jbake-tags: tutorial,python,jeu,programming,_mois_nov.,_année_2012
+:jbake-date: 2012-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1352392532000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.checkio.org%2Fwelcome%2F&searchtags=tutorial+python+jeu+programming+_mois_nov.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.checkio.org/welcome/[CheckIO]
+
+Mais ce serait pas un super jeu pour apprendre cette horreur de Python ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 10kloc.org - 10000 lines of code
+:jbake-tags: fun,programming,hack,bizarre,_mois_juil.,_année_2006
+:jbake-date: 2006-07-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1153728120000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.10kloc.org.%2F&searchtags=fun+programming+hack+bizarre+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.10kloc.org./[10kloc.org - 10000 lines of code]
+
+Le site des programmes de moins de 10k lignes de code.

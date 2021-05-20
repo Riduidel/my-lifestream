@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: flot - Google Code
+:jbake-tags: développement,dessin,library,programming,visualisation,open-source,javascript,webgen,_mois_avr.,_année_2008
+:jbake-date: 2008-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1208352460000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fflot%2F&searchtags=d%C3%A9veloppement+dessin+library+programming+visualisation+open-source+javascript+webgen+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://code.google.com/p/flot/[flot - Google Code]
+
+Une bibliothèque pour tracer de très jolies courbes à grands coups de javascript rageur. Pendant longtemps, je voulais utiliser simile timeline, mais là, je crois que ça va plus facilement être utilisable.

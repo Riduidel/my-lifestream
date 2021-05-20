@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ekistor
+:jbake-tags: web,visualisation,online,_mois_déc.,_année_2013
+:jbake-date: 2013-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1386316368000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fekisto.sq.ro%2F&searchtags=web+visualisation+online+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://ekisto.sq.ro/[Ekistor]
+
+Eh mais mon compte StackExchange est visible ! Et de loin même. Ah, en fait, maintenant, je comprend mieux : il y a une liste déroulante en haut à gauche sélectionnant par défaut StackOverflow ... Par contre avec GitHub je suis moins visible. Via http://flowingdata.com/2013/12/05/online-habitats/

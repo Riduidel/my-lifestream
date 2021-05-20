@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bredemeyer Consulting Training for Software Architects and Enterprise Architects
+:jbake-tags: architecture,formation,décision,design,_mois_févr.,_année_2021
+:jbake-date: 2021-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1612536943000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ruthmalan.com%2FBredemeyer%2FTechnical_Leadership_Masterclass_Overview.htm&searchtags=architecture+formation+d%C3%A9cision+design+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.ruthmalan.com/Bredemeyer/Technical_Leadership_Masterclass_Overview.htm[Bredemeyer Consulting Training for Software Architects and Enterprise Architects]
+
+Une initiation très complète à ce qu'implique \*réellement\* le rôle d'architecte. Les slides m'ont fait réfléchir à mes pratiques.

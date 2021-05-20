@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevArch - Development Architecture
+:jbake-tags: architecture,développeur,pratique,entreprise,organisation,_mois_févr.,_année_2020
+:jbake-date: 2020-02-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1582919348000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdevarch.works%2F&searchtags=architecture+d%C3%A9veloppeur+pratique+entreprise+organisation+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://devarch.works/[DevArch - Development Architecture]
+
+Bon, j'allais dire "oh merde, je suis le maverick". MAIS la transition du rôle vers le rôle d'architecture porté par l'équipe fait partie que je promeus fortement, donc ça va un peu mieux 😊

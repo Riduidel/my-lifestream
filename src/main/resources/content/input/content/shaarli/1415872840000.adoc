@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: naholyr/github-todos
+:jbake-tags: github,code,qualité,programming,_mois_nov.,_année_2014
+:jbake-date: 2014-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1415872840000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fnaholyr%2Fgithub-todos&searchtags=github+code+qualit%C3%A9+programming+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://github.com/naholyr/github-todos[naholyr/github-todos]
+
+Très chouette idée. Je ne sais pas si ça marcherait en dehors de github (sans doute que non, puisque ça utilise GitHub issues), mais c'est déja très bien.

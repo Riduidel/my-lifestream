@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DSM-G600, DNS-323 and TS-I300 Hack Forum / 1.05 UPNP Server w/ WMP 11 in Vista
+:jbake-tags: dns-323,faq,tutorial,upnp,_mois_févr.,_année_2009
+:jbake-date: 2009-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1234862108000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforum.dsmg600.info%2Fp23131-2008-11-20-02%3A31%3A02.html&searchtags=dns-323+faq+tutorial+upnp+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://forum.dsmg600.info/p23131-2008-11-20-02:31:02.html[DSM-G600, DNS-323 and TS-I300 Hack Forum / 1.05 UPNP Server w/ WMP 11 in Vista]
+
+Tiens, il semblerait donc que je ne sois pas le seul à avoir de temps en temps des problèmes avec mon DNS323. En l'occurence, un facheux problème de Windows infoutu de voir ce qui se passe du côté de l'UPNP du serveur...

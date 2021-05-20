@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Fionavar Tapestry
+:jbake-tags: serie
+:jbake-date: 2002-03-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Fionavar_Tapestry.adoc
+:jbake-source: https://www.goodreads.com/series/49379
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290315002.html[L'Arbre de l'été (La Tapisserie de Fionavar #1)]
+* link:../books/9782290315019.html[Le Feu vagabond (La Tapisserie de Fionavar #2)]
+* link:../books/9782290315026.html[La Voie obscure (La Tapisserie de Fionavar #3)]

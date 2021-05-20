@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vlad Mihalcea sur Twitter : "There is no software bug that cannot be prevented by writing more tests." / Twitter
+:jbake-tags: citation,programming,tdd,test,qualité,bug,_mois_sept.,_année_2020
+:jbake-date: 2020-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1600774374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvlad_mihalcea%2Fstatus%2F1307897282218598400&searchtags=citation+programming+tdd+test+qualit%C3%A9+bug+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/vlad_mihalcea/status/1307897282218598400[Vlad Mihalcea sur Twitter : "There is no software bug that cannot be prevented by writing more tests." / Twitter]
+
+Une affirmation discutable par son absolutisme ... Mais néanmoins intéressante.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Installation et configuration - Backtrack-fr
+:jbake-tags: wifi,backtrack,sécurité,tutorial,linux,_mois_janv.,_année_2011
+:jbake-date: 2011-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1295861548000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.backtrack-fr.net%2Findex.php%2FInstallation_et_configuration&searchtags=wifi+backtrack+s%C3%A9curit%C3%A9+tutorial+linux+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://wiki.backtrack-fr.net/index.php/Installation_et_configuration[Installation et configuration - Backtrack-fr]
+
+De al doc en français sur Backtrack ... Ca devrait éventuellement me permettre d'installer l'engin sur un des portables ... à fins de test.

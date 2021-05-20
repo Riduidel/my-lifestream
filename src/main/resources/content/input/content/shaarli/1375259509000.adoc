@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Deux trois idées pour shaarli
+:jbake-tags: shaarli,idée,rss,@todo,_mois_juil.,_année_2013
+:jbake-date: 2013-07-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1375259509000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3FGKKwjg&searchtags=shaarli+id%C3%A9e+rss+%40todo+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?GKKwjg[Deux trois idées pour shaarli]
+
+J'ai déja dit hier que ce serait une bonne idée d'utiliser shaarli comme référence pour les fonds d'écran que je trouve sur le web (puisque John's Background swhitcher permet facilement de récupérer des images depuis un flux RSS). je me rends compte que je pourrais également réaciver mon vieux projet !RndSig pour utiliser un flux RSS de citations, qui me permettrait de lire les citations depuis mon shaarli. Bon, malheureusement, je crois bien avoir perdu les sources de ce chouette petit projet Java/Swing qui utilisait une super librairie pour avoir des raccourcis clavier globaux en java. Dommage. Cela dit ça me permettrait de le porter chez GitHub ...

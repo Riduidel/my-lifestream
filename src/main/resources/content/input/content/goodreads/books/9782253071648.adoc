@@ -1,0 +1,33 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Éternité
+:jbake-tags:  big-dumb-object, far-future, temps,_année_2016,_mois_juil.,_note_2,rayon-imaginaire,read
+:jbake-date: 2016-07-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253071648.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342452286l/2502809._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342452286l/2502809._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2502809
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Au début du XXIe siècle, un astéroïde est entré dans le système solaire et s'est placé en orbite autour de la Terre. Le Caillou, comme l'appellent les terriens, ou le Chardon comme le nomment ses occupants, vient de l'avenir de la Terre. Ou d'un univers parallèle. Et il apporte les témoignages d'une guerre nucléaire impitoyable qui n'a pas encore ravagé la Terre mais que sa présence ne suffira pas à empêcher. Faut-il reconstruire la Terre ? Au bout de la septième des chambres géantes creusées dans le Caillou, s'ouvrait un tunnel, la Voie, qui s'enfonçait vers l'infini. La Voie a été fermée à la fin du précédent roman de Greg Bear, Eon.<br /><br />Qu'y avait-il réellement au bout ? Des dieux, l'éternité, ou bien les Jarts, envahisseurs non-humains, contre lesquels la civilisation du Chardon a soutenu une guerre aussi meurtrière qu'incompréhensible ?<br /><br />Faut-il rouvrir la voie ? Vingt-cinq ans plus tard, les héros d'Eon vont être tentés, ou obligés, d'aller au bout de l'Eternité. Gary Lanier, Olmy, Karen, Ram Kikura, l'ingénieur Korzenowski, créateur de la voie, et quelques autres obtiendront certaines réponses, mais jamais toutes. Assez de réponses surprenantes, inquiétantes, exaltantes ou terrifiantes pour les occuper et passionner le lecteur.<br /><br />L'ensemble formé par « Éon » et par « Éternité » rejoint par sa portée les inventions technologiques et métaphysiques les plus audacieuses d'Arthur C. Clarke, d'A.E. van Vogt ou d'Olaf Stapledon.
+</div>
+++++
+
+
+## Authors
+* link:../authors/16024.html[Greg Bear]
+* link:../authors/2709.html[Guy Abadia]
+
+## Series
+* link:../series/Amzinybe.html[Amžinybė]
+* link:../series/Era.html[Era]
+* link:../series/The_Way.html[The Way]
+
+## Review
+
+++++
+Plutôt que d'être émerveillé par les efforts déployés par l'auteur, j'ai été déçu de mes rendre compte que je n'avais aucun souvenir d'une lecture préalable de cette œuvre. Cette impression à être encore renforcée lorsque j'ai compris qu'il s'agissait plus d'une œuvre sur la fin de vie que sur des merveilles trans-spatiales.  Parce que dans ce roman, il est avant tout question de fins : la fin de la Voie, la fin de vie des différents personnages (tous vieillissants ou mourants), et même la fin de l'univers.<br/>Et même en ayant raisonnablement apprécié Eon, j'avoue que je n'ai vraiment pas accroché.
+++++

@@ -1,0 +1,23 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Freaks' Squeele Univers
+:jbake-tags: serie
+:jbake-date: 2009-08-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Freaks__Squeele_Univers.adoc
+:jbake-source: https://www.goodreads.com/series/252701
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782916739366.html[Etrange Université (Freaks' Squeele, #1)]
+* link:../books/9782916739625.html[Les Chevaliers qui ne font plus "Ni" (Freaks' Squeele, #2)]
+* link:../books/9782359100112.html[Le Tango de la Mort (Freaks' Squeele, #3)]
+* link:../books/9782359101256.html[Succube Pizza (Freaks' Squeele, #4)]
+* link:../books/9782359102628.html[Nanorigines (Freaks' Squeele, #5)]
+* link:../books/9782359104530.html[Clémentine (Freaks' Squeele, #6)]
+* link:../books/9782359105278.html[A-Move & Z-Movie (Freaks' Squeele, #7)]
+* link:../books/9782359107449.html[Masiko (Freaks' Squeele - Masiko)]
+* link:../books/9782359104462.html[Fortunate Sons (Funérailles #1)]
+* link:../books/9782359104783.html[Pain in Black (Funérailles #2)]
+* link:../books/9782359105261.html[Cowboys on horses without wings (Funérailles #3)]
+* link:../books/9791033504818.html[Destruction Eve (Funérailles #4)]

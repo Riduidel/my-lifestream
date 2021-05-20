@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: InVisible Ruby On Rails Reference 1.1.2
+:jbake-tags: documentation,programming,rails,reference,_mois_nov.,_année_2006
+:jbake-date: 2006-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1163833233000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.invisible.ch%2Ffiles%2Frails-reference-1.1.html&searchtags=documentation+programming+rails+reference+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://blog.invisible.ch/files/rails-reference-1.1.html[InVisible Ruby On Rails Reference 1.1.2]
+
+Une page de référence sur Rails, avec du code source, des schémas, ...

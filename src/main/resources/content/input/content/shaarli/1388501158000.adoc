@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BitTorrent Sync Beta
+:jbake-tags: bittorrent,software,synchronisation,server,windows,dns-323,_mois_déc.,_année_2013
+:jbake-date: 2013-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1388501158000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bittorrent.com%2Fintl%2Ffr%2Fsync&searchtags=bittorrent+software+synchronisation+server+windows+dns-323+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.bittorrent.com/intl/fr/sync[BitTorrent Sync Beta]
+
+Eh mais pourquoi, POURQUOI est-ce que je ne connaissais pas ça ? Si il y a un client pour NAS ARM (genre le DNS-323) ce sera l'arme ultime pour synchroniser mes données sans serveur ... Putain mais OUI !!! http://www.bittorrent.com/intl/fr/sync/help/other-platforms Ohlala OHLALA je vais pouvoir me débarasser de Dropbox alors ? \\o/

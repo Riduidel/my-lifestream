@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: algonuts
+:jbake-tags: ia,art,générateur,bande-dessinée,bizarre,_mois_juin,_année_2020
+:jbake-date: 2020-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1592554603000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.shardcore.org%2Falgonuts%2F&searchtags=ia+art+g%C3%A9n%C3%A9rateur+bande-dessin%C3%A9e+bizarre+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.shardcore.org/algonuts/[algonuts]
+
+La vallée malsaine à son meilleur niveau

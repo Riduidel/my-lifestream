@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Terry Pratchett
+:jbake-tags: author
+:jbake-date: 2013-05-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1654.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1235562205p5/1654.jpg
+:jbake-source: https://www.goodreads.com/author/show/1654
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782841722518.html[Le dernier Héros]

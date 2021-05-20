@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Key-based SSH authentication for root - Google Groupes
+:jbake-tags: linux,dns-323,server,_mois_mars,_année_2017
+:jbake-date: 2017-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1490175484000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgroups.google.com%2Fforum%2F%23%21msg%2Falt-f%2FofhMKYmJc8c%2FScsewDl8ICQJ%3Bcontext-place%3Dforum%2Falt-f&searchtags=linux+dns-323+server+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://groups.google.com/forum/#!msg/alt-f/ofhMKYmJc8c/ScsewDl8ICQJ;context-place=forum/alt-f[Key-based SSH authentication for root - Google Groupes]
+
+Comment rendre mon dossier /root persistant (pratique pour la clé SSH). Mais ça n'est peut-être pas nécessaire.

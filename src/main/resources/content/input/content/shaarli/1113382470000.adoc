@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DHTML Lemmings%u2122 by crisp - Menu
+:jbake-tags: web,jeu,dhtml,_mois_avr.,_année_2005
+:jbake-date: 2005-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1113382470000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F193.151.73.87%2Fgames%2Flemmings%2F&searchtags=web+jeu+dhtml+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://193.151.73.87/games/lemmings/[DHTML Lemmings%u2122 by crisp - Menu]
+
+

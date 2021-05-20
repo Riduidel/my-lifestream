@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apple Seed 2 (Appleseed, #2)
+:jbake-tags:  combat, cyberpunk, cyborg, humanité, ia,_année_2012,_mois_juin,_note_3,rayon-bd,read
+:jbake-date: 2012-06-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782723418478.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340897473l/8197986._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1340897473l/8197986._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/8197986
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dunan vient de s 'engager dans les S.W.A.T. Au sein de cette force armée, police destinée à préserver la tranquillité des citoyens d'Olympus, elle retrouve tous ses automatismes d'autrefois : vivacité, précision et efficacité.<br /> Quant à Briareos, il récupère tranquillement de ses blessures dans l'hôpital où il avait été admis en urgence.<br /> Pendant ce temps, les manigances politiques ne cessent de s 'aggraver, et l'ombre d'une guerre civile plane sur Olympus.<br /> Difficile pour Dunan et Briareos de prendre position dans un tel conflit...
+</div>
+++++
+
+
+## Authors
+* link:../authors/4866.html[Masamune Shirow]
+
+## Series
+* link:../series/Appleseed.html[Appleseed]
+
+## Review
+
+++++
+Les ordinateurs doivent-ils guider l'évolution de l'humanité future ? Ca, c'est la question philosophique dans ce tome.<br/>Évidement, à coté, il y a le nécessaire contingent de femmes quasi-nues et de robots de combat géants.<br/>Pas mal, donc, comme toujours en fait.
+++++

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tale of the Eternal Champion
+:jbake-tags: serie
+:jbake-date: 2012-08-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Tale_of_the_Eternal_Champion.adoc
+:jbake-source: https://www.goodreads.com/series/43713
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782207251768.html[Les Danseurs de la fin des temps]
+* link:../books/9782266028370.html[Le cavalier chaos]
+* link:../books/9782266029339.html[Stormbringer]

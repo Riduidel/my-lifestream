@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brilliant Maps sur Twitter : "States in orange each consume less electricity than the amount used globally to mine Bitcoins - https://t.co/0JkKSASVjL https://t.co/A6gZ55PUr9"
+:jbake-tags: blockchain,écologie,_mois_nov.,_année_2017
+:jbake-date: 2017-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1511509087000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FBrilliantMaps%2Fstatus%2F933826746230693890&searchtags=blockchain+%C3%A9cologie+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/BrilliantMaps/status/933826746230693890[Brilliant Maps sur Twitter : "States in orange each consume less electricity than the amount used globally to mine Bitcoins - https://t.co/0JkKSASVjL https://t.co/A6gZ55PUr9"]
+
+La consommation électrique du minage bitcoin commence à devenir un vrai problème (et à mon avis ça va bien arrêter la blockchain)

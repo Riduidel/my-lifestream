@@ -1,0 +1,39 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mozart En Verres Miroirs
+:jbake-tags:  nouvelles, rayon-imaginaire,_année_2004,_mois_janv.,_note_3,cyberpunk,read
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782207504512.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332183390l/3628883._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332183390l/3628883._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3628883
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+With their hard-edged, street-wise prose, they created frighteningly probable futures of high-tech societies and low-life hustlers. Fans and critics call their world cyberpunk. Here is the definitive "cyberpunk" short fiction collection. HC: Arbor House.
+</div>
+++++
+
+
+## Authors
+* link:../authors/34429.html[Bruce Sterling]
+* link:../authors/16024.html[Greg Bear]
+* link:../authors/73418.html[James Patrick Kelly]
+* link:../authors/61958.html[John Shirley]
+* link:../authors/150432.html[Lewis Shiner]
+* link:../authors/7608.html[Marc Laidlaw]
+* link:../authors/27841.html[Pat Cadigan]
+* link:../authors/162927.html[Paul Di Filippo]
+* link:../authors/130704.html[Rudy Rucker]
+* link:../authors/503226.html[Tom Maddox]
+* link:../authors/9226.html[William Gibson]
+
+
+
+## Review
+
+++++
+Il est difficile de parler de quelque chose d’aussi polymorphe que ce mouvement sans en passer par les généralités, mais je vais essayer d’éviter. Tout le monde le sait, le début des années 80 a été la genèse de ce mouvement, revendiquant une sf différente tant par ses thèmes que ses implications. Et si l’ambition technologique demeure, on quitte radicalement le monde des héros de la sf traditionnelle, ainsi que ses thématiques spatiales et extra-terrestres, pour revenir ici aux bas-fonds, aux laissés pour compte, bref à la lie de l’humanité. <br/>Cette anthologie s’inscrit, d’une certaine manière, comme la vision qu’a pu avoir Sterling de ce mouvement. Et sa vision est terriblement variée : quel point commun trouver entre la nouvelle de link:../authors/16024.html[Greg Bear] et celle de Sterling et link:../authors/95146.html[<strike>Gibson</strike> Gess] ? Le lien me paraît assez difficile à faire, même s’il est bien présent, peut-être dans la manière dont la différence est traitée. il n’est ainsi pas une nouvelle de ce recueil où les personnages ne soient subtilement (ou non) différents d’une humanité terriblement actuelle : conso-matrice, décadente et vaguement nihiliste, elle est plus intéressée par les modes que par les grands idéaux, et les personnages de ces nouvelles ne sont que le reflet de ces préoccupations. Il est d’ailleurs étonnant de constater à quel point le cyberpunk, sous ses habits flamboyants et rebelles, est à l’heure actuelle la littérature la plus proche de notre présent, tant dans l’aspect que dans les préoccupations. Bref, un ouvrage à lire pour l’aspect historique de la chose.
+++++

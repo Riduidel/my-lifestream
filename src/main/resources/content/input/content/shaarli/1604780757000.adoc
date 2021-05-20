@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Newtype Pattern in Rust
+:jbake-tags: rust,programming,design,pattern,type,_mois_nov.,_année_2020
+:jbake-date: 2020-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1604780757000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.worthe-it.co.za%2Fblog%2F2020-10-31-newtype-pattern-in-rust.html&searchtags=rust+programming+design+pattern+type+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html[The Newtype Pattern in Rust]
+
+J'adore ce genre d'innovation très Rustesque (oui, je suis sûr que ça existe dans plein de langages à types riches). Ca donne encore un peu plus envie de faire du Rust !

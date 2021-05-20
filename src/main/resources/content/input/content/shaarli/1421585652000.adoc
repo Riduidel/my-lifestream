@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jp2a -- JPEG to ASCII converter
+:jbake-tags: software,freeware,open-source,image,ascii,_mois_janv.,_année_2015
+:jbake-date: 2015-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1421585652000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcsl.name%2Fjp2a%2F&searchtags=software+freeware+open-source+image+ascii+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://csl.name/jp2a/[jp2a -- JPEG to ASCII converter]
+
+Comme la libkk, mais utilisable sur un jpeg avec Windows !

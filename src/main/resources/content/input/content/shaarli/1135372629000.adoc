@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: google free proxy
+:jbake-tags: software,documentation,tutorial,web,proxy,hacking,_mois_déc.,_année_2005
+:jbake-date: 2005-12-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1135372629000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.oreillynet.com%2Fpub%2Fh%2F4807&searchtags=software+documentation+tutorial+web+proxy+hacking+_mois_d%C3%A9c.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.oreillynet.com/pub/h/4807[google free proxy]
+
+A little tutorial found on the italian site www.manuali.net inspired me for this hack. That tutorial suggests to translate a webpage, using Google translator, to access it even if restricted.

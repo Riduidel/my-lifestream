@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Picular
+:jbake-tags: web,search-engine,couleur,_mois_août,_année_2018
+:jbake-date: 2018-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1535364397000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpicular.co%2F&searchtags=web+search-engine+couleur+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://picular.co/[Picular]
+
+Un moteur de recherche de couleur basé sur Google Image. L'intérêt de ce truc est de chercher la couleurs de choses qui n'en ont pas (spaceship, par exemple, ou dependency injection)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laura Bell on Twitter: "Today in technology: My food tracker won't let me compensate for breastfeeding My sleep tracker thinks I'm waking 4 times a night to check facebook Unrelated: Diversity in product development teams"
+:jbake-tags: santé,diversité,informatique,_mois_mai,_année_2019
+:jbake-date: 2019-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1558453267000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flady_nerd%2Fstatus%2F1130194534950793216&searchtags=sant%C3%A9+diversit%C3%A9+informatique+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/lady_nerd/status/1130194534950793216[Laura Bell on Twitter: "Today in technology: My food tracker won't let me compensate for breastfeeding My sleep tracker thinks I'm waking 4 times a night to check facebook Unrelated: Diversity in product development teams"]
+
+Il y a quelque chose de terriblement pathétique dans ce thread : la plupart de ces gens "semblent" en bonne santé. Alors pourquoi s'infliger ces traqueurs ?

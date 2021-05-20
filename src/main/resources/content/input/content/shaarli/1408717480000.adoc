@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FGRibreau/dot-clipboard · GitHub
+:jbake-tags: software,freeware,open-source,javascript,clipboard,_mois_août,_année_2014
+:jbake-date: 2014-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1408717480000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FFGRibreau%2Fdot-clipboard&searchtags=software+freeware+open-source+javascript+clipboard+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://github.com/FGRibreau/dot-clipboard[FGRibreau/dot-clipboard · GitHub]
+
+C'est une très chouette idée, même si la dépendance sur node.js pue du cul (pour parler poliment)

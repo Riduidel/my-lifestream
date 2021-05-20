@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Algorithmique du texte
+:jbake-tags: software,documentation,algorithme,programming,texte,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112188994000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww-igm.univ-mlv.fr%2F%7Emac%2FCHL%2FCHL.html&searchtags=software+documentation+algorithme+programming+texte+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www-igm.univ-mlv.fr/~mac/CHL/CHL.html[Algorithmique du texte]
+
+Il s'agit du premier ouvrage en FranÃ§ais d'algorithmique spÃ©cialisÃ©e sur le traitement du texte. Il suppose une connaissance de base des mÃ©thodes de conception de programmes et d'Ã©valuation de leurs performances. Il peut Ãªtre utilisÃ©

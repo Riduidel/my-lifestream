@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Des peintures de l’aventure spatiale
+:jbake-tags: art,peinture,espace,_mois_sept.,_année_2015
+:jbake-date: 2015-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1441794381000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fdes-peintures-de-laventure-spatiale%2F&searchtags=art+peinture+espace+_mois_sept.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/des-peintures-de-laventure-spatiale/[Des peintures de l’aventure spatiale]
+
+Très poétique

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Map Age Guide
+:jbake-tags: art,carte,algorithme,_mois_juin,_année_2016
+:jbake-date: 2016-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1464864582000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1688%2F&searchtags=art+carte+algorithme+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://xkcd.com/1688/[xkcd: Map Age Guide]
+
+Le génie de ce mec !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rubular: a Ruby regular expression editor
+:jbake-tags: online,programming,reference,regexp,ruby,service,web,tool,_mois_janv.,_année_2008
+:jbake-date: 2008-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1200903922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rubular.com%2F&searchtags=online+programming+reference+regexp+ruby+service+web+tool+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.rubular.com/[Rubular: a Ruby regular expression editor]
+
+Un testeur d'expressions régulières Ruby en ligne. Ca pourrait être très pratique, quand je vais me remettre à jouer avec webgen...

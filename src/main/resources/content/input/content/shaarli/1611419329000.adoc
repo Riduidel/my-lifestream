@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: php - Login virtual keyboard bank - Stack Overflow
+:jbake-tags: ocr,web,banque,accessibility,_mois_janv.,_année_2021
+:jbake-date: 2021-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1611419329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F50618011%2Flogin-virtual-keyboard-bank%2350625715&searchtags=ocr+web+banque+accessibility+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://stackoverflow.com/questions/50618011/login-virtual-keyboard-bank#50625715[php - Login virtual keyboard bank - Stack Overflow]
+
+A suivre : peut-être un plugin Keepass pour cliquer sur les espèces de claviers virtuels ridicules des sites web bancaires ...

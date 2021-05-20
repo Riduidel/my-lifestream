@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Should I Bake? - Home
+:jbake-tags: électrique,écologie,temps,_mois_juin,_année_2020
+:jbake-date: 2020-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1593522155000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fshouldibake.com%2F&searchtags=%C3%A9lectrique+%C3%A9cologie+temps+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://shouldibake.com/[Should I Bake? - Home]
+
+Ce site vous permet de savoir quand vous n'utiliserez que de l'électricité verte pour votre cuisine. Pas forcément que pour votre cuisine d'ailleurs. Si vous connaissez la même chose pour la France, je suis preneur !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: refcards/FR.md at master · ineat/refcards
+:jbake-tags: git,documentation,français,_mois_févr.,_année_2020
+:jbake-date: 2020-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1581438509000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fineat%2Frefcards%2Fblob%2Fmaster%2Fgit%2FFR.md&searchtags=git+documentation+fran%C3%A7ais+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/ineat/refcards/blob/master/git/FR.md[refcards/FR.md at master · ineat/refcards]
+
+Si tu cherches une doc complète sur Git en français, celle-ci est bien complète

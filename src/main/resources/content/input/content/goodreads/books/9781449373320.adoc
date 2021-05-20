@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+:jbake-tags: _année_2020,_mois_janv.,_note_5,rayon-informatique,read
+:jbake-date: 2020-01-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9781449373320.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501626846l/23466395._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501626846l/23466395._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/23466395
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Want to know how the best software engineers and architects structure their applications to make them scalable, reliable, and maintainable in the long term? This book examines the key principles, algorithms, and trade-offs of data systems, using the internals of various popular software packages and frameworks as examples.<br /><br />Tools at your disposal are evolving and demands on applications are increasing, but the principles behind them remain the same. You'll learn how to determine what kind of tool is appropriate for which purpose, and how certain tools can be combined to form the foundation of a good application architecture. You'll learn how to develop an intuition for what your systems are doing, so that you're better able to track down any problems that arise.
+</div>
+++++
+
+
+## Authors
+* link:../authors/7969625.html[Martin Kleppmann]
+
+
+
+## Review
+
+++++
+J'ai mis ... beaucoup de temps ... pour finir ce bouquin.<br/>Mais quelle baffe !<br/>L'auteur fait dans la première partie une montée en compétence sur les concepts de base (B-Tree, append-only-log, encodage), puis dans une seconde partie décrit les concepts utiles à la pensée de systèmes distribués (consensus, transaction, réplication, partition) avant de conclure dans une troisième partie sur les moyens de concevoir un système distribué efficace.<br/>Le livre est remarquablement documenté et sourcé (chaque chapitre se termine par une bibliographie académique abondante). La complexité est abordée de façon croissante et les références qui sont faites aux parties précédentes le sont avec intelligence.<br/>Et surtout, surtout, la dernière partie est incroyablement intelligente. Que ce soit dans le design des systèmes ou dans les réflexions associées (typiquement sur l'ère de surveillance que permettent justement ces systèmes de traitement des données), les réflexions de l'auteur sont profondes et marquantes.<br/>Autrement dit, c'est à mon avis une lecture indispensable pour les architectes des applications un peu scalables.
+++++

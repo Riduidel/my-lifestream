@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: World’s Biggest Data Breaches
+:jbake-tags: sécurité,infographie,_mois_juil.,_année_2013
+:jbake-date: 2013-07-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1375101306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.informationisbeautiful.net%2F2013%2Fworlds-biggest-data-breaches%2F&searchtags=s%C3%A9curit%C3%A9+infographie+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.informationisbeautiful.net/2013/worlds-biggest-data-breaches/[World’s Biggest Data Breaches]
+
+Wow, il y a quand même de sacrées compromissions de données serveur. Encore une bonne raison d'utiliser Keepass et des mots de passe différents pour \*chaque\* site

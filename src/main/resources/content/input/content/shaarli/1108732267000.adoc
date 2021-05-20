@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlanetMath
+:jbake-tags: science,mathématiques,encyclopedia,_mois_févr.,_année_2005
+:jbake-date: 2005-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1108732267000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.planetmath.org%2F&searchtags=science+math%C3%A9matiques+encyclopedia+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.planetmath.org/[PlanetMath]
+
+PlanetMath is a virtual community which aims to help make mathematical knowledge more accessible. PlanetMath's content is created collaboratively: the main feature is the mathematics encyclopedia with entries written and reviewed by members.

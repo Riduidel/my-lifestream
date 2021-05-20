@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Re: stable Linux 2.6.25.10
+:jbake-tags: politique,linux,_mois_nov.,_année_2015
+:jbake-date: 2015-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1447610637000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farticle.gmane.org%2Fgmane.linux.kernel%2F706950&searchtags=politique+linux+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://article.gmane.org/gmane.linux.kernel/706950[Re: stable Linux 2.6.25.10]
+
+Définitivement, Linus T. a vraiment une communication de merde. Ca n'est pas parce que la méthode de traitement des bugs de sécurité n'est pas terrible qu'il faut les traiter de singes masturbateurs.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I can make this work...: My Subconscious is a Better Developer Than I Am
+:jbake-tags: programming,psychologie,nuit,_mois_nov.,_année_2016
+:jbake-date: 2016-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1479457011000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.johnnyreilly.com%2F2016%2F11%2Fmy-subconscious-is-better-developer.html&searchtags=programming+psychologie+nuit+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://blog.johnnyreilly.com/2016/11/my-subconscious-is-better-developer.html[I can make this work...: My Subconscious is a Better Developer Than I Am]
+
+J'ai même tendance à penser que ceux qui sont meilleurs que leur subconscient ne sont pas vraiment bons

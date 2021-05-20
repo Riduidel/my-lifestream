@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: osmand [sebsauvage]
+:jbake-tags: android,software,open-source,gps,carte,navigation,_mois_août,_année_2014
+:jbake-date: 2014-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1408968730000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fwiki%2Fdoku.php%3Fid%3Dosmand&searchtags=android+software+open-source+gps+carte+navigation+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://sebsauvage.net/wiki/doku.php?id=osmand[osmand [sebsauvage]]
+
+L'application de GPS hors-ligne indispensable quand on a une grosse carte microSD et un petit forfait free

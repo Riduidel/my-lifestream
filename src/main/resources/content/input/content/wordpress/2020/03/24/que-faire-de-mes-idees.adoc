@@ -1,0 +1,220 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Que faire de mes idées ?
+:jbake-tags: idée,réflexion,_mois_mars,_année_2020
+:jbake-date: 2020-03-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/03/24/que-faire-de-mes-idees.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/03/24/que-faire-de-mes-idees/
+:jbake-style: wordpress
+
+++++
+<!-- wp:image {"align":"left","width":259,"height":345,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://www.bedetheque.com/media/Couvertures/Couv_106074.jpg" alt="" width="259" height="345" /><figcaption>Ouais, parfois c'est pas facile</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>J'ai un problème.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Un problème curieux, en fait.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai ... des tonnes d'idées. Vous voyez les inventeurs à la noix, comme <a href="https://fr.wikipedia.org/wiki/L%C3%A9onard_(bande_dessin%C3%A9e)">Léonard</a>, dans la bd, avec ses idées ridicules. Eh bien il s'avère que de temps en temps, j'ai des idées dont je n'arrive pas à savoir si elles sont ridicules ou pas. Et franchement, c'est pénible, parce que peut-être, peut-être que dans le tas, il y en a deux ou trois qui sont correctes. C'est d'ailleurs ce que me disait un de mes chefs dans une boîte précédente. Et autant par le passé je trouvais l'énergie (ou l'inconscience) d'essayer de les faire avancer, autant j'essaye maintenant de ne pas investir du temps dans une idée qui n'est pas si bonne. Et du coup, je me pose une question un peu méta (et dieu sait que je n'aime pas ça).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quel peut être un bon processus d'évaluation des idées ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En posant la question, j'ai reçu cette réponse</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/lepinekong\/status\/1240739863613321220","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/lepinekong" class="screenName"><img src="http://pbs.twimg.com/profile_images/1146824763240828929/XSYccWkq_mini.png" alt="profile of I'm building #tools for #Training and #Learning #Organizations willing to truly achieve #Agility. #Agile Coach/PO/BA Knew #Deming friend. ExFounder in 1995-2000"/>lepinekong</a>
+		<span class="name">lepinekong 🧢 #andrewyang 🧘‍♀️#realhumanhere</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/lepinekong/status/1 240 739 863 613 321 220" class="date">19 mars 2020 à 21:40:09</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel Je sais pas ce que tu veux dire par chef si c'est pour dire qu'il faut juste 4 neurones une par case ou si tu veux dire autre chose😂 https://t.co/x3PcaTqqrU</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/ETf-DlTWsA8GMS5.jpg" alt="1 240 739 559 870 214 159"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Utiliser la <a href="https://www.penserchanger.com/la-matrice-deisenhower-loutil-essentiel-pour-etre-productif">matrice d'Eisenhower</a> ? En fait, je connais déja cette méthode, mais je n'arrive pas à l'appliquer à des projets personnels qui sont par essence ni réellement urgents (sinon je le ferai tout de suite), ni si importants que ça (sinon, évidement, ça se verrait). Alors comment faire avancer des projets qui ne sont ni urgents, ni importants ? Eh bien je n'en sais toujours rien. Même si le lien précédent indique bien que je devrais les abandonner, je n'en ai pas vraiment envie ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Oh, mais peut-être vous demandez-vous de quelles idées je parle ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Transformer mon agenda en un journal d'activités passées</li><li>Implémenter ok moogle</li><li>Ecrire un logiciel de gestion de métadonnées images &#38; son (c'est peut-être une excuse pour faire du JavaFX ou du Rust + WinUI)</li><li>Redéployer mes scripts d'export Wordpress/Shaarli/Goodreads dans GitHub Actions</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Bref, plus des idées de l'ordre du hobby qu'autre chose. Honnêtement, je ne sais pas trop qu'en faire ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais je pense que je vais trouver une solution prochainement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Mise à jour</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Curieusement, il y a des gens qui choisissent de me répondre sur Twitter. Et comme évidement le monde des plateformes est un monde fermé, je ne vois pas leurs messages ici. Je vais donc recopier ceux qui m'intéressent, afin d'y réfléchir ... plus tard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/sderosiaux\/status\/1242542339484258304","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/sderosiaux" class="screenName"><img src="http://pbs.twimg.com/profile_images/1172171021224480769/i1wcnmob_mini.jpg" alt="profile of CTO & co-founder https://t.co/fFcXH5Q3aT ➡️ Hiring ⬅️  Helping companies operate their data using Apache Kafka | Scala <3"/>sderosiaux</a>
+		<span class="name">Stéphane Derosiaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/sderosiaux/status/1 242 542 339 484 258 304" class="date">24 mars 2020 à 21:02:33</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel Par exactement pour évaluer un potentiel de réa, mais pour prioriser les idées déjà, tu peux utiliser une "matrice de décision" https://t.co/U6FwVUi0lf</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/sderosiaux\/status\/1242543055720374272","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/sderosiaux" class="screenName"><img src="http://pbs.twimg.com/profile_images/1172171021224480769/i1wcnmob_mini.jpg" alt="profile of CTO & co-founder https://t.co/fFcXH5Q3aT ➡️ Hiring ⬅️  Helping companies operate their data using Apache Kafka | Scala <3"/>sderosiaux</a>
+		<span class="name">Stéphane Derosiaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/sderosiaux/status/1 242 543 055 720 374 272" class="date">24 mars 2020 à 21:05:24</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel Il faut aussi savoir valider une idée. Je sais plus d'où j'ai ça mais j'aime beaucoup. https://t.co/cNInitsK67</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/ET5mQEkXYAMw4oH.jpg" alt="1 242 542 973 491 044 355"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/MrGuiMan\/status\/1242715640928092163","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/MrGuiMan" class="screenName"><img src="http://pbs.twimg.com/profile_images/1079480744936960001/DN6SgTEJ_mini.jpg" alt="profile of Developer, budding Artist and most importantly Lifelong learner."/>MrGuiMan</a>
+		<span class="name">Guillaume M.</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/MrGuiMan/status/1 242 715 640 928 092 163" class="date">25 mars 2020 à 08:31:11</a>
+
+	<span class="content">
+	
+	<span class="text">@sderosiaux @riduidel ca s’appelle un Product Design Sprint 😘</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/MrGuiMan\/status\/1242716115740098560","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/MrGuiMan" class="screenName"><img src="http://pbs.twimg.com/profile_images/1079480744936960001/DN6SgTEJ_mini.jpg" alt="profile of Developer, budding Artist and most importantly Lifelong learner."/>MrGuiMan</a>
+		<span class="name">Guillaume M.</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/MrGuiMan/status/1 242 716 115 740 098 560" class="date">25 mars 2020 à 08:33:05</a>
+
+	<span class="content">
+	
+	<span class="text">@sderosiaux @riduidel et un poil plus de lecture sur la notion du double diamant https://t.co/5sL8Nt9Fp5</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+++++

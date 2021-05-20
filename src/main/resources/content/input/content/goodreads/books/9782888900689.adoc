@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo #09
+:jbake-tags:  amour, anthropomorphisme, combat, honeur,_année_2012,_mois_déc.,_note_3,japon,read
+:jbake-date: 2012-12-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888900689.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354370137l/1940347._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354370137l/1940347._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1940347
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+L'épée du Samouraï est plus que son arme: c’est son âme. Et chaque samouraï doit se montrer digne de son daisho, la paire de sabres assortis. Depuis ses débuts, Miyamoto Usagi a prouvé qu’il méritait amplement ses lames, en combattant l’injustice et en cultivant ses talents spirituels et martiaux.<br /> Les aventures de ce volume l’amènent à étudier auprès d’un moine zen la pratique du shakuhachi, une ancienne flûte, et partager avec lui son souhait ultime, entendre la musique du paradis. Mais, plus tard, il se découvre aussi un nouveau but: rendu furieux par le vol de ses épées, il se lance sur les traces du chef d’une bande de brigands sans scrupules, afin de retrouver son daisho.<br /><br />Depuis sa première publication en 1984, le succès du lapin aux grandes oreilles n’a cessé de croître. La série a rapporté à son auteur de nombreux prix, dont le fameux Eisner Award et est traduite dans plus de 10 langues. En Français, la série totalise plus de 100.000 ventes !
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Pas trop mal ce récit.<br/>L'histoire avec Fuji est vraiment sympa (le côté humiliant de la perte des épées est très intéressant), et celle avec la princesse est sympa aussi (surtout par son lien avec les étoiles), mais le tout me semble un peu anecdotique.
+++++

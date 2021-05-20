@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: http://svn.python.org/projects/python/tags/r252/Doc/tools/listmodules.py
+:jbake-tags: python,programming,classpath,help,library,_mois_sept.,_année_2015
+:jbake-date: 2015-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1443093907000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsvn.python.org%2Fprojects%2Fpython%2Ftags%2Fr252%2FDoc%2Ftools%2Flistmodules.py&searchtags=python+programming+classpath+help+library+_mois_sept.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://svn.python.org/projects/python/tags/r252/Doc/tools/listmodules.py[http://svn.python.org/projects/python/tags/r252/Doc/tools/listmodules.py]
+
+Un chouette script pour aider le pythoniste débutant (comme moi) pour voir quels packages sont \*vraiment\* utilisables dans le script actuel

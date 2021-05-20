@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Switcher for Windows Vista
+:jbake-tags: software,freeware,windows,_mois_nov.,_année_2009
+:jbake-date: 2009-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1258100256000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Finsentient.net%2F&searchtags=software+freeware+windows+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://insentient.net/[Switcher for Windows Vista]
+
+L'un des trucs les plus susceptibles de me manquer du mac, c'est Expose. Heureusement, il existe tout un paquet de clones, plus ou moins bien fichus, pour le remplacer.

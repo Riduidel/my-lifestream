@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MT4j - Multitouch For Java
+:jbake-tags: programming,java,library,free,open-source,for:mischler,_mois_nov.,_année_2009
+:jbake-date: 2009-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1258453467000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mt4j.org%2Fmediawiki%2Findex.php%2FMain_Page&searchtags=programming+java+library+free+open-source+for%3Amischler+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.mt4j.org/mediawiki/index.php/Main_Page[MT4j - Multitouch For Java]
+
+Avec ça, je vais pouvoir tenter de faire des trucs marrants sur mon futur PC. En tout cas, plein de choses ont 'lair possibles.

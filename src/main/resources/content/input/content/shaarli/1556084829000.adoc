@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ovh/venom: 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions
+:jbake-tags: go,programming,test,intégration,_mois_avr.,_année_2019
+:jbake-date: 2019-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1556084829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fovh%2Fvenom&searchtags=go+programming+test+int%C3%A9gration+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/ovh/venom[ovh/venom: 🐍 Manage and run your integration tests with efficiency - Venom run executors (script, HTTP Request, web, imap, etc... ) and assertions]
+
+Oh c'est pas mal cet outil de test d'intégration ... en go

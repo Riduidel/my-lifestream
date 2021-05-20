@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Inner city
+:jbake-tags:  fantastique, m-moire, mort,_année_2016,_mois_juin,_note_2,cyberpunk,read
+:jbake-date: 2016-06-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782366297997.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457703354l/29483137._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457703354l/29483137._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/29483137
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+En quelques années, Paris est devenue une ville fantôme. Ses derniers habitants sont plongés en permanence dans les réalités virtuelles, bien protégés par une enceinte qui garde à l’extérieur, en banlieue, les pauvres et les miséreux. Mais leur vie dorée est menacée par un tueur agissant dans la Haute Réalité tandis que de l’autre côté du périf, la révolte gronde.<br />Dans ce climat explosif, Hang traque les scoops les plus sanglants pour mieux les injecter (et les vendre) dans ces mondes virtuels pendant que Kriss enquête pour neutraliser ce serial killer...<br /> <br />Roman cyberpunk clef dans la science fiction française et dans la bibliographie de Jean-Marc Ligny (AquaTM, La Saga d’Oap Täo...), Inner City est une nouvelle preuve de l’engagement de son auteur. Il a été couronné à sa sortie par le Grand Prix de l’Imaginaire.<br /><br />Cover artist: Christopher BALASKAS, Irys BALASKAS
+</div>
+++++
+
+
+## Authors
+* link:../authors/128794.html[Jean-Marc Ligny]
+
+## Series
+* link:../series/Cyberpunk.html[Cyberpunk]
+
+## Review
+
+++++
+Dans ce roman, on suit les destins qui peu à peu se rapprochent de Kris, experte en exfiltration d'inners en perdition, et Hang, réalisateur de vidéos hyper-violentes à destination de groupes médiatiques.<br/>Les inners ?<br/>Oui, parce que dans le monde décrit par l'auteur, tout le monde vit, un peu comme dans Matrix, dans "le réseau" qui s'appelle cette fois-ci Maya. Du coup, une ville comme Paris est désormais quasiment vidée de ses occupants. Et ce côté désert permet de réactiver un conflit très XIXème : celui entre Paris et la zone, la banlieue. Bon, j'imagine que c'est lié à l'histoire personnelle de l'auteur ... mais j'ai tendance à penser que c'est un peu artificiel.<br/>Cela dit, ce défaut de décor n'est en fait pas bien grave, face à ce vide dans le décor qu'est Paris, par exemple, ou encore au manque d'articulation entre l'intrigue parisienne, vive, dynamique, intriguante, et la vie de la grand-mère bretonne, qui est peut-être contemplative, mais surtout inutilement didactique. En effet, la bretonne cherche à nous montrer à quel point ce monde numérique est "inexistant" : ce qui s'y passe n'a pas vraiment de sens, ni de réalité, et ne risque pas d'avoir impact dans "la vraie vie". Bon, on voit bien le parallèle avec le web. Mais je persiste à penser qu'il n'est pas nécessaire de mettre en place un témoin spécialement pour nous faire comprendre ce point : les vies de Kris et de Hang suffisent à nous le faire comprendre.<br/>Au-dela de ce point gênant, il y a quand même une intrigue assez fascinante, à la recherche d'un fantôme du web que <a class="DirectAuthorReference destination_Author" href="../authors/848604.html">Catherine Dufour</a> n'aurait sans doute pas reniée. Une intrigue intéressante, avec des personnages plutôt bien pensés, et des enjeux assez clair, qui est le cœur de ce roman, et qui m'a fait passer un assez bon moment de lecture.<br/>Bon, cela dit, si l'intrigue est sympathique, et la description du monde aussi sombre que peut l'être un roman cyberpunk, Il n'y a qu'assez peu de remises en cause de ma vision du monde, ce qui limite peut-être l'intérêt de l’œuvre.<br/>Ca en fait donc une oeuvre à lire, peut-être, pour les amateurs de science-fiction française ou de cyberpunk.<br/>
+++++

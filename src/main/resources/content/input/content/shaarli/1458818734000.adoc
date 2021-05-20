@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Douat / quoteme | GitLab
+:jbake-tags: web,citation,service,php,_mois_mars,_année_2016
+:jbake-date: 2016-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1458818734000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgit.gorgones.net%2Fdaniel.douat%2Fquoteme&searchtags=web+citation+service+php+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://git.gorgones.net/daniel.douat/quoteme[Daniel Douat / quoteme | GitLab]
+
+Un chouette script de gestion de quotes "as a service". C'est juste dommage qu'il n'y ait pas le config.php dans le repository

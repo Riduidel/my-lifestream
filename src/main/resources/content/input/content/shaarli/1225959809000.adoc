@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hedgewars
+:jbake-tags: linux,windows,software,freeware,open-source,jeu,_mois_nov.,_année_2008
+:jbake-date: 2008-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1225959809000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hedgewars.org%2Fblog%2Fposts.html&searchtags=linux+windows+software+freeware+open-source+jeu+_mois_nov.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.hedgewars.org/blog/posts.html[Hedgewars]
+
+Djizousse ! Ca faisait longtemps que je n'avais pas vu un clone de worms aussi kawai. En fait, pour tout dire, il est même encore plus mignon que l'original, grâce à un look reprenant des éléments dignes de Teeworlds

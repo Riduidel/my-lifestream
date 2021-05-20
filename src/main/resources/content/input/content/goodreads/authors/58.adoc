@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Frank Herbert
+:jbake-tags: author
+:jbake-date: 2000-09-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/58.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1591018335p5/58.jpg
+:jbake-source: https://www.goodreads.com/author/show/58
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253049326.html[L'Étoile et le Fouet]
+* link:../books/9782253111344.html[Destination : Vide]
+* link:../books/9782266026642.html[Dune **]
+* link:../books/9782266026659.html[Dune *]
+* link:../books/9782266027229.html[Les Enfants de Dune]
+* link:../books/9782266027236.html[L'Empereur-Dieu de Dune]
+* link:../books/9782266027250.html[Le Messie de Dune]
+* link:../books/9782266028134.html[Les Hérétiques de Dune]
+* link:../books/9782266035125.html[La Maison des mères]
+* link:../books/9782266036092.html[Champ Mental]
+* link:../books/9782266055567.html[Le Dragon sous la mer]
+* link:../books/9782266094382.html[Le Preneur d'âmes]
+* link:../books/9782266154529.html[Et l'homme créa un dieu: Prélude à Dune]

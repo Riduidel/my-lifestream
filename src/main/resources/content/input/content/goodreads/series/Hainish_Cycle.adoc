@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hainish Cycle
+:jbake-tags: serie
+:jbake-date: 2011-02-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hainish_Cycle.adoc
+:jbake-source: https://www.goodreads.com/series/49359
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782221028827.html[La Main gauche de la nuit]

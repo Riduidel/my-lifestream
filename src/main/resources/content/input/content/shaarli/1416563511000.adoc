@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Crash du MH17 : les preuves sont-elles sur YouTube, Google, Facebook ? - Arrêt sur images
+:jbake-tags: journalisme,data,web,open-source,_mois_nov.,_année_2014
+:jbake-date: 2014-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1416563511000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.arretsurimages.net%2Fchroniques%2F2014-11-20%2FCrash-du-MH17-les-preuves-sont-elles-sur-YouTube-Google-Facebook-id7244&searchtags=journalisme+data+web+open-source+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.arretsurimages.net/chroniques/2014-11-20/Crash-du-MH17-les-preuves-sont-elles-sur-YouTube-Google-Facebook-id7244[Crash du MH17 : les preuves sont-elles sur YouTube, Google, Facebook ? - Arrêt sur images]
+
+Appliquer les méthodes que j'utilise pour repérer les chambres d'hôtes sur une carte auc rash dh MH 17, ça c'est de la conscience. Bravo. En plus, ça montre bien que, contrairement à ce que dit par exemple SebSauvage, retirer les métadonnées des photos ne sert finallement pas à grand chose : on peut dater et localiser une photo rien qu'en utilisant les éléments signifiants de l'arrière-plan.

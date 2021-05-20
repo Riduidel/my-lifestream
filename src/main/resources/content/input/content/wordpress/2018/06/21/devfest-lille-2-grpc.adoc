@@ -1,0 +1,158 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devfest Lille 2 : gRPC
+:jbake-tags: communication,devfest,grpc,protocole,réseau,_mois_juin,_année_2018
+:jbake-date: 2018-06-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/21/devfest-lille-2-grpc.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/21/devfest-lille-2-grpc/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="header">
+<br/>
+<div class="details"><span id="author" class="author">Ca commence avec un petit problème de vidéo (dont Logan me dit avec raison qu'il peut être évité facilement).</span></div>
+<br/>
+</div>
+<br/>
+<div id="content">
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Ca fait belle lurette que les ordinateurs communiquent entre eux à travers des modes non connectés où on envoie des bouteilles à la mer (UDP) ou connectés où le récepteur et l’émetteur se connaissent (TCP).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+gRPC se place au même niveau de protocole qu’HTTP ou SSH.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Je vous passe l’introduction à la communication réseau (avec ouverture de connexion, passage de messages de taille donnée, …​). N’empêche, on a plusieurs fois essayé de simplifier les communications
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist">
+<br/>
+<ul>
+<br/>
+<li>1990 HTTP/1 pour transférer des fichiers</li>
+<br/>
+<li>1992 CORBA pour l’appel RPC</li>
+<br/>
+<li>1997 Java/RMI pratique, mais seulement en Java</li>
+<br/>
+<li>1999 EJB</li>
+<br/>
+<li>1999 SOAP &#38; WSDL intéressant en principe (mais j’aurais bien des choses à en dire)</li>
+<br/>
+<li>2000 HTTP/JSON (qui a juste mis 10 ans à sortir de l’ombre de SOAP)</li>
+<br/>
+<li>2008 Protocol Buffers</li>
+<br/>
+<li>2009 Thrift, RPC</li>
+<br/>
+<li>2015 gRPC</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Et donc, gRPC est un outil de communication pour appel de méthode distant, qui utilise Protocol Buffers pour limiter la taille du contenu, utilise un IDL pour générer du code dans de multiples langages, et est incubé chez la CNCF.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le protocole est basé sur HTTP/2, permet le streaming bi-directionnel, et fournit un mode adapté aux environnements réseau difficiles. En bonus, on peut y ajouter des plugins pour permettre le retry (par contre, la configuration des plugins me paraît …​ curieuse).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le premier point important, c’est l’IDL. Dans ce langage, on va donner une liste des méthodes des services, et on donnera pour chaque méthode la liste des messages utilisables. Chaque message contient une liste de champs qui sont numérotés pour permettre facilement les évolutions.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_la_démo">La démo !</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Dans sa démo, Sébastien crée un client et un serveur qui s’envoient des messages parlant de bières (et c’est cool). Malgré tout, gRPC, ça reste du RMI comme en l’an 2000. Pire encore, go et son aspect diesel-punk me rend littéralement malade. Donc forcément, les démos ne m’ont pas spécialement impressioné, puisque j’ai vu des choses équivalentes en Java/RMI dès l’an 2000. Alors effectivement, c’est censé être performant grâce au protocole choisi. Mais si je fais demain du RMI (ou du Corba, pour rester cross-language) over protocol buffers (je ne suis pas sûr que ça existe, mais j’imagine que c’est possible), quel sera le gain de gRPC ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Par exemple, le fait de pouvoir ajouter et supprimer des champs dans le protocole est vraiment bienvenu dans le cadre d’architectures évolutives. Et le fait que ces champs soient typés est évidement un avantage pour garantir que les clients et les serveurs peuvent se parler correctement.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Cela dit, bravo quand même au speaker qui a affronté un bon paquet de merdes (vidéo, micro, …​).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_mon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+J’ai l’impression qu’on revient à une architecture définie de façon formelle, comme c’était le cas à l’époque du CORBA et du RMI (voire même des EJB). Est-ce que c’est bien ? Je ne sais pas. En revanche, ça revalorise les interfaces en tant qu’éléments clé dans la définition d’une application, et c’est bien.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

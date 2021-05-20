@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurie Voss on Twitter: "Nobody trusts computers to do important things correctly less than people who program computers for a living."
+:jbake-tags: citation,programming,ordinateur,_mois_sept.,_année_2017
+:jbake-date: 2017-09-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1505973159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fseldo%2Fstatus%2F909822884985528320&searchtags=citation+programming+ordinateur+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/seldo/status/909822884985528320[Laurie Voss on Twitter: "Nobody trusts computers to do important things correctly less than people who program computers for a living."]
+
+Très juste

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebCam2000 - WebCam2000
+:jbake-tags: freeware,software,web,webcam,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1096450353000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.webcam2000.info%2F&searchtags=freeware+software+web+webcam+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.webcam2000.info/[WebCam2000 - WebCam2000]
+
+Un logiciel gratuit (et Open-Source) pour utiliser la webcam de mon portable. Il ne me reste plus, sur l'autre PC, qu'à trouver une solution pour transformer le flux en pseudo caméra IP, et je pourrais alors utiliser ce flux dans des logiciels comme PSI

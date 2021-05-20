@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Focus forcé
+:jbake-tags: _mois_févr.,_année_2021
+:jbake-date: 2021-02-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/02/07/focus-force.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/02/07/focus-force/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p> j'ai lu hier le livre <a href="https://www.dextronet.com/articles/focus-manifesto-pdf-download">Focus</a> qui traite de productivité personnelle. Le postulat de ce livre est aussi simple que facile à résumer : " En cet âge de distraction, concentrez-vous sur une tâche à la fois et vous arriverez". Il fait écho aux travaux de <a href="https://www.calnewport.com/">Cal Newport</a> dont le <a href="https://www.calnewport.com/blog/2021/02/05/on-beethoven-and-the-gifts-of-silence/">dernier article sur Beethoven</a> est également une bonne lecture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et en vérité je me retrouve assez dans ce qu'ils écrivent.  En effet depuis mon <a href="https://riduidel.wordpress.com/2021/02/05/extreme-confinement/">lit de convalescence</a>, je n'ai accès qu'à une <a href="https://riduidel.wordpress.com/2021/02/06/android-et-obsolesence/">tablette dépassée</a> et un téléphone portable. Que me reste-t-il dans ce contexte si ce n'est mon imagination et ma capacité à réfléchir ? Cela explique sans doute que j'ai produit un article par jour alors que ce blog était quasiment mort 😃. Au moins un autre point à noter c'est que aussi bien cette tablette que ce téléphone ne permettre que d'avoir des applications en plein écran. Il est particulièrement fastidieux avec Android de jongler d'une application à une autre. La concentration devient facilité par les outils informatiques à disposition. Et c'est quelque part une autre leçon évidemment bien connu, qui est que le format conditionne l' œuvre. Et quelque part c'est en des secrets cachés dans ses outils de développement personnel qui est que selon ce qu'on veut produire il vaut mieux utiliser un ordinateur une tablette ou tout simplement réfléchir et marcher.</p>
+<!-- /wp:paragraph -->
+++++

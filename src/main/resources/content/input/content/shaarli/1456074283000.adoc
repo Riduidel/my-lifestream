@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compteurs intelligents, ondes dangereuses et électrophobie - Le PharmachienLe Pharmachien
+:jbake-tags: santé,médecine,science,_mois_févr.,_année_2016
+:jbake-date: 2016-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1456074283000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flepharmachien.com%2Fondes%2F&searchtags=sant%C3%A9+m%C3%A9decine+science+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://lepharmachien.com/ondes/[Compteurs intelligents, ondes dangereuses et électrophobie - Le PharmachienLe Pharmachien]
+
+Un article raisonnablement correct sur "les méchantes ondes" qui ... n'existent en fait pas :-)

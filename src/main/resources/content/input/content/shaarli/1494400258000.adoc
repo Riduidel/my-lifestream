@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: On Literature and Linked Lists
+:jbake-tags: lecture,fiction,informatique,réflexion,_mois_mai,_année_2017
+:jbake-date: 2017-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1494400258000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Falainakafkes%2Fon-literature-and-linked-lists&searchtags=lecture+fiction+informatique+r%C3%A9flexion+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://dev.to/alainakafkes/on-literature-and-linked-lists[On Literature and Linked Lists]
+
+Un bon article sur l'intérêt de la lecture (de fiction) pour les développeurs

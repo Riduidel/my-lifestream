@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gmaster - Git GUI
+:jbake-tags: git,client,graph,gui,software,programming,windows,macosx,linux,_mois_janv.,_année_2021
+:jbake-date: 2021-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1610524823000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgmaster.io%2F&searchtags=git+client+graph+gui+software+programming+windows+macosx+linux+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://gmaster.io/[gmaster - Git GUI]
+
+De l'innovation dans le monde git qui sort de la vision classique et bien pourrie des branches ...

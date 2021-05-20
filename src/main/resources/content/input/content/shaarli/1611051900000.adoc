@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: kettanaito/naming-cheatsheet: Comprehensive language-agnostic guidelines on variables naming.
+:jbake-tags: programming,nommage,règle,_mois_janv.,_année_2021
+:jbake-date: 2021-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1611051900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fkettanaito%2Fnaming-cheatsheet&searchtags=programming+nommage+r%C3%A8gle+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/kettanaito/naming-cheatsheet[kettanaito/naming-cheatsheet: Comprehensive language-agnostic guidelines on variables naming.]
+
+Un système de nommage qui me semble assez efficace et complet

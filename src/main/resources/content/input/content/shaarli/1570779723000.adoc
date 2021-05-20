@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sadek Drobi sur Twitter : "Back when I was working on play framework, we released Play2 and people where angry about the changes. In a discussion with @odersky, we told him we’re receiving FUD and trolls. He said no, these people care, you need to talk to them. The worst would’ve been that no one cares."
+:jbake-tags: citation,scala,produit,logiciel,communication,_mois_oct.,_année_2019
+:jbake-date: 2019-10-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1570779723000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSadache%2Fstatus%2F1182058556591206400&searchtags=citation+scala+produit+logiciel+communication+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Sadache/status/1182058556591206400[Sadek Drobi sur Twitter : "Back when I was working on play framework, we released Play2 and people where angry about the changes. In a discussion with @odersky, we told him we’re receiving FUD and trolls. He said no, these people care, you need to talk to them. The worst would’ve been that no one cares."]
+
+Une vision très intéressante de ce qu'est l'évolution d'un produit

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ToastMount Homepage
+:jbake-tags: software,freeware,open-source,macosx,system,disk,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110903102000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftoastmount.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+system+disk+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://toastmount.sourceforge.net/[ToastMount Homepage]
+
+Roxio Toast 5 and 6 for Mac OS X provide an extension to load a cd image (.iso) as a virtual drive on your desktop. This is NOT the same as mounting with Disk Image Helper. Any normal application will see the disk as a real drive and you will not have to

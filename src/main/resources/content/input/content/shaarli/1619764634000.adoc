@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cron mom sur Twitter : "extremely hot take: the best CI solution is jenkins, and a team of people making the right tooling for your team out of it" / Twitter
+:jbake-tags: jenkins,citation,expérience,devops,continuous,integration,_mois_avr.,_année_2021
+:jbake-date: 2021-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1619764634000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsophaskins%2Fstatus%2F1387785939259465728&searchtags=jenkins+citation+exp%C3%A9rience+devops+continuous+integration+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/sophaskins/status/1387785939259465728[cron mom sur Twitter : "extremely hot take: the best CI solution is jenkins, and a team of people making the right tooling for your team out of it" / Twitter]
+
+Carrément d'accord ... Sauf que Jenkins fait partie des "brown tech" : ces produits avec lesquels tout le monde a eu à un moment une mauvaise expérience, donc tout le monde dit "ouin, Jenkins"

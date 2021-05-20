@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurent Thiebault 🚀 on Twitter: "⚡️AWESOME-CFP, NOUVELLE VERSION ⚡️ => Plus simple & plus accès sur les CFP's avec une distinction entre inscriptions en cours et terminées ! 🎉 Hello @MeilleurDev 2018 😎 5 CFP's en cours, n'hésitez pas à contribuer ! 💻 https://t.co/kU97Fxo1IM #CallForPapers #conferences… https://t.co/jjDe8c5DEV"
+:jbake-tags: conférence,france,calendar,_mois_août,_année_2018
+:jbake-date: 2018-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1535655939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flauthieb%2Fstatus%2F1034814267751624704&searchtags=conf%C3%A9rence+france+calendar+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/lauthieb/status/1034814267751624704[Laurent Thiebault 🚀 on Twitter: "⚡️AWESOME-CFP, NOUVELLE VERSION ⚡️ => Plus simple & plus accès sur les CFP's avec une distinction entre inscriptions en cours et terminées ! 🎉 Hello @MeilleurDev 2018 😎 5 CFP's en cours, n'hésitez pas à contribuer ! 💻 https://t.co/kU97Fxo1IM #CallForPapers #conferences… https://t.co/jjDe8c5DEV"]
+
+C'est un chouette projet pour ceux qui veulent se lancer dans la danse des conférences

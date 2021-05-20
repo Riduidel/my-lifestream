@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ophcrack, c'est pas si simple ...
+:jbake-tags: sécurité,ubuntu,windows,_mois_mai,_année_2014
+:jbake-date: 2014-05-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/05/06/ophcrack-cest-pas-si-simple.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/05/06/ophcrack-cest-pas-si-simple/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, j'ai passé quinze jours de vacances assez agréables (la semaine passée à Séville, notament, fut un vrai bonheur). Mais malheureusement, les vacances sont finies.
+<br/>
+Et en rentrant ce Lundi au travail, je me suis rendu compte avec stupeur et tremblements que ... j'avais oublié mon mot de passe de session Windows ! Et ça, c'est moche. Parce que Windows 7 est "raisonnablement" sécurisé.
+<br/>
+Du coup, j'ai dû prendre la voie du pirate et tenter de récupérer ledit mot de masse. J'ai successivement essayé
+<br/>
+<ul>
+<br/>
+<li>Un LiveCD <a href="http://ophcrack.sourceforge.net/">ophcrack </a>qui n'a pas marché (évidement, puisque c'était une version d'ophcrack taillée pour Windows XP)</li>
+<br/>
+<li>Une tentative de création avec <a href="http://unetbootin.sourceforge.net/">UNetBootin (dont l'interface graphique est atroce sous Linux, tout simplement) </a>d'une clé USB bootable avec ophcrack (parce que l'outil de création de clés USB bootables d'Ubuntu ne marche que pour les dérivées d'Ubuntu)</li>
+<br/>
+<li>Et, finalement, la version qui a marché : créer une clé USB Ubuntu, faire un apt-get install de <a href="http://pogostick.net/~pnh/ntpasswd/">chntpw</a>, et supprimer le mot de passe de Windows depuis cette clé USB.</li>
+<br/>
+</ul>
+<br/>
+Ce que je retiens de ces aventures ? C'est qu'il est effectivement très simple de pirater une machine Windows qui n'est pas dans un domaine (ce qui rend ce dernier indispensable pour des ordinateurs professionnels) quand on en dispose. Mais aussi que même si c'est très simple, trouver la bonne démarche prend un certain temps ....
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Research Systems Unix Group: Fugu
+:jbake-tags: software,freeware,macosx,réseau,sécurité,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110471412000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frsug.itd.umich.edu%2Fsoftware%2Ffugu%2F&searchtags=software+freeware+macosx+r%C3%A9seau+s%C3%A9curit%C3%A9+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://rsug.itd.umich.edu/software/fugu/[Research Systems Unix Group: Fugu]
+
+A Mac OS X SFTP, SCP and SSH Frontend.

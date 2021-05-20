@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ftk - Freebox toolkit
+:jbake-tags: freebox,javascript,développement,framework,Dev,_mois_mai,_année_2012
+:jbake-date: 2012-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1337077111000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fftklabs.free.fr%2F&searchtags=freebox+javascript+d%C3%A9veloppement+framework+Dev+_mois_mai+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://ftklabs.free.fr/[Ftk - Freebox toolkit]
+
+Une surcouche facilitant la création de widgets sur la freebox

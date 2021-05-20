@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [Android] Saisie vocale hors ligne - Liens en vrac de sebsauvage
+:jbake-tags: android,tips,documentation,_mois_août,_année_2014
+:jbake-date: 2014-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1408970725000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Flinks%2F%3FmZkAXQ&searchtags=android+tips+documentation+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://sebsauvage.net/links/?mZkAXQ[[Android] Saisie vocale hors ligne - Liens en vrac de sebsauvage]
+
+Une bonne astuce pour pouvoir utiliser la saisie vocale sans bouffer son forfait.

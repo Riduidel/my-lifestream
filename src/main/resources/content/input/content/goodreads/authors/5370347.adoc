@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pau
+:jbake-tags: author
+:jbake-date: 2013-04-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5370347.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/5370347
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782359101546.html[La saga d'Atlas et Axis tome 1]
+* link:../books/9782359102871.html[La saga d'Atlas et Axis tome 2]
+* link:../books/9782359105346.html[La Saga d'Atlas & Axis tome 3]
+* link:../books/9782359109788.html[La Saga d'Atlas et Axis Tome 4]

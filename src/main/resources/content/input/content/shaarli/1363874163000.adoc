@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Accueil - PluXml
+:jbake-tags: software,lifestream,web,xml,freeware,_mois_mars,_année_2013
+:jbake-date: 2013-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1363874163000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pluxml.org%2F&searchtags=software+lifestream+web+xml+freeware+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.pluxml.org/[Accueil - PluXml]
+
+Ohlala ! Pour peu qu e j'arrive à sortir mon blog (et mon Goodreads) en XML, je pourrais en faire quelque chose de pratique !

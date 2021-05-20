@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software Everywhere » Get Java on your Nokia N800
+:jbake-tags: java,n800,_mois_août,_année_2007
+:jbake-date: 2007-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1186495402000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pikesoft.com%2Fblog%2Findex.php%3Fitemid%3D178&searchtags=java+n800+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.pikesoft.com/blog/index.php?itemid=178[Software Everywhere » Get Java on your Nokia N800]
+
+Ben oui, je suis quand même développeur Java. Alors pouvoir faire du java sur cette plateforme, ça m'excite presque autant que la possibilité de faire du Ruby on Rails (quand même un peu moins, à cause de problème de JavaME, d'environnement de dév

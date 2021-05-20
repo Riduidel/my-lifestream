@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Élise Fontenaille
+:jbake-tags: author
+:jbake-date: 2008-09-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1961204.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1496838246p5/1961204.jpg
+:jbake-source: https://www.goodreads.com/author/show/1961204
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253123514.html[Unica]

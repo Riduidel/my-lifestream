@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Assemblée sur Wikipédia sur Twitter : "[ Thread ] Suite aux récentes révélations de vandalisme sur Wikipédia par des politiques Français, j'ai conçu ce bot pour tweeter toutes les suppressions anonymes de contenu depuis les IPs de l'Assemblée nationale.. [1/5]"
+:jbake-tags: loi,politique,france,wikipedia,bot,_mois_mai,_année_2020
+:jbake-date: 2020-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1589805452000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fwiki_assemblee%2Fstatus%2F1262296143289028609&searchtags=loi+politique+france+wikipedia+bot+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/wiki_assemblee/status/1262296143289028609[L'Assemblée sur Wikipédia sur Twitter : "[ Thread ] Suite aux récentes révélations de vandalisme sur Wikipédia par des politiques Français, j'ai conçu ce bot pour tweeter toutes les suppressions anonymes de contenu depuis les IPs de l'Assemblée nationale.. [1/5]"]
+
+C'est vraiment une bonne idée. J'espère juste que la loi Avia ne trouvera pas une façon de bloquer ce bot (avant qu'on me dise que je fais de la paranoïa, toute loi est conçue pour être détournée ou contournée).

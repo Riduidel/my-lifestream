@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jasongorman on Twitter: "If all your microservices need all your other microservices to work, I heartily recommend consolidating them all back into a single ball of mud. Because that's what you've got there."
+:jbake-tags: programming,microservices,déploiement,_mois_juin,_année_2018
+:jbake-date: 2018-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1530256422000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjasongorman%2Fstatus%2F1012263916838313984&searchtags=programming+microservices+d%C3%A9ploiement+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jasongorman/status/1012263916838313984[jasongorman on Twitter: "If all your microservices need all your other microservices to work, I heartily recommend consolidating them all back into a single ball of mud. Because that's what you've got there."]
+
+J'ai déja vu ça ... Et tout le monde avait l'air content de remplacer la simplicité d'appels de méthodes par la mise en place de déploiements complexes. Comme toujours, faire compliqué, c'est simple, mais faire simple, c'est compliqué.

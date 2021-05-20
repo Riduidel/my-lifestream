@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AngularJS : silver bullet ou super boulet ?
+:jbake-tags: programming,javascript,web,framework,article,_mois_oct.,_année_2014
+:jbake-date: 2014-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1412928942000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.touilleur-express.fr%2F2014%2F10%2F09%2Fangularjs-bullet-boulet%2F&searchtags=programming+javascript+web+framework+article+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.touilleur-express.fr/2014/10/09/angularjs-bullet-boulet/[AngularJS : silver bullet ou super boulet ?]
+
+Je suis d'accord avec certains points ... mais pas avec tout (c'est aussi pour ça que j'utilise Ractive plutôt qu'Angular). Cela dit, effectivement, Angular est loin de la Silver Bullet et bien plus proche de chose comme Cairngorm (pour Flash), ou Struts - et ce ne sont pas vraiment des compliments.

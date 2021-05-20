@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Functorio | Bartosz Milewski's Programming Cafe
+:jbake-tags: programming,functionnal,tutorial,jeu,vidéo,_mois_févr.,_année_2021
+:jbake-date: 2021-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1613719918000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbartoszmilewski.com%2F2021%2F02%2F16%2Ffunctorio%2F&searchtags=programming+functionnal+tutorial+jeu+vid%C3%A9o+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://bartoszmilewski.com/2021/02/16/functorio/[Functorio | Bartosz Milewski's Programming Cafe]
+
+C'est également applicable à mindustry (sur lequel je passe beaucoup de temps en ce moment). Et en fait, ça marche presque avec openttd

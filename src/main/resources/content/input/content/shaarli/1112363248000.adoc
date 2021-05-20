@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jacobe - Java Code Beautifier
+:jbake-tags: software,shareware,programming,java,qualité,beautifier,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112363248000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tiobe.com%2Fjacobe.htm&searchtags=software+shareware+programming+java+qualit%C3%A9+beautifier+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tiobe.com/jacobe.htm[Jacobe - Java Code Beautifier]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wikiverse: a galactic reimagining of Wikipedia
+:jbake-tags: web,wikipedia,visualisation,science-fiction,_mois_sept.,_année_2016
+:jbake-date: 2016-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1473063433000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwikiverse.io%2F&searchtags=web+wikipedia+visualisation+science-fiction+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://wikiverse.io/[Wikiverse: a galactic reimagining of Wikipedia]
+
+Naviguer dans la wikiverse sur les thèmes de la Culture de Iain M Banks est un plaisir d'esthète

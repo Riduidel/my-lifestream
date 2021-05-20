@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Incident Analysis: How *Learning* is Different Than *Fixing* - Speaker Deck
+:jbake-tags: entreprise,politique,bug,post-mortem,écriture,_mois_avr.,_année_2020
+:jbake-date: 2020-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1587229390000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fjallspaw%2Fincident-analysis-how-star-learning-star-is-different-than-star-fixing-star%3Fslide%3D16&searchtags=entreprise+politique+bug+post-mortem+%C3%A9criture+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://speakerdeck.com/jallspaw/incident-analysis-how-star-learning-star-is-different-than-star-fixing-star?slide=16[Incident Analysis: How *Learning* is Different Than *Fixing* - Speaker Deck]
+
+Très chouette présentation expliquant bien ce qui fait les bons post-mortem

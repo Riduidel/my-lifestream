@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sy Brand sur Twitter : "I think about this Reddit thread a lot https://t.co/w2QxYJ2kx6" / Twitter
+:jbake-tags: go,programming,feature,generics,hack,_mois_août,_année_2020
+:jbake-date: 2020-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1598513786000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FTartanLlama%2Fstatus%2F1296412458597457920%2Fphoto%2F1&searchtags=go+programming+feature+generics+hack+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/TartanLlama/status/1296412458597457920/photo/1[Sy Brand sur Twitter : "I think about this Reddit thread a lot https://t.co/w2QxYJ2kx6" / Twitter]
+
+Non de non. C'est vraiment fou cette histoire d'abus d'unicode pour faire semblant d'avoir des types génériques !

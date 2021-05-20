@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WildCATS, Tome 2 : Guerre des gangs
+:jbake-tags:  broc, combat, complot, surhomme,_année_2014,_mois_janv.,_note_1,rayon-bd,read
+:jbake-date: 2014-01-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782809413939.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390508762l/20623491._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390508762l/20623491._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/20623491
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+L'ancienne et la nouvelle équipe des WildC.A.T.S se réunissent sur terre pour mieux se séparer. Revenu de Khéra complètement démoralisé, le groupe d'EMP se cherche encore. Certains de ses membres souhaitent retrouver une vie normale, alors que d'autres préfèrent voler au secours de vieux camarades en difficulté sur l'île de Gamorra et sur la lune. La formation de Majestics, quant à elle, se jette à corps perdu dans une guerre contre le crime organisé qui dégénère et plonge New York dans le chaos. Si l'union fait la force, les faiblesses et les failles des WildC.A.T.S sont en passe d'éclater au grand jour.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3961.html[Alan Moore]
+* link:../authors/166649.html[Alex Nikolavitch]
+
+## Series
+* link:../series/WildC.A.T.s_I.html[WildC.A.T.s I]
+* link:../series/WildC.A.T.s_reading_order.html[WildC.A.T.s reading order]
+
+## Review
+
+++++
+Toutes les ficelles de la BD qui balade son lecteur sont réunies dans ce tome : le traître qui se révèle à la fin, les retournements de situation improbables, ...<br/>C'est vraiment pas terrible.<br/>Le pire est évidement la mort de la cyborg atomique au sacré caractère.<br/>Et ce tome rejoindra évidement le premier ...
+++++

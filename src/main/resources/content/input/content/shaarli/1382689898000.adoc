@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GPS gratuits hors-ligne pour Android
+:jbake-tags: android,gps,freeware,_mois_oct.,_année_2013
+:jbake-date: 2013-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1382689898000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Flinks%2F%3Fvneq8w&searchtags=android+gps+freeware+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sebsauvage.net/links/?vneq8w[GPS gratuits hors-ligne pour Android]
+
+Très chouette petit article de sebsauvage reprenant les applis GPS offline pour Android. Bien pratique quand on a un forfait free 2H !

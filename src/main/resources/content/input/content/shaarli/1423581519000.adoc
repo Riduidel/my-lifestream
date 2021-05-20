@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Des Codeurs et des Claviers !
+:jbake-tags: programming,clavier,_mois_févr.,_année_2015
+:jbake-date: 2015-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1423581519000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infoq.com%2Ffr%2Farticles%2Fdes-codeurs-et-des-claviers%3Futm_campaign%3Dinfoq_content&searchtags=programming+clavier+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.infoq.com/fr/articles/des-codeurs-et-des-claviers?utm_campaign=infoq_content[Des Codeurs et des Claviers !]
+
+Chez les furets, on teste bien les claviers.

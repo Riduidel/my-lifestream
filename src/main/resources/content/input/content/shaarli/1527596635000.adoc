@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: aeris on Twitter: "4 jours après le #RGPD, je trouve ça limite trollesque 😂… "
+:jbake-tags: france,politique,confidentialité,_mois_mai,_année_2018
+:jbake-date: 2018-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1527596635000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faeris22%2Fstatus%2F1001410078879158273&searchtags=france+politique+confidentialit%C3%A9+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/aeris22/status/1001410078879158273[aeris on Twitter: "4 jours après le #RGPD, je trouve ça limite trollesque 😂… "]
+
+La partie du gouvernement qui n'en a rien à foutre de ta confidentialité pense qu'elle pourra t'alerter par Google ...

@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quand un non-événement devient un petit événement
+:jbake-tags: dns-323,open-source,_mois_oct.,_année_2017
+:jbake-date: 2017-10-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/10/08/quand-un-non-evenement-devient-un-petit-evenement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/10/08/quand-un-non-evenement-devient-un-petit-evenement/
+:jbake-style: wordpress
+
+++++
+<p>
+Mercredi, l'un des disques durs de mon NAS a rendu l'âme (eh oui, <a href="https://riduidel.wordpress.com/2016/03/10/jai-demi-perdu-mon-nas-cest-grave/">encore</a>). J'ai donc commandé un autre disque en ligne, et monté le nouveau disque dans le NAS. Après un poil de bidouille, le NAS a redémarré, et tout son contenu est à nouveau synchronisé en RAID. Tout ça ne méritait évidement pas un article.
+</p>
+<p>
+Par contre, j'utilisais jusqu'à présent <a href="https://owncloud.org/">Owncloud </a>pour synchroniser mes données sur mes différentes machines (je pense d'ailleurs qu'il n'est pas innocent dans la faible durée de vie de ce disque). Et comme le NAS n'avait plus qu'un disque, je ne pouvais plus m'en servir. Coup du sort ou coup du hasard, au même moment, je flânais sur le site de Keybase, et en particulier sur la page dont le titre est "<a href="https://keybase.io/docs/kbfs">Introducing the Keybase filesystem</a>". En en lisant les détails, et en particulier la partie "But there's more", j'ai découvert que je pourrais très bien disposer d'une solution de partage bien plus sûre que ce qu'offrait Dropbox, pour peu que Keybase implémente un système de partage de fichiers. Et comme une bonne partie du code est open-source, il ne tient qu'à moi d'aller comprendre comment ça marche pour proposer un partage ... qui fonctionne.
+</p>
+<p>
+Oh, et en bonus, via un autre ensemble d'urls, il est possible de mettre à disposition du contenu de façon sûre. Idéal pour un site web généré statiquement (donc le retour de JBake).
+</p>
+++++

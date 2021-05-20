@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mkcert: valid HTTPS certificates for localhost
+:jbake-tags: programming,web,https,sécurité,windows,linux,_mois_janv.,_année_2019
+:jbake-date: 2019-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1546853041000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.filippo.io%2Fmkcert-valid-https-certificates-for-localhost%2F&searchtags=programming+web+https+s%C3%A9curit%C3%A9+windows+linux+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.filippo.io/mkcert-valid-https-certificates-for-localhost/[mkcert: valid HTTPS certificates for localhost]
+
+Waow, alors ça c'est vraiment cool ! Avec cet outil, vous pouvez générer des certificats TLS pour votre propre machine, de manière à faire du développement HTTPS même en local !

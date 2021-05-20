@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: "FrogDev Site francophone sur GNU/Linux"
+:jbake-tags: linux,livecd,_mois_févr.,_année_2007
+:jbake-date: 2007-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1171287973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.frogdev.info%2Flive-cd%2Ffrog_e17.php&searchtags=linux+livecd+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.frogdev.info/live-cd/frog_e17.php["FrogDev Site francophone sur GNU/Linux"]
+
+Un livecd basé sur gentoo et e17, poour avoir la classe de folie. Le seul problème, c'est qu'il ne marche pas trop avec QEMU

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fredric Brown
+:jbake-tags: author
+:jbake-date: 2002-08-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/51503.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1234483488p5/51503.jpg
+:jbake-source: https://www.goodreads.com/author/show/51503
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070415625.html[Martiens, go home !]

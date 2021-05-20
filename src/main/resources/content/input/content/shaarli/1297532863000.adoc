@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Retrieve textual, geodetic information based on GPS-data
+:jbake-tags: script,geotag,iptc,_mois_févr.,_année_2011
+:jbake-date: 2011-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1297532863000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.halo-photographs.com%2Fscripts%2FGPS-to-textual-geodectic-information.html&searchtags=script+geotag+iptc+_mois_f%C3%A9vr.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.halo-photographs.com/scripts/GPS-to-textual-geodectic-information.html[Retrieve textual, geodetic information based on GPS-data]
+
+Un script pour faire le géocodage des photos à partir des données GPS que Microsoft Expression Media retrouve facilement.

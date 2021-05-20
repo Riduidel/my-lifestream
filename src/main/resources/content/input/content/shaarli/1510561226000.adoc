@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PrintABrick - Web catalogue of LEGO® parts for 3D printing
+:jbake-tags: lego,web,3d,_mois_nov.,_année_2017
+:jbake-date: 2017-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1510561226000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fprintabrick.org%2F&searchtags=lego+web+3d+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://printabrick.org/[PrintABrick - Web catalogue of LEGO® parts for 3D printing]
+
+WOW, les imprimantes 3D d'Adeo risquent de me servir

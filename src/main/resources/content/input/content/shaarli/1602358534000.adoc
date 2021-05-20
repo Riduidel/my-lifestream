@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: atomashpolskiy/rustface: Face detection library for the Rust programming language
+:jbake-tags: rust,programming,ia,visage,détection,open-source,library,_mois_oct.,_année_2020
+:jbake-date: 2020-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1602358534000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fatomashpolskiy%2Frustface&searchtags=rust+programming+ia+visage+d%C3%A9tection+open-source+library+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/atomashpolskiy/rustface[atomashpolskiy/rustface: Face detection library for the Rust programming language]
+
+Bon, et avec ça, je peux faire de la détection de visage en Rust, et en tirer des actions pour OBS ...

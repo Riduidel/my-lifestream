@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Information on Border Slants
+:jbake-tags: web,expérience,html,css,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112345522000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infimum.dk%2FHTML%2Fslantinfo.html&searchtags=web+exp%C3%A9rience+html+css+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.infimum.dk/HTML/slantinfo.html[Information on Border Slants]
+
+It's a hack. A trick. It is a way to make pure HTML and CSS draw something that is neither vertical nor horizontal. And it uses borders.

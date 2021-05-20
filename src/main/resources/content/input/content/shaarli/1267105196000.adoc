@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Design Patterns and Refactoring
+:jbake-tags: software,programming,documentation,reference,uml,refactoring,pattern,architecture,_mois_févr.,_année_2010
+:jbake-date: 2010-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1267105196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsourcemaking.com%2F&searchtags=software+programming+documentation+reference+uml+refactoring+pattern+architecture+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://sourcemaking.com/[Design Patterns and Refactoring]
+
+Un site assez mignon sur les designs patterns, l'uml, ... tous ces trucs dont on se gargarise et qui sont peut-être utiles, ou peut-être pas ...

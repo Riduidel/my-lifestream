@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grégoire Michaux sur Twitter : "Voilà qui nous obliger à changer notre façon de réfléchir le déconfinement. Science et The Atlantic se sont penchés sur la littérature récente concernant la propagation du #SARS_CoV_2 : la plupart des événements de contamination se font par voie aérosole en milieu fermé 1/n" / Twitter
+:jbake-tags: épidémie,science,médecine,_mois_mai,_année_2020
+:jbake-date: 2020-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1590481102000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGrMichaux%2Fstatus%2F1264915863486021632&searchtags=%C3%A9pid%C3%A9mie+science+m%C3%A9decine+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/GrMichaux/status/1264915863486021632[Grégoire Michaux sur Twitter : "Voilà qui nous obliger à changer notre façon de réfléchir le déconfinement. Science et The Atlantic se sont penchés sur la littérature récente concernant la propagation du #SARS_CoV_2 : la plupart des événements de contamination se font par voie aérosole en milieu fermé 1/n" / Twitter]
+
+C'est franchement intéressant comme conclusion.

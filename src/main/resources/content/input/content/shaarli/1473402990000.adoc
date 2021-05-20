@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: "Software is like entropy. It is difficult to grasp, weighs nothing, and obeys 2nd law of thermodynamics: it always increases - N. Augustine"
+:jbake-tags: citation,programming,_mois_sept.,_année_2016
+:jbake-date: 2016-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1473402990000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F773973704581779460&searchtags=citation+programming+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/773973704581779460[Mario Fusco on Twitter: "Software is like entropy. It is difficult to grasp, weighs nothing, and obeys 2nd law of thermodynamics: it always increases - N. Augustine"]
+
+Pas bête, mais quand même assez déprimant

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Development Horror Story – Release Nightmare | Roberto Cortez Java Blog
+:jbake-tags: java,programming,bug,_mois_janv.,_année_2015
+:jbake-date: 2015-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1422017755000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.radcortez.com%2Fdevelopment-horror-story-release-nightmare%2F&searchtags=java+programming+bug+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.radcortez.com/development-horror-story-release-nightmare/[Development Horror Story – Release Nightmare | Roberto Cortez Java Blog]
+
+Une histoire effrayante. Le commentaire sur intern() est, lui, une idée de génie.

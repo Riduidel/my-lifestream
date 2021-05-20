@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The JVM is not that heavy - Open Sourcery
+:jbake-tags: java,jvm,performance,_mois_janv.,_année_2017
+:jbake-date: 2017-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1484119690000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.opensourcery.co.za%2F2017%2F01%2F05%2Fthe-jvm-is-not-that-heavy%2F&searchtags=java+jvm+performance+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.opensourcery.co.za/2017/01/05/the-jvm-is-not-that-heavy/[The JVM is not that heavy - Open Sourcery]
+
+La JVM est peut-être la plus grande réalisation de l'informatique moderne. et j'aime quand des gens le signalent.

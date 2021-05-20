@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MIT CSAIL on Twitter: "Programming languages ranked by how much electricity they use: https://t.co/jO8JRoCdxp (v/@DavidCasselTNS @thenewstack) #C #C++ #Java #SwiftLang #WednesdayWisdom… https://t.co/40qay2zr3a"
+:jbake-tags: programming,énergie,rust,java,consomation,optimisation,_mois_juin,_année_2019
+:jbake-date: 2019-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1559487478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FMIT_CSAIL%2Fstatus%2F1133760408731475969&searchtags=programming+%C3%A9nergie+rust+java+consomation+optimisation+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/MIT_CSAIL/status/1133760408731475969[MIT CSAIL on Twitter: "Programming languages ranked by how much electricity they use: https://t.co/jO8JRoCdxp (v/@DavidCasselTNS @thenewstack) #C #C++ #Java #SwiftLang #WednesdayWisdom… https://t.co/40qay2zr3a"]
+
+je ne suis pas vraiment surpris ...

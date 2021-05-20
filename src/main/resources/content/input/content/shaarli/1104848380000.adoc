@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Personal Web Information Spaces
+:jbake-tags: web,study,bookmark,_mois_janv.,_année_2005
+:jbake-date: 2005-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1104848380000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dabrams.com%2Fresearch%2Fbookmarks%2F&searchtags=web+study+bookmark+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.dabrams.com/research/bookmarks/[Personal Web Information Spaces]
+
+Empirical Studies of How People Use WWW Bookmarks

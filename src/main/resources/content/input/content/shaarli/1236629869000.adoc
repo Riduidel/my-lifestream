@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quick and easy FTP backup with lftp [LinuxBeacon]
+:jbake-tags: dns-323,tutorial,freebox,ftp,linux,_mois_mars,_année_2009
+:jbake-date: 2009-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1236629869000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.linuxbeacon.com%2Fdoku.php%2Farticles%3Alftp&searchtags=dns-323+tutorial+freebox+ftp+linux+_mois_mars+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.linuxbeacon.com/doku.php/articles:lftp[Quick and easy FTP backup with lftp [LinuxBeacon]]
+
+Un excellent article sur l'utilisation de lftp pour synchroniser le contenu d'une bonne freebox hd avec un magnifique disque dur DNS323. Bref, le pied pour balancer dans la télé ce que j'ai dans le disque dur, et réciproquement.

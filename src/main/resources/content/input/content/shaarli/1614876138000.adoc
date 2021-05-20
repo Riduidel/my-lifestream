@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pourquoi les épidémies comme celle du coronavirus se propagent de manière exponentielle et comment « aplatir la courbe » - Washington Post
+:jbake-tags: épidémie,modèle,communication,visualisation,_mois_mars,_année_2021
+:jbake-date: 2021-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1614876138000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.washingtonpost.com%2Fgraphics%2F2020%2Fhealth%2Fcorona-simulator-french%2F&searchtags=%C3%A9pid%C3%A9mie+mod%C3%A8le+communication+visualisation+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.washingtonpost.com/graphics/2020/health/corona-simulator-french/[Pourquoi les épidémies comme celle du coronavirus se propagent de manière exponentielle et comment « aplatir la courbe » - Washington Post]
+
+Très chouette modélisation de l'évolution du coronavirus, d'autant plus remarquable qu'elle a déja un an.

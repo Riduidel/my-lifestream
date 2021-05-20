@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The sad state of sysadmin in the age of containers
+:jbake-tags: system,programming,critique,_mois_mai,_année_2018
+:jbake-date: 2018-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1526534785000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.vitavonni.de%2Fblog%2F201503%2F2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html&searchtags=system+programming+critique+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.vitavonni.de/blog/201503/2015031201-the-sad-state-of-sysadmin-in-the-age-of-containers.html[The sad state of sysadmin in the age of containers]
+
+C'est tellement énervé et sarcastique que j'aurais pu l'écrire. Et certains éléments frappent là où ça fait vraiment mal. Je retiens la citation "Docker is the new curl \| sudo bash".

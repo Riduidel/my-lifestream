@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arnaud Duval
+:jbake-tags: author
+:jbake-date: 2014-07-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5247935.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1442606538p5/5247935.jpg
+:jbake-source: https://www.goodreads.com/author/show/5247935
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070453955.html[Les Pousse-Pierres]

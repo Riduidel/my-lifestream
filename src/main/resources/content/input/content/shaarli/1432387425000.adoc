@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: letsgetrandy/DICSS
+:jbake-tags: javascript,library,css,programming,web,_mois_mai,_année_2015
+:jbake-date: 2015-05-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1432387425000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fletsgetrandy%2FDICSS&searchtags=javascript+library+css+programming+web+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/letsgetrandy/DICSS[letsgetrandy/DICSS]
+
+Je ne sais pas vraiment si c'est une bonne idée. En revanche, je suis sûr que le nom est une mauvaise idée.

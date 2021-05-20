@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A better way of using Gmail for GTD
+:jbake-tags: gtd,email,productivité,tutorial,_mois_juil.,_année_2006
+:jbake-date: 2006-07-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1153052903000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.designpattern.org%2Fwp%2F%3Fp%3D56&searchtags=gtd+email+productivit%C3%A9+tutorial+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.designpattern.org/wp/?p=56[A better way of using Gmail for GTD]
+
+Une amélioration (sans doute) d'un système déja connu d'utilisation de GMail pour le système GTD

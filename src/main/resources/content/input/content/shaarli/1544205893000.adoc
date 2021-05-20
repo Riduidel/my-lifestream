@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Circular Gallifreyan - Time Turners of the T.A.R.D.I.S.
+:jbake-tags: art,calligraphie,algorithme,_mois_déc.,_année_2018
+:jbake-date: 2018-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1544205893000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftimeturners.wikidot.com%2Fcircular-gallifreyan&searchtags=art+calligraphie+algorithme+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://timeturners.wikidot.com/circular-gallifreyan[Circular Gallifreyan - Time Turners of the T.A.R.D.I.S.]
+
+Le principe de base d'écriture gallifreienne

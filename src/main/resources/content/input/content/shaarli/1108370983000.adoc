@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Putfile - Upload Video and Upload Images
+:jbake-tags: web,free,hosting,file,_mois_févr.,_année_2005
+:jbake-date: 2005-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1108370983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fx3.putfile.com%2F&searchtags=web+free+hosting+file+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://x3.putfile.com/[Putfile - Upload Video and Upload Images]
+
+Putfile is a FREE dedicated digital media hosting service. Here you can upload videos and images to the internet for free. Your media will be hosted on our reliable Linux servers offering no downtime. If you would like to upload images or video files f

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mockrunner
+:jbake-tags: ca sert à presque rien,java,javaee,test,_mois_sept.,_année_2015
+:jbake-date: 2015-09-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/09/01/mockrunner.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/09/01/mockrunner/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, j'imagine que vous connaissez toutes les librairies de mock, mais ça n'est pas de ça que je veux vous parler.
+</p>
+<p>
+Non.
+</p>
+<p>
+Supposons que vous développiez une application JavaEE ou équivalent Spring.
+</p>
+<p>
+Dans cette application, vous allez utiliser des services typiques de JavaEE : du JDBC, du JMS (peut-être), des Servlets. Et dans certains tests, vous allez vouloir mocker ces différents composants pour différentes raisons. Et comme ce sont des choses qui se font assez souvent, et que les APIs sont franchement complexes, l'idée de les recréer avec EasyMock/Mockito/... ne vous emballe pas.
+</p>
+<p>
+Heureusement, vous pouvez utiliser <a href="http://mockrunner.github.io">Mockrunner</a> !
+</p>
+<p>
+Avec mockrunner, c'est très simple de créer le composant dont vous avez besoin, que ce soit dans du code ou dans des fichiers de configuration Spring. Et ça fait gagner un temps fou.
+</p>
+++++

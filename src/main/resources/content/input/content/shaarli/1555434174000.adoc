@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Josh Carroll on Twitter: "Alternative Big O notation: O(1) = O(yeah) O(log n) = O(nice) O(n) = O(ok) O(n²) = O(my) O(2ⁿ) = O(no) O(n!) = O(mg!)"
+:jbake-tags: citation,humour,performance,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555434174000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjwcarroll%2Fstatus%2F1114576190247976960&searchtags=citation+humour+performance+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jwcarroll/status/1114576190247976960[Josh Carroll on Twitter: "Alternative Big O notation: O(1) = O(yeah) O(log n) = O(nice) O(n) = O(ok) O(n²) = O(my) O(2ⁿ) = O(no) O(n!) = O(mg!)"]
+
+O(h c'est chouette!)

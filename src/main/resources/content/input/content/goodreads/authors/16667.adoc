@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Isaac Asimov
+:jbake-tags: author
+:jbake-date: 2006-11-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/16667.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1341965730p5/16667.jpg
+:jbake-source: https://www.goodreads.com/author/show/16667
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070415700.html[Fondation]
+* link:../books/9782070415717.html[Fondation et Empire]

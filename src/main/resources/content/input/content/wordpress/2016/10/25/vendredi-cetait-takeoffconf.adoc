@@ -1,0 +1,112 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vendredi, c'était TakeOffConf
+:jbake-tags: conférence,lille,php,ruby,_mois_oct.,_année_2016
+:jbake-date: 2016-10-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/10/25/vendredi-cetait-takeoffconf.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/10/25/vendredi-cetait-takeoffconf/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous ne connaissez pas la <a href="http://takeoffconf.com/2016">TakeOff </a>? la conférence la plus barbue au nord de la Seine ? Tant pis pour vous. Par une chance extraordinaire, j'ai pu obtenir une place pour assister aux conférences du Vendredi ... Mais du fait d'obligations, je n'ai pu voir que celles du matin. En voici un rapide compte-rendu.
+<br/>
+<h2>How to rescue tech migrants from Brexit</h2>
+<br/>
+Un talk "tongue in cheek" expliquant que les anglais allaient fuir leur pays pour venir se réfugier ... à Lille. Il recense quelques bonnes habitudes à prendre pour intégrer les nouveaux, comme par exemple trouver un tuteur pour les nouveaux arrivants, faire en sorte de vaincre les problèmes d'I18n/l10n comme par exemple
+<br/>
+<ul>
+<br/>
+<li>Vaincre la barrière de la langue</li>
+<br/>
+<li>Les foutus claviers différents</li>
+<br/>
+</ul>
+<br/>
+C'était pas mal, et très flatteur pour Lille
+<br/>
+<h2>Create modern web APIs in minutes</h2>
+<br/>
+Ca parle d’API Platform, en PHP
+</p>
+<p>
+Il y a plein de standards de description d’API
+<br/>
+<ul>
+<br/>
+<li>Swagger</li>
+<br/>
+<li>JSON-LD (standard W3C), déjà utilisé et compatible web sémantique</li>
+<br/>
+<li>Schema.org vocabulaire ouvert pour le web, hébergé par le W3C, compatible JSON-LD</li>
+<br/>
+<li>Hydra</li>
+<br/>
+<li>RAML</li>
+<br/>
+</ul>
+<br/>
+API Platform, donc, permet de développer une API en PHP et supporte tout ça, ainsi que tout un tas de features habituelles comme la pagination, le filtrage, l’auth (JWT, Oauth), le cache, CORS. Bon, je suis un peu passé à côté en bon développeur Java(EE).
+<br/>
+<h2>Sharing code between web and native mobile apps</h2>
+<br/>
+Dans le développement mobile, maintenant,
+<br/>
+<ul>
+<br/>
+<li>Web =&#62; Audience</li>
+<br/>
+<li>Native app =&#62; rich experience.</li>
+<br/>
+</ul>
+<br/>
+Du coup, les deux sont nécessaires. Et donc NativeScript fournit un truc qui ressemble à ionic pour Angular 2
+</p>
+<p>
+Le plus gros avantage, c’est qu’avec electron, on peut aller jusqu’aux applications Desktop
+</p>
+<p>
+Il y a néanmoins un système de distribution curieux avec WebPack et des extensions de fichier selon le canal d’utilisation. mais là, c'est sans doute ma méconnaissance du sujet qui parle.
+<br/>
+<h2>Let your devices talk to each other</h2>
+<br/>
+Dans l’IoT, les données sont centralisées (et <b>pas</b> stockées sur les machines). Et c'est galère quand les serveurs tombent en rade. Au contraire, en M2M, les données sont décentralisées. Du coup, pourquoi ne pas utiliser les concepts du second dans le premier ? Par exemple, en laissant les devices se découvrir en P2P. Mais comment se connecter en P2P sur un réseau local ? En utilisant de la discovery (Bonjour, JmDNS, UPnP)
+</p>
+<p>
+Et que vient faire CouchBase là-dedans ?
+</p>
+<p>
+Présenter Couchbase Lite ! En ayant une base de données locale synchronisable avec le serveur, on permet plus facilement la déconnexion du serveur. Et la base peut se synchroniser en P2P. Clairement, ça aurait pu me servir il y a des années.
+<br/>
+<h2>Building a Web API with Hanami</h2>
+<br/>
+Pas de monkey patching, pas de method_missing … Construit en opposition avec Ruby on Rails, autrement dit. C'est un framework web pour Ruby qui semble assez élégant et conçu autour de concepts très simples. Mais bon, comme pour le PHP, ça ne me touche qu'à moitié.
+<br/>
+<h2>Elixir a language for the Future</h2>
+<br/>
+Dans ma mémoire, c’est un framework web basé sur Haskell … mais en fait, c'est un langage pour le futur.
+</p>
+<p>
+Pour le speaker, le futur est
+<br/>
+<ul>
+<br/>
+<li>Dynamique</li>
+<br/>
+<li>Concurrent. Et pour ça, Ericsson a inventé … Erlang !</li>
+<br/>
+</ul>
+<br/>
+Du coup, Elixir, c'est
+<br/>
+<blockquote>Ruby+Erlang+steroids=Elixir !</blockquote>
+<br/>
+Quelques éléments sont bluffants, comme le pattern matching sur les paramètres de méthode. D'autres sont ... moins impressionnants, comme l'utilisation de tous les coeurs qui surprend en Ruby, mais vraiment pas en Java.
+<br/>
+<h2>Et c'est tout ?</h2>
+<br/>
+Ben oui, c'est tout. le reste du temps, j'étais pris. Cela dit, c'était un chouette moment.
+</p>
+++++

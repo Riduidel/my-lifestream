@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le site francophone non officiel de Terry Pratchett
+:jbake-tags: web,fantasy,documentation,pratchett,_mois_févr.,_année_2005
+:jbake-date: 2005-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1109163560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpratchett.free.fr%2F&searchtags=web+fantasy+documentation+pratchett+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://pratchett.free.fr/[Le site francophone non officiel de Terry Pratchett]
+
+Un site en français avec les annotations sur les bouquins de Pratchett

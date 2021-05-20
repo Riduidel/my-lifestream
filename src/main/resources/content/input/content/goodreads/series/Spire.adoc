@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spire
+:jbake-tags: serie
+:jbake-date: 2020-07-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Spire.adoc
+:jbake-source: https://www.goodreads.com/series/205728
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782072752049.html[Ce qui relie (Spire #1)]
+* link:../books/9782072752148.html[Ce qui révèle (Spire #3)]

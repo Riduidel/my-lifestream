@@ -1,0 +1,56 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Déployer ... c'est le dernier combat ?
+:jbake-tags: architecture_agile,devops,kubernetes,_mois_avr.,_année_2020
+:jbake-date: 2020-04-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/15/deployer-cest-le-dernier-combat.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/15/deployer-cest-le-dernier-combat/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série sur la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> agile en utilisant le modèle C4. Il fait évidement suite à la définition d'une <a href="https://riduidel.wordpress.com/2020/04/15/deployer-dans-quelle-infrastructure/">infrastructure</a>. Pourquoi évidement ? Parce qu'on a bien sûr besoin d'une infrastructure, même virtuelle, pour déployer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et pourquoi est-ce qu'on pourrait croire que c'est le dernier combat ? Parce que comme je l'ai écrit <a href="https://riduidel.wordpress.com/2020/04/06/pourquoi-documenter-une-architecture/">dès le début</a> de cette série, le but d'une équipe de développement, et par conséquent d'un <a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">architecte</a>, c'est de créer un produit utile et utilisé. Autrement dit d'aller du concept d'architecture jusqu'à la prod.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et c'est dans la partie déploiement qu'on va commencer à aborder ces sujets. En effet, si vous lisez le <a href="https://structurizr.com/help/documentation/deployment">modèle</a> que fournit Simon Brown, vous verrez que les questions qui sont posées ne concernent pas "simplement" le fait de lister les environnements sur lesquels l'application sera déployée (ça, c'est à la limite de l'infrastructure), mais plutôt quand et comment l'application sera déployée sur ces environnements. Quand et comment, ça peut vouloir impliquer de présenter un diagramme de Gantt avec les différents jalons de déploiement (oui, je viens de parler de planning, sans doute parce que c'est l'un des rares endroits où ça ait du sens - heureusement, vous pouvez créer ce <a href="https://plantuml.com/fr/gantt-diagram">planning avec PlantUML</a>). Quand et comment, ça veut surtout dire que vos développeurs vont devoir rencontrer les opérationnels, et discuter avec eux. Et ça, ça veut dire parler <a href="https://fr.wikipedia.org/wiki/Devops">DevOps</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Attention, je n'ai pas écrit là que votre équipe doit avoir une culture DevOps. J'ai juste écrit qu'il fallait se poser la question de la relation entre les développeurs et les opérationnels. Parce que le moment où l'application est déployée (en prod), c'est aussi le moment où on se pose des questions, dont les réponses devront figurer dans cette section. Des questions aussi triviales que</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Combien d'instances de chaque conteneur déploie-t-on ?</li><li>Quand fournit-on nos livrables ?<ul><li>A quelle fréquence</li></ul></li><li>Comment on fournit les livrables aux équipes opérationnelles ?<ul><li>De quels livrables parle-t-on ?</li><li>Le code ?</li><li>La configuration ?</li><li>Les schémas de données ?</li><li>Les règles de firewall ?</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Voilà le genre de questions auxquelles il faut répondre. Et si je parlais de DevOps plus haut, c'est parce que cette pratique, qui vise à fluidifier la communication entre développeurs et opérationnels, peut structurer ces questions à travers des acronymes aussi amusants que <a href="https://itrevolution.com/devops-culture-part-1/">CALMS</a> ou <a href="https://12factor.net/fr/">12-factors</a>. Et franchement, ça va vous aider à livrer plus correctement en prod.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une fois que vous aurez répondu à ces questions s'en poseront de nouvelles. Comme par exemple comment vérifier que votre système logiciel est livré correctement dans les bons environnements ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour illustrer ça, je vais prendre <a href="https://riduidel.wordpress.com/2020/04/07/prenons-un-exemple-darchitecture/">l'exemple qui nous accompagne dans toute cette série d'articles</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans mon exemple de référence, j'ai fait le choix de gérer l'intégration continue avec <a href="https://jenkins-x.io/">Jenkins-X</a>. J'ai quelques collègues qui n'apprécient pas l'idée, mais de mon point de vue de développeur, c'est franchement chouette : on reprend un outil éprouvé, on le place dans un nouvel environnement en lui donnant de nouvelles capacités. Donc, dans notre exemple, <a href="https://fr.wikipedia.org/wiki/Int%C3%A9gration_continue">l'intégration continue</a>, ainsi que le <a href="https://fr.wikipedia.org/wiki/D%C3%A9ploiement_continu">déploiement continu</a> sont gérés par Jenkins-X. Ca veut dire que mon code est livré dans mon environnement dès qu'une pull-request est considérée comme valide et mergée, le code associé est déployé en prod. Ca implique plusieurs choses : d'abord, mon équipe de dév est aussi mon équipe d'ops, parce que le cluster Kubernetes est le même pour tous les usages (ce qui a des contraintes sur son dimensionnement), ensuite il faut que je sache ce que signifie déployer une application dans Kubernetes, et donc que j'en comprenne le vocabulaire spécifique (les ingress, les services, les déploiements, ...) afin de documenter correctement l'architecture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A ce sujet, comme d'habitude, si je peux ne pas écrire la doc, mais la faire générer à partir des informations effectives dont je dispose, je le ferai sans hésiter. Surtout qu'il existe un très efficace client Kubernetes en Java. Mais comment documenter ça ? <a href="https://c4model.com/#DeploymentDiagram">C4 définit un diagramme de déploiement</a> qui a sa déclinaison dans Structurizr, et donc je vais générer ce diagramme à partir des informations dont je dispose dans Kubernetes. De cette manière, j'aurai mon diagramme à jour. Et concernant le sujet spécifique de l'intégration continue et du déploiement continu, je peux appliquer la même logique parce que Jenkins-X expose l'ensemble des informations de manière synthétique. Je peux donc décrire tout mon déploiement d'une manière qui s'adapte automatiquement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et comme le déploiement fait partie des sujets qui évoluent régulièrement dans les équipes, il vaut mieux se munir d'une solution capable de suivre sans effort l'évolution des pratiques des développeurs ... Ce qu'on verra également dans la partie suivante.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simon Brown on Twitter: "Epic. 🤣 https://t.co/gQ6AzHIvhP"
+:jbake-tags: software,architecture,carrière,citation,_mois_mars,_année_2017
+:jbake-date: 2017-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1489996030000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsimonbrown%2Fstatus%2F842708660203765762&searchtags=software+architecture+carri%C3%A8re+citation+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/simonbrown/status/842708660203765762[Simon Brown on Twitter: "Epic. 🤣 https://t.co/gQ6AzHIvhP"]
+
+Yep. Architecte en tant que titre, ça craint un max.

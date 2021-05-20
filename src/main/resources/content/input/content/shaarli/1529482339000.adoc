@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: httpbin.org
+:jbake-tags: web,http,architecture,test,_mois_juin,_année_2018
+:jbake-date: 2018-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1529482339000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhttpbin.org%2F%23%2F&searchtags=web+http+architecture+test+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://httpbin.org/#/[httpbin.org]
+
+Oh mais c'est pas mal du tout cet outil de test http

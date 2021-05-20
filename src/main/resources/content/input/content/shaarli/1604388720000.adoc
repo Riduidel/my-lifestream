@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: <brick-viewer>
+:jbake-tags: lego,web,webcomponent,viewer,_mois_nov.,_année_2020
+:jbake-date: 2020-11-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1604388720000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpolymerlabs.github.io%2Fbrick-viewer%2F&searchtags=lego+web+webcomponent+viewer+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://polymerlabs.github.io/brick-viewer/[<brick-viewer>]
+
+Il y a parfois des choses vraiment bien sur le web. Et ce viewer de modèles lego dans le navigateur en fait clairement partie.

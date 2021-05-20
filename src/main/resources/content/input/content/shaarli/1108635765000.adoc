@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cHBs - Open and Free Project Management Tools
+:jbake-tags: freeware,software,gtd,projet,_mois_févr.,_année_2005
+:jbake-date: 2005-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1108635765000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fproj.chbs.dk%2F&searchtags=freeware+software+gtd+projet+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://proj.chbs.dk/[cHBs - Open and Free Project Management Tools]
+
+This is the place where you can follow the development and status of the project management tools under some kind of Open Source or Free Software license.

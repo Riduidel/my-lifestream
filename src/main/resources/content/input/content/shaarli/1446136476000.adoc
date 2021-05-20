@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les 30 Sélecteurs CSS à Absolument Connaître - Tuts+ Code Tutorial
+:jbake-tags: css,web,tutorial,cheatsheet,_mois_oct.,_année_2015
+:jbake-date: 2015-10-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1446136476000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.tutsplus.com%2Ffr%2Ftutorials%2Fthe-30-css-selectors-you-must-memorize--net-16048&searchtags=css+web+tutorial+cheatsheet+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://code.tutsplus.com/fr/tutorials/the-30-css-selectors-you-must-memorize--net-16048[Les 30 Sélecteurs CSS à Absolument Connaître - Tuts+ Code Tutorial]
+
+Un bon résumé des sélecteurs CSS "essentiels"

@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurent Kloetzer
+:jbake-tags: author
+:jbake-date: 2001-11-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1529258.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1286562685p5/1529258.jpg
+:jbake-source: https://www.goodreads.com/author/show/1529258
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070357406.html[Le Royaume blessé]
+* link:../books/9782070418350.html[La Voie du Cygne]
+* link:../books/9782072766022.html[Vostok]
+* link:../books/9782843449307.html[Issa Elohim]
+* link:../books/9782911618222.html[Mémoire vagabonde]

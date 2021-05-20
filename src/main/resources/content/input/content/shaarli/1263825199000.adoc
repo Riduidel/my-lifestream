@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Henri Bergius: Weblog: What is a content repository
+:jbake-tags: stockage,repository,couchdb,jcr,java,j2ee,_mois_janv.,_année_2010
+:jbake-date: 2010-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1263825199000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbergie.iki.fi%2Fblog%2Fwhat_is_a_content_repository%2F&searchtags=stockage+repository+couchdb+jcr+java+j2ee+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://bergie.iki.fi/blog/what_is_a_content_repository/[Henri Bergius: Weblog: What is a content repository]
+
+Un très bon récapitulatif de trois grands types de data repositories.

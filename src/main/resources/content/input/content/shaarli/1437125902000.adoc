@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trang
+:jbake-tags: xml,xsd,java,_mois_juil.,_année_2015
+:jbake-date: 2015-07-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1437125902000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.thaiopensource.com%2Frelaxng%2Ftrang.html&searchtags=xml+xsd+java+_mois_juil.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.thaiopensource.com/relaxng/trang.html[Trang]
+
+Un outil génial qui infère une XSD à partir de fichiers XML d'exemple

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Electron is Cancer – Casper Beyer – Medium
+:jbake-tags: web,satire,programming,_mois_nov.,_année_2017
+:jbake-date: 2017-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1510150898000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40caspervonb%2Felectron-is-cancer-b066108e6c32&searchtags=web+satire+programming+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.com/@caspervonb/electron-is-cancer-b066108e6c32[Electron is Cancer – Casper Beyer – Medium]
+
+Ah c'est du bon troll. Je vais reprendre avec bonheur l'argument qui dit que les applications Electron ne sont que des pages web

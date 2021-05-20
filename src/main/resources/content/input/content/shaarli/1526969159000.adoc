@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Arundel on Twitter: "Proselint is a linter for prose—a command-line tool which analyzes text for redundancy, jargon, illogic, clichés, sexism, misspelling, inconsistency, misuse of symbols, malapropisms, oxymorons, security gaffes, hedging, apologizing, pretension, and more https://t.co/Y8xb47WaHa… https://t.co/nxso99sULf"
+:jbake-tags: langue,anglais,grammaire,validation,_mois_mai,_année_2018
+:jbake-date: 2018-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1526969159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbitfield%2Fstatus%2F997917588930924544&searchtags=langue+anglais+grammaire+validation+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/bitfield/status/997917588930924544[John Arundel on Twitter: "Proselint is a linter for prose—a command-line tool which analyzes text for redundancy, jargon, illogic, clichés, sexism, misspelling, inconsistency, misuse of symbols, malapropisms, oxymorons, security gaffes, hedging, apologizing, pretension, and more https://t.co/Y8xb47WaHa… https://t.co/nxso99sULf"]
+
+Un linter de grammaire anglaise. C'est génialement dingue ! Le même en français serait fabuleux

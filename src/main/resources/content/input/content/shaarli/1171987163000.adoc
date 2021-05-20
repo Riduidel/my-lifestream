@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sneer.org: Geek Links
+:jbake-tags: programming,culture,concepts,mathématiques,_mois_févr.,_année_2007
+:jbake-date: 2007-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1171987163000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsneer.org%2Farchives%2F2006%2F02%2F10%2Fgeek_links%2F&searchtags=programming+culture+concepts+math%C3%A9matiques+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://sneer.org/archives/2006/02/10/geek_links/[sneer.org: Geek Links]
+
+Quelques liens très intéressants sur les concepts de programmation.

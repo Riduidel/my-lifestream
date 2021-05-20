@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Monads in Ruby, Part 1: Introduction - Moonbase
+:jbake-tags: documentation,concepts,programming,ruby,_mois_nov.,_année_2005
+:jbake-date: 2005-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1131529560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmoonbase.rydia.net%2Fmental%2Fwritings%2Fprogramming%2Fmonads-in-ruby%2F00introduction.html&searchtags=documentation+concepts+programming+ruby+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://moonbase.rydia.net/mental/writings/programming/monads-in-ruby/00introduction.html[Monads in Ruby, Part 1: Introduction - Moonbase]
+
+Provides a description of monads in Ruby

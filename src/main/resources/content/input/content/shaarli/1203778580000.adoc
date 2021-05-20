@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wesgarrison.us » ruby strftime options for date formatting
+:jbake-tags: reference,ruby,programming,date,_mois_févr.,_année_2008
+:jbake-date: 2008-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1203778580000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwesgarrison.us%2F2006%2F03%2F12%2Fruby-strftime-options-for-date-formatting%2F&searchtags=reference+ruby+programming+date+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://wesgarrison.us/2006/03/12/ruby-strftime-options-for-date-formatting/[wesgarrison.us » ruby strftime options for date formatting]
+
+Une référence sur le parsing des dates en Ruby. Pratique dès qu'on a besoin de formatter une date.

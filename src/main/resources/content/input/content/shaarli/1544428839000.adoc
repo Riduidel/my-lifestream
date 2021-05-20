@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sascha ☁ Möllering on Twitter: "Unpopular opinion: IMHO XML is much better for config files than YAML, because you can validate your configuration."
+:jbake-tags: citation,programming,yaml,xml,_mois_déc.,_année_2018
+:jbake-date: 2018-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1544428839000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsascha242%2Fstatus%2F1071823654407864320&searchtags=citation+programming+yaml+xml+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/sascha242/status/1071823654407864320[Sascha ☁ Möllering on Twitter: "Unpopular opinion: IMHO XML is much better for config files than YAML, because you can validate your configuration."]
+
+Et n'importe quel éditeur lisant une XSD fournit gratuitement la validation et l'autocomplétion ... Ce qu'on n'a toujours pas en YAML

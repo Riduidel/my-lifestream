@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hard Boiled
+:jbake-tags: serie
+:jbake-date: 2013-12-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hard_Boiled.adoc
+:jbake-source: https://www.goodreads.com/series/124262
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782756030081.html[Hard Boiled - Réédition]

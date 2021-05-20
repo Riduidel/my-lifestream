@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Politologue : Classement Facebook et Twitter du monde politique français - Politologue
+:jbake-tags: politique,france,big-data,_mois_mars,_année_2017
+:jbake-date: 2017-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1490112757000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.politologue.com%2F&searchtags=politique+france+big-data+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.politologue.com/[Politologue : Classement Facebook et Twitter du monde politique français - Politologue]
+
+Très chouette site qui utilise le big data pour analyser la politique.

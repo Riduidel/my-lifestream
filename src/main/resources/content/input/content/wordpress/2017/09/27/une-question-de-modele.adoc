@@ -1,0 +1,91 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une question de modèle
+:jbake-tags: bitcoin,web,_mois_sept.,_année_2017
+:jbake-date: 2017-09-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/09/27/une-question-de-modele.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/09/27/une-question-de-modele/
+:jbake-style: wordpress
+
+++++
+<p>
+Je suis tombé sur cette question sur Twitter la semaine dernière
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/TheHackersNews" class="screenName"><img src="http://pbs.twimg.com/profile_images/723571201449295877/-KeG1OdO_mini.jpg" alt="profile of The most trusted, widely read, independent source for breaking news and tech coverage on #cybersecurity, #infosec, #hacking. Contact - admin@thehackernews.com"/>TheHackersNews</a>
+<br/>
+<span class="name">The Hacker News</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/TheHackersNews/status/910 111 734 836 355 072" class="date">19 sept. 2017 à 14:02:01</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Would you agree if sites use in-browser cryptocurrency miner instead of displaying annoying ads to generate revenue? https://t.co/MlUYg6hkd0 https://t.co/HEjZLCSlTe</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DKEwJt0UMAIyqUx.jpg" alt="910 061 543 181 529 090"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Et aussi curieux que ça puisse paraître, ma réponse est un grand oui.
+</p>
+<p>
+Si demain un site veut utiliser mon CPU pour miner des cryptomonnaies, ce sera avec plaisir.
+</p>
+<p>
+Parce que le modèle économique de la publicité sur internet a pour moi des limites terribles
+<br/>
+<ul>
+<br/>
+<li>Comme il s'agit d'un modèle de l'attention, il limite le contenu visible en garnissant les pages web de bandeaux (animés ou non) de pop-ins et autres instrument réduisant mon écran à un panneau publicitaire géant</li>
+<br/>
+<li>Comme il s'agit d'un modèle de l'attention, il pousse les sites web vers le titre PUTACLIC, l'absence de contenu réel et une économie de l'attention qui réduit à néant les sites de qualité.</li>
+<br/>
+</ul>
+<br/>
+Bon, alors, évidement, ce nouveau mode de fonctionnement a des inconvénients clairs :
+<br/>
+<ul>
+<br/>
+<li>OH MON DIEU MON CPU EST UTILISE ! (parce qu'un CPU d'ordinateur moderne ne fait rien environ ... 95% du temps - statistique à vue de nez)</li>
+<br/>
+<li>Rien n'interdit à un site web de faire du minage et d'afficher de la publicité</li>
+<br/>
+</ul>
+<br/>
+Mais je pense que l'émergence d'une économie utilisant mon CPU d'une façon correcte, au lieu de squatter mon écran, pourrait être intéressante.
+</p>
+++++

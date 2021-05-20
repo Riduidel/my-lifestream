@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Error Handling Survey
+:jbake-tags: rust,programming,erreur,_mois_nov.,_année_2019
+:jbake-date: 2019-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1574623515000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.yoshuawuyts.com%2Ferror-handling-survey%2F&searchtags=rust+programming+erreur+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.yoshuawuyts.com/error-handling-survey/[Error Handling Survey]
+
+Un tour d'horizon bien complet des différentes solutions de gestion d'erreur Rust. Il manque toutefois la librairie que j'ai utilisé dans rrss2imap ...

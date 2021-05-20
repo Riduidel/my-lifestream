@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ghost in the Shell
+:jbake-tags: serie
+:jbake-date: 2010-04-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Ghost_in_the_Shell.adoc
+:jbake-source: https://www.goodreads.com/series/157184
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782723421089.html[Ghost in the Shell, tome 1]

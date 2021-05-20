@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'économie: Table des matières
+:jbake-tags: science,économie,ebook,web,_mois_juin,_année_2018
+:jbake-date: 2018-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1527935214000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcore-econ.org%2Fthe-economy%2Fbook%2Ffr%2Ftext%2F0-3-contents.html&searchtags=science+%C3%A9conomie+ebook+web+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://core-econ.org/the-economy/book/fr/text/0-3-contents.html[L'économie: Table des matières]
+
+Oh, dis donc, un ebook d'économie qui semble sortir de l'économie "médiatico-politique"

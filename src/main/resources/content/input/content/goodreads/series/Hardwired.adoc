@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hardwired
+:jbake-tags: serie
+:jbake-date: 2003-08-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hardwired.adoc
+:jbake-source: https://www.goodreads.com/series/49494
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782207249314.html[Câblé]

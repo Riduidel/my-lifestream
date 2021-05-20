@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WindowSwap
+:jbake-tags: visioconférence,web,webcam,paysage,_mois_mars,_année_2021
+:jbake-date: 2021-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1615814265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.window-swap.com%2F&searchtags=visioconf%C3%A9rence+web+webcam+paysage+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.window-swap.com/[WindowSwap]
+
+Si vous voulez des fonds d'écran virtuels pas surprenants, mais différents, ce site me paraît malin.

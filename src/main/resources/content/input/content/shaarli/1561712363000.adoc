@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RSS feeds for GitHub projects - GitHub Community Forum
+:jbake-tags: rss,github,hack,_mois_juin,_année_2019
+:jbake-date: 2019-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1561712363000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.community%2Ft5%2FHow-to-use-Git-and-GitHub%2FRSS-feeds-for-GitHub-projects%2Ftd-p%2F298&searchtags=rss+github+hack+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.community/t5/How-to-use-Git-and-GitHub/RSS-feeds-for-GitHub-projects/td-p/298[RSS feeds for GitHub projects - GitHub Community Forum]
+
+Est-ce que vous saviez qu'il y avait un flux RSS listant les releases de votre projet sur GitHub ? C'est très cool (et j'ai immédiatement ajouté le flux de rss-bridge et de shaarli dans mon lecteur RSS)

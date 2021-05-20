@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: if(version,startswith("windows 9") | source code search engine
+:jbake-tags: software,windows,programming,_mois_oct.,_année_2014
+:jbake-date: 2014-10-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1412238783000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsearchcode.com%2F%3Fq%3Dif%2528version%252Cstartswith%2528%2522windows%2B9%2522%2529&searchtags=software+windows+programming+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://searchcode.com/?q=if%28version%2Cstartswith%28%22windows+9%22%29[if(version,startswith("windows 9") | source code search engine]
+
+On peut donc confirmer que tout un tas de softs planteraient si Windows next s'appelait Windows 9.

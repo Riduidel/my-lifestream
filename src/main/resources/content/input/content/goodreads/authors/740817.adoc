@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fabrice Colin
+:jbake-tags: author
+:jbake-date: 2003-08-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/740817.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1279702807p5/740817.jpg
+:jbake-source: https://www.goodreads.com/author/show/740817
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290318003.html[Le Fils des Ténèbres (Winterheim #1)]
+* link:../books/9782290320426.html[La saison des conquêtes (Winterheim, #2)]
+* link:../books/9782842614188.html[Confessions d'un automate mangeur d'opium]

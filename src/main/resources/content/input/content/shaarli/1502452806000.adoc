@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: shekhargulati/building-java-web-apps-checklist: ✅ A checklist for building Java + Angular/React web applications in the correct way
+:jbake-tags: java,javascript,programming,check,_mois_août,_année_2017
+:jbake-date: 2017-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1502452806000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fshekhargulati%2Fbuilding-java-web-apps-checklist&searchtags=java+javascript+programming+check+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/shekhargulati/building-java-web-apps-checklist[shekhargulati/building-java-web-apps-checklist: ✅ A checklist for building Java + Angular/React web applications in the correct way]
+
+Très bonne checklist qui suit tout le développement Java/Javascript

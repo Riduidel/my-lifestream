@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VVI — Vvidget
+:jbake-tags: graph,macosx,software,science,visualisation,freeware,_mois_juil.,_année_2006
+:jbake-date: 2006-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1152535726000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.vvi.com%2Fproducts%2Fvvidget%2Findex.html&searchtags=graph+macosx+software+science+visualisation+freeware+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.vvi.com/products/vvidget/index.html[VVI — Vvidget]
+
+Un outil de génération de graphes qui a l'air excessivement puissant

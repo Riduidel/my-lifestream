@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robert Merle
+:jbake-tags: author
+:jbake-date: 2007-10-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/54354.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1216158704p5/54354.jpg
+:jbake-source: https://www.goodreads.com/author/show/54354
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070418329.html[Un animal doué de raison]

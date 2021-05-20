@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Goran sur Twitter : "One would expect that after such a long period of time, architecture diagramming is a well-known skill. Well, not quite — at least not in software engineering. Creating useful, up-to-date, code supporting and consistent software diagrams proves to be mastery, in fact." / Twitter
+:jbake-tags: architecture,diagram,citation,réflexion,_mois_juin,_année_2020
+:jbake-date: 2020-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1592850763000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fg_savic%2Fstatus%2F1274810931722190848&searchtags=architecture+diagram+citation+r%C3%A9flexion+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/g_savic/status/1274810931722190848[Goran sur Twitter : "One would expect that after such a long period of time, architecture diagramming is a well-known skill. Well, not quite — at least not in software engineering. Creating useful, up-to-date, code supporting and consistent software diagrams proves to be mastery, in fact." / Twitter]
+
+Je suis d'accord avec le constat fait précisément dans ce tweet, même si j'ai tendance à désapprouver les raisons évoquées. A mon avis, il s'agit plus du fait qu'un architecte est fondamentalement un rôle transient.

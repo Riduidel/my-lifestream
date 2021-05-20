@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Where is Your Username registered
+:jbake-tags: web,reference,utilities,search,web2.0,_mois_déc.,_année_2008
+:jbake-date: 2008-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1228123024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fusernamecheck.com%2F&searchtags=web+reference+utilities+search+web2.0+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://usernamecheck.com/[Where is Your Username registered]
+
+Je viens de passer environ 1/2 heure à retrouver ce site, alors maintenant que je l'ai, je ne vais sûrement pas le lâcher. D'autant plus que j'en ai besoin pour tester faviki ... Ce qui est quand même génial, c'est que quand je l'avais testé il y a à peine un mois, il était nettement plus frustre. Du coup, je trouve l'outil encore mieux fichu (même si ils atteignent déja les limites de mon écran).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Logging in JavaScript - log4js
+:jbake-tags: programming,javascript,library,web,langage,_mois_nov.,_année_2005
+:jbake-date: 2005-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1132131005000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjroller.com%2Fpage%2Fstritti%3Fentry%3Dlogging_in_javascript_log4js&searchtags=programming+javascript+library+web+langage+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://jroller.com/page/stritti?entry=logging_in_javascript_log4js[Logging in JavaScript - log4js]
+
+J'ai déja utilisé un outil analogue. Peut-être (je l'espère en tout cas) que celui-là serta mieux fichu ...

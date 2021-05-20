@@ -1,0 +1,118 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai mangé la pillule grise
+:jbake-tags: codingame,java,rust,_mois_mai,_année_2020
+:jbake-date: 2020-05-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/19/jai-mange-la-pillule-grise.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/19/jai-mange-la-pillule-grise/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>La semaine dernière, j'ai laissé ce blog vivre sa vie pour une raison qui ne surprendra pas grand monde ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/riduidel\/status\/1255942369347874826","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 255 942 369 347 874 826" class="date">30 avr. 2020 à 21:29:29</a>
+
+	<span class="content">
+	
+	<span class="text">Du coup je vais pouvoir me ré-échauffer pour le prochain challenge @CodinGame (et je vais le tenter en #Rust)</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Et avant même d'aller plus loin, je voudrais m'excuser auprès de Xavier, que j'ai  ghosté parce que je ne savais pas comment répondre à sa proposition généreuse que je n'arriverai sans doute pas à lui tenir virtuellement compagnie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, j'ai participé au <a href="https://www.codingame.com/contests/spring-challenge-2020">Spring challenge sur Codingame</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et comme parfois je suis un homme qui respecte ses désirs, j'ai commencé ce challenge en Rust. Franchement, au début, ça n'était pas bien dur : en sachant où se trouvent toutes les pillules, faire un algorithme de recherche optimisé à la <a href="https://www.codingame.com/multiplayer/bot-programming/hypersonic">hypersonic</a> suffisait très largement. C'est d'ailleurs ce que j'ai <a href="https://github.com/Riduidel/codingame/commit/92cb90ef3358709e483aa5b1fc2216e68d28caba">implémenté en Rust</a>. Et franchement, l'implémentation est plus ou moins une implémentation de ce que j'aurais pu faire en Java. Oh, il y a quelques changements, comme l'utilisation des <a href="https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html">enums</a> en lieu et place de classes dérivées, mais franchement, ça n'était pas bien différent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et puis j'ai rencontré le mur de bronze ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous voyez, la différence dans ce challenge entre wood et bronze, c'est que dans les hautes ligues, vous perdez la vision des pastilles en dehors de votre champ de vision. Il vous faut donc gérer d'une part une mémoire, pour savoir ce que vous avez mangé, et d'autre part un terrain virtuel, pour envisager ce qui va se passer lorsque vous avez mangé quelque chose. Je me suis donc dit que j'allais créer un <a href="https://doc.rust-lang.org/book/ch10-02-traits.html">trait</a> Playground équivalent de mon interface Java. Sauf que j'avais des méthodes qui retournaient des traits. Et ce que j'ignorais avant de me lancer dans ce bot, c'est qu'en Rust, r<a href="https://stackoverflow.com/a/27535594/15619">etourner un trait unsized est impossible</a>. Si j'ai bien compris, c'est parce que la valeur retour d'une fonction circule sur la pile, et que ce qui est sur la pile Rust doit être Sized. Or évidement, comme mon trait était générique, il n'était pas Sized. Bref, j'avais atteint les limites de mes connaissances en Rust. Et j'étais bien content d'avoir déja atteint le bronze de cette façon ! Parce que mon code disposait de la plupart des outils dont j'ai l'habitude :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Des tests unitaires</li><li>Un générateur de sortie d'erreur me permettant facilement de transformer chaque tour en test unitaire</li><li>Une organisation du code en modules assez raisonnable</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Bref, du bon code pour le niveau atteint.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et donc, j'ai buté devant un mur, et j'ai choisi de le contourner en prenant mon chemin préféré : tout réécrire en Java en comptant sur mon talent et mon expérience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans cette réécriture, j'ai bénéficié de mes librairies déjà existantes, ce qui m'a fait gagner beaucoup de temps (en trois heures, j'avais atteint le même niveau de performance). J'ai donc passé pas mal de temps à travailler sur l'utilisation de la première seconde pour charger le maximum de choses en cache.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et vous savez quoi ? En Java, en une seconde, on fait ... énormément ... de choses. Dans le cas présent, lors de la première seconde après le chargement du terrain de jeu, je charge</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>La liste de tous les points du terrain sur lesquels mes pacs peuvent se trouver</li><li>Les directions de jeu possibles pour chacun de ces points</li><li>La liste des points visible dans chacune de ces directions dans trois cas : lorsque le pac est en vitesse normale, lorsqu'il speede, et sa portée de vue.</li><li>Et je commence même le chargement d'une liste de tous les points du terrain triés par distance à chaque point</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Bref, il y a beaucoup beaucoup d'éléments qui sont mis en cache.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par ailleurs, j'ai aussi eu une illumination (en écrivant mon code Rust) : si mes terrains sont des matrices, calculer les valeurs pour l'intégralité de ces matrices est souvent une mauvaise idée. Il vaudrait peut-être mieux pouvoir appliquer à chaque case une fonction de transformation (ou de combinaison). Pour l’anecdote, je voulais utiliser ça en Rust pour faire des additions de matrices quand elles contiennent des éléments additionnables. Mais àn cause de ces histoires de traits, je n'ai pas (encore) réussi. En tout cas, en java, j'ai maintenant une API de matrices canon, avec des méthodes comme <code>Playground&#60;Output&#62; Playground#apply(Function&#60;Input, Output&#62; transform)</code>) dont je me suis servi avec autant d'abondance que de plaisir. Et surtout avec des performances très correctes, parce que les valeurs ne sont calculées qu'à la demande. Donc tout allait bien ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comme j'ai fini en argent, je dirai que non, tout n'a pas été si bien que ça. J'ai en particulier fait une erreur beaucoup trop commune dans les projets informatiques : négliger les tests. Comme tout le monde, j'avais une excuse parfaitement légitime, quoique peut-être un peu inhabituelle. Dans certains gros projets, on entend en effet dire que les tests, c'est du code supplémentaire à maintenir, et que les développeurs n'ont pas de temps à perdre avec ça. Pour ma part, je pense que ça, c'est une erreur. En revanche, je pensais avant ce challenge que les tests fossilisent en quelque sorte le code : quand vous écrivez un test, si vous devez changer l'API, vous devez aussi changer le test, et ça prend du temps. Et du temps, j'en avais de toute façon trop peu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, ce que vous lisez là, c'est l’excuse typique des chefs de projets qui laissent la dette technique s'installer sous prétexte du coût des tests. Et moi, vieux développeur, partisan raisonné des tests, je l'ai utilisé pour laisser la sous-qualité s'installer. Parce que ce qui est arrivé assez rapidement, c'est que je me suis retrouvé avec des régressions et des trucs louches que je n'arrivais pas à corriger. Résultat, du temps perdu, et de la déprime à la pelle. Parce que voir mon bot échouer sans trop comprendre pourquoi (alors que j'essaye justement d'écrire du code déterministe) est franchement déprimant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Qu'est-ce que je retiens de ce challenge douloureux ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Comme ce super plugin maven que j'ai écrit et qui me permet d'avoir des librairies, il me faut un moyen de me pousser à écrire des tests. Je compte regarder du côté des plugins maven, évidement et de la couverture de tests, bien sûr.</li><li>Hésiter, changer de stratégie n'est pas trop grave. Même changer de langage ça n'est pas si grave. Ce qui l'est, en revanche, c'est de jouer au mauvais développeur et de ne pas se donner les moyens de comprendre ce qui se passe (des mauvais toString(), une compréhension du terrain parcellaire)</li><li>Je suis parfaitement capable d'avoir du code totalement stateless tout en tenant compte de l'état du terrain, mais ça peut impliquer un écart entre la réalité et mon modèle. Si cet écart arrive, il faut absolument être capable de le mesurer, parce que c'est dans cet écart que se cachent les pires bugs</li><li>D'accord, une seconde d'initialisation, c'est beaucoup. Mais il y a dans la boucle de Codingame un autre gisement de temps : c'est le délai entre l'écriture de mes commandes et la lecture de celles du tour suivant. Et là, apparemment, il y a du temps.</li><li>Partager le terrain entre mes pacs est sacrément simple.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Pour conclure, je crois que je n'ai été frustré à ce point par aucun autre challenge. Mais je recommencerai quand même, parce que même si mes pacs étaient médiocres, il est quand même toujours sacrément chouette de les voir se déplacer.</p>
+<!-- /wp:paragraph -->
+++++

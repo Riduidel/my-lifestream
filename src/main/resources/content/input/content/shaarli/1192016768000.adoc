@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Main Page - FREE MMORPG wiki
+:jbake-tags: jeu,list,multiplayer,online,_mois_oct.,_année_2007
+:jbake-date: 2007-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1192016768000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wiki4mmo.com%2Findex.php%3Ftitle%3DMain_Page&searchtags=jeu+list+multiplayer+online+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.wiki4mmo.com/index.php?title=Main_Page[Main Page - FREE MMORPG wiki]
+
+Un site recensant tous les MMORPG gratuits

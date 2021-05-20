@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Use Flow? · Aria
+:jbake-tags: programming,web,javascript,type,_mois_sept.,_année_2016
+:jbake-date: 2016-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1474541930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.aria.ai%2Fpost%2Fwhy-use-flow%2F&searchtags=programming+web+javascript+type+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.aria.ai/post/why-use-flow/[Why Use Flow? · Aria]
+
+L'idée est suffisamment folle pour être marrante

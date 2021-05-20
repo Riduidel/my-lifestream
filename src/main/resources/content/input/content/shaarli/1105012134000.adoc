@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My Favorite Smallware :: MarkTAW.com
+:jbake-tags: software,list,windows,_mois_janv.,_année_2005
+:jbake-date: 2005-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1105012134000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.marktaw.com%2Freviews%2FMyFavoriteSmallware.html&searchtags=software+list+windows+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.marktaw.com/reviews/MyFavoriteSmallware.html[My Favorite Smallware :: MarkTAW.com]
+
+When I install a new OS, or am setting myself up at a new computer, some programs always end up coming with me and are installed within a week. My last OS install was about a month ago, here's a brief list of some of the programs that are on my computer n

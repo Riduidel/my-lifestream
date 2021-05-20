@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Developer hiring and the market for lemons
+:jbake-tags: emploi,programming,_mois_oct.,_année_2016
+:jbake-date: 2016-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1477407783000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdanluu.com%2Fhiring-lemons%2F&searchtags=emploi+programming+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://danluu.com/hiring-lemons/[Developer hiring and the market for lemons]
+
+D'autant plus intéressant que ça (re)commence à me concerner

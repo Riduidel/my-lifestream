@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brianna Wu on Twitter: "There is no reason not to use "primary" and "replica" in lieu of "master" and "slave." It's more a neutral AND more accurate description."
+:jbake-tags: citation,égalité,vocabulaire,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1461427965000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSpacekatgal%2Fstatus%2F723738903736365056&searchtags=citation+%C3%A9galit%C3%A9+vocabulaire+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/Spacekatgal/status/723738903736365056[Brianna Wu on Twitter: "There is no reason not to use "primary" and "replica" in lieu of "master" and "slave." It's more a neutral AND more accurate description."]
+
+Très bonne idée. Je prends.

@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fairy Tail, Tome 1 (Fairy Tail, #1)
+:jbake-tags:  aventure, magie,_année_2016,_mois_juil.,_note_2,rayon-bd,read
+:jbake-date: 2016-07-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782845999145.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327840041l/5989470._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327840041l/5989470._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/5989470
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Les guildes magiques sont des associations. Elles proposent différentes tâches aux magiciens, allant de la recherche d'un objet à l'attaque en règle. Lucy, une jeune fille, rêve de devenir magicienne. Un jour, elle rencontre Natsu, un magicien maîtrisant le feu, ce dernier l'invite alors à rejoindre sa guilde. Il s'agit de la célèbre Fairy Tail, le sujet de tous les rêves de Lucy. Mais celle-ci est bien mystérieuse et semble être à l'origine de nombreux scandales.
+</div>
+++++
+
+
+## Authors
+* link:../authors/1416339.html[Docteur No]
+* link:../authors/150810.html[Hiro Mashima]
+* link:../authors/2105854.html[Vincent Zouzoulkovsky]
+
+## Series
+* link:../series/Fairy_Tail.html[Fairy Tail]
+
+## Review
+
+++++
+Intriguant, pas forcément très malin, mais plutôt amusant dans l'ensemble.<br/>Je comprend que les enfants apprécient, même si je trouve ça un peu vain.
+++++

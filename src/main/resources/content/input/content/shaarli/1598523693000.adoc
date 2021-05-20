@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arwes - Sci-Fi UI Framework
+:jbake-tags: css,web,javascript,framework,layout,style,_mois_août,_année_2020
+:jbake-date: 2020-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1598523693000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farwes.dev%2F&searchtags=css+web+javascript+framework+layout+style+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://arwes.dev/[Arwes - Sci-Fi UI Framework]
+
+C'est une idée assez marrante. Personnellement, je ne vois pas pourquoi il faut du React pour un truc qui pourrait être "juste" une feuille de style. Mais ça peut être assez curieusement chouette.

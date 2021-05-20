@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Greenfoot | Latest Activity
+:jbake-tags: programming,java,éducation,enfants,_mois_nov.,_année_2011
+:jbake-date: 2011-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1321525410000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.greenfoot.org%2Fhome&searchtags=programming+java+%C3%A9ducation+enfants+_mois_nov.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.greenfoot.org/home[Greenfoot | Latest Activity]
+
+Un joli IDE d'apprentissage de la programmation utilisant Java.

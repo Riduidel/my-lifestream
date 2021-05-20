@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Super Mario War
+:jbake-tags: freeware,jeu,linux,macosx,multiplayer,réseau,software,windows,_mois_janv.,_année_2008
+:jbake-date: 2008-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1200047594000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsmw.72dpiarmy.com%2F&searchtags=freeware+jeu+linux+macosx+multiplayer+r%C3%A9seau+software+windows+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://smw.72dpiarmy.com/[Super Mario War]
+
+Une déclinaison de Mario pour du multijoueur pas forcément amical ... Bien sûr, c'est pas officiel, mais bon, ça peut être fun.

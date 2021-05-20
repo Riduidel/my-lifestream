@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Building a widget for Druid
+:jbake-tags: rust,programming,library,desktop,widgets,_mois_oct.,_année_2019
+:jbake-date: 2019-10-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1572527939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpauljmiller.com%2Fposts%2Fdruid-widget-tutorial.html&searchtags=rust+programming+library+desktop+widgets+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://pauljmiller.com/posts/druid-widget-tutorial.html[Building a widget for Druid]
+
+Une librairie pour faire des widgets de bureau en Rust ? (gasp) j'ai tellement envie de l'utiliser.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Flying guns
+:jbake-tags: jeu,software,freeware,java,_mois_janv.,_année_2008
+:jbake-date: 2008-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1200046402000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflyingguns.com%2F&searchtags=jeu+software+freeware+java+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://flyingguns.com/[Flying guns]
+
+Un jeu de simulation de vol danspendant la première guerre mondiale. Ca pourrait me rappeler la belle époque ...

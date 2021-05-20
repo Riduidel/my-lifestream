@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jérôme Petazzoni sur Twitter : "That shouldn't be controversial! Behind every "10x engineer", there are 9 folks working on docs, tests, tooling, scaling, ... to empower the whole team to go fast. My most notable team contributions weren't code, but removing roadblocks for others so they could ship faster." / Twitter
+:jbake-tags: citation,organisation,équipe,développeur,_mois_juil.,_année_2020
+:jbake-date: 2020-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1593597089000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjpetazzo%2Fstatus%2F1277902741193535489&searchtags=citation+organisation+%C3%A9quipe+d%C3%A9veloppeur+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/jpetazzo/status/1277902741193535489[Jérôme Petazzoni sur Twitter : "That shouldn't be controversial! Behind every "10x engineer", there are 9 folks working on docs, tests, tooling, scaling, ... to empower the whole team to go fast. My most notable team contributions weren't code, but removing roadblocks for others so they could ship faster." / Twitter]
+
+C'est marrant, parce que pour moi, c'est ça la vraie définition du fameux "10x engineer" : la personne qui enlève les freins de l'équipe, et surtout pas celle qui la tire comme un dingue.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Code Notes, an open source code snippet manager to increase our productivity! 🚀 - DEV Community 👩‍💻👨‍💻
+:jbake-tags: code,bibliothèque,software,freeware,open-source,windows,linux,macosx,_mois_févr.,_année_2019
+:jbake-date: 2019-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1549869566000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Flauthieb%2Fcode-notes-an-open-source-code-snippet-manager-to-increase-our-productivity--3l6l&searchtags=code+biblioth%C3%A8que+software+freeware+open-source+windows+linux+macosx+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dev.to/lauthieb/code-notes-an-open-source-code-snippet-manager-to-increase-our-productivity--3l6l[Code Notes, an open source code snippet manager to increase our productivity! 🚀 - DEV Community 👩‍💻👨‍💻]
+
+C'est une chouette idée, je me demande juste comment ce navigateur dédié s'intègre à mes différents IDE (VSCode, Eclipse, ...)

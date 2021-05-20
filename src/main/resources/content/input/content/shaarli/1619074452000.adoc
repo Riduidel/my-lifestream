@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Signal >> Blog >> Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective
+:jbake-tags: cyberpunk,hack,sécurité,software,open-source,_mois_avr.,_année_2021
+:jbake-date: 2021-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1619074452000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsignal.org%2Fblog%2Fcellebrite-vulnerabilities%2F&searchtags=cyberpunk+hack+s%C3%A9curit%C3%A9+software+open-source+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://signal.org/blog/cellebrite-vulnerabilities/[Signal >> Blog >> Exploiting vulnerabilities in Cellebrite UFED and Physical Analyzer from an app's perspective]
+
+La guerre cyberpunk à l'état brut : Cellebrite peut accéder aux données Signal, donc Signal a développé une bombe logique pour que les téléphones l'utilisant soient inviolables par Cellebrite.

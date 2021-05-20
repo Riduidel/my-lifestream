@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les articles tronqués, ça fait chier
+:jbake-tags: rss,web,_mois_févr.,_année_2014
+:jbake-date: 2014-02-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/02/04/les-articles-tronques-ca-fait-chier.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/02/04/les-articles-tronques-ca-fait-chier/
+:jbake-style: wordpress
+
+++++
+<p>
+Oui, je suis vulgaire. Mais là, j'ai une bonne raison : regardez donc ce que m'affiche KrissFeed :
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2014/02/kriss-feed-7-opera_2014-02-04_17-15-22.png"><img class="aligncenter size-large wp-image-2202" alt="Kriss feed (7) - Opera_2014-02-04_17-15-22" src="http://riduidel.files.wordpress.com/2014/02/kriss-feed-7-opera_2014-02-04_17-15-22.png?w=520" width="520" height="70" /></a>
+</p>
+<p>
+Vous croyez vraiment que Maïa Mazaurette va me gonfler à me parler de montres que je ne veux ni ne peux acheter ? Moi non plus, je ne crois pas. Surtout quand la page de <a href="http://www.gqmagazine.fr/sexactu">Sexactu</a> affiche en réalité cela :
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2014/02/sexactu-_-gq-magazine-_-gq-opera_2014-02-04_17-18-26.png"><img class="aligncenter size-large wp-image-2203" alt="Sexactu _ GQ Magazine _ GQ - Opera_2014-02-04_17-18-26" src="http://riduidel.files.wordpress.com/2014/02/sexactu-_-gq-magazine-_-gq-opera_2014-02-04_17-18-26.png?w=520" width="520" height="368" /></a>
+</p>
+<p>
+Article que je n'ai même pas lu, parce qu'il était noyé dans le bruit de GQ.
+</p>
+<p>
+Tout ça, c'est la faute des flux RSS, et de ceux qui veulent les polluer ... Parce que bon, sur cette page, le seul flux RSS indiqué est, évidement, celui du magazine complet (donc avec la fameuse montre pour celui qui n'a rien dans le slip). Donc, il va me falloir une solution ... radicale.
+</p>
+<p>
+Heureusement, SebSauvage est là !
+</p>
+<p>
+J'avais dans mon Krissfeed son <a href="http://sebsauvage.net/links/?wVLb1g">lien Shaarli</a> évoquant par la bande <a href="https://github.com/sebsauvage/rss-bridge">rss-bridge</a>, et je me disais que ce serait peut-être une addition utile ... Eh bien maintenant j'en suis sûr : je vais l'installer chez moi et écrire le bout de PHP qui me permettra de récupérer les articles de Sexactu (et sans doute des 400 culs également, puisque j'utilise pour ces deux sites <a href="fulltextrssfeed.com">FullTextRSS</a>). Et bien sûr, je partgerai ça sur github (même sis je ne suis pas sûr que ça serve à grand monde :-))
+</p>
+<p>
+Oh, et en bonus, je crois que je vais m'ajouter les joies du code et ma timeline twitter dans Krissfeed, ce sera pratique.
+</p>
+<p>
+&#160;
+</p>
+<p>
+Bon, après install ... c'est quand même fastidieux de devoir télécharger le parseur DOM à la main, j'aurais bien aimé qu'un script soit lancé sur ma machine pour le faire ... Et puis j'ai pas ma timeline twitter, juste mes messages (oui, je fais le grognon). Bon,c ela dit, ça m'a l'air bien organisé, même si pour l'instant mon Sexactu ne génère rien. On verra plus tard ...
+</p>
+++++

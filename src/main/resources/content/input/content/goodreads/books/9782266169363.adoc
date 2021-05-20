@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Va-t-en-guerre (Les annales du Disque-Monde, tome 21)
+:jbake-tags:  guerre, politique, rayon-imaginaire,_année_2007,_mois_mars,_note_5,fantasy,read
+:jbake-date: 2007-03-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266169363.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327922401l/2127960._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327922401l/2127960._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2127960
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Une île a surgi entre Ankh-Morpok et le royaume de Klatch.<br />Mais à qui appartient ce nouveau territoire ? La tension monte entre les deux peuples qui veulent se l'approprier. Les tentatives de négociation échouent, l'ambassadeur du Klatch est assassiné à son arrivée chez ses voisins. La guerre sera-t-elle la seule solution ? Le commissaire Vimaire tremble sous cette menace inédite et fera tout pour empêcher le conflit. Mais la folie s'est emparée des citoyens et des dirigeants d'Ankh-Morpok : haine, violence, meurtres...<br />La peur de l'inconnu ? Vimaire est bien seul dans la tourmente. Enfin, il a toujours son équipe du Guet...
+</div>
+++++
+
+
+## Authors
+* link:../authors/58715.html[Patrick Couton]
+* link:../authors/1654.html[Terry Pratchett]
+
+## Series
+* link:../series/Discworld.html[Discworld]
+* link:../series/Discworld_-_Ankh-Morpork_City_Watch.html[Discworld - Ankh-Morpork City Watch]
+
+## Review
+
+++++
+
+++++

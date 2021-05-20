@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DRAKON Editor Web
+:jbake-tags: programming,web,architecture,diagram,_mois_oct.,_année_2016
+:jbake-date: 2016-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1475745304000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdrakon-editor.com%2F&searchtags=programming+web+architecture+diagram+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://drakon-editor.com/[DRAKON Editor Web]
+
+Chouette éditeur de diagrammes de flux. Et vous vous rendez compte que ça a commencé en TCL ?

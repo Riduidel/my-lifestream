@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comprendre Python en 5 minutes - Je suis un dev
+:jbake-tags: python,programming,langage,introduction,_mois_juin,_année_2020
+:jbake-date: 2020-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1592236278000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.jesuisundev.com%2Fcomprendre-python-en-5-minutes%2F&searchtags=python+programming+langage+introduction+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.jesuisundev.com/comprendre-python-en-5-minutes/[Comprendre Python en 5 minutes - Je suis un dev]
+
+Une introduction correcte à Python

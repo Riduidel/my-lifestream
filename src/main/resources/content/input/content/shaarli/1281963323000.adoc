@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ember Media Manager - Aperçu - Ember Media Manager
+:jbake-tags: catalog,mediacenter,metadata,film,windows,freeware,open-source,_mois_août,_année_2010
+:jbake-date: 2010-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1281963323000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fembermm.com%2F&searchtags=catalog+mediacenter+metadata+film+windows+freeware+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://embermm.com/[Ember Media Manager - Aperçu - Ember Media Manager]
+
+Un outil magique de reconstruction des métadonnées de vidéo à partir des infos disponibles sur le web

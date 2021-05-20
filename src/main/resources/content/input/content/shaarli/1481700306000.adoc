@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Electricity Map | Live CO2 emissions of the European electricity production
+:jbake-tags: énergie,écologie,consomation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1481700306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Felectricitymap.tmrow.co%2F&searchtags=%C3%A9nergie+%C3%A9cologie+consomation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://electricitymap.tmrow.co/[Electricity Map | Live CO2 emissions of the European electricity production]
+
+Une carte d'Europe de la consomation électrique instantanée. Très chouette.

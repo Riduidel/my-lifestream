@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeGo le logiciel indispensable des Freenautes !
+:jbake-tags: client,freeware,réseau,software,windows,_mois_nov.,_année_2004
+:jbake-date: 2004-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1099903183000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.free-go.net%2F&searchtags=client+freeware+r%C3%A9seau+software+windows+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.free-go.net/[FreeGo le logiciel indispensable des Freenautes !]
+
+FreeGo simplifie l'accès à vos données personnelles Free. De plus, cet outil vous permet en un clic d'être informé de l'état du réseau, des innovations de votre fournisseur d'accès, de tester votre débit, de consulter vos e-mails et bien plus enc

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L’expérience démocratique
+:jbake-tags: software,freeware,open-source,linux,démocratie,nomic,culture,politique,_mois_avr.,_année_2005
+:jbake-date: 2005-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1113378565000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.demexp.org%2Frubrique.php3%3Fid_rubrique%3D2&searchtags=software+freeware+open-source+linux+d%C3%A9mocratie+nomic+culture+politique+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.demexp.org/rubrique.php3?id_rubrique=2[L’expérience démocratique]
+
+

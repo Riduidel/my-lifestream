@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Extensible Component Scanner - User Manual
+:jbake-tags: java,programming,reflection,library,_mois_oct.,_année_2015
+:jbake-date: 2015-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1444470487000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fextcos.matthiasrothe.com%2F%23_Toc288506248&searchtags=java+programming+reflection+library+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://extcos.matthiasrothe.com/#_Toc288506248[Extensible Component Scanner - User Manual]
+
+L'API de cette librairie est encore plus chouette que celle de reflections.

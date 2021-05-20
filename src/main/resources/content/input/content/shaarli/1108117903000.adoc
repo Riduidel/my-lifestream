@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gnomz.com - comic creator - comics creator
+:jbake-tags: web,bande-dessinée,_mois_févr.,_année_2005
+:jbake-date: 2005-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1108117903000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gnomz.com%2F&searchtags=web+bande-dessin%C3%A9e+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.gnomz.com/[gnomz.com - comic creator - comics creator]
+
+Site communautaire de création de bd en ligne

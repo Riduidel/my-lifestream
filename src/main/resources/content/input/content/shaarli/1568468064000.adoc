@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TatriX/wordpress-to-zola: Convert wordpress xml dump to zola static site generator markdown files
+:jbake-tags: wordpress,blog,zola,static,rust,open-source,_mois_sept.,_année_2019
+:jbake-date: 2019-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1568468064000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FTatriX%2Fwordpress-to-zola&searchtags=wordpress+blog+zola+static+rust+open-source+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/TatriX/wordpress-to-zola[TatriX/wordpress-to-zola: Convert wordpress xml dump to zola static site generator markdown files]
+
+Intéressant ... J'espère juste que ça gère bien les shortcodes et autres ....

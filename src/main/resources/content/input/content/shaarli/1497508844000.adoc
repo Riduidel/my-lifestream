@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parisa Tabriz on Twitter: "Dance like no one is watching. Encrypt like everyone is. 💃👩‍💻"
+:jbake-tags: citation,sécurité,programming,encryption,_mois_juin,_année_2017
+:jbake-date: 2017-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1497508844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flaparisa%2Fstatus%2F873640290254413824&searchtags=citation+s%C3%A9curit%C3%A9+programming+encryption+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/laparisa/status/873640290254413824[Parisa Tabriz on Twitter: "Dance like no one is watching. Encrypt like everyone is. 💃👩‍💻"]
+
+

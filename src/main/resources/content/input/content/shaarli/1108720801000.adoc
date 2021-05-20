@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Opera Wiki :: The Opera 7 Web Browser
+:jbake-tags: software,freeware,browser,Opera,tutorial,documentation,_mois_févr.,_année_2005
+:jbake-date: 2005-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1108720801000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nontroppo.org%2Fwiki%2FOpera7&searchtags=software+freeware+browser+Opera+tutorial+documentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.nontroppo.org/wiki/Opera7[Opera Wiki :: The Opera 7 Web Browser]
+
+Welcome to the Opera 7 Wiki! These pages collect a range of information relating to tips, customisation, and technical details in the new version of Opera. Because this is a wiki, these pages are open to all who want to add information they consider impor

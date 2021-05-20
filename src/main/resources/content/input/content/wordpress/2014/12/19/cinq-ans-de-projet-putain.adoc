@@ -1,0 +1,232 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cinq ans de projet, putain !
+:jbake-tags: agile,gestiondeprojet,_mois_déc.,_année_2014
+:jbake-date: 2014-12-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/12/19/cinq-ans-de-projet-putain.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/12/19/cinq-ans-de-projet-putain/
+:jbake-style: wordpress
+
+++++
+<p>
+TL-DR
+</p>
+<p>
+Dans une série d'article commençant par <a title="Cinq ans, putain !" href="http://riduidel.wordpress.com/2014/12/12/cinq-ans-putain/">cinq ans, putain !</a> j'essaye de faire un post-mortem d'un projet d'environ 5 ans de dév. Là, je vais vous parler gestion de projet. Ca n'est peut-être pas mon rôle, mais j'y ai trempé un peu.
+</p>
+<p>
+Ouaip, bosser sur le même projet pendant cinq ans, c'est long.
+</p>
+<p>
+Quand on a commencé ce fichu projet, on s'est dit que ce serait bien de faire de l'agile plutôt que du n'importe quoi, comme c'était auparavant l'usage dans la boîte.
+<br/>
+<h4>Du n'importe quoi ?</h4>
+<br/>
+Oui : sur la première année, j'ai aidé mes collègues à finir de livrer une version du logiciel historique dont la date de livraison initiale était ... avant mon arrivée dans l'entreprise. Et en fait, il a fallu toute la première année pour livrer.
+</p>
+<p>
+Et encore, on a gagné du temps en
+<br/>
+<ul>
+<br/>
+<li>mentant pendant les comités de pilotage</li>
+<br/>
+<li>virant la moitié des fonctionnalités</li>
+<br/>
+<li>introduisant des gros hacks pour que ça marche</li>
+<br/>
+</ul>
+<br/>
+Est-ce que c'était intellectuellement satisfaisant ? Bien sûr que non. Surtout que de l'agile qui marche, j'ai déja vu ça il y a bien des années. J'étais donc plutôt déterminé à assister mon mentor local dans cette transition.
+<br/>
+<h4>Allez on commence les assouplissements</h4>
+<br/>
+La première chose qu'on a mis en place, curieusement, c'est un pipeline d'intégration continue. Et ça a bien marché. Parce que ça nous permettait de ne plus stresser (trop) autour des livraisons. Bien sûr, des gros paquets de code foireux ont été livrés, et des retards conséquents ont été pris. Mais le fait de disposer chaque jour d'un build complet était (et est toujours) une satisfaction profonde, parce que ça donne une existence "concrète" au produit qu'on développe.
+</p>
+<p>
+Et puis il a fallu s'intéresser à l'amont. Les user stories, les tâches, les sprints et toute cette terminologie que je trouve rétrospectivement inutile et qui n'a en fait pas marché. Je vais essayer d'éclaircir.
+</p>
+<p>
+Donc, on a essayé de faire du <a href="http://www.wikiwand.com/fr/Scrum_%28m%C3%A9thode%29">scrum </a>(qui comme chacun le sait, est une forme d'agilité) et, à cause de notre équipe moitié intégrée, moitié distribuée, on a dû gérer nos tableaux avec un outil (qui n'est pas en cause ici).
+<br/>
+<h4>Raconte-moi une histoire - le backlog et les stories</h4>
+<br/>
+Evidement, dans ces tableaux, la première entrée, c'est le backlog, et dans ce backlog, on trouve les stories de notre client (en l'occurence, le marketting). Et c'est là qu'est le premier problème : faire du marketting, et réussir à exprimer un besoin, c'est loin d'être simple. Et les personnes qui s'en sont occupées n'ont sans doute pas été formées à cette tâche (mais ça, ça reviendra souvent). Du coup, on a pu rencontrer, malgré le formalisme assez classique "En tant que ..., Pour ..., Je voudrais .." des problèmes assez pénibles :
+<br/>
+<ul>
+<br/>
+<li>Toutes nos stories avaient comme rôle "l'utilisateur". Du coup, impossible de dégager différents sous-sytèmes ou autorisations qui auraient pu clarifier les choses. En fait, il a fallu attendre que le projet ait déja <strong>4 ans</strong> pour voir émerger différents rôles.</li>
+<br/>
+<li>Il n'y avait que rarement des demandes, et bien plus souvent des solutions ... dont le réalisme prétait évidement le flan à la critique.</li>
+<br/>
+<li>Il était également  courant de voir le contenu du backlog totallement transformé d'un sprint au suivant, essentiellement parce que le marketting avait rencontré un client avec d'autres besoins</li>
+<br/>
+</ul>
+<br/>
+Des défauts pénibles, donc, que je regrette vraiment de ne pas avoir tenté de corriger, d'une façon ou d'une autre.
+<br/>
+<h5>Qu'est-ce qu'il aurait fallu améliorer ?</h5>
+<br/>
+Notre marketting n'a jamais compris ces histoires d'agilité : pour eux, il fallait "juste livrer". Du coup, leur expliquer que donner des rôle bien définies était difficile. Pour ça, je pense que l'approche des <a href="http://www.romanpichler.com/blog/persona-template-for-agile-product-management/">personaes </a>aurait été bien pratique : mettre un nom, un visage, pour que,v raiment, les différents rôles apparaissent clairement.
+</p>
+<p>
+De la même manière, la fourniture de solutions complètes (mais toujours incorrectes) aurait sans doute nécessité de notre part plus d'accompagnement initial, pour vraiment comprendre le besoin sous-jacent plutôt que l'implémentation proposée.
+<br/>
+<h4>Il est chouette, ton jouet ... il fait quoi ?</h4>
+<br/>
+Cela dit, on disposait de nos stories, qu'on traduisait en paquets d'items, ce qui nous paraissait correct, jusqu'à la première fin d'itération.
+</p>
+<p>
+Oh, oui, pardon, je parle d'itération ... sans doute parce que nos sprints avaient dépassé les 6 mois, ce qui les rend assez ... peu courts, dirais-je.
+</p>
+<p>
+Et donc, à la fin d'une itération, on fait deux choses :
+<br/>
+<ol>
+<br/>
+<li>une démonstration</li>
+<br/>
+<li>une rétrospective</li>
+<br/>
+</ol>
+<br/>
+Deux occasions d'être fier de son travail ... ou pas.
+<br/>
+<h5>Ca tourne !</h5>
+<br/>
+La démonstration ... l'occasion pour l'équipe de briller devant le marketting. Qu'est-ce qui pourrait foirer ?
+</p>
+<p>
+Oh, plein de choses (que j'ai vu, hein)
+<br/>
+<ol>
+<br/>
+<li>Des développeurs qui ne préparent pas de démonstration, et ne s'attendent même pas à en faire, alors que leur développement est releasé</li>
+<br/>
+<li>Des démos qui foirent</li>
+<br/>
+<li>Un marketting qui profite de la réunion pour parler d'autres parties de l'application (qui n'ont reçues aucun développement, donc)</li>
+<br/>
+<li>Un autre marketting qui profite lui aussi de cette réunion pour râler sur cette équipe de dév qui est toujours en retard</li>
+<br/>
+</ol>
+<br/>
+Et quand je dis que je les ai vues, je veux dire que je les ai <strong>toutes</strong> vues dans la <strong>même</strong> démo. Alors forcément, à la fin de la démo, l'équipe est ... peu satisfaite, pour dire le moins.
+<br/>
+<h5>Qu'est-ce qu'il aurait fallu améliorer ?</h5>
+<br/>
+La préparation de la démo, évidement. Il aurait fallu demander à toute l'équipe si les démos étaient prêtes, <strong>et testées</strong>. Et j'insiste d'autant plus sur le second point que j'ai moi-même foiré une démo parce que je l'avais insuffisament testée. Pour le premier point, je dois bien avouer que la seule façon de s'assurer que les gens préparent une démo est de les laisser se vautrer sur scène au moins une fois.
+</p>
+<p>
+Pour le marketting, là, c'est simple, parce que je l'ai fait la fois suivante : il ya  un ordre du jour clair à cette réunion, et si certains veulent s'en écarter, c'est à l'animateur d ela réunion (moi, sur ce coup-là) de les recadrer, ce que j'ai fait.
+<br/>
+<h5>Et dans les coulisses</h5>
+<br/>
+Parce qu'il y a un pendant interne à cette démo : la rétrospective.
+</p>
+<p>
+Personnellement, j'adore ce moment où on peut tenter de proposer de nouveaux modes d'organisations.
+</p>
+<p>
+Par exemple, c'est lors d'une de ces réunions que j'avais proposé qu'on utilise Tuleap ... mais j'en reparlerais.
+</p>
+<p>
+Bref, là aussi, c'est une réunion qu'il vaut mieux préparer ...
+</p>
+<p>
+Et comme vous devez vous y attendre, j'ai eu quelques réponses comiques aux trois questions rituelles.
+</p>
+<p>
+Vous savez :
+<br/>
+<ol>
+<br/>
+<li>Qu'est-ce qui a bien marché ?</li>
+<br/>
+<li>Qu'est-ce qui n'a pas bien marché ?</li>
+<br/>
+<li>Qu'est-ce qu'on peut améliorer ?</li>
+<br/>
+</ol>
+<br/>
+Et l'ordre est important : commencer par ce qui a bien marché permet normalement aux gens d'avoir un étatt d'esprit positif ... enfin, normalement.
+</p>
+<p>
+Mais avant d'en venir aux insultes internes, une petite astuce offerte
+<br/>
+<h6>Tout ça, c'est la faute à Raoul.</h6>
+<br/>
+Lors de la rétropsective, regardez bien la deuxième question : c'est la porte ouverte aux réglements de compte. Pour les éviter, l'astuce est simple, on avait une persona de mauvais développeur : Raoul Abdaloff (le nom ne doit <a href="http://emission.salle101.org/">rien au hasard, et tout à l'UMP</a>). Et tout ce qui s'est mal passé est de sa faute. Une fois muni de ce mauvais développeur, qu'est-ce qui peut foirer ?
+<br/>
+<h6>Tout va mal, et rien ne s'améliorera</h6>
+<br/>
+Dans l'ensemble, ces réunions se passaient bien. Jusqu'à ce jour funeste, où trois collègues ont répondu dans un bel ensemble
+<br/>
+<blockquote>Qu'est-ce qui a bien marché ?
+</p>
+<p>
+Je sais pas
+</p>
+<p>
+Qu'est-ce qui n'a pas bien marché ?
+</p>
+<p>
+Tout
+</p>
+<p>
+Qu'est-ce qu'on peut améliorer ?
+</p>
+<p>
+Rien</blockquote>
+<br/>
+Là, faut être lucide, parce que les mecs, j'ai bien eu envie de les passer par la fenêtre.
+<br/>
+<h5>Qu'est-ce qu'il aurait fallu améliorer ?</h5>
+<br/>
+Pour la rétropsective, pas grand chose, puisque le but du jeu était d'améliorer le processus. Et ça marchait bien !
+<br/>
+<h3>Du coup au bout de cinq ans c'est le top ?</h3>
+<br/>
+J'ai déja parlé du <a title="Le dépôt de bilan, ça craint" href="http://riduidel.wordpress.com/2013/10/23/le-depot-de-bilan-ca-craint/">dépôt de bilan</a>, non ?
+</p>
+<p>
+Eh bien on peut dire que ça a tout détruit.
+</p>
+<p>
+Aujourd'hui, il n'y a plus
+<br/>
+<ul>
+<br/>
+<li>de démos</li>
+<br/>
+<li>de rétrospectives</li>
+<br/>
+<li>de sprints</li>
+<br/>
+<li>d'agilité</li>
+<br/>
+<li>d'envie</li>
+<br/>
+</ul>
+<br/>
+Ca calme, non ?
+<br/>
+<h4>Mais pourquoi ?</h4>
+<br/>
+Au fond, l'agilité, le scrum, le lean, le kanban, tout ça, c'est mignon, mais c'est juste un mensonge.
+</p>
+<p>
+Parce qu'en fait, ces idées se contentent de dire qu'il faut que les personnes aient envie d'améliorer leur mode de travail pour que leur mode de travail s'améliore ... Autrement dit, ça permet plus de canaliser l'enthousiasme de jeunes chiens fous que de remotiver des vieux développeurs dont la culture sectaire a réduit l'enthousiasme a néant.
+</p>
+<p>
+Et, je regrette de le dire, même mon enthousiasme a disparu dans la bataille (d'un autre côté, c'est aussi pour ça que je m'en vais).
+</p>
+<p>
+Du coup, si je peux me permettre un conseil aux apprentis agilistes, ou à ceux qui se demandent pourquoi leur processus agile est arrêté au bord de la route : regardez vos développeurs, et vos "clients". Est-ce qu'ils sont motivés ? Est-ce que ça leur plaît ? Est-ce qu'ils ont envie de faire mieux ? Si ça n'est pas le cas, laissez tomber tout ça, et contentez vous de faire des itérations courtes, et de durée fixe. Parce que ça, le rythme, ça aide aussi beaucoup. Et le perdre, souvent, c'est un signe que quelque chose d'autre ne va vraiment pas.
+</p>
+<p>
+&#160;
+</p>
+++++

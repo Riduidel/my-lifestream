@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: alexei-led/pumba: Chaos testing and network emulation tool for Docker.
+:jbake-tags: chaos,docker,software,open-source,conteneur,_mois_nov.,_année_2019
+:jbake-date: 2019-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1574491383000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Falexei-led%2Fpumba&searchtags=chaos+docker+software+open-source+conteneur+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/alexei-led/pumba[alexei-led/pumba: Chaos testing and network emulation tool for Docker.]
+
+Enfin une implémentation de chaos testing qui n'oblige pas à attendre la mise en prod pour tout casser !

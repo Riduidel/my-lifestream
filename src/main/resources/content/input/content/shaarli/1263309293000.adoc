@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grails Framework Reference Documentation
+:jbake-tags: documentation,reference,groovy,grails,_mois_janv.,_année_2010
+:jbake-date: 2010-01-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1263309293000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.grails.org%2Fdoc%2F1.1.x%2Findex.html&searchtags=documentation+reference+groovy+grails+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.grails.org/doc/1.1.x/index.html[Grails Framework Reference Documentation]
+
+La doc de référence de Grails 1.1, indispensable puisque c'est la seule version à tourner sur AppEngine

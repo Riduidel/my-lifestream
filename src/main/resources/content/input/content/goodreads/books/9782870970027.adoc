@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Secret de l'Espadon - 1 (Blake et Mortimer, #1)
+:jbake-tags:  guerre, rayon-bd,_année_2015,_mois_sept.,_note_2,aventure,read
+:jbake-date: 2015-09-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782870970027.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332751702l/628653._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332751702l/628653._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/628653
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+1947. Alors que dans le monde se multiplient les pactes et les conférences destinées à sauvegarder la paix, le mystérieux « Empire Jaune » de Basam Damdu « l'usurpateur », empereur du Tibet, lance une offensive généralisée. En quelques heures, la gigantesque armada anéantit les principales villes de la planète. Paris, Londres, Rome, Bombay, sont réduites à l'état de ruines fumantes, la flotte américaine du Pacifique gît au fond de l'océan, tandis que les couleurs de l'empereur sont hissées par ses parachutistes sur les gratte-ciel du nouveau monde... Cependant, dans la base militaire de Scaw-Fell, en Angleterre, le professeur Mortimer met au point une arme secrète dont la puissance de feu devrait permettre de contrer la fulgurante progression de l'armée « jaune » : l'Espadon. Mis au courrant par ses espions, Olrik, aventurier habile et sans scrupules qui s'est mis au service de l'Usurpateur, attaque la base avec sa flotte aérienne. Le capitaine Blake, de l'Intelligence Service, ainsi que le professeur Mortimer s'enfuient à bord du « Golden Rocket », emportant avec eux les plans de l'Espadon. Ils ne laissent derrière eux que les décombres de Scaw-Fell. Une fantastique poursuite s'engage alors dans les airs et sur terre entre Olrik, qui veut récupérer les plans, et Blake et Mortimer qui tentent de rejoindre une base secrète du Moyen-Orient où, déjà, s'organise la résistance, et où il leur sera possible de mener à bien la construction de l'engin qui représente le dernier espoir du monde libre : l'Espadon...
+</div>
+++++
+
+
+## Authors
+* link:../authors/272058.html[Edgar P. Jacobs]
+* link:../authors/4710439.html[Paula Caetano]
+
+## Series
+* link:../series/Blake_&_Mortimer_(Cinebook).html[Blake & Mortimer (Cinebook)]
+* link:../series/Blake_et_Mortimer.html[Blake et Mortimer]
+
+## Review
+
+++++
+Dans ce qui n'est qu'une ouverture, le Tibet envahit le monde, on découvre des héros plus grands que nature et indubibitablement théatraux, et une mise en scène qui fait regretter que E P Jacobs ne soit soit pas lancé dans le cinéma. Des qualités qu'on retrouvera d'ailleurs dans tous les tomes.
+++++

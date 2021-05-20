@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: /dev/horse on Twitter: "the learning curve in rust is steep b/c even if you understand its rules and why they exist, they give rise to a large set of new design patterns you need to learn by tripping over programs the compiler will reject"
+:jbake-tags: citation,programming,rust,concepts,design,_mois_juin,_année_2019
+:jbake-date: 2019-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1559649103000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmountain_ghosts%2Fstatus%2F1135648468846833664&searchtags=citation+programming+rust+concepts+design+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mountain_ghosts/status/1135648468846833664[/dev/horse on Twitter: "the learning curve in rust is steep b/c even if you understand its rules and why they exist, they give rise to a large set of new design patterns you need to learn by tripping over programs the compiler will reject"]
+
+C'est effectivement le truc le plus complexe avec Rust. Cela dit ça aide beaucoup à bien concevoir son code ...

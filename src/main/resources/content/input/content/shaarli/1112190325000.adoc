@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Understanding the Psychology of Programming
+:jbake-tags: concepts,science,psychologie,management,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112190325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.devx.com%2FDevX%2FArticle%2F11659%2F1954%3Fpf%3Dtrue&searchtags=concepts+science+psychologie+management+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.devx.com/DevX/Article/11659/1954?pf=true[Understanding the Psychology of Programming]
+
+Contrary to popular belief, programmers more frequently resemble artists than scientists. If you want to maximize the creative potential on your development team, you've got to start thinking about the psychology of the programmer and be willing to back i

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Shapes of Code - Fluent C++
+:jbake-tags: format,code,visualisation,refactoring,_mois_juin,_année_2020
+:jbake-date: 2020-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1593369687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.fluentcpp.com%2F2020%2F01%2F14%2Fthe-shapes-of-code%2F&searchtags=format+code+visualisation+refactoring+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.fluentcpp.com/2020/01/14/the-shapes-of-code/[The Shapes of Code - Fluent C++]
+
+J'avais déja ressenti ça, mais c'est la première fois que je le vois exprimé clairement.

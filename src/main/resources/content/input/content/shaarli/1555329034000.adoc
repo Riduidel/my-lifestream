@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Matt Diephouse on Twitter: "We have lots of ways to catch issues: 1. Compiler error 2. Unit test 3. Integration test 4. PR comment 5. Manual QA 6. User feedback When you find a problem, ask how you can move it up 1 or more levels. e.g. “How can I turn this PR comment into a compiler error or unit test?”"
+:jbake-tags: programming,debug,test,qualité,_mois_avr.,_année_2019
+:jbake-date: 2019-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1555329034000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmdiep%2Fstatus%2F1116418826848153601&searchtags=programming+debug+test+qualit%C3%A9+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mdiep/status/1116418826848153601[Matt Diephouse on Twitter: "We have lots of ways to catch issues: 1. Compiler error 2. Unit test 3. Integration test 4. PR comment 5. Manual QA 6. User feedback When you find a problem, ask how you can move it up 1 or more levels. e.g. “How can I turn this PR comment into a compiler error or unit test?”"]
+
+Vous avez vu comme cette liste est chouette ? En vrai, le boulot de gestion de bugs, c'est majoritairement transformer les commentaires/tickets divers en erreurs à la compilation/tests/...

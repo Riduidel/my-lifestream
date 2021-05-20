@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ksql-workshop/ksql-workshop.adoc at master · confluentinc/ksql-workshop
+:jbake-tags: programming,database,nosql,kafka,tutorial,_mois_juin,_année_2018
+:jbake-date: 2018-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1530200363000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fconfluentinc%2Fksql-workshop%2Fblob%2Fmaster%2Fksql-workshop.adoc&searchtags=programming+database+nosql+kafka+tutorial+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/confluentinc/ksql-workshop/blob/master/ksql-workshop.adoc[ksql-workshop/ksql-workshop.adoc at master · confluentinc/ksql-workshop]
+
+Très bon tutorial sur l'utilisation de Kafka. Ca permet de démarrer facilement de comprendre la plupart des concepts facilement.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sgreben/regex-builder: Write regular expressions in pure Java
+:jbake-tags: java,library,open-source,regexp,fluent,_mois_févr.,_année_2017
+:jbake-date: 2017-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1487882794000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsgreben%2Fregex-builder%2F&searchtags=java+library+open-source+regexp+fluent+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/sgreben/regex-builder/[sgreben/regex-builder: Write regular expressions in pure Java]
+
+Pas mal du tout, surtout pour les expressions régulières un peu complexes.

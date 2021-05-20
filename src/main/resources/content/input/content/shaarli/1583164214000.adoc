@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What are Wardley Maps? Using Miro for Wardley Mapping
+:jbake-tags: organisation,stratégie,amélioration,agile,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583164214000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmiro.com%2Fblog%2Fwardley-maps-whiteboard-canvas%2F&searchtags=organisation+strat%C3%A9gie+am%C3%A9lioration+agile+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://miro.com/blog/wardley-maps-whiteboard-canvas/[What are Wardley Maps? Using Miro for Wardley Mapping]
+
+Et voilà donc la méthode complète de mapping stratégique de Simon Wardley. Ca mélange un bon paquet de trucs que j'ai déja vu, et je me demande si ça n'est pas un complément stratégique à des outils comme C4. En tout cas, c'est très intéressant.

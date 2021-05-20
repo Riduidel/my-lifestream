@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Upgrade from Ubuntu Dapper or Edgy to Feisty Fawn
+:jbake-tags: tips,ubuntu,linux,_mois_déc.,_année_2007
+:jbake-date: 2007-12-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1198244449000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.urbanpuddle.com%2Farticles%2F2007%2F05%2F23%2Fupgrade-from-ubuntu-dapper-or-edgy-to-feisty-fawn&searchtags=tips+ubuntu+linux+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.urbanpuddle.com/articles/2007/05/23/upgrade-from-ubuntu-dapper-or-edgy-to-feisty-fawn[Upgrade from Ubuntu Dapper or Edgy to Feisty Fawn]
+
+L'upgrade path pour passer d'une version d'Ubuntu à une autre, ce que je vais faire ce week-end, je crois (comme un bourrin, comme d'hab)

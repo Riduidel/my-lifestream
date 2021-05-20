@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: David Bell sur Twitter : "@ReinH https://t.co/UXDIASBu8M" / Twitter
+:jbake-tags: kubernetes,écosystème,complot,humour,_mois_avr.,_année_2021
+:jbake-date: 2021-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1619258787000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdastbe%2Fstatus%2F1303858170155081728&searchtags=kubernetes+%C3%A9cosyst%C3%A8me+complot+humour+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/dastbe/status/1303858170155081728[David Bell sur Twitter : "@ReinH https://t.co/UXDIASBu8M" / Twitter]
+
+La CNCF, tout simplement ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ramez Naam
+:jbake-tags: author
+:jbake-date: 2017-09-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/160069.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1353488211p5/160069.jpg
+:jbake-source: https://www.goodreads.com/author/show/160069
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266260046.html[Nexus (Nexus, #1)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Circle of One - Circle Virtual CD Description
+:jbake-tags: cd-rom,freeware,software,system,windows,_mois_nov.,_année_2004
+:jbake-date: 2004-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1099926761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.circleofone.com%2F&searchtags=cd-rom+freeware+software+system+windows+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.circleofone.com/[Circle of One - Circle Virtual CD Description]
+
+Circle Virtual CD creates a virtual CD-ROM drive on your Windows PC. This allows you to make images of your favorite CD-ROMs and use them without inserting a CD into a CD-ROM drive. Circle Virtual CD: 1) improves the speed at which you access data, 2) sto

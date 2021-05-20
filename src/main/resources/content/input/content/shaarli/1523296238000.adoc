@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dbohdan/structured-text-tools: A list of command line tools for manipulating structured text data
+:jbake-tags: programming,debug,command-line,analyse,_mois_avr.,_année_2018
+:jbake-date: 2018-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1523296238000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdbohdan%2Fstructured-text-tools&searchtags=programming+debug+command-line+analyse+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/dbohdan/structured-text-tools[dbohdan/structured-text-tools: A list of command line tools for manipulating structured text data]
+
+Très pratique pour tous ces sales moments où il faut analyser un fichier sur un serveur (un art que je découvre avec une détestation sans égal)

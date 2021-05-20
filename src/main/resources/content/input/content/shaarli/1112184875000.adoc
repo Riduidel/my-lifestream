@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cvsFinder
+:jbake-tags: software,freeware,open-source,macosx,system,programming,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112184875000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcvsfinder.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+system+programming+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://cvsfinder.sourceforge.net/[cvsFinder]
+
+CVS integration in OS X Finder

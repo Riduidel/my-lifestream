@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Structuring Complex JavaFX 8 Applications for Productivity - Voxxed
+:jbake-tags: programming,javafx,organisation,_mois_sept.,_année_2017
+:jbake-date: 2017-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1504378512000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.voxxed.com%2F2014%2F11%2Fstructuring-complex-javafx-8-applications-for-productivity%2F&searchtags=programming+javafx+organisation+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.voxxed.com/2014/11/structuring-complex-javafx-8-applications-for-productivity/[Structuring Complex JavaFX 8 Applications for Productivity - Voxxed]
+
+A lire pour mieux structurer du JavaFX

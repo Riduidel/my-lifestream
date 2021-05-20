@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Stefanovic on Twitter: "Wrap your console.log arguments in an object literal to print the variable name along with its value. console.log(isLoggedIn) console.log({ isLoggedIn }) Still one of my favorite tips from @wesbos. So simple but effective 💪… https://t.co/3UEv44mHvy"
+:jbake-tags: programming,javascript,console,log,_mois_juin,_année_2018
+:jbake-date: 2018-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1530172993000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDaniStefanovic%2Fstatus%2F1011923716085821440&searchtags=programming+javascript+console+log+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/DaniStefanovic/status/1011923716085821440[Daniel Stefanovic on Twitter: "Wrap your console.log arguments in an object literal to print the variable name along with its value. console.log(isLoggedIn) console.log({ isLoggedIn }) Still one of my favorite tips from @wesbos. So simple but effective 💪… https://t.co/3UEv44mHvy"]
+
+Si vous faites du JS, c'est une sacrément bonne idée !

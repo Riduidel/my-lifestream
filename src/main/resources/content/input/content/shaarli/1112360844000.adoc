@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Programming Notes
+:jbake-tags: java,programming,exemple,tutorial,documentation,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112360844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.leepoint.net%2Fnotes-java%2F&searchtags=java+programming+exemple+tutorial+documentation+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.leepoint.net/notes-java/[Java Programming Notes]
+
+These notes were written to fill in missing or weak topics in textbooks that I've taught from, and some pages are still rough drafts. They may be useful for reference, but not as an ordered tutorial.

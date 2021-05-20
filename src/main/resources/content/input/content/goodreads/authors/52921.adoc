@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geof Darrow
+:jbake-tags: author
+:jbake-date: 2013-12-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/52921.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1424473393p5/52921.jpg
+:jbake-source: https://www.goodreads.com/author/show/52921
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781616557263.html[The Shaolin Cowboy: Shemp Buffet]
+* link:../books/9782756030081.html[Hard Boiled - Réédition]
+* link:../books/9782840550518.html[Big Guy]

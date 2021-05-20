@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: D-Link DNS-323 as print and scan server (part 3) " On the Crest of the Wave
+:jbake-tags: dns-323,printing,scan,_mois_nov.,_année_2009
+:jbake-date: 2009-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1258219390000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcharly4711.wordpress.com%2F2008%2F04%2F30%2Fd-link-dns-323-as-print-and-scan-server-part-3%2F&searchtags=dns-323+printing+scan+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://charly4711.wordpress.com/2008/04/30/d-link-dns-323-as-print-and-scan-server-part-3/[D-Link DNS-323 as print and scan server (part 3) " On the Crest of the Wave]
+
+Un truc magique : utiliser le DNS-323 comme serveur d'impression \*et\* de scan, ce qui permettrait de faire l'impression sans fil dans toute la maison, et avec n'importe quel ordinateur. Un truc génial, quoi, si j'arrive à le faire marcher :-S

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Glen Duncan
+:jbake-tags: author
+:jbake-date: 2014-05-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/37613.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1312256380p5/37613.jpg
+:jbake-source: https://www.goodreads.com/author/show/37613
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070456208.html[Moi, Lucifer]

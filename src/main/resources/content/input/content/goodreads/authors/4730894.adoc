@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel O'Malley
+:jbake-tags: author
+:jbake-date: 2015-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4730894.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1313416699p5/4730894.jpg
+:jbake-source: https://www.goodreads.com/author/show/4730894
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266250566.html[Au service surnaturel de sa majesté (Au service surnaturel de sa majesté, #1)]

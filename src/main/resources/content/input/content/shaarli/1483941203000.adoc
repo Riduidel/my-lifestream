@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: knsv/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown
+:jbake-tags: programming,design,uml,grapher,javascript,_mois_janv.,_année_2017
+:jbake-date: 2017-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1483941203000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fknsv%2Fmermaid&searchtags=programming+design+uml+grapher+javascript+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/knsv/mermaid[knsv/mermaid: Generation of diagram and flowchart from text in a similar manner as markdown]
+
+C'est moi ou c'est un clone Javascript de PlantUML ?

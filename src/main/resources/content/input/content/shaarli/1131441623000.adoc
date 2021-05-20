@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby, Rails, Apache2, and Ubuntu Breezy (5.10)
+:jbake-tags: software,programming,linux,rails,ruby,documentation,tutorial,library,_mois_nov.,_année_2005
+:jbake-date: 2005-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1131441623000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fo64.com%2Farticles%2F2005%2F10%2F20%2Frails-on-breezy&searchtags=software+programming+linux+rails+ruby+documentation+tutorial+library+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.fo64.com/articles/2005/10/20/rails-on-breezy[Ruby, Rails, Apache2, and Ubuntu Breezy (5.10)]
+
+Tutorial of Rails installation on Ubuntu Breezy

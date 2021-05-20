@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [object HTMLImageElement]
+:jbake-tags: web,culture,art,gallerie,_mois_févr.,_année_2005
+:jbake-date: 2005-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1109081940000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wga.hu%2F&searchtags=web+culture+art+gallerie+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.wga.hu/[[object HTMLImageElement]]
+
+The Web Gallery of Art is a virtual museum and searchable database of European painting and sculpture of the Gothic, Renaissance and Baroque periods (1100-1800), currently containing over 12,400 reproductions.

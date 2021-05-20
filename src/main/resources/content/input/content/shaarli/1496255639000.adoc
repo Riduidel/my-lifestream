@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fireflies
+:jbake-tags: web,nature,interaction,_mois_mai,_année_2017
+:jbake-date: 2017-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1496255639000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fncase.me%2Ffireflies%2F&searchtags=web+nature+interaction+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://ncase.me/fireflies/[Fireflies]
+
+Très chouette démonstration interactive de la synchronisation

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jill Enders
+:jbake-tags: author
+:jbake-date: 2016-07-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/13529440.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1432041214p5/13529440.jpg
+:jbake-source: https://www.goodreads.com/author/show/13529440
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782330048815.html[Le Charme discret de l'intestin]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lynn [they] sur Twitter : "Imagining an in person interview session where the interview walks in the room, distraught, holding a computer They go "my docker build isn't working 🙁🙁🙁" and slide you the computer That's all the information you get, now you've gotta fix it 😄"
+:jbake-tags: recrutement,entretien,debug,_mois_févr.,_année_2020
+:jbake-date: 2020-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1581934002000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flynncyrin%2Fstatus%2F1228776410124185600&searchtags=recrutement+entretien+debug+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/lynncyrin/status/1228776410124185600[lynn [they] sur Twitter : "Imagining an in person interview session where the interview walks in the room, distraught, holding a computer They go "my docker build isn't working 🙁🙁🙁" and slide you the computer That's all the information you get, now you've gotta fix it 😄"]
+
+Super façon de lancer un entretien technique !

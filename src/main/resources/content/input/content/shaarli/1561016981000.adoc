@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Google to reimplement curl in libcrurl | daniel.haxx.se
+:jbake-tags: open-source,google,vol,_mois_juin,_année_2019
+:jbake-date: 2019-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1561016981000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2F2019%2F06%2F19%2Fgoogle-to-reimplement-curl-in-libcrurl%2F&searchtags=open-source+google+vol+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://daniel.haxx.se/blog/2019/06/19/google-to-reimplement-curl-in-libcrurl/[Google to reimplement curl in libcrurl | daniel.haxx.se]
+
+Franchement, Google ne pouvait pas contribuer à curl ? Non , il FALLAIT qu'ils le réimplémentent à leur sauce ? Vous savez le pire ? L'auteur de curl fait ça tout seul, dans son coin. Et là, une équipe de Google se pointe et vient lui voler son idée ... C'est un peu énervant (euphémisme)

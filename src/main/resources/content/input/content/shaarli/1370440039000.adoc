@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Object Calisthenics: First thoughts at Mark Needham
+:jbake-tags: programming,concepts,_mois_juin,_année_2013
+:jbake-date: 2013-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1370440039000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.markhneedham.com%2Fblog%2F2008%2F11%2F06%2Fobject-calisthenics-first-thoughts%2F&searchtags=programming+concepts+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.markhneedham.com/blog/2008/11/06/object-calisthenics-first-thoughts/[Object Calisthenics: First thoughts at Mark Needham]
+
+un drôle de retour sur un code kata particulièrement ambitieux : \* pas plus de deux variables membres par classes \* un seul niveau d'indentation par méthode \* pas de else dans les if Clairement, ça encourage les Visitor et le polymorphisme

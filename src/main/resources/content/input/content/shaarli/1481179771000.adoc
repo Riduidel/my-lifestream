@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: POM Model Version 5.0.0 - Apache Maven - Apache Software Foundation
+:jbake-tags: programming,maven,build,_mois_déc.,_année_2016
+:jbake-date: 2016-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1481179771000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcwiki.apache.org%2Fconfluence%2Fdisplay%2FMAVEN%2FPOM%2BModel%2BVersion%2B5.0.0&searchtags=programming+maven+build+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://cwiki.apache.org/confluence/display/MAVEN/POM+Model+Version+5.0.0[POM Model Version 5.0.0 - Apache Maven - Apache Software Foundation]
+
+La future version du POM de maven risque d'être ... assez différente

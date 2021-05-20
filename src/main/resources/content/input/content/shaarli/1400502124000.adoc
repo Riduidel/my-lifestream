@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What Can Men Do?
+:jbake-tags: sexisme,programming,_mois_mai,_année_2014
+:jbake-date: 2014-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1400502124000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.codinghorror.com%2Fwhat-can-men-do%2F&searchtags=sexisme+programming+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.codinghorror.com/what-can-men-do/[What Can Men Do?]
+
+J'ai gardé ce texte de Jeff Atwood une semaine dans mon lecteur RSS avant même de dire à quel point il est bien. Et il est bioen, mais alors, BIEN. Il dénonce tous les éléments qui font le sexisme et donne de bonnes pistes pour lutter contre.

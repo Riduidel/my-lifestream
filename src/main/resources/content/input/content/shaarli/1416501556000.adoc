@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chocolatey Gallery | Packages matching Raphael Lencrerot
+:jbake-tags: software,windows,packaging,manager,freeware,_mois_nov.,_année_2014
+:jbake-date: 2014-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1416501556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchocolatey.org%2Fpackages%3Fq%3DRaphael%2520Lencrerot&searchtags=software+windows+packaging+manager+freeware+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://chocolatey.org/packages?q=Raphael%20Lencrerot[Chocolatey Gallery | Packages matching Raphael Lencrerot]
+
+Bon, cela dit, comme j'installerai Chocolatey sur mon prochain poste, je pourrais l'installer facilement ;-)

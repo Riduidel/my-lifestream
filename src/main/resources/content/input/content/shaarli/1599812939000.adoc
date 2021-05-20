@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ubuntu 17.10 & 18.04 – Configure x11vnc to boot at startup – Griffon's IT Library
+:jbake-tags: linux,vnc,configuration,tutorial,ubuntu,_mois_sept.,_année_2020
+:jbake-date: 2020-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1599812939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fc-nergy.be%2Fblog%2F%3Fp%3D12220&searchtags=linux+vnc+configuration+tutorial+ubuntu+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://c-nergy.be/blog/?p=12220[Ubuntu 17.10 & 18.04 – Configure x11vnc to boot at startup – Griffon's IT Library]
+
+Un très bon tutorial de configuration x11vnc pour Linux (il y a quelques détails glaçants, comme la nécessité d'avoir deux configurations VNC)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: fr.rec.arts.sf
+:jbake-tags: usenet,nntp,rss,web,gateway,_mois_juin,_année_2013
+:jbake-date: 2013-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1372063283000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.rec.arts.sf.narkive.com%2F&searchtags=usenet+nntp+rss+web+gateway+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://fr.rec.arts.sf.narkive.com/[fr.rec.arts.sf]
+
+Tiens ?! Un rempalcant de Google Groups ? (au moins pour les groupes venant d'Usenet). Parce que je suis rendu compte ce matin que si selfoss galérait tout le week-end pour mettre à jour mes flux RSS, c'était parce que les flux de mes groupes Google étaient cassés. Et allez, encore un truc à virer !

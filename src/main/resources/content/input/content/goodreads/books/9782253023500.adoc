@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Glyphes
+:jbake-tags:  aventure, complot, drogue, espionnage, handicap, hard-science, mort, voyage,_année_2010,_mois_déc.,_note_1,rayon-imaginaire,read
+:jbake-date: 2010-12-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253023500.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407712346l/9788368._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407712346l/9788368._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/9788368
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Et s'il existait un moyen simple et radical de rendre n'importe quel individu sensible à la suggestion mentale ? Et s'il était possible de contrôler les esprits à l'aide de dessins abstraits, des glyphes ? Alfie Flowers veut trouver une explication à ce phénomène et se lance sur la trace du signataire des dessins : Morph. Son enquête le mène en Irak où il découvre un projet militaire secret...
+</div>
+++++
+
+
+## Authors
+* link:../authors/20433.html[Paul McAuley]
+
+
+
+## Review
+
+++++
+Dans ce roman, on suit les aventures entremêlées d'Alfie Flowers, un épileptique pour des raisons que je développerai plus loin, et d'Harriet Crowley, détective proche des services secrets de sa gracieuse majesté. Ils sont tous deux liés par le fait que leur grands-parents respectifs faisaient tous deux partie du club des Nomades, des archéologues qui ont voulu ramener en Occident des glyphes utilisés lors de certains rituels d'une ethnie Irakienne.<br/>L'Irak, berceau des civilisations !<br/>Dès qu'un bouquin de SF parle d'Irak, c'est pour remonter à l'époque où l'Homme ne se nommait pas encore, et où il découvrait le sens de la conscience. Cet Irak est la destination finale de nos deux héros, mais aussi de deux romans qui m'ont assez marqué : <a class="DirectBookReference destination_Book" href="9782290356180.html">Les puissances de l'invisible</a> de <a class="DirectAuthorReference destination_Author" href="../authors/8835.html">Tim Powers</a>, et link:9782253072355.html[<strike>Le Bureau des atrocités</strike> La Mère des tempêtes] de <a class="DirectAuthorReference destination_Author" href="../authors/8794.html">Charles Stross</a>. Et malheureusement, je peux le dire tout de suite, celui-ci ne tient pas la comparaison avec ses deux aînés. Sans doute parce qu'il vise aussi, grâce à ces glyphes qui sont censés modifier la structure du cerveau en profondeur, du côté des Nam-Shubs, que <a class="DirectAuthorReference destination_Author" href="../authors/545.html">Neal Stephenson</a> utilisa brillament dans <a class="DirectBookReference destination_Book" href="9782253072218.html">Le Samouraï virtuel</a>.<br/>Bref, ce roman essaye de plonger ses racines profondément dans des concepts aussi vieux que l'Homme. Et malheureusement, si les racines sont solides, l'arbre de ce récit l'est beaucoup moins : les rebondissements semblent assez téléphonées, et la conclusion est on ne peut plus bâclée. Et du coup, on sent le poids de toutes ces pages qui n'apportent rien, ni aux concepts évoqués, ni à un récit qui aurait mérité soit plus d'action (parce que bon, l'entrée clandestine en Irak ... passez-moi du café, je m'endors devant tant de marche à pied). Ma conclusion est logique et implacable : ne le lisez pas. Pas plus en fait que les autres romans de cet auteur, qui part à chaque fois de prémices fascinantes pour arriver à un résultat qui n'avait besoin ni de tout cela, ni d'autant de place pour s'exprimer.
+++++

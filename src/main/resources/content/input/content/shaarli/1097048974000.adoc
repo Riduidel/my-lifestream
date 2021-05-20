@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jext - Free Software (as in free beer) Source Code Editor
+:jbake-tags: editor,java,open-source,software,_mois_oct.,_année_2004
+:jbake-date: 2004-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1097048974000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jext.org%2F&searchtags=editor+java+open-source+software+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.jext.org/[Jext - Free Software (as in free beer) Source Code Editor]
+
+Jext is a free (as in free speech, covered by the GPL licence) source code editor written in Java. You can download it, use it, modify it, redistribute it... your choice, your freedom.

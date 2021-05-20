@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Addison-Wesley Signature Series
+:jbake-tags: serie
+:jbake-date: 2020-04-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Addison-Wesley_Signature_Series.adoc
+:jbake-source: https://www.goodreads.com/series/180775
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/0785342200683.html[Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions]

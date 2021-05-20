@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The NXT STEP in LEGO® Robotics
+:jbake-tags: lego,mindstorms,robot,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590761893000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.thenxtstep.com%2F&searchtags=lego+mindstorms+robot+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.thenxtstep.com/[The NXT STEP in LEGO® Robotics]
+
+Du lego mindstorms. Un poil cher, mais quand même, ça a l'air chouette.

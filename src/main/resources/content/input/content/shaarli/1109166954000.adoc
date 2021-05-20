@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fontleech: The Free Font Blog
+:jbake-tags: software,font,windows,macosx,blog,_mois_févr.,_année_2005
+:jbake-date: 2005-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1109166954000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fontleech.com%2F&searchtags=software+font+windows+macosx+blog+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.fontleech.com/[Fontleech: The Free Font Blog]
+
+A blog about nice fonts!

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Job Scheduler and Runbook Automation - Rundeck.org
+:jbake-tags: programming,batch,automatisation,_mois_mai,_année_2016
+:jbake-date: 2016-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1462959291000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frundeck.org%2F&searchtags=programming+batch+automatisation+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://rundeck.org/[Job Scheduler and Runbook Automation - Rundeck.org]
+
+Pas mal du tout ... il faut juste voir comment les jobs sont partagés

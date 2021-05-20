@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jumpcut: Minimalist Clipboard Buffering for OS X
+:jbake-tags: software,freeware,open-source,clipboard,macosx,_mois_juil.,_année_2006
+:jbake-date: 2006-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1152266361000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjumpcut.sourceforge.net%2F&searchtags=software+freeware+open-source+clipboard+macosx+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://jumpcut.sourceforge.net/[Jumpcut: Minimalist Clipboard Buffering for OS X]
+
+Oui, je sais, Quicksilver intègre un presse-papier, mais je ne sais jamais comment y accéder. Sans doute que JumpCut sera plus facile à utiliser.

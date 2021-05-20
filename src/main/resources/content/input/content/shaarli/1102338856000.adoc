@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lilleroller.com :: A Lille, le roller c est Lilleroller
+:jbake-tags: lille,roller,sport,_mois_déc.,_année_2004
+:jbake-date: 2004-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1102338856000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lilleroller.com%2F&searchtags=lille+roller+sport+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.lilleroller.com/[Lilleroller.com :: A Lille, le roller c est Lilleroller]
+
+Une des différentes associations de roller à Lille

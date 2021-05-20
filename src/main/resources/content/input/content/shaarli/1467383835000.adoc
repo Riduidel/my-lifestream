@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to replace KingUser with SuperSU
+:jbake-tags: tutorial,android,root,_mois_juil.,_année_2016
+:jbake-date: 2016-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1467383835000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fandroidmtk.com%2Freplace-kinguser-with-supersu&searchtags=tutorial+android+root+_mois_juil.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://androidmtk.com/replace-kinguser-with-supersu[How to replace KingUser with SuperSU]
+
+Très bon tutorial pour virer KingRoot, qui roote bien mais ajoute quelques bêtises

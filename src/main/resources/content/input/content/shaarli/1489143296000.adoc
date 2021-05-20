@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: https://mapzen.com/products/maps/walkabout/bike-map/#lat=50.6246&lng=3.0736&z=14.7500
+:jbake-tags: carte,vélo,_mois_mars,_année_2017
+:jbake-date: 2017-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1489143296000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmapzen.com%2Fproducts%2Fmaps%2Fwalkabout%2Fbike-map%2F%23lat%3D50.6246%26lng%3D3.0736%26z%3D14.7500&searchtags=carte+v%C3%A9lo+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://mapzen.com/products/maps/walkabout/bike-map/#lat=50.6246&lng=3.0736&z=14.7500[https://mapzen.com/products/maps/walkabout/bike-map/#lat=50.6246&lng=3.0736&z=14.7500]
+
+Une carte de cyclabilité des routes. Pas forcément cohérente ... mais néanmoins intéressante

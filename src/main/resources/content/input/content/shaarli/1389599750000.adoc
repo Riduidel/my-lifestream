@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Detecting process exit in Java | adrian's blog
+:jbake-tags: java,programming,trick,thread,process,_mois_janv.,_année_2014
+:jbake-date: 2014-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1389599750000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fberadrian.wordpress.com%2F2008%2F11%2F03%2Fdetecting-process-exit-in-java%2F&searchtags=java+programming+trick+thread+process+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://beradrian.wordpress.com/2008/11/03/detecting-process-exit-in-java/[Detecting process exit in Java | adrian's blog]
+
+Je m'en suis servi vendredi pour surveiller une fin de process en Groovy, et c'était bien pratique !

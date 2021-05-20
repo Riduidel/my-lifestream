@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pierre Beyssac sur Twitter : "Je refais (merci @Kwame42). Le dépôt Git de l'application #stopcovid (ici https://t.co/OZakmibLLc ). 4 README, 3 schémas PNG en grande partie bullshit (remplissage), 1 PDF reprenant les points ANSSI. 3 dépôts (séparés !) dont 2 de code, quasi vides (templates autogénérés ?)."
+:jbake-tags: france,informatique,projet,management,_mois_mai,_année_2020
+:jbake-date: 2020-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1589397292000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpbeyssac%2Fstatus%2F1260391863380520960&searchtags=france+informatique+projet+management+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/pbeyssac/status/1260391863380520960[Pierre Beyssac sur Twitter : "Je refais (merci @Kwame42). Le dépôt Git de l'application #stopcovid (ici https://t.co/OZakmibLLc ). 4 README, 3 schémas PNG en grande partie bullshit (remplissage), 1 PDF reprenant les points ANSSI. 3 dépôts (séparés !) dont 2 de code, quasi vides (templates autogénérés ?)."]
+
+Ca n'est malheureusement pas la dernière fois que les institutions de recherche en informatique françaises chient dans la colle (voir l'exemple de ParcourSup). Là, j'ai cette impression de voir un directeur de projet Capgemini aux commandes

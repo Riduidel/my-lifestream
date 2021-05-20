@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hillel sur Twitter : "I have a core belief in software: we can learn from all fields. I voraciously read technical books from outside software, everything from social services to disaster management, to learn more about how to make software engineering better. And there's a lot I learn this way. /" / Twitter
+:jbake-tags: citation,apprentissage,informatique,programming,_mois_févr.,_année_2021
+:jbake-date: 2021-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1612691838000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Fhillelogram%2Fstatus%2F1358213561563119620&searchtags=citation+apprentissage+informatique+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/hillelogram/status/1358213561563119620[Hillel sur Twitter : "I have a core belief in software: we can learn from all fields. I voraciously read technical books from outside software, everything from social services to disaster management, to learn more about how to make software engineering better. And there's a lot I learn this way. /" / Twitter]
+
+Je suis particulièrement d'accord. J'ai beaucoup appris sur mon métier grâce à l'art, aux métaphores et aux autres métiers (ceux des clients)

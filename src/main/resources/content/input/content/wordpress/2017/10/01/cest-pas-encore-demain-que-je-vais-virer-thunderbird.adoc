@@ -1,0 +1,68 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C'est pas encore demain que je vais virer Thunderbird ...
+:jbake-tags: javascript,mail,webmail,_mois_oct.,_année_2017
+:jbake-date: 2017-10-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/10/01/cest-pas-encore-demain-que-je-vais-virer-thunderbird.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/10/01/cest-pas-encore-demain-que-je-vais-virer-thunderbird/
+:jbake-style: wordpress
+
+++++
+<p>
+Il y a plus de dix ans, j'adorais tester des clients mails/news : Outlook Express, <a href="http://www.opera.com/fr/computer/mail">Opera Mail</a>, <a href="http://www.foxmail.com/">FoxMail</a>, <a href="https://en.wikipedia.org/wiki/Xnews">XNews</a>, et tant d'autres ...
+</p>
+<p>
+Avec l'émergence des clients web à la GMail, tous ces clients ont peu à peu expiré.
+</p>
+<p>
+Alors quand j'ai vu ce tweet
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/bcourtine" class="screenName"><img src="http://pbs.twimg.com/profile_images/1259370892074909696/QCr9DO-A_mini.jpg" alt="profile of Husband, father, "geek", interrested in Open-* (Source, Data, etc.). I'm also tech lead at Mediavision."/>bcourtine</a>
+<br/>
+<span class="name">Benoit Courtine</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/bcourtine/status/913 685 909 173 866 496" class="date">29 sept. 2017 à 10:44:30</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@ndeloof @srevereault Je l'utilisais mais il n'est plus supporté depuis presque 2 ans. Je suis passé à @ramboxapp, équivalent mais maintenu.</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+je me suis fendu d'un essai ... rapide. Rapide, parce que si rambox supporte quelques fournisseurs de mail, c'est à travers leur protocole HTTP, et pas IMAP ou POP. Et ça, ça me choque au plus haut point. Parce que bon, il y a bien un module <a href="https://github.com/mscdex/node-imap">node-imap</a>, alors pourquoi ne pas s'en service ?
+</p>
+<p>
+Et j'ai beau chercher, je ne vois pas de feature request pour ajouter imap ou pop. Alors quoi ? Ca n'intéresse plus personne ? Je vais faire le vieux con, mais l'avantage de protocoles comme IMAP et POP, c'est d'assurer une compatibilité instantanée avec un bon paquet de fournisseurs de mails en un coup, ce qui paraît une bonne idée, non ?
+</p>
+++++

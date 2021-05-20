@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ba(p)tiste sur Twitter : "I freaking hate non-immediate term textual discussions that happen on something else than email /me squints at Gitter, Slack..."
+:jbake-tags: citation,mémoire,email,_mois_avr.,_année_2020
+:jbake-date: 2020-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1586272007000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbmathus%2Fstatuses%2F1247507138429272070&searchtags=citation+m%C3%A9moire+email+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/bmathus/statuses/1247507138429272070[Ba(p)tiste sur Twitter : "I freaking hate non-immediate term textual discussions that happen on something else than email /me squints at Gitter, Slack..."]
+
+Je me rappelle moi aussi des jours heureux où toutes les communications avaient lieu par mail. C'était facile de ne pas être débordé, et d'organiser son flux de lecture.

@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cerise
+:jbake-tags: author
+:jbake-date: 2011-10-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/339701.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/339701
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782800124711.html[Et délivre-nous du mal (Soda, #9)]
+* link:../books/9782800128542.html[Prières et balistique (Soda, #11)]
+* link:../books/9782800132686.html[Code apocalypse (Soda, #12)]

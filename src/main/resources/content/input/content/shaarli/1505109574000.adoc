@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TDD versus FTT
+:jbake-tags: humour,programming,tdd,_mois_sept.,_année_2017
+:jbake-date: 2017-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1505109574000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fturnoff.us%2Fgeek%2Ftdd-vs-ftt%2F&searchtags=humour+programming+tdd+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://turnoff.us/geek/tdd-vs-ftt/[TDD versus FTT]
+
+Ca n'est pas totallement vrai, mais c'est quand même assez proche de la vérité

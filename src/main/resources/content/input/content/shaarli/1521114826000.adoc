@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sarah Mei on Twitter: "We’re starting to differentiate “software developers” from “software engineers” and this absolutely nails the difference. An engineer builds software systems that run in the context of people. A developer writes code.… https://t.co/gyTQjsIClx"
+:jbake-tags: citation,programming,métier,_mois_mars,_année_2018
+:jbake-date: 2018-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1521114826000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsarahmei%2Fstatus%2F973654864466141184&searchtags=citation+programming+m%C3%A9tier+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/sarahmei/status/973654864466141184[Sarah Mei on Twitter: "We’re starting to differentiate “software developers” from “software engineers” and this absolutely nails the difference. An engineer builds software systems that run in the context of people. A developer writes code.… https://t.co/gyTQjsIClx"]
+
+Je peux le dire sans trop de souci, je suis un ingénieur logiciel (un software engineer)

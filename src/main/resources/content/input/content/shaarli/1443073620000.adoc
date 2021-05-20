@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: centic9/jgit-cookbook · GitHub
+:jbake-tags: git,java,api,documentation,tutorial,_mois_sept.,_année_2015
+:jbake-date: 2015-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1443073620000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fcentic9%2Fjgit-cookbook&searchtags=git+java+api+documentation+tutorial+_mois_sept.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/centic9/jgit-cookbook[centic9/jgit-cookbook · GitHub]
+
+Des exemples de code avec JGit qui valent bien mieux que ceux fournis sur le site standard

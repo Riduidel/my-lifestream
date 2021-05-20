@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - as-a-service/html-to-svg: svg screenshot of web pages (saves the given URL to an SVG file)
+:jbake-tags: docker,screenshot,open-source,_mois_mai,_année_2020
+:jbake-date: 2020-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1589271605000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fas-a-service%2Fhtml-to-svg&searchtags=docker+screenshot+open-source+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/as-a-service/html-to-svg[GitHub - as-a-service/html-to-svg: svg screenshot of web pages (saves the given URL to an SVG file)]
+
+Wow, un générateur de screenshots SVG dans Docker (et dans Google Cloud). C'est le genre de choses que j'aime bien avoir sous la main ...

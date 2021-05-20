@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dropbox/zxcvbn: A realistic password strength estimator.
+:jbake-tags: web,sécurité,password,_mois_nov.,_année_2016
+:jbake-date: 2016-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1479910903000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdropbox%2Fzxcvbn&searchtags=web+s%C3%A9curit%C3%A9+password+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/dropbox/zxcvbn[dropbox/zxcvbn: A realistic password strength estimator.]
+
+L'API de Dropbox pour estimer la force d'un mot de passe semble très pratique

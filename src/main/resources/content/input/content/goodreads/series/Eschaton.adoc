@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eschaton
+:jbake-tags: serie
+:jbake-date: 2008-10-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Eschaton.adoc
+:jbake-source: https://www.goodreads.com/series/52277
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253122173.html[Crépuscule d'acier]
+* link:../books/9782253122180.html[Aube d'acier]

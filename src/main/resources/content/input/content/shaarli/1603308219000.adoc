@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: fasterthanlime ♻ sur Twitter : "I've been doing C++ for all of two hours and I already want to burn down everything" / Twitter
+:jbake-tags: rust,compilateur,programming,_mois_oct.,_année_2020
+:jbake-date: 2020-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1603308219000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffasterthanlime%2Fstatus%2F1318894469303894017&searchtags=rust+compilateur+programming+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/fasterthanlime/status/1318894469303894017[fasterthanlime ♻ sur Twitter : "I've been doing C++ for all of two hours and I already want to burn down everything" / Twitter]
+
+Oui, je suis d'accord avec ça. Je retiens en particulier l'argument du compilateur qui doit aider le développeur.

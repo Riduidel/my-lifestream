@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Go and not Rust? | Loris Cro's Personal Blog
+:jbake-tags: rust,go,java,programming,langage,comparatif,opinion,_mois_sept.,_année_2019
+:jbake-date: 2019-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1568702161000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkristoff.it%2Fblog%2Fwhy-go-and-not-rust%2F&searchtags=rust+go+java+programming+langage+comparatif+opinion+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://kristoff.it/blog/why-go-and-not-rust/[Why Go and not Rust? | Loris Cro's Personal Blog]
+
+L'article est intéressant. MAIS il montre bien que Go et Rust n'ont pas les mêmes cibles, ni les mêmes moyens. En fait, ce qui est marrant, c'est que pour l'essentiel, Go est comparé à Java/C\# et pas à Rust ...

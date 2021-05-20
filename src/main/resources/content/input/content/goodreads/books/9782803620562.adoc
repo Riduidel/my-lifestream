@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dallas Barr, Tome 3: Premier quartier
+:jbake-tags:  complot, lune, politique, rayon-bd,_année_2014,_mois_févr.,_note_4,read,voyage
+:jbake-date: 2014-02-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782803620562.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393176066l/20891121._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1393176066l/20891121._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/20891121
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/12476.html[Joe Haldeman]
+* link:../authors/238619.html[Marvano]
+
+## Series
+* link:../series/Dallas_Barr.html[Dallas Barr]
+
+## Review
+
+++++
+Toujours aussi bon épisode de cette oeuvre.<br/>Cette fois-ci, le plus vieux play-boy du monde s'envole pour la Lune. Une Lune qui m'a beaucoup rappelé des oeuvres comme link:9782070343621.html[Révolte sur la lune] ou link:9782070358052.html[Gens de la Lune]. On y trouve donc des lunatiques libertaires et ma fois pas forcément sympathiques. On y trouve également une lutte entre puissances économiques désormais assez classique. Et on y trouve enfin l'un des tours de force de cette oeuvre : une sortie dans le vide spatial sans scaphandre, mais pas sans préparation.<br/>Et ça vaut le coup pour le retournenement final qui laisse apparaître Lord Stileman pour ce qu'il est : un beau salaud, mais le dernier.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PictureSync » Photo Sharing Everywhere
+:jbake-tags: software,shareware,windows,web,photographie,metadata,iptc,exif,macosx,_mois_oct.,_année_2008
+:jbake-date: 2008-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1223988942000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpicturesync.net%2F&searchtags=software+shareware+windows+web+photographie+metadata+iptc+exif+macosx+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://picturesync.net/[PictureSync » Photo Sharing Everywhere]
+
+Comme je cherche toujours la solutiojn idéale pour mes photos, et que je n'ai pas besoin de compte sur un site de partage, ce truc pourrait être une bonne solution ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: osx2x
+:jbake-tags: software,freeware,macosx,réseau,remote,vnc,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109771024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.opendarwin.org%2Fprojects%2Fosx2x%2F&searchtags=software+freeware+macosx+r%C3%A9seau+remote+vnc+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.opendarwin.org/projects/osx2x/[osx2x]
+
+osx2x is a small Mac OS X application that lets you control other machines running either an X11 server or a VNC server using your mac's mouse and keyboard. So if you happen to have a mac and either an X Windows machine or a amchine running VNC on your de

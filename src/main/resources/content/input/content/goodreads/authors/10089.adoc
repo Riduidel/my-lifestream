@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Philip José Farmer
+:jbake-tags: author
+:jbake-date: 1996-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/10089.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1234714074p5/10089.jpg
+:jbake-source: https://www.goodreads.com/author/show/10089
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780345422040.html[Tales of the Cthulhu Mythos]
+* link:../books/9781585677153.html[The Unreasoning Mask]
+* link:../books/9782070328369.html[Les Amants étrangers]
+* link:../books/9782253121909.html[La Nuit de La Lumiere]
+* link:../books/9782266028738.html[Gare à la bête]
+* link:../books/9782266028745.html[Comme une bête]

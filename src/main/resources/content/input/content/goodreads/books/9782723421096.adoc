@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ghost in the Shell, tome 2
+:jbake-tags:  complot, cyberpunk, hard-science, ia,_année_2010,_mois_avr.,_note_3,rayon-bd,read
+:jbake-date: 2010-04-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782723421096.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342783412l/625822._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342783412l/625822._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/625822
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans un Japon entièrement régi par des réseaux informatiques, la suite des aventures du major Kusanagi et de Batou au sein de leur unité d'intervention.
+</div>
+++++
+
+
+## Authors
+* link:../authors/4866.html[Masamune Shirow]
+
+## Series
+* link:../series/Ghost_in_the_Shell.html[Ghost in the Shell]
+
+## Review
+
+++++
+Les aventures du major Kusanagi deviennent cette fois de plus en plus fumeuses, avec en particulier le passage du marionettiste, grand moment d'étrangeté. Néanmoins, je reconnais à l'auteur un talent certain dans le dessin d'action et les départs débridés vers la hard-science la plus absconse.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manuskript – Open-source tool for writers
+:jbake-tags: open-source,software,windows,linux,macosx,écriture,_mois_avr.,_année_2017
+:jbake-date: 2017-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1491829100000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theologeek.ch%2Fmanuskript%2F&searchtags=open-source+software+windows+linux+macosx+%C3%A9criture+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.theologeek.ch/manuskript/[Manuskript – Open-source tool for writers]
+
+Un jour, j'essayerais d'écrire de al fiction pour voir ...

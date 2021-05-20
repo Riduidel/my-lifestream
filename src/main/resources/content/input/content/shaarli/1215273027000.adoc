@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BlockOut II - The 3D Tetris Community
+:jbake-tags: jeu,freeware,open-source,_mois_juil.,_année_2008
+:jbake-date: 2008-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1215273027000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.blockout.net%2Fblockout2%2Findex.php&searchtags=jeu+freeware+open-source+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.blockout.net/blockout2/index.php[BlockOut II - The 3D Tetris Community]
+
+Une version moderne de ce bon vieux jeu de dingues

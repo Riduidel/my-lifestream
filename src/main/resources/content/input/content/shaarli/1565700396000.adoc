@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fillerama: A filler text generator
+:jbake-tags: générateur,texte,web,_mois_août,_année_2019
+:jbake-date: 2019-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1565700396000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffillerama.io%2F&searchtags=g%C3%A9n%C3%A9rateur+texte+web+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://fillerama.io/[Fillerama: A filler text generator]
+
+Via sebsauvage, je découvre ce générateur de lorem ipsum qui peut (et c'est presqu'aussi chic qu'un fez - oui, un fez, c'est chic) ... utiliser du texte de Doctor Who !

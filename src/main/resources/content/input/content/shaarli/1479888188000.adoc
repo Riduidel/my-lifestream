@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Challenge de code "Fantastic Bits" du 26/11 au 04/12 2016, à Paris - LinuxFr.org
+:jbake-tags: programming,jeu,web,algorithme,_mois_nov.,_année_2016
+:jbake-date: 2016-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1479888188000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Fchallenge-de-code-fantastic-bits-du-26-11-au-04-12-2016-a-paris&searchtags=programming+jeu+web+algorithme+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://linuxfr.org/news/challenge-de-code-fantastic-bits-du-26-11-au-04-12-2016-a-paris[Challenge de code "Fantastic Bits" du 26/11 au 04/12 2016, à Paris - LinuxFr.org]
+
+Soon ... (pour vous inscrire, passez par ce lien : https://www.codingame.com/servlet/urlinvite?u=1539245)

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Matz
+:jbake-tags: author
+:jbake-date: 2010-11-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3344799.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1517857308p5/3344799.jpg
+:jbake-source: https://www.goodreads.com/author/show/3344799
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782203014381.html[Le commun des mortels (Le Tueur, #7)]
+* link:../books/9782203031678.html[L'ordre naturel des choses (Le Tueur, #8)]

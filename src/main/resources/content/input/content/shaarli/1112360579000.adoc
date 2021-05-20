@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Your Heading Goes Here
+:jbake-tags: web,javascript,langage,programming,library,expérience,oop,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112360579000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mckoss.com%2Fjscript%2F&searchtags=web+javascript+langage+programming+library+exp%C3%A9rience+oop+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mckoss.com/jscript/[Your Heading Goes Here]
+
+This is a collection of JScript files that I've accumulated over the past couple of years. Most of these are demonstrations or experiments to see what can be done in JScript. Many of them have useful functions that can be pulled out for use in other pla

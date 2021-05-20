@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: amos - A half-hour to learn Rust
+:jbake-tags: rust,programming,langage,syntax,tutorial,_mois_janv.,_année_2020
+:jbake-date: 2020-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1580379961000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffasterthanli.me%2Fblog%2F2020%2Fa-half-hour-to-learn-rust%2F&searchtags=rust+programming+langage+syntax+tutorial+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://fasterthanli.me/blog/2020/a-half-hour-to-learn-rust/[amos - A half-hour to learn Rust]
+
+Toute la syntaxe Rust en article. Vraiment chouette !

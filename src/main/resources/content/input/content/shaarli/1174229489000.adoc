@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Soldat
+:jbake-tags: jeu,multiplayer,software,freeware,windows,_mois_mars,_année_2007
+:jbake-date: 2007-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1174229489000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.soldat.pl%2F&searchtags=jeu+multiplayer+software+freeware+windows+_mois_mars+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.soldat.pl/[Soldat]
+
+Un jeu de bourrin mélangeant Quake et Worms, ça ne peut pas être mauvais

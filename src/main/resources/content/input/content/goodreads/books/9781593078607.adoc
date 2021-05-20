@@ -1,0 +1,35 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy, Vol. 7: The Troll Witch and Others
+:jbake-tags:  fantastique,_année_2012,_mois_janv.,_note_2,rayon-bd,read
+:jbake-date: 2012-01-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9781593078607.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039344l/900750._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486039344l/900750._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/900750
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+With a new Hellboy series on the stands, fans of the world's greatest paranormal detective can find older favorites collected for the first time in the seventh volume of the Hellboy Saga. <i>Hellboy: The Troll Witch and Others</i>, collects short stories from <i>The Dark Horse Book of the Dead, Witchcraft, Hauntings,</i> and <i>Monsters</i>, the 2004 <i>Hellboy: Wizard 1/2</i>, as well as the critically acclaimed 2006 miniseries, <i>Hellboy: Makoma</i> by Mignola and comics legend Richard Corben, and a previously unpublished Hellboy story by P. Craig Russell and Mike Mignola, along with sketches and story notes.
+</div>
+++++
+
+
+## Authors
+* link:../authors/10182.html[Mike Mignola]
+* link:../authors/38328.html[P. Craig Russell]
+* link:../authors/9019.html[Richard Corben]
+
+## Series
+* link:../series/Hellboy.html[Hellboy]
+* link:../series/Hellboy_-_Edicao_Historica.html[Hellboy - Edição Histórica]
+* link:../series/Hellboy__Edicion_cartone.html[Hellboy: Edición cartoné]
+* link:../series/Hellboy__Edicion_rustica.html[Hellboy: Edición rústica]
+
+## Review
+
+++++
+Encore un recueil d'histoires courtes. Dans ma mémoire, c'est sans doute le moins bon volume d'Hellboy, puisque les histoires présentées, outre leur petite taille, sont aussi assez typiques d'une certaine forme de fantastique "anglo-saxon" qui n'a pas vraiment mes faveurs.
+++++

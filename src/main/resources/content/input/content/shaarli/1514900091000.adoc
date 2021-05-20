@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Confessions of a Digital Nazi Hunter - The New York Times
+:jbake-tags: web,politique,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514900091000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.nytimes.com%2F2017%2F12%2F27%2Fopinion%2Fdigital-nazi-hunter-trump.html%3Freferer%3D&searchtags=web+politique+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://mobile.nytimes.com/2017/12/27/opinion/digital-nazi-hunter-trump.html?referer=[Confessions of a Digital Nazi Hunter - The New York Times]
+
+Le défi de la modération est assez clairement expliqué dans cet article ... et la défaite conceptuelle de Twitter apparaît clairement. Un jour, ils se feront réguler, et ça fera très mal.

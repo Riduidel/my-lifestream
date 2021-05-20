@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Perf Track
+:jbake-tags: javascript,web,performance,comparatif,analyse,_mois_juil.,_année_2020
+:jbake-date: 2020-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1594363477000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fperf-track.web.app%2F&searchtags=javascript+web+performance+comparatif+analyse+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://perf-track.web.app/[Perf Track]
+
+Un site sympa, qui fournit une analyse statistique des performances des différents frameworks Javascript. L'avantage est évidement de donner une information sur ce qui est réellement déployé.

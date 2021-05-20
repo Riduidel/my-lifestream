@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hack your documentation! - The Worldline engineering Blog
+:jbake-tags: documentation,programming,build,_mois_sept.,_année_2020
+:jbake-date: 2020-09-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1601033869000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.worldline.tech%2F2020%2F09%2F24%2Fhack-your-documentation.html&searchtags=documentation+programming+build+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.worldline.tech/2020/09/24/hack-your-documentation.html[Hack your documentation! - The Worldline engineering Blog]
+
+Un article bien fichu sur la dock as code et ce que ça implique. J'ai été marqué en particulier sur le fait de passer un linter sur les fichiers de documentation, ça me fait bien réfléchir.

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Agent du Chaos (Travis, #3)
+:jbake-tags:  complot, cyberpunk, prison, rayon-bd,_année_2012,_mois_févr.,_note_3,nano,read
+:jbake-date: 2012-02-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840553106.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328395053l/1003376._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328395053l/1003376._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1003376
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Transgenic et Baxter &amp; Martin ont accepté le principe d'une négociation arbitrée par l'ONU dont le but est de trouver une issue à la crise provoquée par les affaires Huracan et Ariane: désigner un bouc émissaire en dénonçant l'organisation de mercenaires qui les a servi. Travis et son ennemi Vlad Nyrki s'échappent du bagne où ils étaient interrogés. Ils rejoignent le lieu de la réunion et empêchent les mercenaires d'assassiner les dirigeants des deux firmes. Privé du renouvellement de ses nano-circuits, Vlad perd toutes ses facultés physiques
+</div>
+++++
+
+
+## Authors
+* link:../authors/503980.html[Christophe Quet]
+* link:../authors/503981.html[Fred Duval]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+Drôle d'histoire, faisant la transition entre l'espèce d'action forcenée du premier tome et la quête des cyberneurs qui lui fera suite.<br/>Cela dit, Vlad Nykri, ce sale bonhomme, apporte un indéniable plus à cette histoire où Travis apparaît clairement comme un boy-scout.<br/>Ca en fait un tome pas mal, avec la formidable ville de Mangaséno, à qui une double page ne suffit clairement pas.
+++++

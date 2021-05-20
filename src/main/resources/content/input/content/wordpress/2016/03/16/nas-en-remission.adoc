@@ -1,0 +1,41 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NAS en rémission
+:jbake-tags: dns-323,_mois_mars,_année_2016
+:jbake-date: 2016-03-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/16/nas-en-remission.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/16/nas-en-remission/
+:jbake-style: wordpress
+
+++++
+<p>
+Dans les épisodes précédents
+<br/>
+<ol>
+<br/>
+<li>J'ai <a href="https://riduidel.wordpress.com/2016/03/10/jai-demi-perdu-mon-nas-cest-grave/">à moitié perdu</a> mon NAS</li>
+<br/>
+<li>J'ai <a href="https://riduidel.wordpress.com/2016/03/14/lost-in-nas/">encaissé le coup</a> (et mon portefeuille aussi)</li>
+<br/>
+</ol>
+<br/>
+Et aujourd'hui, je reprends le chemin du succès.
+</p>
+<p>
+Hier, par exemple, je suis allé chercher les deux disques dur de 1 To qui, à terme, vont venir remplacer les deux disques initiaux de 500 Go. Ils seront montés en RAID 1 quand je les aurai installé tous les deux.
+</p>
+<p>
+Parce que pour l'instant, j'ai fait d'autres choses.
+</p>
+<p>
+J'ai d'abord installé <a href="https://sites.google.com/site/altfirmware/home">Alt-F</a>. Pas pour son interface, mais parce qu'il supporte nativement Python, minidlna, et bien d'autres choses (même si je ne comprend pas complètement comment ça marche). Et je dois dire que, à ma grande surprise, le flash du firmware s'est passé sans le moindre souci.
+</p>
+<p>
+Et aujourd'hui, j'ai installé le premier des deux disques, formaté avec juste une partition RAID de 999 Go (plus 1 Go pour le swap). Et j'ai commencé la longue opération de réparation RAID, qui va recopier toutes les données du "vieux" disque dans le nouveau (juste pour rire, j'ai 425 mn d'ETA, soit 7 heures d'attente). Et demain, quand cette opération sera terminée, j'enlèverai le vieux disque que je remplacerai parle deuxième nouveau disque, sur lequel je referai la même opération.
+</p>
+<p>
+Et si tout se passe bien, j'aurai ce week-end un NAS complètement renouvelé ... Et un disque dur SATA de 500 Go inutile. Et ce disque dur, à priori, avec un adaptateur SATA/USB 3, je pourrai peut-être tenter d'en récupérer les données.
+</p>
+++++

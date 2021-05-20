@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Magical Macintosh Key Sequences
+:jbake-tags: web,documentation,macosx,system,clavier,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110976500000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.davespicks.com%2Fwriting%2Fprogramming%2Fmackeys.html&searchtags=web+documentation+macosx+system+clavier+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.davespicks.com/writing/programming/mackeys.html[Magical Macintosh Key Sequences]
+
+Boot and Finder shortcuts for OS X and Classic

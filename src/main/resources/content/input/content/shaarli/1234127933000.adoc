@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Serveur de stockage NAS D-Link DNS-323
+:jbake-tags: test,nas,stockage,réseau,tutorial,exemple,_mois_févr.,_année_2009
+:jbake-date: 2009-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1234127933000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.homemedia.fr%2Ftests-guides%2F70-Serveur-de-stockage-NAS-D-Link-DNS-323-0.html&searchtags=test+nas+stockage+r%C3%A9seau+tutorial+exemple+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.homemedia.fr/tests-guides/70-Serveur-de-stockage-NAS-D-Link-DNS-323-0.html[Serveur de stockage NAS D-Link DNS-323]
+
+Un guide complet sur le NAS qui trône maintenant chez moi, avec un guide de partitionnement assez complet our satisfaire mes besoins évidement complexes.

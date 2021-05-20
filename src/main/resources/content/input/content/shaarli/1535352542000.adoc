@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kähler hypersurface on Twitter: "https://t.co/EFsdhFf4Fz @rustlang , https://t.co/Jtf6UUzk2I: the downsides. I guess they’ll sell them on ebay or craigs list? What a fucking moron. Please ban them."
+:jbake-tags: web,rust,programming,hack,_mois_août,_année_2018
+:jbake-date: 2018-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1535352542000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fphaazon_%2Fstatus%2F1033480577134080006&searchtags=web+rust+programming+hack+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/phaazon_/status/1033480577134080006[Kähler hypersurface on Twitter: "https://t.co/EFsdhFf4Fz @rustlang , https://t.co/Jtf6UUzk2I: the downsides. I guess they’ll sell them on ebay or craigs list? What a fucking moron. Please ban them."]
+
+Dans le monde Rust, pour déployer, on crée des crates. Et il y a donc des mecs qui squattent les noms courants

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Podcast Science
+:jbake-tags: podcast,science,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590759963000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.podcastscience.fm%2F&searchtags=podcast+science+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.podcastscience.fm/[Podcast Science]
+
+Si vous voulez entendre parler de science d'une façon plus cool que la méthode scientifique, sans pour autant que la rigueur soit absente, écoutez ce podcast, il est vraiment génial. Et en plus, les épisodes sont transcrits en texte !

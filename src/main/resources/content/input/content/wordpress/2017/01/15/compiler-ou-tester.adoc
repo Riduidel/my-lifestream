@@ -1,0 +1,211 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compiler ou tester ?
+:jbake-tags: java,_mois_janv.,_année_2017
+:jbake-date: 2017-01-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/01/15/compiler-ou-tester.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/01/15/compiler-ou-tester/
+:jbake-style: wordpress
+
+++++
+<p>
+En fin de cette semaine, une controverse intéressante a eu lieu sur twitter, habilement lancée par cet article de "Uncle" Bob Martin : <a href="http://blog.cleancoder.com/uncle-bob/2017/01/11/TheDarkPath.html">The Dark Path</a>.
+</p>
+<p>
+Regardez par exemple cette sélection de tweets sur le sujet :
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/nmartignole" class="screenName"><img src="http://pbs.twimg.com/profile_images/849478944881602561/u897KYGD_mini.jpg" alt="profile of Principal Engineer at Doctolib / co-creator and organizer of Devoxx France conference/ Blog le Touilleur Express"/>nmartignole</a>
+<br/>
+<span class="name">Nicolas Martignole</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/nmartignole/status/819 471 344 723 234 816" class="date">12 janv. 2017 à 10:09:28</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">A must-read for any developers. I disagree with uncle bob. Type system is as important as Tests.  https://t.co/oZcJSiV0Et</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/clementd" class="screenName"><img src="http://pbs.twimg.com/profile_images/803642771814969345/Cw3GEDry_mini.jpg" alt="profile of he/him | they/them. ND. Developer at @FretLinkEu, Church of η-reduction. neurchi de traverse. profile pic by @bejug.  @clementd@framapiaf.org 🦣"/>clementd</a>
+<br/>
+<span class="name">cλementd 🚸</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/clementd/status/819 445 201 735 471 104" class="date">12 janv. 2017 à 08:25:35</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">I'm not uncle Bob, but maybe this can be of interest : https://t.co/S43LcqsLWV</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/nicolas_frankel" class="screenName"><img src="http://pbs.twimg.com/profile_images/1063110424306929664/9pYrPAp6_mini.jpg" alt="profile of 🥑 Developer Advocate @Hazelcast
+<br/>
+✍️ Blogger at https://t.co/nnBYBMZOCC
+<br/>
+🎓 Learner
+<br/>
+🧑‍💻 Former developer and architect
+<br/>
+📖 Author of https://t.co/p1nP5PIUmo"/>nicolas_frankel</a>
+<br/>
+<span class="name">Nicolas Frankel (@Home for a long time I believe)</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/nicolas_frankel/status/819 554 972 320 878 592" class="date">12 janv. 2017 à 15:41:46</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Yet another Uncle Bob’s rant that I disagree with https://t.co/wSJBJRFRQp The more the compiler do, the better I am. But not he… Sad! ;-)</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/romainguy" class="screenName"><img src="http://pbs.twimg.com/profile_images/459175652105527298/6qGNL0QI_mini.jpeg" alt="profile of Engineering Director for the Android Toolkit team at Google, Filament (https://t.co/fhPiT1D40e), Photography (https://t.co/0OzBRURRQJ…)"/>romainguy</a>
+<br/>
+<span class="name">Romain Guy</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/romainguy/status/819 560 856 622 989 312" class="date">12 janv. 2017 à 16:05:09</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@nmartignole With a strong type system the code is the test. It doesn't get better than that</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+On peut dire que les avis sont contrastés.
+</p>
+<p>
+Et comme la meilleure façon de ne laisser aucun doute sur le sujet de ma propre stupidité, laissez-moi vous donner mon avis sur le sujet.
+<br/>
+<h2>A quoi sert le compilateur ?</h2>
+<br/>
+Il y a des années, à l'époque du C, le compilateur servait à transformer le code source écrit dans un langage quasiment humainement compréhensible (le C) en un code exécutable par la machine.
+</p>
+<p>
+Aujourd'hui, quelque soit la plateforme d'exécution (la JVM, la CLR de Microsoft, ou le résultat d'une transformation LLVM), le compilateur fait beaucoup plus de choses : il simplifie, optimise, vérifie le code d'une façon très poussée.
+</p>
+<p>
+Et à mon avis, c'est l'argument de Romain Guy : si le système de type est suffisamment poussé, il est impossible d'écrire un code qui ne corresponde pas précisément aux souhaits du développeur. Mais à quel prix ? C'est ce que cherche à évaluer Uncle Bob.
+<br/>
+<h2>Laisser le compilateur vérifier ? ou Tester</h2>
+<br/>
+Parce que l'avantage des tests sur le compilateur, c'est quand même de laisser le développeur vérifier les choses à sa façon : il écrit l'histoire dans son test, et vérifie les choses comme il le souhaite. Qui plus est, le compilateur est certes capable de vérifier certaines erreurs bas niveau, mais il y a tout un tas de trucs que le compilateur ne sera absolument pas capable de vérifier, et qui nécessiteront des tests.
+<br/>
+<h2>Alors quoi ?</h2>
+<br/>
+Heureusement, aujourd'hui, la question est en fait tranchée : les développeurs utilisent les deux, en fonction à la fois du coût d'implémentation de chacun, et de l'expressivité de chacun. Cela dit, je continue à trouver cette question intéressante. Et, à titre personnel, je comprend parfaitement la décision de Kotlin et Swift d'empêcher les références <code>null</code>, même si je préfère une solution plus simple : je n'utilise autant que possible jamais de <code>null</code>en Java. Et du coup, si <code>NullPointerException</code> il y a, c'est forcément un bug qui nécessitera un test. Est-ce que c'est plus coûteux que d'avoir des <code>&#60;Object&#62;?</code> à déréférencer ? Je n'ai pas l'impression. Mais bien sûr, je peux me tromper.
+</p>
+++++

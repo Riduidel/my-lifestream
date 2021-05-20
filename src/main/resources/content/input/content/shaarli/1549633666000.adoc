@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moving from Go to PHP again - Danny van Kooten
+:jbake-tags: programming,langage,php,go,migration,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549633666000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdannyvankooten.com%2Ffrom-go-back-to-php-again%2F&searchtags=programming+langage+php+go+migration+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dannyvankooten.com/from-go-back-to-php-again/[Moving from Go to PHP again - Danny van Kooten]
+
+Personne ne me croit quand je dis que go est utilisé comme le PHP moderne ... J'ai comme l'impression que cet article marque ce point.

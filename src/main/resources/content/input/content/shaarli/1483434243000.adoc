@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How and why to design your Teams for modern Software Systems - Matthe…
+:jbake-tags: devops,organisation,management,_mois_janv.,_année_2017
+:jbake-date: 2017-01-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1483434243000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2FSkeltonThatcher%2Fhow-and-why-to-design-your-teams-for-modern-software-systems-matthew-skelton-devopscon-munich-2016&searchtags=devops+organisation+management+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.slideshare.net/SkeltonThatcher/how-and-why-to-design-your-teams-for-modern-software-systems-matthew-skelton-devopscon-munich-2016[How and why to design your Teams for modern Software Systems - Matthe…]
+
+Chouette présentation sur l'organisation "efficace" pour DevOps

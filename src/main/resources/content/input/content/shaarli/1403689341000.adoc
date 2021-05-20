@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mix-IT14 - Jeu vidéo: le cousin un peu étrange de l'IT. // Speaker Deck
+:jbake-tags: management,évolution,programming,gamification,_mois_juin,_année_2014
+:jbake-date: 2014-06-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1403689341000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Flvictorino%2Fmix-it14-jeu-video-le-cousin-un-peu-etrange-de-lit&searchtags=management+%C3%A9volution+programming+gamification+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://speakerdeck.com/lvictorino/mix-it14-jeu-video-le-cousin-un-peu-etrange-de-lit[Mix-IT14 - Jeu vidéo: le cousin un peu étrange de l'IT. // Speaker Deck]
+
+Très chouette prés de L. Victorino sur les rapprochements entre l'IT et le gaming

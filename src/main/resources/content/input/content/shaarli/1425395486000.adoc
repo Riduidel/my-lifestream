@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LJC: "Chuck Norris Doesn't Do DevOps...but Java developers might bene…
+:jbake-tags: devops,organisation,_mois_mars,_année_2015
+:jbake-date: 2015-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1425395486000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.slideshare.net%2Fdbryant_uk%2Fdevops-bryant-v2014v2%3Fref%3Dhttps%3A%2F%2Ftaidevcouk.wordpress.com%2F2014%2F03%2F16%2Fljc-event-chuck-norris-doesnt-do-devops-but-java-developers-might-benefit%2F&searchtags=devops+organisation+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://fr.slideshare.net/dbryant_uk/devops-bryant-v2014v2?ref=https://taidevcouk.wordpress.com/2014/03/16/ljc-event-chuck-norris-doesnt-do-devops-but-java-developers-might-benefit/[LJC: "Chuck Norris Doesn't Do DevOps...but Java developers might bene…]
+
+Très chouette présentation de DevOps, et de son intérêt

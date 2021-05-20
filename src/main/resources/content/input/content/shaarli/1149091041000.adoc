@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gatsu gatsu
+:jbake-tags: blog,_mois_mai,_année_2006
+:jbake-date: 2006-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1149091041000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gatsugatsu.com%2F&searchtags=blog+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.gatsugatsu.com/[gatsu gatsu]
+
+Le blog dont proviennent la plupart des liens de del.icio.us aujourd'hui, sans doute parce qu'il me ressemble un peu

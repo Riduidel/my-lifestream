@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: “Hello, (real) world!” in PHP in 2017
+:jbake-tags: programming,critique,javascript,php,_mois_mars,_année_2017
+:jbake-date: 2017-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1489390946000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkukuruku.co%2Fpost%2Fhello-real-world-in-php-in-2017%2F&searchtags=programming+critique+javascript+php+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://kukuruku.co/post/hello-real-world-in-php-in-2017/[“Hello, (real) world!” in PHP in 2017]
+
+J'aimerais dire que PHP est pourri, mais là, c'est le monde Javascript qui déconne à plein tubes.

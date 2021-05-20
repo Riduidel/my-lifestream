@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I'm not interested in your corporate Contributor License Agreements
+:jbake-tags: politique,programming,open-source,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546431852000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbrokenco.de%2F2018%2F12%2F21%2Fno-more-cla.html&searchtags=politique+programming+open-source+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://brokenco.de/2018/12/21/no-more-cla.html[I'm not interested in your corporate Contributor License Agreements]
+
+Un point intéressant que je tends à partager : je veux bien contribuer à un projet open-source, mais ça m'est bien plus difficile quand ce projet est détenu par une entreprise (et je pense que Kafka, par exemple, est dans ce cas)

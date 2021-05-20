@@ -1,0 +1,230 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - GraalVM et Quarkus changent la donne
+:jbake-tags: devoxx,graalvm,java,quarkus,_mois_avr.,_année_2019
+:jbake-date: 2019-04-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/19/devoxxfr-graalvm-et-quarkus-changent-la-donne.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/19/devoxxfr-graalvm-et-quarkus-changent-la-donne/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Cette session va essayer d’expliquer ce qu’est <a href="http://quarkus.io/">Quarkus</a> et comment ça marche. A la base, Quarkus, c’est un framework pour écrire des applications Java …​ mais ça, on le savait déja. L’objectif, c’est de faire du micro-service, voire même du serverless.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+<a href="https://twitter.com/emmanuelbernard/">Emmanuel</a> commence par une démo …​ classique puisqu’il s’agit du tutorial Quarkus. Et Il nous montre aussi que quand l’IDE compile la classe, Quarkus recharge l’application (à la première requête). C’est <strong>très</strong> rapide.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+Emmanuel va donc continuer en développant une application de todo. Dans Quarkus, les dépendances sont disponibles sous la forme d’extensions, gérées par le plugin maven de Quarkus. Du coup, rendre l’application compatible Hibernate, c’est facile et rapide. Le petit point négatif, c’est qu’il faut arrêter le mode dev pour ajouter une dépendance. Et ça, j'en ai discuté après avec Clément Escoffier, parce que du temps de Wisdom, ça marchait :-) Apparemment, je me prépare une PR pour l'automne ...
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-14">
+</p>
+<p>
+Pour Hibernate, Emmanuel utilise <strong>Hibernate <em>with Panache</em></strong>, qui est une version spécifique d’Hibernate ne couvrant que les cas communs (ce qui correspond néanmoins à l’immense majorité des applications). L’entité écrite n’a pas de getters/setters, pour une raison que je n’ai pas bien compris …​ Comme hibernate-panache simplifie les choses, les entités sont écrites "à la sauce ActiveRecord", c’est-à-dire avec un certain nombre de méthodes préexistantes (comme par exemple <code>listAll()</code>).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-16">
+</p>
+<p>
+Pendant qu’Emmanuel arrête sa démo, il nous parle des tests, qui utilisent une annotation <code>@QuarkusTest</code> qui démarre l’application, effectue le test et injecte le test dans l’application.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-18">
+</p>
+<p>
+Pour revenir au pourquoi …​ Avant, on faisait des monolithes, qu’on a commencé à couper en micro-services ou en fonction. Du coup, on a maintenant moins de temps et de développeurs pour travailler sur le composant. Les fonctions ajoutent une complexité supplémentaire : les fonctions doivent pouvoir démarrer, scaler et s’arrêter de façon très rapide.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Pourquoi ajouter cette complexité ? Pour gagner en agilité, en scalabilité et en réactivité métier.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Malheureusement, ça n’est pas compatible avec Java : Java démarre plus lentement à cause du nombre de classes, le bytecode, le JIT. Et en plus il y a un surcoût mémoire dû à la représentation des classes et de leurs métadonnées.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Évidement, ça rend Java peu intéressant face à Node ou Go.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-32">
+</p>
+<p>
+Donc, RedHat a créé Quarkus. Qu’est-ce que ça apporte ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+D’abord le plaisir de développement
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-36">
+<br/>
+<ul>
+<br/>
+<li>Quarkus utilise des standards facile à reprendre</li>
+<br/>
+<li>La configuration est unifiée dans <code>application.properties</code></li>
+<br/>
+<li>La configuration n’est souvent pas nécessaire, et il y a du live-reload</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Ensuite la consommation de ressources, puisque l’application démarrée avec GraalVM prend 23 Mo contre 218 Mo pour un déploiement équivalent avec par exemple Spring Boot.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+Quarkus unifie également les approches réactives et bloquantes, en permettant aux deux de coexister dans la même application.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-44">
+</p>
+<p>
+On parle de <a href="https://www.graalvm.org/">GraalVM</a>, mais qu’est-ce que c’est ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Plusieurs choses, évidement.
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-48">
+<br/>
+<ul>
+<br/>
+<li>Un interpréteur (Trufle) pour la programmation polyglote)</li>
+<br/>
+<li>Le compilateur (utilisable avec Hotspot)</li>
+<br/>
+<li>SubstrateVM qui transforme une application Java en binaire système</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+SubstrateVM élimine l’ensemble du code mort (le binaire est donc allégé) grâce à une compilation native en "closed world" (c’est-à-dire en imaginant avoir tout le code). Ca a quelques inconvénients ...
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-55">
+</p>
+<p>
+Il n’y a pas de ClassLoader dynamique.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-57">
+</p>
+<p>
+L’introspection est possible …​ si la classe est référencée (sinon la classe est supprimée par SubstrateVM). Evidement, de la même manière, les proxies ne marchent pas. Les lambdas sont supportées. Les initialiseurs statiques sont tous appelés au démarrage.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-60">
+</p>
+<p>
+Donc effectivement, beaucoup d'éléments sont déplacés au moment du build (ce qui explique la lenteur de la compilation native). Qu’est-ce qui est fait ?
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-62">
+<br/>
+<ul>
+<br/>
+<li>Lire les fichiers de configuration</li>
+<br/>
+<li>Le scan de CLASSPATH (pour les annotations, les getters et autres métadonnées)</li>
+<br/>
+<li>On construit le métamodèle</li>
+<br/>
+<li>On prépare l’introspection</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-67">
+</p>
+<p>
+Quarkus fournit pour tous ces éléments de quoi aider les frameworks, parce que ça rend le démarrage plus rapide. De la même manière, l’intelligence qui a lieu à ce moment-là n’est plus nécessaire. Donc on peut supprimer les classes et ça allège l’application. Et enfin, Quarkus alimente les fichiers nécessaires à GraalVM pour ,optimiser l’application.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+Kotlin est également supporté. Il y a également des explorations qui ont été faites pour développer des applications en Javascript avec Quarkus.
+<br/>
+<h2>Conclusion</h2>
+<br/>
+Je ne l'ai pas encore assez écrit, mais je suis fan de Quarkus : l'idée est incroyablement géniale, et la réalisation extrêmement léchée. Franchement, pour moi, c'est une belle façon de remettre Java dans la course, précisément parce que le couple Quarkus/GraalVM permet de remettre Java dans le contexte conteneurisé ou ses avantages initiaux ne tenaient plus. Pour le dire autrement, essayez Quarkus, vous verrez, c'est génial.
+</p>
+<p>
+</div>
+</p>
+++++

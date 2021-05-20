@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chris Ford on Twitter: "Tools for thought (types, TDD, VCS) are hard to appreciate until you have garbage collected the cognitive resources they save you."
+:jbake-tags: citation,outillage,réflexion,_mois_janv.,_année_2017
+:jbake-date: 2017-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1484735925000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fctford%2Fstatus%2F820764663247998976&searchtags=citation+outillage+r%C3%A9flexion+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/ctford/status/820764663247998976[Chris Ford on Twitter: "Tools for thought (types, TDD, VCS) are hard to appreciate until you have garbage collected the cognitive resources they save you."]
+
+Il en va de même de tous les outils intellectuels, non ?

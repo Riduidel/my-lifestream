@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: World War Z
+:jbake-tags: serie
+:jbake-date: 2011-07-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/World_War_Z.adoc
+:jbake-source: https://www.goodreads.com/series/299627
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253129905.html[World War Z]

@@ -1,0 +1,156 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Snowcamp 2020, c'était bien
+:jbake-tags: conférence,snowcamp,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/01/26/snowcamp-2020-cetait-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/01/26/snowcamp-2020-cetait-bien/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>L'année dernière, <a href="https://riduidel.wordpress.com/2019/01/27/vis-ma-vie-de-speaker-au-snowcamp/">j'étais allé au snowcamp</a> présenter un sujet bien technique, bien touffu. Et si certains aspects de la conférence m'avaient plu, j'en gardait un souvenir assez douloureux (trop de travail, trop peu de sommeil).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, cette année, évidement, j'ai rempilé !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/jidup\/status\/1220645281294888960","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/jidup" class="screenName"><img src="http://pbs.twimg.com/profile_images/773796864655298561/r_YRNid4_mini.jpg" alt="profile of Coach agile / Transformation leader / Directeur d'agence Locale Grenoble ZENIKA"/>jidup</a>
+		<span class="name">jean dupuis</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/jidup/status/1 220 645 281 294 888 960" class="date">24 janv. 2020 à 10:51:28</a>
+
+	<span class="content">
+	
+	<span class="text">Le diable s'habille en Java fait salle comble a #snowcamp @ZenikaIT @riduidel https://t.co/dbYZrrSp1e</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EPCaYzdXkAAxz-2.jpg" alt="1 220 645 249 938 329 600"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Avec quand même deux nuances importantes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Ca n'est pas un sujet technique, et du coup cette présentation ne risque pas d'être obsolète dans six mois.</li><li>Le sujet était déja prêt (j'avais donné la conférence au chtijug en juin dernier)</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et franchement, ce sont des nuances vraiment significatives : je n'avais pas à maintenir des paquets de démo à jour ! D'ailleurs, je n'avais pas à construire des démos ! Les deux mis bout à bout m'ont fait économiser énormément d'énergie, ce qui m'a permis d'aborder le jour de la présentation sereinement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une autre chose qui a changé, c'est que j'ai compris (grâce à Logan) l'intérêt de raconter une bonne histoire, ce qui fait que cette présentation-ci est bien plus abordable que ce que j'aurais pu faire au préalable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce que je n'avais pas prévu, c'est l'affluence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/brunosabot\/status\/1220642967666511873","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/brunosabot" class="screenName"><img src="http://pbs.twimg.com/profile_images/1306190047599882242/m86sQSJ3_mini.jpg" alt="profile of 🚀 Front-end Developer, React, VueJs, HTML, CSS, Performance, UX.
+🏡 @ZenikaIT & @bdxio & @GDGBordeaux"/>brunosabot</a>
+		<span class="name">Bruno Sabot</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/brunosabot/status/1 220 642 967 666 511 873" class="date">24 janv. 2020 à 10:42:16</a>
+
+	<span class="content">
+	
+	<span class="text">Salle archi comble pour le talk de @riduidel au @SnowCampIO, le diable s'habille en Java https://t.co/XUerNnoxRJ</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EPCYTnnX4AAAnhJ.jpg" alt="1 220 642 961 836 466 176"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Vous avez vu le nombre de gens sur la photo ? J'étais stupéfait de voir entrer des gens dans une salle pleine. Et si je ne souffre pas trop du syndrôme de l'imposteur en règle générale, voir tous ces gens venir m'écouter a généré un <a href="https://www.larousse.fr/dictionnaires/francais/trac/78829">trac</a> certain. Mais la présentation s'est bien passé, et j'ai été très content de voir que ce que je disais touchait une corde sensible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et en plus, j'ai rencontré des gens vraiment sympas avec lesquels j'ai passé beaucoup de temps. Le séjour se concluant hier par une belle journée de ski.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/brunosabot\/status\/1221361780510920704","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/brunosabot" class="screenName"><img src="http://pbs.twimg.com/profile_images/1306190047599882242/m86sQSJ3_mini.jpg" alt="profile of 🚀 Front-end Developer, React, VueJs, HTML, CSS, Performance, UX.
+🏡 @ZenikaIT & @bdxio & @GDGBordeaux"/>brunosabot</a>
+		<span class="name">Bruno Sabot</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/brunosabot/status/1 221 361 780 510 920 704" class="date">26 janv. 2020 à 10:18:34</a>
+
+	<span class="content">
+	
+	<span class="text">C'est l'heure des derniers instants sur Gre après un @SnowCampIO mémorable, conférence et unconference ! Bravo aux organisateurs pour le travail de qualité ! https://t.co/ZeQUbXLw8C</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EPMmDs9W4AAXUMh.jpg" alt="1 221 361 768 997 511 168"/>
+		</span>
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EPMmEHOW4AAvG-6.jpg" alt="1 221 361 776 048 136 192"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, cette expérience de conférence m'a vraiment réconcilié avec l'exercice (aussi grâce à l'équipe d'organisation de Snowcamp qui est vraiment fantastique). Du coup, je ferai ce que je peux pour y retourner. Et le titre de cet article est quand même un peu euphémisant : c'était <strong>vraiment très bien</strong> !</p>
+<!-- /wp:paragraph -->
+++++

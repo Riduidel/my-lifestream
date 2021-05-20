@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: paulfitz/mlsql: inferring sql queries from plain-text questions about tables
+:jbake-tags: ia,sql,générateur,_mois_juin,_année_2019
+:jbake-date: 2019-06-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1559919633000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fpaulfitz%2Fmlsql&searchtags=ia+sql+g%C3%A9n%C3%A9rateur+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/paulfitz/mlsql[paulfitz/mlsql: inferring sql queries from plain-text questions about tables]
+
+C'est marrant cette idée ...

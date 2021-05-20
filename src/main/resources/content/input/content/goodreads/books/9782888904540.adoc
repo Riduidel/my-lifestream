@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo, Tome 21
+:jbake-tags:  amitié, anthropomorphisme, combat, complot, famille, japon,_année_2013,_mois_mars,_note_4,rayon-bd,read
+:jbake-date: 2013-03-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888904540.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361900977l/13033229._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361900977l/13033229._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/13033229
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+La fièvre de l'or enflamme les esprits et la soif de pouvoir d'un tyran menace de détruire non seulement Usagi Yojimbo et son amie Tomoe, mais également un village entier !<br />Quand la peste frappe une ville frontière dans les montagnes de la Province Geishu, le Seigneur Noriyuki envoie sa loyale garde du corps Tomoe pour examiner la situation, bien plus épouvantable que prévu. En l'absence de Tomoe, le Seigneur Horikawa met en branle un complot afin d'éliminer la samourai... Seul Usagi pourra sortir son amie de cette fâcheuse situation.
+</div>
+++++
+
+
+## Authors
+* link:../authors/4335014.html[Hélène Renaud]
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Excellente histoire !<br/>Non pas qu'elle soit particulièrement originale, mais elle expose certains secrets que Tomoé ignorait d'une façon particulièrement spectaculaire.<br/>J'imagine qu'elle me frappe également parce que c'est le premier récit original d'Usagi que je lis depuis un bon moment ...
+++++

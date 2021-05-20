@@ -1,0 +1,126 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment est-ce que je gère mes services avec Rancher et Consul ?
+:jbake-tags: consul,docker,rancher,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/09/15/comment-est-ce-que-je-gere-mes-services-avec-rancher-et-consul.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/09/15/comment-est-ce-que-je-gere-mes-services-avec-rancher-et-consul/
+:jbake-style: wordpress
+
+++++
+<p>
+<h3>Mais pourquoi je veux faire ça ?</h3>
+<br/>
+Admettons que je veuille me mettre aux microservices ... ou plutôt aux services packagés dans des conteneurs docker (quelquesoit la taille des dits services).
+</p>
+<p>
+Je commence par les packager dans des conteneurs Docker et c'est "cool". Parce que comme ça, je n'ai pas besoin de demander à l'admin sys de déployer du Java partout, mais du Docker.
+</p>
+<p>
+Donc, j'ai mes services et mon admin a entendu parler (sans doute sur <a href="https://riduidel.wordpress.com/2016/03/30/rancheros-au-chtijug/">ce blog</a>) d'un chouette truc qui s'appelle <a href="http://rancher.com/rancher/">Rancher</a>. Et très vite, il veut ajouter une base de données de configuration (parce que mettre les fichiers de config dans les conteneurs, c'est pas terrible ... lisez donc <a href="https://12factor.net/fr/">12 factors apps</a> à ce sujet). Donc il me dit d'utiliser <a href="https://www.consul.io/">Consul</a>. Et Consul, c'est bien pour la config, mais ça fait aussi service registry. C'est-à-dire que ça permet à un service d'en trouver un autre dynamiquement. Un peu comme du JNDI pour les Javaistes ... ou du LDAP pour les ancêtres.
+</p>
+<p>
+Le problème, c'est que Consul fait service registry, et pas service discovery. C'est-à-dire qu'il peut stocker les services, mais pas découvrir quand ils démarrent ou s'arrêtent (enfin pour l'arrêt, si, mais bon, par symétrie, on va considérer ici que ça n'est pas son boulot).
+<br/>
+<h3>Et comment je fais pour enregistrer mes services ?</h3>
+<br/>
+Donc, il faut ajouter un composant d'enregistrement, un "registrator". Coup de bol, il y en a deux pour Rancher :
+<br/>
+<ol>
+<br/>
+<li><a href="https://gliderlabs.com/registrator/latest/">Gliderlabs registrator</a></li>
+<br/>
+<li><a href="https://github.com/cabrinoob/rancher-registrator">Rancher Registrator</a></li>
+<br/>
+</ol>
+<br/>
+Pourquoi y en a-t-il deux ? C'est assez bien expliqué dans cette chouette question : <a href="https://forums.rancher.com/t/do-you-kill-registrator/5152">Do you kill registrator ?</a> Notez que l'auteur de la question est également l'auteur du second registrator ... ceci expliquant cela.
+<br/>
+<h3>Et ça marche comment ?</h3>
+<br/>
+D'abord, je vous montre le docker-compose.yml, et ensuite on en discute, ok ?
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">version: '2'
+<br/>
+services:
+<br/>
+registrator:
+<br/>
+image: gliderlabs/registrator:master
+<br/>
+network_mode: host
+<br/>
+volumes:
+<br/>
+- /var/run/docker.sock:/tmp/docker.sock
+<br/>
+tty: true
+<br/>
+restart: always
+<br/>
+command:
+<br/>
+- -internal
+<br/>
+- -cleanup
+<br/>
+- -deregister
+<br/>
+- always
+<br/>
+- -resync=60
+<br/>
+- -useIpFromLabel
+<br/>
+- io.rancher.container.ip
+<br/>
+- consul://localhost:8500
+<br/>
+labels:
+<br/>
+io.rancher.container.dns: 'true'
+<br/>
+io.rancher.container.hostname_override: container_name
+<br/>
+io.rancher.scheduler.global: 'true'
+<br/>
+io.rancher.container.network: 'false'</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Dans ce fichier, il y a quelques trucs à noter
+<br/>
+<h4>Attention à la version !</h4>
+<br/>
+registrator ne supporte l'option <code>useIpFromLabel</code> que dans la branche master. En ancien développeur Java appréciateur des beaux numéros de version, ça me fait mal, mais bon, on me dit que ça marche comme ça dans le monde de Docker ...
+<br/>
+<h4>internal ?</h4>
+<br/>
+Ca permet à registrator d'utiliser les ports effectivement exposés par les images, au lieu d'utiliser les ports visiobles hors de Rancher, donc ne l'oubliez pas
+<br/>
+<h4>cleanup, deregister et resync</h4>
+<br/>
+La doc de registrator est assez claire, mais ça vaut le coup de bien préciser que ces options sont là pour garantir qu'il n'y a pas de services n'existant que dans Consul (ce qui est un peu bête)
+<br/>
+<h4>useIpFromLabel</h4>
+<br/>
+A partir de Rancher 1.2, Rancher utilise un système nommé CNI, ce qui fait que l'ip et le port ne sont plus accessibles via le conteneur Docker mais via le label (ajouté dynamiquement par Rancher) <code>io.rancher.container.ip</code>. Du coup, il faut bien signaler au registrator qu'il faut utiliser ce label pour lire l'adresse du conteneur.
+<br/>
+<h4>Attention aux labels !</h4>
+<br/>
+Parce que ce registrator est déployé dans Rancher. Il faut donc qu'il soit présent sur tous les hosts (puisqu'il lit la liste des conteneurs depuius le démon Docker local) (d'où le <code>io.rancher.scheduler.global</code>). Il faut également qu'il ait accès au DNS (d'où le <code>io.rancher.container.dns</code>). Les autres options sont moins indispensables.
+<br/>
+<h3>Et paf !</h3>
+<br/>
+Une fois que ces opérations sont effectuées, vos conteneurs seront automatiquement enregistrés dans Consul au démarrage, et supprimés de Consul lorsqu'ils s'arrêtent).
+</p>
+++++

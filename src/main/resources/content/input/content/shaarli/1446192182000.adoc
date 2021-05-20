@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Intro to Scala for Java Developers
+:jbake-tags: programming,langage,scala,présentation,java,_mois_oct.,_année_2015
+:jbake-date: 2015-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1446192182000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpresos.jamesward.com%2Fintro-to-scala-for-java-devs%2F%23%2F22&searchtags=programming+langage+scala+pr%C3%A9sentation+java+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://presos.jamesward.com/intro-to-scala-for-java-devs/#/22[Intro to Scala for Java Developers]
+
+Une présentation claire de Scala qui, pour une fois, insiste sur le côté facile d'accès.

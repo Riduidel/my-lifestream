@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NotMyself/DotNetCoreKoans: A set of Koans to teach the C# language on .NET Core.
+:jbake-tags: c#,tutorial,exercice,koan,open-source,programming,langage,_mois_janv.,_année_2021
+:jbake-date: 2021-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1611516492000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FNotMyself%2FDotNetCoreKoans&searchtags=c%23+tutorial+exercice+koan+open-source+programming+langage+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/NotMyself/DotNetCoreKoans[NotMyself/DotNetCoreKoans: A set of Koans to teach the C# language on .NET Core.]
+
+Une fois que vous avez suivi le tutoriel (très basique) de Microsoft, ce projet GitHub vous aidera à approfondir vos connaissances avant de tenter des choses plus ... sophistiquées

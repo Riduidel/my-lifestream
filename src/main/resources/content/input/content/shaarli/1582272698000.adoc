@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Distributed Data for Microservices — Event Sourcing vs. Change Data Capture · Debezium
+:jbake-tags: architecture,software,documentation,pattern,_mois_févr.,_année_2020
+:jbake-date: 2020-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1582272698000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdebezium.io%2Fblog%2F2020%2F02%2F10%2Fevent-sourcing-vs-cdc%2F&searchtags=architecture+software+documentation+pattern+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc/[Distributed Data for Microservices — Event Sourcing vs. Change Data Capture · Debezium]
+
+Un très chouette article différenciant correctement Event Sourcing et Change Data Capture. Ca aide bien à comprendre.

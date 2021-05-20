@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clé USB
+:jbake-tags: software,portable,library,windows,freeware,_mois_nov.,_année_2006
+:jbake-date: 2006-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1164832808000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftaupophile.free.fr%2Frubrique%2Fcleusb%2Fcleusb.html&searchtags=software+portable+library+windows+freeware+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://taupophile.free.fr/rubrique/cleusb/cleusb.html[Clé USB]
+
+Un récapitulatif des différents logiciels utilisables depuis une clé USB, avec à chaque fois les liens vers les exécutables à télécharger.

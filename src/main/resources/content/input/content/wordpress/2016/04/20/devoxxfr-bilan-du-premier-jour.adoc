@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr bilan du premier jour
+:jbake-tags: _mois_avr.,_année_2016
+:jbake-date: 2016-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/20/devoxxfr-bilan-du-premier-jour.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/20/devoxxfr-bilan-du-premier-jour/
+:jbake-style: wordpress
+
+++++
+<p>
+Après un repas nostalgique (je mangeais à l'indian café des Ternes il y a 16 ans, et ça n'a pas changé depuis - toujours rempli de peigne-culs prétentieux), et une visite aux monuments les plus prétentieux de France (donc du monde) à savoir l'arc de Triomphe et la Tour Eiffel, je peux tirer un bilan de ma première journée.
+</p>
+<p>
+Les talks étaient tous bien fichus. Chapeau à tous les speakers. En revanche, ils n'étaient pas tous aussi intéressants que ce que j'aurais cru. Typiquement, je connaissais déjà presque toutes les techniques du dernier talk, du coup, c'était moins intéressant. D'un autre côté, il n'y avait pas grand chose qui m'intéressait vraiment à cette heure. D'un autre côté, j'aurais bien aimé assister au show de Nicolas de Loof.
+</p>
+<p>
+Bon, cela dit, heureusement que je savais déjà qu'il fallait avoir toujours plusieurs possibilités sous le coude pour les talks qui ont un succès inattendu. Parce que sinon, j'aurais eu l'air bien naze à louper vert.x. Au passage, avec toutes ces aventures, je ne visite presque pas les stands des exposants, et je ne fais pas vraiment monter mon score sur Devoxx Huntly. Il est vrai également que je ne suis vraiment pas aidé pour ça par le réseau wifi ... encore plus capricieux que celui de l’hôtel où je suis ce soir.
+</p>
+<p>
+Du coup, vivement demain, parce que je sens que ça va vraiment être une belle journée.
+</p>
+++++

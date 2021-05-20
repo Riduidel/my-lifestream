@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: This isn't Richard Stallman's Open Source anymore
+:jbake-tags: programming,open-source,license,_mois_sept.,_année_2016
+:jbake-date: 2016-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1473317388000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2FLukasEder1%2Fthis-isnt-richard-stallmans-open-source-anymore&searchtags=programming+open-source+license+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.slideshare.net/LukasEder1/this-isnt-richard-stallmans-open-source-anymore[This isn't Richard Stallman's Open Source anymore]
+
+Chouette présentation. Avec les paroles, c'est sans doute encore mieux.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: http://stereopsis.com/flux/
+:jbake-tags: software,freeware,windows,macosx,utilities,monitor,ergonomie,lumière,_mois_févr.,_année_2009
+:jbake-date: 2009-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1235146482000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstereopsis.com%2Fflux%2F&searchtags=software+freeware+windows+macosx+utilities+monitor+ergonomie+lumi%C3%A8re+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://stereopsis.com/flux/[http://stereopsis.com/flux/]
+
+Faudrait que je teste cette demi-application, mais elle m'a en tout cas l'air tout à fait sympatoche, surtout pour les jours où je me retrouve, comme ça m'est arrivé récement, à bosser la nuit.

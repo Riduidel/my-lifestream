@@ -1,0 +1,54 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bonne année !
+:jbake-tags: mavie,voeux,_mois_janv.,_année_2021
+:jbake-date: 2021-01-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/01/02/bonne-annee-4.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/01/02/bonne-annee-4/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Est-il utile de rappeler que 2020 a été une année .. particulière ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Elle avait pourtant bien commencé, avec un super snowcamp et cette présentation (pour laquelle je suis toujours stupéfait de constater qu'il y a eu une bonne centaine de personnes intéressées).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/www.youtube.com\/watch?v=TqFFqTKjHAA","type":"rich","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=TqFFqTKjHAA
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Je constate d'ailleurs avec un dégoût à peine voilé que <a href="https://fr.wikipedia.org/wiki/Jacques_S%C3%A9gu%C3%A9la">Jacques Séguéla</a> a fait une conférence au titre assez proche ... J'ai donc le même goût du calembour boiteux que cet inénarrable pubard ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A titre personnelle, je peux dire sans rougir que 2020 aura été pour moi l'année du chômage partiel. Une découverte ... dont j'aurais pu me passer. Cela dit, ça m'a permis de réfléchir à quelques sujets, comme <a href="https://riduidel.wordpress.com/architecturer-agilement-avec-c4-structurizr/">l'architecture logicielle avec C4</a> (dont j'adorerais parler en conférence, j'ai même déja un support raisonnablement prêt). 2020, c'est aussi une année qui s'est terminée ... <a href="https://riduidel.wordpress.com/2020/11/15/toujours-pas-mort/">dans la douleur</a>. Et quelque part, sans doute parce que j'y serai cette année encore plus sensible, le fameux voeu de "et surtout la santé" me rend vraiment hargneux. Ca veut dire quoi "la santé" ? Et la santé sans le reste a-t-elle un sens ? Souhaiter la bonne santé, c'est avant tout souhaiter aux français marqués par cette stupidité de dichotomie corps-esprit que l'animal en eux ne s'impose pas, non ? Bon, je digresse.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'aspect le plus navrant, c'est que la plupart de mes idées marrantes n'ont pas avancé d'un poil : la webradio est toujours en pièces, je n'ai pas fait beaucoup de Rust (pas autant que j'aurais aimé), bref, l'épidémie a pas mal pesé sur moi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors ? Que faire de 2021 ? En fait, je suis assez indécis. Je commence réellement à penser qu'il est temps de changer quelques orientations ... Et je vais me permettre une métaphore. Dans les milieux de la science-fiction littéraire, il y a une question qui hante : la science-fiction a-t-elle gagné ou perdu ? Autrement dit, le genre science-fictif a-t-il gagné ses lettres de noblesse ou reste-il un décor pour des oeuvres sans grand sens ? Cette question, je pense qu'on peut se la poser au sujet de l'informatique : aujourd'hui, plus aucune entreprise n'existe en-dehors de son informatique (oui, posé comme ça, c'est prétentieux, mais dans la mesure où l'informatique est le cerveau et le système nerveux des entreprises, sans cette informatique, la plupart des entreprises disparaissent immédiatement). Par ailleurs, les plus fortes valorisations sont aujourd'hui des entreprises du domaine informatique. Est-ce que ça traduit réellement un engouement pour ces technologies ? Non. Ca traduit uniquement le fait que l'espionnage commercial, renommé en intelligence économique et en connaissance client, est littéralement devenu le pétrole du XXIème siècle, c'est-à-dire un élément moteur de l'économie. Tout cela va sans doute faire émerger un business générant de la pollution de notre sphère informationnelle personnelle, et c'est déja le cas grâce à des "leaders" comme Google, bien sûr, mais aussi la fameuse licorne française Criteo ... Et c'est là où je voulais en venir avec ma métaphore : l'informatique a effectivement conquis les entreprises comme un outil corruptif : chaque dirigeant est tenté d'informatiser plus son entreprise, de rajouter de "l'intelligence artificielle", des "algorithmes" dans une quête d'une rentabilité améliorée ... Or je pense que cette rentabilité améliorée ne justifie la plupart du temps pas les dépenses qui sont engagées dans sa poursuite. Mais comment le montrer ? Et surtout, comment le montrer dans un monde économique qui continue à croire au mythe de la croissance éternelle ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que le corollaire de cette question, c'est évidement la question du but : pourquoi faire tous ces efforts ? Pourquoi continuer à chercher à produire plus dans un monde que les catastrophistes nous décrivent comme à l'agonie ? Personnellement, sans croire uniquement au solutionnisme technologique, je pense qu'on peut sauver la planète ... pour peu qu'on réoriente toute cette intelligence actuellement occupée à "produire de la richesse" vers une intelligence plus verte, qui essaierait de préserver le monde qui nous entoure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et figurez-vous que c'est peut-être la meilleure justification pour reprendre mes efforts vers plus de Rust : produire des solutions logicielles plus efficaces énergétiquement. Et j'aimerais bien un jour creuser l'intérêt des méthodes DevOps vis-à-vis de l'intérêt écologique ... Parce que ces histoires de recompilation de l'univers à chaque commit me paraissent de plus en plus difficiles à vivre ..</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais tout ça, c'est le futur, qui n'attend que nous ! Alors allons-y !</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: package.json: an interactive guide - browsenpm.org
+:jbake-tags: javascript,node.js,packaging,développement,_mois_sept.,_année_2014
+:jbake-date: 2014-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1410448493000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbrowsenpm.org%2Fpackage.json&searchtags=javascript+node.js+packaging+d%C3%A9veloppement+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://browsenpm.org/package.json[package.json: an interactive guide - browsenpm.org]
+
+Putain mais heureusement que maven a pas déja créé le même format avec une meilleure validation.

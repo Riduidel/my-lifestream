@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vincent et Van Gogh
+:jbake-tags: serie
+:jbake-date: 2014-03-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Vincent_et_Van_Gogh.adoc
+:jbake-source: https://www.goodreads.com/series/104043
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782840559986.html[Vincent et Van Gogh]

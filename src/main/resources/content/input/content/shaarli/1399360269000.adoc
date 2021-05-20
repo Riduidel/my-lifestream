@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Heartbleed & IoT: How Much Worse it Could Get
+:jbake-tags: web,sécurité,_mois_mai,_année_2014
+:jbake-date: 2014-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1399360269000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FvmDS4LIiISI%2Fheartbleed-iot-how-much-worse&searchtags=web+s%C3%A9curit%C3%A9+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/vmDS4LIiISI/heartbleed-iot-how-much-worse[Heartbleed & IoT: How Much Worse it Could Get]
+
+Il a complètement raison Schneieer : si vous avez chez vous des devices propriétaires qui se connectent au web (une radio UPnP, un disque dur réseau, une DS, par exemple), leur logiciel n'a sans doute pas été souvent mis à jour. Et à la lumière de failles comme Heartbleed, c'est plutôt inquiétant ...

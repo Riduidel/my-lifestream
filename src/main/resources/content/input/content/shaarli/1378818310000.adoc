@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PrettyTime - Elapsed Timestamp Formatting and Conversion for Java (Social, JSF2) | OCPsoft
+:jbake-tags: java,library,date,formatting,_mois_sept.,_année_2013
+:jbake-date: 2013-09-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1378818310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Focpsoft.org%2Fprettytime%2F&searchtags=java+library+date+formatting+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://ocpsoft.org/prettytime/[PrettyTime - Elapsed Timestamp Formatting and Conversion for Java (Social, JSF2) | OCPsoft]
+
+Ca ne me servira pas pour JBake (parce qu'un site statique implique des dates absolues), mais sait-on jamais, ça peut être rpatique un jour ou l'autre

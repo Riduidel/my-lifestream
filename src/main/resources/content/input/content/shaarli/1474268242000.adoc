@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Extendable Builders
+:jbake-tags: java,generics,builder,programming,_mois_sept.,_année_2016
+:jbake-date: 2016-09-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1474268242000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmanabreak.eu%2Fjava%2F2016%2F09%2F17%2Fbuilders-pt2.html&searchtags=java+generics+builder+programming+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://manabreak.eu/java/2016/09/17/builders-pt2.html[Extendable Builders]
+
+Personnellement, je fais ça avec des sales casts, mais l'utilisation des génériques est un plus.

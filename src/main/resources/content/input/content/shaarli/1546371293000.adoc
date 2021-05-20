@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le langage JavaScript est-il responsable de la lenteur des sites Web de nos jours ? Oui, selon un expert - Le Hollandais Volant
+:jbake-tags: javascript,web,évolution,optimisation,_mois_janv.,_année_2019
+:jbake-date: 2019-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1546371293000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flehollandaisvolant.net%2F%3Fid%3D20181220160758&searchtags=javascript+web+%C3%A9volution+optimisation+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://lehollandaisvolant.net/?id=20181220160758[Le langage JavaScript est-il responsable de la lenteur des sites Web de nos jours ? Oui, selon un expert - Le Hollandais Volant]
+
+Même si Java et son usage des dépendances génère des exécutables assez lourds, je suis d'accord. Et je suis surtout d'accord avec la proposition liminaire : ça n'est pas le Javascript qui est lourd, c'est l'abus de tous ces trackers et autres composants externes ...

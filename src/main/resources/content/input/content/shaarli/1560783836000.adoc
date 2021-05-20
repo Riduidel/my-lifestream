@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christian Brousseau on Twitter: "Time is the enemy of “oral tradition”. Systems tend to live a lot longer that we originally plan. And so far, documentation has been the best way to ensure none of that knowledge is lost.… https://t.co/xsbaltx2Jf"
+:jbake-tags: citation,conférence,documentation,oralité,informatique,_mois_juin,_année_2019
+:jbake-date: 2019-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1560783836000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FTheBrousse%2Fstatus%2F1138631894587838465&searchtags=citation+conf%C3%A9rence+documentation+oralit%C3%A9+informatique+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/TheBrousse/status/1138631894587838465[Christian Brousseau on Twitter: "Time is the enemy of “oral tradition”. Systems tend to live a lot longer that we originally plan. And so far, documentation has been the best way to ensure none of that knowledge is lost.… https://t.co/xsbaltx2Jf"]
+
+Ce tweet atterrira sans doute dans une prochaine présentation ...

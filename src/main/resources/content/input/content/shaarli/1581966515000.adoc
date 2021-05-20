@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Powered By The Apocalypse.fr » La communauté francophone des jeux "propulsés à l'apocalypse"
+:jbake-tags: jeu,jdr,gratuit,règle,_mois_févr.,_année_2020
+:jbake-date: 2020-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1581966515000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pbta.fr%2F&searchtags=jeu+jdr+gratuit+r%C3%A8gle+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.pbta.fr/[Powered By The Apocalypse.fr » La communauté francophone des jeux "propulsés à l'apocalypse"]
+
+Le renouveau du jeu de rôle se cache peut-être là-dedans ... Et c'est sur ce site qu'on trouve les règles complètes de DungeonWorld (parmi plein d'autres trucs)

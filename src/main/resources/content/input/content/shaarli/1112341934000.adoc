@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dreams of a Rarebit Fiend
+:jbake-tags: programming,blog,langage,ant,log4j,java,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112341934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.johnmunsch.com%2F&searchtags=programming+blog+langage+ant+log4j+java+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.johnmunsch.com/[Dreams of a Rarebit Fiend]
+
+

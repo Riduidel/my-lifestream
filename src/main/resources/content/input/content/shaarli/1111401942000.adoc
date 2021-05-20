@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home - OSXnews
+:jbake-tags: software,freeware,macosx,réseau,usenet,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111401942000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fosxnews.sourceforge.net%2Fnew%2F&searchtags=software+freeware+macosx+r%C3%A9seau+usenet+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://osxnews.sourceforge.net/new/[Home - OSXnews]
+
+OSXnews is a small fast, lightweight nntp news (usenet) client for OSX written from scratch in Objective C and Cocoa. It uses a simple clean interface similar to Mail.app and the KHTML rendering engine (like Safari) to display messages. Currently it su

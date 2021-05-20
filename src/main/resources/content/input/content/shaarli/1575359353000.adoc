@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fossil Forum: Forum
+:jbake-tags: documentation,open-source,git,github,discussion,_mois_déc.,_année_2019
+:jbake-date: 2019-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1575359353000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffossil-scm.org%2Fforum%2Fforumpost%2F536ce98d85&searchtags=documentation+open-source+git+github+discussion+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fossil-scm.org/forum/forumpost/536ce98d85[Fossil Forum: Forum]
+
+Au milieu de ce compte-rendu de réunion, on trouve cette phrase "documentation is the single most important factor in open-source adaption". L'ensemble est tout aussi intéressant.

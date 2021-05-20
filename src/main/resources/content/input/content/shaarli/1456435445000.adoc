@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 18F — Managing technical debt
+:jbake-tags: programming,management,agile,évolution,_mois_févr.,_année_2016
+:jbake-date: 2016-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1456435445000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2F18f.gsa.gov%2F2015%2F10%2F05%2Fmanaging-technical-debt%2F&searchtags=programming+management+agile+%C3%A9volution+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://18f.gsa.gov/2015/10/05/managing-technical-debt/[18F — Managing technical debt]
+
+Bon article sur la gestion de la dette technique et, surtout, sa communication

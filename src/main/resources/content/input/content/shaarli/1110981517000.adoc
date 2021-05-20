@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: M-Beat
+:jbake-tags: software,shareware,macosx,multimedia,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110981517000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.thelittleappfactory.com%2Fapplication.php%3Fapp%3DM-Beat&searchtags=software+shareware+macosx+multimedia+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.thelittleappfactory.com/application.php?app=M-Beat[M-Beat]
+
+M-Beat is flexibility for iTunes. You're in the driver's seat with the ultimate iTunes Companion Application, featuring one-click menu items, hot keys and floating windows.

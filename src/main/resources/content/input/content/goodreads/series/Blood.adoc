@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blood
+:jbake-tags: serie
+:jbake-date: 2009-07-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Blood.adoc
+:jbake-source: https://www.goodreads.com/series/56337
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780765340146.html[Bloodtide (Blood, #1)]

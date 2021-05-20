@@ -1,0 +1,44 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une application, c'est avant tout des fonctionnalités
+:jbake-tags: architecture_agile,c4model,fonctionnel,_mois_avr.,_année_2020
+:jbake-date: 2020-04-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/08/une-application-cest-avant-tout-des-fonctionnalites.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/08/une-application-cest-avant-tout-des-fonctionnalites/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série concernée à la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> avec <a href="https://riduidel.wordpress.com/tag/c4model/">C4</a>, et il fait suite à <a href="https://riduidel.wordpress.com/2020/04/08/tout-est-une-question-de-contexte/">Tout est une question de contexte</a> (je le signale pour ceux qui prennent le train en route).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans notre modèle de document, le deuxième chapitre s'appelle <a href="https://structurizr.com/help/documentation/functional-overview">functionnal overview</a>. Les plus techniciens d'entre vous se demanderont pourquoi parler du fonctionnel dans une documentation d'architecture. La réponse est assez évidente : la fonction crée l'organe. Autrement dit, le système logiciel que vous créez n'existe que parce qu'il existe un besoin fonctionnel. Il est donc impératif que le besoin fonctionnel apparaisse dans votre document d'architecture. Et apparaisse tôt. C'est pour ça que c'est le deuxième chapitre. Et c'est surtout le chapitre qui permettra à vos lecteurs (qui peuvent être également les développeurs du système logiciel) de s'imprégner du besoin fonctionnel sans avoir besoin d'un atelier avec le métier ... Puis de le communiquer à leur tour (j'ai toujours trouvé particulièrement enrichissant d'être capable d'énoncer quel était le fonctionnel des applications sur lesquelles je travaillais, ça rend mon travail plus concret).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En revanche, il ne s'agit pas ici d'inclure l'ensemble de la spécification fonctionnelle (ou des user stories, ou du backlog, ou autre artefact définissant la fonctionnalité de votre application). Il s'agit plutôt d'en faire un résumé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si vous avez la chance de travailler avec des professionnels, ils disposent sans doute d'un outil permettant de stocker les détails du besoin fonctionnel et d'en fournir une vue agrégée. C'est cette vue agrégée qu'il faudra récupérer si possible (évidement, dans l'idéal, vous ne faites pas une capture d'écran que vous copiez avec un lien vers le système source, mais vous capturez dynamiquement les informations, comme ça la documentation est toujours synchronisée - c'est ce que j'expliquai déjà au sujet du contexte, et que je vais continuer à rabâcher au sujet de chaque chapitre).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si vous n'avez pas cette chance, et c'est mon cas en ce qui concerne mon <a href="https://riduidel.wordpress.com/2020/04/07/prenons-un-exemple-darchitecture/">exemple</a>, je crois que le modèle de document contient quelques questions qui pourront vous aider ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>A functional overview should answer the following types of questions:</p><p>    Is it clear what the system actually does?</p><p>    Is it clear who the important users are (roles, actors, personas, etc) and how the system caters for their needs?Alternatively, </p><cite><a href="https://structurizr.com/help/documentation/functional-overview">Functionnal overview</a></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Dans un cas comme celui-là, une description de l'état de mes connaissances sur les fonctionnalités de l'application suffit, c'est donc ce que j'ai écrit <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype/commit/b0e9d7f30d2a5bed436aaec6d4b3822714219190">dans ce commit</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une fois qu'on est à peu près certain de comprendre le fonctionnel d'une application, on peut s'approcher de questions plus techniques (même si on ne parle pas encore de code), qu'on verra dans le prochain article</p>
+<!-- /wp:paragraph -->
+++++

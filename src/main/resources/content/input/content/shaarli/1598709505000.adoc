@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LYZ Freeware (Stopwatch & Timer) - Browse /LYZ_stopwatch_timer/Release at SourceForge.net
+:jbake-tags: windows,timer,software,open-source,_mois_août,_année_2020
+:jbake-date: 2020-08-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1598709505000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsourceforge.net%2Fprojects%2Flyz%2Ffiles%2FLYZ_stopwatch_timer%2FRelease%2F&searchtags=windows+timer+software+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://sourceforge.net/projects/lyz/files/LYZ_stopwatch_timer/Release/[LYZ Freeware (Stopwatch & Timer) - Browse /LYZ_stopwatch_timer/Release at SourceForge.net]
+
+Tiens tiens tiens, ça servirait bien pour l'extreme carpaccio

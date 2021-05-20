@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Infinity 8
+:jbake-tags: serie
+:jbake-date: 2017-02-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Infinity_8.adoc
+:jbake-source: https://www.goodreads.com/series/199274
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782369812579.html[Romance et macchabées]
+* link:../books/9782369812593.html[Retour vers le führer]
+* link:../books/9782369812616.html[Infinity 8 - Tome 3 - L'Evangile selon Emma]
+* link:../books/9782369812661.html[Infinity 8 - Tome 5 : Le Jour de l'Apocalypse]

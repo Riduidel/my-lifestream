@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dealing with line endings - User Documentation
+:jbake-tags: git,windows,configuration,_mois_nov.,_année_2017
+:jbake-date: 2017-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1509630909000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhelp.github.com%2Farticles%2Fdealing-with-line-endings%2F%23global-settings-for-line-endings&searchtags=git+windows+configuration+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://help.github.com/articles/dealing-with-line-endings/#global-settings-for-line-endings[Dealing with line endings - User Documentation]
+
+git est vraiment un gros connard de merde. Pourquoi diable changer le caractère de retour à la ligne pour moi ? C'est pas son putain de job. Son job, c'est de s'assurer que mes fichiers ne changent pas. Au lieu de ça, il me casse les burnes à rendre tous les scripts sh inutilisables sous Linux simplement parce que je les ai récupéré sur ma machine Windows. Je hais solidement git.

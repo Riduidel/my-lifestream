@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iPhoto Now Supports IPTC Metadata
+:jbake-tags: macosx,photographie,iphoto,iptc,howto,metadata,workflow,_mois_nov.,_année_2008
+:jbake-date: 2008-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1226740821000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fadam.shand.net%2Fiki%2F2008%2Fiphoto_now_supports_iptc_metadata%2F&searchtags=macosx+photographie+iphoto+iptc+howto+metadata+workflow+_mois_nov.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://adam.shand.net/iki/2008/iphoto_now_supports_iptc_metadata/[iPhoto Now Supports IPTC Metadata]
+
+Un petit tutoriel sur l'exporation des données IPTC dans iPhoto '08. Pourquoi j'en parle ? J'ai maintenant fait la mise à jour vers iPhoto '08, et j'ai bien l'intention, un jour, de faire en sorte que toutes mes photos soient correctement taggées en IPTC. Pour ça, je vais sans doute devoir faire un truc long et lourd : prendre toute ma bibliothèque et l'exporter vers un disque dur externe. Comme ça, iPhoto exportera tous les mots-clés, les titres et les commentaires en IPTC, et je pourrais les récupérer dans les fichiers. Le seul inconvénient de la manoeuvr est que ça va sans doute me prendre un temps conséquent : exporter toute la bibliothèque, la supprimer et la recréer, c'est le genre de manoeuvre douteuse qui doit consommer bêtement des heures de temps CPU et d'accès disque. M'enfin, après ça, le workflow de gestiond es photos sera enfin propre : je prendrais la photo, l'importerai dans iPhoto, exporterais (hélas à la main, voir le lien) la photo vers mon disque dur réseau

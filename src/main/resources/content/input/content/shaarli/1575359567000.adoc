@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
+:jbake-tags: mémoire,go,optimisation,_mois_déc.,_année_2019
+:jbake-date: 2019-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1575359567000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.twitch.tv%2Fen%2F2019%2F04%2F10%2Fgo-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2%2F&searchtags=m%C3%A9moire+go+optimisation+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/[blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/]
+
+Quelle dégueulasserie que ce ballast ! c'est authentiquement ignoble (et pourtant j'ai fait un truc assez semblable il y a une vingtaine d'années). C'est le moment où le GC apparaît bien comme une mauvaise abstraction.

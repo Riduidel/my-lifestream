@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Baby Smash! by Scott Hanselman
+:jbake-tags: enfants,ordinateur,freeware,clavier,software,windows,jeu,_mois_juin,_année_2008
+:jbake-date: 2008-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1213175327000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hanselman.com%2Fbabysmash%2Findex.htm&searchtags=enfants+ordinateur+freeware+clavier+software+windows+jeu+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.hanselman.com/babysmash/index.htm[Baby Smash! by Scott Hanselman]
+
+Mes enfants sont déja trop grands pour ça, mais c'est une idée marrante

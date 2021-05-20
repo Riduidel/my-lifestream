@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mercurial loses a developer [LWN.net]
+:jbake-tags: open-source,programming,software,_mois_mai,_année_2016
+:jbake-date: 2016-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1462958080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flwn.net%2FArticles%2F153990%2F&searchtags=open-source+programming+software+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://lwn.net/Articles/153990/[Mercurial loses a developer [LWN.net]]
+
+C'est pas un peu dégueulasse comme méthode, ça ?

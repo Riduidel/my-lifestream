@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Franck Dubosc - Q.uote.me
+:jbake-tags: web,php,open-source,software,citation,_mois_oct.,_année_2014
+:jbake-date: 2014-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1413292712000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fq.uote.me%2F&searchtags=web+php+open-source+software+citation+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://q.uote.me/[Franck Dubosc - Q.uote.me]
+
+Oh, tiens, des quotes aléatoires en mode SAAS ... Ca me donne immédiatement envie de relancer mon projet !RndSig via du Javascript, mais pour ça, il me faudrait ... du temps.

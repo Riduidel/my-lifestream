@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nerd Fonts - Iconic font aggregator, collection, and patcher
+:jbake-tags: font,open-source,windows,linux,macosx,_mois_janv.,_année_2019
+:jbake-date: 2019-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1547806698000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnerdfonts.com%2F&searchtags=font+open-source+windows+linux+macosx+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://nerdfonts.com/[Nerd Fonts - Iconic font aggregator, collection, and patcher]
+
+A cause de fish et de ses thèmes (déja bonjour le nerd) je retombe dans l'enfer des polices patchées. Et Nerd Fonts, c'est \*bien\* patché

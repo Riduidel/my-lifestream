@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby: Où est le programmeur _why? | Slate
+:jbake-tags: article,portrait,art,code,ruby,_mois_août,_année_2013
+:jbake-date: 2013-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1376398051000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.fr%2Fstory%2F60473%2Fou-est-why-ruby&searchtags=article+portrait+art+code+ruby+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.slate.fr/story/60473/ou-est-why-ruby[Ruby: Où est le programmeur _why? | Slate]
+
+L'article est peut-être un peu long pour quelqu'un comme mio qui lisait le blog de \_why, mais il présente bien cette personnalité

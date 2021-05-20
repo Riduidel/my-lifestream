@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HOWTO: Ruby on Rails on your Nokia N800
+:jbake-tags: programming,rails,ruby,tutorial,n800,_mois_juil.,_année_2007
+:jbake-date: 2007-07-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1183984902000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.digitalknk.com%2F2007%2F05%2F27%2Fhowto-ruby-on-rails-on-your-nokia-n800%2F&searchtags=programming+rails+ruby+tutorial+n800+_mois_juil.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.digitalknk.com/2007/05/27/howto-ruby-on-rails-on-your-nokia-n800/[HOWTO: Ruby on Rails on your Nokia N800]
+
+Si j'investis dans un n800, ce sera sans doute l'une des premières choses que je ferais (la première étant bien entedu l'installation de Ruby)

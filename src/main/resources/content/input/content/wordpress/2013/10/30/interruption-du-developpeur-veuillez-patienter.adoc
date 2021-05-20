@@ -1,0 +1,69 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Interruption du développeur ... veuillez patienter ....
+:jbake-tags: eclipse,interruption,java,productivité,_mois_oct.,_année_2013
+:jbake-date: 2013-10-30
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/10/30/interruption-du-developpeur-veuillez-patienter.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/10/30/interruption-du-developpeur-veuillez-patienter/
+:jbake-style: wordpress
+
+++++
+<p>
+Au début de la semaine, je suis tombé sur ce dessin assez éclairant sur le coût de l'interruption d'un développeur (quelquesoit son domaine) (via <a href="http://sebsauvage.net/links/?bYSMmw">SebSauvage</a>)
+</p>
+<p>
+<img class="aligncenter" src="http://web.archive.org/web/20140203172508/http://heeris.id.au/sites/default/files/ProgrammerInterrupted.png" alt="" width="682" height="2618" />
+</p>
+<p>
+C'est assez clair, non ?
+</p>
+<p>
+Seulement voilà, la démarche isolationiste n'est pas toujours bonne : le développeur ne peut pas toujours s'isoler dans sa grotte le temps de rejoindre "la zone" (l'état d'esprit de productivité maximum du développeur, pour les non-hipsters parmi vous), parfois pour des raisons géographiques, parfois également parce que ces interruptions sont bonnes.
+</p>
+<p>
+Bonnes ? Pas comme ... une personne physiquement appréciable, mais plutôt comme positives.
+</p>
+<p>
+Parfois, un mec qui vient vous voir et vous interrompre avec une question à la noix vous amènera à changer d'oeil sur votre travail, pour éventuellement produire une amélioration plus que significative. Et ça, c'est bien.
+</p>
+<p>
+Bon, parfois, aussi, ce sera un rappel à l'ordre de la hiérarchie, qui concerne évidement un problème insignifiant. Et qui n'améliorera rien. Mais bon, il faut savoir accepter le fait de vivre dans une structure hiérarchisée ... même si ça n'est pas toujours aussi évident que ça.
+</p>
+<p>
+Du coup, si je trouvais le dessin intéressant d'un point de vue privé, je ne le trouvais pas partageable : il n'apportait pas de valeur ajoutée en ne faisant que constater un état de fait.
+</p>
+<p>
+Aujourd'hui, je tombe (via <a href="http://the.taoofmac.com/space/links/2013/10/29/1939">Rui Carno</a>) sur cet article bien plus intéressant, mais sur le même thème : <a href="http://blog.ninlabs.com/2013/01/programmer-interrupted/">Programmer Interrupted</a>. Si le thème est le même, l'objectif est proche : voir comment les développeurs gèrent ces interruptions. Et comme ce blog est mon lieu d'introspection favori, je vous livre ici quelques solutions qui me permettent de gérer au mieux les interruptions (pour ceux qui suivent ce blog depuis longtemps, vous verrez que je ne fais que répéter des choses déja écrites).
+</p>
+<p>
+Donc, qu'est-ce qui me permet de survivre aux interruptions ?
+<br/>
+<h5>Le compilateur</h5>
+<br/>
+C'est à mon avis mon premier allié. C'est lui qui me dit où j'en suis précisément : si je m'arrête au milieu d'un statement, c'est lui qui va me permettre d'identifier le point d'écriture. Du coup, évidement, j'ai un désir particulier de voir tout mon code vérifié par le compilateur (on me dira évidement que ça ferait de moi un parfait développeur Scala .... mais je n'y crois pas. je crois plutôt que je serai pour un Groovy où l'annotation @StaticCompile est activée par défaut). Pour ça et pour d'autres choses, hein.  Je me demande d'ailleurs toujours si je ne pourrais pas aller plus dans cette direction avec <a href="https://code.google.com/p/error-prone/">error-prone</a>, même si je le soupçonne d'être fortement redondant avec les assistances que fournit Eclipse.
+<br/>
+<h5>L'éditeur</h5>
+<br/>
+Un autre allié, que j'ai longtemps méprisé, c'est la coloration de la ligne courante. Je me souviens qu'il y a cinq ou dix ans, je désactivai toujours ce truc que je trouvais ridiculement intrusif. Et puis je suis passé à <a href="http://ethanschoonover.com/solarized">Solarized Light</a>. Et je dois dire que ce thème de coloration syntaxique dans Eclipse utilise une couleur non intrusive pour la ligne courante, qui fait que je l'ai laissé activée et que j'ai découvert tout son sens : quand on m'interrompt et que je reviens dans mon éditeur, je vois tout de suite la ligne sur laquelle je bosse. Et comme je ne mets qu'un statement par ligne, ben même si il compile je sais précisément sur qui je travaille.
+<br/>
+<h5>L'automatisation de l'IDE</h5>
+<br/>
+En plus des vertus propres à l'éditeur, je n'oublie pas les capacités formidables d'Eclipse à modifier mon code de façon automatique. Générer des getters/setters/toString/hashcode, faire des refactorings complexes, tout ça me libère d'une charge intellectuelle assez importante et me permet de ne pas avoir à me demander si un ttruc est bien implémenté ou pas : j'écris ce que je veux voir apparaître et, si ça n'existe pas, Eclipse et moi travaillons ensemble pour le faire apparaître. Ca peut apparaître comme de la simple optimisation de productivité mais c'est bien plus que ça : le fait qu'Eclipse puisse me faire les bonnes propositions me permet de ne pas m'encombrer l'esprit de considérations inutiles, et allège donc mon contexte intellectuel (la fameuse conceptual memory mentionnée dans l'article, autrement dit l'espèce de modèle en non patates que je me fais du code sur lequel je bosse).
+<br/>
+<h5>La définition de la tâche en cours</h5>
+<br/>
+Dans l'idéal, cette définition serait immédiatement accessible grâce à Mylyn, mais ça n'est hélas pas le cas de notre version de mantis, par exemple, et dans le contexte économique actuel, Tuleap n'est pas une priorité. J'utilise donc de plus en plus les bugs mantis qui me sont assignés comme un vrai journal de travail : j'y note chaque avancée ou découverte significative pour éviter d'avoir à m'en souvenir. Parce que les souvenirs partent, et que les écrits restent (un peu plus).
+</p>
+<p>
+Et ce qui me surprend avec ça, c'est qu'on soit très peu nombreux à agir de la sorte, alors même que les bugs à résoudre sont toujours aussi complexes.
+<br/>
+<h5>Autrement dit ?</h5>
+<br/>
+Je ne pense pas être meilleur que mes collègues pour résister aux interruptions.
+</p>
+<p>
+En revanche, je crois réussir peut-être un peu mieux à persister mon contexte de travail d'une manière qui me permette d'y revenir d'une façon efficace. Ce qui est marrant, c'est que c'est exactement comme pour les méthodes de productivité : ceux qui sont conscients de leur existence sont tjours à la recherche d'une amélioration potentielle, alors que ceux qui les méprisent continuent de brasser de l'air ...
+</p>
+++++

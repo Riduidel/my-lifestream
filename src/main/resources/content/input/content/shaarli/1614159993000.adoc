@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Making a virtual credits sequence for your video calls with OBS and CodePen - DEV Community
+:jbake-tags: obs,réunion,virtuel,idée,_mois_févr.,_année_2021
+:jbake-date: 2021-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1614159993000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fcassidoo%2Fmaking-a-virtual-credits-sequence-for-your-video-calls-with-obs-and-codepen-3dco&searchtags=obs+r%C3%A9union+virtuel+id%C3%A9e+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://dev.to/cassidoo/making-a-virtual-credits-sequence-for-your-video-calls-with-obs-and-codepen-3dco[Making a virtual credits sequence for your video calls with OBS and CodePen - DEV Community]
+
+Un générique de fin presque utilisable. J'ai une vraie bonne idée qui commence à prendre forme avec ça : faire défiler en générique le compte rendu de réunion...

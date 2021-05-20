@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Demystifying Apache Struts: A Quick Start Tutorial for Jakarta Struts
+:jbake-tags: java,programming,langage,j2ee,jsp,servlet,struts,documentation,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112692853000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.coreservlets.com%2FApache-Struts-Tutorial%2F&searchtags=java+programming+langage+j2ee+jsp+servlet+struts+documentation+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.coreservlets.com/Apache-Struts-Tutorial/[Demystifying Apache Struts: A Quick Start Tutorial for Jakarta Struts]
+
+

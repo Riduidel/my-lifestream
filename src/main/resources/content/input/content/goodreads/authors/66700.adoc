@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robert E. Howard
+:jbake-tags: author
+:jbake-date: 2002-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/66700.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1210954603p5/66700.jpg
+:jbake-source: https://www.goodreads.com/author/show/66700
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780345422040.html[Tales of the Cthulhu Mythos]
+* link:../books/9782290309650.html[Conan L'aventurier]
+* link:../books/9783453870611.html[Conan : die Original-Erzählungen aus den Jahren 1932 und 1933]

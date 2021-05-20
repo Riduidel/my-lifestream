@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Edit in Place with JavaScript and CSS
+:jbake-tags: javascript,langage,ajax,exemple,tutorial,documentation,_mois_avr.,_année_2005
+:jbake-date: 2005-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1113206704000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tool-man.org%2Fexamples%2Fedit-in-place.html&searchtags=javascript+langage+ajax+exemple+tutorial+documentation+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tool-man.org/examples/edit-in-place.html[Edit in Place with JavaScript and CSS]
+
+Edit content in place, on the page. Like Flickr's editable photo descriptions.

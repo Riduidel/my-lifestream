@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mastering your Eclipse IDE - Java tooling, Tips & Tricks - EclipseCon…
+:jbake-tags: eclipse,tutorial,présentation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1571840713000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.slideshare.net%2FNoopurGupta6%2Fmastering-your-eclipse-ide-java-tooling-tips-tricks-eclipsecon-europe-2019&searchtags=eclipse+tutorial+pr%C3%A9sentation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.slideshare.net/NoopurGupta6/mastering-your-eclipse-ide-java-tooling-tips-tricks-eclipsecon-europe-2019[Mastering your Eclipse IDE - Java tooling, Tips & Tricks - EclipseCon…]
+
+Chouette, une présentation sur la bonne façon d'utiliser Eclipse !

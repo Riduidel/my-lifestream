@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PRISM : des mouchards en temps réel chez Google, Facebook... ?
+:jbake-tags: prism,sécurité,article,surveillance,_mois_juil.,_année_2013
+:jbake-date: 2013-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1372748181000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.numerama.com%2Fmagazine%2F26405-prism-des-mouchards-en-temps-reel-chez-google-facebook.html&searchtags=prism+s%C3%A9curit%C3%A9+article+surveillance+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.numerama.com/magazine/26405-prism-des-mouchards-en-temps-reel-chez-google-facebook.html[PRISM : des mouchards en temps réel chez Google, Facebook... ?]
+
+Le pire, dans cet article, c'est pas la surveillance temps réel, le pire, c'est "117.675 "cibles" étaient activement surveillées par le programme PRISM, officiellement pour des enquêtes anti-terroristes.". Il y aurait donc 100.000 terroristes ou assimilés surveillables via des outils de communication moderne ? Mon oeil !

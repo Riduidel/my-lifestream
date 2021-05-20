@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ctr.run
+:jbake-tags: docker,automatisation,construction,online,_mois_déc.,_année_2019
+:jbake-date: 2019-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1576092451000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fctr.run%2F&searchtags=docker+automatisation+construction+online+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://ctr.run/[ctr.run]
+
+Bon, là, on est clairement dans le truc à ne pas utiliser en prod : une image Docker construite dans un environnement non maîtrisé ... C'est pas bon.

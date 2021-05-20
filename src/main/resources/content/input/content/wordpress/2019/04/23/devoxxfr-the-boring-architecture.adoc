@@ -1,0 +1,259 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - The boring architecture
+:jbake-tags: architecture,histoire,monolithe,_mois_avr.,_année_2019
+:jbake-date: 2019-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/23/devoxxfr-the-boring-architecture.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/23/devoxxfr-the-boring-architecture/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+La présentation va nous montrer un retour d’expérience sur le passage à l'échelle d’un monolithe. Doctolib, avec 800 personnes (dont 120 dans l’IT), c’est déjà une sacrée boîte. Leur produit est utilisé actuellement par 80.000 médecins, avec 3000 nouveaux utilisateurs chaque mois. Leur appli est utilisée par 1700 établissements de santé (avec une croissance x3 en 2018).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Donc, tous les 2 mois, leur trafic web augmente de 20%. Avec environ 3000 req/s et 40.000 utilisateurs simultanés. Leur base de données fait 4 To avec environ 17000 req/s.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Ils ont des pics d’activité saisonniers : après les vacances de Noël et le Lundi matin.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+L’application est développée en Rails avec une base Postgres et un Redis. Il n’y a qu’une appli de 150K lignes de code dans un seul repository. Évidement, en run, l’application est répliquée sur environ 30 workers Rails et 19 VM.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="truecommment_y_sont_ils_arriv_s" class="sect0">Commment y sont-ils arrivés ?</h1>
+<br/>
+<div class="sect1 data-line-19">
+<br/>
+<h2 id="trueautonomie">Autonomie</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+D’abord en demandant aux développeurs de l’autonomie. Par conséquent, ils cherchent des développeurs full-stack avec évidement des points d’expertise. Ensuite en construisant des feature teams autonomes, et dédiées à un pan fonctionnel de l’application.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-23">
+<br/>
+<h2 id="truecombattre_la_complexit">Combattre la complexité</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Le principe de base chez Doctolib, c’est de toujours utiliser la solution la plus simple, idéalement bâtie sur l’existant. La simplicité est évaluée sous les angles du build et du run. Le vrai challenge, c’est de trouver à quel moment arrêter d’optimiser pour pivoter vers une autre solution.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-28">
+<br/>
+<h2 id="trueconstruire_des_boucles_de_feedback_courtes">Construire des boucles de feedback courtes</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-29">
+</p>
+<p>
+Ca veut dire bien sûr avoir des tests automatisés partout (tests unitaires et end-to-end). Ca veut dire aussi avoir des PR et code reviews. Ca veut dire également avoir un système parfaitement observable (par exemple pour pouvoir prédire l'évolution de la plateforme).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-33">
+<br/>
+<h2 id="truecourt_terme_vs_long_terme">Court terme vs long terme</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+L’horizon de prévision est à deux ans. Donc leur capacity planning vise à garantir la stabilité de la plateforme sur 3 mois.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="truequelques_exemples" class="sect0">Quelques exemples</h1>
+<br/>
+<div class="sect1 data-line-38">
+<br/>
+<h2 id="trueoptimiser_la_r_cup_ration_des_plages_de_dispo_des_m_decins">Optimiser la récupération des plages de dispo des médecins</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+Avec NewRelic, ils peuvent facilement faire du tracing. Grâce à ça, ils détectent "facilement" les dégradations de performances (les endpoints HTTP dont les performances ont diminué de plus de 10%). A partir de là, ils ont pu observer que les performances SQL s'étaient dégradé. Et de là, un coup de PG explain analyze a permis d’optimiser l’utilisation de la base de données. Ce qui a ensuite mené à des optimisations côté Ruby grâce aux flamegraphs
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-45">
+<br/>
+<h2 id="truepostgres_vs_elastic">Postgres vs Elastic</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Ils utilisent des index Postgres pour leur recherche full-text et ont réfléchi à migrer vers ElasticSearch. Mais en relisant la doc de Postgres, ils ont découvert qu’une meilleure configuration de Postgres suffisait à optimiser les recherches full-text. C’est une solution beaucoup plus conforme aux principes de l’entreprise, puisqu’on évite d’ajouter un composant qui va complexifier le dév et le run. Dans une phase suivante, ils ont voulu à nouveau optimiser les recherches Postgres, mais ont atteint les limites du système (pas forcément techniques). Et là, ils ont migré vers Elastic …​ et ont eu les problèmes auxquels ils s’attendaient (index non mis à jour, etc, …​)
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-52">
+<br/>
+<h2 id="truecapacity_planning">Capacity planning</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-53">
+</p>
+<p>
+Le secret du capacity planning pour la performance est de lutter contre la dégradation exponentielle des performances. En 2018, les performances de Postgres se dégradaient de façon exponentielle. Pour éviter ça, ils ont …​ simplement …​ migré leur base vers de plus grosses machines. Ca les a aidé à passer l’année 2018 tranquillement.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-57">
+<br/>
+<h2 id="truepas_de_cache">Pas de cache</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+Toujours pour simplifier l’architecture, il n’y a pas de cache. Même pour le calcul des disponibilités, pour lequel il y a pourtant plus de lecture que d'écriture. Ils ont bien tenté un poc de deux jours pour mettre en place un cache. Mais comme d’une part ils pouvaient optimiser la base, et que d’autre part la mise en place d’un cache inclut le problème complexe de l’invalidation des données, ils ont préféré s’en passer.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-63">
+<br/>
+<h2 id="trueun_front_complexe">Un front complexe</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-64">
+</p>
+<p>
+Leur front est fait en React avec RxJS. Et très vite, la complexité du front a limité le nombre de personnes capables de le manipuler. Ils ont donc volontairement limité la complexité de leur développement côté front pour que tous les développeurs puissent se réapproprier ce front.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="truepoints_d_attention" class="sect0">Points d’attention</h1>
+<br/>
+<div class="paragraph data-line-69">
+</p>
+<p>
+D’abord, il n’est pas simple de maîtriser toute la stack. Ensuite, il faut être toujours sur le pont. Parce que les développeurs mettent en prod et suivent la prod. Enfin, faire collaborer tous les développeurs est difficile.
+</p>
+<p>
+</div>
+<br/>
+<h1 id="truepour_conclure" class="sect0">Pour conclure</h1>
+<br/>
+<div class="paragraph data-line-75">
+</p>
+<p>
+Ils essayent de pousser du design émergent, c’est-à-dire baser toutes leurs décisions sur des faits.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-77">
+</p>
+<p>
+Ensuite, tuner une appli est d’autant plus efficace que l’architecture de l’application est simple (ce qui est vraiment le cas d’un monolithe).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-80">
+</p>
+<p>
+La qualité du code est non négociable. Mais ils essayent d’adhérer à du yagni en évitant les phrases magiques "si jamais ..", "peut-être que …​", "c’est plus propre de …​". Leur code reste pragmatique.
+</p>
+<p>
+J'ai trouvé la présentation très intéressante. Sans doute parce que le maintien d'un monolithe en 2019 a valeur de manifeste anti-tendance. Et ça, c'est bien (je dis aussi ça parce que StackOverflow maintient aussi un monolithe). Et puis je ne peux pas m'empêcher de faire le lien avec la présentation du bon coin, qui montrait précisément ce qui arrive quand on veut enfin quitter le monde du monolithe.
+</p>
+<p>
+</div>
+</p>
+++++

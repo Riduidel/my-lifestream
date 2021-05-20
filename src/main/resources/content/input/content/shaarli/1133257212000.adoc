@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rubik's Cube Solution
+:jbake-tags: fun,_mois_nov.,_année_2005
+:jbake-date: 2005-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1133257212000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flar5.com%2Fcubefr%2Findexf.html&searchtags=fun+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://lar5.com/cubefr/indexf.html[Rubik's Cube Solution]
+
+une méthode de résolution du rubik's cube en français

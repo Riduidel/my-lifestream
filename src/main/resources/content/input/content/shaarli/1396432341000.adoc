@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How do I replace a new tab window with the Mozilla Firefox start up page and instead have the page with quick links to most visited websites come up? | Firefox Support Forum | Mozilla Support
+:jbake-tags: firefox,configuration,software,_mois_avr.,_année_2014
+:jbake-date: 2014-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1396432341000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsupport.mozilla.org%2Fen-US%2Fquestions%2F944665&searchtags=firefox+configuration+software+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://support.mozilla.org/en-US/questions/944665[How do I replace a new tab window with the Mozilla Firefox start up page and instead have the page with quick links to most visited websites come up? | Firefox Support Forum | Mozilla Support]
+
+Parfois, changer des trucs dans Firefox, c'est ... curieusement embêtant.

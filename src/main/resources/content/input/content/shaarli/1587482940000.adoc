@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: So you've become a Tech Lead - great! Now what? - Speaker Deck
+:jbake-tags: carrière,management,technique,_mois_avr.,_année_2020
+:jbake-date: 2020-04-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1587482940000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fstarapor%2Fso-youve-become-a-tech-lead-great-now-what%3Fslide%3D50&searchtags=carri%C3%A8re+management+technique+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://speakerdeck.com/starapor/so-youve-become-a-tech-lead-great-now-what?slide=50[So you've become a Tech Lead - great! Now what? - Speaker Deck]
+
+Une présentation sacrément intéressante sur le rôle de tech lead. Il y a là-dedans des idées que je dois apprendre à appliquer.

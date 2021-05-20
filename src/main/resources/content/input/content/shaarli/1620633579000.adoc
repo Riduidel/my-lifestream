@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emilien Pecoul sur Twitter : "The sad truth about technical interview is that it usually measures if you know the same things than the people who designed it instead of measuring you’re ability to learn and collaborate." / Twitter
+:jbake-tags: recrutement,entretien,question,méthode,_mois_mai,_année_2021
+:jbake-date: 2021-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1620633579000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FOuarzy%2Fstatus%2F1391089940570779653&searchtags=recrutement+entretien+question+m%C3%A9thode+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/Ouarzy/status/1391089940570779653[Emilien Pecoul sur Twitter : "The sad truth about technical interview is that it usually measures if you know the same things than the people who designed it instead of measuring you’re ability to learn and collaborate." / Twitter]
+
+C'est vrai si l'entretien se fait avec des questions fermées ... Si le recruteur pose des questions ouvertes, il aura plus de chances d'être positivement surpris ...

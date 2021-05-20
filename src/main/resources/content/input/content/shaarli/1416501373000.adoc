@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WinSplit Revolution | Windows Desktop Tiling Manager
+:jbake-tags: publicité,web,software,windows,_mois_nov.,_année_2014
+:jbake-date: 2014-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1416501373000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.winsplit-revolution.com%2F&searchtags=publicit%C3%A9+web+software+windows+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.winsplit-revolution.com/[WinSplit Revolution | Windows Desktop Tiling Manager]
+
+Ah le bon gros cyber-squat ! WinSplit revolutions était un super logiciel de gestion de fenetre au clavier pour Windows (pour les linuxiens, c'est l'équivalent d'un tiling window manager genre poison, je crois). Et donc, les mecs de MaxTo ont racheté le nom de domaine pour se faire de la pub. Je trouve le procédé ... assez peu digne.

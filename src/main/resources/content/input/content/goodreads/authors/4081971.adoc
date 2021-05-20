@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aurélien Police
+:jbake-tags: author
+:jbake-date: 2015-03-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4081971.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/4081971
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070457748.html[Même pas mort (Rois du Monde, #1)]

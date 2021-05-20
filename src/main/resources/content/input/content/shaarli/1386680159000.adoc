@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Des affiches mathématiques
+:jbake-tags: mathématiques,science,art,visualisation,_mois_déc.,_année_2013
+:jbake-date: 2013-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1386680159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fdes-affiches-mathematiques%2F&searchtags=math%C3%A9matiques+science+art+visualisation+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/des-affiches-mathematiques/[Des affiches mathématiques]
+
+Chouettes affiches illustrant des concepts mathématiques avec beaucoup de style.

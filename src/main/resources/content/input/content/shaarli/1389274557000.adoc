@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dbk's Blog: Simple fix to missing tools.jar in JDK on Mac OS X
+:jbake-tags: java,macosx,hack,programming,_mois_janv.,_année_2014
+:jbake-date: 2014-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1389274557000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdbknickerbocker.blogspot.fr%2F2013%2F04%2Fsimple-fix-to-missing-toolsjar-in-jdk.html&searchtags=java+macosx+hack+programming+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://dbknickerbocker.blogspot.fr/2013/04/simple-fix-to-missing-toolsjar-in-jdk.html[dbk's Blog: Simple fix to missing tools.jar in JDK on Mac OS X]
+
+Si vous avez un Mac avec Java 6 ... ça pourra vous aider à faire marcher Cobertura, par exemple ....

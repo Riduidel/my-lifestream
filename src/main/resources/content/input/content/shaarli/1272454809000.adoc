@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spelunky World
+:jbake-tags: software,freeware,windows,jeu,_mois_avr.,_année_2010
+:jbake-date: 2010-04-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1272454809000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.spelunkyworld.com%2F&searchtags=software+freeware+windows+jeu+_mois_avr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.spelunkyworld.com/[Spelunky World]
+
+Un petit jeu d'exploration souterraine qui a l'air assez joli, et qui pourrait en plus ravir les enfants

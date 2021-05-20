@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yarra Valley Software
+:jbake-tags: iphoto,macosx,software,freeware,scripting,_mois_févr.,_année_2008
+:jbake-date: 2008-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1203676252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.yvs.eu.com%2Findex.html&searchtags=iphoto+macosx+software+freeware+scripting+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.yvs.eu.com/index.html[Yarra Valley Software]
+
+Peut-être encore une autre solution pour écrire ces données EXIF : iMagine, une espèce de catalogues d'actions pour automator et d'AppleScript, avec lesquelles je vais peut-être pouvoir faire des trucs ...

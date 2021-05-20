@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jabbering Giraffe - Github Pages with Maven
+:jbake-tags: git,github,module,maven,_mois_nov.,_année_2019
+:jbake-date: 2019-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1573042925000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhappygiraffe.net%2Fblog%2F2009%2F01%2F17%2Fgithub-pages-with-maven%2F&searchtags=git+github+module+maven+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://happygiraffe.net/blog/2009/01/17/github-pages-with-maven/[Jabbering Giraffe - Github Pages with Maven]
+
+Oh la belle astuce pour pousser du contenu dans github pages depuis maven !

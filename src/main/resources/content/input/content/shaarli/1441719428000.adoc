@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La fracture temporelle
+:jbake-tags: politique,sécurité,renseignement,_mois_sept.,_année_2015
+:jbake-date: 2015-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1441719428000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblogs.mediapart.fr%2Fblog%2Flaurent-chemla%2F040915%2Fla-fracture-temporelle&searchtags=politique+s%C3%A9curit%C3%A9+renseignement+_mois_sept.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blogs.mediapart.fr/blog/laurent-chemla/040915/la-fracture-temporelle[La fracture temporelle]
+
+Un texte aussi inquiétant que vrai, malheureusement. Et ça n'est pas parce que la fameuse loi sur le renseignement ne fait plus l'actualité que ce qui y est dénoncé devient faux : les mêmes défauts de démocratie s'appliquent au sujet du moment (l'immigration) avec les mêmes effets délétères.

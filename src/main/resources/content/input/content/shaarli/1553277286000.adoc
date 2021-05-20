@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I Am Devloper on Twitter: "browser extension idea: find and replace “AI” with “some IF statements“ in articles you read online ie. VCs invest $1.2B in some IF statements"
+:jbake-tags: web,plugin,économie,_mois_mars,_année_2019
+:jbake-date: 2019-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1553277286000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fiamdevloper%2Fstatus%2F1108676556795404288&searchtags=web+plugin+%C3%A9conomie+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/iamdevloper/status/1108676556795404288[I Am Devloper on Twitter: "browser extension idea: find and replace “AI” with “some IF statements“ in articles you read online ie. VCs invest $1.2B in some IF statements"]
+
+Une super idée pour dégonfler les buzzwords. Mais hélas, les VC ne risquent pas d'utiliser cette extension !

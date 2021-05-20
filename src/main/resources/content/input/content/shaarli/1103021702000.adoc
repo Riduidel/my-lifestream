@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scirus - for scientific information
+:jbake-tags: search,web,_mois_déc.,_année_2004
+:jbake-date: 2004-12-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1103021702000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.scirus.com%2Fsrsapp%2F&searchtags=search+web+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.scirus.com/srsapp/[Scirus - for scientific information]
+
+search engine geared to scientific information

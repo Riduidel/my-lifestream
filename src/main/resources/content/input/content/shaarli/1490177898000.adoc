@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: better-exceptions/README.md at master · Qix-/better-exceptions
+:jbake-tags: python,programming,exception,_mois_mars,_année_2017
+:jbake-date: 2017-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1490177898000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FQix-%2Fbetter-exceptions%2Fblob%2Fmaster%2FREADME.md&searchtags=python+programming+exception+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/Qix-/better-exceptions/blob/master/README.md[better-exceptions/README.md at master · Qix-/better-exceptions]
+
+Wow, j'adorerais avoir ça en java

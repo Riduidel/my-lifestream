@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SMART UML - Smartest UML Designer
+:jbake-tags: software,tabletpc,uml,design,programming,concepts,freeware,open-source,windows,_mois_mars,_année_2006
+:jbake-date: 2006-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1143797943000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsmartuml.sourceforge.net%2F&searchtags=software+tabletpc+uml+design+programming+concepts+freeware+open-source+windows+_mois_mars+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://smartuml.sourceforge.net/[SMART UML - Smartest UML Designer]
+
+

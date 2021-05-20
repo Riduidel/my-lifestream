@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Notes d'apprentissage de Python : les compréhensions - The Geek In The Shell
+:jbake-tags: python,idiome,programming,tutorial,_mois_nov.,_année_2020
+:jbake-date: 2020-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1604337309000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftgits.github.io%2Fpost%2Fnotes_apprentissage_python_comprehension%2F&searchtags=python+idiome+programming+tutorial+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://tgits.github.io/post/notes_apprentissage_python_comprehension/[Notes d'apprentissage de Python : les compréhensions - The Geek In The Shell]
+
+Wow, et article de Christophe est incroyablement clair et complet. La prochaine fois que je ferai du Python, ça me sera \*très\* utile.

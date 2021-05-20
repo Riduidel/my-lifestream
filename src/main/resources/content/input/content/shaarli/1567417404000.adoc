@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Testing the boundaries of collaboration – Increment: Testing
+:jbake-tags: programming,concepts,test,déploiement,_mois_sept.,_année_2019
+:jbake-date: 2019-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1567417404000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fincrement.com%2Ftesting%2Ftesting-the-boundaries-of-collaboration%2F&searchtags=programming+concepts+test+d%C3%A9ploiement+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://increment.com/testing/testing-the-boundaries-of-collaboration/[Testing the boundaries of collaboration – Increment: Testing]
+
+J'ai toujours trouvé le concept derrière TCR complètement fou. Mais en lisant cet article (et en particulier la partie où les deux machines font TCR + git push/pull), je crois qu'il tient une idée ... aussi dingue qu'innovante.

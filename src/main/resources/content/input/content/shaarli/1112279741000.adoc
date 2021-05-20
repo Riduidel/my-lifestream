@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Objects by Design: UML Modeling Tools
+:jbake-tags: software,freeware,shareware,library,uml,programming,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112279741000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.objectsbydesign.com%2Ftools%2Fumltools_byPrice.html&searchtags=software+freeware+shareware+library+uml+programming+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.objectsbydesign.com/tools/umltools_byPrice.html[Objects by Design: UML Modeling Tools]
+
+List of UML tools by price

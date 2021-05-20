@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Big Guy
+:jbake-tags:  fin-du-monde, monstre, robot,_année_2017,_mois_mai,_note_3,rayon-bd,read
+:jbake-date: 2017-05-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840550518.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423678256l/3042292._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423678256l/3042292._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3042292
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Front and center, America! Here comes action! Here comes adventure! Here comes <i>The Big Guy and Rusty the Boy Robot</i>—a roller-coaster ride through the minds of Geof Darrow and Frank Miller, the tag team that set you reeling with their hard-hitting series <i>Hard Boiled</i>! Everything you remember about being eight years old and watching monster movies is right here, but with all the magnified detail that you always wanted to see.
+</div>
+++++
+
+
+## Authors
+* link:../authors/15085.html[Frank Miller]
+* link:../authors/52921.html[Geof Darrow]
+
+
+
+## Review
+
+++++
+Comme pour chacune des productions de ces auteurs, je ressens une forme de fascination devant ces dessins qui mettent toujours en scène trop de personnages.<br/>Qui plus est, la quantité de destruction mise en scène est proprement stupéfiante.
+++++

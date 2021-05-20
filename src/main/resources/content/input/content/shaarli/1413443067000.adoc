@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: hasCode.com » Blog Archive » Integrating Groovy in your Maven builds using GMaven
+:jbake-tags: programming,maven,groovy,_mois_oct.,_année_2014
+:jbake-date: 2014-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1413443067000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hascode.com%2F2011%2F07%2Fintegrating-groovy-in-your-maven-builds-using-gmaven%2F%23Useful_Variables&searchtags=programming+maven+groovy+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.hascode.com/2011/07/integrating-groovy-in-your-maven-builds-using-gmaven/#Useful_Variables[hasCode.com » Blog Archive » Integrating Groovy in your Maven builds using GMaven]
+
+J'oublie toujours quelles sont les variables disponibles (et que le projet et la session sont là). Cet article est quand même bien pratique pour s'en souvenir.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To Share Your iTunes Library With Multiple Macs And An NAS - journal
+:jbake-tags: itunes,nas,howto,ipod,_mois_mai,_année_2009
+:jbake-date: 2009-05-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1243438095000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.20seven.org%2Fjournal%2F2007%2F02%2Fhow-i-share-our-itunes-library-with-multiple-macs-and-my-nas.html&searchtags=itunes+nas+howto+ipod+_mois_mai+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.20seven.org/journal/2007/02/how-i-share-our-itunes-library-with-multiple-macs-and-my-nas.html[How To Share Your iTunes Library With Multiple Macs And An NAS - journal]
+
+Un tutopriel pour reconfigurer iTunes pour utiliser le disque dur réseau

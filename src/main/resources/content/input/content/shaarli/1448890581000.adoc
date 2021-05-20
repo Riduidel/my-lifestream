@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tdebatty/java-string-similarity
+:jbake-tags: java,programming,library,string,_mois_nov.,_année_2015
+:jbake-date: 2015-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1448890581000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftdebatty%2Fjava-string-similarity&searchtags=java+programming+library+string+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/tdebatty/java-string-similarity[tdebatty/java-string-similarity]
+
+Chouette ! Une bibliothèque remplie de méthodes de calcul de différence de chaînes de caractères

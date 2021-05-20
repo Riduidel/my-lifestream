@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Peter Storch on Twitter: "It started with standardizing boxes and arrows and grew up to a nearly executable complex thingy. I think it is still useful to communicate some ideas, as long as you don't try to generate something out of it. But now everyone draws boxes and arrows differently again.… https://t.co/nPahLgSQmC"
+:jbake-tags: architecture,software,diagram,uml,_mois_août,_année_2018
+:jbake-date: 2018-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1535468579000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fstorchp%2Fstatus%2F1034098454845374464&searchtags=architecture+software+diagram+uml+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/storchp/status/1034098454845374464[Peter Storch on Twitter: "It started with standardizing boxes and arrows and grew up to a nearly executable complex thingy. I think it is still useful to communicate some ideas, as long as you don't try to generate something out of it. But now everyone draws boxes and arrows differently again.… https://t.co/nPahLgSQmC"]
+
+Personnellement, pour moi, UML, ça reste une façon bien pratique de choisir quelles boîtes mettre avec quelles flèches. Par conséquent, je porte facilement mon UML "light" partout (et je le ressors avec Ballerina, par exemple)

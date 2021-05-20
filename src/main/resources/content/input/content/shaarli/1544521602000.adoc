@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joachim Viide on Twitter: "We also noticed that the Rust and WebAssemly book can be read as a self-help guide and turned some choice quotes into "inspirational" posters 😉… https://t.co/MNIyxIa5TG"
+:jbake-tags: rust,programming,humour,motivation,_mois_déc.,_année_2018
+:jbake-date: 2018-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1544521602000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjviide%2Fstatus%2F1069967402585206784&searchtags=rust+programming+humour+motivation+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jviide/status/1069967402585206784[Joachim Viide on Twitter: "We also noticed that the Rust and WebAssemly book can be read as a self-help guide and turned some choice quotes into "inspirational" posters 😉… https://t.co/MNIyxIa5TG"]
+
+C'est chouette ! Et assez amusant.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Automate webalbum maintenance using iPhoto and Ruby - Gero Vermaas
+:jbake-tags: iphoto,ruby,album,exemple,documentation,_mois_févr.,_année_2008
+:jbake-date: 2008-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1203016444000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgerodt.homeip.net%2Fblog%2Fgero%2F2007%2F07%2F29%2F1185732300000.html&searchtags=iphoto+ruby+album+exemple+documentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://gerodt.homeip.net/blog/gero/2007/07/29/1185732300000.html[Automate webalbum maintenance using iPhoto and Ruby - Gero Vermaas]
+
+Un exemple d'implémentation de script Ruby pour exporter des albums d'iPhoto vers le web. Je vais m'en servir comme exemple pour écrire les titres et commentaires dans mes photos.

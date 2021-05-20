@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Titan
+:jbake-tags:  hard-science, near-space, rayon-imaginaire, voyage,_année_2005,_mois_oct.,_note_3,noir,read
+:jbake-date: 2005-10-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290309735.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/64007
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+2004 : les analyses de la sonde Cassini-Huygens sur la composition de la surface de Titan, l'une des lunes satellites de Saturne, révèlent que toutes les conditions atmosphériques et chimiques permettant l'existence d'une vie organique y sont rassemblées.<br /><br />Motivée par les spectaculaires découvertes qui pourraient en découler, une équipe de la NASA met au point le projet d'un vol habité vers ce lieu potentiel d'existence extraterrestre. Pendant plusieurs années, ces astronautes, ingénieurs et scientifiques vont se heurter aux volontés contraires de l'armée, s'opposer aux coupes budgétaires stratégiques d'une bureaucratie frileuse et lutter contre le reniement par le gouvernement des ambitions spatiales du passé, pour imposer le lancement d'une mission vers Titan. Mission qui, au-delà des temps et des dimensions, les conduira aux limites du savoir humain...<br /><br />Après Voyage, Stephen Baxter poursuit son entreprise de réécriture des grandes aventures spatiales américaines de notre temps. A partir d'un événement concret (l'arrivée — réelle — de la sonde en 2004), il imagine ce que pourraient être aujourd'hui l'élaboration et la mise en application d'un projet spatial de la NASA de grande ampleur et aux formidables enjeux.
+</div>
+++++
+
+
+## Authors
+* link:../authors/20295.html[Stephen Baxter]
+* link:../authors/19580692.html[Stéphanie Ravez]
+
+## Series
+* link:../series/NASA_Trilogy.html[NASA Trilogy]
+
+## Review
+
+++++
+Il y a certains bouquins qui sont incroyablement faciles à résumer. Titan est de ceux-là. Il s’agit en effet simplement du compte-rendu de l’expédition d’une navette vers Titan, le sattelite de Jupiter. <br/>On est là dans la grande tradition de la SF à tendance réaliste et scientifique, puisque l’auteur, qui est lui scientifique, connaît très bien la NASA et les arcanes de la politique qui s’y pratique. Ce qui donne du reste une bonne part de sa force et de sa pertinence à ce roman. Mais plus encore que la politique de la NASA, c’est la technique du vol spatial qui donne à ce récit toute sa force. <br/>En effet, l’auteur arrive imaginer, avec un luxe de détail inimaginable pour nous autres simples lecteurs, les outils et les moyens permettant à cette expédition de se monter, et, surtout, aux astronautes qui la composent de survivre (pour autant que ce soit possible) au voyage et à l’atmosphère de Titan qui, rappelons-le, du fait de la température de surface nettement inférieure à zéro, est composée de méthane et d’ammoniaque. <br/>Bien sûr, ce roman n’est pas exempt de tares, dues d’une part au genre, mais aussi et surtout au désir de l’auteur de dénoncer certains aspects politiques de l’exploration spatiale actuelle. On ne peut donc que regretter toutes ces phases de négociation budgétaire qui n’apportent pas grand chose au récit, à part peut-être un ancrage dans les rouages budgétaires de cette administration, ancrage qu’on découvrait du reste déjà (à moins que je ne sois dans le mauvais ordre temporel) dans <a class="DirectBookReference destination_Book" href="9782290327319.html">Poussière de Lune</a>, avec également toute la gestion administrative de l’espace. <br/>D’autres défauts sont également agaçants, sans être gênants, au premier lieu desquels le style littéraire, aussi léger qu’un rapport de la susnommée NASA. Mais on ne peut pas lire de la hard-science écrite par un scientifique sans en payer le prix, identique à ce qu’on paye dans un <a class="DirectAuthorReference destination_Author" href="../authors/22645.html">Gregory Benford</a>. Enfin, le dernier défaut, qui, là, est vraiment de l’ordre du goût personnel. Ce roman se divise en plusieurs parties : la genèse de l’expédition, le voyage, la vie sur Titan et une dernière partie dispensable à tous points de vue : pas très bien écrite, apportant une touche d’optimisme dans un roman qui est sinon singulier par son pessimisme, sortant alors une nouvelle race pour le plus grand mépris d’un lecteur qui était, jusqu’alors, fasciné par le réalisme total de cette histoire. <br/>Malgré ces défauts, j’ai pourtant un faible pour cette histoire pour des raisons au moins aussi nombreuses que les défauts déjà mentionnés. Car on y trouve de l’héroïsme et un aspect visionnaire qui, associé au réalisme de l’univers envisagé, font de cette histoire l’une des meilleures sur le thème pourtant rabâché du décollage de l’Homme de la surface de la Terre.
+++++

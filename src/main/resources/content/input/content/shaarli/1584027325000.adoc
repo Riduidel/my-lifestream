@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Art of Strategy - Erik Schön - Medium
+:jbake-tags: stratégie,lecture,documentation,entreprise,_mois_mars,_année_2020
+:jbake-date: 2020-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1584027325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40erik_schon%2Fthe-art-of-strategy-26470e75e6ba&searchtags=strat%C3%A9gie+lecture+documentation+entreprise+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/@erik_schon/the-art-of-strategy-26470e75e6ba[The Art of Strategy - Erik Schön - Medium]
+
+Ca m'a l'air d'un ensemble d'articles d'une lecture particulièrement utile (en plus, le lien entre Sun Tsu et Simon Wardley ressemble à un sacré grand écart).

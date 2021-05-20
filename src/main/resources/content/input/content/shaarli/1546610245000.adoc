@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Speaker Cheat Sheet
+:jbake-tags: présentation,conférence,_mois_janv.,_année_2019
+:jbake-date: 2019-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1546610245000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2018%2F12%2F25%2Fspeaker-cheat-sheet.html&searchtags=pr%C3%A9sentation+conf%C3%A9rence+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.yegor256.com/2018/12/25/speaker-cheat-sheet.html[Speaker Cheat Sheet]
+
+Très intéressant, et d'un usage à peu près immédiat pour moi. J'aime beaucoup la partie "no slides", et je me demande si je ne vais pas tenter un truc comme ça bientôt ...

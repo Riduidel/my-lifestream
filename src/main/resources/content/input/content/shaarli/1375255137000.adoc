@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaarli to Twitter
+:jbake-tags: shaarli,twitter,rss,ifttt,_mois_juil.,_année_2013
+:jbake-date: 2013-07-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1375255137000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fifttt.com%2Frecipes%2F108708&searchtags=shaarli+twitter+rss+ifttt+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://ifttt.com/recipes/108708[Shaarli to Twitter]
+
+Pour ceux qui ont quitté Twitter pour le shaarliverse, une petite recipe ifttt bien pratique pour continuer à avoir une présence (tout le contenu est posté, hein)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le blog d'Archiloque
+:jbake-tags: architecture,logiciel,blog,réflexion,modèle,_mois_juin,_année_2020
+:jbake-date: 2020-06-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1591019318000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farchiloque.net%2Fblog%2F&searchtags=architecture+logiciel+blog+r%C3%A9flexion+mod%C3%A8le+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://archiloque.net/blog/[Le blog d'Archiloque]
+
+Un blog d'architectur elogicielle en français, c'est déja peu courant. Mais si en plus il est en français, c'est vraiment chouette.

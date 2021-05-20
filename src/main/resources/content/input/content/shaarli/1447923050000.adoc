@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Character Set Detection - ICU User Guide
+:jbake-tags: java,programming,library,texte,encoding,_mois_nov.,_année_2015
+:jbake-date: 2015-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1447923050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fuserguide.icu-project.org%2Fconversion%2Fdetection&searchtags=java+programming+library+texte+encoding+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://userguide.icu-project.org/conversion/detection[Character Set Detection - ICU User Guide]
+
+La meilleure façon de détecter un texte à l'encodage trouble

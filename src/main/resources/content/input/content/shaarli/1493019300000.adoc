@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 8values Results
+:jbake-tags: politique,_mois_avr.,_année_2017
+:jbake-date: 2017-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1493019300000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F8values.github.io%2Fresults.html%3Fe%3D86.5%26d%3D76.9%26g%3D72.3%26s%3D87.6&searchtags=politique+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://8values.github.io/results.html?e=86.5&d=76.9&g=72.3&s=87.6[8values Results]
+
+Avec des scores comme ceux-là, évidement que les résultats de l'élection d'hier me décoivent

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Amdahl to Zipf: Ten Laws of the Physics of People - Hintjens.com
+:jbake-tags: organisation,management,_mois_oct.,_année_2015
+:jbake-date: 2015-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1444824187000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhintjens.com%2Fblog%3A100&searchtags=organisation+management+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://hintjens.com/blog:100[Amdahl to Zipf: Ten Laws of the Physics of People - Hintjens.com]
+
+Excellent article, qui pousse au niveau relationnel les leçons du développement. Et ça fait vraiment réfléchir ...

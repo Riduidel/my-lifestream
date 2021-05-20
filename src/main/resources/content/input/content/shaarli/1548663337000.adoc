@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: djc/askama: Type-safe, compiled Jinja-like templates for Rust
+:jbake-tags: jinja,template,rust,_mois_janv.,_année_2019
+:jbake-date: 2019-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1548663337000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdjc%2Faskama&searchtags=jinja+template+rust+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/djc/askama[djc/askama: Type-safe, compiled Jinja-like templates for Rust]
+
+Oh mais c'est génial ces templates compilés !

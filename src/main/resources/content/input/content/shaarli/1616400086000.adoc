@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Stenberg sur Twitter : "I have this well established practice: when the entire household goes to bed, I do curl development for two more hours. Every day, for 23 years and counting. Sometimes a little more, sometimes a little less. Whatever you do consistently for 23 years end up a lot." / Twitter
+:jbake-tags: histoire,programming,méthode,_mois_mars,_année_2021
+:jbake-date: 2021-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1616400086000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbagder%2Fstatus%2F1372572657317711876&searchtags=histoire+programming+m%C3%A9thode+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/bagder/status/1372572657317711876[Daniel Stenberg sur Twitter : "I have this well established practice: when the entire household goes to bed, I do curl development for two more hours. Every day, for 23 years and counting. Sometimes a little more, sometimes a little less. Whatever you do consistently for 23 years end up a lot." / Twitter]
+
+curl est un projet dingue. Pas étonnant que son auteur ait une organisation carrée

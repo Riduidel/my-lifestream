@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Artichoke Ruby
+:jbake-tags: rust,ruby,interpreter,wasm,web,docker,open-source,_mois_janv.,_année_2021
+:jbake-date: 2021-01-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1610645107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.artichokeruby.org%2F&searchtags=rust+ruby+interpreter+wasm+web+docker+open-source+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.artichokeruby.org/[Artichoke Ruby]
+
+Un interpréteur Ruby codé en Rust ... et compilé en WASM (du coup le playground Ruby s'exécute dans le navigateur)

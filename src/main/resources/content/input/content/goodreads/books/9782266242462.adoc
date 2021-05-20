@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robopocalypse (Robopocalypse, #1)
+:jbake-tags:  broc, guerre, ia, robot,_année_2017,_mois_déc.,_note_1,post-apo,read
+:jbake-date: 2017-12-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266242462.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499606106l/35627738._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499606106l/35627738._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/35627738
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Un éminent scientifique a mis au point une intelligence artificielle qui dépasse de loin toutes ses espérances. Ce qu’il n’a pas prévu c’est que cette IA, un simple ordinateur à première vue, estime que l’homme est nocif pour la planète et a donc décidé de l’éliminer en utilisant le réseau à sa disposition : toutes les machines électroniques de la vie quotidienne mais aussi militaires….<br />Le livre se présente sous la forme de témoignages d’hommes, de femmes et d’enfants, recueillis avant, pendant et après l’attaque des robots. Une simple machine à glace, une poupée pour enfants, des voitures, des téléphones portables, toutes les machines se dérèglent et se mettent à tuer les gens partout dans le monde. Mais l’humanité est résistante et plus intelligente que ce que croit l’IA…
+</div>
+++++
+
+
+## Authors
+* link:../authors/33773.html[Daniel H. Wilson]
+
+## Series
+* link:../series/Robopocalypse.html[Robopocalypse]
+
+## Review
+
+++++
+Ce roman raconte, à travers plusieurs personnages, comment une IA a failli avoir raison de l'humanité.<br/>Si vous voulez mon conseil rapide, attendez le film qui en sera tiré (les techniciens de Dreamworks sont mentionnés dans les remerciements). Parce que dès le deuxième chaître, j'ai compris que je ne lisais qu'un synopsis pour un prochain film, ce qui est assez pénible. Plus encore, j'ai compris qu'il s'agirait sans aucun doute d'un blockbuster décérébré. En effet, l'auteur insiste avec une lourdeur pathétique sur ce que je dois ressentir à chaque page. Et ce guide émotionnel, cette façon de montrer chaque élément du doigt est extrêmement pénible. Plus pénible même que les débuts et fins de chapître m'expliquant laborieusement ce qu'il va se passer : "dans ce chaître, un personnage va faire une découverte qui va changer le cours de la guerre". Vous croyez que j'exagère ? Même pas, c'est réellement écrit à un moment donné. Du coup, avec ces deux défauts majeurs, la lecture de ces centaines de pages s'est révélé un exercice des plus laborieux, malgré le travail typiquement américain sur l'écriture façon page turner. <br/>Et malgré ce qui apparaît pour moi comme un côté clairement néo-luddite.<br/>En effet, le point de départ du récit (une IA trops souvent réinitialisée) et l'objectif même de cette IA trahissent chez l'auteur une volonté de voir l'IA comme une espèce de démon moderne qu'on ne saurait remettre dans sa bouteille (une hypothèse que je ne comprend pas chez quelqu'un qui fait de la robotique).<br/>Tout ça mis bout à bout rend le roman indigeste formellement et foncièrement, et une lecture absolument non recommandable.
+++++

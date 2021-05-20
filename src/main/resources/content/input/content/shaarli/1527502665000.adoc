@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: "As long as we keep thinking to software development as a craft we are doomed to live unrepeatable successes interleaved by many more disastrous failures. I took a degree in Software Engineering, not Software Craftsmanship. I'm an engineer… https://t.co/17pKlZl00f"
+:jbake-tags: citation,programming,carrière,_mois_mai,_année_2018
+:jbake-date: 2018-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1527502665000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F1000727319777087488&searchtags=citation+programming+carri%C3%A8re+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/1000727319777087488[Mario Fusco on Twitter: "As long as we keep thinking to software development as a craft we are doomed to live unrepeatable successes interleaved by many more disastrous failures. I took a degree in Software Engineering, not Software Craftsmanship. I'm an engineer… https://t.co/17pKlZl00f"]
+
+La réflexion fait sens, mais de mon point de vue on pratique encore une forme particulière d'artisanat, en particulier dans l'assemblage sur mesure de solutions toujours uniques.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clance Impostor Phenomenon Score
+:jbake-tags: test,psychologie,_mois_mars,_année_2019
+:jbake-date: 2019-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1551446899000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fimpostortest.nickol.as%2F&searchtags=test+psychologie+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://impostortest.nickol.as/[Clance Impostor Phenomenon Score]
+
+Un test en ligne du syndrome de l'imposteur (merci Logan) qui me place à 44/100. Est-ce que je suis surpris ? Ben non, pourquoi ? (en fait, un peu : je ne pensais pas souffrir autant de ce syndrome)

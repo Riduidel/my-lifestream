@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel F. Galouye
+:jbake-tags: author
+:jbake-date: 2004-09-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/126820.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1505880881p5/126820.jpg
+:jbake-source: https://www.goodreads.com/author/show/126820
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290007785.html[Simulacron 3]

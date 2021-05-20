@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tidy Maven Plugin - Introduction
+:jbake-tags: programming,java,maven,convention,_mois_mars,_année_2014
+:jbake-date: 2014-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1395235275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmojo.codehaus.org%2Ftidy-maven-plugin%2F&searchtags=programming+java+maven+convention+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://mojo.codehaus.org/tidy-maven-plugin/[Tidy Maven Plugin - Introduction]
+
+Une bonne idée de plugin pour avoir des poms maven qui soient à peu près homogènes

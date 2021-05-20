@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: git concepts simplified
+:jbake-tags: software,développeur,git,tutorial,documentation,article,_mois_sept.,_année_2013
+:jbake-date: 2013-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1380206447000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgitolite.com%2Fgcs%2Findex.html&searchtags=software+d%C3%A9veloppeur+git+tutorial+documentation+article+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://gitolite.com/gcs/index.html[git concepts simplified]
+
+C'est pas tous les jours que je tombe sur un tutorial qui explique clairement (pour moi qui connaît raisonnablement SVN) les entrailles et les concepts de git. Heureusement que j'ai fait dans le graphe récement sinon deux ou trois trucs m'auraient moins immédiatement sauté aux yeux ! via http://sebsauvage.net/links/?dhV-Hw

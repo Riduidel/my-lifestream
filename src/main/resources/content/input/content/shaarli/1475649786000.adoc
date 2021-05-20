@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To Save The Princess In 8 Programming Languages
+:jbake-tags: humour,programming,langage,java,php,_mois_oct.,_année_2016
+:jbake-date: 2016-10-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1475649786000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftoggl.com%2Fprogramming-princess&searchtags=humour+programming+langage+java+php+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://toggl.com/programming-princess[How To Save The Princess In 8 Programming Languages]
+
+Oh que c'est vilain (surtout pour le PHP façon Monty Python)

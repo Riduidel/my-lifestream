@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - rnorth/visible-assertions: Alternative to JUnit assertions that provides a more insightful log narrative for your tests
+:jbake-tags: java,test,assertions,library,_mois_nov.,_année_2019
+:jbake-date: 2019-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1574674518000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frnorth%2Fvisible-assertions&searchtags=java+test+assertions+library+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/rnorth/visible-assertions[GitHub - rnorth/visible-assertions: Alternative to JUnit assertions that provides a more insightful log narrative for your tests]
+
+Oh c'est vraiment cute, cette librairie d'assertions Java. C'est juste dommage qu'elle ne soit utilisée ... nulle part.

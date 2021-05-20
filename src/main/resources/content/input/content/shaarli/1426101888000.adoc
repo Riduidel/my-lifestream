@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une fontaine qui file
+:jbake-tags: art,sculpture,cinématique,eau,_mois_mars,_année_2015
+:jbake-date: 2015-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1426101888000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fune-fontaine-filaire%2F&searchtags=art+sculpture+cin%C3%A9matique+eau+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/une-fontaine-filaire/[Une fontaine qui file]
+
+Elle est chouette, cette fontaine à fil sans eau

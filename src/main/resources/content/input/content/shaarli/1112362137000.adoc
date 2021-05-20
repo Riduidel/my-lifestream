@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java2D: An Introduction and Tutorial
+:jbake-tags: programming,langage,java,documentation,graphics,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112362137000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.apl.jhu.edu%2F%7Ehall%2Fjava%2FJava2D-Tutorial.html&searchtags=programming+langage+java+documentation+graphics+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.apl.jhu.edu/~hall/java/Java2D-Tutorial.html[Java2D: An Introduction and Tutorial]
+
+This tutorial presents a quick introduction to the basics of Java2D and the use of the Graphics2D class in Java 1.2. It is not a tutorial on general Java programming, a tutorial on all of Java 1.2, or even a tutorial on programming with Swing or JFC. (How

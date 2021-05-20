@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grady Booch sur Twitter : "Most assuredly, in 10 years, AI will eliminate the job of coding in the very same way as did compilers the last 50 years.… https://t.co/yxgcSkl5XG"
+:jbake-tags: ia,programming,métier,transformation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1574357668000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGrady_Booch%2Fstatus%2F1197241701175160833&searchtags=ia+programming+m%C3%A9tier+transformation+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Grady_Booch/status/1197241701175160833[Grady Booch sur Twitter : "Most assuredly, in 10 years, AI will eliminate the job of coding in the very same way as did compilers the last 50 years.… https://t.co/yxgcSkl5XG"]
+
+Ah c'est clair que j'entends des choses à propos de l'IA qui ne vont pas vraiment dans le bon sens ...

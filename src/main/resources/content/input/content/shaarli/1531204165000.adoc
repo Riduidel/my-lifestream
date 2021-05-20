@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compiler Explorer
+:jbake-tags: rust,programming,compilateur,_mois_juil.,_année_2018
+:jbake-date: 2018-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1531204165000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frust.godbolt.org%2F&searchtags=rust+programming+compilateur+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://rust.godbolt.org/[Compiler Explorer]
+
+Alors ça c'est de la balle : le code binaire généré par le compilateur Rust directement visible dans mon navigateur

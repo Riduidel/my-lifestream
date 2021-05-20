@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lucius Shepard
+:jbake-tags: author
+:jbake-date: 2006-03-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/26767.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1395743242p5/26767.jpg
+:jbake-source: https://www.goodreads.com/author/show/26767
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207256022.html[Les Continents perdus]
+* link:../books/9782354082956.html[La vie en temps de guerre]

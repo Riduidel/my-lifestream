@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Locust - A modern load testing framework
+:jbake-tags: python,web,test,performance,framework,_mois_sept.,_année_2020
+:jbake-date: 2020-09-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1601476621000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flocust.io%2F&searchtags=python+web+test+performance+framework+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://locust.io/[Locust - A modern load testing framework]
+
+Un outil marrant de test de charge en Python, où le scénario est simplement décrit dans une classe Python !

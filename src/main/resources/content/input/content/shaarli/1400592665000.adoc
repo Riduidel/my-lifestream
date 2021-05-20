@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Babun | A windows shell you will love!
+:jbake-tags: windows,cygwin,shell,open-source,software,_mois_mai,_année_2014
+:jbake-date: 2014-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1400592665000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbabun.github.io%2F%3Futm_content%3Dbuffer8c2c1%26utm_medium%3Dsocial&searchtags=windows+cygwin+shell+open-source+software+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://babun.github.io/?utm_content=buffer8c2c1&utm_medium=social[Babun | A windows shell you will love!]
+
+Tiens, un packaging pour utilisateur simple de Cygwin, zsh et autres joyeusetés. Ca pourrait être très utile. En bonus, je me demande si ça s'intègre bien avec Conemu

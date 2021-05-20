@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: messageries e-mail, webmails & courriels : lequel choisir ? | la spirale digitale
+:jbake-tags: web,email,liberté,intimité,_mois_avr.,_année_2014
+:jbake-date: 2014-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1397480832000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fspiraledigitale.com%2Ffournisseur-email-messagerie-web-webmail-ou-service-de-courriels-lequel-choisir%2F&searchtags=web+email+libert%C3%A9+intimit%C3%A9+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://spiraledigitale.com/fournisseur-email-messagerie-web-webmail-ou-service-de-courriels-lequel-choisir/[messageries e-mail, webmails & courriels : lequel choisir ? | la spirale digitale]
+
+Très chouette récapitulatif de services mails moins contraignants que ceux dont les serveurs ont été NSA-isés. via http://sebsauvage.net/links/?KF14dA

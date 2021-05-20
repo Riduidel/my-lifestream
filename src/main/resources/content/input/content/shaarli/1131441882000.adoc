@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: StarUML - The Open Source UML/MDA Platform
+:jbake-tags: software,freeware,open-source,programming,concepts,uml,_mois_nov.,_année_2005
+:jbake-date: 2005-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1131441882000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.staruml.com%2F&searchtags=software+freeware+open-source+programming+concepts+uml+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.staruml.com/[StarUML - The Open Source UML/MDA Platform]
+
+StarUML - The Open Source UML/MDA Platform

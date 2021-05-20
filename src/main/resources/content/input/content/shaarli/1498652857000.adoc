@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Releases · Jonno12345/GrowlForWindows10
+:jbake-tags: notification,windows,growl,extension,_mois_juin,_année_2017
+:jbake-date: 2017-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1498652857000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FJonno12345%2FGrowlForWindows10%2Freleases&searchtags=notification+windows+growl+extension+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/Jonno12345/GrowlForWindows10/releases[Releases · Jonno12345/GrowlForWindows10]
+
+Ah cool, une extension de growl pour publier les notifications au format Windows 10

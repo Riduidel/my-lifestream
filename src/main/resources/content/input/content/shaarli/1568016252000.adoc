@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why We Fail at Keeping Git Secrets – Dylan Katz
+:jbake-tags: git,secret,exemple,tutorial,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568016252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdylankatz.com%2FWhy-We-Fail-At-Keeping-Git-Secrets%2F&searchtags=git+secret+exemple+tutorial+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dylankatz.com/Why-We-Fail-At-Keeping-Git-Secrets/[Why We Fail at Keeping Git Secrets – Dylan Katz]
+
+Oh le gitignore dans ce message est une super idée !

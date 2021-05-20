@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clean Coder Blog
+:jbake-tags: test,tdd,_mois_nov.,_année_2016
+:jbake-date: 2016-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1479109752000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.cleancoder.com%2Funcle-bob%2F2016%2F11%2F10%2FTDD-Doesnt-work.html&searchtags=test+tdd+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://blog.cleancoder.com/uncle-bob/2016/11/10/TDD-Doesnt-work.html[Clean Coder Blog]
+
+Intéressant : TDD ne marche pas, ou pas, enfin c'est plus compliqué que ça

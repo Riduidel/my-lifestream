@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Coder's CV
+:jbake-tags: resume,service,timeline,cv,web2.0,_mois_janv.,_année_2009
+:jbake-date: 2009-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1231428527000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.coderscv.com%2Fhome.htm&searchtags=resume+service+timeline+cv+web2.0+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.coderscv.com/home.htm[Coder's CV]
+
+Je désespérais de voir ça apparaître ! Bien sûr, j'ai un compte sur LinkedIn avec mon expérience professionnelle, mais je n'ai pas trouvé comment générer un CV à partir de leurs infos. Et leur page de CV est juste minable. Donc un site pour gérer simplement mon CV, ce serait pas mal. Et celui-là a une dimension codeur qui me plaît bien.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction - Rust and WebAssembly
+:jbake-tags: rust,wasm,web,programming,documentation,_mois_janv.,_année_2021
+:jbake-date: 2021-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1610740331000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frustwasm.github.io%2Fbook%2Fintroduction.html&searchtags=rust+wasm+web+programming+documentation+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://rustwasm.github.io/book/introduction.html[Introduction - Rust and WebAssembly]
+
+Evidement que c'est une lecture utile !

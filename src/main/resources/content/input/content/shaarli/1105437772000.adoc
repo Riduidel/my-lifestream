@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: biojewelry
+:jbake-tags: web,bizarre,art,_mois_janv.,_année_2005
+:jbake-date: 2005-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1105437772000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.biojewelry.co.uk%2F&searchtags=web+bizarre+art+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.biojewelry.co.uk/[biojewelry]
+
+using laboratory grown human tissue as a material for design

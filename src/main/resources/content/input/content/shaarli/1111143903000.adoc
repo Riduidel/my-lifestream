@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Charlie's Tidy Add-ons
+:jbake-tags: software,freeware,windows,programming,html,_mois_mars,_année_2005
+:jbake-date: 2005-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1111143903000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fusers.rcn.com%2Fcreitzel%2Ftidy.html&searchtags=software+freeware+windows+programming+html+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://users.rcn.com/creitzel/tidy.html[Charlie's Tidy Add-ons]
+
+extensions for Tidy

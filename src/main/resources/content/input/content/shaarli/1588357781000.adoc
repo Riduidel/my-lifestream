@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Type-level Programming in Rust | Will Crichton
+:jbake-tags: rust,programming,concepts,état,documentation,_mois_mai,_année_2020
+:jbake-date: 2020-05-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1588357781000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwillcrichton.net%2Fnotes%2Ftype-level-programming%2F&searchtags=rust+programming+concepts+%C3%A9tat+documentation+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://willcrichton.net/notes/type-level-programming/[Type-level Programming in Rust | Will Crichton]
+
+C'est une vision vachement musclée des machines à états. Je suis par ailleurs impressionné par l'expressivité du Rust, qui permet de ne déclarer des méthodes que quand le type générique a une certaine valeur.

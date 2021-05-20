@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo #16
+:jbake-tags:  amitié, anthropomorphisme, combat, japon,_année_2013,_mois_janv.,_note_3,rayon-bd,read
+:jbake-date: 2013-01-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888902607.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327572352l/6241258._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327572352l/6241258._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6241258
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Au cours de ses pérégrinations dans le Japon féodal, Usagi Yojimbo doit faire face à de nombreux dangers. Et si son chemin croise souvent celui de personnes qui deviennent ses pires ennemis, il a aussi forgé des amitiés profondes, plus fortes que toutes les menaces auxquelles il doit faire face. Qu’il tente de neutraliser deux gangs rivaux avec son compagnon Gen, ou qu’il sauve la vie du leader du clan ninja Neko, Usagi n’hésite pas à mettre sa propre vie en jeu pour ses amis, tout en sachant qu’ils en feraient de même. Et il va avoir besoin de leur aide, lorsqu’il va se retrouver pris au milieu d’un complot dans lequel la belle Kitsuné pourrait bien perdre la vie..
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Deux gros récits plutôt chouettes, mettant à chaque fois Usagi et ses amis Ggen dans le premier, Gen et Kitsuné dans le second) aux prises avec les yakusas locaux. Je trouve d'ailleurs assez bizarre de voir ce japon féodal aussi corrompu : à peu près tout le monde s'achète, mis à part les ronins idéalistes.<br/>Bon, cela dit les récits sont raisonnablement bien fichus, et l'amitié décrite entre Usagi et Gen par exemple fait plutôt chaud au coeur.
+++++

@@ -1,0 +1,217 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vis ma vie de speaker au snowcamp
+:jbake-tags: conférence,_mois_janv.,_année_2019
+:jbake-date: 2019-01-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/01/27/vis-ma-vie-de-speaker-au-snowcamp.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/01/27/vis-ma-vie-de-speaker-au-snowcamp/
+:jbake-style: wordpress
+
+++++
+<p>
+Je suis dans le train qui me ramène de Snowcamp, complètement crevé après une belle journée de ski.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/nicolas_frankel" class="screenName"><img src="http://pbs.twimg.com/profile_images/1063110424306929664/9pYrPAp6_mini.jpg" alt="profile of 🥑 Developer Advocate @Hazelcast
+<br/>
+✍️ Blogger at https://t.co/nnBYBMZOCC
+<br/>
+🎓 Learner
+<br/>
+🧑‍💻 Former developer and architect
+<br/>
+📖 Author of https://t.co/p1nP5PIUmo"/>nicolas_frankel</a>
+<br/>
+<span class="name">Nicolas Frankel (@Home for a long time I believe)</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/nicolas_frankel/status/1 089 148 862 634 344 453" class="date">26 janv. 2019 à 14:11:38</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Thanks #SnowCamp for the great weather! cc @riduidel @lhauspie Jules Hablot ☀️☀️☀️ https://t.co/UGYTlDGfHW</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Dx1vF76X4AAKxiY.jpg" alt="1 089 148 832 666 083 328"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Dx1vG9UWsAEuIrc.jpg" alt="1 089 148 850 223 362 049"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Laissez-moi vous raconter comment j'en suis arrivé à ce selfie au sommet de <a href="https://www.chamrousse.com/">Chamrousse</a>.
+</p>
+<p>
+Il y a quelques temps, mon collègue Logan m'a demandé si ça m'intéressait de participer à une conférence ... ou plus exactement d'aller y présenter quelque chose.
+</p>
+<p>
+Comme ça fait quelques années que j'assiste à des présentations, j'ai été emballé, et on assez rapidement trouvé <a href="https://sched.co/J2sW">un sujet</a>. Il nous paraissait assez sympa parce qu'il nous permettait de balayer quelques briques qui font le buzz (je pense en particulier à Kafka ou Kubernetes) et d'y ajouter des éléments intéressants de notre cru (<a href="https://github.com/tchiotludo/kafkahq">kafka-hq</a> fait un featuring intéressant à mon avis, et <a href="https://jenkins-x.io/">Jenkins-X</a> est un projet à regarder de près).
+</p>
+<p>
+Au début du mois de décembre, nous avons été sélectionné. Ce qui a été un moment partageant l'exaltation et la terreur : il fallait finalement préparer tout ce que nous avions promis. Et oui, en bon informaticiens élevés à la française (c'est-à-dire en ESN), d'abord on gagne le projet, et ensuite on l'implémente. Et rétrospectivement, nous avions beaucoup promis. Surtout Logan, qui se lançait en parallèle dans <a href="https://zenibar-webgl-snowcamp-2019.firebaseapp.com/presentation/bonsoir/index.html">une présentation sur WebGL2</a> et celle-ci, qui couvrait quand même pas mal de choses.
+</p>
+<p>
+Je me suis donc retrouvé début décembre à préparer les éléments techniques, qui commençaient par la recherche d'une API d'horaires de trains. Ca, ça a été facile. Par contre, faire marcher ça dans Kubernetes avec Kafka a été un peu plus ... sportif.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/1 075 341 069 347 364 864" class="date">19 déc. 2018 à 11:44:24</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@lhauspie J'avance
+<br/>
+https://t.co/soHkWC1H7f</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+(regardez le reste du thread, c'est rigolo).
+</p>
+<p>
+La date de la présentation, nous avons donc fait une présentation devant nos collègues (mardi dernier, 4 jours avant la présentation officielle). Et là, ce fut le drame : la présentation était trop longue, les démos ne marchaient pas, un bon nombre étaient totalement inutiles, et nos transitions parfaitement foireuses (surtout les miennes, en fait). Heureusement, nos collègues nous ont signalé tout ça et nous ont permis de refactorer cette présentation pour qu'elle ait de l'allure.
+</p>
+<p>
+En bonus, à mon corps défendant, nous sommes passés sur Google Slides (au lieu d'asciidoc-reveal que je privilégie) pour une qualité graphique clairement meilleure.
+</p>
+<p>
+Il ne nous restait plus qu'à venir à Grenoble, répéter (tout le jeudi après-midi) avant de donner cette présentation et de profiter du reste de la conférence et du ski.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/SnowCampIO" class="screenName"><img src="http://pbs.twimg.com/profile_images/666201092712198144/Ftgf9Lzc_mini.png" alt="profile of "/>SnowCampIO</a>
+<br/>
+<span class="name">Snowcamp</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/SnowCampIO/status/1 088 732 466 553 200 641" class="date">25 janv. 2019 à 10:37:02</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Ne ratez plus votre train 🚄 ... avec Kafka, @riduidel et Logan Hauspie !
+<br/>
+@ZenikaLille @ZenikaIT https://t.co/BtLv9qGEsJ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Dxv0ZetX0AATNhM.jpg" alt="1 088 732 453 517 381 632"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Pourquoi je vous raconte tout ça ?
+</p>
+<p>
+Parce que j'aime frimer ? En l'occurence, non.
+</p>
+<p>
+C'est plutôt parce que cette aventure m'a appris des tonnes de choses.
+</p>
+<p>
+D'abord sur ce qu'implique le fait de faire une présentation technique : il y a une tonnes de choses à faire. Et si j'ai bien fait de commencer à bosser dessus dès que j'ai appris notre sélection, je me rends compte que j'aurais pu encore bosser un peu plus vite au début pour me libérer du temps à la fin.
+</p>
+<p>
+Ensuite sur ce qu'implique le fait de faire une présentation. Je sais bien que le storytelling compte. ET qu'il faut toujours partir du pourquoi (d'où précisément notre sujet). En revanche, je n'avais jamais mesuré à quel point il est important de tenir compte des retours des gens qui voient la présentation (du coup, si tu nous as vu faire notre présentation à Snowcamp, précipite-toi sur sched pour nous donner ton avis). Je n'avais jamais non plus imaginé à quel point tout ça est éreintant : préparer, répéter, donner la conférence, tout ça fatigue mentalement beaucoup, et je n'ai par exemple regardé aucune autre présentation avec un niveau d'attention suffisant, que ce soit avant ou après la mienne. Désolé pour mes camarades speakers (d'autant plus que je comprend maintenant les efforts qui se cachent derrière ces 45 minutes).
+</p>
+<p>
+J'ai aussi pu mettre le doigt sur certains de mes défauts, et découvrir ce que ça fait de bosser avec un mec dont on sait vaguement qu'il est bon, mais dont on ignore à quel point c'est vrai. Merci Logan pour cette après-midi parfaitement merdique, c'était en fait génial et tu m'as appris des trucs.
+</p>
+<p>
+J'ai finalement vu, après la présentation, l'intérêt de certains trucs vus ou entendus sur le pouvoir des bonnes histoires, et le fait que l'être humain se nourrit et se construit d'histoires.
+</p>
+<p>
+Est-ce que je le referai ? J'espère, parce que l'expérience, pour terrifiante qu'elle soit (cette dernière semaine ne fut vraiment pas un moment de plaisir) m'a appris beaucoup ... sur d'autres choses que la technique. Et ça, c'est bien.
+</p>
+++++

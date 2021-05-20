@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Politest, le test pour se positionner politiquement
+:jbake-tags: test,politique,_mois_mai,_année_2006
+:jbake-date: 2006-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1149079910000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpolitest.fr%2F&searchtags=test+politique+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://politest.fr/[Politest, le test pour se positionner politiquement]
+
+Un test pour les gens comme moi qui ne savent pas trop se positionner.

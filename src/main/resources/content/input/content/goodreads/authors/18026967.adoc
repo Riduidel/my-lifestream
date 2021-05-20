@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Catherine George-hoyau
+:jbake-tags: author
+:jbake-date: 2018-07-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/18026967.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/18026967
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782755636956.html[Anatomie d'une vie de femme épanouie]

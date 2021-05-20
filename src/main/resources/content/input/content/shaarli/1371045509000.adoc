@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Libraries – The XMPP Standards Foundation
+:jbake-tags: xmpp,shaarli,php,@totest,jabber,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1371045509000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxmpp.org%2Fxmpp-software%2Flibraries%2F&searchtags=xmpp+shaarli+php+%40totest+jabber+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xmpp.org/xmpp-software/libraries/[Libraries – The XMPP Standards Foundation]
+
+Une liste de librairies XMPP. Dans le tas, quelques-unes sont intéressantes. Et en PHP. Mais que ferait un bot XMPP Shaarli ? list  donnerait la liste des entrées ayant un tag donné search  chercherait le texte donné add(la syntaxe me paraît peu claire pour l'instant) ajoute un message et peut-être une ou deux commandes complémentaires ... En bonus, je ne suis pas sûr qu'il faille intégrer ça directement dans shaarli ... surtout s'il dispose d'une API REST de qualité (ou d'un truc équivalent en php)

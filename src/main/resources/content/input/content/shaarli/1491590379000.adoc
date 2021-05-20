@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gabriel PREDA on Twitter: "Put "architects" back to work... Like writing code... #INGLovesIT #Bucharest (great slide from @KrisBuytaert) https://t.co/nC7UsZCIJx"
+:jbake-tags: programming,architecture,carrière,_mois_avr.,_année_2017
+:jbake-date: 2017-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1491590379000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FeRadical%2Fstatus%2F850262015700422656&searchtags=programming+architecture+carri%C3%A8re+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/eRadical/status/850262015700422656[Gabriel PREDA on Twitter: "Put "architects" back to work... Like writing code... #INGLovesIT #Bucharest (great slide from @KrisBuytaert) https://t.co/nC7UsZCIJx"]
+
+Ca calme \*fort\*. Mais ça me plaît, puisque je suis \*d'abord\* développeur et ensuite architecte.

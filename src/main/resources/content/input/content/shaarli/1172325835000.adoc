@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SyncTunes
+:jbake-tags: freeware,hack,macosx,mp3,portable,software,itunes,_mois_févr.,_année_2007
+:jbake-date: 2007-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1172325835000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nesfield.co.uk%2Fsynctunes%2F&searchtags=freeware+hack+macosx+mp3+portable+software+itunes+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.nesfield.co.uk/synctunes/[SyncTunes]
+
+Un petit freeware pour combler ce manque énorme d'iTunes qui ne sait pas se synchroniser avec autre chose qu'un iPod.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thread by @chris_herd on Thread Reader App – Thread Reader App
+:jbake-tags: évolution,entreprise,organisation,télétravail,épidémie,_mois_oct.,_année_2020
+:jbake-date: 2020-10-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1602433029000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthreadreaderapp.com%2Fthread%2F1313202750818312192.html&searchtags=%C3%A9volution+entreprise+organisation+t%C3%A9l%C3%A9travail+%C3%A9pid%C3%A9mie+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://threadreaderapp.com/thread/1313202750818312192.html[Thread by @chris_herd on Thread Reader App – Thread Reader App]
+
+Très bon article sur la bascule au remote-first en ère de coronavirus

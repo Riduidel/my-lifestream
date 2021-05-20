@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruffyan sur Twitter : "Code is our predominant language for design expression… "
+:jbake-tags: conférence,citation,architecture,code,modèle,_mois_mars,_année_2020
+:jbake-date: 2020-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1583999273000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRuffyanMe%2Fstatus%2F855446881438183424&searchtags=conf%C3%A9rence+citation+architecture+code+mod%C3%A8le+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/RuffyanMe/status/855446881438183424[Ruffyan sur Twitter : "Code is our predominant language for design expression… "]
+
+Ca, ça figurera dans une prochaine présentation sur l'architecture !

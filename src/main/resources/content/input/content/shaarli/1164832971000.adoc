@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TrueCrypt
+:jbake-tags: backup,disk,encryption,file,freeware,geek,open-source,linux,portable,sécurité,software,tool,windows,_mois_nov.,_année_2006
+:jbake-date: 2006-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1164832971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.truecrypt.org%2F&searchtags=backup+disk+encryption+file+freeware+geek+open-source+linux+portable+s%C3%A9curit%C3%A9+software+tool+windows+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.truecrypt.org/[TrueCrypt]
+
+Un logiciel de cryptage tout à fait adapté à ma clé USB, car lui permettant d'héberger des données ssensibles en toute sécurité.

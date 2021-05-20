@@ -1,0 +1,83 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai été rançonné !
+:jbake-tags: nas,piratage,qnap,sécurité,_mois_avr.,_année_2021
+:jbake-date: 2021-04-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/04/29/jai-ete-ranconne.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/04/29/jai-ete-ranconne/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a quelques années, j'avais un NAS <a href="https://riduidel.wordpress.com/tag/dns-323/">D-Link</a> qui avait une fâcheuse tendance à cramer les disques durs que je mettais dedans au bout d'un moment. Ca m'ai aidé à comprendre les problèmes classiques liés au stockage de données. Mais au bout d'un moment, j'en ai eu marre et je l'ai <a href="https://riduidel.wordpress.com/2018/09/13/je-change-le-nas/">remplacé par un NAS QNAP</a>. QNAP, c'est quand même une marque à laquelle on peut faire confiance. Le matériel est de qualité, et ils fournissent un ensemble de logiciels facilitant l'exploitation du matériel. Dans ces logiciels, il y a même un outil qui s'appelle <a href="https://www.myqnapcloud.com/">MyQNAPCloud</a> qui permet d'accéder au contenu du NAS à distance ... Mais on y reviendra.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'étais donc très content de ce matériel, jusqu'à hier soir ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En me connectant à mon NAS, je découvre un curieux fichier !!!READ_ME.txt dans le dossier que jexplore. En allant voir dans un autre dossier, curieusement, je découvre le même fichier. Et là, j'ouvre le fichier qui révèle ce contenu</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>&#091;~] # cat /share/CACHEDEV1_DATA/lost+found/\!\!\!READ_ME.txt
+!!! All your files have been encrypted !!!
+
+All your files were encrypted using a private and unique key generated for the computer. This key is stored in our server and the only way to receive your key and decrypt your files is making a Bitcoin payment.
+
+To purchase your key and decrypt your files, please follow these steps:
+
+1. Dowload the Tor Browser at "https://www.torproject.org/". If you need help, please Google for "access onion page".
+
+2. Visit the following pages with the Tor Browser:
+
+gvka2m4qt5fod2fltkjmdk4gxh5oxemhpgmnmtjptms6fkgfzdd62tad.onion
+
+3. Enter your Client Key:
+
+hpZ1wHUqy37yATr+BV6CyOVLFFpkT602gXTya/Cr4TZTlAv4pqYziNRFhHNNuZ1wJGYarEnQ/63IfrPfEJ3+sHzYJ48vds8VXb+M0mCu+BdTEtDg1mH5tAs75YkpTkCJwOzzVH+A9lvNlvhy3qPa0RqetiGZkNEcmO0BLTmui3QdHLnKpNcEiGDwoO8EpWLl491RfdGOTLQNnA49+pLHo1m7GZZTu4GiWGOXUNJrhb7upSVWPC1kCOWetpM40HVA34UoMNUysAvg4nNuYe9y8TK0sNFaoKeYHJckRzX/OaB/onC6Y9FlqgXJHeAYHCrsAs5LUibvvsddF5dtllJ1qA==</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p>Et là, j'ai immédiatement eu deux réflexes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>enculé</li><li>éteindre le NAS</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Après avoir un peu réfléchi, je relance le NAS et découvre avec stupeur et horreur que tous les fichiers ont hérité d'un joli suffixe .7z. Je lance alors une recherche internet, qui m'emmène assez rapidement chez <a href="https://www.bleepingcomputer.com/forums/t/749247/qlocker-qnap-nas-ransomware-encrypting-with-extension-7z-read-metxt/page-34#entry5172025">bleepingcomputer</a>. Et cette lecture-là fait bien mal : il semblerait bien que des pirates aient réussi à exploiter les failles de MyQNAPCloud pour venir installer un ransomware chez tous les possesseurs de NAS QNAP qui utilisent ce service. Et comme j'ai éteins le NAS, je ne peux pas utiliser l'astuce mentionnée dans l'article qui est de ne pas redémarrer, pour retrouver la clé de chiffrement dans un log que les pirates laissent sur la machine. Bref, je suis tout seul dans la merde.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La soirée se passe dans une espèce de panique foireuse, en essayant de faire dans ma tête la liste de ce que j'ai perdu, jusqu'à ce que je me connecte à ce NAS avec VLC, en <a href="https://riduidel.wordpress.com/2011/06/20/ca-marche-bien-lupnp/">UPnP</a>. En effet, celui-ci me montre que toutes les vidéos disponibles sur ma machine sont toujours accessibles. C'est bizarre ... En y regardant de plus près, je constate que les gros fichiers (vidéos, images disques, gros fichiers zip) sont intacts, et que seuls les petits fichiers (mp3, .doc, ...) ont été chiffrés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Au réveil, ce matin, j'ai eu le temps de réfléchir et de sortir l'arme secrète du stockage de données : <a href="https://www.veeam.com/blog/fr/how-to-follow-the-3-2-1-backup-rule-with-veeam-backup-replication.html">la règle du 3-2-1</a>. Bon, en vérité, je n'y suis pas. MAIS, je fais régulièrement des backups du contenu de mon NAS sur des disques qui sont stockés à la cave, et qui contiennent une version avec moins de trois mois de retard de ce que contient mon NAS. Donc, en combinant cette sauvegarde à long terme et les fichiers que je peux retrouver sur les ordinateurs de la maison (typiquement, les photos des trois dernières années sont toutes sur l'ordinateur de ma femme), j'arrive à retrouver tous les fichiers de mon NAS. Et ça soulage terriblement de me dire que les sales pirates peuvent s'asseoir sur ces 500 $.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que maintenant, il ne faut plus faire que deux choses</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Remonter correctement le contenu de mon NAS</li><li>Améliorer la sécurité de ce stockage.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et évidement, le second point est le plus difficile, surtout pour un amateur comme moi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Néanmoins, la première étage est évidement de désactiver complètement MyQNAPCloud, qui a été un vecteur d'attaque aussi évident qu'inutile (en tout, j'ai dû m'en servir ... 3 fois). Ensuite, je me suis rendu compte que MyQNAPCloud utilisait UPnP-IGD pour ouvrir tranquillement des ports dans ma freebox. Donc, j'ai également désactivé l'option UPnP-IGD dans la freebox, pour être sûr que le NAS soit aussi séparé du web qu'il est possible de l'être dans un réseau domestique. Et enfin, j'ai ajouté dans mon calendrier un rendez-vous mensuel pour sauvegarder toutes les données de mon NAS. Avec ça, je serai un peu plus à l'aise la prochaine fois qu'un problème arrivera.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que quand même, je suis bien content d'avoir eu ces sauvegardes qui m'ont évité de perdre beaucoup plus.</p>
+<!-- /wp:paragraph -->
+++++

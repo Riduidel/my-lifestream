@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Société programmable : développeurs citoyens
+:jbake-tags: histoire,politique,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-societe-programmable-developpeurs-citoyens.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-societe-programmable-developpeurs-citoyens/
+:jbake-style: wordpress
+
+++++
+<p>
+Pour continuer avec la thématique de société, un petit talk sur la société programmable ...
+</p>
+<p>
+Avant tout, un petit retour en arrière : Alfred Nobel a inventé le prix éponyme grâce à quoi ? Son invention de la nitroglycérine. Et quand il a découvert qu'elle servait dans les batailles, c'est là qu'il a choisi de créer le prix.
+</p>
+<p>
+A priori, le prochain secteur qui sera disrupté est celui des banques . 300 000 salariés en France pourraient y perdre leur poste. En face, évidement, les investissements fintech ont doublé cette année.
+</p>
+<p>
+Pour l'orateur, la place de la femme est un indicateur de développement. je partage ce point.
+</p>
+<p>
+Bon, par contre, au bout d'1/2 heure, toujours aucun rapport avec les développeurs. En fait, plus exactement, je ne m'attendais pas à me faire 3/4 d'heure du speaker qui raconte sa vision du monde, alimenté par quelques références comme Comte-Sponville, Kant. Malheureusement, ça ne sauve pas l'affaire.
+</p>
+<p>
+Du coup, au bout d'1/2 heure, j'ai voté avec mes pieds et quitté la salle.
+</p>
+++++

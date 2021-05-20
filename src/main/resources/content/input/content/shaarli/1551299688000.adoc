@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keep a Changelog
+:jbake-tags: release,changelog,documentation,_mois_févr.,_année_2019
+:jbake-date: 2019-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1551299688000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkeepachangelog.com%2Fen%2F1.0.0%2F&searchtags=release+changelog+documentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://keepachangelog.com/en/1.0.0/[Keep a Changelog]
+
+Très intéressant, et apparement implémentable avec cargo release (ce qui est cool)

@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Babylon Babies
+:jbake-tags:  guerilla, guerre, mutant, rayon-imaginaire,_année_2003,_mois_mars,_note_5,cyberpunk,read
+:jbake-date: 2003-03-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070417537.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/187895
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+In this futuristic sci-fi thriller, hard-boiled veteran Thoorop must protect a young woman, Marie, who is bearing a genetically modified embryo created by an American cult which dreams of producing its own messiah.
+</div>
+++++
+
+
+## Authors
+* link:../authors/109466.html[Maurice G. Dantec]
+
+
+
+## Review
+
+++++
+Ce roman nous raconte les aventures presque communes de Toorop, mercenaire désabusé revenu de tous les conflits européano-asiatiques, et de Marie Zorn, une jeune psycho-quelque chose, qui transporte quelque chose. Babylon Babies est à ranger pour moi dans les grands romans du cyberpunk. Si il débute comme uen espèce de banal roman de guerre, et continue pendant un bon moment (à peu près jusqu’à la moitié) comme une bête histoire de gangs digne d’une partie de Shadowrun pré-éveil (1). <br/>Mais passée cette première moitié, le récit décolle dans les hautes strates d’un mysticisme étrangement ancré dans le réel, où les shamans sont censés voir des hélices d’ADN lors de leurs trips hallucinogènes, et où l’humanité est appelée à être remplacée par une version future de l’homme où l’ADN, "vibrante antenne", permet de connecter en réseau l’ensemble de la biosphère. Dit comme ça, ça paraît délirant. En fait, ça l’est, mais link:../authors/493724.html[<strike>Dantec</strike> Damien] a un don pour faire passer la pilule, et faire de ce récit une chose hautement crédible. A tel point que je me suis surpris, à plusieurs moments, à me dire que d’ici 10 ans, la réalité livresque qui y est décrite existera réellement. Et ça ne concerne pas que des points de détail : il y est décrit une Terre sur laquelle l’ONU a disparu, où la situation géopolitique a largement dépassé le stade du légèrement incontrôlé pour entrer de plein-pied dans le bourbier chaotique (guerre en Chine, guerre en Afrique, guerre en Amérique latine, guerre des gangs dans Montréal, ...). <br/>Et si le clonage est officiellement interdit, rien n’empêche des sectes quelconques de se débrouiller pour obtenir des clones d’eux-mêmes qui seront envoyés dans l’espace. On sent clairement là-dedans un très fort ancrage dans la réalité contemporaine, réalité d’autant plus facilement compréhensible que le récit est censé se situer dix ou quinze ans dans l’avenir, ce qui donne toute sa crédibilité à la situation stratégique. Et puis il y a l’écriture coup de poing, le style terriblement efficace de Dantec, qui m’a pris aux tripes et m’a propulsé dans ce récit comme la balle que ne tire jamais Toorop. L’écriture est très fluide, et dynamise donc drôlement bien un récit dans lequel l’action est par ailleurs assez molle. Au final, il s’agit d’une forme de cyberpunk très différente des écrivains américains, mais en même temps très proche et très intéressante. Lisez-le, vous aimerez, si par exemple link:9782253072218.html[Le Samouraï virtuel] vous a plu. <br/><br/>(1) Shadowrun est un excellent jeu de rôle cyberpunk, où les humains cotoient des elfes, des nains, des esprits, le tout dans la matrice, et l’éveil y décrit le moment où les races y sont apparues
+++++

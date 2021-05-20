@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kenneth Love on Twitter: ""You have to be *passionate* about programming if you want to succeed at it!" No, you don't. You don't have to love programming to be a programmer. To be a programmer you need to write programs. That's it. Do it for the money, the love, the prestige. Passion is only a plus."
+:jbake-tags: critique,programming,organisation,_mois_juin,_année_2019
+:jbake-date: 2019-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1561105971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fkennethlove%2Fstatus%2F1141787751441928197&searchtags=critique+programming+organisation+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/kennethlove/status/1141787751441928197[Kenneth Love on Twitter: ""You have to be *passionate* about programming if you want to succeed at it!" No, you don't. You don't have to love programming to be a programmer. To be a programmer you need to write programs. That's it. Do it for the money, the love, the prestige. Passion is only a plus."]
+
+Un chouette contre-argument à l'organisation de mon employeur actuel. Je comprend son contre-argument. MAIS. Je pense néanmoins que la passion qui existe chez mes collègues est un plus évident pour nous.

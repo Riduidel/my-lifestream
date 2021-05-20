@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tor: An anonymous Internet communication system
+:jbake-tags: software,freeware,réseau,linux,windows,macosx,sécurité,_mois_mars,_année_2005
+:jbake-date: 2005-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1110115341000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftor.eff.org%2F&searchtags=software+freeware+r%C3%A9seau+linux+windows+macosx+s%C3%A9curit%C3%A9+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://tor.eff.org/[Tor: An anonymous Internet communication system]
+
+Using Tor can help you anonymize web browsing and publishing, instant messaging, IRC, SSH, and more. Tor also provides a platform on which software developers can build new applications with built-in anonymity, safety, and privacy features.

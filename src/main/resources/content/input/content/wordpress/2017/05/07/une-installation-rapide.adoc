@@ -1,0 +1,231 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une installation rapide ...
+:jbake-tags: chocolatey,keepass,open-source,windows,_mois_mai,_année_2017
+:jbake-date: 2017-05-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/05/07/une-installation-rapide.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/05/07/une-installation-rapide/
+:jbake-style: wordpress
+
+++++
+<p>
+Qui dit nouveau travail dit, en 2017, nouvel ordinateur prêté par l'employeur. En l’occurrence, un chouette Dell XPS 15 avec un très bel écran, un clavier assez moyen, de la RAM et du CPU en suffisance.
+</p>
+<p>
+Évidemment, comme tout développeur, j'ai mon jeu d'outils de sélection. Et pour l'installation, le premier parmi les égaux est évidement <a href="https://chocolatey.org/">Chocolatey</a>, qui m'a permis d'installer facilement tous les programmes que j'avais noté dans ce gist
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;?xml version="1.0" encoding="utf-8"?&gt;
+<br/>
+&lt;packages&gt;
+<br/>
+&lt;package id="7zip" version="19.0" /&gt;
+<br/>
+&lt;package id="7zip.install" version="19.0" /&gt;
+<br/>
+&lt;package id="7zip.portable" version="19.0" /&gt;
+<br/>
+&lt;package id="AdoptOpenJDKjre" version="14.0.1.7" /&gt;
+<br/>
+&lt;package id="Bitnami-XAMPP" version="7.4.6" /&gt;
+<br/>
+&lt;package id="chocolatey" version="0.10.15" /&gt;
+<br/>
+&lt;package id="chocolatey-core.extension" version="1.3.5.1" /&gt;
+<br/>
+&lt;package id="chocolatey-dotnetfx.extension" version="1.0.1" /&gt;
+<br/>
+&lt;package id="chocolatey-misc-helpers.extension" version="0.0.3.1" /&gt;
+<br/>
+&lt;package id="chocolatey-uninstall.extension" version="1.2.0" /&gt;
+<br/>
+&lt;package id="chocolatey-windowsupdate.extension" version="1.0.4" /&gt;
+<br/>
+&lt;package id="chocolateygui" version="0.15.0" /&gt;
+<br/>
+&lt;package id="clink" version="0.4.9" /&gt;
+<br/>
+&lt;package id="cmdermini" version="1.3.16" /&gt;
+<br/>
+&lt;package id="composer" version="5.1.0" /&gt;
+<br/>
+&lt;package id="curl" version="7.71.1" /&gt;
+<br/>
+&lt;package id="ditto" version="3.22.89.0" /&gt;
+<br/>
+&lt;package id="docker-desktop" version="2.2.0.5" /&gt;
+<br/>
+&lt;package id="f.lux" version="4.118" /&gt;
+<br/>
+&lt;package id="f.lux.install" version="4.118" /&gt;
+<br/>
+&lt;package id="Firefox" version="75.0" /&gt;
+<br/>
+&lt;package id="gcloudsdk" version="0.0.0.20190318" /&gt;
+<br/>
+&lt;package id="git.install" version="2.28.0" /&gt;
+<br/>
+&lt;package id="golang" version="1.14.6" /&gt;
+<br/>
+&lt;package id="GoogleChrome" version="83.0.4103.97" /&gt;
+<br/>
+&lt;package id="gpg4win" version="3.0.0" /&gt;
+<br/>
+&lt;package id="gradle" version="6.5" /&gt;
+<br/>
+&lt;package id="graphviz" version="2.38.0.20171119" /&gt;
+<br/>
+&lt;package id="greenshot" version="1.2.10.6" /&gt;
+<br/>
+&lt;package id="groovy" version="3.0.3" /&gt;
+<br/>
+&lt;package id="hostsman" version="4.7.105.20180405" /&gt;
+<br/>
+&lt;package id="imageglass" version="7.6.4.30" /&gt;
+<br/>
+&lt;package id="jdk11" version="11.0.2.9" /&gt;
+<br/>
+&lt;package id="jq" version="1.6" /&gt;
+<br/>
+&lt;package id="keepass" version="2.45" /&gt;
+<br/>
+&lt;package id="keepass.install" version="2.45" /&gt;
+<br/>
+&lt;package id="kitty" version="0.74.0.2" /&gt;
+<br/>
+&lt;package id="ldapadmin" version="1.8.3" /&gt;
+<br/>
+&lt;package id="LightTable" version="0.8.1" /&gt;
+<br/>
+&lt;package id="lockhunter" version="3.3.4" /&gt;
+<br/>
+&lt;package id="maven" version="3.6.3" /&gt;
+<br/>
+&lt;package id="mitmproxy" version="5.2" /&gt;
+<br/>
+&lt;package id="mkcert" version="1.4.1" /&gt;
+<br/>
+&lt;package id="mm-choco.extension" version="0.0.4.1" /&gt;
+<br/>
+&lt;package id="nodejs.install" version="14.7.0" /&gt;
+<br/>
+&lt;package id="notepadplusplus.install" version="7.8.9" /&gt;
+<br/>
+&lt;package id="openjdk" version="14.0.2" /&gt;
+<br/>
+&lt;package id="openjdk11" version="11.0.8.10" /&gt;
+<br/>
+&lt;package id="openjdk13" version="13.0.102" /&gt;
+<br/>
+&lt;package id="openshift-cli" version="3.11.0" /&gt;
+<br/>
+&lt;package id="OpenSSL.Light" version="1.1.1.20181020" /&gt;
+<br/>
+&lt;package id="paint.net" version="4.2.13" /&gt;
+<br/>
+&lt;package id="pandoc" version="2.10.1" /&gt;
+<br/>
+&lt;package id="php" version="7.4.9" /&gt;
+<br/>
+&lt;package id="pidgin" version="2.13.0" /&gt;
+<br/>
+&lt;package id="PowerShell" version="5.1.14409.20180811" /&gt;
+<br/>
+&lt;package id="powertoys" version="0.20.0" /&gt;
+<br/>
+&lt;package id="processhacker.install" version="2.39" /&gt;
+<br/>
+&lt;package id="putty.install" version="0.74" /&gt;
+<br/>
+&lt;package id="python3" version="3.8.3" /&gt;
+<br/>
+&lt;package id="realvnc" version="5.3.1" /&gt;
+<br/>
+&lt;package id="ruby" version="2.7.1.1" /&gt;
+<br/>
+&lt;package id="sourcetree" version="2.0.19.1" /&gt;
+<br/>
+&lt;package id="speedcrunch" version="0.12.20190615" /&gt;
+<br/>
+&lt;package id="speedcrunch.install" version="0.12" /&gt;
+<br/>
+&lt;package id="steam" version="3.0.1.20190215" /&gt;
+<br/>
+&lt;package id="sumatrapdf" version="3.2" /&gt;
+<br/>
+&lt;package id="sumatrapdf.install" version="3.2" /&gt;
+<br/>
+&lt;package id="systemexplorer" version="7.0.0.20160118" /&gt;
+<br/>
+&lt;package id="tagscanner" version="6.1.5" /&gt;
+<br/>
+&lt;package id="thunderbird" version="68.9.0" /&gt;
+<br/>
+&lt;package id="ultrasearch" version="2.3.2" /&gt;
+<br/>
+&lt;package id="unison" version="2.51.2" /&gt;
+<br/>
+&lt;package id="visualstudiocode" version="1.23.0" /&gt;
+<br/>
+&lt;package id="visualsubst" version="1.0.6" /&gt;
+<br/>
+&lt;package id="vivaldi" version="3.3.2022.39" /&gt;
+<br/>
+&lt;package id="vivaldi.portable" version="3.3.2022.39" /&gt;
+<br/>
+&lt;package id="vlc" version="3.0.11" /&gt;
+<br/>
+&lt;package id="vnc-viewer" version="6.20.529" /&gt;
+<br/>
+&lt;package id="Waterfox" version="2020.04" /&gt;
+<br/>
+&lt;package id="win32diskimager" version="1.0.0.20181220" /&gt;
+<br/>
+&lt;package id="win32diskimager.install" version="1.0.0.20181220" /&gt;
+<br/>
+&lt;package id="windirstat" version="1.1.2.20161210" /&gt;
+<br/>
+&lt;package id="winscp.install" version="5.17.7" /&gt;
+<br/>
+&lt;package id="Xming" version="6.9.0.31" /&gt;
+<br/>
+&lt;package id="yarn" version="1.22.4" /&gt;
+<br/>
+&lt;package id="yq" version="3.3.2" /&gt;
+<br/>
+&lt;/packages&gt;</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Et évidement, ça a très bien marché (sauf pour WinSplit Revolution, dont il va falloir que je retrouve une version compatible Windows 10 ou une alternative).
+</p>
+<p>
+Il manquait deux ou trois trucs que j'avais précédemment installé séparément (Java, Eclipse, Maven, Groovy, ou encore <a href="https://riduidel.wordpress.com/2017/04/26/owncloud-cest-cool/">OwnCloud</a>).  Je les ai donc ajouté.
+</p>
+<p>
+Et puis il a fallu installer les plugins des différents logiciels (qui ne sont hélas pas disponibles dans Chocolatey). Pour Firefox, c'est facile. Pour Eclipse, par contre, il faut le faire à la main ... Comme pour Keepass.
+</p>
+<p>
+Et c'est d'ailleurs avec ce dernier que j'ai apporté la plus grande modification en installant  <a href="https://lechnology.com/software/keeagent/">KeeAgent</a>. Avec ce dernier, je ne risque plus de perdre mes clés, puisqu'il transforme un outil déjà génial en porte-clé pour Pageant. En fait, à l'ouverture de la base, il injecte les clés dans Pageant, et comme ça je n'ai plus rien à taper ... tout en restant en sécurité.
+</p>
+<p>
+En fait, je pense que j'aurais pu avoir un poste fonctionnel en deux heures. Evidement, il faudra aussi que je reconfigure tout ça : les polices de caractère, les couleurs, les configurations d'écran, etc, ... Mais ça, c'est quasiment de la blague par rapport à l'installation à la main.
+</p>
+<p>
+Bon, par contre, j'ai un souci d'ordre domestique : ce superbe portable haut de gamme perd quand même facilement la connexion avec le wifi M de ma freebox (qui est à deux mètres). Du coup, périodiquement, je dois relancer la connexion wifi ... pas très pratique, mais je crois qu'il va falloir que je fasse une vraie enquête d'engorgement des canaux wifi dans le quartier (habiter dans des maisons de 5 mètres de large, ça n'a pas vraiment que des avantages).
+</p>
+<p>
+Enfin, ça, c'était avant que je change un paramètre de la carte wifi grâce à ce commentaire : <a href="https://www.reddit.com/r/Dell/comments/5r1fu5/xps15_9560_wifi_problems/dd3nxz9/">Comment</a> from discussion <a href="https://www.reddit.com/r/Dell/comments/5r1fu5/xps15_9560_wifi_problems/">XPS15 9560 Wifi Problems</a>.
+</p>
+<p>
+Et depuis, ça marche bien mieux.
+</p>
+++++

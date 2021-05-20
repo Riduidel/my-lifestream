@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Calerga - Sysquake
+:jbake-tags: software,freeware,windows,macosx,mathématiques,_mois_févr.,_année_2005
+:jbake-date: 2005-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1108994949000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.calerga.com%2Fproducts%2FSysquake%2F&searchtags=software+freeware+windows+macosx+math%C3%A9matiques+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.calerga.com/products/Sysquake/[Calerga - Sysquake]
+
+Sysquake is innovative, powerful and flexible software for understanding systems, solving problems, and designing products. What makes it special is its unparalleled graphical interactivity.

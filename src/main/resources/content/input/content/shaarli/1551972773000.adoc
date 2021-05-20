@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Social Cooling
+:jbake-tags: intimité,surveillance,internet,économie,_mois_mars,_année_2019
+:jbake-date: 2019-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1551972773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsocialcooling.fr%2F&searchtags=intimit%C3%A9+surveillance+internet+%C3%A9conomie+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://socialcooling.fr/[Social Cooling]
+
+Un site très bien fait sur l'importance des données que nous diffusons en tant que poison pour notre avenir personnel

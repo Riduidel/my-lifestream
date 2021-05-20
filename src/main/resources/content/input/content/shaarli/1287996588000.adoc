@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VirtualBox Virtual Appliances | VirtualBoxImages.com
+:jbake-tags: virtualization,linux,virtuel,virtualbox,free,_mois_oct.,_année_2010
+:jbake-date: 2010-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1287996588000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvirtualboximages.com%2F&searchtags=virtualization+linux+virtuel+virtualbox+free+_mois_oct.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://virtualboximages.com/[VirtualBox Virtual Appliances | VirtualBoxImages.com]
+
+Une grosse liste de VMs pour VirtualBox. Très pratique pour tester des trucs ...

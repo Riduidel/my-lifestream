@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: !rot13 v gbyq lbh fb
+:jbake-tags: search,web,rot13,_mois_sept.,_année_2013
+:jbake-date: 2013-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1378908654000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fduckduckgo.com%2F%3Fq%3D%2521rot13%2Bv%2Bgbyq%2Blbh%2Bfb%26kl%3Dfr-fr&searchtags=search+web+rot13+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://duckduckgo.com/?q=%21rot13+v+gbyq+lbh+fb&kl=fr-fr[!rot13 v gbyq lbh fb]
+
+Je découvre petit à petit les "!" de DDG, et c'est quand même bien pratique (même si j'aime aussi la logique folle de Google qui essaye de trovuer ce qu'il peut sur ce que je cherche, et peut donc donner des résultats intéressants) Trouvé grâce à http://www.antipope.org/charlie/blog-static/2013/09/the-latest-news.html

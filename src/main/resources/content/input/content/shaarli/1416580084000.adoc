@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: java-design-patterns/ at master · iluwatar/java-design-patterns · GitHub
+:jbake-tags: java,programming,design,pattern,open-source,uml,_mois_nov.,_année_2014
+:jbake-date: 2014-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1416580084000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Filuwatar%2Fjava-design-patterns%3Ffiles%3D1&searchtags=java+programming+design+pattern+open-source+uml+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://github.com/iluwatar/java-design-patterns?files=1[java-design-patterns/ at master · iluwatar/java-design-patterns · GitHub]
+
+Oh, tiens, unc atalogue de design patterns en Java ...

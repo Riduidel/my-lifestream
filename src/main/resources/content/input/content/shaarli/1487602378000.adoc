@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Woody Zuill on Twitter: "There's a huge mismatch between the realities of software work & the assumptions behind many management practices. ~@estherderby"
+:jbake-tags: citation,programming,management,_mois_févr.,_année_2017
+:jbake-date: 2017-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1487602378000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FWoodyZuill%2Fstatus%2F832973199906205696&searchtags=citation+programming+management+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/WoodyZuill/status/832973199906205696[Woody Zuill on Twitter: "There's a huge mismatch between the realities of software work & the assumptions behind many management practices. ~@estherderby"]
+
+Très vrai : on pense avoir affaire à une industrie, alors que c'est au mieux un artisanat.

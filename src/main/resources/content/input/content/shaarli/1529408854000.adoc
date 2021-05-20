@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My Approach to Getting Dramatically Better as a Programmer – malisper.me
+:jbake-tags: programming,entraînement,compétence,apprentissage,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529408854000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmalisper.me%2Fmy-approach-to-getting-dramatically-better-as-a-programmer%2F&searchtags=programming+entra%C3%AEnement+comp%C3%A9tence+apprentissage+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://malisper.me/my-approach-to-getting-dramatically-better-as-a-programmer/[My Approach to Getting Dramatically Better as a Programmer – malisper.me]
+
+Super intéressant ! J'ai déja lu je crois cette histoire d'enregistrement d'écran, mais le détail de la procédure expérimentale est fascinant. Ca vaudrait le coup de lancer des sessions partagées avec coach de développement, à mon avis ... Si tout au moins la compétence en développement était une compétence vraiment valorisée.

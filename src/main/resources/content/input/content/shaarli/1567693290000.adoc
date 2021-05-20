@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: (1) Hubert SABLONNIÈRE 😎 on Twitter: "RT @iamdevloper: Ah, finally a good description of Kubernetes https://t.co/dPE3xT3LDn" / Twitter
+:jbake-tags: kubernetes,citation,humour,_mois_sept.,_année_2019
+:jbake-date: 2019-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1567693290000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhsablonniere%2Fstatus%2F1169572081002061824&searchtags=kubernetes+citation+humour+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/hsablonniere/status/1169572081002061824[(1) Hubert SABLONNIÈRE 😎 on Twitter: "RT @iamdevloper: Ah, finally a good description of Kubernetes https://t.co/dPE3xT3LDn" / Twitter]
+
+Le tweet est d'une vérité hallucinante : les mecs contents de k8s sont ceux qui l'ont assemblé de zero.

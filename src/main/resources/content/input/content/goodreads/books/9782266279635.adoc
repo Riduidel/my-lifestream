@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guerre et dinosaures I
+:jbake-tags:  complot, fantasy, guerre, monstre,_année_2019,_mois_août,_note_3,rayon-imaginaire,read
+:jbake-date: 2019-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266279635.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/43464003
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<p>Paradis. Pour les dieux, un simple plateau de jeu, le théâtre de leurs passions et luttes de pouvoir. Pour les hommes, c'est une terre brutale et violente, divisée entre dynasties rivales, déchirée par les ambitions et les croyances religieuses, constamment menacée par le machiavélisme politique.<br /><br /> Dans cet état de guerre règnent les dinosaures. Élevés, dressés dès leur plus jeune âge, ils deviennent des armes redoutables dominant les champs de bataille. Et c'est lors d'un affrontement épique dont le fracas pourfend la terre et déchire le ciel que l'énigmatique seigneur Karyl Bogomirskiy est défait par traîtrise et laissé pour mort.<br /><br /> À son réveil, partiellement amnésique, il découvre qu'il est désormais pourchassé. Il se lance alors dans un voyage qui va faire trembler le monde, jusqu'aux trônes des dieux...</p>
+</div>
+++++
+
+
+## Authors
+* link:../authors/4601681.html[Victor Milán]
+
+## Series
+* link:../series/The_Dinosaur_Lords.html[The Dinosaur Lords]
+
+## Review
+
+++++
+Dans cette première partie , l'auteur met en place les complots, les intrigues dont le dénouement explosif aura lieu dans la deuxième partie. C'est assez convenu, et les personnages, malgré leurs qualités ne sauvent pas cette impression tenace d'avoir déjà lu ça. Heureusement, les dinosaures sauvent l'affaire lors de chacune de leurs apparitions, et elles sont très nombreuses.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une (courte) Introduction à Ruby on Rails
+:jbake-tags: documentation,tutorial,ruby,rails,_mois_juin,_année_2006
+:jbake-date: 2006-06-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1149753003000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpeople.no-distance.net%2Fol%2Fdocuments%2Frails-intro%2F&searchtags=documentation+tutorial+ruby+rails+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://people.no-distance.net/ol/documents/rails-intro/[Une (courte) Introduction à Ruby on Rails]
+
+Une introduction à Rails en français

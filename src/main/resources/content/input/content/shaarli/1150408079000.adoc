@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geek gorgeouss calendar
+:jbake-tags: calendar,geek,girls,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150408079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.geekgorgeous.com%2Findex.htm&searchtags=calendar+geek+girls+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.geekgorgeous.com/index.htm[Geek gorgeouss calendar]
+
+Le calendrier des geekettes sexies

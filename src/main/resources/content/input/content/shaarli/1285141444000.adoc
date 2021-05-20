@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zero Ballistics - Tank Game
+:jbake-tags: freeware,jeu,linux,multiplayer,windows,open-source,@totest,_mois_sept.,_année_2010
+:jbake-date: 2010-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1285141444000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zeroballistics.com%2Fgame_info.php%3Fum%3D1%26lm%3D1&searchtags=freeware+jeu+linux+multiplayer+windows+open-source+%40totest+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.zeroballistics.com/game_info.php?um=1&lm=1[Zero Ballistics - Tank Game]
+
+Oh bon sang ! une espèce de FPS en tank, ça ne peut qu'être marrant ! D'autant plus que les images que j'en ai vu m'ont parues particulièrement alléchantes.

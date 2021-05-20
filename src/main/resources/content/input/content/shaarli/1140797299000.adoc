@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Setting Up Subversion for One or Multiple Projects | Linux Journal
+:jbake-tags: développement,documentation,programming,reference,tips,tutorial,subversion,_mois_févr.,_année_2006
+:jbake-date: 2006-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1140797299000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.linuxjournal.com%2Farticle%2F7655&searchtags=d%C3%A9veloppement+documentation+programming+reference+tips+tutorial+subversion+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.linuxjournal.com/article/7655[Setting Up Subversion for One or Multiple Projects | Linux Journal]
+
+

@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - De l'utopie de la fin du travail au digital labour
+:jbake-tags: devoxx,futur,travail,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-de-lutopie-de-la-fin-du-travail-au-digital-labour.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-de-lutopie-de-la-fin-du-travail-au-digital-labour/
+:jbake-style: wordpress
+
+++++
+<p>
+Pour l'instant, on voit que le progrès et l'automatisation font que l'emploi ne croit plus au même rythme que les évolutions techniques.
+</p>
+<p>
+La fin du travail, c'est comme la qualification du PSG en ligue des champions : à chaque fois on croit que c'est la bonne, et en fait non. Ca a déjà été le cas à l'invention de la locomotive, du métier à tisser Jacquart, ... Et puis ça pourrait être un objectif. Et ça, c'est le projet social des utopistes du passé qui ont bien expliqué. Et pour les penseurs modernes, la technologie, et en particulier les développeurs/hackers, sont déjà dans une forme futuriste de vision du travail, où il s'agit de plus en plus d'un choix, dans les modalités de réalisation (lieu et horaire de travail).
+</p>
+<p>
+S’ensuit un tour d'horizon des formes de travail dans l'économie numérique : salariés, indépendants (freelances comme conducteurs über), et même internautes qui produisent la valeur qu'exploitent les boîtes du web.
+</p>
+<p>
+La question de conclusion est en revanche fameuse : comment l'économie numérique peut-elle se mettre à la hauteur de ses utopies ?
+</p>
+<p>
+La conclusion est en fait réellement excellente : le développeur ne doit pas seulement changer le monde par son code, mais aussi en s'impliquant dans la politique pour faire changer le monde.
+</p>
+++++

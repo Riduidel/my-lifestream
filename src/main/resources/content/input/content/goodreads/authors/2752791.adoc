@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Patrick Dusoulier
+:jbake-tags: author
+:jbake-date: 2011-05-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2752791.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/2752791
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782221108468.html[Rainbows End]
+* link:../books/9782253159834.html[Une affaire de famille (Les Princes-Marchands #1)]
+* link:../books/9782253159841.html[Un secret de famille (Les Princes-Marchands #2)]
+* link:../books/9782253159858.html[Famille et Cie (Les Princes-Marchands #3)]
+* link:../books/9782253164616.html[La Guerre des familles (Les Princes-Marchands #4)]
+* link:../books/9782253164654.html[Trames]
+* link:../books/9782253169772.html[Les Enfers virtuels]
+* link:../books/9782253183501.html[La Sonate Hydrogène]

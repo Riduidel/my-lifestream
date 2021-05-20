@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quand partir pour plus de 400 destinations de vacances dans le monde entier (climat, météo)
+:jbake-tags: voyage,météo,statistiques,_mois_avr.,_année_2020
+:jbake-date: 2020-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1586763872000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.meteola.fr%2F&searchtags=voyage+m%C3%A9t%C3%A9o+statistiques+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.meteola.fr/[Quand partir pour plus de 400 destinations de vacances dans le monde entier (climat, météo)]
+
+Un chouette site qui offre des statistiques météo aggrégées par date, ça permet facilement de se projeter dans un voyage à une période donnée ... ou de choisir le meilleur moment pour voyager quelque part.

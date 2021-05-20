@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kong - Home
+:jbake-tags: freeware,jeu,windows,_mois_juin,_année_2008
+:jbake-date: 2008-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1214314601000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkonggame.co.uk%2F&searchtags=freeware+jeu+windows+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://konggame.co.uk/[Kong - Home]
+
+Un jeu de baston à l'air sympathique et décomplexé

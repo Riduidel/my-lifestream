@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SNAP! (Build Your Own Blocks)
+:jbake-tags: programming,enfants,éducation,_mois_mars,_année_2014
+:jbake-date: 2014-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1395332272000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsnap.berkeley.edu%2F&searchtags=programming+enfants+%C3%A9ducation+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://snap.berkeley.edu/[SNAP! (Build Your Own Blocks)]
+
+Ce serait pas exactement une version HTML/Javascript de l'excellent Scratch ? Eh ben si ! Et si c'est ça, c'est très bien.

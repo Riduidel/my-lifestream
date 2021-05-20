@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Duplicate images finder - Home
+:jbake-tags: freeware,comparison,photographie,search,windows,software,_mois_mai,_année_2008
+:jbake-date: 2008-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1211357986000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codeplex.com%2FDupliFinder&searchtags=freeware+comparison+photographie+search+windows+software+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.codeplex.com/DupliFinder[Duplicate images finder - Home]
+
+Un détecteur d'images visuellement proches

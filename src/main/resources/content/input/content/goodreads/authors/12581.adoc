@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cory Doctorow
+:jbake-tags: author
+:jbake-date: 2008-05-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/12581.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1595482071p5/12581.jpg
+:jbake-source: https://www.goodreads.com/author/show/12581
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070343508.html[Dans La Dèche Au Royaume Enchanté]

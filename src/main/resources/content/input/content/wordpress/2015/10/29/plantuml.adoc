@@ -1,0 +1,60 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML
+:jbake-tags: ca sert à presque rien,uml,web,_mois_oct.,_année_2015
+:jbake-date: 2015-10-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/10/29/plantuml.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/10/29/plantuml/
+:jbake-style: wordpress
+
+++++
+<p>
+<img class="alignright" src="http://www.plantuml.com/plantuml/png/IqmkoIzIy4bDBaajBU9ApiyjoCzBpIjH2CX9p2i9zVNXWahfsi54h9mJ5SeI5KfI5Gfo4ZEBKW40" alt="" width="281" height="100" />
+</p>
+<p>
+Il y a des gens qui pensent qu'UML est une méthode.
+</p>
+<p>
+Il y en a d'autres qui pensent que c'est un framework (c'est assez semblable).
+</p>
+<p>
+Il y en a aussi qui imaginent que c'est un modèle.
+</p>
+<p>
+Pour ma part, je n'y vois qu'un formalisme bien pratique pour dessiner des diagrammes avec des patates qui représentent la façon dont un système fonctionne. D'ailleurs, je pourrais donner pour chaque diagramme toutes les raisons qui font que, vraiment, vraiment, c'est une simplification abusive de la réalité. (mais tout ça, <a href="https://riduidel.wordpress.com/2009/10/19/uml-et-moi/">j'en ai déja parlé il y a bien longtemps</a>)
+</p>
+<p>
+Bref ... C'est une façon commode de dessiner.
+</p>
+<p>
+Hélas, la plupart des outils pensent que si je veux dessiner, j'ai besoin d'une palette, de couleurs, et de poser "au hasard de mon inspiration", des trucs sur ma feuille de dessin. <a href="http://fr.plantuml.com/">PlantUML</a>, lui, colle à ma façon de voir puisqu'il ne me propose pas de dessiner. En fait, il me propose plutôt de décrire mon dessin dans un format textuel, puis de générer le diagramme qui lui correspond. Et c'est vraiment pratique, parce que je peux me concentrer sur ce que je veux montrer, et laisser un outil bien plus performant (<a href="http://graphviz.org/">Graphviz </a>en l'occurence) le dessiner pour moi. Du coup, j'aime bien <a href="http://fr.plantuml.com/">PlantUML</a>.
+</p>
+<p>
+Surtout qu'il s'intègre facilement dans ma logithèque :
+<br/>
+<ul>
+<br/>
+<li><a href="http://fr.plantuml.com/eclipse.html">un plugin Eclipse</a></li>
+<br/>
+<li><a href="http://mvnrepository.com/artifact/com.github.jeluard/maven-plantuml-plugin">un plugin Maven</a></li>
+<br/>
+<li><a href="http://fr.plantuml.com/running.html">Une foultitude d'autres intégrations</a></li>
+<br/>
+<li>et même, si je suis vraiment dans la panade, <a href="http://www.plantuml.com/plantuml/">un site web</a></li>
+<br/>
+</ul>
+<br/>
+Et en plus, c'est gratuit !
+</p>
+<p>
+Alors pourquoi je me retiendrai de l'utiliser ?
+</p>
+<p>
+Et pourquoi vous vous retiendriez de l'utiliser ?
+</p>
+<p>
+Franchement ? Je ne vois pas de bonne raison de ne pas vous en servir la prochaine fois que vous voudrez faire un diagramme à patates. Vous verrez, passées les 5 premières minutes de surprise, vous serez conquis.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DZone snippets
+:jbake-tags: programming,exemple,code,source,snippet,_mois_sept.,_année_2008
+:jbake-date: 2008-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1222607755000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsnippets.dzone.com%2F&searchtags=programming+exemple+code+source+snippet+_mois_sept.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://snippets.dzone.com/[DZone snippets]
+
+Un joli outil de snippets, pour me rajouter un blog segmenté de plus ?

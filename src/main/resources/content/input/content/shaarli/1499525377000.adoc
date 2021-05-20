@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Personal vendetta - Data breach investigation
+:jbake-tags: web,intimité,_mois_juil.,_année_2017
+:jbake-date: 2017-07-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1499525377000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.mathieuchot-plassot.com%2Fpersonal-vendetta-data-breach-investigation%2F&searchtags=web+intimit%C3%A9+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.mathieuchot-plassot.com/personal-vendetta-data-breach-investigation/[Personal vendetta - Data breach investigation]
+
+Ce genre d'histoire fout toujours un peu la trouille ...

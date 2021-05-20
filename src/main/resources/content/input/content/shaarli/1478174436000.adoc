@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Mirai Botnet is Proof the Security Industry is Broken - Appcanary
+:jbake-tags: sécurité,web,_mois_nov.,_année_2016
+:jbake-date: 2016-11-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1478174436000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.appcanary.com%2F2016%2Fmirai-botnet-security-broken.html&searchtags=s%C3%A9curit%C3%A9+web+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.appcanary.com/2016/mirai-botnet-security-broken.html[The Mirai Botnet is Proof the Security Industry is Broken - Appcanary]
+
+Donc Dyn s'est fait DDoSser à cause d'une attaque ridicule par dictionnaire sur des webcams ... moche

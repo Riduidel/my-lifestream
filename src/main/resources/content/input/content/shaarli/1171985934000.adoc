@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Creole | The CHISEL Group, University of Victoria
+:jbake-tags: développement,eclipse,graph,metrics,plugin,qualité,software,tool,_mois_févr.,_année_2007
+:jbake-date: 2007-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1171985934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.thechiselgroup.org%2Fcreole&searchtags=d%C3%A9veloppement+eclipse+graph+metrics+plugin+qualit%C3%A9+software+tool+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.thechiselgroup.org/creole[Creole | The CHISEL Group, University of Victoria]
+
+Encore un plugin d'analyse de dépendances. Je crois l'avoir déja utilisé, et je crois qu'il était bien pratique.

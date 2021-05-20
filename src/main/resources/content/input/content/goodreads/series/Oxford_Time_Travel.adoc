@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oxford Time Travel
+:jbake-tags: serie
+:jbake-date: 2003-02-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Oxford_Time_Travel.adoc
+:jbake-source: https://www.goodreads.com/series/52985
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782277237617.html[Le Grand Livre]
+* link:../books/9782290324912.html[Sans parler du chien]
+* link:../books/9782290071021.html[Black-out]
+* link:../books/9782290071908.html[All Clear]

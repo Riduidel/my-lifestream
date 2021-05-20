@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Issue 88 - prpltwtr - Update to Twitter API version 1.1. 1.0 is depricated - libpurple twitter protocol - Google Project Hos...
+:jbake-tags: twitter,pidgin,bug,oauth,_mois_juin,_année_2013
+:jbake-date: 2013-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1371117214000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcode.google.com%2Fp%2Fprpltwtr%2Fissues%2Fdetail%3Fid%3D88&searchtags=twitter+pidgin+bug+oauth+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://code.google.com/p/prpltwtr/issues/detail?id=88[Issue 88 - prpltwtr - Update to Twitter API version 1.1. 1.0 is depricated - libpurple twitter protocol - Google Project Hos...]
+
+Et apf : le deuxième plugin twitter de pidgin a exactement le même bug

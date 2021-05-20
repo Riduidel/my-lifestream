@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Johannes Unterstein on Twitter: "10x Engineer - an engineer who needs 10 engineers to clean up after he moved on"
+:jbake-tags: citation,programming,écologie,_mois_août,_année_2017
+:jbake-date: 2017-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1503481159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Funterstein%2Fstatus%2F900038837069651968&searchtags=citation+programming+%C3%A9cologie+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/unterstein/status/900038837069651968[Johannes Unterstein on Twitter: "10x Engineer - an engineer who needs 10 engineers to clean up after he moved on"]
+
+C'est un peu ma hantise : j'aurais honte de continuer à passer pour le mec qui laisse du code incompréhensible derrière lui

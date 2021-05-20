@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Luna
+:jbake-tags: programming,visual,editor,_mois_janv.,_année_2018
+:jbake-date: 2018-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1516182934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.luna-lang.org%2F&searchtags=programming+visual+editor+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.luna-lang.org/[Luna]
+
+La programmation visuelle, c'est toujours marrant à regarder ... mais ça n'est pas forcément facile à maintenir. Ca vaudrait le coup de le tester, tiens

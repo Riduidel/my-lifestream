@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing nushell
+:jbake-tags: rust,shell,linux,terminal,_mois_août,_année_2019
+:jbake-date: 2019-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1566808288000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jonathanturner.org%2F2019%2F08%2Fintroducing-nushell.html&searchtags=rust+shell+linux+terminal+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.jonathanturner.org/2019/08/introducing-nushell.html[Introducing nushell]
+
+Dis donc, nushell, ça a l'air vraiment spectaculairement bien !

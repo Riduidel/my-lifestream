@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jasvir Nagra on Twitter: "#TIL NASA calls the time it takes for a deployed lander to enter martian atmosphere to reach the surface "7mins of terror" during which time they have no idea if it succeeded or not. In other news, I now have a term for software deployment release jobs. https://t.co/6oDJtSfvSC"
+:jbake-tags: citation,humour,déploiement,release,_mois_févr.,_année_2019
+:jbake-date: 2019-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1551259426000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjasvir%2Fstatus%2F1100080731265495040&searchtags=citation+humour+d%C3%A9ploiement+release+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jasvir/status/1100080731265495040[Jasvir Nagra on Twitter: "#TIL NASA calls the time it takes for a deployed lander to enter martian atmosphere to reach the surface "7mins of terror" during which time they have no idea if it succeeded or not. In other news, I now have a term for software deployment release jobs. https://t.co/6oDJtSfvSC"]
+
+Ca marche pour un peu toutes les releases, et c'est cool

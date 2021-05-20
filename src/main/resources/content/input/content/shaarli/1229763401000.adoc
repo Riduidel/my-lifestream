@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven Repository: Search/Browse/Explore
+:jbake-tags: java,programming,library,développement,search,browser,maven,for:Clownny59,for:brasseld,_mois_déc.,_année_2008
+:jbake-date: 2008-12-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1229763401000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmvnrepository.com%2F&searchtags=java+programming+library+d%C3%A9veloppement+search+browser+maven+for%3AClownny59+for%3Abrasseld+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://mvnrepository.com/[Maven Repository: Search/Browse/Explore]
+
+Plus que le repository "officiel", ce site est l'endroit parfait pour trouver l'artefact maven qui va bien pour un projet Java quelconque

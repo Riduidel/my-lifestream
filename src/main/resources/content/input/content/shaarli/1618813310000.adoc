@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Proposal: Treat FLoC as a security concern – Make WordPress Core
+:jbake-tags: google,publicité,intimité,wordpress,méthode,open-source,_mois_avr.,_année_2021
+:jbake-date: 2021-04-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1618813310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmake.wordpress.org%2Fcore%2F2021%2F04%2F18%2Fproposal-treat-floc-as-a-security-concern%2F&searchtags=google+publicit%C3%A9+intimit%C3%A9+wordpress+m%C3%A9thode+open-source+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/[Proposal: Treat FLoC as a security concern – Make WordPress Core]
+
+C'est le genre de trucs qui me rend assez content d'utiliser Wordpress ... Et c'est aussi ce qui me fait penser que floc risque de faire un flop (et c'est peut-être prévu)

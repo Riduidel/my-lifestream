@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Those pesky pull request reviews – Jessitron
+:jbake-tags: équipe,organisation,programming,réflexion,_mois_mars,_année_2021
+:jbake-date: 2021-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1617173686000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjessitron.com%2F2021%2F03%2F27%2Fthose-pesky-pull-request-reviews%2F&searchtags=%C3%A9quipe+organisation+programming+r%C3%A9flexion+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/[Those pesky pull request reviews – Jessitron]
+
+J'aime bien la réflexion que mène cet article, même si je désapprouve plutôt, par conviction personnelle, sa conclusion

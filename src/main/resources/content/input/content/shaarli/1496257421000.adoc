@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java 8 idioms: In praise of helpful coding
+:jbake-tags: java,programming,format,_mois_mai,_année_2017
+:jbake-date: 2017-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1496257421000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Flibrary%2Fj-java8idioms4%2Findex.html&searchtags=java+programming+format+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.ibm.com/developerworks/library/j-java8idioms4/index.html[Java 8 idioms: In praise of helpful coding]
+
+J'utilise exactement cette convention, et je trouve effectivement ça important

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lucifer Box
+:jbake-tags: serie
+:jbake-date: 2018-12-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Lucifer_Box.adoc
+:jbake-source: https://www.goodreads.com/series/62921
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9791028104399.html[Le Club Vesuvius (Lucifer Box, #1)]

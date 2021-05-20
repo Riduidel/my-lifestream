@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want."- Niklaus Wirth"
+:jbake-tags: citation,programming,entreprise,_mois_août,_année_2018
+:jbake-date: 2018-08-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1534768534000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F1030795700374851584&searchtags=citation+programming+entreprise+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/1030795700374851584[Programming Wisdom on Twitter: ""A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want."- Niklaus Wirth"]
+
+En ayant bossé chez quelques éditeurs de logiciels, c'est tellement vrai.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Patrick Couton
+:jbake-tags: author
+:jbake-date: 2010-01-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/58715.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/58715
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266194051.html[Le Cinquième Eléphant (Les Annales du Disque-Monde, #25)]

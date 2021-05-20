@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Consider the Tomato
+:jbake-tags: botanique,cuisine,voyage,agriculture,_mois_sept.,_année_2020
+:jbake-date: 2020-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1599677017000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthoughtbot.com%2Fblog%2Fconsider-the-tomato&searchtags=botanique+cuisine+voyage+agriculture+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://thoughtbot.com/blog/consider-the-tomato[Consider the Tomato]
+
+Un article très marrant, parce qu'il part d'un sujet simple pour montrer toute la complexité qu'il peut y avoir à catégoriser les choses. En bonus, lisez donc le résumé du procès démontrant que la tomate est aux états-unis un légume, l'explication est très claire.

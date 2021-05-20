@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Data Transfer Object Is a Shame
+:jbake-tags: java,programming,pattern,oop,_mois_mars,_année_2017
+:jbake-date: 2017-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1488881963000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.yegor256.com%2F2016%2F07%2F06%2Fdata-transfer-object.html&searchtags=java+programming+pattern+oop+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.yegor256.com/2016/07/06/data-transfer-object.html[Data Transfer Object Is a Shame]
+
+Dans mes bras !

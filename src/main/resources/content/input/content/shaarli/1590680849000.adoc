@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home Page - The Tao of Mac
+:jbake-tags: macosx,blog,email,imap,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590680849000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftaoofmac.com&searchtags=macosx+blog+email+imap+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://taoofmac.com[Home Page - The Tao of Mac]
+
+Un blog qui m'a donné, au fil du temps, quelques très belles idées (comme rrss2imap par exemple)

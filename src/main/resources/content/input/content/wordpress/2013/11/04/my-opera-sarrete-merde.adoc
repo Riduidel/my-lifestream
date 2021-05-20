@@ -1,0 +1,50 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My Opera s'arrête ? Merde
+:jbake-tags: mail,mavie,opera,_mois_nov.,_année_2013
+:jbake-date: 2013-11-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/11/04/my-opera-sarrete-merde.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/11/04/my-opera-sarrete-merde/
+:jbake-style: wordpress
+
+++++
+<p>
+Le titre est assez clair, non ?
+</p>
+<p>
+Pour plus de détails, le message complet est là : <a href="http://my.opera.com/desktopteam/blog/important-announcement-about-your-my-opera-account">Important announcement about your My Opera account</a>. On y apprend globalement que comme l'équipe d'Opera n'arrive pas à tenir My Opera à un niveau suffisant, ils prennent la décision de le fermer.
+</p>
+<p>
+Ca ne serait pas une aussi mauvaise nouvelle si ils n'avaient pas également décidé cette année d'arrêter de développer leur moteur ... pour se reposer sur Chrome (baaaah).
+</p>
+<p>
+Chacune de ces nouvelles est en soi une décision d'entreprise, qui va évidement affecter les talentueux développeurs de chez Opera.
+</p>
+<p>
+Prises ensemble, elles donnent toutefois un mauvais signal concernant la survie d'une entreprise qui, si elle est dynamique, n'en est pas moins un nain au milieu de géants. ce qui me rend pessimiste pour leur avenir ...
+</p>
+<p>
+Bon, d'un autre côté, d'un point de vue personnel, je me réjouis vraiment de ne pas les avoir choisi quand j'ai quitté GMail pour Caramail (euh, pardon, GMX.fr). J'ai un peu l'impression d'avoir été malin.
+</p>
+<p>
+Cela dit, c'est aussi l'occasion de faire un rapide bilan de cette migration.
+<br/>
+<ul>
+<br/>
+<li>Le premier point à noter, c'est que migrer une boîte IMAP n'est pas si facile que ça, sauf lorsqu'on utilise les bons outils (merci à <a href="http://www.broobles.com/imapsize/">IMAPSize</a> qui a fait le sale boulot pendant des jours entiers).</li>
+<br/>
+<li>En passant à GMX, je ne me doutais pas que je perdrais la belle interface web de GMail ... Heureusement, <a href="http://www.opera.com/fr/computer/mail">Opera Mail</a> (le client lourd, hein, pas le service de web-mail) m'a permis de revenir au mode dinosauresque de consultation des mails avec un client lourd connecté à un serveur IMAP - oui, comme au XXème siècle. Et je peux vous dire que ça continue à être un plaisir.</li>
+<br/>
+<li>Le bonus caché, c'est que j'ai recommencé à accéder aux newsgroups NNTP avec le même client lourd, ce qui est infiniment mieux que Google Groups.</li>
+<br/>
+<li>Et si GMX fournit un calendrier, un système de partage de fichier apparement basé sur WebDAV (ou tout au moins accessible de cette façon), j'ai l'impression que GMail m'a un peu vacciné du tout intégré : j'utilise maintenant mon client lourd pour les mails, mais plus de calendrier (ni de carnet d'adresse, ce qui est une perte objective).</li>
+<br/>
+<li>Et si vous vous demandez pourquoi je n'installe pas mon propre serveur mail, la réponse est toujours la même - et je ne pense pas changer d'avis prochainement - j'aime trop mes mails pour les administrer moi-même. Autrement dit, j'aurai trop de risque, par une manoeuvre un peu hasardeuse, de tous les balancer dans les poubelles, et ça, ça m'insupporte.</li>
+<br/>
+</ul>
+<br/>
+L'un dans l'autre, je suis content de GMX : les mails arrivent et partent, et si je suis espionné (comme vous tous), au moins je sais que c'est des barbouzes que je paye de ma poche qui le font. Maigre consolation ? C'est vrai, puisque les entêtes des mails sont partagés avec la NSA et tout un tas d'autres services secrets. Mais consolation quand même (surtout en terme de temps de réponse : les serveurs sont en France, donc le dialogue IMAP va assez vite).
+</p>
+++++

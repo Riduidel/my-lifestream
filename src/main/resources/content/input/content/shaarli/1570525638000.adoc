@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Presenting Presenting - Chet Haase - Medium
+:jbake-tags: présentation,article,tutorial,documentation,communication,oralité,_mois_oct.,_année_2019
+:jbake-date: 2019-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1570525638000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40chethaase%2Fpresenting-presenting-17233fa13aa5&searchtags=pr%C3%A9sentation+article+tutorial+documentation+communication+oralit%C3%A9+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/@chethaase/presenting-presenting-17233fa13aa5[Presenting Presenting - Chet Haase - Medium]
+
+L'article est franchement très long, mais c'est une mine d'informations pratiques pour créer son propre style de présentation (oui, je sais déja quel est mon style, merci)

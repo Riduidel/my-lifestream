@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ColorBox by Lyft Design
+:jbake-tags: couleur,générateur,web,_mois_sept.,_année_2019
+:jbake-date: 2019-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1569311782000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.colorbox.io%2F&searchtags=couleur+g%C3%A9n%C3%A9rateur+web+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.colorbox.io/[ColorBox by Lyft Design]
+
+Un outil sympa de génération de gammes de couleurs

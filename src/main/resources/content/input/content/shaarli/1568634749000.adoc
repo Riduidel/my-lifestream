@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ten Brighter Ideas? An Explorable Explanation
+:jbake-tags: design,interaction,web,exemple,_mois_sept.,_année_2019
+:jbake-date: 2019-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1568634749000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fworrydream.com%2FTenBrighterIdeas%2F&searchtags=design+interaction+web+exemple+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://worrydream.com/TenBrighterIdeas/[Ten Brighter Ideas? An Explorable Explanation]
+
+Cet article est incroyable en termes de design

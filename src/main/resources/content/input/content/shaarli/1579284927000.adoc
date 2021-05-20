@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tomav/docker-mailserver: A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.
+:jbake-tags: conférence,email,smtp,pop,imap,docker,docker-compose,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579284927000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftomav%2Fdocker-mailserver&searchtags=conf%C3%A9rence+email+smtp+pop+imap+docker+docker-compose+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/tomav/docker-mailserver[tomav/docker-mailserver: A fullstack but simple mailserver (smtp, imap, antispam, antivirus, ssl...) using Docker.]
+
+Une configuration complète de serveur mail dans un docker-compose ? Evidement que ça va me servir !

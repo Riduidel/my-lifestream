@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tweak New Twitter – Adoptez cette extension pour 🦊 Firefox (fr)
+:jbake-tags: twitter,interface,plugin,firefox,simple,_mois_juil.,_année_2020
+:jbake-date: 2020-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1593955274000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faddons.mozilla.org%2Ffr%2Ffirefox%2Faddon%2Ftweak-new-twitter%2F%3Fsrc%3Dsearch&searchtags=twitter+interface+plugin+firefox+simple+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://addons.mozilla.org/fr/firefox/addon/tweak-new-twitter/?src=search[Tweak New Twitter – Adoptez cette extension pour 🦊 Firefox (fr)]
+
+Ah ben voilà, avec cette extension, je suis enfin débarassé des ignobles tendances twitter !

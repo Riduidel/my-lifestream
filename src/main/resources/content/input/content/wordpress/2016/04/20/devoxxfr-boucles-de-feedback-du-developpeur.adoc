@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr Boucles de feedback du développeur
+:jbake-tags: devoxx,informatique,java,javascript,_mois_avr.,_année_2016
+:jbake-date: 2016-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/20/devoxxfr-boucles-de-feedback-du-developpeur.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/20/devoxxfr-boucles-de-feedback-du-developpeur/
+:jbake-style: wordpress
+
+++++
+<p>
+Et donc le but du talk, c'est de permettre au développeur de rester dans sa zone de concentration ... en évitant les pertes de temps liées au redéploiement.
+</p>
+<p>
+Donc pour être rapide, ils vont utiliser peut-être un tomcat en prod, mais surtout en jetty intégré avec maven, et c'est bien parce que ça démarre très vite. Et pour être honnête, j'ai personnellement déja joué avec le plugin maven-jetty-plugin et les scaninterval ... Mais je n'avais pas réussi à lui faire prendre en compte les modifications de code source. Et puis, pour être honnête, on n'est pas encore au niveau de .... Wisdom \o/.
+</p>
+<p>
+Alors avec maven-jetty-run on peut relancer l'appli. Mais pour les tests, on fait comment ? J'imagine qu'ils vont me parler d'<a href="https://infinitest.github.io/">infinitest </a>... bingo ! C'est vrai que je sais qu'il existe depuis .... qu'Eric Lefevre en a parlé il y a bien longtemps.
+</p>
+<p>
+Et c'est tout pour le serveur. Passons maintenant au client. Notez qu'encore une fois, quand je change mon code Javascript dans Wisdom, il est relinté, recompressé, et peut-être même retesté à la volée. Mais quand même ... Il y a aussi des outils qui permettent de modifier le JS dans le navigateur, et de le voir modifié dans le projet source.
+<br/>
+Avec Chrome dev tools, on peut créer des "workspaces" qui associent à des fichiers fournis en HTTP des fichiers sur le filesystem. C'est bien, parce qu'on peut directement bosser dans le navigateur avec tout son outillage, et avoir les modifications effectuées sur les fichiers source. D'un autre côté, avec grunt browserSync, on peut demander au navigateur de se rafraîchir. Et c'est assez génial, puisque la page web se rafraîchit très très très vite. Franchement, j'aimerais bien voir ça dans .... Wisdom ! En plus, browserSync, permet de synchroniser la navigation entre plusiurs navigateurs. Et évidement, c'est incompatible avec les workspaces : le workspace modifie le fichier, browserSync recharge la page, le workspace détecte à nouveau la modification, ...
+</p>
+<p>
+En bonus, côté Javascript, on peut aussi faire des tests avec Karma/Jasmine. Et on peut également mettre un watcher ... du coup le test sera rejoué. Et pour ne pas regarder la console, Karma a un plugin growl ... Ca, ça fait plaisir !
+</p>
+++++

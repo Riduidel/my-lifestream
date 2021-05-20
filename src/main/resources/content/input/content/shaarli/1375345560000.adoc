@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: On Open Sourcing Libraries | William DURAND
+:jbake-tags: documentation,open-source,marketing,readme,_mois_août,_année_2013
+:jbake-date: 2013-08-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1375345560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwilliamdurand.fr%2F2013%2F07%2F04%2Fon-open-sourcing-libraries%2F&searchtags=documentation+open-source+marketing+readme+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://williamdurand.fr/2013/07/04/on-open-sourcing-libraries/[On Open Sourcing Libraries | William DURAND]
+
+Chouette article sur ce qui fait un bon projet opensource FEATURING un modèle de fichier README à utiliser partout

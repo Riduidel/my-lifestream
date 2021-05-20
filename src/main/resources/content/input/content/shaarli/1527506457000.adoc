@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zero-Overhead Tree Processing with the Visitor Pattern
+:jbake-tags: programming,pattern,design,scala,_mois_mai,_année_2018
+:jbake-date: 2018-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1527506457000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lihaoyi.com%2Fpost%2FZeroOverheadTreeProcessingwiththeVisitorPattern.html&searchtags=programming+pattern+design+scala+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html[Zero-Overhead Tree Processing with the Visitor Pattern]
+
+Ohlala, un énorme article sur le visiteur, il faut que je le lise (ça m'aidera à préparer une surprise pour mes collègues)

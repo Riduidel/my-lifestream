@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lolcommits: selfies for software developers
+:jbake-tags: git,commit,webcam,selfie,programming,_mois_oct.,_année_2014
+:jbake-date: 2014-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1412838105000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmroth.github.io%2Flolcommits%2F&searchtags=git+commit+webcam+selfie+programming+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://mroth.github.io/lolcommits/[lolcommits: selfies for software developers]
+
+Le genre de choses qui remet un peu de légèreté dans le processus de commit qui est sinon vite aussi pénible qu'un formulaire des impôts.

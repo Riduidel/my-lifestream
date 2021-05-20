@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Markdown Architectural Decision Records | madr
+:jbake-tags: markdown,architecture,décision,template,_mois_juil.,_année_2019
+:jbake-date: 2019-07-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1563438590000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fadr.github.io%2Fmadr%2F&searchtags=markdown+architecture+d%C3%A9cision+template+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://adr.github.io/madr/[Markdown Architectural Decision Records | madr]
+
+Au-dela du format Markdown, il y a dans ce document un très bon modèle d'ADR.

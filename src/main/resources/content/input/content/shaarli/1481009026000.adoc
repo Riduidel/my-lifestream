@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BugReplay
+:jbake-tags: web,javascript,adblock,_mois_déc.,_année_2016
+:jbake-date: 2016-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1481009026000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.bugreplay.com%2Fpost%2F153861574674%2Ffkadblock-how-publishers-are-defeating-ad&searchtags=web+javascript+adblock+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://blog.bugreplay.com/post/153861574674/fkadblock-how-publishers-are-defeating-ad[BugReplay]
+
+La guerre des bloqueurs de publicité, c'est quelque chose

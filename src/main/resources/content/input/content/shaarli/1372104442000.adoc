@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le hack dans la recherche de chemin de StarCraft
+:jbake-tags: développement,process,article,_mois_juin,_année_2013
+:jbake-date: 2013-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1372104442000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjeux.developpez.com%2Fmaking-of%2Fstarcraft%2Fpath-finding%2F&searchtags=d%C3%A9veloppement+process+article+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://jeux.developpez.com/making-of/starcraft/path-finding/[Le hack dans la recherche de chemin de StarCraft]
+
+Ca a l'air d'être un très chouette article sur les développements non triviaux ... Les trucs que je fis tous les jours et pour lesquels, la moitié du temps, donner une date est juste une connerie (mais hélas une connerie nécessaire dans les entreprises qui doivent vivre). \[EDIT\] j'aime en particulier la phrase "les meilleurs sacrifices sont ceux qui marchent". Ca décrit parfaitement l'état d'esprit qu'on atteint après la cinquième tentative de correction propre quié choue : sacrifie un poulet si il faut, mais fais marcher ce truc.

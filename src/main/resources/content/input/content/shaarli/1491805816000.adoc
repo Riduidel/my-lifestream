@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: yannick grenzinger on Twitter: "Making #software should be like running a starred restaurant. The perfect mix of passion, #craft, art, reliability and effective business."
+:jbake-tags: citation,programming,artisanat,_mois_avr.,_année_2017
+:jbake-date: 2017-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1491805816000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fygrenzinger%2Fstatus%2F713715179352145920&searchtags=citation+programming+artisanat+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/ygrenzinger/status/713715179352145920[yannick grenzinger on Twitter: "Making #software should be like running a starred restaurant. The perfect mix of passion, #craft, art, reliability and effective business."]
+
+Le logiciel est définitivement un artisanat

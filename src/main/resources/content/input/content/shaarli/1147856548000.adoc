@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HelpReader - Browse Manuals
+:jbake-tags: documentation,css,help,javascript,php,programming,reference,_mois_mai,_année_2006
+:jbake-date: 2006-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1147856548000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.helpreader.com%2Fpages%2Fbrowse%2F&searchtags=documentation+css+help+javascript+php+programming+reference+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.helpreader.com/pages/browse/[HelpReader - Browse Manuals]
+
+Des manuels pour tous les langages à utiliser pour le développement d'applications web

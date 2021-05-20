@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Francis Ledoux
+:jbake-tags: author
+:jbake-date: 2007-09-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/42155.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/42155
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266026550.html[La Communauté de l'Anneau (Le Seigneur des Anneaux, #1)]
+* link:../books/9782266052641.html[Faërie]
+* link:../books/9782277114864.html[Bilbo le Hobbit]

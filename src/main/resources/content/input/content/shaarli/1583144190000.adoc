@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tim Fox sur Twitter : "If governments treated climate change with the same urgency as coronavirus we'd have it fixed within the year!"
+:jbake-tags: maladie,citation,écologie,climat,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583144190000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftimfox%2Fstatus%2F1234163802230394880&searchtags=maladie+citation+%C3%A9cologie+climat+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/timfox/status/1234163802230394880[Tim Fox sur Twitter : "If governments treated climate change with the same urgency as coronavirus we'd have it fixed within the year!"]
+
+C'est certes lié à un certain nombre de biais, mais ça n'en est pas moins vrai

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tout MDA
+:jbake-tags: programming,concepts,documentation,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112190386000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.toutmda.fr.st%2F&searchtags=programming+concepts+documentation+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.toutmda.fr.st/[Tout MDA]
+
+Ce rapport a pour but de fournir une prÃ©sentation claire de la norme Model Driven Architecture mise au point par l'OMG pour aider Ã la conception d'architectures middleware. MDA est une norme actuellement en pleine essor, mais trÃ¨s peu de site e

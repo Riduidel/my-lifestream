@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Album Shaper
+:jbake-tags: software,freeware,open-source,windows,macosx,linux,multimedia,album,_mois_mars,_année_2005
+:jbake-date: 2005-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1112107974000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Falbumshaper.sourceforge.net%2F&searchtags=software+freeware+open-source+windows+macosx+linux+multimedia+album+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://albumshaper.sourceforge.net/[Album Shaper]
+
+Album Shaper is a graphical application used to create, maintain, and share photo albums using open formats like HTML, XSLT, and JPG. Two-layer albums can be created in a drag-n-drop interface which allows quick and easy arrangement and catagorization of

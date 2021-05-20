@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WikidPad - wiki notebook/outliner for windows
+:jbake-tags: freeware,desktop,gtd,productivité,software,wiki,windows,open-source,_mois_août,_année_2006
+:jbake-date: 2006-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1155903662000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjhorman.org%2FwikidPad%2F&searchtags=freeware+desktop+gtd+productivit%C3%A9+software+wiki+windows+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://jhorman.org/wikidPad/[WikidPad - wiki notebook/outliner for windows]
+
+Un wiki personnel pour Windows en Python, avec des fonctionnalités d'organisation

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Using Pipelines to Manage Environments with Infrastructure as Code – Medium
+:jbake-tags: architecture,environnement,management,_mois_janv.,_année_2017
+:jbake-date: 2017-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1484546340000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40kief%2Fhttps-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5%23.44h4bewzw&searchtags=architecture+environnement+management+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5#.44h4bewzw[Using Pipelines to Manage Environments with Infrastructure as Code – Medium]
+
+Il va falloir que je regarde sérieusement ces outils, qui répondent à certaines de mes questions actuelles

@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un peu de projets maison
+:jbake-tags: électronique,raspberrypi,wii,_mois_janv.,_année_2018
+:jbake-date: 2018-01-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/01/27/un-peu-de-projets-maison.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/01/27/un-peu-de-projets-maison/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, j'ai craqué. Après des années à tenter de ne pas faire de hacks domestiques, j'ai enfin entamé deux projets auxquels je réfléchis depuis bien longtemps.
+<br/>
+<h2>Une nouvelle radio</h2>
+<br/>
+J'ai depuis longtemps une radio web (une Philips NP 3300), qui ne marche plus vraiment depuis des années, et qui traîne dans ma cave. J'en ai déja parlé, je voudrais <a href="https://riduidel.wordpress.com/2016/10/23/petit-projet-dhiver-une-webradio-sur-raspberry/">l'upcycler à grands coups de raspberry</a>. Et pendant longtemps, j'ai procrastiné. Mais en ce mois de janvier (grâce aussi au dynamisme de mes nouveaux collègues), j'ai enfin lancé le projet en achetant une carte son - qui s'est révélé insuffisante - et en commençant à en discuter sérieusement.
+</p>
+<p>
+C'est assez marrant à réaliser, et même si je n'atteins pas l'objectif final, je vais faire des trucs marrants pour y arriver.
+<br/>
+<h2>Une souris de présentation</h2>
+<br/>
+Parce que si tout se passe bien, je risque de faire un peu plus de présentations publiques.
+</p>
+<p>
+Et quand j'ai vu Hubert Sablonnière présenter avec sa manette de NES, je me suis dit que les souris spéciales Logitech ... c'était pas vraiment pour moi. Et comme j'ai quelques Wiimotes chez moi, je me suis lancé dans l'utilisation de wiimote sous Windows (ben quoi ?). Et c'est franchement facile :
+<br/>
+<ul>
+<br/>
+<li>avec <a href="https://www.julianloehr.de/educational-work/hid-wiimote/">HID Wiimote</a>, mes wiimotes sont reconnues comme des gamepad sous Windows</li>
+<br/>
+<li>Et avec <a href="https://github.com/AntiMicro/antimicro">Antimicro</a>, je mappe mon contrôleur sur le clavier/souris de ma machine.</li>
+<br/>
+</ul>
+<br/>
+J'ai déja avec ça de quoi piloter une présentation (j'ai testé). Mais je veux aussi pouvoir déplacer le curseur à l'écran. Et pour ça, encore une fois, il va me falloir un peu d'électronique pour me faire une barre de senseur en USB, que je pourrais coller sur mon écran. Oh, j'ai des instructions, pas de problème. Il me faut juste un peu ... de temps.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: /IE7/overview/
+:jbake-tags: web,javascript,library,dhtml,browser,programming,ajax,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112359254000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdean.edwards.name%2FIE7%2Foverview%2F&searchtags=web+javascript+library+dhtml+browser+programming+ajax+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://dean.edwards.name/IE7/overview/[/IE7/overview/]
+
+IE7 loads and parses all style sheets into a form that Explorer can understand. You can then use most CSS2/CSS3 selectors without having to resort to CSS hacks. The lightweight script is a single-line inclusion in your HTML/XML document. No alteratio

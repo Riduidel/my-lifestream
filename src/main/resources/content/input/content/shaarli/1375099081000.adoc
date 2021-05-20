@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Predicting riots
+:jbake-tags: science,mathématiques,_mois_juil.,_année_2013
+:jbake-date: 2013-07-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1375099081000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflowingdata.com%2F2013%2F07%2F18%2Fpredicting-riots%2F&searchtags=science+math%C3%A9matiques+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://flowingdata.com/2013/07/18/predicting-riots/[Predicting riots]
+
+incroyable : on peut prévoir le développement des émeutes en utilisant des modèles mathématiques déja connus. C'est ... bien ? pas bien ?

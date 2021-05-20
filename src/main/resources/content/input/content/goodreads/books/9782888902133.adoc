@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo #12
+:jbake-tags:  anthropomorphisme, combat, complot, mort, rayon-bd,_année_2013,_mois_janv.,_note_4,japon,read
+:jbake-date: 2013-01-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888902133.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1940344
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Kusanagi, la Faucheuse d’Herbe, l’épée perdue des Dieux est à présent au centre d’un complot visant à renverser le Shogun et rendre le pouvoir à l’Empereur... Avec l’aide d’une sorcière et de l’âme des guerriers morts, la Conspiration des Huit entend bien retrouver cette lame légendaire, le plus puissant symbole du pouvoir impérial. Mais quand le destin place la Faucheuse d’Herbe entre les mains d’Usagi Yojimbo, le lapin samouraï doit assumer malgré lui une bien lourde responsabilité...<br /><br />Tome double ! Une seule histoire en 256 pages !<br /><br />Depuis sa première publication en 1984, le succès du lapin aux grandes oreilles n’a cessé de croître. La série a rapporté à son auteur de nombreux prix, dont le fameux Eisner Award et est traduite dans plus de 10 langues. En Français, la série totalise plus de 100.000 ventes !
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Elle est bien cette histoire de faucheuse d'herbe, même si la fin de ce tome ne marque ni la fin des voyages de cette épée légendaire, ni la fin des rencontres entre Usagi et "le messager des dieux".<br/>Le fond historique est qui plus est un bonus intéressant à cette histoire mêlant légendes, complots, tremblements de terre, combats épiques et vieilles rancunes enfin oubliées.
+++++

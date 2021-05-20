@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: InfoQ: Automating File Uploads with SSH and Ruby
+:jbake-tags: ruby,documentation,exemple,ftp,automatisation,_mois_oct.,_année_2008
+:jbake-date: 2008-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1224488279000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infoq.com%2Farticles%2Fruby-file-upload-ssh-intro&searchtags=ruby+documentation+exemple+ftp+automatisation+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.infoq.com/articles/ruby-file-upload-ssh-intro[InfoQ: Automating File Uploads with SSH and Ruby]
+
+Si je ne me trompe pas, c'est exactement ce que je cherchais il n'y a pas plus tard qu'hier. Bon, bien sûr, l'auteur fait du SFTP et pas du FTP, mais l'un dans l'autre, j'ai là l'algorithme complet pour l'update du serveur.

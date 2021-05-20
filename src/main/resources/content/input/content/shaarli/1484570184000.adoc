@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Top Open-Source Static Site Generators - StaticGen
+:jbake-tags: web,générateur,static,_mois_janv.,_année_2017
+:jbake-date: 2017-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1484570184000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.staticgen.com%2F&searchtags=web+g%C3%A9n%C3%A9rateur+static+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.staticgen.com/[Top Open-Source Static Site Generators - StaticGen]
+
+Très bien, ce top des langages de générateurs de sites statiques !

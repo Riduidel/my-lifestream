@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hercule
+:jbake-tags: serie
+:jbake-date: 2013-06-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hercule.adoc
+:jbake-source: https://www.goodreads.com/series/176099
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782302023741.html[Le lion de Némée (Hercule, #1)]

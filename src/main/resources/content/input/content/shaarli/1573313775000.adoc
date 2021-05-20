@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: An always-available, online-capable Raspberry Pi in your pocket
+:jbake-tags: raspberrypi,hack,réseau,_mois_nov.,_année_2019
+:jbake-date: 2019-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1573313775000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjustinmiller.io%2Fposts%2F2019%2F09%2F21%2Fpi-gadget%2F&searchtags=raspberrypi+hack+r%C3%A9seau+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://justinmiller.io/posts/2019/09/21/pi-gadget/[An always-available, online-capable Raspberry Pi in your pocket]
+
+Donc si j'ai bien compris, le Raspberry est connecté au Mac par l'USB pour le courant et le réseau. Et ne se connecte à internet que quand le mac y est connecté. Je trouve ça génial !

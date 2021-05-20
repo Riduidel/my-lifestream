@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Power metal
+:jbake-tags: musique,raspberrypi,upnp,_mois_févr.,_année_2018
+:jbake-date: 2018-02-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/02/17/power-metal.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/02/17/power-metal/
+:jbake-style: wordpress
+
+++++
+<p>
+<a href="https://riduidel.wordpress.com/2018/02/16/morr-powah/">Comme je l'écrivais hier</a>, j'ai installé un chouette Pi-DigiAMP+ dans mon Raspberry. Et je l'ai testé avec Volumio aujourd'hui. Et bon sang de bois, le son remplit correctement la pièce . Du coup, ça va être bien chouette. La suite ? Connecter les boutons physiques et la télécommande (pour commencer). Bon, par contre, volumio ne lit pas mon serveur UPnP, mais j'ai l'impression que c'est un bug qui va bientôt être corrigé. Sinon, je remplacerai Volumio par une alternative.
+</p>
+++++

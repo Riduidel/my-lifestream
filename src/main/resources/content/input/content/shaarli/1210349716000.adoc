@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GoodReads
+:jbake-tags: livre,catalog,database,reference,social,isbn,_mois_mai,_année_2008
+:jbake-date: 2008-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1210349716000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.goodreads.com%2F&searchtags=livre+catalog+database+reference+social+isbn+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.goodreads.com/[GoodReads]
+
+Un concurrent de LibraryThing, à tester ...

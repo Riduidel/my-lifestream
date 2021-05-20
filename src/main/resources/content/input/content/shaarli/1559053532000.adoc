@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Source Password Management Solutions | Bitwarden
+:jbake-tags: keepass,sécurité,software,open-source,windows,macosx,linux,_mois_mai,_année_2019
+:jbake-date: 2019-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1559053532000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbitwarden.com%2F&searchtags=keepass+s%C3%A9curit%C3%A9+software+open-source+windows+macosx+linux+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://bitwarden.com/[Open Source Password Management Solutions | Bitwarden]
+
+C'est moi ou bitwarden est plus complet que keepass ? (même si il ne semble pas exister de plugins - ni de version Android)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mistletoe Offline ◆ 24 ways
+:jbake-tags: javascript,web,offline,_mois_déc.,_année_2018
+:jbake-date: 2018-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1544611973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2F24ways.org%2F2018%2Fmistletoe-offline%2F&searchtags=javascript+web+offline+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://24ways.org/2018/mistletoe-offline/[Mistletoe Offline ◆ 24 ways]
+
+Utiliser un service worker pour charger une page de service indisponible, c'est malin ! Et utile !

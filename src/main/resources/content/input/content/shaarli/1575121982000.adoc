@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco 🇪🇺 sur Twitter : "Garbage collected memory is a leaky abstraction: the promise is that you don't have to worry about memory management, but in reality you do in a more complex and less transparent way https://t.co/AH2St5JiKm I never thought to GC in these terms but must admit there's some truth… https://t.co/BDUTKCYr6f"
+:jbake-tags: citation,java,programming,concepts,abstraction,_mois_nov.,_année_2019
+:jbake-date: 2019-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1575121982000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatuses%2F1200544323030462472&searchtags=citation+java+programming+concepts+abstraction+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/statuses/1200544323030462472[Mario Fusco 🇪🇺 sur Twitter : "Garbage collected memory is a leaky abstraction: the promise is that you don't have to worry about memory management, but in reality you do in a more complex and less transparent way https://t.co/AH2St5JiKm I never thought to GC in these terms but must admit there's some truth… https://t.co/BDUTKCYr6f"]
+
+Alors ça c'est intéressant : on est conditionnés en tant que développeurs Java à croire que le GC est une solution efficace ... mais ce GC ne vient pas sans quelques problèmes spécifiques.

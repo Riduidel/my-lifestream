@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 6 months of game development in Rust
+:jbake-tags: jeu,rust,programming,tutorial,_mois_août,_année_2019
+:jbake-date: 2019-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1566837650000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fiolivia.me%2Fposts%2F6-months-of-rust-game-dev%2F&searchtags=jeu+rust+programming+tutorial+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://iolivia.me/posts/6-months-of-rust-game-dev/[6 months of game development in Rust]
+
+J'ai au moins un collègue qui sera passionné par cet article

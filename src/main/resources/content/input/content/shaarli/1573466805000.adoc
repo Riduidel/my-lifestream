@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gdpr/fr.md at master · aeris/gdpr
+:jbake-tags: email,loi,rgpd,_mois_nov.,_année_2019
+:jbake-date: 2019-11-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1573466805000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Faeris%2Fgdpr%2Fblob%2Fmaster%2Femail%2Ffr.md&searchtags=email+loi+rgpd+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/aeris/gdpr/blob/master/email/fr.md[gdpr/fr.md at master · aeris/gdpr]
+
+Très bon mail de rappel au RGPD !

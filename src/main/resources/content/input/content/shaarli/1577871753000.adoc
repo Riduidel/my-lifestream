@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Francois Armand sur Twitter : "J'ai fait un talk à @ScalaIO_FR pour lequel j'ai eu des super retours et que je voudrais proposer à @breizhcamp/@DevoxxFR/... Mais je suis très mauvais pour répondre au CFP, du coup: est-ce que vous voudriez m'aider? Je fais une proposition publique là: https://t.co/DuJA8FxPGX"
+:jbake-tags: conférence,collaboration,rédaction,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577871753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffanf42%2Fstatus%2F1209149291287240704&searchtags=conf%C3%A9rence+collaboration+r%C3%A9daction+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/fanf42/status/1209149291287240704[Francois Armand sur Twitter : "J'ai fait un talk à @ScalaIO_FR pour lequel j'ai eu des super retours et que je voudrais proposer à @breizhcamp/@DevoxxFR/... Mais je suis très mauvais pour répondre au CFP, du coup: est-ce que vous voudriez m'aider? Je fais une proposition publique là: https://t.co/DuJA8FxPGX"]
+
+J'aime beaucoup l'idée de co-préparer une soumission à un CFP via Google Drive. Je vais proposer ça à mes collègues.

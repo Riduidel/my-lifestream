@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Extreme benchmark feedback using Gitlab CI
+:jbake-tags: performance,feature,test,_mois_juin,_année_2018
+:jbake-date: 2018-06-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1529916417000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.rubdos.be%2Flinux%2Fgitlab%2Fautomation%2Fbenchmarks%2Frust%2F2018%2F06%2F19%2Fextreme-benchmark-feedback.html&searchtags=performance+feature+test+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.rubdos.be/linux/gitlab/automation/benchmarks/rust/2018/06/19/extreme-benchmark-feedback.html[Extreme benchmark feedback using Gitlab CI]
+
+Malin (et pas seulement pour le Rust). Faire jouer des tests de performances dans les merge request, ça permet de traiter la performance comme une feature, et c'est bien. Et en Java, on peut le faire avec Contiperf (que j'adore)

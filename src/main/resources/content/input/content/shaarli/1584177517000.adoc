@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - debauchee/barrier: Open-source KVM software
+:jbake-tags: kvm,virtuel,multimonitor,open-source,windows,macosx,linux,_mois_mars,_année_2020
+:jbake-date: 2020-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1584177517000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdebauchee%2Fbarrier&searchtags=kvm+virtuel+multimonitor+open-source+windows+macosx+linux+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/debauchee/barrier[GitHub - debauchee/barrier: Open-source KVM software]
+
+J'ai deux-trois ordinateurs portables chez moi Je vais faire du télétravail la semaine prochaine J'ai CozyCloud pour synchroniser les fichiers Et avec barrier, j'aurais du multi-écran ! J'espère juste que la version MacOS marcher avec mon iBook-G4 !

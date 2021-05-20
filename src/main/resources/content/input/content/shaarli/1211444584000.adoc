@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FAQ Maven 2 - Club d'entraide des développeurs francophones
+:jbake-tags: tutorial,documentation,maven,_mois_mai,_année_2008
+:jbake-date: 2008-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1211444584000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.developpez.com%2Ffaq%2Fmaven%2F%3Fpage%3Dprojet&searchtags=tutorial+documentation+maven+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://java.developpez.com/faq/maven/?page=projet[FAQ Maven 2 - Club d'entraide des développeurs francophones]
+
+Un tutorial sur les projets multimodules qui va me permettre de faire de jspf un bon projet maven multimodule, même si Raff n'a pas l'air chaud

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: seasonally affected server on Twitter: "DevOps is a software engineering culture and practice of putting horrors into containers and then talking about Kubernetes at conferences."
+:jbake-tags: citation,devops,docker,kubernetes,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546418459000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsadserver%2Fstatus%2F1011652439303262208&searchtags=citation+devops+docker+kubernetes+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/sadserver/status/1011652439303262208[seasonally affected server on Twitter: "DevOps is a software engineering culture and practice of putting horrors into containers and then talking about Kubernetes at conferences."]
+
+Ca mérite presque que je cite ce tweet lors d'une conférence ;-)

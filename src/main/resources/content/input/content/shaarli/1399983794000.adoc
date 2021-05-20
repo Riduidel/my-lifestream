@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spurious Correlations
+:jbake-tags: statistiques,correlation,humour,mathématiques,_mois_mai,_année_2014
+:jbake-date: 2014-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1399983794000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tylervigen.com%2F&searchtags=statistiques+correlation+humour+math%C3%A9matiques+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.tylervigen.com/[Spurious Correlations]
+
+Corrélaion n'est pas causation. Les preuves sont toutes là, et c'est assez ironiquement comique. via http://flowingdata.com/2014/05/12/random-things-that-correlate/

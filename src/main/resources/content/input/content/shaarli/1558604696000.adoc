@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jen Gentleman 🌺 on Twitter: "Clipboard history looks a little different with Windows 10 version 1903 - entries are now a bit more compact, so you can see more without having to scroll Tried it recently? What did you think? WIN+V will bring it up 😊… https://t.co/df8uI3nRWq"
+:jbake-tags: windows,clipboard,manager,software,_mois_mai,_année_2019
+:jbake-date: 2019-05-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1558604696000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJenMsft%2Fstatus%2F1130086807033356288&searchtags=windows+clipboard+manager+software+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/JenMsft/status/1130086807033356288[Jen Gentleman 🌺 on Twitter: "Clipboard history looks a little different with Windows 10 version 1903 - entries are now a bit more compact, so you can see more without having to scroll Tried it recently? What did you think? WIN+V will bring it up 😊… https://t.co/df8uI3nRWq"]
+
+C'est pas mal. Mais ditto est environ 10.000 fois plus puissant (même si je dois reconnaître que c'est un peu plus moche). Par contre, évidement, c'est lviré avec Windows, et ça c'est cool !

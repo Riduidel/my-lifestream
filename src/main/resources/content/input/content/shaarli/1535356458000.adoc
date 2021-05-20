@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Deploy Google Kubernetes Engine from Ansible | IT curry blog
+:jbake-tags: ansible,kubernetes,google,programming,exemple,_mois_août,_année_2018
+:jbake-date: 2018-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1535356458000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fawsbloglink.wordpress.com%2F2018%2F06%2F14%2Fdeploy-google-kubernetes-engine-from-ansible%2F&searchtags=ansible+kubernetes+google+programming+exemple+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://awsbloglink.wordpress.com/2018/06/14/deploy-google-kubernetes-engine-from-ansible/[Deploy Google Kubernetes Engine from Ansible | IT curry blog]
+
+Comment créer vite et bien un cluster GKE avec ANsible

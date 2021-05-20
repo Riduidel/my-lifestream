@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andri Snær Magnason
+:jbake-tags: author
+:jbake-date: 2017-09-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/689347.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1265052334p5/689347.jpg
+:jbake-source: https://www.goodreads.com/author/show/689347
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290142998.html[Lovestar]

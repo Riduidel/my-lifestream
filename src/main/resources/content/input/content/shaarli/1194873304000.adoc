@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenProj | Projity
+:jbake-tags: collaboration,développement,freeware,open-source,planning,productivité,programming,projet,software,java,_mois_nov.,_année_2007
+:jbake-date: 2007-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1194873304000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fopenproj.org%2F%3Fq%3Dnode%2F21&searchtags=collaboration+d%C3%A9veloppement+freeware+open-source+planning+productivit%C3%A9+programming+projet+software+java+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://openproj.org/?q=node/21[OpenProj | Projity]
+
+Un clone de project en Java, apparement assez joli. Reste à voir s'il est utilisable,c e qui n'est hélas que malheureusement le cas.

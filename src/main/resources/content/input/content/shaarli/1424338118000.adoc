@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: square/javapoet · GitHub
+:jbake-tags: programming,générateur,java,builder,library,_mois_févr.,_année_2015
+:jbake-date: 2015-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1424338118000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsquare%2Fjavapoet&searchtags=programming+g%C3%A9n%C3%A9rateur+java+builder+library+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/square/javapoet[square/javapoet · GitHub]
+
+Le genre de librairie d'écriture de code qui peut utilement compléter javaparser ...

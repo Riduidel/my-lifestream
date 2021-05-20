@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GridMove - DonationCoder.com
+:jbake-tags: desktop,dual-screen,freeware,monitor,productivité,software,utilities,windows,XP,_mois_août,_année_2007
+:jbake-date: 2007-08-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1186731667000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.donationcoders.com%2Fjgpaiva%2Fgridmove.html&searchtags=desktop+dual-screen+freeware+monitor+productivit%C3%A9+software+utilities+windows+XP+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.donationcoders.com/jgpaiva/gridmove.html[GridMove - DonationCoder.com]
+
+Un petit logiciel pour se créer des grilles de positionnement de fenêtres, histoire de ne pas se retrouver avec une seule grosse fenêtre, ni de devoir se les repositionner à la main à chaque fois.

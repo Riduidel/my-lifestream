@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Here's my list. Download the tools, exctract the archives to a folder on your harddisk and burn them on a CD-ROM. Or put them on your USB-stick. If you leave out all unnecessary files (documentation, language files, etc.) and compress all executables with
+:jbake-tags: freeware,utilities,windows,software,library,_mois_nov.,_année_2005
+:jbake-date: 2005-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1131981169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dirk-loss.de%2Fwin-tools.htm&searchtags=freeware+utilities+windows+software+library+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.dirk-loss.de/win-tools.htm[Here's my list. Download the tools, exctract the archives to a folder on your harddisk and burn them on a CD-ROM. Or put them on your USB-stick. If you leave out all unnecessary files (documentation, language files, etc.) and compress all executables with]
+
+Un ensemble de petits logiciels assez sympas, qui peuvent rendre pas mal de services, lancés depuis un CD ou une clé USB

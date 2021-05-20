@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome
+:jbake-tags: web,programming,rust,_mois_juin,_année_2018
+:jbake-date: 2018-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1528197178000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Factix.rs%2F&searchtags=web+programming+rust+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://actix.rs/[Welcome]
+
+Oh oh, un micro-framework web Rust, qui me paraît ressembler conceptuellement à Vert.x. Une belle trouvaille de @waxcze

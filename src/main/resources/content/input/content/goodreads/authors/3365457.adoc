@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ann Leckie
+:jbake-tags: author
+:jbake-date: 2017-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3365457.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1402526383p5/3365457.jpg
+:jbake-source: https://www.goodreads.com/author/show/3365457
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780316246620.html[Ancillary Justice (Imperial Radch, #1)]
+* link:../books/9782290111444.html[L'Épée de l'Ancillaire (Imperial Radch #2)]
+* link:../books/9782290111451.html[La Miséricorde de l'ancillaire (Imperial Radch #3)]
+* link:../books/9782290228807.html[Provenance]

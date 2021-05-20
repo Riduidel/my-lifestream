@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: import•io is data, simply
+:jbake-tags: software,windows,macosx,linux,etl,_mois_juin,_année_2013
+:jbake-date: 2013-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1372434013000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fimport.io%2F&searchtags=software+windows+macosx+linux+etl+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://import.io/[import•io is data, simply]
+
+Ca ressemble à un outil d'ETL, non ? C'est pas avec ça que je pourrais extraire mes données de divers servcies web intéressants et produire un site statique avec ?

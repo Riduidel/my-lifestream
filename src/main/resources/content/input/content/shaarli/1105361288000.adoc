@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Boolgum : moteur de recherche francophone, requêtes internet, recherche synonymes
+:jbake-tags: web,search,_mois_janv.,_année_2005
+:jbake-date: 2005-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1105361288000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.boolgum.fr%2F&searchtags=web+search+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.boolgum.fr/[Boolgum : moteur de recherche francophone, requêtes internet, recherche synonymes]
+
+Boolgum.fr affiche automatiquement, pour chaque requête : - un comparateur de prix - une liste de synonymes - une liste des recherches connexes les plus fréquentes Et dès le mois de janvier 2005 : - la définition de n’importe quel mot-clé

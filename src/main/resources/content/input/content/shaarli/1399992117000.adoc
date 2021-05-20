@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Too Fast, Too Megamorphic: what influences method call performance in Java?
+:jbake-tags: java,performance,programming,benchmark,_mois_mai,_année_2014
+:jbake-date: 2014-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1399992117000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.insightfullogic.com%2Fblog%2F2014%2Fmay%2F12%2Ffast-and-megamorphic-what-influences-method-invoca%2F&searchtags=java+performance+programming+benchmark+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.insightfullogic.com/blog/2014/may/12/fast-and-megamorphic-what-influences-method-invoca/[Too Fast, Too Megamorphic: what influences method call performance in Java?]
+
+Un article bien pointu sur l'intérêt (ou pas) de rendre une méthode final ... Mais également de l'intérêt (ou pas, encore une fois) des méthodes redéfinies/surchargées pour la performance.

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Mystère de l'île étrange (De Cape et de Crocs, #4)
+:jbake-tags:  monstre,_année_2016,_mois_juin,_note_5,rayon-bd,read
+:jbake-date: 2016-06-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840553359.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1927723
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/876891.html[Alain Ayroles]
+* link:../authors/876892.html[Jean-Luc Masbou]
+
+## Series
+* link:../series/De_Cape_et_de_Crocs.html[De Cape et de Crocs]
+
+## Review
+
+++++
+Comme d'habitude excellent.<br/>Je trouve le final dans le théâtre lunatique particulièrement inspiré, puisqu'il met en abîme la farce jouée sur scène et la farce des combats.<br/>En bonus, la pièce de théatre en postface, qui reprend certains éléments de Cyrano de Bergerac commence à laisser sous-entendre le virage qu'on verra de façon plus évident dans les tomes suivants : en quittant l’Europe pour les îles Tangerine, nos héros quittent aussi Molière et la littérature classique pour le monde plus incertain de la littérature classique d'aventure.
+++++

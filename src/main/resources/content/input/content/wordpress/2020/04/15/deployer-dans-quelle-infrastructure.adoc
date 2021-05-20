@@ -1,0 +1,44 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Déployer ... dans quelle infrastructure ?
+:jbake-tags: architecture_agile,infrastructure,validation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/15/deployer-dans-quelle-infrastructure.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/15/deployer-dans-quelle-infrastructure/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série concernant la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a>. Maintenant qu'on a défini une <a href="https://riduidel.wordpress.com/2020/04/10/alors-ca-ressemble-a-quoi-une-architecture-avec-c4/">architecture</a>, et pour laquelle on a organisé notre <a href="https://riduidel.wordpress.com/2020/04/14/nous-avons-bien-concu-codons-maintenant/">code</a> et nos <a href="https://riduidel.wordpress.com/2020/04/14/architecturons-nos-donnees/">données</a>, il est temps de définir une <a href="https://structurizr.com/help/documentation/infrastructure-architecture">infrastructure </a>...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je vais être clair, cette partie perd de son importance ces temps-ci. En effet, on est maintenant à l'ère du cloud et des applications conteneurisées, on ne sait plus trop où tourne l'application, ni quelle est la qualité du réseau permettant aux composants de l'architecture de s'y connecter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, définir la taille des composants n'est plus très intéressant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca ne veut pas dire qu'il n'est pas important de spécificer certains éléments de l'architecture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par exemple, que votre application soit déployée sur une architecture virtualisée ou non, il faut quand même savoir si le serveur de base de données disposera d'un backup (qui aura été testé), quel est le niveau de performance des connexions réseau entre les différents composants.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En fait, comme pour les autres parties, l'essentiel est ici d'ouvrir la discussion avec les gens qui s'occupent de l'infrastructure (que ces gens soient une équipe interne à votre organisation ou un sous-traitant). Généralement, ça vous apportera des réponses intéressantes ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par ailleurs, encore une fois, l'infrastructure est un domaine pour lequel vous disposez forcément d'API : vous avez sans doute un outil d'inventaire des différents systèmes (avant, ça s'appelait <a href="https://glpi-project.org/fr/">GLPI</a>). Et cet outil d'infrastructure est sans doute accessible. En revanche, d'une façon curieuse, vous ne disposez généralement pas des autorisations d'accès vous permettant de consulter ce gestionnaire d'infrastructure, alors que c'est important. Parce que sans parler de manque de confiance, les erreurs existent, et si votre architecture définit un serveur disposant de 8 Go de RAM, vérifiez-le. Et vérifiez-le à chaque fois. Parce que pour une infrastructure virtualisée, ces 8 Go peuvent être changeants. Enfin, ils seront toujours prétendûment là, mais n'existeront peut-être pas. Il sera donc utile que votre outil de documentation d'architecture vérifie que l'inventaire fourni par les équipes dédiées est réaliste.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que dans la prochaine section, nous verrons comment déployer l'application dans cette infrastructure, et il sera là utile de vérifier que l'application peut se déployer dans les conditions que vous avez recommandé.</p>
+<!-- /wp:paragraph -->
+++++

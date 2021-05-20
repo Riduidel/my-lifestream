@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust testing, data generation and const asserts - Ben McDonald - Medium
+:jbake-tags: rust,programming,debug,assertions,_mois_févr.,_année_2020
+:jbake-date: 2020-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1580569270000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40benmcdonald_11671%2Frust-testing-data-generation-and-const-asserts-95f25869c45a&searchtags=rust+programming+debug+assertions+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/@benmcdonald_11671/rust-testing-data-generation-and-const-asserts-95f25869c45a[Rust testing, data generation and const asserts - Ben McDonald - Medium]
+
+Oh je ne connaissais pas les debug\_assertions, ça a l'air chouette !

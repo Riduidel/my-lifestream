@@ -1,0 +1,258 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevFest Lille 3 : L’UX a sauvé mon DevOps
+:jbake-tags: agile,amélioration,devfest,devops,ux,_mois_juin,_année_2018
+:jbake-date: 2018-06-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/21/devfest-lille-3-lux-a-sauve-mon-devops.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/21/devfest-lille-3-lux-a-sauve-mon-devops/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Estelle est PO chez Elium. Et elle fait partie des Duchess (et ça c’est cool !). François est développeur chez Saagie (encore un :-)). Et il fait du Rust (et ça c’est - évidement - très cool).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_les_concepts">Les concepts</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_devops">Devops</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le buzzword du moment (je suis bien d’accord). Mais surtout une façon d’intégrer de nouvelles phases de déploiement dans le périmètre des équipes qui construisent le logiciel. Attention, ça ne veut pas dire NoOps (c’est-à-dire virer les ops des structures). Ca veut plutôt dire les intégrer correctement dans les équipes.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_ux">UX</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+C’est une approche à la croisée du design, de la stratégie et de la technologie. Mais c’est assez différent du design et de l’UI. L’exemple typique, ce sont les raccourcis que prennent les piétons plutôt que de respecter les détourss que font les trottoirs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+L’UX, ça se découpe en plusieurs phases
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist">
+<br/>
+<ul>
+<br/>
+<li>Exploration</li>
+<br/>
+<li>Idéation</li>
+<br/>
+<li>Génération</li>
+<br/>
+<li>Evaluation</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+(ça me rappelle les bases de la méthode scientifique, c’est fou)
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="_la_rencontre" class="sect0">La rencontre</h1>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Dans une entreprise commune, l’équipe d’ops est devenue DevOps par le biais d’un renommage magique. Ca n’est pas très facile. Et du coup forcément l’équipe DevOps souffre pour les raisons habituelles (trop de pression, pas assez de moyen).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Donc le management a ramené Estelle pour faciliter la communication avec les autres équipes.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_première_étape">Première étape</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+D’abord, prioriser correctement (c’est fou, mais c’est évidement parfois oublié). Et évidement tailler dans le gras du backlog de l’enfer. Et constater que la meilleure communication passait auparavant par les soirées bière de François avec les développeurs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Estelle met ensuite en place les outils agilistes classiques (la rétro du speed boat que je déteste). Le truc amusant, c’est que l’atelier a eu peu de retour effectifs - parce que les ops ne se sont pas vraiment levés pour aller poser des post-its.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_deuxième_étape">Deuxième étape</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Maintenant que les équipes dev et ops se connaissent, il faut aller plus loin. La partie ops n’avait pas d’objectifs visibles. Ces objectifs ont donc été intégrés dans la roadmap de 'léquipe de dev. Par ailleurs, lorsque les développeurs ont besoin de l’équipe ops, ils ont fait en sorte que ça devienne un besoin visible et inscrit dans une roadmap visuelle. Ensuite, Estelle a lancé la fameuse méthode des 5 pourquoi pour trouver les causes des freins au déploiement.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_troisième_étape">Troisième étape</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le problème qui reste, c’est qu’en fait, quand bien même les équipes se connaissent, ils ne s’intéressent pas spécialememt à ce qui se passe de l’autre côté. Et pour pallier à ça, il est temps de passer aux vrais ateliers UX
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_les_6_chapeaux_de_bono">Les 6 chapeaux de Bono</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pour trouver une solution à un problème, il faut savoir changer d’angle. Cette méthode propose 6 angles matérialisés par des chapeaux pour adresser un problème
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist">
+<br/>
+<ul>
+<br/>
+<li>Neutralité</li>
+<br/>
+<li>Emotions</li>
+<br/>
+<li>Créativité</li>
+<br/>
+<li>Pessimisme</li>
+<br/>
+<li>Optimisme</li>
+<br/>
+<li>Organisation</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Donc on l’applique au problème classique de "les dévs n’ont pas assez d’environnements de tests".
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_persona_ux">Persona UX</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Avec ça, on est capable de construire un utilisateur "virtuel" qui va regrouper des attributs clés, et permettre de savoir si ona servi leur besoins sans avoir à leur demander à chaque fois. C’est un outil qui a été très utile à l’équipe DevOps pour construire le design de leurs solutions.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_bilan">Bilan</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Les différents outils présentés s’intègrent bien à l’approche UX, et ont permis une nette amélioration de la collaboration entre les différentes équipes. Attention à un point important : les développeurs sont formés à penser solution. Par exemple,si on leur demande quel est leur problème, ils répondront "je veux du K8s", alors que son problème est "on n’a pas assez d’environnement". DevOps a un impact important sur les développeurs. Et ça consomme énormément de temps dans l’équipe.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Enfin, il ne faut pas oublier que ces solutions sont des solutions adaptées à une équipe. Une autre équipe aura d’autres problèmes, qui impliqueront d’autres solutions.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

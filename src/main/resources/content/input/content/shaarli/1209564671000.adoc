@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Miniaturize a Scene - Wired How-To Wiki
+:jbake-tags: image,photographie,tutorial,tips,_mois_avr.,_année_2008
+:jbake-date: 2008-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1209564671000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhowto.wired.com%2Fwiki%2FMiniaturize_a_Scene&searchtags=image+photographie+tutorial+tips+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://howto.wired.com/wiki/Miniaturize_a_Scene[Miniaturize a Scene - Wired How-To Wiki]
+
+Un tutorial détaillé pour miniaturiser une scène, pour photoshop ET gimp.

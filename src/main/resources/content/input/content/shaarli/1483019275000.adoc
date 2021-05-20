@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust is more than safety
+:jbake-tags: programming,langage,rust,_mois_déc.,_année_2016
+:jbake-date: 2016-12-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1483019275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwords.steveklabnik.com%2Frust-is-more-than-safety&searchtags=programming+langage+rust+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://words.steveklabnik.com/rust-is-more-than-safety[Rust is more than safety]
+
+Bon, j'aime bien l'idée de ce message, mais j'arrive difficilement à rentrer dans Rust

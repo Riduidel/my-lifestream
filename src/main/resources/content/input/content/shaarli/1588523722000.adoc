@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Assessing projects' sustainability on GitHub
+:jbake-tags: dépendances,management,validation,programming,_mois_mai,_année_2020
+:jbake-date: 2020-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1588523722000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.frankel.ch%2Fassessing-projects-sustainability-github%2F&searchtags=d%C3%A9pendances+management+validation+programming+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.frankel.ch/assessing-projects-sustainability-github/[Assessing projects' sustainability on GitHub]
+
+Ca me rappelle une discussion avec Hubert S., même si je ne mets pas les mêmes indicateurs, ni le même poids à ces indicateurs.

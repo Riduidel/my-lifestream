@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Best Free Dynamic DNS Services (Updated 2014) - GNU Tomorrow
+:jbake-tags: web,sécurité,domain,dns,_mois_déc.,_année_2016
+:jbake-date: 2016-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1482951202000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gnutomorrow.com%2Fbest-free-dynamic-dns-services-in-2013%2F&searchtags=web+s%C3%A9curit%C3%A9+domain+dns+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.gnutomorrow.com/best-free-dynamic-dns-services-in-2013/[Best Free Dynamic DNS Services (Updated 2014) - GNU Tomorrow]
+
+Comme let's encrypt ne marche pas avec mon .hd.free.fr ... je vais aller voir ailleurs

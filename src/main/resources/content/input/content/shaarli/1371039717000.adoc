@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chitter.im: a Gtalk bot for Twitter
+:jbake-tags: twitter,jabber,xmpp,bot,gtalk,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1371039717000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.chitter.im%2F&searchtags=twitter+jabber+xmpp+bot+gtalk+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.chitter.im/[Chitter.im: a Gtalk bot for Twitter]
+
+un bot GTalk (exclusivement) pour twitter. Dans la mesure où je ne souhaite plus utiliser mon compte gmail pour xmpp, c'est sans intérêt. Sinon, l'adresse semble être chitter.im@appspot.com

@@ -1,0 +1,48 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Exposer en HTTPS un conteneur Docker qui ne fait que du HTTP
+:jbake-tags: docker,https,sécurité,_mois_nov.,_année_2019
+:jbake-date: 2019-11-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/11/10/exposer-en-https-un-conteneur-docker-qui-ne-fait-que-du-http.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/11/10/exposer-en-https-un-conteneur-docker-qui-ne-fait-que-du-http/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>La semaine dernière, j'ai eu droit à une colle "sympa".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Chez mon client, on utilise de l'OpenID Connect pour sécuriser les services (et c'est cool).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Notre serveur OpenID Connect n'accepte que des urls de redirection en https (ce qui est bien aussi).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Seulement nos applications, qui sont déployées en HTTP, ne connaissent rien au HTTPS. Alors comment je fais pour transformer mon HTTP en HTTPS ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A priori, c'est une question assez pénible. Mais j'ai lu il y a quelques temps un chouette article qui expliquait <a href="https://dev.to/nflamel/how-to-have-https-on-development-with-docker-traefik-v2-and-mkcert-2jh3">comment utiliser Traefik pour exposer du HTTPS à partir de services HTTPS</a>. L'article est vraiment chouette. Mais n'ayant qu'un service HTTP, je me suis dit que Traefik était un poil complexe. Surtout qu'on peut trouver en farfouillant un peu un conteneur Docker fournissant le même service, mais basé sur nginx. Il s'appelle <a href="https://github.com/justsml/ssl-proxy">ssl-proxy</a>. Et il marche vachement bien : avec un simple certificat, mon service peut faire du HTTPS (je ne vous montre pas, c'est dans la doc de ssl-proxy).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, par contre il faut un certificat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et c'est là qu'entre en scène <a href="https://mkcert.dev">mkcert</a>, qui est encore plus chouette. Parce que demander un certificat extérieur pour un pur service Docker, (sur une machine développement qui plus est) c'est un peu trop.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc avec mkcert, on génère un certificat (valable jusqu'en 2029, rien que ça), et ensuite on se lance un ssl-proxy, et c'est la fête !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La seule chose qui me manque là-dedans, c'est un "faux" seveur OpenID Connect qui tourne en local et qui me permette de créer des scénarios d'authentification "à la demande". Mais ça, ça viendra ...</p>
+<!-- /wp:paragraph -->
+++++

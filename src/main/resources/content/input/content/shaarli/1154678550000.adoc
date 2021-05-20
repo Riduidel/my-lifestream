@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Construire Solaire
+:jbake-tags: écologie,science,politique,bricolage,_mois_août,_année_2006
+:jbake-date: 2006-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1154678550000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.construiresolaire.com%2F&searchtags=%C3%A9cologie+science+politique+bricolage+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.construiresolaire.com/[Construire Solaire]
+
+Un site sur la construction solaire, incluant tous les moyens pour réaliser des capteurs solaires, des trous canadiens, et autres bricolages utiles.

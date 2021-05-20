@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nexus
+:jbake-tags: serie
+:jbake-date: 2017-09-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Nexus.adoc
+:jbake-source: https://www.goodreads.com/series/86731
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266260046.html[Nexus (Nexus, #1)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Complexity Explorables | Explorables
+:jbake-tags: programming,théorie,concepts,ia,_mois_mars,_année_2019
+:jbake-date: 2019-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1552595670000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.complexity-explorables.org%2Fexplorables%2F&searchtags=programming+th%C3%A9orie+concepts+ia+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.complexity-explorables.org/explorables/[Complexity Explorables | Explorables]
+
+Il y a là-dedans des leçons pour bien des développeurs, y compris ceux intéressés par la programmation compétitive

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MLdonkey World
+:jbake-tags: software,freeware,open-source,windows,linux,macosx,réseau,p2p,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110985372000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmldonkey.berlios.de%2Fmodules.php%3Fname%3DWiki&searchtags=software+freeware+open-source+windows+linux+macosx+r%C3%A9seau+p2p+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://mldonkey.berlios.de/modules.php?name=Wiki[MLdonkey World]
+
+features: 100% OpenSource, GPL license runs on Linux, Unix, MacOSX, MorphOS and Windows Core and Guis are separated or linked. written in ObjectiveCaml, with some C and even some Assembler parts. OtherNetworksSupported, using separate executables bu

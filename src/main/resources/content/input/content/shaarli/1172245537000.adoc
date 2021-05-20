@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Getting Real by 37signals
+:jbake-tags: documentation,ebook,web,design,développement,XP,_mois_févr.,_année_2007
+:jbake-date: 2007-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1172245537000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgettingreal.37signals.com%2FGR_fra.php&searchtags=documentation+ebook+web+design+d%C3%A9veloppement+XP+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://gettingreal.37signals.com/GR_fra.php[Getting Real by 37signals]
+
+Un livre sur le développement agile et sa réalisation dans une startup

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: htmlcompendium.org - The Compendium of HTML Elements
+:jbake-tags: web,html,css,documentation,langage,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112349069000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.htmlcompendium.org%2FMenus%2F0framefn.htm&searchtags=web+html+css+documentation+langage+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.htmlcompendium.org/Menus/0framefn.htm[htmlcompendium.org - The Compendium of HTML Elements]
+
+

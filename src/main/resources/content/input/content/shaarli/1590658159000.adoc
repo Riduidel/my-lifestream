@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yegor's Blog About Computers
+:jbake-tags: informatique,polémique,design,programming,java,ruby,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590658159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F&searchtags=informatique+pol%C3%A9mique+design+programming+java+ruby+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.yegor256.com/[Yegor's Blog About Computers]
+
+J'ai relayé quelques articles de ce blog, mais à mon avis il faut tout lire, ne serait-ce que parce que Yegor est dans une approche tellement radicale de chacun des sujets qu'il essaye de traiter. C'est fascinant de voir des gens réussir à aller aussi loin.

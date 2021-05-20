@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: IMAPSize
+:jbake-tags: email,imap,synchronisation,windows,software,freeware,_mois_juin,_année_2013
+:jbake-date: 2013-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1372101688000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.broobles.com%2Fimapsize%2Findex.php&searchtags=email+imap+synchronisation+windows+software+freeware+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.broobles.com/imapsize/index.php[IMAPSize]
+
+Il m'a fallu trois BON SANG de jours pour le trouver, mais le voilà : un soft sous Windows qui doit pouvoir me permettre de copier mes mails de GMail dans GMX. Et pour mémoire, les serveurs à utiliser sont imap.gmail.com:993 (avec SSL activé donc) imap.gmx.fr:993 (lui aussi avec SSL activé)

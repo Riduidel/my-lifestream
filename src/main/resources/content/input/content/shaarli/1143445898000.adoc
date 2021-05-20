@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TightProjector Software
+:jbake-tags: software,freeware,windows,réseau,vnc,_mois_mars,_année_2006
+:jbake-date: 2006-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1143445898000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tightvnc.com%2Fprojector%2F&searchtags=software+freeware+windows+r%C3%A9seau+vnc+_mois_mars+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.tightvnc.com/projector/[TightProjector Software]
+
+TightProjector is a software that can transmit the screen of a partucular computer to other computers in the same local-area network. The data is transmitted continuously, in real time. Usage examples: broadcasting a presentation to multiple network

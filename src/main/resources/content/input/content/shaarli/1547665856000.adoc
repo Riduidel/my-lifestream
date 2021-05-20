@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kafka Connect REST API
+:jbake-tags: kafka,api,reference,documentation,_mois_janv.,_année_2019
+:jbake-date: 2019-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1547665856000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmapr.com%2Fdocs%2F52%2FKafka%2FConnect-rest-api.html&searchtags=kafka+api+reference+documentation+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://mapr.com/docs/52/Kafka/Connect-rest-api.html[Kafka Connect REST API]
+
+Avoir la liste des méthodes de l'API de Kafka Connect, c'est bien (ce serait juste mieux si c'était sur le site de Confluent)

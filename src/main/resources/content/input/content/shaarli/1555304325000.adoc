@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Creating a graph based security organisation - Apr 2019 (OWASP London…
+:jbake-tags: architecture,sécurité,documentation,process,_mois_avr.,_année_2019
+:jbake-date: 2019-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1555304325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.slideshare.net%2FDinisCruz%2Fcreating-a-graph-based-security-organisation-apr-2019-owasp-london-chapter-meeting&searchtags=architecture+s%C3%A9curit%C3%A9+documentation+process+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.slideshare.net/DinisCruz/creating-a-graph-based-security-organisation-apr-2019-owasp-london-chapter-meeting[Creating a graph based security organisation - Apr 2019 (OWASP London…]
+
+Alors ça c'est vraiment de l'architecture moderne séduisante. Et je ne dis pas ça seulement à cause de PlantUML :-)

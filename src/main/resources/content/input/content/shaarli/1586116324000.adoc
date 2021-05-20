@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compiler Explorer
+:jbake-tags: rust,programming,optimisation,compilateur,_mois_avr.,_année_2020
+:jbake-date: 2020-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1586116324000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frust.godbolt.org%2Fz%2FjL_5sC&searchtags=rust+programming+optimisation+compilateur+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://rust.godbolt.org/z/jL_5sC[Compiler Explorer]
+
+Nom de nom ! Vous voyez cet exemple de code Rust ? La fonction await est compilée, la fonction dépendante aussi, et le code est absolument minimal ! Il faut que je montre ça à Rémi Forax, il en fera une attaque !

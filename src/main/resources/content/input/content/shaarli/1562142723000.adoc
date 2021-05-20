@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Munnelly on Twitter: ""as header names are case-insensitive, this change will not affect clients and servers that follow the HTTP/1.1 specification" I predict a lot of dev teams are going to discover their home-built business logic is in fact *not* HTTP/1.1 compliant on September 30th... 🙄… https://t.co/yF5nxwlOWC"
+:jbake-tags: politique,web,http,_mois_juil.,_année_2019
+:jbake-date: 2019-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1562142723000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJamesMunnelly%2Fstatus%2F1145955413248172032&searchtags=politique+web+http+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/JamesMunnelly/status/1145955413248172032[James Munnelly on Twitter: ""as header names are case-insensitive, this change will not affect clients and servers that follow the HTTP/1.1 specification" I predict a lot of dev teams are going to discover their home-built business logic is in fact *not* HTTP/1.1 compliant on September 30th... 🙄… https://t.co/yF5nxwlOWC"]
+
+Au passage, le load-balancer qui te change la casse de tes entêtes, c'est ... moyen, comme respect du contrat de non-modification des requêtes/réponses ... Mais bon, quand Google veut, Google fait.

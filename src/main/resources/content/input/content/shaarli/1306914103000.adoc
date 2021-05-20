@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LeizerSoft
+:jbake-tags: software,windows,productivité,freeware,_mois_juin,_année_2011
+:jbake-date: 2011-06-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1306914103000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsites.google.com%2Fsite%2Fleizersoftware%2Fhome&searchtags=software+windows+productivit%C3%A9+freeware+_mois_juin+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://sites.google.com/site/leizersoftware/home[LeizerSoft]
+
+Sans doute la façon la plus facile de désinstaller un soft sous Windows. Mais pourquoi personne n'y avait pensé avant ?

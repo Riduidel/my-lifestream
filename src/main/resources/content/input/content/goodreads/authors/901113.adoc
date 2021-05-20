@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Denis Bajram
+:jbake-tags: author
+:jbake-date: 2010-12-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/901113.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/901113
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782845650374.html[Caïn et Abel (Universal War One #3)]
+* link:../books/9782849460955.html[Le Patriarche (Universal War One #6)]
+* link:../books/9782849465349.html[Babel (Universal War One #5)]
+* link:../books/9782849465356.html[La Genèse (Universal War One #1)]
+* link:../books/9782849466995.html[Universal War One, Tome 4 : Le Déluge ]
+* link:../books/9782877649377.html[Le Fruit de la connaissance (Universal War One #2)]

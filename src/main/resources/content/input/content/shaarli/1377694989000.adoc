@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Online Strategy Games (OSG), MMO Strategy Games
+:jbake-tags: web,jeu,online,_mois_août,_année_2013
+:jbake-date: 2013-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1377694989000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fosg1.com&searchtags=web+jeu+online+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://osg1.com[Online Strategy Games (OSG), MMO Strategy Games]
+
+Un chouette site permetttant de découvrir tout un paquet de jeux de gestion/stratégie en mode web ... Curieux cependant qu'ils marquent Travian comme un "must-play", j'ai plutôt le souvenir d'un truc un peu ... routinier.

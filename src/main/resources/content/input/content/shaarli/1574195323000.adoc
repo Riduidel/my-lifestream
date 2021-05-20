@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: llogiq/flame: An intrusive flamegraph profiling tool for rust.
+:jbake-tags: performance,reporting,rust,library,générateur,_mois_nov.,_année_2019
+:jbake-date: 2019-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1574195323000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fllogiq%2Fflame&searchtags=performance+reporting+rust+library+g%C3%A9n%C3%A9rateur+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/llogiq/flame[llogiq/flame: An intrusive flamegraph profiling tool for rust.]
+
+Du flamegraph facile pour Rust ! Trop bien ! Et j'ai même pas l'impression que ce soit spécifique à Linux !

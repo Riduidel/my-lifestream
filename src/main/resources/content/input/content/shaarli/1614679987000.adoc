@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Opinion: WordPress is Still Pretty Darn Great
+:jbake-tags: wordpress,blog,opinion,web,évolution,_mois_mars,_année_2021
+:jbake-date: 2021-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1614679987000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faustingil.com%2Fwordpress-is-still-pretty-darn-great%2F&searchtags=wordpress+blog+opinion+web+%C3%A9volution+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://austingil.com/wordpress-is-still-pretty-darn-great/[Opinion: WordPress is Still Pretty Darn Great]
+
+Un truc qui n'est pas dit là-dedans, c'est qu'avant d'être un outil de création de sites généralistes, c'est un outil de gestion de blog. Et pour gérer un blog, c'est un outil extrêmement pratique.

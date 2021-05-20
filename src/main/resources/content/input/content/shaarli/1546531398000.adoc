@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Automatically Generating Comments for Arbitrary Source Code - Two Six Labs | Advanced Analytics, Cyber Capabilities, Tactical Mobility Solutions for National Security
+:jbake-tags: programming,documentation,générateur,_mois_janv.,_année_2019
+:jbake-date: 2019-01-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1546531398000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.twosixlabs.com%2Fautomatically-generating-comments-for-arbitrary-source-code%2F&searchtags=programming+documentation+g%C3%A9n%C3%A9rateur+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.twosixlabs.com/automatically-generating-comments-for-arbitrary-source-code/[Automatically Generating Comments for Arbitrary Source Code - Two Six Labs | Advanced Analytics, Cyber Capabilities, Tactical Mobility Solutions for National Security]
+
+Ca me fait rêver cet outil, littéralement.

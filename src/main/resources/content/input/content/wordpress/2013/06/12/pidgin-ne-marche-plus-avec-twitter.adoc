@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pidgin ne marche plus avec twitter ?
+:jbake-tags: pidgin,twitter,web,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/12/pidgin-ne-marche-plus-avec-twitter.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/12/pidgin-ne-marche-plus-avec-twitter/
+:jbake-style: wordpress
+
+++++
+<p>
+Rha ...
+</p>
+<p>
+Ca doit être la quatrième fois que je perds la possibilité de twitter depuis pidgin.
+</p>
+<p>
+A chaque fois je trouve une parade, mais à chaque fois c'est pénible.
+</p>
+<p>
+Donc, en attendant de trouver une solution "viable", je vais d'abord mettre à jour pidgin ...
+</p>
+++++

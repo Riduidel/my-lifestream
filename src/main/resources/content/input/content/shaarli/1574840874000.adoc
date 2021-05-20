@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: No more google for console junkies
+:jbake-tags: google,accessibility,web,_mois_nov.,_année_2019
+:jbake-date: 2019-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1574840874000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblind.guru%2Fendofgoogle.html&searchtags=google+accessibility+web+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blind.guru/endofgoogle.html[No more google for console junkies]
+
+Trop bien google ! L'accessibilité, tout ça, c'est pas important pour eux, c'est ça ?

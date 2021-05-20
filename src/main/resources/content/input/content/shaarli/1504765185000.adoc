@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Movie Times In Modern Times - Sociological Images
+:jbake-tags: science,visualisation,histoire,_mois_sept.,_année_2017
+:jbake-date: 2017-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1504765185000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthesocietypages.org%2Fsocimages%2F2017%2F09%2F06%2Fmovie-times-in-modern-times%2F&searchtags=science+visualisation+histoire+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://thesocietypages.org/socimages/2017/09/06/movie-times-in-modern-times/[Movie Times In Modern Times - Sociological Images]
+
+Le formattage a l'oeuvre. Pourrait-on réaliser la même chose pour un langage informatique ? Ce serait "marrant"

@@ -1,0 +1,239 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La blockchain ... au chtijug !
+:jbake-tags: blockchain,_mois_juin,_année_2016
+:jbake-date: 2016-06-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/06/01/la-blockchain-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/06/01/la-blockchain-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+Avant toute chose, un petit avertissement : j'ai mangé à Devoxx de la blockchain à foison. Et cette session du chtijug avait donc pour moi comme un goût ... de trop peu.
+</p>
+<p>
+Avant donc de lire ce compte-rendu, je vous encourage à jeter un oeil aux articles précédents
+<br/>
+<ul>
+<br/>
+<li><a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-blockchain-as-a-trust-machine/">#devoxxfr – blockchain as a trust machine</a> pour un aperçu fonctionnel</li>
+<br/>
+<li><a href="https://riduidel.wordpress.com/2016/04/20/devoxxfr-la-blockchain-en-detail/">#devoxxfr la blockchain en détail</a> pour les détails techniques</li>
+<br/>
+<li><a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-blockchain-as-a-trust-machine/">#devoxxfr – Développez votre première application décentralisée sur la blockchain avec Ethereum et Embark</a> pour commencer à coder</li>
+<br/>
+</ul>
+<br/>
+Et donc, c'est parti !
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/737 688 821 450 584 065" class="date">31 mai 2016 à 18:54:55</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Session blockchain et bitcoin chez Worldline avec Julien Jimenez et @seb2point0 #ethereum #chainscript y a du monde! https://t.co/YDAUMt88Za</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CjzMCjFVAAUNX1p.jpg" alt="737 688 783 131 312 133"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CjzMDO-UkAEvD2q.jpg" alt="737 688 794 913 083 393"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CjzMEEGVAAAz1Yt.jpg" alt="737 688 809 173 745 664"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>/
+<br/>
+<h1> Survolons donc la blockchain</h1>
+<br/>
+Pour commencer, petit retour classique sur l'argent : le troc, puis la monnaie, la monnaie fiduciaire, et la crise boursière de 2008. Au passage, et là c'est mon avis, il me semble que toutes ces histoires du troc qui s'étend pour devenir la monnaie sont assez remises en cause par les économistes/historiens ...
+<br/>
+Ce qui nous amène comme d'habitude à Bitcoin et son échange de monnaie en P2P.
+<br/>
+Bitcoin permet d'écrire la confiance dans le code (voir à ce sujet <a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-blockchain-as-a-trust-machine/">blockchain as a trust machine</a>).
+<br/>
+Vient ensuite le classique passage sur l'opposition entre les banques traditionnelles et le P2P qui va tout fracasser.
+<br/>
+Pour Julien, ça n'est pas intéressant, alors que c'est tout le sel du sujet : décider où placer le curseur de la distribution de données va permettre (ou pas) le succès de l'implémentation.
+</p>
+<p>
+Revenons à la technique : la blockchain, basée sur un livre de comptes public et distribué, et une méthode de construction de consensus.
+</p>
+<p>
+Ce livre de comptes est découpé en plusieurs blocs. Pour créer un nouveau bloc, des acteurs de la blockchain sont incités à effectuer les calculs permettant d'initialiser le bloc suivant (ce sont les fameux mineurs). C'est l'un des points importants : tous les concepts de la blockchain se basent sur des incitations ou pénalités "économiques" favorisant ou empêchant des comportements. Ainsi, les mineurs sont récompensés par des transactions dans le livre de compte en leur faveur lorsqu'ils permettent d'initialiser un nouveau bloc.
+</p>
+<p>
+Julien voit ça comme une base de données distribuée. C'est vrai au sens où les données sont distribuées. En revanche, les capacités d'indexation et de recherche sont ... un peu faibles.
+</p>
+<p>
+Après un aperçu très ... vague de l'activité de minage, vient une comparaison entre bitcoin et les banques traditionnelles. Dans ce cas, la principale différence est que le réseau Bitcoin est totallement public. Oui, public : tous les comptes de tous les utilisateurs sont visibles. Il se trouve juste que ces comptes sont des UUID illisibles.
+</p>
+<p>
+Le cas d'utilisation présenté ensuite est séduisant, avec la borne de paiement acceptant les bitcoins, mais irréaliste au vu des délais de validation des transactions : actuellement, il faut environ 5 blocs pour être sûr de la validation de la transaction, soit presqu'une heure ... Difficile d'attendre tout ce temps pour acheter sa baguette.
+</p>
+<p>
+L'un des intérêts de bitcoin est aussi que le langage de script embarqué dans les transactions permet des opérations plus complexes que le simple échange de bitcoin de gré à gré. On peut par exemple faire valider le paiement par N personnes parmi M, ou attendre le paiement jusqu'à une date donnée.
+</p>
+<p>
+Vient ensuite le sujet des oracles. Un oracle permet d'injecter dans la blockchain des données externes. Le gros problème est que, comme toutes les transactions sont rejouées sur tous les noeuds, il faut que les valeurs renvoyées par les oracles soient indépendantes de la date à laquelle ces oracles sont appelés.
+</p>
+<p>
+Ce qui nous amène aux limites
+<br/>
+<ul>
+<br/>
+<li>le manque de scalabilité</li>
+<br/>
+<li>la concentration des acteurs</li>
+<br/>
+<li>les choix technologiques</li>
+<br/>
+<li>la gouvernance du projet</li>
+<br/>
+<li>la protection des clés</li>
+<br/>
+</ul>
+<br/>
+Heureusement, des blockchains, il y en a plein. Elles ont certes des valorisations inférieures, mais les évolutions sont encore nombreuses. Et elles ont des objectifs différents : certaines ont un objectif monétaire, ou applicatif ... comme ethereum.
+</p>
+<p>
+Dans ethereum, on peut mettre des transactions d'échange de valeurs, mais aussi des transactions définissant de nouveaux programmes (les fameux smart contracts). Evidement, ces programmes ne sont plus arrêtables à partir du moment où ils sont livrés dans un bloc ethereum.
+</p>
+<p>
+Et encore une fois, etherscript et son quasi-scratch éminement lisible est lancé.
+</p>
+<p>
+Dans les exemples d'utilisation, la gestion des cartes volées est anecdotique. En revanche, la gestion du carnet d'entretien automobile dans une blockchain est intéressante, au sens où elle entre précisément dans le champ de la confiance faible : les acheteurs automobiles ont peu confiance en les vendeurs, qui peuvent produire de fausses factures. Stocker les informations dans un tiers de confiance distribué dans ce cas est franchement utile.
+<br/>
+<h1>Stratumn et les workflow de confiance</h1>
+<br/>
+Passons maintenant à <a href="https://twitter.com/seb2point0">Seb</a>, de <a href="https://stratumn.com/">Stratumn </a>... qui nous a mis sa présentation sur internet
+</p>
+<p>
+http://fr.slideshare.net/stratumn/trusted-workflows-franais
+</p>
+<p>
+Stratumn imagine un paradigme de fonctionnement de la donnée, qui permette d'arrêter les workflow débiles type renouvellement de la carte de séjour : un tiers produit des documents pour un autre tiers que je vais transporter en tant que tiers de confiance.
+</p>
+<p>
+Et là, la meilleure description de la blockchain est donnée : c'est en fait une base de notarialisation ou de timestamping (selon la qualité de votre accent). En effet, les blockchains permettent simplement de s'assurer qu'une donnée est dans un état à un instant grâce à plusieurs propriétés :
+<br/>
+<ul>
+<br/>
+<li>immuabilité</li>
+<br/>
+<li>auditabilité</li>
+<br/>
+<li>inviolabilité</li>
+<br/>
+</ul>
+<br/>
+Typiquement, dans Bitcoin, en inscrivant des transactions minimales, on peut ajouter dans la transaction un hash qui indique qu'une donnée était dans un état donné avant que la transaction ne soit inscrite.
+</p>
+<p>
+Ils ont donc créé <a href="http://chainscript.io">chainscript.io</a> qui permet de définir un workflow dans la blockchain. Alors j'ai un doute sur le concept de chainscript. Je m'explique : l'intérêt de la blockchain est de fournir une auditabilité totale. Or avec chainscript, on ne met dans la blockchain que des hashes. Et en fait, des hashes construit à partir d'innombrables transactions chainscript. Du coup, l'auditabilité en prend un sacré coup.
+</p>
+<p>
+En revanche, je retiens comme un concept aussi fort que le <a href="https://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8me_CAP?oldformat=true">théorème CAP </a>la trinité des preuves établie par Seb :
+<br/>
+<ol>
+<br/>
+<li>preuve d'existence</li>
+<br/>
+<li>preuve de calcul</li>
+<br/>
+<li>preuve de propriété</li>
+<br/>
+</ol>
+<br/>
+Avec ces trois éléments, on peut prouver que l'opération a bien été effectuée d'une façon immuable et inviolable. Et ça, c'est la clé de toutes les blockchains, à mon sens, et l'élément qui permettra d'en tirer un modèle économique, qu'il soit basé sur une blockchain privée ou publique.
+</p>
+<p>
+Finalement, une bonne session, à part le buffet (qui a été le premier buffet à moitié loupé du chtijug).
+</p>
+<p>
+Et pour finir, un dernier tweet de l'un de nos joyeux organisateurs qui va élargir le débat
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/jak78" class="screenName"><img src="http://pbs.twimg.com/profile_images/378800000088121039/b4e73262ceb62ea0c3721ce37cccaed7_mini.jpeg" alt="profile of Helping companies to build amazing software&teams, founder @OCTOChti, @chtijug, @nordagile, Soft. craft. Lille, Culture Code author https://t.co/ZdVAWvMCE1"/>jak78</a>
+<br/>
+<span class="name">Julien Jakubowski</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/jak78/status/737 998 510 214 287 360" class="date">1 juin 2016 à 15:25:30</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Ce que la blockchain pourrait (vraiment) changer à notre vie quotidienne https://t.co/rshwjdzRBQ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

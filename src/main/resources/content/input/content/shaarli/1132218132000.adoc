@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Liendex
+:jbake-tags: français,web,dictionnary,_mois_nov.,_année_2005
+:jbake-date: 2005-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1132218132000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fptaff.ca%2Fliendex%2F&searchtags=fran%C3%A7ais+web+dictionnary+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://ptaff.ca/liendex/[Liendex]
+
+Une liste de liens dynamiques vers des définitions d'un terme. Très pratique.

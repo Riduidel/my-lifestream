@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The W3C CSS Validation Service
+:jbake-tags: web,css,langage,w3c,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112346165000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjigsaw.w3.org%2Fcss-validator%2F&searchtags=web+css+langage+w3c+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://jigsaw.w3.org/css-validator/[The W3C CSS Validation Service]
+
+CSS Validator

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Neverwhere
+:jbake-tags:  fantastique, initiation, noir, rayon-imaginaire, ville,_année_2001,_mois_nov.,_note_4,complot,read
+:jbake-date: 2001-11-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290303344.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/14503
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Une rue de Londres, un soir comme un autre. La jeune fille gît devant lui sur le trottoir, face contre terre, l'épaule ensanglantée. Richard la prend dans ses bras, elle est d'une légèreté surprenante. Et quand elle le supplie de ne pas l'emmener à l'hôpital, il a le sentiment de ne plus être maître de sa volonté. Dès le lendemain, elle disparaît et, pour Richard, tout dérape : sa fiancée le quitte, on ne le connaît plus au bureau, certains, même, ne le voient plus... Le monde à l'envers, la " ville d'En Bas ", cité souterraine où vit un peuple d'une autre époque, invisible aux yeux du commun des mortels. Un peuple organisé, hiérarchisé, et à la tête duquel les rats jouent un rôle prépondérant. Plus rien ne le retenant " là-haut ", Richard rejoint les profondeurs. Fable fantastique ou roman de fantasy contemporain, Neverwhere est inclassable, surprenant, original. Plein d'idées, de rebondissements, de clins d'œil référentiels et de personnages iconoclastes.
+</div>
+++++
+
+
+## Authors
+* link:../authors/1221698.html[Neil Gaiman]
+* link:../authors/94314.html[Patrick Marcel]
+
+## Series
+* link:../series/London_Below___The_World_of_Neverwhere.html[London Below, The World of Neverwhere]
+
+## Review
+
+++++
+Neverwhere raconte l’histoire d’un héros ordinaire, qui passe du Londres normal à une réalité alternative, placée dans les failles du vrai Londres. Une très belle histoire onirique, fantastique, émouvante et très intéressante. <br/><br/>On peut au moins dire de ce roman qu’il est bien, et que j’ai beaucoup aimé la manière dont l’auteur exploite la géographie de Londres. Ca doit sûrement être vraiment le pied pour les londoniens, car leur ville est transformée en un lieu imaginaire assez étrange, où certaines personnes ont des dons assez étranges, comme Porte ou Mrs Croup et Vandemar. Mais ce qui est encore plus étrange, et à mon avis ce qui donne la plus grande valeur à ce roman, c’est que l’auteur ne cherche pas une justification totale à son monde fantasmé, au contraire de bien des auteurs pour qui la cohérence passe par une construction méticuleuse. On suit donc ici les aventures d’un héros atypique, Richard Mayhew, qui plonge littéralement dans cette faille de la réalité. Pourquoi atypique ? Parce qu’il n’est pas supérieur au reste du monde, mais qu’il ne s’agit pas non plus d’un anti-héros, en ce sens qu’il essaye quand même de réussir, son échelle, et qu’il y parvient lorsqu’il obtient la clef de la libération d’Islington.<br/><br/>Tiens, Islington, parlons-en ! Dans n’importe quel autre roman, j’aurais probablement compris assez rapidement qu’il était le vrai mal. Mais là, étrangement, l’effet de dépaysement a parfaitement fonctionné, et comme Richard, confronté à ce monde étrange, j’ai été incapable de deviner les tenants et les aboutissements de cette histoire d’assassinat, uniquement destinée à permettre à cet ange quoi ? On ne le sait pas vraiment, et ce n’est d’ailleurs pas le propos.<br/><br/>C’est vrai, le roman n’est pas ici destiné à raconter une histoire policière, mais plutôt un voyage : celui de Richard dans un monde étrange, caché dans les entrailles de Londres, et ce voyage, par son rythme, son exotisme, son danger, nous colle au livre et nous plonge vraiment dans le smog, l’ambiance un peu brumeuse de Londres.
+++++

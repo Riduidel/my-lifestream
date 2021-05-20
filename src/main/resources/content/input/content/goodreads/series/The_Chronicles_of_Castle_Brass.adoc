@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Chronicles of Castle Brass
+:jbake-tags: serie
+:jbake-date: 2020-07-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Chronicles_of_Castle_Brass.adoc
+:jbake-source: https://www.goodreads.com/series/49208
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266030366.html[Le Comte Airain (La Légende de Hawkmoon #5)]
+* link:../books/9782266030960.html[Le Champion de Garathorm (La Légende de Hawkmoon #6)]
+* link:../books/9782266030953.html[La Quête de Tanelorn (La Légende de Hawkmoon #7)]

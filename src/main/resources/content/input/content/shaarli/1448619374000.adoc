@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Use Java to convert Excel to HTML
+:jbake-tags: java,programming,tutorial,excel,_mois_nov.,_année_2015
+:jbake-date: 2015-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1448619374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fallstarnix.blogspot.fr%2F2013%2F05%2Fuse-java-to-convert-excel-to-html.html&searchtags=java+programming+tutorial+excel+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://allstarnix.blogspot.fr/2013/05/use-java-to-convert-excel-to-html.html[Use Java to convert Excel to HTML]
+
+Et c'est grâce à cet exemple (et à POI), que je vais transformer des fichiers Excel en jolies pages web

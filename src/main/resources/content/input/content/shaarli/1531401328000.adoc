@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: awesome-test-automation/java-test-automation.md at master · atinfo/awesome-test-automation
+:jbake-tags: java,programming,test,library,framework,list,_mois_juil.,_année_2018
+:jbake-date: 2018-07-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1531401328000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fatinfo%2Fawesome-test-automation%2Fblob%2Fmaster%2Fjava-test-automation.md%23api-test-automation&searchtags=java+programming+test+library+framework+list+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/atinfo/awesome-test-automation/blob/master/java-test-automation.md#api-test-automation[awesome-test-automation/java-test-automation.md at master · atinfo/awesome-test-automation]
+
+Java c'est génial, et il y a plein d'outils de tests. Mais la liste n'est pas complète (par exemple il manque Contiperf)

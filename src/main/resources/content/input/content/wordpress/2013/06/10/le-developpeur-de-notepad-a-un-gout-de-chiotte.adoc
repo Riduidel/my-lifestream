@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le développeur de Notepad++ a un goût de chiotte
+:jbake-tags: citation,humour,notepad++,_mois_juin,_année_2013
+:jbake-date: 2013-06-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/10/le-developpeur-de-notepad-a-un-gout-de-chiotte.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/10/le-developpeur-de-notepad-a-un-gout-de-chiotte/
+:jbake-style: wordpress
+
+++++
+<p>Mais personnellement, ça me fait bien marrer.</p><p>Un exemple ? Le dernier easter egg ajouté a été expliqué sur <a href="https://plus.google.com/u/0/+notepad-plus-plus/posts?tab=mX">son compte G+</a> :</p><blockquote><p><br />do {<br /> In Notepad++:<br /> 1. Type the text "random"<br /> 2. Select the text "random"<br /> 3. Hit F1<br />} while (true)</p></blockquote><p>N'écoutant que mon courage (et mon mauvais goût personnel), je mets à jour cet excellent éditeur, effectue la manoeuvre requise et ...</p><blockquote><p>F_CK: All I need is U.</p></blockquote><p>Je sais même pas quoi dire :-)</p><p> </p>
+++++

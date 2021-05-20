@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OsmAnd, OsmAnd~ ou OsmAnd (free) ?
+:jbake-tags: android,cartographie,_mois_oct.,_année_2014
+:jbake-date: 2014-10-30
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/10/30/osmand-osmand-ou-osmand-free.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/10/30/osmand-osmand-ou-osmand-free/
+:jbake-style: wordpress
+
+++++
+<p>
+Suite à mon article d'hier, j'ai un peu fouillé sur le wiki d'OsmAnd et il s'avère qu'il n'y a pas une version gratuite et une version payante, mais
+<br/>
+<ul>
+<br/>
+<li>Une version complète payante sur Google Play Store</li>
+<br/>
+<li>Une version gratuite "d'essai" (limitée à 10 téléchargements de cartes) sur le même Google Play Store</li>
+<br/>
+<li>Une version gratuite complète nommée OsmAnd~ sur F-Droid (avec laquelle j'ai pu télécharger le fameux layer Wikipedia qui rajoute des points d'intérêt partout)</li>
+<br/>
+<li>et même une version "bleeding edg" disponible sur le F-Droid, avec toutes les dernières fonctionnalités ... et les derniers bugs.</li>
+<br/>
+</ul>
+<br/>
+Du coup, je me répand en excuse : je me suis trompé, OsmAnd ne fait pas de l'open-source pour vendre une version commerciale. C'est à mona vis plus qu'ils utilisent le Google Play Store pour sponsoriser la version gratuite de F-Droid.
+</p>
+++++

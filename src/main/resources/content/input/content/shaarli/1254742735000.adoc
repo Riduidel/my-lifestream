@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 7-Zip
+:jbake-tags: @toinstall,software,freeware,open-source,system,_mois_oct.,_année_2009
+:jbake-date: 2009-10-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1254742735000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.7-zip.org%2F&searchtags=%40toinstall+software+freeware+open-source+system+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.7-zip.org/[7-Zip]
+
+Mon logiciel de compression de choix

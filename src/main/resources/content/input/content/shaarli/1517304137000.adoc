@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Henrik Kniberg on Twitter: "Can I quote myself? Anyway I will. "Culture is the sum of everyone's attitude and actions, so model the behaviour you want to see!" It's the last words from the Spotify Engineering Culture video, and I think it's worth repeating, especially if you work with org change."
+:jbake-tags: citation,management,culture,entreprise,_mois_janv.,_année_2018
+:jbake-date: 2018-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1517304137000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhenrikkniberg%2Fstatus%2F955742043422318593&searchtags=citation+management+culture+entreprise+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/henrikkniberg/status/955742043422318593[Henrik Kniberg on Twitter: "Can I quote myself? Anyway I will. "Culture is the sum of everyone's attitude and actions, so model the behaviour you want to see!" It's the last words from the Spotify Engineering Culture video, and I think it's worth repeating, especially if you work with org change."]
+
+Très intéressant, et à toujours rappeler aux gens qui ne comprennent pas pourquoi les choses se passent d'une certaine manière

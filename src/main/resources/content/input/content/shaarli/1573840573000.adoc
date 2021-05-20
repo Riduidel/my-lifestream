@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Generating sequence diagrams with HttpRider - Desk Riders
+:jbake-tags: web,http,sequence,générateur,plantuml,_mois_nov.,_année_2019
+:jbake-date: 2019-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1573840573000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.deskriders.dev%2Fposts%2F001-httprider-generating-sequence-diagrams%2F&searchtags=web+http+sequence+g%C3%A9n%C3%A9rateur+plantuml+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.deskriders.dev/posts/001-httprider-generating-sequence-diagrams/[Generating sequence diagrams with HttpRider - Desk Riders]
+
+C'est vraiment chouette, ca donne envie d'utiliser HttpRider !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JVM Performance Magic Tricks | Architects Zone
+:jbake-tags: java,documentation,jvm,optimisation,_mois_juin,_année_2013
+:jbake-date: 2013-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1370436516000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farchitects.dzone.com%2Farticles%2Fjvm-performance-magic-tricks&searchtags=java+documentation+jvm+optimisation+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://architects.dzone.com/articles/jvm-performance-magic-tricks[JVM Performance Magic Tricks | Architects Zone]
+
+Un article de fou expliquant certaines des optimisation que le JIT fait dans notre dos. Certaines font même froid dans le dos, je trouve ...

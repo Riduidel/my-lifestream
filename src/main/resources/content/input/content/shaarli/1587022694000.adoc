@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Transit Map Sketches
+:jbake-tags: carte,concepts,design,_mois_avr.,_année_2020
+:jbake-date: 2020-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1587022694000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmapbakery.github.io%2F&searchtags=carte+concepts+design+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://mapbakery.github.io/[Transit Map Sketches]
+
+Oh j'aime beaucoup cette idée de cartes de métro

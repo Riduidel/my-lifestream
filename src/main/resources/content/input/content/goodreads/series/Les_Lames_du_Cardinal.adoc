@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Lames du Cardinal
+:jbake-tags: serie
+:jbake-date: 2013-05-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Les_Lames_du_Cardinal.adoc
+:jbake-source: https://www.goodreads.com/series/50802
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070448531.html[Les Lames du Cardinal]
+* link:../books/9782070448630.html[L'Alchimiste des ombres]
+* link:../books/9782070448647.html[Le dragon des Arcanes]

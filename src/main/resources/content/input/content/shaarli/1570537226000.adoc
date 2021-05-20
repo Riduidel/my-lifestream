@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kelsey Hightower sur Twitter : "2020 prediction: Monolithic applications will be back in style after people discover the drawbacks of distributed monolithic applications."
+:jbake-tags: architecture,mode,informatique,_mois_oct.,_année_2019
+:jbake-date: 2019-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1570537226000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fkelseyhightower%2Fstatus%2F940259898331238402&searchtags=architecture+mode+informatique+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/kelseyhightower/status/940259898331238402[Kelsey Hightower sur Twitter : "2020 prediction: Monolithic applications will be back in style after people discover the drawbacks of distributed monolithic applications."]
+
+L'industrie de la mode, on en parle ?

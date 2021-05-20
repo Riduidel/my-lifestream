@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PhotoME - Exif, IPTC & ICC Metadata Editor
+:jbake-tags: photographie,iptc,exif,editor,windows,freeware,_mois_août,_année_2019
+:jbake-date: 2019-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1565709155000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.photome.de%2Fhome_en.html&searchtags=photographie+iptc+exif+editor+windows+freeware+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.photome.de/home_en.html[PhotoME - Exif, IPTC & ICC Metadata Editor]
+
+Un outil d'édition de tags pour les photos qui a l'air ... pas trop mal.

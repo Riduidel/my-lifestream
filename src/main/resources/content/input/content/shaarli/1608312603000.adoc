@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ninja Cookie | Refusez l’utilisation des cookies non-essentiels et faites disparaître automatiquement les bandeaux cookies !
+:jbake-tags: web,cookie,plugin,browser,intimité,_mois_déc.,_année_2020
+:jbake-date: 2020-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1608312603000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fninja-cookie.com%2Ffr%2F&searchtags=web+cookie+plugin+browser+intimit%C3%A9+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ninja-cookie.com/fr/[Ninja Cookie | Refusez l’utilisation des cookies non-essentiels et faites disparaître automatiquement les bandeaux cookies !]
+
+Alors personnellement, je dis oui à tous les cookies (avec I don't care about cookies) et je les supprime dès que j'ai quitté le site (avec cookie autodelete). Mais cette extension est intéressante à un défaut près : c'est une entreprise. Donc que vend-elle ?

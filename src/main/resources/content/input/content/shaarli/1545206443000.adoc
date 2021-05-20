@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Source & Secret Santa with Santulator – Tech at King – Medium
+:jbake-tags: javafx,programming,application,open-source,_mois_déc.,_année_2018
+:jbake-date: 2018-12-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1545206443000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Ftechking%2Fopen-source-secret-santa-with-santulator-9101972359fc&searchtags=javafx+programming+application+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://medium.com/techking/open-source-secret-santa-with-santulator-9101972359fc[Open Source & Secret Santa with Santulator – Tech at King – Medium]
+
+Une application -trop cute - de secret santa ... en JavaFX !

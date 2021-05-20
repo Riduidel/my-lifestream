@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bromeliad Trilogy
+:jbake-tags: serie
+:jbake-date: 2003-02-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Bromeliad_Trilogy.adoc
+:jbake-source: https://www.goodreads.com/series/40651
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290315095.html[Le Grand Livre Des Gnomes]

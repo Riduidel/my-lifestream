@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Art of Reading Cloud Docs - Level Up Your Tech | A Cloud Guru
+:jbake-tags: documentation,lecture,informatique,méthode,_mois_févr.,_année_2021
+:jbake-date: 2021-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1613721475000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Facloudguru.com%2Fblog%2Fengineering%2Fthe-career-changing-art-of-reading-the-docs&searchtags=documentation+lecture+informatique+m%C3%A9thode+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://acloudguru.com/blog/engineering/the-career-changing-art-of-reading-the-docs[The Art of Reading Cloud Docs - Level Up Your Tech | A Cloud Guru]
+
+L'article prend l'exemple d'aws, mais c'est vrai partout. Personnellement, à chaque fois que je commence à utiliser un produit, autre de le la doc en entier au moins une fois. C'est toujours long... Et toujours rentable !

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moties
+:jbake-tags: serie
+:jbake-date: 2010-10-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Moties.adoc
+:jbake-source: https://www.goodreads.com/series/57880
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266181150.html[La Paille dans l'œil de Dieu]

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Monarchies of God
+:jbake-tags: serie
+:jbake-date: 2011-07-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Monarchies_of_God.adoc
+:jbake-source: https://www.goodreads.com/series/49870
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780441009039.html[Hawkwood's Voyage (The Monarchies of God, #1)]

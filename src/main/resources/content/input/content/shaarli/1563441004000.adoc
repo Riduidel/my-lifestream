@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Notes on a smaller Rust
+:jbake-tags: rust,programming,concepts,design,_mois_juil.,_année_2019
+:jbake-date: 2019-07-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1563441004000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fboats.gitlab.io%2Fblog%2Fpost%2Fnotes-on-a-smaller-rust%2F&searchtags=rust+programming+concepts+design+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://boats.gitlab.io/blog/post/notes-on-a-smaller-rust/[Notes on a smaller Rust]
+
+Au-dela de la recherche d'un Rust plus concis, il y a surtout une présentation claire des avantages conceptuels du Rust (qui n'ont \*rien\* à voir avec le fait d'être un langage "système")

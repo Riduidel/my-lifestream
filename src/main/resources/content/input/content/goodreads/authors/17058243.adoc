@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Анна Старобинец
+:jbake-tags: author
+:jbake-date: 2017-04-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/17058243.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1532397208p5/17058243.jpg
+:jbake-source: https://www.goodreads.com/author/show/17058243
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266268578.html[Le Vivant]

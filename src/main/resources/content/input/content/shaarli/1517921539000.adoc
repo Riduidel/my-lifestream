@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hello, world · Issue #1 · lukego/blog
+:jbake-tags: web,blog,markdown,_mois_févr.,_année_2018
+:jbake-date: 2018-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1517921539000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flukego%2Fblog%2Fissues%2F1&searchtags=web+blog+markdown+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/lukego/blog/issues/1[Hello, world · Issue #1 · lukego/blog]
+
+Un blog dans le bug-tracker de GitHub, c'est une idée marrante ... et qui a un certain sens

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Tres Amigos en agilité - Xavier Koma - Coach Agile Lille
+:jbake-tags: agile,organisation,communication,_mois_juin,_année_2020
+:jbake-date: 2020-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1592239500000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxavierkoma.com%2Fles-tres-amigos%2F&searchtags=agile+organisation+communication+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://xavierkoma.com/les-tres-amigos/[Les Tres Amigos en agilité - Xavier Koma - Coach Agile Lille]
+
+Un bon article sur un moyen efficace de borner les user stories. Vas-y Xavier, continue ! (ce serait sympa d'expliquer comment le mener en asynchrone et à distance)

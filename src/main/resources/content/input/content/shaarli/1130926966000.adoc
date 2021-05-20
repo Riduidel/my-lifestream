@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Structure and Interpretation of Computer Programs
+:jbake-tags: documentation,ebook,programming,concepts,_mois_nov.,_année_2005
+:jbake-date: 2005-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1130926966000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmitpress.mit.edu%2Fsicp%2Ffull-text%2Fbook%2Fbook.html&searchtags=documentation+ebook+programming+concepts+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://mitpress.mit.edu/sicp/full-text/book/book.html[Structure and Interpretation of Computer Programs]
+
+Fundamental book on programming

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Launchy
+:jbake-tags: @toinstall,freeware,launcher,productivité,software,open-source,windows,XP,clavier,_mois_mai,_année_2006
+:jbake-date: 2006-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1147251974000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.launchy.net%2F&searchtags=%40toinstall+freeware+launcher+productivit%C3%A9+software+open-source+windows+XP+clavier+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.launchy.net/[Launchy]
+
+Un clone aux fonctionnalités très limitées de Quicksilver, mais déja très pratique pour ne plus toucher le menu Démarrer

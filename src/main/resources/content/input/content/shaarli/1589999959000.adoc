@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: It's Time to Get Back Into RSS | Daniel Miessler
+:jbake-tags: rss,design,web,architecture,information,_mois_mai,_année_2020
+:jbake-date: 2020-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1589999959000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanielmiessler.com%2Fblog%2Fits-time-to-get-back-into-rss%2F&searchtags=rss+design+web+architecture+information+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://danielmiessler.com/blog/its-time-to-get-back-into-rss/[It's Time to Get Back Into RSS | Daniel Miessler]
+
+L'article est très chouette. Et il explique bien à quel point le RSS est une bonne idée.

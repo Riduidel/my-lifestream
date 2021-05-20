@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OkHttp’s New URL Class
+:jbake-tags: java,programming,library,réseau,_mois_mai,_année_2015
+:jbake-date: 2015-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1432879420000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcorner.squareup.com%2F2015%2F05%2Fokhttp-2-4.html&searchtags=java+programming+library+r%C3%A9seau+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://corner.squareup.com/2015/05/okhttp-2-4.html[OkHttp’s New URL Class]
+
+Très chouette remplacement de la maudite classe URL (qui est effectivement bien pourrie)

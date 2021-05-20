@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les dents du recoin (Les aventures de Jérôme Moucherot, #1)
+:jbake-tags:  fantastique, jungle, rayon-emprunt, ville, voyage,_année_2012,_mois_oct.,_note_2,rayon-bd,read
+:jbake-date: 2012-10-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782203388666.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1768006
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/120448.html[François Boucq]
+
+## Series
+* link:../series/Les_aventures_de_Jerome_Moucherot.html[Les aventures de Jérôme Moucherot]
+
+## Review
+
+++++
+Drôle d'histoire : ca part dans tous les sens, et il n'y a parfois même pas vraiment de vraissemblance (Jérôme Moucherot respirant tranquillement au fond de l'océan, par exemple).<br/>Mais bon, le dessin est joli.<br/>Ca ne suffira pas à me faire lire le second tome, notez bien. Mais bon, c'est distrayant quand même.
+++++

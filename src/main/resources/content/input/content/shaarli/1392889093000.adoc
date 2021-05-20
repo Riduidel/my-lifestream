@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Twitch Plays Pokémon
+:jbake-tags: jeu,web,pokemon,social,science,_mois_févr.,_année_2014
+:jbake-date: 2014-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1392889093000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FTwitch_Plays_Pok%C3%A9mon&searchtags=jeu+web+pokemon+social+science+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://fr.wikipedia.org/wiki/Twitch_Plays_Pokémon[Twitch Plays Pokémon]
+
+Une expérience complètement folle : il y a des dizaines de milliers de joueurs actuellement, et une création de mèmes par dizaines. Un compte-rendu plus complet est disponible là : http://www.reddit.com/r/twitchplayspokemon/comments/1y94r8/the\_history\_of\_twitch\_plays\_pokemon/

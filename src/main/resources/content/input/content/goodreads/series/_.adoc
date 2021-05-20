@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Трилогия сдвигов
+:jbake-tags: serie
+:jbake-date: 2019-08-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/_.adoc
+:jbake-source: https://www.goodreads.com/series/300047
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782277236023.html[Poker d'âmes]

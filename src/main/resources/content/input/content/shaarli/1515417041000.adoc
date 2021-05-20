@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I’m harvesting credit card numbers and passwords from your site. Here’s how.
+:jbake-tags: web,javascript,programming,sécurité,_mois_janv.,_année_2018
+:jbake-date: 2018-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1515417041000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackernoon.com%2Fim-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5&searchtags=web+javascript+programming+s%C3%A9curit%C3%A9+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5[I’m harvesting credit card numbers and passwords from your site. Here’s how.]
+
+Un bon message qui fait bien peur, mais la vérité des dépendances est un peu différente

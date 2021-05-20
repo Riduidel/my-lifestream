@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LDraw All In One Installer :: LDraw.org :: The Central Site for the LDraw Family of LEGO® CAD Software
+:jbake-tags: 3d,lego,software,freeware,windows,cad,_mois_janv.,_année_2009
+:jbake-date: 2009-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1232025158000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ldraw.org%2FGetStarted-Win.html&searchtags=3d+lego+software+freeware+windows+cad+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.ldraw.org/GetStarted-Win.html[LDraw All In One Installer :: LDraw.org :: The Central Site for the LDraw Family of LEGO® CAD Software]
+
+Un peu comme Eclipse fourn it ganymede et des releases complètes de l'environnement de développement, LDraw fournit un package complet avec tous les programmes qui vont bien pour passer d'une page blanche à une jolie image de synthèse des modèles ... avec le générateur de guide d'assemblage, ça va être top !

@@ -1,0 +1,204 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rancheros au chtijug
+:jbake-tags: architecture,chtijug,_mois_mars,_année_2016
+:jbake-date: 2016-03-30
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/30/rancheros-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/30/rancheros-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme le dit Twitter,
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/714 858 646 270 840 834" class="date">29 mars 2016 à 18:55:57</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">RT @GuillaumeWallet: Ce soir c'est load balancing microservices et gestion des erreurs avec @cfurmaniak au @chtijug https://t.co/xhTVx7AJpv</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CeuuGXdWAAAbop9.jpg" alt="714 856 390 267 895 808"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Avec le présentateur le plus cow-boy de la planète DevOps
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/hsablonniere" class="screenName"><img src="http://pbs.twimg.com/profile_images/854028880046379008/Bm-ygvTm_mini.jpg" alt="profile of 😜 Curious and passionate Web developer working for 💡☁️ @clever_cloud"/>hsablonniere</a>
+<br/>
+<span class="name">Hubert SABLONNIÈRE</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/hsablonniere/status/713 298 207 963 529 216" class="date">25 mars 2016 à 10:35:19</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Les Ch'tis au Breizhcamp :p
+</p>
+<p>
+cc @chtijug @ZenikaLille https://t.co/GjUjt7CqQP</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CeYk5d1WQAABa3S.jpg" alt="713 298 160 664 330 240"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Et des slides extrêmement parlants
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ClementDevos" class="screenName"><img src="http://pbs.twimg.com/profile_images/1085874552830332929/Hc5_fEy2_mini.jpg" alt="profile of JS Developer @WeLoveDevs, France.
+<br/>
+Likes 🍺,🎧 and 🚙 but also 🚴‍♂️"/>ClementDevos</a>
+<br/>
+<span class="name">Clément Devos 👪</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ClementDevos/status/714 859 627 360 489 473" class="date">29 mars 2016 à 18:59:51</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Ça commence bien! #microservices w/ @chtijug https://t.co/AmKRkgjE61</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CeuxAz3XEAE9jn7.jpg" alt="714 859 593 348 878 337"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+D'ailleurs, si vous voulez les slides, ils sont là
+</p>
+<p>
+<a href="//fr.slideshare.net/slideshow/embed_code/key/wzoqbRpBYp0J1R">//fr.slideshare.net/slideshow/embed_code/key/wzoqbRpBYp0J1R</a>
+<br/>
+<div style="margin-bottom:5px;"><strong> <a title="Prez -chtijug-29032016-(micro)services, loadbalancing et gestion des erreurs comment bien gérer vos dépendances http" href="//fr.slideshare.net/cfurmaniak/prez-chtijug29032016microservices-loadbalancing-et-gestion-des-erreurs-comment-bien-grer-vos-dpendances-http" target="_blank">Prez -chtijug-29032016-(micro)services, loadbalancing et gestion des erreurs comment bien gérer vos dépendances http</a> </strong> from <strong><a href="//fr.slideshare.net/cfurmaniak" target="_blank">cfurmaniak</a></strong></div>
+<br/>
+Buzzwords twitter mis à part, c'était quand même une session très intéressante, qui a remis au goût du jour l’"integration spaghetti" des architectures SOA : à partir du moment où vous avez cinq ou dix (micro)services éventuellement clusterés, comment vous faites pour qu'un client leur parle correctement ?
+</p>
+<p>
+Et il y a pour ça différents problèmes à régler :
+<br/>
+<ol>
+<br/>
+<li>La latence ("facilement" adressable avec <a href="https://github.com/ReactiveX/RxJava/">RxJava</a>)</li>
+<br/>
+<li>La tolérance aux pannes (sur lequel on aura bientôt - j'espère - une présentation d'<a href="https://github.com/Netflix/Hystrix">Hystrix</a>)</li>
+<br/>
+<li>La répartition et le load-balancing, qui sont le coeur de cette présentation</li>
+<br/>
+</ol>
+<br/>
+Bon, à partir de là, ça devient franchement technique et plein de chouettes démos présentant globalement trois niveaux de load-balancing (le premier point présentant l'état "historique" avec des applications monolithiques)
+<br/>
+<ol>
+<br/>
+<li>La version à l'ancienne à base de HAProxy ou f5 (je suis justement en train de faire ça, et donc pas mal de choses dites par Christophe résonnaient furieusement sous mon crâne - en particulier le pilotage <a href="https://github.com/tdevelioglu/python-f5">en Python de f5</a> ou via <a href="https://github.com/F5Networks/f5-ansible">Ansible</a>), pénible parce que très bureaucratique</li>
+<br/>
+<li>La version "les dévs font le putsch" et gèrent le load-balancing dans le code grâce à des outils comme <a href="https://github.com/Netflix/ribbon">Ribbon </a>qui a comme inconvénient essentiel de ramener de la config machine dans le code applicatif</li>
+<br/>
+<li>La version base de registres et REGEDIT, où les services s'enregistrent dans un registre implémenté de façon dépendante de la brique choisie. C'est franchement assez sympa, puisqu'il n'y a plus à mettre dans le code de configuration applicative</li>
+<br/>
+<li>Et finalement, la version dockerisée où tout le code est dans des conteneurs, et où toute la gestion de load-balancing est faite dans Rancher (ou Kubernetes). Ca faisait carrément rêver.</li>
+<br/>
+</ol>
+<br/>
+C'était vraiment une chouette présentation, qui m'a posé poussée à me poser plein de questions non triviales. Chapeau !
+</p>
+++++

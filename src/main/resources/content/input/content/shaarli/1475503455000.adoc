@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Developer Community Forum - CodinGame
+:jbake-tags: programming,java,codingame,_mois_oct.,_année_2016
+:jbake-date: 2016-10-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1475503455000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.codingame.com%2Fforum%2Ft%2Ftool-join-source-files-into-one-java%2F371%2F5&searchtags=programming+java+codingame+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.codingame.com/forum/t/tool-join-source-files-into-one-java/371/5[Developer Community Forum - CodinGame]
+
+Un bon exemple de configuration maven à utiliser pour générer une classe unique pour CodinGame

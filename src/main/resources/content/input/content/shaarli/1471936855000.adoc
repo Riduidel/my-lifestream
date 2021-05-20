@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Roper on Twitter: "10 years ago, backends were monolithic services and frontends many pages. Now frontends are monolithic pages and backends many services."
+:jbake-tags: citation,programming,web,architecture,évolution,_mois_août,_année_2016
+:jbake-date: 2016-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1471936855000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjroper%2Fstatus%2F765695495196909568&searchtags=citation+programming+web+architecture+%C3%A9volution+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/jroper/status/765695495196909568[James Roper on Twitter: "10 years ago, backends were monolithic services and frontends many pages. Now frontends are monolithic pages and backends many services."]
+
+Le monde change, et en informatique il change assez vite

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebDAV Ruby On Rails Plugin
+:jbake-tags: plugin,programming,rails,ruby,webdav,_mois_mai,_année_2007
+:jbake-date: 2007-05-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1180281533000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.liverail.net%2Farticles%2F2006%2F06%2F25%2Fwebdav-ruby-on-rails-plugin&searchtags=plugin+programming+rails+ruby+webdav+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.liverail.net/articles/2006/06/25/webdav-ruby-on-rails-plugin[WebDAV Ruby On Rails Plugin]
+
+Un plugin Ruby on Rails pour pouvoir y intégrer WebDAV. Ca l'air très bien, et ça me permettrait sans doute de gérer intelligement les fichiers joints dans lebliki ...

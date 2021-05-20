@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robert Sösemann sur Twitter : "UML is like drawing. Some people can draw but most of us simply can’t.… "
+:jbake-tags: uml,dessin,plantuml,citation,art,communication,_mois_oct.,_année_2019
+:jbake-date: 2019-10-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1570087615000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frsoesemann%2Fstatus%2F1179460465677783041&searchtags=uml+dessin+plantuml+citation+art+communication+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/rsoesemann/status/1179460465677783041[Robert Sösemann sur Twitter : "UML is like drawing. Some people can draw but most of us simply can’t.… "]
+
+Et c'est pour ça que j'utilise PlantUML : lui non plus ne sait pas trop dessiner, mais comme c'est un robot, personne ne lui en veut 🙂

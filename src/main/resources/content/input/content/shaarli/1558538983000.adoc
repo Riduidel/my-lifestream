@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Implementing a Interpreted Language in Rust Part 1 - Ned Ellis
+:jbake-tags: rust,programming,exemple,interpreter,_mois_mai,_année_2019
+:jbake-date: 2019-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1558538983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnedellis.com%2F2019%2F05%2F08%2Festa_1%2F&searchtags=rust+programming+exemple+interpreter+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://nedellis.com/2019/05/08/esta_1/[Implementing a Interpreted Language in Rust Part 1 - Ned Ellis]
+
+Un très bon article sur l'écriture d'un interpréteur en Rust. C'est complet, raisonnablement didactique et vraiment clair.

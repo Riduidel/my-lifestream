@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: volt | fast native desktop client for all major messaging services
+:jbake-tags: software,messaging,windows,linux,macosx,_mois_févr.,_année_2019
+:jbake-date: 2019-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1549999354000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvolt.ws%2F&searchtags=software+messaging+windows+linux+macosx+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://volt.ws/[volt | fast native desktop client for all major messaging services]
+
+Ah, ça vaut peut-être bien le coup ... même si il y a un côté melon à avoir créé un langage pour son logiciel de messagerie

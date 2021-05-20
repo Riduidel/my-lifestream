@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pierre K. Rey
+:jbake-tags: author
+:jbake-date: 2008-07-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/328339.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/328339
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266111195.html[Rupture dans le réel II - Émergence]
+* link:../books/9782266111201.html[Rupture dans le réel III - Expansion]
+* link:../books/9782266119481.html[L'Alchimiste du neutronium I - Consolidation]
+* link:../books/9782266123006.html[L'Alchimiste du neutronium II - Conflit]
+* link:../books/9782266130257.html[Rupture dans le réel I - Genèse]
+* link:../books/9782266133579.html[Le Dieu nu I - Résistance]
+* link:../books/9782266136150.html[Le Dieu nu II - Révélation]

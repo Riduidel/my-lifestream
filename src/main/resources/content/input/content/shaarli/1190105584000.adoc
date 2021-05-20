@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Binary Fortress Software » DisplayFusion
+:jbake-tags: desktop,dual-screen,freeware,software,wallpaper,windows,XP,_mois_sept.,_année_2007
+:jbake-date: 2007-09-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1190105584000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.binaryfortress.com%2Fdisplayfusion%2F&searchtags=desktop+dual-screen+freeware+software+wallpaper+windows+XP+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.binaryfortress.com/displayfusion/[Binary Fortress Software » DisplayFusion]
+
+Un logiciel permettant (enfin) d'utiliser des fonds d'écrans différens sur plusieurs moniteurs, ou d'améliorer l'affichage du fond d'écran quand il y a plus d'un moniteur.

@@ -1,0 +1,55 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Prenons un exemple d'architecture ...
+:jbake-tags: architecture_agile,c4model,exemple,_mois_avr.,_année_2020
+:jbake-date: 2020-04-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/07/prenons-un-exemple-darchitecture.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/07/prenons-un-exemple-darchitecture/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Dans les articles suivants, je vais avoir besoin d'une application d'exemple d'architecture. J'y ai un peu réfléchi ce week-end (en ce moment, on a tous le temps de réfléchir). Et je vais donc créer à côté de mon archétype un exemple mettant en scène les éléments que je présenterai. Cet exemple évoluera a rythme des différents articles, ce sera chouette.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais quel est cet exemple ? Eh bien, j'ai choisi le sujet d'une conférence marrante qu'on a donné avec Logan à <a href="https://snowcamp2019.sched.com/event/J2sW/avoir-un-train-a-lheure-cest-kafkaien">Snowcamp l'année dernière</a>. Les slides sont là (et je découvre que l'url utilisée sur sched.com est incorrecte 😱):</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+[googleapps domain="docs" dir="presentation/d/e/2PACX-1vST6DV66p_HyiGX4mF2kWd52SKsuTjQJ5OzCu1K8vIn1HozZFmdTEdlRx8-T-Aw69qFYqoAz9EzH2Vk/embed" query="start=false&#38;loop=false&#38;delayms=3000" width="854" height="480" /]
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p>Commençons donc par créer le projet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"bash"} -->
+<pre class="wp-block-syntaxhighlighter-code">$ mvn archetype:generate -DarchetypeVersion=master-SNAPSHOT -DarchetypeRepository=https://jitpack.io -DarchetypeGroupId=com.github.Riduidel -DarchetypeArtifactId=agile-architecture-documentation-archetype -Pjitpack
+&#60;...&#62;
+Define value for property 'groupId': org.ndx.agile-architecture-documentation-archetype
+Define value for property 'artifactId': example
+Define value for property 'version' 1.0-SNAPSHOT: :
+Define value for property 'package' org.ndx.agile-architecture-documentation-archetype: : org.ndx.agile.architecture.example
+Confirm properties configuration:
+groupId: org.ndx.agile-architecture-documentation-archetype
+artifactId: example
+version: 1.0-SNAPSHOT
+package: org.ndx.agile.architecture.example
+&#60;...&#62;</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Et voilà, notre projet est créé ! Dans les articles suivants, on décrira son architecture. Et pour ça, on fera de l'édition rapide grâce à <a href="https://github.com/fizzed/maven-plugins">fizzed-watcher</a>. Ca marche tout simplement comme ça :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:code -->
+<pre class="wp-block-code"><code>$ mvn fizzed-watcher:run@watch-docs</code></pre>
+<!-- /wp:code -->
+
+<!-- wp:paragraph -->
+<p>Et vous allez voir, c'est franchement pratique.</p>
+<!-- /wp:paragraph -->
+++++

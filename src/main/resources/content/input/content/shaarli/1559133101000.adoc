@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tests that sometimes fail
+:jbake-tags: programming,test,tdd,évolution,_mois_mai,_année_2019
+:jbake-date: 2019-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1559133101000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsamsaffron.com%2Farchive%2F2019%2F05%2F15%2Ftests-that-sometimes-fail&searchtags=programming+test+tdd+%C3%A9volution+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail[Tests that sometimes fail]
+
+Un article \*très\* intéressant sur ces foutus tests qui passent "de temps en temps"

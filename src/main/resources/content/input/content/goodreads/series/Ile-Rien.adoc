@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ile-Rien
+:jbake-tags: serie
+:jbake-date: 2011-05-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Ile-Rien.adoc
+:jbake-source: https://www.goodreads.com/series/106490
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782841721825.html[La mort du nécromant]

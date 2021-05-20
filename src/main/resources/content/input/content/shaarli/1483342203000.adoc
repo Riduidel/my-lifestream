@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers
+:jbake-tags: programming,ia,_mois_janv.,_année_2017
+:jbake-date: 2017-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1483342203000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fowainlewis%2Fawesome-artificial-intelligence&searchtags=programming+ia+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/owainlewis/awesome-artificial-intelligence[owainlewis/awesome-artificial-intelligence: A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers]
+
+Oula, faut pas que je montre ça à @nmahoude

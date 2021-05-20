@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Baptiste Nizet on Twitter: "3838 well-formed #Java modules at Maven Central, on a total of 273,187 unique artifact IDs (GA, not GAV), i.e. 1.4% of artifacts published, 18 months after the release of Java 9. Modules look like a total failure to me. A solution looking for a problem.… https://t.co/IiwktmFTJ9"
+:jbake-tags: osgi,java,module,programming,citation,_mois_avr.,_année_2019
+:jbake-date: 2019-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1554133346000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjbnizet%2Fstatus%2F1111991061776355328&searchtags=osgi+java+module+programming+citation+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jbnizet/status/1111991061776355328[Jean-Baptiste Nizet on Twitter: "3838 well-formed #Java modules at Maven Central, on a total of 273,187 unique artifact IDs (GA, not GAV), i.e. 1.4% of artifacts published, 18 months after the release of Java 9. Modules look like a total failure to me. A solution looking for a problem.… https://t.co/IiwktmFTJ9"]
+
+Effectivement, le déploiement des modules Java est un succès "d'estime". Quel dommage qu'OSGi n'ait jamais été reconnu comme une solution à ce problème (je ne dis même pas une bonne solution)

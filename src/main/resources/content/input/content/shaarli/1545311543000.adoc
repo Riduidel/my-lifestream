@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sarah Drasner on Twitter: "I don't think I could ever install this because it would drive me crazy but I would totally drive-by install it on a coworker's machine while they were getting coffee: turn a Hyper terminal into nyan cat while typing. With audio. https://t.co/s6jygDxSs8… https://t.co/qITgpdCcQu"
+:jbake-tags: humour,programming,terminal,_mois_déc.,_année_2018
+:jbake-date: 2018-12-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1545311543000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsarah_edo%2Fstatus%2F1075553201514934272&searchtags=humour+programming+terminal+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/sarah_edo/status/1075553201514934272[Sarah Drasner on Twitter: "I don't think I could ever install this because it would drive me crazy but I would totally drive-by install it on a coworker's machine while they were getting coffee: turn a Hyper terminal into nyan cat while typing. With audio. https://t.co/s6jygDxSs8… https://t.co/qITgpdCcQu"]
+
+Ca me donne juste envie d'utiliser Hyper dans une conférence ....

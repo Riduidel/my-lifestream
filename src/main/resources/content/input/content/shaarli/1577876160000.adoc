@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Table of Contents · Game Programming Patterns
+:jbake-tags: architecture,jeu,design,pattern,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577876160000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgameprogrammingpatterns.com%2Fcontents.html&searchtags=architecture+jeu+design+pattern+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://gameprogrammingpatterns.com/contents.html[Table of Contents · Game Programming Patterns]
+
+Des modèles d'architecture dédiés au monde du jeu vidéo ... Ca intéressera au moins des collègues ! (et je pense qu'il ya des choses utiles à en tirer même ailleurs)

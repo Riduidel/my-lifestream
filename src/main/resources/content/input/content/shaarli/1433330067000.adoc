@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Byte Buddy - runtime code generation for Java
+:jbake-tags: software,programming,library,java,code,generation,_mois_juin,_année_2015
+:jbake-date: 2015-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1433330067000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbytebuddy.net%2F%23%2F&searchtags=software+programming+library+java+code+generation+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://bytebuddy.net/#/[Byte Buddy - runtime code generation for Java]
+
+Sacrément impressionant. Ca me donne des idées ...

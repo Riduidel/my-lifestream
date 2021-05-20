@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Carpe Jugulum
+:jbake-tags:  combat, rayon-imaginaire, religion, vampires, âme,_année_2009,_mois_juin,_note_5,fantasy,read
+:jbake-date: 2009-06-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266194044.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333966670l/6520990._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333966670l/6520990._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6520990
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Jour de fête au pays de Lancre : Vérence (ex-membre de la Guilde des Fous) et Magrat (ex-sorcière), le couple royal, vont baptiser leur petite fille. Vérence a invité bon nombre de familles nobles du coin mais il a commis une erreur de taille en conviant les Margopyr, vieille famille de vampyres du royaume voisin. Lassés de leur vieux château, ces vampyres amateurs de vin rouge ont bien l'intention de s'installer à demeure à Lancre. Les sorcières Mémé, Nounou et Agnès sont décidées à leur faire la peau. Mais comment combattre des vampyres qui mangent des petits fours à l'ail et se baignent dans l'eau bénite ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/1654.html[Terry Pratchett]
+
+## Series
+* link:../series/Discworld.html[Discworld]
+* link:../series/Discworld_-_Witches.html[Discworld - Witches]
+
+## Review
+
+++++
+Des sorcières, des vampires, et de l'ail, voilà un résumé trop succint de cet excellent roman.<br/>En un peu plus long, disons que, dans ce 23ème tome des annales du Disque-Monde, les vampires viennent visiter Lancre, et que Mémé Ciredutemps, Nounou Ogg et Agnès Créttine auront quelques difficultés à s'en débarrasser.<br/>Ce qui est intéressant, dans les oeuvres de <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a>, ce n'est pas tant la multitude des poncifs qu'il accumule dans ces romans (on voit ici défiler la plupart des méthodes connues ou pas pour se débarrasser des non-morts) que la façon dont il arrive à s'en éloigner suffisamment pour que ça vire au n'importe quoi déjanté. Prenons plusieurs exemples. Le premier, le plus évident, en fait, c'est Igor. Ici, loin d'être un serviteur bête et discipliné, il se pose d'une certaine manière en gardien du temple de la vampiritude, tout en subissant la désastreuse influence pratchiennene, qui fait de cet individu plus que la somme de ses parties, construite avec une logique détaillée dans link:9782841723799.html[<strike>l'art du disque-monde</strike> L'Art du Disque Monde] (que je recommande chaudement à tous les pratchettophiles), et qui n'est pas sans rappeler une certaine gestion durable de nos déchets. Le second, c'est la transformation des vampires, de créatures de cauchemar facilement vaincues du fait de leur bêtise en gestionnaires d'un parc de bétail. J'ai vu dans cette transformation (mais ce n'est que mon avis) ce que <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> pouvait ressentir face aux oeuvres nous présentant les vampires modernes, à commencer par <a class="DirectBookReference destination_Book" href="9782265079625.html">Entretien avec un vampire</a> : un ennui sans égal devant le manque de mystère de ces vampires qui ne craignent plus rien, si ce n'est l'ennui. Et ça, c'est rafraîchissant, à l'heure où le vampire est devenu, d'une certaine manière, l'idole des adolescents en mal de romantisme noir, alors qu'il était initialement une authentique créature d'effroi.<br/>Mais bon, ça reste du Pratchett, et si il y a une bonne dose de réflexion (qui concerne globallement la transformation des cauchemars d'antant), l'auteur sait nous faire rire avec quelques excellents passages et, comme d'habitude, une conclusion en feu d'artifice (bien aidée par la rouerie d'une Mémé Ciredutemps qu'on voit, de manière exceptionnelle, en situation de faiblesse). Et enfin, j'y ai vu les Nac Mac Feegle, qui n'ont pas fini de me faire rire.
+++++

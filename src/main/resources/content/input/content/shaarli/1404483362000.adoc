@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Pouvoir des Rétrospectives Anonymes
+:jbake-tags: agile,développement,management,_mois_juil.,_année_2014
+:jbake-date: 2014-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1404483362000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infoq.com%2Ffr%2Fnews%2F2014%2F07%2Fpower-anonymous-retrospectives%3Futm_campaign%3Dinfoq_content&searchtags=agile+d%C3%A9veloppement+management+_mois_juil.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.infoq.com/fr/news/2014/07/power-anonymous-retrospectives?utm_campaign=infoq_content[Le Pouvoir des Rétrospectives Anonymes]
+
+La rétrospective est un bon outil agile. C'est encore mieux quand le coupable est Raoul Abdaloff.

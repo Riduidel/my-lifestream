@@ -1,0 +1,212 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ch'mongoDB
+:jbake-tags: architecture,chtijug,mongodb,_mois_déc.,_année_2014
+:jbake-date: 2014-12-18
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/12/18/chmongodb.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/12/18/chmongodb/
+:jbake-style: wordpress
+
+++++
+<p>
+Eh ouais, hier soir, c'était chtijug sur <a href="https://www.mongodb.org/">MongoDB </a>avec <a href="https://twitter.com/tgrall">Tugdual Grall</a>.
+</p>
+<p>
+Mais avant, minute copinage ...
+</p>
+<p>
+Le chtijug a la chance d'avoir un nouveau sponsor, et ça, c'est cool (d'autant plus que ce sont mes voisins de bureau jusqu'à ce soir) :
+</p>
+<p>
+[caption id="attachment_2759" align="aligncenter" width="300"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_1852561.jpg"><img class="wp-image-2759 size-medium" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_1852561.jpg?w=300" alt="IMG_20141217_185256[1]" width="300" height="225" /></a> Le représentant d'Onyme a peut-être un moins chouette polo que certains précédents sponsors, mais un sacrément chouette discours[/caption]&#160;
+</p>
+<p>
+Et je me suis laissé dire qu'<a href="http://blog.onyme.com/developpeurse-javaee-avec-le-sens-du-service/">ils recrutaient</a> ...
+</p>
+<p>
+Bref, merci les gens !
+</p>
+<p>
+Revenons-en donc à Tugdual
+</p>
+<p>
+[caption id="attachment_2760" align="aligncenter" width="520"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_1855481.jpg"><img class="wp-image-2760 size-large" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_1855481.jpg?w=520" alt="IMG_20141217_185548[1]" width="520" height="390" /></a> Oracle, eXo, Couchbase, MongoDB ... clairement, le développeur un peu âgé a souvent touché à plein de trucs[/caption]&#160;
+</p>
+<p>
+Même fatigué, c'est un speaker sacrément rodé qui nous a fait une présentation intéressante, bourrée de live-coding, sur MongoDB.
+</p>
+<p>
+Alors MongoDB, qu'est-ce que c'est ?
+</p>
+<p>
+[caption id="attachment_2761" align="aligncenter" width="520"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_1906401.jpg"><img class="wp-image-2761 size-large" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_1906401.jpg?w=520" alt="IMG_20141217_190640[1]" width="520" height="390" /></a> Mongo, une base agile, flexible, intituive et stockant les données dans un format facile à exploiter[/caption]En gros, c'est une espèce de gros système de stockage de <a href="http://bsonspec.org/">BSON </a>(un format binaire adaptant le JSON) disposant d'interfaces dans les différents langages ... mais ça n'est pas ce que racontait vraiment ce slide moche.
+</p>
+<p>
+Non. Ce que voulait expliquer Tugdual, c'est que les bases de données relationelles datent de 40 ans, à une époque où l'esapce disque coûtait vraiment cher. Et donc à cette époque, l'optimisation la plus importante concernait l'utilisation du disque. D'où les bases relationenlles où la donnée est forcément unique, et <a href="https://fr.wikipedia.org/wiki/Forme_normale_(bases_de_donn%C3%A9es_relationnelles)">en troisième forme normale</a>.
+</p>
+<p>
+C'est pratique pour les DBA, parce que la donnée est bien structurée.
+</p>
+<p>
+C'est en revanche infernal pour le développeur, puisque la donnée n'est pas accessible facilement. Ce qui explique, par exemple, l'intérêt pour les outils de mapping objet-relationnel.
+</p>
+<p>
+Un autre inconvénient du fait qu'une écriture se fasse à de multiples endroits, c'est que l'écriture nécessite d'être encapsulée dans une transaction, qui est lourde en termes de ressources pour le serveur (et donc impactant l'ensemble des clients).
+</p>
+<p>
+A l'opposé, MongoDB cherche à être une base de stockage agréable pour les développeurs.
+</p>
+<p>
+Ca veut dire quoi ?
+<br/>
+<ul>
+<br/>
+<li>MongoDB stocke des documents en JSON, qui peuvent contenir des champs simples ou des tableaux de tableaux de tableaux (avec toutefois <a href="http://docs.mongodb.org/manual/reference/limits/">des limites</a> ... qui me semblent assez difficiles à atteindre à première vue).</li>
+<br/>
+<li>Si deux documents doivent contenir chacun la même donnée, il peut être plus simple de dupliquer cette donnée ... ou de la référencer (mais dans ce cas, c'est le développeur qui gèrera l'unicité du lien)</li>
+<br/>
+<li>Du coup, comme le document est complet, il n'y a pas vraiment besoin de transactions : soit il est écrit, soit il ne l'est pas, mais le développeur le sait tout de suite. Donc MongoDB est non transactionnel, et ça n'est pas grave.</li>
+<br/>
+</ul>
+<br/>
+Et paf, Tugdual enchaîne sur une démonstration de la "convivialité" du shell mongo.
+</p>
+<p>
+[caption id="attachment_2763" align="aligncenter" width="520"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_192022.jpg"><img class="wp-image-2763 size-large" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_192022.jpg?w=520" alt="insertion d'un document dans la collection &#34;customers&#34;, et récupération de la liste des &#34;customers&#34;" width="520" height="260" /></a> insertion d'un document dans la collection "customers", et récupération de la liste des "customers"[/caption]
+</p>
+<p>
+Et là, c'est le drame : comme le shell Mongo n'offre ni complétion, ni mise en valeur de la syntaxe, et que Tugdual était un peu fatigué (mais ça, je comprends, parce que coder à l'heure de l'apéro, c'est loin d'être facile), les accolades oubliées s'enchaînent en rafale
+</p>
+<p>
+[caption id="attachment_2764" align="aligncenter" width="520"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_193037.jpg"><img class="wp-image-2764 size-large" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_193037.jpg?w=520" alt="Ami lecteur, trouve l'accolade manquante ... Ouaip, c'est lioin d'être facile" width="520" height="247" /></a> Ami lecteur, trouve l'accolade manquante ... Ouaip, c'est lioin d'être facile[/caption]
+</p>
+<p>
+Notez que je ne critique pas Tugdual, mais le shell mongo. Peut-être qu'un outil comme <a href="http://robomongo.org/">Robomongo,</a> mongodb-shell ou même l'un des innombrables plugins Eclipse aurait pu lui faciliter la vie. Mais je comprend qu'en tant qu'évangéliste Mongo, ça lui soit un peu difficile d'utiliser des outils tiers.
+</p>
+<p>
+Bref. Après l'insertion, une autre chose intéressante : la seule chose que doivent avoir les documents Mongo, c'est un attribut "_id" qui peut être soit généré (à partir de l'adresse Mac, du numéro de process, et du timestamp unix), soit écrit manuellement. Et il se passe quoi quand un utilisateur essayé de créer un nouveau document avec un _id déja utilisé ?
+</p>
+<p>
+[caption id="attachment_2765" align="aligncenter" width="520"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_192214.jpg"><img class="size-large wp-image-2765" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_192214.jpg?w=520" alt="Si j'essaye d'avoir deux documents avec le même _id, j'ai droit à une jolie erreur" width="520" height="263" /></a> Si j'essaye d'avoir deux documents avec le même _id, j'ai droit à une jolie erreur[/caption]
+</p>
+<p>
+Bon, maintenant que j'ai bourré la base, il est temps d'y chercher des trucs.
+</p>
+<p>
+Et là, franchement, pour moi, c'est le moment du malaise.
+</p>
+<p>
+Parce qu'autant je veux bien comprendre l'intérêt des documents en JSOn, des réponses du serveur en JSON mais quand Tugdual a fait ses query/update avec du JSON pour
+<br/>
+<ul>
+<br/>
+<li>rechercher les documents à mettre à jour</li>
+<br/>
+<li>définir les opérations d'altération à effectuer (modification, suppression, insertion)</li>
+<br/>
+</ul>
+<br/>
+Je dois avouer que j'ai eu comme un malaise
+</p>
+<p>
+Regardez donc :
+</p>
+<p>
+[caption id="attachment_2766" align="aligncenter" width="520"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_193330.jpg"><img class="size-large wp-image-2766" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_193330.jpg?w=520" alt="Une opération simple de recherche et mise à jour, avec un paquet de JSON dedans" width="520" height="449" /></a> Une opération simple de recherche et mise à jour, avec un paquet de JSON dedans[/caption]
+</p>
+<p>
+Et si ça ne vous paraît pas assez clair il y a évidement <a href="http://docs.mongodb.org/manual/tutorial/query-documents/">de la doc sur internet</a>.
+</p>
+<p>
+Je vais quand même essayer de clarifier mon malaise : il me semble que tous les paramètres de toutes les opérations sur une base MongoDB sont passés sous forme de JSON. Et c'est quelque part assez bien.
+</p>
+<p>
+Toutefois, tenter d'exprimer une recherche et une mise à jour sous cette forme paraît assez bizarre, surtout vu quelques choix faits (et présentés ici)
+<br/>
+<ul>
+<br/>
+<li>Les opérations de MongoDB sont définis dans les paramètres sous forme d'attributs JSON préfixés par "$" alors n'allez pas utiliser ce caractère magique dans vos données !</li>
+<br/>
+<li>Si vous cherchez au fond d'un sous-document, il faudra passer votre chemin de recherche dans une chaîne (parce que "." n'est pas accepté comme clé dans un hash JSON). Du coup vous aurez certaines clés avec des guillemets autour et d'autres sans. Et vous vous demanderez d'où vient l'inconsistence.</li>
+<br/>
+<li>Si vous cherchez dans un tableau une valeur ayant plusieurs propriétés, ce sera ... un peu plus compliqué.</li>
+<br/>
+</ul>
+<br/>
+Bref, je peux le reconnaître, je n'ai pas aimé cette syntaxe, bien qu'elle soit extrêmement déclarative.
+</p>
+<p>
+Bon, une fois arrivés là, il est temps de sortir du shell et de passer au driver Java, qui se présente sous plusieurs formes (au passage, il y a des tonnes de drivers, listés dans une <a href="http://api.mongodb.org/">très belle page</a> - dixit Tugdual) :
+<br/>
+<ul>
+<br/>
+<li>Un <a href="http://api.mongodb.org/java/current/">driver basique</a> qui vous fait manipuler des <a href="http://api.mongodb.org/java/current/com/mongodb/DBObject.html"><code>DBObject</code></a> qui sont en fait une vision javaisée et fluente des documents JSON. Au apssage, ce driver fournit un chouette outil de création de requête : <a href="http://api.mongodb.org/java/current/com/mongodb/QueryBuilder.html"><code>QueryBuilder</code></a>.</li>
+<br/>
+<li><a href="https://github.com/mongodb/morphia">Morphia</a>, qui est un ODM qu'on pourrait considérer comme un concurrent d'<a href="http://hibernate.org/ogm/">Hibernate OGM</a> ou de <a href="http://projects.spring.io/spring-data/">Spring Data</a>, mais spécifiquement conçu pour MongoDB.</li>
+<br/>
+<li><a href="http://mongojack.org/">MongoJack</a> qui utilise les annotations de Jackson pour mapper les objets Java sur les documents JSON.</li>
+<br/>
+</ul>
+<br/>
+Petite parenthèse : le style Dracula d'Intellij ne m'a paru super lisible ...
+</p>
+<p>
+[caption id="attachment_2767" align="aligncenter" width="520"]<a href="https://riduidel.files.wordpress.com/2014/12/img_20141217_194959.jpg"><img class="size-large wp-image-2767" src="https://riduidel.files.wordpress.com/2014/12/img_20141217_194959.jpg?w=520" alt="Et pourtant j'étais au deuxième rang ..." width="520" height="384" /></a> Et pourtant j'étais au deuxième rang ...[/caption]
+</p>
+<p>
+Une fois ces différents outils présentés, Tugdual nous explique, à travers un exemple d'application web, comment utiliser tout ça au mieux.
+</p>
+<p>
+D'après lui, et plus j'y pense, plus j'approuve, la meilleure solution et d'utiliser le driver basique pour les lectures, et les mappers pour les écritures. Et la raison est assez simple :
+</p>
+<p>
+En lecture, on passe le JSON de Mongo jusqu'au client ... typiquement écrit en Javascript, et donc parfaitement capable de lire ce Javascript.
+</p>
+<p>
+En revanche, en écriture, pour contrôler ce qui est écrit dans la base, on a intérêt à passer par un mapper. MongoJack a ma préférence ... surtout que, contrairement à Tugdual, je sais lui faire ignorer les propriétés inconnues (en utilisant par exemple la <a href="http://wiki.fasterxml.com/JacksonHowToIgnoreUnknown">DeserializationConfig</a>).
+</p>
+<p>
+Une fois ce tour du dev fait, Tug est passé au clustering ... Bon, là, c'est assez classique : il y a du sharding, de la haute disponibilité via l'élection automatique d'un master ... La routine, en quelque sorte.
+</p>
+<p>
+Et il était déja l'heure du ...
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/545298504818905088
+<br/>
+</div>
+</p>
+<p>
+Ouaip, Onyme sait toujours aussi bien recevoir !
+<br/>
+<h4>Et alors, est-ce que je vais passer à MongoDB ?</h4>
+<br/>
+Bon, j'ai failli il y a peu travailler sur une application utilisant massivement du <a href="http://www.wikiwand.com/fr/Gestion_des_donn%C3%A9es_de_r%C3%A9f%C3%A9rence">MDM</a>. Et MongoDB faisait partie des systèmes de stockage candidats.
+</p>
+<p>
+Je dois bien reconnaître que cette présentation m'a appris pas mal de choses vraiment chouettes sur cette base. Et je comprend bien les cas d'utilisation présentés par Tugdual :
+<br/>
+<ul>
+<br/>
+<li>Vision 360° d'un client pour, par exemple, du support</li>
+<br/>
+<li>Aggrégation de données provenant de façon assynchrone de plusieurs systèmes de gestion de données</li>
+<br/>
+</ul>
+<br/>
+Bref, la construction de rapports et leur utilisation dans des applications architecturés autour de concepts proches de CQRS paraît facile avec MongoDB.
+</p>
+<p>
+En revanche, ce qui me paraît beaucoup plus compliqué, c'est la construction de données historisées "sans fin" (à cause par exemple de la limite dans la taille des documents).
+</p>
+<p>
+Et puis, après avoir bossé sur des bases graphes, je dois bien reconnaître que je reste très attaché au graphe, c'est-à-dire à la création, et à la gestion de cohérence de ces liens par le système. Or c'est précisément le sujet que MongoDB ne veut pas adresser (et je les comprend, parce que ça simplifie bien des choses).
+</p>
+<p>
+Cela étant, c'était une sacrément chouette session. Merci au chtijug !
+</p>
+++++

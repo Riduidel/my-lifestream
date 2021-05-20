@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: STUDIO-KURA : RetroPlayer
+:jbake-tags: software,freeware,macosx,multimedia,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111398264000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.studio-kura.com%2Fdownload%2Fretroplayer%2Findex_e.html&searchtags=software+freeware+macosx+multimedia+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.studio-kura.com/download/retroplayer/index_e.html[STUDIO-KURA : RetroPlayer]
+
+RetroPlayer is a music player with which you can listen to music as if it was played by an analog record player. You can re-enjoy a piece of music that you have listened to for many times.

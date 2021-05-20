@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plugin System - Shaarli Documentation
+:jbake-tags: php,développeur,plugin,documentation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1588179629000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fshaarli.readthedocs.io%2Fen%2Fmaster%2FPlugin-System%2F&searchtags=php+d%C3%A9veloppeur+plugin+documentation+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://shaarli.readthedocs.io/en/master/Plugin-System/[Plugin System - Shaarli Documentation]
+
+Je vais devoir créer un plugin Shaarli pour étendre l'export (pour y ajouter l'image et le permalink, notament). Souhaitez-moi bon courage, parce que le PHP, c'est pas ma fête.

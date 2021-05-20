@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Megapixel.net
+:jbake-tags: matériel,photographie,test,tutorial,web,technologie,_mois_janv.,_année_2008
+:jbake-date: 2008-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1199454195000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.megapixel.net%2Fhtml%2Fcover-f.php&searchtags=mat%C3%A9riel+photographie+test+tutorial+web+technologie+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.megapixel.net/html/cover-f.php[Megapixel.net]
+
+Concurrent de les-numeriques.net, un autre site apparement sérieux de test de matériels divers, y compris les appareils photos. Le but de ces sites, c'est bien évidement de m'aider à choisir celui qui sera notre prochain fidèle compagnon.

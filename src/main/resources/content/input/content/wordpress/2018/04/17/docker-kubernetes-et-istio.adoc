@@ -1,0 +1,444 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Docker, Kubernetes et Istio
+:jbake-tags: architecture,chtijug,docker,kubernetes,_mois_avr.,_année_2018
+:jbake-date: 2018-04-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/17/docker-kubernetes-et-istio.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/17/docker-kubernetes-et-istio/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/cyrillegrifo" class="screenName"><img src="http://pbs.twimg.com/profile_images/551757806320107520/6UqWoGUE_mini.jpeg" alt="profile of Artisan du web, manager au Webcenter @AXA et développeur la nuit #eCommerce #Mobile #InternetOfThings #MaisonConnectée #CleanCode #ContinuousDelivery #Agile"/>cyrillegrifo</a>
+<br/>
+<span class="name">Cyrille GRIFO</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/cyrillegrifo/status/985 928 790 823 133 185" class="date">16 avr. 2018 à 19:11:56</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Ce soir session #Docker #Kubernetes au #ChtiJug avec @dgageot https://t.co/1tulOeKoC8</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Da64_oCXcAEKx1R.jpg" alt="985 928 771 659 329 537"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Docker, K8s (j’abrège, hein, parce que bon) sont souvent présentés pour les microservices, mais ça marche aussi avec les applications un peu plus grosses. C’est ce que David va montrer avec le <a href="https://github.com/agoncal/agoncal-application-petstore-ee7">petstore version A. Goncalvez</a>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-6">
+<br/>
+<h2 id="truedockeriser">Dockeriser</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Pou ça, David construit son image Docker avec un <a href="https://blog.mikesir87.io/2017/03/introducing-docker-multi-stage-builds/">multi-stage build</a> (toujours impressionant pour le dockeriste débutant comme moi). Et paf, l’application est conteneurisée.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-9">
+<br/>
+<h2 id="truelancer_dans_un_cluster_k8s">Lancer dans un cluster K8s</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-11">Vous connaissez Kubernetes ? ? non ? bon, David a une surprise pour vous</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/dgageot" class="screenName"><img src="http://pbs.twimg.com/profile_images/1253031877532880906/9Ix8j4ic_mini.jpg" alt="profile of Chaotic French Speaker. Chief Architect @Doctolib. We are hiring https://t.co/Lr16lL5MKr"/>dgageot</a>
+<br/>
+<span class="name">David Gageot</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/dgageot/status/938 357 685 484 957 696" class="date">6 déc. 2017 à 11:41:20</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Do you remember the comic intro to Chrome? Did you enjoy it? I did! Now there’s a comic intro to #Kubernetes! https://t.co/6LwyG3Yc2L</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-11">Avec K8s, on peut prendre un cluster de machines et travailler dessus sans trop s’en soucier. Pour lancer notre application, on crée deux descripteurs yaml (ouch, j’aime aussi peu que David).</div>
+<br/>
+<div class="olist arabic data-line-14">
+<br/>
+<ol class="arabic">
+<br/>
+<li>Un déploiement (qui décrit l’application à déployer)</li>
+<br/>
+<li>Un service (qui route le port 80 vers notre application - à la <a href="https://traefik.io/">traefik</a>/https://nginx.org/[nginx]/https://getkong.org/[kong]/https://www.sozu.io/[sozu]/…​.)</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Et paf, on déploie. L’explication sur le mode de fonctionnement de K8s est un peu louche (à base de boucles de contrôle qui réconcilient des états souhaités/actuels).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-19">
+<br/>
+<h2 id="trueorganisation">Organisation</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+La CLI de K8s permet d’avoir des informations sur l'état du cluster, et nous montre par exemple que l’application tourne dans un pod. Si ce pod est détruit, K8s en relance un nouveau, et y redéploie l’application. C’est très très cool. On peut aussi facilement déployer l’application dans plusieurs pods, pour faire de la redondance dans ce que ça a de plus vrai : arrêter ou perdre un pod n’a aucun impact sur l’autre.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-24">
+<br/>
+<h2 id="trueam_liorer_l_appllication_de_l_ext_rieur">Améliorer l’appllication de l’extérieur</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+David ajoute maintenant un proxy <a href="https://nginx.org/">nginx</a> pour gzipper le flux, ajouter une page 404 et réécrire les urls. Pour ça, il suffit d’ajouter le proxy dans le pod de l’application. Ca veut dire un déploiement et un service décrivant nginx, un dockerfile et enfin fichier de configuration pour nginx. La particularité, c’est que nginx reroute vers localhost (ce qui n’est pas le cas quand on joue classiquement avec des conteneurs). Parce que nginx et petstore seront forcément déployées sur la même machine. Enfin, en ajoutant un <a href="https://kubernetes.io/docs/concepts/services-networking/ingress/">ingress</a>, il est possible de créer un nom de domaine spécifique devant le nginx. C’est vachement pratique, parce que pendant ce temps-là, petstore n’a pas changé.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-32">
+<br/>
+<h2 id="trueistio">Istio</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+<a href="https://istio.io/">Istio</a> reprend précisément ce principe en ajoutant des facades envoy (un proxy C++) devant toutes les applications. Le proxy est configurable.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-36">
+</p>
+<p>
+Premier apport : Istio transforme tous les flux en HTTPS. C’est dingue. C’est à la fois génial et affreux : comment débugger le traffic ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+Grâce à envoy, Istio fournit de monitoring de tous les services avec les temps de réponse,
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-41">
+</p>
+<p>
+David passe à une démo où les deux versions de l’application sont déployées côte à côte avec des urls différentes. Et grâce au smart routing d’Istio, on peut faire du blue-green deployment. Alors qu’avec K8s, c’est impossible. Bon, apparement, il y a d’autres solutions (de mémoire, OpenShift le fait aussi comme l’avait montré <a href="https://riduidel.wordpress.com/2017/06/02/hop-hop-hop-un-chtijug/">Clément Escoffier précédement</a>). Pour vérifier qu’on a bien du blue-green, David affiche un dashboard grafana (installé par Istio) en ouvrant un tunnel de sa machine vers le composant Grafana (assez spectaculaire). Et ça marche ! On a bien 20% d’utilisateurs en v2 et 80% en v1.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-47">
+<br/>
+<h2 id="trueroutage">Routage</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+Et maintenant, il est temps de tout réécrire. David va donc séparer l’application en plusieurs services, qui utiliseront toujours les routes de l’application initiale. Pour ça, le smart routing d’Istio est pratique …​ mis à part le fait qu’il y a de plus en plus de contenu YAML. Donc on a deux composants, qui se parlent à travers le réseau. Et forcément, avec le réseau, les problèmes arrivent. Heureusement, Istio va nous aider pour survivre à ça. D’abord grâce à un graphe des services (auquel on se connecte comme Grafana grâce à un tunnel temporaire). Et là, trop bien …​ mais trop moche …​ le graphe est généré par Grafviz (mais la version plus récente utilise D3.js).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-56">
+<br/>
+<h2 id="truegestion_du_r_seau">Gestion du réseau</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-57">
+</p>
+<p>
+Encore une fois, grâce au proxy envoy, on peut configurer finement chaque composant pour, par exemple, simuler des timeouts. Ou de mirrorer le trafic de prod vers une application non utilisée en prod, mais qui en recevra la charge. Ou encore d’industrialiser les circuit breakers en les plaçant au niveau d’envoy. Ou encore de gérer la sécurité sans passer par les notions classiques et pénibles de zones de sécurité réseau, mais en utilisant une gestion de la sécurité par rôle. C’est vraiment chouette parce que ça permet d’optimiser le nombre de serveurs. Ca permet également, grâce à la télémétrie, de voir quel composant appelle quel autre service. Pour ceux qui connaissent, ça ressemble vachement à Dynatrace dans l’idée.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-65">
+<br/>
+<h3 id="truerate_limiting">Rate limiting</h3>
+<br/>
+<div class="paragraph data-line-66">
+</p>
+<p>
+En particulier, il est possible de limiter les appels à un service pour qu’il ne soit pas noyé sous la charge. Malheureusement, encore une fois, il faut des paquets de YAML.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-69">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ClementDevos" class="screenName"><img src="http://pbs.twimg.com/profile_images/1085874552830332929/Hc5_fEy2_mini.jpg" alt="profile of JS Developer @WeLoveDevs, France.
+<br/>
+Likes 🍺,🎧 and 🚙 but also 🚴‍♂️"/>ClementDevos</a>
+<br/>
+<span class="name">Clément Devos 👪</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ClementDevos/status/985 938 839 612 088 326" class="date">16 avr. 2018 à 19:51:51</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">That's it for today! @dgageot nous a bien parlé de Legos avec k8s et istio! Cc @chtijug #clustering https://t.co/47024Hxjfe</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Da7CI62XUAE_ocz.jpg" alt="985 938 826 932 736 001"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-70">
+</p>
+<p>
+J’ai loupé la séance de questions, parce que je devais aller chercher les bières, mais c’est pas grave, lançons-nous. Docker est un outil un peu chiant, mais très pratique pour les petits ops. Docker est aussi issu d’idées (conteneurs et c-groups) sur lesquels Google bosse depuis …​. des années. Donc forcément, leur outil de gestion de flotte intègre un niveau de complexité supérieur (l’abstraction des pods semble par exemple pratique, mais délicate à aborder). Et évidement, c’est difficile à comprendre pour un non averti comme moi. En revanche, cette complexité permet le déploiement d’outils comme istio, qnui est la killer feature de K8s. Rien que pour donner un exemple, il semble possible pour une entreprise de se débarasser de Dynatrace (dont les licences tournent autour de 100000€/serveur/an). Sans compter toutes les possibilités de debug qui sont, dans le monde des conteneurs, aussi indispensables qu’introuvables. Autrement dit, K8s me tente peu, mais Istio le rend supportable.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/cfurmaniak" class="screenName"><img src="http://pbs.twimg.com/profile_images/1321735109721100289/w-vEMG2t_mini.jpg" alt="profile of I've got the DevOps haircut in my mind. Bring me a problem and I will throw a lot of questions at your face."/>cfurmaniak</a>
+<br/>
+<span class="name">Christophe Furmaniak</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/cfurmaniak/status/984 414 527 247 802 372" class="date">12 avr. 2018 à 14:54:47</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@DevOpsAtLille @cyril_lakech @chtijug @Docker @kubernetesio @IstioMesh @dgageot @Adeo @ZenikaLille @GDGLille @ovh_fr et pour ceux qui le louperont au @chtijug, il sera aussi au #devfestlille du @GDGLille il me semble...</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/986 296 089 161 682 946" class="date">17 avr. 2018 à 19:31:26</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Si vous avez loupé le 4ème passage de @dgageot au @chtijug hier soir chez @adeo
+<br/>
+Peut-être vous laisserez vous tenter par une relecture oklm?
+<br/>
+C'est par là que ça se passe 🎥
+<br/>
+https://t.co/MRAAetSHSJ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

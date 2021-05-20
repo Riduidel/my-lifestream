@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christian Posta on Twitter: "Nothing in software is new. Some of it is useful."
+:jbake-tags: citation,programming,histoire,_mois_août,_année_2018
+:jbake-date: 2018-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1535110836000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fchristianposta%2Fstatus%2F1032391711882764290&searchtags=citation+programming+histoire+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/christianposta/status/1032391711882764290[Christian Posta on Twitter: "Nothing in software is new. Some of it is useful."]
+
+Ce tweet mériterait de finir en sticker pour portable de développeur. Parce que le nombre d'éléments historiques d'informatique qui sont mal réinventés est terrifiant.

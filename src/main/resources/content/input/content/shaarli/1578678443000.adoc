@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Frédéric Leguédois sur Twitter : "Fatigué de ces sites bloquant le copier-coller des mots de passe, oh toi utilisateur d'un coffre-fort de mots de passe ? Et parfois même la confirmation des adresses mail ? Sous Firefox : about:config dom.event.clipboardevents.enabled => false You're welcome !… https://t.co/rfQn4Zh3T7"
+:jbake-tags: web,firefox,astuce,_mois_janv.,_année_2020
+:jbake-date: 2020-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1578678443000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ff_leguedois%2Fstatus%2F1215641449938726912&searchtags=web+firefox+astuce+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/f_leguedois/status/1215641449938726912[Frédéric Leguédois sur Twitter : "Fatigué de ces sites bloquant le copier-coller des mots de passe, oh toi utilisateur d'un coffre-fort de mots de passe ? Et parfois même la confirmation des adresses mail ? Sous Firefox : about:config dom.event.clipboardevents.enabled => false You're welcome !… https://t.co/rfQn4Zh3T7"]
+
+Quelle belle astuce, je vais la mettre en oeuvre immédiatement.

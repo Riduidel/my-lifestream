@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Axel Rauschmayer on Twitter: "Language snobbism makes me angry. I don’t know a single programming language that doesn’t have both considerable pros and considerable cons."
+:jbake-tags: programming,langage,culture,_mois_janv.,_année_2019
+:jbake-date: 2019-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1546847490000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frauschma%2Fstatus%2F1081542410847637504&searchtags=programming+langage+culture+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/rauschma/status/1081542410847637504[Axel Rauschmayer on Twitter: "Language snobbism makes me angry. I don’t know a single programming language that doesn’t have both considerable pros and considerable cons."]
+
+Ca colle avec mon appréciation de l'épisode des castcodeurs que j'écoute en ce moment sur Kotlin : chaque langage a des côtés ... curieux, qu'il faut connaître.

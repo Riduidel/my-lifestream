@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Object-Based Remodularization (a.k.a. Programming with Adapters ) | Manageability
+:jbake-tags: java,programming,concepts,_mois_août,_année_2016
+:jbake-date: 2016-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1472032148000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.manageability.org%2Fblog%2Fstuff%2Fadaptor-oriented-programming%2Fview&searchtags=java+programming+concepts+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.manageability.org/blog/stuff/adaptor-oriented-programming/view[Object-Based Remodularization (a.k.a. Programming with Adapters ) | Manageability]
+
+Un article très éclairant sur ce que permettent les adapteurs génériques, même si un peu daté.

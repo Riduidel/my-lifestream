@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Synth‽se de comportements animaux individuels et collectifs par Algorithmes G‽n‽tiques.
+:jbake-tags: IA,programming,science,génétique,artificial,life,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112278745000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ai.univ-paris8.fr%2F%7Erenaud%2Fpublications%2Fhthese%2Fhthese.html&searchtags=IA+programming+science+g%C3%A9n%C3%A9tique+artificial+life+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ai.univ-paris8.fr/~renaud/publications/hthese/hthese.html[Synth‽se de comportements animaux individuels et collectifs par Algorithmes G‽n‽tiques.]
+
+

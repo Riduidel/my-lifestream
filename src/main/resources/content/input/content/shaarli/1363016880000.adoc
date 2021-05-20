@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ski Challenge 2010
+:jbake-tags: windows,jeu,freeware,_mois_mars,_année_2013
+:jbake-date: 2013-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1363016880000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.skichallenge.ch%2Fen%2F&searchtags=windows+jeu+freeware+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.skichallenge.ch/en/[Ski Challenge 2010]
+
+Un peu de sport d'hiver

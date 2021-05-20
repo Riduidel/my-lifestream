@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Much Do You Know About Solving Global Warming? - The New York Times
+:jbake-tags: écologie,environnement,_mois_juin,_année_2017
+:jbake-date: 2017-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1497597212000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2017%2F06%2F09%2Fclimate%2Fdrawdown-climate-solutions-quiz.html&searchtags=%C3%A9cologie+environnement+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.nytimes.com/interactive/2017/06/09/climate/drawdown-climate-solutions-quiz.html[How Much Do You Know About Solving Global Warming? - The New York Times]
+
+Un bon quizz sur les moyens efficaces de lutter contre le réchauffement climatique

@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dallas Barr
+:jbake-tags: serie
+:jbake-date: 2014-02-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Dallas_Barr.adoc
+:jbake-source: https://www.goodreads.com/series/73356
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782800123493.html[Dallas Barr, Tome 1: Immortalité à vendre]
+* link:../books/9782803620555.html[Dallas Barr, Tome 2: Le choix de Maria]
+* link:../books/9782803620562.html[Dallas Barr, Tome 3: Premier quartier]
+* link:../books/9782803620579.html[Dallas Barr, Tome 4: Nouvelle lune]
+* link:../books/9782803620586.html[Dallas Barr, Tome 5: Anna des mille jours]
+* link:../books/9782803620593.html[Dallas Barr, Tome 6: Sarabande]
+* link:../books/9782803620937.html[Dallas Barr, Tome 7: La dernière valse]

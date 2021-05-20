@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vector: A High-Performance Logs, Events, & Metrics Router
+:jbake-tags: rust,programming,produit,log,management,_mois_juil.,_année_2019
+:jbake-date: 2019-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1562247964000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvector.dev%2F&searchtags=rust+programming+produit+log+management+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://vector.dev/[Vector: A High-Performance Logs, Events, & Metrics Router]
+
+Tiens donc, on commence à voir apparaître des produits Rust pour des fonctionnalités d'entreprise. C'est bien.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mouse pointer track on Flickr - Photo Sharing!
+:jbake-tags: java,fun,art,tool,dessin,_mois_janv.,_année_2010
+:jbake-date: 2010-01-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1264157303000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.flickr.com%2Fphotos%2Fanatoliy_zenkov%2F4271592658%2F&searchtags=java+fun+art+tool+dessin+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.flickr.com/photos/anatoliy_zenkov/4271592658/[Mouse pointer track on Flickr - Photo Sharing!]
+
+A tester, aprce que je me demande bien quels mouvements ma souris peut faire

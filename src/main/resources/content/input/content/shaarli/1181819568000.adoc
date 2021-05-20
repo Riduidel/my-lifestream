@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JYaml - Yaml library for the Java language
+:jbake-tags: documentation,java,programming,tool,library,yaml,_mois_juin,_année_2007
+:jbake-date: 2007-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1181819568000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjyaml.sourceforge.net%2F&searchtags=documentation+java+programming+tool+library+yaml+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://jyaml.sourceforge.net/[JYaml - Yaml library for the Java language]
+
+Une librairie Java pour gérer le YAML

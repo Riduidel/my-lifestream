@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Free Linux games | GamingOnLinux
+:jbake-tags: web,gaming,linux,_mois_janv.,_année_2018
+:jbake-date: 2018-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1516202742000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.gamingonlinux.com%2Ffree-games%2F&searchtags=web+gaming+linux+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.gamingonlinux.com/free-games/[Free Linux games | GamingOnLinux]
+
+Il y a là tout un tas de jeux potentiellement utilisables sous Windows et un peu plus modernes que les vieilleries qu'on trouve sur les autres catalogues.

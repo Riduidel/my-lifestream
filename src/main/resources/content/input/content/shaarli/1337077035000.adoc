@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Portail Elixir - Toolkit de développement de jeux sur Freebox
+:jbake-tags: javascript,java,freebox,développement,Dev,_mois_mai,_année_2012
+:jbake-date: 2012-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1337077035000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Felixir.freebox.fr%2F&searchtags=javascript+java+freebox+d%C3%A9veloppement+Dev+_mois_mai+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://elixir.freebox.fr/[Portail Elixir - Toolkit de développement de jeux sur Freebox]
+
+Le portail contenant la doc de référence pour le développement sur freebox

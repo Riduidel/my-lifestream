@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome to Savage
+:jbake-tags: freeware,jeu,linux,multiplayer,online,windows,stratégie,_mois_févr.,_année_2007
+:jbake-date: 2007-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1170691250000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.s2games.com%2Fsavage%2F&searchtags=freeware+jeu+linux+multiplayer+online+windows+strat%C3%A9gie+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.s2games.com/savage/[Welcome to Savage]
+
+Un jeu de stratégie pour Linux et Windows, heureusement gratuit

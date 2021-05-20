@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reveal my Asciidoc : a deep dive into presentation-as-code
+:jbake-tags: revealjs,asciidoc,hack,extension,plugin,_mois_déc.,_année_2019
+:jbake-date: 2019-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1575557218000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbcouetil.gitlab.io%2Facademy%2Fsample%2Freveal%2Freveal-my-asciidoc.html&searchtags=revealjs+asciidoc+hack+extension+plugin+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://bcouetil.gitlab.io/academy/sample/reveal/reveal-my-asciidoc.html[Reveal my Asciidoc : a deep dive into presentation-as-code]
+
+Il y a des trucs dans cette présentation qui ne marchent pas (et c'est bizarre). Mais dans l'ensemble, il y a des trucs vraiment chouettes (comme le timeline as code)

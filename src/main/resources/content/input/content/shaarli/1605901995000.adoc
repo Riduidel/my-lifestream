@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fenrirthviti/obs-virtual-cam: obs-studio plugin to simulate a directshow webcam
+:jbake-tags: windows,webcam,virtuel,system,_mois_nov.,_année_2020
+:jbake-date: 2020-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1605901995000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FFenrirthviti%2Fobs-virtual-cam&searchtags=windows+webcam+virtuel+system+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/Fenrirthviti/obs-virtual-cam[Fenrirthviti/obs-virtual-cam: obs-studio plugin to simulate a directshow webcam]
+
+Avec ce plugin, je peux transformer mon OBS en webcam (et comme ça je peux diffuser mon contenu sur Google meet et autres)

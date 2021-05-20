@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: KeePass – questionable security | Hacker News
+:jbake-tags: sécurité,keepass,audit,_mois_sept.,_année_2018
+:jbake-date: 2018-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1536085335000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnews.ycombinator.com%2Fitem%3Fid%3D9727297&searchtags=s%C3%A9curit%C3%A9+keepass+audit+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://news.ycombinator.com/item?id=9727297[KeePass – questionable security | Hacker News]
+
+On en apprend des choses en préparant des présentations ...

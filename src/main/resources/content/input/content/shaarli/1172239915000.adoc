@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby Hacking Guide
+:jbake-tags: développement,documentation,ebook,guide,ruby,software,_mois_févr.,_année_2007
+:jbake-date: 2007-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1172239915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frhg.rubyforge.org%2F&searchtags=d%C3%A9veloppement+documentation+ebook+guide+ruby+software+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://rhg.rubyforge.org/[Ruby Hacking Guide]
+
+Encore un bouquin sur Ruby, sans doute très intéressant.

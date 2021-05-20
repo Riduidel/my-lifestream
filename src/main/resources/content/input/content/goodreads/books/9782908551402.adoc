@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Myetzko
+:jbake-tags:  animaux, aventure, démons, fantastique, guerre, magie, rayon-bd,_année_2013,_mois_oct.,_note_4,read,russie
+:jbake-date: 2013-10-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782908551402.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376250902l/7722641._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1376250902l/7722641._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7722641
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Deux récits fantastiques :<br />Ogoniok, un petit bureaucrate arrogant se retrouve confronté à un shamann au fin fond de la taïga...<br />Myetzko, durant la première guerre mondiale sur le front de la Galicie un officier autrichien est sauvé par les pouvoirs de son aide de camp...
+</div>
+++++
+
+
+## Authors
+* link:../authors/555180.html[Sergio Toppi]
+
+
+
+## Review
+
+++++
+Comme d'habitude, il ne s'agit pas d'un seul long récit, mais de plusieurs (ici, 2) courts récits.<br/>Le premier est typique de Toppi : une histoire de chasse dans laquelle le chasseur peut devenir la proie de plus grands prédateurs.<br/>La seconde est un peu plus originale (à mon sens, hein) : plus de chasse ni de nature, c'est la guerre qui se présente à nous. Et dans cet épisode si typiquement dramatique, la sorcellerie s'invite encore dans l'histoire pour retourner la situation.<br/>La deuxième histoire me paraît plus émouvante, en un sens, que la première, car il y est question de quelque chose que Toppi renâcle à utiliser, en vrai cynique, c'est le sacrifice. Et du coup, évidement, en vrai cynique, le sacrifice pésenté est à la fois parfaitement vain et terriblement émouvant.
+++++

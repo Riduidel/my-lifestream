@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Neal Asher
+:jbake-tags: author
+:jbake-date: 2008-08-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/56353.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1207862001p5/56353.jpg
+:jbake-source: https://www.goodreads.com/author/show/56353
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266155014.html[L'Écorcheur]
+* link:../books/9782266186315.html[Voyageurs]

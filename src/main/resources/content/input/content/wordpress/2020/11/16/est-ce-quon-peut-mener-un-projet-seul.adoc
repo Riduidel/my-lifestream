@@ -1,0 +1,92 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Est-ce qu'on peut mener un projet seul ?
+:jbake-tags: équipe,communication,entreprise,organisation,_mois_nov.,_année_2020
+:jbake-date: 2020-11-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/11/16/est-ce-quon-peut-mener-un-projet-seul.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/11/16/est-ce-quon-peut-mener-un-projet-seul/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Pour la première fois depuis bien longtemps, je travaille seul sur un projet chez un client.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je voudrais d'abord rappeler un truc important : il n'y a aucun rapport entre le code que j'écris chez moi le soir et le code sur lequel je travaille dans la journée. En effet, je n'ai pas d'échéances sur le code que j'écris chez moi (sauf pour Codingame, mais c'est un cas très particulier), pas plus que je ne dois rendre des comptes. Par ailleurs, chez moi, je choisis les technologies, quand ce projet utilise du Spring 3 et du GWT ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors, ça implique quoi ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, il y a ce point</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/johncutlefish\/status\/1325484454651912192","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/johncutlefish" class="screenName"><img src="http://pbs.twimg.com/profile_images/870169811812106241/z9fdNNjW_mini.jpg" alt="profile of I like the beautiful mess of product development. Head of Education @amplitude_hq | https://t.co/r7WzZtiPOw | https://t.co/WDld0BTODI"/>johncutlefish</a>
+		<span class="name">John Cutler</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/johncutlefish/status/1 325 484 454 651 912 192" class="date">8 nov. 2020 à 18:04:54</a>
+
+	<span class="content">
+	
+	<span class="text">toxic (but widespread) beliefs:
+
+collaboration is "inefficient"
+
+ppl who love their work do it all the time
+
+ppl w/kids/hobbies/causes are a liability
+
+1:1 person:project is "how ppl want to work"
+
+meritocracy & 10x [----]
+
+diversity & growth don't mix
+
+ppl need stretch goals</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Contrairement à ce que prétend John Cutler, je ne crois pas qu'il existe une seule personne qui ait réellement envie de travailler seule. En revanche, je crois qu'avec les bonnes méthodes, c'est à peu près supportable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ces méthodes ressemblent peu ou prou à ce que décrit <a href="https://blog.rstankov.com/collaborative-single-player-mode/">cet article</a>. En gros, en tant que seul membre de l'équipe de développement, je suis à la fois product owner, le développeur, le devops, le DBA, ... et je ne fais que mentionner ici mes activités des trois derniers mois. Et surtout, je dois m'approprier ce code, que je ne connaissais pas il y a trois mois. Et ça, c'est le premier danger : croire que ce code m'appartient alors que je n'en suis que le mainteneur <em>temporaire</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par ailleurs, certaines pratiques aujourd'hui courantes deviennent particulièrement délicates. Typiquement, la revue de code est impossible (même si j'ai déja vu passer des articles théorisant l'auto-revue de code), les approches de type three amigos elles aussi sont impossibles, même si je n'ai heureusement pas de développement significatif à réaliser pour l'instant, et les daily stand-up ne riment pas à grand chose. Donc il faut s'adapter, et réussir à ne pas laisser l'isolement se transformer en hubris (et dans mon cas, c'est un risque certain).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heureusement, pour éviter ça, la bureaucratie aide beaucoup : créer des issues GitHub, puis les résoudre, c'est possible, et ça donne une notion claire de l'avancement du projet. De la même manière, monter une chaîne de déploiement continu, ça garantit que les erreurs seront vues, pour peu que j'ai écrit les tests correspondant. Et du coup, j'ai une vraie bonne motivation pour écrire des tests.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc c'est possible de mener à bien un projet de façon professionnelle, mais ça n'est pas facile.</p>
+<!-- /wp:paragraph -->
+++++

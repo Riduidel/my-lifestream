@@ -1,0 +1,230 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai pas fait de crowdcast sur Javascript ..
+:jbake-tags: _mois_déc.,_année_2014
+:jbake-date: 2014-12-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/12/02/jai-pas-fait-de-crowdcast-sur-javascript.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/12/02/jai-pas-fait-de-crowdcast-sur-javascript/
+:jbake-style: wordpress
+
+++++
+<p>
+<strong>Bref</strong>, j'ai eu peur de passer pour un con.
+</p>
+<p>
+Evidement, le crowdcast, seuls les auditeurs <a href="http://lescastcodeurs.com/">des castcodeurs</a> savent <a href="http://lescastcodeurs.com/crowdcasting/">ce que c'est</a>.
+</p>
+<p>
+Pour les autres, dites-vous que c'est la rubrique "les auditeurs ont la parole" des castcodeurs, et qu'elle a déja eue autant de succès que <a href="http://www.podcastscience.fm/contactez-nous/">les commentaires audio de podcastscience</a> (regardez le texte écrit en colonne à droite).
+</p>
+<p>
+Bref.
+</p>
+<p>
+La semaine dernière, j'avais demandé si je pouvais parler de chouettes librairies Javascript :
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/536 835 352 531 861 504" class="date">24 nov. 2014 à 11:54:56</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@lescastcodeurs Et alors on peut faire des crowdcasts sur des libs Javascript ? (genre Ractive ou require ?)</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Ce qui avait eu l'heur de plaire aux dits castcodeurs :
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/lescastcodeurs" class="screenName"><img src="http://pbs.twimg.com/profile_images/2931190809/cc5e3f70ba41abf2ffd6307026c40174_mini.png" alt="profile of Tweets officiels des Cast Codeurs"/>lescastcodeurs</a>
+<br/>
+<span class="name">Les Cast Codeurs</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/lescastcodeurs/status/536 850 714 363 187 200" class="date">24 nov. 2014 à 12:55:59</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@riduidel oui</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Même si finallement, j'ai changé d'avis
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/539 707 463 864 315 905" class="date">2 déc. 2014 à 10:07:41</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@lescastcodeurs Bon finalement, je vais pas faire de crowdcast ... parce que je préférerais que vous discutiez de ça http://t.co/NdIdbKnMvu</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+<small>(ca vous branche, cette twit-conversation recopiée ? Moi, en tout cas, ça me facilite la vie).</small>
+</p>
+<p>
+Je vais vous expliquer pourquoi plus en détail.
+</p>
+<p>
+En fait, j'avais eu cette idée suite à <a title="Le révisionisme dans Git, et un thermomètre en polymère." href="http://riduidel.wordpress.com/2014/11/26/le-revisionisme-dans-git-et-un-thermometre-en-polymere/">la soirée du chtijug</a>, et en particulier la présentation de Romain et Julien sur Polymer.
+</p>
+<p>
+Je voulais donc parler de Ractive, et de son intérêt supérieur quand on l'utilise avec Requirejs. Seulement, autant je pouvais facilement parler de requirejs parce qu'il me semble occuper une niche unique dans l'intégration IoC en Javascript (alors que <a href="http://wiki.commonjs.org/wiki/Category:Implementations">non en fait</a>), autant pour Ractive, je me voyais mal dire en public que Ractive c'est de la balle, quand je sais que c'est avant tout une question de choix personnel (coix que <a href="http://todomvc.com/">todomvc</a> présente assez bien, d'ailleurs).
+</p>
+<p>
+Et puis je suis tombé sur cet article (via @jponge)
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/RichardWarburto" class="screenName"><img src="http://pbs.twimg.com/profile_images/2906772192/060ca8f02eb694f5ba32098bf1f6c834_mini.png" alt="profile of Cofounder of @OpsianApp, Maintainer of Artio (High Performance Open Source FIX engine), Software Developer, Book Author, PhD, Londoner"/>RichardWarburto</a>
+<br/>
+<span class="name">Richard Warburton ☕</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/RichardWarburto/status/539 516 816 653 950 976" class="date">1 déc. 2014 à 21:30:07</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">The state of Javascript in 2015
+</p>
+<p>
+http://t.co/EwUfvPIB9k</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Et j'ai longuement réfléchi : qu'est-ce qui garantit que Ractivejs ou Requirejs survivront plus de quelques mois ? Et dans ce cas-là, franchement, j'aurais l'air de quoi si je les mets en avant plus publiquement que sur ce blog ?
+</p>
+<p>
+Et même sur ce blog, d'ailleurs. J'y ai en effet déja parlé de quelques technologies qui me paraissaient intéressantes et qui, depuis, ont disparu (<a title="QI4J" href="http://riduidel.wordpress.com/2009/11/13/qi4j/">Qi4j</a>, <a title="majick-properties" href="http://riduidel.wordpress.com/2008/12/16/majick-properties/">Majick-properties</a>, et même <a title="Gaedo chez ohloh" href="http://riduidel.wordpress.com/2010/02/03/gaedo-chez-ohloh/">gaedo</a>, en un sens, sans même parler de tous ces sites hypes qui s'évanouissent quelques mois plus tard).
+</p>
+<p>
+Bref, j'ai eu peur de passer pour un con.
+</p>
+<p>
+Ou alors j'ai enfin atteint une certaine maturité.
+</p>
+<p>
+En tout cas, je crois que je vais attendre encore un peu avant d'en parler, même si je continue à penser que ce sont deux bons projets, qui adressent bien mieux qu'angular ne saurait le faire les défis du développement d'applications web dans le navigateur.
+</p>
+<p>
+Et du coup, je me dois de féliciter encore une fois les castcodeurs et les crowdcasteurs qui ont eu le courage de parler dans le poste. Parce que pour l'instant, je ne suis pas encore sûr d'avoir un truc intelligent à y dire, dans le poste. Et vous savez ce que disait Pierre Desproges sur le sujet ...
+</p>
+++++

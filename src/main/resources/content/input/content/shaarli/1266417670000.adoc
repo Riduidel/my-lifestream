@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alice.org
+:jbake-tags: software,programming,java,développement,enfants,_mois_févr.,_année_2010
+:jbake-date: 2010-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1266417670000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Falice.org%2Findex.php&searchtags=software+programming+java+d%C3%A9veloppement+enfants+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://alice.org/index.php[Alice.org]
+
+Un environnement de développement pour enfants ...

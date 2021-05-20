@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Estelle on Twitter: "Do me (yourself and the online world) a favor: learn HTML, CSS and JS before learning any frameworks. Thanks!"
+:jbake-tags: citation,programming,web,javascript,html,css,_mois_sept.,_année_2016
+:jbake-date: 2016-09-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1475137452000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Festellevw%2Fstatus%2F780518128140718080&searchtags=citation+programming+web+javascript+html+css+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/estellevw/status/780518128140718080[Estelle on Twitter: "Do me (yourself and the online world) a favor: learn HTML, CSS and JS before learning any frameworks. Thanks!"]
+
+C'est ce qui permet de passer aux frameworks quand il faut

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Douglas R. Hofstadter
+:jbake-tags: author
+:jbake-date: 2011-03-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3034502.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1265604859p5/3034502.jpg
+:jbake-source: https://www.goodreads.com/author/show/3034502
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782100054350.html[Gödel, Escher, Bach. Les Brins D'une Guirlande Eternelle]

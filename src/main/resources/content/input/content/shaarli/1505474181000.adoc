@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: code challenge - Build a working game of Tetris in Conway's Game of Life - Programming Puzzles & Code Golf Stack Exchange
+:jbake-tags: programming,jeu,meta,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1505474181000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcodegolf.stackexchange.com%2Fquestions%2F11880%2Fbuild-a-working-game-of-tetris-in-conways-game-of-life&searchtags=programming+jeu+meta+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://codegolf.stackexchange.com/questions/11880/build-a-working-game-of-tetris-in-conways-game-of-life[code challenge - Build a working game of Tetris in Conway's Game of Life - Programming Puzzles & Code Golf Stack Exchange]
+
+Je suis à la fois sidéré par la question, et par la réponse où les mecs ont conçu un ordinateur pour programmer Tetris

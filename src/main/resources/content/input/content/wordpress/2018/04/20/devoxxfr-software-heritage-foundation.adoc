@@ -1,0 +1,154 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Software heritage foundation
+:jbake-tags: devoxx,histoire,informatique,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-software-heritage-foundation.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-software-heritage-foundation/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class="sect1 data-line-3">
+<br/>
+<h2 id="truepourquoi_cette_fondation">Pourquoi cette fondation ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+Autour de nous, le logiciel est partout. Et il contient une partie significative de notre connaissance et de notre héritage culturel.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Roberto nous rappelle ensuite cette fameuse citation sur l’importance de la lisibilité du code : "source code is made to be read by other human beings, and only incidentally by computers".
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Par exemple, la <a href="https://en.wikipedia.org/wiki/Fast_inverse_square_root#Overview_of_the_code">fonction de racine carrée</a> écrite par John Carmak dans Doom est un code source qui est précieux et doit rester accessible. Et ça nous ouvre une fenêtre sur l’esprit du développeur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-12">
+</p>
+<p>
+Par ailleurs, en 50 ans, on est passé d’un code de pilotage d’Apollo 11 en 60.000 lignes au code du kernel Linux qui dépasse déja le million de lignes ! Et si le logiciel est partout, le code source lui, est hébergé chez de multiples fournisseurs (Google Code, Sourceforge, Gitorious, …​). Ce qui rend sa conservation assez complexe (surtout quand les plateformes de stockage de code source ferme). Enfin, si le logiciel est partout, il n’existe pas de plateforme de recherche pour analyser globalement le code source.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-18">
+</p>
+<p>
+Pour combatttre ça, la software heritage fundation a été créée avec comme objectif de collecter, préserver tout le code source accessible. Actuellement, il y a déja 4 milliards de fichiers sources stockés pour 83 millions de projets.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-22">
+<br/>
+<h2 id="truecomment_a_marche">Comment ça marche ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Pour chaque plateforme, la SHF a créé un adaptateur permettant de collecter les codes sources utilisés. Ensuite, il faut récupérer le code source proprement dit. Actuellement, le code de GitHub et de Debian est stocké. le code de Google Code et Gitorious a été sauvé (avec l’aide de l’internet archive).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-28">
+<br/>
+<h2 id="trueconstruire_pour_le_long_terme">Construire pour le long terme</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-29">
+</p>
+<p>
+LA SHF a le support de l’Inria, et de l’Unesco. Cette vision est partagée avec un paquet d’organisations. Et un certain nombre d’entreprises sponsorisent l’initiative.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-33">
+<br/>
+<h2 id="truecomment_aider">Comment aider ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+La SHF est du code, et peut donc avoir besoin de l’aide de développeurs (<a href="https://forge.softwareheritage.org">forge.softwareheritage.org</a>). Elle a évidement besoin d’argent et de communication.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-37">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-38">
+</p>
+<p>
+Il faut imaginer la SHF comme une bibliothèque d’Alexandrie du code (pour tout avoir) et un CERN du code.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-40">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+C’est sacrément chouette ! Bravo !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

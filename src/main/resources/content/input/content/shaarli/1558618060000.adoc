@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reginald Braithwaite on Twitter: "Imagine if we took the "architecture" metaphor seriously. Imagine if we saw ourselves as Zaha Hadid, Gerrit Rietveld, or Frank Gehry? Software architecture can have function AND form. It can have soul and services. All we lack is the ambition.… https://t.co/HN87zhorz0"
+:jbake-tags: citation,architecture,logiciel,style,_mois_mai,_année_2019
+:jbake-date: 2019-05-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1558618060000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fraganwald%2Fstatus%2F1131245329997803521&searchtags=citation+architecture+logiciel+style+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/raganwald/status/1131245329997803521[Reginald Braithwaite on Twitter: "Imagine if we took the "architecture" metaphor seriously. Imagine if we saw ourselves as Zaha Hadid, Gerrit Rietveld, or Frank Gehry? Software architecture can have function AND form. It can have soul and services. All we lack is the ambition.… https://t.co/HN87zhorz0"]
+
+challenge ... accepted ! (il est temps d'arrêter de faire de l'usine à gaz industrielle pour obtenir de vrais outils élégants)

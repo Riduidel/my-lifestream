@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Engineering Windows 7 : Touching Windows 7
+:jbake-tags: software,windows,article,multitouch,_mois_nov.,_année_2009
+:jbake-date: 2009-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1259504491000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblogs.msdn.com%2Fe7%2Farchive%2F2009%2F03%2F25%2Ftouching-windows-7.aspx&searchtags=software+windows+article+multitouch+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://blogs.msdn.com/e7/archive/2009/03/25/touching-windows-7.aspx[Engineering Windows 7 : Touching Windows 7]
+
+Un article très intéressant sur le développement du multitouch dans Windows 7

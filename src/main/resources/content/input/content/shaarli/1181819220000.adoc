@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home
+:jbake-tags: design,apple,macosx,usability,gui,desktop,_mois_juin,_année_2007
+:jbake-date: 2007-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1181819220000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.kub.fr%2Fdesign%2FHome.html&searchtags=design+apple+macosx+usability+gui+desktop+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.kub.fr/design/Home.html[Home]
+
+Un site de designer avec quelques essais dans le monde mac. Certaines idées sont \*très\* intéressantes (comme grape) et d'autres sont simplement marrantes.

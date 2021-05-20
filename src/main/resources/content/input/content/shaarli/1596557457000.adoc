@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Go vs Rust: Writing a CLI tool - cuchi.me
+:jbake-tags: rust,go,programming,comparatif,concepts,_mois_août,_année_2020
+:jbake-date: 2020-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1596557457000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcuchi.me%2Fposts%2Fgo-vs-rust&searchtags=rust+go+programming+comparatif+concepts+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://cuchi.me/posts/go-vs-rust[Go vs Rust: Writing a CLI tool - cuchi.me]
+
+Dans cette comparaison entre les deux langages, la conclusion est particulièrement intéressante.

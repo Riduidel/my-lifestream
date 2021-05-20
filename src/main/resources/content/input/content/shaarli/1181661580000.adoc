@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby, Rails, Web2.0 » Blog Archive » The Top 10 Ruby/Rails Blogs
+:jbake-tags: podium,list,blog,ruby,rails,_mois_juin,_année_2007
+:jbake-date: 2007-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1181661580000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rubyrailways.com%2Fthe-top-10-rubyrails-blogs%2F&searchtags=podium+list+blog+ruby+rails+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.rubyrailways.com/the-top-10-rubyrails-blogs/[Ruby, Rails, Web2.0 » Blog Archive » The Top 10 Ruby/Rails Blogs]
+
+Un podium des dix meilleurs blogs Ruby et Rails. Bizarrement, je n'y suis pas :-)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HOWTO - 770 Synergy Configuration - Internet Tablet Talk Forums
+:jbake-tags: n800,documentation,tutorial,software,réseau,_mois_août,_année_2007
+:jbake-date: 2007-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1187701410000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.internettablettalk.com%2Fforums%2Fshowthread.php%3Ft%3D9009&searchtags=n800+documentation+tutorial+software+r%C3%A9seau+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.internettablettalk.com/forums/showthread.php?t=9009[HOWTO - 770 Synergy Configuration - Internet Tablet Talk Forums]
+
+Un tutoriel expliquant comment faire bien marcher Synergy (oui oui, celui qui permet d'avoir un clavier et une tonne d'écrans) sur le n770, et donc le n800, branché en USB (donc sans wifi, qui est mal pour mes admins)

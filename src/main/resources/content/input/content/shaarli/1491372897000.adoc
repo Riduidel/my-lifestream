@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FantasyPourrie on Twitter: "A quelques jours du premier tour, Sauron, Voldemort, Palpatine et Crâne Rouge s'imposent dans ce débat. #LeGrandDebat"
+:jbake-tags: humour,politique,france,_mois_avr.,_année_2017
+:jbake-date: 2017-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1491372897000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FFantasyPourrie%2Fstatus%2F849352834512560129&searchtags=humour+politique+france+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/FantasyPourrie/status/849352834512560129[FantasyPourrie on Twitter: "A quelques jours du premier tour, Sauron, Voldemort, Palpatine et Crâne Rouge s'imposent dans ce débat. #LeGrandDebat"]
+
+Comme c'est bien vu

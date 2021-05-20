@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaarlo
+:jbake-tags: shaarli,aggregator,discussion,forum,_mois_juil.,_année_2013
+:jbake-date: 2013-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1373032729000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fshaarli.fr%2F&searchtags=shaarli+aggregator+discussion+forum+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://shaarli.fr/[Shaarlo]
+
+Mieux (ou plutôt différent) que l'aggrégateur RSS "simple" d'Oros, Shaarli.fr est devenu le point de discussion des shaarlieurs. Et si je le bookmarke pas, je risque de l'oublier après mon traditionnel break low-tech estival.

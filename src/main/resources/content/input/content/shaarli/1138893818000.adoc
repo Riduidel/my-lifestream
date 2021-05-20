@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SourceForge.net: PHP iCalendar
+:jbake-tags: calendar,freeware,linux,software,web,open-source,php,_mois_févr.,_année_2006
+:jbake-date: 2006-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1138893818000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fphpicalendar%2F&searchtags=calendar+freeware+linux+software+web+open-source+php+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://sourceforge.net/projects/phpicalendar/[SourceForge.net: PHP iCalendar]
+
+

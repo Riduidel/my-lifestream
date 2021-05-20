@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Armitage - Metasploit Unleashed
+:jbake-tags: hacking,software,java,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529421287000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.offensive-security.com%2Fmetasploit-unleashed%2Farmitage%2F&searchtags=hacking+software+java+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.offensive-security.com/metasploit-unleashed/armitage/[Armitage - Metasploit Unleashed]
+
+Le piratage de systèmes d'information en version facile (et en java)

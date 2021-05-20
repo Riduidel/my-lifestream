@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Poi
+:jbake-tags: javascript,build,programming,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1505474018000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpoi.js.org%2F%23%2F&searchtags=javascript+build+programming+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://poi.js.org/#/[Poi]
+
+Un build tool Javascript qui permet de builder sans rien avoir à configurer !

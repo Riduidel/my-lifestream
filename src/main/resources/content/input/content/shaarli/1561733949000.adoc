@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Webhook.site - The Webhook Tester
+:jbake-tags: web,rest,http,viewer,_mois_juin,_année_2019
+:jbake-date: 2019-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1561733949000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwebhook.site%2F%23%21%2F3b3868f9-0a21-4b23-83f5-1d18f1fdc0ca%2Fa7ea54ae-42e3-49ec-82e9-08405bb81b87%2F1&searchtags=web+rest+http+viewer+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://webhook.site/#!/3b3868f9-0a21-4b23-83f5-1d18f1fdc0ca/a7ea54ae-42e3-49ec-82e9-08405bb81b87/1[Webhook.site - The Webhook Tester]
+
+Oh il est pas mal ce chouette site qui se contente d'afficher le résultat de la requête qu'il reçoit. Ne l'utilisez juste pas (parce que je ne sais pas ce qu'il fait du résultat de cette requête)

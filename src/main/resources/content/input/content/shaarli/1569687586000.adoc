@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: actions-rs/clippy-check: 📎 GitHub Action for PR annotations with clippy warnings
+:jbake-tags: github,action,rust,build,cargo,clippy,intégration,continuous,_mois_sept.,_année_2019
+:jbake-date: 2019-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1569687586000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Factions-rs%2Fclippy-check&searchtags=github+action+rust+build+cargo+clippy+int%C3%A9gration+continuous+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/actions-rs/clippy-check[actions-rs/clippy-check: 📎 GitHub Action for PR annotations with clippy warnings]
+
+wow, si tu fais du rust, cette action te sera \*très\* utile.

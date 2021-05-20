@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home – OrbitDB
+:jbake-tags: database,distribué,ipfs,open-source,software,library,_mois_mars,_année_2021
+:jbake-date: 2021-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1614699167000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Forbitdb.org%2F&searchtags=database+distribu%C3%A9+ipfs+open-source+software+library+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://orbitdb.org/[Home – OrbitDB]
+
+Oulala, une base de données stockant les valeurs dans IPFS, ça a l'air ... bien ? (mais évidement, il va falloir que je me documente un poil sur IPFS)

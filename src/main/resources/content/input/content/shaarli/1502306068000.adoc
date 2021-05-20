@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DDD Borat on Twitter: "Today 80% of programming is vainglorious use of bloated tech for hide misery of legacy system behind theatrical API and pompous screen"
+:jbake-tags: citation,programming,_mois_août,_année_2017
+:jbake-date: 2017-08-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1502306068000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDDD_Borat%2Fstatus%2F891934792165543937&searchtags=citation+programming+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/DDD_Borat/status/891934792165543937[DDD Borat on Twitter: "Today 80% of programming is vainglorious use of bloated tech for hide misery of legacy system behind theatrical API and pompous screen"]
+
+Ca fait mal tellement c'est vrai

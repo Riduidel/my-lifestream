@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RDE(Ruby Development Environment)
+:jbake-tags: software,freeware,windows,programming,ruby,editor,_mois_mars,_année_2005
+:jbake-date: 2005-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1111310221000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage2.nifty.com%2Fsakazuki%2Frde_e.html&searchtags=software+freeware+windows+programming+ruby+editor+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://homepage2.nifty.com/sakazuki/rde_e.html[RDE(Ruby Development Environment)]
+
+RDE is the development environment of script language Ruby.

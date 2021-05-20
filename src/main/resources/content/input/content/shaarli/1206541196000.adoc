@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RoboCom - The Programming Game
+:jbake-tags: freeware,jeu,programming,robot,software,_mois_mars,_année_2008
+:jbake-date: 2008-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1206541196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cyty.com%2Frobocom%2F&searchtags=freeware+jeu+programming+robot+software+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.cyty.com/robocom/[RoboCom - The Programming Game]
+
+Un super jeu de programmation de robot, très intéressant parce que réparti, et très proche de la propagation des virus.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: arachnys/cabot: Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+:jbake-tags: software,metrics,python,supervision,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482836263000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Farachnys%2Fcabot&searchtags=software+metrics+python+supervision+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/arachnys/cabot[arachnys/cabot: Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty]
+
+Pas mal du tout, ce système d'alerte Python ...

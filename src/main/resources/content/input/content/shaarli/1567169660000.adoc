@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Good Tweetman on Twitter: "Mammon: the photo! https://t.co/Gf29HAE2K6" / Twitter
+:jbake-tags: conférence,citation,engagement,idiocratie,_mois_août,_année_2019
+:jbake-date: 2019-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1567169660000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGoodtweet_man%2Fstatus%2F1165339769360064512&searchtags=conf%C3%A9rence+citation+engagement+idiocratie+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Goodtweet_man/status/1165339769360064512[Good Tweetman on Twitter: "Mammon: the photo! https://t.co/Gf29HAE2K6" / Twitter]
+
+Je dois bien dire que ça rentre parfaitement dans mon projet de présentation sur l'idiocratie ...

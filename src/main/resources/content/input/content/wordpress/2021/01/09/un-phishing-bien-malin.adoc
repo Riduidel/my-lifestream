@@ -1,0 +1,91 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un phishing bien malin
+:jbake-tags: email,spam,_mois_janv.,_année_2021
+:jbake-date: 2021-01-09
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/01/09/un-phishing-bien-malin.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/01/09/un-phishing-bien-malin/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Je ne parle d'habitude pas des tentatives d'individus pas si bien intentionnés de pénétrer dans ma boîte mail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais là, mon compte free reçoit maintenant des messages finement forgés. Laissez-moi vous montrer un exemple de message ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":6054,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://riduidel.files.wordpress.com/2021/01/image.png"><img src="https://riduidel.files.wordpress.com/2021/01/image.png?w=840" alt="" class="wp-image-6054" /></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Mon adresse mail n'est évidement pas tontonjohnny@free.fr ... qui est néanmoins une adresse free.fr parfaitement valide. Tout comme ebp.com d'ailleurs. Les pièces jointes sont évidement de vraies factures émises par EBP pour un de ses clients qui existe réellement. Mais regardez bien l'url qui s'affiche en bas quand je mets ma souris sur "Accéder à ma facture". Ca n'est certainement pas une url chez ebp. Donc c'est un faux. Et en cliquant sur ce lien, on arrive finalement sur de bonnes pages bien crapuleuses : installation d'antivirus à la manque, participation à des tirages au sort bidon, bref, tout y passe. Alors comment ces messages arrivent-ils chez moi ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est le moment de jeter un oeil aux entêtes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">Return-Path: info.fr@ebp.com
+Received: from zimbra43-e7.priv.proxad.net (LHLO
+ zimbra43-e7.priv.proxad.net) (172.20.243.193) by
+ zimbra43-e7.priv.proxad.net with LMTP; Fri, 8 Jan 2021 15:22:01 +0100 (CET)
+Received: from bookyoo.com (mx28-g26.priv.proxad.net [172.20.243.98])
+	by zimbra43-e7.priv.proxad.net (Postfix) with ESMTP id 15FD553742D
+	for &#60;nicolas.delsaux@free.fr&#62;; Fri,  8 Jan 2021 15:21:53 +0100 (CET)
+Received: from bookyoo.com ([5.139.18.132])
+	by mx1-g20.free.fr (MXproxy) for nicolas.delsaux@free.fr;
+	Fri,  8 Jan 2021 15:22:01 +0100 (CET)
+X-ProXaD-SC: state=HAM score=0
+X-ProXaD-Cause: (null)
+Content-Type: multipart/mixed;
+ boundary=--boundary_7272_789646fc-a564-46c2-b8cd-0f7a6d6b092d
+MIME-Version: 1.0
+Reply-To: no-reply@ebp.com
+Subject: =?utf-8?B?TWlzZSDDoCBkaXNwb3NpdGlvbiBkZSB2b3RyZSBmYWN0dXJl?=
+ =?utf-8?B?IE7CsDAwOTE1MjAwMDI=?=
+Message-ID: &#60;491aded745ca4af31dc241278d594bdd@mwinf5c81.me-wanadoo.net&#62;
+Date: Fri, 08 Jan 2021 14:11:29 +0000
+From: "EBP service Client" &#60;info.fr@ebp.com&#62;
+To: tontonjohnny@free.fr
+
+
+----boundary_7272_789646fc-a564-46c2-b8cd-0f7a6d6b092d
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>Pas la peine de mettre le contenu du message, hein.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, qu'est-ce qu'on observe ? D'abord, que le champ <code>To:</code> correspond bien à la mauvaise adresse. Personnellement, je pensais que free.fr vérifiait bien que ce <code>To:</code> correspondait bien à l'adresse mail. Du coup, il y a quelque chose qui m'échappe ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et du coup, je suis très intrigué ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Surtout que les mails frauduleux ne sont évidement pas toujours des mails ressemblant à ceux d'EBP ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En revanche, si on regarde les champs <code>Received:</code>, le mail vient de Chine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais on peut aller plus loin ... regardez cette question sur superuser <a href="https://superuser.com/questions/624509/how-can-i-find-out-where-an-email-really-came-from">How can I find out where an email really came from?</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca nous amène sur la <a href="https://mxtoolbox.com/Public/Tools/EmailHeaders.aspx?huid=4fdc2b42-0139-42e1-a721-7e91fd3e686d">MX Toolbox</a>, qui semble indiquer des problèmes, mais je ne suis toujours pas sûr de comprendre comment ce mail a pu arriver dans ma boîte mail ...</p>
+<!-- /wp:paragraph -->
+++++

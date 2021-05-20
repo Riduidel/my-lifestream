@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gisela Pérez de Acha on Twitter: "Slack stores “every message you’ve sent, every lunch you’ve planned and every confidential decision you’ve made.” That data is not end-to-end encrypted, which means Slack can read it, law enforcement can request it, and hackers can break in and steal it. https://t.co/t2Hfg6nfg5"
+:jbake-tags: web,intimité,sécurité,slack,faille,_mois_juil.,_année_2019
+:jbake-date: 2019-07-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1562426799000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgiselilla%2Fstatus%2F1147164689568280582&searchtags=web+intimit%C3%A9+s%C3%A9curit%C3%A9+slack+faille+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/giselilla/status/1147164689568280582[Gisela Pérez de Acha on Twitter: "Slack stores “every message you’ve sent, every lunch you’ve planned and every confidential decision you’ve made.” That data is not end-to-end encrypted, which means Slack can read it, law enforcement can request it, and hackers can break in and steal it. https://t.co/t2Hfg6nfg5"]
+
+La découverte non-stupéfiante du jour : nos messages ne sont pas en sûreté chez Slack.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: saschagrunert/git-journal: The Git Commit Message and Changelog Generation Framework
+:jbake-tags: rust,programming,git,changelog,cargo,documentation,_mois_févr.,_année_2019
+:jbake-date: 2019-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1550245169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsaschagrunert%2Fgit-journal%2F&searchtags=rust+programming+git+changelog+cargo+documentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/saschagrunert/git-journal/[saschagrunert/git-journal: The Git Commit Message and Changelog Generation Framework]
+
+Bien plus intéressant (à mon avis) que le gitmoji-changelog, ce format de commit permet facilement de construire le changelog d'une application Rust. Et je vais m'en servir dès maintenant.

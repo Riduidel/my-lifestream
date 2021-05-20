@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Détecter les IMSI-catchers sur votre téléphone Android
+:jbake-tags: intimité,sécurité,android,software,open-source,_mois_avr.,_année_2015
+:jbake-date: 2015-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1428932207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.numerama.com%2Fmagazine%2F32763-detecter-les-imsi-catchers-sur-votre-telephone-android.html&searchtags=intimit%C3%A9+s%C3%A9curit%C3%A9+android+software+open-source+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.numerama.com/magazine/32763-detecter-les-imsi-catchers-sur-votre-telephone-android.html[Détecter les IMSI-catchers sur votre téléphone Android]
+
+A installer dès que la loi sera passée.

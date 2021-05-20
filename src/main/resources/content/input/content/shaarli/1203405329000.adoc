@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simple EXIF Viewer for Mac OS X
+:jbake-tags: exif,photographie,software,viewer,freeware,macosx,_mois_févr.,_année_2008
+:jbake-date: 2008-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1203405329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage.mac.com%2Faozer%2FEV%2Findex.html&searchtags=exif+photographie+software+viewer+freeware+macosx+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://homepage.mac.com/aozer/EV/index.html[Simple EXIF Viewer for Mac OS X]
+
+Un viewer de données EXXIF pour le Mac, pour tester ma synchronisation iPhoto/Ruby

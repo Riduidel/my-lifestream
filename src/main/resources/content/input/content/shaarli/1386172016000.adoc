@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Petit quizz géographique
+:jbake-tags: géographie,quizz,flash,web,_mois_déc.,_année_2013
+:jbake-date: 2013-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1386172016000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.viamichelin.fr%2Fhtm%2Fdiv%2Fquizz%2Ffrance%2Ftowns_fr_sshs.swf&searchtags=g%C3%A9ographie+quizz+flash+web+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.viamichelin.fr/htm/div/quizz/france/towns_fr_sshs.swf[Petit quizz géographique]
+
+Chouette quizz. J'ai complètement merdé sur Haguenau, fait des bons scores pour Blois, Valence et Besancon, et je m'en sors avec 51280 points ... je dois pouvoir faire mieux. EDIT 76102 points à al deuxième partie ... OK, il semble que soit capable de placer chaque ville à moins de 100 kilomètres de sa vraie localisation (à part St-Dié et l'Ile Rousse).

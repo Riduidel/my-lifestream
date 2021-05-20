@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pierre Schelle
+:jbake-tags: author
+:jbake-date: 2011-01-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/989161.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/989161
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756013855.html[Vendetta (Carmen Mc Callum #9)]
+* link:../books/9782756013862.html[Dommy (Travis, #9)]
+* link:../books/9782756020211.html[Mazzere (Carmen Mc Callum #10)]
+* link:../books/9782756020228.html[New York Delaware (Travis, #10)]
+* link:../books/9782756080765.html[Les Tueurs de fer (Travis #12.)]
+* link:../books/9782847894363.html[La Tarentule (Travis, #7)]
+* link:../books/9782847899849.html[Huracan (Travis, #1)]

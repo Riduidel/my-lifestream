@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz /18
+:jbake-tags:  amour, enfant, mort,_année_2014,_mois_mai,_note_3,rayon-bd,read
+:jbake-date: 2014-05-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9788484499015.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332711055l/2824338._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332711055l/2824338._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2824338
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+La lucha contra los "demonienses", seres con grandes capacidades de organización y variados poderes se vuelve cada vez más intensa. ¡Tras haber derrotado a varios extraterrestres de nivel medio-alto, ante nuestros protagonistas aparece el jefe, rompiendo su silencio en medio de la ciudad! ¿¡Existirá alguna estrategia con la que contrarrestar la inaudita fuerza de este individuo, empeñado en masacrar a todo el que se le ponga por delante, sea luchador o civil e incluso extender su destrucción a toda la humanidad!? Ahora, ¡cuando la gente de a pie puede ver a los miembros del equipo y el temporizador ha desaparecido, la historia deriva hacia una nueva fase...!
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+* link:../authors/1134860.html[Marc Bernabé]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+Deux tomes de baston, surtout aussi dantesque que celle-là, ça fait beaucoup pour mon petit coeur, je trouve ...
+++++

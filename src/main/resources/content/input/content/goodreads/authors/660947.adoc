@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alain Damasio
+:jbake-tags: author
+:jbake-date: 2007-06-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/660947.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1312836719p5/660947.jpg
+:jbake-source: https://www.goodreads.com/author/show/660947
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070342266.html[La Horde du Contrevent]
+* link:../books/9782070361335.html[La Zone du dehors]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Version Numbers for Continuous Delivery with Maven and Docker
+:jbake-tags: maven,java,programming,continuous-deployment,_mois_août,_année_2017
+:jbake-date: 2017-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1503565956000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.philipphauer.de%2Fversion-numbers-continuous-delivery-maven-docker%2F&searchtags=maven+java+programming+continuous-deployment+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.philipphauer.de/version-numbers-continuous-delivery-maven-docker/[Version Numbers for Continuous Delivery with Maven and Docker]
+
+Intéressant, et surtout solutionnant à mon avis le plus gros problème de maven pour le déploiement continu

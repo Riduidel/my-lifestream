@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: freshmeat.net: Project details for SSHVnc
+:jbake-tags: freeware,software,java,remote,réseau,vnc,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109770863000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freshmeat.net%2Fprojects%2Fsshvnc%2F&searchtags=freeware+software+java+remote+r%C3%A9seau+vnc+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.freshmeat.net/projects/sshvnc/[freshmeat.net: Project details for SSHVnc]
+
+SSHVnc is a standalone Java VNC viewer that secures VNC access by integrating the popular TightVNC viewer with the SSHTools Java SSH API. It features a clean and easy to use interface, simplifying the complicated processes currently used to secure the VNC

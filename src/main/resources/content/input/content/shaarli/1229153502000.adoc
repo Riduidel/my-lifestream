@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robocode - Wikibooks, collection of open-content textbooks
+:jbake-tags: programming,java,documentation,robocode,for:Clownny59,_mois_déc.,_année_2008
+:jbake-date: 2008-12-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1229153502000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fen.wikibooks.org%2Fwiki%2FRobocode&searchtags=programming+java+documentation+robocode+for%3AClownny59+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://en.wikibooks.org/wiki/Robocode[Robocode - Wikibooks, collection of open-content textbooks]
+
+Une collection de tips pour faire quelques petites choses de son robot. Pas très long, hein, mais toujours utile ...

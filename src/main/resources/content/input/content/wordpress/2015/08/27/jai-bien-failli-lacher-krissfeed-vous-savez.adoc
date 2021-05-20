@@ -1,0 +1,38 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai bien failli lâcher krissfeed, vous savez ...
+:jbake-tags: dns-323,rss,web,_mois_août,_année_2015
+:jbake-date: 2015-08-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/08/27/jai-bien-failli-lacher-krissfeed-vous-savez.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/08/27/jai-bien-failli-lacher-krissfeed-vous-savez/
+:jbake-style: wordpress
+
+++++
+<p>
+En ce moment, chaque semaine, je ne sais ni pourquoi ni comment, le fichier data.php se corrompt assez facilement. Et du coup, krissfeed ne marche plus.
+</p>
+<p>
+Du coup, ça m'a donné une excuse pour faire mon voyage traditionnel dans le monde des lecteurs RSS en ligne. En ligne, parce que je lis mes flux depuis mon portable de bureau, le portable de ma femme, mon ordinateur fixe, et même mon téléphone portable, enfin pas avec krissfeed, puisque les réglages sont partagés entre tous les appareils.
+</p>
+<p>
+Bref ...
+</p>
+<p>
+J'ai donc jeté un oeil à quelques concurrents
+<br/>
+<ul>
+<br/>
+<li><a href="https://www.commafeed.com">commafeed </a>a un look assez sympa, mais certains flux ne se mettaient jamais à jour</li>
+<br/>
+<li><a href="https://readerself.com/">readerself </a>a l'air chouette, sauf que le paquet de redirections empêche de l'utiliser avec lighttpd (sauf à connaître la syntaxe des redirections dans ce langage, ce qui n'est pas mon cas)</li>
+<br/>
+</ul>
+<br/>
+Et puis je suis revenu à krissfeed, qui est juste suffisant pour mon besoin ...
+</p>
+<p>
+Bref, une non-histoire :-)
+</p>
+++++

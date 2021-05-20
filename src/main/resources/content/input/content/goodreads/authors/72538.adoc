@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robert Holdstock
+:jbake-tags: author
+:jbake-date: 2004-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/72538.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1374526882p5/72538.jpg
+:jbake-source: https://www.goodreads.com/author/show/72538
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070316700.html[La Forêt des Mythagos]

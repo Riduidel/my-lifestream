@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Seth's Blog: Read more blogs
+:jbake-tags: rss,web,_mois_juin,_année_2016
+:jbake-date: 2016-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1464851132000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsethgodin.typepad.com%2Fseths_blog%2F2016%2F06%2Fread-more-blogs.html&searchtags=rss+web+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://sethgodin.typepad.com/seths_blog/2016/06/read-more-blogs.html[Seth's Blog: Read more blogs]
+
+Belle défense du RSS

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: variadico/noti: Monitor a process and trigger a notification.
+:jbake-tags: windows,macosx,linux,command-line,notification,open-source,_mois_janv.,_année_2021
+:jbake-date: 2021-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1611922728000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fvariadico%2Fnoti&searchtags=windows+macosx+linux+command-line+notification+open-source+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/variadico/noti[variadico/noti: Monitor a process and trigger a notification.]
+
+Ca m'a l'air bien chouette comme outil de notification polyvalent ...

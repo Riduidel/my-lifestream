@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Did the Covid-19 virus really escape from a Wuhan lab? | Matt Ridley
+:jbake-tags: épidémie,enquête,science,évolution,virus,_mois_févr.,_année_2021
+:jbake-date: 2021-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1612782078000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rationaloptimist.com%2Fblog%2Fdid-covid-escape-from-a-lab%2F&searchtags=%C3%A9pid%C3%A9mie+enqu%C3%AAte+science+%C3%A9volution+virus+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://www.rationaloptimist.com/blog/did-covid-escape-from-a-lab/[Did the Covid-19 virus really escape from a Wuhan lab? | Matt Ridley]
+
+Un article très documenté sur les origines de l'épidémie en cours. Les conclusions en sont assez tristes (même si l'article est résolument non complotiste)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The TLA Home Page
+:jbake-tags: programming,debug,_mois_janv.,_année_2018
+:jbake-date: 2018-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1516717020000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flamport.azurewebsites.net%2Ftla%2Ftla.html&searchtags=programming+debug+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://lamport.azurewebsites.net/tla/tla.html[The TLA Home Page]
+
+Oh mais ça a l'air très chouette cette méthode formelle de détection de bugs

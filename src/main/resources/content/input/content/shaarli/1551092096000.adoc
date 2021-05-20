@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Venkat Subramaniam on Twitter: "Learning to program is like learning music. We don't learn by merely watching others or listening. Learn by creating a lot of noise, be guided and critiqued continuously, and practice like crazy until you can feel the harmony (in code)."
+:jbake-tags: musique,programming,métaphore,citation,_mois_févr.,_année_2019
+:jbake-date: 2019-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1551092096000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvenkat_s%2Fstatus%2F1099312786557956097&searchtags=musique+programming+m%C3%A9taphore+citation+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/venkat_s/status/1099312786557956097[Venkat Subramaniam on Twitter: "Learning to program is like learning music. We don't learn by merely watching others or listening. Learn by creating a lot of noise, be guided and critiqued continuously, and practice like crazy until you can feel the harmony (in code)."]
+
+J'ai rarement vu une métaphore de l'apprentissage de la programmation aussi juste : le coté je fais de la merde jusqu'à ce que ça ressemble à quelque chose ressemble effectivement beaucoup à l'apprentissage populaire de la musique

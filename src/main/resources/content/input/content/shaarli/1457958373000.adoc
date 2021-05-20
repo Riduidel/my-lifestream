@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: quickMockup
+:jbake-tags: web,design,mockup,_mois_mars,_année_2016
+:jbake-date: 2016-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1457958373000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjdittrich.github.io%2FquickMockup%2F&searchtags=web+design+mockup+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://jdittrich.github.io/quickMockup/[quickMockup]
+
+Un outil de mockup assez cool, surtout parce que le HTML généré peut être récupéré dans codepen !

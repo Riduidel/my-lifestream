@@ -1,0 +1,156 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [DevFest] Doom, Gloom or Loom
+:jbake-tags: devfest,java,thread,_mois_juin,_année_2019
+:jbake-date: 2019-06-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/06/14/devfest-doom-gloom-or-loom.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/06/14/devfest-doom-gloom-or-loom/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="header"></div>
+<br/>
+<div id="content">
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+En Java, on peut faire de l’impératif ou du réactif. Le code sera assez semblable, mais l’implémentation sera différente. Et ça se verra quand on essayera de débugger. Parce que le code réactif ne sera pas appelé de la même manière.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+&#160;
+</p>
+<p>
+Comment peut-on faire en Java pour avoir une pile d’exécution correcte même avec du code réactif ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+C’est l’objectif du projet loom. Loom rajoute les <code>java.lang.Continuation</code> qui sont "un peu comme" des fonctions qu’on peut suspendre comme on veut grâce à <code>.yield(scope)</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+On va donc démarrer (et relancer) une continuation avec <code>continuation.run()</code>, et sortir temporairement de la continuation avec <code>.yield(scope)</code>.
+</p>
+<p>
+&#160;
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+Pourquoi faire ça ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Historiquement, ce genre de code est géré par les threads. Mais les threads sont lourds. Parce que chaque thread a sa propre stack (qui prend en général 1 Mo de RAM). Et que les threads sont schédulés par l’OS. Ca implique un switch de contexte réalisé par l’OS …​ qui est lent.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Dans les continuations, l n’y a pas de stack, et le switch est réalisé par la JVM, ce qui va plus vite.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Rémi nous fait une démo d’async/await en Kotlin qui est "comme Java, mais sans point-virgule" (mais en vrai plus intéressant que "juste" ça) pour voir les limitations. Ou globalement, si une fonction Kotlin appelle <code>delay(…​)</code>, il faut lui ajouter le mot-clé <code>suspend</code> quid evra aussi être mis sur les fonctions appelantes. Ca rappelle bien les <code>throw/catch</code> de Java. D’ailleurs, dans les Fiber Java, on a exactement le même phénomène avec les <code>throws InterruptedException</code>. Au fait, une Fiber, c’est un wrapper de Runnable/Callable qui sera exécuté dans un <code>ExecuorService</code>. C’est <strong>très</strong> proche d’un thread. Et lorsqu’un Fiber n’a pas de Runnable/Callable à exécuter, il <code>yield(…​)</code> pour que le thread puisse faire autre chose.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+Si on regarde l’implémentation Kotlin (ouiii, c’est le moment du bytecode !), le yield est implémenté via un switch (pour le plus dire plus intelligemment une machine à états) dans lequel la branche qui yield envoie une exception contenant le contexte. A noter que le code est généré pour être compilable par javac (parce que les développeurs Kotlin veulent des performances équivalentes à Java). En Java, ça va être différent …​ Quand on yield, on recopie la stack dans la mémoire. Et quand on reschédule la continuation, on recopie la stack dans la stack active.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+A noter que l’implémentation de <code>Thread.sleep(…​)</code> a été modifiée pour fonctionner identiquement dans les fiber.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-41">
+</p>
+<p>
+Tout l’intérêt des fiber et des continuations est de permettre à la JVM de gérer ce code asynchrone à notre place. C’est plus performant, et souvent mieux écrit.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-44">
+</p>
+<p>
+Pour résumer …​ Kotlin demande un nouveau compilateur, produit une sacrée de dose de bytecode, mais est rapide ! En plus, on découpe le monde entre code "suspended" et code "classique". Loom demande une nouvelle VM, n’est pas si rapide (parce que le code est écrit en C peu efficace).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+Heureusement, ça ne tue pas la programmation réactive.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-50">
+<br/>
+<h2 id="_conclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-51">
+</p>
+<p>
+J’avais vu sous une autre forme une bonne partie d ecette présentation dans l’université que Rémi a fait avec José Paumard à DevoxxFr. Mais c’est toujours un plaisir d’entendre Rémi nous parler des entrailles de la JVM.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

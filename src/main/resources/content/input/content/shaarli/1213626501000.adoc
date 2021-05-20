@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Buddi - Personal budget software for the rest of us
+:jbake-tags: freeware,software,finance,windows,macosx,_mois_juin,_année_2008
+:jbake-date: 2008-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1213626501000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbuddi.thecave.homeunix.org%2Fen%2Findex.jsp&searchtags=freeware+software+finance+windows+macosx+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://buddi.thecave.homeunix.org/en/index.jsp[Buddi - Personal budget software for the rest of us]
+
+Encore un logiciel de finances personnelles gratuit, et apparement très simple d'emploi

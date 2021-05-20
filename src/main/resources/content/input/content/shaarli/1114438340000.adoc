@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mac OSX Software
+:jbake-tags: software,freeware,macosx,system,notification,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114438340000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.geckopda.com%2Fosx%2Fsoftware.php&searchtags=software+freeware+macosx+system+notification+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.geckopda.com/osx/software.php[Mac OSX Software]
+
+SmokeStacks is a helper application that works with Growl, a notification system for OSX. SmokeStacks runs entirely in the background and keeps you apprised of system events, including mounting a file system and connecting to a wireless access point. (if

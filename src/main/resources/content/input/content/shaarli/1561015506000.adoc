@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Automate workflow deployment in Apache NiFi with the NiFi Registry – Pierre Villard
+:jbake-tags: nifi,déploiement,devops,tutorial,_mois_juin,_année_2019
+:jbake-date: 2019-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1561015506000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpierrevillard.com%2F2018%2F04%2F09%2Fautomate-workflow-deployment-in-apache-nifi-with-the-nifi-registry%2F&searchtags=nifi+d%C3%A9ploiement+devops+tutorial+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://pierrevillard.com/2018/04/09/automate-workflow-deployment-in-apache-nifi-with-the-nifi-registry/[Automate workflow deployment in Apache NiFi with the NiFi Registry – Pierre Villard]
+
+Un bon article sur la mise en place d'une infrastructure de déploiement "correcte" pour Nifi

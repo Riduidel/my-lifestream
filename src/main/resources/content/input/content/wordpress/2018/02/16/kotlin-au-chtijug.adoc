@@ -1,0 +1,568 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kotlin au chtijug
+:jbake-tags: chtijug,kotlin,langage,_mois_févr.,_année_2018
+:jbake-date: 2018-02-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/02/16/kotlin-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/02/16/kotlin-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Première soirée chez Axa, pour découvrir un petit langage qui monte, qui monte.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-5">
+<br/>
+<h2 id="trueen_introdution">En introdution</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+D’abord, si vous voulez comprendre Kotlin, le <a href="https://kotlinlang.org/">site du langage</a> est très bien fichu. Et pour aller plus loin, les <a href="https://kotlinlang.org/docs/tutorials/koans.html">kotlin koans</a>sont très bien (et c’est vrai, je les ai presque tous fait, et on apprend vite et agréablement les concepts du langage).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-10">
+<br/>
+<h2 id="truepourquoi_kotlin">Pourquoi Kotlin ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-12">
+</p>
+<p>
+Plutôt que de nous parler des ses avantages par rapport à Java, <a href="https://twitter.com/salomonbrys">Salomon</a> préfère nous indiquer qu’il y a de plus en plus de Kotlin, du coup ça vaut le coup …​ Un argument d’autorité que je rapproche toujours de "10 millions de mouches à merde en mangent, et toi ?" (la tournure est certes provoquante, mais vous voyez l’idée).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-14">
+</p>
+<p>
+Les avantages de Kotlin sont d’abord qu’il s’agit d’un langage développé par l’industrie, et donc construit selon les besoins de l’industrie. Par exemple, il n’y a pas d’implicites en Kotlin (par opposition au Scala) parce que ça n’est pas vraiment lisible. En revanche, il y a des fonctions d’extension, qui ne valent à mon sens pas beaucoup mieux. Un autre avantage important, c’est l’interopérabilité. Kotlin vise le 100% …​ Comme le Groovy, en fait, mais pas pareil, puisque Kotlin est compilé. Enfin, Kotlin vise la facilité de lecture.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-18">
+<br/>
+<h2 id="truetypes">Types</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+En Kotlin (comme en <a href="https://fr.wikibooks.org/wiki/Programmation_Pascal/Variables">Pascal</a>) les types sont postfixés. Personnellement, je ne suis pas fan, mais je comprend pourquoi : en Kotlin, les déclarations de type peuvent être inférrées, typiquement dans les instanciations, comme <code>val uri = URI(str)</code>. C’est un avantage, tant que votre IDE ne sait pas générer les déclarations de type (ce que fait Eclipse depuis …​ cinq ans, il me semble). En revanche, il n’y a pas de <code>new</code>. Mais du coup, la définition des constructeurs est un peu différente.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Un autre point intéressant est la nécessité de déclarer les types nullables. Par exemple, <code>String</code> ne peut pas être null, mais <code>String?</code> peut l'être. Du coup, l’<a href="https://kotlinlang.org/docs/reference/null-safety.html#elvis-operator">elvis operator</a> est résolu dès la compilation, ce qui est très chouette. Et le fameux coup de la <a href="https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare">million dollar mistake</a> du <code>null</code> n’existe plus. A peu près …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-25">
+<br/>
+<h2 id="trueinterop_rabilit">Interopérabilité</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+L’une des magies de Kotlin est que tous les objets Kotlin, y compris les collections, sont utilisables en Java. L’un décore l’autre. Salomon nous indique d’ailleurs qu’il y a un peu de magie de compilation là-dedans.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-29">
+<br/>
+<h3 id="trueinterop_rabilit_nullabilit">Interopérabilité &#38; nullabilité</h3>
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Comment ça marche quand on crée un type Kotlin non-null (donc sans <code>?</code>) et qu’on l’utilise depuis du Java, où <code>null</code> est permis dans tous les types. Eh bien tout simplement, la méthode Kotlin est décorée par un code qui vérifie que l’argument n’est pas null, et renverra une KotlinNullException (à peu près) sans qu’on ait à l'écrire dans le code. Du coup, ce qu’il faut retenir, c’est que la nullabilité ne peut être vérifiée qu’en Kotlin. A l’inverse, du code Java appelé depuis Kotlin pourra retourner <code>null</code>. A l’origine, Kotlin utilisait toujours les types nullables, mais ça polluait le code avec des <code>?</code> partout. Du coup, les concepteurs du langage ont crée le platform type (comme <code>String!</code>) qui ne peuvent pas être créés à la main, et qui peuvent être <code>null</code>. Personnellement, je trouve ça très fâcheux, mais bon, c’est un choix.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+A noter qu’il existe un raccourci IntelliJ IDEA permettant de retrouver le type d’une variable …​ Parce qu’on ne l'écrit pas (ce qui en fait démontre que ces types inférrés sont peut-être une idée pas si fameuse que ça …​).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-35">
+</p>
+<p>
+Attention, là, c’est moi qui infère. Pour en revenir à cette histoire de nullabilité avec du Java, il y a quand même un truc louche. Salomon nous explique que Kotlin fait tout pour éviter les NullPointerExcecption, et c’est très cool …​ tant qu’on reste dans le monde Kotlin. Mais manifestement, le monde Java a curieusement bénéficié d’une exception à la null-safety qui vient polluer le monde Kotlin via ces fameux platform types. Et la million dollar error est revenue par là : dès que vous appelez du code Java, vous vous retrouvez, via ces platform types, sensibles à des NullPointerException. Et utiliser du Java depuis du Kotlin, ben ça risque fort de vous arriver …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-38">
+<br/>
+<h2 id="truepropri_t_s">Propriétés</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Comme dans tous les langages modernes de la JVM, il y a des data class pour écrire plus simplement les Java beans. Même si en Java, on peut aussi écrire un bean sans getter ni setter, parce qu’en fait, si ils ne font rien, autant ne pas les écrire. En tout cas, en Kotlin, si on écrit une variable de classe avec un <code>var</code>, c’est une propriété dont les getter et setter sont générés …​. comme avec <a href="https://projectlombok.org/features/var">Lombok</a>. J’aime beaucoup la justification de Salomon : JetBrains a analysé beaucoup de code Java pour constater que la plupart des attributs sont en fait publics (privés avec getters et setters qui sont, eux, publics). Du coup, le qualificateur par défaut sera public. Donc les getters et les setters sont tous générés, ce qui en fait une forme de taxe …​ A un avantage près : il est toujours possible de surcharger les getters et les setters, avec une syntaxe très proche des properties C#.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+Il est également possible de définir les propriétés directement dans la déclaration de classe, ce qui fait de la déclaration de classe un one-liner pour les beans (du moment qu’ils n’ont pas trop de propriétés).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-44">
+</p>
+<p>
+Enfin, il est possible de générer les méthodes <code>hashCode()</code> et <code>toString()</code> en ajoutant le qualifieur <a href="https://kotlinlang.org/docs/reference/data-classes.html"><code>data</code></a> devant le nom de la classe.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-46">
+<br/>
+<h3 id="truepropri_t_s_d_l_gu_es">Propriétés déléguées</h3>
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+Bon, alors là, c’est un peu tordu. La ligne de code est pourtant simple :
+</p>
+<p>
+</div>
+<br/>
+<div class="literalblock data-line-50">
+<br/>
+<div class="content">
+<br/>
+<pre>val cm by instance(CredentialsManager::class)</pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+En fait, dans ce cas, les getters/setters implicites de la propriété sont transférés au délégué, qui en fait …​ ce qu’il veut. <a href="https://kotlinlang.org/docs/reference/delegated-properties.html">La doc Kotlin</a> est assez claire, avec quelques exemples communs : lazy, observable, …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-54">
+<br/>
+<h2 id="truefonctions">Fonctions</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-56">
+</p>
+<p>
+Il est possible d’ajouter une fonction à une classe (ce sont les fonctions d’extension dont je parlais plus haut). Comme par exemple <code>String.toCamelCase(…​.)</code> qui serait une nouvelle méthode de la classe String. En fait, dans ce cas, une méthode statique est générée dans la classe <code>String</code> avec en premier paramètre la chaîne de caractère à transformer. C’est en fait du simple sucre syntaxique.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+Ca devient très intéressant quand on utilise ces fonctions avec des types génériques. Très intéressant, ou diabolique. Cela dit, le bon exemple est <code>fun Map.prefixed(prefix: String): List</code> qui retourne les clés d’une map préfixées avec le préfixe fourni en paramètre.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-60">
+</p>
+<p>
+A noter que la fonction doit être importée à part de la classe qu’elle étend …​ si l’IDE la décrit bien.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-62">
+<br/>
+<h2 id="truelambdas">Lambdas</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-64">
+</p>
+<p>
+Kotlin est aussi fonctionnel que Java 9. Bon, ben tout est dit, hein, on a rajouté du fonctionnel sur un langage objet. Comme en Groovy, dans une lambda à un paramètre, on peut ne pas écrire le paramètre et le remplacer par <code>it</code>. Et comme en Groovy également, lorsque la lambda est le dernier paramètre, on ne met pas de parenthèse autour.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-66">
+<br/>
+<h2 id="truedsl">DSL</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-68">
+</p>
+<p>
+En Kotlin, on ne peut pas déclarer de variables statiques …​ Mais on peut définir des objets spécifiques. Avec ça et les fonctions d’extensions, il est très facile de définir des DSL internes. Si on déclare une fonction <code>infix</code>, elle ne doit avoir qu’un seul argument, mais ça permet de retirer les parenthèses. Encore une fois, <a href="http://www.groovy-lang.org/style-guide.html#_omitting_parentheses">Groovy</a> a les mêmes mécanismes.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-70">
+<br/>
+<h2 id="truesurcharge_d_op_rateur">Surcharge d’opérateur</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+Comme <a href="http://groovy-lang.org/operators.html#Operator-Overloading">en Groovy</a> (décidément), si une méthode utilise la signature d’une méthode d’opérateur, on peut utiliser la syntaxe de l’opérateur. Et avec les fonctions d’extension, d’un coup, on peut ajouter des opérateurs à des types (comme par exemple <code>operator fun Date.plus(other: Date): Date {…​}</code>). Ce qui est très chouette (allié à la limitation du nombre d’opérateurs utilisables).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-74">
+<br/>
+<h2 id="trueinline">Inline</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-76">
+</p>
+<p>
+J’avais dû survoler ça dans la doc : si une fonction a le mot clé <a href="https://kotlinlang.org/docs/reference/inline-functions.html"><code>inline</code></a>, son code sera forcément copié dans toutes les fonctions qui l’appellent …​ sauf quand c’est impossible. Par exemple, comme le souligne Logan, une fonction récursive ne devrait pas être inlinable (mais il va vérifier !).
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-78">
+<br/>
+<h3 id="truenon_local_return">Non-local return</h3>
+<br/>
+<div class="paragraph data-line-80">
+</p>
+<p>
+Ca permet par exemple de faire du non-local return …​ Là, honnêtement, j’ai du mal à conceptualiser le truc.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-82">
+</p>
+<p>
+En fait, en Kotlin, les lambdas et les fonctions ne sont pas strictement équivalentes, apparement, et <code>return</code> sort de la fonction englobante. Et il est parfois utile de sortir de la lambda sans sortir de la fonction (même si la dernière instruction d’une lambda est sa valeur de retour).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-84">
+<br/>
+<h3 id="truetypes_r_ifi_s">Types réifiés</h3>
+<br/>
+<div class="paragraph data-line-86">
+</p>
+<p>
+En Java, les types génériques ne sont pas réifiés. C’est-à-dire qu’ils sont utilisés lors de la compilation, mais pas lors de l’exécution (<a href="https://groups.google.com/d/msg/lescastcodeurs/NJb9WO2EdI8/oQuJhvPnm9AJ">Rémi Forax</a> vous expliquerait ça bien mieux que moi). Bon, donc Kotlin permet de déclarer des types réifiés. Par exemple, <code>inline fun  typeName() = T::class.simpleName</code> devient <code>typeName() String:::class.simpleName()</code>. Et pour que ça marche, il faut apparement passer par des fonctions inline, sans doute pour que ces fonctions soient appliquées lors de la complation, ce qui semble nous amener dans le domaine de bugs du compilateur C# (je me souviens avoir lu un article qui expliquait qu'à cause de la réification des génériques en C#, il était possible de provoquer des OutOfMemory sur le compilateur C#, mais je ne retrouve pas le lien).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-89">
+<br/>
+<h2 id="truereactivex">ReactiveX</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-91">
+</p>
+<p>
+Si vous connaissez RxJava, c’est plus cool.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-93">
+</p>
+<p>
+Un des trucs marrants, c’est que ReactiveX fournit une gestion du null à travers Maybe
+</p>
+<p>
+<article>, et non Article?. Alors bon, d’accord, ` null` est une erreur à un million, mais si il y a un million de corrections mutuellement exclusives, je ne suis pas complètement certain que la victoire vaille le combat mené …​</article></div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-95">
+<br/>
+<h2 id="truetodo">TODO()</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-96">
+</p>
+<p>
+En Kotlin, on peut déclarer une fonction sans l’implémenter en écrivant <code>fun my() = TODO()</code>. C’est vraiment très cool !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-98">
+<br/>
+<h2 id="trueretour_reactivex">Retour à ReactiveX</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-100">
+</p>
+<p>
+Bon, ben là, c’est de la programmation asynchrone, donc compliquée. Mais simplifiée par les coroutines …​ qui sont simplement des appels à <code>await()</code> après l’appel de fonctions asynchrones.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-102">
+</p>
+<p>
+L’important, c’est que les coroutines transforment du code séquentiel en callbacks …​ grâce au compilateur, qui doit faire quand même pas mal de boulot. Du coup, écrire une librairie qui utilise ces coroutines ne doit pas être simple, mais JetBrains l’a déja fait dans un certain nombre de cas (y compris passer du thread d’affichage Swing à un thread de traitement, ou évidement vert.x).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-104">
+<br/>
+<h2 id="trueplateformes">Plateformes</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-106">
+</p>
+<p>
+Kotlin tourne sur
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-108">
+<br/>
+<ul>
+<br/>
+<li>La JVM, bien sûr</li>
+<br/>
+<li>Javascript - on peut même compiler pour du Node, mais franchement, n’en faites pas.</li>
+<br/>
+<li>WebASM</li>
+<br/>
+<li>Raspberry, Linux, Mac, Windows, iOS, <a href="http://www.st.com/en/microcontrollers/stm32-32-bit-arm-cortex-mcus.html">STM32</a></li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-113">
+</p>
+<p>
+L’intérêt de Kotlin dans ce cas est que la cross-compilation est supportée par les concepteurs du langage, ce qui change pas mal des API qui permettent de compiler du code Java pour Javascript, par exemple. C’est un gros argument marketting, clairement. Et c’est aussi assez pratique, même si ça implique quelques changements dans la chaîne de compilation, et du coup, sans doute des adaptations au niveau du code.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-115">
+</p>
+<p>
+La philosophie de Kotlin est de faire le code buisness dans les modules multiplateforme, et de laisser le code système dans les modules plateforme. C’est pas con du tout. Sauf que, par exemple, Date n’est pas multiplateforme, ce qui est vite gênant.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-117">
+</p>
+<p>
+A priori, du code Kotlin natif est vingt fois plus performant que du code compilé pour la JVM …​ Mais ça, je demande à voir (parce que j’ai des convictions assez arrêtées sur les performances de la JVM).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-119">
+<br/>
+<h2 id="truelibrairies">Librairies</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-121">
+</p>
+<p>
+Il y en a évidement des tonnes. Salomon choisit de nous parler de <a href="https://salomonbrys.github.io/Kodein/">Kodein</a>, <a href="https://github.com/SalomonBrys/Kotson">Kotson</a>, KTOR et autres K* …​ et Spring, hélas. On peut aussi utiliser <a href="http://spekframework.org/">Spek</a> pour les tests ou Mokito pour mocker (fou, non).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-123">
+</p>
+<p>
+A noter qu’il existe un transpileur Java vers Kotlin dans IntelliJ IDEA …​ mais évidement c’est du code généré.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-125">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-127">
+</p>
+<p>
+La présentation était assez riche, mais manquait parfois d’exemples les mains dans le cambouis. Mais surtout, surtout, elle m’a compris de comprendre un truc que je vais essayer d’exprimer clairement (et là, je donne complètement mon opinion sur Kotlin).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-129">
+</p>
+<p>
+Quelles sont les motivations pour créer un langage ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-131">
+</p>
+<p>
+Pour Martin Odersky et ses amis, clairement, c'était tenter d’injecter dans le monde de la JVM des concepts fonctionnels, et de les marrier proprement avec le monde objet de la JVM.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-133">
+</p>
+<p>
+Pour <a href="https://en.wikipedia.org/wiki/Groovy_(programming_language)">Groovy</a>, c'était de créer un lanage de scripting pour la JVM qui soit dynamique, extensible, efficace dans l'écriture.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-135">
+</p>
+<p>
+Pour Kotlin, même si j’ai du mal à le reconnaître, l’objectif est avant tout de permettre à JetBrains d’avoir une influence visible sur l'écosystème Java et les écosystèmes natifs. Pour moi, ça apparaît clairement à travers plusieurs éléments : le côté bien trop pragmatique de certaines décisions (typiquement, l’interopérabilité maximale avec la JVM est une bêtise qui fera beaucoup de mal à ce langage). Le pari me semble audacieux, aussi bien pour JetBrains que pour les gens qui miseront sur ce langage : que se passera-t-il quand JetBrains se fera racheter par …​ disons …​ Oracle ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-138">
+</p>
+<p>
+Les aspects de Kotlin qui sont séduisants peuvent tous être traçés à des langages antérieurs, et en tant que tel kotlin apparaît comme une synthèse. Mais tant qu'à faire dans la synthèse, je pense qu’il vaut mieux miser sur <a href="https://www.ceylon-lang.org/">Ceylon</a>, qui est à peu près équivalent conceptuellement, mais qui est, lui, open-source. Alors écidement, Kotlin est soutenu par une entreprise, qui vend un certain nombre de prestations permettant à d’autres entreprises de se sentir en confiance (et franchement, pour Google, le pari sur Kotlin fait figure d’OPA amicale), mais tout ça me met un peu mal à l’aise, e qui paraît évidement curieux pour un vieux développeur Java …​ donc en quelque sorte baigné de force dans le monde Oracle.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

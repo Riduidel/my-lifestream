@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Cités obscures
+:jbake-tags: serie
+:jbake-date: 2012-10-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Les_Cites_obscures.adoc
+:jbake-source: https://www.goodreads.com/series/75875
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782203343245.html[La Frontière invisible]

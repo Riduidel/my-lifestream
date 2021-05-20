@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mapping objet-relationnel, Couches d’acc‽s aux donn‽es et Framework de Persistance
+:jbake-tags: documentation,programming,concepts,oop,mapping,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112190135000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dotnetguru.org%2Farticles%2FPersistance%2Flivreblanc%2Formapping.htm&searchtags=documentation+programming+concepts+oop+mapping+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.dotnetguru.org/articles/Persistance/livreblanc/ormapping.htm[Mapping objet-relationnel, Couches d’acc‽s aux donn‽es et Framework de Persistance]
+
+Les premiÃ¨res questions que tous les programmeurs et chefs de projets se posent avant de commencer Ã dÃ©velopper une application sont celles concernant le choix de la plateforme de dÃ©veloppement, et celui du serveur de bases de donnÃ©es. Que

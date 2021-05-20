@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DNSFilter c'est bien ... quand l'accès au DNS n'a pas sauté
+:jbake-tags: web,android,dns,sécurité,adblock,_mois_août,_année_2019
+:jbake-date: 2019-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1565790035000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3FFI8cig&searchtags=web+android+dns+s%C3%A9curit%C3%A9+adblock+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?FI8cig[DNSFilter c'est bien ... quand l'accès au DNS n'a pas sauté]
+
+C'est curieux, depuis à peu près Lundi DNSFilter ne marche plus sur mon Android. En fouillant un peu, je découvre que c'est parce que mon téléphone ne se connecte plus à Quad9, ni DNS over TLS, ni en DNS tout court. Du coup je l'ai remplacé par le DNS de la FDN, et ça remarche !

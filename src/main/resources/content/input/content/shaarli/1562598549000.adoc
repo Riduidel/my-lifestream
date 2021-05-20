@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TDD Misbeliefs
+:jbake-tags: tdd,critique,test,réflexion,_mois_juil.,_année_2019
+:jbake-date: 2019-07-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1562598549000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2019%2F07%2F02%2Ftdd-misbeliefs.html&searchtags=tdd+critique+test+r%C3%A9flexion+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.yegor256.com/2019/07/02/tdd-misbeliefs.html[TDD Misbeliefs]
+
+J'aime beaucoup sa destruction particulièrement ultra-capitaliste (et très juste) du TDD.

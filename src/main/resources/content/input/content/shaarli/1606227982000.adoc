@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 11 Facts About Real-World Container Use | Datadog
+:jbake-tags: conteneur,statistiques,usage,web,article,devops,_mois_nov.,_année_2020
+:jbake-date: 2020-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1606227982000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.datadoghq.com%2Fcontainer-report%2F&searchtags=conteneur+statistiques+usage+web+article+devops+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.datadoghq.com/container-report/[11 Facts About Real-World Container Use | Datadog]
+
+Il y a dans cet article deux ou trois choses un peu surprenantes (AWS Fargate) et d'autres vraiment pas (la sous-utilisation massive du CPU et de la mémoire)

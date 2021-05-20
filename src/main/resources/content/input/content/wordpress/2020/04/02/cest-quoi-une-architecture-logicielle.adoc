@@ -1,0 +1,64 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C'est quoi une architecture logicielle ?
+:jbake-tags: architecture,architecture_agile,définition,métier,_mois_avr.,_année_2020
+:jbake-date: 2020-04-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/02/cest-quoi-une-architecture-logicielle.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/02/cest-quoi-une-architecture-logicielle/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Puisque j'ai un peu de temps, je m'en vais, dans cette série d'articles, tenter d'expliquer une composante de plus en plus importante de mon métier depuis les cinq dernières années. Evidement, sur ce sujet, vous pouvez commencer par lire la <a href="https://fr.wikipedia.org/wiki/Architecture_logicielle">wikipedia</a>, mais je crois que leur article est à la fois parfaitement exact et parfaitement hors-sujet. je vais donc essayer de faire un peu moins mauvais (et ça n'est pas facile, parce que c'est un sujet franchement flou).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.swisscows.ch//https://i.pinimg.com/originals/0d/e6/43/0de64358875c46247b55101f147bc090.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Quand vous écrivez un logiciel, ou un système logiciel (c'est-à-dire un ensemble de log, naturellement, ce logiciel prend une "forme" (oui, je le mets entre guillemets parce que c'est une forme abstraite, et c'est bien ça qui va nous poser problème). Idéalement, cette forme est structurée selon certains <a href="https://fr.wikipedia.org/wiki/Patron_de_conception">design patterns</a>. Il y a évidement des designs patterns pour le code (ceux du fameux <a href="http://wiki.c2.com/?GangOfFour">gang of four</a>). Il y en a aussi pour <a href="https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013">les architectures à plus grande échelle</a>. Il y en a encore pour les <a href="https://www.enterpriseintegrationpatterns.com/">bus de messages</a>. D'ailleurs, est-ce que vous savez d'où vient le terme "design pattern" ? <a href="https://en.wikipedia.org/wiki/Pattern_(architecture)">D'un livre d'architecture</a> (la vraie, celle du bâtiment). Si la forme du logiciel est structurée selon des design patterns, est-ce que cela vient naturellement ? Evidement que non. Et l'architecture, c'est le nom qu'on donne au travail consistant à définir, organiser et mettre en place cette forme logicielle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/8993e-1oshjqhtr1luu6jyq3mvnrw.png" alt="" /><figcaption>Non, une forme tridimensionnelle, ça n'est pas toujours simple</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Le problème, c'est qu'un logiciel n'a pas comme un bâtiment une forme simplement tridimensionnelle (en écrivant ça, je me rends bien compte que ça peut paraître prétentieux : construire un bâtiment est autrement plus complexe que d'assembler un logiciel). Non. Un logiciel a une forme existant simultanément dans plusieurs espaces. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Il y a d'abord la forme du code : est-ce qu'on a un seul ou plusieurs modules de code, comment ceux-ci s'assemblent ? Est-ce que ces différents modules ont des dépendances entre eux ? Quelles sont les qualités qu'on recherche dans cet assemblage de code ? De la simplicité ? De la modularité ?</li><li>Il y a ensuite la forme du livrable : est-ce qu'on cherche un composant simple à installer sur le système de l'utilisateur ? Est-ce qu'au contraire ce composant sera déployé sur un serveur et accédé à travers un client ? Ou une API ?</li><li>Il y a par ailleurs la forme liée à l'exploitation de ce logiciel : est-ce qu'on comprend son fonctionnement en production ? Est-ce qu'on peut l'analyser correctement ?</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Vous voyez bien que chacune de ces formes, qui a elle-même plusieurs dimensions, correspond à des contraintes intrinsèques (les besoins liés au langage de développement ou au mode de déploiement), mais aussi des contraintes extrinsèques. Ces contraintes extrinsèques étant elle-mêmes liées au contexte dans lequel ce logiciel est utilisé : selon l'organisation dans laquelle ce logiciel est envisagé, il sera possible, ou pas, d'écrire le logiciel en Java/C#/Rust/n'importe quel langage, ou de le déployer chez CleverCloud/Google/Un Raspberry/n'importe quelle machine, ou d'utiliser une base de données Postgres/MongoDB/Fichiers/n'importe quel stockage. Bref, chacun de ces choix correspond à des compromis entre ce qui paraît bon pour le développeur en fonction de ses compétences et ce qu'impose le contexte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A mon sens, l'architecture logicielle se tient là, dans le compromis entre ce que le développeur veut faire, ce que le contexte impose, et le design pattern associé. Et là, plusieurs remarques peuvent vous venir en tête.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous vous dites peut-être qu'il ne faut pas brider le développeur. Je vous répondrai que, par nature, le développeur est contraint (ne serait-ce que parce qu'il conçoit ou développe un logiciel dans un but précis, même quand il conçoit <a href="https://fr.wikipedia.org/wiki/Brainfuck">Brainfuck</a>, et que ce but est en soi une contrainte), et que c'est de la contrainte que naît l'innovation.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous vous dites peut-être également qu'il n'existe pas toujours de contexte. En fait, si. Il existe toujours au moins le contexte de ce que le développeur sait, ou de ce qu'il veut faire. Ce contexte là est en fait souvent le pus contraignant ... Quelqu'un qui ne connaît qu'un langage de programmation ne pourra concevoir des solutions qu'en utilisant ce langage. Quelqu'un qui ne connaît qu'un OS n'envisagera pas de déploiement dans un autre contexte. Qui plus est, lorsque vous mettez des développeurs en équipe, ils communiquent sur leurs préférences et établissent rapidement une culture de ce que sont les bonnes idées de développement ou les mauvaises. Et ça aussi fait partie du contexte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous vous dites peut-être enfin qu'il n'existe pas toujours de design pattern approprié à la situation. Et c'est bien vrai. En revanche, je ne connais pas de solution pour laquelle n'existe pas de bonne ou de mauvaise pratique de déploiement. Et les design patterns sont avant tout une manière pédante de parler de bonnes pratiques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maintenant, si on réfléchit un poil à ces différentes dimensions d'architecture, elles interviennent souvent à des moments différents : il n'est par exemple pas utile de réfléchir au déploiement d'un logiciel tant qu'on n'a pas défini ce qu'il ferait, ni dans quel contexte il le ferait. Ca implique que l'architecture, contrairement à ce que préconise la méthode en V "classique" n'est pas une tâche qu'on peut se permettre d'accomplir au début du projet avant qu'arrive les développeurs, mais au contraire qu'elle est une discussion permanente pour répondre aux défis du moment. Ca n'interdit évidement pas (bien au contraire) de réfléchir aux défis en avance de phase pour éviter qu'ils ne se transforment en problèmes. Mais ça veut surtout dire qu'on ne peut que rarement s'éviter de l'intégrer dans les réflexions sur le développement d'un système logiciel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans les articles suivants, je vous parlerai des moyens de travailler sur l'architecture logicielle, de la différence entre le rôle et le travail d'architecture ... En attendant, il existe de très bonnes lectures sur le sujet, comme par exemple ce qu'écrit <a href="http://ruthmalan.com/">Ruth Malan</a> ou <a href="https://simonbrown.je/">Simon Brown</a>.</p>
+<!-- /wp:paragraph -->
+++++

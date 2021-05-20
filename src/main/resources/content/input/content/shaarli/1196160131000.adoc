@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bienvenue sur Scan DDL
+:jbake-tags: library,manga,freeware,illegal,_mois_nov.,_année_2007
+:jbake-date: 2007-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1196160131000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fscanddl.free.fr%2Findex.php&searchtags=library+manga+freeware+illegal+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://scanddl.free.fr/index.php[Bienvenue sur Scan DDL]
+
+Une bibliothèque de mangas scannés disponibles gratuitement. C'est évidement illégal. Mais tant que ça marche, faut en profiter.

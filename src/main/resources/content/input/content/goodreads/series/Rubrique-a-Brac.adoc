@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rubrique-à-Brac
+:jbake-tags: serie
+:jbake-date: 2016-04-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Rubrique-a-Brac.adoc
+:jbake-source: https://www.goodreads.com/series/149838
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782205066876.html[Rubrique-à-brac, Intégrale]

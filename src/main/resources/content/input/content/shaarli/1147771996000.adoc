@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Diffusion des savoirs de l'École normale supérieure
+:jbake-tags: éducation,cours,podcast,science,documentation,_mois_mai,_année_2006
+:jbake-date: 2006-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1147771996000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.diffusion.ens.fr%2Findex.php%3Fres%3Dpodcast&searchtags=%C3%A9ducation+cours+podcast+science+documentation+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.diffusion.ens.fr/index.php?res=podcast[Diffusion des savoirs de l'École normale supérieure]
+
+Pour tous ceux qui voudraient accéder au top de l'éducation en France sans bouger de chez eux .. via JB

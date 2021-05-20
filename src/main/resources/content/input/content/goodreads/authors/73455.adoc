@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John E. Stith
+:jbake-tags: author
+:jbake-date: 2005-11-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/73455.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1365700080p5/73455.jpg
+:jbake-source: https://www.goodreads.com/author/show/73455
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780812519525.html[Manhattan Transfer]

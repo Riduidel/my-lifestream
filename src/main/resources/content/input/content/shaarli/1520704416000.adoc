@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hearth | Decentralized website publishing
+:jbake-tags: web,_mois_mars,_année_2018
+:jbake-date: 2018-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1520704416000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhearth.eternum.io%2F&searchtags=web+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://hearth.eternum.io/[Hearth | Decentralized website publishing]
+
+C'est une assez chouette idée, même si Keybase fournit une intégration équivalente ... mais plus sûre

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: All Katas
+:jbake-tags: kata,programming,agile,exemple,_mois_mars,_année_2017
+:jbake-date: 2017-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1489653246000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkata-log.rocks%2F&searchtags=kata+programming+agile+exemple+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://kata-log.rocks/[All Katas]
+
+Un chouette kata-logue avec critères de recherche intégrés

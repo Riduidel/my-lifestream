@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Google a accès aux mots de passe des réseaux Wi-Fi
+:jbake-tags: wifi,sécurité,google,_mois_sept.,_année_2013
+:jbake-date: 2013-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1379335065000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.frandroid.com%2Fgoogle%2F168116_google-acces-au-mots-passe-reseaux-wi-fi&searchtags=wifi+s%C3%A9curit%C3%A9+google+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.frandroid.com/google/168116_google-acces-au-mots-passe-reseaux-wi-fi[Google a accès aux mots de passe des réseaux Wi-Fi]
+
+Damn ... Google sait tout, google veut tout connaître de notre intimité. Et là, c'est même dans un but fonctionnel. Mais quand même, mon réseau censé être protégé ne l'est en fait pas : une personne s'est déja connectée chez moi avec un téléphone Android. Il va donc falloir changer la passphrase.

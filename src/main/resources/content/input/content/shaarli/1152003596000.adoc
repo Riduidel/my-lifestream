@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PC Club Forums - LCD Tutorial (Penguin case)
+:jbake-tags: matériel,hack,_mois_juil.,_année_2006
+:jbake-date: 2006-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1152003596000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pcclub.com%2Fforum%2Farcmessageview.cfm%3Fcatid%3D28%26threadid%3D2611&searchtags=mat%C3%A9riel+hack+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.pcclub.com/forum/arcmessageview.cfm?catid=28&threadid=2611[PC Club Forums - LCD Tutorial (Penguin case)]
+
+Comment transformer une dalle LCD de portable en écran d'ordinateur à grands coups de fer à souder

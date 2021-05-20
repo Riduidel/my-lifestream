@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zones of Thought
+:jbake-tags: serie
+:jbake-date: 2003-03-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Zones_of_Thought.adoc
+:jbake-source: https://www.goodreads.com/series/52585
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253072089.html[Un feu sur l'abîme]
+* link:../books/9782221090299.html[Au tréfonds du ciel]

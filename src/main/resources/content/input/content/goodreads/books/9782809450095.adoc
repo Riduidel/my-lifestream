@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ultimate X-Men Tome 9: Apocalypse
+:jbake-tags:  combat, drogue, fin-du-monde, surhomme, temps,_année_2015,_mois_nov.,_note_2,rayon-bd,read
+:jbake-date: 2015-11-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782809450095.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559032291l/27998213._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559032291l/27998213._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/27998213
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Le Roi d’Ombre tente désespérément de s’enfuir de la prison mentale dont il est captif depuis des siècles et veut s’en prendre à Tornade. Puis, les X-Men se mesurent aux Brood, des êtres redoutables venus d’une autre planète, ainsi qu’au puissant Apocalypse. (Contient les épisodes US Ultimate X-Men (2001) 89-97, publiés précédemment dans les revues ULTIMATE X-MEN 47 à 50)
+</div>
+++++
+
+
+## Authors
+* link:../authors/2350532.html[Aron E. Coleite]
+* link:../authors/12425.html[Robert Kirkman]
+
+## Series
+* link:../series/Ultimate_X-Men_(Collected_Editions).html[Ultimate X-Men (Collected Editions)]
+* link:../series/Ultimate_X-Men_(Single_Issues).html[Ultimate X-Men (Single Issues)]
+
+## Review
+
+++++
+Je n'ai pas vraiment été impressioné par ce tome.<br/>Sans doute parce que le retour de Xavier pour affronter Apocalypse est arrivé trop vite pour que je comprenne réellement l'étendue des pouvoirs de ce mutant.<br/>Sans doute aussi parce que les comics ne savent <b>jamais</b> utiliser le voyage dans le temps.<br/>Sans doute enfin parce que Wolverine tue un mec juste avant, mais que tout le monde s'en fout.<br/>Et puis l'histoire suivante est assez peu intéressante (mis à part l'idée d'extraire une drogue mutagène de W).
+++++

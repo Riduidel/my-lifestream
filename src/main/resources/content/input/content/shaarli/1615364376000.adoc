@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Owncast - Selfhosted Livestreaming
+:jbake-tags: vidéo,streaming,server,open-source,_mois_mars,_année_2021
+:jbake-date: 2021-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1615364376000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fowncast.online%2F&searchtags=vid%C3%A9o+streaming+server+open-source+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://owncast.online/[Owncast - Selfhosted Livestreaming]
+
+Je me demande si ça marche bien chez CleverCloud ... Parce que 1 - Ca leur servirait 2 - Je me verrais bien proposer ça chez Zenika

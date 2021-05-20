@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DocsInOffice.com
+:jbake-tags: office,web,sharing,_mois_janv.,_année_2011
+:jbake-date: 2011-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1294236110000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdocsinoffice.com%2Faccount.jsp%3Fcmd%3DexecuteDelete&searchtags=office+web+sharing+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://docsinoffice.com/account.jsp?cmd=executeDelete[DocsInOffice.com]
+
+Un système bizarre d'accès à Google Documents depuis Office (et peut-être depuis l'explorateur de fichiers de Windows). ca peut rendre des services pour les documents non Google (genre les fichiers Word envoyés par "des gens").

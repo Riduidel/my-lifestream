@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Historic Tale Construction Kit - Bayeux
+:jbake-tags: art,programming,design,_mois_avr.,_année_2018
+:jbake-date: 2018-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1524043138000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhtck.github.io%2Fbayeux%2F%23%21%2F&searchtags=art+programming+design+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://htck.github.io/bayeux/#!/[Historic Tale Construction Kit - Bayeux]
+
+Un outil fou et magique pour se faire sa propre tapisserie de Bayeux

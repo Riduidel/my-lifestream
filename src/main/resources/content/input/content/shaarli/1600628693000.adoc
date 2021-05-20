@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TL;DR Rust - Christine Dodrill
+:jbake-tags: go,rust,programming,tutorial,_mois_sept.,_année_2020
+:jbake-date: 2020-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1600628693000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchristine.website%2Fblog%2FTLDR-rust-2020-09-19&searchtags=go+rust+programming+tutorial+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://christine.website/blog/TLDR-rust-2020-09-19[TL;DR Rust - Christine Dodrill]
+
+Pour ceux qui veulent passer du Go au Rust, ça a l'air d'une lecture utile.

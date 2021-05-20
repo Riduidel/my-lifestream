@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Customising Reveal.js beyond creating a personalised theme
+:jbake-tags: revealjs,hack,css,_mois_déc.,_année_2019
+:jbake-date: 2019-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1575555957000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.chenhuijing.com%2Fblog%2Fcustomising-revealjs-beyond-theming%2F&searchtags=revealjs+hack+css+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.chenhuijing.com/blog/customising-revealjs-beyond-theming/[Customising Reveal.js beyond creating a personalised theme]
+
+Revealjs est en train de devenir un truc sur lequel je dois investir. Et cet article présente deux/trois trucs vraiment chouettes (et compatibles avec Asciidoc !)

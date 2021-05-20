@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les élites débordées par le numérique
+:jbake-tags: singularité,évolution,décadence,politique,numérique,internet,_mois_déc.,_année_2013
+:jbake-date: 2013-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1388502169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Ftechnologies%2Farticle%2F2013%2F12%2F26%2Fles-elites-debordees-par-le-numerique_4340397_651865.html&searchtags=singularit%C3%A9+%C3%A9volution+d%C3%A9cadence+politique+num%C3%A9rique+internet+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.lemonde.fr/technologies/article/2013/12/26/les-elites-debordees-par-le-numerique_4340397_651865.html[Les élites débordées par le numérique]
+
+Intéressant article du Monde sur les formes de singularité numérique qui font actuellement tanguer fortement les modèles politiques et économiques traditionnels. L'article a cependant un côté curieux : les différents intervviewés reconnaîssent tous être du côté "analogique" de la barrière ... Cela dit je crois que les digital natives n'existent pas vraiment, alors ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ColorCombos.com - Web Color Combinations Tool and Library
+:jbake-tags: web,design,couleur,exemple,html,_mois_avr.,_année_2005
+:jbake-date: 2005-04-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1114005190000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.colorcombos.com%2F&searchtags=web+design+couleur+exemple+html+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.colorcombos.com/[ColorCombos.com - Web Color Combinations Tool and Library]
+
+This site was built to help web developers quickly select and test color combinations. The heart of the site is the Combo Tester, which allows web developers to see how different color combinations work together on the screen.

@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marion Montaigne
+:jbake-tags: author
+:jbake-date: 2011-11-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1315690.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/1315690
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782205076394.html[Dans la combi de Thomas Pesquet]
+* link:../books/9782359102208.html[La science, c'est pas du cinéma ! (Tu mourras moins bête, #1)]
+* link:../books/9782359102932.html[Quoi de neuf, Docteur Moustache ? (Tu mourras moins bête, #2)]
+* link:../books/9782756061832.html[Science un jour, science toujours ! (Tu mourras moins bête, #3)]
+* link:../books/9782756071947.html[Bizarrama culturologique]
+* link:../books/9782756073170.html[Professeur Moustache étale sa science ! (Tu mourras moins bête, #4)]

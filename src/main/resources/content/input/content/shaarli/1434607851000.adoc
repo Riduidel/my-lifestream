@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [bitfield] "We haven't got time to automate this stuff, because we're too busy dealing with the problems caused by our lack of automation."—Everyone
+:jbake-tags: citation,programming,devops,automatisation,_mois_juin,_année_2015
+:jbake-date: 2015-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1434607851000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F604195575156842496&searchtags=citation+programming+devops+automatisation+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/604195575156842496[[bitfield] "We haven't got time to automate this stuff, because we're too busy dealing with the problems caused by our lack of automation."—Everyone]
+
+Ca me rappelle bien des choses, tiens

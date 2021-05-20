@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: arc42 Template Overview - arc42
+:jbake-tags: documentation,template,architecture,_mois_août,_année_2017
+:jbake-date: 2017-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1503325062000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farc42.org%2Foverview%2F&searchtags=documentation+template+architecture+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://arc42.org/overview/[arc42 Template Overview - arc42]
+
+J'aimerais bien tenter un moment de généraliser mon approche de la documentation asciidoc/structurizr pour y ajouter ce template ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Latourex
+:jbake-tags: humour,original,tourism,_mois_août,_année_2010
+:jbake-date: 2010-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1282827369000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flatourex.org%2Flatourex_fr.html&searchtags=humour+original+tourism+_mois_ao%C3%BBt+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://latourex.org/latourex_fr.html[Latourex]
+
+Puisque les vacances sont finies, une liste de méthodes pour faire du tourisme toutes plus ou moins ésotériques.

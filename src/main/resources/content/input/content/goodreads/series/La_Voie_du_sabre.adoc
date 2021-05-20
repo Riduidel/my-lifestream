@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Voie du sabre
+:jbake-tags: serie
+:jbake-date: 2002-11-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/La_Voie_du_sabre.adoc
+:jbake-source: https://www.goodreads.com/series/113222
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070420483.html[La Voie du sabre]
+* link:../books/9782070306985.html[L'Homme qui voulait tuer l'empereur]

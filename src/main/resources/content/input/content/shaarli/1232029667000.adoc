@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome to Anton's Animations!
+:jbake-tags: documentation,exemple,lego,animated,3d,_mois_janv.,_année_2009
+:jbake-date: 2009-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1232029667000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.antonraves.nl%2Fanimations.php%3Factie%3D1%26start%3D0&searchtags=documentation+exemple+lego+animated+3d+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.antonraves.nl/animations.php?actie=1&start=0[Welcome to Anton's Animations!]
+
+Wow ! je ne pensais pas qu'on pouvait faire de tels rendus de legos avec POV-Ray. Et en plus, il semble y avoir des vidéos ... J'ai bien l'impression que je vais pouvoir faire ramer mon ordinateur de la cave pendant quelques semaines ... pour chaque animation que je ferais

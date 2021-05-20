@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: drewnoakes.com - jpeg exif / iptc metadata extraction in java
+:jbake-tags: software,programming,java,library,photographie,exif,metadata,open-source,_mois_août,_année_2008
+:jbake-date: 2008-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1219298850000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.drewnoakes.com%2Fcode%2Fexif%2F&searchtags=software+programming+java+library+photographie+exif+metadata+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.drewnoakes.com/code/exif/[drewnoakes.com - jpeg exif / iptc metadata extraction in java]
+
+Une librairie d'extraction exif en Java ... mais quelle licence utilise-t-elle ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: googlefonts/Inconsolata: Development repo of Inconsolata Fonts by Raph Levien
+:jbake-tags: font,programming,open-source,_mois_déc.,_année_2019
+:jbake-date: 2019-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1576179969000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgooglefonts%2FInconsolata&searchtags=font+programming+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/googlefonts/Inconsolata[googlefonts/Inconsolata: Development repo of Inconsolata Fonts by Raph Levien]
+
+Je l'ai longtemps utilisée, et cette évolution vers les ligatures est franchement cool. Parce que oui, les ligatures, c'est vraiment cool.

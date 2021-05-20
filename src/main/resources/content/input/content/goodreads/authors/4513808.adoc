@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Enrique Fernández
+:jbake-tags: author
+:jbake-date: 2012-06-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4513808.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1350522655p5/4513808.jpg
+:jbake-source: https://www.goodreads.com/author/show/4513808
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782723479257.html[Les Contes de l'ère du Cobra - Tome 01: Les Amants]
+* link:../books/9782723487092.html[Les Contes de l'ère du Cobra - Tome 2 : Révolution]

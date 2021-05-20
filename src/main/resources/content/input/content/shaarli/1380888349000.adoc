@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le W3C entérine les DRM
+:jbake-tags: web,liberté,drm,media,_mois_oct.,_année_2013
+:jbake-date: 2013-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1380888349000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Frhaa%2Findex.php%3F2013%2F10%2F03%2F10%2F09%2F24-le-w3c-enterine-les-drm&searchtags=web+libert%C3%A9+drm+media+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sebsauvage.net/rhaa/index.php?2013/10/03/10/09/24-le-w3c-enterine-les-drm[Le W3C entérine les DRM]
+
+"il est temps de prendre du recul par rapport au W3C" Farpaitement. Cela dit, comme toutes les autres mesures de DRM, celle-là ne sera pas forcément valide longtemps (les méchants pirates se chargeront de la briser rapidement). Donc bon ... En bonus, je vois mal Firefox, par exemple (ou même Opera), implémenter ce genre de spec.

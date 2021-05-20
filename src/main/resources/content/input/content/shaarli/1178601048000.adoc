@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rails API with the AJAX flavor
+:jbake-tags: documentation,rails,reference,ruby,programming,_mois_mai,_année_2007
+:jbake-date: 2007-05-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1178601048000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.railsbrain.com%2F&searchtags=documentation+rails+reference+ruby+programming+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.railsbrain.com/[Rails API with the AJAX flavor]
+
+Un site permettant de rechercher facilement dans l'API de Rails, grâce à une présentation utilisant Ajax.

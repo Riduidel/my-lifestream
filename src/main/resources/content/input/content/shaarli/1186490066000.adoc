@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Morethanseven » Ruby on Rails on Nokia N800
+:jbake-tags: développement,n800,ruby,rails,_mois_août,_année_2007
+:jbake-date: 2007-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1186490066000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmorethanseven.net%2Fposts%2Fruby-on-rails-on-nokia-n800%2F&searchtags=d%C3%A9veloppement+n800+ruby+rails+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://morethanseven.net/posts/ruby-on-rails-on-nokia-n800/[Morethanseven » Ruby on Rails on Nokia N800]
+
+Encore un peu de Ror sur N800

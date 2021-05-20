@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Musopen
+:jbake-tags: musique,art,libre,_mois_oct.,_année_2013
+:jbake-date: 2013-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1382691283000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmusopen.org%2F&searchtags=musique+art+libre+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://musopen.org/[Musopen]
+
+Un répertoire d'enregistrements libres de droits de compositeurs de musique classique. C'ests ans doute la meilleure chose qui puisse exister pour disposer dans la durée des musiques de ces compositeurs.

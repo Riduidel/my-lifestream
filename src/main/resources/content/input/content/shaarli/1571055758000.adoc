@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TomNomNom sur Twitter : "No telnet or netcat/nc? Use curl with telnet://host:port :)… "
+:jbake-tags: curl,hack,telnet,réseau,_mois_oct.,_année_2019
+:jbake-date: 2019-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1571055758000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FTomNomNom%2Fstatus%2F1183362585325912065&searchtags=curl+hack+telnet+r%C3%A9seau+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/TomNomNom/status/1183362585325912065[TomNomNom sur Twitter : "No telnet or netcat/nc? Use curl with telnet://host:port :)… "]
+
+Une astuce aussi inattendue que géniale !

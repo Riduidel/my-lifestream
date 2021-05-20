@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Self-documenting Makefiles
+:jbake-tags: programming,documentation,makefile,_mois_avr.,_année_2019
+:jbake-date: 2019-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1556027944000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbrokenco.de%2F2019%2F04%2F22%2Fself-describing-make.html&searchtags=programming+documentation+makefile+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://brokenco.de/2019/04/22/self-describing-make.html[Self-documenting Makefiles]
+
+La syntaxe me donne envie de vomir. Mais l'idée d'avoir de la doc dans un makefile a pour moi un attrait certain.

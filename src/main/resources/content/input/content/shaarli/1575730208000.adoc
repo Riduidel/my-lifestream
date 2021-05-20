@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - questdb/questdb: Relational database with ultimate time-series performance
+:jbake-tags: java,database,system,sql,_mois_déc.,_année_2019
+:jbake-date: 2019-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1575730208000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fquestdb%2Fquestdb%2F&searchtags=java+database+system+sql+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/questdb/questdb/[GitHub - questdb/questdb: Relational database with ultimate time-series performance]
+
+Donc, à priori, c'est un mix de base de données relationnelle et de time series ... à laquelle on peut parler en http, postgres ou autre. Et le tout en Java !

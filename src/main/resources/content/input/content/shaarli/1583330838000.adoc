@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: maxandersen/jbang: Unleash the power of Java for shell scripting
+:jbake-tags: java,programming,scripting,open-source,_mois_mars,_année_2020
+:jbake-date: 2020-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1583330838000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmaxandersen%2Fjbang&searchtags=java+programming+scripting+open-source+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/maxandersen/jbang[maxandersen/jbang: Unleash the power of Java for shell scripting]
+
+Oh c'est marrant ce truc pour faire du "vrai" scripting propre en pur Java ! Et en plus, on peut faire des liens vers des dépendances en utilisant les annotations Groovy Grapes. C'est très chouette !

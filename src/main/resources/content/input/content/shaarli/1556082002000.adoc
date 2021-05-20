@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eberhard Wolff on Twitter: "As a consultant, you must accept that sometimes things work in seemingly suboptimal ways. It is important to understand whether this really causes problems before jumping to conclusions and suggesting "improvements"."
+:jbake-tags: citation,consultant,organisation,_mois_avr.,_année_2019
+:jbake-date: 2019-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1556082002000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fewolff%2Fstatus%2F1118044009652527104&searchtags=citation+consultant+organisation+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ewolff/status/1118044009652527104[Eberhard Wolff on Twitter: "As a consultant, you must accept that sometimes things work in seemingly suboptimal ways. It is important to understand whether this really causes problems before jumping to conclusions and suggesting "improvements"."]
+
+Un des éléments significatifs de la posture de consultant, sans doute

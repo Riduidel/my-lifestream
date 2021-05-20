@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quick Reference Cards
+:jbake-tags: software,documentation,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112188520000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.digilife.be%2Fquickreferences%2Fquickrefs.htm&searchtags=software+documentation+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.digilife.be/quickreferences/quickrefs.htm[Quick Reference Cards]
+
+Quick Reference Cards for various programming languages and computer topics.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Lemire's blog – Daniel Lemire is a computer science professor at the University of Quebec (TELUQ) in Montreal. His research is focused on software performance and data engineering. He is a techno-optimist.
+:jbake-tags: ordinateur,performance,benchmark,programming,blog,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590657214000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flemire.me%2Fblog&searchtags=ordinateur+performance+benchmark+programming+blog+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://lemire.me/blog[Daniel Lemire's blog – Daniel Lemire is a computer science professor at the University of Quebec (TELUQ) in Montreal. His research is focused on software performance and data engineering. He is a techno-optimist.]
+
+Quand tu veux du code bas-niveau, de la performance, des études rigolotes, tu vas sur ce blog, et tu en prends plein les dents

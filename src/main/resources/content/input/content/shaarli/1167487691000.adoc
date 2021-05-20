@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To Think Like a Computer Scientist: Learning With Ruby
+:jbake-tags: ebook,free,langage,programming,ruby,tutorial,_mois_déc.,_année_2006
+:jbake-date: 2006-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1167487691000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmysite.verizon.net%2Fhpassel%2Fthinkruby%2F&searchtags=ebook+free+langage+programming+ruby+tutorial+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://mysite.verizon.net/hpassel/thinkruby/[How To Think Like a Computer Scientist: Learning With Ruby]
+
+Un livre gratuit sur le Ruby, apparement pour les débutants

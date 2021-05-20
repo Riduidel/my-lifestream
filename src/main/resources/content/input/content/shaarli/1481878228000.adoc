@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: python - Representing and solving a maze given an image - Stack Overflow
+:jbake-tags: algorithme,python,_mois_déc.,_année_2016
+:jbake-date: 2016-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1481878228000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstackoverflow.com%2Fa%2F13174351%2F15619&searchtags=algorithme+python+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://stackoverflow.com/a/13174351/15619[python - Representing and solving a maze given an image - Stack Overflow]
+
+Un chouette exemple d'exploration d'arbre en largeur d'abord. A priori, l'usage d'une queue garantit qu'on explore les chemins les plus courts en premier.

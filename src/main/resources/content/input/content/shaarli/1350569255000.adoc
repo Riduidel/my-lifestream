@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FileMind > Get It
+:jbake-tags: explorer,system,windows,freeware,software,_mois_oct.,_année_2012
+:jbake-date: 2012-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1350569255000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.filemind.net%2Fshop%2F&searchtags=explorer+system+windows+freeware+software+_mois_oct.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.filemind.net/shop/[FileMind > Get It]
+
+Une alternative à l'explorateur de fichier de Windows qui, même dans Windows 7, ne casse pas 3 pattes à un canard.

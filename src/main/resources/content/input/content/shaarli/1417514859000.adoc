@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The State of JavaScript in 2015 - Jimmy Breck-McKye
+:jbake-tags: programming,web,javascript,opinion,développeur,_mois_déc.,_année_2014
+:jbake-date: 2014-12-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1417514859000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.breck-mckye.com%2Fblog%2F2014%2F12%2Fthe-state-of-javascript-in-2015%2F&searchtags=programming+web+javascript+opinion+d%C3%A9veloppeur+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015/[The State of JavaScript in 2015 - Jimmy Breck-McKye]
+
+Très intéressant article sur l'état de l'écosystème Javascript. J'ai l'impression de revoir des choses qu'a vécu la communauté Java il y a des années ...

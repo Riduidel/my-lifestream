@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mindmapping, concept mapping and information organisation software
+:jbake-tags: mapping,mind,outliner,productivité,software,visualisation,library,link,_mois_févr.,_année_2007
+:jbake-date: 2007-02-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1172675417000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mind-mapping.org%2F&searchtags=mapping+mind+outliner+productivit%C3%A9+software+visualisation+library+link+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.mind-mapping.org/[Mindmapping, concept mapping and information organisation software]
+
+Un portail d'outils de mind mapping. Malheureusement, il n'indique pas le prix de ces logiciels.

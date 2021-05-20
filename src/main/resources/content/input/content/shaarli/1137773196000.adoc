@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Source Icon Library
+:jbake-tags: freeware,open-source,icon,programming,_mois_janv.,_année_2006
+:jbake-date: 2006-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1137773196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.digitalmediaminute.com%2Farticle%2F1743%2Ftango-icon-library-tango-desktop-project&searchtags=freeware+open-source+icon+programming+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.digitalmediaminute.com/article/1743/tango-icon-library-tango-desktop-project[Open Source Icon Library]
+
+

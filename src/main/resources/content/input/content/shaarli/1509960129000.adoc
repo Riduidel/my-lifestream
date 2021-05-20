@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My “speaker checklist” | Matthieu Napoli
+:jbake-tags: speaker,présentation,check,_mois_nov.,_année_2017
+:jbake-date: 2017-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1509960129000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmnapoli.fr%2Fspeaker-checklist%2F&searchtags=speaker+pr%C3%A9sentation+check+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://mnapoli.fr/speaker-checklist/[My “speaker checklist” | Matthieu Napoli]
+
+Très chouette checklist pour tous les speakers. Le mec n'oublie aucun détail.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MacManX.com » Favored Freeware
+:jbake-tags: software,freeware,macosx,library,blog,_mois_nov.,_année_2005
+:jbake-date: 2005-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1133369107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.macmanx.com%2Fblog%2Ffavored-freeware%2F&searchtags=software+freeware+macosx+library+blog+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.macmanx.com/blog/favored-freeware/[MacManX.com » Favored Freeware]
+
+

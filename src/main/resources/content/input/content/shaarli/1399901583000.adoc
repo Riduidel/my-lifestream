@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TagSpaces - Organize Your Files
+:jbake-tags: web,file,open-source,application,linux,macosx,windows,android,system,tag,_mois_mai,_année_2014
+:jbake-date: 2014-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1399901583000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tagspaces.org%2F&searchtags=web+file+open-source+application+linux+macosx+windows+android+system+tag+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.tagspaces.org/[TagSpaces - Organize Your Files]
+
+C'est une bonne idée, ce navigateur de fichiers basé sur des tags (et non des dossiers). Bonne idée, d'autant plus qu'il est multi-plateforme (parce qu'HTML5). Et c'est là que je découvre qu'il est possible, dès aujourd'hui, d'écrire une application "de bureau" en HTML5+Javascript qui soit portable même sur iOS et android (ce qui, entre nous, est une fichument chouette chose pour réunifier toutes ces plateformes). Le web a donc gagné ... Oui, bien sûr, je vais râler sur le poids dans la RAM et sur le disque de l'appli. Mais c'est même pas la peine de se battre : les applications natives (même Java/Swing/JavaFX) ont définitivement perdu le combat. via http://sebsauvage.net/links/?RlPcDQ

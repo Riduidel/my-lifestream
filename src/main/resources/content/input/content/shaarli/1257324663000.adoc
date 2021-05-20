@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adding Auto-Completion Support to Swing Comboboxes | Java.net
+:jbake-tags: tutorial,java,desktop,gui,swing,autocomplete,_mois_nov.,_année_2009
+:jbake-date: 2009-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1257324663000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftoday.java.net%2Fpub%2Fa%2Ftoday%2F2007%2F07%2F19%2Fadding-auto-completion-to-swing-comboboxes.html&searchtags=tutorial+java+desktop+gui+swing+autocomplete+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://today.java.net/pub/a/today/2007/07/19/adding-auto-completion-to-swing-comboboxes.html[Adding Auto-Completion Support to Swing Comboboxes | Java.net]
+
+Des exemples de JComboBox avec complétion en utilisant différentes libraires d'extension de Swing.

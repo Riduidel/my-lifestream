@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cblp/yaml-sucks: YAML sucks.
+:jbake-tags: yaml,bug,_mois_févr.,_année_2019
+:jbake-date: 2019-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1549979440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fcblp%2Fyaml-sucks&searchtags=yaml+bug+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/cblp/yaml-sucks[cblp/yaml-sucks: YAML sucks.]
+
+This is fine, dit le petit chien au milieu des flames de son "parser YAML"

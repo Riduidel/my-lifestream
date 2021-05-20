@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Felipe Hoffa sur Twitter : "A "top public speaking coach" talk: His main advice was to be funny, so just put more memes and funny videos in your technical talks. Me+teammates advice: - Don't! - Being funny is ok if you're. Do what works for you. But it might backfire. - Above all, be interesting. #devrel"
+:jbake-tags: conférence,présentation,humour,charisme,_mois_nov.,_année_2019
+:jbake-date: 2019-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1574933953000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffelipehoffa%2Fstatus%2F1199767646427701248&searchtags=conf%C3%A9rence+pr%C3%A9sentation+humour+charisme+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/felipehoffa/status/1199767646427701248[Felipe Hoffa sur Twitter : "A "top public speaking coach" talk: His main advice was to be funny, so just put more memes and funny videos in your technical talks. Me+teammates advice: - Don't! - Being funny is ok if you're. Do what works for you. But it might backfire. - Above all, be interesting. #devrel"]
+
+C'est parfaitement juste (et également expliqué par Audrey Neveu chez les castcodeurs) : si vous aimez raconter des âneries, vous pouvez le faire en conférence. Sinon, ne tentez pas le diable

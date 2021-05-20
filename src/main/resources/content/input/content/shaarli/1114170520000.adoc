@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: chaotic_attractors
+:jbake-tags: science,mathématiques,gallerie,_mois_avr.,_année_2005
+:jbake-date: 2005-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1114170520000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fccrma-www.stanford.edu%2F%7Estilti%2Fimages%2Fchaotic_attractors%2Fnav.html&searchtags=science+math%C3%A9matiques+gallerie+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://ccrma-www.stanford.edu/~stilti/images/chaotic_attractors/nav.html[chaotic_attractors]
+
+chaotic attractors pictures

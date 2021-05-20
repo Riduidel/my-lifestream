@@ -1,0 +1,24 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dominique Haas
+:jbake-tags: author
+:jbake-date: 2002-03-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/38630.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/38630
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266033756.html[Le Pion blanc des présages (La Belgariade #1)]
+* link:../books/9782266041522.html[Le Crépuscule des épées (Le Cycle des Épées, #7)]
+* link:../books/9782266107709.html[La tour des rêves]
+* link:../books/9782266128513.html[Mars la Bleue (Mars #3)]
+* link:../books/9782266138345.html[Mars la Rouge (Mars #1)]
+* link:../books/9782266147583.html[La Cité du Gouffre]
+* link:../books/9782266160926.html[Les Martiens]
+* link:../books/9782266169011.html[Le Gouffre de l'absolution]
+* link:../books/9782266170994.html[Le Gambit du magicien (La Belgariade, #3)]
+* link:../books/9782266173759.html[Coalescence]
+* link:../books/9782266174992.html[Les Enfants De Mars]
+* link:../books/9782266191432.html[La Pluie du siècle]

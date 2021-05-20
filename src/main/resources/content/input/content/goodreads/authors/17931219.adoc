@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vincent Fouche
+:jbake-tags: author
+:jbake-date: 2018-01-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/17931219.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/17931219
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070793105.html[La Ménagerie de papier]

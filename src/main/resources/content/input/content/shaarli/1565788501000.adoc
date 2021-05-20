@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Métro de Paris : Calcul du meilleur itinéraire entre deux stations
+:jbake-tags: web,métro,paris,_mois_août,_année_2019
+:jbake-date: 2019-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1565788501000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.itineraire-metro.fr%2F&searchtags=web+m%C3%A9tro+paris+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.itineraire-metro.fr/[Métro de Paris : Calcul du meilleur itinéraire entre deux stations]
+
+Très chouette site de calcul d'itinéraire en métro (uniquement pour Paris bien sûr) !

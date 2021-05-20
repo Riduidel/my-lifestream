@@ -1,0 +1,45 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Il est un peu moins RAID ...
+:jbake-tags: disquedur,dns-323,server,_mois_mars,_année_2017
+:jbake-date: 2017-03-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/03/14/il-est-un-peu-moins-raid.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/03/14/il-est-un-peu-moins-raid/
+:jbake-style: wordpress
+
+++++
+<p>
+Mais ça va s'arranger.
+</p>
+<p>
+Parce que j'ai reçu aujourd'hui mon disque de remplacement.
+</p>
+<p>
+J'ai d'abord essayé de remplacer le disque à l'arrache, avant de me souvenir qu'il y a <a href="https://sourceforge.net/p/alt-f/wiki/How%20to%20fix%20a%20degraded%20RAID1%20array/">sur le site de Alt-F une page complète</a> sur le changement d'un composant dans un disque RAID.
+</p>
+<p>
+J'ai donc repris la procédure en suivant méthodiquement les étapes.
+</p>
+<p>
+Hélas, dès la suppression du composant, c'est le drame :
+<br/>
+<pre>[root@dlink-6A4EB1]# mdadm --manage /dev/md0 --fail /dev/sda2
+<br/>
+mdadm: set device faulty failed for /dev/sda2:  Device or resource busy
+<br/>
+</pre>
+<br/>
+Et j'ai passé du temps avant d'avoir l'éclair de lucidité.
+</p>
+<p>
+En fait, j'ai partitionné mes disques "simplement" : une grosse partition en RAID1 avec tout dedans. Tout ... y compris ffp ... Lequel ffp fournit évidement les services SSH et compagnie. Du coup, évidement, quand j'essaye d'enlever le composant (enfin, le disque, mais en RAID, apparemment, ça s'appelle un composant), ça ne marche pas ... Attendez, c'est du RAID1, donc ça devrait marcher, non ?
+</p>
+<p>
+Du coup, si c'est pas ça ... je fais quoi, moi ? Ben j'en sais rien. Enfin, j'ai bien une idée : je peux toujours copier tout le contenu de mon montage RAID1 sur mon nouveau disque, et le faire évoluer vers un disque RAID1 en reformattant le composant qui reste dans le RAID1.
+</p>
+<p>
+Bon, en théorie, la solution idéale serait quand même de mettre mon nouveau disque directement dans le conteneur RAID1 ... mais je ne sais pas trop comment faire ça, ni dans l'interface d'Alt-F, ni même dans mdadm. Je sens que je vais encore aller écumer ServerFault, moi ...
+</p>
+++++

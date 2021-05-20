@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Giphy - Search Animated GIFs on the Web
+:jbake-tags: search,gif,web,_mois_août,_année_2013
+:jbake-date: 2013-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1377618398000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgiphy.com%2F&searchtags=search+gif+web+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://giphy.com/[Giphy - Search Animated GIFs on the Web]
+
+Je me demande si c'est pas encore au-dessus de meme generator, ce truc. Parfait pour poser des gifs dans mon blog, par exemple ...

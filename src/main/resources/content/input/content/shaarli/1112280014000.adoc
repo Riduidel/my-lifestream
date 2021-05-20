@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Agile Models Distilled: Potential Artifacts for Agile Modeling
+:jbake-tags: programming,concepts,uml,XP,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112280014000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.agilemodeling.com%2Fartifacts%2F&searchtags=programming+concepts+uml+XP+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.agilemodeling.com/artifacts/[Agile Models Distilled: Potential Artifacts for Agile Modeling]
+
+To be effective agile modelers should know a wide variety of modeling techniques. Unfortunately this is easier said than done. This page links to summary descriptions of a wide variety of modeling artifacts. Each page describes the artifact, provides a

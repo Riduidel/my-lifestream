@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hikiwiki
+:jbake-tags: open-source,rails,ruby,software,wiki,bliki,web,_mois_janv.,_année_2007
+:jbake-date: 2007-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1169063087000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhikiwiki.org%2Fen%2F&searchtags=open-source+rails+ruby+software+wiki+bliki+web+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://hikiwiki.org/en/[Hikiwiki]
+
+Un wiki open-source en Ruby, avec apparement des plugins pour en faire un bliki

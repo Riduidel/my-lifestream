@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust + actix-web in the on of the biggest music festival Atlas Weekend : rust
+:jbake-tags: programming,rust,exemple,application,_mois_juil.,_année_2018
+:jbake-date: 2018-07-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1531380159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.reddit.com%2Fr%2Frust%2Fcomments%2F8xdsx5%2Frust_actixweb_in_the_on_of_the_biggest_music%2F&searchtags=programming+rust+exemple+application+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.reddit.com/r/rust/comments/8xdsx5/rust_actixweb_in_the_on_of_the_biggest_music/[Rust + actix-web in the on of the biggest music festival Atlas Weekend : rust]
+
+D'un coup, le côté "rust is a system programming language" en prend un coup, et c'est bien. Parce que pour moi, Rust est un bon langage, qui met les points de difficulté là où ils doivent être

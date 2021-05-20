@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oldman
+:jbake-tags: serie
+:jbake-date: 2016-04-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Oldman.adoc
+:jbake-source: https://www.goodreads.com/series/183431
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9791092066272.html[Oldman, tome 1]
+* link:../books/9791092066333.html[Oldman, tome 2]

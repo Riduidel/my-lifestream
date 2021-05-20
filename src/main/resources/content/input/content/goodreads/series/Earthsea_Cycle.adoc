@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Earthsea Cycle
+:jbake-tags: serie
+:jbake-date: 2011-03-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Earthsea_Cycle.adoc
+:jbake-source: https://www.goodreads.com/series/40909
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782221107911.html[Terremer]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sick Beard - Internet PVR for your TV Shows
+:jbake-tags: download,mediacenter,usenet,vidéo,freeware,python,_mois_août,_année_2010
+:jbake-date: 2010-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1281963264000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsickbeard.com%2F&searchtags=download+mediacenter+usenet+vid%C3%A9o+freeware+python+_mois_ao%C3%BBt+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://sickbeard.com/[Sick Beard - Internet PVR for your TV Shows]
+
+Un client usenet adapté au téléchargement de vidéo, et rien qu'à ça

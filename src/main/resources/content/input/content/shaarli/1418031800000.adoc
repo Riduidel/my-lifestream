@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Doom that Came to Puppet
+:jbake-tags: fantastique,documentation,generated,littérature,_mois_déc.,_année_2014
+:jbake-date: 2014-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1418031800000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthedoomthatcametopuppet.tumblr.com%2F&searchtags=fantastique+documentation+generated+litt%C3%A9rature+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://thedoomthatcametopuppet.tumblr.com/[The Doom that Came to Puppet]
+
+Cette idée, de mélanger de la génération de code, du Lovecraft, et de la doc, est indiciblement géniale.

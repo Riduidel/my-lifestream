@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MT-NW Manual: MT-NewsWatcher
+:jbake-tags: software,freeware,macosx,réseau,usenet,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111401865000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.smfr.org%2Fmtnw%2F&searchtags=software+freeware+macosx+r%C3%A9seau+usenet+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.smfr.org/mtnw/[MT-NW Manual: MT-NewsWatcher]
+
+MT-NewsWatcher is a Usenet news client for the Macintosh. Usenet is a globally distributed news network over which many thousands of people distribute messages every day, and which contains discussion groups on virtually every topic under the sun. MT-News

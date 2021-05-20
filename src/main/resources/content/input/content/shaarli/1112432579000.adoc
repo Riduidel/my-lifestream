@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LilyPond, music notation for everyone
+:jbake-tags: software,freeware,open-source,musique,linux,macosx,windows,multimedia,_mois_avr.,_année_2005
+:jbake-date: 2005-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1112432579000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lilypond.org%2Fweb%2F&searchtags=software+freeware+open-source+musique+linux+macosx+windows+multimedia+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.lilypond.org/web/[LilyPond, music notation for everyone]
+
+Music notation for everyone

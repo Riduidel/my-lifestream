@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Python for Java Programmers | Main / Table of Contents
+:jbake-tags: programming,tutorial,documentation,python,_mois_févr.,_année_2016
+:jbake-date: 2016-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1455703322000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpython4java.necaiseweb.org%2FMain%2FTableOfContents&searchtags=programming+tutorial+documentation+python+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://python4java.necaiseweb.org/Main/TableOfContents[Python for Java Programmers | Main / Table of Contents]
+
+Très bon document pour se mettre facilement à Python quand on a, comme moi, un gros passif java/Groovy/toussa

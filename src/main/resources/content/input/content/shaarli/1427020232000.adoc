@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mon squelette a-t-il un sexe ?
+:jbake-tags: corps,sexe,genre,médecine,biologie,_mois_mars,_année_2015
+:jbake-date: 2015-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1427020232000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsexes.blogs.liberation.fr%2F2015%2F02%2F15%2Fle-squelette-t-il-un-sexe%2F&searchtags=corps+sexe+genre+m%C3%A9decine+biologie+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://sexes.blogs.liberation.fr/2015/02/15/le-squelette-t-il-un-sexe/[Mon squelette a-t-il un sexe ?]
+
+Un article fascinant qui va détruire toutes ces scènes d'autopsie de cadavre si télégéniques.

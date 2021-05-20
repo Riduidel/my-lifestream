@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stupid Shit No One Needs & Terrible Ideas Hackathon
+:jbake-tags: web,expérience,hackathon,idée,bizarre,_mois_nov.,_année_2019
+:jbake-date: 2019-11-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1572957972000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.stupidhackathon.com%2F&searchtags=web+exp%C3%A9rience+hackathon+id%C3%A9e+bizarre+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.stupidhackathon.com/[Stupid Shit No One Needs & Terrible Ideas Hackathon]
+
+Des expériences web vraiment à la con.

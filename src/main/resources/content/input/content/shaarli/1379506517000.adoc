@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: To Err Is Human, to Catch an Error Shows Expertise
+:jbake-tags: programming,développeur,article,opinion,_mois_sept.,_année_2013
+:jbake-date: 2013-09-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1379506517000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FWKy0Zan13QI%2Ferr-human-catch-error-shows&searchtags=programming+d%C3%A9veloppeur+article+opinion+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/WKy0Zan13QI/err-human-catch-error-shows[To Err Is Human, to Catch an Error Shows Expertise]
+
+L'un de mes mantras de développement : comment faire en sorte que les erreurs se voient vite, et fort ? L'article ne donne pas la réponse, mais exprime la question de façon claire.

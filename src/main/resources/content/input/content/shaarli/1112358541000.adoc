@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: trivex.net - Larry's GDS Plugins
+:jbake-tags: software,freeware,windows,system,search,plugin,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112358541000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.trivex.net%2F&searchtags=software+freeware+windows+system+search+plugin+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.trivex.net/[trivex.net - Larry's GDS Plugins]
+
+GDSPlus is a free add-on that allows you to specify what extensions the new Desktop Search tool from Google will index. This includes the ability to add new extensions not yet supported by Google. You will be able to search the contents of any file that c

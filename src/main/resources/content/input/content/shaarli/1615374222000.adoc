@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RedMonk Top 20 Languages Over Time: January 2021 – Sometimes Dragons
+:jbake-tags: histoire,programming,langage,statistiques,_mois_mars,_année_2021
+:jbake-date: 2021-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1615374222000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fredmonk.com%2Fkfitzpatrick%2F2021%2F03%2F02%2Fredmonk-top-20-languages-over-time-january-2021%2F&searchtags=histoire+programming+langage+statistiques+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://redmonk.com/kfitzpatrick/2021/03/02/redmonk-top-20-languages-over-time-january-2021/[RedMonk Top 20 Languages Over Time: January 2021 – Sometimes Dragons]
+
+Dix ans d'histoire des langages de programmation populaires sur RedMonk. Je suis triste de voir que Groovy est sorti du top 20 ... Mais content de voir que Rust y est entré !

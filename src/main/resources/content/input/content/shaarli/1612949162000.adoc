@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Assigning Attributes to Python Functions | Seth Dandridge
+:jbake-tags: programming,python,astuce,attributes,functionnal,_mois_févr.,_année_2021
+:jbake-date: 2021-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1612949162000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsethdandridge.com%2Fblog%2Fassigning-attributes-to-python-functions&searchtags=programming+python+astuce+attributes+functionnal+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://sethdandridge.com/blog/assigning-attributes-to-python-functions[Assigning Attributes to Python Functions | Seth Dandridge]
+
+Cette histoire d'attributs de fonctions python est aussi subtile que dérangeante.

@@ -1,0 +1,251 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un chtijug élastique
+:jbake-tags: chtijug,logs,search,_mois_déc.,_année_2016
+:jbake-date: 2016-12-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/12/15/un-chtijug-elastique.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/12/15/un-chtijug-elastique/
+:jbake-style: wordpress
+
+++++
+<p>
+D'abord, quelques annonces
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/809 095 128 803 672 064" class="date">14 déc. 2016 à 18:58:05</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Annonce du DevFest le 9 juin à @eartsup à Lille ! Cfp et inscription ouverte sur https://t.co/LwFyorGlx9 https://t.co/eeFAMw9NzM</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Czp7sWbWgAAP7jV.jpg" alt="809 095 084 931 186 688"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+A 20 € ! Ca va être dur de faire valider la note de frais.
+</p>
+<p>
+Pour les slides, c'est par là
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/dadoonet" class="screenName"><img src="http://pbs.twimg.com/profile_images/994322254975684608/2E-48xZA_mini.jpg" alt="profile of developer | evangelist @elastic We are hiring 📧 DM opened. DJ 4 times a year, just for fun! 🎧 https://t.co/xhIEHl0eB0"/>dadoonet</a>
+<br/>
+<span class="name">David Pilato🇪🇺🇫🇷</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/dadoonet/status/809 178 612 620 529 664" class="date">15 déc. 2016 à 00:29:49</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Slides for my talk about #elasticsearch Ingest Node at @chtijug are available here: https://t.co/mrPyFO7aMP. Happy coding!</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Elastic, c'est 4 projets open-source :
+<br/>
+<ul>
+<br/>
+<li>Logstash (malheureusement écrit en JRuby)</li>
+<br/>
+<li>Beats (alternatives à Logstash en go beaucoup plus simple). il y a FileBeats, NetworkBeats, MetricBeats</li>
+<br/>
+<li>Elasticsearch (moteur d'indexation et de recherche JSON. Ne loupez pas l'interview de notre speaker chez <a href="https://lescastcodeurs.com/2016/12/02/lcc-158-interview-sur-elasticsearch-avec-david-pilato/">lescastcodeurs</a>)</li>
+<br/>
+<li>Kibana (outil de dashboard)</li>
+<br/>
+</ul>
+<br/>
+Et un ensemble de solution commerciales appelées génériquement X-Pack
+</p>
+<p>
+En particulier, graph permet d'éviter le problèmes des supernoeuds dans les graphes (un problème auquel je suis assez <a href="https://github.com/Riduidel/gaedo/issues/52">sensible</a>, mais je m'éloigne du sujet).
+<br/>
+Et prelert va identifier les erreurs "exceptionnelles" grâce à de l'apprentissage.
+<br/>
+<h2>A quoi sert elasticsearch ?</h2>
+<br/>
+Ben à faire des recherches floues, où à trier les résultats de recherche selon ... un score. Et floue, ça implique de gérer les fautes d'orthographe, les textes approchants, les synonymes, ...
+</p>
+<p>
+Et maintenant, le coeur de la présentation : ingest node
+</p>
+<p>
+Avec ingest, on peut remplacer l'architecture classique
+</p>
+<p>
+<img class="alignnone size-full wp-image-4064" src="https://riduidel.files.wordpress.com/2016/12/iyxfbszfiyqhkn3bp4briaqiaupaxelvvas7bogmpowa5ifpxazotebfsoa4r1ixorlc91qnp2o7foom9mtmmmtkjkco3cvfsa5c1vc85kpm5kqwtyzc0g00.png" alt="iyxfbszfiyqhkn3bp4briaqiaupaxelvvas7bogmpowa5ifpxazotebfsoa4r1ixorlc91qnp2o7foom9mtmmmtkjkco3cvfsa5c1vc85kpm5kqwtyzc0g00" width="578" height="55" />
+</p>
+<p>
+par une architecture beaucoup plus simple
+</p>
+<p>
+<img class="alignnone size-full wp-image-4067" src="https://riduidel.files.wordpress.com/2016/12/iyxfbszfiyqhkn3bp4briaqiaupaxekvvygmbsgc1wsc5ylda5hpag01gjopbpsrk8ihbwkkllvn3y880000.png" alt="iyxfbszfiyqhkn3bp4briaqiaupaxekvvygmbsgc1wsc5ylda5hpag01gjopbpsrk8ihbwkkllvn3y880000" width="154" height="167" />
+</p>
+<p>
+Du coup, le pipeline de transformation Logstash (grok, date, mutate) est remplacé par un équivalent ingest (grok, date, remove). Il y a naturellement tout un tas de plugins (dont la lecture d'attachments avec Tika). Bon, autrement dit, on remplace un ETL par un autre, espérons juste qu'il soit plus performant. Et évidement, on peut créer ses propres plugins.
+</p>
+<p>
+Il y a quand même un gros intérêt, puisque les pipelines ingest sont utilisables dans la plupart des urls d'appel à Elasticsearch. Et en particulier, dans l'un des trucs les plus balaizes : le reindex. Ce reindex permet la migration facile d'un cluster Elasticsearch d'une vieille version vers une nouvelle. Et ça, ça me paraît vraiment très chouette.
+</p>
+<p>
+Comme dans n'importe quel ETL, il est possible de définir des failure processors qui vont être utilisés en cas d'échec lors de la série de transformation. On peut les définir par pipeline ou par processeur.
+</p>
+<p>
+Dans un cluster, (parce que oui, Elasticsearch fonctionne toujours en cluster), il est possible de laisser tous les noeuds faire de l'ingestion, on d'en forcer certains à faire l'ingestion. En prod, d'ailleurs, il vaut mieux séparer les noeuds d'ingestion des noeuds de données.
+<br/>
+<h2>Et si on regardait un plugin ?</h2>
+<br/>
+Par exemple, le fameux plugin BANO (déja mentionné chez les castcodeurs). BANO pour base nationale d'adresses, parce que David est fan des adresses postales. Et cette base, ce sont des documents CSV (ou JSON) disponibles chez OpenStreetMap.
+<br/>
+Donc David a un plugin qui lui permet de charger dans Elasticsearch la base des adresses, puis d'enrichir les adresses et les localisations GPS en ajoutant la donnée inverse.
+</p>
+<p>
+Et maintenant, c'est le moment de la démo !
+</p>
+<p>
+Et franchement, au début, la définition de pipeline d'ingestion est assez facile, et la définition des failure processors est tout aussi facile. J'imagine très bien les interfaces très graphiques faisables là-dessus.
+<br/>
+Pour la récupération des données, le fait que ce soit un moteur de recherche fait que des résultats moins pertinents pourront être retournés par les requêtes, mais derrière les résultats les plus pertinents.
+</p>
+<p>
+Un autre élément intéressant, c'est que la recherche est foutrement rapide : l'ingestion d'une coordonnée GPS avec ajout automatique des adresses (et donc recherche dans l'index des coordonnées) est immédiate (pour autant qu'on puisse le voir). Même si la coordonnée GPS n'est pas exactement la bonne.
+</p>
+<p>
+Et avec tout ça, et le processor GeoIP, il est par exemple possible d'envoyer un courier à l'adresse donnée lors de la requête HTTP. Ca fout la trouille, hein ?
+</p>
+<p>
+Au passage, l'un des trucs les plus intéressants selon moi est l'utilisation de JSON pour exprimer les requêtes : le code n'est pas moins clair qu'avec un langage de requête dédié (genre SQL).
+</p>
+<p>
+Un autre intérêt d'Elasticsearch, c'est qu'il supporte les tâches longues, qu'on peut suivre et gérer (pour par exemple tuer les tâches trop longues).
+<br/>
+<h2>Non mais, et si on développait vraiment un plugin ?</h2>
+<br/>
+Eh bien ce serait aussi simple que d'écrire une classe étendant une superclasse abstraite.
+<br/>
+Evidement, quand on regarde le code, on voit des choses ... curieuses : trouver le point le plus proche en calculant la distance de tous les points, je peux dire que c'est pas le plus efficace (il n'y a pas d'index géographiques ou <a href="https://fr.wikipedia.org/wiki/Quadtree?oldformat=true">quadtrees </a>dans Lucene ? Ah si, à priori, avec les <a href="https://en.wikipedia.org/wiki/K-d_tree?oldformat=true">bkdtree </a>de Lucene 6).
+<br/>
+Dans le même ordre d'idée, déclarer ses plugins en associant une clé à une factory ... alors qu'on peut faire du CDI ? C'est pas fameux. mais bon, tout le monde n'est pas censé écrire des plugins.
+<br/>
+<h2>Conclusion</h2>
+<br/>
+L'un des plus gros intérêts de cette présentation, c'est de sortir Elasticsearch de son rôle le plus connu de stockage ELK pour bien montrer qu'avant tout, c'est un ETL moderne qu'on sous-utilise volontiers.
+</p>
+<p>
+Et personnellement, en voyant cette présentation, j'ai eu l'envie un peu folle de resortir mes projets de livestream pour les porter dans une base plus moderne.
+</p>
+<p>
+Et pour la blague, le premier rang, c'est pratique pour démontrer la présence quand le speaker fait des selfies
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/dadoonet" class="screenName"><img src="http://pbs.twimg.com/profile_images/994322254975684608/2E-48xZA_mini.jpg" alt="profile of developer | evangelist @elastic We are hiring 📧 DM opened. DJ 4 times a year, just for fun! 🎧 https://t.co/xhIEHl0eB0"/>dadoonet</a>
+<br/>
+<span class="name">David Pilato🇪🇺🇫🇷</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/dadoonet/status/809 143 713 972 813 825" class="date">14 déc. 2016 à 22:11:09</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Thank you @chtijug attendees for listening! https://t.co/lhRGG2CalC</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Czqn6DNXUAAP18d.jpg" alt="809 143 698 802 036 736"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

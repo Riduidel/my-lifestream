@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Powerful CSS-Techniques For Effective Coding | CSS | Smashing Magazine
+:jbake-tags: coding,css,demonstration,développement,exemple,programming,software,webdesign,xhtml,javascript,_mois_févr.,_année_2008
+:jbake-date: 2008-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1203951122000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.smashingmagazine.com%2F2008%2F02%2F21%2Fpowerful-css-techniques-for-effective-coding%2F&searchtags=coding+css+demonstration+d%C3%A9veloppement+exemple+programming+software+webdesign+xhtml+javascript+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.smashingmagazine.com/2008/02/21/powerful-css-techniques-for-effective-coding/[Powerful CSS-Techniques For Effective Coding | CSS | Smashing Magazine]
+
+Des tonnes de trucs CSS pour obtenir des résultats étourdissants, parce que pas seulement beaux, mais surtout fonctionnellement riches.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Volumouse v1.10
+:jbake-tags: freeware,mouse,software,system,windows,utilities,_mois_oct.,_année_2004
+:jbake-date: 2004-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1097578775000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nirsoft.net%2Futils%2Fvolumouse.html&searchtags=freeware+mouse+software+system+windows+utilities+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.nirsoft.net/utils/volumouse.html[Volumouse v1.10]
+
+Volumouse provides you a quick and easy way to control the sound volume on your system - simply by rolling the wheel of your wheel mouse. It allows you to define a set of rules for determining when the wheel will be used for changing the sound volume. F

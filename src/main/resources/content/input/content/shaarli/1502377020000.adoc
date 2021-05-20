@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Journaling my life at work using Github
+:jbake-tags: blog,mémoire,idée,_mois_août,_année_2017
+:jbake-date: 2017-08-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1502377020000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjulienblanchard.com%2F2017%2Fjournaling-my-life-with-github%2F&searchtags=blog+m%C3%A9moire+id%C3%A9e+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://julienblanchard.com/2017/journaling-my-life-with-github/[Journaling my life at work using Github]
+
+Pas con. je me demande si ça n'est pas, in fine, la meilleure façon de garder à l'esprit les trucs intéressants à faire.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martin Kleppmann sur Twitter : "Whenever someone says, “in my experience, 99% of users need <x>”, remember that any one person’s experience is always a biased sample. There may be many people for whom <y> is better than <x>. Just because one experienced person doesn’t know them doesn’t mean they don’t exist." / Twitter
+:jbake-tags: communication,mode,programming,_mois_mai,_année_2021
+:jbake-date: 2021-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1621416152000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmartinkl%2Fstatus%2F1394759418923962374&searchtags=communication+mode+programming+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/martinkl/status/1394759418923962374[Martin Kleppmann sur Twitter : "Whenever someone says, “in my experience, 99% of users need <x>”, remember that any one person’s experience is always a biased sample. There may be many people for whom <y> is better than <x>. Just because one experienced person doesn’t know them doesn’t mean they don’t exist." / Twitter]
+
+C'est hélas un ensemble d'erreur que je fais bien trop souvent, et je devrais vraiment apprendre à nuancer mes propos. Et j'aimerais bien savoir pourquoi je suis aussi stupidement mauvais.

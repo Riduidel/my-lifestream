@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Is the keyboard faster than the mouse?
+:jbake-tags: clavier,mouse,ergonomie,_mois_juin,_année_2017
+:jbake-date: 2017-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1497510263000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanluu.com%2Fkeyboard-v-mouse%2F&searchtags=clavier+mouse+ergonomie+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://danluu.com/keyboard-v-mouse/[Is the keyboard faster than the mouse?]
+
+Il semblerait donc que les études sur la rapidité comparée clavier/souris soient ... scientifiquement peu valides.

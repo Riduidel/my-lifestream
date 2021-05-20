@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plugin Ready Java Application
+:jbake-tags: article,java,programming,tutorial,plugin,_mois_mai,_année_2008
+:jbake-date: 2008-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1210710461000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.alef1.org%2Fjean%2Fjpf%2F&searchtags=article+java+programming+tutorial+plugin+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.alef1.org/jean/jpf/[Plugin Ready Java Application]
+
+

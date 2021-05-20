@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Time Tracking Software: Painless Estimation Tools Evaluated « //engtech
+:jbake-tags: management,productivité,tool,_mois_nov.,_année_2006
+:jbake-date: 2006-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1164818330000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fengtech.wordpress.com%2F2006%2F06%2F17%2Fpainless-estimation-evaluated%2F&searchtags=management+productivit%C3%A9+tool+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://engtech.wordpress.com/2006/06/17/painless-estimation-evaluated/[Time Tracking Software: Painless Estimation Tools Evaluated « //engtech]
+
+Une revue de différents logiciels de timetracking, oubliant malheureusement Rachota

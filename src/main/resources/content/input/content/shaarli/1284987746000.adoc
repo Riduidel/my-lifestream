@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: maven-gaelyk - Project Hosting on Google Code
+:jbake-tags: maven,groovy,google,open-source,java,développement,jabber,_mois_sept.,_année_2010
+:jbake-date: 2010-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1284987746000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fmaven-gaelyk%2F&searchtags=maven+groovy+google+open-source+java+d%C3%A9veloppement+jabber+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://code.google.com/p/maven-gaelyk/[maven-gaelyk - Project Hosting on Google Code]
+
+Un moyen super pratique de développer un peu de code gaelyk ...

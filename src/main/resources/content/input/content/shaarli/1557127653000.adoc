@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: phaazon/cargo-sync-readme: Generate a Markdown section in your README based on your Rust documentation
+:jbake-tags: rust,documentation,github,readme,cargo,plugin,_mois_mai,_année_2019
+:jbake-date: 2019-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1557127653000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fphaazon%2Fcargo-sync-readme&searchtags=rust+documentation+github+readme+cargo+plugin+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/phaazon/cargo-sync-readme[phaazon/cargo-sync-readme: Generate a Markdown section in your README based on your Rust documentation]
+
+Encore un super plugin, qui va m'aider très précisément pour produire une doc propre

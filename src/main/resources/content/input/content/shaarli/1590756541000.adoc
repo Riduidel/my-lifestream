@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La boite verte : Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.
+:jbake-tags: art,curiosité,web,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590756541000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.laboiteverte.fr%2F&searchtags=art+curiosit%C3%A9+web+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.laboiteverte.fr/[La boite verte : Site de découverte sur la photographie, la science, les arts et tout ce qui est insolite.]
+
+Imaginez un site aux titres très clickbaits, mais aux contenus extrêmement variés, riches, et intéressants. Eh bien voilà, c'est la boîte verte.

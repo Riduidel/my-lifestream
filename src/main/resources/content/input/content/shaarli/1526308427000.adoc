@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Weni Widi Wiki
+:jbake-tags: java,programming,test,generated,_mois_mai,_année_2018
+:jbake-date: 2018-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1526308427000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmassol.myxwiki.org%2Fxwiki%2Fbin%2Fview%2FBlog%2FTestGenerationDspot&searchtags=java+programming+test+generated+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://massol.myxwiki.org/xwiki/bin/view/Blog/TestGenerationDspot[Weni Widi Wiki]
+
+Très chouette. J'aime beaucoup le fait que DSpot ne génère pas une tonne de tests supplémentaires.

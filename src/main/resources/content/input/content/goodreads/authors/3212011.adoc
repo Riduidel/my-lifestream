@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Justine Niogret
+:jbake-tags: author
+:jbake-date: 2011-02-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3212011.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1297355964p5/3212011.jpg
+:jbake-source: https://www.goodreads.com/author/show/3212011
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782354080662.html[Chien Du Heaume]

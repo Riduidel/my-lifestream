@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ca y est ! J'ai enfin terminé la migration de posterous !
+:jbake-tags: lifestream,posterous,_mois_août,_année_2014
+:jbake-date: 2014-08-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/08/19/ca-y-est-jai-enfin-termine-la-migration-de-posterous.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/08/19/ca-y-est-jai-enfin-termine-la-migration-de-posterous/
+:jbake-style: wordpress
+
+++++
+<p>
+Evidement, ça ne va pas intéresser grand monde ... quoique.
+</p>
+<p>
+Donc, vous vous souvenez de cet article "<a href="http://riduidel.wordpress.com/2013/06/06/limport-de-posterous-cetait-quand-meme-pas-ca/">L'import de posterous, c'est quand même pas ça</a>" ? J'y expliquai rapidement que les caractères non ASCII des articles que j'en importais étaient salement transformés. Au total, j'avais environ 600 articles contenant des accents, et donc contenant des saletés de "??". J'ai donc dû, quasi-manuellement, remplacer tous ces caractères par les vrais bon caractères accentués (merci d'ailleurs aux <a href="http://www.rarst.net/software/notepadpp-macro-for-repetitive/">macros</a> de <a href="http://www.notepad-plus-plus.org/">Notepad++</a> qui m'ont bien facilité les choses). J'aurais bien aimé, dans l'idéal, pouvoir monter un partage WebDAV pour trouver plus rapidement tous ces articles à mettre à jour. Malheureusement, comme ce blog est hébergé gratuitement par Wordpress.com (ce dont je les remercie), je ne peux pas installer de plugins, et je n'ai donc pas accès à mes articles facilement.
+</p>
+<p>
+D'où cette terriblement longue phase de correction, qui a duré quand même 6 mois !
+</p>
+<p>
+Du coup, évidement, je suis très content d'en avoir fini avec cet enfer, parce que je peux maintenant passer à des choses plus intéressantes, comme par exemple des améliorations du <a href="https://github.com/Riduidel/lifestream">lifestream</a>.
+</p>
+<p>
+La première chose à faire, c'est finir d'implémenter <a href="https://github.com/Riduidel/lifestream/issues/3">le support de Wordpress</a>, ce qui me permettra de proposer <a href="https://github.com/jbake-org/jbake/issues/16">ce support</a> à l'auteur de JBake ...
+</p>
+<p>
+La deuxième, ce sera sans doute de détecter automatiquement <a href="https://en.wikipedia.org/wiki/Link_rot">les liens morts</a>. Parce que dans Wordpress, comme dans Shaarli, les liens périssent. Et pour l'instant, je ne le détecte pas et c'est bien dommage. Mais je sais que ça viendra !
+</p>
+++++

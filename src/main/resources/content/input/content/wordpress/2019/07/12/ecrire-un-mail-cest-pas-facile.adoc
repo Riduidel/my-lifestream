@@ -1,0 +1,75 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ecrire un mail, c'est pas facile
+:jbake-tags: email,raspberrypi,rrss2imap,rust,_mois_juil.,_année_2019
+:jbake-date: 2019-07-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/07/12/ecrire-un-mail-cest-pas-facile.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/07/12/ecrire-un-mail-cest-pas-facile/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous ne vous en rendez pas compte, parce que vous utilisez la plupart du temps un éditeur <a href="https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get">WYSIWYG</a>, mais écrire un mail, c'est loin d'être simple.
+</p>
+<p>
+Plus exactement, c'est à peu près facile si vous écrivez un mail en ASCII.
+</p>
+<p>
+Pourquoi je vous parle de ça ?
+</p>
+<p>
+Parce que je suis dans ma réécriture de <a href="https://github.com/rcarmo/rss2imap">rss2imap</a> en Rust (qui s’appelle - follement - <a href="https://github.com/Riduidel/rrss2imap/releases">rrss2imap</a>), et que j'ai buté pendant bien longtemps sur un problème délicat ... Et que je m'en vais vous détailler.
+</p>
+<p>
+En gros, mon implémentation initiale reprenait l'idée de rss2imap : j'avais ce template <a href="https://github.com/Keats/tera">tera</a> :
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">MIME-Version: 1.0
+<br/>
+User-Agent: rss2email
+<br/>
+Content-Transfer-Encoding: base64
+<br/>
+To: {{to}}
+<br/>
+Subject: {{title}}
+<br/>
+Date: {{date}}
+<br/>
+Content-Type: text/html; charset="{{charset}}"
+<br/>
+{% for l in links %}X-RSS-Feed: {{l}}{%- endfor %}
+<br/>
+{% for a in from %}From: {{a}}{%- endfor %}
+</p>
+<p>
+{{message_body}}</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Dans ce template, je remplace les différentes entêtes par leurs valeurs ... Et c'est là que ça coince ... Parce que si je veux mettre autre chose que de l'ascii, je dois l'encoder, soit en <a href="https://fr.wikipedia.org/wiki/Quoted-Printable">quoted-printable</a>, soit en <a href="https://fr.wikipedia.org/wiki/Base64">base64</a>. Pour être honnête, j'avais commencé à l'implémenter. Et j'ai commencé à rencontrer des problèmes marrants (par exemple, un retour à la ligne dans le sujet du mail foutait un bazar pas possible).
+</p>
+<p>
+Donc j'ai abandonné l'idée cette semaine, et méthodiquement testé les différentes crates de création de mails
+<br/>
+<ul>
+<br/>
+<li><a href="https://lettre.at/">lettre-email</a> qui était pas mal, mais utilisait time plutôt que chrono pour gérer les dates. Du coup j'ai dû abandonner parce que la conversion était infernale.</li>
+<br/>
+<li><a href="https://crates.io/crates/email-format">email-format</a> qui ne fournit aucun support hors ascii.</li>
+<br/>
+<li><a href="https://github.com/katyo/emailmessage-rs">emailmessage</a> qui finalement était la meilleure solution : typesafe, facile à utiliser, avec un support hyper complet des différents encodages.</li>
+<br/>
+</ul>
+<br/>
+Et avec ça, j'ai enfin réussi à gérer correctement mes messages émis. Par contre, j'ai toujours des problèmes un peu pénibles de release qui ne marche pas pour Linux et Raspberry (ce qui est pénible puisque l'objectif est quand même clairement de faire tourner le script sur mon Raspberry).
+</p>
+++++

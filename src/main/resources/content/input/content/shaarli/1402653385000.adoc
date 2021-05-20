@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ConEmu and Clink – Add Linux shell shortcuts, tabs and tab completion to Windows command line – Far Manager Windows text file explorer | Walking in Light with Christ - Faith, Computing, Diary
+:jbake-tags: software,windows,command-line,linux,open-source,_mois_juin,_année_2014
+:jbake-date: 2014-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1402653385000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pc-freak.net%2Fblog%2Fconemu-clink%2F&searchtags=software+windows+command-line+linux+open-source+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.pc-freak.net/blog/conemu-clink/[ConEmu and Clink – Add Linux shell shortcuts, tabs and tab completion to Windows command line – Far Manager Windows text file explorer | Walking in Light with Christ - Faith, Computing, Diary]
+
+J'avais jamais vraiment compris à quoi clink servait ... je suis bluffé

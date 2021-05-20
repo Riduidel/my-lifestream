@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open NNTP/News links in Google Groups – Userscripts.org
+:jbake-tags: usenet,web,_mois_janv.,_année_2008
+:jbake-date: 2008-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1199267398000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fuserscripts.org%2Fscripts%2Fshow%2F1475&searchtags=usenet+web+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://userscripts.org/scripts/show/1475[Open NNTP/News links in Google Groups – Userscripts.org]
+
+Une petitze passerelle de rien du tout pour consulter les messages Usenet directement chez Google groups

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dictionnaire Sceptique - Index
+:jbake-tags: web,culture,bizarre,dictionnary,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112706374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sceptiques.qc.ca%2FSD%2Fsdmain.html&searchtags=web+culture+bizarre+dictionnary+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sceptiques.qc.ca/SD/sdmain.html[Dictionnaire Sceptique - Index]
+
+Le Dictionnaire sceptique vous prÃ©sente, par ordre alphabÃ©tique, des informations sur une foule de sujets d'intÃ©rÃªt sceptique. Ce dictionnaire est une traduction franÃ§aise du Skeptic's Dictionary de Robert T. Carroll. L'icÃ´ne Â« Â»

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Codingpedia.org | Sharing coding knowledge
+:jbake-tags: blog,web,programming,_mois_févr.,_année_2015
+:jbake-date: 2015-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1423389033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codingpedia.org%2F&searchtags=blog+web+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.codingpedia.org/[Codingpedia.org | Sharing coding knowledge]
+
+Un portail de blog sur le code en multi-langage ...

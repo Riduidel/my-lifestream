@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Disk Inventory X : Home
+:jbake-tags: software,freeware,macosx,file,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110471346000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.derlien.com%2F&searchtags=software+freeware+macosx+file+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.derlien.com/[Disk Inventory X : Home]
+
+Disk Inventory X is a disk usage utility for Mac OS X 10.3. It shows the sizes of files and folders in a special graphical way called "treemaps".

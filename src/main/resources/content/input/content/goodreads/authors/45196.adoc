@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lewis Trondheim
+:jbake-tags: author
+:jbake-date: 2017-02-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/45196.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1262511191p5/45196.jpg
+:jbake-source: https://www.goodreads.com/author/show/45196
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782369812579.html[Romance et macchabées]
+* link:../books/9782369812593.html[Retour vers le führer]
+* link:../books/9782369812616.html[Infinity 8 - Tome 3 - L'Evangile selon Emma]
+* link:../books/9782369812661.html[Infinity 8 - Tome 5 : Le Jour de l'Apocalypse]

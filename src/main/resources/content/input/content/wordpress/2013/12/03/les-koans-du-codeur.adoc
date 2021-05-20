@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les koans du codeur
+:jbake-tags: concepts,zen,_mois_déc.,_année_2013
+:jbake-date: 2013-12-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/12/03/les-koans-du-codeur.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/12/03/les-koans-du-codeur/
+:jbake-style: wordpress
+
+++++
+<p>
+Ca faisait un sacré moment que je cherchais un site qui me permette d'expliquer à certains collègues des notions, des concepts, sans passer par du code d'exemple.
+</p>
+<p>
+Je savais bien que ça existait sous différentes formes. Je savais aussi qu'il ne faut pas chercher pour ces concepts l'information directe, mais, en un sens, <a href="https://fr.wikipedia.org/wiki/Éveil_spirituel#La_notion_hors_du_cadre_religieux">l'illumination</a>.
+</p>
+<p>
+C'est pour ça que, le jour où j'ai découvert <a href="http://www.thecodelesscode.com/contents?lang=fr">The Codeless Code,</a> j'ai été très content. Très content parce que c'était ce que je cherchais, mais aussi un peu triste parce que le contenu francophone est assez pauvre (par comparaison à <a href="http://www.thecodelesscode.com/contents">la version originale</a>). J'ai donc pris mon meilleur client mail pour discuter un peu avec l'auteur, qui m'apprit qu'il était possible de contribuer, que les versions texte brut des textes étaient disponibles facilement, et même qu'un dépôt github existait me permettant de contribuer des traductions.
+</p>
+<p>
+C'est donc ce que je commence aujourd'hui ...
+</p>
+<p>
+Allez donc voir <a href="https://github.com/Riduidel/the-codeless-code/tree/first_translations">ma branche</a> ...
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Creating your own Image Gallery on DNS-323 | shadowandy - my life stories
+:jbake-tags: dns-323,install,image,_mois_janv.,_année_2010
+:jbake-date: 2010-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1264368310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.shadowandy.net%2F2008%2F01%2Fcreating-your-own-image-gallery-on-dns-323.htm&searchtags=dns-323+install+image+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.shadowandy.net/2008/01/creating-your-own-image-gallery-on-dns-323.htm[Creating your own Image Gallery on DNS-323 | shadowandy - my life stories]
+
+Une gallerie photo dans le disque dur ??? trop la classe 8

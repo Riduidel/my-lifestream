@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Steven Brust
+:jbake-tags: author
+:jbake-date: 2005-09-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/27704.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1361579656p5/27704.jpg
+:jbake-source: https://www.goodreads.com/author/show/27704
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780765311924.html[The Gypsy]
+* link:../books/9782070318421.html[Jhereg (Vlad Taltos, #1) ]
+* link:../books/9782070348237.html[Yendi (Vlad Taltos, #2)]
+* link:../books/9782070379910.html[Taltos]
+* link:../books/9782070396399.html[Gardes Phenix]
+* link:../books/9782070421510.html[Agyar]
+* link:../books/9783608935158.html[Teckla (Vlad Taltos, #3)]

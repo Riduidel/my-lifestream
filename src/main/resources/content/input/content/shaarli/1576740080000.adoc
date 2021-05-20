@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Champions sur Twitter : "Congratulations to new Java Champion @clementplop! https://t.co/C8QRetcJgz"
+:jbake-tags: java,people,champion,_mois_déc.,_année_2019
+:jbake-date: 2019-12-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1576740080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJava_Champions%2Fstatus%2F1207375227090456576&searchtags=java+people+champion+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Java_Champions/status/1207375227090456576[Java Champions sur Twitter : "Congratulations to new Java Champion @clementplop! https://t.co/C8QRetcJgz"]
+
+Alors ça, c'est vraiment très très chouette ! Bravo !

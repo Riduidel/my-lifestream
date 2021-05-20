@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: edvin/tornadofx: Lightweight JavaFX Framework for Kotlin
+:jbake-tags: programming,java,javafx,kotlin,gradle,_mois_sept.,_année_2017
+:jbake-date: 2017-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1504377615000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fedvin%2Ftornadofx&searchtags=programming+java+javafx+kotlin+gradle+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/edvin/tornadofx[edvin/tornadofx: Lightweight JavaFX Framework for Kotlin]
+
+Kotlin + IoC + JavaFX = Talk to me dirty

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to configure Tomcat Catalina logs in json using default jar(tomact-juli.jar) - Stack Overflow
+:jbake-tags: tomcat,configuration,log,json,_mois_mai,_année_2021
+:jbake-date: 2021-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1621439795000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F65969112%2F15619&searchtags=tomcat+configuration+log+json+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/65969112/15619[How to configure Tomcat Catalina logs in json using default jar(tomact-juli.jar) - Stack Overflow]
+
+La seule doc sur ce sujet de logs JSON que j'aie vu et qui fonctionne correctement. J'en ai bien chié ...

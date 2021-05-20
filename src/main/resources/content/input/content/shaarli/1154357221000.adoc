@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 1001 figures de jonglerie
+:jbake-tags: fun,jonglerie,_mois_juil.,_année_2006
+:jbake-date: 2006-07-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1154357221000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmogador.club.fr%2Faccueil.htm&searchtags=fun+jonglerie+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://mogador.club.fr/accueil.htm[1001 figures de jonglerie]
+
+Pour moi, et mes enfants, un petit site pour se lancer des challenges

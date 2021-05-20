@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Extensions Shaarli - Add-ons Opera
+:jbake-tags: opera,extension,shaarli,_mois_mai,_année_2013
+:jbake-date: 2013-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1369747428000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faddons.opera.com%2Ffr%2Fextensions%2Fdetails%2Fshaarli%2F%3Fdisplay%3Den&searchtags=opera+extension+shaarli+_mois_mai+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://addons.opera.com/fr/extensions/details/shaarli/?display=en[Extensions Shaarli - Add-ons Opera]
+
+L'extension qui va bien pour le navigateur qui va bien

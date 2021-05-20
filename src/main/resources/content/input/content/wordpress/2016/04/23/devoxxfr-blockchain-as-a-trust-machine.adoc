@@ -1,0 +1,43 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - blockchain as a trust machine
+:jbake-tags: bitcoin,blockchain,devoxx,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-blockchain-as-a-trust-machine.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-blockchain-as-a-trust-machine/
+:jbake-style: wordpress
+
+++++
+<p>
+Donc après <a href="https://riduidel.wordpress.com/2016/04/20/devoxxfr-la-blockchain-en-detail/">la découverte de la blockchain</a>, et <a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-developpez-votre-premiere-application-decentralisee-sur-la-blockchain-avec-ethereum-et-embark/">développer une appli ethereum/embark sur la blockchain</a>, dernière conf sur le sujet : blockchain as a trust machine. La différence ? Maintenant, c'est Murex (la cheville ouvrière du trading en France) qui présente. On verra ce que ça change ...
+</p>
+<p>
+"l'homme est un animal social" ou plutôt un animal économique, d'où le troc, puis le système économique. D'ailleurs, depuis le XVIème siècle, le système monétaire n'a pas fondamentalement changé.
+</p>
+<p>
+The linux foundation a lancé le projet <a href="https://www.hyperledger.org/">hyperledger</a> qui est un projet proche de la blockchain ... en partenariat avec tout un tas de banques et de gros acteurs technologiques.
+</p>
+<p>
+Mais pour un fonctionnel, la banque, avant tout, c'est un tiers de confiance (au passage, ça reprend <a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-algorithmes-les-nouveaux-pouvoirs-du-developpeur/">la keynote de Fabrice Epelboin sur la crise de la confiance</a>). Alors, est-ce qu'on peut la remplacer ? A priori, avec la blockchain, oui. Du coup, la confiance est-elle plus du côté de bitcoin, ou du côté de ma banque ?
+</p>
+<p>
+Donc, faisons d'abord un retour sur les bitcoins : ce sont des transactions qui sont timestampées par des blocs. Clair ou pas ? Carrément clair, je trouve. Tout le reste est, en quelque sorte, un détail d'implémentation.
+</p>
+<p>
+Pour éviter les double-dépenses, les transactions sont timestampées. Et, grâce aux hashes qui sont associés aux transactions, la blockchain est considérée comme inaltérable.
+</p>
+<p>
+Bon, pour continuer, la blockchain nécessite régulièrement de nouveaux ... blocs. Et les mineurs vont créer ces blocs en calculant des nonces. Et comme les mineurs sont intéressés, ils n'ont pas forcément confiance. Pour tenir compte de ce manque de confiance, c'est un réseau totalement décentralisé. Et chaque noeud revalide toutes les données dès qu'il reçoit un nouveau message.
+</p>
+<p>
+Et il y a un langage de script caché dans la blockchain. Et ça, pour un développeur, évidement, c'est du pain béni. Grâce à ça, on peut par exemple authentifier un objet, grâce à un script d'unlock n'autorisant pas la consommation de la transaction. On peut également faire de la mise en gage en demandant le déverrouillage de la transaction par deux personnes.
+</p>
+<p>
+S'ensuit une démo incroyable sur un réseau de raspberrys de test. Et c'est franchement bluffant. Même si ça n'est évidement pas représentatif de la vraie blockchain.
+</p>
+<p>
+Ce qui fait de cette présentation la meilleure de devoxx pour comprendre la blockchain.
+</p>
+++++

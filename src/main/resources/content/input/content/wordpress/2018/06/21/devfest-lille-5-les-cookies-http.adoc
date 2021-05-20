@@ -1,0 +1,290 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevFest Lille 5 : Les cookies HTTP
+:jbake-tags: cookie,devfest,http,sécurité,web,_mois_juin,_année_2018
+:jbake-date: 2018-06-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/21/devfest-lille-5-les-cookies-http.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/21/devfest-lille-5-les-cookies-http/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Hubert vient tous parler d’un sujet quasi-neuf : les cookies. Et évidement, comme chez les autres showmen de l’informatique, la forme compte autant que le fond.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Revenons en 1994. A cette époque, Lou Montuli travaille chez Netscape. Et le navigateur typique est Lynx (et pas links, sa version avec Javascript et autres). On y invente (un peu à cause de lui) la balise <code>&#60;blink&#62;</code>. Et il y invente également les gifs animés. Et enfin, il y invente les cookies, dont l’objectif était déja de maintenir une session côté client.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_quest_ce_quon_cookie_http">Qu’est-ce qu’on cookie HTTP</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+C’est un paquet d’information envoyé par le serveur (via l’entête http <code>Set-Cookie</code>). Le navigateur les stocke localement dans un cookie jar (une boîte à cookie). Et lorsqu’il refait une requête au même serveur, il renvoie les cookies que ce serveur a déja positionné (via l’entête <code>cookie</code>).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_combien_de_temps_est_stocké_un_cookie">Combien de temps est stocké un cookie ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Par défaut, le cookie expire quand le navigateur est fermé. Sauf évidement quand le serveur envoie l’entête <code>Expiration-Date</code> ou <code>Max-Age</code> qui définit une date de suppression.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_comment_demander_la_suppression_dun_cookie">Comment demander la suppression d’un cookie ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+La méthode typique est d’envoyer une <code>Expiration-Date</code> dans le passé, ou un <code>Max-Age</code> de 0.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_comment_le_navigateur_sait_il_que_deux_requêtes_concernent_le_même_site">Comment le navigateur sait-il que deux requêtes concernent le même site ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_attribut_domain">Attribut <code>Domain=</code></h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Avec cette attribut, le cookie est accessible sur tous les domaines dont le nom se termine par ce domaine. Par contre, on ne peut pas positionner un cookie sur un TLD (top level domain). Ces domaines sont tous listés sur <a class="bare" title="http://publicsuffix.org/" href="http://publicsuffix.org">http://publicsuffix.org</a>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+On ne peut pas non plus définir comme domaine <code>localhost</code>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_attribut_path">Attribut <code>Path</code></h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Si cet attribut est positionné, le cookie est positionné lorsque le path commence par le préfixe défini suivi par un <code>/</code>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_attribut_secure">Attribut <code>Secure</code></h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Lorsqu’il est positionné, le cookie n’est envoyé que pour les pages servies en <code>https</code>. <strong>ATTENTION</strong> ! cet attribut peut être positionné par une page non sécurisée (ce qui pourrait ouvrir la porte à toute une série de mauvaises requêtes).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_header_hsts">Header HSTS</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+L’entête HTTP <code>Strict-Transport-Security</code> garantit que toutes les requêtes suivantes seront effectuées en HTTPS, comme une redirection (mais sans aller-retour de la requête auprès du serveur.)
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_préfixes">Préfixes <code>__</code></h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Deux préfixes de ce type existe : _ sur un nom de cookie et <code>Host</code>. chacun d’entre eux limite et le nombre de cas dans lesquels le cookie est servi.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_choix_du_port">Choix du port</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Deux requêtes sur des ports différents serviront les mêmes ensembles de cookies. Heureusement, les navigateurs implémentent le same origin policy (qui identifie un serveur pour le local-storage, les requêtes Ajax). Malheureusement, celui-ci n’est pas utilisé pour les cookies.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_est_ce_que_les_images_utilisent_également_les_cookies">Est-ce que les images utilisent également les cookies ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Evidement ! Et du coup, c’est ce qui ouvre la porte aux attaques cross-server (CSRF &#38; co). A noter qu’on peut les inclure dans des images. Mais comme le dit Hubert, entre gens de bonne compagnie, on ne fait pas de requêtes <code>GET</code> pour mettre à jour un site web.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_attriut_samesite">Attribut <code>SameSite</code></h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Avec cet attribut, les cookies ne sont envoyés que lorsqu’il sont servis par une page issue du même site.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_qui_lit_les_cookies">Qui lit les cookies ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le navigateur, mais aussi l’API Javascript <code>document.cookie</code> …​ qui est sacrément étrange.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_et_cest_la_porte_ouverte_aux_attaques_xss">Et c’est la porte ouverte aux attaques XSS</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le sujet est vaste.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_attribut_httponly">Attribut <code>HttpOnly</code></h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Quand il est positionné, les Javascript dans la page ne peuvent pas accéder au cookie.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_mon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le tour d’horizon était chouette. Et évidement, Hubert est un sacré showman qui maîtrise (presque) tous ses effets.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

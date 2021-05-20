@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tbaggery - A Note About Git Commit Messages
+:jbake-tags: git,commentaire,programming,culture,_mois_oct.,_année_2014
+:jbake-date: 2014-10-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1413550050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftbaggery.com%2F2008%2F04%2F19%2Fa-note-about-git-commit-messages.html&searchtags=git+commentaire+programming+culture+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html[tbaggery - A Note About Git Commit Messages]
+
+Bon ben ça, c'est exactement le genre de conneries absurdes qui me font haïr l'esprit de git : au nom d'outils antédiliviens, on \*doit\* faire des colonnes de 72 caractères dans les messages de commit ? DE LA MERDE.

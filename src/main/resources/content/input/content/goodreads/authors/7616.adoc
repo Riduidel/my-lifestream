@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Benoît Peeters
+:jbake-tags: author
+:jbake-date: 2019-04-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7616.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1427404319p5/7616.jpg
+:jbake-source: https://www.goodreads.com/author/show/7616
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782203101685.html[Les Cités obscures : Livre 1]

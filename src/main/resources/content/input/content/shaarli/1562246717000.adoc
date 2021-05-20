@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manish sur Twitter : "FWIW: zoom meeting recordings come with a transcript. If folks are okay being recorded you can use this to make meeting notes easier (generate a transcript, then quickly pick out important points later)"
+:jbake-tags: réunion,transcription,service,_mois_juil.,_année_2019
+:jbake-date: 2019-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1562246717000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FManishEarth%2Fstatus%2F1146546073420226560&searchtags=r%C3%A9union+transcription+service+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ManishEarth/status/1146546073420226560[Manish sur Twitter : "FWIW: zoom meeting recordings come with a transcript. If folks are okay being recorded you can use this to make meeting notes easier (generate a transcript, then quickly pick out important points later)"]
+
+Mais c'est GENIAL ! C'est bien la première fois que je vois un outil qui veut m'espionner à un moment où je pense que c'est raisonnable !

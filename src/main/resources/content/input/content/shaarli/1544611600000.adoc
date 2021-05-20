@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: REST Proxy Quick Start — Confluent Platform
+:jbake-tags: web,sécurité,scan,http,_mois_déc.,_année_2018
+:jbake-date: 2018-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1544611600000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.confluent.io%2Fcurrent%2Fkafka-rest%2Fdocs%2Fquickstart.html&searchtags=web+s%C3%A9curit%C3%A9+scan+http+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://docs.confluent.io/current/kafka-rest/docs/quickstart.html[REST Proxy Quick Start — Confluent Platform]
+
+Un outil de scan de vulnérabilité pour site web ... disponible dans un conteneur (et ça c'est cool pour éviter d'installer tout un tas de trucs sur ma machine)

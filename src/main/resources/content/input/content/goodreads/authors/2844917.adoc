@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Michael  Bishop
+:jbake-tags: author
+:jbake-date: 2006-03-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2844917.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1351154897p5/2844917.jpg
+:jbake-source: https://www.goodreads.com/author/show/2844917
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207256022.html[Les Continents perdus]

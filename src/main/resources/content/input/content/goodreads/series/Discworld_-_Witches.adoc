@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld - Witches
+:jbake-tags: serie
+:jbake-date: 2002-12-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld_-_Witches.adoc
+:jbake-source: https://www.goodreads.com/series/109517
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266080699.html[Les annales du Disque-Monde, tome 03 : La Huitième Fille]
+* link:../books/9782266091343.html[Trois Sœurcières (Les Annales du Disque-Monde, #6)]
+* link:../books/9782266121361.html[Mécontes de fées (Les Annales du Disque-Monde, #12)]
+* link:../books/9782266131797.html[Nobliaux et sorcières (Les Annales du Disque-monde, #14)]
+* link:../books/9782266148047.html[Masquarade (Les annales du Disque-Monde, #18)]
+* link:../books/9782266194044.html[Carpe Jugulum]

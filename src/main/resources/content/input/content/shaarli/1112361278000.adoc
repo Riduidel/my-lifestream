@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Languages for the Java VM
+:jbake-tags: programming,langage,jvm,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112361278000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.robert-tolksdorf.de%2Fvmlanguages.html&searchtags=programming+langage+jvm+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.robert-tolksdorf.de/vmlanguages.html[Languages for the Java VM]
+
+The following is a list of programming languages for the Java virtual machine aside of Java itself. Currently (summer 2004), it comprises about 190 different systems. It is a mix of experimental, research oriented implementations and of commercial ones. I

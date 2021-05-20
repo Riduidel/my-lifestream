@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Olivier Vatine
+:jbake-tags: author
+:jbake-date: 2010-11-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/20056.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1377375808p5/20056.jpg
+:jbake-source: https://www.goodreads.com/author/show/20056
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782369812593.html[Retour vers le führer]
+* link:../books/9782840550402.html[Jukurpa (Carmen Mc Callum, #1)]

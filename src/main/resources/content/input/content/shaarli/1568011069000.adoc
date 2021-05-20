@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: (1) Geoffroy Couprie on Twitter: "RT @perrymetzger: @anttikantee @jschauma My recommendation these days, in a cloud environment, is never to patch an image. You build your a…" / Twitter
+:jbake-tags: docker,conteneur,architecture,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568011069000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1170036483413221382&searchtags=docker+conteneur+architecture+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1170036483413221382[(1) Geoffroy Couprie on Twitter: "RT @perrymetzger: @anttikantee @jschauma My recommendation these days, in a cloud environment, is never to patch an image. You build your a…" / Twitter]
+
+Et ouais, c'est à ça que sert le cloud : soit tu construis un composant, soit tu réutilises, mais jamais, jamais tu ne modifies un composant.

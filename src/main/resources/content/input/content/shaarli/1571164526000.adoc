@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Conventional Commits
+:jbake-tags: git,commit,message,format,spécification,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571164526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.conventionalcommits.org%2Fen%2Fv1.0.0%2F&searchtags=git+commit+message+format+sp%C3%A9cification+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.conventionalcommits.org/en/v1.0.0/[Conventional Commits]
+
+A l'heure où on peut facilement parser du texte à peu près structuré, ce genre de formalisme me laisse dubitatif.

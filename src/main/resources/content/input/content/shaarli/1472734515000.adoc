@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Burning Man Live Stream - YouTube
+:jbake-tags: cyberpunk,science-fiction,webcam,_mois_sept.,_année_2016
+:jbake-date: 2016-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1472734515000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCfVAyiqfH6gUq5FwzfoP2YA%2Flive&searchtags=cyberpunk+science-fiction+webcam+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.youtube.com/channel/UCfVAyiqfH6gUq5FwzfoP2YA/live[Burning Man Live Stream - YouTube]
+
+Un flux temps réel du burning man festival. Un peu de cyberpunk dans mon bureau !

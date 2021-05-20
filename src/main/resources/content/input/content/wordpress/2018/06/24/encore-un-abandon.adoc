@@ -1,0 +1,65 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Encore un abandon !
+:jbake-tags: codingame,rust,_mois_juin,_année_2018
+:jbake-date: 2018-06-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/24/encore-un-abandon.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/24/encore-un-abandon/
+:jbake-style: wordpress
+
+++++
+<p>
+Après l'épreuve de la semaine dernière, j'ai <a href="https://riduidel.wordpress.com/2018/06/15/un-abandon-necessaire/">encore abandonné</a> au <a href="https://www.codingame.com/contests/code-of-kutulu">contest Codingame</a> !
+</p>
+<p>
+Et cette fois-ci, j'ai au moins la chance d'avoir appris des tonnes de choses.
+</p>
+<p>
+D'habitude, quand je commence un contest Codingame en Java, j'importe mes librairies classiques : playground, point discret, outillage de debug, j'ai à peu près tout ça. Mais là, en Rust, je n'avais rien (et je n'avais pas non plus le plugin Maven magique qui me permet de composer le fichier final à partir de sources distincts). J'ai donc dû réécrire tout ça.
+</p>
+<p>
+Réécrire le tableau 2D avec des getters/setters et un visiteur, c'était à peu près facile ... sauf que le getter m'a imposé de plonger dans les histoires de <a href="https://doc.rust-lang.org/rust-by-example/scope/lifetime.html">lifetime</a> (et ça n'était pas drôle). Regardez un peu l'allure de la méthode :
+<br/>
+<pre>    fn get&#60;'get_lifetime&#62;(&#38;'get_lifetime self, x:usize, y:usize)-&#62; &#38;'get_lifetime Content {
+<br/>
+let line = self.content
+<br/>
+.get(y as usize)
+<br/>
+.expect(&#38;format!("I tried to read line {} in a playground of height {}", y, self.height));
+<br/>
+// Notice how the ";" implies I need to add a return statement, which I'm not against at all
+<br/>
+return line.into_iter()
+<br/>
+.nth(x)
+<br/>
+.expect(&#38;format!("Cannot read content from ({};{})", x, y));
+<br/>
+}
+<br/>
+</pre>
+<br/>
+Vous trouvez ça lisible ? (je parle en particulier de la signature, mais le reste n'est pas non plus bien simple)
+</p>
+<p>
+En tout cas, je comprend à peu près le sens de cette partie : le pointeur est stocké dans mon tableau, et le fait d'obtenir un nouveau pointeur implique de dire au compilateur Rust quelle durée de vie aura celui-ci (enfin, si je comprend de travers, n'hésitez pas à me le dire).
+</p>
+<p>
+Dans l'ensemble, ça, c'était facile.
+</p>
+<p>
+Et puis je me suis convaincu que j'aurais besoin de générer mes tests unitaires (ce qui est vrai, évidement). Donc j'ai attaqué ma fameuse génération de test. J'ai consommé bien trop de temps là-dedans. Mais j'ai également appris beaucoup sur les traits, et les traits génériques.
+</p>
+<p>
+J'allais continuer tranquillement, quand j'ai été attaqué par "la vraie vie". Je n'en parlerai pas ici, mais il est question de politique de bureau, et de toutes les horreurs que ça implique. Bon, il est aussi question de DevFest (qui était cool, mais m'a bouffé deux jours de code).
+</p>
+<p>
+Je reprendrai ce contest plus tard, parce que je vois à peu près ce que je dois faire, et que j'ai bien envie de chercher des solutions Rust. J'ai aussi envie de voir comment je peux réécrire mes outils magiques (et en particulier voir si je peux utiliser les macros pour générer mes tests d'une façon intelligente).
+</p>
+<p>
+Bravo en tout cas aux auteurs de ce jeu, qui jouent subtilement avec les histoires de coopétition pour créer (à mon avis) des stratégies riches.
+</p>
+++++

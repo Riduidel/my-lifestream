@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Doc Norton on Twitter: "The agile manifesto says: "We are uncovering better ways of developing software by doing it and helping others do it." NOT "We know the one true way to manage the software lifecycle. We don't actually write software, but we can certify you.""
+:jbake-tags: citation,organisation,agile,_mois_févr.,_année_2018
+:jbake-date: 2018-02-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1519648961000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDocOnDev%2Fstatus%2F967050212891070464&searchtags=citation+organisation+agile+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/DocOnDev/status/967050212891070464[Doc Norton on Twitter: "The agile manifesto says: "We are uncovering better ways of developing software by doing it and helping others do it." NOT "We know the one true way to manage the software lifecycle. We don't actually write software, but we can certify you.""]
+
+Très vrai. Agile, maintenant, ça veut toujours dire quelque chose, mais bien peu (d'entreprises) le savent)

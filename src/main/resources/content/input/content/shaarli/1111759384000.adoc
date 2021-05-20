@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Godel and Godel's Theorem: Math
+:jbake-tags: web,science,mathématiques,_mois_mars,_année_2005
+:jbake-date: 2005-03-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1111759384000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ncsu.edu%2Ffelder-public%2Fkenny%2Fpapers%2Fgodel.html&searchtags=web+science+math%C3%A9matiques+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ncsu.edu/felder-public/kenny/papers/godel.html[Godel and Godel's Theorem: Math]
+
+In the nineteenth and early twentieth centuries, one of the big mathematical goals was to reduce all of number theory to a formal axiomatic system. Like Euclid's Geometry, such a system would start off with a few simple axioms that are almost indisputable

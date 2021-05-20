@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pasadena.rb» Blog Archive » Custom YAML Emitter
+:jbake-tags: documentation,tutorial,ruby,yaml,_mois_avr.,_année_2008
+:jbake-date: 2008-04-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1208710924000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpasadenarb.com%2F2007%2F03%2Fcustom-yaml-emitter.html&searchtags=documentation+tutorial+ruby+yaml+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://pasadenarb.com/2007/03/custom-yaml-emitter.html[Pasadena.rb» Blog Archive » Custom YAML Emitter]
+
+Comment créer un objet qui puisse s'enregistrer en YAML et puisse, surtout, y être lu.

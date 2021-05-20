@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Build a Network Audio Player
+:jbake-tags: raspberrypi,son,webradio,_mois_janv.,_année_2018
+:jbake-date: 2018-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1515490879000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.allo.com%2Fnetwork-audio-player.html&searchtags=raspberrypi+son+webradio+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.allo.com/network-audio-player.html[Build a Network Audio Player]
+
+Je dois déja l'avoir dans un coin, mais cette carte pour Raspberry offre la promesse d'un son de qualité

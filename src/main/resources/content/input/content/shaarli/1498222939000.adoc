@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Are so Many Babies Born around 8:00 A.M.? - Scientific American Blog Network
+:jbake-tags: infographie,naissance,démographie,_mois_juin,_année_2017
+:jbake-date: 2017-06-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1498222939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblogs.scientificamerican.com%2Fsa-visual%2Fwhy-are-so-many-babies-born-around-8-00-a-m%2F&searchtags=infographie+naissance+d%C3%A9mographie+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blogs.scientificamerican.com/sa-visual/why-are-so-many-babies-born-around-8-00-a-m/[Why Are so Many Babies Born around 8:00 A.M.? - Scientific American Blog Network]
+
+Des graphiques vraiment chouettes montrant bien les aspects prédictibles de la naissance. La partie qui m'amuse pas mal est celle concernant la saisonalité : il y a plus de naissances dans les 6 derniers mois de l'année, ce qui indique que les gens font l'amour plus souvent l'hiver (ou tout au moins conçoivent en hiver)

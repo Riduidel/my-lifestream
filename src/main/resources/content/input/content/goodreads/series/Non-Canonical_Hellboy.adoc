@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Non-Canonical Hellboy
+:jbake-tags: serie
+:jbake-date: 2015-06-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Non-Canonical_Hellboy.adoc
+:jbake-source: https://www.goodreads.com/series/235172
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782756039589.html[Hellboy 14 - Masques & Monstres]

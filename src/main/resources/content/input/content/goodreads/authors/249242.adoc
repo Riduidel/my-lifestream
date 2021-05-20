@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gradimir Smudja
+:jbake-tags: author
+:jbake-date: 2014-03-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/249242.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1368691389p5/249242.jpg
+:jbake-source: https://www.goodreads.com/author/show/249242
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756005652.html[Le Cabaret des muses 3. Allez, Darling]
+* link:../books/9782840559986.html[Vincent et Van Gogh]
+* link:../books/9782847891713.html[Le Bordel des muses 1. Au Moulin-Rouge]
+* link:../books/9782847897807.html[Mimi & Henri]

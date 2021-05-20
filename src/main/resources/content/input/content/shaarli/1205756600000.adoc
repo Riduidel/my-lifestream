@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kriegspiel -- Download
+:jbake-tags: jeu,politique,stratégie,open-source,software,freeware,windows,macosx,_mois_mars,_année_2008
+:jbake-date: 2008-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1205756600000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fr-s-g.org%2Fkriegspiel%2Findex.php&searchtags=jeu+politique+strat%C3%A9gie+open-source+software+freeware+windows+macosx+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://r-s-g.org/kriegspiel/index.php[Kriegspiel -- Download]
+
+Une version web d'un jeu de plateau assez conceptuel, très simple, mais à tout coup très prenant.

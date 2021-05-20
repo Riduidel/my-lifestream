@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Archives d'Ankh-Morpork
+:jbake-tags:  rayon-imaginaire, ville,_année_2020,_mois_déc.,_note_4,fantasy,read
+:jbake-date: 2020-12-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9791036000577.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607166413l/56167909._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607166413l/56167909._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/56167909
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Les Archives d'Ankh-Morpork, volume 1, réunissent quatre éditions des tristement célèbres Agendas du Disque-monde* en un seul recueil grand luxe, dans une version numérique remasterisée.<br /><br />La mise en page révisée donne la primauté aux textes originaux de Terry Pratchett et Stephen Briggs — ainsi qu'aux illustrations de Paul Kidby —, qui nous révèlent tout ce qu'on a envie de savoir sur les pratiques de certaines des institutions les plus notables d'Ankh-Morpork. On y trouve où se faire servir le meilleur rat de la ville, on y découvre les mystères aquatiques de ses boîtes aux lettres, et on y apprend pourquoi aucun garçon (ni aucune fille) de la Guilde des Assassins n'a le droit de garder un triton de plus de douze centimètres et demi de long…<br /><br />*Non édités en France
+</div>
+++++
+
+
+## Authors
+* link:../authors/58715.html[Patrick Couton]
+* link:../authors/19440.html[Paul Kidby]
+* link:../authors/19439.html[Stephen Briggs]
+* link:../authors/1654.html[Terry Pratchett]
+
+
+
+## Review
+
+++++
+Terry Pratchett est mort, et c'est très triste.<br/>Pour supporter ça, l'Atalante publie ces archives, qui regroupent des textes plutôt marrants sur des institutions sociales centrales d'Ankh-Morpokh  l'université invisible, la guilde des assassins, celle des voleurs et enfin la fameuse poste.<br/>Comme je le disais, les textes sont marrants, et les illustrations sont franchement belles. Donc c'est un beau et bon livre ... à réserver toutefois aux fans du Disque-Monde ... et aux maîtres de jeu de rôle qui voudraient se lancer dans l'univers de Pratchett.
+++++

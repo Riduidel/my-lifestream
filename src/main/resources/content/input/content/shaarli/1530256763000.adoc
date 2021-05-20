@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rancher Labs: Treating Cattle like Cattle – James Governor's Monkchips
+:jbake-tags: kubernetes,voiture,_mois_juin,_année_2018
+:jbake-date: 2018-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1530256763000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fredmonk.com%2Fjgovernor%2F2018%2F06%2F28%2Francher-labs-treating-cattle-like-cattle%2F&searchtags=kubernetes+voiture+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://redmonk.com/jgovernor/2018/06/28/rancher-labs-treating-cattle-like-cattle/[Rancher Labs: Treating Cattle like Cattle – James Governor's Monkchips]
+
+L'article est intéressant, mais un point me hérisse violemment le poil : Toyota a l'intention de déployer un Kubernetes dans chaque Toyota Camry vendue aux US. Je trouve ça fou de voir un orchestrateur de datacenter utilisé dans le monde embarqué.

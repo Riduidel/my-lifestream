@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 6.851: Advanced Data Structures
+:jbake-tags: programming,concepts,data,_mois_nov.,_année_2016
+:jbake-date: 2016-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1478270859000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcourses.csail.mit.edu%2F6.851%2F&searchtags=programming+concepts+data+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://courses.csail.mit.edu/6.851/[6.851: Advanced Data Structures]
+
+Je sens que je vais m'en servir pour CodinGame ...

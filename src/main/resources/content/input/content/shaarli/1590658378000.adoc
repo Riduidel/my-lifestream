@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Code Without Rules
+:jbake-tags: blog,programming,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590658378000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcodewithoutrules.com%2F&searchtags=blog+programming+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://codewithoutrules.com/[Code Without Rules]
+
+Un chouette blog de développeur, qui ne vise pas à améliorer les compétences techniques des développeurs, mais à leur permettre de faire face au monde extérieur et à certaines contraintes (comme la perte d'un boulot)

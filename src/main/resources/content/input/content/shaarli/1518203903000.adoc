@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alternative to device manager of Windows
+:jbake-tags: software,system,windows,_mois_févr.,_année_2018
+:jbake-date: 2018-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1518203903000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nirsoft.net%2Futils%2Fdevice_manager_view.html&searchtags=software+system+windows+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.nirsoft.net/utils/device_manager_view.html[Alternative to device manager of Windows]
+
+Ca m'a bien aidé à résoudre un sale problème d'adaptateur USB/Ethernet qui ne marchait plus.

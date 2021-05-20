@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java for Everything
+:jbake-tags: programming,java,langage,_mois_déc.,_année_2014
+:jbake-date: 2014-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1417601959000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.teamten.com%2Flawrence%2Fwritings%2Fjava-for-everything.html&searchtags=programming+java+langage+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.teamten.com/lawrence/writings/java-for-everything.html[Java for Everything]
+
+Je ne vais pas dire que je ne suis pas d'accord :-) Cela dit, pour les scripts, le Groovy est "mieux" : il peut être statiquement compilé, mais pas forcément, et est par défaut typé dunamiquement. Par contre, le coup du java\_mauncher pour écrire les scripts shells en Java me paraît un truc de dingue.

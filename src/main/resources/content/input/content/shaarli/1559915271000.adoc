@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Documentation As Code - Docs-as-Code
+:jbake-tags: documentation,asciidoc,reference,programming,_mois_juin,_année_2019
+:jbake-date: 2019-06-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1559915271000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs-as-co.de%2F&searchtags=documentation+asciidoc+reference+programming+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://docs-as-co.de/[Documentation As Code - Docs-as-Code]
+
+Ce site est super chouette, parce que c'est exactement la manière dont j'envisage la doc dans le développement informatique : pas de wiki, SURTOUT PAS de Google Doc/Word, mais de l'asciidoc compilé par l'intégration continue

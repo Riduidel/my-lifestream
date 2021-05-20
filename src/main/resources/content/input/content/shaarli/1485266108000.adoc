@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mockaroo - Random Data Generator | CSV / JSON / SQL / Excel
+:jbake-tags: web,test,data,générateur,_mois_janv.,_année_2017
+:jbake-date: 2017-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1485266108000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.mockaroo.com%2F&searchtags=web+test+data+g%C3%A9n%C3%A9rateur+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.mockaroo.com/[Mockaroo - Random Data Generator | CSV / JSON / SQL / Excel]
+
+Un générateur d edonnées de test en ligne. Pas mal. Mais je pense que les pythonistas ont ... un peu mieux

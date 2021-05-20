@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Utiliser le serveur SMTP de Free avec sSMTP | Void And Any
+:jbake-tags: linux,server,email,smtp,_mois_déc.,_année_2017
+:jbake-date: 2017-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1512725009000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvoidandany.free.fr%2Findex.php%2Futiliser-le-serveur-smtp-de-free-avec-ssmtp%2F&searchtags=linux+server+email+smtp+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://voidandany.free.fr/index.php/utiliser-le-serveur-smtp-de-free-avec-ssmtp/[Utiliser le serveur SMTP de Free avec sSMTP | Void And Any]
+
+Mais c'est sacrément cool cette histoire de ssmtp avec free.fr !

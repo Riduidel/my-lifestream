@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robopocalypse
+:jbake-tags: serie
+:jbake-date: 2017-12-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Robopocalypse.adoc
+:jbake-source: https://www.goodreads.com/series/123903
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266242462.html[Robopocalypse (Robopocalypse, #1)]

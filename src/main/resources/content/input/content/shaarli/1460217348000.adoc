@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Classic Programmer Paintings
+:jbake-tags: art,programming,fun,peinture,_mois_avr.,_année_2016
+:jbake-date: 2016-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1460217348000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fclassicprogrammerpaintings.tumblr.com%2F&searchtags=art+programming+fun+peinture+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://classicprogrammerpaintings.tumblr.com/[Classic Programmer Paintings]
+
+Très chouette site. Je trouve le lien particulièrement bien trouvé

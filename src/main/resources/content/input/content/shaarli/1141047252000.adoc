@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Struts Controller UML diagrams
+:jbake-tags: documentation,java,jsp,reference,struts,web,concepts,uml,_mois_févr.,_année_2006
+:jbake-date: 2006-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1141047252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frollerjm.free.fr%2Fpro%2FStruts11.html&searchtags=documentation+java+jsp+reference+struts+web+concepts+uml+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://rollerjm.free.fr/pro/Struts11.html[Struts Controller UML diagrams]
+
+

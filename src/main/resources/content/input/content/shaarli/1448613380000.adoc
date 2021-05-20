@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fast and fluent Java HTML5 builder - Java HTML builder
+:jbake-tags: java,library,html,programming,_mois_nov.,_année_2015
+:jbake-date: 2015-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1448613380000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fj2html.com%2F&searchtags=java+library+html+programming+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://j2html.com/[Fast and fluent Java HTML5 builder - Java HTML builder]
+
+Ca m'a l'air bien adapté à mon besoin du moment

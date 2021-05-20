@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: William Hjortsberg
+:jbake-tags: author
+:jbake-date: 2002-09-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/8058.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1333048656p5/8058.jpg
+:jbake-source: https://www.goodreads.com/author/show/8058
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070422388.html[Angel Heart : Le Sabbat dans Central Park]

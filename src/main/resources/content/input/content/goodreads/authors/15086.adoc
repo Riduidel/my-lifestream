@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Barry Windsor-Smith
+:jbake-tags: author
+:jbake-date: 2011-12-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/15086.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1567435194p5/15086.jpg
+:jbake-source: https://www.goodreads.com/author/show/15086
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785123279.html[Wolverine: Weapon X]

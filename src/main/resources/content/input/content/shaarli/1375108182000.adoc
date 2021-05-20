@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fonds d'écran
+:jbake-tags: background,image,art,gallerie,_mois_juil.,_année_2013
+:jbake-date: 2013-07-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1375108182000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fgalerie%2F%3Fdir%3DWallpapers&searchtags=background+image+art+gallerie+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sebsauvage.net/galerie/?dir=Wallpapers[Fonds d'écran]
+
+Pas une mauvaise idée, d'autant que John's Background Switcher me permet d'aspirer les fonds d'écrans d'un flux RSS ... hé ouais, je peux utiliser ceux-là ! (en vérité le mieux serait encore de les référencer avec un tag dans mon shaarli, comme ça je pourrais les utiliser sans aucun autre effort que de les ajouter dans mon shaarli)

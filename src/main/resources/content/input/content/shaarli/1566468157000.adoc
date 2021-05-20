@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cornell Notes Method of Taking Notes - Invidious
+:jbake-tags: notes,documentation,méthode,_mois_août,_année_2019
+:jbake-date: 2019-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1566468157000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Finvidio.us%2Fwatch%3Fv%3DlsR-10piMp4&searchtags=notes+documentation+m%C3%A9thode+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://invidio.us/watch?v=lsR-10piMp4[Cornell Notes Method of Taking Notes - Invidious]
+
+Une méthode de prise de notes qui a l'avantage de séparer le factuel et l'interprétation. C'est bien ... pour le papier :-)

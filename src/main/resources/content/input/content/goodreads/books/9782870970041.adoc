@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Secret de l'Espadon - 2 (Blake et Mortimer, #2)
+:jbake-tags:  combat, rayon-bd,_année_2015,_mois_sept.,_note_3,guerre,read
+:jbake-date: 2015-09-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782870970041.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337625935l/1373314._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337625935l/1373314._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1373314
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+La capture de Mortimer, dans les falaises du Makran, n'est qu'un demi-succès pour Olrik. En effet, le professeur voyant venir l'inéluctabilité de sa capture, et ce malgré un combat acharné, a réussi à dissimuler les plans. Le colonel Olrik est alors mis au pied du mur, sommé par Lhassa d'obtenir du savant qu'il révèle tout ce qu'il sait de l'espadon, par n'importe quel moyen.<br /><br />Mortimer est donc soumis à la question. Comme il résiste bravement et refuse de parler, il commence à s'affaiblir dangereusement. Un interrogatoire trop poussé risque de le faire passer de vie à trépas. Ce qui ne laisse pas d'inquiéter le capitaine Blake qui, avec l'aide de Nasir, sergent du Makran Levy Corps, a réussi à rejoindre la base secrète de la résistance dans le Détroit d'Ormuz. Blake refuse d'abandonner Mortimer à son sort funeste. Il envoie Nasir à Karachi où il réussit à se faire embaucher dans la prison où le professeur est retenu prisonnier. Il arrive à faire comprendre à ce dernier qu'il doit faire semblant de collaborer avec l'ennemi. Feignant de céder sous la torture, Mortimer fait croire à Olrik qu'il a perdu les plans, mais qu'il accepte de collaborer pour les reconstituer... Il réussit ainsi à gagner un temps précieux que Blake met à profit pour chercher les vrais plans de l'Espadon. Mortimer joue alors un jeu dangereux, livrant de fausses informations à ses geôliers tout en essayant de prévenir ses amis de l'endroit où les vrais plans sont cachés. Mais la patience de Basam Damdu est de courte durée et Nasir avertit bientôt Blake que la libération de Mortimer est, tout comme la récupération des plans perdus, devenue une question de vie ou de mort...
+</div>
+++++
+
+
+## Authors
+* link:../authors/272058.html[Edgar P. Jacobs]
+
+## Series
+* link:../series/Blake_&_Mortimer_(Cinebook).html[Blake & Mortimer (Cinebook)]
+* link:../series/Blake_et_Mortimer.html[Blake et Mortimer]
+
+## Review
+
+++++
+Un deuxième tome qui oppose au grand spectacle du premier une action bien plus resserée, un thème beaucoup plus près du sol avec la détention de Mortimer.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Note:
+:jbake-tags: codingame,programming,_mois_janv.,_année_2018
+:jbake-date: 2018-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1517342899000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3FlYUFfg&searchtags=codingame+programming+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?lYUFfg[Note:]
+
+Après un certain hiatus, je reprend wondevwoman sur Codingame ... et je me rends compte que mon code est ... invraissemblablement basique. Comment j'ai pu arriver en bronze ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Soundmoose
+:jbake-tags: musique,recommendation,web,_mois_janv.,_année_2017
+:jbake-date: 2017-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1485863035000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.soundmoose.com%2F%23%2Fhome&searchtags=musique+recommendation+web+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.soundmoose.com/#/home[Soundmoose]
+
+Le moteur de recommendation d'artistes similaires a une sacrée profondeur !

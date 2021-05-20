@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Développer un site Internet optimisé pour iPhone et iPod Touch - Web Creative -
+:jbake-tags: web,développement,ipod,mobile,iphone,html,css,java,_mois_janv.,_année_2010
+:jbake-date: 2010-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1264609526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwebcreative.cc%2Farticles%2Fdevelopper-un-site-internet-optimise-pour-iphone-et-ipod-touch%2F&searchtags=web+d%C3%A9veloppement+ipod+mobile+iphone+html+css+java+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://webcreative.cc/articles/developper-un-site-internet-optimise-pour-iphone-et-ipod-touch/[Développer un site Internet optimisé pour iPhone et iPod Touch - Web Creative -]
+
+Toute une liste de sites au sujet ddes sites optimisés iPhone

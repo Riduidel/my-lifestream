@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bitcoin’s stupendous power waste is green, apparently — bad excuses for Proof-of-Work | Attack of the 50 Foot Blockchain
+:jbake-tags: bitcoin,écologie,énergie,_mois_août,_année_2018
+:jbake-date: 2018-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1534834723000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdavidgerard.co.uk%2Fblockchain%2F2018%2F05%2F22%2Fbitcoins-stupendous-power-waste-is-green-apparently-bad-excuses-for-proof-of-work%2F&searchtags=bitcoin+%C3%A9cologie+%C3%A9nergie+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://davidgerard.co.uk/blockchain/2018/05/22/bitcoins-stupendous-power-waste-is-green-apparently-bad-excuses-for-proof-of-work/[Bitcoin’s stupendous power waste is green, apparently — bad excuses for Proof-of-Work | Attack of the 50 Foot Blockchain]
+
+Un article intéressant, quoi qu'un peu long, sur l'horreur écologique du bitcoin

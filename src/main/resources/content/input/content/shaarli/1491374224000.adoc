@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nicolas Martignole on Twitter: "On est debout, ouverture des portes à 8h. 2600 personnes à accueillir ce matin. #devoxxfr"
+:jbake-tags: java,conférence,paris,_mois_avr.,_année_2017
+:jbake-date: 2017-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1491374224000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fnmartignole%2Fstatus%2F849477774574333953&searchtags=java+conf%C3%A9rence+paris+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/nmartignole/status/849477774574333953[Nicolas Martignole on Twitter: "On est debout, ouverture des portes à 8h. 2600 personnes à accueillir ce matin. #devoxxfr"]
+
+Attention, tempête de tweets annoncée. Et franchement, j'ai bien les boules de ne pas en être.

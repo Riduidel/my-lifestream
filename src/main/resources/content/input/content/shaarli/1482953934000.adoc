@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pyret
+:jbake-tags: programming,langage,scripting,functionnal,_mois_déc.,_année_2016
+:jbake-date: 2016-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1482953934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pyret.org%2F&searchtags=programming+langage+scripting+functionnal+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.pyret.org/[Pyret]
+
+Le mélange entre scripting est fonctionnel est très bien pensé

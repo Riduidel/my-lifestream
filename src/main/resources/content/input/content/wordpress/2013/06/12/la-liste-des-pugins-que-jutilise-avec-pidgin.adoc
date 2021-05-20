@@ -1,0 +1,47 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La liste des pugins que j'utilise avec pidgin
+:jbake-tags: configuration,pidgin,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/12/la-liste-des-pugins-que-jutilise-avec-pidgin.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/12/la-liste-des-pugins-que-jutilise-avec-pidgin/
+:jbake-style: wordpress
+
+++++
+<p>
+Parce que quand pidgin se met à jour, il désinstalle les différents plugins.
+</p>
+<p>
+Je mets donc ici la liste des plugins que j'utilise <strong>vraiment</strong> histoire de les retrouver facilement après mise à jour.
+<br/>
+<ul>
+<br/>
+<li>contrôle pidgin du thème GTK (je crois que c'est pour pouvoir utiliser Solarized dans Pidgin)</li>
+<br/>
+<li><a href="http://dossy.org/2007/10/character-counting-plugin-for-pidgin/">input chars count</a> (pour vérifier que mes messages twitter font la bonne taille)</li>
+<br/>
+<li>conversation badger (qui fait partie du <a href="https://bitbucket.org/rekkanoryo/purple-plugin-pack/">purple plugin pack</a>)</li>
+<br/>
+<li>highlight</li>
+<br/>
+<li>historique (un plugin standard)</li>
+<br/>
+<li>IRC Helper</li>
+<br/>
+<li>IRC More</li>
+<br/>
+<li>Options de pidgin Windows</li>
+<br/>
+<li><a href="http://dimovski.se/pidgin-gntp/">Pidgin GNTP</a> (pour Growl)</li>
+<br/>
+<li>Retour chariot</li>
+<br/>
+<li><a href="https://code.google.com/p/pidgin-win7/">Windows 7</a></li>
+<br/>
+</ul>
+<br/>
+Et je vais pouvoir mettre à jour le bouzin
+</p>
+++++

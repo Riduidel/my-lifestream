@@ -1,0 +1,122 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [DevFest] Quarkus
+:jbake-tags: devfest,java,quarkus,_mois_juin,_année_2019
+:jbake-date: 2019-06-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/06/14/devfest-quarkus.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/06/14/devfest-quarkus/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="header"></div>
+<br/>
+<div id="content">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Pour ceux qui ne liraient pas mes articles précédents, c’est un framework open-source (et Java) pour écrire des applications cloud-native, microservices ou serverless.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+Et paf, on passe à la démo. Emmanuel a déjà créé une application Quarkus avec un front. Il lance donc le plugin maven (ça existe aussi pour gradle) avec <code>mvn compile quarkus:dev</code>. Ce plugin recharge l’application quand les ressources changent, en compilant le code au passage. On se retrouve avec une expérience de développement proche des langages interprétés.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+Pour ajouter des dépendances, on ne prend pas directement des dépendances maven, mais des extensions (bon, en fait, si, mais c’est joliment rhabillé), qu’on peut ajouter encore une fois grâce au plugin. Évidement, si on ajoute une extension inexistante, le mesage d’erreur sera assez clair.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Revenons au code ! Emmanuel va coder une application de todo-list. Donc il crée un objet <code>Todo</code> qu’il va persister avec l’extension panache en mode ActiveRecord (comme dans Ruby on Rails par exemple).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Là, Emmanuel raconte un truc louche sur le fait que potentiellement, la classe Todo serait réécrite à la volée pour remplacer les champs publics par des champs avec getter/setter.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Dans les trucs malins, quand on active l’extension openapi, on a accès à l’interface swagger-ui uniquement en mode dev. Et c’est très bien comme ça !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Emmanuel package ensuite son application en natif.
+</p>
+<p>
+&#160;
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Et c’est le moment d’expliquer pourquoi RedHat s’est lancé dans Quarkus.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Et vous pouvez relire à ce moment-là <a href="https://riduidel.wordpress.com/2019/04/19/devoxxfr-graalvm-et-quarkus-changent-la-donne/">l’article écrit pendant DevoxxFr</a>.
+</p>
+<p>
+&#160;
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+Guillaume Smet enchaîne avec un zoom sur les composants de GraalVM et ses prérequis. Avec GraalVM, on essaye d’éliminer au maximum le code mort pour accélérer l’application. Ca implique qu’on ne peut pas rajouter de classes, et donc ne pas faire d’introspection (sauf dans une liste de classes spécifiquement autorisées) ni de créer des proxies dynamiques.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Ca a un impact important, parce que la plupart des frameworks font précisément ce genre de choses au démarrage de l’application : charger des classes, scanner le CLASSPATH, détecter des classes spécifiques. Dans quarkus, on essaye donc de faire tout ça à la compilation, ce qui a un impact très positif sur l’exécution. Pour plusieurs raisons. D’abord parce qu’on fait moins de choses à l’exécution. Ensuite parce que si on charge la configuration à la compilation, on n’a peut-être pas besoin de parser de configuration à l’exécution (typiquement les parsers XML).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-37"></div>
+<br/>
+</div>
+<br/>
+<div></div>
+<br/>
+<h2>Conclusion</h2>
+<br/>
+Comme beaucoup de monde, je suis à peu près sûr que Quarkus change la donne. Parce que Java était en perte de vitesse à cause des conteneurs. Et que Quarkus corrige ça ... en ajoutant en plus un certain nombres de concepts très intéressants. Autrement dit, pour l'instant, Quarkus est la manière la plus moderne, la plus efficace (aussi bien en expérience développeur qu'en performance obtenue - mesurée en nombre de requêtes/seconde/Mo de Ram) de travailler dans l'écosystème Java. Et à l'heure où JavaEE meurt de mille blessures, c'est bien de retrouver un environnement efficace.
+</p>
+++++

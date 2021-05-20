@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Getting Started — JSON Resume
+:jbake-tags: cv,github,json,_mois_sept.,_année_2019
+:jbake-date: 2019-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1567689974000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjsonresume.org%2Fgetting-started%2F&searchtags=cv+github+json+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jsonresume.org/getting-started/[Getting Started — JSON Resume]
+
+Le coup du CV dans un gist, ça m'a l'air vraiment très malin ...

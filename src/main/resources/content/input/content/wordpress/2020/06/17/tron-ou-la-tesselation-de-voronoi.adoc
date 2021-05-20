@@ -1,0 +1,168 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tron ou la tesselation de Voronoi
+:jbake-tags: apprentissage,codingame,collaboration,python,_mois_juin,_année_2020
+:jbake-date: 2020-06-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/06/17/tron-ou-la-tesselation-de-voronoi.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/06/17/tron-ou-la-tesselation-de-voronoi/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Je vais vous raconter un peu ma vie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai une fille qui va rentrer en septembre en classe prépa. Je trouve ça bien, parce que je suis passé par là, et que j'ai trouvé que c'était peut-être la meilleure période de mon éducation. Depuis que j'y suis passé, le monde a un peu changé, et on y fait maintenant des sciences de l'ingénieur, dont un peu de programmation. Or j'ai également un neveu en prépa, qui a reçu comme devoir de participer à un jeu Codingame multijoueur (bon, il a dû le faire en <a href="https://fr.wikipedia.org/wiki/OCaml">OCaml</a>, que je ne connais pas du tout, mais là n'est pas le sujet). En l'occurence, il s'est inscrit à la <a href="https://www.codingame.com/multiplayer/bot-programming/tron-battle">tron battle</a>. Comme le confinement, c'est un peu long, j'ai proposé à ma fille qu'on réfléchisse ensemble à ce problème. Avec toutefois un twist : je ne voulais pas spécialement lui apprendre un langage de programmation, mais plutôt comment retourner son cerveau et penser algorithmiquement. Parce que l'être humain, de base, ne pense pas algorithmiquement. Il pense via des <a href="https://fr.wikipedia.org/wiki/Heuristique_(math%C3%A9matiques)">heuristiques</a> à la noix qui marchent dans les cas simples. Bref ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nous nous sommes donc attaqués ensemble à ce problème.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>D'abord, comprendre</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'il s'avère que la première difficulté de l'informatique, c'est de traduire un problème du monde physique en modèle informatique. En l’occurrence, transformer des coordonnées (parce que la grille de jeu de Codingame n'est pas indexée comme un graphique mathématique) lui a un peu fait mal au crâne. Par contre, une fois que c'était fait, nous avons pu implémenter une solution très naïve qui se contentait de ne pas rentrer dans les obstacles, ni d'ailleurs dans les traces laissées par les adversaires (et pour ça, il nous fallait maintenir une mémoire des cases déjà utilisées, ce qui nous a permis d'aborder les tableaux, les types de données, ...). Et avec ça, nous avons déjà pu franchir les premiers niveaux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Mais comment implémenter ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/riduidel\/status\/1272557429943930881","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 272 557 429 943 930 881" class="date">15 juin 2020 à 17:51:48</a>
+
+	<span class="content">
+	
+	<span class="text">Une introduction correcte à Python https://t.co/H0EKxY12rc</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Soyons clairs : ma fille n'est pas informaticienne, et il n'est actuellement pas prévu qu'elle le devienne. Je n'allais donc pas lui montrer du code Rust, mais plutôt celui d'un langage simple, compréhensible facilement ... donc évidement du Python. Ce qui est bien, parce que ça m'a permis d'approfondir mes connaissances de ce langage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Ensuite, faire parler le métier</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Parce que finalement, ça n'était pas mon premier Codingame.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je lui ai alors expliqué l'importance de pouvoir comprendre ce qui se passait. Une compréhension qui va au-delà de fournir simplement une ligne de debug pour atteindre le territoire magique des programmes auto-reproductibles. Autrement dit, j'ai implémenté dans le code de notre bot le mécanisme me permettant d'avoir le test correspondant sans effort. Ca m'a permis de découvrir le monde des tests en Python. Un monde plutôt sympa, en fait. Ecrire des tests, c'est facile avec <a href="http://sametmax.com/se-simplifier-les-tests-python-avec-pytest/">pytest</a> (encore plus quand vous l'utilisez pour lancer des tests <a href="https://docs.python.org/3/library/unittest.html">unittest</a>), il y a un mot-clé <code>assert</code> qui fonctionne bien, et vous pouvez aller plus loin</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/riduidel\/status\/1270739118209798148","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 270 739 118 209 798 148" class="date">10 juin 2020 à 17:26:29</a>
+
+	<span class="content">
+	
+	<span class="text">Pytest est beaucoup plus joli avec ce plugin ! https://t.co/1FN4leIWH9</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:heading -->
+<h2>Enfin, améliorer les choses</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nous étions donc en bronze avec un code ... trivial. Mais comment aller plus loin ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En y réfléchissant un peu, l'objectif dans ce jeu, c'est quoi ? C'est de donner au bot une direction dans laquelle il reste encore beaucoup de cases disponibles. Autrement dit, de compter les cases disponibles dans chaque direction pour choisir la meilleure. Pour l’anecdote, nous avons compris ça simplement parce que notre bot, quand il arrivait contre un mur, choisissait la première direction disponible (le haut ou la gauche), ce qui le faisait parfois perdre très bêtement. En changeant ça, nous avons pu atteindre le bronze.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Ne pas trop en faire, c'est mieux</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Bon, l'informatique, c'est une passion dévorante, pour ceux que ça passionne. C'est mon cas, mais ce n'est pas celui de ma fille. Et on l'a bien compris ensemble. C'est donc au moment du bronze que nous avons suspendu la collaboration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Et maintenant, on réfléchit</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Je ne vais pas dire que je n'ai pas réfléchi avant, mais c'était sur un autre axe : je cherchais à communiquer au mieux la nécessité de réfléchir sur un algorithme avant de penser à des lignes de code. Une fois seul, j'ai pu réfléchir en termes algorithmiques. Et je dois dire que j'ai passé 4-5 jours devant <a href="https://tech.io/playgrounds/243/voronoi-diagrams/what-are-voronoi-diagrams">What are Voronoi Diagrams?</a>, proposé dans les liens de Codingame. En fait, je ne voyais pas comment implémenter la chose. Quand enfin c'est devenu clair, j'ai codé, j'ai utilisé mes tests, et le résultat s'est fait sentir</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5881,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/06/2020-06-14-21_50_41-coding-games-and-programming-challenges-to-code-better.png?w=829" alt="" class="wp-image-5881" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>A l'heure actuelle, ce n'est pas seulement le boss silver que j'ai battu, mais aussi le gold.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je ne vais pas vous livrer une explication de la tesselation via l'algorithme de Voronoï, ni sur mon code, mais sachez que c'est puissant et rapide.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Je tire de cette petite expérience plusieurs enseignements</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Communiquer, dialoguer sur un algorithme est invraisemblablement complexe. On a dû revenir à la méthode de la feuille de papier sur laquelle on gribouille nos idées. Mais c'est aussi très stimulant. Ma fille et moi avons beaucoup apprécié ces échanges.</li><li>Cette histoire de Voronoï me hante : je suis sûr que c'est une bonne solution au récent Spring challenge sur lequel je me suis brutalement cassé les dents</li><li>Coder en Python, c'est franchement facile tant qu'il y a peu de lignes de code. C'est à mon avis pour ça que cette <a href="https://vks.ai/2016-09-07-ai-challenge-in-78-lines">solution en 78 lignes de code</a> fait rêver. </li><li>Il ne faut pas oublier une chose : bien coder un bot codingame est une technique qui, comme toute autre, nécessite un apprentissage. Je ne suis pas arrivé Legend par hasard, mais plutôt parce que ce problème n'est pas mon premier : j'ai l'outillage technique et intellectuel nécessaire pour avancer vite et bien (même si je peux aussi me faire avoir)</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Si vous voulez aller plus loin, le code est sur <a href="https://github.com/Riduidel/codingame/tree/master/multiplayer/tron-battle">mon repository GitHub</a>, et je suis sûr qu'il a bien des éléments critiquables.</p>
+<!-- /wp:paragraph -->
+++++

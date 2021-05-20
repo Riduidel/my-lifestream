@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Curl Cookbook
+:jbake-tags: curl,http,tutorial,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568036267000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcatonmat.net%2Fcookbooks%2Fcurl&searchtags=curl+http+tutorial+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://catonmat.net/cookbooks/curl[Curl Cookbook]
+
+Oh c'est chouette pour améliorer mon curl-fu !

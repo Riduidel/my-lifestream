@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jetstack/version-checker: Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.
+:jbake-tags: kubernetes,version,prometheus,web,api,_mois_sept.,_année_2020
+:jbake-date: 2020-09-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1601451326000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjetstack%2Fversion-checker&searchtags=kubernetes+version+prometheus+web+api+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/jetstack/version-checker[jetstack/version-checker: Kubernetes utility for exposing image versions in use, compared to latest available upstream, as metrics.]
+
+Ca me rappelle furieusement un truc que j'ai fait avec un collègue récement ...

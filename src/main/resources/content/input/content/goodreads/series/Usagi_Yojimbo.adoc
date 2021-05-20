@@ -1,0 +1,38 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo
+:jbake-tags: serie
+:jbake-date: 2012-09-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Usagi_Yojimbo.adoc
+:jbake-source: https://www.goodreads.com/series/71007
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782940334988.html[Usagi Yojimbo #01]
+* link:../books/9782940334995.html[Usagi Yojimbo #02]
+* link:../books/9782888900023.html[Usagi Yojimbo #03]
+* link:../books/9782888900054.html[Usagi Yojimbo - tome 4]
+* link:../books/9782940334896.html[Usagi Yojimbo #05]
+* link:../books/9782888900276.html[Usagi Yojimbo, tome 6]
+* link:../books/9782888900443.html[Usagi Yojimbo #07]
+* link:../books/9782888900450.html[Usagi Yojimbo #08]
+* link:../books/9782888900689.html[Usagi Yojimbo #09]
+* link:../books/9782888901396.html[Usagi Yojimbo #10]
+* link:../books/9782888901655.html[Usagi Yojimbo #11]
+* link:../books/9782888902133.html[Usagi Yojimbo #12]
+* link:../books/9782888902263.html[Usagi Yojimbo #13]
+* link:../books/9782888902478.html[Usagi Yojimbo #14]
+* link:../books/9782888902560.html[Usagi Yojimbo #15]
+* link:../books/9782888902607.html[Usagi Yojimbo #16]
+* link:../books/9782888902973.html[Usagi Yojimbo #17]
+* link:../books/9782888903208.html[Usagi Yojimbo #18]
+* link:../books/9782888903215.html[Usagi Yojimbo Tome 19]
+* link:../books/9782888903307.html[Usagi Yojimbo Tome 20]
+* link:../books/9782888904540.html[Usagi Yojimbo, Tome 21]
+* link:../books/9782888904557.html[Usagi Yojimbo 22]
+* link:../books/9782888904564.html[Usagi Yojimbo #23]
+* link:../books/9782888904571.html[Usagi Yojimbo #24]
+* link:../books/9782888904588.html[Usagi Yojimbo #25]
+* link:../books/9782888907138.html[Usagi Yojimbo #26]
+* link:../books/9781595829702.html[Usagi Yojimbo, Vol. 27: A Town Called Hell (Usagi Yojimbo, #27)]

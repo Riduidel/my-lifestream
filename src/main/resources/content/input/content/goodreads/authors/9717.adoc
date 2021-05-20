@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andy Kubert
+:jbake-tags: author
+:jbake-date: 2010-06-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/9717.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1270671295p5/9717.jpg
+:jbake-source: https://www.goodreads.com/author/show/9717
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785121039.html[Ultimate X-Men Collection, Book 5]
+* link:../books/9782809400007.html[Ultimate X-Men: L'homme de demain (Ultimate X-Men, #1)]
+* link:../books/9782809420111.html[Wolverine, les origines]

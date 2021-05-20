@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurie Voss sur Twitter : "Nobody would use JavaScript if it wasn't the only language built into web browsers.… "
+:jbake-tags: citation,javascript,programming,web,_mois_nov.,_année_2019
+:jbake-date: 2019-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1574705067000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fseldo%2Fstatus%2F1198625124758380544&searchtags=citation+javascript+programming+web+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/seldo/status/1198625124758380544[Laurie Voss sur Twitter : "Nobody would use JavaScript if it wasn't the only language built into web browsers.… "]
+
+La justesse de ce tweet fait mal (et la réponse encore plus "Netscape could have picked or invented any language to build into web browsers and it would be the most popular language in the world today")

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: transform | CSS-Tricks
+:jbake-tags: css,hack,zoom,présentation,conférence,_mois_nov.,_année_2019
+:jbake-date: 2019-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1574515774000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcss-tricks.com%2Falmanac%2Fproperties%2Ft%2Ftransform%2F&searchtags=css+hack+zoom+pr%C3%A9sentation+conf%C3%A9rence+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://css-tricks.com/almanac/properties/t/transform/[transform | CSS-Tricks]
+
+Si tu veux zoomer sur un élément dans une présentation (par exemple un tweet qui te permet d'alimenter la discussion), ne mets pas de zoom (parce que c'est seulement pour IE), mais un transform: scale(2) translateY(..em)

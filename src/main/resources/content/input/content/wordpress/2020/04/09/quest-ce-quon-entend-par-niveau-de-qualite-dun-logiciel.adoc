@@ -1,0 +1,72 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Qu'est-ce qu'on entend par niveau de qualité d'un logiciel ?
+:jbake-tags: architecture_agile,c4model,performance,scalabilité,_mois_avr.,_année_2020
+:jbake-date: 2020-04-09
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/09/quest-ce-quon-entend-par-niveau-de-qualite-dun-logiciel.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/09/quest-ce-quon-entend-par-niveau-de-qualite-dun-logiciel/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Toujours dans le cadre de la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> en utilisant <a href="https://riduidel.wordpress.com/tag/c4model/">C4</a>, on passe à la partie suivant la description des <a href="https://riduidel.wordpress.com/2020/04/08/une-application-cest-avant-tout-des-fonctionnalites/">fonctionnalités</a> : la définition des niveaux de qualités d'un logiciel. Et je dois dire que cette partie est à mon sens l'une des plus délicates à traiter correctement. Pourtant, elle est à sa place en troisième chapitre. Parce que si il est intéressant de savoir quelles sont les contraintes fonctionnelles du logiciel (ce qu'il doit faire), il est tout aussi intéressant d'être capable de définir rapidement des contraintes de niveau de qualité. Ce qui est amusant à ce sujet, c'est qu'en France, on a tendance à parler d'<a href="https://bestofbusinessanalyst.fr/comment-decrire-les-exigences-non-fonctionnelles/">exigences non fonctionnelles</a>. Pourtant, ces contraintes sont fortement liées au fonctionnel : est-ce qu'un logiciel lent répond aux besoins de ses utilisateurs ? Quand j’entends les utilisateurs de systèmes logiciels d'entreprise se plaindre que "ça mouline" ou que "patientez cinq minutes, l'informatique a des ratés", j'ai bien l'impression que ces exigences non fonctionnelles ont un impact direct sur le métier. C'est pour ça qu'à mon sens, utiliser le terme de niveau de qualité logiciel me paraît plus approprié. On retrouve d'ailleurs ce glissement sémantique dans cet article : <a href="https://maxibou.wordpress.com/tag/exigence-non-fonctionnelle/">La qualité logicielle…une oubliée</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais revenons à nos moutons. Comment décrire une telle exigence ? Dans ce cas, malheureusement, il n'existe pas encore de système nous permettant de les définir de manière canonique pour s'y référer dans notre documentation. Il va donc falloir les écrire par nous-même (et donc interviewer les fonctionnels pour avoir leur avis sur la question). Et l'entretien sera d'autant plus poussé que ces exigences doivent être <a href="https://fr.wikipedia.org/wiki/Objectifs_et_indicateurs_SMART">SMART</a>. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://riduidel.files.wordpress.com/2020/04/d5d55-06ffleap8_kwt-vhs.png" alt="" /><figcaption>Et ça, c'est pas si facile</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Pourquoi faire rentrer dans une documentation aussi organique un acronyme aussi typique des grandes organisations ? Parce qu'au moment de définir les niveaux de qualité d'un logiciel, ce qui est un sujet assez précis, la précision est importante.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Prenons <a href="https://riduidel.wordpress.com/2020/04/07/prenons-un-exemple-darchitecture/">notre exemple d'architecture</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Que peut-on définir comme niveau de qualité ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour ça, il faut se retourner évidement vers les fonctionnalités et leurs besoins.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, j'ai besoin des horaires des transports. Il faut donc que je sois capable de récupérer ces horaires depuis <a href="https://www.navitia.io/">Navitia</a>. Et j'ai besoin de ces horaires tous les jours pour l'ensemble de la zone couverte. J'en ai évidement besoin dès le démarrage de l'application. Comment puis-je vérifier que j'ai bien ces horaires ? En mettant en place un monitoring du composant qui lira ce flux. Avec ce simple exemple, j'ai acquis une connaissance supplémentaire de ce que je dois implémenter pour atteindre le niveau de qualité souhaité. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et c'est pour ça qu'exprimer ce niveau de qualité sous la forme d'un ensemble de contraintes SMART correspondant à chacune des relations existant dans le diagramme de contexte que j'ai déjà écrit est réellement utile ! Ca vient s'ajouter aux contraintes décrites par Simon Brown :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Performance (e.g. latency and throughput)</li><li>Scalability (e.g. data and traffic volumes)</li><li>Availability (e.g. uptime, downtime, scheduled maintenance, 24x7, 99.9%, etc)</li><li>Security (e.g. authentication, authorisation, data confidentiality, etc)</li><li>Extensibility</li><li>Flexibility</li><li>Auditing</li><li>Monitoring and management</li><li>Reliability</li><li>Failover/disaster recovery targets (e.g. manual vs automatic, how long will this take?)</li><li>Business continuity</li><li>Interoperability</li><li>Legal, compliance and regulatory requirements (e.g. data protection act)</li><li>Internationalisation (i18n) and localisation (L10n)</li><li>Accessibility</li><li>Usability</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Evidement, je l'ai fait pour chacune des relations, et je l'ai mis dans la documentation de mon exemple, comme vous pouvez le voir <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype/commit/8189391a3c2218dedee8df1828e5827400a22c60?short_path=4f973d3#diff-4f973d375378742a35153e79090246ff">dans ce commit</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quelques petites astuces peuvent néanmoins aider.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Pour donner un sens concret à un niveau de disponibilité, le site <a href="https://uptime.is/">uptime.is</a> fournit des durées "dans la vraie vie" pour les différents niveaux.</li><li>Certains objectifs de qualité peuvent ne pas faire sens. N'hésitez pas dans ce cas à les marquer comme non applicables (ça garantit que la question a été évoquée avant d'être rejetée, ce qui est mieux que de la passer sous silence).</li><li>Comme pour la description des fonctionnalités, indiquez ce que vous ne savez pas.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Définir ces niveaux de qualité est particulièrement délicat parce qu'il s'agit généralement d'informations qui vont s'affiner durant la vie du logiciel. Est-ce à dire que la documentation d'architecture doit évoluer ? <strong>Bien sûr que oui</strong>. En fait, cette nécessité d'évolutivité est à mon sens la raison pour laquelle l'outillage de développeur que je mets en place me semble le bon : au fur et à mesure que les informations s'affinent, ou que le contexte évolue, des tickets d'évolution d'architecture seront définis dans GitHub (ou le bug tracker de votre choix) et l'historique de commits de votre document d'architecture pourra refléter ces évolutions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Est-ce que les niveaux de qualité sont les seules contraintes ? Nous verrons dans le prochain article que non.</p>
+<!-- /wp:paragraph -->
+++++

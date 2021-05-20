@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SRL - Simple Regex Language
+:jbake-tags: programming,regexp,_mois_août,_année_2016
+:jbake-date: 2016-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1472553564000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsimple-regex.com%2F&searchtags=programming+regexp+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://simple-regex.com/[SRL - Simple Regex Language]
+
+Il me semble en avoir vu une autre, mais là, le DSL est juste magique (et portable en Groovy au moins)

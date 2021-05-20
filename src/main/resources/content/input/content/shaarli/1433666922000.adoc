@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Angular: Just Say No
+:jbake-tags: javascript,software,controverse,programming,_mois_juin,_année_2015
+:jbake-date: 2015-06-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1433666922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Ftdd%2F5ba48ba5a2a179f2d0fa&searchtags=javascript+software+controverse+programming+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://gist.github.com/tdd/5ba48ba5a2a179f2d0fa[Angular: Just Say No]
+
+A lire histoire d'avoir des arguments pour compléter les miens (oui, j'ai de solides arguments contre Angular)

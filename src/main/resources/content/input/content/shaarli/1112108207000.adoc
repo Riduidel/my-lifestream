@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Things MacOS X
+:jbake-tags: web,documentation,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1112108207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.magicpubs.com%2Fmac%2Fmacosx.html&searchtags=web+documentation+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.magicpubs.com/mac/macosx.html[Things MacOS X]
+
+a slew of links with osx tweaking info, downloads, &c.

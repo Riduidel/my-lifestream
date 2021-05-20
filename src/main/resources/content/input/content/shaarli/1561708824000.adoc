@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What does debugging a program look like? - Julia Evans
+:jbake-tags: programming,debug,conférence,_mois_juin,_année_2019
+:jbake-date: 2019-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1561708824000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjvns.ca%2Fblog%2F2019%2F06%2F23%2Fa-few-debugging-resources%2F&searchtags=programming+debug+conf%C3%A9rence+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/[What does debugging a program look like? - Julia Evans]
+
+ok, je sens que je vais reprendre le truc que j'avais commencé l'année dernière ...

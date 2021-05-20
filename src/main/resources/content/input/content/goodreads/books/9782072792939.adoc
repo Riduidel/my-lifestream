@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Latium : Tome I
+:jbake-tags:  far-future, ia, politique, space-opera, voyage,_année_2019,_mois_avr.,_note_4,rayon-imaginaire,read
+:jbake-date: 2019-04-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782072792939.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/43561114
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans un futur lointain, l’espèce humaine a succombé à l’Hécatombe. Reste, après l’extinction, un peuple d’automates intelligents, métamorphosés en immenses nefs stellaires. Orphelins de leurs créateurs et dieux, esseulés et névrosés, ces princes et princesses de l'espace attendent, repliés dans l’Urbs, une inéluctable invasion extraterrestre, à laquelle leur programmation les empêche de s’opposer.<br /><br />Plautine est l’une d’eux. Dernière à adhérer à l’espoir mystique du retour de l’Homme, elle dérive depuis des siècles aux confins du Latium, lorsqu’un mystérieux signal l’amène à reprendre sa quête. Elle ignore alors à quel point son destin est lié à la guerre que s’apprête à mener son ancien allié, le proconsul Othon.<br /><br />Pétri de la philosophie de Leibniz et du théâtre de Corneille, Latium est un space opera aux batailles spatiales flamboyantes et aux intrigues tortueuses. Un spectacle de science-fiction vertigineux, dans la veine d’un Dan Simmons ou d’un Iain M. Banks.
+</div>
+++++
+
+
+## Authors
+* link:../authors/6999513.html[Romain Lucazeau]
+
+## Series
+* link:../series/Latium.html[Latium]
+
+## Review
+
+++++
+Dans ce roman situé dans un futur très lointain, les intelligences artificelles créées par l'Homme tentent de survivre à sa disparition. Ou plus exactement, elles ont monté une "civilisation" sur les restes de l'humanité et ne savent pas trop quoi en faire.<br/>On trouve évidement dans ce roman de grosses influences que j'attribue à Iain M Banks : les automates sont très proches à la fois en puissance computationnelle et en capacités créatives des mentaux de la Culture. Et de la même manière, ces IA ont des moyens démiurgiques, et n'hésitent pas à s'en servir pour y mener des expériences, comme celle menée par Othon avec les hommes-chiens.<br/>Une autre influence évidente est celle d'Asimov, dont l'auteur a réutilisé, sous la forme du Carcan, les trois lois de la robotique.<br/>Il n'y a par ailleurs pas que des influences SF dans ce roman. L'antiquité greco-romaine transparaît dans tellement, tellemen d'éléménets. C'est la plupart du temps très chouette, mais parfois un peu fastidieux quand l'auteur reprend un terme en l'expliquant méthodiquement. En effet, en lecteur SF, j'ai l'habitude de lire des termes expliqués par le contexte. Et bien peu d'auteurs sont assez pédants pour vouloir se fendre de notes de bas de page pour chaque terme. Là, c'est malheureusement le cas. Ca alourdit je trouve l'oeuvre sans trop ajouter de sens.<br/>Mais enfin, ça n'est pas un inconvénient si dramatique.<br/>Parce que l'oeuvre a, par ailleurs, des qualités évidentes. D'abord un sense of wonder évident, avec ces vaisseaux spatiaux aux dimensions géologiques, ses décors (aussi bien dans les vaisseaux qu'autour) et même ses personnages (avec une place particulière pour Othon). Ensuite, un récit qui intrigue : à la fin de cette première moitié, si j'ai bien compris les intervenants et leurs rôles, je ne sais toujours pas quel est le but du récit, et j'ai bien envie de le connaître. <br/>Enfin (et peut-être surtout), un ton indubitablement français.<br/>En effet, là où Banks est factuel - voire optimiste - Lucazeeau est profondément déprimé : l'existence des IA n'a pas de sens, ils n'ont plus les moyens de leurs ambitions d'action, et même leurs actions leur semblent ... vaines. Ce ton, cette vision authentiquement mortifère me paraît réellement proche de la vision du monde que mes compatriotes se plaisent à propager.<br/>Malgré ce ton (et malgré certains aspects malheureusement didactiques), c'est un très bon livre, et je lirai le second tome avec beaucoup de plaisir.
+++++

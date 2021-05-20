@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dirk Lemmermann sur Twitter : "Wow! Our Java 11 / JavaFX 13 app is now running as a @graalvm native image! It actually works! Cool stuff. Image size around 60 MB. Half the size of the executable we produced before. #java #javafx @GluonHQ @thomaswue… https://t.co/YQiCLrGFq0"
+:jbake-tags: java,javafx,graalvm,optimisation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1575122128000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdlemmermann%2Fstatus%2F1197445664596213760&searchtags=java+javafx+graalvm+optimisation+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/dlemmermann/status/1197445664596213760[Dirk Lemmermann sur Twitter : "Wow! Our Java 11 / JavaFX 13 app is now running as a @graalvm native image! It actually works! Cool stuff. Image size around 60 MB. Half the size of the executable we produced before. #java #javafx @GluonHQ @thomaswue… https://t.co/YQiCLrGFq0"]
+
+Wow ! L'application est visuellement impressionante. Et à 60 Mo (sans avoir besoin de VM sur la machine), ça fait de JavaFX un bon concurrent aux horreurs Electronesques.

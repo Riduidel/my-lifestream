@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Elements of Design: A Web Design Showcase
+:jbake-tags: code,css,design,exemple,gallerie,reference,web,_mois_déc.,_année_2007
+:jbake-date: 2007-12-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1196580601000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.smileycat.com%2Fdesign_elements%2F&searchtags=code+css+design+exemple+gallerie+reference+web+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.smileycat.com/design_elements/[Elements of Design: A Web Design Showcase]
+
+Une gallerie d'exemples de designs pour tous les éléments d'un site web. Ca va me faciliter la vie, je pense. Merci Blogclic\* !

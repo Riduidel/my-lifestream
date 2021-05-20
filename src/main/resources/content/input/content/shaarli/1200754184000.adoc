@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: marius dot org » Sharing iTunes Libaries with Multiple Users in Windows XP
+:jbake-tags: itunes,library,reference,tips,windows,XP,tutorial,documentation,_mois_janv.,_année_2008
+:jbake-date: 2008-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1200754184000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.marius.org%2F2005%2F10%2F28%2Fsharing_itunes.php&searchtags=itunes+library+reference+tips+windows+XP+tutorial+documentation+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.marius.org/2005/10/28/sharing_itunes.php[marius dot org » Sharing iTunes Libaries with Multiple Users in Windows XP]
+
+Sur le site d'Apple, ils proposent un système pour partager les fichiers de la bibliothèque d'iTunes. Mais moi, je veux aussi partager les playlists, les podcasts, ... bref, toute la bibliothèque. Ce petit tutorial m'a sorti d'affaire grâce aux lien

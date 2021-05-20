@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andy Bell on Twitter: "Developers on 6 figure salaries have to be reminded to put text in buttons, yet junior doctors have a starting salary of less that 30k. There’s something ridiculously wrong with that IMO. The bubble’s gonna burst, kids."
+:jbake-tags: bulle,économie,informatique,_mois_mai,_année_2019
+:jbake-date: 2019-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1557132773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fandybelldesign%2Fstatus%2F1125079481209774081&searchtags=bulle+%C3%A9conomie+informatique+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/andybelldesign/status/1125079481209774081[Andy Bell on Twitter: "Developers on 6 figure salaries have to be reminded to put text in buttons, yet junior doctors have a starting salary of less that 30k. There’s something ridiculously wrong with that IMO. The bubble’s gonna burst, kids."]
+
+Bon, pour autant que je sache, cette bulle est quand même spécifiquement américaine (et plus particulièrement spécifique à "la valley"). mais quand même, quand même, ça fait mal au cul en terme d'utilité sociale

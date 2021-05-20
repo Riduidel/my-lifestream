@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Frappe Charts
+:jbake-tags: programming,web,javascript,graph,library,_mois_nov.,_année_2017
+:jbake-date: 2017-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1509623658000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffrappe.github.io%2Fcharts%2F&searchtags=programming+web+javascript+graph+library+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://frappe.github.io/charts/[Frappe Charts]
+
+Des jolis graphiques pour le web sans dépendances exotiques

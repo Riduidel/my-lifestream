@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Download details: SyncToy v2.0 Beta
+:jbake-tags: software,freeware,windows,utilities,synchronisation,_mois_août,_année_2008
+:jbake-date: 2008-08-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1217929538000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.microsoft.com%2FDownLoads%2Fdetails.aspx%3Ffamilyid%3DC26EFA36-98E0-4EE9-A7C5-98D0592D8C52%26displaylang%3Den&searchtags=software+freeware+windows+utilities+synchronisation+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.microsoft.com/DownLoads/details.aspx?familyid=C26EFA36-98E0-4EE9-A7C5-98D0592D8C52&displaylang=en[Download details: SyncToy v2.0 Beta]
+
+Pour l'avoir déja utilisé, c'est vraiment l'outil de synchronisation simple et stupidement pratique.

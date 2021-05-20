@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - zalando/logbook: An extensible Java library for HTTP request and response logging
+:jbake-tags: java,library,open-source,http,log,_mois_juil.,_année_2019
+:jbake-date: 2019-07-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1563437063000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fzalando%2Flogbook&searchtags=java+library+open-source+http+log+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/zalando/logbook[GitHub - zalando/logbook: An extensible Java library for HTTP request and response logging]
+
+C'est trop bien cette librairie de logging HTTP !

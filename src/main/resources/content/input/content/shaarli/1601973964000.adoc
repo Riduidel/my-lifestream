@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The open source paradox - <antirez>
+:jbake-tags: open-source,propriété,droit,_mois_oct.,_année_2020
+:jbake-date: 2020-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1601973964000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fantirez.com%2Fnews%2F134&searchtags=open-source+propri%C3%A9t%C3%A9+droit+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://antirez.com/news/134[The open source paradox - <antirez>]
+
+J'aime bien ce rappel aux auteurs d'open-source, surtout en plein hacktoberfest. Pour paraphraser : si vous êtes les auteurs, vous avez le droit de faire ce que vous voulez de votre projet open-source.

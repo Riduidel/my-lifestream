@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: All the Apache Streaming Projects: An Exploratory Guide - The New Stack
+:jbake-tags: programming,big-data,open-source,stream,_mois_avr.,_année_2019
+:jbake-date: 2019-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1556627390000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthenewstack.io%2Fapache-streaming-projects-exploratory-guide%2F&searchtags=programming+big-data+open-source+stream+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://thenewstack.io/apache-streaming-projects-exploratory-guide/[All the Apache Streaming Projects: An Exploratory Guide - The New Stack]
+
+Un bon tour des différents projets Apache de data streaming ... Il y en a quand même un bon paquet (trop, en fait)

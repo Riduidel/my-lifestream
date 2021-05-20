@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XOTeam Software - Java pour les enfants...
+:jbake-tags: java,tutorial,documentation,ebook,_mois_juin,_année_2006
+:jbake-date: 2006-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1151314394000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.xoteam.com%2Ffr%2Fproducts%2Fjpe.html&searchtags=java+tutorial+documentation+ebook+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.xoteam.com/fr/products/jpe.html[XOTeam Software - Java pour les enfants...]
+
+Un livre sur le Java pour les enfants, les parents, les grands-parents, tout le monde, quoi.

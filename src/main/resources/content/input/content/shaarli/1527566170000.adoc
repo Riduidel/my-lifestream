@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: nixCraft on Twitter: "Mom must be a unix user. RTFM. Isn’t this pretty much the start of all linux or unix sysadmin/devops career? 😉… "
+:jbake-tags: éducation,indépendance,_mois_mai,_année_2018
+:jbake-date: 2018-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1527566170000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fnixcraft%2Fstatus%2F1000995567751741445&searchtags=%C3%A9ducation+ind%C3%A9pendance+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/nixcraft/status/1000995567751741445[nixCraft on Twitter: "Mom must be a unix user. RTFM. Isn’t this pretty much the start of all linux or unix sysadmin/devops career? 😉… "]
+
+Curieusement, je trouve qu'être un bon parent, c'est plus ça qu'autre chose.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Annalee Newitz
+:jbake-tags: author
+:jbake-date: 2021-02-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/191888.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1608627466p5/191888.jpg
+:jbake-source: https://www.goodreads.com/author/show/191888
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782072891175.html[Autonomous]

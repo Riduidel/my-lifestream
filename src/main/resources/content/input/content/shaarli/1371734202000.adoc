@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PortKit: UX Metaphor Equivalents for iOS & Android
+:jbake-tags: android,ios,interface,vocabulaire,_mois_juin,_année_2013
+:jbake-date: 2013-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1371734202000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkintek.com.au%2Fblog%2Fportkit-ux-metaphor-equivalents-for-ios-and-android%2F&searchtags=android+ios+interface+vocabulaire+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://kintek.com.au/blog/portkit-ux-metaphor-equivalents-for-ios-and-android/[PortKit: UX Metaphor Equivalents for iOS & Android]
+
+Une chouette liste des éléments du vocabulaire d'interface utilisateur sur les plateformes émergentes. J'ai d'ailleurs l'impression que ce serait bien compliqué avec els plateformes "historiques" également affichées.

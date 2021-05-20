@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HomeBank - Free, easy, personal accounting for everyone.
+:jbake-tags: desktop,freeware,software,productivité,linux,windows,macosx,finance,_mois_juin,_année_2008
+:jbake-date: 2008-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1213625040000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomebank.free.fr%2Findex.php&searchtags=desktop+freeware+software+productivit%C3%A9+linux+windows+macosx+finance+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://homebank.free.fr/index.php[HomeBank - Free, easy, personal accounting for everyone.]
+
+Une application gratuite de gestion de budget au quotidien, histoire de pouvoir enfin passer à une méthode moderne ...

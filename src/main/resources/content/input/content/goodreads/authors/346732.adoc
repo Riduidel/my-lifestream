@@ -1,0 +1,38 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: George R.R. Martin
+:jbake-tags: author
+:jbake-date: 2002-09-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/346732.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/346732
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070448524.html[Le chasseur et son ombre]
+* link:../books/9782070457014.html[Armageddon Rag]
+* link:../books/9782290001479.html[Le chaos (Le trône de fer, #10)]
+* link:../books/9782290002971.html[Les sables de Dorne (Le trône de fer, #11)]
+* link:../books/9782290006733.html[Riverdream]
+* link:../books/9782290010808.html[Un festin pour les corbeaux (Le trône de fer, #12)]
+* link:../books/9782290010976.html[Le Voyage de Haviland Tuf]
+* link:../books/9782290068632.html[Wild Cards (Wild Cards, #1)]
+* link:../books/9782290068649.html[WILD CARDS T.02 : ACES HIGH]
+* link:../books/9782290068656.html[Jokers Wild (Wild Cards, #3)]
+* link:../books/9782290071137.html[Le bûcher d’un roi (Le trône de fer, #13)]
+* link:../books/9782290075708.html[Une chanson pour Lya et autres nouvelles]
+* link:../books/9782290075722.html[L'agonie de la lumière]
+* link:../books/9782290098875.html[Les dragons de Meereen (Le trône de fer, #14)]
+* link:../books/9782290106983.html[Une danse avec les dragons (Le trône de fer, #15)]
+* link:../books/9782290302866.html[Le trône de fer (Le trône de fer, #1)]
+* link:../books/9782290313183.html[Le donjon rouge (Le trône de fer, #2)]
+* link:../books/9782290316108.html[La bataille des rois (Le trône de fer, #3)]
+* link:../books/9782290318195.html[L'ombre maléfique (Le trône de fer, #4)]
+* link:../books/9782290319956.html[L'invincible forteresse (Le trône de fer, #5)]
+* link:../books/9782290325704.html[Intrigues à Port-Réal (Le trône de fer, #6)]
+* link:../books/9782290329535.html[L'épée de feu (Le trône de fer, #7)]
+* link:../books/9782290333518.html[Les noces pourpres (Le trône de fer, #8)]
+* link:../books/9782290337721.html[La loi du régicide (Le trône de fer, #9)]
+* link:../books/9782290356197.html[Les Rois des sables]
+* link:../books/9782290356869.html[Windhaven]

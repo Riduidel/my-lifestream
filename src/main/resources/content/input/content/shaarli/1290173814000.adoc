@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Modernizr
+:jbake-tags: browser,css,detection,framework,html,javascript,open-source,library,web,html5,_mois_nov.,_année_2010
+:jbake-date: 2010-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1290173814000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.modernizr.com%2F&searchtags=browser+css+detection+framework+html+javascript+open-source+library+web+html5+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.modernizr.com/[Modernizr]
+
+Un Javascript permettant d'écrire du HTML5+CSS3 propre, et de laisser le navigateur se dépatouiller avec.

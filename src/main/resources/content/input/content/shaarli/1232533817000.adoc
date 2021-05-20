@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment protéger mon ordinateur ? Recommandations et Kits sécurité
+:jbake-tags: windows,sécurité,guide,documentation,reference,_mois_janv.,_année_2009
+:jbake-date: 2009-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1232533817000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fassiste.com.free.fr%2Fp%2Fkit_securite%2Fkit_securite.html&searchtags=windows+s%C3%A9curit%C3%A9+guide+documentation+reference+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://assiste.com.free.fr/p/kit_securite/kit_securite.html[Comment protéger mon ordinateur ? Recommandations et Kits sécurité]
+
+Une autre page de recommandations, complémentaire de la précédente, même si beaucoup moins bien faite.

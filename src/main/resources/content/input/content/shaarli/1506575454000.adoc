@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tomdesinto/urbanterror - Docker Hub
+:jbake-tags: open-source,jeu,server,docker,_mois_sept.,_année_2017
+:jbake-date: 2017-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1506575454000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhub.docker.com%2Fr%2Ftomdesinto%2Furbanterror%2F&searchtags=open-source+jeu+server+docker+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://hub.docker.com/r/tomdesinto/urbanterror/[tomdesinto/urbanterror - Docker Hub]
+
+Mouahaha, je sens que je vais jouer avec ce truc et un peu de Rancher pour faire un truc ... fabuleux !

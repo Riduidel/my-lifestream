@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy, tome 7 : le troisième souhait
+:jbake-tags:  afrique, mer, voyage,_année_2012,_mois_janv.,_note_3,rayon-bd,read
+:jbake-date: 2012-01-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847891966.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412447227l/2709682._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1412447227l/2709682._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2709682
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+En <i>El tercer deseo</i>, Mike Mignola llevó a Hellboy a luchar por su vida en el fondo del mar. Años después, con la aparición de <i>La isla</i>, el autor ataba de forma sorprendente muchos de los cabos sueltos de la historia.
+</div>
+++++
+
+
+## Authors
+* link:../authors/10182.html[Mike Mignola]
+
+## Series
+* link:../series/Hellboy.html[Hellboy]
+* link:../series/Hellboy__Edicion_cartone.html[Hellboy: Edición cartoné]
+
+## Review
+
+++++
+Une suite de petites histoires pas iintéressantes, en particulier le récit éponyme, qui montre bien la détestation qu'ont les créatures imaginaires d'Hellboy, de son style de vie et de son prétendu destin. L'autre grand récit, qui nous montre ce que pourrait être Hellboy dans d'autres conditions, est aussi pas mal fichu, quoique peut-être un peu trop classique.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Web by Google (TM)
+:jbake-tags: web,google,économie,monopole,_mois_août,_année_2020
+:jbake-date: 2020-08-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1597677557000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flandshark.io%2F2020%2F08%2F16%2Fweb-by-google.html&searchtags=web+google+%C3%A9conomie+monopole+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://landshark.io/2020/08/16/web-by-google.html[Web by Google (TM)]
+
+Un article passablement déprimant sur l'état d'internet, et la position de monopole de fait de google.

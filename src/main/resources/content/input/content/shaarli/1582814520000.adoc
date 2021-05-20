@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Early Impressions of Go from a Rust Programmer | TiDB
+:jbake-tags: go,rust,comparatif,programming,langage,_mois_févr.,_année_2020
+:jbake-date: 2020-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1582814520000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpingcap.com%2Fblog%2Fearly-impressions-of-go-from-a-rust-programmer%2F&searchtags=go+rust+comparatif+programming+langage+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://pingcap.com/blog/early-impressions-of-go-from-a-rust-programmer/[Early Impressions of Go from a Rust Programmer | TiDB]
+
+Une vision intéressante de Go depuis la fenêtre d'un rustacean.

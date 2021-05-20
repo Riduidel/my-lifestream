@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christian Fauré sur Twitter : "> Software reuse is more like an organ transplant than snapping together Lego blocks.– John D. CookThis is why code reuse abuse is an ant… https://t.co/baWTL4mYjR"
+:jbake-tags: programming,métaphore,_mois_nov.,_année_2017
+:jbake-date: 2017-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1511195745000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FChristianFaure%2Fstatus%2F932633375000670208&searchtags=programming+m%C3%A9taphore+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/ChristianFaure/status/932633375000670208[Christian Fauré sur Twitter : "> Software reuse is more like an organ transplant than snapping together Lego blocks.– John D. CookThis is why code reuse abuse is an ant… https://t.co/baWTL4mYjR"]
+
+Très bonne métaphore de la réutilisation

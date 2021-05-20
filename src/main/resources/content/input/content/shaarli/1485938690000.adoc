@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yves Hanoulle on Twitter: "architect is a title for senior people: is a nice way to say you are old @KevlinHenney at #oop2017"
+:jbake-tags: citation,programming,architecture,age,_mois_févr.,_année_2017
+:jbake-date: 2017-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1485938690000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FYvesHanoulle%2Fstatus%2F826474764055224325&searchtags=citation+programming+architecture+age+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/YvesHanoulle/status/826474764055224325[Yves Hanoulle on Twitter: "architect is a title for senior people: is a nice way to say you are old @KevlinHenney at #oop2017"]
+
+Ca me paraît d'une justesse cruelle

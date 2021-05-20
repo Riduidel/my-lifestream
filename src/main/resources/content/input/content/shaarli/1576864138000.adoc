@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Things end users care about but programmers don't | Instadeq Blog
+:jbake-tags: user,userfriendly,développeur,communication,_mois_déc.,_année_2019
+:jbake-date: 2019-12-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1576864138000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Finstadeq.com%2Fblog%2Fposts%2Fthings-end-users-care-about-but-programmers-dont%2F&searchtags=user+userfriendly+d%C3%A9veloppeur+communication+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://instadeq.com/blog/posts/things-end-users-care-about-but-programmers-dont/[Things end users care about but programmers don't | Instadeq Blog]
+
+En tant que développeur, je trouve ça très intéressant !

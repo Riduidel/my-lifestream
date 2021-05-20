@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: aim 400 kg
+:jbake-tags: training,jeu,fps,_mois_oct.,_année_2013
+:jbake-date: 2013-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1381820133000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faim400kg.ru%2F&searchtags=training+jeu+fps+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://aim400kg.ru/[aim 400 kg]
+
+Je ne pensais pas qu'il existait des sites d'entraînement pour joueur de FPS ... mais c'est le cas

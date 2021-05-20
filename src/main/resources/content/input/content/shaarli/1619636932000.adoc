@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Massive Qlocker ransomware attack uses 7zip to encrypt QNAP devices
+:jbake-tags: sécurité,nas,qnap,réseau,pirate,piratage,_mois_avr.,_année_2021
+:jbake-date: 2021-04-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1619636932000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fsecurity%2Fmassive-qlocker-ransomware-attack-uses-7zip-to-encrypt-qnap-devices%2F&searchtags=s%C3%A9curit%C3%A9+nas+qnap+r%C3%A9seau+pirate+piratage+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.bleepingcomputer.com/news/security/massive-qlocker-ransomware-attack-uses-7zip-to-encrypt-qnap-devices/[Massive Qlocker ransomware attack uses 7zip to encrypt QNAP devices]
+
+Oh merde, j'ai pris la foudre cette fois-ci. Tous mes fichiers sont chiffrés par quelqu'un d'autre. Bon, j'ai des backups vieux de deux/trois mois, mais je préfèrerai ne pas avoir à les charger ...

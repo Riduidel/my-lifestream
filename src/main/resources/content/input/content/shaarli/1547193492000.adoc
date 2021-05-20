@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reset the Password in Linux Ubuntu Bash in Windows 10 // Web Carpenter
+:jbake-tags: windows,bash,linux,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547193492000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.webcarpenter.com%2Fblog%2F127-Reset-the-Password-in-Linux-Ubuntu-Bash-in-Windows-10&searchtags=windows+bash+linux+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.webcarpenter.com/blog/127-Reset-the-Password-in-Linux-Ubuntu-Bash-in-Windows-10[Reset the Password in Linux Ubuntu Bash in Windows 10 // Web Carpenter]
+
+Enfin des instructions pour réinitialiser \*correctement\* le mot de pase d'Ubuntu Bash dans Windows. Je vais peut-être essayer quelques linuxeries du coup ...

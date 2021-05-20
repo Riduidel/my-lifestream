@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Franz Werfel
+:jbake-tags: author
+:jbake-date: 2004-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/57432.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1450782534p5/57432.jpg
+:jbake-source: https://www.goodreads.com/author/show/57432
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253072263.html[L'Étoile de ceux qui ne sont pas nés]

@@ -1,0 +1,85 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C'est quoi un architecte logiciel ?
+:jbake-tags: architecture_agile,communication,métier,_mois_avr.,_année_2020
+:jbake-date: 2020-04-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/03/cest-quoi-un-architecte-logiciel.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Maintenant qu'on a une idée de ce qu'est <a href="https://riduidel.wordpress.com/2020/04/02/cest-quoi-une-architecture-logicielle/">une architecture logicielle</a>, c'est quoi ... ou plutôt qui ... un architecte logiciel ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans l'article précédent, vous noterez qu'il n'est pas question de personnes définissant cette architecture. Et c'est bien normal parce qu'à mon sens, architecte tout au moins dans la définition dont on a parlé, n'est pas un métier mais un rôle. Ce que je veux écrire par là, c'est que "n'importe qui" peut jouer le rôle de l'architecte, c'est-à-dire concevoir une architecture et/ou la maintenir. Attention, par n'importe qui, je ne veux pas être péjoratif. Je veux plutôt signifier qu'il existe plusieurs organisations possibles pour définir une architecture. Comme le montre ce tweet ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/ghohpe\/status\/1171379436739944449","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ghohpe" class="screenName"><img src="http://pbs.twimg.com/profile_images/1296104349945323523/70yaQ6nm_mini.jpg" alt="profile of An engine room architect who snuck into the penthouse. Writes books, blogs, likes metaphors & The Matrix. Did Google, Allianz. Opinions: me. Work: AWS"/>ghohpe</a>
+		<span class="name">Gregor</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ghohpe/status/1 171 379 436 739 944 449" class="date">10 sept. 2019 à 13:06:35</a>
+
+	<span class="content">
+	
+	<span class="text">Drew up these models of doing architecture in a team - found them in a deck by @bitboss who referenced @StefanZoerner. I am happy to share it back :-)  #ArchitectElevator https://t.co/r3GV98ZMFI</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EEGTYVXVAAErFbg.jpg" alt="1 171 379 424 354 172 929"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Notez qu'il y a aussi là un jugement de valeur : un architecte hors de toute équipe semble n'avoir que peu de valeur ... mais on en reparlera. Donc, l'architecture peut être définie par l'équipe de développeurs, ou avec l'aide d'un architecte dans l'équipe. Si c'est le cas, à quoi sert cet architecte ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour le dire simplement, à décharger l'équipe d'un ensemble de tâches qu'on peut trouver rébarbatives :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Comprendre les contextes techniques, politiques, les enjeux métier, </li><li>Assurer la cohérence de l'architecture, </li><li>Documenter son état et ses évolutions, </li><li>Comprendre le logiciel ou le système développé dans tous ses aspects essentiels</li><li>Communiquer et défendre la vision de l'équipe auprès des autres parties prenantes</li><li>Assister l'équipe dans ses décisions en fournissant un éclairage différent</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Voilà quelques-unes des tâches qui font partie du métier de l'architecte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous noterez évidement que ces tâches n'incluent <strong>pas </strong>le développement du logiciel. Parce que souvent, du fait de la taille des systèmes logiciels développés, l'architecte ne peut pas être un développeur, simplement parce que la complexité métier des éléments développés nécessite une implication à temps plein (ce qui n'empêche pas de développer certains éléments, comme on le verra plus tard).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous pourrez également noter que ces tâches impliques un jeu de compétences assez différent de celui du développeur. En effet, même si il faut être capable de comprendre, de concevoir, de faire des choix techniques éclairés, il faut aussi être capable de communiquer, à l'écrit comme à l'oral, de convaincre au besoin. Mais surtout, il faut pouvoir comprendre les aspects humains du développement : lorsqu'il s'agit d'assister l'équipe dans ses choix, de faire émerger une décision, ou lorsqu'il faut aller défendre la vision de l'équipe auprès d'autres équipes, comprendre les gens et leurs motivations est plus qu'utile.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et c'est à mon avis ce qui fait la différence entre le rôle d'architecte (qui définit une architecture) et le métier d'architecte (qui communique, défend, garantit cette architecture). En un sens, le métier d'architecte contient ce rôle, mais aussi celui de coach (qui encourage les développeurs à se repositionner selon une architecture qu'ils ont eux-même définis), de porte-parole, et d'archiviste (qui écrit l'histoire du système logiciel).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maintenant que nous disposons des notions de base, on va pouvoir s'intéresser à des questions plus précises, comme par exemple "comment documenter une architecture" ou "est-ce que l'architecture a un sens dans une équipe agile". Mais ça, ce sera dans les articles suivants ...</p>
+<!-- /wp:paragraph -->
+++++

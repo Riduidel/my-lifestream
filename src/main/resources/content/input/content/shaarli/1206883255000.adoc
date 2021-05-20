@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trackballs
+:jbake-tags: freeware,software,jeu,windows,linux,_mois_mars,_année_2008
+:jbake-date: 2008-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1206883255000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftrackballs.sourceforge.net%2Fdownload.shtml&searchtags=freeware+software+jeu+windows+linux+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://trackballs.sourceforge.net/download.shtml[Trackballs]
+
+Un jeu très analogue à marble madness, mais open-source

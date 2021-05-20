@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust: The Hard Parts - Part One · naftuli.wtf
+:jbake-tags: programming,rust,mémoire,reference,_mois_mars,_année_2019
+:jbake-date: 2019-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1553710273000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnaftuli.wtf%2F2019%2F03%2F20%2Frust-the-hard-parts%2F&searchtags=programming+rust+m%C3%A9moire+reference+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://naftuli.wtf/2019/03/20/rust-the-hard-parts/[Rust: The Hard Parts - Part One · naftuli.wtf]
+
+Il est très bien cet article sur les références Rust !

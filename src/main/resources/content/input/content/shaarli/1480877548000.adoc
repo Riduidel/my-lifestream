@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: hartator/wayback-machine-downloader: Download an entire website from the Wayback Machine.
+:jbake-tags: web,download,_mois_déc.,_année_2016
+:jbake-date: 2016-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1480877548000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fhartator%2Fwayback-machine-downloader&searchtags=web+download+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/hartator/wayback-machine-downloader[hartator/wayback-machine-downloader: Download an entire website from the Wayback Machine.]
+
+Alors ça ça fait rêver

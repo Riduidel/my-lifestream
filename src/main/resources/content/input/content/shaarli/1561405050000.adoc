@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rcarmo/raspi-cluster: Notes and scripts for setting up (yet another) Raspberry Pi computing cluster
+:jbake-tags: raspberrypi,cluster,kubernetes,exemple,tutorial,_mois_juin,_année_2019
+:jbake-date: 2019-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1561405050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frcarmo%2Fraspi-cluster&searchtags=raspberrypi+cluster+kubernetes+exemple+tutorial+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/rcarmo/raspi-cluster[rcarmo/raspi-cluster: Notes and scripts for setting up (yet another) Raspberry Pi computing cluster]
+
+C'est stupéfiant ... Même si j'aurais plutôt mis une bande de pi zero ...

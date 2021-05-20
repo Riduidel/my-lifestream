@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Karim Chergui
+:jbake-tags: author
+:jbake-date: 2016-10-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/261158.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/261158
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290067925.html[Les Mensonges de Locke Lamora (Les Salauds Gentilhommes, #1)]

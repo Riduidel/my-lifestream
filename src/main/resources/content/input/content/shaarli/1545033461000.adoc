@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Darwinian data structure selection | the morning paper
+:jbake-tags: programming,ia,génétique,algorithme,_mois_déc.,_année_2018
+:jbake-date: 2018-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1545033461000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.acolyer.org%2F2018%2F12%2F14%2Fdarwinian-data-structure-selection%2F&searchtags=programming+ia+g%C3%A9n%C3%A9tique+algorithme+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://blog.acolyer.org/2018/12/14/darwinian-data-structure-selection/[Darwinian data structure selection | the morning paper]
+
+De l'intelligence artificielle pour trouver les meilleures implémentations de collection ? Pourquoi pas, c'est un bon début de l'optimisation du code par l'IA (même si c'est un début somme toute modeste)

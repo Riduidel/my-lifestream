@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Synergy
+:jbake-tags: software,freeware,windows,linux,macosx,remote,réseau,vnc,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109770997000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsynergy2.sourceforge.net%2F&searchtags=software+freeware+windows+linux+macosx+remote+r%C3%A9seau+vnc+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://synergy2.sourceforge.net/[Synergy]
+
+Synergy lets you easily share a single mouse and keyboard between multiple computers with different operating systems, each with its own display, without special hardware. It's intended for users with multiple computers on their desk since each system use

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Association pour la Pensée Complexe
+:jbake-tags: science,complexité,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112278500000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mcxapc.org%2F&searchtags=science+complexit%C3%A9+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mcxapc.org/[Association pour la Pensée Complexe]
+
+

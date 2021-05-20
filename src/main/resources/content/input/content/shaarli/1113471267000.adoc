@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: freesound :: home page
+:jbake-tags: multimedia,son,open-source,library,catalog,_mois_avr.,_année_2005
+:jbake-date: 2005-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1113471267000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffreesound.iua.upf.edu%2F&searchtags=multimedia+son+open-source+library+catalog+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://freesound.iua.upf.edu/[freesound :: home page]
+
+

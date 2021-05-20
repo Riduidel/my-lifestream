@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ODROID-U3: $59 dev board with the power of a Galaxy S3
+:jbake-tags: dns-323,matériel,linux,embeddable,_mois_déc.,_année_2013
+:jbake-date: 2013-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1388400906000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthe.taoofmac.com%2Fspace%2Flinks%2F2013%2F12%2F24%2F1040&searchtags=dns-323+mat%C3%A9riel+linux+embeddable+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://the.taoofmac.com/space/links/2013/12/24/1040[ODROID-U3: $59 dev board with the power of a Galaxy S3]
+
+Je commence à penser qu'adjoindre un de ces nano-ordinateurs à mon NAS pourrait se révéler une idée ébouriffante : le NAS fournit le stockage et le CPU "de base" (pour gérer le réseau, par exemple), et le nano-ordinateur fournit le CPU "de pic" pour faire du redimenssionement d'images et des choses comme ça ...

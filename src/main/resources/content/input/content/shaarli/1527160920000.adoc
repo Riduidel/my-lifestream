@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ServiceWorker Cookbook
+:jbake-tags: web,javascript,service-worker,_mois_mai,_année_2018
+:jbake-date: 2018-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1527160920000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fserviceworke.rs%2F&searchtags=web+javascript+service-worker+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://serviceworke.rs/[ServiceWorker Cookbook]
+
+Un jour je referai du web, et j'utiliserai les services workers. Et àa ce moment-là, cette page sera bien utile.

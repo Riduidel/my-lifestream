@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mental PPC Corp.
+:jbake-tags: ubuntu,repository,powerpc,ibook,_mois_déc.,_année_2009
+:jbake-date: 2009-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1259930760000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmental-ppc.tuxfamily.org%2Fdotclear%2F&searchtags=ubuntu+repository+powerpc+ibook+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://mental-ppc.tuxfamily.org/dotclear/[Mental PPC Corp.]
+
+Un repository dédié aux applications introuvables pour architecture PPC. Avec ça, l'iBook va se retrouver équipé d'un e17 du meilleur goût !

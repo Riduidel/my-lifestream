@@ -1,0 +1,84 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Est-ce que l'être humain est l'espèce dominante ?
+:jbake-tags: cyberpunk,entreprise,science-fiction,_mois_août,_année_2020
+:jbake-date: 2020-08-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/08/11/est-ce-que-letre-humain-est-lespece-dominante.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/08/11/est-ce-que-letre-humain-est-lespece-dominante/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Comme tous les étés, j'ai pris de longues et belles vacances (et franchement, c'était bien nécessaire). Et comme tous les ans, j'ai lu <a href="https://www.goodreads.com/review/list/1156136-nicolas?read_at=2020">quelques livres</a> (prenez le paquet lu au mois de juillet). Il y en avait des mauvais, et des bons aussi. Et dans le tas, les trois tomes de Spire</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><a href="https://www.goodreads.com/book/show/54684568-ce-qui-relie">Ce qui relie</a></li><li><a href="https://www.goodreads.com/book/show/54777516-ce-qui-divise">Ce qui divise</a></li><li><a href="https://www.goodreads.com/book/show/54777534-ce-qui-r-v-le">Ce qui révèle</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Le tout illustré par trois couvertures de <a href="https://manchu-sf.blogspot.com">Manchu</a> (la prétentieuse famille Abdaloff n'aime pas, mais moi oui) <a href="https://manchu-sf.blogspot.com/2017/01/spire.html">qui vont parfaitement ensemble</a> :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="http://riduidel.files.wordpress.com/2020/08/9c4d6-012b2bspire-rvb_petit2ba.jpg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Ces romans racontent la croissance et la transformation d'une entreprise de transport spatial. Celle-ci commence gentiment avant de tourner au laid. Et même si il y a quelques aspects discutables dans le roman, le fond est globalement clair : les entreprises sont conçues pour être voraces et sans âme. Et ça m'a fait réfléchir ....</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Regardez autour de vous.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Qu'est-ce qui, autour de vous, existe qui ne provienne pas d'une entreprise ? Rien à part les gens qui sont autour de vous, les plantes que vous avez fait pousser, et peut-être quelques oeuvres d'art ou d'artisanat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour le dire autrement, le monde est actuellement modelé par les entreprises.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est bien, parce que ces communautés humaines peuvent apporter des changements plus grands que ceux qu'un individu peut apporter. Plus grands même, maintenant, que ce que la plupart des états peuvent apporter. Autrement dit, à l'heure actuelle, ce qui modèle le monde comme l'enfant modèle sa boîte de pâte à modeler, ce sont les entreprises. Or celles-ci ont plusieurs caractéristiques  particulièrement intéressantes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, elles sont en moyenne <a href="https://www.letemps.ch/economie/entreprises-vivent-longtemps">particulièrement jeunes</a>. Pour filer la métaphore, les entreprises sont des enfants, et comme telles, souvent incapables de réflexion au-delà de leurs désirs propres.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, les grosses entreprises peuvent exploiter un concept inaccessible aux simples êtres humains : le gradient législatif entre les différents pays. Le fameux <a href="https://fr.wikipedia.org/wiki/Double_irlandais">sandwich irlandais</a> et l'optimisation fiscale qu'il permet en sont l'exemple le plus typique, mais on peut aussi citer la légende du plombier polonais, l'exploitation des enfants asiatiques dans l'industrie textile européenne, l'<a href="https://www.cairn.info/revue-courrier-hebdomadaire-du-crisp-2010-26-page-5.htm">exportation des déchets toxiques vers l'Afrique</a>, le <a href="https://www.equaltimes.org/les-demolisseurs-de-bateaux-du?lang=fr">démontage des bateaux au Bangladesh</a>, et tant d'autres. Bref, il y a toujours quelque part un pays prêt à adapter sa législation aux désirs des entreprises, quels qu'ils soient.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, on parle métaphoriquement d'enfants tout-puissants que personne ne veut arrêter au nom de concepts mythiques comme la libre entreprise, la croissance, l'économie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et ces enfants modèlent réellement le monde. Ou plutôt, <a href="https://www.sciencesetavenir.fr/nature-environnement/100-entreprises-responsables-de-plus-de-70-des-emissions-mondiales-de-carbone_114773">détruisent le monde</a> sans le moindre obstacle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Est-ce que ça suffit à montrer que les entreprises sont l'espèce dominante ? Pour ça, il faudrait qu'elles tuent les gens qui leur font obstacle, comme les enfants écrasent les fourmis ... Je crois qu'il n'est pas nécessaire d"étayer ce point plus avant, non ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Qu'est-ce que ça implique concrètement ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A mon avis, ça implique avant tout que le cadre législatif simple qui fait des entreprises des personnes morales n'est pas adapté : les entreprises peuvent trop facilement passer par des jeux de filiales pour s'exonérer de leurs responsabilités. Si les entreprises sont mondiales, leurs responsabilités le sont aussi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je manque malheureusement de connaissances en droit pour aller plus loin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En revanche, je pense qu'il faut aussi, en tant que professionnels, arrêter de n'être guidés que par la réussite financière des entreprises auxquelles on contribue et commencer à réfléchir en tant que citoyens d'abord.</p>
+<!-- /wp:paragraph -->
+++++

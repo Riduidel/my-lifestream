@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom sur Twitter : "“Don’t document the problem, fix it.” – Atli Björgvin Oddsson" / Twitter
+:jbake-tags: méthode,organisation,bug,qualité,_mois_janv.,_année_2021
+:jbake-date: 2021-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1611130805000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F1351590415674306560&searchtags=m%C3%A9thode+organisation+bug+qualit%C3%A9+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/1351590415674306560[Programming Wisdom sur Twitter : "“Don’t document the problem, fix it.” – Atli Björgvin Oddsson" / Twitter]
+
+Une belle et bonne doctrine, qui améliore réellement les choses. Evidement, ça n'est valable que quand on est en position de corriger les problèmes 😉

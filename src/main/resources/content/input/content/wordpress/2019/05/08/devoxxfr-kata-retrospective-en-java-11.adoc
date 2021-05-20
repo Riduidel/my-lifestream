@@ -1,0 +1,571 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Kata rétrospective en Java 11
+:jbake-tags: devoxx,fonctionnel,java,_mois_mai,_année_2019
+:jbake-date: 2019-05-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/05/08/devoxxfr-kata-retrospective-en-java-11.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/05/08/devoxxfr-kata-retrospective-en-java-11/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Rémi a donc habilement coupé son kata en 10 parties …​ même s’il n’a eu le temps de n’en implémenter que 6 pendant la conférence.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+L’objectif est donc, à travers une série d'étapes, d’implémenter une interface fonctionnelle.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-7">
+<br/>
+<h2 id="trueun_lexer_qui_ne_sert_rien">Un Lexer qui ne sert à rien</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Commençons donc simplement. Notre objectif est de créer un ` Lexer` en appelant simplement ` Lexer.create()` pour appeler ensuite une méthode <code>String tryParse(String)</code>. Evidement, le type retourné dépend du type de Lexer : un Lexer construit pour des Integer retourne évidement une valeur Integer. Heureusement, pour l’instant, ça ne nous intéresse pas.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Donc notre interface <code>Lexer</code> pourrait ressembler à
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-14">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlightjs highlight"><code class="language-java hljs"><span class="hljs-annotation">@FunctionalInterface</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Lexer</span>&#60;<span class="hljs-title">Type</span>&#62; </span>{
+<br/>
+<span class="hljs-function"><span class="hljs-keyword">public</span> Optional&#60;Type&#62; <span class="hljs-title">tryParse</span><span class="hljs-params">(String text)</span></span>;
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Notez que c’est une <code>@FunctionalInterface</code> pour qu’on puisse l’implémenter facilement dans une lambda. Il n’y a qu’un seul détail important dans ce cas : il faut que l’interface n’ait qu’une seule méthode non implémentée.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Et le <code>Optional</code> sert bien évidement à retourner une valeur "propre" dans les cas où le Lexer ne matche rien. On verra dans la suite que c’est assez utile.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Petit piège, il y a dans les tests un <code>assertSame(Lexer.create(), Lexer.create());</code> qui implique que deux appels à <code>create()</code>doivent retourner le même résultat.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+Heureusement, comme dit plus haut, on peut implémenter l’interface dans une lambda. Donc on peut très bien écrire notre implémentation comme ça
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-30">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlightjs highlight"><code class="language-java hljs"><span class="hljs-annotation">@FunctionalInterface</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Lexer</span>&#60;<span class="hljs-title">Type</span>&#62; </span>{
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> &#60;Type&#62; <span class="hljs-function">Lexer&#60;Type&#62; <span class="hljs-title">create</span><span class="hljs-params">()</span> </span>{
+<br/>
+<span class="hljs-keyword">return</span> __ -&#62; Optional.empty();
+<br/>
+}
+<br/>
+<span class="hljs-function"><span class="hljs-keyword">public</span> Optional&#60;Type&#62; <span class="hljs-title">tryParse</span><span class="hljs-params">(String text)</span></span>;
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Notez bien le paramètre <code>__</code> de la lambda. Ca fait partie des éléments introduits en Java 11 (je crois) pour signifier que le paramètre sera simplement ignoré dans le reste du code.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+Donc, on a notre premier <code>Lexer</code> …​ qui ne fait rien.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-44">
+<br/>
+<h2 id="trueun_lexer_qui_utilise_une_regexp">Un lexer qui utilise une regexp</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Maintenant on peut faire quelque chose ! En l’occurence, un Lexer qu’on construit avec une expression régulière !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+Dans mes deux implémentations, j’avais utilisé des classes différentes de l’interface. Et évidement, c'était une mauvaise idée ! La bonne idée, que montre Rémi, c’est d’implémenter cette méthode <code>from(Pattern)</code> directement dans l’interface :
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-51">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlightjs highlight"><code class="language-java hljs"><span class="hljs-annotation">@FunctionalInterface</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Lexer</span>&#60;<span class="hljs-title">Type</span>&#62; </span>{
+<br/>
+<span class="hljs-function"><span class="hljs-keyword">private</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">requireOneGroup</span><span class="hljs-params">(Pattern pattern)</span> </span>{
+<br/>
+<span class="hljs-keyword">if</span>(pattern.matcher(<span class="hljs-string">""</span>).groupCount()!=<span class="hljs-number">1</span>)
+<br/>
+<span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> IllegalArgumentException();
+<br/>
+}
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> Lexer&#60;String&#62; <span class="hljs-title">from</span><span class="hljs-params">(String pattern)</span> </span>{
+<br/>
+<span class="hljs-keyword">return</span> from(Pattern.compile(pattern));
+<br/>
+}
+</p>
+<p>
+<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> Lexer&#60;String&#62; <span class="hljs-title">from</span><span class="hljs-params">(Pattern pattern)</span> </span>{
+<br/>
+Objects.requireNonNull(pattern);
+<br/>
+requireOneGroup(pattern);
+<br/>
+<span class="hljs-keyword">return</span> text -&#62; {
+<br/>
+Objects.requireNonNull(text);
+<br/>
+<span class="hljs-keyword">return</span> Optional.of(pattern.matcher(text))
+<br/>
+.filter(Matcher::matches)
+<br/>
+.map(matcher -&#62; matcher.group(<span class="hljs-number">1</span>));
+<br/>
+};
+<br/>
+}
+</p>
+<p>
+<span class="hljs-comment">//...</span>
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-78">
+</p>
+<p>
+Rémi recommande en effet de commencer l'`Optional` aussitôt que possible, puis de faire les map dont on a besoin, parce que les exceptions seront théoriquement gérés par la chaîne d’exécution. En revanche, comme notre lambda est créé dès qu’on appelle <code>from(…​)</code> il vaut mieux évidement tester les valeurs des paramètres pour éviter les <code>NullPointerException</code> à l’exécution. Et heureusement, depuis Java 7, on a une classe <code>Objects</code> qui permet de mettre ça en place simplement.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-80">
+</p>
+<p>
+Notez aussi la méthode <code>requireOneGroup(…​.)</code> que j’ai créé pour vérifier qu’il n’y avait qu’un seul groupe. Pour ça, l’API regex est vraiment mal fichue et la seule solution est de tester le pattern …​ C’est pas terrible du tout !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-83">
+</p>
+<p>
+Pour terminer cette partie, vous avez vu que la méthode <code>requireOneGroup(…​)</code> est private ? Dans une interface ? Eh ouais, ça marche !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-85">
+<br/>
+<h2 id="truetransformer_le_r_sultat">Transformer le résultat</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-86">
+</p>
+<p>
+Comme le dit le kata, retourner une chaîne de caractère, ben c’est pas foufou. On va donc implémenter un <code>map(..)</code> pour transformer les résultats.
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-89">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlightjs highlight"><code class="language-java hljs"><span class="hljs-annotation">@FunctionalInterface</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Lexer</span>&#60;<span class="hljs-title">Type</span>&#62; </span>{
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">default</span> &#60;Returned&#62; <span class="hljs-function">Lexer&#60;Returned&#62; <span class="hljs-title">map</span><span class="hljs-params">(Function&#60;? <span class="hljs-keyword">super</span> Type, ? extends Returned&#62; mapper)</span> </span>{
+<br/>
+Objects.requireNonNull(mapper);
+<br/>
+<span class="hljs-keyword">return</span> text -&#62; tryParse(text).map(value -&#62; mapper.apply(value));
+<br/>
+}
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-101">
+</p>
+<p>
+Cette partie du code est à peu près du Java 8. Notez toutefois la complexité ajoutée par les types génériques : le paramètre d’entrée de la fonction doit être un super-type du paramètre du <code>Lexer</code> qu’onv a mapper, et le type de retour de la fonction sera un sous-type du type de <code>Lexer</code> qu’on déclare. Par ailleurs, pour que notre interface reste une ` @FunctionalInterface`, la méthode doit être implémentée dans l’interface, en utilisant le mot-clé ` default`.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-103">
+<br/>
+<h2 id="truecombinons">Combinons !</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-105">
+</p>
+<p>
+Une bonne façon d’augmenter les possibilités de nos <code>Lexer</code> est de pouvoir en combiner plusieurs. Et pour ça, on va utiliser <code>or(…​)</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-108">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlightjs highlight"><code class="language-java hljs"><span class="hljs-annotation">@FunctionalInterface</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Lexer</span>&#60;<span class="hljs-title">Type</span>&#62; </span>{
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">default</span> Lexer&#60;Type&#62; <span class="hljs-title">or</span><span class="hljs-params">(Lexer&#60;? extends Type&#62; other)</span> </span>{
+<br/>
+Objects.requireNonNull(other);
+<br/>
+<span class="hljs-keyword">return</span> text -&#62; tryParse(text).or(() -&#62; other.tryParse(text));
+<br/>
+}
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-120">
+</p>
+<p>
+Heureusement, grâce aux modifications d' <code>Optional</code>, c’est très facile à implémenter. En effet, en Java 9, Rémi et ses potes ont ajouté <code>Optional.or(…​)</code>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-122">
+<br/>
+<h2 id="truecombinons_encore_plus">Combinons encore plus !</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-123">
+</p>
+<p>
+Parce que <code>Lexer.or(…​)</code>, c’est sympa, mais on peut faire mieux avec une méthode ` Lexer.with(…​)`
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-126">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlightjs highlight"><code class="language-java hljs"><span class="hljs-annotation">@FunctionalInterface</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Lexer</span>&#60;<span class="hljs-title">Type</span>&#62; </span>{
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">default</span> Lexer&#60;Type&#62; <span class="hljs-title">with</span><span class="hljs-params">(String pattern, Function&#60;? <span class="hljs-keyword">super</span> String, ? extends Type&#62; mapper)</span> </span>{
+<br/>
+<span class="hljs-keyword">return</span> with(Pattern.compile(pattern), mapper);
+<br/>
+}
+</p>
+<p>
+<span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">default</span> Lexer&#60;Type&#62; <span class="hljs-title">with</span><span class="hljs-params">(Pattern pattern, Function&#60;? <span class="hljs-keyword">super</span> String, ? extends Type&#62; mapper)</span> </span>{
+<br/>
+Objects.requireNonNull(pattern);
+<br/>
+Objects.requireNonNull(mapper);
+<br/>
+<span class="hljs-keyword">return</span> or(from(pattern).map(mapper));
+<br/>
+}
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-143">
+</p>
+<p>
+Et là il y a une petite astuce. Regardez la déclaration des <code>Function</code>. Dans les deux cas, on a des <code>Function&#60;? super String, …​&#62;</code>parce que dans les deux cas, on veut pouvoir ajouter des combinaisons au parser initial.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-145">
+</p>
+<p>
+Et maintenant on va passer à des choses un peu plus complexes !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-147">
+<br/>
+<h2 id="truecombinons_plus_efficacement">Combinons plus efficacement !</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-148">
+</p>
+<p>
+Le problème des méthodes précédentes, c’est qu’elles génèrent des tonnes d’objets, ce qui est assez inefficace. Et ça, c’est un peu embêtant quand on veut parser/lexer du texte. On va donc essayer de faire mieux en passant d’un coup des paires patterns/mappers.
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock data-line-151">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlightjs highlight"><code class="language-java hljs"><span class="hljs-annotation">@FunctionalInterface</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">interface</span> <span class="hljs-title">Lexer</span>&#60;<span class="hljs-title">Type</span>&#62; </span>{
+<br/>
+<span class="hljs-comment">//...</span>
+<br/>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> &#60;Type&#62; <span class="hljs-function">Lexer&#60;Type&#62; <span class="hljs-title">from</span><span class="hljs-params">(List&#60;String&#62; usedPatterns, List&#60;? extends Function&#60;? <span class="hljs-keyword">super</span> String, ? extends Type&#62;&#62; usedMappers)</span> </span>{
+<br/>
+Objects.requireNonNull(usedPatterns); usedPatterns.forEach(p -&#62; Objects.requireNonNull(p));
+<br/>
+Objects.requireNonNull(usedMappers); usedMappers.forEach(p -&#62; Objects.requireNonNull(p));
+<br/>
+usedPatterns.forEach(p -&#62; requireOneGroup(p));
+<br/>
+<span class="hljs-keyword">if</span>(usedPatterns.size()!=usedMappers.size())
+<br/>
+<span class="hljs-keyword">throw</span> <span class="hljs-keyword">new</span> IllegalArgumentException();
+<br/>
+<span class="hljs-keyword">return</span> createLexersFromLists(List.copyOf(usedPatterns), List.copyOf(usedMappers));
+<br/>
+}
+</p>
+<p>
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> &#60;Type&#62; <span class="hljs-function">Lexer&#60;Type&#62; <span class="hljs-title">createLexersFromLists</span><span class="hljs-params">(List&#60;String&#62; usedPatterns,
+<br/>
+List&#60;? extends Function&#60;? <span class="hljs-keyword">super</span> String, ? extends Type&#62;&#62; usedMappers)</span> </span>{
+<br/>
+<span class="hljs-keyword">return</span> <span class="hljs-keyword">new</span> Lexer&#60;Type&#62;() {
+<br/>
+<span class="hljs-annotation">@Override</span>
+<br/>
+<span class="hljs-function"><span class="hljs-keyword">public</span> Optional&#60;Type&#62; <span class="hljs-title">tryParse</span><span class="hljs-params">(String text)</span> </span>{
+<br/>
+<span class="hljs-keyword">if</span>(usedPatterns.isEmpty()) {
+<br/>
+<span class="hljs-keyword">return</span> Optional.empty();
+<br/>
+}
+<br/>
+var matcher = Pattern.compile(String.join(<span class="hljs-string">"|"</span>, usedPatterns)).matcher(text);
+<br/>
+<span class="hljs-keyword">if</span>(!matcher.matches())
+<br/>
+<span class="hljs-keyword">return</span> Optional.empty();
+<br/>
+<span class="hljs-keyword">for</span> (<span class="hljs-keyword">int</span> i = <span class="hljs-number">0</span>; i &#60; matcher.groupCount(); i++) {
+<br/>
+var group = matcher.group(i+<span class="hljs-number">1</span>);
+<br/>
+<span class="hljs-keyword">if</span>(group!=<span class="hljs-keyword">null</span>)
+<br/>
+<span class="hljs-keyword">return</span> Optional.of(group).map(usedMappers.get(i));
+<br/>
+}
+<br/>
+<span class="hljs-keyword">return</span> Optional.empty();
+<br/>
+}
+<br/>
+};
+<br/>
+}
+</p>
+<p>
+<span class="hljs-comment">//...</span>
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-189">
+</p>
+<p>
+Alors là, je dois bien dire que sur ce coup-là, j’ai attendu que la vidéo soit parue pour <strong>reco-piller</strong> le code que Rémia écrit pendant la conférence.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-191">
+</p>
+<p>
+Parce que la lecture du pattern (la partie avec le <code>Pattern.compile(String.join("|", usedPatterns)).matcher(text);</code> et surtout la boucle <code>for (int i = 0; i &#60; matcher.groupCount(); i++) {</code> ) …​ Ben j’avais oublié comment Rémi avait fait, et je n’ai aps réussi à retrouver ce sale bout de code.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-193">
+</p>
+<p>
+Cela dit, cette partie est très intéressante …​ Passons donc à la suite
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-195">
+<br/>
+<h2 id="truearr_tons_de_cr_er_des_tonnes_d_objets">Arrêtons de créer des tonnes d’objets !</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-196">
+</p>
+<p>
+Parce que pour l’instant, quand on appelle <code>with(…​)</code> à plusieurs reprises, ça crée des objets. Et les objets, c’est pratique, mais ça consomme du CPU et de la mémoire.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-198">
+</p>
+<p>
+Hélas, je n’y arrive pas (ben ouais, tout le monde n’est pas Rémi). Cela dit, la leçon est extrêmement intéressante. Et si quelqu’un a la solution complète, je suis <strong>très</strong> intéressé.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

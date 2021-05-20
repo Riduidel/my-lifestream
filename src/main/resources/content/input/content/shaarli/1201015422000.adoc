@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Contents -- Eloquent JavaScript
+:jbake-tags: développement,documentation,ebook,javascript,guide,langage,online,oop,programming,reference,_mois_janv.,_année_2008
+:jbake-date: 2008-01-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1201015422000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Feloquentjavascript.net%2Fcontents.html&searchtags=d%C3%A9veloppement+documentation+ebook+javascript+guide+langage+online+oop+programming+reference+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://eloquentjavascript.net/contents.html[Contents -- Eloquent JavaScript]
+
+Un guide complet du langage Javascript. Je trouve ça dingue que ça n'ait pas existé plus tôt.

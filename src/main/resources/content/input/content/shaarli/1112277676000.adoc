@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cours DEA J-M Fouet
+:jbake-tags: programming,concepts,IA,knowledge,documentation,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112277676000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww710.univ-lyon1.fr%2F%7Efouet%2FDEA%2Fmain.html&searchtags=programming+concepts+IA+knowledge+documentation+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www710.univ-lyon1.fr/~fouet/DEA/main.html[Cours DEA J-M Fouet]
+
+Extraction - validation des connaissances

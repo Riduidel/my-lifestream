@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd – The blag of the webcomic
+:jbake-tags: blog,dessin,art,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590680300000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.xkcd.com%2F&searchtags=blog+dessin+art+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.xkcd.com/[xkcd – The blag of the webcomic]
+
+Vous connaissez bien sûr XKCD. Mais je ne suis pas sûr que vous connaissiez le blog de l'auteur, qui est assez chouette, et donne un aperçu de ses autres oeuvres.

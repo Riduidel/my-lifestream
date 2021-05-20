@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Sceptre De Muiredeagh
+:jbake-tags:  combat, fantastique, guerilla, rayon-bd, voyage,_année_2012,_mois_mai,_note_5,aventure,read
+:jbake-date: 2012-05-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782908551600.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337782528l/7722623._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337782528l/7722623._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7722623
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+1865 - Un île au large des côtes irlandaises.<br /> le vieux Muiredeagh demande à son fils de chanter la ballade de Niall Glundub, le Grand Roi. Le Collectionneur arrive et demande au vieil homme de lui remettre un bout de bois qui aurait appartenu au Grand Roi et aurait des pouvoirs magiques. De plus, ce sceptre reviendrait à celui qui aurait une marque sur son avant-bras : marque qui se trouve sur celui du collectionneur.<br /> Malheureusement, la bande de brigands d'Eoin Dunchada vont tuer le vieil homme, s'emparer du morceau de bois et coincer le collectionneur sous terre. Celui-ci promet de retrouver la trace de Dunchada et de lui faire payer.<br /> 1866 -Nouvelle-Zélande.<br /> Eoin Dunchada travaille pour l'armée anglaise. Ils vont tendre un piège aux guerriers Maoris. Le Collectionneur va intervenir pour aider ses amis maoris et surtout poursuivre Dunchada de sa vengeance...
+</div>
+++++
+
+
+## Authors
+* link:../authors/555180.html[Sergio Toppi]
+
+## Series
+* link:../series/Le_collectioneur.html[Le collectioneur]
+
+## Review
+
+++++
+Ah ce collectionneur !<br/>Chacune de ses quêtes lui fait traverser le monde à la recherche de reliques aussi incongrues qu'originales. Et cette fois, il recherche un sceptre ridiculement petit, mais aux pouvoirs ridiculement importants.<br/>Le truc marrant dans ce tome, c'est le rôle joué par le méchant irlandais, qui passe son temps à reculer devant un collectionneur qui, lui, ne recule absolument jamais et reste sur de son droit, même enfermé sous un roc, même au milieu d'une guerre entre maoris et anglais (mention spéciale pour le commandant des soldats anglais, qu'on imagine parfaitement sadique).<br/>Bref, c'est un tome ordinaire du collectionneur, donc extraordinaire.
+++++

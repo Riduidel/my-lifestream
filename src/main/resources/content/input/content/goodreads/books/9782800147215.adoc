@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gretchen (Zombillénium #1)
+:jbake-tags:  loup-garous, rayon-bd, vampires,_année_2010,_mois_sept.,_note_3,read,zombies
+:jbake-date: 2010-09-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782800147215.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916782l/9255082._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327916782l/9255082._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/9255082
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Francis von Bloodt, vampire de son état, gère en bon père de famille le parc d'attractions Zombillénium. On n'embauche pas n'importe qui, chez Zombillénium : les simples mortels n'ont qu'à passer leur chemin, ici on ne travaille qu'avec d'authentiques loups-garous, vampires et momies. C'est ce que va découvrir Aurélien, un homme au bout du rouleau, trompé par sa femme ; et qui va se retrouver embauché malgré lui dans cette étrange entreprise. Gretchen, sorcière stagiaire, va l'aider à faire ses premiers pas...<br /><br />Après avoir débuté dans les pages du magazine Spirou, Arthur de Pins a multiplié les collaborations dans l'animation, l'édition et la publicité. Sa série à succès Péchés mignons, chez Fluide glacial, revisite avec humour les classiques de la BD coquine. Avec Zombillénium, il aborde un autre registre, celui de la comédie fantastique des plus loufoques, truffée de clins d' il, de références décalées et de répliques déjà cultes.
+</div>
+++++
+
+
+## Authors
+* link:../authors/2887500.html[Arthur de Pins]
+
+## Series
+* link:../series/Zombillenium.html[Zombillénium]
+
+## Review
+
+++++
+Cette histoire est totallement et définitivement inclassable : des zombies, vampires et loup-garous qui travaillent dans un parc d'attraction pour l'éternité ...<br/>Cela dit, c'est subtilement fait.
+++++

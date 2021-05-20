@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaFX Dans Les AppStores Et Framework UI Amélioré
+:jbake-tags: javafx,évolution,mobile,web,_mois_mars,_année_2021
+:jbake-date: 2021-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1615384210000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.infoq.com%2Ffr%2Fnews%2F2021%2F03%2Fjavafx-mobile-web%2F&searchtags=javafx+%C3%A9volution+mobile+web+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.infoq.com/fr/news/2021/03/javafx-mobile-web/[JavaFX Dans Les AppStores Et Framework UI Amélioré]
+
+JavaFX n'est pas mort ... et c'est vraiment très cool !

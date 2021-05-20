@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Câblé
+:jbake-tags:  guerilla, politique, pollution, rayon-imaginaire,_année_2003,_mois_août,_note_5,cyberpunk,read
+:jbake-date: 2003-08-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782207249314.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452342708l/3628875._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452342708l/3628875._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3628875
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Êtes-vous Câblé ? O/N<br /> Pratiquez-vous la zonedanse ? O/N<br /> Pouvez-vous citer un Bloc orbital ? O/N<br /> Avez-vous le dernier modèle d'implant Kikuyu Optics ? O/N<br /> Fréquentez-vous des embrochés ? O/N<br /> Marchez-vous à l'allumeur ? O/N<br /> Êtes-vous souvent en interface ? O/N<br /> Avez-vous déjà rencontré un chanvré ? O/N<br /> Si vous n'avez pas un seul OUI, vous n'êtes pas comme COWBOY, l'ancien pilote de chasse aux yeux sensibles aux infrarouges devenus panzerboy pour tracer le bitume.<br /> Vous n'êtes pas comme SARAH, la jeune crade au cybercobra mortel tapi dans la gorge.<br /> Vous n'êtes pas comme RENO, qui est mort mais toujours vivant dans l'interface.<br /> Vous n'êtes pas <u>Câblé.</u>
+</div>
+++++
+
+
+## Authors
+* link:../authors/48960.html[Walter Jon Williams]
+
+## Series
+* link:../series/Hardwired.html[Hardwired]
+
+## Review
+
+++++
+Câblé nous raconte, dans un futur éloigné d’une petite centaine d’années, les aventures de Cowboy, pilote d’hovercraft par interface neurale, et de Sarah, combattante des rues. Difficile d’en dire plus sans déflorer l’intrigue, alors autant ne pas essayer. <br/>Câblé est pour moi l’un des plus typiques, et, je dirais même, des plus purs, romans de cyberpunk que j’aie pu lire. Loin du link:9782253072218.html[<strike>Samouraï Virtuel</strike> Le Samouraï virtuel] de link:../authors/3389.html[<strike>Stephenson</strike> Stephen King], qui évolue dans une réalité elle aussi virtuelle, et des différentes aventures de link:../authors/95146.html[<strike>Gibson</strike> Gess], Câblé s’attache à un aspect du cyberpunk (enfin, qui selon moi en fait partie) qui me semble beaucoup plus intéressant : la fusion de l’homme et de la machine, présenté sous la forme de l’archétype du cowboy moderne. Pour ce pilote, comme pour bien des gens, passer par un volant et des pédales pour conduire est stupide, surtout quand on peut interfacer son cerveau avec les muscles d’acier de la voiture, avec les capteurs de verre que peuvent être ses caméras, et quand votre corps devient ce monstre d’acier.Et cette vision d’une humanité intégrée aux machines a quelque chose de terrifiant, et d’exaltant à la fois. Terrifiant car, comme le fait très bien remarquer Sarah, les hommes qui se perdent dans cette autre réalité ne peuvent revenir indemnes dans leur coprs de chair. Exaltant, parce que le vent qui fouette vos ailes, vos pneus qui mordent le bitume, votre réacteur qui se gave d’alcool pour vous emmener toujours plus vite, c’est une vision de l’accélération extrêment séduisante, surtout dans notre monde moderne de la rapidité. <br/>Bien sûr, tous ces aspects du récit, que d’autres ne verront que comme des épiphénomènes de l’autre aspect du livre – la guerre comme continuation de la politique – sont soutenus par une écriture que je trouve très intéressante, car elle permet vraiment de rentrer dans les trippes des deux seuls intervenants de l’histoire. <br/>Attention maintenant aux vrais spoilers. Cette guerre est elle aussi assez intéressante. En effet, j’ai cru, au début du roman, que Cowboy souhaitait quelque part une refonte du système des blocs orbitaux. Ce système, qui ne peut qu’être une extension de notre formidable capitalisme sauvage du nouveau siècle. Et pourtant, lorsque le roman se termine, rien n’a changé. un orbital a pris la place d’un autre à la direction de Tempel, mais le monde continue d’être gouverné par des blocs, et Cowboy continue de se dorer la pilule au soleil. Alors quoi ? Aurait-il oublié ses promesses passées ? Serait-il devenu insensible à ces gens qu’il croisait sur les routes, avec leur tête de réfugiés, leurs maigres baluchons, et leur perpétuelle errance ? Je m’interroge vraiment sur cette fin, car elle ne me semble pas correspondre aux désirs réels des héros. Bien sûr, on me rétorquera (à juste titre) que dans un roman sans espoir comme celui-là, les héros n’ont vraiment aucune raison d’obtenir ce qu’ils cherchent. Pourtant, je pense qu’ils n’étaient pas loin de trouver une solution à leur problème, et de changer les règles du jeu entre orbitaux et crades. D’un autre côté, je me dis que si link:../authors/6587.html[<strike>Williams</strike> Tad Williams] avait trouvé une solution pour contrer le capitalisme sauvage, ça se saurait, et on en aurait déja entendu parler. Parce que, même si je sors là violement de la charte, j’en ai marre de ce système, gouverné par des blocs, où les gouvernements ne sont déja plus que des fantoches aux mains d’entités aux désirs non-humains, déja perceptibles dans des lieux comme la Défense, conçus pour intimider les misérables humains qui viennent se réfugier dans le ventre de leurs entreprises respectives, pour bénéficier d’un écosystème favorable.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cory Doctorow #BLM sur Twitter : "VR pioneer and Disney technology exec Mark Mine went a little stir-crazy during lockdown; as a side project, Mine scraped the entire corpus of the @Gartner_inc Hype Cycle reports, an annual report on the rise and fall of the public perception of various technologies. 1/ https://t.co/JgzZA0fr0X" / Twitter
+:jbake-tags: histoire,évolution,technologie,mode,validation,_mois_oct.,_année_2020
+:jbake-date: 2020-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1602235657000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdoctorow%2Fstatus%2F1314225336742146049&searchtags=histoire+%C3%A9volution+technologie+mode+validation+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/doctorow/status/1314225336742146049[Cory Doctorow #BLM sur Twitter : "VR pioneer and Disney technology exec Mark Mine went a little stir-crazy during lockdown; as a side project, Mine scraped the entire corpus of the @Gartner_inc Hype Cycle reports, an annual report on the rise and fall of the public perception of various technologies. 1/ https://t.co/JgzZA0fr0X" / Twitter]
+
+Ca m'a l'air d'un moyen absolument fabuleux de vérifier l'intérêt de cette fameuse courbe de la hype

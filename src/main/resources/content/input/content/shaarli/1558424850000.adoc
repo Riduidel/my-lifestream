@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Understanding Real-World Concurrency Bugs in Go - go-study.pdf
+:jbake-tags: go,programming,concurrence,bug,_mois_mai,_année_2019
+:jbake-date: 2019-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1558424850000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsonglh.github.io%2Fpaper%2Fgo-study.pdf&searchtags=go+programming+concurrence+bug+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://songlh.github.io/paper/go-study.pdf[Understanding Real-World Concurrency Bugs in Go - go-study.pdf]
+
+Heureusement que Go est un langage "spécialement conçu pour la concurrence"

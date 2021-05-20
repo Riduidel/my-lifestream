@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Michel Robert
+:jbake-tags: author
+:jbake-date: 2008-06-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/220984.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/220984
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266174138.html[L'ange du chaos (L'agent des ombres, #1)]
+* link:../books/9782266174145.html[Coeur de Loki (L'agent des ombres, #2)]
+* link:../books/9782266192576.html[Sang-pitié (L'agent des ombres, #3)]
+* link:../books/9782266192750.html[Hors-Destin (L'agent des ombres, #4)]
+* link:../books/9782266192767.html[Belle de Mort (L'agent des ombres, #5)]
+* link:../books/9782266220552.html[Guerrier des lunes (L'agent des ombres, #6)]
+* link:../books/9782354080457.html[Gheritarish - Les terres de sang]

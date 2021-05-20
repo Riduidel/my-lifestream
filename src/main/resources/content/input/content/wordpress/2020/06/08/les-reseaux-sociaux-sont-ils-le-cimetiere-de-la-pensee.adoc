@@ -1,0 +1,52 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les réseaux sociaux sont-ils le cimetière de la pensée
+:jbake-tags: expression,facebook,liberté,twitter,web,youtube,_mois_juin,_année_2020
+:jbake-date: 2020-06-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/06/08/les-reseaux-sociaux-sont-ils-le-cimetiere-de-la-pensee.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/06/08/les-reseaux-sociaux-sont-ils-le-cimetiere-de-la-pensee/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>(notez que je ne parle même pas de pensée critique, juste de pensée)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca n'est pas l'article le plus facile à écrire, mais c'est comme ça que c'est drôle, non ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, je vais faire un peu mon vieux con cinq minutes. Je fréquente internet depuis avant l'an 2000. A cette époque, il n'y avait pas de télé-réalité (c'est un peu loin du sujet, mais à mon sens connexe), il n'y avait pas non plus de Twitter/Facebook/Instagram/... Pourtant, tout le vocabulaire de la <a href="https://fr.wikipedia.org/wiki/N%C3%A9tiquette">netiquette</a> existait déja. On parlait déja de trolls, de flamewars, de bans, et autres. Le café du commerce se trouvait alors dans les newsgroups NNTP, qui ne servent maintenant plus qu'à télécharger des films (alors que c'est précisément un usage pour lequel ils sont atrocement mauvais), ou dans des forums <a href="http://www.phpbb.fr/">phpBB</a>. Mais ces outils restaient de l'ordre de la communauté privée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vers 2005, Twitter et Facebook ont été créés, et pour paraphraser Douglas Adams, je dirai qu'on peut commencer à imaginer que c'était globalement une mauvaise idée. Pourquoi ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pendant la <a href="https://fr.wikipedia.org/wiki/Bulle_sp%C3%A9culative_(Internet)">bulle internet</a>, on avait commencé à comprendre les concepts d'<a href="https://fr.wikipedia.org/wiki/%C3%89conomie_de_l%27attention">économie de l'attention</a>, que le monde magique de la télévision <a href="https://fr.wikipedia.org/wiki/Audience_(m%C3%A9dia)">monopolisait</a> depuis sa création. Et on peut dire que ces réseaux sociaux ont donné, avec tout le talent qu'on connaît aux "petits génies de l'informatique" (ce terme me fait maintenant vomir), la vision la plus purement capitaliste de cette économie. En effet, ces réseaux sociaux ont fait partie des premières entreprises à être valorisées en fonction du nombre de leurs utilisateurs. Et vous connaissez cet adage qui dit que si vous définissez une métrique, quelqu'un essayera d'optimiser selon cette métrique ? Eh bien Twitter et Facebook, eux, le connaissent, et ont sciemment optimisé leurs algorithmes pour augmenter les utilisateurs en utilisant le meilleur des carburants : l'indignation. Parce que chacun de ses réseaux, et Youtube ensuite, manipulent la page d'accueil pour vous présenter un ensemble de contenus vous indignant, afin de renforcer la seule métrique qui compte : votre <a href="https://fr.wikipedia.org/wiki/Engagement_(informatique)">engagement</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, les "petits génies" sociopathes de la Silicon Valley ont utilisé la tendance naturelle de l'esprit humain à agir d'abord stupidement avant de réfléchir dans le but, tout-à-fait capitaliste de s'enrichir à titre personnel. Mais évidement, il y a des effets de bord. Le premier d'entre eux est de radicaliser les opinions. Le deuxième est de simplifier et de limiter la pensée : si la parole de votre cousin pratiquant de l'homéopathie a plus de poids que la consultation chez le médecin, comment pouvez-vous continuer à penser à l'intérêt d'une médecine basée sur la science ? Et si le monde entier s'intéresse à <a href="https://hitek.fr/42/mike-hughes-platiste-mort-fusee-artisanale-prouver-theorie_7507">la fusée que lance un platiste</a> (mouvement qui était <a href="https://ici.radio-canada.ca/nouvelle/1478120/terre-plate-croyance-web-decrypteurs-platiste-copernic--galilee">inexistant avant l'arrivée d'internet</a>), à un moment, il est normal que cette théorie reprenne du poil de la bête. J'ai pris les exemples typiques du dénigrement d'internet. Mais d'autres feront aussi bien l'affaire : </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Une comédienne dit que la police est raciste, et paf les réseaux sociaux servent de caisse de résonance à la fachosphère.</li><li>Chaque raciste télévisuel a maintenant une seconde vie sur internet au nom de "la liberté d'expression"</li><li>Les états-unis élisent un troll, et personne n'est capable de le faire taire</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Que faire ? Avant tout, je crois qu'il faut faire le ménage devant notre porte. Le mot "engagement" est une façon classique de renommer la volonté d’esclavagiser les utilisateurs. Et si vous pensez qu'il est important que vos utilisateurs restent sur votre site, vous avez tord. Ce qui compte, c'est que leur vie soit facilitée par votre logiciel. Et ça veut très rarement dire (sauf par exemple pour un contrôleur aérien) que votre utilisateur doit passer son temps devant son écran. En fait, je suis à peu près convaincu qu'il s'agit d'une anti-métrique : viser plus d'engagement, c'est forcément viser à rendre les utilisateurs captifs. Et si ça intéresse les investisseurs (parce que ça veut dire des données, ce nouveau plutonium), ça n'est sûrement pas intéressant pour la qualité des données métier de votre application.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, ça veut aussi dire de changer ses modes de communication (ce que je ne trouve pas facile, mais néanmoins intéressant) pour arrêter de toxifier le monde : si vous voyez quelque chose qui vous indigne, mais que vous ne pouvez rien en faire d'autre que partager cette indignation, ne le faites pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Enfin, il faut sans doute commencer à réfléchir au monde qu'on veut, mais ça, ça dépend de vous.</p>
+<!-- /wp:paragraph -->
+++++

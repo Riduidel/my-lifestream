@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Killing unwrap() • Dimitri Merejkowsky
+:jbake-tags: rust,programming,erreur,_mois_févr.,_année_2019
+:jbake-date: 2019-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1550604821000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdmerej.info%2Fblog%2Fpost%2Fkilling-unwrap%2F&searchtags=rust+programming+erreur+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dmerej.info/blog/post/killing-unwrap/[Killing unwrap() • Dimitri Merejkowsky]
+
+Un article bien intéressant pour les débutants en Rust comme moi. Et quand on comprend mieux certaines choses, ça devient vraiment très pratique.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jamesward/cloud-run-button: Instructions for adding a Cloud Run Deploy button to a README.md
+:jbake-tags: docker,google,_mois_mai,_année_2019
+:jbake-date: 2019-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1556796258000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjamesward%2Fcloud-run-button&searchtags=docker+google+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/jamesward/cloud-run-button[jamesward/cloud-run-button: Instructions for adding a Cloud Run Deploy button to a README.md]
+
+C'est une très belle idée. Malheureusement, elle se limite à Google.

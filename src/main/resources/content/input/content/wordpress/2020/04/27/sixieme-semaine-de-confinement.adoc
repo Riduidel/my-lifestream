@@ -1,0 +1,94 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sixième semaine de confinement
+:jbake-tags: épidémie,entreprise,gestiondeprojet,informatique,_mois_avr.,_année_2020
+:jbake-date: 2020-04-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/27/sixieme-semaine-de-confinement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/27/sixieme-semaine-de-confinement/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Bon, je suis un chouïa en retard, j'aurais du écrire ça hier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Seulement ma sixième semaine de confinement était avant cela une semaine de vacances. J'ai donc décidé d'en faire virtuellement autant et de ne pas bosser des tonnes. J'ai remplacé ça par des promenades avec ma femme pour profiter du printemps, magnifiquement ensoleillé cette année à Lille (et d'un calme enivrant pour moi). Ca ne m'a pas pour autant empêché de réfléchir à différents sujets (je ne vais en détailler qu'un seul ici).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/_TGITS\/statuses\/1253550709943001089","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/_TGITS" class="screenName"><img src="http://pbs.twimg.com/profile_images/855401873397960704/QSx7qi0Z_mini.jpg" alt="profile of Husband. Proud Dad. Working for @norsys. Programming languages explorer. Concerned by climatic changes. Know nothing. Tweets & opinions are my own."/>_TGITS</a>
+		<span class="name">Christophe Vaudry</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/_TGITS/status/1 253 550 709 943 001 089" class="date">24 avr. 2020 à 07:05:53</a>
+
+	<span class="content">
+	
+	<span class="text">A méditer ? https://t.co/FS9C6nlbyw</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'une raison pour laquelle je suis en chômage technique, c'est que bien que je puisse tout à fait faire l'ensemble de mon travail de chez moi (j'ai les bons réflexes d'emploi des outils numériques, je n'ai besoin d'aucun outil matériel autre que mon ordinateur portable et d'une connexion internet), mon emploi ne dépend que d'entreprises du "<a href="https://fr.wikipedia.org/wiki/Brick_and_mortar">brick and mortar</a>". Et ça, c'est lié à la structure de l'emploi informatique en France. En effet, contrairement à d'autres pays, ce domaine est complètement bouffé par les sociétés de service, grandes ou petites. Travailler chez un éditeur de logiciel est en France une espèce de dangereuse lubie, dont on sera chassé à la première crise économique. Pourquoi ? Tout simplement parce que les grosses SSII, premiers pourvoyeurs de conseil aux entreprises françaises, passent leur temps à les gaver de bonnes idées à propos du fait qu'ils ont nécessairement des besoins uniques, nécessitant le développement d'outils ad-hoc que seules ces SSII sauront fournir. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Seulement les SSII ne sont pas des fournisseurs informatiques, mais des fournisseurs de projets sans fin. Très souvent, la prestation effective sera assurée soit par des sous-traitants de la dite SSII, soit par des indépendants également sous-traitants. Dans les deux cas, l'objectif est clair : la grosse SSII assure la partie anciennement valorisante (la gestion de projet et de contrat) et les sous-traitants implémentent le projet (mal, parce qu'ils n'ont accès ni au client ni au cadre contractuel). Résultat ? Aucun éditeur de logiciel sérieux ne peut se développer ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/CodeWisdom\/status\/882283237472645120","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/CodeWisdom" class="screenName"><img src="http://pbs.twimg.com/profile_images/705003311083229184/qTBCIxpk_mini.jpg" alt="profile of Programming wisdom and quotes throughout the years.
+
+The Knuth, the whole Knuth, and nothing but the Knuth, so help me Codd."/>CodeWisdom</a>
+		<span class="name">Programming Wisdom</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/CodeWisdom/status/882 283 237 472 645 120" class="date">4 juil. 2017 à 19:01:30</a>
+
+	<span class="content">
+	
+	<span class="text">"We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins." - Ellen Ullman</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>C'est triste, et ça n'est à mon avis pas prêt de changer, parce que la numérisation des organisations d'entreprise n'est nulle part dans la pyramide des besoins de Maslow dont cette crise révèle la dure réalité.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kill the newsletter!
+:jbake-tags: rss,email,web,_mois_nov.,_année_2016
+:jbake-date: 2016-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1479196013000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.kill-the-newsletter.com%2F&searchtags=rss+email+web+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.kill-the-newsletter.com/[Kill the newsletter!]
+
+Très chouette outil de newsletter=>RSS

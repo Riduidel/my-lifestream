@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreePOPs
+:jbake-tags: software,freeware,windows,linux,pop,server,gateway,_mois_févr.,_année_2005
+:jbake-date: 2005-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1108027296000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freepops.org%2Fen%2F&searchtags=software+freeware+windows+linux+pop+server+gateway+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.freepops.org/en/[FreePOPs]
+
+FreePOPs is an easily extensible program, which allows to have an access to the most varied resources through the POP3 protocol.

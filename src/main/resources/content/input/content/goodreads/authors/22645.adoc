@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gregory Benford
+:jbake-tags: author
+:jbake-date: 2001-08-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/22645.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1224059011p5/22645.jpg
+:jbake-source: https://www.goodreads.com/author/show/22645
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070417728.html[Un Paysage Du Temps]
+* link:../books/9782253071716.html[La Grande Rivière du ciel]
+* link:../books/9782253072379.html[Les Profondeurs Furieuses (Le Centre Galactique, Tome 5)]
+* link:../books/9782253072454.html[Dans l'océan de la nuit (Le Centre galactique, #1)]
+* link:../books/9782253172772.html[A Travers La Mer Des Soleils (Le Centre Galactique, Tome 2)]
+* link:../books/9782266174992.html[Les Enfants De Mars]
+* link:../books/9782266175005.html[L'ogre De L'espace]

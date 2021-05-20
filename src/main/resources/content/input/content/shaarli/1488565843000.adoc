@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Benjamin Pollack on Twitter: "RxJava, Vert.x, Rapidoid, OkHttp, and others remind me that Java can be clean, productive, and terse. It just usually isn't."
+:jbake-tags: java,citation,écosystème,_mois_mars,_année_2017
+:jbake-date: 2017-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1488565843000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgecko%2Fstatus%2F837721297870286848&searchtags=java+citation+%C3%A9cosyst%C3%A8me+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/gecko/status/837721297870286848[Benjamin Pollack on Twitter: "RxJava, Vert.x, Rapidoid, OkHttp, and others remind me that Java can be clean, productive, and terse. It just usually isn't."]
+
+Très vrai.

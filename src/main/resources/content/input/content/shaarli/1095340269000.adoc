@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Nostalgic Screensaver
+:jbake-tags: screensaver,software,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1095340269000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.greggman.com%2Fnostalgic%2F&searchtags=screensaver+software+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.greggman.com/nostalgic/[The Nostalgic Screensaver]
+
+No, not Nostalgic as in an old screensaver, Nostalgic as in when you use this screensaver you will feel nostalgic because this screensaver shows your images in a way similar to how many documentaries and biographies show still images from a history or a p

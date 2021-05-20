@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scala Snippets 1: Folding
+:jbake-tags: scala,programming,langage,java,_mois_déc.,_année_2014
+:jbake-date: 2014-12-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1417530975000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2F7cytv4qlNm8%2Fscala-snippets-1-folding&searchtags=scala+programming+langage+java+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/7cytv4qlNm8/scala-snippets-1-folding[Scala Snippets 1: Folding]
+
+L'article n'est pas inintéressant en soi, mais (je fais du scala-bashing) montre bien à quel point la doc de Scala - et donc l'esprit des développeurs - est snob : parler "d'opérateur associatif binaire" à la place d'une closure, je sais pas, moi, ça me donne l'impression que les mecs prennent un plaisir de hipster à se rendre incompréhensibles.

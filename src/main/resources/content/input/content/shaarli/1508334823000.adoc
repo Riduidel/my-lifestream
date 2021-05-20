@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "“Write code as if you had to support it for the rest of your life.” - Yuriy Zubarev"
+:jbake-tags: citation,programming,histoire,_mois_oct.,_année_2017
+:jbake-date: 2017-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1508334823000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F918958021027467264&searchtags=citation+programming+histoire+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/918958021027467264[Programming Wisdom on Twitter: "“Write code as if you had to support it for the rest of your life.” - Yuriy Zubarev"]
+
+Mouaip. Je préfère être content de revoir mon code (y compris les messages de commit)

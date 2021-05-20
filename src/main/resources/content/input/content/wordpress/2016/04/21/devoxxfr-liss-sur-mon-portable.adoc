@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - l'ISS sur mon portable
+:jbake-tags: javascript,mobile,web,_mois_avr.,_année_2016
+:jbake-date: 2016-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-liss-sur-mon-portable.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-liss-sur-mon-portable/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme le types algébriques est annulé (le speaker s'est perdu dans Devoxx), on passe tout de suite à l'ISS sur le portable d'Audrey Neveu.
+</p>
+<p>
+Et à priori, il sera question d'ionic ... déjà vu au chtijug il me semble. Et pour alimenter ionic, Audrey va utiliser streamdata.io (entreprise chez laquelle Audrey est évangéliste). Comme ionic est déjà vu, je vous le laisse de côté ...
+</p>
+<p>
+Cela dit, pour les données, il faut faire du temps réel. Pour faire du temps réel, on va semble-t-il prendre du server-side-events, solution sur laquelle se base streamdata.io. Et manifestement, c'est une solution qui fait tout un tas de trucs bien malins.
+</p>
+<p>
+Et c'est parti pour le dev ionic/cordova/angular/streamdata/...
+<br/>
+Et ça va très très vite jusqu'à la fin .. qui montre bien la position de l'ISS en temps réel.
+</p>
+<p>
+Cela dit, je retiens évidement l'intérêt de streamdata (que je ne connaissais pas) et de ces server-sent-events. ca a l'air bien pratique pour faire de la notification en HTTP plutôt que de l'échange bidirectionnel façon websocket.
+</p>
+++++

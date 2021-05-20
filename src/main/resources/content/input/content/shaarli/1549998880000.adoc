@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Carmack on Twitter: "I'm still completely in the excited-newbie honeymoon phase, but writing Rust code feels very wholesome."
+:jbake-tags: citation,programming,rust,_mois_févr.,_année_2019
+:jbake-date: 2019-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1549998880000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FID_AA_Carmack%2Fstatus%2F1094419108781789184&searchtags=citation+programming+rust+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ID_AA_Carmack/status/1094419108781789184[John Carmack on Twitter: "I'm still completely in the excited-newbie honeymoon phase, but writing Rust code feels very wholesome."]
+
+Ca me fait vraiment quelque chose de fort d'être au même stade que \*\*John Carmack\*\* !

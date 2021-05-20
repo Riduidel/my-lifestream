@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cat Exploit • Hackaday.io
+:jbake-tags: hack,wifi,animaux,_mois_janv.,_année_2017
+:jbake-date: 2017-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1483941590000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.io%2Fproject%2F9667-cat-exploit&searchtags=hack+wifi+animaux+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://hackaday.io/project/9667-cat-exploit[Cat Exploit • Hackaday.io]
+
+Enfin les chats ont un but dans la vie !

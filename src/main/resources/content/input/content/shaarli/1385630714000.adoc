@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Codebreaker's Dream: The Bombe!
+:jbake-tags: science,encryption,histoire,guerre,_mois_nov.,_année_2013
+:jbake-date: 2013-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1385630714000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.darkroastedblend.com%2F2013%2F11%2Fa-codebreakers-dream-bombe.html&searchtags=science+encryption+histoire+guerre+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.darkroastedblend.com/2013/11/a-codebreakers-dream-bombe.html[A Codebreaker's Dream: The Bombe!]
+
+La machine Enigma ! Et les machines de Bletchley Park. Evidement que ça me rappelle la folie furieuse au centre du Cryptonomicon.

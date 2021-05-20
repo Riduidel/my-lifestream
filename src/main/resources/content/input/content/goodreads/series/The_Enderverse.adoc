@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Enderverse
+:jbake-tags: serie
+:jbake-date: 2014-08-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Enderverse.adoc
+:jbake-source: https://www.goodreads.com/series/119216
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290308288.html[La Stratégie Ender]

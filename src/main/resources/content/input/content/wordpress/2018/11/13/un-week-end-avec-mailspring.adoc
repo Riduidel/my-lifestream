@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un week-end avec MailSpring
+:jbake-tags: logiciel,mail,windows,_mois_nov.,_année_2018
+:jbake-date: 2018-11-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/11/13/un-week-end-avec-mailspring.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/11/13/un-week-end-avec-mailspring/
+:jbake-style: wordpress
+
+++++
+<p>
+J'ai parlé la semaine dernière de <a href="https://riduidel.wordpress.com/2018/11/09/une-semaine-avec-foxmail/">FoxMail</a>. Et je voulais tester MailSpring. Le test a toutefois été très rapide.
+</p>
+<p>
+En effet, l'interface est bien lissée (comme la police d'ailleurs). Mais la configurabilité est très limitée et ... pire ... le volet d'information sur le contact ne peut pas être supprimé ! Et franchement, il prend de la place ce volet. Qui plus est, la navigation entre les mails est un peu limitée.
+</p>
+<p>
+J'ai donc désinstallé MailSpring environ 1/2 heure après l'avoir installé.
+</p>
+<p>
+Résultat ? J'utilise toujours ce bon vieux Thunderbird qui a certes des défauts, mais qui marche bien.
+</p>
+++++

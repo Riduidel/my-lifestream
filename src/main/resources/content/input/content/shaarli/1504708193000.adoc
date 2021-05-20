@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Glob arg behaves differently if ran from npm script · Issue #5796 · eslint/eslint
+:jbake-tags: javascript,system,regexp,interpreter,_mois_sept.,_année_2017
+:jbake-date: 2017-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1504708193000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Feslint%2Feslint%2Fissues%2F5796&searchtags=javascript+system+regexp+interpreter+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/eslint/eslint/issues/5796[Glob arg behaves differently if ran from npm script · Issue #5796 · eslint/eslint]
+
+Encore un truc à ajouter dans mon "modern Javascript rant"

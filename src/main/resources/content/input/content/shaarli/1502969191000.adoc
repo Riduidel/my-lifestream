@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: haasted/TestLogCollectors: A JUnit rule for capturing log statements during tests. Compatible with most popular logging frameworks.
+:jbake-tags: java,programming,library,test,log,_mois_août,_année_2017
+:jbake-date: 2017-08-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1502969191000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fhaasted%2FTestLogCollectors&searchtags=java+programming+library+test+log+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/haasted/TestLogCollectors[haasted/TestLogCollectors: A JUnit rule for capturing log statements during tests. Compatible with most popular logging frameworks.]
+
+Ca a l'air très chouette, cette rule de capture des logs, même si ça induit une vision des tests un peu louche

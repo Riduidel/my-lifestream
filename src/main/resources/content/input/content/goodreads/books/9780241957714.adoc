@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century
+:jbake-tags:  langage,_année_2020,_mois_sept.,_note_3,rayon-essai,read
+:jbake-date: 2020-09-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780241957714.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443014087l/26803614._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1443014087l/26803614._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/26803614
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+"<b>Steven Pinker, the bestselling author of <i>The Language Instinct</i>, deploys his gift for explaining big ideas in <i>The Sense of Style</i> - an entertaining writing guide for the 21st century<br /><br /></b>What is the secret of good prose? Does writing well even matter in an age of instant communication? Should we care? In this funny, thoughtful book about the modern art of writing, Steven Pinker shows us why we all need a sense of style.<br /><br />More than ever before, the currency of our social and cultural lives is the written word, from Twitter and texting to blogs, e-readers and old-fashioned books. But most style guides fail to prepare people for the challenges of writing in the 21st century, portraying it as a minefield of grievous errors rather than a form of pleasurable mastery. They fail to deal with an inescapable fact about language: it changes over time, adapted by millions of writers and speakers to their needs. Confusing changes in the world with moral decline, every generation believes the kids today are degrading society and taking language with it. A guide for the new millennium, writes Steven Pinker, has to be different.<br /><br />Drawing on the latest research in linguistics and cognitive science, Steven Pinker replaces the recycled dogma of previous style guides with reason and evidence. This thinking person's guide to good writing shows why style still matters: in communicating effectively, in enhancing the spread of ideas, in earning a reader's trust and, not least, in adding beauty to the world. Eye-opening, mind-expanding and cheerful, <i>The Sense of Style</i> shows that good style is part of what it means to be human."
+</div>
+++++
+
+
+## Authors
+* link:../authors/3915.html[Steven Pinker]
+
+
+
+## Review
+
+++++
+Since this book is full english, and have as subject the english language, let me try my best at a review in english.<br/>So this book is, more a less, an essay about style, grammar and english syntax.<br/>It's full of the details that make that language so funny to write. Indeed, as a french speaking person, I'm used to have some kind of formalizing body, the french academy, which role is to judge what is good or not.<br/>According to this book, it seems like english does not have this chance and instead relies upon consensus. Obviously, this consensus is not always so consensual, and it looks like there are rules which provoke jeated debates amongst linguists, grammarians, and other language professionnels. This should make that book really appealing to anybody with a deep knowledge of english subtle rules. For me, unfortunatly, it was way too detailed.<br/>However, I learnt a few very interesting things, even appliable in french. As an example, the need for valid sentences is explained in syntax tree browsing (which I find really appealing as an IT engineer). Moreover, there is a whole chapter about the way language tries to transform, through this syntax tree, our web of thoughs into linear sentences. And this is just the tip of the iceberg.<br/>So if you want to learn how to write sensible english texts, this book is, even if I'm not the best to judge, a must-read.
+++++

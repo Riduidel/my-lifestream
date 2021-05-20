@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Google Arts & Culture Experiments - X Degrees of Separation
+:jbake-tags: art,ia,_mois_nov.,_année_2016
+:jbake-date: 2016-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1479372829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fartsexperiments.withgoogle.com%2Fxdegrees%2F3gF011oIXv3kcQ%2FxwERWaqDyIcZ9w&searchtags=art+ia+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://artsexperiments.withgoogle.com/xdegrees/3gF011oIXv3kcQ/xwERWaqDyIcZ9w[Google Arts & Culture Experiments - X Degrees of Separation]
+
+Trouver des similarités entre des oeuvres peut nous en apprendre beaucoup

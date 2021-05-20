@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bluetooth Proximity Lock
+:jbake-tags: software,windows,bluetooth,sécurité,freeware,open-source,_mois_janv.,_année_2015
+:jbake-date: 2015-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1422016472000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbtprox.sourceforge.net%2F&searchtags=software+windows+bluetooth+s%C3%A9curit%C3%A9+freeware+open-source+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://btprox.sourceforge.net/[Bluetooth Proximity Lock]
+
+Verrouiller son ordinateur avec son téléphone portable Bluetooth ...

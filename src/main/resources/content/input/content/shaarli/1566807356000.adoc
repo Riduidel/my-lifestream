@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: npm install funding · Issue #1381 · standard/standard · GitHub
+:jbake-tags: open-source,économie,publicité,_mois_août,_année_2019
+:jbake-date: 2019-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1566807356000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fstandard%2Fstandard%2Fissues%2F1381&searchtags=open-source+%C3%A9conomie+publicit%C3%A9+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/standard/standard/issues/1381[npm install funding · Issue #1381 · standard/standard · GitHub]
+
+Une démarche intéressante de financement open-source (et je ne dis pas que je suis pour)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'art du debug
+:jbake-tags: programming,debug,article,_mois_déc.,_année_2017
+:jbake-date: 2017-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1513329707000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.xebia.fr%2Fwp-content%2Fuploads%2F2017%2F05%2FProg207complet1opt-1.pdf&searchtags=programming+debug+article+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://blog.xebia.fr/wp-content/uploads/2017/05/Prog207complet1opt-1.pdf[L'art du debug]
+
+Sous le titre qui est celui que je voulais donner à une présentation interne se cache un article légèrement différent, parce qu'avec un angle différent. C'est néanmoins très intéressant.

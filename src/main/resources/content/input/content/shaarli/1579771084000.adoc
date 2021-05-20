@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What I learned as a developer from accidents in space — Martian Chronicles, Evil Martians’ team blog
+:jbake-tags: programming,méthode,histoire,espace,_mois_janv.,_année_2020
+:jbake-date: 2020-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1579771084000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fevilmartians.com%2Fchronicles%2Fwhat-i-learned-as-a-developer-from-accidents-in-space&searchtags=programming+m%C3%A9thode+histoire+espace+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://evilmartians.com/chronicles/what-i-learned-as-a-developer-from-accidents-in-space[What I learned as a developer from accidents in space — Martian Chronicles, Evil Martians’ team blog]
+
+Un article exceptionnellement bien foutu (sans doute parce que j'aime moi aussi l'espace). N'empêche, les éléments à retenir sont géniaux : - toujours mettre à jour la doc - toujours faire des rapports de bugs - toujours automatiser

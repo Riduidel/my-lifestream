@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Exploratree - Exploratree by FutureLab
+:jbake-tags: collaboration,freeware,graphics,knowledge,management,mapping,online,planner,productivité,psychologie,social,visualisation,web,_mois_déc.,_année_2007
+:jbake-date: 2007-12-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1198057923000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.exploratree.org.uk%2F&searchtags=collaboration+freeware+graphics+knowledge+management+mapping+online+planner+productivit%C3%A9+psychologie+social+visualisation+web+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.exploratree.org.uk/[Exploratree - Exploratree by FutureLab]
+
+Un site très web 2 pour formaliser les choses informelles. Ca a l'air très bien foutu, et pour peu que ce soit exportable (ou tout au moins utilisable facilement avec opera), ça doit pouvoir rendre de sacrés services.

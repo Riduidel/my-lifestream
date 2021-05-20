@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - bijection/sistine: Turn a MacBook into a Touchscreen with $1 of Hardware
+:jbake-tags: touchscreen,hack,macosx,python,_mois_août,_année_2019
+:jbake-date: 2019-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1565612868000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fbijection%2Fsistine&searchtags=touchscreen+hack+macosx+python+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/bijection/sistine[GitHub - bijection/sistine: Turn a MacBook into a Touchscreen with $1 of Hardware]
+
+Une implémentation très drôle de touchscreen adaptable à mon avis à d'autres OS

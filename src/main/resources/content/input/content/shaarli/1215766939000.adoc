@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Abander PhotosControl
+:jbake-tags: exif,editor,freeware,photographie,software,windows,_mois_juil.,_année_2008
+:jbake-date: 2008-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1215766939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.softartstudio.com%2Fphotoscontrol%2F&searchtags=exif+editor+freeware+photographie+software+windows+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.softartstudio.com/photoscontrol/[Abander PhotosControl]
+
+Un gestionnaire de photos pour Windows totallement gratuit. Faudra juste tester la qualité de la sauvegarde exif.

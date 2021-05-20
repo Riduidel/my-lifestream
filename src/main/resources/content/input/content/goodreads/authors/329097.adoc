@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marc-Antoine Mathieu
+:jbake-tags: author
+:jbake-date: 2011-11-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/329097.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1384006325p5/329097.jpg
+:jbake-source: https://www.goodreads.com/author/show/329097
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782840550563.html[Le Début de la fin (Julius Corentin Acquefacques, prisonnier des rêves #4)]
+* link:../books/9782840554103.html[Mémoire Morte]
+* link:../books/9782840557852.html[Le Dessin]

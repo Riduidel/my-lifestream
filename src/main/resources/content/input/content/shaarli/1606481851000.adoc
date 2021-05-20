@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Javalin - A lightweight Java and Kotlin web framework
+:jbake-tags: java,kotlin,web,framework,open-source,_mois_nov.,_année_2020
+:jbake-date: 2020-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1606481851000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjavalin.io%2F&searchtags=java+kotlin+web+framework+open-source+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://javalin.io/[Javalin - A lightweight Java and Kotlin web framework]
+
+Un microframework Java/Kotlin, pour tous ces moments où j'ai pas trop envie de m'embêter à créer des dizaines de classes ...

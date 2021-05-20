@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean sans lune (De cape et de Crocs, #5)
+:jbake-tags:  lune, mer, rayon-bd, science, voyage,_année_2010,_mois_janv.,_note_5,amour,read
+:jbake-date: 2010-01-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840555780.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372492716l/1992869._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1372492716l/1992869._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1992869
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/876891.html[Alain Ayroles]
+* link:../authors/876892.html[Jean-Luc Masbou]
+
+## Series
+* link:../series/De_Cape_et_de_Crocs.html[De Cape et de Crocs]
+
+## Review
+
+++++
+
+++++

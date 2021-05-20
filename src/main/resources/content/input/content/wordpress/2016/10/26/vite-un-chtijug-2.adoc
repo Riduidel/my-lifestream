@@ -1,0 +1,326 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vite, un chtijug !
+:jbake-tags: chtijug,javascript,sécurité,test,_mois_oct.,_année_2016
+:jbake-date: 2016-10-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/10/26/vite-un-chtijug-2.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/10/26/vite-un-chtijug-2/
+:jbake-style: wordpress
+
+++++
+<p>
+Je me demande si je n'ai pas déjà utilisé ce titre ...
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/790 954 855 737 225 217" class="date">25 oct. 2016 à 18:35:07</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Le ch'ti jug fait (enfin) sa rentrée! https://t.co/1iGLuXJXI5</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CvoJPXnWYAA4w_D.jpg" alt="790 954 844 198 690 816"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+En attendant, hier soir, c'était chtijug spécial quickies.
+<br/>
+<h1>HTTPS Everywhere avec let’s encrypt</h1>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chezTone" class="screenName"><img src="http://pbs.twimg.com/profile_images/1181244744392986631/a8x-TBn9_mini.jpg" alt="profile of Would like to make the world better using code and love. Embrasses DevOps culture. Docker, Rust & Kotlin lover. Certified GCP Architect. @Sfeir @GDGLille"/>chezTone</a>
+<br/>
+<span class="name">Tony Proum［Ξ］</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chezTone/status/790 962 319 278 927 872" class="date">25 oct. 2016 à 19:04:46</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@Denouche au @chtijug ça envoi toujours du #poney https://t.co/qx65r65aJK</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CvoQBaiWYAEwHVU.jpg" alt="790 962 301 046 251 521"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-3">Le HTTPS c’est mieux pour la confidentialité des utilisateurs. <a href="https://letsencrypt.org/">Let’s encrypt</a> est une autorité de certification, dont le client essentiel est <a href="https://github.com/certbot/certbot">certbot</a>.</div>
+<br/>
+<div class="sect1 data-line-6">
+<br/>
+<h2 id="truecertbot">certbot</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Tourne sur n’importe quel Unix (oui oui). Il y a des plugins pour tous les serveurs web, même sur le Raspberry.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-9">
+<br/>
+<h3 id="trued_monstration_avec_un_site_apache">Démonstration avec un site Apache</h3>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+S’ensuit une jolie démonstration avec des poneys en ascii-art. Et tant mieux, parce que certbot a une interface <strong>ncurses</strong> ! On note tout de suite les problèmes classiques liés à du https : le mixed content (images ou scripts chargés en http, …). Je note également le point "magique" de Let's Encrypt : obtenir un certificat <em>à la volée</em>, c'est quand même vachement plus rapide que de le réclamer physiquement à un service de sécurité.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-14">
+<br/>
+<h2 id="truevalidation_du_certificat">Validation du certificat</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+La partie intéressante de Let’s encrypt, c’est le mode de génération de certificat. Plutôt que d’utiliser la méthode traditionnelle avec échange de mail, ils reposent sur l’exposition d’un challenge en http sur le site pour lequel on veut un certificat. C’est assez malin, car plus facilement automatisable. Et j’imagine que certbot doit pouvoir automatiser ça
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-17">
+<br/>
+<h3 id="trued_monstration_avec_nginx_et_webroot">Démonstration avec nginx et webroot</h3>
+<br/>
+<div class="paragraph data-line-18">
+</p>
+<p>
+Histoire de montrer les capacités de certbot, on refait la démo, mais avec une configuration manuelle, pour nginx.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-20">
+<br/>
+<h2 id="trueint_r_t">Intérêt ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Le certificat est renouvellé automatiquement tous les 90 jours ! Du coup, plus de problème d’expiration. Et ça, pour les noobs de la sécurité comme moi, c’est vraiment cool. Un point important à noter : Let’s encrypt ne fournit que des certificats de classe 1, donc avec une sécurité "moyenne". Les classes 2 et 3 impliquent des vérifications physiques, qui sont évidement manuelles.
+</p>
+<p>
+Point bonus : il y a une interface permettant de révoquer les certificats depuis le site de Let's Encrypt, ce qui provoquera sans doute leur renouvellement automatique.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="truece_que_la_revue_de_code_m_a_apport" class="sect0">Ce que la revue de code m’a apporté</h1>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Julien commence par nous raconter sa vie de jeune développeur. Et, personnellement, je me reconnais mal là-dedans :
+<br/>
+<ul>
+<br/>
+<li>la fierté du code produit</li>
+<br/>
+<li>la propriété du code (c’est le code de Julien)</li>
+<br/>
+<li>Et enfin, il veut que son code soit beau longtemps</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Du coup, ils ont mis en place chez Axa des revues de code avec des rôles identifiés pour limiter les procès en sorcellerie. Malheureusement, j’ai peur que ça ne suffise pas. Du coup, il faut apprendre plusieurs choses (qui, il me semble, font partie de l’expérience du développeur). La première étant évidement de faire preuve de bienveillance envers ses collègues, le fameux "dur avec le code, doux avec les gens".
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-32">
+</p>
+<p>
+Axa consomme environ 5% de son temps à faire de la revue de code. C’est assez peu, vu que ça permet de détecter des bugs (en plus d’assurer une cohérence stylistique des livrables).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+A priori, il faut environ 3 mois pour que les revues soient "apaisées".
+</p>
+<p>
+A la réflexion, il y a à mon avis quelque chose de complètement biaisé dans le fait que le développeur vienne présenter lui-même son code à un procès en sorcellerie. Il vaudrait sans doute mieux que le code soit défendu par un "avocat" sans que le développeur à l'origine du code puisse être reconnu. Parce que, comme je le dis toujours, le code qui est dans Subversion/Git n'est plus ton code, c'est celui de l'équipe. Et c'est ce qui le rend magiquement sale.
+</p>
+<p>
+</div>
+<br/>
+<h1 id="truelunrjs" class="sect0">lunrjs</h1>
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+<a href="http://lunrjs.com/">lunrjs</a> est un portage de Lucene pour javascript, utilisé chez Decathlon. Et sur le site de Decathlon, actuellement, quand on change un filtre de recherche, la page est visiblement rechargée (ce qui n’est pas terrible en termes de performances). Un portage, mais un peu restreint, puisqu’on perd par exemple les recherches de termes approchants.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-39">A noter qu’actuellement, le catalogue produits de Decathlon est hébergé en SAAS, ce qui est … osé, je trouve.</div>
+<br/>
+<div class="paragraph data-line-39"></div>
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+Cela dit, je n’ai pas trouvé ça si impressionnant. Parce qu'il existe déja des tonnes d'<a href="https://www.sitepoint.com/9-javascript-libraries-working-with-local-storage/">API javascript pour exploiter le local storage</a> "correctement". En fait, le seul intérêt de lunrjs, c'est de compléter les recherches disponibles dans Lucene pour les déconnexions, mais je trouve le cas d'utilisation assez rare pour ne pas investir spécifiquement dessus. A mon sens, travailler sur une vraie API client/serveur dans le navigateur permettrait plus facilement d'attaquer ce type de problème. Sauf, bien sûr, si l'objectif du projet est précisément d'étendre Lucene, mais c'est plus de l'ordre du patch que de l'évolution en profondeur.
+</p>
+<p>
+</div>
+<br/>
+<h1 id="truecerberus" class="sect0">Cerberus</h1>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ATheve" class="screenName"><img src="http://pbs.twimg.com/profile_images/882675490561118208/LEFOZxA-_mini.jpg" alt="profile of Manager chez Davidson SI Nord"/>ATheve</a>
+<br/>
+<span class="name">Alexandre Theve</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ATheve/status/790 975 627 524 538 368" class="date">25 oct. 2016 à 19:57:39</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@aurelienbourdon nous parle de cerberus ce soir au @chtijug https://t.co/t6lEYQ3CfC</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CvocAOvWIAQgg20.jpg" alt="790 975 474 839 199 748"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-44">Donc, <a href="http://cerberus-testing.org/index.php/fr/">cerberus</a> est un outil de test fonctionnel automatique. Des outils comme ça, il y en a … déjà … des tonnes. Alors pourquoi La Redoute s’est lancée dans cette guerre des tranchées ? Comme d’hab, l’hubris (autrement dit "il n’existait pas de solution correspondant à leur besoin"). Cerberus se place donc entre les différentes équipes, pour fournir un référentiel commun. ce qui implique également que les tests puissent être décrits par les fonctionnels ou les développeurs. Et comme un outil comme HPQC, il offre tout un tas de fonctionnalités, comme le support multi-technologies, multi-langues, multi-environnements l’exécution adaptative des tests, la génération de rapports ou l’intégration dans les outils de développement du SI (IC, bug tracker, …).</div>
+<br/>
+<div class="paragraph data-line-44"></div>
+<br/>
+<div class="paragraph data-line-44">Bon, j’avoue, j’ai décroché lors de la démo. Parce que vraiment, on est face à de l’outil de test fonctionnel très haut niveau, où les étapes peuvent être effectuées manuellement ou automatiquement. Ce qui ne m’inspire qu’une chose : ces outils ne sont pas faits pour le monde d’aujourd’hui, mais pour les bonnes grosses applications traditionnelles des entreprises qui ont encore des équipes dév, fonctionnelles, test, différentes, et des processus de livraison longs et lourds. Dans ce cadre, j’imagine que ça doit marcher. Mais dans le cadre hyper-mouvant du web de 2016, je ne suis pas sûr que ça bouge assez vite.</div>
+<br/>
+<div class="paragraph data-line-44"></div>
+<br/>
+<h2 class="paragraph data-line-44">Conclusion</h2>
+<br/>
+Je peux paraître un peu dur avec certains des talks, mais ça n'est pas mon but. Le contenu ne m'a peut-être pas autant intéressé que les orateurs l'auraient souhaité, mais ça n'ôte rien à leur prestation. Les quatre présentations étaient en effet bien préparées, construites, bien organisées. C'est juste que chaque auditeur met ses propres filtres sur les sujets qui lui sont présentés ... Bravo encore au chtijug qui arrive toujours à trouver des choses intéressantes à nous présenter (eh oui, ça n'est pas parce que ça ne m'a pas plu que ça n'était ps intéressant).
+</p>
+++++

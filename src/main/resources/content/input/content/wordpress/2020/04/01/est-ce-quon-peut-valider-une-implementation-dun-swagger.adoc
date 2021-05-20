@@ -1,0 +1,300 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Est-ce qu'on peut valider une implémentation d'un Swagger ?
+:jbake-tags: maven,spring,swagger,validation,web,_mois_avr.,_année_2020
+:jbake-date: 2020-04-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/01/est-ce-quon-peut-valider-une-implementation-dun-swagger.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/01/est-ce-quon-peut-valider-une-implementation-dun-swagger/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>C'est une question un peu curieuse, mais pourtant nécessaire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Aujourd'hui, j'entends des gens qui commencent à dire que l'implémentation des services REST n'est qu'une version modernisée des <a href="https://fr.wikipedia.org/wiki/Architecture_orient%C3%A9e_services">architectures SOA</a>. Et c'est vrai que les ressemblances sont bien plus nombreuses que les différences. En effet, même si tous les hipsters vous diront qu'on s'est enfin débarrassé des infâmes messages SOAP (cool) et du XML (moins cool), il y a toujours des messages échangés qui doivent respecter un contrat d'interface.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce contrat d'interface est malheureusement souvent implicite. Malheureusement ? Oui, parce que si vous développez votre composant serveur et votre composant client sans documenter l'interface (au sens le plus conceptuel du terme), vous vous mettez dans la situation d'un programme non documenté.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/mbeddedartistry\/status\/1104162527632678912","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/mbeddedartistry" class="screenName"><img src="http://pbs.twimg.com/profile_images/955129784891142146/4rK9fTsk_mini.jpg" alt="profile of Embedded systems consulting firm. Distilling techniques & processes so you can take your embedded skills to the next level. This account is run by Phillip."/>mbeddedartistry</a>
+		<span class="name">Embedded Artistry</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/mbeddedartistry/status/1 104 162 527 632 678 912" class="date">9 mars 2019 à 00:30:35</a>
+
+	<span class="content">
+	
+	<span class="text">On fragile projects w/o documentation, you rely on developers who know the history of the system. When they leave, the team will preserve the fragile state b/c "changing X may have unintended consequences". Your system becomes frozen & bug fixes and improvements will be rejected.</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Bref, vous risquez fort de paralyser votre implémentation client et serveur simplement parce que vous n'aurez pas pris le temps de documenter votre interface. Si vous avez de la chance, vous faites du Spring (je dis de la chance, mais c'est une bénédiction assez modérée. Il se trouve juste que c'est le cas sur lequel j'ai étudié un moyen de mitiger ce problème). Et si vous faites du Spring, vous savez que, simplement en ajoutant <a href="https://springfox.github.io/springfox/">Springfox</a>, vous pouvez produire un fichier <a href="https://swagger.io/">Swagger</a>. Swagger c'est cool, parce que c'est une spécification documentée de votre interface. Ca permet à vos utilisateurs de savoir en détail comment vous appeler (pour peu que vous ayez un minimum documenté votre code, bien sûr). Et du coup vous leur envoyer le Swagger généré. Et tout va bien, jusqu'au moment où vous vous rendez compte que vous n'avez pas trop la liberté de faire évoluer votre contrat d'interface si votre client n'est pas d'accord.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que votre client ne va sans doute pas s'amuser à mettre à jour son code à chaque fois que vous changez le vôtre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, vous allez changer votre process pour avoir votre Swagger qui ne soit plus généré par votre code, mais qui le génère (vous passez d'une approche code first à une approche <a href="https://stackoverflow.com/q/1898989/15619">contract first</a>). Et à ce moment-là, vous pourrez vérifier que l'interface effectivement exposée par votre application correspond à votre contrat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comment ? A priori, vous pourriez utiliser un bête diff YAML, mais c'est assez fastidieux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heureusement, il existe un outil dans le monde Java, <a href="http://deepoove.com/swagger-diff/">swagger-diff</a>, qui permet précisément ça. C'est assez pratique et ça génère un beau rapport HTML.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/Sayi/swagger-diff/master/changelog.png" alt="" /><figcaption>Un exemple classique de rapport swagger-diff</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Mais on peut aller plus loin. Supposons que vous souhaitiez faire évoluer votre API. Qu'est-ce que vous avez le droit de faire sans casser le client ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On est d'accord que vous ne pouvez rien supprimer. Autrement dit, vous ne pouvez pas supprimer aucun endpoint, aucune méthode HTTP, ni même aucun paramètre. Dans le même ordre d'idée, vos réponses doivent toujours exposer les mêmes champs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par contre, vous pouvez ajouter des endpoints, des méthodes, ou même des paramètres (pour peu qu'ils soient optionnels).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et tout ça, comme swagger-diff est intégrable dans votre build maven, vous pouvez en faire des tests JUnit ! Et d'un coup, vous verrez de façon immédiate et efficace si vous continuez à respecter le contrat que vous prétendez respecter. Il y a évidément quelques pièges, mais je vais vous laisser les trouver. Parce que si j'avais commencé une étude d'implémentation de ce genre de mécanisme (et franchement c'était très prometteur), je n'ai pas eu le temps de la mener à son terme.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je vous laisse quand même le <a href="<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">package com.adeo.costing.computer.swagger;
+
+import static org.assertj.core.api.Assertions.assertThat;
+import static org.junit.jupiter.api.DynamicTest.dynamicTest;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+import java.util.stream.Collectors;
+
+import org.assertj.core.api.Assertions;
+import org.junit.jupiter.api.DynamicTest;
+import org.junit.jupiter.api.TestFactory;
+import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
+import org.springframework.boot.autoconfigure.ImportAutoConfiguration;
+import org.springframework.boot.autoconfigure.mongo.embedded.EmbeddedMongoAutoConfiguration;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.util.TestPropertyValues;
+import org.springframework.boot.test.web.client.TestRestTemplate;
+import org.springframework.boot.web.server.LocalServerPort;
+import org.springframework.context.ApplicationContextInitializer;
+import org.springframework.context.ConfigurableApplicationContext;
+import org.springframework.context.annotation.ComponentScan;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.Import;
+import org.springframework.context.annotation.Profile;
+import org.springframework.data.mongodb.repository.config.EnableMongoRepositories;
+import org.springframework.http.HttpHeaders;
+import org.springframework.http.ResponseEntity;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.web.servlet.config.annotation.EnableWebMvc;
+import org.testcontainers.junit.jupiter.Container;
+import org.testcontainers.junit.jupiter.Testcontainers;
+import org.testcontainers.shaded.org.apache.commons.io.FileUtils;
+
+import com.adeo.costing.computer.configuration.MongoDBContainer;
+import com.adeo.costing.computer.configuration.SecurityConfiguration;
+import com.adeo.costing.computer.repository.ParameterRepository;
+import com.deepoove.swagger.diff.SwaggerDiff;
+import com.deepoove.swagger.diff.model.ChangedEndpoint;
+import com.deepoove.swagger.diff.model.ChangedOperation;
+import com.deepoove.swagger.diff.model.ChangedParameter;
+import com.deepoove.swagger.diff.model.ElProperty;
+import com.deepoove.swagger.diff.model.Endpoint;
+import com.deepoove.swagger.diff.output.HtmlRender;
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.databind.JsonMappingException;
+import com.fasterxml.jackson.databind.JsonNode;
+import com.fasterxml.jackson.databind.ObjectMapper;
+import com.fasterxml.jackson.dataformat.yaml.YAMLMapper;
+
+import io.swagger.models.HttpMethod;
+
+@SpringBootTest(classes = ExporterForApiValidator.TestConfiguration.class,
+	webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
+@ImportAutoConfiguration
+@ContextConfiguration(initializers = { ExporterForApiValidator.Initializer.class })
+@Testcontainers
+@Import(value = {SecurityConfiguration.class})
+@Profile(value = "validate-api")
+public class ExporterForApiValidator {
+
+	private static final String API_VALIDATOR_OUTPUT_FILE = "api.validator.output.file";
+	private static final String API_VALIDATOR_CONTRACT_FILE = "api.validator.contract.file";
+	private static final String API_VALIDATOR_DIFF_FILE = "api.validator.diff.file";
+
+	static class Initializer implements ApplicationContextInitializer&lt;ConfigurableApplicationContext&gt; {
+		@Override
+		public void initialize(ConfigurableApplicationContext configurableApplicationContext) {
+		}
+	}
+
+	@EnableAutoConfiguration
+	@EnableWebMvc
+	@ComponentScan(basePackages = "TODO")
+	@Configuration
+	static class TestConfiguration {
+	}
+
+	@LocalServerPort
+	private int port;
+	HttpHeaders headers = new HttpHeaders();
+
+	TestRestTemplate restTemplate = new TestRestTemplate();
+
+	private String createURLWithPort(String uri) {
+		return "http://localhost:" + port + uri;
+	}
+
+	private static class DynamicTestRender {
+
+		public Collection&lt;DynamicTest&gt; render(SwaggerDiff diff) {
+			Collection&lt;DynamicTest&gt; returned = new ArrayList&lt;&gt;();
+			for(Endpoint newEndpoint: diff.getNewEndpoints()) {
+				// A new endpoint is not a problem
+				returned.add(DynamicTest.dynamicTest("ADDED "+newEndpoint.getPathUrl(),
+						() -&gt; Assertions.assertThat(true).isTrue().as("Endpoint %s seems to have been added", newEndpoint.getPathUrl())));
+			}
+			for(Endpoint missingEndpoint: diff.getMissingEndpoints()) {
+				// A missing endpoint IS problem
+				returned.add(dynamicTest("REMOVED "+missingEndpoint.getPathUrl(),
+						() -&gt; assertThat(false).isTrue().as("Endpoint %s seems to have been removed", missingEndpoint.getPathUrl())));
+			}
+			for(ChangedEndpoint changedEndpoint: diff.getChangedEndpoints()) {
+				// For a changed endpoint, we can have added elements, but not removed ones
+				changedEndpoint.getNewOperations().entrySet().stream().forEach(entry -&gt; {
+					returned.add(dynamicTest("ADDED "+entry.getKey().name()+" "+changedEndpoint.getPathUrl(),
+							() -&gt; assertThat(true).isTrue().as("Endpoint %s seems to have been added", entry.getKey().name()+" "+changedEndpoint.getPathUrl())));
+				});
+				changedEndpoint.getMissingOperations().entrySet().stream().forEach(entry -&gt; {
+					returned.add(dynamicTest("REMOVED "+entry.getKey().name()+" "+changedEndpoint.getPathUrl(),
+							() -&gt; assertThat(false).isTrue().as("Endpoint %s seems to have been removed", entry.getKey().name()+" "+changedEndpoint.getPathUrl())));
+				});
+				for(HttpMethod method : changedEndpoint.getChangedOperations().keySet()) {
+					ChangedOperation changedOperation = changedEndpoint.getChangedOperations().get(method);
+					returned.add(dynamicTest("CHANGED "+method.name()+" "+changedEndpoint.getPathUrl(),
+							() -&gt; assertThat(changedOperation)
+								.satisfies(changed -&gt; assertThat(changed.getMissingParameters())
+										.as("Removed parameters in \"%s\", %s are marked as missing",
+												changed.getSummary(),
+												changed.getMissingParameters().stream().map(param -&gt; param.getName()).collect(Collectors.toList())
+												)
+										.isEmpty())
+								.satisfies(changed -&gt; assertThat(changed.getMissingProps())
+										.as("Removed properties in \"%s\", %s are marked as missing",
+												changed.getSummary(),
+												changed.getMissingProps().stream().map(prop -&gt; prop.getProperty().getName()).collect(Collectors.toList())
+												)
+										.isEmpty())
+								.satisfies(changed -&gt; assertThat(changed.getChangedParameter())
+										.as("Changed parameter failure in \"%s\"", changed.getSummary())
+										.allSatisfy(changedParamater -&gt; assertThat(changedParamater)
+												.satisfies(this::noMissingParameterInChangedParameter)
+//												.satisfies(this::noChangedParameterInChangedParameter)
+												)
+									)));
+				}
+			}
+			return returned;
+		}
+
+		private void noMissingParameterInChangedParameter(ChangedParameter changed) {
+			List&lt;ElProperty&gt; missing = changed.getMissing();
+			assertThat(missing)
+				.as("There should be no removed parameter, but %s are marked as removed",
+						missing.stream().map(m -&gt; m.getEl()).collect(Collectors.joining(", ", "[", "]")))
+				.isEmpty();
+		}
+
+		private void noChangedParameterInChangedParameter(ChangedParameter changed) {
+			List&lt;ElProperty&gt; modified = changed.getChanged();
+			assertThat(modified)
+				.as("There should be no changed parameter, but %s are marked as changed",
+						modified.stream().map(m -&gt; m.getProperty().getName()==null ? m.getProperty().getDescription() : m.getProperty().getName()).collect(Collectors.toList()))
+				.isEmpty();
+		}
+
+	}
+
+	@TestFactory
+	Collection&lt;DynamicTest&gt; testSwaggerAnnotationsMatchesApiYaml() throws IOException {
+		File effectiveSwagger = getSwaggerAsFile();
+		File contractSwagger = systemPropertyAsFile(API_VALIDATOR_CONTRACT_FILE);
+		File outputDiff = systemPropertyAsFile(API_VALIDATOR_DIFF_FILE);
+		SwaggerDiff diff = SwaggerDiff.compareV2(contractSwagger.getAbsolutePath(), effectiveSwagger.getAbsolutePath());
+		// Let's suppose for now that the CSS will be in the same folder
+		String html = new HtmlRender("Changelog", "demo.css").render(diff);
+		FileUtils.write(outputDiff, html, "UTF-8");
+		// Beside rendering, we also generate dynamic tests
+		return new DynamicTestRender().render(diff);
+	}
+
+	private File getSwaggerAsFile() throws JsonProcessingException, JsonMappingException, IOException {
+		File output = systemPropertyAsFile(API_VALIDATOR_OUTPUT_FILE);
+		ResponseEntity&lt;String&gt; docs = restTemplate.getForEntity(createURLWithPort("/api-docs"), String.class);
+		assertThat(docs.getStatusCodeValue()).isLessThan(400);
+		String api = docs.getBody();
+		assertThat(api).isNotBlank();
+		writeYaml(output, api);
+		return output;
+	}
+
+	private void writeYaml(File output, String api) throws JsonProcessingException, JsonMappingException, IOException {
+		JsonNode json = new ObjectMapper().readTree(api);
+		String yaml = new YAMLMapper().writeValueAsString(json).replace("---\n", "");
+		FileUtils.write(output, yaml, "UTF-8");
+	}
+
+	private File systemPropertyAsFile(String systemProperty) {
+		String outputFileName = System.getProperty(systemProperty);
+		assertThat(outputFileName).as("Property %s must be defined", systemProperty).isNotBlank();
+		File output = new File(outputFileName);
+//		assertThat(output).as("Property %s must be a resolvable file path", systemProperty).isFile();
+		return output;
+	}
+
+}</pre></body></html>
+</code>
+</pre>">squelette de test</a> que j'avais mis en place, et qui est assez cool (et oui, j'utilise <a href="https://www.testcontainers.org/">TestContainers </a>et un test d'intégration Spring pour bien charger toute mon application). A mon avis, ce serait une addition très utile à swagger-diff ...</p>
+<!-- /wp:paragraph -->
+++++

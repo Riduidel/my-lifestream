@@ -1,0 +1,84 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arrêter de rêver, le plein emploi ne reviendra pas !
+:jbake-tags: économie,emploi,technologie,_mois_janv.,_année_2016
+:jbake-date: 2016-01-28
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/01/28/arreter-de-rever-le-plein-emploi-ne-reviendra-pas.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/01/28/arreter-de-rever-le-plein-emploi-ne-reviendra-pas/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous les entendez, les annonces du chiffre du chômage, qui nous montrent que, malgré "l'action du gouvernement", il y a de plus en plus de demandeurs d'emploi ?
+</p>
+<p>
+Vous les entendez, ces gens qui annoncent qu'ils ont "tout perdu" parce qu'ils ont perdu leur emploi (pour l'avoir vécu plusieurs fois, c'est effectivement une situation difficile) ?
+</p>
+<p>
+Eh bien préparez-vous à les entendre encore et encore ... Parce que la première victime du progrès technologique, c'est l'emploi.
+</p>
+<p>
+Je vais prendre quelques exemples ... frappants.
+</p>
+<p>
+Qui menace le plus l'emploi des taxis ? Les VTC ? NON. Les voitures autonomes, oui. Parce que pour un chauffeur de taxi, devenir VTC, c'est juste un pas de coté. Mais quand son concurrent sera une voiture sans chauffeur et sans accident, que fera-t-il ? Demander au gouvernement d'interdire un équipement qui sauvera des milliers de vies chaque année ? Ca passera assez mal, il faut le reconnaître. Bon, à ce moment-là, il pourra compter sur les chauffeurs de poids-lourds menacés par le même danger, évidement.
+</p>
+<p>
+Mais allons plus loin ...
+</p>
+<p>
+Regardez <a href="https://public.tableau.com/profile/mckinsey.analytics#!/vizhome/AutomationandUSjobs/Technicalpotentialforautomation">cet étrange graphique de McKinsey</a> ...
+</p>
+<p>
+<img class="alignnone size-full wp-image-3000" src="https://riduidel.files.wordpress.com/2016/01/2016-01-28-13_15_11-automation-potential-and-wages-for-us-jobs-mckinsey-global-institute-_-tableau.png" alt="2016-01-28 13_15_11-Automation potential and wages for US jobs - McKinsey Global Institute _ Tableau" width="754" height="410" />
+</p>
+<p>
+Plus la bulle est haute dans le graphique, plus l'emploi a des chances d'être automatisable prochainement.
+</p>
+<p>
+Du coup, on peut quasiment en tirer une liste d'emplois menacés :
+<br/>
+<ul>
+<br/>
+<li>Tous les travailleurs à la chaine, évidement</li>
+<br/>
+<li>Toutes les personnes qui conduisent des véhicules, quels qu'ils soient (donc les pilotes de ligne sont aussi menacés que les chauffeurs poids-lourd longue distance)</li>
+<br/>
+</ul>
+<br/>
+Du coup, lutter contre le chômage, est-ce que ça n'est pas vain ? Surtout quand, comme n'importe quel gouvernement moderne, on n'a en fait aucune espèce de moyen d'action.
+</p>
+<p>
+C'est vrai, après tout. De quels moyens dispose le gouvernement pour "créer de l'emploi" ? Les expériences de ces dix dernières années ont montré qu'il n'y en avait aucun :
+<br/>
+<ul>
+<br/>
+<li>Les exonérations de charge diverses n'ont permis que d'augmenter les dividendes versés</li>
+<br/>
+<li>Les 35 heures ont abouti au même résultat</li>
+<br/>
+</ul>
+<br/>
+Bref, aucun cadeau fiscal n'a aidé.
+</p>
+<p>
+Et les initiatives (comme le(s) cloud(s) souverain(s)) ont eu de ce point de vue un effet pitoyablement mauvais : dépenser des centaines de millions d'euros pour créer une centaine d'emplois, ça n'est pas vraiment un bon résultat.
+</p>
+<p>
+Autrement dit, lutter contre le chômage est une lutte vaine (parce que le gouvernement n'a pas de moyen d'action) et perdue d'avance (parce que le progrès technologique avance trop vite pour des fonctionnaires aux modes de pensée dépassés).
+</p>
+<p>
+Alors quoi ? Abandonner ?
+</p>
+<p>
+Pas forcément.
+</p>
+<p>
+Réorienter la lutte, peut-être : construire une civilisation du post-travail. Ce que montre le schéma de McKinsey, c'est que les activités automatisables seront automatisées lorsque ce sera rentable. Du coup, il vaut peut-être mieux s'orienter vers les activités non automatisables : la création. Faire de nos enfants des créateurs, que ce soit dans l'industrie, l'art, la science, fera d'eux des personnes non remplaçables par des robots. Bien sûr, ils n'auront pas forcément de travail en tant que tel, mais je crois que cette vision (du travail en tant qu'épanouissement) est dépassée.
+</p>
+<p>
+&#160;
+</p>
+++++

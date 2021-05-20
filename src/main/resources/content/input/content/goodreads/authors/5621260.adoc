@@ -1,0 +1,23 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Pierre Pécau
+:jbake-tags: author
+:jbake-date: 2010-09-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5621260.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/5621260
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756001678.html[Le Cercle De Patmos, 2e partie (Arcanes #5)]
+* link:../books/9782756001685.html[Arcane Majeur, Tome 4 : JFK ]
+* link:../books/9782756004068.html[Arcane Majeur, Tome 5 : Lady Luck ]
+* link:../books/9782756018669.html[Les Russes sur la Lune!]
+* link:../books/9782840552109.html[Le baron fantôme (Arcanes #1)]
+* link:../books/9782840554158.html[Arcanes, Tome 2: La Dame De Prague]
+* link:../books/9782840558491.html[Arcane Majeur, Tome 1 : Pandora]
+* link:../books/9782840558958.html[Arcanes, Tome 3 : Le dossier Karadine]
+* link:../books/9782847891638.html[Le Roi en jaune (Arcane Majeur #2)]
+* link:../books/9782847894981.html[Le Cercle De Patmos, 1ère partie (Arcanes #4)]
+* link:../books/9782847897692.html[Arcane Majeur, Tome 3 : Cuba Libre !]

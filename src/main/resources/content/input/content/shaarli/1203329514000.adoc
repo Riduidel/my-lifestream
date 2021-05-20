@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FDRTools - High Dynamic Range HDR Imaging Digital Panorama Photography Freeware
+:jbake-tags: art,freeware,graphics,image,photographie,software,windows,macosx,_mois_févr.,_année_2008
+:jbake-date: 2008-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1203329514000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fdrtools.com%2Ffdrtools_basic_e.php&searchtags=art+freeware+graphics+image+photographie+software+windows+macosx+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.fdrtools.com/fdrtools_basic_e.php[FDRTools - High Dynamic Range HDR Imaging Digital Panorama Photography Freeware]
+
+Un logiciel pour produire, à partir de nos photos avec une plage de couleurs standard, des photos avec une plus grand plage de couleur ... Ca donne un effet plutôt bizarre, je trouve, mais il faudrait sans doute essayer ...

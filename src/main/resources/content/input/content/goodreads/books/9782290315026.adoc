@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Voie obscure (La Tapisserie de Fionavar #3)
+:jbake-tags:  fantasy, rayon-imaginaire,_année_2002,_mois_mars,_note_2,broc,read
+:jbake-date: 2002-03-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290315026.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493028414l/352668._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493028414l/352668._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/352668
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Troisième volume de La Tapisserie de Fionavar, trilogie considérée comme un chef-d'uvre de la fantasy contemporaine, La Voie obscure prolonge la trame complexe de l'intrigue élaborée dans L'Arbre de l'été et dans Le Feu vagabond et s'achève sur un bouquet final d'une grandiose et surprenante richesse. Les cinq héros de notre univers, plongés dans une guerre dévastatrice opposant forces du bien et du mal, affrontent à présent la dernière bataille, celle au terme de laquelle le redoutable Rakoth Maugrim est enfin vaincu après plusieurs engagements titanesques.
+</div>
+++++
+
+
+## Authors
+* link:../authors/60177.html[Guy Gavriel Kay]
+* link:../authors/202240.html[Élisabeth Vonarburg]
+
+## Series
+* link:../series/The_Fionavar_Tapestry.html[The Fionavar Tapestry]
+
+## Review
+
+++++
+
+++++

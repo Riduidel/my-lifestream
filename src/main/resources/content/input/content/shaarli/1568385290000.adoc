@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wehatecaptchas
+:jbake-tags: javascript,web,interface,concepts,_mois_sept.,_année_2019
+:jbake-date: 2019-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1568385290000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwehatecaptchas.com%2F&searchtags=javascript+web+interface+concepts+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://wehatecaptchas.com/[wehatecaptchas]
+
+C'est une très bonne idée (et je me dis que ça va aider les mineurs de bitcoin, mais pas que) parce que les captchas ... quelle merde

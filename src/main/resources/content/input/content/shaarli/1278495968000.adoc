@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tamil - Opera ad block filters
+:jbake-tags: browser,opera,reference,software,_mois_juil.,_année_2010
+:jbake-date: 2010-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1278495968000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmy.opera.com%2FTamil%2Fblog%2Fad-block&searchtags=browser+opera+reference+software+_mois_juil.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://my.opera.com/Tamil/blog/ad-block[Tamil - Opera ad block filters]
+
+Une page trèèès intéressante sur le blocage de contenu louche dans opera. C'est beaucoup plus sophistiqué que tout ce que je pensais, tiens

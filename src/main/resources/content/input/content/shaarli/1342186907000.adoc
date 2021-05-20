@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DropFolders
+:jbake-tags: utilities,software,automatisation,windows,conversion,vidéo,_mois_juil.,_année_2012
+:jbake-date: 2012-07-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1342186907000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fctl.du.edu%2Fstaff%2Fjosephlabrecque%2FDropFolders%2F&searchtags=utilities+software+automatisation+windows+conversion+vid%C3%A9o+_mois_juil.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://ctl.du.edu/staff/josephlabrecque/DropFolders/[DropFolders]
+
+Un complément utile à Handbrake pour la conversion vidéo !

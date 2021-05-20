@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chris's Wiki :: blog/programming/GoIsGooglesLanguage
+:jbake-tags: go,programming,google,politique,communauté,_mois_mai,_année_2019
+:jbake-date: 2019-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1558553846000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Futcc.utoronto.ca%2F%7Ecks%2Fspace%2Fblog%2Fprogramming%2FGoIsGooglesLanguage&searchtags=go+programming+google+politique+communaut%C3%A9+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://utcc.utoronto.ca/~cks/space/blog/programming/GoIsGooglesLanguage[Chris's Wiki :: blog/programming/GoIsGooglesLanguage]
+
+C'est quelque chose que je dis souvent ... Pour lequel je ne suis heureusement pas très écouté.

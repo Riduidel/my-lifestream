@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Menaco: MediaNAV alternative Renault & Dacia firmware software
+:jbake-tags: voiture,hack,multimedia,_mois_sept.,_année_2016
+:jbake-date: 2016-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1473068575000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmena.co%2F&searchtags=voiture+hack+multimedia+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://mena.co/[Menaco: MediaNAV alternative Renault & Dacia firmware software]
+
+Un firmware alternatif pour le MediaNav ... Avec quelques fonctionnalités additionnelles

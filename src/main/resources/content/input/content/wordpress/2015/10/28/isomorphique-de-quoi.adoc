@@ -1,0 +1,45 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: isomorphique de quoi ?
+:jbake-tags: chtijug,java,javaee,javascript,_mois_oct.,_année_2015
+:jbake-date: 2015-10-28
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/10/28/isomorphique-de-quoi.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/10/28/isomorphique-de-quoi/
+:jbake-style: wordpress
+
+++++
+<p>
+La semaine denrière, c'était chtijug.
+</p>
+<p>
+Oui, je suis un peu en retard, mais c'est pas trop grave, parce que pendant ce temps, l'orateur a eu le temps de mettre <a href="https://speakerdeck.com/sdeleuze/isomorphic-templating-with-spring-boot-nashorn-and-react">ses slides sur internet</a>.
+</p>
+<p>
+Session un peu particulière, en particulier avec son titre assez ... ronflant : "réalisation d'applications isomorphiques avec spring boot, React et Nashorn".
+</p>
+<p>
+En vérité, c'est beaucoup plus simple à décrire que ça : vous savez que votre JVM intègre, et depuis un moment, un interpréteur Javascript ? Non ? Eh bien c'est pourtant le cas, grâce à la <a href="https://jcp.org/en/jsr/detail?id=223">JSR 223</a> (l'une des meilleures à mon avis), qui permet de lier sous une interface commune la plupart des interpréteurs pour la JVM. Ainsi, exécuter du javascript (grâce à Rhino ou Nashorn), du Python (grâce à Jython), du ... Groovy (funky baby) ou même ... oui, même ... du Java interprété (grâce à Beanshell) est vraiment très facile.
+</p>
+<p>
+Donc, la présentation de Sébastien utilise cette percée, et la disponibilité en masse de frameworks javascripts, pour remplacer le beaucoup trop vieux et trop moisi rendu JSP par un rendu fait grâce à mustache (que je connais bien grâce à Ractive) ou React. Je ne vais pas vraiment m'éterniser sur React, parce que franchement, le JSX, c'est la pire idée à laquelle je puisse penser. En revanche, conceptuellement, c'est assez élégant.
+</p>
+<p>
+Je m'explique.
+</p>
+<p>
+Quand vous faites votre application web, vous avez votre joli modèle Java bien typé. Et c'est bien. Mais, au moment où vous faites le rendu dans votre JSP (ou votre template thymeleaf si vous utilisez Wisdom, par exemple), vous passez dans le monde moche et pénible du string typed. Tout est string, et vos objets Java n'ont plus d'autres intérêt que d'e^tre des struct capables d'émettre du String. Et dans ce cas, passer par du Javascript ... n'est pas idiot. Parce que le travail énorme réalisé dans le monde du javascript ne se contente plus du client. Et que node.js reste une assez piètre idée, assez peu scalable. Du coup, joindre le meilleure du Java (le modèle, les capacités de traitement d'entreprise) au meilleur du javascript (tous ces outils de templating conçus par et pour le web) est vraiment chouette.
+</p>
+<p>
+D'ailleurs, ça me donne des idées à propos de ractive/requirejs/Wisdom (mon trio de choc). Des idées qui n'attendent plus que deux choses
+<br/>
+<ol>
+<br/>
+<li>Facile : le fameux bout de code transformant un require() en chargement de ressources depuis le CLASSPATH (d'après ce que j'ai compris, Sébastien travaille dessus)</li>
+<br/>
+<li>Moins facile : passer un template HTML plutôt que Javascript. Parce que s'il est question de rendu isomorphe, j'aimerais autant que ce soit le même fichier qui soit rendu de la même façon (ou presque) côté client et côté serveur.</li>
+<br/>
+</ol>
+</p>
+++++

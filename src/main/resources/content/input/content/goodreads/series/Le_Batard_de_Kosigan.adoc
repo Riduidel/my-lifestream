@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Bâtard de Kosigan
+:jbake-tags: serie
+:jbake-date: 2017-09-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Le_Batard_de_Kosigan.adoc
+:jbake-source: https://www.goodreads.com/series/160283
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070792801.html[L'Ombre du pouvoir (Le Bâtard de Kosigan #1)]
+* link:../books/9782070792818.html[Le Fou prend le Roi (Le Bâtard de Kosigan #2)]
+* link:../books/9782072786662.html[Le Marteau des sorcières (Le Bâtard de Kosigan, #3)]
+* link:../books/9782072863059.html[Le Testament d'involution (Le Bâtard de Kosigan, #4)]

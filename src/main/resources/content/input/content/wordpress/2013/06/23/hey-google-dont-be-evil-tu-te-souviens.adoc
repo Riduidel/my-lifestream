@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hey Google ? "Don't be evil", tu te souviens ?
+:jbake-tags: gmail,google,mail,_mois_juin,_année_2013
+:jbake-date: 2013-06-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/23/hey-google-dont-be-evil-tu-te-souviens.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/23/hey-google-dont-be-evil-tu-te-souviens/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, ça fait un moment que je veux sortir de GMail.
+</p>
+<p>
+J'avais créé un compte <a href="http://my.opera.com">my.opera</a> depuis lequel je voulais synchroniser mes mails GMail. Ca ne marchait pas (la synchronisation, hein, pas le client mail qui marche ... raisonnablement bien), et je ne comprenais pas pourquoi.
+</p>
+<p>
+Ce soir, j'ai créé un compte GMX (alias <a href="http://fr.wikipedia.org/wiki/CaraMail">Caramail</a>, ce qui me fait rétrospectivement bien rigoler). Parce que GMX a une bonne réputation sur <a href="http://alternativeto.net/software/gmx/">AlternativesTo</a>, et ailleurs.
+</p>
+<p>
+Et j'ai donc voulu, comme pour mon compte My Opera, récupérer mes mails GMail. Et devinez ce que GMail est assez sympa de me dire ?
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2013/06/google-tu-te-fous-de-ma-gueule.jpg"><img class="aligncenter size-full wp-image-1485" alt="google tu te fous de ma gueule" src="http://riduidel.files.wordpress.com/2013/06/google-tu-te-fous-de-ma-gueule.jpg" width="520" height="443" /></a>
+</p>
+<p>
+Eh ouais, Google, qui voit très bien que la requête vient de mfetch-eu2.gmx.fr, et qui se doute très bien (merde, c'est Google) que la requête vient de GMX (un <strong>concurrent</strong>, même minoritaire), me dit que c'est une connexion suspecte ? Et en bonus, ils ne me proposent absolument pas de considérer cette connexion comme valide. (ce qui est totalement contraire à toutes les règles de l'ergonomie et de la collaboration bien comprise).
+</p>
+<p>
+Donc, si je veux récupérer tous mes mails, qu'est-ce que je peux faire ? Me taper <a href="http://imapsync.lamiral.info/">la synchro à la main</a> en installant imapsync et en débuggant le protocole IMAP et les spécificités Google (et il y en a, au premier lieu desquels les tags pas complètement arborescents). Ou alors transférer gentiment ce mail aux services de GMX et Opera ... Ah ! Je suis bête, j'en avais déja parlé à Opera !
+</p>
+<p>
+Bon, dans tous les cas, c'est maintenant clair et net dans mon esprit : Le "<a href="https://en.wikipedia.org/wiki/Don%27t_be_evil">don't be evil</a>" de Google est maintenant bel et bien fini (ah sacrebleu, je ne retrouve plus le lien expliquant que le PDG de Google actuel considère maintenant que c'était une connerie). Evidement, on me dira (c'est déja fait) que Google fournit un site de libération de données me permettant de <a href="http://www.dataliberation.org/google/gmail">récupérer mes mails</a>. Mais ces histoires d'export POP font que, bien sûr, si je tente de sortir dans une direction, je ne pourrais pas aller dans une autre après (à moins évidement d'installer une double synchro : depuis GMail comme depuis cet autre fournisseur de mail).
+</p>
+++++

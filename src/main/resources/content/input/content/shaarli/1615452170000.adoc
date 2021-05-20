@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hugo Bowne-Anderson sur Twitter : "A former colleague of mine told me of a company where, in meetings, everybody began with 3 cards. Each time you spoke you had to put down a card. Once all 3 were down, you had to wait until everyone had put down theirs. Men in the meetings resorted to trying to buy other’s cards." / Twitter
+:jbake-tags: réunion,organisation,communication,partage,parole,_mois_mars,_année_2021
+:jbake-date: 2021-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1615452170000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhugobowne%2Fstatus%2F1369627588893675520&searchtags=r%C3%A9union+organisation+communication+partage+parole+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/hugobowne/status/1369627588893675520[Hugo Bowne-Anderson sur Twitter : "A former colleague of mine told me of a company where, in meetings, everybody began with 3 cards. Each time you spoke you had to put down a card. Once all 3 were down, you had to wait until everyone had put down theirs. Men in the meetings resorted to trying to buy other’s cards." / Twitter]
+
+Excellente idée, à adopter d'urgence (va vraiment falloir que je regarde comment étendre Google Hangouts)

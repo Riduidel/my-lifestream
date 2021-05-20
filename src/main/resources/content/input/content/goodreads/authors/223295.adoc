@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christophe Claro
+:jbake-tags: author
+:jbake-date: 2011-07-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/223295.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1445150312p5/223295.jpg
+:jbake-source: https://www.goodreads.com/author/show/223295
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207252000.html[La Maison des feuilles]
+* link:../books/9782207259030.html[O Révolutions]

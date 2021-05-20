@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: espanso - Cross-platform Text Expander written in Rust
+:jbake-tags: texte,macro,logiciel,outillage,windows,linux,macosx,rust,freeware,open-source,_mois_juin,_année_2020
+:jbake-date: 2020-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1591900053000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fespanso.org%2F&searchtags=texte+macro+logiciel+outillage+windows+linux+macosx+rust+freeware+open-source+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://espanso.org/[espanso - Cross-platform Text Expander written in Rust]
+
+Je ne suis pas utilisateur de ce genre de logiciels, mais j'avoue qu'il y à là certains twists assez sympa (l'exécution de commandes, par exemple)

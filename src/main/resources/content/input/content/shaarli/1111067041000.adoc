@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: collaboration-world > GNUMail.app
+:jbake-tags: software,freeware,open-source,macosx,réseau,email,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111067041000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.collaboration-world.com%2Fcgi-bin%2Fproject%2Findex.cgi%3Fpid%3D2%2F&searchtags=software+freeware+open-source+macosx+r%C3%A9seau+email+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.collaboration-world.com/cgi-bin/project/index.cgi?pid=2/[collaboration-world > GNUMail.app]
+
+The complete and fast mail application for GNUstep and Mac OS X.

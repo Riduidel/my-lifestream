@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: astefanutti/decktape: PDF exporter for HTML presentations
+:jbake-tags: revealjs,slideshow,html,générateur,pdf,_mois_sept.,_année_2019
+:jbake-date: 2019-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1567586157000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fastefanutti%2Fdecktape&searchtags=revealjs+slideshow+html+g%C3%A9n%C3%A9rateur+pdf+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/astefanutti/decktape[astefanutti/decktape: PDF exporter for HTML presentations]
+
+C'est donc ce que je cherchais pour aller plus loin avec mes slides ! UPDATE: node-gyp, on s'en fout quand on utilise Docker ! (docker run -v %CD%:/input --rm astefanutti/decktape -s 1920x1200 INPUT OUTPUT)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing the new HTML element – welcome <clippy>! – Terence Eden’s Blog
+:jbake-tags: standard,web,w3c,google,microsoft,histoire,informatique,_mois_juin,_année_2019
+:jbake-date: 2019-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1560427795000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fshkspr.mobi%2Fblog%2F2019%2F06%2Fintroducing-the-new-html-element-welcome%2F&searchtags=standard+web+w3c+google+microsoft+histoire+informatique+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://shkspr.mobi/blog/2019/06/introducing-the-new-html-element-welcome/[Introducing the new HTML element – welcome <clippy>! – Terence Eden’s Blog]
+
+Bon ben voilà, maintenant que Chrome est le moteur de la plupart des navigateurs web, Google peut enfin se comporter comme Microsoft à la meilleure des époques. Ils ont le droit d'avoir des idées. Mais peut-être pas de les implémenter "de force"

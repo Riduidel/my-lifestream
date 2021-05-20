@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le planning de toutes vos séries | BetaSeries.com
+:jbake-tags: web,télévision,recommendation,_mois_mars,_année_2014
+:jbake-date: 2014-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1395161730000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.betaseries.com%2F&searchtags=web+t%C3%A9l%C3%A9vision+recommendation+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.betaseries.com/[Le planning de toutes vos séries | BetaSeries.com]
+
+Le design est un peu curieux, mais c'est le premier site de recommandation de séries/films en français. Du coup, ça pourrait remplir agréablement nos mornes soirées ...

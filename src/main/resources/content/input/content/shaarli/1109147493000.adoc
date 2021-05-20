@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sorting Algorithms Demo
+:jbake-tags: web,java,documentation,programming,_mois_févr.,_année_2005
+:jbake-date: 2005-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1109147493000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cs.ubc.ca%2Fspider%2Fharrison%2FJava%2Fsorting-demo.html&searchtags=web+java+documentation+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cs.ubc.ca/spider/harrison/Java/sorting-demo.html[Sorting Algorithms Demo]
+
+java applets that show the speed of different sorting algorithms

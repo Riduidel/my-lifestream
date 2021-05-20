@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML
+:jbake-tags: uml,open-source,développement,java,_mois_déc.,_année_2010
+:jbake-date: 2010-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1293547149000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fplantuml.sourceforge.net%2Findex.html&searchtags=uml+open-source+d%C3%A9veloppement+java+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://plantuml.sourceforge.net/index.html[PlantUML]
+
+Une façon non graphique de faire de l'UML. Du coup, on peut conserver dans son contrôle de source le diagramme Uml (puisqu'il fait partie du code) et l'intégrer dans la doc (et ça, c'est franchement super pratique).

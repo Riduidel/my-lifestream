@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Random Musings of A Useless Geek: n800
+:jbake-tags: n800,blog,bluetooth,tutorial,documentation,_mois_déc.,_année_2007
+:jbake-date: 2007-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1196774681000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgeekpenguin.blogspot.com%2Fsearch%2Flabel%2Fn800&searchtags=n800+blog+bluetooth+tutorial+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://geekpenguin.blogspot.com/search/label/n800[Random Musings of A Useless Geek: n800]
+
+Un très bon blog sur toutes les folies à faire avec un n800, comme écouter de la musique à distance, brancher un casque stéréo bluetooth, ou utiliser un lanceur d'application style iPhone

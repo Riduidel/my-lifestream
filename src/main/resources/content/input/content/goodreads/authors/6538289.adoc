@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: David Mitchell
+:jbake-tags: author
+:jbake-date: 2016-02-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/6538289.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1409248688p5/6538289.jpg
+:jbake-source: https://www.goodreads.com/author/show/6538289
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782757833780.html[Cloud Atlas : Cartographie des nuages]
+* link:../books/9782757871164.html[L'Âme des horloges]

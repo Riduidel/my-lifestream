@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Looping Music Seamlessly
+:jbake-tags: art,musique,algorithme,python,_mois_oct.,_année_2019
+:jbake-date: 2019-10-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1572292147000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnolannicholson.com%2Flooper.html&searchtags=art+musique+algorithme+python+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://nolannicholson.com/looper.html[Looping Music Seamlessly]
+
+Super intéressant ! Je me demande ce que ça peut donner avec de la musique qui essaye de ne pas trop se répéter ...

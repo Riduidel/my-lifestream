@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: blokdots
+:jbake-tags: matériel,software,hacking,projet,graph,_mois_oct.,_année_2020
+:jbake-date: 2020-10-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1603799284000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblokdots.com%2F&searchtags=mat%C3%A9riel+software+hacking+projet+graph+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blokdots.com/[blokdots]
+
+Si vous voulez faire des projets avec du matos, ça a l'air très chouette

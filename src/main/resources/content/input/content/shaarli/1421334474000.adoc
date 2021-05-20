@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GistDeck
+:jbake-tags: web,présentation,markdown,_mois_janv.,_année_2015
+:jbake-date: 2015-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1421334474000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgistdeck.github.io%2Fjcouyang%2F8acfc555a718d62b77b2%2318&searchtags=web+pr%C3%A9sentation+markdown+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://gistdeck.github.io/jcouyang/8acfc555a718d62b77b2#18[GistDeck]
+
+Chouette façon de créer des slides en moins de deux secondes

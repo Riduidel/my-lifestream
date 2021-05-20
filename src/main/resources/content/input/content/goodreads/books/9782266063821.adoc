@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Voyage au fond du labyrinthe (Les portes de la mort, #6)
+:jbake-tags:  fantasy, rayon-imaginaire,_année_1995,_mois_janv.,_note_2,broc,read
+:jbake-date: 1995-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266063821.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571076724l/1998790._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571076724l/1998790._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1998790
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Haplo, targeted for death by two assassins, and Alfred enter the terrifying Labyrinth, a prison maze guarded by fearsome creatures. Meanwhile, the Lord of the Nexus raises an army from the dead to attack the Tytans.
+</div>
+++++
+
+
+## Authors
+* link:../authors/869.html[Margaret Weis]
+* link:../authors/868.html[Tracy Hickman]
+
+## Series
+* link:../series/The_Death_Gate_Cycle.html[The Death Gate Cycle]
+
+## Review
+
+++++
+
+++++

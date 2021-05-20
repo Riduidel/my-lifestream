@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: De l’automatisation des inégalités | InternetActu.net
+:jbake-tags: ethnologie,informatique,histoire,éthique,_mois_févr.,_année_2018
+:jbake-date: 2018-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1518510574000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.internetactu.net%2F2018%2F01%2F15%2Fde-lautomatisation-des-inegalites%2F&searchtags=ethnologie+informatique+histoire+%C3%A9thique+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.internetactu.net/2018/01/15/de-lautomatisation-des-inegalites/[De l’automatisation des inégalités | InternetActu.net]
+
+C'est fou : les outils informatiques sont quand même loin d'être neutre, et ça commence à être un phénomène connu. Mais ces exemples sont particulièrement édifiants, et nourrissent ma réflexion sur la nécessité d'une décision algorithmique non seulement auditable, mais explicable et traçable.

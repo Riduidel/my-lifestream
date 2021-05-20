@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: This Algorithm Can Remove the Water from Underwater Photos, and the Results are Incredible
+:jbake-tags: ia,image,eau,couleur,_mois_nov.,_année_2019
+:jbake-date: 2019-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1574097567000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpetapixel.com%2F2019%2F11%2F13%2Fthis-algorithm-can-remove-the-water-from-underwater-photos-and-the-results-are-incredible%2F&searchtags=ia+image+eau+couleur+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://petapixel.com/2019/11/13/this-algorithm-can-remove-the-water-from-underwater-photos-and-the-results-are-incredible/[This Algorithm Can Remove the Water from Underwater Photos, and the Results are Incredible]
+
+De temps en temps, il y a des applications de l'IA vraiment chouettes. Et celle-ci est vraiment \*très\* chouette.

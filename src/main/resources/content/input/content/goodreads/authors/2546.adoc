@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chuck Palahniuk
+:jbake-tags: author
+:jbake-date: 2006-10-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2546.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1391203076p5/2546.jpg
+:jbake-source: https://www.goodreads.com/author/show/2546
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070422401.html[Fight club]

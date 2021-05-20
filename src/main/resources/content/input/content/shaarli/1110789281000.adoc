@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HTTP Sniffer HTTPLook - Home
+:jbake-tags: software,freeware,windows,réseau,http,sniffer,_mois_mars,_année_2005
+:jbake-date: 2005-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1110789281000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.httpsniffer.com%2F&searchtags=software+freeware+windows+r%C3%A9seau+http+sniffer+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.httpsniffer.com/[HTTP Sniffer HTTPLook - Home]
+
+HTTPLook is a http sniffer, which gives a complete picture of any site at work. HTTPLook can restore the data transmitted between the local computer and the server and show the control footing and contents of the captured resources.

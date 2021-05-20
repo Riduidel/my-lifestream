@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sector 7g - PDFCreator
+:jbake-tags: software,freeware,open-source,windows,driver,system,pdf,_mois_avr.,_année_2005
+:jbake-date: 2005-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1112446083000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsector7g.wurzel6.de%2Fpdfcreator%2Findex_en.htm&searchtags=software+freeware+open-source+windows+driver+system+pdf+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://sector7g.wurzel6.de/pdfcreator/index_en.htm[sector 7g - PDFCreator]
+
+pdf printer

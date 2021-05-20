@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rust - Why is my RFC 2822 date not parsed by chrono? - Stack Overflow
+:jbake-tags: rust,programming,date,rfc2822,_mois_sept.,_année_2019
+:jbake-date: 2019-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1568226380000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F57894277%2F15619&searchtags=rust+programming+date+rfc2822+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/57894277/15619[rust - Why is my RFC 2822 date not parsed by chrono? - Stack Overflow]
+
+J'aime bien les mecs qui répondent aux questions sur Rust, ils prennent vraiment le temps de faire des réponses complètes.

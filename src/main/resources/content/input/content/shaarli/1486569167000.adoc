@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Top mentioned books on stackoverflow.com
+:jbake-tags: programming,livre,_mois_févr.,_année_2017
+:jbake-date: 2017-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1486569167000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdev-books.com%2F&searchtags=programming+livre+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://dev-books.com/[Top mentioned books on stackoverflow.com]
+
+Une sélection de livres pour informaticiens tirée directement de StackOverflow.

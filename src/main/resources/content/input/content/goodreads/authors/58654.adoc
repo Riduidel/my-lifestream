@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mary Gentle
+:jbake-tags: author
+:jbake-date: 2009-01-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/58654.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1362867399p5/58654.jpg
+:jbake-source: https://www.goodreads.com/author/show/58654
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780380805501.html[Carthage Ascendant (Book of Ash, #2)]
+* link:../books/9780380811137.html[The Wild Machines (Book of Ash, #3)]
+* link:../books/9782070359578.html[La Guerrière oubliée (Book of Ash, #1)]
+* link:../books/9782070361007.html[La dispersion des tenebres (Book of Ash, #4)]
+* link:../books/9782070415304.html[Le Fils De La Sorcière]
+* link:../books/9782070441228.html[L'énigme du cadran solaire]
+* link:../books/9782070814053.html[L'o10ssée Folio SF en 10 nouvelles]

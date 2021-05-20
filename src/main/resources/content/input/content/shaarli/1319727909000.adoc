@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: localizedproperties - Integrated Properties Editor - Google Project Hosting
+:jbake-tags: eclipse,java,plugin,i18n,properties,_mois_oct.,_année_2011
+:jbake-date: 2011-10-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1319727909000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Flocalizedproperties%2F&searchtags=eclipse+java+plugin+i18n+properties+_mois_oct.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://code.google.com/p/localizedproperties/[localizedproperties - Integrated Properties Editor - Google Project Hosting]
+
+Un excellent éditeur de propriétés pour Eclipse

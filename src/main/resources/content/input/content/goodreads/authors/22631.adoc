@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James K. Morrow
+:jbake-tags: author
+:jbake-date: 2020-12-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/22631.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1242312093p5/22631.jpg
+:jbake-source: https://www.goodreads.com/author/show/22631
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290214305.html[L'Arche de Darwin]

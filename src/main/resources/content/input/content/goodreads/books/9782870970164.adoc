@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les 3 formules du professeur Satō - 1, (Blake et Mortimer, #11)
+:jbake-tags:  complot, rayon-bd,_année_2015,_mois_oct.,_note_3,read,robot
+:jbake-date: 2015-10-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782870970164.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333550901l/628657._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333550901l/628657._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/628657
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Un ryu, un dragon volant des légendes japonaises, provoque un accident mortel avec un avion militaire dans le ciel de Tokyo. Ce simple fait suffirait à éveiller la curiosité de Mortimer, alors en tournée de conférence à Kyoto, mais voici qu'on tente successivement de l'enlever puis de le faire disparaître purement et simplement. Ces événements en apparence non liés ont en fait un dénominateur commun : le professeur Sato, cybernéticien fameux et ami de Mortimer, qui a mis au point un engin destiné à remplacer l'homme dans les phases les plus périlleuses du voyage cosmique. Il s'agit d'un androïde volant qu'il est possible de multiplier à l'infini par parthénogenèse électronique. Le ryu responsable de la catastrophe aérienne est en réalité une invention de Sato qui, pour une raison mystérieuse, a échappé à son contrôle. Désemparé, il demande à Mortimer de l'aider. Sato lui révèle que l'essentiel de son invention se résume à trois formules, inutilisables séparément, qu'il a pris la précaution de répartir dans trois banques différentes. Se sentant menacé, il remet à Mortimer les procurations qui lui permettront, le cas échéant, d'entrer en possession des fameux documents.
+</div>
+++++
+
+
+## Authors
+* link:../authors/272058.html[Edgar P. Jacobs]
+
+## Series
+* link:../series/Blake_&_Mortimer_(Carlsen).html[Blake & Mortimer (Carlsen)]
+* link:../series/Blake_&_Mortimer_(Cinebook).html[Blake & Mortimer (Cinebook)]
+* link:../series/Blake_et_Mortimer.html[Blake et Mortimer]
+
+## Review
+
+++++
+Un bon début d'histoire, avec une intrigue que j'ai trouvé aussi habile que classique.<br/>Les décors sont aussi bien dessinés que d’habitude, avec l'avantage graphique qu'offre le japon.<br/>Mortimer est toujours aussi impétueux, mais Sato est assez faible comme point de départ de l'intrigue.<br/>Cela dit, je préfère la magie des premiers tomes.
+++++

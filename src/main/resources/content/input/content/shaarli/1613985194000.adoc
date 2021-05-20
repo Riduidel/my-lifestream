@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Not Rust?
+:jbake-tags: rust,programming,critique,design,_mois_févr.,_année_2021
+:jbake-date: 2021-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1613985194000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmatklad.github.io%2F2020%2F09%2F20%2Fwhy-not-rust.html&searchtags=rust+programming+critique+design+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://matklad.github.io/2020/09/20/why-not-rust.html[Why Not Rust?]
+
+Une critique argumentée et nuancée de rust et de son écosystème. Ça aide à savoir où on met les pieds...

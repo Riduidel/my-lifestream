@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 8051Enthusiast/regex2fat: Turn your favourite regex into FAT32
+:jbake-tags: regexp,fichier,software,open-source,expérience,art,_mois_avr.,_année_2021
+:jbake-date: 2021-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1617961367000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2F8051Enthusiast%2Fregex2fat&searchtags=regexp+fichier+software+open-source+exp%C3%A9rience+art+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/8051Enthusiast/regex2fat[8051Enthusiast/regex2fat: Turn your favourite regex into FAT32]
+
+Un outil qui transforme une expression régulière en système de fichiers, exposant tous les cas satisfaisant l'expression régulière. C'est intéressant ... et intriguant.

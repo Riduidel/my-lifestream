@@ -1,0 +1,33 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Huracan (Travis, #1)
+:jbake-tags:  cyberpunk, cyborg, nano, near-space,_année_2012,_mois_févr.,_note_3,rayon-bd,read
+:jbake-date: 2012-02-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847899849.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327167433l/7864796._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327167433l/7864796._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7864796
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Travis, le pilote d'une navette d'approvisionnement, est en route vers une station scientifique orbitale capable de réguler à distance les phénomènes climatiques. Il est loin de se douter que des terroristes sont dissimulés à son bord ! À peine débarqué, le commando investit la station et réclame 3 millions de dollars de rançon. Il reste très peu de temps pour agir : on annonce le passage d'un cyclone dévastateur sur les Antilles...
+</div>
+++++
+
+
+## Authors
+* link:../authors/503980.html[Christophe Quet]
+* link:../authors/503981.html[Fred Duval]
+* link:../authors/989161.html[Pierre Schelle]
+* link:../authors/1150245.html[Stéphane Rosa]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+Ce premier tome nous fait découvrir les acteurs essentiels de ce qui va devenir une sacrément longue saga.<br/>Vlad Nykri, Travis, Anna et les autres commencent à se tourner autour, et à faire péter des trucs.<br/>C'est rempli d'action, pas forcément très malin mais diablement distrayant.
+++++

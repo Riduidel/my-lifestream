@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Martiens
+:jbake-tags:  m-moire, mars, temps, voyage,_année_2021,_mois_janv.,_note_4,rayon-imaginaire,read
+:jbake-date: 2021-01-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266160926.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1834960
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Pas de petits hommes verts dans ce roman. La recherche spatiale est devenue une réalité depuis H. G. Wells et sa "Guerre des Mondes". Les martiens sont désormais ces pionniers courageux qui ont quitté la terre pour coloniser la planète rouge, la planète sœur.
+</div>
+++++
+
+
+## Authors
+* link:../authors/38630.html[Dominique Haas]
+* link:../authors/1858.html[Kim Stanley Robinson]
+
+## Series
+* link:../series/Mars_Trilogy.html[Mars Trilogy]
+
+## Review
+
+++++
+Cet épais recueil rassemble des textes très divers autour de l'univers développé dans Mars la rouge, Mars la verte, Mars la bleue. On y trouve des nouvelles, des poèmes, des fragments sur le travail de l'auteur, des notes assez techniques, bref, des idées.<br/>Et pour le lecteur ayant apprécié l'oeuvre initiale (comme moi), c'est vraiment très chouette. Parce que Robinson se détache ici du coeur de son récit (la terraformation de Mars et ses impacts politiques et scientifiques) pour s'approcher plus d'une visite de Mars sur le long terme. Ca met formidablement en valeur sa plume, pour faire des ces écrits quelque chose de très chouette.<br/>On y retrouve par ailleurs des personnages et des thèmes déjà évoqués (la mémoire qui se délite au cours des 200 ans de vie des martiens, l'opposition entre les verts et les rouges, l'écologie, la politique).<br/>Et en fait, je pense qu'il faut rapprocher ce livre du Silmarillon, pas seulement parce que j'ai relu ce dernier il y a peu. Dans les deux cas, on retrouve un auteur qui revient visiter son oeuvre maîtresse pour y ajouter des détails, en peaufiner le contenu, en quelque sorte. Dans les deux cas, ce sont des oeuvres particulières, puisqu'elles n'existent qu'en lien avec une oeuvre plus grande. La différence étant que là où Tolkien fait oeuvre de théologie dans une approche tout sauf facile Robinson, au contraire, essaye d'alléger le propos de son oeuvre initiale à travers une vision plus touristique de Mars : il y aura de l'escalade, du bateau sur glace, des réflexions sur le sens de la vie, mais rien d'aussi lourd que ce qu'il y avait dans sa trilogie initiale.<br/>Pour le dire autrement, c'est une très bonne oeuvre pour ceux qui ont déja apprécié les romans précédents. Pour les autres, ce sera sans doute difficilement lisible.
+++++

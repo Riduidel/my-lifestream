@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MBS: TinkerTool
+:jbake-tags: software,freeware,macosx,system,utilities,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110472892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bresink.de%2Fosx%2FTinkerTool.html&searchtags=software+freeware+macosx+system+utilities+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bresink.de/osx/TinkerTool.html[MBS: TinkerTool]
+
+TinkerTool is an application that gives you access to additional preference settings Apple has built into Mac OS X. This allows to activate hidden features in the operating system and in some of the applications delivered with the system.

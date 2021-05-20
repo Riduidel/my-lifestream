@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comparing Alternatives to top Written in Rust - Wesley Moore
+:jbake-tags: command-line,process,linux,rust,comparatif,_mois_mars,_année_2020
+:jbake-date: 2020-03-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1584955956000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.wezm.net%2Fv2%2Fposts%2F2020%2Frust-top-alternatives%2F&searchtags=command-line+process+linux+rust+comparatif+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.wezm.net/v2/posts/2020/rust-top-alternatives/[Comparing Alternatives to top Written in Rust - Wesley Moore]
+
+Je n'imaginais pas qu'il y avait une telle richesse d'alternatives à top. Zenith a l'air franchement sympa (surtout parce qu'il conserve globalement le même layout)

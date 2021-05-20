@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: De SVN à Git sous Eclipse | Blog d'un ingénieur informaticien parmi d'autres…
+:jbake-tags: programming,tutorial,git,repository,migration,_mois_juin,_année_2016
+:jbake-date: 2016-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1465998241000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.courtine.org%2F2010%2F08%2F31%2Fde-svn-a-git-sous-eclipse%2F&searchtags=programming+tutorial+git+repository+migration+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.courtine.org/2010/08/31/de-svn-a-git-sous-eclipse/[De SVN à Git sous Eclipse | Blog d'un ingénieur informaticien parmi d'autres…]
+
+Et, évidement, la migration depuis SVN vers GIT

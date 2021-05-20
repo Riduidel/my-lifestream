@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.
+:jbake-tags: spring,networking,plantuml,diagram,générateur,documentation,_mois_sept.,_année_2020
+:jbake-date: 2020-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1601236288000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanlebrero.com%2F2017%2F04%2F06%2Fdocumenting-your-architecture-wireshark-plantuml-and-a-repl%2F&searchtags=spring+networking+plantuml+diagram+g%C3%A9n%C3%A9rateur+documentation+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://danlebrero.com/2017/04/06/documenting-your-architecture-wireshark-plantuml-and-a-repl/[Documenting your architecture: Wireshark, PlantUML and a REPL to glue them all.]
+
+Je l'avais vu passer il y a un bon moment, et je pense que ça va me servir demain ... (heureusement que j'y ai réfléchi ce week-end)

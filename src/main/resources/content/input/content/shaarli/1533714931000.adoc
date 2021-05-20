@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Securing Web Sites Made Them Less Accessible – Eric’s Archived Thoughts
+:jbake-tags: web,sécurité,https,afrique,_mois_août,_année_2018
+:jbake-date: 2018-08-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1533714931000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmeyerweb.com%2Feric%2Fthoughts%2F2018%2F08%2F07%2Fsecuring-sites-made-them-less-accessible%2F&searchtags=web+s%C3%A9curit%C3%A9+https+afrique+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://meyerweb.com/eric/thoughts/2018/08/07/securing-sites-made-them-less-accessible/[Securing Web Sites Made Them Less Accessible – Eric’s Archived Thoughts]
+
+Je savais que la situation dans les pays en développement n'était vraiment pas fameuse. Mais j'ignorais que la généralisation de HTTPS pouvait avoir un tel coût pour eux. C'est navrant.

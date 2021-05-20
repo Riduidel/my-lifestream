@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Infrastructure as a database
+:jbake-tags: marketing,concepts,devops,_mois_oct.,_année_2017
+:jbake-date: 2017-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1507797259000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fdavidk01%2Finfrastructure-as-a-database-569&searchtags=marketing+concepts+devops+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://dev.to/davidk01/infrastructure-as-a-database-569[Infrastructure as a database]
+
+C'est très très juste ... mais effectivement non outillé pour l'instant. Et j'aurais tendance à préférer une BDD orientée document/graphe

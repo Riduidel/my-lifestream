@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: explained.ai
+:jbake-tags: ia,documentation,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547195198000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fexplained.ai%2F&searchtags=ia+documentation+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://explained.ai/[explained.ai]
+
+Un chouette site d'explication de différents éléments d'intelligence artificielle.

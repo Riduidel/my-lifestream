@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dxa4481/Pastejacking: A demo of overriding what's in a person's clipboard
+:jbake-tags: web,browser,clipboard,_mois_mai,_année_2016
+:jbake-date: 2016-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1464246329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdxa4481%2FPastejacking&searchtags=web+browser+clipboard+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/dxa4481/Pastejacking[dxa4481/Pastejacking: A demo of overriding what's in a person's clipboard]
+
+Chaque nouvelle possibilité du navigateur apporte son lot d'horreurs

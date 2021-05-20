@@ -1,0 +1,44 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Avancement du lifestream
+:jbake-tags: javascript,maven,programmation,web,_mois_janv.,_année_2014
+:jbake-date: 2014-01-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/01/02/avancement-du-lifestream.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/01/02/avancement-du-lifestream/
+:jbake-style: wordpress
+
+++++
+<p>
+Oui, bon, bonne année.
+</p>
+<p>
+En cette année qui commence, je dois dire que, pour la première fois depuis bien longtemps, j'ai bon espoir de disposer enfin d'une solution de <a href="https://github.com/Riduidel/lifestream">lifestream </a>qui tienne la route.
+</p>
+<p>
+Cette idée de générer du markdown puis de le passer à un générateur de site statique (merci <a href="http://jbake.org">JBake</a>) se révèle en effet facile à mettre en place (merci <a href="http://htmlunit.sourceforge.net">htmlunit</a>), facile à déployer (merci les <a href="http://maven.apache.org/wagon/">wagons de maven</a>) et même facile à étenbdre (je me suis ajouté un plugin pour Shaarli qui marche bien).
+</p>
+<p>
+Cela dit, tout n'est pas rose.
+<br/>
+<ul>
+<br/>
+<li>Je me suis rendu compte avec effarement que je paye encore aujourd'hui un problème d'encoding lors de la migration à l'arrache posterous =&#62; wordpress, problème visible facilement : cherchez simplement "??" dans mon Wordpress, vous verrez un <a href="http://riduidel.wordpress.com/?s=%3F%3F&#38;submit=Recherche">paquet de messages</a> pour lesquels le contenu a été massacré par la migration. Moche. D'après mes calculs, il me faudra six mois pour corriger tous ces messages foireux ... Hein ? Utiliser Amazon mechanical Turk pour ça ? Bande de malades.</li>
+<br/>
+<li>JBake a quelques bugs embêtants, le pire étant pour moi l'absence de regroupement automatique par date qui fait apparaître dans l'historique chaque mois autant de fois qu'il y a d'entrées. Surprenant ....</li>
+<br/>
+<li>Le plugin pour StackExchange, bien qu'indispensable, devra être écrit d'une façon très différente des autres : pas d'export, mais une interrogation fine de leur serveur. Ca risque d'être bien plus lent. Cela dit, je sais maintenant optimiser le chargement des données, et c'est bien.</li>
+<br/>
+<li>Je passe un temps incroyable à peaaufiner l'export de Goodreads ... J'imagine que c'est un reflet de mes préoccupations essentielles. Hlas, ça se fait semble-t-il au détriment de mon activité sur Goodreads et, surtout, sur fr.rec.arts.sf que j'ai quasiment déserté ces trois derniers mois. C'est mal.</li>
+<br/>
+<li>Je pressens une question théorique fondamentale : dois-je exporter juste ce que j'ai écrit, ou également ce sur quoi mon écrit s'appuie. Ca fait peu de de différence pour Goodreads, mais pour Wordpress et Shaarli, c'est fondamental : les pages que je relie peuvent avoir disparues; Si c'est le cas, est-ce que je dois faire appel à la <a href="http://archive.org/web/">web archive</a> via leur <a href="https://archive.org/help/wayback_api.php">API </a>? C'est tentant, je dois bien l'avouer. Et si je lie une image, une vidéo, est-ce que je dois la télécharger ?</li>
+<br/>
+</ul>
+<br/>
+Bon, toutes ces questions, pour gênantes qu'elles sont, ne sont cependant pas bloquantes, et certaines sont même plutôt stimulantes (la wayback machine, par exemple). Ca me donne des idées pour l'avenir, et des axes de collaboration pour faire avancer JBake.
+</p>
+<p>
+Ah, en bonus, j'ai fait pendant ces vacances un peud e JQuery pour rendre les tags exploitables, et c'est franchement terriblement bien. Tellement, même, que je comprend complètement les idées d'un outil comme <a href="https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html">riot.js</a>. Dans le même ordre idée, je comprend d'autant moins <a href="http://css.dzone.com/articles/please-stop-using-twitter?utm_source=feedburner&#38;utm_medium=feed&#38;utm_campaign=Feed%3A+javalobby%2Ffrontpage+%28Javalobby+%2F+Java+Zone%29">cet article snobissime sur Twitter Bootstrap</a> que je l'ai facilement adapté à ma charte graphique ... Du coup, la critique qui vise à dire que Bootstrap est impossible à modifier prend du plomb dans l'aile ...
+</p>
+++++

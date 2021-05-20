@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: java.net Forums : Read and write EXIF tags from Jpeg ...
+:jbake-tags: java,exif,metadata,image,library,_mois_août,_année_2008
+:jbake-date: 2008-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1219651036000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforums.java.net%2Fjive%2Fthread.jspa%3FthreadID%3D10568&searchtags=java+exif+metadata+image+library+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://forums.java.net/jive/thread.jspa?threadID=10568[java.net Forums : Read and write EXIF tags from Jpeg ...]
+
+

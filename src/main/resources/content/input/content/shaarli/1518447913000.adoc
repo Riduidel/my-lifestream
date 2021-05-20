@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Electric Ponies — SMTP as an API
+:jbake-tags: architecture,web,email,application,_mois_févr.,_année_2018
+:jbake-date: 2018-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1518447913000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftech.polyconseil.fr%2Fsmtp-api.html&searchtags=architecture+web+email+application+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://tech.polyconseil.fr/smtp-api.html[Electric Ponies — SMTP as an API]
+
+Wow, le titre laisse rêveur ... Même si la réalité est un peu plus triviale. Cela dit, en 2018, continuer de laisser de côté le mail malgré ses avantages énormes me paraît toujours dommage.

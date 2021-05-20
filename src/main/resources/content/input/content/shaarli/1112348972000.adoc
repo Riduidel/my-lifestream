@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The W3C Markup Validation Service
+:jbake-tags: web,software,test,w3c,standard,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348972000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvalidator.w3.org%2F&searchtags=web+software+test+w3c+standard+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://validator.w3.org/[The W3C Markup Validation Service]
+
+Checks documents like HTML and XHTML for conformance to W3C Recommendations and outputs a report. Useful when dealing with obscure HTML bugs

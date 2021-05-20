@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ranchero Software: TigerLaunch 1.0.2
+:jbake-tags: software,freeware,open-source,macosx,system,launcher,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110976866000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ranchero.com%2Ftigerlaunch%2F&searchtags=software+freeware+open-source+macosx+system+launcher+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ranchero.com/tigerlaunch/[Ranchero Software: TigerLaunch 1.0.2]
+
+TigerLaunch is an easy-to-use and easy-to-configure application launcher for OS X. It displays an Apps menu at the top of your screen listing all your applications in alphabetical orderâ⊘no matter what folder they appear in.

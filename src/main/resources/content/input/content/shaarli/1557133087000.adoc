@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Margin in Software Systems – Embedded in Academia
+:jbake-tags: software,engineering,concepts,_mois_mai,_année_2019
+:jbake-date: 2019-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1557133087000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.regehr.org%2Farchives%2F50&searchtags=software+engineering+concepts+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.regehr.org/archives/50[Margin in Software Systems – Embedded in Academia]
+
+Un concept exceptionnellement intéressant !

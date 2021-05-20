@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - L'Expérience Développeur et votre API
+:jbake-tags: api,devoxx,documentation,web,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxx-lexperience-developpeur-et-votre-api.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxx-lexperience-developpeur-et-votre-api/
+:jbake-style: wordpress
+
+++++
+<p>
+Et comment on fait de belles api alors ?
+<br/>
+Evidement, ce talk parle d'apis rest/http. Mais à mon avis, ça peut se projeter sur d'autres domaines comme les interfaces entre modules (quels qu'ils soient).
+</p>
+<p>
+Première chose à envisager : quels sont les utilisateurs ?
+</p>
+<p>
+Donc d'abord, rendre l'api compréhensible.
+</p>
+<p>
+Et rendre la documentation "inutile" : proposer des exemples de code, faire des guides d'utilisation (des howto, typiquement), et avoir un exemple complet d'utilisation. Toute cette documentation, écrivez-la avec des outils "connus".
+<br/>
+Permettre aux utilisateurs de contribuer de la doc est également une bonne façon de créer de la documentation facilement.
+</p>
+++++

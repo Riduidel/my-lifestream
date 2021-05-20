@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compaq's Web Language - Library
+:jbake-tags: développement,java,langage,software,_mois_déc.,_année_2004
+:jbake-date: 2004-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1102336926000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.research.compaq.com%2FSRC%2FWebL%2Flibrary.html&searchtags=d%C3%A9veloppement+java+langage+software+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.research.compaq.com/SRC/WebL/library.html[Compaq's Web Language - Library]
+
+Welcome to Compaq's Web Language library, the definitive information source for Compaq's Web Language. Did you do something neat with the language? Discovered a new trick? Please let us know ! We will gladly add your code to our repository.

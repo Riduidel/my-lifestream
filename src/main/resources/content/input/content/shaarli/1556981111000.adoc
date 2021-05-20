@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emily St on Twitter: "Oh my god, did Firefox just accidentally disable all addons in the entire world due to a cert expiration? https://t.co/mYYzRZlmf6… https://t.co/KILwl1dN9x"
+:jbake-tags: sécurité,certificat,web,firefox,extension,_mois_mai,_année_2019
+:jbake-date: 2019-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1556981111000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Femilyst%2Fstatus%2F1124486013307351040&searchtags=s%C3%A9curit%C3%A9+certificat+web+firefox+extension+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/emilyst/status/1124486013307351040[Emily St on Twitter: "Oh my god, did Firefox just accidentally disable all addons in the entire world due to a cert expiration? https://t.co/mYYzRZlmf6… https://t.co/KILwl1dN9x"]
+
+Et si, Mozilla a bien foiré cette fois-ci ! Le truc un peu déplorable, c'est qu'ils contribuent, il me semble, à Let's Encrypt qui évite précisément ce genre d'erreur

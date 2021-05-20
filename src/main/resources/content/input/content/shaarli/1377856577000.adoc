@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: When it all began
+:jbake-tags: humour,programming,encoding,_mois_août,_année_2013
+:jbake-date: 2013-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1377856577000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgeek-and-poke.com%2Fgeekandpoke%2F2013%2F8%2F29%2Fwhen-it-all-began&searchtags=humour+programming+encoding+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://geek-and-poke.com/geekandpoke/2013/8/29/when-it-all-began[When it all began]
+
+YEAAAAAAAAAHHHHHHHHHHHHHHHHHHHH Unicode ! Enfin bon, faut faire gaffe : entre l'UTF-8, l'UTF-16, et d'autres gadgets, c'est pas aussi simple qu'il n'y paraît ...

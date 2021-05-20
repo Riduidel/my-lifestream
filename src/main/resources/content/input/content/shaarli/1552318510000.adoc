@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How productive is Rust? – Wouter Geraedts – Medium
+:jbake-tags: programming,performance,rust,_mois_mars,_année_2019
+:jbake-date: 2019-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1552318510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40woutergeraedts%2Fhow-productive-is-rust-e2260db28f09&searchtags=programming+performance+rust+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/@woutergeraedts/how-productive-is-rust-e2260db28f09[How productive is Rust? – Wouter Geraedts – Medium]
+
+Cet article me fait mal d'une manière assez spécifique : ils ont réussi hashcode (aïe) en Rust (gros aïe)

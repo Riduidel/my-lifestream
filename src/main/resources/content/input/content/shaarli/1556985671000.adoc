@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Local-first software: You own your data, in spite of the cloud
+:jbake-tags: java,programming,algorithme,data,distribué,_mois_mai,_année_2019
+:jbake-date: 2019-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1556985671000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.inkandswitch.com%2Flocal-first.html&searchtags=java+programming+algorithme+data+distribu%C3%A9+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.inkandswitch.com/local-first.html[Local-first software: You own your data, in spite of the cloud]
+
+L'article est super intéressant, et j'ai bien envie de creuser cette structure de données (pour remplacer Kafka, par exemple)

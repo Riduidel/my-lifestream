@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: S5: A Simple Standards-Based Slide Show System
+:jbake-tags: présentation,slideshow,web,tool,javascript,_mois_déc.,_année_2005
+:jbake-date: 2005-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1133952844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.s5presents.com%2F&searchtags=pr%C3%A9sentation+slideshow+web+tool+javascript+_mois_d%C3%A9c.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.s5presents.com/[S5: A Simple Standards-Based Slide Show System]
+
+Un outil de présentation pour le web, à partir de pages HTML et de liens en Javascript

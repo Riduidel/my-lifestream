@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gereint et Enid (Arthur, une épopée celtique, #6)
+:jbake-tags:  amour, rayon-bd,_année_2010,_mois_févr.,_note_2,fantasy,read
+:jbake-date: 2010-02-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847890266.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455436679l/7741156._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455436679l/7741156._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7741156
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/123874.html[David Chauvel]
+* link:../authors/208441.html[Jérôme Lereculey]
+
+## Series
+* link:../series/Arthur__une_epopee_celtique.html[Arthur, une épopée celtique]
+
+## Review
+
+++++
+Une histoire de fidélité pas forcément passionante, et qui termine enfin cette série de trois histoires d'amour très connues, sans doute à l'origine du mythe de l'amour courtois du moyen-âge.
+++++

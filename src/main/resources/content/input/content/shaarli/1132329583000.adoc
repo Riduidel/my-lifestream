@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: fabFORCE.net
+:jbake-tags: freeware,open-source,software,windows,programming,design,_mois_nov.,_année_2005
+:jbake-date: 2005-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1132329583000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fabforce.net%2Fdbdesigner4%2F&searchtags=freeware+open-source+software+windows+programming+design+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.fabforce.net/dbdesigner4/[fabFORCE.net]
+
+Un petit IDE pour développer une base MySQL. Dommage qu'il ne soit disponible que sous Windows ...

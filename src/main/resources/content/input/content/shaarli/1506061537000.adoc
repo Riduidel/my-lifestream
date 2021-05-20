@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Booking.com manipulates you
+:jbake-tags: web,design,interface,_mois_sept.,_année_2017
+:jbake-date: 2017-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1506061537000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fro-che.info%2Farticles%2F2017-09-17-booking-com-manipulation&searchtags=web+design+interface+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://ro-che.info/articles/2017-09-17-booking-com-manipulation[How Booking.com manipulates you]
+
+C'est un bon résumé des limites de booking.com. Mais comme le mentionne la conclusion, malgré ça, ça reste l'un des meilleurs sites pour trouver un hotel.

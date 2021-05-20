@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architecturons nos données !
+:jbake-tags: architecture_agile,data,_mois_avr.,_année_2020
+:jbake-date: 2020-04-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/14/architecturons-nos-donnees.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/14/architecturons-nos-donnees/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série sur la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> agile avec la méthode C4. Il fait suite à un article que j'espère avoir réussi sur <a href="https://riduidel.wordpress.com/2020/04/14/nous-avons-bien-concu-codons-maintenant/">le code</a>. Je dois dire que j'ai pas mal procrastiné avant d'entamer celui-ci, alors que pourtant le <a href="https://structurizr.com/help/documentation/data">modèle de document</a> est assez clair sur ce qui fait sens dans cette section ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et en plus, ça n'est pas bien compliqué : vous prenez dans votre système logiciel les différents  conteneurs ou composants qui stockent des données, vous décrivez le modèle de donnée associé et l'ensemble des contraintes techniques correspondant (durabilité, confidentialité, volumétrie envisagée, performance requise).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evidement, comment pour les autres parties, je vous encourage très vivement à en écrire le moins possible, et à en extraire le plus possible : si vous pouvez extraire le modèle d'une base données relationnelle pour le transformer en PlantUML, vous aurez toujours un schéma à jour ... (regardez par exemple <a href="https://github.com/Hywan/Database-to-PlantUML">Database-toPlantUML</a>). Alors d'accord, vous perdrez la possibilité de discuter du modèle de données d'une façon abstraite. Mais rappelez-vous : vous n'êtes pas là pour avoir des discussions abstraites, mais pour aider des développeurs à créer un produit concret. J'ai pris l'exemple d'une base de données relationnelle, mais c'est aussi valable dans le monde magique du NoSQL : si vous pouvez extraire une définition de vos objets, c'est toujours mieux que de créer un modèle virtuel (au sens où il n'est pas appuyé sur du concret).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors pourquoi écrire cet article m'est si difficile ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour vous l'expliquer, je vais faire une petite parenthèse. J'ai lu il y a peu <a href="https://dataintensive.net">Designing data intensive applications</a> qui est un livre fascinant sur le design d'applications modernes traitant des données efficacement et en grand volume. C'est à mon avis une oeuvre intéressante, parce qu'elle me permet de mettre en lumière la dualité applicative. Pour quelqu'un avec un passé de développeur comme moi, l'aspect important d'une application, c'est le code, c'est-à-dire ce qui permet à l'utilisateur d'interagir avec l'application. Or, dans cette partie, j'ai l'impression qu'on étudie un aspect <a href="https://fr.wikipedia.org/wiki/Dualit%C3%A9_(math%C3%A9matiques)">dual</a> du code : la donnée, qu'elle soit statique ou dynamique. Du coup, je suis peu à l'aise avec cet partie, alors pourtant que je suis convaincu de son intérêt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans l'article suivant, on abordera doucement la mise en production d'un projet, avec l'infrastructure.</p>
+<!-- /wp:paragraph -->
+++++

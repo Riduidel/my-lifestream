@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 8 Easy to Follow Ruby Presentations
+:jbake-tags: présentation,programming,rails,ruby,slideshow,tutorial,_mois_mai,_année_2007
+:jbake-date: 2007-05-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1178601445000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rubyinside.com%2F8-easy-to-follow-ruby-presentations-461.html&searchtags=pr%C3%A9sentation+programming+rails+ruby+slideshow+tutorial+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.rubyinside.com/8-easy-to-follow-ruby-presentations-461.html[8 Easy to Follow Ruby Presentations]
+
+Huit présentations de Ruby, dont au moins une concerne les développeurs Java

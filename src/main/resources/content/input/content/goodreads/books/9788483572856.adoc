@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz /21
+:jbake-tags:  monstre, rayon-bd, voyage,_année_2014,_mois_mai,_note_2,combat,read
+:jbake-date: 2014-05-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9788483572856.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332713187l/2824342._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332713187l/2824342._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2824342
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Los miembros del equipo son enviados a una nueva misión. Sin tener ni siquiera tiempo para llorar las muertes, acaban en un lugar al que no están en absoluto habituados: la ciudad que tienen ante sus ojos es Osaka, concretamente el barrio de Dôtonbori... Es en ese lugar donde el equipo se topa con un grupo desconocido que viste también los trajes de Gantz. ¿¡Son amigos o enemigos!? ¡Se abre el telón de una nueva saga de <i>Gantz</i> con todavía más destrucción y encarnizamiento!
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+* link:../authors/1134860.html[Marc Bernabé]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+Je me demandais comment la série pourrait continuer après la mort du personnage principal. Eh bien c'est simple : difficilement.<br/>Enfin bon, c'est surtout parce que ces combats ad nauseam cherchent à cahque fois à produire plus d'impact, mais n'y arrivent pas toujours.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Diminishing returns of static typing
+:jbake-tags: programming,type,_mois_sept.,_année_2017
+:jbake-date: 2017-09-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1505829169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.merovius.de%2F2017%2F09%2F12%2Fdiminishing-returns-of-static-typing.html&searchtags=programming+type+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.merovius.de/2017/09/12/diminishing-returns-of-static-typing.html[Diminishing returns of static typing]
+
+Je n'ai pas tout lu en détail, mais l'argument principal me semble parfaitement clair.

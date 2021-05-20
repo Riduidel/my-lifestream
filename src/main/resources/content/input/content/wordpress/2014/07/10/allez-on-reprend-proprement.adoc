@@ -1,0 +1,281 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Allez on reprend proprement ...
+:jbake-tags: wisdom,_mois_juil.,_année_2014
+:jbake-date: 2014-07-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/07/10/allez-on-reprend-proprement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/07/10/allez-on-reprend-proprement/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, suite à la sortie de wisdom <a href="http://wisdom-framework.org/releases">0.6.1</a>, j'ai décidé de reprendre les choses proprement.
+</p>
+<p>
+Parce que j'ai réfléchi, et j'ai constaté plusieurs erreurs bêtes :
+<br/>
+<ul>
+<br/>
+<li>J'avais pensé créer un repository Git, mais il ne m'a finalement servi à rien. C'est idiot.</li>
+<br/>
+<li>D'accord il n'y a pas de tests avec karma, mais je peux utiliser <a href="http://wisdom-framework.org/reference/0.6.1/index.html#_fluentlenium_tests">fluentlenium</a>, non ?</li>
+<br/>
+</ul>
+<br/>
+Donc cette fois-ci, je vais essayer de faire les choses proprement, avec un repository git bien taggé, avec des tests d'interface, avec les archétypes qui vont bioen, et je vais essayer aussi de parler un peu d'angular.
+</p>
+<p>
+Donc, reprenons du début ...
+</p>
+<p>
+Pour commencer, je crée le projet facilement puisque Eclipse me permet d'utiliser les archétypes, et que wisdom en propose maintenant <a href="http://wisdom-framework.org/reference/0.6.1/index.html#_using_the_maven_archetype">un chouette</a>. Donc je mets les bons paramètres, je clique dans le wizard d'Eclipse sur Finish ... et c'est parti, j'ai mon application <code>angular-google-shop</code> que vous retrouverez rapidement dans Github (ce point bien précis est dans le tag <code>01_-_Après_l'appel_de_l'archétype_maven</code>).
+</p>
+<p>
+Et là, c'est évidement le moment du premier appel à mvn wisdom:run ...
+</p>
+<p>
+Histoire de ne pas reproduire le pataquès précédent, je vais tout de suite me créer un autre contrôleur (un collègue me soufflait d'ailleurs que ce serait bien cool d'avoir des outils de scaffolding comme dans Grails ... pas bête).
+</p>
+<p>
+Donc on y va pour le <a href="https://docs.angularjs.org/tutorial">tutorial angular</a> .... Sans passer par la case Bootstrapping, puisque j'ai déja fait mon projet.
+</p>
+<p>
+Je la remplace gaillardement par la création d'un autre contrôleur, que j'appelle GoogleShopController, et dont le contenu est à peu près ça
+<br/>
+<pre>@Controller
+<br/>
+public class GoogleShopController extends DefaultController {
+<br/>
+}
+</p>
+<p>
+</pre>
+<br/>
+Maintenant, je vais le remplir ... Ce que j'ai déja fait dans <a title="Un peu de wisdom, ça fera du bien" href="http://riduidel.wordpress.com/2014/06/20/un-peu-de-wisdom-ca-fera-du-bien/">Un peu de wisdom, ça fera du bien</a>
+<br/>
+<h4>Créons donc un template statique  <a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_01">1 - Static Template</a></h4>
+<br/>
+Donc, dans mon contrôleur, je crée une View et une méthode pour l'afficher :
+<br/>
+<pre>    /**
+<br/>
+     * Ici "list" est le nom du fichier du template, sans l'extension thl.html
+<br/>
+     */
+<br/>
+    @View("list")
+<br/>
+    Template list;
+</p>
+<p>
+    /**
+<br/>
+     * Et donc quand on va aller sur http://localhost:9000/list, ça va afficher le template {@link #list}
+<br/>
+     */
+<br/>
+    @Route(method = HttpMethod.GET, uri = "/list")
+<br/>
+    public Result todoList() {
+<br/>
+        return ok(render(list));
+<br/>
+    }</pre>
+<br/>
+Et le fichier .thl.html qui va bien ... Parce que je l'avais pas fait au début, heureusement j'ai eu droit à une belle exception lors de l'affichage, qui m'a poussé à aller voir le monitoring, qui m'a indiqué cette chouette erreur :
+</p>
+<p>
+<a href="https://riduidel.files.wordpress.com/2014/07/wisdom-monitor-__-controllers_2014-07-08_15-07-00.png"><img class="aligncenter size-large wp-image-2543" src="http://riduidel.files.wordpress.com/2014/07/wisdom-monitor-__-controllers_2014-07-08_15-07-00.png?w=520" alt="Wisdom Monitor __ Controllers_2014-07-08_15-07-00" width="520" height="17" /></a>C'est clair, non ?
+</p>
+<p>
+Bien, j'en suis donc arrivé à la fin de l'étape 1 du tutoriel, et le résultat est dans le tag <code>01_-_Etape_01_du_tutoriel_Angular_JS_avec_template_statique</code>.
+<br/>
+<h4>Et voilà les templates  <a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_02">2 - Angular Templates</a></h4>
+<br/>
+Rien de bien sorcier là-dedans, mis à part évidement l'ajout des webjars :
+<br/>
+<pre>        &#60;dependency&#62;
+<br/>
+            &#60;groupId&#62;org.webjars&#60;/groupId&#62;
+<br/>
+            &#60;artifactId&#62;angularjs&#60;/artifactId&#62;
+<br/>
+            &#60;version&#62;${angular.version}&#60;/version&#62;
+<br/>
+        &#60;/dependency&#62;
+<br/>
+        &#60;dependency&#62;
+<br/>
+            &#60;groupId&#62;org.webjars&#60;/groupId&#62;
+<br/>
+            &#60;artifactId&#62;bootstrap&#60;/artifactId&#62;
+<br/>
+            &#60;version&#62;${bootstrap.version}&#60;/version&#62;
+<br/>
+        &#60;/dependency&#62;</pre>
+<br/>
+C'est vraiment cool, je l'ai déja dit.
+</p>
+<p>
+Bien, au passage, j'avais oublié d'ajouter la CSS de Bootstrap.
+</p>
+<p>
+Et, encore une fois au passage, Wisdom intègre maintenant un chouette gadget pour ne pas trop s'emmerder avec les chemins des assets :
+<br/>
+<pre>        &#60;link th:href="${#routes.asset('css/bootstrap.css')}" rel="stylesheet"/&#62;</pre>
+<br/>
+Vous voyez la "fonction" thymeleaf <code>#routes.asset('..')</code> ? Eh bien elle convertit le chemin côté serveur en un chemin utilisable côté client, en s'occupant de toutes ces histoires de transformation de chemin. Bien joué ! D'ailleurs, elle plante joliment sur le chemin que j'ai entré pour angular, preuve que je n'arrive décidément pas à mettre la main dessus ...
+</p>
+<p>
+Ah, ça y est, j'ai trouvé :
+<br/>
+<pre>        &#60;script th:src="${#routes.asset('angular.js')}"&#62;&#60;/script&#62;</pre>
+<br/>
+Dingue, non ?
+</p>
+<p>
+Tiens, au passage, une petite observation sur Angular ...
+</p>
+<p>
+Dans cette étape, on utilise pour la première fois <code>ng-repeat="..."</code>. Un truc me trouble avec ce bidule : j'ai pas l'impression que ce soit du javascript qui y est écrit ...je me trompe ? Eh bien non, <a href="https://docs.angularjs.org/api/ng/directive/ngRepeat">ng-repeat</a> utilise une "<a href="https://docs.angularjs.org/guide/expression">expression</a>". Alors ça c'est bizarre ...
+</p>
+<p>
+Et c'est là qu'arrivent les tests jasmine/karma ... pour lesquels je dois écrire un <a href="http://wisdom-framework.org/reference/0.6.1/index.html#_extending_the_wisdom_build_process">Watcher </a>... A moins bien sûr que je ne décide de faire un test Fluentlenium qui accède à la page HTML de tests Jasmine pour les exécuter ... Mouais, je vais plutôt faire ça, tiens ...
+<br/>
+Bon, j'ai pas été au bout, en revanche, l'approche est tellement bonne que je vais en discuter avec la liste wisdom. En fait c'est assez simple : il faut faire un bout d'application qui déclare un contrôleur JasmineRunner. Ce contrôleur définit une route qui cahrge la page de tests de Jasmine et qui utilise cette page pour produire les résultats des tests. Vous pouvez regardez dans le tag qui va bien <code>02_-_Etape_02_du_tutoriel_avec_templates_Angular_et_tests_Jasmine</code>.
+<br/>
+<h4>Filtrons <a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_03">3 - Filtering Repeaters</a></h4>
+<br/>
+Ca va aller vite ...
+</p>
+<p>
+Mis à part que protractor se traduit évidement par un <strong>vrai</strong> test Fluentlenium :-)
+</p>
+<p>
+Et là, c'est le drame : je n'arrive pas à trouver la bonne syntaxe pour que ce test marche. En bonus, la syntaxe de Protractor n'a que peu de rapport avec celle de Fluentlenium. Pour tout dire, Protractor me donne l'impression d'un outil très spécifique à Angular, que je trouve de fait d'un intérêt assez faible.
+</p>
+<p>
+Grmbl ..
+</p>
+<p>
+Bon, après quelques heures de recherche, il s'est avéré que le test ne marchait pas parce que le driver Selenium par défaut ne supporte pas trop bien la syntaxe Angular.
+</p>
+<p>
+Et donc, maintenant que j'ai un test Fluentlenium, je peux dire que l'étape 3 est accomplie ! Ce qui donne donc le tag <code>03_-_Après_l'ajout_du_filtrage</code>.
+<br/>
+<h4>Trions <a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_04">4 - Two-way Data Binding</a></h4>
+<br/>
+Là aussi, c'est assez rapide puisque je sais déja ce qu'il y a à faire, en fait plus rien de compliqué puisque toute l'infrastructure existe !
+</p>
+<p>
+En revanche, définitivement, je préfère la syntaxe Fluentlenium. En effet, comme on n'y utilise que le HTML, on "bloque" l'interface dans une forme donnée, sans trop se préoccuper de ce qui est ait au niveau Angular, alors que Protractor fait tout le contraire.
+</p>
+<p>
+Et du coup, encore un joli tag : <code>04_-_Après_l'ajout_du_tri</code>.
+</p>
+<p>
+Bon, comme les étapes suivantes sont du même accabit, je vais accélérer un peu, hein ...
+<br/>
+<h4><a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_05">5 - XHRs &#38; Dependency Injection</a></h4>
+<br/>
+Rien de bien compliqué, juste une copie de fichiers "au bon endroit".
+</p>
+<p>
+Il y a toutefois un truc malin dans le mock du service HTTP : le fait de flusher à la main la requête permet d'avoir un contrôle très fin sur ce qui se passe. C'est bien vu !
+</p>
+<p>
+Bon, par contre, ne pas indiquer dans le tutorial que les tests end-to-end peuvent ne plus marcher, c'est pas très sympa ... Mais j'ai quand même le tag <code>05_-_XHR</code>
+<br/>
+<h4><a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_06">6 - Templating Links &#38; Images</a></h4>
+<br/>
+Bon là il y a un peu de modification de chemins, mais rien de grave ... Quelques modifications dans les tests, aussi, mais vraiment rien de grave. Et le tag est <code>06_-_Liens_et_images</code>.
+<br/>
+<h4><a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_07">7 - Routing &#38; Multiple Views</a></h4>
+<br/>
+Alors là, je l'ai déja dit, mais globalement, quand ils disent dans le tutorial
+<br/>
+<blockquote>The routing functionality added by this step is provided by angular in the <code><span class="pln">ngRoute</span></code> module, which is distributed separately from the core Angular framework.</blockquote>
+<br/>
+Ca veut juste dire d'ajouter le bon script :
+<br/>
+<pre>&#60;script th:src="${#routes.asset('angular-route.js')}"&#62;&#60;/script&#62;
+</p>
+<p>
+</pre>
+<br/>
+Bon il y a aussi un peu de code à modifier, mais rien d'insurmontable ... dans le tag <code>07_-_avec_deux_routes</code>.
+<br/>
+<h4><a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_08">8 - More Templating</a></h4>
+<br/>
+Dans le tag <code>08_-_avec_un_beau_template_pour_les_détails</code>. Je dois juste à l'honnêteté de dire que j'ai réutilisé le test d el'étape 7, parce qu'il y avait franchement une répétition.
+<br/>
+<h4><a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_09">9 - Filters</a></h4>
+<br/>
+Ca donne un joli tag de plus <code>09_-_avec_des_filtres_de_rendu</code> ... Et l'envie certaine d'intégrer les tests Jasmine dans le build.
+<br/>
+<h4><a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_10">10 - Event Handlers</a></h4>
+<br/>
+Trop facile ! Y compris le test Fluentlenium qui va bien. D'où le tag <code>10_-_avec_des_événements</code>.
+<br/>
+<h4><a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_11">11 - REST and Custom Services</a></h4>
+<br/>
+Là, comme pour les routes, il faut ajouter un module dans bower, c'est-à-dire que c'est déja fait avec webjars ... Bon, le mauvais point de mon runner Jasmine actuel, je dois le dire, c'est qu'il n'arrive pas à récupérer les scripts utilisés dans list.thl.html, et c'est dommage. Mais j'imagine qu'un peu de lecture de <a href="http://www.thymeleaf.org/">thymeleaf </a>m'y aiderait ...
+</p>
+<p>
+Ah, petite blague : Angular a écrit son tutorial avec <a href="http://jasmine.github.io/1.3/introduction.html">Jasmine 1.3</a>, et ne l'a pas mis à jour. Mais <a href="http://jasmine.github.io/2.0/introduction.html">jasmine 2.0</a> change le style d'écriture des <a href="http://jasmine.github.io/2.0/custom_matcher.html">custom matchers</a>, d'où un beforeEach un peu différent de la version fournie avec angular (que je n'ai par ailleurs aps réussi à faire marcher de façon satisfaisante).
+</p>
+<p>
+J'en ai aussi profité pour m'assurer que je compilais bien en 1.7 ...
+</p>
+<p>
+Et j'ai donc créé le tag <code>11_-_avec_un_service_REST</code>.
+</p>
+<p>
+<a class="ng-binding" href="https://docs.angularjs.org/tutorial/step_12">12 - Applying Animations</a>
+</p>
+<p>
+Bon, il y a le traditionnel ajout d'un module angular ...
+<br/>
+<pre> &#60;script th:src="${#routes.asset('angular-animate.js')}"&#62;&#60;/script&#62;</pre>
+<br/>
+Et l'ajout de ...jQuery ? WTF ?!#
+<br/>
+Ah, au fait, notez bien qu'à cause d'un "<a href="https://github.com/wisdom-framework/wisdom/issues/265">bug</a>" Wisdom, si vous ajoutez un webjar, il faut relancer <code>wisdom:run</code> à la main pour l'instant ... Bref ...
+</p>
+<p>
+Revenons-en à nos animations. C'est pas compliqué compliqué, je trouve juste bizarre d'avoir une animation jQuery alors que le tutorial dit bien
+<br/>
+<blockquote>jQuery isn't required to do JavaScript animations with AngularJS, but we're going to use it because writing your own JavaScript animation library is beyond the scope of this tutorial</blockquote>
+<br/>
+Est-ce que c'est pas une façon déguisée de dire que les animations avec jQuery sont quand même plus simples qu'avec angular ?
+</p>
+<p>
+Cela dit, j'ai mon tag <code>12_-_avec_des_animations</code>. Et j'ai fini le tutorial !
+<br/>
+<h3>Conclusion</h3>
+<br/>
+J'espère vous avoir convaincu, malgré le côté un peu expérimental de cette histoire, de l'intérêt d'utiliser wisdom. Pourquoi ?
+<br/>
+<ul>
+<br/>
+<li>Parce que le packaging javascript utilisant les webjars est bien plus simple</li>
+<br/>
+<li>Parce que les tests Fluentlenium sont eux aussi bien plus simples à écrire que les tests protractor</li>
+<br/>
+<li>Parce que je n'ai pas parlé des optimisations des images, de l'utilisation de LESS, de Typescript, ou d'autres fonctionnalités encore plus chouettes</li>
+<br/>
+<li>Et enfin parce que lorsqu'on package une application wisdom, on package un tout : client et serveur, bénéficiant à la fois de la facilité de Javascript, <strong>et</strong> de l'écosystèpme serveur Java.</li>
+<br/>
+</ul>
+<br/>
+La suite ?
+</p>
+<p>
+Je pourrais, dans une version ultérieure, faire un peu de code serveur : générer le phones.json à aprtir d'une servlet quelconque, gérer la sécurité, faire du push via websockets, ... Mais pour ça, on verra plus tard.
+</p>
+<p>
+&#160;
+</p>
+++++

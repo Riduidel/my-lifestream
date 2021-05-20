@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Charity Majors on Twitter: "Your job is not done when you commit to master. Your job is not done until... well, until your code is decommissioned or you have handed it off to a new owner. That's software ownership."
+:jbake-tags: citation,programming,maintenance,histoire,_mois_juin,_année_2019
+:jbake-date: 2019-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1560765079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmipsytipsy%2Fstatus%2F1123809252034924546&searchtags=citation+programming+maintenance+histoire+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mipsytipsy/status/1123809252034924546[Charity Majors on Twitter: "Your job is not done when you commit to master. Your job is not done until... well, until your code is decommissioned or you have handed it off to a new owner. That's software ownership."]
+
+Ca fait salement réfléchir ...

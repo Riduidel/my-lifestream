@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome :: excla.im
+:jbake-tags: jabber,twitter,xmpp,bot,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1371027788000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fexcla.im%2F&searchtags=jabber+twitter+xmpp+bot+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://excla.im/[Welcome :: excla.im]
+
+Un bot jabber de communication avec Twitter hosté sur Google App Engine. Il faut un compte gmail pour s'y connecter (dommage), et je n'ai pas réussi à récupérer mes messages avec ... le bot est à l'adresse exclaimbot@appspot.com

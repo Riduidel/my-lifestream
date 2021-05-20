@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CodeProject: What is SCRUM?. Free source code and programming help
+:jbake-tags: agile,scrum,management,projet,_mois_avr.,_année_2008
+:jbake-date: 2008-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1207657065000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codeproject.com%2FKB%2Farchitecture%2Fscrum.aspx&searchtags=agile+scrum+management+projet+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.codeproject.com/KB/architecture/scrum.aspx[CodeProject: What is SCRUM?. Free source code and programming help]
+
+Un résumé de scrum, histoire de s'y retrouver facilement.

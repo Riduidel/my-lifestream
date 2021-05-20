@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RubyImporter
+:jbake-tags: plugin,ruby,search,tool,macosx,software,freeware,open-source,_mois_déc.,_année_2006
+:jbake-date: 2006-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1166339369000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.arcadianvisions.com%2Fdownloads%2FRubyImporter.html&searchtags=plugin+ruby+search+tool+macosx+software+freeware+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.arcadianvisions.com/downloads/RubyImporter.html[RubyImporter]
+
+Un plugin Spotlight permettant de rechercher dans du code source Ruby avec Spotlight

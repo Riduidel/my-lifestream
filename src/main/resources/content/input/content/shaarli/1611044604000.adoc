@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mabe02/lanterna: Java library for creating text-based GUIs
+:jbake-tags: java,api,terminal,graphics,open-source,_mois_janv.,_année_2021
+:jbake-date: 2021-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1611044604000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmabe02%2Flanterna&searchtags=java+api+terminal+graphics+open-source+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/mabe02/lanterna[mabe02/lanterna: Java library for creating text-based GUIs]
+
+Avec cette API, vous pouvez développer des applis comme en 1990 pour le terminal, le tout dans un style assez proche de Swing

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SmallNetBuilder - Small Network Help
+:jbake-tags: réseau,reference,matériel,nas,stockage,review,_mois_janv.,_année_2009
+:jbake-date: 2009-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1231158172000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsmallnetbuilder.com%2F&searchtags=r%C3%A9seau+reference+mat%C3%A9riel+nas+stockage+review+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://smallnetbuilder.com/[SmallNetBuilder - Small Network Help]
+
+J'avais déja vu le site, mais ne l'avais pas encore bookmarké. En tout cas, il est rempli de tests et de comparatifs divers me permettant de choisir de manière sûre quelle NAS choisir. Parce que celui de Linksys me semble un peu light.

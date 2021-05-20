@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fossdroid: Free and open source Android applications
+:jbake-tags: android,software,open-source,_mois_avr.,_année_2015
+:jbake-date: 2015-04-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1429611663000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffossdroid.com%2F&searchtags=android+software+open-source+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://fossdroid.com/[Fossdroid: Free and open source Android applications]
+
+Alors ça c'est chouette ! Parce que F-Droid a quand même une interface bien foireuse

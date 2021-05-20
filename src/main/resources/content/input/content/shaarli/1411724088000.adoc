@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fonz fun plug est vulnérable à #ShellShock
+:jbake-tags: hack,sécurité,software,system,_mois_sept.,_année_2014
+:jbake-date: 2014-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1411724088000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F&searchtags=hack+s%C3%A9curit%C3%A9+software+system+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://[Fonz fun plug est vulnérable à #ShellShock]
+
+Ah merde, mon NAS est vulnérable à ShellShock :-/ root@dlink-6A4EB1:~\# env x='() \{ :;\}; echo vulnerable' bash -c 'echo hello' vulnerable hello Va falloir que je fasse un upgrade, il me semble

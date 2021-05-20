@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Follow Redirects with cURL
+:jbake-tags: web,curl,configuration,flag,tutorial,_mois_janv.,_année_2018
+:jbake-date: 2018-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1515579839000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdavidwalsh.name%2Fcurl-follow-redirects&searchtags=web+curl+configuration+flag+tutorial+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://davidwalsh.name/curl-follow-redirects[Follow Redirects with cURL]
+
+Sympa ce flag cURL pour suivre les redirect. Ca permet de tester facilement des pages web un peu tordues ...

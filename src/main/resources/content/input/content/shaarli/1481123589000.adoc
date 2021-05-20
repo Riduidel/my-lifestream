@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "“Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.” - Stan Kelly-Bootle"
+:jbake-tags: citation,programming,_mois_déc.,_année_2016
+:jbake-date: 2016-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1481123589000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F806529463395741696&searchtags=citation+programming+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/806529463395741696[Programming Wisdom on Twitter: "“Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.” - Stan Kelly-Bootle"]
+
+Pour la blague, j'ai découvert aujourd'hui qu'en LUA, les tableaux démarrent à 1.

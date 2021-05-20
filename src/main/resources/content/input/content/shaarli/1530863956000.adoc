@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bienvenue à CAcert.org
+:jbake-tags: sécurité,certificat,web,_mois_juil.,_année_2018
+:jbake-date: 2018-07-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1530863956000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cacert.org%2F&searchtags=s%C3%A9curit%C3%A9+certificat+web+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.cacert.org/[Bienvenue à CAcert.org]
+
+C'est pas aussi puissant que Let's Encrypt, mais pour générer des certificats et des CA facilement, ça peut aider

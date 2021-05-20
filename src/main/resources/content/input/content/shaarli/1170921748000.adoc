@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open-source alternatives
+:jbake-tags: software,freeware,open-source,library,windows,linux,macosx,_mois_févr.,_année_2007
+:jbake-date: 2007-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1170921748000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.osalt.com%2F&searchtags=software+freeware+open-source+library+windows+linux+macosx+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.osalt.com/[Open-source alternatives]
+
+Un site référençant des alternatives open-source à des logiciels commerciaux. Pas forcément très à jour, mais pratique pour décider un décideur.

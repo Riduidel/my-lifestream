@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Using Rust Generics to Enforce DB Record State — Firstyear's blog-a-log
+:jbake-tags: programming,rust,concepts,design,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556254838000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffy.blackhats.net.au%2Fblog%2Fhtml%2F2019%2F04%2F13%2Fusing_rust_generics_to_enforce_db_record_state.html&searchtags=programming+rust+concepts+design+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fy.blackhats.net.au/blog/html/2019/04/13/using_rust_generics_to_enforce_db_record_state.html[Using Rust Generics to Enforce DB Record State — Firstyear's blog-a-log]
+
+C'est assez malin d'utiliser des automates à états finis pour gérer la connexion d'une entité avec une base de données ...

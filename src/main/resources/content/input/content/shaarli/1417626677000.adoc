@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rooter votre Wiko sous Android 4.4 KitKat - YouTube
+:jbake-tags: android,root,wiko,_mois_déc.,_année_2014
+:jbake-date: 2014-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1417626677000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbaETT3VVIQg%26feature%3Dyoutu.be&searchtags=android+root+wiko+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=baETT3VVIQg&feature=youtu.be[Rooter votre Wiko sous Android 4.4 KitKat - YouTube]
+
+Ca yest ! un tutorial qui marche pour rooter le wiko raimbow

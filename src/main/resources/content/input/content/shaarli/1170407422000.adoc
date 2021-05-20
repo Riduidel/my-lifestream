@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rails Log Visualizer
+:jbake-tags: rails,software,visualisation,log,macosx,freeware,_mois_févr.,_année_2007
+:jbake-date: 2007-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1170407422000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frailslogvislzr.rubyforge.org%2F&searchtags=rails+software+visualisation+log+macosx+freeware+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://railslogvislzr.rubyforge.org/[Rails Log Visualizer]
+
+Visualiseur de logs pour Rails

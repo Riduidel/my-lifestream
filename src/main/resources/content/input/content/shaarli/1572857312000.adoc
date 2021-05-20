@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Modeling Software Architecture With C4 - Better Programming - Medium
+:jbake-tags: architecture,c4,introduction,documentation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1572857312000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fbetter-programming%2Fmodeling-software-architecture-with-c4-243eb1f240c7&searchtags=architecture+c4+introduction+documentation+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/better-programming/modeling-software-architecture-with-c4-243eb1f240c7[Modeling Software Architecture With C4 - Better Programming - Medium]
+
+Très bonne introduction à C4 !

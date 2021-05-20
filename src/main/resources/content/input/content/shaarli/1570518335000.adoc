@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The log/event processing pipeline you can't have - apenwarr
+:jbake-tags: log,architecture,system,_mois_oct.,_année_2019
+:jbake-date: 2019-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1570518335000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fapenwarr.ca%2Flog%2F20190216&searchtags=log+architecture+system+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://apenwarr.ca/log/20190216[The log/event processing pipeline you can't have - apenwarr]
+
+J'aime bien les articles follement documentés comme celui-là, qui explique enfin clairement les défis de l'ingestion de logs.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Insolite : enfin, un connecteur RJ45 avec ergot incassable !
+:jbake-tags: matériel,réseau,connecteur,_mois_août,_année_2014
+:jbake-date: 2014-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1407316900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.clubic.com%2Finsolite%2Factualite-717591-connecteur-ethernet-ergot-incassable-etpcrj45et.html&searchtags=mat%C3%A9riel+r%C3%A9seau+connecteur+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.clubic.com/insolite/actualite-717591-connecteur-ethernet-ergot-incassable-etpcrj45et.html[Insolite : enfin, un connecteur RJ45 avec ergot incassable !]
+
+Alors ça, j'en rêve : tous les connecteurs RJ45 de ma boîte ont perdu leur ergot. TOUS. De façon SYSTEMATIQUE. Coïncidence ? Je ne pense pas ... via http://sebsauvage.net/links/?fzr8mA

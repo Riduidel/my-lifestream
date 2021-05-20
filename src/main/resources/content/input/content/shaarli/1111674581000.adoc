@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: IC-Switch (en)
+:jbake-tags: software,freeware,macosx,system,réseau,_mois_mars,_année_2005
+:jbake-date: 2005-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1111674581000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflip.macrobyte.net%2Fsoftware%2Fic-switch_en&searchtags=software+freeware+macosx+system+r%C3%A9seau+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://flip.macrobyte.net/software/ic-switch_en[IC-Switch (en)]
+
+IC-Switch is a helper utility for Internet Config (hence the "IC" in its name), for Mac OS X only. It allows you to change quickly and easily your default emailer, FTP client, news and RSS readers and Web browser, simply by choosing an item from a menu di

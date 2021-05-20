@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DocSynch - Collaborative Editing for Text Editors
+:jbake-tags: open-source,XP,collaboration,java,software,_mois_oct.,_année_2004
+:jbake-date: 2004-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1097048858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdocsynch.sourceforge.net%2Findex.php%3Fpage%5B%5D%3D0.Home&searchtags=open-source+XP+collaboration+java+software+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://docsynch.sourceforge.net/index.php?page[]=0.Home[DocSynch - Collaborative Editing for Text Editors]
+
+DocSynch is a collaborative editing system on top of IRC. By transforming single-user editors into multi-user editors, it allows to remotely edit text documents together. Implementations are targeted as extensions to many popular text editors and IDEs. A

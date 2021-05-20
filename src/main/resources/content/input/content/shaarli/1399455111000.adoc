@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pouvons-nous mettre un terme à ce jeu de dupes "d'estimations" ?
+:jbake-tags: software,développement,méthode,planning,_mois_mai,_année_2014
+:jbake-date: 2014-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1399455111000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infoq.com%2Ffr%2Farticles%2Festimations%3Futm_campaign%3Dinfoq_content&searchtags=software+d%C3%A9veloppement+m%C3%A9thode+planning+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.infoq.com/fr/articles/estimations?utm_campaign=infoq_content[Pouvons-nous mettre un terme à ce jeu de dupes "d'estimations" ?]
+
+Très chouette tribune sur l'inutilité absolue des estimations sans facteur d'erreur (enfin, je le prends comme ça)

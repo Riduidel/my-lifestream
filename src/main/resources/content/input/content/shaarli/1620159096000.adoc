@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moves, copies and clones in Rust
+:jbake-tags: rust,mémoire,design,documentation,_mois_mai,_année_2021
+:jbake-date: 2021-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1620159096000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhashrust.com%2Fblog%2Fmoves-copies-and-clones-in-rust%2F&searchtags=rust+m%C3%A9moire+design+documentation+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://hashrust.com/blog/moves-copies-and-clones-in-rust/[Moves, copies and clones in Rust]
+
+Oh j'aime beaucoup cette explication de la gestion de mémoire en Rust !

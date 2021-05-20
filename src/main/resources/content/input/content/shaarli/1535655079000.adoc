@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kryll.io — Automated Crypto Trading Strategies made simple
+:jbake-tags: web,trading,bitcoin,_mois_août,_année_2018
+:jbake-date: 2018-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1535655079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkryll.io%2F&searchtags=web+trading+bitcoin+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://kryll.io/[Kryll.io — Automated Crypto Trading Strategies made simple]
+
+Une plateforme de trading automatisé pour les crypto-monnaies ? Pourquoi pas ...

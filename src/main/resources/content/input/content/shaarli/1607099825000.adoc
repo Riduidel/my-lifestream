@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: echocat/velma: Master-Password protected password safe for Maven.
+:jbake-tags: maven,password,protection,open-source,_mois_déc.,_année_2020
+:jbake-date: 2020-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1607099825000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fechocat%2Fvelma&searchtags=maven+password+protection+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/echocat/velma[echocat/velma: Master-Password protected password safe for Maven.]
+
+Il semble bien que je puisse stocker des mots de passe dans mon fichier settings.xml d'une façon "propre". Et en fait non, c'est juste une amélioration du processus bancal dont dispose déja Maven ....

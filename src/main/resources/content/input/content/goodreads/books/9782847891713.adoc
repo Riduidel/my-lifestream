@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Bordel des muses 1. Au Moulin-Rouge
+:jbake-tags:  art, broc,_année_2014,_mois_mars,_note_2,rayon-bd,read
+:jbake-date: 2014-03-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847891713.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394742570l/13012695._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394742570l/13012695._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/13012695
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+La vie de Toulouse-Lautrec est restituée ici librement, tout en retraçant, néanmoins, avec une précision historique sa rencontre avec les grandes figures artistiques du XIXe siècle : Van Gogh, Degas, Gaugin... Smudja brosse avec maestria et humour les heures de gloire du Moulin Rouge, la faune interlope de Montmartre et des scènes de soûlographie mémorables.
+</div>
+++++
+
+
+## Authors
+* link:../authors/249242.html[Gradimir Smudja]
+
+## Series
+* link:../series/Le_Cabaret_des_muses.html[Le Cabaret des muses]
+
+## Review
+
+++++
+Une suite de tableaux très joliment dessinés, c'est vrai, mais à l'unité scénaristique très faible. L'auteur fait des blagues sur al taille de Toulouse-Lautrec, des blagues sur les déviances des autres peintres, et c'est parfois drôle.<br/>Mais il n'y a (je l'ai déja dit) pas vraiment de scénario, ni même de fil directeur. Du coup c'est somme toute décevant à la relecture.
+++++

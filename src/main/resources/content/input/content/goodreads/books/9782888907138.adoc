@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo #26
+:jbake-tags:  honeur, japon, mort, zombies,_année_2016,_mois_févr.,_note_3,rayon-bd,read
+:jbake-date: 2016-02-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888907138.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455627160l/29146223._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1455627160l/29146223._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/29146223
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Usagi doit faire face à une horde de morts-vivants ramenée à la vie par un sortilège. Avec des centaines de zombies et un sorcier maléfique à combattre, Usagi se retrouve en fâcheuse posture. Heureusement, il reçoit l’aide du démon Sasuké...<br /><br />Ce volume comporte également plusieurs histoires courtes pleines d’action, dont“ La mort du seigneur Hikiji”, nominé aux Eisner Award.
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Un chouette recueil des aventures d'Usagi, avec toutefois une variation sensible dans le dessin.<br/>Par exemple, usagi est moins bien défini sur certaines pages, tout comme ses compagnons d'aventure.
+++++

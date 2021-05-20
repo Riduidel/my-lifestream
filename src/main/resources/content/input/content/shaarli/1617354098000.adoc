@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A categorized list of all Java and JVM features since JDK 8 to 16 - Advanced Web Machinery
+:jbake-tags: java,langage,évolution,programming,_mois_avr.,_année_2021
+:jbake-date: 2021-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1617354098000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fadvancedweb.hu%2Fa-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16%2F&searchtags=java+langage+%C3%A9volution+programming+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/[A categorized list of all Java and JVM features since JDK 8 to 16 - Advanced Web Machinery]
+
+Je suis épaté de voir tout ce qui a changé entre Java 8 et Java 16 ! Il va falloir que je mette quelques projets à jour pour tester tout ça ...

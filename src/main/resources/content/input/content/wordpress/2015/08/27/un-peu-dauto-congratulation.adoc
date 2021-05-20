@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un peu d'auto-congratulation
+:jbake-tags: java,webdav,_mois_août,_année_2015
+:jbake-date: 2015-08-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/08/27/un-peu-dauto-congratulation.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/08/27/un-peu-dauto-congratulation/
+:jbake-style: wordpress
+
+++++
+<p>
+Cet article est exceptionnellement en anglais, mais vous comprendrez vite pourquoi ...
+</p>
+<p>
+Thanks for your article, <a href="http://blog.richpollock.com/2015/07/saving-a-file-to-an-os-x-webdav-server-using-apache-vfs-and-sardine/">Rick</a>.
+</p>
+<p>
+I must confess I've not done any support on that library over the last few years ...
+</p>
+<p>
+I must also confess I didn't wrote that lib for the reason you mention, but rather because using standard commons-VFS webDAV implementation with the webdav servlet I use was ... painfully slow.
+</p>
+<p>
+Anyway, reading such an article is an unbeliveable ego boost. So thanks a lot for your article.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Only Wear One Of Four Hats
+:jbake-tags: programming,organisation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482834181000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.c2.com%2F%3FOnlyWearOneOfFourHats&searchtags=programming+organisation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://wiki.c2.com/?OnlyWearOneOfFourHats[Only Wear One Of Four Hats]
+
+Intéressant ... mais pourquoi on n'utilise jamais ça ?

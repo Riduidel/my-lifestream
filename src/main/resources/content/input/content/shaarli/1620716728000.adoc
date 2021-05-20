@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AsciiBlog updated to Quarkus - Sebastian Daschner
+:jbake-tags: blog,open-source,quarkus,asciidoc,lifestream,_mois_mai,_année_2021
+:jbake-date: 2021-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1620716728000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.sebastian-daschner.com%2Fentries%2Fblog-with-asciidoc-quarkus-update&searchtags=blog+open-source+quarkus+asciidoc+lifestream+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://blog.sebastian-daschner.com/entries/blog-with-asciidoc-quarkus-update[AsciiBlog updated to Quarkus - Sebastian Daschner]
+
+Attends, un moteur de blog utilisant Quarkus et Asciidoc ? Ca pourrait complètement changer ma vision de mon lifestream (au sujet duquel un article de blog serait peut-être utile)

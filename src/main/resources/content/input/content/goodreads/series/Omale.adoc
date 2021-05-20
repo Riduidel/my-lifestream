@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Omale
+:jbake-tags: serie
+:jbake-date: 2013-04-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Omale.adoc
+:jbake-source: https://www.goodreads.com/series/88012
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782207109656.html[Omale, tome 1]

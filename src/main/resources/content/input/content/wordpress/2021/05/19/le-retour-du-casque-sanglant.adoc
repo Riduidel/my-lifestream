@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le retour du casque sanglant
+:jbake-tags: bloodbowl,jeu,web,_mois_mai,_année_2021
+:jbake-date: 2021-05-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/05/19/le-retour-du-casque-sanglant.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/05/19/le-retour-du-casque-sanglant/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Ceux qui me connaissent savent que je suis un grand joueur ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Attention : je ne veux pas dire que j'aime jouer de l'argent, ni que je suis un bon joueur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Plutôt que quand on me propose l'occasion de jouer à ... à peu près n'importe quoi, je suis prêt à essayer. Les jeux de carte, de fléchette, les jeux informatiques, les jeux de rôle, les jeux abstraits, je n'en connais qu'assez peu qui me rebutent (à l'exception du <a href="https://fr.wikipedia.org/wiki/Mao_(jeu)">mao</a>, qui m'a peut-être été mal présenté). Et dans ces jeux, certains ont pour moi une place particulière. Vous savez sans doute déjà que j'apprécie beaucoup le <a href="https://riduidel.wordpress.com/tag/nomic/">nomic</a>. Et bien sûr les jeux de programmation. Mais il y a d'autres jeux pour lesquels j'ai une longue affection.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'un d'entre eux est <a href="https://fr.wikipedia.org/wiki/Blood_Bowl">Blood Bowl</a>. Le jeu de plateau, bien évidement ! Et comme je suis un nostalgique, (et parce que j'ai testé et détesté la troisième édition), je me suis récemment racheté Blood Bowl et Zone Mortelle ...  Et la lecture des règles m'a replongé dans des souvenirs de parties acharnés, d'halflings lancés par des hommes-arbres. Bref, j'étais en plein trip.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'en ai donc parlé à mon fils, et nous nous sommes lancé dans une partie acharnée elfes vs elfes noirs qui a duré ... trois jours, et qui s'est conclu par l'abandon de mon fils après un arrachage de ballon par mes joueurs suivi d'une blessure de l'un de ses joueurs. Vraiment pas de bol. Mais j'ai quand même été frappé par deux choses. D'abord, les règles sont sacrément complexes, et le fait d'avoir deux manuels de règles complexifie un peu la tâche de la personne chargée de lire les règles (moi, en l’occurrence). Et puis on se retrouve vite à jeter des séries de dés en farfouillant dans les règles, ce qui n'est pas commode. Et le solutionisme technologique m'a frappé. A mon avis, il ne doit pas être trop dur de reprendre les règles de base et les règles additionnelles pour en faire une espèce de site dynamique. Et il doit même être possible de se faire une application pur JS arbitrant la parti. Mais je ne sais pas encore trop comment faire ...</p>
+<!-- /wp:paragraph -->
+++++

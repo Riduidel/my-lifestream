@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jim Speaker, GFoML on Twitter: "Too busy to #TDD? Too busy to pair? Too busy to #refactor? Too busy to micro-test? I call bullshit. My buddy Erik Meade calls it Stupid Busy, and I think that nails it pretty well. All you’re really saying is that you’re too busy to go faster. ~@GeePawHill"
+:jbake-tags: citation,programming,organisation,_mois_avr.,_année_2018
+:jbake-date: 2018-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1523853209000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjspeaker%2Fstatus%2F979081874365546496&searchtags=citation+programming+organisation+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jspeaker/status/979081874365546496[Jim Speaker, GFoML on Twitter: "Too busy to #TDD? Too busy to pair? Too busy to #refactor? Too busy to micro-test? I call bullshit. My buddy Erik Meade calls it Stupid Busy, and I think that nails it pretty well. All you’re really saying is that you’re too busy to go faster. ~@GeePawHill"]
+
+C'est pas dans ce genre de situation qu'on parle de shadoks ?

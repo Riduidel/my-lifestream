@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rb-appscript
+:jbake-tags: développement,library,macosx,programming,ruby,tool,_mois_févr.,_année_2007
+:jbake-date: 2007-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1172224563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frb-appscript.rubyforge.org%2F&searchtags=d%C3%A9veloppement+library+macosx+programming+ruby+tool+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://rb-appscript.rubyforge.org/[rb-appscript]
+
+Une API en Ruby pour piloter son mac

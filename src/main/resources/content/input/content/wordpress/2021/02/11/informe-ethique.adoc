@@ -1,0 +1,27 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Informe éthique
+:jbake-tags: algorithme,éthique,pouvoir,_mois_févr.,_année_2021
+:jbake-date: 2021-02-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/02/11/informe-ethique.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/02/11/informe-ethique/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Oui, je tente le jeu de mots faciles, précisément parce que le sujet est grave.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Grave à quel point ?</p>
+<p>Avant de me lancer dans un catalogue d'exemple navrant, je vais commencer par où donner une perspective historique audiophile. Si comme moi vous écoutez les <a href="https://lescastcodeurs.com/">castcodeurs</a>, vous savez que lorsque ce podcast a commencé, il n'existait pas vraiment de partie loi société et organisation. Et aujourd'hui, en 2021, cette partie nécessite des épisodes spéciaux.</p>
+<p>Pourquoi ?</p>
+<p>Sans doute parce que comme le dit mon PDG, "Software is eating the world", et que le logiciel ne choisit pas forcément les meilleurs morceaux.</p>
+<p>Je vais vous donner quelques exemples qui m'ont marqué dans les dernières années.</p>
+<p>Le premier, qui traite évidemment de la responsabilité des informaticiens, et celui de la débâcle de Volkswagen concernant ses émissions carbone un développeur a été condamné, mais certainement pas le donneur d'ordre. Et pendant ce temps-là aux États-Unis, les libérations conditionnelles sont selon les états approuvées par un algorithme tout aussi raciste que le système qui l'a implémenté. Et si vous croyez que cet exemple ne passe pas les frontières françaises, je pense qu'il suffira de faire un tour dans le domaine de la banque et de l'assurance pour constater que le scoring algorithmique est une réalité qui s'impose, et qui s'impose d'autant plus qu'on a plus besoin de crédit, de facilités de paiement, de retard d'agios, bref, qu'on est dans la merde. En terme de contenu proposé, il vous suffit de faire un tour sur n'importe quel réseau social pour comprendre que le concept même de flux d'information algorithmique est soumis à un ensemble de biais qui sont aussi connus que dévastateur pour la démocratie, l'égalité des races et des sexes, l'égalité des chances. Et malheureusement, je ne résiste pas à l'envie de vous faire remarquer que ces algorithmes sont corrigés lors du changement de législature.</p>
+<p>Que faire ?</p>
+<p>Pour l'instant, je ne vais pas forcément réfléchir à des solutions, même si j'en ai quelques-unes en tête, j'essaie simplement de bien vous faire comprendre que le contexte économique de réalisation des logiciels favorise le conservatisme, les biais d'opacité, la conservation des structures de pouvoir.</p>
+<!-- /wp:paragraph -->
+++++

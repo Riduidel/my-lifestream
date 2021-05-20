@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: P.S.: ‽ Tagsurf first review
+:jbake-tags: web,folksonomie,forum,_mois_mars,_année_2005
+:jbake-date: 2005-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1110619934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.pietrosperoni.it%2F2005%2F02%2F10%2Ftagsurf-first-review%2F&searchtags=web+folksonomie+forum+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://blog.pietrosperoni.it/2005/02/10/tagsurf-first-review/[P.S.: ‽ Tagsurf first review]
+
+

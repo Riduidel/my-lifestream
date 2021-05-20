@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Weather models, a visual comparison
+:jbake-tags: météo,data,web,aggregator,_mois_sept.,_année_2013
+:jbake-date: 2013-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1378461296000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflowingdata.com%2F2013%2F09%2F06%2Fweather-models-a-visual-comparison%2F&searchtags=m%C3%A9t%C3%A9o+data+web+aggregator+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://flowingdata.com/2013/09/06/weather-models-a-visual-comparison/[Weather models, a visual comparison]
+
+Il ne marche pas avec Opera, mais c'est un site de prévision météo d'autant plus geek qu'il ne montre aucune icône genre nuage/soleil/toussa

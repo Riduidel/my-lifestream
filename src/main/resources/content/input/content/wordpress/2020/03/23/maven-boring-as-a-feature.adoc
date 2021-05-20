@@ -1,0 +1,95 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [maven] Boring as a feature
+:jbake-tags: build,maven,_mois_mars,_année_2020
+:jbake-date: 2020-03-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/03/23/maven-boring-as-a-feature.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/03/23/maven-boring-as-a-feature/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p><a href="https://maven.apache.org">Maven</a> n'est pas si jeune, vous savez.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/TheASF\/status\/1237909427623256064","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/TheASF" class="screenName"><img src="http://pbs.twimg.com/profile_images/1110750091437096960/8GCdSdWB_mini.png" alt="profile of Official feed: The Apache Software Foundation. The world's largest Open Source foundation provides $22B+ worth of software for the public good at 100% no cost."/>TheASF</a>
+		<span class="name">Apache - The ASF</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/TheASF/status/1 237 909 427 623 256 064" class="date">12 mars 2020 à 02:13:01</a>
+
+	<span class="content">
+	
+	<span class="text">Huzzah! mod_perl (20 yrs) @ASFMavenProject (17 yrs) Jackrabbit (14 yrs) @Apachefelix (13 yrs) @archiva (12 yrs) @ApacheUIMA (10 yrs) @ApacheAccumulo Sqoop (8 yrs) @apbloodhound  @CloudStack cTAKES (7 yrs) Allura @ApacheOlingo @ApacheTajo (6 yrs) Sentry (4 yrs) @freemarker (2 yrs) https://t.co/YpWmeiwuGt</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/ES3voqWWoAI05Wp.jpg" alt="1 237 908 954 438 606 850"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Et de tous ces produits, maven est sans doute l'un dont les développeurs aiment le plus se plaindre. Bien sûr, il y a quelques raisons valables</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>La lenteur du build</li><li>Le format de descripteur clairement pas tendance</li><li>La verbosité de ces descripteurs</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Mais je pense que la verbosité des descripteurs, le XML, n'et pas forcément une mauvaise chose.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je m'explique ... Je regardais ce matin une conférence sur <a href="https://github.com/dhall-lang/dhall-haskell">Dhall</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/www.youtube.com\/watch?v=sb4LRqJsYPc","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=sb4LRqJsYPc
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Et l'un des points clés mentionnés par Clément concernant Dhall est qu'il n'est pas turing-complet. Autrement dit, sa feature est de n'être pas complet ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eh bien je pense que Maven a une feature identique ... ou presque. Plus précisément, il a la curieuse fonctionnalité d'être pénible "as a feature".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pourquoi faire ça ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'un des gros problèmes des outils de build est que quand on donne aux développeurs le moyen de personnaliser les choses d'une manière incompréhensible, ils le font sans hésiter. C'était très vrai avec Ant, et ça avait un inconvénient ... dramatique : un build Ant que vous 'naviez pas lancé depuis un an avait des chances raisonnables de ne plus fonctionner, et de ne plus jamais fonctionner. Avec Maven, au contraire, quand vous voulez personnaliser votre build, vous écrivez des tonnes de XML ne serait-ce que pour utiliser les différents plugins disponibles. Et c'est l'enfer. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La contrepartie logique, c'est que les builds sont raisonnablement fiables. Comme l'a dit une fois Antonio Goncalvez sur une mailing-list "l'avantage d'un build Maven, c'est qu'il a les chances de marcher pendant longtemps".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je ne m'intéresse pas assez à Gradle pour me permettre de préjuger de sa fiabilité dans le temps. Mais pour moi, cette fiabilité du build Maven est la valeur cardinale qui en fait un outil à connaître, voire dans mon cas (et sans aucun doute parce que je le connais depuis quelques années) l'outil de build de référence.</p>
+<!-- /wp:paragraph -->
+++++

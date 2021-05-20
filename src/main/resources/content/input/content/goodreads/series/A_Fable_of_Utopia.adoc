@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Fable of Utopia
+:jbake-tags: serie
+:jbake-date: 2002-07-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/A_Fable_of_Utopia.adoc
+:jbake-source: https://www.goodreads.com/series/74451
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070415830.html[Kirinyaga]

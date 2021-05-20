@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Interface-Driven Java Formatter (Geertjan's Blog)
+:jbake-tags: java,programming,format,_mois_août,_année_2016
+:jbake-date: 2016-08-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1470733119000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblogs.oracle.com%2Fgeertjan%2Fentry%2Finterface_driven_java_formatter&searchtags=java+programming+format+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blogs.oracle.com/geertjan/entry/interface_driven_java_formatter[Interface-Driven Java Formatter (Geertjan's Blog)]
+
+Chouette façon d'organiser le code dans les classes

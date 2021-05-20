@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reclipsage d'une touche de clavier d'ibook (à priori aussi valable pour les powerbooks)
+:jbake-tags: matériel,tutorial,ibook,_mois_avr.,_année_2007
+:jbake-date: 2007-04-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1177681546000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sterpin.net%2Fclipsagetouche.htm&searchtags=mat%C3%A9riel+tutorial+ibook+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.sterpin.net/clipsagetouche.htm[Reclipsage d'une touche de clavier d'ibook (à priori aussi valable pour les powerbooks)]
+
+J'aim un petit problème avec la touche Home du clavier de mon iBook. Coup de bol, cette page donne toutes les explications pour la reclipser !

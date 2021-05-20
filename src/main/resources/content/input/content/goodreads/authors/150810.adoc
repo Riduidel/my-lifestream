@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hiro Mashima
+:jbake-tags: author
+:jbake-date: 2016-07-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/150810.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1270916505p5/150810.jpg
+:jbake-source: https://www.goodreads.com/author/show/150810
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782845999145.html[Fairy Tail, Tome 1 (Fairy Tail, #1)]

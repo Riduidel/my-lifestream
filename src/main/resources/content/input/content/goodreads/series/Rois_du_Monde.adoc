@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rois du Monde
+:jbake-tags: serie
+:jbake-date: 2015-03-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Rois_du_Monde.adoc
+:jbake-source: https://www.goodreads.com/series/120443
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070457748.html[Même pas mort (Rois du Monde, #1)]

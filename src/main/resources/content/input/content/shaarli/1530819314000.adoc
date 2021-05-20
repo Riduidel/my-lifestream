@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dave Cheney on Twitter: "Three rules for dating my codebase: 1. Log an error or return the error, never both. 2. If you want to keep it, put a test on it. 3. In the case of regrsssions, revert first, ask questions later. Don’t try to muscle through it."
+:jbake-tags: programming,organisation,workflow,_mois_juil.,_année_2018
+:jbake-date: 2018-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1530819314000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdavecheney%2Fstatus%2F1013978233925033984&searchtags=programming+organisation+workflow+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/davecheney/status/1013978233925033984[Dave Cheney on Twitter: "Three rules for dating my codebase: 1. Log an error or return the error, never both. 2. If you want to keep it, put a test on it. 3. In the case of regrsssions, revert first, ask questions later. Don’t try to muscle through it."]
+
+Ce sont de bonnes pratiques applicables n'importe où

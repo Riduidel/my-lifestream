@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devops Dark Knight, Out of the Shadows - Open Source Enterprise Social Platform | eXo Blog and News Open Source Enterprise Social Platform | eXo Blog and News
+:jbake-tags: programming,devops,développement,agile,_mois_févr.,_année_2014
+:jbake-date: 2014-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1392217650000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.exoplatform.com%2F2014%2F02%2F11%2Fdevops-dark-knight-shadows&searchtags=programming+devops+d%C3%A9veloppement+agile+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.exoplatform.com/2014/02/11/devops-dark-knight-shadows[Devops Dark Knight, Out of the Shadows - Open Source Enterprise Social Platform | eXo Blog and News Open Source Enterprise Social Platform | eXo Blog and News]
+
+Très chouette article sur Devops "en vrai". Je reconnais en tout cas bien des choses ...

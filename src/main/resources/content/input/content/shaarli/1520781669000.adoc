@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: quick-tips-optimizing-jvm.md
+:jbake-tags: java,performance,optimisation,_mois_mars,_année_2018
+:jbake-date: 2018-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1520781669000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Fdjspiewak%2F464c11307cabc80171c90397d4ec34ef&searchtags=java+performance+optimisation+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef[quick-tips-optimizing-jvm.md]
+
+A relire pour le jour où je me remettrai \*vraiment\* à Codingame

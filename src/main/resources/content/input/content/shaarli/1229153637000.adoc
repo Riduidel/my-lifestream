@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Main Page - RoboWiki
+:jbake-tags: programming,java,wiki,robocode,documentation,_mois_déc.,_année_2008
+:jbake-date: 2008-12-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1229153637000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftestwiki.roborumble.org%2Fw%2Findex.php%3Ftitle%3DMain_Page&searchtags=programming+java+wiki+robocode+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://testwiki.roborumble.org/w/index.php?title=Main_Page[Main Page - RoboWiki]
+
+Le wiki de Robocode, avec tout plein de docs, dont les indispensables permettant d'éditer son robot dans Eclipse et de lancer robocode depuis Eclipse.

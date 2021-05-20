@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le data binding - Les applications web avec JavaFX
+:jbake-tags: java,javafx,programming,_mois_juin,_année_2017
+:jbake-date: 2017-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1498034094000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fopenclassrooms.com%2Fcourses%2Fles-applications-web-avec-javafx%2Fle-data-binding-1&searchtags=java+javafx+programming+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://openclassrooms.com/courses/les-applications-web-avec-javafx/le-data-binding-1[Le data binding - Les applications web avec JavaFX]
+
+Je le note dans un coin, parce que la direction des bindings n'est jamais évidente pour moi

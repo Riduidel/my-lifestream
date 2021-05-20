@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Poker d'âmes
+:jbake-tags:  destin, famille, fantastique, jeu, mort,_année_2019,_mois_août,_note_3,rayon-imaginaire,read
+:jbake-date: 2019-08-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782277236023.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/496005
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Set in Las Vegas, Last Call concerns the fate of Scott Crane, former professional gambler, recent widower, blind in one eye--and also the lost natural son of the man who is determined to kill him. In this novel, Crane is forced to resume the high-stakes game of a lifetime--and wager it all.
+</div>
+++++
+
+
+## Authors
+* link:../authors/8835.html[Tim Powers]
+
+## Series
+* link:../series/Fault_Lines.html[Fault Lines]
+* link:../series/_.html[Трилогия сдвигов]
+
+## Review
+
+++++
+Une histoire complexe mettant en scène une famille recomposée de joueurs de poker, aux prises avec un jeu pouvant leur arracher l'âme. C'est bien écrit, et ça me rappelé par certains aspects Dirk Gently et ses histoires bizarres.
+++++

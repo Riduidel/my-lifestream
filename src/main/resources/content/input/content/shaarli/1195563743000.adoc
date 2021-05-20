@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: About the Book - Designing Interfaces
+:jbake-tags: accessibility,architecture,design,ergonomie,visualisation,programming,reference,gui,_mois_nov.,_année_2007
+:jbake-date: 2007-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1195563743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdesigninginterfaces.com%2F&searchtags=accessibility+architecture+design+ergonomie+visualisation+programming+reference+gui+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://designinginterfaces.com/[About the Book - Designing Interfaces]
+
+Un catalogue de patterns d'interfaces utilisateur. Ca sert au minimum à savoir de quoi on parle, à se mettre d'accord avec les différentes personnes \*avant\* de commencer quoi que ce soit (y compris une maquette). ca peut aussi servir à trouver une bon

@@ -1,0 +1,432 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Soirée Rust au chtijug
+:jbake-tags: chtijug,rust,web,_mois_déc.,_année_2018
+:jbake-date: 2018-12-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/12/12/soiree-rust-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/12/12/soiree-rust-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Ca n’est pas le Chtirug, mais ça pourrait, puisqu’on va faire du Rust ce soir. Et c’est cool, parce que le Rust, j’aime bien !
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/hsablonniere" class="screenName"><img src="http://pbs.twimg.com/profile_images/854028880046379008/Bm-ygvTm_mini.jpg" alt="profile of 😜 Curious and passionate Web developer working for 💡☁️ @clever_cloud"/>hsablonniere</a>
+<br/>
+<span class="name">Hubert SABLONNIÈRE</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/hsablonniere/status/1 072 553 907 266 695 168" class="date">11 déc. 2018 à 19:09:13</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">🤣 Un Montpelliérain chez les Ch'tis
+<br/>
+🦀 @fteychene nous parle de @rustlang  au @chtijug https://t.co/eSw4Rxwng4</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DuJ6EaZXcAENbgd.jpg" alt="1 072 553 877 491 380 225"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-6">
+</p>
+<p>
+François est <a href="https://riduidel.wordpress.com/2018/06/21/devfest-lille-3-lux-a-sauve-mon-devops/">déja venu à Lille pour le devfest</a> (et c'était bien).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-8">
+<br/>
+<h2 id="truec_est_quoi_rust">C’est quoi Rust ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+Pour François c’est un langage système rapide qui évite les <a href="https://fr.wikipedia.org/wiki/Erreur_de_segmentation">SEGFAULT</a> et qui facilite la thread safety. Et l’intérêt pour François, c’est l’exécution sûre, la performance et l’expressivité du langage.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+La magie vient de trois éléments
+</p>
+<p>
+</div>
+<br/>
+<div class="olist arabic data-line-15">
+<br/>
+<ol class="arabic">
+<br/>
+<li>Ownership</li>
+<br/>
+<li>Borrowing</li>
+<br/>
+<li>Lifetime</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Et François va tout faire pour les éviter (je le comprend, ce sont des concepts loin d'être évidents pour les débutants …​ qui ne présentent de l’intérêt que quand on code un peu salement). D’ailleurs François (comme moi, dans une moindre mesure) essaye régulièrement de proposer aux gens de développer en Rust.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Curieusement, quand François a commencé a faire du Rust, le compilateur passait son temps à lui dire "non". Donc Rust a des killer features. En plus, Avec Rust, "it compiles, it run". Et <a href="https://doc.rust-lang.org/book/second-edition/">la doc de Rust</a> est canon (le mot est faible, en fait).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Malheureusement, Rust est présenté comme un langage système …​ ce dont tout le monde se cogne (sauf Clever Cloud). Et pour faire du web, ça paraît inapproprié …​ Pourtant, c’est ce qui est arrivé à go : c’est un langage pensé pour remplacer C …​ et maintenant on s’en sert pour remplacer Java. Et François veut qu’on considère Rust de la même manière.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-33">
+<br/>
+<h2 id="truele_sujet">Le sujet</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-35">
+</p>
+<p>
+A Montpellier, pour faire gagner les places, ils ont une lotterie : ils récupèrent la liste des spectateurs dans EventBrite, et tirent au sort "n" gagnants.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-38">
+</p>
+<p>
+Et François va donc nous montrer la v3 de cette application. Et c’est cool, parce que du coup, <a href="https://github.com/fteychene/lottery-jug-rust">le code est sur GitHub</a> !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-41">
+</p>
+<p>
+On commence par <a href="https://doc.rust-lang.org/cargo/">Cargo</a>, qui est l’outil de build Rust. Cargo existe dès le début de Rust (à la différence de Go …​ par exemple).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-44">
+<br/>
+<h2 id="trueappeler_eventbrite">Appeler EventBrite</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Classiquement, François utiliser <a href="https://docs.rs/reqwest/0.9.5/reqwest/">reqwest</a> pour faire les appels HTTP, et <a class="bare" href="https://boats.gitlab.io/failure/Failure">Failure</a>, pour avoir de beaux messages d’erreur (parce que par défaut, on n’a <a href="https://doc.rust-lang.org/book/ch09-00-error-handling.html">à peu près</a> que <code>panic!</code>). Ah, et <a href="https://serde.rs/">Serde</a>, bien sûr, pour (dé)sérialiser.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-49">
+</p>
+<p>
+L’avantage de reqwest, c’est qu’avec une fonction, on fait des HTTP GET. C’est un peu mieux qu’en Java, encore aujourd’hui …​<code>reqwest::get</code> retourne un <code>Result</code>, qui peut donc être <code>Ok</code> ou <code>Error</code>. En tapant <code>reqwest::get(…​)?</code>, si le résultat est un <code>Error</code>, on sort tout de suite de la fonction (au lieu d’avoir à vérifier à chaque ligne qu’on a une erreur …​ un peu comme en go). Il faut en fait retenir que si votre fonction peut retourner des erreurs, elle doit retourner un <code>Result</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-55">
+</p>
+<p>
+De la même manière, il n’y a pas de <code>null</code> en Rust. Du coup, comme dans d’autres langages, on retourne une <code>Option</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+Pour un langage qui est réputé être bas-niveau, lire une liste de spectateurs paginée est assez facile, grâce aux éléments fonctionnels (comme le <code>map(…​)</code> et le <code>flatMap(…​)</code>).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-60">
+</p>
+<p>
+Evidement, on peut lire les variables d’environnement avec <code>env::var(…​)</code> qui retourne évidement un <code>Result</code> pour le cas où la variable n’existe pas. Et quand elle n’existe pas, on peut générer facilement une erreur avec <code>Result.expect("le message d’erreur")</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-63">
+</p>
+<p>
+Une fois qu’on a récupéré tout ça, il peut être utile de transcoder avec <code>From</code> et <code>Into</code>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-65">
+<br/>
+<h2 id="truetirer_au_sort_les_gagnants">Tirer au sort les gagnants</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-67">
+</p>
+<p>
+Pour tirer au sort les gagnants, on fait un petit coup de <a href="https://doc.rust-lang.org/book/ch18-00-patterns.html">pattern matching</a>, qui marche assez facilement en Rust.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-69">
+</p>
+<p>
+Par contre, pour récupérer un <code>Vec</code> avec le bon lifetime, François nous fait un bout de code un peu sale. Parce que <code>clone()</code>, c’est sale au sens où on copie le contenu de la mémoire d’un endroit à un autre. Et c’est le genre d’endroit où le côté bas-niveau de Rust pique : Java fait ça souvent, mais on ne le voit jamais.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-73">
+<br/>
+<h2 id="trueexposer_ce_r_sultat_en_http">Exposer ce résultat en HTTP</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-75">
+</p>
+<p>
+François le fait avec <a href="https://actix.rs/">actix-web</a>, qui fournit une API web …​ et des acteurs. Un bon point pour actix-web : la création d’erreurs HTTP à partir d’erreurs métier est assez intuitive. Et en bonus, évidement, tout le code métier peut être appelé de façon asynchrone facilement.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-79">
+</p>
+<p>
+C’est conceptuellement très bien, mais je ne suis pas fan d’actix-web : la définition des routes n’est pas super lisible, et les contraintes liées au démarrage du système d’acteurs ne sont pas super chouettes. J’aurais tendance à préférer <a href="https://rocket.rs/">rocket</a>, par exemple …​ (juste parce que comme en Java, il utilise des annotations pour définir les routes, et que je trouve ça cool).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-82">
+<br/>
+<h2 id="trueajouter_un_cache">Ajouter un cache</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-84">
+</p>
+<p>
+Là, c’est facile grâce à actix-web : il suffit d’ajouter un acteur de cache, et le connecter à notre API.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-86">
+</p>
+<p>
+Bon, j’ai vu quelques <code>&#38;&#38;</code> qui sont assez mauvais signes en termes de gestion mémoire, mais rien d’insurmontable dans de l’informatique web. Autrement dit, c’aurait été gênant pour un driver ou un OS, mais pour une appli web qui lit EventBrite, franchement, ça n’est pas bien grave.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-89">
+</p>
+<p>
+Et avec le cache, ça va quand même sacrément vite !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-91">
+<br/>
+<h2 id="truemettre_jour_le_cache">Mettre à jour le cache</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-93">
+</p>
+<p>
+Pour ça, il suffit d’utiliser <a href="https://tokio.rs/">Tokio</a> (parce qu’actix-web se base sur Tokio). Et avec Tokio, on peut demander à Rust de lancer, en asynchrone, un bout de code qui s’exécutera toutes les 5 secondes pour rafraîchir le cache. Curieusement, François utilise le mot clé <code>move</code>, qui ne fait plus partie du langage.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-97">
+<br/>
+<h2 id="trueconteneuriser">Conteneuriser</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-99">
+</p>
+<p>
+Evidement, mettre du Rust dans un conteneur, c’est facile, parce que l’exécutable peut se compiler comme go sans dépendance système. Par contre, comme François embarque une base sqlite et libssl, il lui faut des dépendances système …​ et pour se faciliter la vie, il prend celles d’Ubuntu.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-102">
+<br/>
+<h2 id="truele_mot_de_la_fin_de_fran_ois">Le mot de la fin de François</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-104">
+</p>
+<p>
+En une heure, il nous a montré une application facile qui expose néanmoins les problèmes classiques des applciations web
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-106">
+<br/>
+<ul>
+<br/>
+<li>Une api HTTP</li>
+<br/>
+<li>Une gestion d'état</li>
+<br/>
+<li>Un client HTTP</li>
+<br/>
+<li>Une gestion des erreurs avancée</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-111">
+</p>
+<p>
+Vous n’allez pas tout recoder en Rust, parce que ça n’est pas facile. Mais vous allez apprendre beaucoup, notament sur la gestion de la mémoire. Et curieusement, pour une appli web simple, vous n’avez pas besoin de vous intéresser de trop au borrow checker et aux lifetimes.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-115">
+</p>
+<p>
+Pour le dire autrement, ce que vous faites en Go, vous pouvez le faire en Rust, avec de meilleures garanties au runtime (de qualité de code, de sécurité).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-117">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-118">
+</p>
+<p>
+J'étais conquis par Rust avant la présentation, donc c'était facile. Je retire néanmoins plusieurs choses de cette présentation. D’abord, que faire des <code>.clone()</code>, ça n’est pas si dramatique. C’est évidement moins bien que de s’en passer, mais ça n’est pas la fin du monde. Ensuite, que malgré l’aspect un peu rébarbatif de la compilation qui ne marche jamais du premier coup, on peut faire des applis web en Rust qui dépotent. Enfin, et c’est le plus important, Rust va continuer à grandir parce qu’il offre une bien plus grande garantie à l’exécution que d’autres langages. Et ça, c’est à mon avis le plus important, puisque c’est ce qui permet de limiter les frais de maintenance logicielle (typiquement, quand on écrit du Rust, si ça compile, ça marche). Entre ça et l’utilisation possible de Rust dans AWS Lambda, j’ai l’impression qu’il commence à se passer quelque chose d’intéressant …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

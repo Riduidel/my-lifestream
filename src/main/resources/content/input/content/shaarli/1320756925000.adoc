@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: IndieGames.com - The Weblog
+:jbake-tags: software,freeware,jeu,_mois_nov.,_année_2011
+:jbake-date: 2011-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1320756925000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Findiegames.com%2Fbest_of%2F&searchtags=software+freeware+jeu+_mois_nov.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://indiegames.com/best_of/[IndieGames.com - The Weblog]
+
+Dans le jeu indépendant, il semblerait y avoir de sacrées pépites ...

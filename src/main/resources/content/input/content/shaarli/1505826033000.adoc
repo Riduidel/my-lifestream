@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paul Ford on Twitter: "Even a garbage fire brings illumination."
+:jbake-tags: citation,illumination,réflexion,_mois_sept.,_année_2017
+:jbake-date: 2017-09-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1505826033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fftrain%2Fstatus%2F894047670930739200&searchtags=citation+illumination+r%C3%A9flexion+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/ftrain/status/894047670930739200[Paul Ford on Twitter: "Even a garbage fire brings illumination."]
+
+Même un feu de poubelle peut apporter l'illumination (ça s'applique à pas mal de technologies)

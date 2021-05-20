@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cesarvr/Ella: Java + Node in a single process.
+:jbake-tags: java,javascript,node.js,programming,_mois_juin,_année_2016
+:jbake-date: 2016-06-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1466664915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fcesarvr%2FElla&searchtags=java+javascript+node.js+programming+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/cesarvr/Ella[cesarvr/Ella: Java + Node in a single process.]
+
+Ca me paraît tellement \*mal\*.

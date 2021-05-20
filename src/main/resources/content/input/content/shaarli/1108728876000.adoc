@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Google Help : Cheat Sheet
+:jbake-tags: web,documentation,search,_mois_févr.,_année_2005
+:jbake-date: 2005-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1108728876000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.google.com%2Fhelp%2Fcheatsheet.html&searchtags=web+documentation+search+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.google.com/help/cheatsheet.html[Google Help : Cheat Sheet]
+
+Quick guide to some of Google's most powerful options.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shallow transitions · Issue #77 · eddyerburgh/avoriaz
+:jbake-tags: javascript,library,bug,animation,vuejs,_mois_août,_année_2017
+:jbake-date: 2017-08-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1502376000000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Feddyerburgh%2Favoriaz%2Fissues%2F77&searchtags=javascript+library+bug+animation+vuejs+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/eddyerburgh/avoriaz/issues/77[Shallow transitions · Issue #77 · eddyerburgh/avoriaz]
+
+Avec mon collègue on vient de se battre 1/2 journée sur ce sujet précis contre Vuejs. C'est rageant d'avoir la bonne réponse à la fin

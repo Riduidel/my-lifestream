@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Haroopad - The Next Document processor based on Markdown
+:jbake-tags: software,freeware,editor,markdown,windows,linux,macosx,_mois_mars,_année_2015
+:jbake-date: 2015-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1425998885000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpad.haroopress.com%2F&searchtags=software+freeware+editor+markdown+windows+linux+macosx+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://pad.haroopress.com/[Haroopad - The Next Document processor based on Markdown]
+
+Un éditeur Markdown avec un chouette jeu de features ...

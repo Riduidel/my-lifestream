@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Idioms of Dynamic Languages | Will Crichton
+:jbake-tags: programming,philosophie,dynamic,static,python,java,rust,_mois_août,_année_2018
+:jbake-date: 2018-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1533556301000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwillcrichton.net%2Fnotes%2Fidioms-of-dynamic-languages%2F&searchtags=programming+philosophie+dynamic+static+python+java+rust+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://willcrichton.net/notes/idioms-of-dynamic-languages/[Idioms of Dynamic Languages | Will Crichton]
+
+Un article bien intéressant sur la distinction entre les langages statiques et dynamiques avec des exemples intéressants en Python, Java ... et Rust !

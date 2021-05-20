@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visual Studio Code, SourceTree and terminal/ command line integration – LinQed | Mark Leusink
+:jbake-tags: sourcetree,vscode,extension,configuration,integration,_mois_juil.,_année_2019
+:jbake-date: 2019-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1562338532000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flinqed.eu%2F2016%2F04%2F22%2Fvisual-studio-code-sourcetree-and-terminal-integration-on-a-mac%2F&searchtags=sourcetree+vscode+extension+configuration+integration+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://linqed.eu/2016/04/22/visual-studio-code-sourcetree-and-terminal-integration-on-a-mac/[Visual Studio Code, SourceTree and terminal/ command line integration – LinQed | Mark Leusink]
+
+Oh c'est pas mal du tout cette astuce pour ouvrir un fichier d'un repository Git dans VSCode !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 10 Free CDN Services to Speed Up WordPress - WPExplorer
+:jbake-tags: software,web,cdn,nas,_mois_mars,_année_2016
+:jbake-date: 2016-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1457802639000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wpexplorer.com%2Ffree-cdn-services-for-wordpress%2F&searchtags=software+web+cdn+nas+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.wpexplorer.com/free-cdn-services-for-wordpress/[10 Free CDN Services to Speed Up WordPress - WPExplorer]
+
+Très chouette présentation des services de CDN. Je retiens en particulier CoralCDN, qui semble \*très\* facile à utiliser.

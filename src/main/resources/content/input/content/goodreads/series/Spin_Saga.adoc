@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spin Saga
+:jbake-tags: serie
+:jbake-date: 2017-12-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Spin_Saga.adoc
+:jbake-source: https://www.goodreads.com/series/52279
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070464302.html[Spin]
+* link:../books/9782070464319.html[Axis]

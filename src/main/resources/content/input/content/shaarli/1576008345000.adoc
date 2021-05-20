@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - redox-os/orbtk: The Rust UI-Toolkit.
+:jbake-tags: rust,gui,programming,library,open-source,_mois_déc.,_année_2019
+:jbake-date: 2019-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1576008345000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fredox-os%2Forbtk&searchtags=rust+gui+programming+library+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/redox-os/orbtk[GitHub - redox-os/orbtk: The Rust UI-Toolkit.]
+
+Je dois résister, là. Fort.

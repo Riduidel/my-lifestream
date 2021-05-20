@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rcarmo/imapbackup: A Python script for incremental backups of IMAP mailboxes
+:jbake-tags: python,imap,backup,script,open-source,_mois_janv.,_année_2020
+:jbake-date: 2020-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1579617171000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frcarmo%2Fimapbackup&searchtags=python+imap+backup+script+open-source+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/rcarmo/imapbackup[rcarmo/imapbackup: A Python script for incremental backups of IMAP mailboxes]
+
+Tadam ! Un script de backup imap (et comme il est écrit par Rui Carno, j'ai totalement confiance)

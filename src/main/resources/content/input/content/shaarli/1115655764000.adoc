@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SourceForge.net: Project Info - Elephant Memory
+:jbake-tags: software,freeware,open-source,windows,desktop,remainder,gtd,productivité,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115655764000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sourceforge.net%2Fprojects%2Freminder&searchtags=software+freeware+open-source+windows+desktop+remainder+gtd+productivit%C3%A9+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sourceforge.net/projects/reminder[SourceForge.net: Project Info - Elephant Memory]
+
+System tray-based event reminder, with configuration panel. Create quick and simple events and when the time comes, a reminder window will pop-up, giving you the ability to snooze or delete the event.

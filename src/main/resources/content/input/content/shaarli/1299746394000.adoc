@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Continuous Deployment: Deploying to Glassfish with Maven and TeamCity | The Coding Bone
+:jbake-tags: maven,glassfish,développement,build,tutorial,_mois_mars,_année_2011
+:jbake-date: 2011-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1299746394000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcodingbone.wordpress.com%2F2011%2F03%2F07%2Fcontinuous-deployment-deploying-to-glassfish-with-maven-and-teamcity%2F&searchtags=maven+glassfish+d%C3%A9veloppement+build+tutorial+_mois_mars+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://codingbone.wordpress.com/2011/03/07/continuous-deployment-deploying-to-glassfish-with-maven-and-teamcity/[Continuous Deployment: Deploying to Glassfish with Maven and TeamCity | The Coding Bone]
+
+Un article court, mais raisonnablement complet, sur les étapes à mettre en oeuvre pour faire de l'intégration continue maven/glassfish. Ca VA me servir bientôt ...

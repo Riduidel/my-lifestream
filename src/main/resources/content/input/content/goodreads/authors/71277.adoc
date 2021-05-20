@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Marc Lévy-Leblond
+:jbake-tags: author
+:jbake-date: 2017-07-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/71277.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1602613854p5/71277.jpg
+:jbake-source: https://www.goodreads.com/author/show/71277
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207123751.html[Le Paradoxe de Fermi]

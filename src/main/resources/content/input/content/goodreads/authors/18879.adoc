@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kim Newman
+:jbake-tags: author
+:jbake-date: 2015-01-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/18879.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1295567489p5/18879.jpg
+:jbake-source: https://www.goodreads.com/author/show/18879
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253083283.html[Moriarty: Le Chien des D'Urberville]
+* link:../books/9782253133070.html[Dracula Cha Cha Cha : Anno Dracula 1959 (Anno Dracula, #3)]
+* link:../books/9782253177241.html[Anno Dracula (Anno Dracula, #1)]
+* link:../books/9782253177258.html[Le Baron Rouge Sang (Anno Dracula, #2)]

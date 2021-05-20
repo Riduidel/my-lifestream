@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Modern Agile
+:jbake-tags: agile,organisation,architecture,_mois_sept.,_année_2019
+:jbake-date: 2019-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1569687440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmodernagile.org%2F%23learnMore&searchtags=agile+organisation+architecture+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://modernagile.org/#learnMore[Modern Agile]
+
+Il y a là-dedans quelques conseils particulièrement bien vus.

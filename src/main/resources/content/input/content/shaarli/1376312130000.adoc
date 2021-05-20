@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home | elementary OS
+:jbake-tags: linux,os,design,ubuntu,_mois_août,_année_2013
+:jbake-date: 2013-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1376312130000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Felementaryos.org%2F&searchtags=linux+os+design+ubuntu+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://elementaryos.org/[Home | elementary OS]
+
+Encore un linux stylé mac os ? Notez bien qu'il est joliment stylé mac. Par contre, certaines promesses me semblent difficilement tenables, en particulier celle d'avoir des applications qui démarrent toujours instantanément

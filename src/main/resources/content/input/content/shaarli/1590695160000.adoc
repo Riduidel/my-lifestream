@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oglaf est un webcomic réservé aux adultes (allez les gamins, pchttt, pchhhhht ! allez lire lapin !)
+:jbake-tags: art,sexe,bande-dessinée,humour,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590695160000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Foglaf.lapin.org&searchtags=art+sexe+bande-dessin%C3%A9e+humour+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://oglaf.lapin.org[Oglaf est un webcomic réservé aux adultes (allez les gamins, pchttt, pchhhhht ! allez lire lapin !)]
+
+Je trouve ça toujours drôle (voire parfois hilarant), souvent osé ou limite, mais en tout cas à mon goût

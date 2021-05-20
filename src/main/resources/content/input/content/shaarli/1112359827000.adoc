@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Object Hierarchy and Inheritance in JavaScript
+:jbake-tags: web,javascript,langage,expérience,oop,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112359827000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.geocities.com%2FSiliconValley%2FBay%2F4000%2Fcontents.htm&searchtags=web+javascript+langage+exp%C3%A9rience+oop+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.geocities.com/SiliconValley/Bay/4000/contents.htm[Object Hierarchy and Inheritance in JavaScript]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'ASSOCIATION - ZACLYS V3.1
+:jbake-tags: web,liberté,association,_mois_juil.,_année_2019
+:jbake-date: 2019-07-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1563223227000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fv3.zaclys.com%2F&searchtags=web+libert%C3%A9+association+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://v3.zaclys.com/[L'ASSOCIATION - ZACLYS V3.1]
+
+Oh tiens une autre association de services web, similaire (j'espère) à Framasoft.

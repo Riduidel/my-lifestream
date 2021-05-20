@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How do you make an awesome team? - Julia Evans
+:jbake-tags: management,team,collaboration,_mois_janv.,_année_2017
+:jbake-date: 2017-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1484544326000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjvns.ca%2Fblog%2F2017%2F01%2F13%2Fhow-do-you-make-an-awesome-team%2F&searchtags=management+team+collaboration+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://jvns.ca/blog/2017/01/13/how-do-you-make-an-awesome-team/[How do you make an awesome team? - Julia Evans]
+
+Très chouette article.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Download - Tribler
+:jbake-tags: bittorrent,macosx,linux,windows,p2p,software,open-source,_mois_avr.,_année_2012
+:jbake-date: 2012-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1334158322000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdl.tribler.org%2Fdownload.html&searchtags=bittorrent+macosx+linux+windows+p2p+software+open-source+_mois_avr.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://dl.tribler.org/download.html[Download - Tribler]
+
+Ah, un moteur de recherche de torrents décentralisé (donc à installer localement ... ou sur le NAS)

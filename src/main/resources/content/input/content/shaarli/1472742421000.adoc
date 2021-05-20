@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Iso
+:jbake-tags: optique,illusion,web,_mois_sept.,_année_2016
+:jbake-date: 2016-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1472742421000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwxs.ca%2Fiso%2F&searchtags=optique+illusion+web+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://wxs.ca/iso/[Iso]
+
+Cette illusion d'optique mobile fait bien mal à la tête. Bougez un carré avec la souris pour voir ...

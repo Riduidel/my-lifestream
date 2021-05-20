@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FastStone Image Viewer - Powerful and Intuitive Photo Viewer, Editor and Batch Converter
+:jbake-tags: freeware,image,library,management,photographie,software,windows,_mois_juin,_année_2008
+:jbake-date: 2008-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1213778761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.faststone.org%2FFSViewerDetail.htm&searchtags=freeware+image+library+management+photographie+software+windows+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.faststone.org/FSViewerDetail.htm[FastStone Image Viewer - Powerful and Intuitive Photo Viewer, Editor and Batch Converter]
+
+Apparement, ce serait le top des visionneurs de photos pour Windows

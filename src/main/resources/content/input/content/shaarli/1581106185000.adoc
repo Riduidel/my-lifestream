@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Written in Rust - What is the Rust language used for | Evrone
+:jbake-tags: rust,programming,présentation,concepts,_mois_févr.,_année_2020
+:jbake-date: 2020-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1581106185000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fevrone.com%2Frust-vs-c&searchtags=rust+programming+pr%C3%A9sentation+concepts+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://evrone.com/rust-vs-c[Written in Rust - What is the Rust language used for | Evrone]
+
+Une jolie introduction aux concepts de Rust

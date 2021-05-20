@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Notus
+:jbake-tags: audio,mp3,fun,humour,_mois_mai,_année_2006
+:jbake-date: 2006-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1149089845000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnotus.free.fr%2F2mins.htm&searchtags=audio+mp3+fun+humour+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://notus.free.fr/2mins.htm[Notus]
+
+Plus de 100 sketches de François Pérusse, cet étrange humoriste à la voix nasillarde qui a sans doute inspiré Naheubleuk

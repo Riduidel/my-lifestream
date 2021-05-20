@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: You cannot cURL under pressure
+:jbake-tags: curl,jeu,programming,_mois_oct.,_année_2019
+:jbake-date: 2019-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1571599052000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.benjojo.co.uk%2Fpost%2Fyou-cant-curl-under-pressure&searchtags=curl+jeu+programming+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.benjojo.co.uk/post/you-cant-curl-under-pressure[You cannot cURL under pressure]
+
+Si tu veux tester comment utiliser cURL, et découvrir comment le jeu fonctionne, cet article est très chouette.

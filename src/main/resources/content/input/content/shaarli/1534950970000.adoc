@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Level up for UX: Design lessons from video games — Martian Chronicles, Evil Martians’ team blog
+:jbake-tags: programming,interface,gui,jeu,_mois_août,_année_2018
+:jbake-date: 2018-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1534950970000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fevilmartians.com%2Fchronicles%2Flevel-up-for-ux-design-lessons-from-videogames&searchtags=programming+interface+gui+jeu+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://evilmartians.com/chronicles/level-up-for-ux-design-lessons-from-videogames[Level up for UX: Design lessons from video games — Martian Chronicles, Evil Martians’ team blog]
+
+Très bon article : le design des jeux est effectivement bien mieux pensé en terme d'interface que celui des applications traditionnelles. Et s'en inspirer est une bonne idée.

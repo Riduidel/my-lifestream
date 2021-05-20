@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eve
+:jbake-tags: programming,langue,ide,documentation,_mois_mars,_année_2018
+:jbake-date: 2018-03-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1521829756000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Feve-lang.com%2F&searchtags=programming+langue+ide+documentation+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://eve-lang.com/[Eve]
+
+Je trouve le concept extrêmement intéressant. La syntaxe du langage est, en revanche, assez intriguante.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Xatkit - Create your own chatbot. Write it once, deploy it anywhere!
+:jbake-tags: chat,bot,open-source,framework,communication,_mois_juin,_année_2019
+:jbake-date: 2019-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1561562443000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxatkit.com%2F&searchtags=chat+bot+open-source+framework+communication+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://xatkit.com/[Xatkit - Create your own chatbot. Write it once, deploy it anywhere!]
+
+Tiens, un kit de création de bots multiplateforme ... ca a l'air bien

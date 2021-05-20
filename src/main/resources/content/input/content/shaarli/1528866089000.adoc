@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: First Impressions of the Rust Programming Language - Jakob's Blog
+:jbake-tags: programming,langage,rust,_mois_juin,_année_2018
+:jbake-date: 2018-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1528866089000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjakob.space%2Fblog%2Fpost%2FFirst%2BImpressions%2Bof%2Bthe%2BRust%2BProgramming%2BLanguage&searchtags=programming+langage+rust+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://jakob.space/blog/post/First+Impressions+of+the+Rust+Programming+Language[First Impressions of the Rust Programming Language - Jakob's Blog]
+
+Je suis tombé trois fois en trois jours sur cet article, qui est effectivement bien mieux que tout ce que j'ai écrit.

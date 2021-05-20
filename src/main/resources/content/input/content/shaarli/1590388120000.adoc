@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 25 Things We Love About Java | IntelliJ IDEA Blog
+:jbake-tags: java,programming,langage,histoire,évolution,_mois_mai,_année_2020
+:jbake-date: 2020-05-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1590388120000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.jetbrains.com%2Fidea%2F2020%2F05%2F25-things-we-love-about-java%2F&searchtags=java+programming+langage+histoire+%C3%A9volution+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.jetbrains.com/idea/2020/05/25-things-we-love-about-java/[25 Things We Love About Java | IntelliJ IDEA Blog]
+
+Cette page de JetBrains est un rappel utile de certaines qualités parfois sous-estimées de Java ... Et ça fait du bien à lire

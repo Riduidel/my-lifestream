@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NTLM Authorization Proxy Server
+:jbake-tags: freeware,réseau,proxy,python,software,open-source,windows,_mois_janv.,_année_2007
+:jbake-date: 2007-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1167904519000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fntlmaps.sourceforge.net%2F&searchtags=freeware+r%C3%A9seau+proxy+python+software+open-source+windows+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://ntlmaps.sourceforge.net/[NTLM Authorization Proxy Server]
+
+La version sur Sourceforge de ce très pratique utilitaire qui n'a qu'un inconvénient : nécessiter Python. Pour rappel, il permet simplement à tous les programmes ne fournissant pas l'authentification NTLM d'accéder à Internet dans des réseaux Windo

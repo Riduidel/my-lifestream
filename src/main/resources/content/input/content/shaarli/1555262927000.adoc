@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Crate Galaxy Visualization
+:jbake-tags: rust,programming,visualisation,_mois_avr.,_année_2019
+:jbake-date: 2019-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1555262927000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frfdonnelly.github.io%2Fcrate-galaxy%2F%23%2Fgalaxy%2Fcrates.io%3Fcx%3D0%26cy%3D0%26cz%3D1793%26lx%3D0.0000%26ly%3D0.0000%26lz%3D0.0000%26lw%3D1.0000%26ml%3D150%26s%3D1.75%26l%3D1%26v%3D2019-04-02T23-01-58Z&searchtags=rust+programming+visualisation+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://rfdonnelly.github.io/crate-galaxy/#/galaxy/crates.io?cx=0&cy=0&cz=1793&lx=0.0000&ly=0.0000&lz=0.0000&lw=1.0000&ml=150&s=1.75&l=1&v=2019-04-02T23-01-58Z[Crate Galaxy Visualization]
+
+Une très belle idée ! J'adore vraiment ce que fait la communauté Rust

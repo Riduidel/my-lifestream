@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment régler les problèmes avec Windows Update, WinUpdateFix | Les Infos de Ballajack
+:jbake-tags: windows,update,software,freeware,_mois_août,_année_2015
+:jbake-date: 2015-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1439298437000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ballajack.com%2Fcomment-regler-problemes-windows-update&searchtags=windows+update+software+freeware+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.ballajack.com/comment-regler-problemes-windows-update[Comment régler les problèmes avec Windows Update, WinUpdateFix | Les Infos de Ballajack]
+
+Ca tombe bien, j'ai précisément ce genre de problèmes actuellement

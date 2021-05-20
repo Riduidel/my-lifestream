@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 🖖Jochen Mader 🇪🇺 on Twitter: "I work in IT, which is the reason our house has: - mechanical locks - mechanical windows - routers using OpenWRT - no smart home crap - no Alexa/Google Assistant/... - no internet connected thermostats"
+:jbake-tags: informatique,qualité,éthique,_mois_janv.,_année_2019
+:jbake-date: 2019-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1548063591000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodepitbull%2Fstatus%2F1086750509774655494&searchtags=informatique+qualit%C3%A9+%C3%A9thique+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/codepitbull/status/1086750509774655494[🖖Jochen Mader 🇪🇺 on Twitter: "I work in IT, which is the reason our house has: - mechanical locks - mechanical windows - routers using OpenWRT - no smart home crap - no Alexa/Google Assistant/... - no internet connected thermostats"]
+
+Hélas, c'est aussi mon cas. Parce que notre profession n'a, d'un point de vue global, pas la moindre notion d'éthique ou d'exigence de qualité autre que ce que demande le marketting de ces produits coûteux et inutiles

@@ -1,0 +1,88 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ghost in the cell
+:jbake-tags: codingame,mathématiques,_mois_mars,_année_2017
+:jbake-date: 2017-03-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/03/06/ghost-in-the-cell.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/03/06/ghost-in-the-cell/
+:jbake-style: wordpress
+
+++++
+<p>
+La semaine dernière, j'étais plutôt pris par un ... un contest codingame !
+</p>
+<p>
+Malheureusement, j'ai un peu la flemme de faire le post-mortem avec Asciidoc pour ne pas avoir les images générées par PlantUML.
+</p>
+<p>
+Donc je vais plutôt en faire une version raccourcie ici.
+<br/>
+<h2>Qu'est-ce qu'il faut faire ?</h2>
+<br/>
+Sur un terrain constitué d'un graphe de noeuds produisant des robots, il faut avoir plus de robots à la fin de la partie que l'adversaire.
+<br/>
+<h2>Mais comment ?</h2>
+<br/>
+A chaque tour, vous pouvez demander à chacun de vos noeuds d'envoyer autant de cyborgs que vous le voulez vers la destination de votre choix.
+<br/>
+<h2>Oui, mais comment ?</h2>
+<br/>
+Là, ça devient compliqué.
+</p>
+<p>
+J'ai implémenté au début un système qui envoyait les cyborgs vers le noeud ennemi le plus proche (en en envoyant plus que ce qu'a l'ennemi au moment où j'arrive). Mais ça ne marchait pas trop bien. Même si ça m'a emmené jusqu'en bronze.
+</p>
+<p>
+J'ai ensuite amélioré d'innombrables fois ce système en tentant les choses suivants
+<br/>
+<ul>
+<br/>
+<li>Envoyer les bombes vers les noeuds ennemis</li>
+<br/>
+<li>Faire des upgrades des noeuds que je détiens (malin, parce que tout un tas d'ennemis envoient 2 cyborgs à chaque tour, en comptant sur les statistiques) ... Ca m'a emmené en argent.</li>
+<br/>
+<li>Implémenter un peu de solidarité en essayant d'équilibrer le nombre de cyborgs entre les noeuds. Ca a plutôt bien marché ... mais je n'ai pas franchi l'argent</li>
+<br/>
+<li>Et le dernier : trier les noeuds au début de chaque tour par distance au centre des noeuds de mon équipe. Et utiliser ce tri pour chacune des opérations précédentes. Et ça m'a emmené en or.</li>
+<br/>
+</ul>
+<br/>
+<h2>Résultat ?</h2>
+<br/>
+683ème.
+</p>
+<p>
+Pas forcément un mauvais score.
+</p>
+<p>
+Mais nettement moins bon que mon collègue Nicolas, qui termine 41ème en Legend ! Et que je félicite.
+<br/>
+<h2>Mais il y a des trucs qui n'ont pas marché ?</h2>
+<br/>
+Tellement !
+</p>
+<p>
+La plus grosse déception a été pour moi la tentative d'utiliser l'algorithme dynamique de résolution du <a href="https://fr.wikipedia.org/wiki/Probl%C3%A8me_du_sac_%C3%A0_dos?oldformat=true">problème du sac à dos</a>, qui ne donnait pas vraiment de différence de score de mon algorithme naïf et brutal.
+</p>
+<p>
+A côté de ça, j'aurais peut-être dû aussi tenter des algorithmes plus ... intelligents.
+<br/>
+<h2>Et des leçons à en tirer ?</h2>
+<br/>
+Je connaissais bien Bomberman, donc j'ai pu utiliser un peu d'expertise pour sentir les bons algorithmes dans <a href="https://riduidel.wordpress.com/2016/10/03/je-ne-suis-pas-hypersonic-sur-codingame/">Hypersonic</a>.
+</p>
+<p>
+Par contre, là, les graphes, je n'y connais rien. Enfin, si, en terme d'algorithmique, de navigation, je m'y connais ... un peu. Par contre, ce genre de jeux, vraiment, je n'y connais rien, et je suis nul. Et je sais pourquoi : on est là dans le même genre de problème que pour le go : c'est un jeu distribué sans valeur autre que positionnelle. En effet, un noeud vaut plus par le nombre de cyborgs qu'il produit que par toute autre valeur ou information.
+</p>
+<p>
+Et du coup, c'est très difficile à appréhender pour l'esprit humain qui est fondamentalement focalisé sur un objectif, et pas sur une situation globale.
+</p>
+<p>
+Et ça, c'est une super leçon : il est difficile pour moi de concevoir un algorithme intelligent si je ne connais pas vraiment bien l'espace du problème.
+</p>
+<p>
+Oh, bien sûr, j'ai atteint une position au moins aussi bonne qu'à hypersonic. Mais quelque part, et même si j'étais hier extrêmement content d'atteindre l'or, j'ai quand même une petite pointe de déception de ne pas avoir fait un meilleur score (qui aurait pu être Legend, mais c'est ma prétention habituelle).
+</p>
+++++

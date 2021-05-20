@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ZVON.org - ZVON
+:jbake-tags: web,documentation,tutorial,xml,xsl,xpath,_mois_févr.,_année_2005
+:jbake-date: 2005-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1109068325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zvon.org%2F&searchtags=web+documentation+tutorial+xml+xsl+xpath+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.zvon.org/[ZVON.org - ZVON]
+
+Huge documentation site on the various XML elements

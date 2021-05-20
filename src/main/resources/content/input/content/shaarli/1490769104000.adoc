@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AJ+ on Twitter: "This French cop threatened to shoot a Chinese man ... who had come to protest the killing of a Chinese man by a cop. https://t.co/JEEUeklZvn"
+:jbake-tags: police,france,violence,_mois_mars,_année_2017
+:jbake-date: 2017-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1490769104000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fajplus%2Fstatus%2F846770128511414273&searchtags=police+france+violence+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/ajplus/status/846770128511414273[AJ+ on Twitter: "This French cop threatened to shoot a Chinese man ... who had come to protest the killing of a Chinese man by a cop. https://t.co/JEEUeklZvn"]
+
+La police française me fait honte chaque jour un peu plus. Quel candidat à la présidentielle en parlera ?

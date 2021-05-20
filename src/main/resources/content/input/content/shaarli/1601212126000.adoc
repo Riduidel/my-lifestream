@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to download m3u8 and ts video movie streams.
+:jbake-tags: vidéo,streaming,web,python,scrapy,download,_mois_sept.,_année_2020
+:jbake-date: 2020-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1601212126000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Fprimaryobjects%2F7423d7982656a31e72542f60d30f9d30&searchtags=vid%C3%A9o+streaming+web+python+scrapy+download+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://gist.github.com/primaryobjects/7423d7982656a31e72542f60d30f9d30[How to download m3u8 and ts video movie streams.]
+
+Alors apparemment, le fichier m3u8 est la base de tout un tas de système de streaming vidéo ... Et c'est ce que j'essaye actuellement de télécharger (via scrapy)!

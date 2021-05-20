@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Release Maven sous Windows d’un projet GitHub déployé sur CloudBees | Java & Moi
+:jbake-tags: howto,windows,java,maven,github,git,_mois_juin,_année_2012
+:jbake-date: 2012-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1339510685000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjavaetmoi.com%2F2012%2F04%2Frelease-maven-windows-github-deploy-cloudbees%2F&searchtags=howto+windows+java+maven+github+git+_mois_juin+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://javaetmoi.com/2012/04/release-maven-windows-github-deploy-cloudbees/[Release Maven sous Windows d’un projet GitHub déployé sur CloudBees | Java & Moi]
+
+Un guide très pratique pour configurer pageant, git, ... pour releaser sous Windows

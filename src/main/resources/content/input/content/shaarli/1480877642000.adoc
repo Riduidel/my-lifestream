@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scrum, Kanban, Git : Tuleap 9.0 est disponible - LinuxFr.org
+:jbake-tags: software,collaborative,web,git,agile,_mois_déc.,_année_2016
+:jbake-date: 2016-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1480877642000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Fscrum-kanban-git-tuleap-9-0-est-disponible&searchtags=software+collaborative+web+git+agile+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://linuxfr.org/news/scrum-kanban-git-tuleap-9-0-est-disponible[Scrum, Kanban, Git : Tuleap 9.0 est disponible - LinuxFr.org]
+
+Ca vaut quand même bien mieux que TeamForge, non ?

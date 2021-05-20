@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Building Multi-Release JARs with Maven
+:jbake-tags: java,programming,maven,tutorial,_mois_févr.,_année_2017
+:jbake-date: 2017-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1487275865000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fin.relation.to%2F2017%2F02%2F13%2Fbuilding-multi-release-jars-with-maven%2F&searchtags=java+programming+maven+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://in.relation.to/2017/02/13/building-multi-release-jars-with-maven/[Building Multi-Release JARs with Maven]
+
+Je sens déja que Java9 va être ... chiant. Cela dit, ce mécanisme pourrait être pratique.

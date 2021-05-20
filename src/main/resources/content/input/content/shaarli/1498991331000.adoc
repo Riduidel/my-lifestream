@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment différencier le recrutement du harcèlement ? – Link Humans
+:jbake-tags: emploi,recrutement,_mois_juil.,_année_2017
+:jbake-date: 2017-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1498991331000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.linkhumans.fr%2Fdifferencier-recrutement-harcelement%2F&searchtags=emploi+recrutement+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.linkhumans.fr/differencier-recrutement-harcelement/[Comment différencier le recrutement du harcèlement ? – Link Humans]
+
+Un article génial bien qu'assez long sur ce que vivent les développeurs à \*chaque\* changement de poste : la valse des coups de téléphone débiles

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Meteorologist - a weather program for Mac OS X
+:jbake-tags: software,freeware,macosx,météo,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110472235000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fheat-meteo.sourceforge.net%2F&searchtags=software+freeware+macosx+m%C3%A9t%C3%A9o+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://heat-meteo.sourceforge.net/[Meteorologist - a weather program for Mac OS X]
+
+Meteorologist is a free weather program for Mac OS X. It allows users total control over their weather viewing, including simultaneous interlaced weather reports from multiple weather locations, weather alerts, and much more.

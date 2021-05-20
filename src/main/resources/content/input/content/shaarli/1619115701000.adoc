@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tiny Container Challenge: Building a 6kB Containerized HTTP Server! | DevOps Directive
+:jbake-tags: http,server,docker,image,optimisation,performance,_mois_avr.,_année_2021
+:jbake-date: 2021-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1619115701000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdevopsdirective.com%2Fposts%2F2021%2F04%2Ftiny-container-image%2F&searchtags=http+server+docker+image+optimisation+performance+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://devopsdirective.com/posts/2021/04/tiny-container-image/[Tiny Container Challenge: Building a 6kB Containerized HTTP Server! | DevOps Directive]
+
+La prochaine fois que j'aurais besoin d'un serveur HTTP dans une image Docker, je prendrai ce asmhttp, et ce sera chouette !

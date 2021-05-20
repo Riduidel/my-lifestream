@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: delimport
+:jbake-tags: software,plugin,macosx,delicious,_mois_juil.,_année_2006
+:jbake-date: 2006-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1152040475000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fianhenderson.org%2Fdelimport.html&searchtags=software+plugin+macosx+delicious+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://ianhenderson.org/delimport.html[delimport]
+
+Voilà précisément pourquoi j'aime le mac : ce plugin permet de rechercher avec Spotlight les signets indexés dans del.icio.us

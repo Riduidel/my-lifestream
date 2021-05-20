@@ -1,0 +1,24 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais pourquoi tu fais ça, Nicolas ?
+:jbake-tags: bug,php,tweetledee,twitter,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/29/mais-pourquoi-tu-fais-ca-nicolas.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/29/mais-pourquoi-tu-fais-ca-nicolas/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Mon <a href="https://riduidel.wordpress.com/2020/05/29/mais-pourquoi-tu-fais-ca-twitter/">dernier article</a> était un mensonge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ou plutôt, une erreur d'interprétation : j'ai attribué à Twitter une erreur de <a href="https://github.com/tweetledee/tweetledee">Tweetledee</a>. C'est moche. Heureusement, quand j'ai compris que j'avais fait cette erreur, j'ai été voir dans le code de Tweetledee ... et <a href="https://github.com/Riduidel/tweetledee/commit/1c10e999d8ec63ff4b1d521656c67ff00e5bcf38">j'ai corrigé l'erreur</a> (et je vais pousser ça dès demain).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si j'étais un peu sérieux, j'en ferai une illustration des biais cognitifs des développeurs. Mais là, ce soir, je veux juste dire que je me suis trompé.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: clux/muslrust: Docker environment for building musl based static rust binaries
+:jbake-tags: rust,programming,packaging,docker,_mois_févr.,_année_2019
+:jbake-date: 2019-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1550081221000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fclux%2Fmuslrust%2F&searchtags=rust+programming+packaging+docker+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/clux/muslrust/[clux/muslrust: Docker environment for building musl based static rust binaries]
+
+Pratique pour construire une image Docker minimale hébergeant du Rust (on peut la faire tourner avec un "FROM scratch")

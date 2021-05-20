@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Difference Between Fault Tolerance, High Availability, & Disaster Recovery
+:jbake-tags: métaphore,concepts,informatique,_mois_févr.,_année_2020
+:jbake-date: 2020-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1581247285000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pbenson.net%2F2014%2F02%2Fthe-difference-between-fault-tolerance-high-availability-disaster-recovery%2F&searchtags=m%C3%A9taphore+concepts+informatique+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.pbenson.net/2014/02/the-difference-between-fault-tolerance-high-availability-disaster-recovery/[The Difference Between Fault Tolerance, High Availability, & Disaster Recovery]
+
+Très chouette métaphore de la différence entre ces différents termes.

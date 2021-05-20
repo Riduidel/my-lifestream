@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Securite systeme information, alerte securite et virus, failles informatiques - Reseaux et Telecoms
+:jbake-tags: tutorial,windows,sécurité,_mois_févr.,_année_2005
+:jbake-date: 2005-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1108992377000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.reseaux-telecoms.com%2Fcso_btree%2F05_02_02_142627_863%2FCSO%2FNewscso_view&searchtags=tutorial+windows+s%C3%A9curit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.reseaux-telecoms.com/cso_btree/05_02_02_142627_863/CSO/Newscso_view[Securite systeme information, alerte securite et virus, failles informatiques - Reseaux et Telecoms]
+
+Castle Cops publie 10 articles traitant des « bonnes manières » pour sécuriser une machine sous Windows ; non pas des papiers « fumeux » mais des textes truffés de liens, de noms de programmes à user et abuser, de documents de référence, de cons

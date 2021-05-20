@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust 2020: Are we IDE yet? | Refactoring development
+:jbake-tags: rust,debugger,vscode,plugin,open-source,windows,linux,macosx,llvm,_mois_janv.,_année_2020
+:jbake-date: 2020-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1579162725000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgilescope.ninja%2Frust%2F2019%2F01%2F04%2FAre-we-IDE-yet.html&searchtags=rust+debugger+vscode+plugin+open-source+windows+linux+macosx+llvm+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://gilescope.ninja/rust/2019/01/04/Are-we-IDE-yet.html[Rust 2020: Are we IDE yet? | Refactoring development]
+
+Ca m'a l'air d'un bel ensemble de features pour débugger le Rust (j'apprécie en particulier la visualisation native ET le break on panic!)

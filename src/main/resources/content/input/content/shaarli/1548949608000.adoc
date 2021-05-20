@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cristianoliveira/ergo: The management of multiple local services running on different ports made easy
+:jbake-tags: proxy,reverse,dynamic,software,open-source,windows,macosx,linux,développeur,_mois_janv.,_année_2019
+:jbake-date: 2019-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1548949608000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fcristianoliveira%2Fergo&searchtags=proxy+reverse+dynamic+software+open-source+windows+macosx+linux+d%C3%A9veloppeur+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/cristianoliveira/ergo[cristianoliveira/ergo: The management of multiple local services running on different ports made easy]
+
+Tiens tiens tiens, j'aimerais bien un truc un peu comme ça, pour les services Docker, mais avec une page listant les différents services démarrés ...

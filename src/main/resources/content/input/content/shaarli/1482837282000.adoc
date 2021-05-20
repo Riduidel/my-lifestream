@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ThreePillars
+:jbake-tags: entreprise,motivation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482837282000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.martinfowler.com%2Fbliki%2FThreePillars.html&searchtags=entreprise+motivation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.martinfowler.com/bliki/ThreePillars.html[ThreePillars]
+
+Généralement, je n'aime pas ce qu'il écrit. Mais là, ça résonne fortement en moi

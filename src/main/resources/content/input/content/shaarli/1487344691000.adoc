@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: No Firewalls, No Problem for Google | Threatpost | The first stop for security news
+:jbake-tags: web,sécurité,firewall,_mois_févr.,_année_2017
+:jbake-date: 2017-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1487344691000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthreatpost.com%2Fno-firewalls-no-problem-for-google%2F123748%2F&searchtags=web+s%C3%A9curit%C3%A9+firewall+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://threatpost.com/no-firewalls-no-problem-for-google/123748/[No Firewalls, No Problem for Google | Threatpost | The first stop for security news]
+
+La fin des firewalls ? C'est une bonne idée.

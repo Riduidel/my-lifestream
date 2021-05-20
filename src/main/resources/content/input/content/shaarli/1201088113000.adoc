@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 40 Reasons Why Software Projects Die
+:jbake-tags: développement,management,pattern,process,productivité,projet,psychologie,reference,work,_mois_janv.,_année_2008
+:jbake-date: 2008-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1201088113000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsourcemaking.com%2Fantipatterns&searchtags=d%C3%A9veloppement+management+pattern+process+productivit%C3%A9+projet+psychologie+reference+work+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://sourcemaking.com/antipatterns[40 Reasons Why Software Projects Die]
+
+C'est pas comme si ça ne m'était jamais arrivé, mais j'aime toujours ce genre de document qui explique assez bien pourquoi les projets se vautrent. Remarquez bien qu'on trouve rarement des raisons techniques là-dedans.

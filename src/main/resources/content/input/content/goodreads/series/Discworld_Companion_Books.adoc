@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld Companion Books
+:jbake-tags: serie
+:jbake-date: 2009-04-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld_Companion_Books.adoc
+:jbake-source: https://www.goodreads.com/series/99389
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782841723799.html[L'Art du Disque Monde]

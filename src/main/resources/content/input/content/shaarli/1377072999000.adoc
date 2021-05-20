@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: QBrowser for GlassFish JMS / WebLogic MQ | Free System Administration software downloads at SourceForge.net
+:jbake-tags: software,freeware,open-source,java,glassfish,jms,mq,_mois_août,_année_2013
+:jbake-date: 2013-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1377072999000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fqbrowserv2%2F&searchtags=software+freeware+open-source+java+glassfish+jms+mq+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sourceforge.net/projects/qbrowserv2/[QBrowser for GlassFish JMS / WebLogic MQ | Free System Administration software downloads at SourceForge.net]
+
+Un chouette browser JMS/MQ pour Glassfish et weblogic. C'est le genre de soft assez spécifique qui, dans son domaine d'application, rend de sacrés services.

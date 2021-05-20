@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quand les dieux buvaient
+:jbake-tags: serie
+:jbake-date: 2004-01-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Quand_les_dieux_buvaient.adoc
+:jbake-source: https://www.goodreads.com/series/154134
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782915653373.html[L'Immortalité moins six minutes (Quand les dieux buvaient #0)]
+* link:../books/9782910899295.html[Blanche Neige et les lance-missiles (Quand les dieux buvaient #1)]
+* link:../books/9782910899349.html[L'Ivresse des providers (Quand les dieux buvaient #2)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: KnowEm UserName Check - Thwart Social Media Identity Theft, check Username Availability
+:jbake-tags: web,management,online,search,user,_mois_nov.,_année_2009
+:jbake-date: 2009-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1258736677000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fknowem.com%2F&searchtags=web+management+online+search+user+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://knowem.com/[KnowEm UserName Check - Thwart Social Media Identity Theft, check Username Availability]
+
+L'avantage d'un site comme ça, c'est qu'en permettant de voir sur quel réseau social un nom d'utilisateur est pris, il permet aussi de savoir quels réseaux sociaux existent déja.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ChocoBLAST - Accueil
+:jbake-tags: humour,entreprise,sécurité,_mois_mai,_année_2019
+:jbake-date: 2019-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1557738457000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.chocoblast.fr%2F&searchtags=humour+entreprise+s%C3%A9curit%C3%A9+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.chocoblast.fr/[ChocoBLAST - Accueil]
+
+Je découvre le mot (merci Aurélie) et le site web ... qui est assez génial !

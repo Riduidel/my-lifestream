@@ -1,0 +1,80 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - c'est déja fini ?
+:jbake-tags: communication,devoxx,_mois_avr.,_année_2019
+:jbake-date: 2019-04-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/22/devoxxfr-cest-deja-fini.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/22/devoxxfr-cest-deja-fini/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, je poste ce message avec un peu de retard (parce que j'ai voulu faire un truc que je n'ai pas réussi à faire du week-end), mais c'est pas grave.
+</p>
+<p>
+Donc Jeudi et Vendredi, c'était devoxxfr. C'était bien. Et avec le temps, je commence à comprendre un truc important.
+</p>
+<p>
+Pourquoi je vais à DevoxxFr ? Parce que franchement, je suis assez curieux de nature (pas au sens bizarre, hein). Donc je pourrais tout à fait aller voir la doc des frameworks dont j'entends parler. Alors ... pourquoi c'est si bien ?
+</p>
+<p>
+A mon avis, la première raison est à chercher dans des présentations d'un collègue ... ou dans <a href="https://www.podcastscience.fm/emission/2018/05/19/podcast-science-337-storytelling-3/">cet épisode de PodcastScience</a>. Les êtres humains se nourrissent d'histoire. Autrement dit, pour intégrer une connaissance, la façon la plus simple, c'est de relier cette connaissance à une histoire poàur que cette histoire vienne se nicher dans notre mémoire narrative et qu'on se souvienne bien de ce qu'on a appris. C'est à mon avis pour ça que des présentations comme celle d'<a href="https://riduidel.wordpress.com/2019/04/19/devoxxfr-le-web-et-ses-frameworks/">Hubert Sablonnière</a> marquent autant : il y a beaucoup plus d'histoire que si Hubert nous donnait simplement sa vision de la tension entre les frameworks et les standards.
+</p>
+<p>
+L'autre raison pourrait tenir en une photo
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/aheritier" class="screenName"><img src="http://pbs.twimg.com/profile_images/1214796079230787586/j7JOs5RA_mini.jpg" alt="profile of @cloudbees Support Tooling Manager #java #lescastcodeurs #devoxxfr #devops #oss #jenkinsci #maven #asf"/>aheritier</a>
+<br/>
+<span class="name">Arnaud Héritier</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/aheritier/status/1 118 991 020 425 916 416" class="date">18 avr. 2019 à 23:33:43</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Usual suspects #devoxxfr #afterdevoxxfr https://t.co/RuGdMFowub</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4d0ZjOWkAE3eH9.jpg" alt="1 118 991 014 725 849 089"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Il ne faut pas voir dans cette photo une pub pour ce pub, mais plutôt le fait qu'une conférence, c'est de l'humain, et donc de la discussion. Parce que cette année, j'ai joué complètement (et avec beaucoup de plaisir) la carte de la convivialité. Ca m'a donné l'occasion de payer mes dettes à Arnaud et Nicolas, d'avoir une chouette discussion avec Julien et Fabien, de passer un moment avec Xavier, bref, de communiquer. Et c'est vraiment ça le coeur de Devoxx : communiquer.
+</p>
+<p>
+Pour ça, merci aux organisateurs et aux gilets rouges. Et je pense que l'année prochaine, j'irais encore plus loin dans la communication en allant causer aux autres spectateurs de ce qui leur a plu, de ce qu'ils aimeraient voir sur Youtube. En attendant, il n'y a plus qu'à attendre un an avant d'y retourner !
+</p>
+++++

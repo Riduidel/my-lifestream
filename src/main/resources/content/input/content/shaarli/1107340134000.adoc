@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dirtSimple.org: Python Is Not Java
+:jbake-tags: programming,langage,python,java,comparison,_mois_févr.,_année_2005
+:jbake-date: 2005-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1107340134000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dirtsimple.org%2F2004%2F12%2Fpython-is-not-java.html&searchtags=programming+langage+python+java+comparison+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.dirtsimple.org/2004/12/python-is-not-java.html[dirtSimple.org: Python Is Not Java]
+
+In examining the code, I found that they had done lots of things that make sense in Java, but which suck terribly in Python. Not because "Python is slower than Java", but because there are easier ways to accomplish the same goals in Python, that wouldn't

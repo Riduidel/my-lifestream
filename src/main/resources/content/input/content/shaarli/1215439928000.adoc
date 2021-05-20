@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fanboy's Adblock List for Opera
+:jbake-tags: browser,hack,opera,tool,usability,_mois_juil.,_année_2008
+:jbake-date: 2008-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1215439928000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fanboy.co.nz%2Fadblock%2Fopera%2F&searchtags=browser+hack+opera+tool+usability+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.fanboy.co.nz/adblock/opera/[Fanboy's Adblock List for Opera]
+
+Un bloqueur de pub pour Opera ... ca ne peut vraiment pas faire de mal.

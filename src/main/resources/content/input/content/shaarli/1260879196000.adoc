@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Get cached images from your visitors | Diovo
+:jbake-tags: howto,tutorial,http,recovery,_mois_déc.,_année_2009
+:jbake-date: 2009-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1260879196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.diovo.com%2F2009%2F12%2Fgetting-cached-images-in-your-website-from-the-visitors%2F&searchtags=howto+tutorial+http+recovery+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.diovo.com/2009/12/getting-cached-images-in-your-website-from-the-visitors/[Get cached images from your visitors | Diovo]
+
+Une ruse de dingue pour récupérer du contenu d'un site qui a disparu pour une raison quelconque. Dans l'avenir, ça pourrait aider des amis ...

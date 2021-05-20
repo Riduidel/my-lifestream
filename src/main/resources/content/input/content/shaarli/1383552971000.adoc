@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aggrégateurs auto-hébergé : le point - Yosko's shaarli
+:jbake-tags: web,rss,webapp,dns-323,_mois_nov.,_année_2013
+:jbake-date: 2013-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1383552971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinks.yosko.net%2F%3FmuvIKQ&searchtags=web+rss+webapp+dns-323+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://links.yosko.net/?muvIKQ[Aggrégateurs auto-hébergé : le point - Yosko's shaarli]
+
+Chouette liste d'aggégateurs RSS auto-hébergés. Il y a peut-être là-dedans quelque chose de moins frustrant que KrissFeed (qui est bien, hein, mais parfois ... frustrant). via http://sebsauvage.net/links/?kUzxYQ

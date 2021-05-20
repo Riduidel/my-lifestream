@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SourceForge.net: Project Info - Vital desktop
+:jbake-tags: software,freeware,open-source,windows,desktop,screensaver,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115655814000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sourceforge.net%2Fprojects%2Fvital-desktop&searchtags=software+freeware+open-source+windows+desktop+screensaver+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sourceforge.net/projects/vital-desktop[SourceForge.net: Project Info - Vital desktop]
+
+Vital Desktop is a desktop animation utility, a program designed to bring a fresh new look to your desktop. Never again will you be faced with the same static background every time. Now, your desktop actually comes alive!

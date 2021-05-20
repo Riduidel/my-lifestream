@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: About | Wrap Your Database in Java 8
+:jbake-tags: java,programming,framework,persistence,_mois_avr.,_année_2016
+:jbake-date: 2016-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1460697972000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.speedment.org%2Fabout%2F&searchtags=java+programming+framework+persistence+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.speedment.org/about/[About | Wrap Your Database in Java 8]
+
+C'est pas du tout idiot, cette idée ... Gaedo en Java8 aurait pu ressembler à ça

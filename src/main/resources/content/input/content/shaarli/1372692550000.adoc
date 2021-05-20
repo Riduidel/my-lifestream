@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: *SEXY'S* CTF - Urban Terror Servers - *SEXY'S* CTF Urban Terror Servers
+:jbake-tags: jeu,open-source,freeware,windows,macosx,linux,fps,server,communauté,_mois_juil.,_année_2013
+:jbake-date: 2013-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1372692550000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsexysctf.net%2F&searchtags=jeu+open-source+freeware+windows+macosx+linux+fps+server+communaut%C3%A9+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sexysctf.net/[*SEXY'S* CTF - Urban Terror Servers - *SEXY'S* CTF Urban Terror Servers]
+
+Le site de mon serveur Urban Terror favori (depuis la fin de La Boucherie - le meilleur serveur du monde) ... il n'est pas exclu que je m'y remette un jour ...

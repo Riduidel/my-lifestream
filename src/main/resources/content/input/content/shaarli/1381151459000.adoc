@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Silk Road's Dread Pirate, Ross Ulbricht, asked Stack Overflow question under real name.
+:jbake-tags: sécurité,empreinte,numérique,stackoverflow,_mois_oct.,_année_2013
+:jbake-date: 2013-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1381151459000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.com%2Fblogs%2Ffuture_tense%2F2013%2F10%2F02%2Fsilk_road_s_dread_pirate_ross_ulbricht_asked_stack_overflow_question_under.html&searchtags=s%C3%A9curit%C3%A9+empreinte+num%C3%A9rique+stackoverflow+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.slate.com/blogs/future_tense/2013/10/02/silk_road_s_dread_pirate_ross_ulbricht_asked_stack_overflow_question_under.html[Silk Road's Dread Pirate, Ross Ulbricht, asked Stack Overflow question under real name.]
+
+Donc le mec de Silk Road aurait été retrouvé en partie à cause de questions posées sur Stackoverflow ... ça fout la trouille un peu, non ?

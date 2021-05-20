@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guide to Windows Batch Scripting - /* steve jansen */
+:jbake-tags: windows,scripting,documentation,_mois_janv.,_année_2019
+:jbake-date: 2019-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1547116455000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsteve-jansen.github.io%2Fguides%2Fwindows-batch-scripting%2Findex.html&searchtags=windows+scripting+documentation+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://steve-jansen.github.io/guides/windows-batch-scripting/index.html[Guide to Windows Batch Scripting - /* steve jansen */]
+
+De temps en temps, même si c'est sale, ça sert ...

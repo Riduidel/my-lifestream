@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Collections Framework Enhancements in Java SE 7
+:jbake-tags: java,hash,collection,bug,_mois_août,_année_2014
+:jbake-date: 2014-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1407397879000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdocs.oracle.com%2Fjavase%2F7%2Fdocs%2Ftechnotes%2Fguides%2Fcollections%2Fchanges7.html&searchtags=java+hash+collection+bug+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://docs.oracle.com/javase/7/docs/technotes/guides/collections/changes7.html[Collections Framework Enhancements in Java SE 7]
+
+Je suis pas certain, mais j'ai l'impression d'être affecté par une histoire un peu similaire.

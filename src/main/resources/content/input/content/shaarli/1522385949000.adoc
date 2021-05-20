@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daily Pathtracer Part 2: Fix Stupid · Aras' website
+:jbake-tags: programming,algorithme,hasard,_mois_mars,_année_2018
+:jbake-date: 2018-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1522385949000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faras-p.info%2Fblog%2F2018%2F03%2F28%2FDaily-Pathtracer-Part-2-Fix-Stupid%2F&searchtags=programming+algorithme+hasard+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://aras-p.info/blog/2018/03/28/Daily-Pathtracer-Part-2-Fix-Stupid/[Daily Pathtracer Part 2: Fix Stupid · Aras' website]
+
+Pour les mecs qui ont besoin de nombres aléatoires, c'est une lecture très utile

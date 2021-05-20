@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comparateur de voitures par dimensions. Choisissez marque et modèle
+:jbake-tags: voiture,comparatif,dimensions,_mois_janv.,_année_2020
+:jbake-date: 2020-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1578752448000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffr.automobiledimension.com%2Fcomparateur-voitures.php&searchtags=voiture+comparatif+dimensions+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://fr.automobiledimension.com/comparateur-voitures.php[Comparateur de voitures par dimensions. Choisissez marque et modèle]
+
+C'est assez pratique ce comparateur de dimensions de voitures !

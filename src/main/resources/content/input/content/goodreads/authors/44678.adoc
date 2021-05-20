@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christophe Blain
+:jbake-tags: author
+:jbake-date: 2011-04-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/44678.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1282742632p5/44678.jpg
+:jbake-source: https://www.goodreads.com/author/show/44678
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782205050707.html[Socrate le demi-chien: Héraclès]

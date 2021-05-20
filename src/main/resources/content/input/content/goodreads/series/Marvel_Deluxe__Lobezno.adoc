@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marvel Deluxe: Lobezno
+:jbake-tags: serie
+:jbake-date: 2013-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Marvel_Deluxe__Lobezno.adoc
+:jbake-source: https://www.goodreads.com/series/164146
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782809420111.html[Wolverine, les origines]

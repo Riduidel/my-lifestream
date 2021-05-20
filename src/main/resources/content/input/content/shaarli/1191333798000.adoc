@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: space4j: Space4J - Enterprise-Grade Prevalence
+:jbake-tags: java,programming,library,j2ee,open-source,prevalence,jebliki,_mois_oct.,_année_2007
+:jbake-date: 2007-10-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1191333798000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspace4j.dev.java.net%2Fintro.html&searchtags=java+programming+library+j2ee+open-source+prevalence+jebliki+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+https://space4j.dev.java.net/intro.html[space4j: Space4J - Enterprise-Grade Prevalence]
+
+L'un des problèmes que j'ai avec Prevayler et qu'il charge tous les objets en mémoire. Il semble que ce ne soit pas le cas de spaces4j. Et ça, c'est bien (même si pour l'instant je n'ai pas beaucoup de données).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gravity
+:jbake-tags: espace,simulateur,gravité,web,_mois_sept.,_année_2016
+:jbake-date: 2016-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1472742495000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhermann.is%2Fgravity%2F&searchtags=espace+simulateur+gravit%C3%A9+web+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://hermann.is/gravity/[Gravity]
+
+Miam, un simulateur de système stellaire. Neuf fois sur dix, ça finit dans l'étoile.

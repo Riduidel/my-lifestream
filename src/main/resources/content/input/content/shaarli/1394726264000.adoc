@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dryice Liu’s Blog - Keyboard Navigation in Firefox
+:jbake-tags: software,web,firefox,plugin,accessibility,_mois_mars,_année_2014
+:jbake-date: 2014-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1394726264000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdryice.name%2Fblog%2Ffirefox%2Fkeyboard-navigation-in-firefox%2F&searchtags=software+web+firefox+plugin+accessibility+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://dryice.name/blog/firefox/keyboard-navigation-in-firefox/[Dryice Liu’s Blog - Keyboard Navigation in Firefox]
+
+Une chouette liste d'extensions pour Firefox. Rien que la première, HaH, vaut largement l'installation, à mon avis.

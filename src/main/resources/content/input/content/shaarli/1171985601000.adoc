@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Metrics 1.3.6
+:jbake-tags: développement,eclipse,graph,metrics,plugin,qualité,software,tool,_mois_févr.,_année_2007
+:jbake-date: 2007-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1171985601000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmetrics.sourceforge.net%2F&searchtags=d%C3%A9veloppement+eclipse+graph+metrics+plugin+qualit%C3%A9+software+tool+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://metrics.sourceforge.net/[Metrics 1.3.6]
+
+Un petit plugin de calcul de métriques, un peu buggé quand il s'agit de passer des dépendances entre packages aux dépendances entre classes

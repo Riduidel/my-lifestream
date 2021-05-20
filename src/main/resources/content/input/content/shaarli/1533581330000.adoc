@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keats/gutenberg: A fast static site generator in a single binary with everything built-in.
+:jbake-tags: web,site,générateur,rust,_mois_août,_année_2018
+:jbake-date: 2018-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1533581330000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FKeats%2Fgutenberg&searchtags=web+site+g%C3%A9n%C3%A9rateur+rust+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/Keats/gutenberg[Keats/gutenberg: A fast static site generator in a single binary with everything built-in.]
+
+Un générateur de sites statiques qui a l'air ... bien ... vraiment bien

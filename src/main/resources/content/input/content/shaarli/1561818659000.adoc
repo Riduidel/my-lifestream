@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Temps Data on Twitter: "#DIY Notre baromètre «physique» de la parité, bricolé par @palrogg et @cesargreppin: les mentions de noms de femmes sur @letemps, par rapport au total des personnes mentionnées. Un peu déprimant, il faut l’avouer…… https://t.co/X8O9F0tqYi"
+:jbake-tags: féminisme,infographie,représentation,_mois_juin,_année_2019
+:jbake-date: 2019-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1561818659000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FLeTemps_Data%2Fstatus%2F1144632087636561920&searchtags=f%C3%A9minisme+infographie+repr%C3%A9sentation+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/LeTemps_Data/status/1144632087636561920[Le Temps Data on Twitter: "#DIY Notre baromètre «physique» de la parité, bricolé par @palrogg et @cesargreppin: les mentions de noms de femmes sur @letemps, par rapport au total des personnes mentionnées. Un peu déprimant, il faut l’avouer…… https://t.co/X8O9F0tqYi"]
+
+ok, il va être temps que j'appelle mes meilleurs collègues IoT pour mettre ça dans notre miroir connecté

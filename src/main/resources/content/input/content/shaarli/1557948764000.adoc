@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FabienTregan/autointerview-orateurs: Un repo pour parler du fait de parler dans les confs, pour permettre à ceux qui ne le font pas encore de se faire une idée.
+:jbake-tags: conférence,interview,communication,_mois_mai,_année_2019
+:jbake-date: 2019-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1557948764000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FFabienTregan%2Fautointerview-orateurs&searchtags=conf%C3%A9rence+interview+communication+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/FabienTregan/autointerview-orateurs[FabienTregan/autointerview-orateurs: Un repo pour parler du fait de parler dans les confs, pour permettre à ceux qui ne le font pas encore de se faire une idée.]
+
+oh c'est vraiment très bien. J'espère que mes collègues orateurs réguliers y répondront ...

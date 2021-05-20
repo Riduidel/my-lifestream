@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: logstash/log4j-jsonevent-layout: A prefab PatternLayout for log4j that generates logstash json_event formatted data
+:jbake-tags: logging,java,json,format,librairie,open-source,_mois_mai,_année_2021
+:jbake-date: 2021-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1621264373000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flogstash%2Flog4j-jsonevent-layout&searchtags=logging+java+json+format+librairie+open-source+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/logstash/log4j-jsonevent-layout[logstash/log4j-jsonevent-layout: A prefab PatternLayout for log4j that generates logstash json_event formatted data]
+
+Produire des logs JSON pour les systèmes d'observabilité, c'est cool. Et le faire sans changer sa version de log4j, c'est encore plus cool

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Algorithmes et Programmation
+:jbake-tags: software,documentation,programming,algorithme,java,ocaml,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112189047000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpauillac.inria.fr%2F%7Elevy%2Fx%2Ftc98%2Fpoly-1.6%2F&searchtags=software+documentation+programming+algorithme+java+ocaml+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://pauillac.inria.fr/~levy/x/tc98/poly-1.6/[Algorithmes et Programmation]
+
+

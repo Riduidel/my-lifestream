@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hacktoberfest 2019 chez Zenika
+:jbake-tags: open-source,entreprise,budget,_mois_nov.,_année_2019
+:jbake-date: 2019-11-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1574761917000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.zenika.com%2F2019%2F11%2F26%2Fhacktoberfest-2019-chez-zenika%2F&searchtags=open-source+entreprise+budget+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.zenika.com/2019/11/26/hacktoberfest-2019-chez-zenika/[Hacktoberfest 2019 chez Zenika]
+
+Depuis le temps que je dis qu'il faut que les entreprises investissent du vrai argent dans l'open-source, je suis vraiment content d'avoir pu participer à ce projet.

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chasseurs de chimères (De Cape et de Crocs, #7)
+:jbake-tags:  bateau, lune, voyage,_année_2010,_mois_janv.,_note_5,rayon-bd,read
+:jbake-date: 2010-01-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847899252.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327571980l/1992889._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327571980l/1992889._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1992889
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Croisant le fer, croisant le verbe, messieurs de Villalobos et Maupertuis suivent la piste du mystérieux Maître d'armes. Leur quête semée de dangers, d'énigmes et de forfaitures les mènera des bas-fonds du port d'Agatharchidès jusqu'aux confins des mers lunaires, au cœur de la Face cachée, là où rôdent les chimères.
+</div>
+++++
+
+
+## Authors
+* link:../authors/876891.html[Alain Ayroles]
+* link:../authors/876892.html[Jean-Luc Masbou]
+
+## Series
+* link:../series/De_Cape_et_de_Crocs.html[De Cape et de Crocs]
+
+## Review
+
+++++
+
+++++

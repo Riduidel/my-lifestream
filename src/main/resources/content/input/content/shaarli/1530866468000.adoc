@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marko
+:jbake-tags: web,javascript,html,css,framework,open-source,_mois_juil.,_année_2018
+:jbake-date: 2018-07-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1530866468000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmarkojs.com%2F&searchtags=web+javascript+html+css+framework+open-source+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://markojs.com/[Marko]
+
+Oh, tiens, encore un nouveau framework web front. Il semble mélanger allègrement Javascript, CSS et HTML, et même permettre d'écrire le HTML dans un vrai langage propriétaire ... mouais

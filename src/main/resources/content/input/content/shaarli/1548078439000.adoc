@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Confluent REST Proxy API Reference — Confluent Platform
+:jbake-tags: kafka,http,rest,json,api,_mois_janv.,_année_2019
+:jbake-date: 2019-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1548078439000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.confluent.io%2Fcurrent%2Fkafka-rest%2Fdocs%2Fapi.html&searchtags=kafka+http+rest+json+api+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://docs.confluent.io/current/kafka-rest/docs/api.html[Confluent REST Proxy API Reference — Confluent Platform]
+
+Je vais peut-être enfin comprendre pourquoi ma payload est embarquée dans une chaîne de caractère dans mon JSON ...

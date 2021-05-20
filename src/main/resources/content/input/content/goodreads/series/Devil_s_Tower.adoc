@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devil's Tower
+:jbake-tags: serie
+:jbake-date: 2005-09-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Devil_s_Tower.adoc
+:jbake-source: https://www.goodreads.com/series/138103
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266138321.html[La Tour du Diable]

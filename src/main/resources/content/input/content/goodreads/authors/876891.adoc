@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alain Ayroles
+:jbake-tags: author
+:jbake-date: 2010-01-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/876891.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1595383922p5/876891.jpg
+:jbake-source: https://www.goodreads.com/author/show/876891
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756003184.html[Le Maître d'armes (De Cape et de Crocs, #8)]
+* link:../books/9782756008356.html[Revers de fortune (De Cape et de Crocs, #9)]
+* link:../books/9782756019963.html[De la Lune à la Terre (De Cape et de Crocs, #10)]
+* link:../books/9782756035734.html[Les Indes fourbes]
+* link:../books/9782756040363.html[Vingt mois avant (De Cape et de Crocs #11)]
+* link:../books/9782756064758.html[Si ce n'est toi ...(De Cape et de Crocs #12)]
+* link:../books/9782840550594.html[Le Secret du janissaire (De Cape et de Crocs, #1)]
+* link:../books/9782840551430.html[Pavillon noir ! (De Cape et de Crocs, #2)]
+* link:../books/9782840552369.html[L'Archipel du danger (De Cape et de Crocs #3)]
+* link:../books/9782840553359.html[Le Mystère de l'île étrange (De Cape et de Crocs, #4)]
+* link:../books/9782840555780.html[Jean sans lune (De cape et de Crocs, #5)]
+* link:../books/9782847891126.html[Luna Incognita (De Cape et de Crocs, #6)]
+* link:../books/9782847899252.html[Chasseurs de chimères (De Cape et de Crocs, #7)]

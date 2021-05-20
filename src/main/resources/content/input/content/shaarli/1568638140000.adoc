@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Advanced customization for Antora - PlantUML support & custom UI | Andreas' Blog
+:jbake-tags: asciidoc,plantuml,antora,intégration,_mois_sept.,_année_2019
+:jbake-date: 2019-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1568638140000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.anoff.io%2F2019-04-19-antora-plantuml-customize-ui%2F&searchtags=asciidoc+plantuml+antora+int%C3%A9gration+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.anoff.io/2019-04-19-antora-plantuml-customize-ui/[Advanced customization for Antora - PlantUML support & custom UI | Andreas' Blog]
+
+A un moment donné (et figurez-vous que je sais à peu près quand) j'aurais besoin d'Antora. Et à ce moment-là, je serai content d'avoir gardé sous le coude ce guide intégrant PlantUML dans Antora

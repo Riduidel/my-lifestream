@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Eventual Consistency
+:jbake-tags: humour,informatique,distribué,_mois_juin,_année_2020
+:jbake-date: 2020-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1591256703000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxkcd.com%2F2315%2F&searchtags=humour+informatique+distribu%C3%A9+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://xkcd.com/2315/[xkcd: Eventual Consistency]
+
+Oui, personnellement, je trouve ça assez drôle. Et je le réutiliserai sans aucun doute. Et les gens lèveront les yeux au ciel.

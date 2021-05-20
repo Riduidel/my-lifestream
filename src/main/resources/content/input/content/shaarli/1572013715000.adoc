@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Naomi
+:jbake-tags: raspberrypi,voix,assistant,_mois_oct.,_année_2019
+:jbake-date: 2019-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1572013715000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fprojectnaomi.com%2F&searchtags=raspberrypi+voix+assistant+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://projectnaomi.com/[Naomi]
+
+Un autre projet d'assistant vocal Python ... Moogle n'a jamais été aussi près !

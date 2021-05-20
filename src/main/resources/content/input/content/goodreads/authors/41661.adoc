@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hope Mirrlees
+:jbake-tags: author
+:jbake-date: 2019-06-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/41661.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1364759209p5/41661.jpg
+:jbake-source: https://www.goodreads.com/author/show/41661
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253083719.html[Lud-en-brume]

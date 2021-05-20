@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ABSTRACT-CODEX: code, works and experiments by Alessandro Capozzo
+:jbake-tags: art,ordinateur,_mois_nov.,_année_2004
+:jbake-date: 2004-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1100681985000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.abstract-codex.net%2F&searchtags=art+ordinateur+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.abstract-codex.net/[ABSTRACT-CODEX: code, works and experiments by Alessandro Capozzo]
+
+Abstract-codex is thought as personal exhibition space, a developmet of my proce55ing sketchbook. I hope it could become a tool to share impresions, expertises and informations with other coders, artists and anyone else intereted in code as an expresive a

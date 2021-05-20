@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: After Endless Demonization Of Encryption, Police Find Paris Attackers Coordinated Via Unencrypted SMS | Techdirt
+:jbake-tags: encryption,sécurité,terrorisme,_mois_nov.,_année_2015
+:jbake-date: 2015-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1447923590000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.techdirt.com%2Farticles%2F20151118%2F08474732854%2Fafter-endless-demonization-encryption-police-find-paris-attackers-coordinated-via-unencrypted-sms.shtml&searchtags=encryption+s%C3%A9curit%C3%A9+terrorisme+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://www.techdirt.com/articles/20151118/08474732854/after-endless-demonization-encryption-police-find-paris-attackers-coordinated-via-unencrypted-sms.shtml[After Endless Demonization Of Encryption, Police Find Paris Attackers Coordinated Via Unencrypted SMS | Techdirt]
+
+Donc le prochain qui me dit que le cryptage est utilisé par les terroristes se prend une baffe.

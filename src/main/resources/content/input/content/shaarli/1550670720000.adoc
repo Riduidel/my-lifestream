@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Agar on Twitter: "Depuis cet instant, tous les bots de l'OuGéPro sont placés sous licence GPL-3.0 Vous pouvez télécharger ou consulter le code source de vingt-deux (22) bots sur le GitHub de l'OuGéPro. Amusez-vous bien ! https://t.co/jUTrcofabB"
+:jbake-tags: web,twitter,bot,poésie,art,_mois_févr.,_année_2019
+:jbake-date: 2019-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1550670720000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FakaAgar%2Fstatus%2F1098205638734139392&searchtags=web+twitter+bot+po%C3%A9sie+art+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/akaAgar/status/1098205638734139392[Agar on Twitter: "Depuis cet instant, tous les bots de l'OuGéPro sont placés sous licence GPL-3.0 Vous pouvez télécharger ou consulter le code source de vingt-deux (22) bots sur le GitHub de l'OuGéPro. Amusez-vous bien ! https://t.co/jUTrcofabB"]
+
+MUST. RESIST. Je vais vraiment avoir du mal à ne pas aller y jeter un oeil ...

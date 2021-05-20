@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ressortir un vieux PC du grenier - Le blog de JP ou l'avis d'un informaticien à la campagne
+:jbake-tags: ubuntu,tutorial,remote,thinclient,_mois_sept.,_année_2006
+:jbake-date: 2006-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1158760360000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.mobilisoft.com%2F%3F2006%2F05%2F03%2F90-ressortir-un-vieux-pc-du-grenier&searchtags=ubuntu+tutorial+remote+thinclient+_mois_sept.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://blog.mobilisoft.com/?2006/05/03/90-ressortir-un-vieux-pc-du-grenier[Ressortir un vieux PC du grenier - Le blog de JP ou l'avis d'un informaticien à la campagne]
+
+Comment configurer une machine en client léger pour un serveur Ubuntu.

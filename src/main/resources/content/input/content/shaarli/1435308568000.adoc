@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Curtis Cooley on Twitter: "#AgileFailureQuotes We don't have time to do the TDDs"
+:jbake-tags: citation,tdd,agile,_mois_juin,_année_2015
+:jbake-date: 2015-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1435308568000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCurtisRCooley%2Fstatus%2F610465353437548544&searchtags=citation+tdd+agile+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/CurtisRCooley/status/610465353437548544[Curtis Cooley on Twitter: "#AgileFailureQuotes We don't have time to do the TDDs"]
+
+Hélas, j'ai déja fait cette erreur

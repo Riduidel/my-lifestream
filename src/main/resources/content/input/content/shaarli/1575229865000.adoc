@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gluon Substrate and GraalVM Native Image with JavaFX support - Gluon
+:jbake-tags: java,javafx,graalvm,compilation,_mois_déc.,_année_2019
+:jbake-date: 2019-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1575229865000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgluonhq.com%2Fgluon-substrate-and-graalvm-native-image-with-javafx-support%2F&searchtags=java+javafx+graalvm+compilation+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://gluonhq.com/gluon-substrate-and-graalvm-native-image-with-javafx-support/[Gluon Substrate and GraalVM Native Image with JavaFX support - Gluon]
+
+Nom de nom ! Je vais pouvoir me mettre à faire du JavaFX compilé en natif ? Ca me fait un peu rêver (surtout si je peux le lancer via quarkus pour avoir CDI)

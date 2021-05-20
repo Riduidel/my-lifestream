@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to tunnel Samba via ssh from Windows XP without having to disable local NetBIOS
+:jbake-tags: samba,tunnel,networking,putty,windows,_mois_oct.,_année_2009
+:jbake-date: 2009-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1255014612000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flists.samba.org%2Farchive%2Fsamba%2F2004-May%2F085358.html&searchtags=samba+tunnel+networking+putty+windows+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://lists.samba.org/archive/samba/2004-May/085358.html[How to tunnel Samba via ssh from Windows XP without having to disable local NetBIOS]
+
+Une solution classieusement élégante pour avoir mon disque dur réseau sous la main où que je sois. C'est mieux que la clé USB ... tant que j'ai du réseau !

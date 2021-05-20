@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mettre à jour PHP 7.0 ou 7.1 vers PHP 7.2 sur Debian ou Ubuntu
+:jbake-tags: raspberrypi,php,tutorial,migration,_mois_août,_année_2019
+:jbake-date: 2019-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1565706687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblogprog.fr%2Farticles%2Fmettre-a-jour-php-7-0-ou-7-1-vers-php-7-2-sur-debian-ou-ubuntu-a4.html&searchtags=raspberrypi+php+tutorial+migration+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blogprog.fr/articles/mettre-a-jour-php-7-0-ou-7-1-vers-php-7-2-sur-debian-ou-ubuntu-a4.html[Mettre à jour PHP 7.0 ou 7.1 vers PHP 7.2 sur Debian ou Ubuntu]
+
+Je vais devoir mettre à jour Shaarli ... et donc passer en php 7.2 ...

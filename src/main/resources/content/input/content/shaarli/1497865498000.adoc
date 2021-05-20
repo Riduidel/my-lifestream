@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maintainable Python Applications: a Guide for Skeptical Java Developers - Code Without Rules
+:jbake-tags: programming,python,environnement,_mois_juin,_année_2017
+:jbake-date: 2017-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1497865498000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcodewithoutrules.com%2F2016%2F10%2F30%2Fpython-for-java-developers%2F&searchtags=programming+python+environnement+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://codewithoutrules.com/2016/10/30/python-for-java-developers/[Maintainable Python Applications: a Guide for Skeptical Java Developers - Code Without Rules]
+
+J'aurais bien voulu avoir ces informations plus tôt (genre 2 ans plus tôt)

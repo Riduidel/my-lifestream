@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Anno Dracula
+:jbake-tags: serie
+:jbake-date: 2015-01-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Anno_Dracula.adoc
+:jbake-source: https://www.goodreads.com/series/55098
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253177241.html[Anno Dracula (Anno Dracula, #1)]
+* link:../books/9782253177258.html[Le Baron Rouge Sang (Anno Dracula, #2)]
+* link:../books/9782253133070.html[Dracula Cha Cha Cha : Anno Dracula 1959 (Anno Dracula, #3)]

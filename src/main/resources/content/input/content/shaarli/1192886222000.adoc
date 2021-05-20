@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Debugging with the Maven Jetty Plugin in Eclipse
+:jbake-tags: debug,développement,eclipse,java,programming,remote,tips,_mois_oct.,_année_2007
+:jbake-date: 2007-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1192886222000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdocs.codehaus.org%2Fdisplay%2FJETTY%2FDebugging%2Bwith%2Bthe%2BMaven%2BJetty%2BPlugin%2Binside%2BEclipse&searchtags=debug+d%C3%A9veloppement+eclipse+java+programming+remote+tips+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://docs.codehaus.org/display/JETTY/Debugging+with+the+Maven+Jetty+Plugin+inside+Eclipse[Debugging with the Maven Jetty Plugin in Eclipse]
+
+C'est à peu près aussi facile que de debugger avec tomcat en utilisant JPDA (puisque c'est la même chose), mais c'est pour une fois bien expliqué

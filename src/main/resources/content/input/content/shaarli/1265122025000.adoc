@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quick File Rename - File rename, batch file renamer and folder renamer batch rename :: skyjuicesoftware.com
+:jbake-tags: software,photographie,exif,iptc,windows,rename,_mois_févr.,_année_2010
+:jbake-date: 2010-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1265122025000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.skyjuicesoftware.com%2Fsoftware%2FQuickFileRename%2F&searchtags=software+photographie+exif+iptc+windows+rename+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.skyjuicesoftware.com/software/QuickFileRename/[Quick File Rename - File rename, batch file renamer and folder renamer batch rename :: skyjuicesoftware.com]
+
+Il semble bien que ce logiciel soit la rolls du déplacemenet/renommage de fichiers

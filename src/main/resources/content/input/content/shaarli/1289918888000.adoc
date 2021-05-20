@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Bumblebee Documentation
+:jbake-tags: agile,développement,documentation,javadoc,junit,tool,_mois_nov.,_année_2010
+:jbake-date: 2010-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1289918888000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.agical.com%2Fbumblebee%2Fbumblebee_doc.html&searchtags=agile+d%C3%A9veloppement+documentation+javadoc+junit+tool+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.agical.com/bumblebee/bumblebee_doc.html[The Bumblebee Documentation]
+
+A tester absolument ! ca a l'air génial, cet outil pour générer une doc de dév à partir des tests unitaires

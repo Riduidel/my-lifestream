@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Designing digital services that are accountable, understood, and trusted (OSCON 2016 talk)
+:jbake-tags: programming,politique,innovation,_mois_nov.,_année_2016
+:jbake-date: 2016-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1480406377000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.memespring.co.uk%2F2016%2F11%2F23%2Foscon-2016%2F&searchtags=programming+politique+innovation+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://blog.memespring.co.uk/2016/11/23/oscon-2016/[Designing digital services that are accountable, understood, and trusted (OSCON 2016 talk)]
+
+Extrêmement intéressant

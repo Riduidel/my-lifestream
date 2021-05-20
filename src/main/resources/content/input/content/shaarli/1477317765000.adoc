@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why's that company so big? I could do that in a weekend
+:jbake-tags: startup,company,engineering,_mois_oct.,_année_2016
+:jbake-date: 2016-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1477317765000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdanluu.com%2Fsounds-easy%2F&searchtags=startup+company+engineering+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://danluu.com/sounds-easy/[Why's that company so big? I could do that in a weekend]
+
+Ca laisse songeur ...

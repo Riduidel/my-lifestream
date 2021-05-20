@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Children of Time
+:jbake-tags: serie
+:jbake-date: 2020-02-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Children_of_Time.adoc
+:jbake-source: https://www.goodreads.com/series/247630
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782072853296.html[Dans la toile du temps]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A game-changing Maven 2 plugin you absolutely must use | mojavelinux.com
+:jbake-tags: java,maven,plugin,_mois_janv.,_année_2010
+:jbake-date: 2010-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1264604666000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mojavelinux.com%2Fblog%2Farchives%2F2009%2F05%2Fa_gamechanging_maven_2_plugin_you_absolutely_must_use%2F&searchtags=java+maven+plugin+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.mojavelinux.com/blog/archives/2009/05/a_gamechanging_maven_2_plugin_you_absolutely_must_use/[A game-changing Maven 2 plugin you absolutely must use | mojavelinux.com]
+
+Sans doute la seule façon efficace d'utiliser maven dans un environnement de développement. Parce que sans ça, les temps de démarrage de 30 secondes sont vraiment intolérables.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Denise Yu on Twitter: "I know that most people would *probably* not refactor from kubectl to Helm like in this toy example (check out the docs!) 🙃 here's a visual explanation of how @HelmPack and charts work, with cats and @Drake… https://t.co/DxIoN1ZlWi"
+:jbake-tags: kubernetes,helm,documentation,poster,_mois_août,_année_2018
+:jbake-date: 2018-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1535097006000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdeniseyu21%2Fstatus%2F1032776212400226304&searchtags=kubernetes+helm+documentation+poster+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/deniseyu21/status/1032776212400226304[Denise Yu on Twitter: "I know that most people would *probably* not refactor from kubectl to Helm like in this toy example (check out the docs!) 🙃 here's a visual explanation of how @HelmPack and charts work, with cats and @Drake… https://t.co/DxIoN1ZlWi"]
+
+Une doc trop mignonne sur Helm

@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blake & Mortimer (Cinebook)
+:jbake-tags: serie
+:jbake-date: 2015-09-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Blake_&_Mortimer_(Cinebook).adoc
+:jbake-source: https://www.goodreads.com/series/84680
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782870970102.html[La Marque jaune (Blake et Mortimer, #6)]
+* link:../books/9782870970089.html[Le Mystère de la Grande Pyramide - 1 (Blake et Mortimer, #4)]
+* link:../books/9782870970096.html[Le Mystère de la Grande Pyramide - 2 (Black et Mortimer, #5)]
+* link:../books/9782870970157.html[S.O.S. Météores (Blake et Mortimer, #8)]
+* link:../books/9782870970256.html[L'Affaire du collier (Blake et Mortimer, #10)]
+* link:../books/9782870970133.html[L'Énigme de l'Atlantide (Blake et Mortimer, #7)]
+* link:../books/9782870970027.html[Le Secret de l'Espadon - 1 (Blake et Mortimer, #1)]
+* link:../books/9782870970041.html[Le Secret de l'Espadon - 2 (Blake et Mortimer, #2)]
+* link:../books/9782870970058.html[Le Secret de l'Espadon - 3 (Blake et Mortimer, #3)]
+* link:../books/9782870970201.html[Le Piège diabolique (Blake et Mortimer, #9)]
+* link:../books/9782870970164.html[Les 3 formules du professeur Satō - 1, (Blake et Mortimer, #11)]

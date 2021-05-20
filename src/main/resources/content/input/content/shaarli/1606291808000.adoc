@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Faites entrer le hackeur | IFTTD - If This Then Dev
+:jbake-tags: podcast,sécurité,programming,process,_mois_nov.,_année_2020
+:jbake-date: 2020-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1606291808000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fifttd.io%2Ffaites-entrer-le-hackeur%2F&searchtags=podcast+s%C3%A9curit%C3%A9+programming+process+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ifttd.io/faites-entrer-le-hackeur/[Faites entrer le hackeur | IFTTD - If This Then Dev]
+
+Avant de vous faire cracker par un pirate, écoutez cet épisode d'IFTTD, c'est vraiment super intéressant !

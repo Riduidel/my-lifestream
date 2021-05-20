@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: derailed/k9s: 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+:jbake-tags: kubernetes,shell,interaction,_mois_févr.,_année_2020
+:jbake-date: 2020-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1582618527000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fderailed%2Fk9s&searchtags=kubernetes+shell+interaction+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/derailed/k9s[derailed/k9s: 🐶 Kubernetes CLI To Manage Your Clusters In Style!]
+
+Mais pourquoi personne ne m'avait parlé de ça avant ? C'est vraiment le bon outil pour accéder à un cluster Kubernetes !

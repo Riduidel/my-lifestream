@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FoundationDB and Open Source Foundations | Chris Aniszczyk's (zx) diatribe
+:jbake-tags: open-source,software,politique,_mois_mars,_année_2015
+:jbake-date: 2015-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1427374212000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faniszczyk.org%2F2015%2F03%2F25%2Ffoundationdb-and-open-source-foundations%2F&searchtags=open-source+software+politique+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://aniszczyk.org/2015/03/25/foundationdb-and-open-source-foundations/[FoundationDB and Open Source Foundations | Chris Aniszczyk's (zx) diatribe]
+
+C'est bon de rappeler que le bon open-source n'est pas dirigé par une entreprise ...

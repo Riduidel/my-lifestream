@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevDocs - About
+:jbake-tags: web,documentation,application,javascript,_mois_juin,_année_2015
+:jbake-date: 2015-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1435582986000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdevdocs.io%2Fabout%23faq&searchtags=web+documentation+application+javascript+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://devdocs.io/about#faq[DevDocs - About]
+
+Chouette site de doc qui semble en plus utiliser les service workers pour être correct, même en offline

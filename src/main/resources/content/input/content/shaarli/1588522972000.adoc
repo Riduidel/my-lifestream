@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eager is Easy, Lazy is Labyrinthine - Javarevisited - Medium
+:jbake-tags: java,lazy,algorithme,optimisation,performance,_mois_mai,_année_2020
+:jbake-date: 2020-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1588522972000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fjavarevisited%2Feager-is-easy-lazy-is-labyrinthine-b12605f13048&searchtags=java+lazy+algorithme+optimisation+performance+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/javarevisited/eager-is-easy-lazy-is-labyrinthine-b12605f13048[Eager is Easy, Lazy is Labyrinthine - Javarevisited - Medium]
+
+Ah ça c'est sûr qu'écrire du code "lazy" est toujours plus compliqué, mais ça présente des avantages énormes en termes de performance CPU et d'occupation mémoire. Le vrai secret, c'est d'embarquer du code "simple" dans des modules de chargements lazy.

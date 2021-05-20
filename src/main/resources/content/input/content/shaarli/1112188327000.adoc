@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Programmers Stone
+:jbake-tags: software,programming,science,psychologie,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112188327000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.reciprocality.org%2FReciprocality%2Fr0%2F&searchtags=software+programming+science+psychologie+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.reciprocality.org/Reciprocality/r0/[The Programmers Stone]
+
+The purpose of this site is to recapture, explore and celebrate the Art of Computer Programming. By so doing we hope to help the reader either become a better programmer, understand what less experienced programmers are struggling with, or communicate mor

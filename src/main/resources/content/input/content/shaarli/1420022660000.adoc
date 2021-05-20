@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Appli piratée : Orange accusé d’être un peu trop inspiré - Libération
+:jbake-tags: justice,entreprise,_mois_déc.,_année_2014
+:jbake-date: 2014-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1420022660000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fecrans.liberation.fr%2Fecrans%2F2014%2F12%2F19%2Fappli-piratee-orange-accused-etre-un-peu-tropinspire_1167522&searchtags=justice+entreprise+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://ecrans.liberation.fr/ecrans/2014/12/19/appli-piratee-orange-accused-etre-un-peu-tropinspire_1167522[Appli piratée : Orange accusé d’être un peu trop inspiré - Libération]
+
+C'est la première fois que je vois une confirmation juridique du comportement prédateur des grands groupes français. Etonnez-vous après que les startups ne réussisent pas trop en France ...

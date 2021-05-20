@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sorttable: Make all your tables sortable
+:jbake-tags: web,javascript,library,programming,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112360009000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.kryogenix.org%2Fcode%2Fbrowser%2Fsorttable%2F&searchtags=web+javascript+library+programming+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.kryogenix.org/code/browser/sorttable/[sorttable: Make all your tables sortable]
+
+While the web design community gradually moves away from using tables to lay out the structure of a page, tables really do have a vital use, their original use; they're for laying out tabular data. For instance, imagine a table of employees.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'affaire Bluetouff ou : NON, on ne peut pas être condamné pour utiliser Gogleu - Journal d'un avocat
+:jbake-tags: sécurité,web,justice,_mois_févr.,_année_2014
+:jbake-date: 2014-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1392026178000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.maitre-eolas.fr%2Fpost%2F2014%2F02%2F07%2FNON%2C-on-ne-peut-pas-%25C3%25AAtre-condamn%25C3%25A9-pour-utiliser-Gougleu&searchtags=s%C3%A9curit%C3%A9+web+justice+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.maitre-eolas.fr/post/2014/02/07/NON,-on-ne-peut-pas-%C3%AAtre-condamn%C3%A9-pour-utiliser-Gougleu[L'affaire Bluetouff ou : NON, on ne peut pas être condamné pour utiliser Gogleu - Journal d'un avocat]
+
+J'ai entendu parler quinze fois de cette affaire. Et là, encore une fois, Eolas éclaire le tout d'une solide dose de vrai vocabulaire juridique. Ce que j'en retiens ? "Quand je vous dis que le droit au silence en garde à vue, ce n’est pas un gadget" Si Bluetouff s'était tu pendant sa garde à vue, il aurait été innocenté.

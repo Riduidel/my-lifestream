@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [Workflow numérique] Microsoft Photo Info, un outil bien sympathique
+:jbake-tags: photographie,exif,iptc,windows,software,freeware,explorer,plugin,_mois_sept.,_année_2008
+:jbake-date: 2008-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1222523404000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.aube-nature.com%2F%3F2007%2F01%2F24%2F94-test-photo-info&searchtags=photographie+exif+iptc+windows+software+freeware+explorer+plugin+_mois_sept.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://blog.aube-nature.com/?2007/01/24/94-test-photo-info[[Workflow numérique] Microsoft Photo Info, un outil bien sympathique]
+
+Un tutorial détaillé sur l'utilisation de Microsoft Photo info, qui est une version légèrement différente de pixvue

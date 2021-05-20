@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pourpre.com
+:jbake-tags: art,couleur,graphics,reference,documentation,webdesign,_mois_févr.,_année_2007
+:jbake-date: 2007-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1171696768000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpourpre.com%2F&searchtags=art+couleur+graphics+reference+documentation+webdesign+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://pourpre.com/[Pourpre.com]
+
+Un site sur la couleur, avec un nuancier (souvenez vous de la trilogie martienne, et de Sax Russell cherchant les noms des couleurs du ciel martien), un outil de création d'accords de couleurs, ...

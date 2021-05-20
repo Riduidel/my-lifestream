@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Church-Turing Thesis
+:jbake-tags: programming,documentation,concepts,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112190736000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fchurch-turing%2F&searchtags=programming+documentation+concepts+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://plato.stanford.edu/entries/church-turing/[The Church-Turing Thesis]
+
+There are various equivalent formulations of the Church-Turing thesis. A common one is that every effective computation can be carried out by a Turing machine. The Church-Turing thesis is often misunderstood, particularly in recent writing in the philosop

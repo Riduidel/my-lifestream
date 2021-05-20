@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: squidfingers / patterns
+:jbake-tags: web,background,pattern,_mois_janv.,_année_2005
+:jbake-date: 2005-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1105958490000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.squidfingers.com%2Fpatterns%2F&searchtags=web+background+pattern+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.squidfingers.com/patterns/[squidfingers / patterns]
+
+A site filled with tiny pixel patterns for use on your website

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Relatos del Nuevo Mundo
+:jbake-tags: serie
+:jbake-date: 2013-09-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Relatos_del_Nuevo_Mundo.adoc
+:jbake-source: https://www.goodreads.com/series/118498
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782908551570.html[La légende de Potosi]

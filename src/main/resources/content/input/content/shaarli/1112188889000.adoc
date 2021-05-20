@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Numerical Recipes in C
+:jbake-tags: software,documentation,algorithme,programming,concepts,ebook,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112188889000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.library.cornell.edu%2Fnr%2Fbookcpdf.html&searchtags=software+documentation+algorithme+programming+concepts+ebook+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.library.cornell.edu/nr/bookcpdf.html[Numerical Recipes in C]
+
+Thanks to special permission from Cambridge University Press, we are able to bring you the complete Numerical Recipes in C book On-Line! To utilize this resource, you will need an Adobe Acrobat viewer linked as a helper program to your web browser. Permis

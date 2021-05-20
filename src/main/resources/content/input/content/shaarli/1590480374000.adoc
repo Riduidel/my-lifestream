@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WorkAnywhere : enquête globale de satisfaction concernant le téltravail
+:jbake-tags: télétravail,sondage,france,entreprise,organisation,méthode,_mois_mai,_année_2020
+:jbake-date: 2020-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1590480374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchoosemycompany.com%2Fstock%2Fdocs%2Fworkanywhere-2020-global-2853-fr.pdf&searchtags=t%C3%A9l%C3%A9travail+sondage+france+entreprise+organisation+m%C3%A9thode+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://choosemycompany.com/stock/docs/workanywhere-2020-global-2853-fr.pdf[WorkAnywhere : enquête globale de satisfaction concernant le téltravail]
+
+L'enquête est très complète, et les résultats franchement intéressants.

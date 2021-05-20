@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Accent
+:jbake-tags: open-source,programming,i18n,_mois_avr.,_année_2018
+:jbake-date: 2018-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1525060051000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.accent.reviews%2F&searchtags=open-source+programming+i18n+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.accent.reviews/[Accent]
+
+Les outils d'i18n, c'est toujours intéressant ...

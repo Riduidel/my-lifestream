@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hottest Questions - Startups.com | Your Business. Your Questions.
+:jbake-tags: buisness,faq,support,for:mischler,_mois_nov.,_année_2009
+:jbake-date: 2009-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1258019368000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstartups.com%2Fquestions&searchtags=buisness+faq+support+for%3Amischler+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://startups.com/questions[Hottest Questions - Startups.com | Your Business. Your Questions.]
+
+Les mecs de StackOverflow (un excellent site de support technique pour développeurs) sont en train de conquérir le monde un domaine à la fois; Cette fois-ci, ils se lancent dans l'aide aux entrepreneurs ...

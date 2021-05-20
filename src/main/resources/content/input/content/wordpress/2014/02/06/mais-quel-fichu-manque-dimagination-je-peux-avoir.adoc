@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais quel fichu manque d'imagination je peux avoir !
+:jbake-tags: keepass,mavie,sécurité,web,_mois_févr.,_année_2014
+:jbake-date: 2014-02-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/02/06/mais-quel-fichu-manque-dimagination-je-peux-avoir.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/02/06/mais-quel-fichu-manque-dimagination-je-peux-avoir/
+:jbake-style: wordpress
+
+++++
+<p>
+Quand j'ai commencé à fréquenter les recoins sombres d'internet, je n'y connaissais rien en sécurité. J'avais donc, comme tout le monde, un unique mot de passe d'à peine huit caractères (dont un chiffre, heureusement).
+</p>
+<p>
+Et puis j'ai peu à peu compris qu'un seul mot de passe pour tous les sites, c'était à peu près utile qu'aucun mot de passe. Hélas, si j'utilisais plusieurs mots de passe, comment me souvenir de quel mot de passe était utilisé pour quel site ? Et c'est là que j'ai découvert l'excellent <a href="http://keepass.info">Keepass</a>. C'est donc tout naturellement que j'y ai stocké tous mes mots de passe, protégés par un mot de passe maître d'une longueur ... insolente.
+</p>
+<p>
+Hélas, cette phrase pouvait facilement être retrouvée sur le web, puisqu'il s'agissait de l'une de mes signatures mail/usenet (d'ailleurs, c'est à nouveau, après des errances diverses, ma signature mail/usenet).
+</p>
+<p>
+Or j'ai découvert <a href="http://sebsauvage.net/links/?9lc3sA">récemment </a>les progrès dans les tables d'attaque utilisées par les pirates divers et variés, et donc par les gouvernements qui les emploient. Ce qui m'a poussé, naturellement, à changer ce mot de passe.
+</p>
+<p>
+Et je dois dire que c'est un changement franchement flippant. Ce mot de passe, c'est, grâce à Keepass, le seul que je connaisse. Il est certes long, mais il est unique et bien ancré dans ma mémoire. Du coup, le changer, ça me fait flipper. Parce que si je le perds, je perds absolument tout : plus d'accès à mes mails, ni à tous les sites web auxquels j'ai pu me connecter.
+</p>
+<p>
+Je crois qu'il est enfin temps pour moi de passer, pour certains services critiques, à <a href="http://fr.wikipedia.org/wiki/Authentification_forte#Pourquoi_l.27authentification_forte_et_l.27authentification_.C3.A0_deux-facteurs.3F">l'authentification à deux facteurs </a>... Ou plutôt à une forme spécifique de celle-ci pour Keepass.
+</p>
+<p>
+N'empêche, j'ai tellement peur de perdre ce mot de passe que je me demande si je ne vais pas le noter dans un coin secret ...
+</p>
+++++

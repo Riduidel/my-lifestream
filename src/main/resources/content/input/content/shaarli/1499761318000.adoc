@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Detect security problems at compile time – Hackeriet
+:jbake-tags: maven,programming,sécurité,java,_mois_juil.,_année_2017
+:jbake-date: 2017-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1499761318000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.hackeriet.no%2Fdetect-security-holes-during-build%2F&searchtags=maven+programming+s%C3%A9curit%C3%A9+java+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.hackeriet.no/detect-security-holes-during-build/[Detect security problems at compile time – Hackeriet]
+
+Chouette : un analyseur de failles dans le build maven !

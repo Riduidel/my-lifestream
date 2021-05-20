@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Use a HTML file as an entry point? · Issue #536 · webpack/webpack
+:jbake-tags: javascript,bug,build,_mois_août,_année_2017
+:jbake-date: 2017-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1503929687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fwebpack%2Fwebpack%2Fissues%2F536&searchtags=javascript+bug+build+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/webpack/webpack/issues/536[Use a HTML file as an entry point? · Issue #536 · webpack/webpack]
+
+Hacker du Javascript, avant tout, c'est prendre de la drogue. Là, webpack est incapable d'utiliser comme point d'entrée de son graphe de dépendance un fichier html ....

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: pro-grade library
+:jbake-tags: java,manager,open-source,sécurité,library,_mois_janv.,_année_2017
+:jbake-date: 2017-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1485148976000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpro-grade.sourceforge.net%2F&searchtags=java+manager+open-source+s%C3%A9curit%C3%A9+library+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://pro-grade.sourceforge.net/[pro-grade library]
+
+Wow, un SecurityManager open-source améliorant celui de Sun (pardon, oracle)

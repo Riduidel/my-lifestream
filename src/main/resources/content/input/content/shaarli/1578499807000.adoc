@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Frédéric Camblor‏ sur Twitter : "QA: "Un des trucs les plus fondamentaux qui a été inventé dans ces 10 dernières années et qui va tout changer c'est Rust. Ce qui se passe c'est que C/C++ c'est du code patrimonial qui a été inventé dans les années 70 et pensé pour du monothread. ⬇️… https://t.co/HTPgEV1T2H"
+:jbake-tags: rust,citation,prédiction,innovation,programming,langage,_mois_janv.,_année_2020
+:jbake-date: 2020-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1578499807000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffcamblor%2Fstatuses%2F1214589556802146307&searchtags=rust+citation+pr%C3%A9diction+innovation+programming+langage+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/fcamblor/statuses/1214589556802146307[Frédéric Camblor‏ sur Twitter : "QA: "Un des trucs les plus fondamentaux qui a été inventé dans ces 10 dernières années et qui va tout changer c'est Rust. Ce qui se passe c'est que C/C++ c'est du code patrimonial qui a été inventé dans les années 70 et pensé pour du monothread. ⬇️… https://t.co/HTPgEV1T2H"]
+
+Sur le papier, c'est vrai. Dans la réalité .... il existe un ensemble de forces qui poussent les entreprises à croire que Rust est moins utile que "d'autres langages". Alors que les garanties offertes par ce langage sont positivement dingues.

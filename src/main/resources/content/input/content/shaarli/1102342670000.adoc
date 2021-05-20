@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: :: w.bloggar ::
+:jbake-tags: client,freeware,software,windows,blog,_mois_déc.,_année_2004
+:jbake-date: 2004-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1102342670000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wbloggar.com%2F&searchtags=client+freeware+software+windows+blog+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.wbloggar.com/[:: w.bloggar ::]
+
+The w.bloggar is an application that targets to be an interface between the user and his blog(s), in other words, is a Post and Template editor, with serveral features and resources that the browser based blog editors can not offer.

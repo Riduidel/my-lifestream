@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MacFusion | The GUI for MacFUSE
+:jbake-tags: macosx,réseau,software,tool,_mois_mai,_année_2007
+:jbake-date: 2007-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1178096197000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sccs.swarthmore.edu%2Fusers%2F08%2Fmgorbach%2FMacFusionWeb%2Findex.html&searchtags=macosx+r%C3%A9seau+software+tool+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.sccs.swarthmore.edu/users/08/mgorbach/MacFusionWeb/index.html[MacFusion | The GUI for MacFUSE]
+
+Tout est dit : une interface graphique pour MacFuse

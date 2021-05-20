@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Abyme (Abyme #1-2)
+:jbake-tags:  broc, palais, rayon-imaginaire, ville,_année_2003,_mois_sept.,_note_3,fantasy,read
+:jbake-date: 2003-09-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290328279.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1944275
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+« La créature me salue puis, d'une voix familière, déclare : <i>Fais-moi visiter cette ville. Je viens pour la première fois.</i> » À l'ouest des Royaumes Crépusculaires se dresse Abyme, cité baroque et décadente. Maspalio, farfadet astucieux et ancien prince-voleur est engagé pour retrouver un démon Opalin. Sillonnant les canaux, les abysses et les palais, il y rencontre : les Gros, caste d'obèses qui règnent sans bouger ; les décadents qui absorbent l'âme de la cité ; mages, ogres, salanistres et méduses... Mais quand un meurtre est commis, la vie de Maspalio est menacée et l'enquête se complique... Dans ce dédale cosmopolite, qui est suspect, qui est coupable ? Et qui sait ce qui se cache dans les ombres d'Abyme ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/279191.html[Mathieu Gaborit]
+
+## Series
+* link:../series/Abyme.html[Abyme]
+* link:../series/Les_Chroniques_des_Crepusculaires.html[Les Chroniques des Crépusculaires]
+
+## Review
+
+++++
+<h4>Avis lisible</h4><br/>Ce roman nous raconte les aventures de Maspalio, ancien prince voleur reconverti en conjurateur de démons et, accessoirement, farfadet habitant d’Abyme. Celui-ci va devoir partir à la recherche d’un démon dont la découverte ne fera que lui occasioner plus de problèmes. Mais, honnêtement, on s’en doutait un peu, vu le style de roman. En effet, Abyme est l’oeuvre de l’un de ceux qui furent appelés à un moment (pas par moi, en tout cas), la nouvelle vague de la fantasy française. Et effectivement, nouvelle vague il y a. <a class="DirectAuthorReference destination_Author" href="../authors/279191.html">Mathieu Gaborit</a> a une écriture très fluide, un style à la limite de la préciosité, je trouve (alors même que son langage est très simple et très clair) qui permet au lecteur de bien mieux plonger dans l’intrigue. Evidement, ce style me rappelle (un peu) celui des link:9782842614188.html[<strike>Confessions d’un automate mangeur d’opium</strike> Confessions d'un automate mangeur d'opium], mais, surtout, celui de <a class="DirectBookReference destination_Book" href="9782070418350.html">La Voie du Cygne</a>, de <a class="DirectAuthorReference destination_Author" href="../authors/1529258.html">Laurent Kloetzer</a>. Il ne s’agit en fait pas seulement du style, mais de l’ambiance, commune à ces deux romans. On est dans les deux cas dans des villes assez spéciales, bien que n’ayant rien à voir, et, dans ces fantas(y/i)es urbaines, la ville prend le caractère d’un personnage très important. C’est d’autant plus sensible, dans Abyme, que l’auteur n’hésite pas à faire intervenir sa ville pour modifier le cours des événements. Et la ville n’est pas qu’un caractère, elle est aussi une espèce de Venise à l’américaine, quadrillée de canaux où se passe une bonne part de l’action. C’est également une certaine forme de mise en abyme du monde, puisque s’y rassemblent tous les ambassadeurs. Et c’est enfin, d’après ce que j’ai pu en voir, le bord de l’abîme, vers les régions inférieures où vivent les démons. <br/><br/>Bref, un décor diablement sdéuisant, qui est aussi exploité dans un jeu de rôle, ce que je peux parfaitement comprendre. Mais la ville n’est pas le seul intérêt de ce roman. on y trouve aussi un personnage principal assez attachant, représentant très bien, je trouve l’archétype du voleur : petit, mince, connaissant sa ville comme sa poche, mais également très fourni en relations dans tous les milieux, Maspalio gagne très vite le lecteur à sa cause. En fait, celui-ci est séduit dès la première scène où commence également à se révéler le caractère inquiétant de la vie en Abyme. Tout cela est bien, mais l’intrigue l’est également, par ce qu’elle révèle du monde et des désirs de chacune des parties. Pourtant, bien des choses me troublent dans ce roman. <br/><h4>Avis avec des gros, gros spoiler</h4><br/>D’abord, la conclusion de l’intrigue est, à mon sens, bâclée : lorsque le double de Maspalio se fait attaquer par les deux créatures mange-pierre, on se dit que, vraiment, l’auteur aurait pu trouver mieux, alors même que le reste du roman avait été fort bien ficelé. Il y a cependant quelques autres grosses ficelles, comme son évasion du palais d’acier, ou sa manière de se réfugier derrière un gros. <br/><h4>Conclusion</h4><br/>Au final, c’est un roman qui se laisse lire, que j’ai même trouvé pour ma part très sympathique, mais qui ne laissera probablement pas un souvenir impérissable.
+++++

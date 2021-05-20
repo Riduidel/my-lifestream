@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zodiac
+:jbake-tags:  politique, pollution, rayon-imaginaire, rock-n-roll, science, ville,_année_2006,_mois_août,_note_4,read,écologie
+:jbake-date: 2006-08-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070336913.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556810003l/1689480._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556810003l/1689480._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1689480
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Boston est le théâtre d'une affaire pour le moins nauséabonde de crustacés empoisonnés, impliquant pêle-mêle la mafia locale, des adeptes de heavy metal satanistes et tout un tas de produits polluants peu recommandables, psychotropes ou non. Heureusement, Sangamon Taylor, chimiste de génie au look grunge, écologiste engagé - pensez, il utilise un ordinateur dont les émanations sont un million de fois moins nocives que celles d'un appartement repeint de frais -, est sur le coup. C'est à bord de son Zodiac et armé d'un chromatographe à cinq mille dollars qu'il lutte contre la délinquance pétrochimique. Laissez-vous entraîner par l'auteur du monumental Cryptonomicon dans un thriller écologique rieu moins que jubilatoire.
+</div>
+++++
+
+
+## Authors
+* link:../authors/10480.html[Jean-Pierre Pugi]
+* link:../authors/545.html[Neal Stephenson]
+
+
+
+## Review
+
+++++
+Avant toute chose, je me dois de prévenir le lecteur innocent que, même si <a class="DirectAuthorReference destination_Author" href="../authors/545.html">Neal Stephenson</a> est à mon sens l’un des plus grands auteurs de Science-fiction, ce roman n’a aucunement sa place dans une collection de science-fiction, qu’elle soit éditoriale ou bibliophile. Bon, maintenant, je ne suis pas éditeur, et il y a peut-être un secret que <a class="DirectAuthorReference destination_Author" href="../authors/12534.html">Larry Niven</a> aura la bonté de me révéler. Toujours est-il qu’on peut considérer ce roman comme un bon techno-thriller écologique, ou autre chose, mais pas comme de la SF de mon point de vue. Cette précaution prise, passons à l'avis. <br/>On suit dans ce roman les traces d’un éco-guerrier, pendant américain de nos faucheurs en liberté (1), personnage complètement rock’n’roll et chimiste à ses heures. Ce brave bonhomme a décidé un beau jour de combattre la pollution chimique à Boston, et en premier lieu les gros industriels bien gras qui marchent gaiement sur le droit environemental (parce qu’il y en a un outre-Atlantique, oui monsieur). Bien sûr, à force de chercher, on trouve, et notre héros découvre plusieurs méfaits d’importance, et a au moins une fois l’occasion de sauver le monde, face à une menace qui m’a bizarrement rappelé <a class="DirectBookReference destination_Book" href="9782070316434.html">La Musique du sang</a>. Le tout se terminant dans une ambiance franchement hard-rock (2) et un bazar digne des meilleures productions de <a class="DirectAuthorReference destination_Author" href="../authors/848604.html">Catherine Dufour</a>. Vous vous en doutez, ça m’a plu. Ca m’a plu avant tout parce que je suis fan du style de l’auteur, aussi bien dans ces romans que dans son histoire de l’informatique (3). Ca m’a aussi plu car le thème du combat écologiste m’intéresse d’autant plus qu’en France, on a essentiellement droit de ce côté-là à un Asterix ridicule et à un parti … euh, comment dire … politique digne des monty pythons. Oh, et puis ça suffit non. je sui fan de Neal Stephenson, ce bouquin est de lui, il me plaît, quand bien même ca n’est pas de la SF, et la vie est belle.<br/><br/>(1) Quoi qu’en fait non, pas du tout<br/>(2) Les anciens frassiens se souviendront que je suis particulièrement fan de ces groupes qui sautillent sur scène, juste vétus d’un pagne en peau de bête, en poussant des beuglements apocalyptiques et en faisant l’amour à leur guitare d’une façon très SM (à peu près comme le morceau de Manowar que j’écoute en ce moment).<br/>(3) <a href="http://www.cryptonomicon.com/beginning.html">In the beginning was the command line</a>
+++++

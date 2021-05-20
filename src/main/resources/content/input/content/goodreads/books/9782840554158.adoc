@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arcanes, Tome 2:  La Dame De Prague
+:jbake-tags:  complot, fantastique, rayon-bd, voyage,_année_2012,_mois_mai,_note_3,rayon-emprunt,read
+:jbake-date: 2012-05-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840554158.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/979205
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Au cours d'une opération commando extrêmement bien montée, le meilleur cartier de l'agence est assassiné. Stargate risque d'être rapidement à court de jeux... Walter Duncan est envoyé en mission pour reprendre contact avec la Dame de Prague, une joueuse indépendante qui semble être la seule à pouvoir fournir à l'agence un nouveau cartier.
+</div>
+++++
+
+
+## Authors
+* link:../authors/5621260.html[Jean-Pierre Pécau]
+* link:../authors/493723.html[Roland Pignault]
+
+## Series
+* link:../series/Arcanes.html[Arcanes]
+
+## Review
+
+++++
+Je ne comprend toujours pas le fond de l'histoire, mais le récit est bourré d'action, et bien sympathique.
+++++

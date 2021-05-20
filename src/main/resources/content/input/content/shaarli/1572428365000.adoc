@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Susan Potter sur Twitter : "We need to have a serious chat about text-based diagramming. I've used: - ditaa for shape diagrams - plantuml for UML (forgive me) - dot for graphs - troff to generate box diagrams - cowsay for fun - figlet for calls to action (haters gonna hate) What else should I know?"
+:jbake-tags: diagram,schéma,générateur,texte,_mois_oct.,_année_2019
+:jbake-date: 2019-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1572428365000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSusanPotter%2Fstatus%2F1189165775275331584&searchtags=diagram+sch%C3%A9ma+g%C3%A9n%C3%A9rateur+texte+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/SusanPotter/status/1189165775275331584[Susan Potter sur Twitter : "We need to have a serious chat about text-based diagramming. I've used: - ditaa for shape diagrams - plantuml for UML (forgive me) - dot for graphs - troff to generate box diagrams - cowsay for fun - figlet for calls to action (haters gonna hate) What else should I know?"]
+
+Une super liste d'outils de générations de diagramme à partir de texte (ce qui est la seule bonne façon de faire des diagrammes)

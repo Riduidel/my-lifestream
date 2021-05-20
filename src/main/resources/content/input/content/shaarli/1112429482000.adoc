@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ClamWin Free Antivirus. GNU GPL Free Software Open Source Virus Scanner. Free Windows Antivirus. Stay Virus Free with Free Software.
+:jbake-tags: software,freeware,open-source,windows,antivirus,system,_mois_avr.,_année_2005
+:jbake-date: 2005-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1112429482000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.clamwin.com%2F&searchtags=software+freeware+open-source+windows+antivirus+system+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.clamwin.com/[ClamWin Free Antivirus. GNU GPL Free Software Open Source Virus Scanner. Free Windows Antivirus. Stay Virus Free with Free Software.]
+
+ClamWin is a Free Antivirus for Microsoft Windows 98/Me/2000/XP/2003. It provides a graphical user interface to the Clam AntiVirus engine.

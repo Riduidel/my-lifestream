@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Firebug - Web Development Evolved
+:jbake-tags: code,css,debug,développement,Firefox,open-source,programming,qualité,javascript,html,software,standard,tool,webdesign,_mois_déc.,_année_2006
+:jbake-date: 2006-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1165487837000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.getfirebug.com%2F&searchtags=code+css+debug+d%C3%A9veloppement+Firefox+open-source+programming+qualit%C3%A9+javascript+html+software+standard+tool+webdesign+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.getfirebug.com/[Firebug - Web Development Evolved]
+
+Une extension Firefox pour faire du super debugging web. A priori, elle a l'air bien plus puissante que Web developper

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven - Password Encryption
+:jbake-tags: maven,sécurité,password,_mois_avr.,_année_2014
+:jbake-date: 2014-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1397807358000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmaven.apache.org%2Fguides%2Fmini%2Fguide-encryption.html&searchtags=maven+s%C3%A9curit%C3%A9+password+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://maven.apache.org/guides/mini/guide-encryption.html[Maven - Password Encryption]
+
+J'ai des collègues qui ont utilisé cette manoeuvre pour ne pas avoir leurs mots de passe en clair dans le settings.xml et, manifestement, il est temps que je m'y mette.

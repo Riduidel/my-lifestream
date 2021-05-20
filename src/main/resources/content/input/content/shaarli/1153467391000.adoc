@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TaskSwitchXP - famous alt-tab manager - NTWind Software
+:jbake-tags: software,gui,tool,windows,XP,freeware,system,@toinstall,_mois_juil.,_année_2006
+:jbake-date: 2006-07-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1153467391000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ntwind.com%2Fsoftware%2Ftaskswitchxp.html&searchtags=software+gui+tool+windows+XP+freeware+system+%40toinstall+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.ntwind.com/software/taskswitchxp.html[TaskSwitchXP - famous alt-tab manager - NTWind Software]
+
+Une alternative à l'écran présenté lors du ALT-TAB. Ca vous change la vie, ce genre de petites choses !

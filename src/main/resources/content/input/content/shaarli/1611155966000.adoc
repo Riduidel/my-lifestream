@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ten Rules for Good Code - Hintjens.com
+:jbake-tags: programming,principe,simple,_mois_janv.,_année_2021
+:jbake-date: 2021-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1611155966000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhintjens.com%2Fblog%3A96&searchtags=programming+principe+simple+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://hintjens.com/blog:96[Ten Rules for Good Code - Hintjens.com]
+
+D'autres principes intéressants. J'aime en particulier le "use your own work" qui est précisément ce que je fais pour mes projets open-source

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Announcing Rust 1.32.0 | Rust Blog
+:jbake-tags: rust,programming,langage,debug,_mois_janv.,_année_2019
+:jbake-date: 2019-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1547798434000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.rust-lang.org%2F2019%2F01%2F17%2FRust-1.32.0.html&searchtags=rust+programming+langage+debug+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.rust-lang.org/2019/01/17/Rust-1.32.0.html[Announcing Rust 1.32.0 | Rust Blog]
+
+La nouvelle macro dbg! est exactement utile. C'est une super idée (et si je ne dis pas que tous les langages devraient avoir la même ... je le pense quand même).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Learn more programming languages, even if you won't use them - Thorsten Ball
+:jbake-tags: programming,langage,culture,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555434113000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthorstenball.com%2Fblog%2F2019%2F04%2F09%2Flearn-more-programming-languages%2F&searchtags=programming+langage+culture+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://thorstenball.com/blog/2019/04/09/learn-more-programming-languages/[Learn more programming languages, even if you won't use them - Thorsten Ball]
+
+C'est précisément l'argument que j'ai utilisé quand j'ai présenté Rust à mes collègues l'automne dernier

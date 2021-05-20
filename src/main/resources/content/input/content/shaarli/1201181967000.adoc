@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Teewars
+:jbake-tags: fps,fun,jeu,open-source,software,windows,linux,macosx,_mois_janv.,_année_2008
+:jbake-date: 2008-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1201181967000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.teewars.com%2F&searchtags=fps+fun+jeu+open-source+software+windows+linux+macosx+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.teewars.com/[Teewars]
+
+Un FPS en 2D, sans doute comparable à Soldat, mais vraiment open-source, alors que Soldat n'est que gratuit.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: ""Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes." - Harlan Mills https://t.co/34JX6t6Tf3"
+:jbake-tags: citation,programming,planning,_mois_juil.,_année_2017
+:jbake-date: 2017-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1499066790000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F880405871590866945&searchtags=citation+programming+planning+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/880405871590866945[Mario Fusco on Twitter: ""Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes." - Harlan Mills https://t.co/34JX6t6Tf3"]
+
+Et du coup, comme au golf, il vaut mieux réfléchir avant d'agir ...

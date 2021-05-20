@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Four strategies to design Vertx applications - Yuri Mednikov
+:jbake-tags: architecture,java,vertx,_mois_sept.,_année_2019
+:jbake-date: 2019-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1569688185000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.mednikov.net%2Fvertx-app-strategies%2F&searchtags=architecture+java+vertx+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.mednikov.net/vertx-app-strategies/[Four strategies to design Vertx applications - Yuri Mednikov]
+
+Je relirai ça quand je referai du Vert.x (ben oui, ça arrivera à nouveau)

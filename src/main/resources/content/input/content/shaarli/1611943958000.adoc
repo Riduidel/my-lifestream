@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software development topics I've changed my mind on after 6 years in the industry - Blogomatano
+:jbake-tags: programming,software,architecture,réflexion,évolution,@toblog,_mois_janv.,_année_2021
+:jbake-date: 2021-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1611943958000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchriskiehl.com%2Farticle%2Fthoughts-after-6-years&searchtags=programming+software+architecture+r%C3%A9flexion+%C3%A9volution+%40toblog+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://chriskiehl.com/article/thoughts-after-6-years[Software development topics I've changed my mind on after 6 years in the industry - Blogomatano]
+
+Il me prend l'envie de prendre des éléments dans cette liste et d'en faire des articles sur mon blog ...

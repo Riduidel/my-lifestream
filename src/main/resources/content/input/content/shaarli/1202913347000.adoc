@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Rasterbator 1.2 at arje.net
+:jbake-tags: art,freeware,photographie,poster,printing,software,wallpaper,windows,_mois_févr.,_année_2008
+:jbake-date: 2008-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1202913347000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farje.net%2Frasterbator&searchtags=art+freeware+photographie+poster+printing+software+wallpaper+windows+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://arje.net/rasterbator[The Rasterbator 1.2 at arje.net]
+
+Une application pour agrandir terriblement n'importe quelle photo. Bien sûr, on perd en résolution, mais bon, c'est pas si grave, hein !

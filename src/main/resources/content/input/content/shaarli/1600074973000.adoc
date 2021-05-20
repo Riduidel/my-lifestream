@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apache Maven & Continuous Delivery/Deployment - The DevOptics team's approach
+:jbake-tags: maven,jenkins,build,release,devops,_mois_sept.,_année_2020
+:jbake-date: 2020-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1600074973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.cloudbees.com%2Fblog%2Fapache-maven-continuous-deliverydeployment-devoptics-teams-approach&searchtags=maven+jenkins+build+release+devops+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.cloudbees.com/blog/apache-maven-continuous-deliverydeployment-devoptics-teams-approach[Apache Maven & Continuous Delivery/Deployment - The DevOptics team's approach]
+
+C'est une façon vraiment satisfaisante d'adapter le processus de build de maven à l'ère du déploiement continu. Il faut juste que je jette un oeil à cette histoire de détermination du numéro de version ...

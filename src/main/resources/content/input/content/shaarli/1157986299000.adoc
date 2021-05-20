@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GTDGmail - The Firefox Extension that Combines Gmail with Getting Things Done - home
+:jbake-tags: freeware,gmail,gtd,hack,management,email,plugin,productivité,web,_mois_sept.,_année_2006
+:jbake-date: 2006-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1157986299000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gtdgmail.com%2F&searchtags=freeware+gmail+gtd+hack+management+email+plugin+productivit%C3%A9+web+_mois_sept.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.gtdgmail.com/[GTDGmail - The Firefox Extension that Combines Gmail with Getting Things Done - home]
+
+Une extension Firefox pour utiliser GMail avec la méthode GTD. Différentes questions rbesten,t ouvertes : ça marche avec Camino ? Est-ce qu'on peut encore utiliser le compte gmail pour lire ses mails ?

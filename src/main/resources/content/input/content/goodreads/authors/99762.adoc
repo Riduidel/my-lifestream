@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christian Gossett
+:jbake-tags: author
+:jbake-date: 2013-09-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/99762.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1400004776p5/99762.jpg
+:jbake-source: https://www.goodreads.com/author/show/99762
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782914082563.html[The Red Star. Tome 1]
+* link:../books/9782914082914.html[The red star, tome 2]

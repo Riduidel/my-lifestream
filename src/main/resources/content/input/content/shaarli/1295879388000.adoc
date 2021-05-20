@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WizardRSS | Full Text RSS Feeds
+:jbake-tags: rss,tool,générateur,_mois_janv.,_année_2011
+:jbake-date: 2011-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1295879388000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wizardrss.com%2F&searchtags=rss+tool+g%C3%A9n%C3%A9rateur+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.wizardrss.com/[WizardRSS | Full Text RSS Feeds]
+
+Un outil web d'extraction du contenu complet d'une page, pour transformer un flux partiel (avec juste le premier paragraphe) en un flux complet (avec tous les articles). Par exemple, ça me permettra enfin de lire tranquillement les 400 culs.

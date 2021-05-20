@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fat fingers correction in Groovy
+:jbake-tags: groovy,programming,trick,_mois_sept.,_année_2014
+:jbake-date: 2014-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1411720913000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Fmelix%2F5bc7c5db7ab986924181&searchtags=groovy+programming+trick+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://gist.github.com/melix/5bc7c5db7ab986924181[Fat fingers correction in Groovy]
+
+OK, les dévs Groovy sont des grands malades : on peut coder en faisant des fautes :-o Et juste pour être encore plus dingue, ça utilise la distance de Levenshtein ... OH YEAH.

@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quoi de neuf, Docteur Moustache ? (Tu mourras moins bête, #2)
+:jbake-tags:  corps, science,_année_2012,_mois_oct.,_note_5,rayon-bd,read
+:jbake-date: 2012-10-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782359102932.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358186857l/16042492._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1358186857l/16042492._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/16042492
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Après avoir brillamment démystifié la science au cinéma, Marion Montaigne s'attaque à... votre corps! Si vous croyez que l'apoptose est une maladie des pieds ou si vous pensez que le "stade anal" est un lieu de concert de 100'000 personnes, alors ce livre est fait pour vous! <br />Grâce à son programme "cinq rires et légumes par jour", la Professeure Moustache vous promet un esprit sain dans un cornichon !
+</div>
+++++
+
+
+## Authors
+* link:../authors/1315690.html[Marion Montaigne]
+
+## Series
+* link:../series/Tu_mourras_moins_bete__.html[Tu mourras moins bête *]
+
+## Review
+
+++++
+Le professeur Moustache se démène comme un beau diable pour nous faire pénétrer dans les secrets du corps humain, et ça continue à marcher vachement bien pour moi.<br/>On retrouve dans cette oeuvre un peu de la poésie scientifique d'un Anselme Lanturlu, et beaucoup, mais alors beaucoup plus d'humour et de dérision. La science n'est ici plus un truc dont il faut forcément parler sérieusement, mais un monde à découvrir, rempli de savants fous (mais comiques) et de virus mortels (mais rigolos quand même).
+++++

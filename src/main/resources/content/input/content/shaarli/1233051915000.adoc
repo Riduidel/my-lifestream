@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Audiograbber ripper de CD pour Windows 95 / 98 / ME / NT / 2000 / XP / 2003
+:jbake-tags: software,freeware,windows,musique,mp3,_mois_janv.,_année_2009
+:jbake-date: 2009-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1233051915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faudiograbber.2037.org%2F&searchtags=software+freeware+windows+musique+mp3+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://audiograbber.2037.org/[Audiograbber ripper de CD pour Windows 95 / 98 / ME / NT / 2000 / XP / 2003]
+
+Un ripper de cd audio, apparement simple et bien foutu .. Il fait à priori les trucs simples dont j'aurais besoin pour reconstituer ma bibliothèque. Bon, en fait, l'ai l'impression qu'il est limité en termes de capacités d'encodage. Ou alors je n'ai pas compris comment configurer la partie encodage MP3 dedans...

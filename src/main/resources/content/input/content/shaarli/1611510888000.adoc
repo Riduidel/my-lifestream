@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Présentation de C# - Tutoriels interactifs | Microsoft Docs
+:jbake-tags: c#,tutorial,web,programming,microsoft,langage,_mois_janv.,_année_2021
+:jbake-date: 2021-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1611510888000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.microsoft.com%2Ffr-fr%2Fdotnet%2Fcsharp%2Ftutorials%2Fintro-to-csharp%2F&searchtags=c%23+tutorial+web+programming+microsoft+langage+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://docs.microsoft.com/fr-fr/dotnet/csharp/tutorials/intro-to-csharp/[Présentation de C# - Tutoriels interactifs | Microsoft Docs]
+
+Si vous devez apprendre C\#, Microsoft a un très bon site pour débutants

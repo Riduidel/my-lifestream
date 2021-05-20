@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PIT Mutation Testing
+:jbake-tags: programming,qualité,test,_mois_oct.,_année_2014
+:jbake-date: 2014-10-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1414422069000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpitest.org%2F&searchtags=programming+qualit%C3%A9+test+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://pitest.org/[PIT Mutation Testing]
+
+J'ai toujours pensé que ce genre d'outils de test était un complément indispensable à JUnit, même si parfois difficile à faire entrer dans le build.

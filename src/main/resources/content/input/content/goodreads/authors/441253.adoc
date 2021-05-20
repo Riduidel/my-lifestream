@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alain Dorémieux
+:jbake-tags: author
+:jbake-date: 2002-08-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/441253.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1351432075p5/441253.jpg
+:jbake-source: https://www.goodreads.com/author/show/441253
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070415625.html[Martiens, go home !]
+* link:../books/9782207305188.html[L'Appel des ténèbres]
+* link:../books/9782277116332.html[Ubik]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.
+:jbake-tags: programming,certificat,https,_mois_juin,_année_2018
+:jbake-date: 2018-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1530256563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FFiloSottile%2Fmkcert&searchtags=programming+certificat+https+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/FiloSottile/mkcert[FiloSottile/mkcert: A simple zero-config tool to make locally-trusted development certificates with any names you'd like.]
+
+Très chouette idée ... et très pratique pour avoir des certificats "qui vont bien"

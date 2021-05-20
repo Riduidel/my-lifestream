@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DOM Events
+:jbake-tags: javascript,événement,visualisation,web,browser,_mois_mai,_année_2021
+:jbake-date: 2021-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1621409787000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdomevents.dev%2F&searchtags=javascript+%C3%A9v%C3%A9nement+visualisation+web+browser+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://domevents.dev/[DOM Events]
+
+Une jolie visualisation des événements DOM. Il manque juste (ou je ne l'ai pas trouvé) un lien avec le code Javascript correspondant.

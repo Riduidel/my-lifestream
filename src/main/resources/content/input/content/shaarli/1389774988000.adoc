@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSS: User Agent Selectors — Rog.ie
+:jbake-tags: web,css,javascript,browser,detection,_mois_janv.,_année_2014
+:jbake-date: 2014-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1389774988000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frog.ie%2Fblog%2Fhtml5-boilerplate-addon&searchtags=web+css+javascript+browser+detection+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://rog.ie/blog/html5-boilerplate-addon[CSS: User Agent Selectors — Rog.ie]
+
+Très chouette façon de détecter sur quel navigateur, et dans quel environement, une page HTML s'affiche. C'est surtout pratique pour appliquer des hacks spécifiques à certains navigateurs, mais d'autres usages sont évidement possibles. via http://sebsauvage.net/links/?ps6Mhg

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rand Fishkin sur Twitter : "For only the second time (that I can recall), I've had a confirmed talk cancelled due to my slides being heavily critical of Google & Facebook. I won't out the organizer, but I thought I'd share the offending slides here. https://t.co/tk1p31Ldv8" / Twitter
+:jbake-tags: google,facebook,critique,marketing,web,psychologie,_mois_mai,_année_2021
+:jbake-date: 2021-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1620716262000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frandfish%2Fstatus%2F1389279726305353730&searchtags=google+facebook+critique+marketing+web+psychologie+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/randfish/status/1389279726305353730[Rand Fishkin sur Twitter : "For only the second time (that I can recall), I've had a confirmed talk cancelled due to my slides being heavily critical of Google & Facebook. I won't out the organizer, but I thought I'd share the offending slides here. https://t.co/tk1p31Ldv8" / Twitter]
+
+Il faudra un jour parler des phénomènes de cour dans le monde technologique :l'organisateur de la conférence annule la présentation de cet homme parce que le message concernant Facebook et Google est inconfortable ... "sans liberté de critique, il n'est pas d'éloge sincère"

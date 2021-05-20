@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RubyForge: Ruby-Snarl: Information sur le projet
+:jbake-tags: ruby,snarl,windows,freeware,library,_mois_nov.,_année_2007
+:jbake-date: 2007-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1195217553000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frubyforge.org%2Fprojects%2Fruby-snarl%2F&searchtags=ruby+snarl+windows+freeware+library+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://rubyforge.org/projects/ruby-snarl/[RubyForge: Ruby-Snarl: Information sur le projet]
+
+A mon avis, je vais devoir passer au Ruby pour écrire mon todo.txt, je vous en parlerai sans dout ce week-end. Bref, en attendant, avec ça, je dois pouvoir faire un bon paquet de glue. Mais j'aimerais bien que Fred m'en parle avant.

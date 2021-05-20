@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ResophNotes - Quick Notes on Windows
+:jbake-tags: freeware,open-source,productivité,software,texte,windows,markdown,simplenote,_mois_juil.,_année_2010
+:jbake-date: 2010-07-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1279026080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.resoph.com%2FResophNotes%2FWelcome.html&searchtags=freeware+open-source+productivit%C3%A9+software+texte+windows+markdown+simplenote+_mois_juil.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.resoph.com/ResophNotes/Welcome.html[ResophNotes - Quick Notes on Windows]
+
+Une application de prise de notes rapide pour Windows, compatible avec SimpleNote.

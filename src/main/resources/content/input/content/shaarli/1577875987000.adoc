@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Climatic Impacts of Wind Power: Joule
+:jbake-tags: écologie,recherche,énergie,vent,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577875987000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.cell.com%2Fjoule%2Ffulltext%2FS2542-4351%2818%2930446-X&searchtags=%C3%A9cologie+recherche+%C3%A9nergie+vent+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.cell.com/joule/fulltext/S2542-4351(18)30446-X[Climatic Impacts of Wind Power: Joule]
+
+Cet article est dingue : les éoliennes favorisent le réchauffement climatique à court terme en réchauffant le sol ... Le pire, c'est qu'elles tournent même quand il n'y a pas de vent.

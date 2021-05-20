@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven Jython packaging - Introduction
+:jbake-tags: python,jython,java,maven,plugin,programming,_mois_mai,_année_2016
+:jbake-date: 2016-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1464248339000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmavenjython.sourceforge.net%2Fcompile%2Findex.html&searchtags=python+jython+java+maven+plugin+programming+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://mavenjython.sourceforge.net/compile/index.html[Maven Jython packaging - Introduction]
+
+Une bonne solution de packaging/livraison de code Python/Jython pour maveniste

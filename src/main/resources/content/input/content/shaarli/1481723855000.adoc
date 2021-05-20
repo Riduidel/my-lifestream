@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Crazy fast build times (Or when 10 seconds starts to make you nervous) | Yesterday I was wrong
+:jbake-tags: programming,build,refactoring,_mois_déc.,_année_2016
+:jbake-date: 2016-12-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1481723855000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdan.bodar.com%2F2012%2F02%2F28%2Fcrazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous%2F&searchtags=programming+build+refactoring+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://dan.bodar.com/2012/02/28/crazy-fast-build-times-or-when-10-seconds-starts-to-make-you-nervous/[Crazy fast build times (Or when 10 seconds starts to make you nervous) | Yesterday I was wrong]
+
+Le temps de build est à mon sens un bon indicateur de la qualité du travail sur un projet

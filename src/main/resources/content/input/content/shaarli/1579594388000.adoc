@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Feminella 🌠 sur Twitter : "⏲️ As of today, we have about eighteen years to go until the Y2038 problem occurs. But the Y2038 problem will be giving us headaches long, long before 2038 arrives. I'd like to tell you a story about this."
+:jbake-tags: temps,bug,programming,_mois_janv.,_année_2020
+:jbake-date: 2020-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1579594388000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjxxf%2Fstatus%2F1219009308438024200&searchtags=temps+bug+programming+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/jxxf/status/1219009308438024200[John Feminella 🌠 sur Twitter : "⏲️ As of today, we have about eighteen years to go until the Y2038 problem occurs. But the Y2038 problem will be giving us headaches long, long before 2038 arrives. I'd like to tell you a story about this."]
+
+2038 frappe déja à notre porte ... Et ça risque d'être un peu moche.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julio Biason .Net 4.0 - Things I Learnt The Hard Way (in 30 Years of Software Development)
+:jbake-tags: carrière,informatique,programming,réflexion,_mois_juin,_année_2019
+:jbake-date: 2019-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1561714449000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.juliobiason.net%2Fthoughts%2Fthings-i-learnt-the-hard-way%2F&searchtags=carri%C3%A8re+informatique+programming+r%C3%A9flexion+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/[Julio Biason .Net 4.0 - Things I Learnt The Hard Way (in 30 Years of Software Development)]
+
+C'est de l'ordre de la bible, et je pourrais carrément écrire une série de billets de blogs sur le sujet ...

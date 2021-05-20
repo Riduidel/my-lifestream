@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenID Wiki / Run your own identity server
+:jbake-tags: software,openid,server,_mois_mars,_année_2013
+:jbake-date: 2013-03-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1364203462000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.openid.net%2Fw%2Fpage%2F12995226%2FRun%2520your%2520own%2520identity%2520server&searchtags=software+openid+server+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://wiki.openid.net/w/page/12995226/Run%20your%20own%20identity%20server[OpenID Wiki / Run your own identity server]
+
+Tiens, dans la famille des trucs à héberger chez soi, j'ai l'impression que le serveur OpenID est un truc plus qu'utile ....

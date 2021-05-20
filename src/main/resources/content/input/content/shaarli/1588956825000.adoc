@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: It's time to understand the code visually - DEV Community 👩‍💻👨‍💻
+:jbake-tags: python,java,compréhension,visualisation,code,programming,_mois_mai,_année_2020
+:jbake-date: 2020-05-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1588956825000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fkedark%2Fit-s-time-to-understand-the-code-visually-nh9&searchtags=python+java+compr%C3%A9hension+visualisation+code+programming+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://dev.to/kedark/it-s-time-to-understand-the-code-visually-nh9[It's time to understand the code visually - DEV Community 👩‍💻👨‍💻]
+
+Ca m'a l'air d'être sacrément chouette. Je le testerai bientôt pour voir, tiens ...

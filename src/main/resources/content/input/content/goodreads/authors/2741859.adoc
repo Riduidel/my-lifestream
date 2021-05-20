@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurent Latrille
+:jbake-tags: author
+:jbake-date: 2014-06-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2741859.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/2741859
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782759502028.html[Gantz/23]
+* link:../books/9782759502684.html[Gantz/24]
+* link:../books/9782759502691.html[Gantz/25]
+* link:../books/9782759503667.html[Gantz/26]
+* link:../books/9782759503681.html[Gantz/28]

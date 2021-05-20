@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Building For Multiple Environments - SoftwareEntwicklung Beratung Schulung
+:jbake-tags: programming,maven,build,plugin,_mois_mai,_année_2016
+:jbake-date: 2016-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1462792790000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.soebes.de%2Fblog%2F2016%2F05%2F08%2Fbuilding-for-multiple-environments%2F&searchtags=programming+maven+build+plugin+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://blog.soebes.de/blog/2016/05/08/building-for-multiple-environments/[Building For Multiple Environments - SoftwareEntwicklung Beratung Schulung]
+
+Un chouette plugin de variabilisation selon les environnements.

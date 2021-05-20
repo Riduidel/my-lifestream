@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Battle Angel Alita - Last Order : Angel of the Innocents, Vol. 02
+:jbake-tags:  cyborg, dystopie, rayon-emprunt,_année_2011,_mois_févr.,_note_2,rayon-bd,read
+:jbake-date: 2011-02-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9781569319765.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/838860
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+The innocent children of Tiphares, the great city in the sky, have banded together, and Alita has been shanghaied into joining their cause. Their leader, Jim, the young genius who assisted her archenemy Desty Nova in resurrecting her, has been killed - yet his memories live on inside his creation, a huge childlike robot as destructive as a three-story-high three-year-old can be.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3450.html[Yukito Kishiro]
+
+## Series
+* link:../series/Battle_Angel_Alita__Last_Order.html[Battle Angel Alita: Last Order]
+
+## Review
+
+++++
+A peine meilleur que le premier, ce second tome ne vaut que grâce à certaines scènes où Gally contemple le monde depuis Zalem, ou pleure sur sa copine Lou trop tôt disparue. Parce que bon, son combat contre le monstre de Zalem est trop hyperbolique pour être autre chose qu'un passage un peu ridicule.
+++++

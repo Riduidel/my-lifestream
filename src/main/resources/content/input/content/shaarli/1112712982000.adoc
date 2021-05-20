@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby: ExampleDesignPatternsInRuby
+:jbake-tags: programming,langage,ruby,design,pattern,concepts,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112712982000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rubygarden.org%2Fruby%3FExampleDesignPatternsInRuby&searchtags=programming+langage+ruby+design+pattern+concepts+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.rubygarden.org/ruby?ExampleDesignPatternsInRuby[Ruby: ExampleDesignPatternsInRuby]
+
+Examples of design patterns implemented in Ruby, a topic suggested by HughSasse.

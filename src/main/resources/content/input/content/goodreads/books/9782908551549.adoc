@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'obélisque Abyssin
+:jbake-tags:  afrique, fantastique, rayon-bd,_année_2012,_mois_mai,_note_5,aventure,read
+:jbake-date: 2012-05-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782908551549.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1805275
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Toppi nous emmène au désert Dankali, et malgré le noir et blanc du dessin nous sommes écrasés par l'éclat du soleil, le papier vibre de chaleur entre nos mains.<br />Tel est le prix à payer pour accompagner le Collectionneur et toucher enfin l'obélisque oubliée qui nous fera rois.<br />Qu'importent les guerres coloniales et les affrontements tribaux, c'est d'éternité dont il est ici question !
+</div>
+++++
+
+
+## Authors
+* link:../authors/555180.html[Sergio Toppi]
+
+## Series
+* link:../series/Le_collectioneur.html[Le collectioneur]
+
+## Review
+
+++++
+Toppi ne dessine qu'en noir et blanc, mais l'absence de couleur nous expose à l'écrasante chaleur de cette abyssinie qui rend fous aussi bien blancs que noirs.<br/>Et lorsque le collectionneur, dans un délire, voit apparaitre un gardien aussi titanesque qu'improbable à l'objet qu'il convoite, on hallucine avec lui. Je ne saurais d'ailleurs pas dire si c'est une oeuvre colonialiste ou pas, tant le collectionneur se révèle ammoral.<br/>En revanche, ce qui est sûr, c'est que c'est une oeuvre singulière, étonnante, et dont chaque case révèle à la fois le talent, la profondeur, et la noirceur. Parce que le collectionneur a le coeur sombre, comme les hommes qui l'entourent. Et comme le lecteur qui, sachant cela, dévore quand même ce tome.
+++++

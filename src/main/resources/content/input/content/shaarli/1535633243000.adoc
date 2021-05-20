@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: renukaradhya/confluentplatform: This repo is for modification of Confluent platform of windows
+:jbake-tags: programming,database,web,windows,_mois_août,_année_2018
+:jbake-date: 2018-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1535633243000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frenukaradhya%2Fconfluentplatform&searchtags=programming+database+web+windows+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/renukaradhya/confluentplatform[renukaradhya/confluentplatform: This repo is for modification of Confluent platform of windows]
+
+Si vous devez lancer Kafka sous Windows, la procédure est simple : 1 - Télécharger confluent kafka 2 - Clonez ce repository 3 - Copiez/collez le dossier bin/windows de ce repository dans le dossier bin/windows de confluent kafka Parce que les gens de Confluent ne se soucient pas trop d'avoir des scripts Windows qui marchent. C'est fou en 2018.

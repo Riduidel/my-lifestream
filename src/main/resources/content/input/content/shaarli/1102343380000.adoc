@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JDK 1.4 Class Diagrams
+:jbake-tags: UML,documentation,java,langage,software,_mois_déc.,_année_2004
+:jbake-date: 2004-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1102343380000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.falkhausen.de%2Fen%2Fdiagram%2Fdiagram.html&searchtags=UML+documentation+java+langage+software+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.falkhausen.de/en/diagram/diagram.html[JDK 1.4 Class Diagrams]
+
+The JDK Class Documentation Project has the goal, to chart the standard packages of Java. Presently there are 233 class diagrams, which describe most of the classes of the JDK 1.4.2. The diagrams are organized in a folder like manner, which corresponds to

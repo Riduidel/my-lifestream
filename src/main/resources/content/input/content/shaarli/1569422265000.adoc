@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tooling Up - Implementing test && commit || revert (TCR) In IntelliJ - Lee Turner
+:jbake-tags: test,méthode,outillage,programming,kata,_mois_sept.,_année_2019
+:jbake-date: 2019-09-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1569422265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fleeturner.me%2Fblog%2F2019%2F01%2Ftooling-up-tcr-intellij.html&searchtags=test+m%C3%A9thode+outillage+programming+kata+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://leeturner.me/blog/2019/01/tooling-up-tcr-intellij.html[Tooling Up - Implementing test && commit || revert (TCR) In IntelliJ - Lee Turner]
+
+Je testerai ça un jour. Oh, oui, je testerai. Et pour le coup, la recette présentée ici est parfaitement adaptée à mes usages.

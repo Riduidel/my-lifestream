@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GeoIPTC: géolocalisez vos images à l'aide des standards de métadonnées IPTC et XMP
+:jbake-tags: software,shareware,iptc,geotag,windows,@todo,_mois_août,_année_2010
+:jbake-date: 2010-08-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1281878688000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.geoiptc.com%2FFR%2FIndex.html&searchtags=software+shareware+iptc+geotag+windows+%40todo+_mois_ao%C3%BBt+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.geoiptc.com/FR/Index.html[GeoIPTC: géolocalisez vos images à l'aide des standards de métadonnées IPTC et XMP]
+
+Un logiciel à étudier en détail ... pour éventuellement le refaire en Java(FX)/Groovy ?

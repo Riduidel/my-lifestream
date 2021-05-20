@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Design Pattern Synopses
+:jbake-tags: programming,documentation,concepts,design,pattern,catalog,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112276393000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.clickblocks.org%2Fpatterns1%2Fpattern_synopses.htm&searchtags=programming+documentation+concepts+design+pattern+catalog+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.clickblocks.org/patterns1/pattern_synopses.htm[Design Pattern Synopses]
+
+

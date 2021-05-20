@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: adg on Twitter: "Good programmers aren't lazy in that they avoid work. Rather, it's that they are sensitive to unnecessary work."
+:jbake-tags: citation,programming,work,_mois_janv.,_année_2017
+:jbake-date: 2017-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1484727525000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fenneff%2Fstatus%2F821191304155512832&searchtags=citation+programming+work+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/enneff/status/821191304155512832[adg on Twitter: "Good programmers aren't lazy in that they avoid work. Rather, it's that they are sensitive to unnecessary work."]
+
+Effectivement. Ca m'arrive à chaque fois que je dois toucher des spécifications Word ...

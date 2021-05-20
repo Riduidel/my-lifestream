@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apple - iPod touch
+:jbake-tags: ipod,wifi,wishlist,mp3,web,_mois_mars,_année_2008
+:jbake-date: 2008-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1205487249000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.apple.com%2Ffr%2Fipodtouch%2F&searchtags=ipod+wifi+wishlist+mp3+web+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.apple.com/fr/ipodtouch/[Apple - iPod touch]
+
+Deux raisons pour mettre la déclinaison webtablet de l'ipod : d'abord, parce que j'aime bien, ensuite, pour tester un service connexe à delicious

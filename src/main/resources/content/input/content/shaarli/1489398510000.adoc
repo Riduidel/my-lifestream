@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ma compétence lexicale (étendue de mon vocabulaire) est estimée à :【21060】! Qui peut faire aussi bien ?
+:jbake-tags: français,test,_mois_mars,_année_2017
+:jbake-date: 2017-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1489398510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.arealme.com%2Ffrench-vocabulary-size-test%2Ffr%2F&searchtags=fran%C3%A7ais+test+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.arealme.com/french-vocabulary-size-test/fr/[Ma compétence lexicale (étendue de mon vocabulaire) est estimée à :【21060】! Qui peut faire aussi bien ?]
+
+Chouette test de vocabulaire

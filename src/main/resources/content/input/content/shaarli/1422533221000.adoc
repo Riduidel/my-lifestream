@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je n'ai rien à cacher.
+:jbake-tags: intimité,web,sécurité,_mois_janv.,_année_2015
+:jbake-date: 2015-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1422533221000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjenairienacacher.fr%2F&searchtags=intimit%C3%A9+web+s%C3%A9curit%C3%A9+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://jenairienacacher.fr/[Je n'ai rien à cacher.]
+
+Chouette page ! Le propos est clair, et bien documenté.

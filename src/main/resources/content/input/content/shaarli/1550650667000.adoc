@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To: Enable NIC Teaming in Windows 8, 8.1 and 10 – TechnoGecko
+:jbake-tags: windows,réseau,aggregator,performance,_mois_févr.,_année_2019
+:jbake-date: 2019-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1550650667000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftechnogecko.net%2Fmsft%2Fhow-to-enable-nic-teaming-in-windows-8-8-1-and-10%2F&searchtags=windows+r%C3%A9seau+aggregator+performance+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://technogecko.net/msft/how-to-enable-nic-teaming-in-windows-8-8-1-and-10/[How To: Enable NIC Teaming in Windows 8, 8.1 and 10 – TechnoGecko]
+
+Oh bon sang ! Je peux aggréger plusieurs cartes réseau sous Windows ! Avec ça, fini les problèmes liés à ma carte interne à moitié pourrie !

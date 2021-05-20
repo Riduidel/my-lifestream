@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Learning skills you can practice - Julia Evans
+:jbake-tags: apprentissage,méthode,_mois_sept.,_année_2018
+:jbake-date: 2018-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1535820681000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjvns.ca%2Fblog%2F2018%2F09%2F01%2Flearning-skills-you-can-practice%2F&searchtags=apprentissage+m%C3%A9thode+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://jvns.ca/blog/2018/09/01/learning-skills-you-can-practice/[Learning skills you can practice - Julia Evans]
+
+Julia a toujours raison, et plus encore quand il s'agit d'apprendre.

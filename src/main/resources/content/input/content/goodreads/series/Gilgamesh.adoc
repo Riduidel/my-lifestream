@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gilgamesh
+:jbake-tags: serie
+:jbake-date: 2013-07-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Gilgamesh.adoc
+:jbake-source: https://www.goodreads.com/series/114134
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070415861.html[Gilgamesh, roi d'Ourouk]

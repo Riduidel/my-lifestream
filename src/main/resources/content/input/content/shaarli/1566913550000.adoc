@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HostsMan · abelhadigital.com
+:jbake-tags: software,freeware,windows,system,dns,update,_mois_août,_année_2019
+:jbake-date: 2019-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1566913550000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.abelhadigital.com%2Fhostsman%2F&searchtags=software+freeware+windows+system+dns+update+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.abelhadigital.com/hostsman/[HostsMan · abelhadigital.com]
+
+Je suis bien séduit par la liste de blocage DNS fournie par sebsauvage. Hélas, Windows n'est apparemment pas capable de la mettre à jour régulièrement. Sauf en ajoutant ce logiciel (qui n'est peut-être pas le meilleur)

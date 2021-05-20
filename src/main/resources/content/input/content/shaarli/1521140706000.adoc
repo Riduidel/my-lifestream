@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ryanoasis/nerd-fonts: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack
+:jbake-tags: web,programming,font,icon,_mois_mars,_année_2018
+:jbake-date: 2018-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1521140706000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fryanoasis%2Fnerd-fonts&searchtags=web+programming+font+icon+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/ryanoasis/nerd-fonts[ryanoasis/nerd-fonts: Iconic font aggregator, collection, and patcher. 40+ patched fonts, over 3,600 glyph/icons, includes popular collections such as Font Awesome & fonts such as Hack]
+
+Intéressant pour des applis web, j'imagine, ou peut-être pour des éditeurs un peu augmentés. Sinon, je ne vois pas trop l'intérêt ...

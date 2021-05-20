@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: /* Position Is Everything */ ‽‽ Modern browser bugs explained in detail!
+:jbake-tags: web,css,langage,documentation,tutorial,exemple,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112346766000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.positioniseverything.net%2F&searchtags=web+css+langage+documentation+tutorial+exemple+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.positioniseverything.net/[/* Position Is Everything */ ‽‽ Modern browser bugs explained in detail!]
+
+We're Big John and Holly Bergevin, and together we built this site to explain some obtuse CSS bugs in modern browsers, provide demo examples of interesting CSS behaviors, and show how to 'make it work' without using tables for layout purposes.

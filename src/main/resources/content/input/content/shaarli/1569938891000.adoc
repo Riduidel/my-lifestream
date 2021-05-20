@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My final post regarding the flaws of Docker / Kubernetes and their eco-system | Smash Company
+:jbake-tags: docker,kubernetes,critique,mode,_mois_oct.,_année_2019
+:jbake-date: 2019-10-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1569938891000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.smashcompany.com%2Ftechnology%2Fmy-final-post-regarding-the-flaws-of-docker-kubernetes-and-their-eco-system&searchtags=docker+kubernetes+critique+mode+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.smashcompany.com/technology/my-final-post-regarding-the-flaws-of-docker-kubernetes-and-their-eco-system[My final post regarding the flaws of Docker / Kubernetes and their eco-system | Smash Company]
+
+L'article est long, mais bon sang qu'il est intéressant ! Toute la mode autour de Docker/Kubernetes et compagnie en prend pour son grade de façon très justifiée

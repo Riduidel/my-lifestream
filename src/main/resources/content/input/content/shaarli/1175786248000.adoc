@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Portable Ruby - Creating a Portable Ruby Environment
+:jbake-tags: portable,reference,ruby,software,tutorial,documentation,windows,_mois_avr.,_année_2007
+:jbake-date: 2007-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1175786248000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fruby.about.com%2Fod%2Fresources%2Fss%2Fportable_ruby.htm&searchtags=portable+reference+ruby+software+tutorial+documentation+windows+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://ruby.about.com/od/resources/ss/portable_ruby.htm[Portable Ruby - Creating a Portable Ruby Environment]
+
+Un article expliquant comment créer une version portable de Ruby, apparement pour Windows seulement.

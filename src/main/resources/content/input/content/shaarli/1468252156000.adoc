@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 99-problems/java8 at master · shekhargulati/99-problems
+:jbake-tags: programming,tutorial,java,_mois_juil.,_année_2016
+:jbake-date: 2016-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1468252156000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fshekhargulati%2F99-problems%2Ftree%2Fmaster%2Fjava8&searchtags=programming+tutorial+java+_mois_juil.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/shekhargulati/99-problems/tree/master/java8[99-problems/java8 at master · shekhargulati/99-problems]
+
+Très chouette projet github pour apprendre le Java8

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Ⓐ De Goes on Twitter: "Preparing a tech talk? My advice for your slides: - 1 idea per slide - Augment, never repeat - Figures > code > bullet points > text - More slides > denser slides - Focus & orient audience with structure - Cleanliness to avoid distraction - Defined start/middle/end"
+:jbake-tags: présentation,slideshow,design,_mois_janv.,_année_2019
+:jbake-date: 2019-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1548580418000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjdegoes%2Fstatus%2F1088853254077706240&searchtags=pr%C3%A9sentation+slideshow+design+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jdegoes/status/1088853254077706240[John Ⓐ De Goes on Twitter: "Preparing a tech talk? My advice for your slides: - 1 idea per slide - Augment, never repeat - Figures > code > bullet points > text - More slides > denser slides - Focus & orient audience with structure - Cleanliness to avoid distraction - Defined start/middle/end"]
+
+Très vrai. J'ai repéré quelques-uns de mes slides qui pourraient être améliorés en suivant ces principes.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: simpsonsmath.com
+:jbake-tags: comics,culture,éducation,fun,geek,mathématiques,science,reference,_mois_juin,_année_2006
+:jbake-date: 2006-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1149944193000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mathsci.appstate.edu%2F%7Esjg%2Fsimpsonsmath%2F&searchtags=comics+culture+%C3%A9ducation+fun+geek+math%C3%A9matiques+science+reference+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.mathsci.appstate.edu/~sjg/simpsonsmath/[simpsonsmath.com]
+
+Une page sur les maths dans les simpsons

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Scrum is the Wrong Way to Build Software — Medium
+:jbake-tags: organisation,agile,scrum,_mois_févr.,_année_2016
+:jbake-date: 2016-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1456228816000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40ard_adam%2Fwhy-scrum-is-the-wrong-way-to-build-software-99d8994409e5%23.e9e25lxn3&searchtags=organisation+agile+scrum+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://medium.com/@ard_adam/why-scrum-is-the-wrong-way-to-build-software-99d8994409e5#.e9e25lxn3[Why Scrum is the Wrong Way to Build Software — Medium]
+
+Curieusement, je suis d'accord avec tout ce qui est dit là-dedans. Et, globalement, je me rends compte que c'est une méthode parfaitement appropriée pour les boîtes qui ne veulent pas développer du software, mais manager des développeurs.

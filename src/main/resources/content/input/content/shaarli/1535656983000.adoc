@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: yahoo/kafka-manager: A tool for managing Apache Kafka.
+:jbake-tags: web,interface,management,open-source,kafka,_mois_août,_année_2018
+:jbake-date: 2018-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1535656983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fyahoo%2Fkafka-manager&searchtags=web+interface+management+open-source+kafka+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/yahoo/kafka-manager[yahoo/kafka-manager: A tool for managing Apache Kafka.]
+
+oh mais c'est bien cette interface web de management Kafka. En tout cas, ça ne peut pas être pire que la ligne de commande ...

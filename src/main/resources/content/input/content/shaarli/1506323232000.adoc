@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: badssl.com
+:jbake-tags: sécurité,web,https,ssl,test,_mois_sept.,_année_2017
+:jbake-date: 2017-09-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1506323232000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbadssl.com%2F&searchtags=s%C3%A9curit%C3%A9+web+https+ssl+test+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://badssl.com/[badssl.com]
+
+Chouette ! Un site web qui permet de tester un client HTTPS face à des serveurs fournissant toute une gamme de certificats

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SmartSniff v1.00
+:jbake-tags: capture,freeware,réseau,packets,software,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1095405466000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nirsoft.net%2Futils%2Fsmsniff.html&searchtags=capture+freeware+r%C3%A9seau+packets+software+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.nirsoft.net/utils/smsniff.html[SmartSniff v1.00]
+
+SmartSniff allows you to capture TCP/IP packets that pass through your network adapter, and view the captured data as sequence of conversations between clients and servers. You can view the TCP/IP conversations in Ascii mode (for text-based protocols, lik

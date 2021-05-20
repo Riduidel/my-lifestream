@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Autremonde
+:jbake-tags: serie
+:jbake-date: 2011-04-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Autremonde.adoc
+:jbake-source: https://www.goodreads.com/series/82378
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266089722.html[Autremonde]

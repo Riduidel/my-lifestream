@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lelombrik.free.fr/LoMBriK/Ascenseur/%5Blelombrik....
+:jbake-tags: web,fun,lift,_mois_févr.,_année_2005
+:jbake-date: 2005-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1108036573000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flelombrik.free.fr%2FLoMBriK%2FAscenseur%2F%5Blelombrik.free.fr%5DDiscoAscenseur.swf&searchtags=web+fun+lift+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://lelombrik.free.fr/LoMBriK/Ascenseur/[lelombrik.free.fr]DiscoAscenseur.swf[lelombrik.free.fr/LoMBriK/Ascenseur/%5Blelombrik....]
+
+a funny flash movie

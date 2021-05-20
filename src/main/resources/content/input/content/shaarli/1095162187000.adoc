@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ::spatialknowledge::projectdescription for Clara
+:jbake-tags: 3d,navigation,software,web,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1095162187000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.spatialknowledge.com%2Fprojects%2Fclara%2F&searchtags=3d+navigation+software+web+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.spatialknowledge.com/projects/clara/[::spatialknowledge::projectdescription for Clara]
+
+So, here is what it does: It lets you walk/fly/jump through a three-dimensional world where all the objects are painted with usable, interactive web-pages. It's not some statistics or fuzzy prerecorded images, you can read the pages just as you would in

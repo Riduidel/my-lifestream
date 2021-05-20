@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Forrest Brazeal sur Twitter : "Absolutely fascinating insight I just heard from a hiring manager: Adding junior engineers makes the senior engineers on his team *better*, because the constant "Why" questions force them to articulate and confront their own assumptions. Hire juniors for a stronger team!" / Twitter
+:jbake-tags: citation,métier,compétence,communication,_mois_févr.,_année_2021
+:jbake-date: 2021-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1612694295000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Fforrestbrazeal%2Fstatus%2F1357042473537789952&searchtags=citation+m%C3%A9tier+comp%C3%A9tence+communication+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/forrestbrazeal/status/1357042473537789952[Forrest Brazeal sur Twitter : "Absolutely fascinating insight I just heard from a hiring manager: Adding junior engineers makes the senior engineers on his team *better*, because the constant "Why" questions force them to articulate and confront their own assumptions. Hire juniors for a stronger team!" / Twitter]
+
+Je suis franchement d'accord. J'ai énormément progressé dans m les attitudes en encadrant l'année dernière une équipe comprenant un certain nombre de jeunes développeurs.

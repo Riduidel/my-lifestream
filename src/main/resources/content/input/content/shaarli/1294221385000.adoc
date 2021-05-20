@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RSS2iCal
+:jbake-tags: rss,ical,web,_mois_janv.,_année_2011
+:jbake-date: 2011-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1294221385000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Farnout.engelen.eu%2Fscripts%2Frss2ical.php&searchtags=rss+ical+web+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://arnout.engelen.eu/scripts/rss2ical.php[RSS2iCal]
+
+Un service web bien pratique pour ajouter dans son calendrier Google des flux RSS (pour se souvenir, par exemple, de la date de lecture d'un bouquin, ou de la date d'écriture d'un article, ou même pour utiliser des outils de statistiques adaptés à Google Calendar).

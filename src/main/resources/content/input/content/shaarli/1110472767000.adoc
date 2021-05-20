@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Snes9X.COM
+:jbake-tags: software,freeware,macosx,linux,windows,jeu,emulator,snes,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110472767000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.snes9x.com%2F&searchtags=software+freeware+macosx+linux+windows+jeu+emulator+snes+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.snes9x.com/[Snes9X.COM]
+
+Snes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. It basically allows you to play most games designed for the SNES and Super Famicom Nintendo game systems on your PC or Workstation; which includes some real gems that were

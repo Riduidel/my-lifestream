@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fiddler pour débugger à distance
+:jbake-tags: ca sert à presque rien,http,web,_mois_nov.,_année_2016
+:jbake-date: 2016-11-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/11/04/fiddler-pour-debugger-a-distance.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/11/04/fiddler-pour-debugger-a-distance/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous connaissez <a href="http://www.telerik.com/fiddler">Fiddler </a>? C'est un très bon proxy de débuggage http pour Windows.
+</p>
+<p>
+Eh bien aujourd'hui, j'ai découvert que je pouvais l'utiliser pour intercepter les requêtes entre un serveur Apache (sur une autre machine) et mon serveur web Java (lui aussi sur une autre machine). Le pire, c'est que ça n'est même pas compliqué.
+</p>
+<p>
+Il suffit de régler le proxy pour accepter les requêtes distantes
+</p>
+<p>
+<img class="alignnone size-full wp-image-3965" src="https://riduidel.files.wordpress.com/2016/11/2016-11-04-20_54_19-telerik-fiddler-options.png" alt="2016-11-04-20_54_19-telerik-fiddler-options" width="558" height="371" />
+</p>
+<p>
+Et de régler le proxy que fiddler utilisera pour recevoir les requêtes pour que ce soit l'autre machine
+</p>
+<p>
+<img class="alignnone size-full wp-image-3970" src="https://riduidel.files.wordpress.com/2016/11/2016-11-04-20_56_38-telerik-fiddler-options.png" alt="2016-11-04-20_56_38-telerik-fiddler-options" width="558" height="371" />
+</p>
+<p>
+Et là, les requêtes arriveront bien d'Apache dans Fiddler pour repartir aussi sec vers le serveur.
+</p>
+<p>
+Très cool.
+</p>
+<p>
+&#160;
+</p>
+++++

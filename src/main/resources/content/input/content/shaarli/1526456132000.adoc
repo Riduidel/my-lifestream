@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Unit test your Java architecture - ArchUnit
+:jbake-tags: java,test,architecture,_mois_mai,_année_2018
+:jbake-date: 2018-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1526456132000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.archunit.org%2F&searchtags=java+test+architecture+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.archunit.org/[Unit test your Java architecture - ArchUnit]
+
+Valider l'organisation du code dans des tests unitaires est une sacrément bonne idée. Et le DSL est semble-t-il assez bien fichu.

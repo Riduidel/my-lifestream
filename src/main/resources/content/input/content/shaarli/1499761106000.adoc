@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A progressive Web application with Vue JS, Webpack & Material Design [Part 1]
+:jbake-tags: javascript,programming,tutorial,vuejs,_mois_juil.,_année_2017
+:jbake-date: 2017-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1499761106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.sicara.com%2Fa-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402&searchtags=javascript+programming+tutorial+vuejs+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402[A progressive Web application with Vue JS, Webpack & Material Design [Part 1]]
+
+Chouette tutorial sur le développement d'une progressive web app avec vue.js

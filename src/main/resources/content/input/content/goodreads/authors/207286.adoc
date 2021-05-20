@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ian R. MacLeod
+:jbake-tags: author
+:jbake-date: 2006-03-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/207286.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1365105518p5/207286.jpg
+:jbake-source: https://www.goodreads.com/author/show/207286
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207256022.html[Les Continents perdus]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software teams and their knowledge networks in large-scale software development - ScienceDirect
+:jbake-tags: équipe,organisation,entreprise,communication,_mois_nov.,_année_2020
+:jbake-date: 2020-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1605451268000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0950584917300435%3Fvia%253Dihub&searchtags=%C3%A9quipe+organisation+entreprise+communication+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.sciencedirect.com/science/article/pii/S0950584917300435?via%3Dihub[Software teams and their knowledge networks in large-scale software development - ScienceDirect]
+
+Un article sans aucun doute intéressant sur la manière dont les équipes communiquent au sein des intéressants. En ces temps où la communication est globalement à réinventer, c'est une lecture des plus utiles.

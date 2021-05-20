@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andrew Lilley Brinker sur Twitter : "Eternal Rust mood https://t.co/TIto1vg0z5" / Twitter
+:jbake-tags: rust,programming,humour,paradigme,_mois_févr.,_année_2021
+:jbake-date: 2021-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1612342524000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Falilleybrinker%2Fstatus%2F1356691100673531909&searchtags=rust+programming+humour+paradigme+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/alilleybrinker/status/1356691100673531909[Andrew Lilley Brinker sur Twitter : "Eternal Rust mood https://t.co/TIto1vg0z5" / Twitter]
+
+C'est drôle, parce que ... c'est vrai 🤣 (en fait, implémenter en 2021 une liste chaînée ou un graphe n'a aucun sens, il vaut mieux se concentrer sur un vrai problème d'utilisateur)

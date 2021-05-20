@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Savvas Kλeanthous 🇬🇧🇪🇺🇨🇾 sur Twitter : "When messages are transmitted they should include at minimum: 1. Message name 2. Name of service which owns the contract of the message 3. Message version 4. Message unique id 5. Correlation id 6. Causation id 7. UTC Timestamp [1 of 5"
+:jbake-tags: architecture,entreprise,messaging,format,_mois_nov.,_année_2019
+:jbake-date: 2019-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1574357548000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSKleanthous%2Fstatus%2F1197272391304523776&searchtags=architecture+entreprise+messaging+format+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/SKleanthous/status/1197272391304523776[Savvas Kλeanthous 🇬🇧🇪🇺🇨🇾 sur Twitter : "When messages are transmitted they should include at minimum: 1. Message name 2. Name of service which owns the contract of the message 3. Message version 4. Message unique id 5. Correlation id 6. Causation id 7. UTC Timestamp [1 of 5"]
+
+Ca vaut le coup d'être lu tranquillement, parce qu'il y a un tas de bonnes idées dedans ...

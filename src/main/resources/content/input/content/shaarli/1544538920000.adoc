@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sunjay on Twitter: "Test-driven development is cool, but have you tried docs-driven development in @rustlang? 1. Write the docs 2. Code examples are tests. Run with `cargo test` 3. Keep developing until you've implemented everything you've documented Result: Fully documented with tested code! 😁"
+:jbake-tags: rust,programming,documentation,test,_mois_déc.,_année_2018
+:jbake-date: 2018-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1544538920000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSunjay03%2Fstatus%2F1071598453443125248&searchtags=rust+programming+documentation+test+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/Sunjay03/status/1071598453443125248[Sunjay on Twitter: "Test-driven development is cool, but have you tried docs-driven development in @rustlang? 1. Write the docs 2. Code examples are tests. Run with `cargo test` 3. Keep developing until you've implemented everything you've documented Result: Fully documented with tested code! 😁"]
+
+Eh ouais, Rust a certains côtés vraiment géniaux et bien cachés qui font rêver. Je dois touteois avouer qu'il n'y a pas dans la doc Rust la possibilité de déclarer les paramètres d'une fonction

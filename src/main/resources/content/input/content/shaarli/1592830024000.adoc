@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: stateless4j/stateless4j: Lightweight Java State Machine
+:jbake-tags: java,library,open-source,algorithme,_mois_juin,_année_2020
+:jbake-date: 2020-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1592830024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fstateless4j%2Fstateless4j&searchtags=java+library+open-source+algorithme+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/stateless4j/stateless4j[stateless4j/stateless4j: Lightweight Java State Machine]
+
+Eh, une librairie de création de machines à états en Java. Ca peut être très chouette !

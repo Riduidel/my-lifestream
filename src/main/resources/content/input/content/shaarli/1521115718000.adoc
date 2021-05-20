@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dan Luu on Twitter: "Someone claiming to be a former dev manager from Quickbooks says that Quickbooks purposely makes its UI complicated and hard to understand. Is this really possible? This seems pretty weird even after reading the justification.… https://t.co/k6oBcLS6kw"
+:jbake-tags: programming,ergonomie,_mois_mars,_année_2018
+:jbake-date: 2018-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1521115718000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdanluu%2Fstatus%2F974036733544235008&searchtags=programming+ergonomie+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/danluu/status/974036733544235008[Dan Luu on Twitter: "Someone claiming to be a former dev manager from Quickbooks says that Quickbooks purposely makes its UI complicated and hard to understand. Is this really possible? This seems pretty weird even after reading the justification.… https://t.co/k6oBcLS6kw"]
+
+La non-éthique informatique à l'oeuvre : les mecs conçoivent un logiciel inutilisable pour que les utilisateurs puissent indiquer sur leur CV qu'ils savent se servir de cette merde ... J'espère que cette boîte va se faire salement disrupter.

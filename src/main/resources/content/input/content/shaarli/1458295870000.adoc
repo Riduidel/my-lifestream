@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rich Rogers on Twitter: ""Programming is a good job if you want to spend all of your time at the absolute limit of your capacity to understand things." - @Pentadact"
+:jbake-tags: citation,programming,_mois_mars,_année_2016
+:jbake-date: 2016-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1458295870000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRichRogersHDS%2Fstatus%2F710269680989163523&searchtags=citation+programming+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/RichRogersHDS/status/710269680989163523[Rich Rogers on Twitter: ""Programming is a good job if you want to spend all of your time at the absolute limit of your capacity to understand things." - @Pentadact"]
+
+C'est pour ça que, fondamentalement, les développeurs ne peuvent pas être heureux

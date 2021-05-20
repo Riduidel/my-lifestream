@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Five Super Helpful Rust Things That Nobody Told You About* | five-rust-things
+:jbake-tags: programming,rust,trick,_mois_avr.,_année_2019
+:jbake-date: 2019-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1554358280000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsaghm.github.io%2Ffive-rust-things%2F&searchtags=programming+rust+trick+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://saghm.github.io/five-rust-things/[Five Super Helpful Rust Things That Nobody Told You About* | five-rust-things]
+
+Quelques très chouettes astuces Rust

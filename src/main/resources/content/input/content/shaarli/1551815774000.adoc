@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bndr/pipreqs: pipreqs - Generate pip requirements.txt file based on imports of any project
+:jbake-tags: python,generated,dépendances,management,tutorial,_mois_mars,_année_2019
+:jbake-date: 2019-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1551815774000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fbndr%2Fpipreqs&searchtags=python+generated+d%C3%A9pendances+management+tutorial+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/bndr/pipreqs[bndr/pipreqs: pipreqs - Generate pip requirements.txt file based on imports of any project]
+
+C'est bien cet outil pour générer le fichier requirements.txt, qui est indispensable mais peu pratique

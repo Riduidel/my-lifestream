@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mcorbin sur Twitter : "A chaque fois que je pense que la communauté Spring ne pourra pas faire pire niveau abstraction/usine à gaz, je trouve un nouveau projet pour me contredire. En fait vert.x a l'air d'être un des seuls framework HTTP java dont l'utilisation donne pas envie de changer de métier." / Twitter
+:jbake-tags: spring,critique,complexité,citation,programming,design,_mois_sept.,_année_2020
+:jbake-date: 2020-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1599323348000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_mcorbin%2Fstatus%2F1302008046583939073&searchtags=spring+critique+complexit%C3%A9+citation+programming+design+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/_mcorbin/status/1302008046583939073[mcorbin sur Twitter : "A chaque fois que je pense que la communauté Spring ne pourra pas faire pire niveau abstraction/usine à gaz, je trouve un nouveau projet pour me contredire. En fait vert.x a l'air d'être un des seuls framework HTTP java dont l'utilisation donne pas envie de changer de métier." / Twitter]
+
+Je suis malheureusement d'accord : la complexité accidentelle de Spring n'est pas maitrisée, et ça se voit beaucoup trop.

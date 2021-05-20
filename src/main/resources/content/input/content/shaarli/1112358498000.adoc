@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mp3tag - the universal Tag Editor - Overview
+:jbake-tags: software,freeware,windows,multimedia,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112358498000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mp3tag.de%2Fen%2F&searchtags=software+freeware+windows+multimedia+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mp3tag.de/en/[Mp3tag - the universal Tag Editor - Overview]
+
+MP3 tagger. Export Playlists. etc.

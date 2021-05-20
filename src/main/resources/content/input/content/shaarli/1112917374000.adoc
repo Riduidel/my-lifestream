@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Look and Feel Design Guidelines
+:jbake-tags: java,langage,programming,documentation,design,gui,_mois_avr.,_année_2005
+:jbake-date: 2005-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1112917374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fproducts%2Fjlf%2Fed2%2Fbook%2F&searchtags=java+langage+programming+documentation+design+gui+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://java.sun.com/products/jlf/ed2/book/[Java Look and Feel Design Guidelines]
+
+

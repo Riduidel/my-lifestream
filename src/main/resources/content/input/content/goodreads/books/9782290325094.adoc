@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stardust
+:jbake-tags:  animaux, fantasy, initiation, innocence, voyage,_année_2010,_mois_sept.,_note_3,rayon-imaginaire,read
+:jbake-date: 2010-09-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290325094.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1883285
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Life moves at a leisurely pace in the tiny town of Wall—named after the imposing stone barrier which separates the town from a grassy meadow. Here, young Tristran Thorn has lost his heart to the beautiful Victoria Forester and for the coveted prize of her hand, Tristran vows to retrieve a fallen star and deliver it to his beloved. It is an oath that sends him over the ancient wall and into a world that is dangerous and strange beyond imagining...
+</div>
+++++
+
+
+## Authors
+* link:../authors/1221698.html[Neil Gaiman]
+
+
+
+## Review
+
+++++
+J'avais déja lu ce roman de Gaiman il y a bien longtemps. Tellement longtemps, même, que je n'en avais gardé aucune trace écrite. J'en avais cependant gardé le souvenir d'un voyage dans un monde de fantasy, une espèce de Candide chez les fées.<br/>Il raconte en effet le voyage de Tristan Thorn, fils d'un homme et d'une habitante du pays des fées (pas de panique, tout cela est révélé dès le premier chapître), pour ramener à la plus belle fille du village une étoile.<br/>En chemin, il rencontrera des êtres du pays des fées, avant d'être authentiquement transformé par ce voyage.<br/><a class="DirectAuthorReference destination_Author" href="../authors/1221698.html">Neil Gaiman</a>, dans ce roman, nous montre que la fantasy n'a finallement pas grand chose à voir avec avec le style plus ancien du "sword and sorcery" de [title:Conan] ou du [title:Cycle des épées], mais bien plus à voir avec un voyage ou finalement, ce n'est pas la destination qui compte, mais la manière de voyager. C'est d'autant plus explicite que, parmi ceux qui poursuivent cette étoile, on aurait tendance à dire que seul Tristan a l'innocence nécessaire pour toucher cette étoile. Les autres personnages la poursuivent tous dans un but intéressé, et tous en subiront les conséquences.<br/>J'ai même d'ailleurs tendance à voir dans ce roman une parenté assez nette avec <a href="http://fr.wikipedia.org/wiki/Hayao_Miyazaki">Miyazaki</a>, puisque comme dans "Le chateau dans le ciel", les personnages principaux sont pourchassés par des gens qui recherchent la même chose, mais dans un objectif très différent.<br/>C'est donc une oeuvre pleine de finesse que nous livre là Gaiman, avec toutefois le léger défaut que la plupart des aspects de ce monde de Féerie ne sont qu'esquissés. mais peut-être est-ce là une volonté délibérée, visant à nous montrer que le monde des rêves n'est qu'illusion, jamais complètement palpable, et que par conséquent il est difficile de s'y sentir réellement impliqué ...<br/>Ca n'en est pas moins un très bon roman, dans une veine que je trouve contemplative (malgré les scènes d'action qu'on y trouve) et une lecture évidente pour tous ceux qui souhaitent ouvrir la porte de la fantasy "moderne".
+++++

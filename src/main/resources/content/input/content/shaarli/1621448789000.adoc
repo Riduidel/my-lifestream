@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Less is More with Minimalist Architecture, Ruth Malan and Dana Bredemeyer | esilva.net
+:jbake-tags: architecture,décision,définition,_mois_mai,_année_2021
+:jbake-date: 2021-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1621448789000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fesilva.net%2Ftla_insights%2Fminimalistic_architecture-malan_bredemeyer&searchtags=architecture+d%C3%A9cision+d%C3%A9finition+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://esilva.net/tla_insights/minimalistic_architecture-malan_bredemeyer[Less is More with Minimalist Architecture, Ruth Malan and Dana Bredemeyer | esilva.net]
+
+Un article sacrément intéressant sur l'architecture.

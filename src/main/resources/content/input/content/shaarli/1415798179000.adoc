@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Firefox's Flashblock and Vimeo Problem on Vimeo
+:jbake-tags: software,plugin,bug,flash,_mois_nov.,_année_2014
+:jbake-date: 2014-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1415798179000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvimeo.com%2Fforums%2Ftopic%3A32359&searchtags=software+plugin+bug+flash+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://vimeo.com/forums/topic:32359[Firefox's Flashblock and Vimeo Problem on Vimeo]
+
+Chouette discussion de sourds entre vimeo et les utilisateurs de Flashblock. L'astuce essentielle étant de mettre vimeo.com dans la whitelist de Flashblock.

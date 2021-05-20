@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Barnes
+:jbake-tags: author
+:jbake-date: 2001-12-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/45596.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1385398303p5/45596.jpg
+:jbake-source: https://www.goodreads.com/author/show/45596
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780812516333.html[A Million Open Doors (Giraut #1)]
+* link:../books/9782253072355.html[La Mère des tempêtes]
+* link:../books/9782290312094.html[Le Vin des dieux]

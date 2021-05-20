@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ray Bradbury
+:jbake-tags: author
+:jbake-date: 2002-09-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1630.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1445955959p5/1630.jpg
+:jbake-source: https://www.goodreads.com/author/show/1630
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780553278224.html[The Martian Chronicles]
+* link:../books/9782070415731.html[Fahrenheit 451]
+* link:../books/9782070417742.html[Chroniques martiennes]
+* link:../books/9782070814053.html[L'o10ssée Folio SF en 10 nouvelles]
+* link:../books/9782207300145.html[Les pommes d'or du soleil]

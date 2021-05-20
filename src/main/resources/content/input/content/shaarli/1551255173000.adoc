@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "I've been muting retweets for a few days now (but not quote tweets). I really like this new random thoughts twitter, compared to the instant reactions twitter I had before. It's much slower, too"
+:jbake-tags: twitter,communication,filter,_mois_févr.,_année_2019
+:jbake-date: 2019-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1551255173000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1100485624791031808&searchtags=twitter+communication+filter+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1100485624791031808[Geoffroy Couprie on Twitter: "I've been muting retweets for a few days now (but not quote tweets). I really like this new random thoughts twitter, compared to the instant reactions twitter I had before. It's much slower, too"]
+
+Intéressant, je vais faire pareil, tiens (parce que la bulle de filtrage volontaire, en fait, c'est bien).

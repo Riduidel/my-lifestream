@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Getting started with GraalVM
+:jbake-tags: java,programming,platform,_mois_avr.,_année_2018
+:jbake-date: 2018-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1523981028000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.graalvm.org%2Fdocs%2Fgetting-started%2F&searchtags=java+programming+platform+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.graalvm.org/docs/getting-started/[Getting started with GraalVM]
+
+Alors ça, c'est dingue. Je croyais que la JVM était rapide, mais ce code compilé en natif est \*encore\* plus rapide. Clairement, ça cible tous ces langages modernes qui n'existent que par leur disponibilité sous forme de binaires uniques

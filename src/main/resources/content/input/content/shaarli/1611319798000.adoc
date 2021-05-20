@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Semantic Linefeeds
+:jbake-tags: source,texte,asciidoc,markdown,source-control,_mois_janv.,_année_2021
+:jbake-date: 2021-01-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1611319798000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frhodesmill.org%2Fbrandon%2F2012%2Fone-sentence-per-line%2F&searchtags=source+texte+asciidoc+markdown+source-control+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://rhodesmill.org/brandon/2012/one-sentence-per-line/[Semantic Linefeeds]
+
+La première fois que j'ai lu quelque chose sur cette méthode, c'était je crois Emmanuel Bernard qui en parlait. Je l'applique maintenant systématiquement, et ça marche étonnamment bien !

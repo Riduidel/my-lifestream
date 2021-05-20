@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Planning Poker
+:jbake-tags: développement,jeu,management,online,planning,tool,work,_mois_avr.,_année_2008
+:jbake-date: 2008-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1207656983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.planningpoker.com%2F&searchtags=d%C3%A9veloppement+jeu+management+online+planning+tool+work+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.planningpoker.com/[Planning Poker]
+
+Une version en ligne du "planning poker", qui est à mon sens une des clés de la méthode scrum. Très pratique dans notre environnement un peu distribué.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L’architecte et Git : une fusion de raison | OCTO Talks !
+:jbake-tags: git,architecture,évolution,histoire,_mois_juin,_année_2020
+:jbake-date: 2020-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1592322864000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.octo.com%2Flarchitecte-et-git-une-fusion-de-raison%2F&searchtags=git+architecture+%C3%A9volution+histoire+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.octo.com/larchitecte-et-git-une-fusion-de-raison/[L’architecte et Git : une fusion de raison | OCTO Talks !]
+
+Il y a dans cet article une vision à peu près correcte. MAIS utiliser des branches/pull request/... sans utiliser le bug tracker me paraît être une vision incorrecte du travail de communication de l'architecte. Franchement, les évolutions ne sont pas que des branches Git. Ce sont aussi, et surtout,d es tickets.

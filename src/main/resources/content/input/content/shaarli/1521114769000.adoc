@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Richard Feldman on Twitter: "This is the most heartwarming picture of the Elm Architecture I've ever seen. 😍 h/t @unsoundscapes… "
+:jbake-tags: citation,programming,architecture,pattern,design,mvc,_mois_mars,_année_2018
+:jbake-date: 2018-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1521114769000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frtfeldman%2Fstatus%2F973382389035618304&searchtags=citation+programming+architecture+pattern+design+mvc+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/rtfeldman/status/973382389035618304[Richard Feldman on Twitter: "This is the most heartwarming picture of the Elm Architecture I've ever seen. 😍 h/t @unsoundscapes… "]
+
+Ce dessin est sans doute la meilleure illustration du modèle MVC qu'on puisse imaginer.

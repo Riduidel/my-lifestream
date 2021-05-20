@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PDFreaders.org - Get a Free Software PDF reader!
+:jbake-tags: software,freeware,windows,linux,macosx,open-source,pdf,viewer,_mois_mars,_année_2009
+:jbake-date: 2009-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1236947596000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpdfreaders.org%2F&searchtags=software+freeware+windows+linux+macosx+open-source+pdf+viewer+_mois_mars+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://pdfreaders.org/[PDFreaders.org - Get a Free Software PDF reader!]
+
+Pour l'instant, j'utilise foxit. Il est sympa, mais propriétaire. Et grâce à l'excellente liste de diffusion de webgen, je viens de tomber sur ce site qui m'indique quel lecteur utiliser en fonction de mon OS. Pratique, non ?

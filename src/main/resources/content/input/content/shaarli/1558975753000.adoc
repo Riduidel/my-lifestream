@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: muesli/beehive: A flexible event/agent & automation system with lots of bees 🐝
+:jbake-tags: raspberrypi,automatisation,réseau,ifttt,_mois_mai,_année_2019
+:jbake-date: 2019-05-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1558975753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmuesli%2Fbeehive&searchtags=raspberrypi+automatisation+r%C3%A9seau+ifttt+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/muesli/beehive[muesli/beehive: A flexible event/agent & automation system with lots of bees 🐝]
+
+Il semble bien que j'aie trouvé mon remplaçant à ifttt (dont certains éléments ... me déplaisent)

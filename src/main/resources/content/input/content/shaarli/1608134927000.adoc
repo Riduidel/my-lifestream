@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maddie Stone sur Twitter : "Along with many others in infosec, I've always cautioned against any of the voice activated smart gadgets, largely thinking there's only marginal benefit for the risks of an always-on microphone. Recovering from surgery with only one usable arm has completely changed my views.1/" / Twitter
+:jbake-tags: sécurité,intimité,iot,_mois_déc.,_année_2020
+:jbake-date: 2020-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1608134927000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmaddiestone%2Fstatus%2F1338993899402977280&searchtags=s%C3%A9curit%C3%A9+intimit%C3%A9+iot+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/maddiestone/status/1338993899402977280[Maddie Stone sur Twitter : "Along with many others in infosec, I've always cautioned against any of the voice activated smart gadgets, largely thinking there's only marginal benefit for the risks of an always-on microphone. Recovering from surgery with only one usable arm has completely changed my views.1/" / Twitter]
+
+Le contrepoint entre l'expert en sécurité et le malade convalescent est intéressant, mais loupe à mon avis le point : le problème de ces objets connectés, c'est évidement le capitalisme de surveillance. C'est-à-dire le choix totalement volontaire de déporter la reconnaissance vocale sur un serveur distant.

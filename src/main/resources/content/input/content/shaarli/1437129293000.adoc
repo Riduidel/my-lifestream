@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: org.codehaus.gmaven:groovy-maven-plugin -
+:jbake-tags: groovy,maven,console,_mois_juil.,_année_2015
+:jbake-date: 2015-07-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1437129293000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgroovy.github.io%2Fgmaven%2Fgroovy-maven-plugin%2Fconsole.html&searchtags=groovy+maven+console+_mois_juil.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://groovy.github.io/gmaven/groovy-maven-plugin/console.html[org.codehaus.gmaven:groovy-maven-plugin -]
+
+Avec ça, développer un bout de groovy dans un POM est vraiment facile

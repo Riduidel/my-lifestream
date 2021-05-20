@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brandon Hays on Twitter: "what idiot called it "YAML Parser Error" and not "A Series of Unfortunate Indents""
+:jbake-tags: citation,humour,yaml,programming,_mois_mai,_année_2018
+:jbake-date: 2018-05-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1527082226000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftehviking%2Fstatus%2F986048060487806976%3Fs%3D20&searchtags=citation+humour+yaml+programming+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/tehviking/status/986048060487806976?s=20[Brandon Hays on Twitter: "what idiot called it "YAML Parser Error" and not "A Series of Unfortunate Indents""]
+
+Vrai.

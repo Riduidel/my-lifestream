@@ -1,0 +1,254 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A quoi ressemble une architecture avec C4/Structurizr ?
+:jbake-tags: architecture,architecture_agile,c4model,java,plantuml,structurizr,_mois_avr.,_année_2020
+:jbake-date: 2020-04-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/10/alors-ca-ressemble-a-quoi-une-architecture-avec-c4.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/10/alors-ca-ressemble-a-quoi-une-architecture-avec-c4/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Dans cette série sur la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> en utilisant <a href="https://riduidel.wordpress.com/tag/c4model/">C4</a>, nous avons successivement évoqué le <a href="https://riduidel.wordpress.com/2020/04/08/tout-est-une-question-de-contexte/">contexte</a>, les <a href="https://riduidel.wordpress.com/2020/04/08/une-application-cest-avant-tout-des-fonctionnalites/">fonctionnalités</a>, les <a href="https://riduidel.wordpress.com/2020/04/09/quest-ce-quon-entend-par-niveau-de-qualite-dun-logiciel/">niveaux de qualités</a>, les <a href="https://riduidel.wordpress.com/2020/04/09/parlons-contexte-parlons-contraintes/">contraintes</a>, les principes, mais nous n'avons toujours pas écrit ce que nous allons faire. Peut-être que vous vous impatientez ... J'espère pourtant vous avoir démontré que ces sections sont essentielles pour définir correctement ce que votre équipe a l'intention de faire. Pour reprendre le fait que les gens aiment s'entendre raconter des histoires (qu'elles soient vraies ou fausses), toutes ces sections ont permis de définir un cadre dans lequel va se déployer notre architecture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parlons-en plus en détail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Simon Brown nous l'explique dans la partie sur l'<a href="https://structurizr.com/help/documentation/software-architecture">architecture logicielle</a>, il est temps ici de mettre en scène <a href="https://structurizr.com/help/static-diagrams">des diagrammes de conteneurs ou de composants</a>. Dessinons donc ces diagrammes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'intérêt de Structurizr, c'est qu'avant de pouvoir dessiner ces diagrammes, il faut créer les conteneurs et composants dans le modèle. Coup de bol, c'est assez facile. Pour créer un conteneur dans un système, il suffit de faire ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">Container sncfReader = kafkatrain.addContainer("sncf-reader", "Read timetables from navitia, despite its name", "Java/Vert.x");</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Ah, oui, c'est vrai que j'avais oublié de vous signaler que je réutilise dans mon exemple l'architecture définie dans le <a href="https://riduidel.wordpress.com/2020/04/08/tout-est-une-question-de-contexte/">contexte</a>. Donc, j'appelle ici cette méthode : <code>public Container SoftwareSystem#addContainer(@Nonnull String name, String description, String technology)</code>, pour laquelle le nom est obligatoire, mais pas les autres paramètres. Vous pouvez noter deux choses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Un conteneur avec une description claire, c'est mieux</li><li>Un conteneur étant un artefact technique, il doit être implémenté dans une technologie donnée. Et cette technologie étant signifiante, il est normal qu'elle apparaisse dans l'architecture.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Une fois qu'on dispose d'un conteneur, on peut l'associer avec d'autres, comme par exemple un bus de messages</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">Container kafka = kafkatrain.addContainer("kafka cluster", null, "kafka");
+kafka.addProperty(C4PlantUMLWriter.C4_ELEMENT_TYPE, C4PlantUMLWriter.Type.Db.toString());
+sncfReader.uses(kafka, "To send timetables in our format");</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Oui, je ne mets pas de description pour Kafka, parce que c'est un élément assez typique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La ligne suivante (<code>addProperty(C4PlantUMLWriter.C4_ELEMENT_TYPE, ...)</code>)définit une propriété qui sera utilisée pour le rendu du diagramme.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et enfin, on connecte nos deux éléments ensemble (<code>sncfReader.uses(kafka, "To send timetables in our format");</code>). Cette relation peut elle aussi porter des propriétés. Mais surtout, elle peut lier des éléments hétérogènes, comme par exemple un <code>Container</code> et un <code>SoftwareSystem</code>. Et c'est très utile (parce que je ne sais pas comment Navitia est architecturé, mais je sais que je vais y lire des données) :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">sncfReader.uses(navitia, "To read timetables");</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Une fois que j'ai défini le modèle de mon architecture, je peux créer un diagramme correspondant facilement, puisque ce diagramme s'appuie sur un modèle</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">ContainerView kafkaTrainContainers = views.createContainerView(kafkatrain, "kafkatrain.containers", "Kafkatrain containers");
+kafkaTrainContainers.addAllContainersAndInfluencers();</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Enfin, ça c'est parce que je fais un diagramme où je prends tous mes conteneurs. Evidement, il est parfois nécessaire de créer le diagramme en sélectionnant en détail les éléments affichés. C'est bien sûr possible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il ne me reste plus qu'à modifier mon fichier asciidoc pour y inclure mon diagramme (dont le nom de fichier est la clé définie en deuxième paramètre de <code>createContainerView</code>, c'est-à-dire <code>"kafkatrain.containers"</code>), et j'aurais une documentation lisible :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5670,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-09-11_34_26-example.png?w=1024" alt="" class="wp-image-5670" /><figcaption>Voici notre architecture. Il y manque quelques détails ...</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Pourquoi seulement lisible ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que malgré ce qu'écrit Ruth Malan</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/ruthmalan\/status\/1184082930609594370","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ruthmalan" class="screenName"><img src="http://pbs.twimg.com/profile_images/1113127427272818690/S9BxWJSI_mini.png" alt="profile of Curious (with a focus on architecting for agility, integrity and sustainability). she/her"/>ruthmalan</a>
+		<span class="name">VisArch</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ruthmalan/status/1 184 082 930 609 594 370" class="date">15 oct. 2019 à 14:25:44</a>
+
+	<span class="content">
+	
+	<span class="text">*visual* architecting emphasizes visual modeling to give expression to the otherwise unseen/hard to see (even in the mind’s eye) — relationships, for example. So we surface and can probe/test ideas and alternatives. At various levels. And across concerns.
+
+https://t.co/amJ6mtbTzp</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Un diagramme n'explique pas les motivations d'un choix. Il est donc important de les expliquer dans cette section.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ici, il faudrait expliquer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Pourquoi il y a un Kafka (pour découpler la lecture des données et leur ingestion dans ElasticSearch)</li><li>Pourquoi il y a un ElasticSearch (pour fournir des modalités de recherche des données compatibles avec les niveaux de qualité attendue)</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Bref, lier cette architecture au contexte précédemment défini. C'est ce lien, cette histoire, qui permettra aux lecteurs (les développeurs, les architectes) de comprendre les motivations d'une architecture, et donc les compromis qui y ont été fait.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Entre les conteneurs et le code, il y a un niveau complémentaire de détail : les composants.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ceux-ci sont les blocs importants de fonctionnalités déployés dans les conteneurs. Par exemple, dans une application Spring, Structurizr fournit un composant (<a href="https://github.com/structurizr/java-extensions/tree/master/structurizr-spring">structurizr-spring</a>) pour scanner le CLASSPATH à la recherche de <code>@Controller</code>, <code>@Service</code>, <code>@Repository</code> afin de guider la découverte du lecteur de ce conteneur. C'est très pratique, mais dans mon exemple, je n'utilise pas Spring. Il me faut donc écrire ces composants à la main. Heureusement, c'est assez simple de créer le modèle correspondant :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">Component sncfReaderVertice = sncfReader.addComponent("SncfReader", "Verticle connecting to Navitia");
+Component kafkaWriterVerticle = sncfReader.addComponent("KafkaWriter", "Verticle connecting to Kafka");
+Component eventBus = sncfReader.addComponent("Vertex event bus", "Core of async mechanisms in Vert.x");
+sncfReaderVertice.uses(navitia, "Read time tables");
+sncfReaderVertice.uses(eventBus, "Propagates splitted time tables to event bus");
+eventBus.uses(kafkaWriterVerticle, "Notifies writer");
+kafkaWriterVerticle.uses(kafka, "Sends message");</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>puis le diagramme</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">ComponentView sncfReaderComponentsView = views.createComponentView(sncfReader, "sncfReader.components", "Components of SNCF Reader");
+sncfReaderComponentsView.addAllComponents();
+sncfReaderComponentsView.add(kafka);
+sncfReaderComponentsView.add(navitia);</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Notez qu'ici, on ajoute à notre diagramme de composants un <code>Container</code> et un <code>SoftwareSystem</code>. Et ça marche évidement très bien :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5674,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-09-11_52_32-example.png?w=543" alt="" class="wp-image-5674" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Bien sûr, vous pouvez trouver ce diagramme assez inélégant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est à mon avis une force de la méthode Structurizr/PlantUML : produire des diagrammes moches. Ca permet en effet de ne pas trop se concentrer sur la forme pour se focaliser sur le fond. Et surtout, la mise en forme automatique va vous pousser à couper vos diagrammes en petits morceaux dès qu'ils deviendront illisibles. Bon, par contre, c'est vrai que ces deux diagrammes sont franchement moches et qu'on peut facilement les améliorer. En effet, <code>C4PlantUMLWriter</code> (que j'ai écrit dans <a href="https://github.com/structurizr/java-extensions/tree/master/structurizr-plantuml">structurizr-plantuml</a>) fournit des moyens d'inciter PlantUML à mettre en forme à peu près correctement les éléments.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc si je reprend le premier diagramme et que je le modifie comme ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">Container sncfReader = kafkatrain.addContainer("sncf-reader", "Read timetables from navitia, despite its name", "Java/Vert.x");
+Container kafka = kafkatrain.addContainer("Kafka cluster", null, "Kafka");
+kafka.addProperty(C4PlantUMLWriter.C4_ELEMENT_TYPE, C4PlantUMLWriter.Type.Db.toString());
+sncfReader.uses(kafka, "Send timetables in our format");
+// Je modifie cette relation
+sncfReader.uses(navitia, "Read timetables")
+	.addProperty(C4PlantUMLWriter.C4_LAYOUT_DIRECTION, C4PlantUMLWriter.Directions.Left.toString());
+Container elastic = kafkatrain.addContainer("Elastic cluster", null, "ElasticSearch");
+elastic.addProperty(C4PlantUMLWriter.C4_ELEMENT_TYPE, C4PlantUMLWriter.Type.Db.toString());
+Container kafkaConnect = kafkatrain.addContainer("Kafka Connect", null, "Kafka Connect");
+kafkaConnect.uses(kafka, "Receives timetables");
+kafkaConnect.uses(elastic, "Sends timetables");
+Container webUI = kafkatrain.addContainer("web-ui", "Web UI allowing interaction with application", "Javascript/Node");
+webUI.uses(elastic, "Read timetables");
+inTrain.uses(webUI, "Enter transport delay");
+// Et je change le sens de cette relation
+webUI.delivers(waiting, "Get transport delay");</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>J'obtiendrai ce diagramme, que je trouve un peu mieux</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5677,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-09-17_06_23-example.png?w=1024" alt="" class="wp-image-5677" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>De la même même manière, en modifiant la définition des composants comme ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code -->
+<pre class="wp-block-syntaxhighlighter-code">Component sncfReaderVertice = sncfReader.addComponent("SncfReader", "Verticle connecting to Navitia");
+Component kafkaWriterVerticle = sncfReader.addComponent("KafkaWriter", "Verticle connecting to Kafka");
+Component eventBus = sncfReader.addComponent("Vertex event bus", "Core of async mechanisms in Vert.x");
+sncfReaderVertice.uses(navitia, "Read time tables")
+	.addProperty(C4PlantUMLWriter.C4_LAYOUT_DIRECTION, C4PlantUMLWriter.Directions.Left.toString());
+sncfReaderVertice.uses(eventBus, "Propagates splitted time tables to event bus")
+	.addProperty(C4PlantUMLWriter.C4_LAYOUT_DIRECTION, C4PlantUMLWriter.Directions.Right.toString());
+eventBus.uses(kafkaWriterVerticle, "Notifies writer")
+	.addProperty(C4PlantUMLWriter.C4_LAYOUT_DIRECTION, C4PlantUMLWriter.Directions.Right.toString());
+kafkaWriterVerticle.uses(kafka, "Sends message")
+	.addProperty(C4PlantUMLWriter.C4_LAYOUT_DIRECTION, C4PlantUMLWriter.Directions.Right.toString());</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>D'un coup, mon diagramme change comme ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5678,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-09-17_06_39-example.png?w=1024" alt="" class="wp-image-5678" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>D'un coup, on comprend mieux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et cette compréhension va nous amener à pouvoir définir plus facilement le code, qui est le sujet de notre prochain article.</p>
+<!-- /wp:paragraph -->
+++++

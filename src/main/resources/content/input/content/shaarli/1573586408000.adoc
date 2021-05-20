@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Transform | A polyglot web converter.
+:jbake-tags: web,transformation,tool,_mois_nov.,_année_2019
+:jbake-date: 2019-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1573586408000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftransform.tools%2F&searchtags=web+transformation+tool+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://transform.tools/[Transform | A polyglot web converter.]
+
+La vache ! Si 'javais connu ça plus tôt, ça m'aurait rendu quelques bons services !

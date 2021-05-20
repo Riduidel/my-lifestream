@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld - Industrial Revolution
+:jbake-tags: serie
+:jbake-date: 2010-05-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld_-_Industrial_Revolution.adoc
+:jbake-source: https://www.goodreads.com/series/159506
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266111966.html[Les zinzins d'Olive Oued (Les Annales du Disque-Monde, #10)]
+* link:../books/9782266202909.html[La Verité]
+* link:../books/9782266225779.html[Le régiment monstrueux (Les Annales du Disque-monde, #29)]
+* link:../books/9782266236744.html[Timbré]
+* link:../books/9782266266055.html[Monnayé (Discworld, #36; Moist Von Lipwig, #2)]
+* link:../books/9782266277150.html[Déraillé (Discworld, #40, Moist von Lipwig #3)]

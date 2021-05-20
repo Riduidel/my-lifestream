@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: .:: NOTEPAD ::.
+:jbake-tags: software,freeware,open-source,windows,programming,editor,_mois_mars,_année_2005
+:jbake-date: 2005-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1111481856000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnotepad-plus.sourceforge.net%2Fuk%2Fabout.php&searchtags=software+freeware+open-source+windows+programming+editor+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://notepad-plus.sourceforge.net/uk/about.php[.:: NOTEPAD ::.]
+
+Notepad++ is a free source code editor which supports several programming languages running under the M$ Windows environment.

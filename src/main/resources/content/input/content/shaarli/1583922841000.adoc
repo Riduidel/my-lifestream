@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Several grumpy opinions about remote work at Tailscale - apenwarr
+:jbake-tags: télétravail,organisation,entreprise,_mois_mars,_année_2020
+:jbake-date: 2020-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1583922841000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fapenwarr.ca%2Flog%2F20200309&searchtags=t%C3%A9l%C3%A9travail+organisation+entreprise+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://apenwarr.ca/log/20200309[Several grumpy opinions about remote work at Tailscale - apenwarr]
+
+Il y a là-dedans quelques conseils particulièrement judicieux concernant le télétravail (parce qu'ils ne parlent pas de sortir boire un café)

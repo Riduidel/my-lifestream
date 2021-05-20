@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Understanding the GitHub Workflow · GitHub Guides
+:jbake-tags: programming,git,workflow,_mois_févr.,_année_2014
+:jbake-date: 2014-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1391697107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fguides.github.com%2Foverviews%2Fflow%2F&searchtags=programming+git+workflow+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://guides.github.com/overviews/flow/[Understanding the GitHub Workflow · GitHub Guides]
+
+Très chouette explication du workflow recommandé par GitHub. C'est loin d'être aussi complexe que les workflows que je voie passer habituellement (l'exemple typique étant le "successfull git branching model"). Et ça semble facilement utilisable, ce qui est loin d'être une mauvaise chose.

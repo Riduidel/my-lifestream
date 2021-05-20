@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: binout/wordpress-exit: A tool to extract blog posts from wordpress export
+:jbake-tags: java,maven,wordpress,export,asciidoc,_mois_nov.,_année_2019
+:jbake-date: 2019-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1574616478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fbinout%2Fwordpress-exit&searchtags=java+maven+wordpress+export+asciidoc+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/binout/wordpress-exit[binout/wordpress-exit: A tool to extract blog posts from wordpress export]
+
+Tiens, il va falloir que je regarde ça (mais aussi que je remette à jour d'autres outils d'export)

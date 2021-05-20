@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hibernate Mapping Cheat Sheet
+:jbake-tags: j2ee,java,library,mapping,reference,programming,_mois_août,_année_2006
+:jbake-date: 2006-08-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1155827214000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fndpsoftware.com%2FHibernateMappingCheatSheet.html&searchtags=j2ee+java+library+mapping+reference+programming+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://ndpsoftware.com/HibernateMappingCheatSheet.html[Hibernate Mapping Cheat Sheet]
+
+Une feuille d'infos sur le mapping dans Hibernate

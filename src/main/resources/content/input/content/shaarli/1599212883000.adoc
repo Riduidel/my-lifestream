@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Improve a Legacy Codebase · Jacques Mattheij
+:jbake-tags: architecture,application,migration,méthode,informatique,_mois_sept.,_année_2020
+:jbake-date: 2020-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1599212883000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjacquesmattheij.com%2Fimproving-a-legacy-codebase%2F&searchtags=architecture+application+migration+m%C3%A9thode+informatique+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://jacquesmattheij.com/improving-a-legacy-codebase/[How to Improve a Legacy Codebase · Jacques Mattheij]
+
+Une lecture qui correspond très précisément à mon activité du moment ...

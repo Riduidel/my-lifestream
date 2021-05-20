@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Three Things
+:jbake-tags: productitivé,web,travail,_mois_avr.,_année_2014
+:jbake-date: 2014-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1397736781000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.codinghorror.com%2Fthree-things%2F&searchtags=productitiv%C3%A9+web+travail+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.codinghorror.com/three-things/[Three Things]
+
+La recette de productivité de Jeff est, comme d'habitude, excellente par sa simplicité.

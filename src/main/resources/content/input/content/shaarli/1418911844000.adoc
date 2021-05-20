@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Codurance - Naming Test Classes and Methods
+:jbake-tags: java,programming,test,naming,_mois_déc.,_année_2014
+:jbake-date: 2014-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1418911844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcodurance.com%2F2014%2F12%2F13%2Fnaming-test-classes-and-methods%2F&searchtags=java+programming+test+naming+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://codurance.com/2014/12/13/naming-test-classes-and-methods/[Codurance - Naming Test Classes and Methods]
+
+Très bonne règle de nommage des tests, ça donne du sens

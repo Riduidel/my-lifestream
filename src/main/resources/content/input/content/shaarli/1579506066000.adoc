@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Secretive Company That Might End Privacy as We Know It - The New York Times
+:jbake-tags: web,startup,éthique,police,_mois_janv.,_année_2020
+:jbake-date: 2020-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1579506066000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nytimes.com%2F2020%2F01%2F18%2Ftechnology%2Fclearview-privacy-facial-recognition.html&searchtags=web+startup+%C3%A9thique+police+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html[The Secretive Company That Might End Privacy as We Know It - The New York Times]
+
+Si vous avez mis un jour une photo de vous sur internet, ce mec vous remercie ...

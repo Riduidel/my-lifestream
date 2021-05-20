@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Just in Case Mindset in CSS
+:jbake-tags: css,design,réflexion,web,_mois_août,_année_2020
+:jbake-date: 2020-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1598540509000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fishadeed.com%2Farticle%2Fthe-just-in-case-mindset-css%2F&searchtags=css+design+r%C3%A9flexion+web+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ishadeed.com/article/the-just-in-case-mindset-css/[The Just in Case Mindset in CSS]
+
+Ah c'est chouette comme vision des CSS "prêtes à tout"

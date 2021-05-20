@@ -1,0 +1,58 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais c'est vrai, pourquoi n'entend-on jamais les ingénieurs dans les medias ?
+:jbake-tags: communication,media,_mois_déc.,_année_2020
+:jbake-date: 2020-12-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/12/03/mais-cest-vrai-pourquoi-nentend-on-jamais-les-ingenieurs-dans-les-medias.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/12/03/mais-cest-vrai-pourquoi-nentend-on-jamais-les-ingenieurs-dans-les-medias/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Je voudrais rapidement d'une vidéo qui a un peu circulé dernièrement, dans laquelle Etienne Klein nous parle des medias de masse et des ingénieurs. Si vous ne l'avez pas encore vue, regardez ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/www.youtube.com\/watch?v=l_WZDVAX6mQ\u0026amp;app=desktop","type":"rich","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-rich is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=l_WZDVAX6mQ&#38;app=desktop
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Cette vidéo me fait en fait plutôt sourire (alors que franchement elle devrait me faire pleurer).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'Etienne Klein, qui fait cette vidéo à destination des jeunes centraliens, semble s'émouvoir de l'absence des techniciens et ingénieurs que compte la France par milliers ? millions plutôt ? Et ce qui me fait sourire dans son intervention, c'est qu'il semble croire que ce monde de l'avancée scientifique, ce monde du progrès est inaudible dans le débat politique. Bon, regardez autour de vous ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Même si la 5G est critiquée, elle est quand même installée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et même si tout le monde critique les usages inéthiques de l'informatique et du capitalisme de surveillance, ces usages sont quand même de plus en plus présents.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je pourrais aller plus loin et parler d'autres choix technologiques alimentés par le marketing, mais je pense que vous voyez l'idée. Si ça n'est pas le cas, je vais la clarifier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Les ingénieurs et techniciens n'ont pas besoin de s'exprimer, parce que le déploiement de leurs produits parle pour eux. Quand vous voyez une Zoe (par exemple, hein) passer, ce que vous voyez, c'est une chaîne technologique qui va de l'extraction de terres rares jusqu'au design de rétroviseur, bref le travail de centaines de techniciens et ingénieurs qui vous passe sous les yeux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Est-ce que c'est arrogant ? Oui, phénoménalement. Mais c'est aussi une façon commode de tourner le dos aux débats inutiles agitant le bocal parisien de médias laissant parler en boucle des gens dont la seule culture est littéraire. Et si je n'ai rien contre la culture littéraire, bien au contraire, je pense néanmoins que laisser notre pays être dirigé et étudié par des gens qui n'ont aucune idée des processus technologiques leur permettant leur existence médiatique est précisément une erreur liée à l'arrogance des ingénieurs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca me rappelle furieusement ces histoires de savants fous au service de dictateurs cintrés qui abondent dans l'imaginaire ... Et quelque part, c'est ça qui me fait pleurer : reconnaître que ce silence met factuellement ces capacités de construction au service des mécaniques de pouvoir. Je l'ai illustré avec les exemples de la 5G ou du capitalisme de surveillance : actuellement, les ingénieur innovent, mais la plupart dans des directions des plus discutables. Et ça ne semble poser de problèmes à personne ... pas même à moi, en un sens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'il ne faut pas se leurrer : les projets auxquels je participe, qui sont des éléments du fonctionnement de grands groupes de la distribution, sont des instruments permettant leur continuation. C'est assez criticable, en soi.</p>
+<!-- /wp:paragraph -->
+++++

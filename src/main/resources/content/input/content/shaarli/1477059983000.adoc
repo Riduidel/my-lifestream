@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: "Dealing with errors by throwing exceptions is like bombing for peace that in turn is like fucking for virginity https://t.co/TLolgSs3Cx"
+:jbake-tags: citation,programming,exception,_mois_oct.,_année_2016
+:jbake-date: 2016-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1477059983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F788463933279629312&searchtags=citation+programming+exception+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/788463933279629312[Mario Fusco on Twitter: "Dealing with errors by throwing exceptions is like bombing for peace that in turn is like fucking for virginity https://t.co/TLolgSs3Cx"]
+
+C'est vrai, mais incomplet (cela dit Mario Fusco est quand même sévèrement partial - voire trollesque)

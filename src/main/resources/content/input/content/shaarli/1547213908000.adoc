@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: ""there's no cloud, it's just other people's servers". Yes but. there's no postal services, it's just other people's cars. No electrical network, just other people's power station. No phone service, just other people's network. You just like stuff that others don't think about"
+:jbake-tags: citation,transport,réseau,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547213908000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1083409169422696448&searchtags=citation+transport+r%C3%A9seau+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1083409169422696448[Geoffroy Couprie on Twitter: ""there's no cloud, it's just other people's servers". Yes but. there's no postal services, it's just other people's cars. No electrical network, just other people's power station. No phone service, just other people's network. You just like stuff that others don't think about"]
+
+Très juste, tous ces réseaux existent et sont matéralisés. Certains nous intéressent moins que d'autres, c'est tout ... (et encore Geoffrey oublie le réseau de transport physique : routes, rails, ....)

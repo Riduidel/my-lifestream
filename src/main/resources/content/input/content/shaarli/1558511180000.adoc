@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dmitry.GR
+:jbake-tags: palm,hack,matériel,logiciel,_mois_mai,_année_2019
+:jbake-date: 2019-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1558511180000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdmitry.gr%2F%3Fr%3D05.Projects%26proj%3D27.%2520rePalm&searchtags=palm+hack+mat%C3%A9riel+logiciel+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dmitry.gr/?r=05.Projects&proj=27.%20rePalm[Dmitry.GR]
+
+Le mec essaye de se faire en 2019 un Palm. C'est fou, et totallement inutile, mais aussi génial (parce que le Palm était (autant en matériel qu'en logiciel) vraiment bien fichu (de mon point de vue)

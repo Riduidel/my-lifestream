@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aussie ISV buys ads to wake up Google support - Software - CRN Australia
+:jbake-tags: publicité,communication,web,_mois_août,_année_2019
+:jbake-date: 2019-08-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1566286207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.crn.com.au%2Fnews%2Faussie-isv-buys-ads-to-wake-up-google-support-529698&searchtags=publicit%C3%A9+communication+web+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.crn.com.au/news/aussie-isv-buys-ads-to-wake-up-google-support-529698[Aussie ISV buys ads to wake up Google support - Software - CRN Australia]
+
+Ca va pas trop les gêner chez Google, ils doivent avoir des adblockers, non ?

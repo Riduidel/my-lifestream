@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What Would Dave Do sur Twitter : "Mon nouveau mode de réponse aux "salut comment ça va je veux faire connaissance" sur mon compte pro : faire semblant d'être mon propre assistant virtuel (quand j'ai un peu de temps, sinon je supprime 90% des messages de ce genre). Je pense qu'une idée de chatbot serait fun :D… https://t.co/F3qu7UfiUa"
+:jbake-tags: twitter,chatbot,harcèlement,_mois_juil.,_année_2019
+:jbake-date: 2019-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1562244415000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FWalterStephanie%2Fstatus%2F1146093676549951489&searchtags=twitter+chatbot+harc%C3%A8lement+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/WalterStephanie/status/1146093676549951489[What Would Dave Do sur Twitter : "Mon nouveau mode de réponse aux "salut comment ça va je veux faire connaissance" sur mon compte pro : faire semblant d'être mon propre assistant virtuel (quand j'ai un peu de temps, sinon je supprime 90% des messages de ce genre). Je pense qu'une idée de chatbot serait fun :D… https://t.co/F3qu7UfiUa"]
+
+Ca mérite d'être implémenté "en vrai" ... Si seulement je connaissais des gens qui veulent tester des technos de chatbot 😇

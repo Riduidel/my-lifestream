@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bandiagara (Carmen Mc Callum #13)
+:jbake-tags:  enquête, rayon-bd,_année_2014,_mois_mai,_note_4,afrique,read
+:jbake-date: 2014-05-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756047881.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400405255l/22166312._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400405255l/22166312._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/22166312
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+2056. Que se passe-t-il au centre de stockage de déchets radioactifs de la falaise de Bandiagara au Mali ? Des anomalies ont été constatées par le propriétaire. Le centre n'étant pas relié au réseau mondial pour des raisons de sécurité, Carmen est chargée d'escorter le hacker Pacman sur les lieux en urgence, l'informaticien envoyé avant eux ayant été retrouvé mort dans les rues de Bamako...
+</div>
+++++
+
+
+## Authors
+* link:../authors/3026920.html[Emem]
+* link:../authors/1889163.html[Florent Calvez]
+* link:../authors/503981.html[Fred Duval]
+
+## Series
+* link:../series/Carmen_Mc_Callum.html[Carmen Mc Callum]
+
+## Review
+
+++++
+Très bon retour de l'intrépide irlandaise.<br/>Je suis un peu dubitiatif du rôle de De Cambre en début de tome. En revanche, les dérives médiatiques d'Elena Dinova, ET la condamnation du rôle de la France dans l'appauvrissement de ses anciennes colonies sont des éléments assez intéressants du récit.<br/>Quant à cette contamination ... C'est typique des histoires de Duval, avec des gens qui changent de rôle dans l'histoire et dont les nuances de gris sont très intéressantes à observer sur le long terme.
+++++

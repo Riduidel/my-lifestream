@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: differents schemas de branchement
+:jbake-tags: bricolage,_mois_août,_année_2007
+:jbake-date: 2007-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1187860904000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpolmeguimafr.free.fr%2Fschemas%2520de%2520branchement.html&searchtags=bricolage+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://polmeguimafr.free.fr/schemas%20de%20branchement.html[differents schemas de branchement]
+
+Un guide de schémas de branchement qui m'intéresse uniquement pour le câblage d'une prise téléphonique pour laquelle j'ai bêtement oublié les codes couleur

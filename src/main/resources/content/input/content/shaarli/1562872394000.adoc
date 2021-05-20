@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Twitter down or not working? Current status and problems | Down Detector
+:jbake-tags: twitter,internet,_mois_juil.,_année_2019
+:jbake-date: 2019-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1562872394000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdowndetector.com%2Fstatus%2Ftwitter&searchtags=twitter+internet+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://downdetector.com/status/twitter[Twitter down or not working? Current status and problems | Down Detector]
+
+Curieusement, il semble que twitter soit un peu cassé ce soir ...

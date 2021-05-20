@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Remote Collaboration Advice from Former Pivots | deniseyu.io
+:jbake-tags: télétravail,entreprise,organisation,_mois_mars,_année_2020
+:jbake-date: 2020-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1583613477000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdeniseyu.io%2F2020%2F03%2F07%2Fremote-collaboration.html&searchtags=t%C3%A9l%C3%A9travail+entreprise+organisation+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://deniseyu.io/2020/03/07/remote-collaboration.html[Remote Collaboration Advice from Former Pivots | deniseyu.io]
+
+De bons conseils concernant le télétravail. Il en manque un : pensez comme un projet open-source : asynchrone avant tout ! Sans présence commune, il faut vraiment penser que les gens ont des agendas différents.

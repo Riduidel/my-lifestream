@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Claude Dunyach
+:jbake-tags: author
+:jbake-date: 2003-05-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/825923.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/825923
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290325391.html[Étoiles mourantes]

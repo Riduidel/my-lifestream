@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Akiva Leffert on Twitter: "It’s VERY IMPORTANT that we start calling the Year 2038 bug, where 32-bit Unix time overflows, The Epochalypse. Plz spread."
+:jbake-tags: citation,humour,bug,_mois_mars,_année_2019
+:jbake-date: 2019-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1553075605000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faleffert%2Fstatus%2F1108130062199676934&searchtags=citation+humour+bug+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/aleffert/status/1108130062199676934[Akiva Leffert on Twitter: "It’s VERY IMPORTANT that we start calling the Year 2038 bug, where 32-bit Unix time overflows, The Epochalypse. Plz spread."]
+
+Tellement un bon nom

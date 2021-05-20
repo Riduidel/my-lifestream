@@ -1,0 +1,118 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Machine learning en prod
+:jbake-tags: chtijug,_mois_févr.,_année_2020
+:jbake-date: 2020-02-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/02/13/machine-learning-en-prod.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/02/13/machine-learning-en-prod/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Yannick nous donne tout de suite ce qu’il faut retenir : mettre un projet de data science en prod, ça n’est pas si compliqué.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/chtijug\/status\/1227663733750738944","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 227 663 733 750 738 944" class="date">12 févr. 2020 à 19:40:17</a>
+
+	<span class="content">
+	
+	<span class="text">C’est parti pour «Le machine learning en prod» par @astro_Yan.
+Merci @OCTOchti  pour le buffet et @euratechnologie pour l’accueil https://t.co/EHUj4DQiqi</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EQmJp8oWoAEl3dY.jpg" alt="1 227 663 727 178 194 945"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:heading -->
+<h2>Un réseau de neurones c’est quoi ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Il commence donc en douceur avec une introduction aux réseaux de neurones. Dans un réseau de neurones, il y a des noeuds, des liaisons, des poids, des biais, des fonctions d’activation, de la rétro-propagation. Pour changer, Yannick n’utilise pas la métaphore médicale, mais voit le côté mathématique des choses, ce qui est assez plaisant.Dans ce réseau, un noeud, c’est une fonction mathématique affine (y=ax+b) qui va lire la valeur et la transformer. Ca fait du réseau une grosse fonction mathématique plutôt complexe. Et durant l’apprentissage, le but est de régler chaque fonction mathématique par rapport à une valeur prédéfinie. Pour ça on change les paramètres de chaque noeud pour rapprocher la valeur donnée de la valeur optimale. C’est la rétropropagation. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca implique évidement qu’il faut un jeu d’entraînement pour ce réseau de neurones.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Un auto-encodeur, c’est quoi ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Passons maintenant aux réseaux de neurones auto-encodeurs. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avec un exemple : sur 150 bornes d’arcade, trois dysfonctionnent. Le voltage fluctue assez peu (entre 5V et 5,5V), et un système de protection contre les surtensions est déja en place.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans un réseau de ce type, la couche intermédiaire contient moins de neurones que ceux des couches "de surface". Et le but du réseau, c’est que la couche de sortie donne le même résultat que la couche d’entrée. L’objectif, c’est de réduire les dimensions du problème. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, on va simplifier l’information fournie en entrée selon un schéma opaque. Et lors du décodage, on va réexprimer cette information sur l’ensemble des éléments.Et on va réajuster régulièrement les poids du réseau de neurone pour s’ajuster à la réalité.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca implique que si la valeur de sortie n’est pas identique à l’entrée, l’erreur est visible dans la couche intermédiaire.Et enfin, on va arriver au coeur de la conférence.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Comment on fait de la datascience ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D’abord, on fait du <a href="https://jupyter.org/">Jupyter Notebook</a> pour tester rapidement des hypohthèses. Et puis parce que le litterate programming, c’est cool. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, pour aller en prod, il faut un peu ajuster. En ajoutant Git pour le travail en équipe et Voila, qui permet d’embarquer le modèle dans une application web. Mais aussi <a href="https://mlflow.org/">Mlflow </a>qui permet de garder une trace (données, configuration, résultats, …​) des exécutions du modèle, d’organiser un projet cohérent, et d’échanger les modèles entre différentes implémentations (Keras, Pytorch, Tensorflow, …​). Et enfin un outil de dashboard (comme Kibana par exemple). Parce qu’il faut rendre l’outil technique compréhensible au métier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Au moment de préparer les données, Yannick nous parle de <a href="https://dvc.org">dvc</a>, qui semble être le pendant de git pour la donnée. C’est un système de stockage et de gestion de version pour les données et pour les modèles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dans l’invitation, il y avait cette phrase</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Maintenir une infrastructure de production est une tâche pour le moins difficile. C’est un peu le cœur du système d’information, un élément essentiel que l’on entretien avec soin et dévotion.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Et malheureusement, j’ai cru qu’on parlerait de l’implémentation d’un système de monitoring et de prévention de panne dans une infrastructure informatique basé sur des réseaux de neurones. Or ça n’a pas été le cas. Qui plus est, il y a eu à la fin de chaque partie un sondage en ligne façon Kahoot pour savoir si on avait compris qui coupait complètement le rythme de la présentation, c’était dommage. Et dommage, c’est le mot qui me revient à l’esprit. Parce que j’ai bien l’impression, même si Yannick a consacré beaucoup de temps et d’énergie à nous convaincre de l’intérêt du sujet, qu’il est passé à côté du coeur de son truc.</p>
+<!-- /wp:paragraph -->
+++++

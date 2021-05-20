@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Design Patterns Java Companion
+:jbake-tags: programming,concepts,documentation,design,pattern,exemple,java,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112276894000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.patterndepot.com%2Fput%2F8%2FJavaPatterns.htm&searchtags=programming+concepts+documentation+design+pattern+exemple+java+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.patterndepot.com/put/8/JavaPatterns.htm[The Design Patterns Java Companion]
+
+

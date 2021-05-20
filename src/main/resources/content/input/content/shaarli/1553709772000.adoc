@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Logging Without a Static Logger
+:jbake-tags: programming,object,concepts,log,_mois_mars,_année_2019
+:jbake-date: 2019-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1553709772000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2019%2F03%2F19%2Flogging-without-static-logger.html&searchtags=programming+object+concepts+log+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.yegor256.com/2019/03/19/logging-without-static-logger.html[Logging Without a Static Logger]
+
+Tiens c'est marrant. J'en parlais aujourd'hui à mes stagiaires (en leur recommandant d'utiliser un logger statique, tout en leur disant qu'il est possible d'utiliser un logger d'instance). Et c'est pas une mauvaise idée du tout.

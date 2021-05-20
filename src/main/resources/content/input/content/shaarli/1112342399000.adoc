@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: software:mailfeed [wonkowiki]
+:jbake-tags: web,php,rss,email,software,freeware,open-source,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112342399000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.wonko.com%2Fsoftware%2Fmailfeed%2F&searchtags=web+php+rss+email+software+freeware+open-source+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://wiki.wonko.com/software/mailfeed/[software:mailfeed [wonkowiki]]
+
+MailFeed is a PHP script that checks a POP3, IMAP, or NNTP mailbox on demand and returns an RSS feed containing the messages in the mailbox (including message bodies, if desired). I wrote MailFeed after realizing that it would be convenient to read my

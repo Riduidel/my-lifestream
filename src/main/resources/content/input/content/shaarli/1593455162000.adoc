@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Foam | A personal knowledge management and sharing system for VSCode
+:jbake-tags: markdown,editor,mind,mapping,vscode,plugin,open-source,wiki,_mois_juin,_année_2020
+:jbake-date: 2020-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1593455162000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffoambubble.github.io%2Ffoam%2F&searchtags=markdown+editor+mind+mapping+vscode+plugin+open-source+wiki+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://foambubble.github.io/foam/[Foam | A personal knowledge management and sharing system for VSCode]
+
+Dans l'idée, c'est très chouette. Mais markdown ... encore et toujours ... Et puis ça n'est qu'une réinvention du wiki personnel.

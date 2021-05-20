@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Earth Temperature Timeline
+:jbake-tags: écologie,histoire,perspective,visualisation,_mois_sept.,_année_2016
+:jbake-date: 2016-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1473766677000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1732%2F&searchtags=%C3%A9cologie+histoire+perspective+visualisation+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://xkcd.com/1732/[xkcd: Earth Temperature Timeline]
+
+La fin de notre monde, incontestablement.

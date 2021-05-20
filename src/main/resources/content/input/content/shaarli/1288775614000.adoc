@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zooniverse - Home
+:jbake-tags: astronomie,collaboration,networking,online,projet,crowdsourcing,_mois_nov.,_année_2010
+:jbake-date: 2010-11-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1288775614000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zooniverse.org%2Fhome&searchtags=astronomie+collaboration+networking+online+projet+crowdsourcing+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.zooniverse.org/home[Zooniverse - Home]
+
+Une communauté de gens qui ont du temps à perdre et des yeux à user ... mais sur des sujets un peu moins triviaux que d'habitude.

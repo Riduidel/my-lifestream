@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Microservices in Adopt? | ThoughtWorks
+:jbake-tags: microservices,architecture,perspective,_mois_mai,_année_2018
+:jbake-date: 2018-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1526967424000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.thoughtworks.com%2Finsights%2Fblog%2Fmicroservices-adopt&searchtags=microservices+architecture+perspective+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.thoughtworks.com/insights/blog/microservices-adopt[Microservices in Adopt? | ThoughtWorks]
+
+La justification est bien plus intéressante que le message simple.

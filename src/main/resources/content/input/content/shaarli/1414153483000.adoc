@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Greach 2014 - Metaprogramming with groovy
+:jbake-tags: programming,groovy,meta,langage,présentation,_mois_oct.,_année_2014
+:jbake-date: 2014-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1414153483000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2Filopmar%2Fmetaprogramming-with-groovy&searchtags=programming+groovy+meta+langage+pr%C3%A9sentation+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.slideshare.net/ilopmar/metaprogramming-with-groovy[Greach 2014 - Metaprogramming with groovy]
+
+J'ignorais que Groovy offrait autant de possibilités de métaprogrammation. C'est en vérité assez dingue.

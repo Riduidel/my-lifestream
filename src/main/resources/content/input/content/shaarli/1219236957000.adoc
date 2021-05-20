@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lazy Mirror
+:jbake-tags: software,freeware,windows,tool,backup,manager,versionning,_mois_août,_année_2008
+:jbake-date: 2008-08-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1219236957000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.xs4all.nl%2F%7Ewstudios%2FLazyMirror%2Findex.html&searchtags=software+freeware+windows+tool+backup+manager+versionning+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.xs4all.nl/~wstudios/LazyMirror/index.html[Lazy Mirror]
+
+Un système de versionning local, qui en plus de faire de simples backups, permet de remonter dans le temps, comme l'OpenVMS d'avant

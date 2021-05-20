@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Four Minute Mile Software - Barquee
+:jbake-tags: macosx,musique,software,utilities,freeware,_mois_janv.,_année_2006
+:jbake-date: 2006-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1136798455000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fourminutemilesoftware.com%2Fbarquee%2F&searchtags=macosx+musique+software+utilities+freeware+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.fourminutemilesoftware.com/barquee/[Four Minute Mile Software - Barquee]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daminion | Server-Based Photo Management Solution for Small Teams
+:jbake-tags: software,photographie,dam,management,windows,_mois_nov.,_année_2011
+:jbake-date: 2011-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1322575244000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdaminion.net%2F&searchtags=software+photographie+dam+management+windows+_mois_nov.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://daminion.net/[Daminion | Server-Based Photo Management Solution for Small Teams]
+
+Découvert par hasard sur alternativesto, ce soft pourrait être un bien meilleur complément à Picasa que la vieillierie Microsoft que j'utilise.

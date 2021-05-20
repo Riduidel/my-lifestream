@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Inside Mac Games Review: Microsoft Wireless Laser Mouse 8000
+:jbake-tags: mouse,bluetooth,macosx,_mois_oct.,_année_2009
+:jbake-date: 2009-10-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1256224033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.insidemacgames.com%2Freviews%2Fview.php%3FID%3D806%26Page%3D3&searchtags=mouse+bluetooth+macosx+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.insidemacgames.com/reviews/view.php?ID=806&Page=3[Inside Mac Games Review: Microsoft Wireless Laser Mouse 8000]
+
+Comment connecter la souris Bluetooth à un Mac sans passer par la clé USBn dédiée.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Everything I Know About The Script Tag - Eager Blog
+:jbake-tags: javascript,programming,html,_mois_juin,_année_2016
+:jbake-date: 2016-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1467009779000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feager.io%2Fblog%2Feverything-I-know-about-the-script-tag%2F&searchtags=javascript+programming+html+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://eager.io/blog/everything-I-know-about-the-script-tag/[Everything I Know About The Script Tag - Eager Blog]
+
+Très intéressant article sur les capacités de la balise HTML

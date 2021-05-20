@@ -1,0 +1,137 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Procrastination ?
+:jbake-tags: javascript,_mois_oct.,_année_2014
+:jbake-date: 2014-10-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/10/01/procrastination.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/10/01/procrastination/
+:jbake-style: wordpress
+
+++++
+<p>
+Le terme pourrait venir à l'esprit, si vous pensiez par exemple que j'ai la flemme d'écrire quoi que ce soit sur ce blog.
+</p>
+<p>
+Et, en un sens, ce serait vrai.
+</p>
+<p>
+Parce qu'il n'y a pas grand chose à se mettre sous la dent, il faut le dire.
+</p>
+<p>
+D'un autre côté, je ne rends pas compte de grand chose, peut-être parce que, pour l'instant, je construis ...
+</p>
+<p>
+Enfin, je construis, façon de parler.
+</p>
+<p>
+J'ai déja dit que <a title="Javascript all the things .. or not ?" href="http://riduidel.wordpress.com/2014/09/24/javascript-all-the-things-or-not/">je faisais pas mal de Javascript en ce moment</a>. Je devrais plutôt dire que je ne fais que ça. Et, en un sens, je prends un pied conséquent à jouer avec la pile construite pour l'occasion.
+</p>
+<p>
+Parce qu'il s'avère (essentiellement grâce au <a href="fr.wikipedia.org/wiki/Duck_typing">duck typing</a>), qu'il est d'une simplicité terrifiante d'y faire rentrer des ronds dans des carrés, et de mélanger plus ou moins proprement des paradigmes objets et fonctionnels.
+</p>
+<p>
+Tiens, je vais vous donner un exemple un peu tordu.
+</p>
+<p>
+Vous avez entendu parler des <a href="http://javascript.developpez.com/faq/jquery/?page=Objets">Deferred en javascript</a> ? Non. Bon, je ne vais pas vous expliquer ça plus avant qu'en vous disant que ça revient à pouvoir dire à du code Javascript "quand on te dit go, tu go". Je ne vais pas non plus rentrer dans la polémique des Promises/A vs Promises/B.
+</p>
+<p>
+Non.
+</p>
+<p>
+J'avais ce matin un problème bizarre.
+</p>
+<p>
+Je voulais utiliser l'API de <a href="http://api.jquery.com/category/deferred-object/">jQuery Deferred</a> pour avoir une espèce de Deferred réexecutable. Il s'avère, et je le comprend tout à fait, que ça n'est pas possible. Parce que le Deferred, une fois qu'il s'est exécuté, est tout bonnement terminé. Je me suis donc creusé la tête un moment avant d'écrire mon petit module requirejs qui me fournit la classe qui va bien :
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">define(["jquery"], function($) {
+<br/>
+function ReinvokableDeferred() {
+<br/>
+this.success = [];
+<br/>
+this.failure = [];
+<br/>
+this.any = [];
+<br/>
+}
+</p>
+<p>
+ReinvokableDeferred.prototype = {
+<br/>
+_add : function(array, called) {
+<br/>
+for(var arg in called) {
+<br/>
+array.push(called[arg]);
+<br/>
+}
+<br/>
+},
+<br/>
+then : function() {
+<br/>
+this._add(this.success, arguments);
+<br/>
+},
+<br/>
+done : function() {
+<br/>
+this._add(this.success, arguments);
+<br/>
+},
+<br/>
+fail : function() {
+<br/>
+this._add(this.failure, arguments);
+<br/>
+},
+<br/>
+always : function() {
+<br/>
+this._add(this.any, arguments);
+<br/>
+},
+<br/>
+deferred : function() {
+<br/>
+var returned = $.Deferred();
+<br/>
+returned.done.call(returned, this.success);
+<br/>
+returned.fail.call(returned, this.failure);
+<br/>
+returned.always.call(returned, this.any);
+<br/>
+return returned;
+<br/>
+}
+<br/>
+};
+</p>
+<p>
+return ReinvokableDeferred;
+<br/>
+});</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+</p>
+<p>
+Evidement, ça n'a pas l'air de grand chose. Mais là, grâce à ce "truc", j'ai toute l'API de Defferred qui m'intéresse, et je peux créer le "vrai" objet sans problème.
+</p>
+<p>
+Je dois bien reconnaître que c'est bien plus simple que d'implémenter une interface, ou quoi que ce soit d'aussi compliqué.
+</p>
+<p>
+Alors, procrastination ? Sans doute, dans la mesure où ce code est fondamentalement asynchrone :-)
+</p>
+++++

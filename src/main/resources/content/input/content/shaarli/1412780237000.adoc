@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Concordion
+:jbake-tags: programming,test,java,qualité,_mois_oct.,_année_2014
+:jbake-date: 2014-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1412780237000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fconcordion.org%2F&searchtags=programming+test+java+qualit%C3%A9+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://concordion.org/[Concordion]
+
+Je tourne depuis uns acré moment autour de ces histoires de BDD. Et je pense que le moment est venu de se pencher un peu plus sur ces outils "de haut niveau".

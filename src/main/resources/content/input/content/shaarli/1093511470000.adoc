@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: maxq.tigris.org
+:jbake-tags: software,test,web,_mois_août,_année_2004
+:jbake-date: 2004-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1093511470000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmaxq.tigris.org%2F&searchtags=software+test+web+_mois_ao%C3%BBt+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://maxq.tigris.org/[maxq.tigris.org]
+
+MaxQ is a free web functional testing tool. It includes an HTTP proxy that records your test script, and a command line utility that can be used to playback tests. The proxy recorder automatically stores variables posted to forms, so you don't have to wri

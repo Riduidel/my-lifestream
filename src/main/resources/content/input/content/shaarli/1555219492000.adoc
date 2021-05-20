@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: • Graphique: Où les développeurs informatiques sont-ils les mieux payés ? | Statista
+:jbake-tags: emploi,informatique,comparatif,_mois_avr.,_année_2019
+:jbake-date: 2019-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1555219492000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffr.statista.com%2Finfographie%2F17619%2Fsalaire-annuel-moyen-developpeur-informatique-par-pays%2F&searchtags=emploi+informatique+comparatif+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fr.statista.com/infographie/17619/salaire-annuel-moyen-developpeur-informatique-par-pays/[• Graphique: Où les développeurs informatiques sont-ils les mieux payés ? | Statista]
+
+Ca alors, je découvre avec une stupeur relative que la France paye mal ses développeurs ... et prend logiquement du retard techologique

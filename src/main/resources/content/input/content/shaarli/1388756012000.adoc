@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apprendre Angular en un jour
+:jbake-tags: javascript,programming,web,documentation,@toread,_mois_janv.,_année_2014
+:jbake-date: 2014-01-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1388756012000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvfsvp.fr%2Farticle%2Fapprendre-angular-en-un-jour-le-guide-ultime%2F&searchtags=javascript+programming+web+documentation+%40toread+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://vfsvp.fr/article/apprendre-angular-en-un-jour-le-guide-ultime/[Apprendre Angular en un jour]
+
+Oh, tiens, un guide "complet" pour découvrir Angular.js en un jour. Ca pourrait être une lecture intéressante.

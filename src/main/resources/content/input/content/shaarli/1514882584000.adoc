@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vladislav Zavialov on Twitter: "Currying is the same sort of tar pit as Church encoding. Yeah, it is all functions, how elegant... but if we can encode everything as functi… https://t.co/gxoQNJlOVh"
+:jbake-tags: citation,programming,functionnal,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514882584000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fint_index%2Fstatus%2F946911568855478273&searchtags=citation+programming+functionnal+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/int_index/status/946911568855478273[Vladislav Zavialov on Twitter: "Currying is the same sort of tar pit as Church encoding. Yeah, it is all functions, how elegant... but if we can encode everything as functi… https://t.co/gxoQNJlOVh"]
+
+Le piège de la programmation fonctionnelle ..

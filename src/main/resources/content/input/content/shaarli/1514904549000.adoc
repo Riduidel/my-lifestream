@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andrew Hallam on Twitter: "Architecting your documentation is just as important as architecting your system"
+:jbake-tags: citation,programming,documentation,architecture,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514904549000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fandrew_hallam%2Fstatus%2F792197768357945345&searchtags=citation+programming+documentation+architecture+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/andrew_hallam/status/792197768357945345[Andrew Hallam on Twitter: "Architecting your documentation is just as important as architecting your system"]
+
+Et pour ça, le modèle de documentation agile de Simon Brown est, à mon avis, très bien.

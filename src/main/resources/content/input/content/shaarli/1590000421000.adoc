@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pointing and calling - Wikipedia
+:jbake-tags: méthode,psychologie,sécurité,transport,debug,_mois_mai,_année_2020
+:jbake-date: 2020-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1590000421000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPointing_and_calling&searchtags=m%C3%A9thode+psychologie+s%C3%A9curit%C3%A9+transport+debug+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://en.wikipedia.org/wiki/Pointing_and_calling[Pointing and calling - Wikipedia]
+
+Je me retrouve dans cette méthode : quand je débugge, je pointe toujours du doigt les valeurs différentes variables pour bien me les mettre dans la tête.

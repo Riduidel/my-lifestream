@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alexandre 🐿 ❤️👹#onEstLaTech sur Twitter : "Je vous ai déjà dit que vous commenciez à me les briser sévère à justifier tout vos choix techniques avec le mot « pragmatisme ». Le premier truc pragmatique à faire ce serait quand même d’arrêter de généraliser votre contexte pro à tout le monde non ?"
+:jbake-tags: citation,critique,programming,culture,_mois_févr.,_année_2020
+:jbake-date: 2020-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1582534014000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpockystar%2Fstatus%2F1231563499647754240&searchtags=citation+critique+programming+culture+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/pockystar/status/1231563499647754240[Alexandre 🐿 ❤️👹#onEstLaTech sur Twitter : "Je vous ai déjà dit que vous commenciez à me les briser sévère à justifier tout vos choix techniques avec le mot « pragmatisme ». Le premier truc pragmatique à faire ce serait quand même d’arrêter de généraliser votre contexte pro à tout le monde non ?"]
+
+pragmatisme=works on my machine

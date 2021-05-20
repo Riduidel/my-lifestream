@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Facebook open sources "Infer", static program analysis tool
+:jbake-tags: software,programming,tool,qualité,bug,_mois_juil.,_année_2015
+:jbake-date: 2015-07-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1436336381000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flambda-the-ultimate.org%2Fnode%2F5175&searchtags=software+programming+tool+qualit%C3%A9+bug+_mois_juil.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://lambda-the-ultimate.org/node/5175[Facebook open sources "Infer", static program analysis tool]
+
+Un outil qui m'a l'air bien intéressant : Facebook ayant déja une grosse base de code, j'imagine qu'ils ont essayé de détecter un bon paquet d'erreurs

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Byrne
+:jbake-tags: author
+:jbake-date: 2011-12-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/15083.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1270670409p5/15083.jpg
+:jbake-source: https://www.goodreads.com/author/show/15083
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782840557500.html[Les Germes de la destruction (Hellboy, #1)]

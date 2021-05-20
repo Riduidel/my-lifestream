@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ralf Demuth - Opera 10.50 has built-in Click to Flash
+:jbake-tags: tips,opera,flash,_mois_mars,_année_2010
+:jbake-date: 2010-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1268644746000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmy.opera.com%2Flachralle%2Fblog%2F2010%2F02%2F16%2Fopera-10-50-has-built-in-click-to-flash&searchtags=tips+opera+flash+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://my.opera.com/lachralle/blog/2010/02/16/opera-10-50-has-built-in-click-to-flash[Ralf Demuth - Opera 10.50 has built-in Click to Flash]
+
+Une petite feinte pour arrêter le flash qui ralentit tout internet.

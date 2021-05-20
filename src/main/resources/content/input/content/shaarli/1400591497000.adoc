@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EventStorming, technique de modélisation en équipe
+:jbake-tags: programming,concepts,design,analyse,_mois_mai,_année_2014
+:jbake-date: 2014-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1400591497000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.touilleur-express.fr%2F2014%2F05%2F20%2Feventstorming-technique-de-modelisation-en-equipe%2F&searchtags=programming+concepts+design+analyse+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.touilleur-express.fr/2014/05/20/eventstorming-technique-de-modelisation-en-equipe/[EventStorming, technique de modélisation en équipe]
+
+Très chouette article. Le lien avec CQRS exposé sur les castcodeurs rend la méthode encore plus limpide

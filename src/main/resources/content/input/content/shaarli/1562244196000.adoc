@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lukas Eder sur Twitter : "Open Source is when everyone agrees that this abandoned OSS product should be maintained by someone, but everyone is also too busy to be that someone. Did I get this right?"
+:jbake-tags: citation,open-source,programming,écosystème,industry,_mois_juil.,_année_2019
+:jbake-date: 2019-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1562244196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flukaseder%2Fstatus%2F1146075239731924992&searchtags=citation+open-source+programming+%C3%A9cosyst%C3%A8me+industry+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/lukaseder/status/1146075239731924992[Lukas Eder sur Twitter : "Open Source is when everyone agrees that this abandoned OSS product should be maintained by someone, but everyone is also too busy to be that someone. Did I get this right?"]
+
+Mouaip, l'open-source, rouage de l'informatique et son parent le plus pauvre ...

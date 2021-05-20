@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marvel. Официальная коллекция комиксов
+:jbake-tags: serie
+:jbake-date: 2011-12-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Marvel.___.adoc
+:jbake-source: https://www.goodreads.com/series/259937
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782809420111.html[Wolverine, les origines]
+* link:../books/9780785123279.html[Wolverine: Weapon X]

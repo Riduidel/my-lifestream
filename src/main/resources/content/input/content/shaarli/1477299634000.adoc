@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: fent/randexp.js @ GitHub
+:jbake-tags: javascript,programming,library,regexp,_mois_oct.,_année_2016
+:jbake-date: 2016-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1477299634000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffent.github.io%2Frandexp.js%2F&searchtags=javascript+programming+library+regexp+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://fent.github.io/randexp.js/[fent/randexp.js @ GitHub]
+
+Ca a l'air génial, et monstrueusement dangereux.

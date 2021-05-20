@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Editor.js
+:jbake-tags: javascript,web,editor,framework,_mois_avr.,_année_2019
+:jbake-date: 2019-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1554307688000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feditorjs.io%2F&searchtags=javascript+web+editor+framework+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://editorjs.io/[Editor.js]
+
+C'est une idée sacrément intéressante ... surtout pour stocker du contenu d'une manière ... pas trop ignoble

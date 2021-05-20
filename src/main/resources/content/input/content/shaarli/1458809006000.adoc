@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Markov Chains explained visually
+:jbake-tags: programming,mathématiques,concepts,_mois_mars,_année_2016
+:jbake-date: 2016-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1458809006000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsetosa.io%2Fev%2Fmarkov-chains%2F&searchtags=programming+math%C3%A9matiques+concepts+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://setosa.io/ev/markov-chains/[Markov Chains explained visually]
+
+Très bonne explication des chaînes de Markov.

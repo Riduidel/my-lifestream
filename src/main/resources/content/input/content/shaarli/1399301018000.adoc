@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Continuous Delivery: Maturity Checklist
+:jbake-tags: devops,continuous,déploiement,développement,_mois_mai,_année_2014
+:jbake-date: 2014-05-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1399301018000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FxeEuwPLmrtk%2Fcontinuous-delivery-maturity&searchtags=devops+continuous+d%C3%A9ploiement+d%C3%A9veloppement+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/xeEuwPLmrtk/continuous-delivery-maturity[Continuous Delivery: Maturity Checklist]
+
+Et je découvre que je suis plutôt bon en termes de déploiement (merci amven/jenkins) mais assez pauvre pour le test automatisé et la distribution de code.

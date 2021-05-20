@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: <She Can Code/> - ✨Atelier de Coding Informatique pour les filles de 7 à 12 ans✨
+:jbake-tags: informatique,apprentissage,formation,enfants,_mois_nov.,_année_2019
+:jbake-date: 2019-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1573201573000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.shecancode.fr%2F&searchtags=informatique+apprentissage+formation+enfants+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.shecancode.fr/[<She Can Code/> - ✨Atelier de Coding Informatique pour les filles de 7 à 12 ans✨]
+
+L'idée est incroyablement géniale. MAIS 45 € la séance !!! On en parle ou pas ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel Ratcliffe on Twitter: "Programmers: Always use descriptive variable names Mathematicians: Single letter variable names always, ideally from obscure/dead alphabets"
+:jbake-tags: citation,programming,mathématiques,naming,_mois_sept.,_année_2017
+:jbake-date: 2017-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1504766453000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDanTwoHundred%2Fstatus%2F904697259345969152&searchtags=citation+programming+math%C3%A9matiques+naming+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/DanTwoHundred/status/904697259345969152[Daniel Ratcliffe on Twitter: "Programmers: Always use descriptive variable names Mathematicians: Single letter variable names always, ideally from obscure/dead alphabets"]
+
+Tellement vrai !

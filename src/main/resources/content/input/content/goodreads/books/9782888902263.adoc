@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo #13
+:jbake-tags:  anthropomorphisme, combat, enquête, fantasy, honeur, japon,_année_2013,_mois_janv.,_note_5,rayon-bd,read
+:jbake-date: 2013-01-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888902263.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357321456l/17208334._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357321456l/17208334._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/17208334
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Pour un samouraï sans maître, le chemin vers la paix spirituelle est jonché de périls, certains visibles, d’autres tapis dans l’ombre... Au cours de ses pérégrinations sur les routes du Japon féodal, Miyamoto Usagi se retrouve impliqué dans une série d’événements reliés entre eux par de sombres secrets et de lourds passés: une rencontre avec un jeune samouraï qui marche dans les pas de son père, un village terrorisé par une créature surnaturelle, deux séries de meurtres affreux résolus de main de maître par l’inspecteur-chef lshida, et une conspiration machiavélique visant à usurper le trône d’un seigneur. Souvenirs, mystères et trahisons s’entremêlent devant les pas de Miyamoto Usagi...<br /><br />Depuis sa première publication en 1984, le succès du lapin aux grandes oreilles n’a cessé de croître. La série a rapporté à son auteur de nombreux prix, dont le fameux Eisner Award et est traduite dans plus de 10 langues. En Français, la série totalise plus de 100.000 ventes !
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Après le monument de la bataille pour la faucheuse d'herbes, Sakai revient ici à des histoires courtes plus habituelles.<br/>On voit Usagi quitter le monastère qui l'a vu reprendre des forces pour explorer un peu la région. Ca va le conduire auprès de l'enquêteur Ishida, qui nous donne quelques enquêtes sympathiques, dans un japon un peu différent de celui que visite habituellement Usagi.
+++++

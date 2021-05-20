@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Logging levels: the wrong abstraction | IG Labs
+:jbake-tags: java,programming,api,log,_mois_avr.,_année_2017
+:jbake-date: 2017-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1493045989000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flabs.ig.com%2Flogging-level-wrong-abstraction&searchtags=java+programming+api+log+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://labs.ig.com/logging-level-wrong-abstraction[Logging levels: the wrong abstraction | IG Labs]
+
+Très intelligent changement d'API

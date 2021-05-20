@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home | Metrics
+:jbake-tags: monitoring,jmx,java,framework,open-source,_mois_mars,_année_2015
+:jbake-date: 2015-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1425542954000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdropwizard.github.io%2Fmetrics%2F3.1.0%2F&searchtags=monitoring+jmx+java+framework+open-source+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://dropwizard.github.io/metrics/3.1.0/[Home | Metrics]
+
+Créer du monitoring applicatif "facilement"

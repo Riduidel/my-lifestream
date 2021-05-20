@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cessez d'être reconnaissants envers vos salariés!
+:jbake-tags: management,agile,travail,satisfaction,_mois_mai,_année_2014
+:jbake-date: 2014-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1399970205000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmobile.lemonde.fr%2Femploi%2Farticle%2F2014%2F05%2F12%2Fcessez-d-etre-reconnaissants-envers-vos-salaries_4415043_1698637.html&searchtags=management+agile+travail+satisfaction+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://mobile.lemonde.fr/emploi/article/2014/05/12/cessez-d-etre-reconnaissants-envers-vos-salaries_4415043_1698637.html[Cessez d'être reconnaissants envers vos salariés!]
+
+L'article décrit comme solution ce que faisait (très bien) mon chef précédent ... Et qu'apparement mon chef actuel ne trouve pas correct comme façon de diriger une équipe ;-) Cela dit, ça ressemble pas mal aux solutions préconisées dans les méthodes agiles, et c'est assez logique.

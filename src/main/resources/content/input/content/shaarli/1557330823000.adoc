@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: badidea 💫 on Twitter: "If you make the evil option even one frame faster, speedrunners will always pick it. Speedrunners run games hundreds of times. Therefore, it’s an ethical imperative to make sure the good option is always faster"
+:jbake-tags: citation,jeu,éthique,_mois_mai,_année_2019
+:jbake-date: 2019-05-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1557330823000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F0xabad1dea%2Fstatus%2F1125881279117955074&searchtags=citation+jeu+%C3%A9thique+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/0xabad1dea/status/1125881279117955074[badidea 💫 on Twitter: "If you make the evil option even one frame faster, speedrunners will always pick it. Speedrunners run games hundreds of times. Therefore, it’s an ethical imperative to make sure the good option is always faster"]
+
+Une drôle de perspective sur l'intérêt d'être éthique, même dans les jeux

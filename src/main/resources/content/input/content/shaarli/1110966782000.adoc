@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spy home
+:jbake-tags: software,freeware,open-source,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110966782000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fspy.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://spy.sourceforge.net/[Spy home]
+
+Spy is a useless little tool that sucks up a tiny amount of the CPU time to display some info about your system load. Spy is as unobtrusive as possible. Its original goal was to take less screen space than the Mac OS X utility CPU Monitor. It does so by l

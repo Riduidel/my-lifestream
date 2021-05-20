@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simon Brown on Twitter: "Docker is a distraction for most software developers. Discuss..."
+:jbake-tags: infrastructure,docker,citation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1481198444000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsimonbrown%2Fstatus%2F806783854685978628&searchtags=infrastructure+docker+citation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/simonbrown/status/806783854685978628[Simon Brown on Twitter: "Docker is a distraction for most software developers. Discuss..."]
+
+Complètement d'accord

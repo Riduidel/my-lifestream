@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FindRun Robot - Mouser - Sofware - DonationCoder.com
+:jbake-tags: software,freeware,windows,system,launcher,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110984741000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.donationcoder.com%2FSoftware%2FMouser%2Ffindrun%2F&searchtags=software+freeware+windows+system+launcher+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.donationcoder.com/Software/Mouser/findrun/[FindRun Robot - Mouser - Sofware - DonationCoder.com]
+
+Find and Run Robot is a program for keyboard maniacs - it helps you rapidly find programs or documents from within the depths of the start menu (or other directories). One keypress launches the utility - then just start typing the first letters of the app

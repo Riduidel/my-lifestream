@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Webnote - an online tool for taking notes
+:jbake-tags: notes,software,web,_mois_oct.,_année_2004
+:jbake-date: 2004-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1097582893000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.aypwip.org%2Fwebnote%2F&searchtags=notes+software+web+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.aypwip.org/webnote/[Webnote - an online tool for taking notes]
+
+Webnote is a tool for taking notes on your computer. It's sort of a webified version of the Notes feature in Outlook.

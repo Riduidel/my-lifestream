@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - message-db/message-db: Microservice native message and event store for Postgres
+:jbake-tags: postgres,messaging,extension,open-source,database,_mois_déc.,_année_2019
+:jbake-date: 2019-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1577814338000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmessage-db%2Fmessage-db&searchtags=postgres+messaging+extension+open-source+database+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/message-db/message-db[GitHub - message-db/message-db: Microservice native message and event store for Postgres]
+
+Ah ah ! Un MOM implémenté sur PostgreSQL ! Faut juste voir comment il réveille les clients 😉

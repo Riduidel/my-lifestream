@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Errorname sur Twitter : "Yesterday, I gave a talk at @SnowCampIO about web accessibility and I'm super pumped about the awesome audience that was interested in how to improve the accessibility on their projet 🤗 I'll give it again at @DevfestBdM in february, come check me put if you missed it! 😊… https://t.co/4LeVLIg6r7"
+:jbake-tags: revealjs,plugin,transcription,conférence,_mois_janv.,_année_2020
+:jbake-date: 2020-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1580133659000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ferrorname_%2Fstatus%2F1220862614269501440&searchtags=revealjs+plugin+transcription+conf%C3%A9rence+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/errorname_/status/1220862614269501440[Errorname sur Twitter : "Yesterday, I gave a talk at @SnowCampIO about web accessibility and I'm super pumped about the awesome audience that was interested in how to improve the accessibility on their projet 🤗 I'll give it again at @DevfestBdM in february, come check me put if you missed it! 😊… https://t.co/4LeVLIg6r7"]
+
+La conférence de Thibault était tellement géniale que je me demande maintenant comment faire un plugin revealjs de transcription automatique.

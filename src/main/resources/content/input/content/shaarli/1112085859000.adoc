@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apple's Tipping Point: Macs for the Masses
+:jbake-tags: matériel,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1112085859000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nixlog.com%2Fapple%2F&searchtags=mat%C3%A9riel+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.nixlog.com/apple/[Apple's Tipping Point: Macs for the Masses]
+
+description of the market shares for Apple, according to its product line

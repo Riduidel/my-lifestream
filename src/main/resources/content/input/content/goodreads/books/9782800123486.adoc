@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tuez en paix (Soda, #8)
+:jbake-tags:  complot, mort,_année_2011,_mois_oct.,_note_4,new-york,read
+:jbake-date: 2011-10-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782800123486.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392149165l/3115776._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392149165l/3115776._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3115776
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/1179493.html[Bruno Gazzotti]
+* link:../authors/172554.html[Tome]
+
+## Series
+* link:../series/Soda.html[Soda]
+
+## Review
+
+++++
+Joli petit tome à l'histoire très simple, mais aux rebondissements suffisament imprévisibles pour être marrants.<br/>D'ailleurs, je ne vous en dirai rien de plus.
+++++

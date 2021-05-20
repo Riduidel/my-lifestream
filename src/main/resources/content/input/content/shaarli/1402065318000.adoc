@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 33 things you want to do better // Speaker Deck
+:jbake-tags: java,programming,software,_mois_juin,_année_2014
+:jbake-date: 2014-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1402065318000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Ftombujok%2F33-things-you-want-to-do-better-3&searchtags=java+programming+software+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://speakerdeck.com/tombujok/33-things-you-want-to-do-better-3[33 things you want to do better // Speaker Deck]
+
+Chouette présentation d'outils Java qui font vraiment gagner du temps

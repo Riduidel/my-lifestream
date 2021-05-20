@@ -1,0 +1,95 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je déteste git
+:jbake-tags: git,_mois_mars,_année_2016
+:jbake-date: 2016-03-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/03/je-deteste-git.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/03/je-deteste-git/
+:jbake-style: wordpress
+
+++++
+<p>
+Je dois me rendre à l'évidence, je déteste git.
+</p>
+<p>
+Notez que ça n'a pas grand chose à voir avec le fait que je ne soie pas spécialement fan de l'état d'esprit linuxien où la ligne de commande est reine, mais je dois bien avouer que ça n'aide pas.
+</p>
+<p>
+[caption id="attachment_3125" align="aligncenter" width="330"]<img class=" size-full wp-image-3125 aligncenter" src="https://riduidel.files.wordpress.com/2016/03/git.png" alt="git" width="330" height="478" /> Vous croyez sérieusement que j'aurais pu échapper à cette citation ?[/caption]
+</p>
+<p>
+Parce que c'est vrai que, apparemment, tous les gitters le disent, git sans la ligne de commande, c'est moins facile. Et c'est vrai que, quelquesoit le client graphique, c'est quand même loin d'être fameux : que ce soit <a href="http://www.eclipse.org/egit/">EGit</a>, <a href="https://tortoisegit.org/">TortoiseGit</a>, <a href="https://www.sourcetreeapp.com/">SourceTree</a>, dans tous les cas, les applications graphiques semblent s'écrouler dès qu'on travaille à plusieurs sur le même repository. Plus exactement, ces applications ne font pas mieux que la ligne de commande : elles ne protègent pas l'utilisateur.
+</p>
+<p>
+Parce que franchement, avec git, se tirer une balle dans le pied et se retrouver avec un repository inutilisable, c'est facile. Par exemple, hier encore, après un pull, j'avais des conflits que git n'arrivait pas à résoudre, et que je n'arrivais pas non plus à résoudre ni en stashant, ni en tentant les résolutions manuelles. Du coup, j'ai dû utiliser cette méthode de Subversionniste débutant : copier mon code en dehors de mon repository, faire un gros hard-reset, et remettre doucement le code à sa place.
+</p>
+<p>
+Et en fait, une partie de ma frustration tient également à ça : je ne crois pas que Git résolve des problèmes qu'on se pose vraiment, ou des problèmes que Subversion ne puisse pas résoudre.
+</p>
+<p>
+Parce qu'en vrai, le problème que Git résout le mieux est celui de l'arborescence d'autorité propre au noyau Linux. Vous savez, le fait que Linus Torvalds est le maître absolu, qui délègue son autorité à une arborescence de "mignons" qui s'y connaissent de moins en moins. je connais un seul projet dans lequel ce mode de fonctionnement puisse avoir un sens. Et encore, je pense que le problème vient plus de la multiplication des serveurs que d'autre chose.
+</p>
+<p>
+D'ailleurs, Git résout également très bien un autre problème, qui intéresse énormément les présentateurs de conférence, mais pas du tout les développeurs "de bureau". C'est évidement le problème de l'historique "offline" : avec Subversion, je n'ai pas connaissance d'un moyen d'avoir cet historique (et comme toutes les réponses Stackoverflow à cette question recommandent soit SVK - qui est abandonné, soit gitsvn, soit hgsvn, j'ai bien l'impression que c'est une vraie limite). Alors qu'avec Git, c'est natif. Du coup, pour le mec qui code principalement dans le train, c'est clairement avantageux. Et comme le mec code dans le train pour venir me raconter des trucs au chtijug, c'est évident qu'il sera content de me parler de Git.
+</p>
+<p>
+En revanche, il y a des trucs où Subversion est loin d'être aussi mauvais que ce qu'on croit : les merges, par exemple. Ou, depuis la 1.8, le maintien de l'historique des branches après leur réintégration. Ou même (avec Eclipse du moins) la clarté de l'interface que je n'ai pas encore retrouvé dans les clients Git.
+</p>
+<p>
+Tout ça pour dire quoi ? A part
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/705 023 558 687 322 112" class="date">2 mars 2016 à 14:34:49</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Putain de git de merde. Entre ça et PVCS, il y a zéro progrès.</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Eh bien par exemple que j'aimerais bien me débarasser de cette horreur. Ou, si ça n'est pas possible, trouver une interface humaine à ce bazar. Typiquement, je trouve que <a href="http://www.ndpsoftware.com/git-cheatsheet.html">la git cheat sheet de NDP software</a> est très bien. Et si je devias me lancer demain dans un client Swing/JavaFX pour Git, clairement, je m'appuierai dessus pour la présentation, plutôt que de me content de présenter l'historique des branches.
+</p>
+<p>
+En fait, à bien y réfléchir, je ferais un truc dual : d'une part, pour synchroniser mon espace de travail aveec l'index et la branche en cours, une vue façon SVN sync dans Eclipse.
+</p>
+<p>
+Et pour gérer mes push/pull/.... Une autre vue plus proche de ce graphe, mais matérialisant bien comment une branche passe de mon local à un ou plusieurs distants.
+</p>
+<p>
+Ah, et je gèrerai sans doute très différement le problème des merges, pour garantir à l'utilisateur qu'il fait bien ce qu'il croit.
+</p>
+++++

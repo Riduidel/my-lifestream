@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: javascript:xmlhttprequest [JPSPAN]
+:jbake-tags: web,programming,javascript,documentation,tutorial,_mois_févr.,_année_2005
+:jbake-date: 2005-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1109345602000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjpspan.sourceforge.net%2Fwiki%2Fdoku.php%3Fid%3Djavascript%3Axmlhttprequest&searchtags=web+programming+javascript+documentation+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://jpspan.sourceforge.net/wiki/doku.php?id=javascript:xmlhttprequest[javascript:xmlhttprequest [JPSPAN]]
+
+XMLHttpRequest is a native JavaScript object allowing further HTTP requests to be made from a page which has already loaded

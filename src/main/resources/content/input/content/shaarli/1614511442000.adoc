@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SCP-5500 - Fondation SCP
+:jbake-tags: scp,fantastique,mort,art,web,_mois_févr.,_année_2021
+:jbake-date: 2021-02-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1614511442000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffondationscp.wikidot.com%2Fscp-5500&searchtags=scp+fantastique+mort+art+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://fondationscp.wikidot.com/scp-5500[SCP-5500 - Fondation SCP]
+
+Que se passe-t-il quand un auteur SCP meurt ? Clairement, c'est la fin de certains mondes.

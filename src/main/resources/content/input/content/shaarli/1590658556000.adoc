@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Rust Programming Language Blog
+:jbake-tags: rust,programming,langage,actualité,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590658556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.rust-lang.org%2F&searchtags=rust+programming+langage+actualit%C3%A9+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.rust-lang.org/[The Rust Programming Language Blog]
+
+Si vous voulez des nouvelles du langage Rust lui-même (par opposition à l'écosystème), c'est là qu'il faut aller.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jessica Kerr on Twitter: "I thought I could write software that works, but no. I try to write software that can be evolved into something that works. @b0rk #>Code"
+:jbake-tags: programming,citation,_mois_janv.,_année_2017
+:jbake-date: 2017-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1484901743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjessitron%2Fstatus%2F821793654612234240&searchtags=programming+citation+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/jessitron/status/821793654612234240[Jessica Kerr on Twitter: "I thought I could write software that works, but no. I try to write software that can be evolved into something that works. @b0rk #>Code"]
+
+C'est le cas de tout le monde, mais bien peu osent l'avouer

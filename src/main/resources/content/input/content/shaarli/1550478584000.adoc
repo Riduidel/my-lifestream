@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: stephane le dorze on Twitter: "Our industry is blog post educated. This result in overhyped bad practices and total dissonance between perceived professionnal work and real solutions for beginners. Fighting this daily.."
+:jbake-tags: conférence,métier,communication,marketing,_mois_févr.,_année_2019
+:jbake-date: 2019-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1550478584000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fstephaneledorze%2Fstatus%2F1096526391636561920&searchtags=conf%C3%A9rence+m%C3%A9tier+communication+marketing+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/stephaneledorze/status/1096526391636561920[stephane le dorze on Twitter: "Our industry is blog post educated. This result in overhyped bad practices and total dissonance between perceived professionnal work and real solutions for beginners. Fighting this daily.."]
+
+C'est parfaitement vrai ... mais ça n'est pas tout

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: / keaggy.com :: The Periodic Table of Periodic Tables /
+:jbake-tags: art,visualisation,reference,_mois_mars,_année_2010
+:jbake-date: 2010-03-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1269521818000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.keaggy.com%2Fperiodictable%2F&searchtags=art+visualisation+reference+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.keaggy.com/periodictable/[/ keaggy.com :: The Periodic Table of Periodic Tables /]
+
+La table périodique des tables périodiques de visualisations diverses. une expérience intéressante ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UML Modeling Tool - JUDE
+:jbake-tags: freeware,engineering,programming,software,UML,tool,_mois_sept.,_année_2006
+:jbake-date: 2006-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1158073922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjude.change-vision.com%2Fjude-web%2Findex.html&searchtags=freeware+engineering+programming+software+UML+tool+_mois_sept.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://jude.change-vision.com/jude-web/index.html[UML Modeling Tool - JUDE]
+
+Un modeleur UML beaucoup plus simple à utiliser que les poids lourds du marché, mais tout aussi performant.

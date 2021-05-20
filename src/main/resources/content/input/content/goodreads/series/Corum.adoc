@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Corum
+:jbake-tags: serie
+:jbake-date: 2019-07-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Corum.adoc
+:jbake-source: https://www.goodreads.com/series/42327
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266137447.html[Le Chevalier des épées (Corum #1)]
+* link:../books/9782266141703.html[La Reine des épées (Corum #2)]
+* link:../books/9782266141871.html[Le Roi des épées (Corum #3)]
+* link:../books/9782266047678.html[La Lance et le Taureau (Corum #4)]
+* link:../books/9782266047739.html[Le Chêne et le Bélier (Corum #5)]
+* link:../books/9782266151542.html[Le Glaive et l'Étalon (Corum #6)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaFX + CDI (Weld) | Java Blog
+:jbake-tags: javafx,cdi,programming,tutorial,java,_mois_mai,_année_2017
+:jbake-date: 2017-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1495178944000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tutego.de%2Fblog%2Fjavainsel%2F2013%2F10%2Fjavafx-cdi-weld%2F&searchtags=javafx+cdi+programming+tutorial+java+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.tutego.de/blog/javainsel/2013/10/javafx-cdi-weld/[JavaFX + CDI (Weld) | Java Blog]
+
+Une intégration bien simple et bien propre de CDI et JavaFX

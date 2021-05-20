@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hypersonic, concours d'intelligence artificielle en ligne du samedi 24 sept. au dimanche 2 oct. 2016 - LinuxFr.org
+:jbake-tags: programming,jeu,_mois_sept.,_année_2016
+:jbake-date: 2016-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1474612526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Fhypersonic-concours-d-intelligence-artificielle-en-ligne-du-samedi-24-sept-au-dimanche-2-oct-2016&searchtags=programming+jeu+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://linuxfr.org/news/hypersonic-concours-d-intelligence-artificielle-en-ligne-du-samedi-24-sept-au-dimanche-2-oct-2016[Hypersonic, concours d'intelligence artificielle en ligne du samedi 24 sept. au dimanche 2 oct. 2016 - LinuxFr.org]
+
+Tu le fais, toi ? Parce que moi, oui (même si mon bot du jeu précédent est ... défaillant)

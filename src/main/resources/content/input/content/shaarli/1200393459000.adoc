@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 16×16 » Counterclockwise
+:jbake-tags: freeware,jeu,_mois_janv.,_année_2008
+:jbake-date: 2008-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1200393459000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.16x16.org%2Fgames%2Fccw%2F&searchtags=freeware+jeu+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.16x16.org/games/ccw/[16×16 » Counterclockwise]
+
+Une version D du jeu du serpent, avec de jolis effets, et sans doute des sensations très fun

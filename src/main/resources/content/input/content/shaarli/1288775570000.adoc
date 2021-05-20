@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: junitflux - Project Hosting on Google Code
+:jbake-tags: eclipse,java,plugin,junit,test,développement,_mois_nov.,_année_2010
+:jbake-date: 2010-11-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1288775570000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fjunitflux%2F&searchtags=eclipse+java+plugin+junit+test+d%C3%A9veloppement+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://code.google.com/p/junitflux/[junitflux - Project Hosting on Google Code]
+
+Peut-être une solution de TDD moins coûteuse que Infinitest ...

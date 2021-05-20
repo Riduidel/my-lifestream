@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maura Kelly on Twitter: "This week’s letter board. #tests https://t.co/vTC8NyrWsf"
+:jbake-tags: programming,test,_mois_avr.,_année_2017
+:jbake-date: 2017-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1493188673000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fminarets%2Fstatus%2F856660160542060544&searchtags=programming+test+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/minarets/status/856660160542060544[Maura Kelly on Twitter: "This week’s letter board. #tests https://t.co/vTC8NyrWsf"]
+
+C'est un bon principe, même si il est assez difficile à appliquer.

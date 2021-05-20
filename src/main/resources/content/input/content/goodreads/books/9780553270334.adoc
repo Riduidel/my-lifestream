@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Little Heroes
+:jbake-tags:  musique, rayon-imaginaire, rock-n-roll,_année_2005,_mois_déc.,_note_4,anticipation,read
+:jbake-date: 2005-12-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780553270334.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/633187
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+An over-the-hill rock star, a Puerto Rican street kid, and two children of the electronic age discover strength in numbers when they take on the power of Musik, Inc., in a war of nerves, passion, and rock 'n' roll. Spinrad uses the violent, sexually explicit language of new wave sf to communicate an ultimately touching message of courage and humanity that breaks through the high-tech glitter of his medium.
+</div>
+++++
+
+
+## Authors
+* link:../authors/35864.html[Norman Spinrad]
+
+
+
+## Review
+
+++++
+C’est pas tous les jours qu’on a l’occasion de lire un bouquin aussi manifestement né sous le signe du rock’n’roll. Et celui-ci est le rock fait SF. <br/>Il raconte en effet comment une société de production musicale crée des stars virtuelles pour encaisser un maximum d’oseille, en utilisant au passage tous les moyens de la technique pour "optimiser" l’impact de ses chansons. Et comment, en introduisant dans cette belle mécanique un peu d’humanité, ou de "soul", toute cette belle mécanique va leur péter à la figure en arrosant bien large. Pas la peine d’aller plus loin avec l’histoire, parce que chez Spinrad, elle est somme toute moins importante que l’univers et l’ambiance créée pour le récit. Et l’ambiance de l’industrie de la musique(1) qu’il décrit est tout à fait jubilatoire par ses excès, mais aussi par le côté visionnaire que ce bouquin a eu en décrivant très exactement l’organisation que peut avoir une boîte comme Universal music. Mais ça n’est pas tout, car des inventions comme l’orgue permettant de composer tout le morceau me rappellent clairement des applications comme GarageBand ou Guitar Pro. Dans le même ordre d’idée, les clips entièrement réalisés en images de synthèses ne m’étonnent que par leur côté visionnaire. <br/>Enfin, la construction de stars et leur lancement sur le marché, ainsi que les personnes ainsi mises en avant, ne peuvent que me rappeler cette Star’Ac à peine finissante qui a couronné, par un curieux phénomène de synchronicité, une chanteuse aux formes plus que généreuses (2) Bref, le contenu est plus que génial, avec également une société sclérosée en castes séparées par les frontières d’un habitat aux loyers immodérés. Malheureusement, les 5 ou 600 pages en contiennent à mon avis 200 de trop. Parce qu’après tout, le rock, c’est une musique percutante, rapide, et qui n’est pas faite pour durer des heures. Or c’est malheureusement le cas ici, et le récit de Spinrad s’enlise dans des péripéthies sans fin qui n’aident ni le lecteur, ni l’histoire. C’en était à un point tel que, bien des fois, j’ai failli refermer le bouquin avant la fin. Heureusement, mon éthique de lecteur m’interdisait de tels actes; Et c’est épuisé comme par un woodstock littéraire que j’ai arrêté cette lecture qui part sur de très bonnes bases avant de s’enliser dans sa propre masse. <br/><br/>(1) Un terme qu’il aurait dû inventer<br/>(2) Pour lesquelles la description faite dans link:../series/Maijstral.html[<strike>Masquarade</strike> Maijstral] convient tout à fait : "un caractère en or … et quels beaux cheveux !".
+++++

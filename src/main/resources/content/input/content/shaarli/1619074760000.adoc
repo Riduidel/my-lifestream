@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SwiftOnSecurity sur Twitter : "If you're an IT eng in a smaller shop you can do incredible things that absolutely outclass bigger networks. You haven't seen it and don't know this but trust me. Humans have massive problems with scaling and this holy land you dream "if only you were larger" does not exist." / Twitter
+:jbake-tags: citation,organisation,développement,entreprise,échelle,_mois_avr.,_année_2021
+:jbake-date: 2021-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1619074760000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSwiftOnSecurity%2Fstatus%2F1385022532655280129&searchtags=citation+organisation+d%C3%A9veloppement+entreprise+%C3%A9chelle+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/SwiftOnSecurity/status/1385022532655280129[SwiftOnSecurity sur Twitter : "If you're an IT eng in a smaller shop you can do incredible things that absolutely outclass bigger networks. You haven't seen it and don't know this but trust me. Humans have massive problems with scaling and this holy land you dream "if only you were larger" does not exist." / Twitter]
+
+Je suis franchement d'accord. J'ai bossé dans un certain nombre de petites boîtes qui étaient d'une efficacité folle.

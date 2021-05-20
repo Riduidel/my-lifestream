@@ -1,0 +1,48 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Et comment opérer ce système ?
+:jbake-tags: architecture_agile,_mois_avr.,_année_2020
+:jbake-date: 2020-04-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/16/et-comment-operer-ce-systeme.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/16/et-comment-operer-ce-systeme/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série sur la documentation d'architecture agile en utilisant C4. On a donc maintenant un système déployé en prod, sur lequel on a défini l'architecture, le déploiement. Il ne reste plus qu'un sujet important : comment opérer ce système.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce qui pose une première question  est-ce la responsabilité d'un architecte de définir cet aspect ? La réponse est évidement oui. Parce que comme le disait un responsable dans mon entreprise : </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Dans un projet, l'architecte arrive en premier, et part en dernier</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Et si je prend les choses sous cet angle, bien sûr que la responsabilité de l'architecte inclut la définition des opérations ! Ce qui amène à la deuxième question : ça veut dire quoi opérer ? (et ça, ça va plaire à mes collègues spécialistes, parce que je vais dire des choses incorrectes). Si on se réfère au <a href="https://structurizr.com/help/documentation/operation-and-support">modèle de Simon Brown</a>, ça inclut</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>La gestion des logs</li><li>Le monitoring</li><li>La tracabilité des opérations (bon, en anglais on parlerait de <a href="http://geoconfluences.ens-lyon.fr/glossaire/tracabilite-tracing-et-tracking">tracing</a> avec par exemple Dynatrace ou d'observabilité)</li><li>Le <a href="https://dico.developpez.com/html/1150-Gestion-de-projet-dossier-dexploitation.php">DEX</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>J'ai mis le dernier point sans y croire un seul instant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le DEX fait partie de ces éléments qui à mon sens doivent disparaître dans une architecture moderne. En effet, celui-ci définit l'ensemble des gestes à effectuer périodiquement ou en cas de problème "simple" pour que la personne d'astreinte relance rapidement le système. Or tout l'objectif des architectures modernes est de vider ce dernier de son sens : quand vous utilisez un orchestrateur, celui-ci s'occupe déjà de rebalancer les conteneurs quand ils se trouvent sur une machine surchargée, il peut également ajouter automatiquement des instances en cas de besoin. Du coup, le DEX devient un peu inutile.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si on en revient aux autres aspects, ils sont très intéressants dans l'absolu. Toutefois, ces outils sont la plupart du temps des outils définis par l'entreprise. Du coup, vous n'aurez pas vraiment la liberté de choisir la solution de votre choix (sauf si vous êtes dans une start-up bien dotée). Et cette partie ne sera en fait qu'une liste de liens vers les outils du groupe dans lesquels vous aurez configuré vos environnements.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tout ça implique que cette partie sera assez légère. Ca ne veut pas dire qu'il ne faut pas la travailler, évidement. En plus, quand cette partie est terminée, vous avez terminé votre documentation d'architecture ! Bon, en fait, il reste un dernier chapitre concernant les décisions que vous avez pris, et que je vous garde ... pour plus tard.</p>
+<!-- /wp:paragraph -->
+++++

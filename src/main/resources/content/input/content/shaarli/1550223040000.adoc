@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Principles of container-based application design
+:jbake-tags: programming,architecture,conteneur,configuration,_mois_févr.,_année_2019
+:jbake-date: 2019-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1550223040000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.redhat.com%2Fen%2Fresources%2Fcloud-native-container-design-whitepaper&searchtags=programming+architecture+conteneur+configuration+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.redhat.com/en/resources/cloud-native-container-design-whitepaper[Principles of container-based application design]
+
+Une vision alternative aux 12factors, qui fournit un point d'entrée sympa dans le monde des conteneurs

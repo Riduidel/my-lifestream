@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Top Posts of 2013: The Principles of Java Application Performance Tuning
+:jbake-tags: java,développeur,performance,profiling,_mois_déc.,_année_2013
+:jbake-date: 2013-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1388413110000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FvVCWIPlzAKg%2Fprinciples-java-application&searchtags=java+d%C3%A9veloppeur+performance+profiling+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/vVCWIPlzAKg/principles-java-application[Top Posts of 2013: The Principles of Java Application Performance Tuning]
+
+Très chouette article sur l'optimisation de performances en java. j'aime beaucoup le fait qu'ils se posent \*en premier\* la question des performances demandées. Rien que ça, \_ça fait du bien. via http://java.dzone.com/

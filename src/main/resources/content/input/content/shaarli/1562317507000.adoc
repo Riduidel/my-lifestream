@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: thesextonlawfirm/davidsexton - Docker Hub
+:jbake-tags: docker,marketing,spam,_mois_juil.,_année_2019
+:jbake-date: 2019-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1562317507000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhub.docker.com%2Fr%2Fthesextonlawfirm%2Fdavidsexton&searchtags=docker+marketing+spam+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hub.docker.com/r/thesextonlawfirm/davidsexton[thesextonlawfirm/davidsexton - Docker Hub]
+
+Etre avocat aux USA, c'est pas forcément facile ... Et du coup le mec se dit qu'il peut utiliser Docker hub comme plateforme de pub ?

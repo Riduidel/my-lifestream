@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco 🇪🇺 on Twitter: "Lifecycle of any meaningful user interface… "
+:jbake-tags: interface,gui,citation,humour,command-line,_mois_mars,_année_2019
+:jbake-date: 2019-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1551426778000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F1101151466662871040&searchtags=interface+gui+citation+humour+command-line+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/1101151466662871040[Mario Fusco 🇪🇺 on Twitter: "Lifecycle of any meaningful user interface… "]
+
+Tellement vrai ... et tellement déprimant à la fin (je déteste la ligne de commande)

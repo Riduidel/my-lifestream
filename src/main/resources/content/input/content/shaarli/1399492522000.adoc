@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Where is the Foreman? | 8th Light
+:jbake-tags: développement,méthode,agile,qualité,_mois_mai,_année_2014
+:jbake-date: 2014-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1399492522000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.8thlight.com%2Funcle-bob%2F2014%2F02%2F21%2FWhereIsTheForeman.html%3Futm_content%3Dbuffer9c2a4%26utm_medium%3Dsocial&searchtags=d%C3%A9veloppement+m%C3%A9thode+agile+qualit%C3%A9+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.8thlight.com/uncle-bob/2014/02/21/WhereIsTheForeman.html?utm_content=buffer9c2a4&utm_medium=social[Where is the Foreman? | 8th Light]
+
+Rho, alors ça c'est une sacrée modification des habitudes de travail des développeurs ... Bon, en fait, c'est plutôt une grosse évolution de la façon de faire des code reviews, mais j'en comprends parfaitement le principe. Dommage que je n'aie pas les moyens de l'appliquer actuellement.

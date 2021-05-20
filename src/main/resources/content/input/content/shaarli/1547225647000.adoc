@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fred Hebert on Twitter: "At this point I have the feeling that the Kubernetes + Golang's ever-churning set of tools and components ecosystem is to DevOps what the Javascript never-ending web framework dance is to the front-end."
+:jbake-tags: citation,programming,critique,écosystème,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547225647000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmononcqc%2Fstatus%2F1083438674791010306&searchtags=citation+programming+critique+%C3%A9cosyst%C3%A8me+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mononcqc/status/1083438674791010306[Fred Hebert on Twitter: "At this point I have the feeling that the Kubernetes + Golang's ever-churning set of tools and components ecosystem is to DevOps what the Javascript never-ending web framework dance is to the front-end."]
+
+Ca fait mal ... Parce que c'est assez vrai

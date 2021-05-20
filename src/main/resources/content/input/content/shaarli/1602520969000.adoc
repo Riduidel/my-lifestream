@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What are Linux keyring, gnome-keyring, Secret Service, D-Bus
+:jbake-tags: linux,écosystème,connexion,service,sécurité,_mois_oct.,_année_2020
+:jbake-date: 2020-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1602520969000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frtfm.co.ua%2Fen%2Fwhat-is-linux-keyring-gnome-keyring-secret-service-and-d-bus%2F&searchtags=linux+%C3%A9cosyst%C3%A8me+connexion+service+s%C3%A9curit%C3%A9+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://rtfm.co.ua/en/what-is-linux-keyring-gnome-keyring-secret-service-and-d-bus/[What are Linux keyring, gnome-keyring, Secret Service, D-Bus]
+
+Il y a un allemand qui veut merger une PR dans rrss2imap (très cool) pour utiliser keyring-rs et dbus pour stocker le mot de passe imap. Du coup je dois comprendre un peu comment ça marche (pour que l'intégration continue fonctionne)

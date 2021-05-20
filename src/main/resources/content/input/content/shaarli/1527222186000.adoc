@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lagergren on Twitter: "So Oracle executed another death by open source and laid off the entire Mission Control Team. 10 years of advanced tech know-how down the drain. The good part is that I temporarily have a housewife with full pay who can stay at home with two sick kids today."
+:jbake-tags: entreprise,oracle,java,_mois_mai,_année_2018
+:jbake-date: 2018-05-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1527222186000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flagergren%2Fstatus%2F999911019089559552&searchtags=entreprise+oracle+java+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/lagergren/status/999911019089559552[Lagergren on Twitter: "So Oracle executed another death by open source and laid off the entire Mission Control Team. 10 years of advanced tech know-how down the drain. The good part is that I temporarily have a housewife with full pay who can stay at home with two sick kids today."]
+
+Un jour, je comprendrai pourquoi Oracle a racheté Sun ...

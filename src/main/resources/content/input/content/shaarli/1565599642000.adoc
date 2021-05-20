@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Here be (owned) books :: Hauleth — Blog about BEAM, Rust, fantasy & stuff
+:jbake-tags: rust,programming,concepts,_mois_août,_année_2019
+:jbake-date: 2019-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1565599642000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhauleth.dev%2Fpost%2Feli5-ownership%2F&searchtags=rust+programming+concepts+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hauleth.dev/post/eli5-ownership/[Here be (owned) books :: Hauleth — Blog about BEAM, Rust, fantasy & stuff]
+
+Un article vraiment très chouette sur l'ownership en Rust

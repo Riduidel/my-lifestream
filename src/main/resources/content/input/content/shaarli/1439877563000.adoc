@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Structurizr
+:jbake-tags: software,architecture,documentation,generation,_mois_août,_année_2015
+:jbake-date: 2015-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1439877563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstructurizr.com%2F&searchtags=software+architecture+documentation+generation+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://structurizr.com/[Structurizr]
+
+Un outil de génération de schémas d'architecture depuis le code. Très chouette ! Malheureusement, c'est du semi-SAAS, donc l'architecture de mon code sera exposée sur un site web que je ne maîtrise pas ... Ca réveille ma paranoïa.

@@ -1,0 +1,294 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Asciidoc for the win !
+:jbake-tags: asciidoc,documentation,structurizr,_mois_févr.,_année_2017
+:jbake-date: 2017-02-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/02/23/asciidoc-for-the-win.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/02/23/asciidoc-for-the-win/
+:jbake-style: wordpress
+
+++++
+<p>
+Il y a quelques temps, j'avais écrit un article expliquant <a href="https://riduidel.wordpress.com/2017/01/13/ne-livrez-pas-de-document-office/">pourquoi les documents Office n'étaient pas de bons livrables</a>. J'y indiquais par ailleurs qu'Asciidoc me semblait une bonne alternative.
+</p>
+<p>
+Mais un format, ça n'est qu'un format. Une documentation, ça n'est hélas pas qu'un format technique de document. C'est aussi, avant tout, le moyen de raconter l'histoire du logiciel. Et parfois, ça n'est pas facile
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/simonbrown" class="screenName"><img src="http://pbs.twimg.com/profile_images/1326809575782313987/EWeNACF1_mini.jpg" alt="profile of Author "Software Architecture for Developers" | C4 model & @structurizr for software architecture diagramming | Keynote speaker & trainer | 🌎✈️👨‍💻☕️🏄🏻‍♂️"/>simonbrown</a>
+<br/>
+<span class="name">Simon Brown</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/simonbrown/status/831 760 029 879 517 186" class="date">15 févr. 2017 à 08:00:19</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">I'm still surprised by the number of teams who have no documentation for mission-critical software systems.</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<h2>A la recherche du bon format</h2>
+<br/>
+Pas son histoire au sens biographique, mais plus son usage, son architecture, bref, l'ensemble des éléments qui contraignent son code à avoir sa structure. Autrement dit, les éléments qui donnent les réponses aux questions invraissemblables que se posent un développeur.
+</p>
+<p>
+[caption id="attachment_4184" align="alignnone" width="744"]<img class="alignnone size-full wp-image-4184" src="https://riduidel.files.wordpress.com/2017/02/you_down_wit_opc-yeah_you_know_me.png" alt="you_down_wit_opc-yeah_you_know_me" width="744" height="612" /> C'est pas que je déteste, c'est que je comprend pas l'histoire[/caption]
+</p>
+<p>
+Et ça, que j'écrive ma doc dans Word, en Asciidoc, en LaTeX, la question se pose toujours : pourquoi ces décisions ont été prises.
+</p>
+<p>
+Heureusement, j'ai découvert il y a quelques temps le format de documentation agile de Simon Brown, qu'il documente dans <a href="https://www.structurizr.com/help/documentation">la doc de Structurizr</a>.
+</p>
+<p>
+Regardons ensemble le sommaire :
+<br/>
+<ol>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/context">Context</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/functional-overview">Functional Overview</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/quality-attributes">Quality Attributes</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/constraints">Constraints</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/principles">Principles</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/software-architecture">Software Architecture</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/code">Code</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/data">Data</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/infrastructure-architecture">Infrastructure Architecture</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/deployment">Deployment</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/development-environment">Development Environment</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/operation-and-support">Operation and Support</a></li>
+<br/>
+<li><a href="https://www.structurizr.com/help/documentation/decision-log">Decision Log</a></li>
+<br/>
+</ol>
+<br/>
+Et maintenant, imaginez ce que ça donne pour votre projet. Tous les aspects sont documentés dans un seul gros document Word. C'est pénible ... heureusement, là, asciidoc peut vous aider.
+</p>
+<p>
+Je vous montre : si votre doc est en asciidoc, vous pouvez faire des <a href="http://asciidoctor.org/docs/user-manual/#include-directive">include</a>.
+</p>
+<p>
+Et donc, vous pouvez avoir un dossier de doc qui ressemble un peu à ça
+<br/>
+<ul>
+<br/>
+<li><code><code>monprojet.adoc</code></code></li>
+<br/>
+<li><code>images/</code> Vous mettez toutes vos images là-dedans</li>
+<br/>
+<li><code>includes</code> Et chacun des chapitres de votre doc est un document séparé dans ce dossier.
+<br/>
+<ul>
+<br/>
+<li><code>/00_intro.adoc</code></li>
+<br/>
+<li><code>/01_context.adoc</code></li>
+<br/>
+<li><code>/02_functional_overview.adoc</code></li>
+<br/>
+<li><code>/03_quality_attributes.adoc</code></li>
+<br/>
+<li><code>/04_constraints.adoc</code></li>
+<br/>
+<li><code>/05_principles.adoc</code></li>
+<br/>
+<li><code>/06_software_architecture.adoc</code></li>
+<br/>
+<li><code>/07_code</code> Si vous avez des éléments à détailler, n'hésitez pas à créer des sous-dossiers
+<br/>
+<ul>
+<br/>
+<li><code>/un_detail.adoc</code></li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+<li><code>/07_code.adoc</code></li>
+<br/>
+<li><code>/08_data.adoc</code></li>
+<br/>
+<li><code>/09_infrastructure_architecture.adoc</code></li>
+<br/>
+<li><code>/10_deployment.adoc</code></li>
+<br/>
+<li><code>/11_development_environment.adoc</code></li>
+<br/>
+<li><code>/12_operation_and_support.adoc</code></li>
+<br/>
+<li><code>/13_usage.adoc</code></li>
+<br/>
+<li><code>/14_decision_log.adoc</code></li>
+<br/>
+<li><code>/99_faq.adoc</code></li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+Du coup, avec tout ça, vous avez une documentation correctement découpée, dans laquelle vous mettez vos diagrammes UML (ou autres) générés avec asciidoctor-diagram, et vous êtes content ...
+</p>
+<p>
+Bon, et puis si vous n'êtes pas contents de ce format, Simon Brown mentionne également le support d'arc42, qui a l'air tout aussi intéressant :
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/simonbrown" class="screenName"><img src="http://pbs.twimg.com/profile_images/1326809575782313987/EWeNACF1_mini.jpg" alt="profile of Author "Software Architecture for Developers" | C4 model & @structurizr for software architecture diagramming | Keynote speaker & trainer | 🌎✈️👨‍💻☕️🏄🏻‍♂️"/>simonbrown</a>
+<br/>
+<span class="name">Simon Brown</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/simonbrown/status/832 599 822 972 620 800" class="date">17 févr. 2017 à 15:37:21</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Structurizr now supports the @arc42Tipps documentation template; example -> https://t.co/lEwIj9Mrxh & code -> https://t.co/gn71mtGfQP #arc42 https://t.co/ONHUYxPaqX</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/C439H71WAAM7zGx.png" alt="832 599 818 895 753 219"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+A un détail près.
+</p>
+<p>
+Parfois, il y a du code que vous voulez voir généré pour le mettre dans la doc.
+</p>
+<p>
+Par exemple, si vous utilisez le <a href="https://docs.oracle.com/javase/7/docs/api/java/util/ServiceLoader.html">ServiceLoader </a>de Java, savoir quelles classes implémentent une interface sans avoir à chercher dans Eclipse, c'est cool.
+<br/>
+<h2>Tant qu'à générer la doc, pourquoi ne pas générer la doc ?</h2>
+<br/>
+Parce qu'en fait, votre doc asciidoc, vous la générez, pas vrai ? Si vous faites du maven, vous utilisez sans doute le maven-asciidoc-plugin. Je vais faire l'hypothèse que vous êtes dans ce cas.
+</p>
+<p>
+Et dans ce cas, si vous avez besoin d'avoir un morceau de la doc qui dépende plus directement du code, vous pouvez tout à fait ... utiliser Groovy pour générer des fichiers asciidoc qui vont bien !
+</p>
+<p>
+Typiquement, pour mon exemple, j'ai un script Groovy qui a dans son CLASSPATH tous les modules de mon application, et qui à l'aide de <a href="https://github.com/ronmamo/reflections">reflections </a>recherche les implémentations de l'interface pour générer un tableau Asciidoc les affichant.
+</p>
+<p>
+Et comme ce script Groovy est lancé grâce à <a href="https://groovy.github.io/gmaven/">gmaven </a>avant la génération de la doc, cette partie est toujours à jour.
+<br/>
+<h2>Et pour un projet multimodule ?</h2>
+<br/>
+Pour l'instant, j'ai juste testé ça une fois, et d'une façon non satisfaisante. Comme j'arrivais sur un projet existant, j'ai simplement ajouté un module doc isolé du reste de l'application.
+</p>
+<p>
+Je pense que j'aurais eu une doc d'une bien meilleure qualité si j'avais mis la doc dans chaque module avec des includes bien costauds dans la doc du module global (voire même des morceaux complètement générés). Evidement, dans ce genre de cas, la génération de la documentation doit également être documentée ...
+<br/>
+<h2>Donc ça marche bien ?</h2>
+<br/>
+Oh que oui !
+</p>
+<p>
+Ecrire de la doc est presque agréable, et les aspects générationnels sont une distraction encore plus agréable. Sans même parler de la fusion de cette doc et des différents diagrammes qui y sont intégrés.
+</p>
+<p>
+Mais je crois qu'on peut aller encore beaucoup plus loin. Pas directement avec cette technique, mais sans doute en amont, via des graphes.
+<br/>
+<h2>On pourrait faire encore mieux ?</h2>
+<br/>
+Je vous donne quelques exemples.
+</p>
+<p>
+Pour décrire votre applications, vous utilisez en fait plusieurs graphes
+<br/>
+<ul>
+<br/>
+<li>L'architecture conceptuelle (ou fonctionnelle) décrit comment les composants remplissent les fonctions</li>
+<br/>
+<li>L'architecture applicative organise ces composants en modules</li>
+<br/>
+<li>L'architecture technique montre comment ces composants se déploient.</li>
+<br/>
+</ul>
+<br/>
+Tout ça est censé être à peu près couvert par Structurizr.
+</p>
+<p>
+Mais d'autres éléments ne le sont pas : quand je décris une organisation de classe, c'est aussi un graphe. Et un diagramme de séquence pourrait tout à fait être construit à partir du code un peu annoté.
+</p>
+<p>
+Imaginez que je dispose d'un modèle comme celui de Structurizr, mais enrichi à la fois avec les informations du code (pour produire les différents diagrammes de bas niveau), et pour lequel je puisse générer des diagrammes via une quelconque syntaxe de recherche des noeuds dans un graphe. Je pourrais alors demander facilement des trucs comme
+<br/>
+<blockquote>Dessine-moi le diagramme de séquence partant de cette interaction Javascript et incluant les échanges avec le serveur, la base de données, et le composant Java bidule</blockquote>
+<br/>
+Et d'un coup, je n'ai plus un simple outil de documentation, mais un outil d'analyse et de compréhension de mon code, que je peux ensuite faire produire un truc que j'ai bien galéré à faire il y a quelques temps :
+<br/>
+<blockquote>Fais-moi un diagramme de composant où les classes sont coloriés en fonction de leur dette technique</blockquote>
+<br/>
+Bon, c'est une très chouette idée, et je sais à peu près comment l'implémenter ... Mais c'est malheureusement encore un projet de plus. Et mon temps est déjà bien rempli.
+</p>
+++++

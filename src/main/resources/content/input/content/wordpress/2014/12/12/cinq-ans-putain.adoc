@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cinq ans, putain !
+:jbake-tags: métier,philosophie,_mois_déc.,_année_2014
+:jbake-date: 2014-12-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/12/12/cinq-ans-putain.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/12/12/cinq-ans-putain/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme il me reste plus que cinq jours de présence dans celle qui sera bientôt mon ancienne entreprise, je pense que le moment est parfaitement adéquat pour me lancer dans une petite série d'articles revenant sur <a href="http://riduidel.wordpress.com/2009/10/09/et-cest-reparti-pour-un-tour/">ces cinq années de présence dans une boîte qui s'est appelée Perigee</a>.
+</p>
+<p>
+Je vais, pour ce premier article, ne pas vous parler de ce qui m'a occupé pendant quatre de ces cinq années : une espèce d'usine à gaz permettant de générer des catalogues grâce à Indesign.
+</p>
+<p>
+Parce que la technique est chiante. Surtout quand c'est l'une de ces horreurs dont Adobe a le secret (oui, je parle d'Indesign).
+</p>
+<p>
+Parce que, quand ce projet a commencé, l'idée (en 2010, donc) de créer un nouveau logiciel dont le seul objectif était de produire du papier me paraissait anachronique (pour être gentil).
+</p>
+<p>
+Bref ...
+</p>
+<p>
+En fait, c'est la première fois dans ma carrière que j'ai eu la chance de pouvoir prendre des décisions impactantes pour un développement logiciel, mais aussi la première fois que j'ai pu vivre un projet de la première idée farfelue à sa réalisation concrète. Et même si le projet est un échec commercial, c'est également, de mon point de vue, une certaine forme de réussite technique ... une réussite aussi évidente que pourrait l'être, dans un autre domaine, <a href="fr.wikipedia.org/wiki/LCAC">un aéroglisseur de transport de troupes</a> : en dehors de son domaine d'utilisation, c'est lourd, lent, pénible, insupportable, même. Mais dans son domaine, c'est la meilleure solution possible ... ou presque. Toujours est-il que voir un logiciel se construire de la première à la dernière brique est une sacrée aventure collective.
+</p>
+<p>
+Et je crois que c'est la principale transformation que m'a fait subir <a href="https://www.linkedin.com/pub/xavier-lernould/a/785/701">mon mentor local</a> : comprendre que si le codage ets une étape nécessitant de la tranquilité, le développement d'un logiciel, pris comme un tout, est avant tout un travail d'équipe nécessitant de la communication. Et pas n'importe laquelle. J'ai l'impression que le développement st de l'ordre de la <a href="http://fr.wikipedia.org/wiki/Ma%C3%AFeutique_%28philosophie%29">maïeutique</a>. En effet, l'équipe dans son ensemble cherche à donner corps à une idée, pour le simple développement, ou à comprendre ce qui dysfonctionne, dans le cas plus courant de la correction de bug.
+</p>
+<p>
+Quoi ?
+</p>
+<p>
+Vous me dites que vous ne comprenenez pas pourquoi je parle plus de correction de bugs que de développement ?
+</p>
+<p>
+Eh bien c'est aussi l'une des grandes leçons de ce développement : même pour un nouveau développement, même pour un bout de code qui n'a pas encore passé l'épreuve du client, on passe plus de temps à reprendre du code qu'à en écrire du nouveau.
+</p>
+<p>
+Et je pourrais développer ça sur quinze pages, mais ça me forcerait à entrer dans des considérations techniques qui ne sont pas le sujet de ce texte ... mais peut-être du prochain.
+</p>
+++++

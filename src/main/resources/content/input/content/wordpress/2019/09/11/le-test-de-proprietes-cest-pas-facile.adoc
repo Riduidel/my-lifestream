@@ -1,0 +1,62 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le test de propriétés, c'est pas facile
+:jbake-tags: java,junit,programming,tdd,test,_mois_sept.,_année_2019
+:jbake-date: 2019-09-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/09/11/le-test-de-proprietes-cest-pas-facile.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/09/11/le-test-de-proprietes-cest-pas-facile/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Au DevFest Lille, j'ai assisté à une chouette présentation sur le test de propriétés (ou property based testing). Regardez, c'est là :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https://www.youtube.com/watch?v=TKsiX7Alslg","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=TKsiX7Alslg
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Ca m'a un bien tapé dans l'oeil pour plusieurs raisons.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>On peut facilement tester de nombreux cas</li><li>Les outils de réduction aux cas élémentaires permettent de trouver facilement des reproductions minimales</li><li>La construction des jeux de tests est un truc assez fou</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Donc j'ai essayé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je me suis dit que j'allais me mettre dans un cas simple en prenant ... <a href="https://www.codingame.com/training/easy/1d-spreadsheet">un jeu Codingame</a> !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai donc créé mon projet maven, ajouté <a href="https://jqwik.net/">jqwik </a>à mes dépendances, écrit un premier test annoté <code>@Example</code> (ce qui revient à faire un test unitaire classique), et j'ai ensuite essayé d'étendre le truc à des cas plus complexes. Et c'est là que c'est parti en sucette. Parce qu'autant la présentation de Julien que les articles que j'ai pu consulter (comme l'excellent <a href="https://fsharpforfunandprofit.com/posts/property-based-testing-2/">Choosing properties for properties-based testing</a>) semblent parti de l'hypothèse que je sais très bien ce que sont ces fameuses propriétés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or, pour autant que j'ai pu le lire, il me semble qu'il s'agit de propriétés d'ordre mathématique, très facilement applicables au monde fonctionnel, mais un peu plus délicates à faire apparaître dans du code plutôt objet (comme celui que j'ai naturellement tendance à écrire). Et du coup, j'ai eu du mal, mais vraiment beaucoup de mal, à écrire des tests valables.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La preuve, mon seul test de propriétés ne teste à peu près rien : simplement le fait que quand j'ajoute une ligne d'opération, elle est bien ajoutée. Et pour en arriver là, j'en ai bavé, parce qu'il a fallu que j'arrive à <a href="https://jqwik.net/docs/current/user-guide.html#stateful-testing">créer des listes d'opération</a> de manière aléatoire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'allais donc expliquer à quel point c'était compliqué de construire des tests de propriétés valables.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et puis j'ai relu la page d'accueil de jqwik, qui insiste lourdement sur la construction des données de test (et le fait de créer en fait des tests classiques en utilisant des oracles simples). Et je me suis senti con.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, je réessayerai très volontiers cette méthode, qui paraît très efficace pour explorer efficacement un ensemble de valeurs et en trouver les cas limites.</p>
+<!-- /wp:paragraph -->
+++++

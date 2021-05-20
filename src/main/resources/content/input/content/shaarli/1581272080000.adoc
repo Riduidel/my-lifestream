@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programmation par Traits sous l'influence de la gestion mémoire (Didier Plaindoux) - YouTube
+:jbake-tags: rust,programming,présentation,mémoire,type,performance,_mois_févr.,_année_2020
+:jbake-date: 2020-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1581272080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DszrR4Klixdk%26list%3DWL%26index%3D3%26t%3D0s&searchtags=rust+programming+pr%C3%A9sentation+m%C3%A9moire+type+performance+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=szrR4Klixdk&list=WL&index=3&t=0s[Programmation par Traits sous l'influence de la gestion mémoire (Didier Plaindoux) - YouTube]
+
+Si tu veux des infos sur Rust dans un format un peu plus sophistiqué que le fameux "oulala il ya du borrowing", le fond de cette présentation est vraiment chouette (mais la forme est un peu faible, à mon goût)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WeatherSpark | Interactive Weather Charts
+:jbake-tags: météo,carte,statistiques,_mois_mars,_année_2011
+:jbake-date: 2011-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1300176842000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fweatherspark.com%2F%23graphs%3Ba%3DFrance%2FLille&searchtags=m%C3%A9t%C3%A9o+carte+statistiques+_mois_mars+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://weatherspark.com/#graphs;a=France/Lille[WeatherSpark | Interactive Weather Charts]
+
+Ca faisait longtemps que je cherchais un site de météo capable de me produire des graphes statistiques sr quelques années, histoire de pouvoir prévoir mes vacances à l'avance. Ben là, j'ai trouvé.

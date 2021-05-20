@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le XXIème siècle sera paranoïaque
+:jbake-tags: intimité,politique,sécurité,surveillance,_mois_déc.,_année_2013
+:jbake-date: 2013-12-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/12/19/le-xxieme-siecle-sera-paranoiaque.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/12/19/le-xxieme-siecle-sera-paranoiaque/
+:jbake-style: wordpress
+
+++++
+<p>
+Mon krissfeed m'a ramené ce matin cet article de Maïa Mazaurette : <a href="http://www.gqmagazine.fr/sexactu/articles/nouvelles-de-la-paranoia-peut-on-encore-se-masturber-devant-son-ordinateur/21613">Nouvelles de la paranoïa : peut-on encore se masturber devant son ordinateur ?</a>
+</p>
+<p>
+Je ne trouve pas ce texte de Maïa Mazaurette anodin. Mais alors pas du tout.
+</p>
+<p>
+Normalement, c'est une blogueuse sexe.
+</p>
+<p>
+Normalement elle parle de sex-toys, d'huiles de massage et autres harnais à sexe-balançoire.
+</p>
+<p>
+Et là, elle nous montre ce qu'est la paranoïa sur internet. C'est mauvais signe. Mauvais signe parce que cet article est un signe indiscutable de paranoïa : mettre un post-it sur sa webcam juste parce qu'on risque d'être espionné ? Et puis quoi encore ?
+</p>
+<p>
+Malheureusement, c'est une paranoïa justifiée. L'utilisation des webcams de manière furtive par le FBI est un fait documenté, et je ne peux pas iamginer que si le FBI le fait, d'autres services - moins respectueux du respect de la vie privée des citoyens d'autres pays que le leur - le font aussi. Comme par exemple (non exclusif) la NSA, la CIA, la DGSE, ... Et comme Maïa l'indique également, le fait est que des hackers pratiquent également ce genre d'intrusion dans votre salon/bureau/chambre/... Bon, ces hackers le font ... sans doute grâce aux backdoors installées dans les systèmes pour les dits services de renseignement.
+</p>
+<p>
+Sur le même thème, l'article de Charles Stross  "<a href="http://www.antipope.org/charlie/blog-static/2013/12/trust-me.html">Trust me, I'm a kettle</a>" va beaucoup plus loin, en particulier dans la direction de l'internet des objets. Et égalemement dans une forme de paranoïa particulière, qui est également celle de Maïa.
+</p>
+<p>
+Cette paranoïa (j'imagine qu'elle a un nom médical, mais la wikiedpia n'est aps claire sur le sujet) m'apparaît (parce qu'elle me touche, je pense) comme une paranoïa dirigée contre les autorités. Une forme un peu névrotique du slogan de Watchmen : "<a href="https://fr.wikipedia.org/wiki/Quis_custodiet_ipsos_custodes%3F">who watches the watchers</a>" (à défaut d'une capture, j'ai dû me contenter de la wikipedia). En effet, chaque jour ou presque, nos gouvernants élus prennent des mesures pour "nous protéger", "rendre le monde plus sûr". Au-delà de la bêtise formidable de ces slogans, il faut voir que chaque fois qu'une activité, qu'un site, qu'un ouvrage devient illégal, on crée à la fois une demande supérieure ET la sensation pour les citoyens que l'Etat, loin de les protéger, les enferme dans un cocon certes doux et chaud, mais dont l'état ne veut pas qu'on sorte.
+</p>
+<p>
+Avec ce cocon vient évidement l'arsenal de surveillance panoptique, lequel contient donc désormais toutes les webcams connectées. C'est ce genre de choses qui me font penser que les "déomcraties occidentales" ne verront peut-être pas la fin du XXIème siècle : à chaque fois, leurs usages des moyens de communication moderne sont des usages déviants, et encore plus névrotiques que la paranoïa à laquelle je cède ici.
+</p>
+++++

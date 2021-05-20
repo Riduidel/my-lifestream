@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Merchant Princes Universe
+:jbake-tags: serie
+:jbake-date: 2011-10-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Merchant_Princes_Universe.adoc
+:jbake-source: https://www.goodreads.com/series/246991
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253159834.html[Une affaire de famille (Les Princes-Marchands #1)]
+* link:../books/9782253159841.html[Un secret de famille (Les Princes-Marchands #2)]
+* link:../books/9782253159858.html[Famille et Cie (Les Princes-Marchands #3)]
+* link:../books/9782253164616.html[La Guerre des familles (Les Princes-Marchands #4)]

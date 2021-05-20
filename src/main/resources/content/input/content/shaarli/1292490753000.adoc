@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: markdown-doclet - Project Hosting on Google Code
+:jbake-tags: java,documentation,javadoc,markdown,_mois_déc.,_année_2010
+:jbake-date: 2010-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1292490753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fmarkdown-doclet%2F&searchtags=java+documentation+javadoc+markdown+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://code.google.com/p/markdown-doclet/[markdown-doclet - Project Hosting on Google Code]
+
+Un doclet permettant d'écrire la javadoc en markdown .... comme par exemple dans StackOverflow, ce qui en fait la rend beaucoup plus lisible. sauf peut-être dans Eclipse, mais ça me paraît pas trop dramatique.

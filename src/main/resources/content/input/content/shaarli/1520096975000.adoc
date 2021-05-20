@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Edgar A Silva on Twitter: "Microservices are great, but at a certain point, the complexity will demand some old fashion practices or architecture will become the next javascript hell… https://t.co/R33monswUq"
+:jbake-tags: architecture,microservices,service,_mois_mars,_année_2018
+:jbake-date: 2018-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1520096975000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjedgarsilva%2Fstatus%2F969775445448241158&searchtags=architecture+microservices+service+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jedgarsilva/status/969775445448241158[Edgar A Silva on Twitter: "Microservices are great, but at a certain point, the complexity will demand some old fashion practices or architecture will become the next javascript hell… https://t.co/R33monswUq"]
+
+Tellement vrai !

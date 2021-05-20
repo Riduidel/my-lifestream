@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - shaarli/Shaarli: The personal, minimalist, super-fast, database free, bookmarking service - community repo
+:jbake-tags: github,open-source,shaarli,software,php,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590740449000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fshaarli%2Fshaarli%2F&searchtags=github+open-source+shaarli+software+php+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/shaarli/shaarli/[GitHub - shaarli/Shaarli: The personal, minimalist, super-fast, database free, bookmarking service - community repo]
+
+Vu comment je tanne tout le monde avec, ça ne surprendra personne que j'ai un lien vers le repository GitHub de Shaarli pour y suivre les nouvelles versions.

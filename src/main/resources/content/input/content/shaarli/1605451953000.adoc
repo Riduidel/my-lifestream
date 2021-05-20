@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tierney Cyren 🍑 sur Twitter : "a reminder of the single best enhancement to GitHub PR reviews: you can suggest a change by having a fenced code block and including `suggestion` after the three backticks in a diff, like this: ```suggestion <your suggested change goes here> ``` https://t.co/JnFn0iL79k" / Twitter
+:jbake-tags: github,interface,ergonomie,discussion,_mois_nov.,_année_2020
+:jbake-date: 2020-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1605451953000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbitandbang%2Fstatus%2F1327316804902023168&searchtags=github+interface+ergonomie+discussion+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/bitandbang/status/1327316804902023168[Tierney Cyren 🍑 sur Twitter : "a reminder of the single best enhancement to GitHub PR reviews: you can suggest a change by having a fenced code block and including `suggestion` after the three backticks in a diff, like this: ```suggestion <your suggested change goes here> ``` https://t.co/JnFn0iL79k" / Twitter]
+
+Alors ça c'est vraiment le genre de petite feature sympa qui change la vie de l'utilisateur.

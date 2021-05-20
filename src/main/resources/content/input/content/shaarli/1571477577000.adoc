@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architectural Decision Records | adr.github.io
+:jbake-tags: architecture,décision,documentation,format,_mois_oct.,_année_2019
+:jbake-date: 2019-10-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1571477577000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fadr.github.io%2F&searchtags=architecture+d%C3%A9cision+documentation+format+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://adr.github.io/[Architectural Decision Records | adr.github.io]
+
+Il va falloir que je relise ça plusieurs fois, mais ça détaille bien les variantes du concept.

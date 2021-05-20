@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Framasoft on Twitter: "C'est officiel ! @framasoft a son instance #Mastodon : Framapiaf https://t.co/UvP2Du0Yad « 5mn pour bien débuter »: https://t.co/LLVgptuo3b https://t.co/QGWh63csM4"
+:jbake-tags: web,mastodon,_mois_avr.,_année_2017
+:jbake-date: 2017-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1492090683000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fframasoft%2Fstatus%2F852126256644620288&searchtags=web+mastodon+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/framasoft/status/852126256644620288[Framasoft on Twitter: "C'est officiel ! @framasoft a son instance #Mastodon : Framapiaf https://t.co/UvP2Du0Yad « 5mn pour bien débuter »: https://t.co/LLVgptuo3b https://t.co/QGWh63csM4"]
+
+J'attendais précisément que framasoft lance une instance mastodon ... cool

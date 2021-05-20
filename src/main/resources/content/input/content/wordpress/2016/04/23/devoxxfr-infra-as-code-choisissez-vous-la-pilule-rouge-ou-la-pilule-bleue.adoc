@@ -1,0 +1,70 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Infra as Code, choisissez vous la pilule rouge ou la pilule bleue ?
+:jbake-tags: devops,devoxx,jenkins,tdd,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-infra-as-code-choisissez-vous-la-pilule-rouge-ou-la-pilule-bleue.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-infra-as-code-choisissez-vous-la-pilule-rouge-ou-la-pilule-bleue/
+:jbake-style: wordpress
+
+++++
+<p>
+Après cette blockchain en délire, revenons à du concret avec l'infra as code.
+</p>
+<p>
+Mais qu'est-ce que l'infra as code ? c'est surtout le moyen de sortir une copie complète de l'infra sans péter la prod actuelle.
+<br/>
+En théorie, ça doit permettre d'aller plus vite. En pratique, c'est plus de code, donc il faut le maintenir sinon il ne fait pas gagner de temps.
+</p>
+<p>
+Donc on peut très bien tenter de faire vivre l'existant avec des bouts de ficelle et des scripts bash, ou on peut tenter de prendre conscience que l'infra as code, ça reste du code, et il faut s'en occuper comme du code.
+</p>
+<p>
+Donc pour réduire la boucle de feedback lorsqu'on monte une infra, on isole pour débugger plus vite. Avec des outils comme
+<br/>
+<ul>
+<br/>
+<li>Vagrant</li>
+<br/>
+<li>Docker</li>
+<br/>
+</ul>
+<br/>
+Et on va faire du feature filpping pour éviter les besoins de prod en dév.
+</p>
+<p>
+Evidement, avec ces outils, on essaye toujours de se contenter de déclarer l'état désiré plutôt que le mode de transition. Donc pas d'ajout manuel dans le /etc/hosts, par exemple. Et pas non plus à grands coups de grep qui ne seront jamais suffisants.
+</p>
+<p>
+Vient ensuite la super analogie de l’ascenseur : ne déclarer que l'état désiré. C'est ce qui permet l'idempotence. Idempotence qui est vraiment bien pratique pour rendre des configurations reproductibles.
+</p>
+<p>
+Pour chaque profil de dév, il y a des outils qui vont permettre de les faire bosser mieux et plus vite. Je vous laisse regarder les détails et la vidéo, mais ça met bien face à chaque profil l'outil approprié.
+</p>
+<p>
+L'un des meilleurs outils pour la prod est Gitlab/Github, parce que si on y met l'infra as code, ça permet aux développeurs de le lire et de comprendre comment marche la prod.
+</p>
+<p>
+La dette technique peut également apparaître dans l'infra as code comme dans le code, et doit être gérée comme dans le code, c'est-à-dire comme à Tetris : si on ne veut pas s'y noyer, il faut éliminer les blocs dès qu'on peut.
+</p>
+<p>
+Et l'un des endroits clé, c'est le bash, pour lequel il y a aussi des bonnes pratiques : interdire les unset, arrêter le script quand une commande échoue. Et comme dans le code, les caractères sont gratuits, donc priviliégiez les flags avec des noms longs.
+</p>
+<p>
+Pour aller en prod sereinement
+</p>
+<p>
+D'abord il faut savoir ce qu'il y a en prod ... en loggant les résultats de chaque install en prod. Parce que la prod est faite du code de déploiement ET de l'état actuel de la prod ... qui ne sera visible que dans les logs.
+</p>
+<p>
+Ensuite, pour garantir la prédictibilité du déploiement, il vaut mieux enlever tous les sleeps du script de déploiement et les remplacer (quelque soit l'outil) par des tests de démarrage des services.
+</p>
+<p>
+Et puis ne mettez pas tous vos scripts directement dans Jenkins, testez-les d'abord en ligne de commande avant de les mettre dans Jenkins, pour pouvoir versionner ce script d'une part, et pouvoir l'utiliser même quand jenkins est down ensuite.
+</p>
+<p>
+Pour tester son environnement, on utilise les mêmes méthodes que les dévs (oui oui, on parle bien de pyramide des tests et de TDD). Malheureusement, il n'y a de l'outillage de test unitaire que dans chef et puppet. Là, il s'agira vraiment de tester le script chef/puppet et <b>pas</b> le code applicatif. Pour le test d'intégration, on peut très bien tout piloter dans Jenkins en quatre étapes d'un build.
+</p>
+++++

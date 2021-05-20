@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Stéphane Bortzmeyer: Les conséquences techniques de l'interception HTTPS en entreprise
+:jbake-tags: web,sécurité,https,_mois_mars,_année_2017
+:jbake-date: 2017-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1488376518000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bortzmeyer.org%2Fhttps-interception.html&searchtags=web+s%C3%A9curit%C3%A9+https+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.bortzmeyer.org/https-interception.html[Blog Stéphane Bortzmeyer: Les conséquences techniques de l'interception HTTPS en entreprise]
+
+J'ai déjà eu affaire à de tels fournisseurs et la perception de l'usage de leurs logiciels confirme cet article.

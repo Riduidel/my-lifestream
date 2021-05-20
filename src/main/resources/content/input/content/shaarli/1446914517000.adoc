@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JGiven
+:jbake-tags: java,programming,test,junit,_mois_nov.,_année_2015
+:jbake-date: 2015-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1446914517000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjgiven.org%2F&searchtags=java+programming+test+junit+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://jgiven.org/[JGiven]
+
+Intéressant ... Surtout parce qu'on fait du BDD sans interface web (genre pas comme fitnesse, quoi)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog app‽tit - le rendez vous des blogs de cuisine
+:jbake-tags: web,cuisine,_mois_mars,_année_2005
+:jbake-date: 2005-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1110548701000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.blog-appetit.com%2F&searchtags=web+cuisine+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.blog-appetit.com/[Blog app‽tit - le rendez vous des blogs de cuisine]
+
+Le principe est de toujours choisir des produits de saison et les produits du marchÃ©. Laissez vous inspirer par la coquille Saint Jacques et le poireau

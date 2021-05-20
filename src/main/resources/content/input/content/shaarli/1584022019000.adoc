@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to use an environment variable as part of a key in consul-template HCL · Issue #272 · hashicorp/consul-template
+:jbake-tags: consul,go,template,astuce,configuration,_mois_mars,_année_2020
+:jbake-date: 2020-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1584022019000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fhashicorp%2Fconsul-template%2Fissues%2F272%23issuecomment-251760368&searchtags=consul+go+template+astuce+configuration+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/hashicorp/consul-template/issues/272#issuecomment-251760368[How to use an environment variable as part of a key in consul-template HCL · Issue #272 · hashicorp/consul-template]
+
+La syntaxe pour lire les valeurs d'un secret défini par une variable d'environnement dans consul-template est ... particulièrement particulière !

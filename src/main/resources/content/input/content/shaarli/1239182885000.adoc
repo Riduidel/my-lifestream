@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LiquidIce's Nintendo Wii Hacks: HOWTO: Transfer a Mii from your Wii using bluetooth and the wii-mote
+:jbake-tags: mii,wii,backup,bluetooth,hack,software,_mois_avr.,_année_2009
+:jbake-date: 2009-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1239182885000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiihacks.blogspot.com%2F2006%2F12%2Fhowto-transfer-mii-from-your-wii-using.html&searchtags=mii+wii+backup+bluetooth+hack+software+_mois_avr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://wiihacks.blogspot.com/2006/12/howto-transfer-mii-from-your-wii-using.html[LiquidIce's Nintendo Wii Hacks: HOWTO: Transfer a Mii from your Wii using bluetooth and the wii-mote]
+
+Un petit tutoriel pour sortir les wii de la mii, ou le contraire, ce qui est rigolo et peut-être même utile ...

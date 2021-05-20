@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Observables and Finnish Notation – Ben Lesh – Medium
+:jbake-tags: javascript,type,documentation,_mois_oct.,_année_2017
+:jbake-date: 2017-10-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1508230254000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40benlesh%2Fobservables-and-finnish-notation-df8356ed1c9b&searchtags=javascript+type+documentation+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.com/@benlesh/observables-and-finnish-notation-df8356ed1c9b[Observables and Finnish Notation – Ben Lesh – Medium]
+
+Quand tu en arrives à utiliser des caractères Unicode pour tes observables, il est peut-être temps d'assumer le besoin d'un typage plus fort (genre Flow ou Typescript-like)

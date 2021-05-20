@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The small web is beautiful
+:jbake-tags: web,opinion,design,webdesign,javascript,css,texte,_mois_mars,_année_2021
+:jbake-date: 2021-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1614681787000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbenhoyt.com%2Fwritings%2Fthe-small-web-is-beautiful%2F&searchtags=web+opinion+design+webdesign+javascript+css+texte+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://benhoyt.com/writings/the-small-web-is-beautiful/[The small web is beautiful]
+
+Cet article est rempli de considérations extrêmement intéressantes sur l'intérêt qu'il y a à limiter la taille de ... tout, en fait. Mais surtout de son site web dans toutes ses dimensions : moins de features, moins de dépendances, ...

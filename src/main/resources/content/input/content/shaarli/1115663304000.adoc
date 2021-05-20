@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: zeleps.com
+:jbake-tags: software,freeware,windows,system,disk,partition,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115663304000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zeleps.com%2F&searchtags=software+freeware+windows+system+disk+partition+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.zeleps.com/[zeleps.com]
+
+The popular freeware partitioning program is back! The first free program to resize and move partitions without data loss, is now more complete, with support for disks up to 2TB of size.

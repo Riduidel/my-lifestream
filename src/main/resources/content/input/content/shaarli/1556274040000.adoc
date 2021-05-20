@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SILL-2019
+:jbake-tags: open-source,catalog,france,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556274040000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcomptoir-du-libre.org%2Ftags%2F137%2Fsoftware&searchtags=open-source+catalog+france+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://comptoir-du-libre.org/tags/137/software[SILL-2019]
+
+Tu cherches de l'open-source utile ? Ces logiciels sont validés par les ministères français. Ca commence à ressembler à des trucs utiles, non ?

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Hand of Chaos (The Death Gate Cycle, #5)
+:jbake-tags:  fantasy, rayon-imaginaire,_année_1995,_mois_janv.,_note_2,broc,read
+:jbake-date: 1995-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780553563696.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327837169l/28482._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327837169l/28482._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/28482
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Chaos is everywhere as the Lord of the Nexus orders his servant Haplo and the human child known as Bane to further their master's work on Arianus, the realm of air. But their one time companion Alfred has been cast into the deadly Labyrinth. And somehow the assassin Hugh the Hand has been resurrected to complete his dark mission. More important, the evil force that Haplo and Alfred discovered on Arianus has escaped. As Haplo's doubts about his master grow deeper, he must decide whether to obey the Lord of the Nexus or betray the powerful Patryn...and endeavor to bring peace to the universe.
+</div>
+++++
+
+
+## Authors
+* link:../authors/869.html[Margaret Weis]
+* link:../authors/868.html[Tracy Hickman]
+
+## Series
+* link:../series/The_Death_Gate_Cycle.html[The Death Gate Cycle]
+
+## Review
+
+++++
+
+++++

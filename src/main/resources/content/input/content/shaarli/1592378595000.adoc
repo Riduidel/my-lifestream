@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Seamus Hughes sur Twitter : "You know when you’re busy & you just throw something up on twitter assuming journalists would catch it. And then 10 hrs later they don’t so you end up writing a thread breaking a story about open source intelligence, massages, burned cop cars, and new riot arrest? Here we go 1/x" / Twitter
+:jbake-tags: surveillance,police,_mois_juin,_année_2020
+:jbake-date: 2020-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1592378595000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSeamusHughes%2Fstatus%2F1273098216775524355&searchtags=surveillance+police+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/SeamusHughes/status/1273098216775524355[Seamus Hughes sur Twitter : "You know when you’re busy & you just throw something up on twitter assuming journalists would catch it. And then 10 hrs later they don’t so you end up writing a thread breaking a story about open source intelligence, massages, burned cop cars, and new riot arrest? Here we go 1/x" / Twitter]
+
+Je ne peux pas m'empêcher de trouver cette exploitation de données un peu flippante ...

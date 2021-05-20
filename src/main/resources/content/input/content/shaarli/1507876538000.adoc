@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bartosz Sypytkowski on Twitter: ""Design until you feel you understand the problem. Write code until you realize you don't." - Software Engineering Conference, 1968"
+:jbake-tags: citation,design,programming,_mois_oct.,_année_2017
+:jbake-date: 2017-10-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1507876538000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FHorusiath%2Fstatus%2F918369924283883520&searchtags=citation+design+programming+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/Horusiath/status/918369924283883520[Bartosz Sypytkowski on Twitter: ""Design until you feel you understand the problem. Write code until you realize you don't." - Software Engineering Conference, 1968"]
+
+Parfaitement juste

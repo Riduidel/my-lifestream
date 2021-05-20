@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: StrutsIDE - Project Amateras
+:jbake-tags: editor,plugin,struts,j2ee,eclipse,_mois_mars,_année_2006
+:jbake-date: 2006-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1141229302000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Famateras.sourceforge.jp%2Fcgi-bin%2Ffswiki_en%2Fwiki.cgi%3Fpage%3DStrutsIDE&searchtags=editor+plugin+struts+j2ee+eclipse+_mois_mars+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://amateras.sourceforge.jp/cgi-bin/fswiki_en/wiki.cgi?page=StrutsIDE[StrutsIDE - Project Amateras]
+
+

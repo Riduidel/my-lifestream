@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Native Win32 ports of some GNU utilities
+:jbake-tags: freeware,open-source,portable,programming,script,software,system,tool,windows,_mois_févr.,_année_2008
+:jbake-date: 2008-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1202977002000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Funxutils.sourceforge.net%2F&searchtags=freeware+open-source+portable+programming+script+software+system+tool+windows+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://unxutils.sourceforge.net/[Native Win32 ports of some GNU utilities]
+
+Contrairement à cygwin, qui est une émulation complèète de linux pour Windows, on a ici un paquet d'utilitaires GNU recompilés \*pour\* Windows, c'est-à-dire pour être exécutés dans la fenêtre de commande standard, ou partout ailleurs. Ca me parai

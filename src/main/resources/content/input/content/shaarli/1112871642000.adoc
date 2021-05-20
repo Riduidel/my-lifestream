@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Art of War by Sun Tzu: A searchable online version at The Literature Network
+:jbake-tags: culture,ebook,management,_mois_avr.,_année_2005
+:jbake-date: 2005-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1112871642000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.online-literature.com%2Fsuntzu%2Fartofwar%2F&searchtags=culture+ebook+management+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.online-literature.com/suntzu/artofwar/[The Art of War by Sun Tzu: A searchable online version at The Literature Network]
+
+

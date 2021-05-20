@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mount current directory as volume in Docker on Windows 10 - Stack Overflow
+:jbake-tags: docker,windows,command-line,_mois_sept.,_année_2017
+:jbake-date: 2017-09-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1505721486000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F41489151%2F15619&searchtags=docker+windows+command-line+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/41489151/15619[Mount current directory as volume in Docker on Windows 10 - Stack Overflow]
+
+C'est fou comme Docker peut parfois ne pas être pratique (sous Windows, hein) ! Pour monter le dossier courant, il ne faut pas faire "-v .:/home", mais "-v %CD%:/home". Encore une fois, la ligne de commande, c'est l'enfer ergonomique.

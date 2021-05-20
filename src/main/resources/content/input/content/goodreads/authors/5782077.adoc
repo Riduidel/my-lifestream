@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tade Thompson
+:jbake-tags: author
+:jbake-date: 2021-02-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5782077.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1593796763p5/5782077.jpg
+:jbake-source: https://www.goodreads.com/author/show/5782077
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290172889.html[Rosewater (The Wormwood Trilogy, #1)]

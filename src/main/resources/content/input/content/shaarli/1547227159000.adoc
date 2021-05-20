@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tobie Langel on Twitter: "We're seeing the same thing today with CSS that we've seen seen with HTML/JS before and which led to the current JS framework situation. A thread👇"
+:jbake-tags: css,javascript,standard,histoire,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547227159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftobie%2Fstatus%2F1083316137826365442&searchtags=css+javascript+standard+histoire+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/tobie/status/1083316137826365442[Tobie Langel on Twitter: "We're seeing the same thing today with CSS that we've seen seen with HTML/JS before and which led to the current JS framework situation. A thread👇"]
+
+Très intéressant thread sur les limites actuelles du CSS. Je retiens en particulier les aspects applicables ailleurs (sur la méfiance vis-à-vis des comités de standardisation, par exemple, et ce que ça implique)

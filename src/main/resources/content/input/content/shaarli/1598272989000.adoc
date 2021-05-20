@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Database of Databases - Home
+:jbake-tags: database,reference,list,web,_mois_août,_année_2020
+:jbake-date: 2020-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1598272989000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdbdb.io%2F&searchtags=database+reference+list+web+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://dbdb.io/[Database of Databases - Home]
+
+Si tu cherches un système de stockage de données, ce site est une base de données de base de données. Oui, c'est récursif, et c'est cool comme ça.

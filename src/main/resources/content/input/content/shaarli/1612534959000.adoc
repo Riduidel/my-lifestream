@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software Architecture Design Game
+:jbake-tags: jeu,design,architecture,contrainte,créativité,_mois_févr.,_année_2021
+:jbake-date: 2021-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1612534959000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsmartdecisionsgame.com%2F&searchtags=jeu+design+architecture+contrainte+cr%C3%A9ativit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://smartdecisionsgame.com/[Software Architecture Design Game]
+
+Un jeu sérieux qui semble faire travailler le processus de décision architecturale.

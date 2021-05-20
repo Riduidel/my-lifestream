@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Science is the belief in the ignorance of experts – Daniel Lemire's blog
+:jbake-tags: science,scientisme,connaissance,_mois_août,_année_2020
+:jbake-date: 2020-08-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1596455813000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flemire.me%2Fblog%2F2020%2F07%2F12%2Fscience-is-the-belief-in-the-ignorance-of-experts%2F&searchtags=science+scientisme+connaissance+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://lemire.me/blog/2020/07/12/science-is-the-belief-in-the-ignorance-of-experts/[Science is the belief in the ignorance of experts – Daniel Lemire's blog]
+
+C'est une très belle et très complète distinction entre la science, la connaissance, et le scientisme.

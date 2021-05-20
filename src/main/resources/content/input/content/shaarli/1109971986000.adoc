@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mac OS X
+:jbake-tags: software,freeware,macosx,desktop,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109971986000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.efritz.net%2Fsoftware.html&searchtags=software+freeware+macosx+desktop+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.efritz.net/software.html[Mac OS X]
+
+FreeSnap is a powerful, easy to use and free screen capture utility. Needless to say, if Grab or Shift-Cmd-3 or 4 works fine for you, you don't need FreeSnap. For those who do, FreeSnap features unique, advanced and powerful tools for taking screen captur

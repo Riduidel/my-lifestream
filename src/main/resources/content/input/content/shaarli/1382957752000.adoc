@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Headlines
+:jbake-tags: humour,critique,media,_mois_oct.,_année_2013
+:jbake-date: 2013-10-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1382957752000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1283%2F&searchtags=humour+critique+media+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xkcd.com/1283/[Headlines]
+
+Est-ce que ça n'est pas une critique aussi flagrante que valide des "médias en ligne" ?

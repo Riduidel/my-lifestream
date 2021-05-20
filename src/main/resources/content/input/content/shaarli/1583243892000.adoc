@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My Zenikanard
+:jbake-tags: travail,humour,_mois_mars,_année_2020
+:jbake-date: 2020-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1583243892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fzenikanard.netlify.com%2F&searchtags=travail+humour+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://zenikanard.netlify.com/[My Zenikanard]
+
+Mes collègues sont fous et drôles (et c'est ça le meilleur) 😘

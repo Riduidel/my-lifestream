@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Droit à l'oubli du code
+:jbake-tags: code,web,_mois_avr.,_année_2015
+:jbake-date: 2015-04-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/04/02/droit-a-loubli-du-code.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/04/02/droit-a-loubli-du-code/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous n'y avez sans doute pas échappé, Google Code a fermé ses portes. Dommage, j'aimais bien, quand il a démarré, ce service. Et j'y avais quelques projets ...
+</p>
+<p>
+J'aurais pu, pourtant, exporter ses projets pour les mettre dans un quelconque git. Mais je ne l'ai pas fait.
+</p>
+<p>
+Parce que même si certains de ces projets étaient intéressants (majick-properties, en particulier), je crois qu'il faut savoir certaines choses disparaître dans un oubli relatif (puisque de toute façon, the internet wayback machine se souvient de tout).
+</p>
+++++

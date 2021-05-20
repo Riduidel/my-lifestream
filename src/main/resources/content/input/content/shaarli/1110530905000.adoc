@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le blog nautique
+:jbake-tags: web,blog,mer,_mois_mars,_année_2005
+:jbake-date: 2005-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1110530905000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.leblognautique.com%2F&searchtags=web+blog+mer+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.leblognautique.com/[Le blog nautique]
+
+Blog professionnel sur la mer et le nautisme

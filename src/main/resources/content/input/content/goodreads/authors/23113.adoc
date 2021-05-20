@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Brunner
+:jbake-tags: author
+:jbake-date: 2000-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/23113.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1336955014p5/23113.jpg
+:jbake-source: https://www.goodreads.com/author/show/23113
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207501375.html[L'Orbite déchiquetée]
+* link:../books/9782253052708.html[Sur l'onde de choc]
+* link:../books/9782253071808.html[Tous à Zanzibar]
+* link:../books/9782253072072.html[Le Troupeau aveugle]
+* link:../books/9782369350392.html[Faute de temps]

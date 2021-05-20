@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to use IcoMoon and Icon Fonts – Part 1: Basic Usage | Chip Cullen
+:jbake-tags: web,css,font,_mois_août,_année_2017
+:jbake-date: 2017-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1504073552000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchipcullen.com%2Fhow-to-use-icomoon-and-icon-fonts-part-1-basic-usage%2F&searchtags=web+css+font+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://chipcullen.com/how-to-use-icomoon-and-icon-fonts-part-1-basic-usage/[How to use IcoMoon and Icon Fonts – Part 1: Basic Usage | Chip Cullen]
+
+Un bon tutorial sur l'intégration de fonts icomoon dans une application web

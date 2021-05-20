@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Golgotha (Cryptonomicon, #3)
+:jbake-tags:  cyberpunk, enquête, guerre, rayon-imaginaire, uchronie,_année_2003,_mois_déc.,_note_5,complot,read
+:jbake-date: 2003-12-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253072553.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545523442l/43315435._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545523442l/43315435._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/43315435
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Suite et fin des aventures des cryptoanalystes et comploteurs – de la Seconde Guerre mondiale à nos jours – qui ont ravi les fans de Neal Stephenson à deux reprises déjà. Après <i>Le Code Enigma</i> et <i>Le Réseau Kinakuta</i>, tous les esprits se concentrent dans le dernier tome de la série sur l'accès au tant convoité "Golgotha" : c'est là dans une cavité creusée sur une île au sud de Manille par le terrassier de génie Gotto Dengo que reposent, depuis la Seconde Guerre mondiale, les millions de tonnes d'or volées par les Nippons dans toute l'Asie afin de tenir lieu de garantie pour la future "monnaie légale de la Grande sphère de Coprospérité". Une fois les délires hégémoniques balayés par la victoire américaine de 1945, reste à découvrir l'endroit où ce trésor a été enfoui, dans un lieu indiqué dans des messages interceptés soixante ans plus tôt. Toutefois, nul jusqu'ici n'est encore parvenu à casser l'inviolable code Arethusa. Le récit alterne entre scènes d'action liées à la guerre de 39-45 (mise en place du Golgotha par Dengo, mission héroïque du "marine" Bobby Shaftoe œuvrant pour le général MacArthur) et la course contre la montre que se livrent au XXIe siècle deux groupes voulant s'emparer du Golgotha. Sur les traces de son grand-père, brillant décrypteur, l'informaticien-pirate Randy Waterhouse se bat maintenant à la fois pour sauver sa société de base de données et décrocher le gros lot. <br />Roman de guerre, d'espionnage et techno-thriller tout à la fois, <i>Cryptonomicon 3</i> décoiffe tout autant que les deux volumes qui précèdent, empreint de ce mélange d'humour tonitruant, d'expression soutenue (frisant parfois la préciosité archaïque) et d'érudition scientifique qui fait de Neal Stephenson un auteur proprement inimitable, et de "Cryptonomicon" un événement littéraire sans précédent. Le lecteur profane qui débarque directement dans ces pages aura un peu de mal à y trouver ses marques, chahuté – comme tous les autres il est vrai – par un premier chapitre mathematico-hard illustrant la notion d'équité, mais le jeu en vaut largement la chandelle. Résumons : une fresque SF sans temps mort qui permet à chacun d'acquérir un bon sens cryptique incontestable <i>--Frédéric Grolleau</i>
+</div>
+++++
+
+
+## Authors
+* link:../authors/545.html[Neal Stephenson]
+
+## Series
+* link:../series/Criptonomicon.html[Criptonomicón]
+
+## Review
+
+++++
+Golgotha est donc le final de ce que j’appellerais plutôt un geek-roman. on y retrouve en effet tous les petits délires du geek de base : utiliser un espace 2D et des matrices pour optimiser la répartition d’un héritage, faire du ssh à travers la terre entière pour finallement donner son propre login, l’importance de la branlette en tant qu’hygiène sexuelle, et tant d’autres détails croustillants qui, mêlés à une trame fascinante à la base, en font vraiment le prototype du bouquin réussi pour moi. <br/>Mais peut-être cela est-il dû au fait que je sois dans le coeur de cible : individu de style mâle vaguement technoïde, et tutti quanti. Cela n’ôte évidement rien à ce bouquin, habillement construit entre une bonne dizaine de personnages au début, pour finir par se centrer à la toute fin sur l’unique Randy Waterhouse, développeur à la sauce Linux (qui s’appelle Finux dans le bouquin) et sacré gaillard. Bref, sans vouloir en dire plus (parce qu’après tout ce troisème tome est en fait la conclusion de ce bouquin découpé en France), je ne saurais que vous conseiller de le lire, et ce pour plusieurs raisons : d’abord, <a class="DirectAuthorReference destination_Author" href="../authors/545.html">Neal Stephenson</a> écrit remarquablement bien (enfin, le couple auteur-traducteur donne un résultat plus que probant), ensuite, l’histoire, découpée entre la deuxième guerre mondiale et un présent plus contemporain, est tout ce qu’il y a de plus tortueuse, et enfin, il n’y a pas vraiment de temps mort dans ce récit très bien fichu.
+++++

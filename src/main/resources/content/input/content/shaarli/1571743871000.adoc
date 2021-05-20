@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Using openssh in cmd / git bash · Issue #114 · dlech/KeeAgent
+:jbake-tags: keepass,plugin,ssh,sécurité,_mois_oct.,_année_2019
+:jbake-date: 2019-10-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1571743871000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdlech%2FKeeAgent%2Fissues%2F114%23issuecomment-130753523&searchtags=keepass+plugin+ssh+s%C3%A9curit%C3%A9+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/dlech/KeeAgent/issues/114#issuecomment-130753523[Using openssh in cmd / git bash · Issue #114 · dlech/KeeAgent]
+
+Donc dans KeeAgent, on peut demander à ce qu'il affiche la liste des clés pour ne retourner que celle que demande l'application client, et c'est super pratique quand on en utilise plusieurs pour GitHub !

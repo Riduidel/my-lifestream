@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kelly Vaughn 🐞 on Twitter: "JavaScript is not overrated. CSS is not overrated. Python is not overrated. Nothing is overrated. Quit hating on programming and scripting languages just because you prefer to use something else."
+:jbake-tags: conférence,technologie,citation,_mois_mai,_année_2019
+:jbake-date: 2019-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1557502557000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fkvlly%2Fstatus%2F1126475574300631041&searchtags=conf%C3%A9rence+technologie+citation+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/kvlly/status/1126475574300631041[Kelly Vaughn 🐞 on Twitter: "JavaScript is not overrated. CSS is not overrated. Python is not overrated. Nothing is overrated. Quit hating on programming and scripting languages just because you prefer to use something else."]
+
+Encore une affirmation d'ego à travers le mode d'expression d'un choix technologique ? Ca devient vraiment intéressant ... sociologiquement parlant.

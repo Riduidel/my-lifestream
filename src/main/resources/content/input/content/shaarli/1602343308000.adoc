@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rust in curl with hyper | daniel.haxx.se
+:jbake-tags: rust,curl,refactoring,open-source,_mois_oct.,_année_2020
+:jbake-date: 2020-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1602343308000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2F2020%2F10%2F09%2Frust-in-curl-with-hyper%2F&searchtags=rust+curl+refactoring+open-source+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/[rust in curl with hyper | daniel.haxx.se]
+
+Sapristi ! L'auteur de curl va en réécrire une partie en Rust 😮avec Hyper 🤩

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""Debugging is like being the detective in a crime movie where you are also the murderer." - Filipe Fortes"
+:jbake-tags: citation,programming,debug,_mois_août,_année_2017
+:jbake-date: 2017-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1503469618000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F897911593878511617&searchtags=citation+programming+debug+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/897911593878511617[Programming Wisdom on Twitter: ""Debugging is like being the detective in a crime movie where you are also the murderer." - Filipe Fortes"]
+
+Ca va me servir dans une présentation à préparer

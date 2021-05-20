@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paris Web - Tempête de boulettes géantes
+:jbake-tags: organisation,entreprise,accident,psychologie,_mois_mars,_année_2019
+:jbake-date: 2019-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1553087236000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.paris-web.fr%2F2018%2Fconferences%2Ftempete-de-boulettes-geantes.php&searchtags=organisation+entreprise+accident+psychologie+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.paris-web.fr/2018/conferences/tempete-de-boulettes-geantes.php[Paris Web - Tempête de boulettes géantes]
+
+J'avais vu passer le tweet qui a donné naissance à cette présentation, et le résultat final est vraiment chouette. Il manque peut-être (pas dans la présentation, dans la vraie vie) un mandat clair donné à l'équipe de gestion des incidents pour éviter la reproduction de la boulette (autrement dit le pouvoir d'améliorer les choses)

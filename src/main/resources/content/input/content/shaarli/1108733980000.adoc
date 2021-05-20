@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: hack a day - www.hackaday.com
+:jbake-tags: web,hack,_mois_févr.,_année_2005
+:jbake-date: 2005-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1108733980000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hackaday.com%2F&searchtags=web+hack+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.hackaday.com/[hack a day - www.hackaday.com]
+
+a web magazine devoted to seeking out all the best hacks, mods and DIY (do it yourself) projects from around web

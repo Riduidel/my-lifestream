@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Anna Starobinets
+:jbake-tags: author
+:jbake-date: 2017-04-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2987362.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1398248782p5/2987362.jpg
+:jbake-source: https://www.goodreads.com/author/show/2987362
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266268578.html[Le Vivant]

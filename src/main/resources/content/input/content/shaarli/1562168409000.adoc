@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Johan Vos on Twitter: "All pieces are now in place to have 100% Java on mobile, embedded, edge devices. The same Java that powers cloud and servers, with code from #OpenJDK, #OpenJFX and #GraalVM, integrated by #Gluon /cc @GluonHQ… https://t.co/98BAZ3okwy"
+:jbake-tags: java,javafx,portable,programming,_mois_juil.,_année_2019
+:jbake-date: 2019-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1562168409000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjohanvos%2Fstatus%2F1145994492677373959&searchtags=java+javafx+portable+programming+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/johanvos/status/1145994492677373959[Johan Vos on Twitter: "All pieces are now in place to have 100% Java on mobile, embedded, edge devices. The same Java that powers cloud and servers, with code from #OpenJDK, #OpenJFX and #GraalVM, integrated by #Gluon /cc @GluonHQ… https://t.co/98BAZ3okwy"]
+
+Je veux faire ça ! Si vous faites du gluon, appelez-moi, on s'arrangera :-)

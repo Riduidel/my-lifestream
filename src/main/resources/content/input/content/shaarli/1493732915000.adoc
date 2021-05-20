@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: plantUML with Asciidoctor-pdf – R. D. Müller – making the software-world a better place one document at a time
+:jbake-tags: plantuml,asciidoc,pdf,générateur,_mois_mai,_année_2017
+:jbake-date: 2017-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1493732915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frdmueller.github.io%2FplantUML-and-pdf%2F&searchtags=plantuml+asciidoc+pdf+g%C3%A9n%C3%A9rateur+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://rdmueller.github.io/plantUML-and-pdf/[plantUML with Asciidoctor-pdf – R. D. Müller – making the software-world a better place one document at a time]
+
+Je crois que je viens enfin de trouver comment afficher correctement mes schémas PlantUML dans les documents PDF générés par Asciidoc ! Et c'est cool !

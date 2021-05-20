@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VideoLAN sur Twitter : "VideoLAN is 20 years old today! In fact, 20 years ago today, VideoLAN moved from a closed-source student app to the GNU GPL, thanks to the authorization of the @centralesupelec director of that time. VLC has grown a lot since, thanks to 1000 volunteers! https://t.co/CFs9vxRGmU" / Twitter
+:jbake-tags: anniversaire,software,vidéo,open-source,_mois_févr.,_année_2021
+:jbake-date: 2021-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1612251571000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvideolan%2Fstatus%2F1356325806616829952&searchtags=anniversaire+software+vid%C3%A9o+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/videolan/status/1356325806616829952[VideoLAN sur Twitter : "VideoLAN is 20 years old today! In fact, 20 years ago today, VideoLAN moved from a closed-source student app to the GNU GPL, thanks to the authorization of the @centralesupelec director of that time. VLC has grown a lot since, thanks to 1000 volunteers! https://t.co/CFs9vxRGmU" / Twitter]
+
+J'ai toujours trouvé ce soft hyper génial (et le fait qu'il soit à mon sens une pépite de l'open-source n'y est pas pour rien). Alors bon anniversaire !

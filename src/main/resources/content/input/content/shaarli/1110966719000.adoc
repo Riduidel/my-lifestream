@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Authoxy-Panther
+:jbake-tags: software,freeware,macosx,open-source,réseau,proxy,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110966719000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fauthoxy-panther.sourceforge.net%2F&searchtags=software+freeware+macosx+open-source+r%C3%A9seau+proxy+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://authoxy-panther.sourceforge.net/[Authoxy-Panther]
+
+The Authoxy-Panther Project is an open source proxy authentication tool for Mac OS X. It was written by HRSoftWorks and has now been released under the GNU Public License (GPL).

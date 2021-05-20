@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Handmaid's Tale
+:jbake-tags: serie
+:jbake-date: 2017-10-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Handmaid_s_Tale.adoc
+:jbake-source: https://www.goodreads.com/series/249878
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782221203323.html[La Servante écarlate]

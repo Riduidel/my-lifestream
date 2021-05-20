@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: InspiroBot
+:jbake-tags: programming,ia,générateur,_mois_févr.,_année_2018
+:jbake-date: 2018-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1517477884000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Finspirobot.me%2F&searchtags=programming+ia+g%C3%A9n%C3%A9rateur+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://inspirobot.me/[InspiroBot]
+
+Il est bien ce robot

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sysinternals Freeware - Utilities for Windows NT and Windows 2000 - TCPView
+:jbake-tags: réseau,sniffer,software,tcp,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1094041483000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sysinternals.com%2Fntw2k%2Fsource%2Ftcpview.shtml&searchtags=r%C3%A9seau+sniffer+software+tcp+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.sysinternals.com/ntw2k/source/tcpview.shtml[Sysinternals Freeware - Utilities for Windows NT and Windows 2000 - TCPView]
+
+TCPView is a Windows program that will show you detailed listings of all TCP and UDP endpoints on your system, including the local and remote addresses and state of TCP connections. On Windows NT, 2000 and XP TCPView also reports the name of the process t

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zachary Mason
+:jbake-tags: author
+:jbake-date: 2020-06-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/996279.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1265063783p5/996279.jpg
+:jbake-source: https://www.goodreads.com/author/show/996279
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253820208.html[Void Star]

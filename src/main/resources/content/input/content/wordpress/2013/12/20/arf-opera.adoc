@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arf ... Opera ...
+:jbake-tags: mail,migration,navigateur,opera,web,_mois_déc.,_année_2013
+:jbake-date: 2013-12-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/12/20/arf-opera.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/12/20/arf-opera/
+:jbake-style: wordpress
+
+++++
+<p>
+Je dois être un très vieil utilisateur de ce qui était jadis la suite web Opera (avec dedans le navigateur, le client mail, le client NNTP, et plein d'autres trucs bien chouettes).
+</p>
+<p>
+Et j'en ai toujours été content ... jusqu'à maintenant.
+</p>
+<p>
+En effet, la partie mail refusait ce matin de télécharger le corps des messages. J'ai donc fait le choix toujours risqué de la mise à jour. Un choix d'autant plus risqué que, depuis Opera 15, le navigateur web et le client mail sont séparés (surtout, le navigateur utilise maintenant le moteur WebKit - le même que chrome et Safari). Du coup, en mettant ma version à jour, j'ai non seulement perdu mes extensions, la possibilité d'utiliser DuckDuckGo comme moteur de recherche par défaut (il semble que l'interface de configuration ne contienne pas toutes les options), mais aussi - et surtout - le client mail.
+</p>
+<p>
+Du coup j'ai évidement téléchargé <a href="http://www.opera.com/fr/computer/mail">Opera Mail</a>. J'en ai également profité pour réévaluer la concurrence ...
+<br/>
+<ul>
+<br/>
+<li>Thunderbird, qui me fait toujours penser à <a href="https://fr.wikipedia.org/wiki/NCSA_Mosaic">Mosaic</a></li>
+<br/>
+<li><a href="http://inky.com">Inky </a>au modèle économique douteux, et à l'interface Metro trop bizarre pour moi</li>
+<br/>
+<li><a href="http://www.emclient.com/?lang=en">emClient </a>qui a l'air pas mal, même si le freemium n'est ma tasse de thé que pour les jeux en ligne</li>
+<br/>
+</ul>
+<br/>
+Je crois qu'en fait, je vais tester emClient tout en maintenant mon installation d'OperaMail opérationelle. Après tout, l'un des plaisirs d'avoir une boîte mail <a href="https://fr.wikipedia.org/wiki/Imap">IMAP</a>, c'est de pouvoir changer de client mail facilement.
+</p>
+<p>
+Bon, je dois également reconnaître que j'ai jeté un oeil aux alternatives à Opera, Firefox en tête. Mais, malgré toute ma "bonne" volonté, j'ai très vite reononcé. Je verrai toutefois à l'usage si je ne peux pas me reconstruire un chouette navigateur à partir de Firefox et de sa myriade d'extensions et de logiciels dérivés (PaleMoon, SeaMonkey, Waterfox, ...).
+</p>
+++++

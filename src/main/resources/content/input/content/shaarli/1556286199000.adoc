@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Track Internet Dropouts and Notify Your ISP with RPi | Make:
+:jbake-tags: raspberrypi,réseau,freebox,monitoring,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556286199000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmakezine.com%2Fprojects%2Fsend-ticket-isp-when-your-internet-drops%2F&searchtags=raspberrypi+r%C3%A9seau+freebox+monitoring+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://makezine.com/projects/send-ticket-isp-when-your-internet-drops/[Track Internet Dropouts and Notify Your ISP with RPi | Make:]
+
+Alors là, il va falloir que je m'en serve

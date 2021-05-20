@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sapo/digital-signage-server · GitHub
+:jbake-tags: open-source,software,android,_mois_févr.,_année_2015
+:jbake-date: 2015-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1423598199000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsapo%2Fdigital-signage-server&searchtags=open-source+software+android+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/sapo/digital-signage-server[sapo/digital-signage-server · GitHub]
+
+Grâce à mes flux, je découvre parfois le nom savant à donner à des projets sur lesquels je travaille ... voire même des outils me permettant leur remplacement total.

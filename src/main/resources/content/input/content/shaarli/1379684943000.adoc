@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The art of programming
+:jbake-tags: art,code,programming,documentation,_mois_sept.,_année_2013
+:jbake-date: 2013-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1379684943000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgeek-and-poke.com%2Fgeekandpoke%2F2013%2F9%2F18%2Fthe-art-of-programming&searchtags=art+code+programming+documentation+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://geek-and-poke.com/geekandpoke/2013/9/18/the-art-of-programming[The art of programming]
+
+C'est la branche dure des militants du code auto-explicatif

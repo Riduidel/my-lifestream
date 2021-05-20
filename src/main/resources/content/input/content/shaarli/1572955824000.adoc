@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Redirect AMP to HTML – Get this Extension for 🦊 Firefox (en-US)
+:jbake-tags: firefox,plugin,format,support,_mois_nov.,_année_2019
+:jbake-date: 2019-11-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1572955824000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faddons.mozilla.org%2Fen-US%2Ffirefox%2Faddon%2Famp2html%2F&searchtags=firefox+plugin+format+support+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://addons.mozilla.org/en-US/firefox/addon/amp2html/[Redirect AMP to HTML – Get this Extension for 🦊 Firefox (en-US)]
+
+Débarassez-vous d'AMP, c'est tout pourri

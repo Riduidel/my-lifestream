@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Minos Hubert
+:jbake-tags: author
+:jbake-date: 2009-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2855697.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/2855697
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253121909.html[La Nuit de La Lumiere]

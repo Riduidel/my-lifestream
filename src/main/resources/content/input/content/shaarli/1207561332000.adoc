@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mika Tanninen - webcam games
+:jbake-tags: webcam,shareware,jeu,windows,software,enfants,_mois_avr.,_année_2008
+:jbake-date: 2008-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1207561332000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmika.tanninen.net%2FOhjelmat_Webcam_en.shtml&searchtags=webcam+shareware+jeu+windows+software+enfants+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://mika.tanninen.net/Ohjelmat_Webcam_en.shtml[Mika Tanninen - webcam games]
+
+Une série de mini-jeux utilisant la webcam

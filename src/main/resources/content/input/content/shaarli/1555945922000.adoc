@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing Kubecost: a better approach to Kubernetes cost monitoring
+:jbake-tags: kubernetes,_mois_avr.,_année_2019
+:jbake-date: 2019-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1555945922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fkubecost%2Fintroducing-kubecost-a-better-approach-to-kubernetes-cost-monitoring-b5450c3ae940&searchtags=kubernetes+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/kubecost/introducing-kubecost-a-better-approach-to-kubernetes-cost-monitoring-b5450c3ae940[Introducing Kubecost: a better approach to Kubernetes cost monitoring]
+
+Ah, un outil pour sortir ... un peu ... le costing K8s du brouillard

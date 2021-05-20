@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HOWTO Backup Your Mac With rsync
+:jbake-tags: macosx,tutorial,reference,utilities,backup,software,_mois_août,_année_2008
+:jbake-date: 2008-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1218639855000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.egg-tech.com%2Fmac_backup%2F&searchtags=macosx+tutorial+reference+utilities+backup+software+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.egg-tech.com/mac_backup/[HOWTO Backup Your Mac With rsync]
+
+Un tutoriel complet sur le backup d'un mac par rsync ...

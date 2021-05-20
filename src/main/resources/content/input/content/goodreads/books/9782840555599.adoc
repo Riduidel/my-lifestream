@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy, Tome 4:  La Main Droite De La Mort
+:jbake-tags:  fantastique,_année_2011,_mois_déc.,_note_2,rayon-bd,read
+:jbake-date: 2011-12-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840555599.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413137503l/2545685._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413137503l/2545685._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2545685
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/10182.html[Mike Mignola]
+
+## Series
+* link:../series/Hellboy_Box_Set.html[Hellboy Box Set]
+* link:../series/Hellboy__Edicion_rustica.html[Hellboy: Edición rústica]
+
+## Review
+
+++++
+Hellboy doit avoir une histoire éditoriale ... intéressante ... vu le nombre de très courts récits mettant en scène le démon bougon et ses multiples rencontres avec des êtres étranges. Et ce tome 4 est parfaitement typique. On y croise des fantômes nordiques, des vampires transsylvaniens, et bien sûr des curés et des morts.<br/>De ces différents récits, le plus intéressant est sans doute le dernier, qui nomme la main d'acier de Hellboy et nous rappelle également toute son histoire.<br/>Bon, malgré tout, ça n'est pas forcément le tome le plus indispensable.
+++++

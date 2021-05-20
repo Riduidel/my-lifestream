@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clemens Vasters 🇪🇺☁📨 sur Twitter : "The cycle closing with service meshes is quite long. We are back to service registries and compiled RPC proxies and intermediary crosscutting services as with DCE and CORBA now. The eventual recovery from that will again be loosely coupled and async.… https://t.co/REmcWbQNov"
+:jbake-tags: citation,kubernetes,conteneur,microservices,_mois_sept.,_année_2019
+:jbake-date: 2019-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1568984475000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fclemensv%2Fstatus%2F1173524345060245504&searchtags=citation+kubernetes+conteneur+microservices+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/clemensv/status/1173524345060245504[Clemens Vasters 🇪🇺☁📨 sur Twitter : "The cycle closing with service meshes is quite long. We are back to service registries and compiled RPC proxies and intermediary crosscutting services as with DCE and CORBA now. The eventual recovery from that will again be loosely coupled and async.… https://t.co/REmcWbQNov"]
+
+Est-ce qu'il a conceptuellement raison ? Oui Est-ce que ça fait mal ? Vous allez voir à quel point !

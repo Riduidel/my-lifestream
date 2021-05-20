@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pijul
+:jbake-tags: source-control,open-source,rust,distribué,_mois_déc.,_année_2020
+:jbake-date: 2020-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1607024656000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpijul.org%2F&searchtags=source-control+open-source+rust+distribu%C3%A9+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://pijul.org/[Pijul]
+
+Un gestionnaire de sources, mêlant certaines idées venues de git et d'autres venues de darcs. Je vois plusieurs inconvénients (tout à fait mineurs) : l'adoption d'un gestionnaire de source dépend du réseau, et il va falloir à nouveau des outils facilitant la vie ... (oui, je parle d'interface graphique). Je pense qu'on en entendra reparler ...

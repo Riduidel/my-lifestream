@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kaamelott Soundboard
+:jbake-tags: humour,art,interaction,son,_mois_mars,_année_2017
+:jbake-date: 2017-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1488743367000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkaamelott-soundboard.2ec0b4.fr%2F&searchtags=humour+art+interaction+son+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://kaamelott-soundboard.2ec0b4.fr/[Kaamelott Soundboard]
+
+Aussi chouette que bien fichu

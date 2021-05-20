@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: theofidry/awesome-mutation-testing: Mutation testing resources: how to make better code by introducing bugs
+:jbake-tags: test,mutation,list,programming,_mois_juin,_année_2019
+:jbake-date: 2019-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1560435973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftheofidry%2Fawesome-mutation-testing&searchtags=test+mutation+list+programming+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/theofidry/awesome-mutation-testing[theofidry/awesome-mutation-testing: Mutation testing resources: how to make better code by introducing bugs]
+
+Oh bon sang, du mutation testing partout !

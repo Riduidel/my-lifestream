@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais arrêtez de choisir des noms de framework à la noix !
+:jbake-tags: développement,marketing,_mois_mars,_année_2016
+:jbake-date: 2016-03-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/02/mais-arretez-de-choisir-des-noms-de-framework-a-la-noix.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/02/mais-arretez-de-choisir-des-noms-de-framework-a-la-noix/
+:jbake-style: wordpress
+
+++++
+<p>
+C'est quand même pas possible !
+</p>
+<p>
+C'est vraiment si compliqué de choisir un nom inutilisé sur internet ?
+</p>
+<p>
+Vous cherchez un nom, vous le tapez dans Google, et si il y a un résultat dans le monde informatique, vous changez de nom. Ca vous évitera des horreurs comme, par exemple, <a href="https://click.apache.org/">Apache Click</a> (impossible de trouver la moindre doc dessus rien qu'à cause du nom) qui est d'ailleurs arrêté.
+</p>
+<p>
+Enfin, je prends celui-là, mais il y en a des dizaines dont le nom empêche toute recherche utile.
+</p>
+++++

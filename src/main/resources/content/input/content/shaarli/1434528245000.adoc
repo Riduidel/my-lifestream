@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [sjonsson] "If architects don’t write code, they are PowerPoint architects. They have no idea what is going on in the code.” @johannarothman at #Path15
+:jbake-tags: citation,programming,architecture,hubris,_mois_juin,_année_2015
+:jbake-date: 2015-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1434528245000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F601483215161970690&searchtags=citation+programming+architecture+hubris+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/601483215161970690[[sjonsson] "If architects don’t write code, they are PowerPoint architects. They have no idea what is going on in the code.” @johannarothman at #Path15]
+
+Exactement le genre d'architecte que je ne veux pas devenir

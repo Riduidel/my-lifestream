@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Joel Test Updated For Programmers
+:jbake-tags: programming,entretien,introspection,_mois_févr.,_année_2015
+:jbake-date: 2015-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1424338677000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsimpleprogrammer.com%2F2015%2F02%2F16%2Fjoel-test-programmers-simple-programmer-test%2F&searchtags=programming+entretien+introspection+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://simpleprogrammer.com/2015/02/16/joel-test-programmers-simple-programmer-test/[The Joel Test Updated For Programmers]
+
+Chouette adaptation du test de Joel pour les développeurs. Ca fait un bon point de départ pour des entretiens, je trouve.

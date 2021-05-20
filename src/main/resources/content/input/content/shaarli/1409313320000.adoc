@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What's The Matter With France? - NYTimes.com
+:jbake-tags: économie,politique,_mois_août,_année_2014
+:jbake-date: 2014-08-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1409313320000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkrugman.blogs.nytimes.com%2F2014%2F08%2F27%2Fwhats-the-matter-with-france%2F%3F_php%3Dtrue%26_type%3Dblogs%26_r%3D0&searchtags=%C3%A9conomie+politique+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://krugman.blogs.nytimes.com/2014/08/27/whats-the-matter-with-france/?_php=true&_type=blogs&_r=0[What's The Matter With France? - NYTimes.com]
+
+" To an important extent, what ails France in 2014 is hypochondria, belief that it has illnesses it doesn’t – and this hypochondria is leading it to accept quack cures that are the real cause of its distress." C'est sur que quand on voit les indicateurs macro-économiques joints avec l'article, la France va au moins aussi bien que les autres pays.

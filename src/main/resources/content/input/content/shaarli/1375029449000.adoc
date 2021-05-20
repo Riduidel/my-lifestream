@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mock Response
+:jbake-tags: software,test,http,erreur,_mois_juil.,_année_2013
+:jbake-date: 2013-07-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1375029449000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmock.isssues.com%2F&searchtags=software+test+http+erreur+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://mock.isssues.com/[Mock Response]
+
+Chouette façon de tester un client HTTP tiens

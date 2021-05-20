@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Biro Art Gallery - Biro Doodles with a ball point pen by NobbyNobody
+:jbake-tags: art,gallerie,image,bizarre,_mois_juil.,_année_2006
+:jbake-date: 2006-07-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1154093966000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.biro-art.com%2Fgallery.html&searchtags=art+gallerie+image+bizarre+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.biro-art.com/gallery.html[Biro Art Gallery - Biro Doodles with a ball point pen by NobbyNobody]
+
+Ne serait-ce que pour le Cthulu à la page, ça vaut le coup

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bagnols-sur-Cèze : cinq lycéens pirates démasqués au lycée Einstein
+:jbake-tags: éducation,informatique,_mois_nov.,_année_2017
+:jbake-date: 2017-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1511092534000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.midilibre.fr%2F2017%2F11%2F16%2Fbagnols-sur-ceze-cinq-lyceens-pirates-demasques-au-lycee-einstein%2C1589383.php&searchtags=%C3%A9ducation+informatique+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.midilibre.fr/2017/11/16/bagnols-sur-ceze-cinq-lyceens-pirates-demasques-au-lycee-einstein,1589383.php[Bagnols-sur-Cèze : cinq lycéens pirates démasqués au lycée Einstein]
+
+Donc ils se sont fait exclure pour avoir utilisé "net send" sur un réseau non protégé ? Et l'obligation de sécurisation ? Sans même parler du ton narquois de l'article, j'ai tendance à penser que c'est plus une faute du lycée que des élèves ...

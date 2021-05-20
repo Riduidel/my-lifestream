@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: About | Lobsters
+:jbake-tags: web,communauté,forum,mailing-list,modération,_mois_mai,_année_2020
+:jbake-date: 2020-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1589958104000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flobste.rs%2Fabout&searchtags=web+communaut%C3%A9+forum+mailing-list+mod%C3%A9ration+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://lobste.rs/about[About | Lobsters]
+
+Il y a dans lobste.rs quelques fonctionnalités qui me plaisent \*beaucoup\* : l'arbre d'invitation, la nécessité d'expliquer les downvotes, et le mode mailing-list

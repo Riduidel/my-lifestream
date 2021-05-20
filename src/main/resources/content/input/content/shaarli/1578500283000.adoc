@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Calendar Versioning — CalVer
+:jbake-tags: programming,versionning,date,exemple,_mois_janv.,_année_2020
+:jbake-date: 2020-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1578500283000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcalver.org%2F&searchtags=programming+versionning+date+exemple+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://calver.org/[Calendar Versioning — CalVer]
+
+D'une manière amusante, c'est la convention implicite que j'ai choisi pour mes projets de génération de documents d'architecture (parce que ces documents reposent par nature sur une connaissance construite temporellement des logiciels qu'ils documentent)

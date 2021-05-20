@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What a wonderful world – Le blog du dessinateur Zep sur Le Monde.fr
+:jbake-tags: art,dessin,bande-dessinée,humour,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590679778000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fzepworld.blog.lemonde.fr&searchtags=art+dessin+bande-dessin%C3%A9e+humour+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://zepworld.blog.lemonde.fr[What a wonderful world – Le blog du dessinateur Zep sur Le Monde.fr]
+
+Sur le blog de Zep, les dessins sont plus adultes que dans Titeuf, et c'est tant mieux (pour moi)

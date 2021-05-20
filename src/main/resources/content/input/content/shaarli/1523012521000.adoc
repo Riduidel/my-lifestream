@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: buunguyen/octotree: Code tree for GitHub
+:jbake-tags: plugin,web,firefox,chrome,opera,_mois_avr.,_année_2018
+:jbake-date: 2018-04-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1523012521000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fbuunguyen%2Foctotree&searchtags=plugin+web+firefox+chrome+opera+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/buunguyen/octotree[buunguyen/octotree: Code tree for GitHub]
+
+Cool ! Une extension pour afficher l'arborescence des fichiers dans un repo Github. Très pratique !

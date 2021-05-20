@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gaean Reach
+:jbake-tags: serie
+:jbake-date: 2007-09-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Gaean_Reach.adoc
+:jbake-source: https://www.goodreads.com/series/53847
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266036344.html[Le Prince des Étoiles (La Geste des Princes-Démons, #1)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manageability - Open Source Profilers for Java
+:jbake-tags: java,langage,programming,profiler,optimisation,_mois_avr.,_année_2005
+:jbake-date: 2005-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1112881693000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.manageability.org%2Fblog%2Fstuff%2Fopen-source-profilers-for-java%2Fview&searchtags=java+langage+programming+profiler+optimisation+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.manageability.org/blog/stuff/open-source-profilers-for-java/view[Manageability - Open Source Profilers for Java]
+
+I've noticed an upsurge in activity with respect to the development of profilers for the Java enviroment. These projects either exploit the JVMPI (incidentally, targeted for deprecation!) to provide new forms of visualization or use a byte code enhancemen

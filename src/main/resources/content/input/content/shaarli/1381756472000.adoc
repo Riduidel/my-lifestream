@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pas de support Miracast pour la Freebox Révolution
+:jbake-tags: upnp,réseau,freebox,_mois_oct.,_année_2013
+:jbake-date: 2013-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1381756472000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freenews.fr%2Fspip.php%3Farticle13961&searchtags=upnp+r%C3%A9seau+freebox+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.freenews.fr/spip.php?article13961[Pas de support Miracast pour la Freebox Révolution]
+
+J'aime beaucoup ce genre de choses ... Pourquoi, POURQUOI supporter ce genre de protocole quand les freebox player/server ont déja l'UPnP et l'AirPlay (pour la freebox server en audio). Personnellement, j'ai un serveur UPnP sur mon NAS (l'excellent minidlna) et ça marche vraiment très bien pour tout streamer sur la freebox. Maintenant, faut être lucide, si personne n'a pensé à faire un outil de streaming UPnP depuis les smartphones, ben c'est balot, mais je m'en passe très bien.

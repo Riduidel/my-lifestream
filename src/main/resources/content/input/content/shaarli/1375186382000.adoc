@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Butterick’s Practical Typography
+:jbake-tags: web,documentation,typographie,@toread,_mois_juil.,_année_2013
+:jbake-date: 2013-07-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1375186382000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpracticaltypography.com%2F&searchtags=web+documentation+typographie+%40toread+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://practicaltypography.com/[Butterick’s Practical Typography]
+
+De la typographie pour les nuls ? C'est complètement pour moi ça !

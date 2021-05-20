@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wii Portal
+:jbake-tags: wii,web,link,portal,browser,jeu,freeware,_mois_avr.,_année_2009
+:jbake-date: 2009-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1239183569000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fliquidicelabs.com%2Fwiiportal%2F&searchtags=wii+web+link+portal+browser+jeu+freeware+_mois_avr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://liquidicelabs.com/wiiportal/[Wii Portal]
+
+Un portail pour la wii ... Dès que j'aurais acheté Opera, je le mettrais dans les liens, parce que pour le coup, ça a l'air bien pratique.

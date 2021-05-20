@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Java Legacy is Constantly Growing
+:jbake-tags: java,programming,concepts,design,_mois_mars,_année_2015
+:jbake-date: 2015-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1426598577000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FWWZ24OWANbM%2Fjava-legacy-constantly-growing&searchtags=java+programming+concepts+design+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/WWZ24OWANbM/java-legacy-constantly-growing[The Java Legacy is Constantly Growing]
+
+Chouette article, même si les exemples de code ne me paraissent pas totallement corrects.

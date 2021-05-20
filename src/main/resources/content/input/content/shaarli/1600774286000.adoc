@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Opportunité De La Modernisation Des Applications
+:jbake-tags: java,programming,architecture,cloud,_mois_sept.,_année_2020
+:jbake-date: 2020-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1600774286000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.infoq.com%2Ffr%2Farticles%2Fapp-modernization-opportunity%2F&searchtags=java+programming+architecture+cloud+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.infoq.com/fr/articles/app-modernization-opportunity/[L'Opportunité De La Modernisation Des Applications]
+
+Un article qui offre un survol correct de la modernisation d'application. Il est toutefois dommage que les sujets vraiment délicats (comme la dette organisationnelle) n'y apparaissent pas ...

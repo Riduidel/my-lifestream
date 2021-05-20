@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Implementing a Form That Prevents Duplicate Submissions in a JSP Page (Java Developers Almanac Example)
+:jbake-tags: form,j2ee,java,servlet,software,_mois_sept.,_année_2004
+:jbake-date: 2004-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1094216122000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.javaalmanac.com%2Fegs%2Fjavax.servlet.jsp%2Fmyformts.jsp.html%3Fl%3Dnew&searchtags=form+j2ee+java+servlet+software+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.javaalmanac.com/egs/javax.servlet.jsp/myformts.jsp.html?l=new[Implementing a Form That Prevents Duplicate Submissions in a JSP Page (Java Developers Almanac Example)]
+
+After the user submits a form for processing, it is possible for the user to inadvertently hit the back button and resubmit the form again. e1049 Implementing a Form in a JSP Page implements such a form. It is possible to prevent this possibility if neces

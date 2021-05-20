@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TheUnarchiver3.9_legacy.zip - theunarchiver - The Unarchiver 3.9 (For older OS X versions and PPC, not sandboxed) - Multi-format unarchiver app for OS X. - Google Project Hosting
+:jbake-tags: macosx,software,freeware,zip,powerpc,_mois_nov.,_année_2013
+:jbake-date: 2013-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1384696883000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Ftheunarchiver%2Fdownloads%2Fdetail%3Fname%3DTheUnarchiver3.9_legacy.zip%26can%3D1%26q%3D&searchtags=macosx+software+freeware+zip+powerpc+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://code.google.com/p/theunarchiver/downloads/detail?name=TheUnarchiver3.9_legacy.zip&can=1&q=[TheUnarchiver3.9_legacy.zip - theunarchiver - The Unarchiver 3.9 (For older OS X versions and PPC, not sandboxed) - Multi-format unarchiver app for OS X. - Google Project Hosting]
+
+Une extension du gestionnaire d'archive du Mac pour gérer tous les formats connus

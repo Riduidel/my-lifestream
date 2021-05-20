@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The absolute worst case scenario happened, what should we do now? : sysadmin
+:jbake-tags: programming,horreur,erreur,backup,stockage,dns,_mois_mars,_année_2021
+:jbake-date: 2021-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1616419649000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.reddit.com%2Fr%2Fsysadmin%2Fcomments%2Fma4mwl%2Fthe_absolute_worst_case_scenario_happened_what%2F&searchtags=programming+horreur+erreur+backup+stockage+dns+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.reddit.com/r/sysadmin/comments/ma4mwl/the_absolute_worst_case_scenario_happened_what/[The absolute worst case scenario happened, what should we do now? : sysadmin]
+
+Une vraie histoire d'horreur informatique

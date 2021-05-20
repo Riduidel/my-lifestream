@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Juan Giménez
+:jbake-tags: author
+:jbake-date: 2011-04-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/31799.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1442865251p5/31799.jpg
+:jbake-source: https://www.goodreads.com/author/show/31799
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782731610086.html[Othon Le Trisaïeul (La Caste des Méta-Barons, #1)]
+* link:../books/9782731610758.html[Honorata la trisaïeule (La Caste des Méta-Barons, #2)]
+* link:../books/9782731611793.html[Aghnar Le Bisaïeul (La Caste des Méta-Barons, #3)]
+* link:../books/9782731612271.html[Oda la Bisaïeule (La Caste des Méta-Barons, #4)]
+* link:../books/9782731612493.html[Tête-D'Acier L'aïeul (La Caste des Méta-Barons, #5)]
+* link:../books/9782731612677.html[Doña Vicenta Gabriela de Rokha L'aïeule (La Caste des Méta-Barons, #6)]
+* link:../books/9782731614640.html[Aghora, le père-mère (La Caste des Méta-Barons, #7)]
+* link:../books/9782731661484.html[Sans-Nom, le dernier Méta-Baron (La Caste des Méta-Barons, #8)]

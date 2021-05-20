@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marc Falzon on Twitter: "Concept : des devs Python droppés sur une île déserte doivent résister à l’envie d’utiliser des fichiers au format YAML. On appellerait ça “L’Ile de l’indentation”."
+:jbake-tags: citation,humour,programming,_mois_mai,_année_2018
+:jbake-date: 2018-05-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1527222958000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffalzm%2Fstatus%2F999259354124648449&searchtags=citation+humour+programming+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/falzm/status/999259354124648449[Marc Falzon on Twitter: "Concept : des devs Python droppés sur une île déserte doivent résister à l’envie d’utiliser des fichiers au format YAML. On appellerait ça “L’Ile de l’indentation”."]
+
+C'est bien que les gens commencent à se moquer du YAML. Ca ne reflète juste pas assez à quel point c'est médiocre.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Loading web pages fast on a $20 feature phone - DEV Community 👩‍💻👨‍💻
+:jbake-tags: performance,économie,web,design,_mois_avr.,_année_2020
+:jbake-date: 2020-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1586251934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Faddyosmani%2Floading-web-pages-fast-on-a-20-feature-phone-8h6&searchtags=performance+%C3%A9conomie+web+design+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://dev.to/addyosmani/loading-web-pages-fast-on-a-20-feature-phone-8h6[Loading web pages fast on a $20 feature phone - DEV Community 👩‍💻👨‍💻]
+
+De très bons conseils, qui devraient être utiles à tous. Il est d'ailleurs ironique que le développeur écrivant ça utilise dev.to. Parce que bon, la performance du chargement de la page est assez déplorable.

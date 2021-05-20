@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fearless Concurrency with Rust | Rust Blog
+:jbake-tags: rust,parallel,thread,programming,tutorial,_mois_mai,_année_2019
+:jbake-date: 2019-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1556998639000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.rust-lang.org%2F2015%2F04%2F10%2FFearless-Concurrency.html&searchtags=rust+parallel+thread+programming+tutorial+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html[Fearless Concurrency with Rust | Rust Blog]
+
+Maintenant que j'ai mon bout de code qui lit des flux RSS, et charge les images à grands coups de Base64Encode, il est temps de me pencher sur la question du multithread ...

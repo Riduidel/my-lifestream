@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Archive: Java[tm] Technology Products Download
+:jbake-tags: développement,install,jvm,programming,reference,tool,_mois_sept.,_année_2007
+:jbake-date: 2007-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1188834140000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fproducts%2Farchive%2F&searchtags=d%C3%A9veloppement+install+jvm+programming+reference+tool+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://java.sun.com/products/archive/[Archive: Java[tm] Technology Products Download]
+
+La page d'archive avec toutes les versions de Java. Très pratique pour tester sur des versions exotiques.

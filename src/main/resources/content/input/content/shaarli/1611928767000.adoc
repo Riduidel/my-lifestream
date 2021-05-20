@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Git Reports
+:jbake-tags: github,bug,qualité,utilisateur,_mois_janv.,_année_2021
+:jbake-date: 2021-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1611928767000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgitreports.com%2F&searchtags=github+bug+qualit%C3%A9+utilisateur+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://gitreports.com/[Git Reports]
+
+L'idée est super chouette !

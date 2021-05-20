@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gre.gario.us
+:jbake-tags: web,social,réseau,delicious,_mois_févr.,_année_2005
+:jbake-date: 2005-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1107770371000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjustin.mainesites.net%2Fgregarious%2F&searchtags=web+social+r%C3%A9seau+delicious+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://justin.mainesites.net/gregarious/[gre.gario.us]
+
+Enter a del.icio.us username to make some new friends.

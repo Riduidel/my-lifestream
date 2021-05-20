@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Documenting Software Architectures: Views and Beyond
+:jbake-tags:  architecture, documentation,_année_2020,_mois_févr.,_note_3,rayon-informatique,read
+:jbake-date: 2020-02-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780321552686.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/4107041
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Software architecture—the conceptual glue that holds every phase of a project together for its many stakeholders—is widely recognized as a critical element in modern software development. Practitioners have increasingly discovered that close attention to a software system’s architecture pays valuable dividends. Without an architecture that is appropriate for the problem being solved, a project will stumble along or, most likely, fail. Even with a superb architecture, if that architecture is not well understood or well communicated the project is unlikely to succeed.<br /><br /> <br /><br />Documenting Software Architectures, Second Edition, provides the most complete and current guidance, independent of language or notation, on how to capture an architecture in a commonly understandable form. Drawing on their extensive experience, the authors first help you decide what information to document, and then, with guidelines and examples (in various notations, including UML), show you how to express an architecture so that others can successfully build, use, and maintain a system from it. The book features rules for sound documentation, the goals and strategies of documentation, architectural views and styles, documentation for software interfaces and software behavior, and templates for capturing and organizing information to generate a coherent package. New and improved in this second edition:<br /><br />Coverage of architectural styles such as service-oriented architectures, multi-tier architectures, and data models<br />Guidance for documentation in an Agile development environment<br />Deeper treatment of documentation of rationale, reflecting best industrial practices<br />Improved templates, reflecting years of use and feedback, and more documentation layout options<br />A new, comprehensive example (available online), featuring documentation of a Web-based service-oriented system<br />Reference guides for three important architecture documentation languages: UML, AADL, and SySML<br /><br />“This new edition is brighter, shinier, more complete, more pragmatic, more focused than the previous one, and I wouldn’t have thought it possible to improve on the original. As the field of software architecture has grown over these past decades, there is much more to be said, much more that we know, and much more that we can reflect upon of what’s worked and what hasn’t—and the authors here do all that, and more.”<br /><br />—From the Foreword by Grady Booch, IBM Fellow
+</div>
+++++
+
+
+## Authors
+* link:../authors/130970.html[David Garlan]
+* link:../authors/130969.html[Felix Bachmann]
+* link:../authors/130971.html[James Ivers]
+* link:../authors/130974.html[Judith Stafford]
+* link:../authors/39517.html[Len Bass]
+* link:../authors/39515.html[Paul Clements]
+* link:../authors/4422889.html[Paulo Merson]
+* link:../authors/5356040.html[Reed Little]
+* link:../authors/130973.html[Robert Nord]
+
+
+
+## Review
+
+++++
+Dans ce pavé, on trouvera des informations sur tous els types de vues utilisables dans la documentation d'architecture logicielle, mais aussi des éléments permettant de valider la complétude d'une documentation, avec des méthodes assez intelligentes.<br/>Il y a par ailleurs un chapitre remarquable sur la documentation de décisions d'architecture, qui va bien plus loin que le simple "utilisez des ADR".<br/>Pour le reste, la plupart des vues m'étaient déja bien connues, et ce livre se contentait d'en donner les forces, faiblesses et cas d'application avec un template de document qui, sans être inutile, me paraît assez lourd.<br/>En bonus, deux annexes sur UML et SysML complètent l'ouvrage.<br/>Ca en fait un bon point d'entrée à la documentation d'architecture, avec une méthode peut-être un peu dépassée par la révolution des conteneurs.
+++++

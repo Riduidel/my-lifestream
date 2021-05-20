@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parcoursup : le « secret des délibérations » sera maintenu
+:jbake-tags: france,politique,université,_mois_mai,_année_2018
+:jbake-date: 2018-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1526485663000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Fcampus%2Farticle%2F2018%2F05%2F15%2Fparcoursup-le-secret-des-deliberations-sera-maintenu_5299363_4401467.html&searchtags=france+politique+universit%C3%A9+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.lemonde.fr/campus/article/2018/05/15/parcoursup-le-secret-des-deliberations-sera-maintenu_5299363_4401467.html[Parcoursup : le « secret des délibérations » sera maintenu]
+
+Chaque jour, pour chaque décision, la république en marche arrière confirme son orientation rétrograde. Utiliser des algorithmes non auditables est un aveu de non-efficacité des dits algorithmes, en plus d'un corporatisme débile.

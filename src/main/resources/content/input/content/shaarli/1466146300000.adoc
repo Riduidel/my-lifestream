@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Contextual Identities on the Web | Tanvi Vyas
+:jbake-tags: web,browser,firefox,identité,_mois_juin,_année_2016
+:jbake-date: 2016-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1466146300000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.mozilla.org%2Ftanvi%2F2016%2F06%2F16%2Fcontextual-identities-on-the-web%2F&searchtags=web+browser+firefox+identit%C3%A9+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.mozilla.org/tanvi/2016/06/16/contextual-identities-on-the-web/[Contextual Identities on the Web | Tanvi Vyas]
+
+Wow ... Une chouette extension du mode incognito

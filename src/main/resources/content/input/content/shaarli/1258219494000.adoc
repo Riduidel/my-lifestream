@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: D-Link DNS-323 Printing and Scanner (Scan Server) | Jordan's Technology ...
+:jbake-tags: dns-323,scan,printing,_mois_nov.,_année_2009
+:jbake-date: 2009-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1258219494000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jordandelozier.com%2F2009%2F05%2Fd-link-dns-323-printing-and-scanner-scan-server%2F&searchtags=dns-323+scan+printing+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.jordandelozier.com/2009/05/d-link-dns-323-printing-and-scanner-scan-server/[D-Link DNS-323 Printing and Scanner (Scan Server) | Jordan's Technology ...]
+
+Une autre page d'instructions, beaucoup plus simple, mais sans aucun doute moins complète.

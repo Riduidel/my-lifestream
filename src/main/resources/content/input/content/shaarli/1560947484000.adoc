@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joe Kutner on Twitter: "Are k8s yaml files the new web.xml/server.xml?"
+:jbake-tags: yaml,xml,citation,critique,_mois_juin,_année_2019
+:jbake-date: 2019-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1560947484000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodefinger%2Fstatus%2F1141095010697449473&searchtags=yaml+xml+citation+critique+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/codefinger/status/1141095010697449473[Joe Kutner on Twitter: "Are k8s yaml files the new web.xml/server.xml?"]
+
+Est-ce que le yaml est mieux qu'un web.xml ? Evidement que non. Est-ce que le yaml est plus hype ? Evidement que oui !

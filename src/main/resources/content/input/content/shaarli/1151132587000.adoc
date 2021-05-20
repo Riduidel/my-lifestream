@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RumbleBox
+:jbake-tags: ordinateur,freeware,jeu,software,_mois_juin,_année_2006
+:jbake-date: 2006-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1151132587000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fphackett.com%2Frumblebox%2F&searchtags=ordinateur+freeware+jeu+software+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://phackett.com/rumblebox/[RumbleBox]
+
+Un jeu au concept complètement ddélirant, qui pourrait valoir le coup

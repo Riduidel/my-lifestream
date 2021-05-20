@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: regex.osherove.com
+:jbake-tags: software,freeware,windows,programming,regexp,_mois_mars,_année_2005
+:jbake-date: 2005-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1111659676000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fregex.osherove.com%2F&searchtags=software+freeware+windows+programming+regexp+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://regex.osherove.com/[regex.osherove.com]
+
+The Regulator is an advanced, free regular expressions testing and learning tool. It allows you to build and verify a regular expression against any text input, file or web, and displays matching, splitting or replacement results within an easy to unders

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Using Mylyn with Google Code - Updated for Eclipse 3.4 (Ganymede) | Eclipse Zone
+:jbake-tags: eclipse,googlecode,mylyn,documentation,tutorial,java,programming,_mois_déc.,_année_2008
+:jbake-date: 2008-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1230648306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Feclipse.dzone.com%2Farticles%2Fusing-mylyn-with-google-code-u&searchtags=eclipse+googlecode+mylyn+documentation+tutorial+java+programming+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://eclipse.dzone.com/articles/using-mylyn-with-google-code-u[Using Mylyn with Google Code - Updated for Eclipse 3.4 (Ganymede) | Eclipse Zone]
+
+J'avais déja vu des instructions pour utiliser google code avec eclipse. mais celles-ci sont très complètes, et surtout adaptées à Eclipse 3.4, qui semble avoir changé beaucoup de choses ...

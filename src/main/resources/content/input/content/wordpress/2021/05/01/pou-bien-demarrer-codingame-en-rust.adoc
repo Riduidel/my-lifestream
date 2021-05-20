@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pou bien démarrer Codingame en Rust ...
+:jbake-tags: codingame,rust,_mois_mai,_année_2021
+:jbake-date: 2021-05-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/05/01/pou-bien-demarrer-codingame-en-rust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/05/01/pou-bien-demarrer-codingame-en-rust/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>La semaine prochaine, c'est le <a href="https://www.codingame.com/contests/spring-challenge-2021">spring challenge</a> !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et comme l'année dernière, je vais essayer de le faire en Rust (un poil poussé par des collègues).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais contrairement à l'année dernière, j'essaye de préparer ma participation histoire de ne pas me faire avoir. Donc, voici une checklist de quelques détails utiles</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Créer le projet cargo avec <code>cargo init --lib .</code> (pour créer une bibliothèque plutôt qu'un binaire). Tout le code sera dans le fichier <code>lib.rs</code> parce que je n'ai pas encore trouvé la bonne façon d'utiliser <code>include!(...)</code> pour avoir plusieurs fichiers.</li><li>Dans le dossier <code>tests</code>, créer un fichier <code>design_tests.rs</code> et un fichier <code>integration_tests.rs</code></li><li>Aller chercher dans <code>target/debug/deps</code> les exécutables qui doivent s'appeler <code>design_tests_{un hash pourri}.exe</code> et <code>integration_tests{un autre hash pourri}.rs</code> pour créer les configurations de debug de VSCode</li><li>Le code doit avoir à peu près la forme suivante<ul><li>Je lis les entrées</li><li>Je calcule mes sorties</li><li><strong>IMPORTANT</strong> j'appelle la méthode qui génère le code du test d'ntégration</li><li>Et enfin je retourne ma sorte</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et avec ça, je devrais pouvoir coder assez rapidement, même si ça n'est pas automatique que ce que j'avais en Java.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+++++

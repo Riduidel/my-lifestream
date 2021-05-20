@@ -1,0 +1,44 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un changelog n'est pas une suite de messages de commit !
+:jbake-tags: bug,github,_mois_avr.,_année_2020
+:jbake-date: 2020-04-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/17/un-changelog-nest-pas-une-suite-de-messages-de-commit.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/17/un-changelog-nest-pas-une-suite-de-messages-de-commit/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Avant de terminer mes articles sur l'architecture, je vais me permettre une petit digression en revenant au développement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je vois de plus en plus de projets tenter de générer le changelog directement à partir des messages de commit. Que ce soit avec des trucs rigolos à la <a href="http://gitmoji.carloscuesta.me/">gitmoji</a>, que ce soit avec le <a href="https://github.com/conventional-changelog/conventional-changelog">conventionnal commit</a>, je pense que les développeurs espèrent faire du message de commit un <a href="https://fr.wikipedia.org/wiki/Pas_de_balle_en_argent">silver bullet</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":512,"height":325,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large is-resized"><img src="https://bryanmmathers.com/wp-content/uploads/2015/05/no-silver-bullet.png" alt="There is no silver bullet" width="512" height="325" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Seulement voilà, il n'y a pas de balles en argent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En l'occurence, il y a un mélange désagréable qui est fait entre le message commit, qui raconte l'histoire du code "depuis les tranchées" et le changelog qui essaye d'en faire une version lisible pour les utilisateurs. Qui plus est, cette envie de faire du message de commit un outil universel pousse les développeurs vers un révisionisme du code. En effet, pour que le changelog soit propre, il faut que l'historique soit propre. Mais ça n'est souvent pas le cas : le développeur va faire une première version, la corriger parce qu'un nouveau cas de test sera apparu, ou qu'une revue de code aura montré de vrais défauts (souvent ça montre uniquement la différence de degré d'exigence entre les développeurs d'une équipe), ou qu'une discussion lui aura montré une autre approche. Est-ce qu'il faut supprimer ces tentatives pour obtenir une histoire propre ? Je ne crois pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je le crois d'autant moins qu'un projet a, en plus du code qui fournit une histoire détaillée, aussi complexe que la réalité du projet, un outil idéal pour construire une histoire officielle : le gestionnaire de tickets. Qu'il s'agisse de GitHub, de Jira, ou même de Mantis, toutes les équipes disposent d'un outil permettant à l'équipe de communiquer les évolutions du logiciel. Et cet outil fournit toujours un composant permettant de créer une roadmap claire et lisible pour les utilisateurs. Il y a même dans des outils comme maven le moyen de créer un changelog sympa à partir de ce gestionnaire de tickets (ça s'appelle <a href="https://maven.apache.org/plugins/maven-changelog-plugin/">maven-changelog-plugin</a>) - non, je n'ai pas cherché ailleurs, mais franchement, ça n'est pas bien difficile à trouver.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors, pourquoi se refuser un outil conçu pour la discussion, l’évaluation et la validation des évolutions d'un logiciel (que ces évolutions viennent des utilisateurs ou de l'équipe) ? Pour ma part, j'ai compris l'intérêt de ces outils à partir du moment où j'ai utilisé <a href="https://www.eclipse.org/mylyn/">Eclipse Mylyn</a> qui, bien avant GitHub, faisait le lien entre la base de code et le gestionnaire de ticket. Maintenant, référencer un ticket dans un commit ou réciproquement est trivial. Et on isole bien les responsabilités : aux commits le détail du pourquoi, du comment, et au gestionnaire de ticket la discussion propre. Ca n'est d'ailleurs pas un hasard, à mon avis, si les pull requests sont une forme duale de discussion des issues sur GitHub ou GitLab.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je pense que, dans mes prochains projets, je pousserai de façon beaucoup plus forte l'isolation des rôles entre ces différents outils.</p>
+<!-- /wp:paragraph -->
+++++

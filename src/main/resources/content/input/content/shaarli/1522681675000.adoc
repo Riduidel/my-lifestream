@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: En 2018, Microsoft ne rime plus avec Windows
+:jbake-tags: informatique,system,_mois_avr.,_année_2018
+:jbake-date: 2018-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1522681675000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Feconomie%2Farticle%2F2018%2F03%2F31%2Fen-2018-microsoft-ne-rime-plus-avec-windows_5279068_3234.html&searchtags=informatique+system+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.lemonde.fr/economie/article/2018/03/31/en-2018-microsoft-ne-rime-plus-avec-windows_5279068_3234.html[En 2018, Microsoft ne rime plus avec Windows]
+
+C'est donc enfin venu le temps de Linux sur le bureau ? ou c'est plutôt que l'ordinateur de bureau est en perte de vitesse ...

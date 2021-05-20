@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: About - Jang
+:jbake-tags: rust,programming,tutorial,exercice,_mois_janv.,_année_2020
+:jbake-date: 2020-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1578567140000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsn99.github.io%2Frust-practise-questions%2Fabout.html&searchtags=rust+programming+tutorial+exercice+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://sn99.github.io/rust-practise-questions/about.html[About - Jang]
+
+Bon sang de bon soir ! Un livre d'exercices Rust couvrant à peu près tout ... C'est génial !

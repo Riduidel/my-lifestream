@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Don't Use System.out.println!
+:jbake-tags: software,programming,java,documentation,system,log,library,exemple,log4j,_mois_avr.,_année_2005
+:jbake-date: 2005-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1113485990000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.vipan.com%2Fhtdocs%2Flog4jhelp.html&searchtags=software+programming+java+documentation+system+log+library+exemple+log4j+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.vipan.com/htdocs/log4jhelp.html[Don't Use System.out.println!]
+
+Comprehensive (and by far better than default one) documentation for Log4J

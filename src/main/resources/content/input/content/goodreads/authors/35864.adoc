@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Norman Spinrad
+:jbake-tags: author
+:jbake-date: 2002-10-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/35864.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1288130448p5/35864.jpg
+:jbake-source: https://www.goodreads.com/author/show/35864
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780553252897.html[The Iron Dream]
+* link:../books/9780553270334.html[Little Heroes]
+* link:../books/9782070420797.html[Les Solariens]
+* link:../books/9782207305362.html[Deus Ex]
+* link:../books/9782290321133.html[Jack Barron et l'éternité]
+* link:../books/9782811215149.html[Ces hommes dans la jungle]
+* link:../books/9782811217228.html[Les Fortunes de l'espace]

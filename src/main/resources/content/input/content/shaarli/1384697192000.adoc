@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TenFourFox: A fork of Mozilla Firefox ESR 17 for the Power Macintosh and Mac OS X Tiger PowerPC
+:jbake-tags: macosx,software,freeware,open-source,browser,powerpc,_mois_nov.,_année_2013
+:jbake-date: 2013-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1384697192000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.floodgap.com%2Fsoftware%2Ftenfourfox%2F&searchtags=macosx+software+freeware+open-source+browser+powerpc+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.floodgap.com/software/tenfourfox/[TenFourFox: A fork of Mozilla Firefox ESR 17 for the Power Macintosh and Mac OS X Tiger PowerPC]
+
+LE navigateur pour les macs powerPC

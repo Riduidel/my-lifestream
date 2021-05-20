@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How We Make Trello - Fog Creek Blog
+:jbake-tags: software,programming,méthode,_mois_mars,_année_2014
+:jbake-date: 2014-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1395311107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.fogcreek.com%2Fhow-we-make-trello%2F&searchtags=software+programming+m%C3%A9thode+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.fogcreek.com/how-we-make-trello/[How We Make Trello - Fog Creek Blog]
+
+Une très chouette explication de la méthode Fog Creek. Un point qui me frappe, c'est le fait que les fonctionnalités, une fois arrivées en alpha, sont considérées comme "absolument pas prêtes". C'est remarquable de justesse.

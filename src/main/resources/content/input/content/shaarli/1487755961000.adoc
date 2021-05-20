@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jessie Link 👑🍌👖 on Twitter: ""Everybody likes to write reusable code, and no one wants to reuse anybody else's code." A funny and true sentiment from @eryno 😂"
+:jbake-tags: programming,citation,_mois_févr.,_année_2017
+:jbake-date: 2017-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1487755961000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmad_typist%2Fstatus%2F834063329459130370&searchtags=programming+citation+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/mad_typist/status/834063329459130370[Jessie Link 👑🍌👖 on Twitter: ""Everybody likes to write reusable code, and no one wants to reuse anybody else's code." A funny and true sentiment from @eryno 😂"]
+
+Je ne suis pas sûr sûr de ne jamais réutiliser (surtout quand je vois certains collègues) ..

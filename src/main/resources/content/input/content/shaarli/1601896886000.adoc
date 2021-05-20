@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WPS sous linux en français - Objectif NUX
+:jbake-tags: linux,office,i18n,tutorial,_mois_oct.,_année_2020
+:jbake-date: 2020-10-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1601896886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fobjnux.1s.fr%2Findex.php%3Fpost%2F2019%2F12%2F04%2FWPS-sous-linux-en-fran%25C3%25A7ais&searchtags=linux+office+i18n+tutorial+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://objnux.1s.fr/index.php?post/2019/12/04/WPS-sous-linux-en-fran%C3%A7ais[WPS sous linux en français - Objectif NUX]
+
+WPS, c'est bien, mais l'avoir vraiment en français, c'est quand même mieux.

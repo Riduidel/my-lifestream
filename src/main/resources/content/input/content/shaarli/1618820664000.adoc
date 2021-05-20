@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cards for Humanity
+:jbake-tags: design,accessibility,web,discussion,support,_mois_avr.,_année_2021
+:jbake-date: 2021-04-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1618820664000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcardsforhumanity.idean.com%2F&searchtags=design+accessibility+web+discussion+support+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://cardsforhumanity.idean.com/[Cards for Humanity]
+
+Très chouette outil d'aide à l'orientation dans l'UX. A mon avis, ça aide vraiment à l'explicitation des contraintes.

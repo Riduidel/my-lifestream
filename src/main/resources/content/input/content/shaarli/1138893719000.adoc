@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MacDevCenter.com: Serve Your iCal Calendars Using WebDAV
+:jbake-tags: calendar,linux,web,software,documentation,webdav,tutorial,_mois_févr.,_année_2006
+:jbake-date: 2006-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1138893719000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.macdevcenter.com%2Fpub%2Fa%2Fmac%2F2002%2F09%2F20%2Fical_webdav.html&searchtags=calendar+linux+web+software+documentation+webdav+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.macdevcenter.com/pub/a/mac/2002/09/20/ical_webdav.html[MacDevCenter.com: Serve Your iCal Calendars Using WebDAV]
+
+

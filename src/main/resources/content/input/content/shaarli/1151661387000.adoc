@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SIMILE | Timeline
+:jbake-tags: ajax,javascript,visualisation,library,software,open-source,_mois_juin,_année_2006
+:jbake-date: 2006-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1151661387000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsimile.mit.edu%2Ftimeline%2F&searchtags=ajax+javascript+visualisation+library+software+open-source+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://simile.mit.edu/timeline/[SIMILE | Timeline]
+
+Une librairie Javascript d'affichage d'une timeline, pour trouver de bonnes visualisations d'informations chronologiques (pensez aux projets, par exemple ...)

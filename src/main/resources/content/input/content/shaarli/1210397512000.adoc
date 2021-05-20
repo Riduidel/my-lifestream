@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Best Java Tools You Never Knew Existed | Dublin Java User Group
+:jbake-tags: java,j2ee,library,list,programming,reference,_mois_mai,_année_2008
+:jbake-date: 2008-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1210397512000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dubjug.org%2Fnode%2F103&searchtags=java+j2ee+library+list+programming+reference+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.dubjug.org/node/103[The Best Java Tools You Never Knew Existed | Dublin Java User Group]
+
+Une collection de bibliothèques Java pas (ou peu) connues, mais très pratiques. J'en connaissais quelques-unes, mais pas Stringtemplate, par exemple.

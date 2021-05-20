@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: IPv6 Christmas Display Uses 75 Internet’s Worth of Addresses | Hackaday
+:jbake-tags: réseau,ip,hack,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546423560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2018%2F12%2F24%2Fipv6-christmas-display-uses-75-internets-worth-of-addresses%2F&searchtags=r%C3%A9seau+ip+hack+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hackaday.com/2018/12/24/ipv6-christmas-display-uses-75-internets-worth-of-addresses/[IPv6 Christmas Display Uses 75 Internet’s Worth of Addresses | Hackaday]
+
+C'est un usage assez délirant de l'espace des adresses IPv6 ... Mais ça montre la taille totalement folle du truc

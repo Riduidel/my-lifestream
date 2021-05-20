@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - davidB/livereload-jvm: A micro http-server compatible with LiveReload 2 (protocol). Should be used at compile/build-time.
+:jbake-tags: java,web,server,build,reload,_mois_juin,_année_2020
+:jbake-date: 2020-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1591256801000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FdavidB%2Flivereload-jvm&searchtags=java+web+server+build+reload+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/davidB/livereload-jvm[GitHub - davidB/livereload-jvm: A micro http-server compatible with LiveReload 2 (protocol). Should be used at compile/build-time.]
+
+Donc ce repository GitHub archié est la seule implémentation Java de livereload ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FileSync
+:jbake-tags: software,freeware,macosx,utilities,tool,backup,synchronisation,_mois_sept.,_année_2008
+:jbake-date: 2008-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1221918917000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.designersdomain.com%2Ffilesync%2Findex.html&searchtags=software+freeware+macosx+utilities+tool+backup+synchronisation+_mois_sept.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.designersdomain.com/filesync/index.html[FileSync]
+
+Un synchroniseur de dossiers pour Mac, exactement ce qu'il me fallait pour que la biblothèque iPhoto passe tranquillement sous Windows

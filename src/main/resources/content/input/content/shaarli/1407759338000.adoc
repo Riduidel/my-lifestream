@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: First-person Hyperlapse Videos
+:jbake-tags: science,vidéo,_mois_août,_année_2014
+:jbake-date: 2014-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1407759338000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fredmond%2Fprojects%2Fhyperlapse%2F&searchtags=science+vid%C3%A9o+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://research.microsoft.com/en-us/um/redmond/projects/hyperlapse/[First-person Hyperlapse Videos]
+
+Stupéfiant ... Ca pourrait changer un bon paquet de vidéos absolument impossibles à regarder assez rapidement, ça ... Et j'imagine ce que ça donnerait sur des captures de FPS :-) via http://the.taoofmac.com/space/links/2014/08/11/0850

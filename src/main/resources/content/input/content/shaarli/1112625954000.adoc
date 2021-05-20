@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bouvard
+:jbake-tags: java,programming,langage,design,javadoc,doclet,documentation,_mois_avr.,_année_2005
+:jbake-date: 2005-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1112625954000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fweb.tiscali.it%2Ffarello%2Fbp%2Fintro.html&searchtags=java+programming+langage+design+javadoc+doclet+documentation+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://web.tiscali.it/farello/bp/intro.html[Bouvard]
+
+

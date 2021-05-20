@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Poisoned Project - About
+:jbake-tags: software,freeware,open-source,macosx,réseau,p2p,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110903443000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gottsilla.net%2Fabout.php&searchtags=software+freeware+open-source+macosx+r%C3%A9seau+p2p+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.gottsilla.net/about.php[The Poisoned Project - About]
+
+Poisoned is a peer-to-peer client for the FastTrack network (Kazaa, Grokster, iMesh), the Gnutella network (Limewire, Acquisition), and OpenFT

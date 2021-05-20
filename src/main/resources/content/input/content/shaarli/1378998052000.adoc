@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Everything About Java 8
+:jbake-tags: java,langage,programming,article,introduction,_mois_sept.,_année_2013
+:jbake-date: 2013-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1378998052000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infoq.com%2Fnews%2F2013%2F08%2Feverything-about-java-8&searchtags=java+langage+programming+article+introduction+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.infoq.com/news/2013/08/everything-about-java-8[Everything About Java 8]
+
+les lambdas dans Java8, ça va déchirer, je vous le dis.

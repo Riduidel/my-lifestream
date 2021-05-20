@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jenkins Pipeline Environment Variables - The Definitive Guide
+:jbake-tags: jenkins,jenkinsfile,environnement,variable,documentation,_mois_mai,_année_2021
+:jbake-date: 2021-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1621257905000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fe.printstacktrace.blog%2Fjenkins-pipeline-environment-variables-the-definitive-guide%2F&searchtags=jenkins+jenkinsfile+environnement+variable+documentation+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://e.printstacktrace.blog/jenkins-pipeline-environment-variables-the-definitive-guide/[Jenkins Pipeline Environment Variables - The Definitive Guide]
+
+Un bon résumé des infos sur les variables d'environnement disponibles dans les Jenkinsfile

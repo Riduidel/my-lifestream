@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cuchaz / Time Tracker — Bitbucket
+:jbake-tags: java,javafx,application,temps,open-source,freeware,_mois_mars,_année_2017
+:jbake-date: 2017-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1488363711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbitbucket.org%2Fcuchaz%2Ftime-tracker&searchtags=java+javafx+application+temps+open-source+freeware+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://bitbucket.org/cuchaz/time-tracker[cuchaz / Time Tracker — Bitbucket]
+
+Ca m'a l'air très très chouette tout ça ... sauf le build tool exotique

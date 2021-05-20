@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Groovy par la pratique
+:jbake-tags: programming,tutorial,documentation,groovy,_mois_mars,_année_2015
+:jbake-date: 2015-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1426494757000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.torrefacteurjava.fr%2Fbook%2Fexport%2Fhtml%2F3&searchtags=programming+tutorial+documentation+groovy+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.torrefacteurjava.fr/book/export/html/3[Groovy par la pratique]
+
+Groovy par la pratique en français

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bitHero/bitIcon
+:jbake-tags: web,html,font,glyphicon,_mois_oct.,_année_2015
+:jbake-date: 2015-10-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1446109187000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FbitHero%2FbitIcon&searchtags=web+html+font+glyphicon+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/bitHero/bitIcon[bitHero/bitIcon]
+
+Chouette ! une glyphicon pour les différents langages de dev.

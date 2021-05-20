@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Appel à dons pour l'éolienne libre d'AeroSeeD
+:jbake-tags: énergie,open-source,vent,_mois_mai,_année_2014
+:jbake-date: 2014-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1400759244000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Fappel-a-dons-pour-l-eolienne-libre-d-aeroseed&searchtags=%C3%A9nergie+open-source+vent+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://linuxfr.org/news/appel-a-dons-pour-l-eolienne-libre-d-aeroseed[Appel à dons pour l'éolienne libre d'AeroSeeD]
+
+Chouette initiative ! Avec ça, on n'est aps très loin de sources d'énergie gratuites. Il est fini le temps de l'économie de la rareté !

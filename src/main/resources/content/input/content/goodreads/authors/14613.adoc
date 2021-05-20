@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stuart Immonen
+:jbake-tags: author
+:jbake-date: 2011-01-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/14613.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1570238054p5/14613.jpg
+:jbake-source: https://www.goodreads.com/author/show/14613
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785121039.html[Ultimate X-Men Collection, Book 5]
+* link:../books/9782809422276.html[Ultimate X-Men, tome 6: Nord magnétique]

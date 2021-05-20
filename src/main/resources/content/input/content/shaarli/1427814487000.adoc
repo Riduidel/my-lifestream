@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: steeve/france.code-civil
+:jbake-tags: loi,histoire,politique,git,github,_mois_mars,_année_2015
+:jbake-date: 2015-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1427814487000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsteeve%2Ffrance.code-civil&searchtags=loi+histoire+politique+git+github+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://github.com/steeve/france.code-civil[steeve/france.code-civil]
+
+C'est un truc de malade, ce code civil sous Git

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HttpUnit Home
+:jbake-tags: programming,java,test,library,open-source,web,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112364725000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhttpunit.sourceforge.net%2F&searchtags=programming+java+test+library+open-source+web+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://httpunit.sourceforge.net/[HttpUnit Home]
+
+unit testing for web applications

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iView Fr :: Voir le sujet - Renommage de photos
+:jbake-tags: tutorial,forum,iptc,rename,_mois_févr.,_année_2010
+:jbake-date: 2010-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1265123557000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fiview.free.fr%2Fforum%2Fviewtopic.php%3Ft%3D260&searchtags=tutorial+forum+iptc+rename+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://iview.free.fr/forum/viewtopic.php?t=260[iView Fr :: Voir le sujet - Renommage de photos]
+
+Un tutoriel rapide sur le renommage de fichiers avec le bien aimé iView Media Pro ... Ca fera moins usine à gaz que d'installer encore un logiciel ...

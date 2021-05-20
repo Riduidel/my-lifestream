@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Animated GIF editor and GIF maker
+:jbake-tags: web,gif,editor,_mois_sept.,_année_2019
+:jbake-date: 2019-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1567665647000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fezgif.com%2F&searchtags=web+gif+editor+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://ezgif.com/[Animated GIF editor and GIF maker]
+
+A garder sous le coude, pour de l'édition de gif facile ...

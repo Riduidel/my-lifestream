@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurell K. Hamilton
+:jbake-tags: author
+:jbake-date: 2004-04-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/9550.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1399387919p5/9550.jpg
+:jbake-source: https://www.goodreads.com/author/show/9550
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782265072473.html[Le Baiser des ombres (Meredith Gentry, #1)]

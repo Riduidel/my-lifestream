@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To change Thunderbird's default sort order and threaded view
+:jbake-tags: email,thunderbird,thread,_mois_mars,_année_2014
+:jbake-date: 2014-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1394010971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.badpenguin.org%2Fthunderbirds-default-sort&searchtags=email+thunderbird+thread+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.badpenguin.org/thunderbirds-default-sort[How To change Thunderbird's default sort order and threaded view]
+
+Bon ben comme je passe à Firefox/Thunderbird, je crois que je vais aroser le monde de liens utiles (ou pas). Pour commencer, comment faire pour que Thunderbird utilise le bon affichage par défaut.

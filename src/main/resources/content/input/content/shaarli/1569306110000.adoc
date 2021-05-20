@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Calculez la distance entre deux villes!
+:jbake-tags: distance,calculator,web,openstreetmap,_mois_sept.,_année_2019
+:jbake-date: 2019-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1569306110000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffr.distance.to%2F&searchtags=distance+calculator+web+openstreetmap+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fr.distance.to/[Calculez la distance entre deux villes!]
+
+Un site pas idiot du tout qui donne rapidement une information utile.

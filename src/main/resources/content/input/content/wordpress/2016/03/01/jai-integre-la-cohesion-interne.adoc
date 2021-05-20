@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai intégré la cohésion interne
+:jbake-tags: emploi,mavie,science-fiction,_mois_mars,_année_2016
+:jbake-date: 2016-03-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/01/jai-integre-la-cohesion-interne.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/01/jai-integre-la-cohesion-interne/
+:jbake-style: wordpress
+
+++++
+<p>
+Je vous ai déja parlé de <a href="https://www.goodreads.com/book/show/9444661-cleer?ac=1">Cleer </a>? Non ?En fait, si, mais pas beaucoup ...
+</p>
+<p>
+Sachez que c'est un excellent roman qui explore la science-fiction dans un contexte aussi inattendu que moderne.
+</p>
+<p>
+Et sachez également que ce roman raconte comment les deux personnages principaux montent les échelons de la cohésion interne, un mystérieux service chargé de ... rectifier les erreur, quelles qu'elles soient.
+</p>
+<p>
+Eh bien ces temps-ci, j'ai l’impression de rentrer dans le même genre de processus. Bon, je vais avoir du mal à ne pas détailler ... Cela dit, sachez que je commence à utiliser des outils louches, comme <a href="http://archimatetool.com/">Archi</a>, <a href="http://www.yworks.com/products/yed">yEd</a> (juste parce que je ne veux pas utiliser Visio) et, malheureusement, beaucoup de PowerPoint ...
+</p>
+++++

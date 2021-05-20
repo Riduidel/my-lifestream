@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Which form of transport has the smallest carbon footprint? - Our World in Data
+:jbake-tags: écologie,transport,comparatif,_mois_oct.,_année_2020
+:jbake-date: 2020-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1604054743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fourworldindata.org%2Ftravel-carbon-footprint&searchtags=%C3%A9cologie+transport+comparatif+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ourworldindata.org/travel-carbon-footprint[Which form of transport has the smallest carbon footprint? - Our World in Data]
+
+Comme d'hab, hein, le bateau pollue moins que le train qui pollue moins que la voiture ... Et curieusement, le bus pollue autant que la moto 😮 Bon, par contre, l'avion, ça pète tout

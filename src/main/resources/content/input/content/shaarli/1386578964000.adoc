@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Factory | Humeurs illustrées
+:jbake-tags: java,humour,programming,_mois_déc.,_année_2013
+:jbake-date: 2013-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1386578964000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.luc-damas.fr%2Fhumeurs%2Fjava-factory%2F&searchtags=java+humour+programming+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.luc-damas.fr/humeurs/java-factory/[Java Factory | Humeurs illustrées]
+
+C'est hélas le plus mauvais côté de Java : la surabstraction. Quand je vois ce que les autres langages fournissent, je suis toujours un peu confus de voir à quel point c'est merdique en java. Et pourtant, on peut faire du code expressif, sans factories de tout poil, à la seule condition de ne pas se laisser aller ... Autrement dit, les factories visibles ne sont que la conséquence visible du manque de respect des développeurs Java pour leurs utilisateurs : écrire une API claire,c 'est du boulot, et il faut le faire. via http://sebsauvage.net/links/?hK7i9A

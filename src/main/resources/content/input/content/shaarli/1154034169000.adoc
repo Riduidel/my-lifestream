@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Descent2
+:jbake-tags: software,freeware,jeu,macosx,_mois_juil.,_année_2006
+:jbake-date: 2006-07-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1154034169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage.mac.com%2Fmcotis%2Fd2x%2F&searchtags=software+freeware+jeu+macosx+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://homepage.mac.com/mcotis/d2x/[Descent2]
+
+Une version de Descent2 pour Mac. Le jeu le plus difficile à appréhender, du moins, de mon point de vue. Je vais essayer, pour voir ...

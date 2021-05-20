@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 0.30000000000000004.com/
+:jbake-tags: programming,langage,mathématiques,_mois_mai,_année_2019
+:jbake-date: 2019-05-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1558800891000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2F0.30000000000000004.com%2F&searchtags=programming+langage+math%C3%A9matiques+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://0.30000000000000004.com/[0.30000000000000004.com/]
+
+Une belle exposition de toutes les non-égalités de nombres existant dans les langages informatiques.

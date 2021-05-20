@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Magic. Part 4: sun.misc.Unsafe
+:jbake-tags: java,programming,library,_mois_mai,_année_2015
+:jbake-date: 2015-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1432879578000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmishadoff.com%2Fblog%2Fjava-magic-part-4-sun-dot-misc-dot-unsafe%2F&searchtags=java+programming+library+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/[Java Magic. Part 4: sun.misc.Unsafe]
+
+La classe la plus dangereuse de toute la JVM

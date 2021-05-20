@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martin Kleppmann
+:jbake-tags: author
+:jbake-date: 2020-01-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7969625.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1481385428p5/7969625.jpg
+:jbake-source: https://www.goodreads.com/author/show/7969625
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781449373320.html[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems]

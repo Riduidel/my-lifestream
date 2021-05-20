@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Two new user pages. One new stat. This one’s big. « Blog – Stack Exchange
+:jbake-tags: web,online,communauté,_mois_avr.,_année_2015
+:jbake-date: 2015-04-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1429428690000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.stackoverflow.com%2F2015%2F04%2Ftwo-new-user-pages-one-new-stat-this-ones-big%2F&searchtags=web+online+communaut%C3%A9+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blog.stackoverflow.com/2015/04/two-new-user-pages-one-new-stat-this-ones-big/[Two new user pages. One new stat. This one’s big. « Blog – Stack Exchange]
+
+Les nouvelles pages utilisateur de StackExchange sont chouettes !

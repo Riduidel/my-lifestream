@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SamEtMax on Twitter: "2016 js en un Tweet. React = gestionnaire de widgets. Flux = pattern pub/sub. Gulp/grunt/webpack = make. De rien."
+:jbake-tags: citation,javascript,programming,écosystème,_mois_oct.,_année_2016
+:jbake-date: 2016-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1477291193000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsam_et_max%2Fstatus%2F789181604824354817&searchtags=citation+javascript+programming+%C3%A9cosyst%C3%A8me+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/sam_et_max/status/789181604824354817[SamEtMax on Twitter: "2016 js en un Tweet. React = gestionnaire de widgets. Flux = pattern pub/sub. Gulp/grunt/webpack = make. De rien."]
+
+Et bim. En bonus le commentaire ansible=scp est croquignolet

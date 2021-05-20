@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SCP-5977 - Fondation SCP
+:jbake-tags: scp,bug,animaux,construction,humour,_mois_févr.,_année_2021
+:jbake-date: 2021-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1613047294000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffondationscp.wikidot.com%2Fscp-5977&searchtags=scp+bug+animaux+construction+humour+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://fondationscp.wikidot.com/scp-5977[SCP-5977 - Fondation SCP]
+
+A mettre dans tous les bug fixes critiques 😂

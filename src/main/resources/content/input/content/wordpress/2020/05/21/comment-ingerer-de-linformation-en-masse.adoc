@@ -1,0 +1,76 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment ingérer de l'information en masse
+:jbake-tags: information,ingestion,rrss2imap,rss,rss-bridge,tweetledee,veille,_mois_mai,_année_2020
+:jbake-date: 2020-05-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/21/comment-ingerer-de-linformation-en-masse.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/21/comment-ingerer-de-linformation-en-masse/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait suite à <a href="https://riduidel.wordpress.com/2020/05/20/comment-ingerer-et-retranscrire-des-informations-en-masse/">Comment ingérer et retranscrire des informations en masse&#160;?</a> et va détailler la partie entrée de mon système d'information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que de l'information, à l'ère de l'information, il en faut.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Concepts</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>J'ai donc, comme tout le monde, un système de lecture de divers sites web. Comme je ne suis plus tout jeune, il s’appuie techniquement sur des flux RSS et un Raspberry, évidement, et conceptuellement, sur des idées aussi idiotes que </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>M'exposer à la diversité, </li><li>Toujours garder de la place pour l'art, </li><li>Préférer la profondeur à la largeur</li><li>Si ça m'intrigue, je creuse</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et sur les non-buts suivants</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, je ne veux pas de bulle de filtrage. Je suis déjà assez solipsiste par nature ne pas laisser un algorithme décider à ma place de ce qui va m'intéresser. Par ailleurs, ces algorithmes font une chose que je ne veux absolument pas : encourager mes instincts face à ma réflexion. Je me rends bien compte qu'il y a une forme de schizophrénie à écrire ça tout en utilisant Twitter. Mais d'une part je choisis très précisément la forme de ma bulle Twitter, et d'autre part, les outils que j'utilise ne m'affichent pas la timeline, mais bien tous les tweets de cette bulle. Et surtout, ça n'est qu'une de mes sources, sans doute la plus inégale, d'ailleurs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, je ne cherche pas à simplifier, ni à avoir des résumés ou des versions courtes. Parce que je sais lire vite (Goodreads vous le montrera bien mieux que moi). Et on ne va pas se mentir, pour ingérer de l'information, lire vite est un prérequis. Comme d'autres choses, c'est une compétence, qui peut être cultivée (et très facilement) : trouvez un genre littéraire, quel qu'il soit, qui vous plaît, et lisez tout ce que vous aimez. Vous verrez votre rythme de lecture augmenter dans tous les domaines. Et je le répète, lire rapidement (et comprendre rapidement ce qu'on lit), est à mon sens un prérequis à l'ingestion d'information.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Enfin, je ne veux pas utiliser de navigateur comme source de lecture. Il y a à ça une raison fonctionnelle, et une raison pratique. La raison fonctionnelle, c'est que je ne veux pas voir la mise en page changer à chaque article. Et malheureusement, le mode lecture des navigateurs n'offre pas à mon sens le niveau d'isolation que je recherche. La raison technique, c'est qu'un navigateur nécessite du réseau synchrone, quand un mail nécessite du réseau asynchrone, et permet bien plus facilement d'exploiter son temps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Vous voulez vraiment parler de technique ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sur la partie technique, tout est détaillé dans cet article : <a href="https://riduidel.wordpress.com/2019/11/27/mais-quest-ce-que-je-fais-de-mon-raspberry/">Mais qu'est-ce que je fais de mon Raspberry</a> la partie qui vous intéresse est celle qui contient <a href="https://github.com/RSS-Bridge/rss-bridge#rant">RSS-Bridge</a> (pour les sites comme GQMagazine qui offrent des flux RSS tronqués), <a href="https://github.com/Riduidel/rrss2imap">rrss2imap</a> et <a href="https://github.com/tweetledee/tweetledee">Tweetledee</a>. Ensemble, ces trois mini-logiciels me permettent de recevoir tout ce que je veux dans ma boîte mail, et de faire la relève de ces flux RSS toutes les deux heures précisément.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Mais ça se passe comment ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'avec tout ça, je reçois environ 200/250 messages par jour. Oui, ça fait 250 mails, et franchement, c'est plus une solution qu'un problème.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc tous les matins, à partir de 8H30, je fais une première passe dessus : j'élimine tout ce qui n'a aucune chance de m'intéresser (les annonces de nouveaux frameworks, l'essentiel du show politique, les utilisations de twitter comme hotline). Quand cette première passe est finie, il me reste en général moins d'une cinquantaine d'articles. Ceux-là, je les parcours. Autrement dit, j'ouvre la page web, je regarde rapidement si ça peut m'intéresser. Si ça n'est pas le cas, j'élimine. Il faut noter qu'un article important réapparaîtra forcément. Du coup, si vous le virez une fois, mais que vous le revoyez poindre par un autre canal, peut-être bien qu'il est important ... Après ce parcours, il ne reste vraiment plus grand monde : en général, moins d'une dizaine d'articles que je vais lire tranquillement dans la journée. Et lors de cette lecture, je passe à la deuxième partie du traitement : le stockage et la restitution, qui sont isolés et seront décrits dans un autre article.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Un autre avis ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Si vous voulez une autre opinion sur la raison pour laquelle les flux RSS sont très chouettes, lisez donc cet article : <a href="https://danielmiessler.com/blog/its-time-to-get-back-into-rss/">It’s Time to Get Back Into RSS</a></p>
+<!-- /wp:paragraph -->
+++++

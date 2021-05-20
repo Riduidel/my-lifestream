@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Undervalued Software Engineering Skills: Writing Well
+:jbake-tags: informatique,écriture,compétence,_mois_juin,_année_2019
+:jbake-date: 2019-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1559644478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.pragmaticengineer.com%2Fon-writing-well%2F&searchtags=informatique+%C3%A9criture+comp%C3%A9tence+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.pragmaticengineer.com/on-writing-well/[Undervalued Software Engineering Skills: Writing Well]
+
+Je suis parfaitement d'accord. Savoir écrire un document correct est un talent sous-estimé dans l'informatique.

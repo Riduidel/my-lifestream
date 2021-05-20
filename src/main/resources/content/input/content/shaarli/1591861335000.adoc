@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Admiring the Quotebacks Strategy
+:jbake-tags: web,citation,microformat,communication,_mois_juin,_année_2020
+:jbake-date: 2020-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1591861335000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.kickscondor.com%2Fadmiring-quotebacks-strategy%2F&searchtags=web+citation+microformat+communication+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.kickscondor.com/admiring-quotebacks-strategy/[Admiring the Quotebacks Strategy]
+
+J'aime beaucoup l'idée de quotebacks, qui me rappelle la seule bonne fonctionnalité de medium (pour un lecteur) : les passages surlignés visibles. Malheureusement je crains fort que ça ne marche que difficilement sur wordpress.com ...

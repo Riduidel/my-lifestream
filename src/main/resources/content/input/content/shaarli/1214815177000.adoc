@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeNAS
+:jbake-tags: freeware,matériel,linux,open-source,server,disk,nas,_mois_juin,_année_2008
+:jbake-date: 2008-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1214815177000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freenas.org%2F&searchtags=freeware+mat%C3%A9riel+linux+open-source+server+disk+nas+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.freenas.org/[FreeNAS]
+
+De quoi utiliser une des machines de la cave en guise de serveur de stockage

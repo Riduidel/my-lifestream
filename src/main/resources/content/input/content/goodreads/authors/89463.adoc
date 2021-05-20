@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Wagner
+:jbake-tags: author
+:jbake-date: 2010-09-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/89463.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1346882363p5/89463.jpg
+:jbake-source: https://www.goodreads.com/author/show/89463
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781905437504.html[Judge Dredd:Mandroid]
+* link:../books/9782302011939.html[Judge Dredd : Heavy Metal Dredd (Soleil US Comics: Judge Dredd, #1)]

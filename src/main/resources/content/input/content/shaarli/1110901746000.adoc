@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: StepMania News
+:jbake-tags: software,freeware,open-source,jeu,macosx,linux,windows,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110901746000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.stepmania.com%2Fstepmania%2F&searchtags=software+freeware+open-source+jeu+macosx+linux+windows+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.stepmania.com/stepmania/[StepMania News]
+
+jDancing game adapted from Dance Dance revolution

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: David Petersen
+:jbake-tags: author
+:jbake-date: 2013-06-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/36203.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1256493636p5/36203.jpg
+:jbake-source: https://www.goodreads.com/author/show/36203
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070695737.html[Légendes de la Garde #2: Hiver 1152]

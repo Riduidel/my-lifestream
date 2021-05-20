@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Lyonnes de la SF
+:jbake-tags: blog,podcast,_mois_déc.,_année_2007
+:jbake-date: 2007-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1197455708000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flyonsf.podomatic.com%2F&searchtags=blog+podcast+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://lyonsf.podomatic.com/[Les Lyonnes de la SF]
+
+Un blog/podcast sur l'actualité du fandom SF

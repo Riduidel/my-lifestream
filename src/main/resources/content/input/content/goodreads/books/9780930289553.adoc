@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Black Orchid
+:jbake-tags:  fable, rayon-bd, surhomme,_année_2010,_mois_févr.,_note_4,fleur,read
+:jbake-date: 2010-02-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780930289553.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308883501l/47700._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1308883501l/47700._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/47700
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+By the acclaimed writer of THE SANDMAN LIBRARY. Consider the orchid: exotic, intoxicating and rare. Consider Black Orchid: a demigoddess in search of her own identity. The flowerlike result of a scientific experiment, the Black Orchid must reconcile her human memories with her botanical origins. Graphic novel format. Mature readers.
+</div>
+++++
+
+
+## Authors
+* link:../authors/10365.html[Dave McKean]
+* link:../authors/1221698.html[Neil Gaiman]
+
+## Series
+* link:../series/Black_Orchid.html[Black Orchid]
+
+## Review
+
+++++
+Intéressante, quoiqu'assez difficillement compréhensible, histoire mettant en scène des femmes-fleurs.<br/>Le récit n'est pas rempli de bruit et de fureur, mais plutôt lourd , limite ennivrant.
+++++

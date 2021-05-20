@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pragmatic Software Architecture Documentation | Zenodo
+:jbake-tags: architecture,présentation,documentation,_mois_déc.,_année_2019
+:jbake-date: 2019-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1575728397000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fzenodo.org%2Frecord%2F3565355&searchtags=architecture+pr%C3%A9sentation+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://zenodo.org/record/3565355[Pragmatic Software Architecture Documentation | Zenodo]
+
+Très chouette présentation. C'est de l'arc42 (donc un peu différent de l'agile architecture documentation), mais c'est chouettement présenté.

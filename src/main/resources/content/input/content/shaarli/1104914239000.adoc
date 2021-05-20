@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Core Java Technologies Tech Tips
+:jbake-tags: java,tips,_mois_janv.,_année_2005
+:jbake-date: 2005-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1104914239000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fdeveloper%2FJDCTechTips%2F&searchtags=java+tips+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://java.sun.com/developer/JDCTechTips/[Core Java Technologies Tech Tips]
+
+Core Java Technologies Tech Tips is an electronic mailing sent to registered Sun Developer Network members. Each mailing contains tips, techniques, and sample code on various topics of interest to developers using Java 2 Platform, Standard Edition (J2SE).

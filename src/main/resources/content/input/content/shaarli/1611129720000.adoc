@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Deskreen
+:jbake-tags: écran,windows,linux,macosx,software,system,android,_mois_janv.,_année_2021
+:jbake-date: 2021-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1611129720000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.deskreen.com%2F&searchtags=%C3%A9cran+windows+linux+macosx+software+system+android+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.deskreen.com/[Deskreen]
+
+Un logiciel \*extrêmement\* astucieux pour enfin utiliser facilement n'importe quel device comme écran secondaire.

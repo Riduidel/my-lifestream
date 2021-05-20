@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: KeePass Favicon Downloader download | SourceForge.net
+:jbake-tags: keepass,plugin,interface,icon,_mois_mai,_année_2016
+:jbake-date: 2016-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1462269186000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fkeepass-favicon%2F&searchtags=keepass+plugin+interface+icon+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://sourceforge.net/projects/keepass-favicon/[KeePass Favicon Downloader download | SourceForge.net]
+
+Chouette idée ! Ca va clairement rendre mon Keepass plus joli !

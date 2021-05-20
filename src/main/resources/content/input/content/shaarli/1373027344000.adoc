@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Immersion : a people-centric view of your Inbox
+:jbake-tags: email,gmail,graph,exploration,visualisation,_mois_juil.,_année_2013
+:jbake-date: 2013-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1373027344000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fimmersion.media.mit.edu%2F&searchtags=email+gmail+graph+exploration+visualisation+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://immersion.media.mit.edu/[Immersion : a people-centric view of your Inbox]
+
+Très chouette exploration à base de graphe des relations entre les contacts présents dans ma boîte GMail. Bon, honnêtement, maintenant que je n'utilise plus GMail, tout ça a un côté surrané (surtout qu'ils auraient pu utiliser une connexion IMAP pour le même résultat), mais c'est quand même sympathique de voir matérialisées les relations entre contacts.

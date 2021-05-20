@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GonzoHacker on Twitter: "It's time to rebuild the app from scratch so we can make the same mistakes in a more modern framework"
+:jbake-tags: citation,programming,framework,mode,_mois_sept.,_année_2016
+:jbake-date: 2016-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1474526587000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGonzoHacker%2Fstatus%2F776870997479817220&searchtags=citation+programming+framework+mode+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/GonzoHacker/status/776870997479817220[GonzoHacker on Twitter: "It's time to rebuild the app from scratch so we can make the same mistakes in a more modern framework"]
+
+Les modes dans l'informatique, ça évite la réflexion

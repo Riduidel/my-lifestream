@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nintendo Wii balance board - EduTech Wiki
+:jbake-tags: bluetooth,wii,windows,_mois_déc.,_année_2010
+:jbake-date: 2010-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1291733459000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fedutechwiki.unige.ch%2Fen%2FNintendo_Wii_balance_board&searchtags=bluetooth+wii+windows+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://edutechwiki.unige.ch/en/Nintendo_Wii_balance_board[Nintendo Wii balance board - EduTech Wiki]
+
+Un tutorial de connexion de la balance board à Windows, et même à Firefox ... ça donne des idées.

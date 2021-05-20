@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Online regex tester and debugger: JavaScript, Python, PHP, and PCRE
+:jbake-tags: online,regexp,programming,php,javascript,python,_mois_mars,_année_2016
+:jbake-date: 2016-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1458030195000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fregex101.com%2F&searchtags=online+regexp+programming+php+javascript+python+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://regex101.com/[Online regex tester and debugger: JavaScript, Python, PHP, and PCRE]
+
+Un très bon testeur d'expression régulière PHP/JS/Python. Bien meilleur que celui que j'utilise d'habitude pour le Java, en fait.

@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Troisième semaine de confinement
+:jbake-tags: épidémie,confinement,mavie,réflexion,_mois_avr.,_année_2020
+:jbake-date: 2020-04-05
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/05/troisieme-semaine-de-confinement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/05/troisieme-semaine-de-confinement/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Et oui, on en est déjà là. Et franchement, à la maison, ça va bien. Tout le monde travaille sereinement ... sauf moi (comme je l'avais annoncé <a href="https://riduidel.wordpress.com/2020/03/30/deuxieme-semaine-de-confinement/">la semaine dernière</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et donc, j'ai entamé les travaux prévus avec une réfection de plafond de salle de bain qui va encore m'occuper un moment.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sur un plan technique, j'ai entamé une série d'articles sur l'architecture dont je suis franchement content. A dire vrai, je suis même un peu triste de n'avoir aucun commentaire, aucune forme de feedback, mais ça ne va pas m'empêcher de continuer ! (d'ailleurs, les articles suivants sont déjà prêts, ne les loupez pas). J'ai également clôturé quelques vieilles contributions open-source, et je vais continuer dès demain matin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et puis, comme le mode de confinement "à la française" semble se stabiliser, j'ai pris l'occasion, lors des promenades autorisées, de réfléchir un peu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et les messages que je vois passer, qui prétendent créer un monde post-capitaliste, ou au contraire s'accrochent à cette méthode qui nous a mené à la situation actuelle, manquent un point qui se rapproche de ce qu'écrit <a href="https://fr.wikipedia.org/wiki/Nassim_Nicholas_Taleb">Nassim Nicolas Taieb</a> (j'ai commencé le cygne noir, et j'ai des remarques nombreuses). En effet, les gens semblent clairement prendre leur cas particulier pour une généralité et vouloir bâtir des théories sur ces anecdotes. La seule chose que je sais en ce moment, c'est que le monde qui émergera demain, l'année prochaine, de cette pandémie sera différent. Comment ? Je n'en sais rien. Mais j'aimerai tellement que des notions comme le revenu universel ou le sens du service public émergent grandis de cette période trouble.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robocode Rumble: Tips from the champs
+:jbake-tags: robocode,documentation,exemple,java,programming,jeu,robot,_mois_déc.,_année_2008
+:jbake-date: 2008-12-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1229267175000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Flibrary%2Fj-robowrap.html&searchtags=robocode+documentation+exemple+java+programming+jeu+robot+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.ibm.com/developerworks/library/j-robowrap.html[Robocode Rumble: Tips from the champs]
+
+Encore un article d'IBM sur Robocode. Ca devient une habitude ... Cette fois, c'est un ensemble d'exemples de robots "marquants" par leur qualité. Bon, je n'en ai pas encore besoin tout de suite, parce que je suis encore un débutant, mais ça pourrait me servir, notamment le predictive tracking et ces choses bizarres ...

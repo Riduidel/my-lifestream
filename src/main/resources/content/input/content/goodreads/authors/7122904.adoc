@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aurélie Wellenstein
+:jbake-tags: author
+:jbake-date: 2017-07-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7122904.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1429956308p5/7122904.jpg
+:jbake-source: https://www.goodreads.com/author/show/7122904
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266273121.html[Le Roi des fauves]

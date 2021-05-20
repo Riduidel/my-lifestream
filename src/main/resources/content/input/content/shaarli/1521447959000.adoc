@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andrea Francia on Twitter: "The “distribulith” is the architectural style that combines the immobility of monoliths with fragility of microservices. Applied thoroughly, it helps the developer to fill his resumes with the technologies needed to be hired by the next company, while dooming the current one."
+:jbake-tags: citation,microservices,architecture,_mois_mars,_année_2018
+:jbake-date: 2018-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1521447959000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fandreafrancia%2Fstatus%2F974315797534461953&searchtags=citation+microservices+architecture+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/andreafrancia/status/974315797534461953[Andrea Francia on Twitter: "The “distribulith” is the architectural style that combines the immobility of monoliths with fragility of microservices. Applied thoroughly, it helps the developer to fill his resumes with the technologies needed to be hired by the next company, while dooming the current one."]
+
+J'ai l'impression de voir ça tous les jours

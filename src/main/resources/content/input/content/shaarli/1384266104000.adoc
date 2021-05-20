@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simple Answers
+:jbake-tags: philosophie,innovation,_mois_nov.,_année_2013
+:jbake-date: 2013-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1384266104000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1289%2F&searchtags=philosophie+innovation+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xkcd.com/1289/[Simple Answers]
+
+Les outils, et donc les inventions, sont amoraux par nature. Du coup, les questions morales ne peuvent jamais leur être appliquées ...

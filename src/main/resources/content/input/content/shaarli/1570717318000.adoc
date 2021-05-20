@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dekorateio/dekorate: Java annotation processors for Kubernetes
+:jbake-tags: kubernetes,docker,déploiement,annotation,framework,build,_mois_oct.,_année_2019
+:jbake-date: 2019-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1570717318000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdekorateio%2Fdekorate&searchtags=kubernetes+docker+d%C3%A9ploiement+annotation+framework+build+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/dekorateio/dekorate[dekorateio/dekorate: Java annotation processors for Kubernetes]
+
+J'ai cru initialement que c'était une mauvaise idée, mais j'ai maintenant tendance à changer d'avis : avoir les descripteurs de déploiement générés depuis l'application Java est en fait une bonne idée, pour ceux qui ne veulent pas les écrire eux-mêmes.

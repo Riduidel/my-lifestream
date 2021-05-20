@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stack Overflow Developer Survey 2015
+:jbake-tags: web,statistiques,démographie,_mois_avr.,_année_2015
+:jbake-date: 2015-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1428575463000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstackoverflow.com%2Fresearch%2Fdeveloper-survey-2015&searchtags=web+statistiques+d%C3%A9mographie+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://stackoverflow.com/research/developer-survey-2015[Stack Overflow Developer Survey 2015]
+
+Très chouettes infos sur ces gens (dont moi) qui vont sur StackOverflow

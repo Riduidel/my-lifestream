@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeNAS: The Free NAS Server - Accueil
+:jbake-tags: server,software,backup,ftp,linux,_mois_janv.,_année_2008
+:jbake-date: 2008-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1201702825000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freenas.org%2Findex.php%3Flang%3Dfr&searchtags=server+software+backup+ftp+linux+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.freenas.org/index.php?lang=fr[FreeNAS: The Free NAS Server - Accueil]
+
+Une distribution live pour faire un NAS à partir de n'importe quel vieux PC. Ca m'a l'air sympa comme idée,s auf qu'il faudrait que je remette en route une brouette à la cave ... Et ça, je n'en ai vraiment pas envie.

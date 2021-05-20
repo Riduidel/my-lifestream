@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenVPN GUI for Windows
+:jbake-tags: software,freeware,windows,réseau,sécurité,_mois_févr.,_année_2005
+:jbake-date: 2005-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1109148159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.openvpn.se%2F&searchtags=software+freeware+windows+r%C3%A9seau+s%C3%A9curit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.openvpn.se/[OpenVPN GUI for Windows]
+
+OpenVPN is an easy-to-use, robust, and highly configurable SSL VPN (Virtual Private Network) daemon which can be used to securely link two or more private networks using an encrypted tunnel over the internet.

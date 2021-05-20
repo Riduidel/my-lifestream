@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pourquoi l’application « alerte attentat » n’a pas fonctionné le soir de la tuerie de Nice
+:jbake-tags: informatique,bug,analyse,_mois_août,_année_2016
+:jbake-date: 2016-08-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1470727033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Fpixels%2Farticle%2F2016%2F07%2F21%2Fpourquoi-l-application-alerte-attentat-n-a-pas-fonctionne-le-soir-de-la-tuerie-de-nice_4972750_4408996.html&searchtags=informatique+bug+analyse+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.lemonde.fr/pixels/article/2016/07/21/pourquoi-l-application-alerte-attentat-n-a-pas-fonctionne-le-soir-de-la-tuerie-de-nice_4972750_4408996.html[Pourquoi l’application « alerte attentat » n’a pas fonctionné le soir de la tuerie de Nice]
+
+Jolie analyse d'un lamentable plantage

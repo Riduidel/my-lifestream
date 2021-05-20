@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Metadata Export for iPhoto - télécharger le logiciel Metadata Export for iPhoto sur ZDNet.fr
+:jbake-tags: software,freeware,plugin,iphoto,macosx,_mois_juin,_année_2008
+:jbake-date: 2008-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1213090468000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zdnet.fr%2Ftelecharger%2Fmac%2Ffiche%2F0%2C39021720%2C39321543s%2C00.htm&searchtags=software+freeware+plugin+iphoto+macosx+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.zdnet.fr/telecharger/mac/fiche/0,39021720,39321543s,00.htm[Metadata Export for iPhoto - télécharger le logiciel Metadata Export for iPhoto sur ZDNet.fr]
+
+Un exporteur de métadonnées, pas en exif, mais bon, c'est déja un bopn début, je pense

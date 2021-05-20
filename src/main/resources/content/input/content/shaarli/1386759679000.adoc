@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TinyWall - A free, lightweight and non-intrusive firewall
+:jbake-tags: software,freeware,windows,firewall,sécurité,réseau,_mois_déc.,_année_2013
+:jbake-date: 2013-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1386759679000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftinywall.pados.hu%2F&searchtags=software+freeware+windows+firewall+s%C3%A9curit%C3%A9+r%C3%A9seau+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://tinywall.pados.hu/[TinyWall - A free, lightweight and non-intrusive firewall]
+
+Un firewall reposant sur le moteur de Microsoft Essentials mais en améliorant la fonctionalité. Ca paraît une bonne idée : le firewall de Windows paraît bon, mais l'interface le rend en fait inconfigurable. via http://sebsauvage.net/links/?ZA-LIQ

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LuckySoftware.dk: iChoose
+:jbake-tags: software,freeware,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110979915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.luckysoftware.dk%2Fichoose.php&searchtags=software+freeware+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.luckysoftware.dk/ichoose.php[LuckySoftware.dk: iChoose]
+
+iChoose makes it easy for you to store your favorite links, without filling up your screen with big clumsy icons. Links are quickly accessed through a discreet icon placed in the menu bar. Starting with this version, iChoose can now be used for shortcuts

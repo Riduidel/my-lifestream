@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: futuresimple/helm-secrets: A helm plugin that help manage secrets with Git workflow and store them anywhere
+:jbake-tags: helm,kubernetes,secret,plugin,open-source,_mois_janv.,_année_2019
+:jbake-date: 2019-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1547149755000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ffuturesimple%2Fhelm-secrets&searchtags=helm+kubernetes+secret+plugin+open-source+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/futuresimple/helm-secrets[futuresimple/helm-secrets: A helm plugin that help manage secrets with Git workflow and store them anywhere]
+
+J'aime bien l'idée, même si je ne comprend pas tout à fait tout. Mais je suis sûr qu'une ou deux discussions avec mes collègues spécialistes de K8s aidera ...

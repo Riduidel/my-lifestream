@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai appris le Python ... et un truc sur Groovy
+:jbake-tags: groovy,python,_mois_mars,_année_2016
+:jbake-date: 2016-03-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/01/jai-appris-le-python-et-un-truc-sur-groovy.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/01/jai-appris-le-python-et-un-truc-sur-groovy/
+:jbake-style: wordpress
+
+++++
+<p>
+Ces derniers temps, j'ai dû bosser sur un outil de déploiement écrit en Python. Et donc j'ai fait du Python. Pendant longtemps, j'ai cru que c'était un langage difficilement compréhensible. Cela dit, pendant ce temps-là, j'ai aussi ajouté au Java le Javascript (et le Flash, mais c'était aussi déplaisant que ... disons ... se faire arracher les dents par Davy Jones - si vous ne voyez pas qui ça peut être, pensez au mec à la tête de poulpe dans Pirates des Caraïbes). Et comme j'avais également fait un peu de Ruby pour rire ... Disons que le Python ne m'a finalement pas paru si difficilement appréhendable.
+</p>
+<p>
+En fait, en pratique, j'ai trouvé le passage au Python assez facile, à la nuance notable du système d'imports qui engendre le même genre d'incompréhension que le CLASSPATH pouvait en engendrer chez moi il y a plus d'une décennie. A part ces imports, ces modules et ces packages, Python est somme toute très agréable. Et même cette histoire de définition des blocs par l'indentation (et donc sans aucune accolade) ne me gêne en fait pas du tout.
+</p>
+<p>
+Mieux, comme je fais du Python dans Eclipse avec <a href="http://www.pydev.org/">PyDev</a>, j'ai un truc qui me manque en Groovy : un débuggeur.Parce que l'un des plus mauvais côtés de la prise de contrôle de Groovy par Spring a été l'intégration complète, totale et irrémédiable du plugin Groovy pour eclipse dans STS. Du coup, pour débugger du Groovy, il faut STS ... Et je trouve ça un peu lourd. Enfin, tout ça, c'est ce que j'ai compris.
+</p>
+<p>
+Cela dit, le plus gros inconvénient de tout ça, c'est que quand je commence un script Groovy, il grossit, grossit, et à un moment, je tombe sur un bug que je n'arrive pas à corriger avec un ou deux assert ou des ajouts de log. Et c'est le moment où je réécris tout en Java, perdant du temps et du flux.
+</p>
+<p>
+Du coup, si je trouvais un bon plugin me permettant de faire du debug en groovy ... eh bien je pourrais maintenir de bien plus gros bouts de code Groovy.
+</p>
+++++

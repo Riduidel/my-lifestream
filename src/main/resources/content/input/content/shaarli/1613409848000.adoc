@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: footsteps - Visual Studio Marketplace
+:jbake-tags: vscode,plugin,édition,mémoire,programming,_mois_févr.,_année_2021
+:jbake-date: 2021-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1613409848000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DWattenberger.footsteps&searchtags=vscode+plugin+%C3%A9dition+m%C3%A9moire+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://marketplace.visualstudio.com/items?itemName=Wattenberger.footsteps[footsteps - Visual Studio Marketplace]
+
+Très malin ce plugin !

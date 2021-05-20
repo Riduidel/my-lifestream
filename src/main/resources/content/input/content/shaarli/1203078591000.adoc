@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: assert{ 2.0 } - O'Reilly Ruby
+:jbake-tags: développement,programming,reference,ruby,test,tool,_mois_févr.,_année_2008
+:jbake-date: 2008-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1203078591000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.oreillynet.com%2Fruby%2Fblog%2F2008%2F02%2Fassert2.html&searchtags=d%C3%A9veloppement+programming+reference+ruby+test+tool+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.oreillynet.com/ruby/blog/2008/02/assert2.html[assert{ 2.0 } - O'Reilly Ruby]
+
+Wow. Alors cette librairie-là, elle a l'air vraiment terrible pour faire des tests unitaires facilement. Et ça, croyez-moi, je vais m'ens ervir aussi bien pour la génération de mon site web que pour (ultérieurement) transformer ma bibliothèque iPhot

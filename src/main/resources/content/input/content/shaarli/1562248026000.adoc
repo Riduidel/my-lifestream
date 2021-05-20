@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A better zip bomb
+:jbake-tags: zip,bomb,_mois_juil.,_année_2019
+:jbake-date: 2019-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1562248026000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.bamsoftware.com%2Fhacks%2Fzipbomb%2F&searchtags=zip+bomb+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.bamsoftware.com/hacks/zipbomb/[A better zip bomb]
+
+Une zip bombe assez chouette. Je note par ailleurs l'idée émise par sam et max de l'utiliser dans un plugin de proxy web pour les mauvais clients ...

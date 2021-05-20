@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Checkvist: collaborative online outliner and checklist
+:jbake-tags: web,gtd,productivité,list,todo,outliner,clavier,_mois_déc.,_année_2008
+:jbake-date: 2008-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1228319474000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcheckvist.com%2Flogin&searchtags=web+gtd+productivit%C3%A9+list+todo+outliner+clavier+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://checkvist.com/login[Checkvist: collaborative online outliner and checklist]
+
+Il a l'air rudement bien, ce service web de création d'outlines et de todolist qui semble pouvoir fonctionner exclusivement au clavier. Je vais l'essayer, pour voir ce que ça donne. Et en bonus, il exporte de l'OPML, du texte, ou même du HTML. De là à ce que je puisse faire entrer ça dans mon webgen, il n'y a vraiment pas loin ...

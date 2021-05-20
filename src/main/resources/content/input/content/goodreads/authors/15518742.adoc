@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sheng Chang
+:jbake-tags: author
+:jbake-date: 2016-04-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/15518742.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1469513578p5/15518742.jpg
+:jbake-source: https://www.goodreads.com/author/show/15518742
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9791092066272.html[Oldman, tome 1]
+* link:../books/9791092066333.html[Oldman, tome 2]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maria Galina
+:jbake-tags: author
+:jbake-date: 2019-03-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2922991.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1320911925p5/2922991.jpg
+:jbake-source: https://www.goodreads.com/author/show/2922991
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782264071729.html[L'Organisation]

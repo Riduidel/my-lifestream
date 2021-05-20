@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Mystère de la Grande Pyramide - 2 (Black et Mortimer, #5)
+:jbake-tags:  aventure, histoire, rayon-bd,_année_2015,_mois_sept.,_note_5,m-moire,read
+:jbake-date: 2015-09-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782870970096.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333551135l/2777619._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333551135l/2777619._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2777619
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Invité au Caire par l'un de ses vieux amis, conservateur du musée des antiquités égyptiennes, le professeur Mortimer flaire une découverte de la plus haute importance : l'existence d'une chambre secrète nichée au coeur de la pyramide de Kheops... Mais les choses se gâtent. L'infâme Olrik, véritable génie du mal, entre en scène à la tête d'un réseau de trafiquants. Et Blake, le complice de toujours appelé à la rescousse, est assassiné pendant son voyage vers l'Egypte. Mortimer jure alors de le venger et de résoudre l'énigme de la Grande Pyramide... <p>Fasciné par l'Égypte ancienne, Edgar P.Jacobs ne se contente pas d'y puiser matière à une histoire où l'aventure se teinte de mystère. Il n'hésite pas à marcher sur les traces d'Hérodote pour échafauder une séduisante hypothèse scientifique. Ce grand classique publié en 1950 fait défiler une galerie de personnages inoubliables, tels le cheik Abdul Razek ou le docteur Grossgrabenstein. Et donne naissance à une réplique mythique de la bande dessinée : "par Horus, demeure !". <i>--Gilbert Jacques</i></p>
+</div>
+++++
+
+
+## Authors
+* link:../authors/272058.html[Edgar P. Jacobs]
+
+## Series
+* link:../series/Blake_&_Mortimer_(Carlsen).html[Blake & Mortimer (Carlsen)]
+* link:../series/Blake_&_Mortimer_(Cinebook).html[Blake & Mortimer (Cinebook)]
+* link:../series/Blake_et_Mortimer.html[Blake et Mortimer]
+
+## Review
+
+++++
+Une merveilleuse exploration des sous-sols de la grande pyramide, avec chambre secrète, mystères vivant par-delà des abîmes de temps, et conclusion aussi mystérieuse qu'intriguante. Et en plus, il n'y a pas vraiment de Deus Ex Machina !
+++++

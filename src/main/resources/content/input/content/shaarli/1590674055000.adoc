@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lambda the Ultimate | Programming Languages Weblog
+:jbake-tags: programming,langage,blog,science,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590674055000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flambda-the-ultimate.org%2Fnode&searchtags=programming+langage+blog+science+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://lambda-the-ultimate.org/node[Lambda the Ultimate | Programming Languages Weblog]
+
+Un très bon site d'information sur la théorie des langages. Je n'y comprend pas toujours tout, mais j'y apprend beaucoup.

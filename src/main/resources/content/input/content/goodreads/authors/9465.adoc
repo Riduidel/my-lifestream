@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Barry Hughart
+:jbake-tags: author
+:jbake-date: 2013-12-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/9465.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1426093765p5/9465.jpg
+:jbake-source: https://www.goodreads.com/author/show/9465
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070450954.html[La magnificence des oiseaux (Maître Li et Bœuf Numéro Dix, #1)]
+* link:../books/9782070450961.html[La légende de la pierre (Maître Li et Bœuf Numéro Dix, #2)]
+* link:../books/9782070450978.html[Huit honorables magiciens (Maître Li et Bœuf Numéro Dix, #3)]

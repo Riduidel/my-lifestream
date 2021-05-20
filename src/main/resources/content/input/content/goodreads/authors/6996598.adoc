@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Davy Mourier
+:jbake-tags: author
+:jbake-date: 2019-06-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/6996598.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1556895981p5/6996598.jpg
+:jbake-source: https://www.goodreads.com/author/show/6996598
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782413007784.html[Davy Mourier VS La Télévision (Davy Mourier VS, #02)]

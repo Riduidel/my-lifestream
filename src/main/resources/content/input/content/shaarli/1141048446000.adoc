@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ONJava.com -- Extending Struts
+:jbake-tags: java,jsp,programming,struts,tutorial,web,_mois_févr.,_année_2006
+:jbake-date: 2006-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1141048446000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.onjava.com%2Fpub%2Fa%2Fonjava%2F2004%2F11%2F10%2FExtendingStruts.html&searchtags=java+jsp+programming+struts+tutorial+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.onjava.com/pub/a/onjava/2004/11/10/ExtendingStruts.html[ONJava.com -- Extending Struts]
+
+

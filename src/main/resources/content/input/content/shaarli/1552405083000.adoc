@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: trimstray/htrace.sh: My simple Swiss Army knife for http/https troubleshooting and profiling.
+:jbake-tags: http,https,debug,command-line,_mois_mars,_année_2019
+:jbake-date: 2019-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1552405083000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftrimstray%2Fhtrace.sh&searchtags=http+https+debug+command-line+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/trimstray/htrace.sh[trimstray/htrace.sh: My simple Swiss Army knife for http/https troubleshooting and profiling.]
+
+Un très chouette outil de debug HTTP(s)

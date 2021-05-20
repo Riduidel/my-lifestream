@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Des histoires sculptés dans des livres
+:jbake-tags: art,sculpture,livre,_mois_nov.,_année_2014
+:jbake-date: 2014-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1415618395000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fhistoires-sculptes-livres%2F&searchtags=art+sculpture+livre+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/histoires-sculptes-livres/[Des histoires sculptés dans des livres]
+
+Jolie réutilisation de livres

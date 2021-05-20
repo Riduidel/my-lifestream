@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hervé Jubert
+:jbake-tags: author
+:jbake-date: 2016-08-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/773066.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1309651016p5/773066.jpg
+:jbake-source: https://www.goodreads.com/author/show/773066
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070464678.html[Magies secrètes (Magies Secrètes, #1)]

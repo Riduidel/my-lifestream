@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Grand Livre Des Gnomes
+:jbake-tags:  initiation, rayon-imaginaire, voyage,_année_2003,_mois_févr.,_note_4,fantasy,read
+:jbake-date: 2003-02-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290315095.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330363097l/513494._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330363097l/513494._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/513494
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Lorsque Masklinn, seul chasseur d'une tribu de gnomes, pénètre dans le grand magasin Arnold Frères, quelle n'est pas sa surprise de découvrir que ses rayonnages abritent des centaines de ses congénères, invisibles au regard des hommes ! Son arrivée crée cependant la panique, car pour les résidents, le «dehors» n'est pas censé exister. De plus, l'intrus est venu avec le Truc, un objet doué de parole qui prétend connaître l'origine du petit peuple. Et qui fait surtout cette révélation : le magasin est sur le point d'être détruit ! Il n'y a dès lors plus qu'une solution : l'exode. Tâche titanesque pour des êtres de dix centimètres de haut, dont Masklinn est devenu le prophète involontaire...
+</div>
+++++
+
+
+## Authors
+* link:../authors/94314.html[Patrick Marcel]
+* link:../authors/1654.html[Terry Pratchett]
+
+## Series
+* link:../series/Bromeliad_Trilogy.html[Bromeliad Trilogy]
+
+## Review
+
+++++
+Ce gros pavé rassemble sous une seule couverture link:9782070124268.html[<strike>Les camioneurs</strike> Les Éclaireurs] , Les terrassiers et Les aéronautes . Trois romans de <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> qui racontent les aventures d'une espèce de petit peuple. Des ... gnomes, oui, qui partent en quête d'un monde meilleur, pensent le trouver dans un grand magasin avant de devoir s'enfuir à la recherche d'un monde meilleur <br/>. <br/><br/>D'après certaines sources, il s'agirait d'un livre pour enfants du bon Terry, qui conserve cependant bien des traits caractéristiques de l'auteur : les femmes y ont de l'esprit, à tel point que c'en est gênant, les héros arrivent à faire les choses parce qu'ils ne savent pas que c'est impossible, et rien ne peut empêcher le héros d'arriver à son terme. <br/><br/>Mais ce ne sont que des éléments de la pratchettitude. Le fond de l'histoire est ailleurs. Ou peut-être est-ce moi. Toujours est-il que j'ai cru remarquer que ce roman était beaucoup plus gai que les autres. Peut-être parce qu'on y meurt très peu, aussi bien du côté gnomique que du coté humain, mais également parce que lorsqu'arrive la dernière page de ce fort honorable roman, le lecteur a un espoir, un vrai, un beau, quelque chose qui le fait sourire non pas sarcastiquement, mais béatement devant la beauté de ce monde. <br/><br/>Et j'y pense comme ça. Est-ce normal si ce roman me rappelle tout à la fois <a class="DirectBookReference destination_Book" href="9782290046692.html">Le peuple du tapis</a> , mais aussi un pauvre dessin animé francophone passant jadis, où les héros étaient également des gnomes se cachant des huimains, mais vivant néanmoins fort heureux sous les planchers et dans les murs ? <br/><br/>Tout ça pour dire qu'il s'agit d'un bon roman dans l'absolu, mais d'un <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> somme toute mineur, au sein de la grande famille qui contient le disque-monde, La face obscure du soleil et autres bizarreries.
+++++

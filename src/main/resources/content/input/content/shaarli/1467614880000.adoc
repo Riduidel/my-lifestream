@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Agile France 2016 — Decentralized Architecture — Medium
+:jbake-tags: architecture,software,programming,organisation,_mois_juil.,_année_2016
+:jbake-date: 2016-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1467614880000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40ArollaFr%2Fagile-france-2016-decentralized-architecture-a84a2844cd97%23.gno3knvi6&searchtags=architecture+software+programming+organisation+_mois_juil.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://medium.com/@ArollaFr/agile-france-2016-decentralized-architecture-a84a2844cd97#.gno3knvi6[Agile France 2016 — Decentralized Architecture — Medium]
+
+Bon article sur ce qu'est l'architecture logicielle (ou pas) et son rôle dans des contextes décentralisés

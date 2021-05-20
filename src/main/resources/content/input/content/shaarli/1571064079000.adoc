@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: thepracticaldeveloper/practical-architecture: A set of resources to become a Practical Software Architect: decision making, efficient meetings, architecture guide, etc.
+:jbake-tags: architecture,software,plantuml,modèle,_mois_oct.,_année_2019
+:jbake-date: 2019-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1571064079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fthepracticaldeveloper%2Fpractical-architecture&searchtags=architecture+software+plantuml+mod%C3%A8le+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/thepracticaldeveloper/practical-architecture[thepracticaldeveloper/practical-architecture: A set of resources to become a Practical Software Architect: decision making, efficient meetings, architecture guide, etc.]
+
+Ah, c'est trop dommage, je voulais me faire un archétype maven avec Structurizr + le template d'agile software architecture documentation pour créer mes documents trop facilement ...

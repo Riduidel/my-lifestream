@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Swagger2Markup/swagger2markup: A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.
+:jbake-tags: programming,documentation,asciidoc,rest,_mois_janv.,_année_2017
+:jbake-date: 2017-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1483366875000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FSwagger2Markup%2Fswagger2markup%23reference-documentation&searchtags=programming+documentation+asciidoc+rest+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/Swagger2Markup/swagger2markup#reference-documentation[Swagger2Markup/swagger2markup: A Swagger to AsciiDoc or Markdown converter to simplify the generation of an up-to-date RESTful API documentation by combining documentation that’s been hand-written with auto-generated API documentation.]
+
+Pas mal, cet outil d'extraction d'API REST en Asciidoc !

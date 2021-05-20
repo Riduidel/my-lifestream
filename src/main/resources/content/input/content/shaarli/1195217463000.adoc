@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Snarl
+:jbake-tags: freeware,notification,software,windows,snarl,_mois_nov.,_année_2007
+:jbake-date: 2007-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1195217463000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fullphat.net%2F&searchtags=freeware+notification+software+windows+snarl+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.fullphat.net/[Snarl]
+
+Un équivalent de Growl pour Windows, enfin, équivalent, faut parler vite. Mais bon, globalement, ça envoie des notifications. Et comme l'a dit Fred dans un commentaire récent, je pourrais utiliser ça avec Launchy et un système de todolist pour savoi

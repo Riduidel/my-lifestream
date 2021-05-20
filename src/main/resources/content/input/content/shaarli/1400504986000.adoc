@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Turn your whiteboard photos into clean legible pdf documents
+:jbake-tags: productivité,email,_mois_mai,_année_2014
+:jbake-date: 2014-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1400504986000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.unwhiteboard.com%2F&searchtags=productivit%C3%A9+email+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.unwhiteboard.com/[Turn your whiteboard photos into clean legible pdf documents]
+
+Bon, c'est une bonne idée, mais je crains fort qu'ils ne se retrouvent rapidement à la tête d'un pactole en documents sourcés ... qui a dit NSA ? via http://lifehacker.com/unwhiteboard-cleans-whiteboard-photos-with-an-email-1576169662

@@ -1,0 +1,62 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scalakka au chtijug (mais pas que)
+:jbake-tags: chtijug,java,scala,web,_mois_déc.,_année_2015
+:jbake-date: 2015-12-18
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/12/18/scalakka-au-chtijug-mais-pas-que.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/12/18/scalakka-au-chtijug-mais-pas-que/
+:jbake-style: wordpress
+
+++++
+<p>
+Hier soir, le chtijug recevait un showman : Quentin Adam, alias <a class="ProfileCardMini-screennameLink u-linkComplex js-nav u-dir" href="https://twitter.com/waxzce">@<span class="u-linkComplex-target">waxzce</span></a> qui venait nous présenter plusieurs sujets en un ... après un échauffement marrant de hubert sablonnière qui nous présentait en cinq minutes chrono le <a href="http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/">machete order</a>. En cette période de folie marketting Star Wars, c'était opportun.
+</p>
+<p>
+Revenons à nos moutons ... Enfin, à Quentin.
+</p>
+<p>
+Il nous a présenté en un peu moins de deux heures une espèce de digest de ses meilleures oeuvres, en commençant par une histoire très haut niveau des révolutions industrielles et du fameux "software is eating the world".
+</p>
+<p>
+Pour être clair, il nous a présenté les 100 premiers slides de cette présentation
+</p>
+<p>
+<a href="http://fr.slideshare.net/quentinadam/slideshelf">http://fr.slideshare.net/quentinadam/slideshelf</a>
+</p>
+<p>
+Et c'était très chouette.
+</p>
+<p>
+Parce qu'il y a derrière ça bien plus qu'une simple vision d'entreprise sur ce qui est bien pour CleverCloud. Non, ce qui soutient cette longue introduction, c'est la vision inévitable de la manière dont les révolutions industrielles se construisent et transforment le monde pour, quasiment, le préparer à la révolution suivante. Dit comme ça, le transhumanisme n'est évidement pas loin. Cela dit, il est vrai que le métier de développeur est affreusement jeune, et que la manière dont on met en prod aujourd'hui ressemble conceptuellement à la manière dont les entreprises du XIXème siècle géraient leur production électrique : à la main. Aujourd'hui, on sait que ça n'était pas la bonne manière de faire, et on sait aussi que demain, quelques admins suffiront à gérer des milliers de machines virtuelles. Du coup, il faut transformer nos applications pour qu'elles intègrent plusieurs facteurs facilitant le déploiement, qui sont décrits dans la présentation. Typiquement, créer des applications stateless, sans session, et sans jamais utiliser de stockage fichier (ce qui pose évidement la question de la persistance au long terme, question que j'ai posé à Quentin, et qui a répondu avec le classique "utilise plus de VM")
+</p>
+<p>
+Il a ensuite enchaîné sur du livecoding akka/scala pour extraire les logs écrits dans <a href="http://www.monitoring-fr.org/2014/05/elk-trio-de-charme-elasticsearch-logstash-kibana/">ELK </a>par un processus et les afficher en temps réel dans une petite appli Websocket.
+</p>
+<p>
+Et là, c'était moins chouette.
+</p>
+<p>
+Pas parce que la démonstration était inintéressante, bien au contraire : créer une application en une cinquantaine de lignes de code, c'est chouette.
+</p>
+<p>
+Non, ce qui est moins chouette, c'est le Scala. Clairement, il s'agit pour moi d'un langage d'avant-garde expérimentant avec toute une série de concepts auxquels j'ai du mal à adhérer
+<br/>
+<ul>
+<br/>
+<li>les implicites, (et encore je ne sais pas si c'était des <a href="http://docs.scala-lang.org/overviews/core/implicit-classes.html">classes </a>ou des <a href="http://www.scala-lang.org/old/node/114">paramètres</a>)</li>
+<br/>
+<li>la définition d'opérateurs (genre le ~&#62; d'akka)</li>
+<br/>
+</ul>
+<br/>
+Tout ça, c'est mignon à essayer, mais franchement, à regarder l'exemple exposé par Quentin, j'aurais pu faire aussi bien en java8 avec des closures ou même en java7 "classique". D'accord, le code aurait été quelques lignes plus long, mais oh combien plus compréhensible.
+</p>
+<p>
+Cela dit, je ne vais pas bouder mon plaisir, c'était une sacrée chouette session, idéale pour fêter la fin d'une belle année du chtijug.
+</p>
+<p>
+En bonus, l'accueil d'Adeo et le buffet d'Onyme étaient très bien (pour le buffet d'Onyme, j'avais l'habitude).
+</p>
+++++

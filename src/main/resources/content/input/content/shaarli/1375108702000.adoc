@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java EE 7 Maven Repository Coordinates
+:jbake-tags: java,maven,javaee,library,_mois_juil.,_année_2013
+:jbake-date: 2013-07-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1375108702000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FAvJQZANftyc%2Fjava-ee-7-maven-repository-0&searchtags=java+maven+javaee+library+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/AvJQZANftyc/java-ee-7-maven-repository-0[Java EE 7 Maven Repository Coordinates]
+
+Ca c'est cool, parce que trouver les artefacts amven des APi de JavaEE6 n'est pas forcément évident

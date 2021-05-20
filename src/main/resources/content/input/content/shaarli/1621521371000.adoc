@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cloud de Confiance en qui ? · Laurent Doguin
+:jbake-tags: france,politique,numérique,cloud,définition,_mois_mai,_année_2021
+:jbake-date: 2021-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1621521371000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fldoguin.name%2Ffr%2F2021%2F05%2Fquoi-cloud%2F&searchtags=france+politique+num%C3%A9rique+cloud+d%C3%A9finition+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://ldoguin.name/fr/2021/05/quoi-cloud/[Cloud de Confiance en qui ? · Laurent Doguin]
+
+Très bon article sur cette histoire de cloud de confiance. Quand je lis ce genre de trucs, je ne peux m'empêcher de penser que les "décideurs" sont décidément bien mal conseillés pour ouvrir leur porte-monnaie et nos données aux acteurs US.

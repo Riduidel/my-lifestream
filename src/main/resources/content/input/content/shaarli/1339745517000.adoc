@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: explain xkcd
+:jbake-tags: blog,comics,xkcd,fun,_mois_juin,_année_2012
+:jbake-date: 2012-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1339745517000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.explainxkcd.com%2F&searchtags=blog+comics+xkcd+fun+_mois_juin+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.explainxkcd.com/[explain xkcd]
+
+Bien utile quand je comprend pas trop un dessin ...

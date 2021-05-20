@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Use <link>s in your document - Quality Web Tips
+:jbake-tags: webgen,documentation,howto,html,_mois_nov.,_année_2008
+:jbake-date: 2008-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1226321723000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.w3.org%2FQA%2FTips%2Fuse-links&searchtags=webgen+documentation+howto+html+_mois_nov.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.w3.org/QA/Tips/use-links[Use <link>s in your document - Quality Web Tips]
+
+Régulièrement, je me pose des questions sur les tags  que je peux mettre dans l'entête de mon document, et sur ceux qui sertont utilisables comme liens magiques. Heureusement, internet est plein de ressources de qualité sur ce genre de sujets. Et celle-ci a l'avantage énorme d'être simple et claire. Donc à moi les liens vers la page d'index, les "previous", "next", first", "last", "accueil", "index", ...

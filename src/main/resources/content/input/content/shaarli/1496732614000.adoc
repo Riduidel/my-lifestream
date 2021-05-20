@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Running a JVM in a Container Without Getting Killed | Carlos Sanchez's Weblog
+:jbake-tags: docker,configuration,java,mémoire,_mois_juin,_année_2017
+:jbake-date: 2017-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1496732614000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.csanchez.org%2F2017%2F05%2F31%2Frunning-a-jvm-in-a-container-without-getting-killed%2F&searchtags=docker+configuration+java+m%C3%A9moire+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.csanchez.org/2017/05/31/running-a-jvm-in-a-container-without-getting-killed/[Running a JVM in a Container Without Getting Killed | Carlos Sanchez's Weblog]
+
+A retenir, ça risque fort de servir ...

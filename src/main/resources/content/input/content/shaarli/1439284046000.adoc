@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Doing Terrible Things To Your Code
+:jbake-tags: programming,test,ego,psychologie,_mois_août,_année_2015
+:jbake-date: 2015-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1439284046000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.codinghorror.com%2Fdoing-terrible-things-to-your-code%2F&searchtags=programming+test+ego+psychologie+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blog.codinghorror.com/doing-terrible-things-to-your-code/[Doing Terrible Things To Your Code]
+
+Effectivement : avoir sous la main un vrai testeur, c'est à la fois une bénédiction et une malédiction

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeff Cohen on Twitter: "Software architecture is rarely visualized, other than stick figures or flowcharts. UML was the last attempt I know of, and it failed under its own weight. What if there was a Google Maps for software architecture? What would you see? What would you do with it?"
+:jbake-tags: citation,informatique,architecture,_mois_mars,_année_2018
+:jbake-date: 2018-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1522257596000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjeffcohen%2Fstatus%2F978270621972029442&searchtags=citation+informatique+architecture+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jeffcohen/status/978270621972029442[Jeff Cohen on Twitter: "Software architecture is rarely visualized, other than stick figures or flowcharts. UML was the last attempt I know of, and it failed under its own weight. What if there was a Google Maps for software architecture? What would you see? What would you do with it?"]
+
+Plein de bonnes idées d'outillage pour faire de la vraie architecture logicielle

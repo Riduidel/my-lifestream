@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: nope-no-rss.png (Image PNG, 1768 × 2240 pixels) - Redimensionnée (43%)
+:jbake-tags: rss,rss-bridge,opinion,_mois_mars,_année_2019
+:jbake-date: 2019-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1552469591000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsebsauvage.net%2Fgalerie%2Fphotos%2FBordel%2Fnope-no-rss.png&searchtags=rss+rss-bridge+opinion+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://sebsauvage.net/galerie/photos/Bordel/nope-no-rss.png[nope-no-rss.png (Image PNG, 1768 × 2240 pixels) - Redimensionnée (43%)]
+
+Heureusement, pour éviter ces boutons de partage de merde (qui en plus servent de mini-espions), il y a ... rss-bridge (et bon courage au mec qui voudra m'espionner à travers mon instance rss-bridge)

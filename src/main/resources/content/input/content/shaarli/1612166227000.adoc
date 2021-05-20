@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XMLStarlet Command Line XML Toolkit: Overview
+:jbake-tags: xml,command-line,analyse,transformation,debug,programming,open-source,_mois_févr.,_année_2021
+:jbake-date: 2021-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1612166227000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxmlstar.sourceforge.net%2Foverview.php&searchtags=xml+command-line+analyse+transformation+debug+programming+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://xmlstar.sourceforge.net/overview.php[XMLStarlet Command Line XML Toolkit: Overview]
+
+On me suggère qu'il utilise des outils équivalents à xq depuis bien longtemps. Et effectivement, xmlstartlet a l'air nettement plus complet.

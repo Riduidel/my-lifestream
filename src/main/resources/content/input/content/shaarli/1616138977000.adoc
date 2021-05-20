@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: flowchart.fun
+:jbake-tags: diagram,générateur,web,texte,_mois_mars,_année_2021
+:jbake-date: 2021-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1616138977000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fflowchart.fun%2F&searchtags=diagram+g%C3%A9n%C3%A9rateur+web+texte+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://flowchart.fun/[flowchart.fun]
+
+Ca ressemble furieusement au mode mind map de plantuml, mais peut-être en encore mieux

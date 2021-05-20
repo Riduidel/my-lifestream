@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ça y est, les pratiques de merde sont là aussi en HTML5… - Le Hollandais Volant
+:jbake-tags: web,html,_mois_sept.,_année_2014
+:jbake-date: 2014-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1409731625000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flehollandaisvolant.net%2F%3Fd%3D2014%2F07%2F28%2F19%2F15%2F26-Ca-y-est-les-pratiques-de-merde-sont-la-aussi-en-html5&searchtags=web+html+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://lehollandaisvolant.net/?d=2014/07/28/19/15/26-Ca-y-est-les-pratiques-de-merde-sont-la-aussi-en-html5[Ça y est, les pratiques de merde sont là aussi en HTML5… - Le Hollandais Volant]
+
+Tiens c'est marrant cette attaque sur 'labus du autocomplete="off". J'ai dû Lundi corriger un bug de Chrome qui, lui, ignore le autocomplete="off". Et du coup, quand on a par exemple une page de création d'utilisateurs, Chrome met par défaut le login et le mot de passe de l'utilisateur connecté à chaque fois. Super pénible !

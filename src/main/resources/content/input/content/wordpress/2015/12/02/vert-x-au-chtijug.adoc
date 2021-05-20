@@ -1,0 +1,48 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vert.x au chtijug
+:jbake-tags: chtijug,java,web,wisdom,_mois_déc.,_année_2015
+:jbake-date: 2015-12-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/12/02/vert-x-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/12/02/vert-x-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+Il ya déja près d'une semaine,  Yannick de Kercadio nous présentait les bases de <a href="http://vertx.io/">vert.x</a> à travers trois ou quatre exemples niveau Hello world. D'ailleurs, je vais devoir séparer le fond et la forme de cette présentation tant ils étaient dissemblables.
+</p>
+<p>
+Mais avant ça, voici les slides :
+</p>
+<p>
+<a href="https://drive.google.com/file/d/0BzquubdfqGRuc0pzc25VNmM4UlU/preview">https://drive.google.com/file/d/0BzquubdfqGRuc0pzc25VNmM4UlU/preview</a>
+<br/>
+&#160;
+<br/>
+<h3>vert.x</h3>
+<br/>
+vert.x est donc un framework de développement d'applications HTTP qui utilise le pattern reactive pour offrir censément des performances supérieures aux serveurs web classiques en essayant d'être au maximum non bloquant. L'intérêt de la manoeuvre est de ne créer qu'un thread Java par CPU, et de stocker en mémoire uniquement les objets s'occupant de ces traitements. D'après Yannick, c'est ce côté non-bloquant qui permet à vert.x d'atteindre des performances 10 fois supérieures à celles d'un serveur web "classique". Bon, en vrai, je me demande si ça n'est pas plutôt parce que vert.x se passe de toute la complexité de JavaEE (servlet, HTTRequest, HTTPResponse, ...) qu'il est plus performant ...
+</p>
+<p>
+Un autre intérêt de vert.x est d'offrir un écosystème qui va permettre de manipuler de façon assynchrone toute un tas de connexions ... même si la qualité n'est pas toujours au rendez-vous. Et là, Yannick nous donne l'exemple du connecteur Cassandra qui utilise le driver synchrone de Cassandra, annihilant l'intérêt majeur de vert.x ...
+</p>
+<p>
+Cela dit (et même si je ne l'ai pas dit durant la présentation), rien n'empêche à Yannick, ou aux équipes de Proxiad, de proposer un driver Cassandra réellement assynchrone. Rien ? sauf peut-être le côté non contributeur des SSII françaises ;-)
+</p>
+<p>
+Au chapitre des boulettes, deux ou trois imprécisions sur l'histoire de vert.x. Par exemple, Yannick ne semblait pas savoir que vert.x était, entre autres, l'oeuvre de <a href="http://www.julienviet.com/">Julien Viet</a> (l'auteur de <a href="http://www.crashub.org/">Crash</a>, <del>qui est d'ailleurs utilisé dans vert.x sous le nom vertex-shell</del> ... quoique ca ne semble pas si sûr que ça ...) et maintenant de Clément Escoffier, qui bossent tous les deux chez RedHat. Bon en même temps, je ne lui en veux pas de ne pas connaître les détails de la vie des people Java :-)
+<br/>
+<h3>La présentation</h3>
+<br/>
+Alors là par contre, c'était franchement génial. Parce que j'ai déjà vu des présentations en live-coding au chtijug (le thermomètre connecté était jusqu'à présent ma préférée), mais des présentations où le speaker fait live-coder des membres de l'assistance ... c'était du jamais vu. Ca montre à la fois la simplicité de l'API de vert.x, mais aussi la confiance du speaker dans sa présentation. (bon, ça montre aussi le manque de connaissance des IDE dans l'assistance, mais c'est un autre sujet).
+</p>
+<p>
+Du coup, évidement les sujets étaient assez bateau, mais la présentation était vivante, interactive, bref, très chouette. Bravo !
+<br/>
+<h3>Et alors, ça va servir ou pas ?</h3>
+<br/>
+Eh bien en fait, comme je fais du Wisdom depuis un an, et que Wisdom utilise vert.x ... je l'utilise déjà, mais dans un contexte quasi-JavaEE, bref, le meilleur des deux mondes !
+</p>
+++++

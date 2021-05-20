@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Incerto
+:jbake-tags: serie
+:jbake-date: 2020-04-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Incerto.adoc
+:jbake-source: https://www.goodreads.com/series/164555
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782251444369.html[Le Cygne noir : La Puissance de l'imprévisible]

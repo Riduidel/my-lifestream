@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hawkes Blog - Monitor your RaspberryPi with Monit
+:jbake-tags: software,linux,system,watchdog,raspberrypi,_mois_août,_année_2015
+:jbake-date: 2015-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1440767076000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.the-hawkes.de%2Fmonitor-your-raspberrypi-with-monit.html&searchtags=software+linux+system+watchdog+raspberrypi+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://www.the-hawkes.de/monitor-your-raspberrypi-with-monit.html[Hawkes Blog - Monitor your RaspberryPi with Monit]
+
+Un article aussi complet que précis sur l'utilisation de monit dans un raspberry (mais ça ne sert évidement pas que dans cette minimachine)

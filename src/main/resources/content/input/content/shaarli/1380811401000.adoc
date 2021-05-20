@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: From the Canyon Edge: Fingerprints are Usernames, not Passwords
+:jbake-tags: sécurité,biométrie,_mois_oct.,_année_2013
+:jbake-date: 2013-10-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1380811401000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.dustinkirkland.com%2F2013%2F10%2Ffingerprints-are-user-names-not.html&searchtags=s%C3%A9curit%C3%A9+biom%C3%A9trie+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blog.dustinkirkland.com/2013/10/fingerprints-are-user-names-not.html[From the Canyon Edge: Fingerprints are Usernames, not Passwords]
+
+Alors ça c'est une vision intelligente des empreintes : on en laisse partout, elles ne peuvent pas changer, tout le monde peut les reconnaître comme les autres, DONC in faut les voir comme un login, et pas comme un password. Via http://sebsauvage.net/links/?pguFvA

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sparklines for Excel
+:jbake-tags: software,programming,graphics,visualisation,for:mischler,for:clownny59,_mois_févr.,_année_2010
+:jbake-date: 2010-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1266594498000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsparklines-excel.blogspot.com%2F&searchtags=software+programming+graphics+visualisation+for%3Amischler+for%3Aclownny59+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://sparklines-excel.blogspot.com/[Sparklines for Excel]
+
+Un super site de graphiques. très orienté Excel, mais c'est pas trop grave, vu la qualité des infos qu'on y trouve.

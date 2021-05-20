@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stephen Baxter
+:jbake-tags: author
+:jbake-date: 2004-06-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/20295.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1391280682p5/20295.jpg
+:jbake-source: https://www.goodreads.com/author/show/20295
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266173759.html[Coalescence]
+* link:../books/9782266195386.html[Gravité]
+* link:../books/9782266266277.html[La Longue Terre]
+* link:../books/9782266266284.html[La Longue Guerre (The Long Earth, #2)]
+* link:../books/9782266266291.html[La Longue Mars (The Long Earth, #3)]
+* link:../books/9782290309735.html[Titan]
+* link:../books/9782290327319.html[Poussière de Lune]

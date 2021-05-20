@@ -1,0 +1,50 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Coup de blues
+:jbake-tags: yaml,_mois_mars,_année_2018
+:jbake-date: 2018-03-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/03/06/coup-de-blues.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/03/06/coup-de-blues/
+:jbake-style: wordpress
+
+++++
+<p>
+Pas complètement la forme ces temps-ci.
+</p>
+<p>
+Une petite bronchite m'a donné le temps de réfléchir à ce que je fais.
+</p>
+<p>
+Et qu'est-ce que je fais ces temps-ci ? Je manipule essentiellement des reverse proxy avec du yaml. Pour le dire autrement, je reconfigure des conteneurs <a href="https://traefik.io/">traefik </a>ou <a href="https://nginx.org/">nginx</a>/<a href="https://openresty.org/en/">openresty </a>avec <a href="https://www.ansible.com/">Ansible</a>. Et franchement, c'est assez peu satisfaisant.
+</p>
+<p>
+Est-ce que c'est la faute aux différents reverse proxy ? A peine, en fait. Parce que traefik est assez simple à manipuler, et que nginx (surtout dans sa distribution openresty qui fournit une chouette intégration avec tout un tas de briques <a href="https://www.lua.org/">lua</a> - ce qui m'a permis de pratiquer un peu ce langage, qui est dans l'ensemble assez facile à utiliser comme langage de script).
+</p>
+<p>
+Est-ce que c'est la faute à Ansible ? Sans aucun doute. Mais pas directement Ansible .... Plutôt de la faute du <a href="http://yaml.org/">yaml</a>. Vous voyez, et je vais faire le vieux con, quand j'ai commencé à bosser (en l'an 2000), le langage de description à la mode, c'était XML. Chiant, verbeux. Mais. XML fournit un truc bien utile à tous les fans du typage : la possibilité de déclarer des dialectes facilement grâce à XMLSchema, et de créer des éditeurs validants pour ces dialectes, voir même de les inférer (je pense à des outils magiques comme <a href="http://www.thaiopensource.com/relaxng/trang.html">trang</a>, qui génère facilement le schéma à partir de quelques documents d'exemple). Quand je fais du yaml, en ce moment, la seule phase de validation que j'aie, c'est l'éditeur Eclipse ... Et ça n'est pas terrible.
+</p>
+<p>
+Pire encore, quand je fais de l'Ansible, je ne suis pas dupe : je n'écris pas un descripteur, mais du code qui va être transpilé en Python, envoyé sur la machine d'exécution et exécuté. Est-ce que cette phase de transformation Python a un intérêt ? Sans aucun doute pour les ops qui ne veulent pas écrire de code. Malheureusement, pour un développeur, écrire du code Python dans du yaml (et franchement, je <span style="text-decoration:underline;">vois</span> le code Python à travers le yaml).
+</p>
+<p>
+La grande question est "quelle alternative ?"
+</p>
+<p>
+Le problème, c'est qu'il n'y a pas d'alternative conforme à mes attentes en termes de qualité de développement :
+<br/>
+<ul>
+<br/>
+<li><a href="https://www.chef.io/chef/">Chef </a>est codé en Ruby, et de ce que j'en ai vu, c'est pas forcément la meilleure idée (et le nom entraîne un effet de bord extrêmement négatif sur les recherches).</li>
+<br/>
+<li><a href="https://saltstack.com/">Salt </a>est un peu l'outsider dans l'automatisation d'IT</li>
+<br/>
+</ul>
+<br/>
+En fait, quand je me rends compte de ce que j'écris, je comprend le problème : utiliser des outils d'automatisation niveau machine pour piloter du déploiement logiciel, ça a du sens pour le déploiement en prod. Mais est-ce que mon boulot est de déployer de la prod ? Sans doute, puisque c'est ce que je fais en ce moment ;-) Mais est-ce que je suis la meilleure personne pour ça ? Là, j'ai un doute. Parce que si j'avais eu le choix de l'outil, il ne fait aucun doute dans ma tête que j'aurais utilisé quelque chose de plus proche de mon monde : du maven, du groovy (typiquement, <a href="https://github.com/infrastructor/infrastructor">infrastructor </a>ressemble à ce qui m'intéresserait). Cela dit, je ne dois pas oublier que mon travail s'inscrit dans un contexte, qui est souvent structurant, et c'est le cas ici.
+</p>
+<p>
+Et puius je ne dois pas oublier que je commence à ressembler d'assez près à un vieux con qui passe son temps à dire que c'était mieux avant. Souvent, c'est faux. Mais parfois (et en l'occurence quand on me parle du yaml) j'ai tendance à penser que, vraiment, les dix dernières années n'ont pas vraiment apporté de progrès significatif : pas de meilleur outil de validation, pas de plus grande facilité d'utilisation (et franchement, la coloration syntaxique du yaml, ça n'est pas exactement à ça que je pense - et encore moins <a href="https://pinrojas.com/2017/01/25/highlight-ansible-yaml-and-jinja-syntax-in-vim-editor/">à un foutu plugin pour cette merde de vi</a>). Enfin bon, j'espère que ces horreurs se calmeront ... un jour.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: djUnit
+:jbake-tags: software,freeware,open-source,eclipse,java,plugin,test,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112174762000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fworks.dgic.co.jp%2Fdjunit%2F&searchtags=software+freeware+open-source+eclipse+java+plugin+test+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://works.dgic.co.jp/djunit/[djUnit]
+
+djUnit plugin is JUnit TestRunner with the original classloader. djUnit ClassLoader modifies class in loading to JVM, and runs tests using the modified class. The following functions can now be used easily. Generates a coverage report Testing usi

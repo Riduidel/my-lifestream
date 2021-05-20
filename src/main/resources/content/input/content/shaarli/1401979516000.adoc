@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: yWriter5 - Free writing software designed by an author, not a salesman
+:jbake-tags: software,freeware,windows,editor,_mois_juin,_année_2014
+:jbake-date: 2014-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1401979516000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.spacejock.com%2FyWriter5.html&searchtags=software+freeware+windows+editor+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.spacejock.com/yWriter5.html[yWriter5 - Free writing software designed by an author, not a salesman]
+
+C'est marrant que je l'aie jamais noté avant ... Bah. C'est donc un logiciel qui permet aux écrivains en herbe d'éviter les erreurs d'incohérence grossière dans le récit en fournissant des outils "commodes". Cela dit, quand je le vois, je me dis qu'il y aurait moyen de faire un chouette concurrent avec tous els eclipsismes du monde.

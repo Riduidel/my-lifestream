@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jenkinsci/JenkinsPipelineUnit: Framework for unit testing Jenkins pipelines
+:jbake-tags: jenkins,test,pipeline,devops,_mois_avr.,_année_2021
+:jbake-date: 2021-04-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1619704460000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjenkinsci%2FJenkinsPipelineUnit&searchtags=jenkins+test+pipeline+devops+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/jenkinsci/JenkinsPipelineUnit[jenkinsci/JenkinsPipelineUnit: Framework for unit testing Jenkins pipelines]
+
+Truc de fou (et génial). Maintenant que les pipelines Jenkins sont du code, il est possible de les tester via les outils de test unitaire classiques !

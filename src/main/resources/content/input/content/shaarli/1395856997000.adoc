@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PHPepl: The PHP REPL
+:jbake-tags: php,online,programming,web,_mois_mars,_année_2014
+:jbake-date: 2014-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1395856997000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fphpepl.cloudcontrolled.com%2F&searchtags=php+online+programming+web+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://phpepl.cloudcontrolled.com/[PHPepl: The PHP REPL]
+
+Un interpréteur en ligne pour PHP qui, comme 'lautre en javascript, ne fait pas le malin avec des fenêtres partout, mais permet simplement de tester une idée. C'est juste dommage que personne ne propose un service connecté aux gists ...

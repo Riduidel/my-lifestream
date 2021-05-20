@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: confd-watch
+:jbake-tags: web,configuration,dynamic,_mois_janv.,_année_2018
+:jbake-date: 2018-01-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1516630557000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Flikwid%2F602fad609febf955e59c&searchtags=web+configuration+dynamic+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://gist.github.com/likwid/602fad609febf955e59c[confd-watch]
+
+Un bon exemple de rechargement de configuration nginx piloté par confd

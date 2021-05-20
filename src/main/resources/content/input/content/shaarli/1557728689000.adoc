@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Learning Rust while solving Advent of Code puzzles (a post mortem) - Andrzej Pragacz
+:jbake-tags: rust,programming,tutorial,walkthrough,_mois_mai,_année_2019
+:jbake-date: 2019-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1557728689000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fandrzej.pragacz.pl%2Fblog%2F2019%2F05%2Flearning-rust-while-solving-advent-of-code%2F&searchtags=rust+programming+tutorial+walkthrough+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://andrzej.pragacz.pl/blog/2019/05/learning-rust-while-solving-advent-of-code/[Learning Rust while solving Advent of Code puzzles (a post mortem) - Andrzej Pragacz]
+
+Un article intéressant sur les premiers pièges que rencontrent les débutants en Rust.

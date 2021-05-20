@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gene Wolfe
+:jbake-tags: author
+:jbake-date: 2007-06-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/23069.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1556979018p5/23069.jpg
+:jbake-source: https://www.goodreads.com/author/show/23069
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070398843.html[L'Ombre du bourreau (Livre du nouveau soleil de Teur #1 )]
+* link:../books/9782253119272.html[La Cinquième Tête de Cerbère]
+* link:../books/9782266051613.html[L'ombre Du Maître: Psaumes Pour H.P. Lovecraft]

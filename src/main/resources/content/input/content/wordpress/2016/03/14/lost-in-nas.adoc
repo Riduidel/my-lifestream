@@ -1,0 +1,61 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lost in NAS
+:jbake-tags: dns-323,rss,_mois_mars,_année_2016
+:jbake-date: 2016-03-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/14/lost-in-nas.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/14/lost-in-nas/
+:jbake-style: wordpress
+
+++++
+<p>
+Souvenez-vous, la semaine dernière, j'ai <a href="https://riduidel.wordpress.com/2016/03/10/jai-demi-perdu-mon-nas-cest-grave/">à moitié perdu mon NAS</a>. Où est-ce que j'en suis aujourd'hui ?
+<br/>
+<h3>NAS unijambiste</h3>
+<br/>
+Aujourd'hui, mon NAS n'a plus qu'un seul disque dur, et je flippe. J'ai commandé deux disques durs 1 To pour augmenter sa capacité, mais en attendant qu'ils arrivent, j'ai la trouille. Cela dit, je sais déja que je ne jouerai pas l'économie, et que je les installerai en "vrai" <a href="https://www.wikiwand.com/fr/RAID_(informatique)#Les_niveaux_standard">RAID 1</a> sur tout l'espace disque. ca fait que mon NAS passera de 700 Mo utilisables avec une fiabilité faible à 1 To utilisable de façon plus fiable.
+</p>
+<p>
+Oui, je sais, le RAID n'est pas un backup, mais en l'occurence, il remplit précisément l'usage pour lequel il est conçu : me permettre de vivre avec des moyens limités pendant un temps limité.
+<br/>
+<h3>Pas de Raspberry alors ?</h3>
+<br/>
+Effectivement. J'y avais pensé (ou plutôt à l'ODROID). Mais, quand on ajoute au prix de la machine celui des boîtiers USB3/SATA, ça finit par revenir plus cher qu'un NAS. Donc oui, pas de micromachine. En vérité, je commence à me forger l'opinion que ces machines "light" ne sont que très rarement utiles.
+<br/>
+<h3>Et alors les sites web hébergés ?</h3>
+<br/>
+J'en ai profité pour faire un peu de ménage : j'ai viré KrissFeed, Codiad, MiniGalNano (je n'utilisais pas les deux derniers), mais conservé rss-bridge et Shaarli. Bon, j'ai bien essayé de les faire tourner sur ma page perso free.fr, mais free n'en est encore qu'à PHP 5.1 ... Du coup, je les ai réinstallé sur mon NAS.
+</p>
+<p>
+Je dois dire que j'ai essayé de ne pas les réinstaller uniquement parce que je crains que ces outils n'aient provoqué la chute du disque en faisant tourner le disque dur en permanence. Mais comme je n'en suis pas du tout sûr ... et que j'ai pris des disques avec 18 Mo de cache, j'espère éviter le même problème.
+<br/>
+<h3>Plus de Krissfeed ?</h3>
+<br/>
+Mouaip. J'étais assez insatisfait de l'application : je le trouvais lent, je trouvais pénible le besoin de me logger pour que les pages soient rechargées, et encore pire le fait que je sois trop rapidement déloggé. Donc je l'ai remplacé par ... <a href="https://github.com/rcarmo/rss2imap">rss2imap (version Rui Carno)</a>.
+</p>
+<p>
+Et ma vie a changé.
+</p>
+<p>
+J'ai pendant longtemps été allergique aux clients RSS lourds (genre RSSOwl), et je ne savais pas pourquoi. Maintenant, je sais : ils réinventent en fait le client mail. Et avoir mes flux RSS bien classés dans des dossiers de mon Thunderbird ou de mon K9-Mail est en fait invraissemblablement chouette. Sauf peut-être pour les messages Twitter ... mais c'est un cas particulier. Oh, j'ai bien sûr quelques flux qui foirent (typiquement les bridges RSS de Freenews et The Oatmeal), mais ça va se régler. Et bientôt, j'aurais les images, je le sais.
+</p>
+<p>
+En bonus, comme c'est du Python et que, tel un Neo de bas étage (moi, citer <a href="https://riduidel.wordpress.com/2006/05/16/matrix-et-le-terrorisme-sectaire/">Matrix</a>, franchement), "<a href="https://riduidel.wordpress.com/2016/03/01/jai-appris-le-python-et-un-truc-sur-groovy/">je connais le Python</a>", j'ai déja pu hacker <a href="https://github.com/rcarmo/rss2imap/pull/17">un petit truc</a>.
+<br/>
+<h3>L'immortalité dans le web</h3>
+<br/>
+Au passage, Catherine Dufour avait raison de parler des fantômes du web : je lisais le code de rss2imap quand je suis tombé sur cet entête
+</p>
+<p>
+[caption id="attachment_3215" align="alignnone" width="577"]<img class="alignnone size-full wp-image-3215" src="https://riduidel.files.wordpress.com/2016/03/2016-03-14-15_53_10-rss2imap_html2text-py-at-master-c2b7-rcarmo_rss2imap.png" alt="2016-03-14 15_53_10-rss2imap_html2text.py at master · rcarmo_rss2imap" width="577" height="109" /> Aux martyrs, le web reconnaissant[/caption]
+</p>
+<p>
+Laissez-moi vous dire que ça fait bizarre pour un fan des flux RSS comme moi de tomber sur du code de <a href="http://www.wikiwand.com/fr/Aaron_Swartz">l'auteur de la spec</a>, tombé pour la lutte contre le paywall universitaire. Et vous voyez, ce type est peut-être mort, mais son code lui rend hommage. C'est beau.
+<br/>
+<h3>Et maintenant ?</h3>
+<br/>
+Oh, je vais sans doute passer à <a href="https://sites.google.com/site/altfirmware/">alt-f</a>, le firmware alternatif. Il me permettra d'installer la commande at, qui me permettra à son tour d'exécuter rss2imap directement sur le NAS, ce qui sera un peu plus intelligent que de le faire tourner sur ma machine professionnelle (en y laissant donc la conf IMAP de mon compte)
+</p>
+++++

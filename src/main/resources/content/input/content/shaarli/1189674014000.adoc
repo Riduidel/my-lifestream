@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fiddler Web Debugger - Freeware HTTP(S) debugging tool
+:jbake-tags: programming,tool,http,capture,réseau,software,freeware,windows,utilities,_mois_sept.,_année_2007
+:jbake-date: 2007-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1189674014000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fiddlertool.com%2FFiddler2%2Fversion.asp&searchtags=programming+tool+http+capture+r%C3%A9seau+software+freeware+windows+utilities+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.fiddlertool.com/Fiddler2/version.asp[Fiddler Web Debugger - Freeware HTTP(S) debugging tool]
+
+Un proxy HTTP(S) de qualité

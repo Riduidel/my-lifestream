@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cool apps for the mac population @ osx.iusethis.com
+:jbake-tags: folksonomie,freeware,shareware,macosx,software,library,_mois_juil.,_année_2006
+:jbake-date: 2006-07-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1153994425000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fosx.iusethis.com%2F&searchtags=folksonomie+freeware+shareware+macosx+software+library+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://osx.iusethis.com/[cool apps for the mac population @ osx.iusethis.com]
+
+La première bibliothèque de logiciels Web 2.0, et c'est pour le mac

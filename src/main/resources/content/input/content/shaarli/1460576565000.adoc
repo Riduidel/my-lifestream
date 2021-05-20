@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Javascript Development is Crazy
+:jbake-tags: javascript,web,framework,programming,_mois_avr.,_année_2016
+:jbake-date: 2016-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1460576565000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.planningforaliens.com%2Fblog%2F2016%2F04%2F11%2Fwhy-js-development-is-crazy%2F&searchtags=javascript+web+framework+programming+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.planningforaliens.com/blog/2016/04/11/why-js-development-is-crazy/[Why Javascript Development is Crazy]
+
+Très intéressant, et ça va clairement m'aider à débattre avec quelques collègues

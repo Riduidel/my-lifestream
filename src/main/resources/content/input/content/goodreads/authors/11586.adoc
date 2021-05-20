@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: David Gemmell
+:jbake-tags: author
+:jbake-date: 2006-10-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/11586.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1202771023p5/11586.jpg
+:jbake-source: https://www.goodreads.com/author/show/11586
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290340905.html[Renégats]

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sillage: Dérapage contrôlé (Sillage, #13)
+:jbake-tags:  complot, course, voyage,_année_2010,_mois_nov.,_note_3,rayon-bd,read
+:jbake-date: 2010-11-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756019970.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328021463l/9437801._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328021463l/9437801._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/9437801
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Nävis participates in the Cannonball, an illegal race where any maneuver is allowed, and which is her only way of discreetly rejoining her old friend Booboo. She calculates a way to ask him why he lied to her about his allegiances in the past, and in the process, she learns that he secretly financed her while she was an agent of Sillage. Out-of-control verbal exchanges and high-risk stakes are on the program of this race to the truth.
+</div>
+++++
+
+
+## Authors
+* link:../authors/400521.html[Jean-David Morvan]
+* link:../authors/400524.html[Philippe Buchet]
+
+## Series
+* link:../series/Sillage.html[Sillage]
+
+## Review
+
+++++
+Dans ce treizième tome, Nävis fait de la course sauvage chez les extra-terrestres (comme d'hab), se brouille avec tout le monde (comme d'hab aussi) et met les deux pieds dans le plat d'un complot Sillagien (oui, comme d'hab aussi).<br/>Alors, la routine ?<br/>Un peu, mais la routine, sur Sillage, ça n'existe pas tant que ça. Donc, c'est finallement pas si mal.
+++++

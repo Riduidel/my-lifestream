@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Remote for Slides (@remoteforslides) / Twitter
+:jbake-tags: idée,périphérique,présentation,_mois_févr.,_année_2021
+:jbake-date: 2021-02-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1614352020000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Fremoteforslides&searchtags=id%C3%A9e+p%C3%A9riph%C3%A9rique+pr%C3%A9sentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/remoteforslides[Remote for Slides (@remoteforslides) / Twitter]
+
+C'est une chouette idée, mais je me dis qu'avec mes présentations en reveal il suffit que je I partage ma connexion entre mon ordinateur et mon téléphone pour avoir l'équivalent

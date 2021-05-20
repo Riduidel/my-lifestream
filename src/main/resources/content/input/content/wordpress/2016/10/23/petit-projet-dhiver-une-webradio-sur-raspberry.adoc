@@ -1,0 +1,49 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Petit projet d'hiver : une webradio sur raspberry
+:jbake-tags: maker,raspberrypi,upnp,_mois_oct.,_année_2016
+:jbake-date: 2016-10-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/10/23/petit-projet-dhiver-une-webradio-sur-raspberry.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/10/23/petit-projet-dhiver-une-webradio-sur-raspberry/
+:jbake-style: wordpress
+
+++++
+<p>
+Il y a quelques années, j'ai acheté une radio <a href="https://riduidel.wordpress.com/2012/04/19/jai-choisi-pour-moi-cest-betamax/">philips NP 3300</a>. C'était un chouette petit gadget qui me permettait d'écouter des radios sur le web (bon, ça, c'est sympa, mais sans plus), mais aussi toute ma bibliothèque musicale via UPnP (oui, encore un protocole qui n'a pas perçé). Et tout ça en se connectant en wifi au web. Et c'est très cool.
+</p>
+<p>
+Ca marchait bien au début.
+</p>
+<p>
+Et très vite, on a rencontré des soucis : l'appareil ne trouvait pas les radios, ou alors il restait complètement bloqué et on devait redémarrer. En plus, les rares mises à jour n'ont jamais apporté de corrections, mais juste des saletés comme le support de Spotify. Spotify ... Quand je peux avoir toute ma bibliothèque UPnP ! Quelle honte.
+</p>
+<p>
+Donc, depuis quelques temps, ce petit appareil dort dans un coin du salon. Et c'est très frustrant. Parce que quand il marche, le son est bon.
+</p>
+<p>
+Du coup, en bon vieux geek qui a déjà mis en place un raspberry, j'avais déjà vu "quelques trucs" qui avaient l'air cool (connecter des trucs comme un écran LCD, des boutons, des haut-parleurs, ou alors installer une webradio). Et j'y ai réfléchi. Et encore réfléchi. Et donc, aujourd'hui, j'ai pris le taureau par les cornes. J'ai démonté mon NP 3300 pour regarder ce qu'il y avait dedans histoire de savoir quelle était l'ampleur de la tâche.
+</p>
+<p>
+Il va donc me falloir
+<br/>
+<ol>
+<br/>
+<li>Un raspbery 3 (pour avoir le wifi déjà configuré, c'est pratique !)</li>
+<br/>
+<li>Une carte MicroSD d'au moins 8 Go</li>
+<br/>
+<li>Un moyen d'alimenter mon Raspberry depuis une alimentation 9V/1.1A</li>
+<br/>
+<li>Une connexion pour mes deux hauts-parleurs 6 ohms/1.5 Watts (pour lesquels je n'ai, semble-t-il qu'une paire de câble directement connectés à la bobine)</li>
+<br/>
+<li>Une connexion pour les boutons sur le dessus de l'appareil ... c'est une nappe de 13 fils dont un rouge ... la masse, j'imagine)</li>
+<br/>
+<li>Une connexion pour l'écran LCD. Et là, je dois dire que je suis bien embêté, parce que la nappe de l'écran intègre également la LED de la télécommande infrarouge.</li>
+<br/>
+</ol>
+<br/>
+D'où le terme de projet d'hiver : tout ça va être sans doute assez long à mettre en place. J'essayerai de rassembler tout ça sur ce blog, histoire d'avoir une trace du bazar. Mais ça pourrait ne pas être simple.
+</p>
+++++

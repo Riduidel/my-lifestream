@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Programmer’s Introduction to Unicode – Nathan Reed’s coding blog
+:jbake-tags: programming,characters,charset,unicode,_mois_mars,_année_2017
+:jbake-date: 2017-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1488809487000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Freedbeta.com%2Fblog%2Fprogrammers-intro-to-unicode%2F&searchtags=programming+characters+charset+unicode+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://reedbeta.com/blog/programmers-intro-to-unicode/[A Programmer’s Introduction to Unicode – Nathan Reed’s coding blog]
+
+un article encore plus complet que celui de Spolski (ma référence historique)

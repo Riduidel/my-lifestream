@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Securing Firefox with WebAssembly - Mozilla Hacks - the Web developer blog
+:jbake-tags: firefox,programming,webassembly,_mois_mars,_année_2020
+:jbake-date: 2020-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1583094197000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhacks.mozilla.org%2F2020%2F02%2Fsecuring-firefox-with-webassembly%2F&searchtags=firefox+programming+webassembly+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://hacks.mozilla.org/2020/02/securing-firefox-with-webassembly/[Securing Firefox with WebAssembly - Mozilla Hacks - the Web developer blog]
+
+Wow, pour continuer à sécuriser Firefox, plutôt que de tout réécrire en Rust (ce qui serait la bonne idée), ils vont en plus mettre en place un sandbox WebAssembly. Je ne sais pas quoi dire.

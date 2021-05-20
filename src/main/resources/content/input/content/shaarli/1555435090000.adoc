@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Missing Introduction To Containerization – DevOpsLinks – Medium
+:jbake-tags: docker,conteneur,linux,system,tutorial,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555435090000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fdevopslinks%2Fthe-missing-introduction-to-containerization-de1fbb73efc5&searchtags=docker+conteneur+linux+system+tutorial+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/devopslinks/the-missing-introduction-to-containerization-de1fbb73efc5[The Missing Introduction To Containerization – DevOpsLinks – Medium]
+
+Une introduction très complète et didactique aux conteneurs

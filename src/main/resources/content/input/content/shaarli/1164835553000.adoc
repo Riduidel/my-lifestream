@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GnuPG
+:jbake-tags: encryption,freeware,linux,open-source,sécurité,software,tool,utilities,windows,macosx,_mois_nov.,_année_2006
+:jbake-date: 2006-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1164835553000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gnupg.org%2F&searchtags=encryption+freeware+linux+open-source+s%C3%A9curit%C3%A9+software+tool+utilities+windows+macosx+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.gnupg.org/[GnuPG]
+
+Une implémentation open-source des standards de crypto, multiplateforme, qui plus est !

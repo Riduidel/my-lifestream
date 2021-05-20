@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ranchero Software: Huevos 1.1
+:jbake-tags: software,freeware,macosx,réseau,web,search,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111396902000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ranchero.com%2Fhuevos%2F&searchtags=software+freeware+macosx+r%C3%A9seau+web+search+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ranchero.com/huevos/[Ranchero Software: Huevos 1.1]
+
+Huevos is a customizable search engine helper for Mac OS X. Itâ⊘s easy to use: type in some text to search for, choose a search engine, then hit the Return key.

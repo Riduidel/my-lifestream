@@ -1,0 +1,139 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je déteste encore git
+:jbake-tags: git,informatique,mavie,_mois_juin,_année_2016
+:jbake-date: 2016-06-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/06/14/je-deteste-encore-git.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/06/14/je-deteste-encore-git/
+:jbake-style: wordpress
+
+++++
+<p>
+J'ai déja écrit que <a href="https://riduidel.wordpress.com/2016/03/03/je-deteste-git/">je détestais git ? OUI</a>.
+</p>
+<p>
+Mais, en un sens, ce que je déteste au moins autant, c'est de me faire prendre pour un con.
+</p>
+<p>
+Tiens, par exemple, quand j'écris un peu énervé
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/742 369 757 689 712 640" class="date">13 juin 2016 à 16:55:17</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Je sais que je l'ai déjà dit, mais #git, c'est vraiment de la sous-merde en terme d'utilisabilité.</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+C'est quand même un peu vexant de se voir répondre
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/_Christ_OFF_/status/742378259128692736
+<br/>
+</div>
+</p>
+<p>
+Me dire ça, à moi ... Me dire que la meilleure façon d'utiliser cet outil difficilement compréhensible, c'est passer par nodejs et chromium ... mon dieu.
+</p>
+<p>
+Et puis, surtout, mon problème n'a rien à voir avec git en tant que tel, mais plus avec la façon foireuse de git d'utiliser la configuration système. Regardez un peu <a href="http://stackoverflow.com/q/37805290/15619">la question StackOverflow que j'ai posé à ce sujet</a> ... c'est assez merdique.
+</p>
+<p>
+Cela dit, quelque chose m'a un peu intrigué. Ce tweet, en particulier.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/hellgy" class="screenName"><img src="http://pbs.twimg.com/profile_images/1377955466735726595/FhkB_s7P_mini.jpg" alt="profile of 🦄 UX designer / 🌈 Rainbow witch / 🧶 Tricot / Lancer de haches. Allergique à la kryptonite et au bullshit / Non Binary (iel / they)"/>hellgy</a>
+<br/>
+<span class="name">Lawrence Vagner</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/hellgy/status/742 384 297 517 158 401" class="date">13 juin 2016 à 17:53:04</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@iamhiwelo @porteneuve @riduidel 90% de mes angoisses de gamejams sont dues au fait que je pige rien à Git.</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>?cn=bWVudGlvbg%3D%3D&#38;refsrc=email
+</p>
+<p>
+Là, vous voyez, il y a un problème : le bon outil est ergonomique. Et quand je vois le nombre de personnes qui galèrent pour l'utiliser, sans même parler de l'utiliser correctement, je me demande si, réellement, il y a eu un gain si net par rapport à Subversion. Bon, pour le noyau Linux, clairement, ça doit être indispensable.
+</p>
+<p>
+Mais ai-je besoin du même genre d'outil pour un projet qui ne va être partagé qu'entre quelques machines de développement et un serveur d'entreprise ?
+</p>
+<p>
+Ai-je besoin d'un outil développé essentiellement pour des gens qui considèrent que l'ergonomie de la ligne de commande de Linux est un must insurpassable ?
+</p>
+<p>
+Ai-je besoin d'un outil dont la l'intégration avec Linux est tellement poussée que le moindre problème dans la configuration réseau doit se résoudre dans les fichiers de configuration ssh du compte utilisé ?
+</p>
+<p>
+Bref, encore une fois, je suis perplexe devant la faculté du monde du développement à adopter un outil inergonomique, rempli de fonctionnalités inutiles, et totalement inopérable pour peu que cet outil permette de démontrer une forme tordue de supériorité intellectuelle.
+</p>
+<p>
+Et là, je me rends compte qu'en un sens, le Python ou plutôt sa communauté a peut-être changé ma perception de ce genre de choses ...
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FirefoxOpera - Getting Firefox to emulate Opera...
+:jbake-tags: web,documentation,tutorial,software,freeware,browser,opera,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110469840000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffirefoxopera.blogspot.com%2F&searchtags=web+documentation+tutorial+software+freeware+browser+opera+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://firefoxopera.blogspot.com/[FirefoxOpera - Getting Firefox to emulate Opera...]
+
+FirefoxOpera - getting the best out of both worlds.

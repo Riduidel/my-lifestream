@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tanith Lee
+:jbake-tags: author
+:jbake-date: 2004-08-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/8694.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1433005489p5/8694.jpg
+:jbake-source: https://www.goodreads.com/author/show/8694
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290338261.html[La saga d'Uasti (Birthgrave, #1-3)]

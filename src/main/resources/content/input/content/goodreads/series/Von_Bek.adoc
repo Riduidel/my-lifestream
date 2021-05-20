@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Von Bek
+:jbake-tags: serie
+:jbake-date: 2019-08-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Von_Bek.adoc
+:jbake-source: https://www.goodreads.com/series/49114
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782905158765.html[Le Chien De Guerre Et La Douleur Du Monde Von Bek]
+* link:../books/9780441166107.html[The Dragon in the Sword (Erekosë, #3)]
+* link:../books/9782266151542.html[Le Glaive et l'Étalon (Corum #6)]

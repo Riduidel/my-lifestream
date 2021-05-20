@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: On fait quoi de toute cette documentation ?
+:jbake-tags: architecture_agile,asciidoc,documentation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/20/on-fait-quoi-de-toute-cette-documentation.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/20/on-fait-quoi-de-toute-cette-documentation/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série sur l'architecture agile en utilisant C4.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maintenant que j'ai détaillé les différentes parties d'une documentation d'architecture "complète", j'aimerais revenir sur le cycle de vie de cette documentation : quand la commencer, comment la faire vivre, comment la faire évoluer, quand arrêter de travailler dessus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comme je l'ai déjà écrit, l'<a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">architecte</a> accompagne le projet durant toute sa durée. Donc, logiquement, cette documentation va commencer à être écrite dès le début du projet. Pour être technique, vous allez créer dès le début un projet GitHub (ou équivalent) dans lequel vous allez mettre les différents éléments de la documentation d'architecture. De cette manière, vous pourrez suivre les <a href="https://riduidel.wordpress.com/2020/04/17/et-tout-ca-ce-sont-des-decisions/">décisions</a> à travers les tickets GitHub, et c'est bien parce que ça leur apportera un cycle de vie "correct". Vous pourrez également mettre facilement en place un processus de livraison continu de la documentation, avec des versions SNAPSHOT et des releases. C'est important parce que ça vous permet de différencier les documents de travail avec les versions communicables aux parties prenantes du projet. Et vous verrez que certains lecteurs de la documentation n'apprécieront pas spécialement d'avoir sous les yeux des versions SNAPSHOT, mais vous enverront quand même des remarques. Et le fait de gérer votre documentation comme un projet vous permettra facilement de la faire évoluer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'ailleurs, le fait que cette documentation soit évolutive est un élément fondamental. Comment envisager un projet agile construit avec une documentation qui ne soit pas capable d'évoluer lorsque le projet évolue ou "pivote" ? A ce sujet, la manière la plus simple de garantir que la documentation soit mise à jour est d'en faire un livrable à inclure dans le definition of done. Ca n'est pas si difficile ... si la documentation est facile à écrire (c'est le cas lorsqu'il s'agit de mettre à jour des documents Asciidoc dans l'éditeur dédié de GitHub/Gitlab) et facile à communiquer (heureusement, c'est le métier de l'architecte). De plus, il n'existe que peu d'évolutions dans une application qui n'aient aucun impact sur l'architecture de l'application. Par conséquent, il semble important d'inclure la réflexion architecturale dans la réflexion préalable au développement. Et si votre équipe ne réfléchit pas à l'architecture durant le développement, il me semble qu'il y a là quelque chose à travailler, conjointement avec les agilistes de votre projet ...</p>
+<!-- /wp:paragraph -->
+++++

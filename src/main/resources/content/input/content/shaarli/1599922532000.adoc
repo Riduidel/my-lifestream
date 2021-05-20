@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why RudderStack Used Postgres Over Apache Kafka for Streaming Engine | RudderStack
+:jbake-tags: kafka,postgres,messaging,comparison,architecture,_mois_sept.,_année_2020
+:jbake-date: 2020-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1599922532000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frudderstack.com%2Fblog%2Fwhy-rudderstack-used-postgres-over-apache-kafka-for-streaming-engine%2F&searchtags=kafka+postgres+messaging+comparison+architecture+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://rudderstack.com/blog/why-rudderstack-used-postgres-over-apache-kafka-for-streaming-engine/[Why RudderStack Used Postgres Over Apache Kafka for Streaming Engine | RudderStack]
+
+Un article franchement intéressant sur l'adoption (ou pas) de Kafka en fonction de vraies contraintes techniques.

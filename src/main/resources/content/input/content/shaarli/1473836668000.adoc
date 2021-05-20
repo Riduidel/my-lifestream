@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jérémie Chassaing on Twitter: "Your company is a rube goldberg machine in perpetual motion fed by money. Code is an artefact of it. #craftsw @malk_zameth"
+:jbake-tags: entreprise,organisation,_mois_sept.,_année_2016
+:jbake-date: 2016-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1473836668000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fthinkb4coding%2Fstatus%2F752924709940031488&searchtags=entreprise+organisation+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/thinkb4coding/status/752924709940031488[Jérémie Chassaing on Twitter: "Your company is a rube goldberg machine in perpetual motion fed by money. Code is an artefact of it. #craftsw @malk_zameth"]
+
+Du coup, une boîte intéressante, c'est une boîte où le code est quand même assez central

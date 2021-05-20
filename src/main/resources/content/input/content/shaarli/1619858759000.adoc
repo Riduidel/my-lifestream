@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: x0uid/SpotifyAdBlock: Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.
+:jbake-tags: musique,dns,hack,web,_mois_mai,_année_2021
+:jbake-date: 2021-05-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1619858759000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fx0uid%2FSpotifyAdBlock&searchtags=musique+dns+hack+web+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/x0uid/SpotifyAdBlock[x0uid/SpotifyAdBlock: Protect your privacy by blocking all annoying Spotify ads & analytics in Linux, OSX and Windows with hosts file.]
+
+Je me demande si Sebsauvage inclut ces adresses dans sa super liste de blocage pour PersonalDNSFilter

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kraymer/flinck: Sort your movies on filesystem by dates, ratings, etc using symlinks.
+:jbake-tags: nas,python,freeware,multimedia,film,script,organisation,_mois_mars,_année_2016
+:jbake-date: 2016-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1459363396000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FKraymer%2Fflinck&searchtags=nas+python+freeware+multimedia+film+script+organisation+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/Kraymer/flinck[Kraymer/flinck: Sort your movies on filesystem by dates, ratings, etc using symlinks.]
+
+Très chouette ... d'autant plus que mon NAS peut faire du Python ;-)

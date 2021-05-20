@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BetterHTMLExport
+:jbake-tags: hack,macosx,photographie,plugin,software,web,shareware,_mois_juil.,_année_2006
+:jbake-date: 2006-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1152006269000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.droolingcat.com%2Fsoftware%2Fbetterhtmlexport%2F&searchtags=hack+macosx+photographie+plugin+software+web+shareware+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.droolingcat.com/software/betterhtmlexport/[BetterHTMLExport]
+
+Un export amélioré pour iPhoto. Bon, en fait, cette page n'est polus à jour et nous redigire vers un site payant ... Pas cool.

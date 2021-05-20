@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un labyrinthe avec l’effet Leidenfrost
+:jbake-tags: science,vidéo,art,eau,_mois_sept.,_année_2013
+:jbake-date: 2013-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1378715160000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Flabyrinthe-leffet-leidenfrost%2F&searchtags=science+vid%C3%A9o+art+eau+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/labyrinthe-leffet-leidenfrost/[Un labyrinthe avec l’effet Leidenfrost]
+
+De la vraie frankenscience, cette histoire d'effet leidenfrost !

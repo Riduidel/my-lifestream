@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: KeeForm - keeform
+:jbake-tags: keepass,plugin,software,freeware,windows,_mois_mai,_année_2016
+:jbake-date: 2016-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1462278060000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkeeform.org%2F&searchtags=keepass+plugin+software+freeware+windows+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://keeform.org/[KeeForm - keeform]
+
+Wow, Sacrément bonne idée : avoir une saisie automatique du login par Keepass à l'ouverture de chaque site ... j'aime beaucoup

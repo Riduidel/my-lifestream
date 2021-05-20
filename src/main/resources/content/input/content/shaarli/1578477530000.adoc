@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Practices->Package by feature, not layer
+:jbake-tags: java,programming,recommendation,_mois_janv.,_année_2020
+:jbake-date: 2020-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1578477530000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.javapractices.com%2Ftopic%2FTopicAction.do%3FId%3D205&searchtags=java+programming+recommendation+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.javapractices.com/topic/TopicAction.do?Id=205[Java Practices->Package by feature, not layer]
+
+Une vraie bonne pratique : ne pas créer des packages par couche (controller/service/...), mais des packages par tranches (client/prix/...)

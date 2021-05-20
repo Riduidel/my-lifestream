@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Learn ES2015 · Babel
+:jbake-tags: javascript,langage,programming,_mois_juil.,_année_2017
+:jbake-date: 2017-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1499760923000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbabeljs.io%2Flearn-es2015%2F&searchtags=javascript+langage+programming+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://babeljs.io/learn-es2015/[Learn ES2015 · Babel]
+
+Chapeau les gars, Javascript est effectivement devenu une forme dégradée de Java.

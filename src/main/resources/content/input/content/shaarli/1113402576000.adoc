@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MathGL3d
+:jbake-tags: software,freeware,windows,linux,macosx,science,mathématiques,_mois_avr.,_année_2005
+:jbake-date: 2005-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1113402576000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fphong.informatik.uni-leipzig.de%2F%7Ekuska%2Fmathgl3dv3%2Findex.htm&searchtags=software+freeware+windows+linux+macosx+science+math%C3%A9matiques+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://phong.informatik.uni-leipzig.de/~kuska/mathgl3dv3/index.htm[MathGL3d]
+
+

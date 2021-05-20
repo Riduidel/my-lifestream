@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TinEye Labs - Multicolr Search Lab
+:jbake-tags: search,image,couleur,web,_mois_oct.,_année_2013
+:jbake-date: 2013-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1381820036000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flabs.tineye.com%2Fmulticolr%2F&searchtags=search+image+couleur+web+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://labs.tineye.com/multicolr/[TinEye Labs - Multicolr Search Lab]
+
+Un chouette moteur de recherche d'images par couleur

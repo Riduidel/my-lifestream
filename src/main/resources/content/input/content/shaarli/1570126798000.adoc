@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Automate processes + tasks | Microsoft Flow
+:jbake-tags: workflow,web,microsoft,graph,_mois_oct.,_année_2019
+:jbake-date: 2019-10-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1570126798000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fflow.microsoft.com%2Fen-us%2F&searchtags=workflow+web+microsoft+graph+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://flow.microsoft.com/en-us/[Automate processes + tasks | Microsoft Flow]
+
+Ah tiens, Microsoft fournit une alternative à IFTTT ? Je me demande si ils ont des connecteurs GitHub, Wordpress, RSS et Twitter ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: talk-deconstructing-web-frameworks/src/notes at devoxx-fr · hsablonniere/talk-deconstructing-web-frameworks
+:jbake-tags: présentation,exemple,travail,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580057332000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fhsablonniere%2Ftalk-deconstructing-web-frameworks%2Ftree%2Fdevoxx-fr%2Fsrc%2Fnotes&searchtags=pr%C3%A9sentation+exemple+travail+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/hsablonniere/talk-deconstructing-web-frameworks/tree/devoxx-fr/src/notes[talk-deconstructing-web-frameworks/src/notes at devoxx-fr · hsablonniere/talk-deconstructing-web-frameworks]
+
+La quantité de travail que met Hubert dans la construction de sa présentation est complètement dingue ! Quel boulot !

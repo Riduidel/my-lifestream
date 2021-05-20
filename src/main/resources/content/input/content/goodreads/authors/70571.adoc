@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Henri Robillot
+:jbake-tags: author
+:jbake-date: 2002-10-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/70571.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/70571
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070415731.html[Fahrenheit 451]
+* link:../books/9782070417742.html[Chroniques martiennes]

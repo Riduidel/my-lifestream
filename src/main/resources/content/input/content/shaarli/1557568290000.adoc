@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeff Atwood on Twitter: "I once met another guy who programs computers but tragically he is an insufferable elitist and I hate him"
+:jbake-tags: citation,conférence,ego,culture,_mois_mai,_année_2019
+:jbake-date: 2019-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1557568290000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodinghorror%2Fstatus%2F1127074911434838016&searchtags=citation+conf%C3%A9rence+ego+culture+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/codinghorror/status/1127074911434838016[Jeff Atwood on Twitter: "I once met another guy who programs computers but tragically he is an insufferable elitist and I hate him"]
+
+Ca aussi ça rentre complètement dans mon prochain sujet

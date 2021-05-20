@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PACT Analysis
+:jbake-tags: pact,analyse,méthode,_mois_févr.,_année_2020
+:jbake-date: 2020-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1581968398000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhci.ilikecake.ie%2Frequirements%2Fpact.htm&searchtags=pact+analyse+m%C3%A9thode+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://hci.ilikecake.ie/requirements/pact.htm[PACT Analysis]
+
+Une belle liste de questions relatives à l'analyse PACT

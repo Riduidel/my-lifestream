@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Profiler - J2EE integrations
+:jbake-tags: programming,java,software,profiler,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112364336000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ej-technologies.com%2Fproducts%2Fjprofiler%2Fjava-profiler-J2EE.html&searchtags=programming+java+software+profiler+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ej-technologies.com/products/jprofiler/java-profiler-J2EE.html[Java Profiler - J2EE integrations]
+
+best profiler for Java

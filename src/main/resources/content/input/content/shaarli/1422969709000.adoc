@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GO Contact Sync Mod | SourceForge.net
+:jbake-tags: outlook,gmail,synchronisation,software,freeware,open-source,windows,_mois_févr.,_année_2015
+:jbake-date: 2015-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1422969709000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fgooglesyncmod%2F&searchtags=outlook+gmail+synchronisation+software+freeware+open-source+windows+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://sourceforge.net/projects/googlesyncmod/[GO Contact Sync Mod | SourceForge.net]
+
+Un outil de synchro Outlook/Gmail qui fait à peu près tout ce qui m'intéresse : le calendrier, les tâches, et les contacts. Pour le reste, il y a heureusement des protocoles standard qui s'en occupent.

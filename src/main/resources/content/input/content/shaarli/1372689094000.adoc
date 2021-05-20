@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Webcams ile d'Oléron
+:jbake-tags: webcam,plage,mer,_mois_juil.,_année_2013
+:jbake-date: 2013-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1372689094000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ile-oleron-marennes.com%2Foleron%2Fwebcams-ile-d-oleron&searchtags=webcam+plage+mer+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.ile-oleron-marennes.com/oleron/webcams-ile-d-oleron[Webcams ile d'Oléron]
+
+la webcam de la plage où je serai d'ici bientôt. Et peut-être que je vous ferai coucou :-p

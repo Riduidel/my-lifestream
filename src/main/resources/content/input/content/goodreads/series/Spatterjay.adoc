@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spatterjay
+:jbake-tags: serie
+:jbake-date: 2008-08-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Spatterjay.adoc
+:jbake-source: https://www.goodreads.com/series/49126
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266155014.html[L'Écorcheur]

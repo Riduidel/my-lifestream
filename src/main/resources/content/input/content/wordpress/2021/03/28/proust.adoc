@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Proust
+:jbake-tags: idée,réseau,social,_mois_mars,_année_2021
+:jbake-date: 2021-03-28
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/03/28/proust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/03/28/proust/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>J'offre ici une idée à celui qui souhaitera l'implémenter ... même si j'aimerai bien essayer prochainement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai parlé récemment de la <a href="https://riduidel.wordpress.com/2021/03/20/reification-de-la-stupidite/">réification de la stupidité</a>. Et j'ai réfléchi par ailleurs à ce que pourrait être un réseau social limitant ça, et faisant plutôt, pour une foi, une arme de l'intelligence. Je vais donc vous faire ma proposition ici. Une proposition d'abord basée sur une conviction : le texte est un bon moyen de communiquer des idées, bien meilleur que l'audio ou que la vidéo. Par ailleurs, ce qui incite à la stupidité, c'est l'envie de s'inscrire dans l'illusion de vitesse du monde contemporain. Pa conséquent, je me dis qu'une base de réseau social intéressante pourrait se baser sur ces fonctionnalités</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>D'abord, un éditeur de texte simple, utilisant le format markdown (parce qu'un peu de mise en page ne fait pas de mal) en enlevant toutefois le support des images, des vidéos et des autres médias.</li><li>Ensuite, un délai de publication dépendant du contenu. Je m'explique. Si l'instantanéité favorise la stupidité, pourquoi insister à répondre rapidement ? Pourquoi ne pas plutôt attendre avant d'envoyer un message, ce qui pourrait vous donner le temps d'y réfléchir. Pour favoriser ça, je propose que, dans Proust, un message reste dans la boîte d'envoi (que seul l'auteur peut lire) d'autant plus longtemps que le message est court. Et bien sûr, on ne peut répondre qu'une fois à un message donné.</li><li>Egalement, aucune curation du flux par un algorithme : si vous choisissez de suivre cent personnes, vous aurez intérêt à avoir du temps, parce que vous devrez lire leurs messages ... tous leurs messages</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Dans les fonctionnalités annexes, mais sympathiques, je me dis qu'utiliser un vrai stockage distribué pourrait faire sens, mais je n'en suis pas si sûr.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors ? Ca vous parle ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+++++

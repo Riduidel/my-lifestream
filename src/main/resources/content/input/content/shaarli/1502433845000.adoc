@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Catamorphisms for Java developers – Hacker Noon
+:jbake-tags: java,programming,_mois_août,_année_2017
+:jbake-date: 2017-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1502433845000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackernoon.com%2Fcatamorphisms-for-java-developers-e3cc10b43d03&searchtags=java+programming+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://hackernoon.com/catamorphisms-for-java-developers-e3cc10b43d03[Catamorphisms for Java developers – Hacker Noon]
+
+Ah mais quelle sale blague : le mec prétend faire un truc cool, qui se révèle être un visiteur illisible

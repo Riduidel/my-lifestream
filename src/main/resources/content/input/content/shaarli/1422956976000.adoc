@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 7 Rules for Creating Gorgeous UI (Part 1) — Medium
+:jbake-tags: design,interface,web,_mois_févr.,_année_2015
+:jbake-date: 2015-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1422956976000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40erikdkennedy%2F7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda&searchtags=design+interface+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda[7 Rules for Creating Gorgeous UI (Part 1) — Medium]
+
+Comment créer une belle interface, même quand on a (comme moi) aucune espèce de compréhension artistique.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ¯\_(ツ)_/¯ on Twitter: "What if giant tech companies are open sourcing all these complicated infrastructure project in an attempt to get startups to sabotage themselves?"
+:jbake-tags: conférence,citation,organisation,compétition,_mois_juin,_année_2019
+:jbake-date: 2019-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1561103193000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSeanTAllen%2Fstatus%2F1140636130158817284&searchtags=conf%C3%A9rence+citation+organisation+comp%C3%A9tition+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/SeanTAllen/status/1140636130158817284[¯\_(ツ)_/¯ on Twitter: "What if giant tech companies are open sourcing all these complicated infrastructure project in an attempt to get startups to sabotage themselves?"]
+
+Non mais arrêtez d'écrire des trucs que je pourrais intégrer tel quel à ma présentation de mardi, j'arriverai jamais à la préparer !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Naming your open source project? Start here
+:jbake-tags: open-source,web,search,naming,_mois_févr.,_année_2015
+:jbake-date: 2015-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1423990848000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthechangelog.com%2Fnaming-open-source-project-start%2F&searchtags=open-source+web+search+naming+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://thechangelog.com/naming-open-source-project-start/[Naming your open source project? Start here]
+
+Pouvoir vérifier l'unicité du nom de son projet open-source, c'est bien.

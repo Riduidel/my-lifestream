@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Training a single AI model can emit as much carbon as five cars in their lifetimes | MIT Technology Review
+:jbake-tags: écologie,ia,consomation,mode,_mois_nov.,_année_2020
+:jbake-date: 2020-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1605348644000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.technologyreview.com%2F2019%2F06%2F06%2F239031%2Ftraining-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes%2F&searchtags=%C3%A9cologie+ia+consomation+mode+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/[Training a single AI model can emit as much carbon as five cars in their lifetimes | MIT Technology Review]
+
+Oh ben on est bien avec l'IA utilisée n'importe où pour n'importe quoi.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TextSecure
+:jbake-tags: android,software,open-source,sms,_mois_févr.,_année_2014
+:jbake-date: 2014-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1392817329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.thoughtcrime.org%2F&searchtags=android+software+open-source+sms+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://www.thoughtcrime.org/[TextSecure]
+
+Le commentaire de SebSauvage (http://sebsauvage.net/links/?wSID6Q) donne pas mal confiance en ce système.

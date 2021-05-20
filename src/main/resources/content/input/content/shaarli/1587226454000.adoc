@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cedric Beust sur Twitter : "The only concrete benefit I've ever seen from pair programming is not better code: you get to watch your coworker work and learn life pro tips from them which ultimately make you more productive."
+:jbake-tags: citation,programming,pratique,culture,_mois_avr.,_année_2020
+:jbake-date: 2020-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1587226454000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcbeust%2Fstatuses%2F1251265937933656065&searchtags=citation+programming+pratique+culture+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/cbeust/statuses/1251265937933656065[Cedric Beust sur Twitter : "The only concrete benefit I've ever seen from pair programming is not better code: you get to watch your coworker work and learn life pro tips from them which ultimately make you more productive."]
+
+C'est une opinion un peu forte, et je ne suis pas sûr de la partager. Pour ma part, les séances de peer programming m'ont apporté ça, mais m'ont aussi permis de propager de bonnes pratiques à de jeunes développeurs

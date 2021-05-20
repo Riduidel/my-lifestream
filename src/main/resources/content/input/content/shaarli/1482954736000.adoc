@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: kdeldycke/awesome-falsehood: Curated list of falsehoods programmers believe in.
+:jbake-tags: programming,concepts,_mois_déc.,_année_2016
+:jbake-date: 2016-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1482954736000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fkdeldycke%2Fawesome-falsehood&searchtags=programming+concepts+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/kdeldycke/awesome-falsehood[kdeldycke/awesome-falsehood: Curated list of falsehoods programmers believe in.]
+
+Très chouette liste d'erreurs d'appréciation et de compréhension des développeurs

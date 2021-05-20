@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Will It CORS?
+:jbake-tags: web,guide,interaction,cors,sécurité,https,_mois_mai,_année_2020
+:jbake-date: 2020-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1588747845000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhttptoolkit.tech%2Fwill-it-cors%2F&searchtags=web+guide+interaction+cors+s%C3%A9curit%C3%A9+https+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://httptoolkit.tech/will-it-cors/[Will It CORS?]
+
+Un guide facile pour aider les débutants comme moi à comprendre quand s'applique les restrictions CORS

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SideTrash
+:jbake-tags: software,freeware,system,macosx,trash,_mois_mars,_année_2007
+:jbake-date: 2007-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1173104112000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.plus2.it%2F%7Epaolo%2Fsoftware%2Fsidetrash%2Findex-en.html&searchtags=software+freeware+system+macosx+trash+_mois_mars+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.plus2.it/~paolo/software/sidetrash/index-en.html[SideTrash]
+
+Un petit utilitaire qui place la corbeille sur le bureau et, surtout, dans le finder

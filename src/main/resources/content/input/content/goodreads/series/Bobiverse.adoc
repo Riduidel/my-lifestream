@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bobiverse
+:jbake-tags: serie
+:jbake-date: 2020-06-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Bobiverse.adoc
+:jbake-source: https://www.goodreads.com/series/192752
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253083610.html[Nous sommes Légion (Nous sommes Bob #1)]
+* link:../books/9782253083627.html[Nous sommes nombreux (Nous sommes Bob #2)]

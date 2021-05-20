@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ryanoasis/nerd-fonts: Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more
+:jbake-tags: font,web,_mois_mars,_année_2016
+:jbake-date: 2016-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1458550346000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fryanoasis%2Fnerd-fonts%23patched-fonts&searchtags=font+web+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/ryanoasis/nerd-fonts#patched-fonts[ryanoasis/nerd-fonts: Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more]
+
+Tout un tas de polices patchées pour inclure tous les caractères utiles du web

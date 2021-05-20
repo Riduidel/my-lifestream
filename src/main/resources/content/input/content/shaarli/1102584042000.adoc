@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gmail Signature Generator :: Playtime - http://playtime.uni.cc/
+:jbake-tags: gmail,script,web,_mois_déc.,_année_2004
+:jbake-date: 2004-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1102584042000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fplaytime.uni.cc%2Fgmail.php&searchtags=gmail+script+web+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://playtime.uni.cc/gmail.php[Gmail Signature Generator :: Playtime - http://playtime.uni.cc/]
+
+Generates an image containing your Gmail address.

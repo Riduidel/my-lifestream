@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arcane Majeur, Tome 5 : Lady Luck 
+:jbake-tags:  chance, fantastique, rayon-emprunt,_année_2012,_mois_juil.,_note_3,rayon-bd,read
+:jbake-date: 2012-07-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756004068.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327788708l/11698088._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327788708l/11698088._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/11698088
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Pandora, désormais joueuse indépendante, parcourt les États-Unis au volant de sa Cadillac et au son de Born to be wild, en quête de joueurs à dépouiller. Sa route croise alors celle d’un porte-poisse, un homme enchaîné et manipulé par le propriétaire d’un grand casino, le Lady Luck. Pandora décide de lui venir en aide et organise le casse du siècle !
+</div>
+++++
+
+
+## Authors
+* link:../authors/493724.html[Damien]
+* link:../authors/1224032.html[Emanuele Tenderini]
+* link:../authors/5621260.html[Jean-Pierre Pécau]
+
+## Series
+* link:../series/Arcane_Majeur.html[Arcane Majeur]
+
+## Review
+
+++++
+Encore une balade dans les pays de la chance américains, les casinos. Et évidement Pandora se mêle du fameux mythe du casse du casino, avec toutefois unc ertain nombre d'éléments surnaturels intéressants.
+++++

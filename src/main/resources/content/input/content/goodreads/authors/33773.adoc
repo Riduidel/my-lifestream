@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daniel H. Wilson
+:jbake-tags: author
+:jbake-date: 2017-12-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/33773.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1489079874p5/33773.jpg
+:jbake-source: https://www.goodreads.com/author/show/33773
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266242462.html[Robopocalypse (Robopocalypse, #1)]

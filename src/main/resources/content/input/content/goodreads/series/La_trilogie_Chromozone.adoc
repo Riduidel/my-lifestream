@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La trilogie Chromozone
+:jbake-tags: serie
+:jbake-date: 2009-10-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/La_trilogie_Chromozone.adoc
+:jbake-source: https://www.goodreads.com/series/45865
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070357727.html[Chromozone (La trilogie Chromozone, #1)]

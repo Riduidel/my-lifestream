@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jcgay/maven-notifier: Desktop notifications for Maven 3.x.
+:jbake-tags: maven,system,notification,plugin,_mois_sept.,_année_2019
+:jbake-date: 2019-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1567501448000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjcgay%2Fmaven-notifier&searchtags=maven+system+notification+plugin+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/jcgay/maven-notifier[jcgay/maven-notifier: Desktop notifications for Maven 3.x.]
+
+Ah mais je suis bête, l'excellent maven-notifier que j'avais utilisé comme base pour mon plugin growl est bien plus évolué, et supporte tout un tas de notifications !

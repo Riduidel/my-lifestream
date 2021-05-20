@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To Write Unmaintainable Code
+:jbake-tags: programming,concepts,code,java,_mois_févr.,_année_2005
+:jbake-date: 2005-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1107266761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mindprod.com%2Funmain.html&searchtags=programming+concepts+code+java+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mindprod.com/unmain.html[How To Write Unmaintainable Code]
+
+Never ascribe to malice, that which can be explained by incompetence.

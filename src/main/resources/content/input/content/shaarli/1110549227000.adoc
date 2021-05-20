@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Flame: cast light on your network
+:jbake-tags: software,freeware,macosx,réseau,_mois_mars,_année_2005
+:jbake-date: 2005-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1110549227000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.husk.org%2Fapps%2Fflame%2F&searchtags=software+freeware+macosx+r%C3%A9seau+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.husk.org/apps/flame/[Flame: cast light on your network]
+
+Just start Flame to see all the computers on the network that are advertising services. (If it can, it'll identify the user of each computer instead of giving you the machine's name.) Disclose the services available from each. You can even delve right int

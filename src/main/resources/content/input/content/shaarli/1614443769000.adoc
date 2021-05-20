@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: redbean
+:jbake-tags: windows,macosx,linux,zip,software,open-source,packaging,_mois_févr.,_année_2021
+:jbake-date: 2021-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1614443769000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjustine.lol%2Fredbean%2Findex.html&searchtags=windows+macosx+linux+zip+software+open-source+packaging+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://justine.lol/redbean/index.html[redbean]
+
+Ca ressemble un peu à de la diablerie, non ? C'est un exécutable windows/macosx/linux, qui est aussi un fichier ZIP valide, ET dans lequel on peut ajouter du contenu ... DE LA DIABLERIE

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Tao of Mac - Applications/Visor
+:jbake-tags: software,freeware,hack,macosx,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150358406000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthe.taoofmac.com%2Fspace%2FApplications%2FVisor&searchtags=software+freeware+hack+macosx+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://the.taoofmac.com/space/Applications/Visor[The Tao of Mac - Applications/Visor]
+
+Une application pour avoir dans son mac une console à la Quake qui utilise le framework simbl. Trouvée sur the tao of mac.

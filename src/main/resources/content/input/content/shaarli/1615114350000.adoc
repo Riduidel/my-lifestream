@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why are Java server-side developers not adopting Kotlin? | by Ivan Sanchez | Google Developers Experts | Mar, 2021 | Medium
+:jbake-tags: langage,jvm,opinion,kotlin,java,_mois_mars,_année_2021
+:jbake-date: 2021-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1615114350000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fgoogle-developer-experts%2Fwhy-are-java-server-side-developers-not-adopting-kotlin-8eb53e06ee99&searchtags=langage+jvm+opinion+kotlin+java+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://medium.com/google-developer-experts/why-are-java-server-side-developers-not-adopting-kotlin-8eb53e06ee99[Why are Java server-side developers not adopting Kotlin? | by Ivan Sanchez | Google Developers Experts | Mar, 2021 | Medium]
+
+Je pourrais faire une très belle réponse de très mauvaise foi à cet article. La vérité est que, si des tonnes de langages ont essayé de détrôner sur la JVM, aucun n'a réussi, et je ne vois pas Kotlin réussir.

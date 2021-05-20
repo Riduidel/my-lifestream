@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Skinning Del.icio.us | Journal | Jeff Bostick
+:jbake-tags: web,delicious,folksonomie,_mois_févr.,_année_2005
+:jbake-date: 2005-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1108393080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jeffbostick.net%2Fjournal%2F246%2Fskinning-delicious&searchtags=web+delicious+folksonomie+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.jeffbostick.net/journal/246/skinning-delicious[Skinning Del.icio.us | Journal | Jeff Bostick]
+
+The small problem I have with del.icio.us (besides the quirkiness of typing del.icio.us) is the interface. That problem with the interface is that it’s fugly – fuckin’ ugly. Maybe normal geeks wouldn’t mind, but I’m a geek th

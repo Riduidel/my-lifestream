@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Workbench - Open Source Project Management and Project Scheduling for Windows - Home
+:jbake-tags: freeware,management,software,productivité,planning,projet,open-source,_mois_juil.,_année_2006
+:jbake-date: 2006-07-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1154008133000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.openworkbench.org%2Findex.php&searchtags=freeware+management+software+productivit%C3%A9+planning+projet+open-source+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.openworkbench.org/index.php[Open Workbench - Open Source Project Management and Project Scheduling for Windows - Home]
+
+Un concurrent open-source à Microsoft Project

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dare Obasanjo on Twitter: "Before spending a lot of energy in a debate at work, remember that 80% of decisions don't matter. There are often a handful of decisions that are critical to success of a product & dozens that are inconsequential (e.g. hamburger menu or not, React or Vue) Spend your time wisely"
+:jbake-tags: citation,décision,organisation,_mois_mai,_année_2019
+:jbake-date: 2019-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1557690826000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCarnage4Life%2Fstatus%2F1126846989906243584&searchtags=citation+d%C3%A9cision+organisation+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Carnage4Life/status/1126846989906243584[Dare Obasanjo on Twitter: "Before spending a lot of energy in a debate at work, remember that 80% of decisions don't matter. There are often a handful of decisions that are critical to success of a product & dozens that are inconsequential (e.g. hamburger menu or not, React or Vue) Spend your time wisely"]
+
+Ca aide bien à relativiser l'impact des "décisions" qu'on prend

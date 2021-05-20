@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: William S. Burroughs
+:jbake-tags: author
+:jbake-date: 2002-08-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4462369.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1459243207p5/4462369.jpg
+:jbake-source: https://www.goodreads.com/author/show/4462369
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070422371.html[Le Festin nu]

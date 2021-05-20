@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: email constellations
+:jbake-tags: email,social,web,_mois_déc.,_année_2004
+:jbake-date: 2004-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1102344533000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Feconstellation.sourceforge.net%2F&searchtags=email+social+web+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://econstellation.sourceforge.net/[email constellations]
+
+this project aims to be a free, flexible, and easily modifiable visualisation tool that allows a user to intuitively understand their online social group structure. projects that this software have been based on are social network fragments and buddy grap

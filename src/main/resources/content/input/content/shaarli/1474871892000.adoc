@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chris Martin on Twitter: "2+2 is functional programming, it's too complicated for most people, the proper OO way is x = new int(2); x.add(2); return x"
+:jbake-tags: citation,programming,functionnal,_mois_sept.,_année_2016
+:jbake-date: 2016-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1474871892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fchris__martin%2Fstatus%2F771489594802135040&searchtags=citation+programming+functionnal+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/chris__martin/status/771489594802135040[Chris Martin on Twitter: "2+2 is functional programming, it's too complicated for most people, the proper OO way is x = new int(2); x.add(2); return x"]
+
+C'est pas des monoïdes, plutôt ? :-D

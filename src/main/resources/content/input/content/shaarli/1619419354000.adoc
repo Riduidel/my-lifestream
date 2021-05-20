@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 8 Levels of Using List Comprehension in Python | by Yang Zhou | TechToFreedom | Medium
+:jbake-tags: python,list,tutorial,compréhension,langage,_mois_avr.,_année_2021
+:jbake-date: 2021-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1619419354000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Ftechtofreedom%2F8-levels-of-using-list-comprehension-in-python-efc3c339a1f0&searchtags=python+list+tutorial+compr%C3%A9hension+langage+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://medium.com/techtofreedom/8-levels-of-using-list-comprehension-in-python-efc3c339a1f0[8 Levels of Using List Comprehension in Python | by Yang Zhou | TechToFreedom | Medium]
+
+Un bon article sur les compréhensions de liste Python. Il faut juste que je retienne la partie sur la suppression des .map(...) et .filter(...)

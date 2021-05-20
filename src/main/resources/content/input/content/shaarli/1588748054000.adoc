@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Caddy 2
+:jbake-tags: web,server,https,_mois_mai,_année_2020
+:jbake-date: 2020-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1588748054000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcaddyserver.com%2Fv2&searchtags=web+server+https+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://caddyserver.com/v2[Caddy 2]
+
+Ca m'a l'air d'une alternative tout à fait sympathique à Apache ou Nginx pour héberger du contenu statique (côté serveur), mais pas forcément que ça.

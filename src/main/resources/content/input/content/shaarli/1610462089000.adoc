@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kafka As A Database? Yes Or No – A Summary Of Both Sides
+:jbake-tags: kafka,stream,database,modèle,architecture,discussion,_mois_janv.,_année_2021
+:jbake-date: 2021-01-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1610462089000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdavidxiang.com%2F2021%2F01%2F10%2Fkafka-as-a-database%2F&searchtags=kafka+stream+database+mod%C3%A8le+architecture+discussion+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://davidxiang.com/2021/01/10/kafka-as-a-database/[Kafka As A Database? Yes Or No – A Summary Of Both Sides]
+
+C'est très intéressant, et je pense qu'il va falloir que je ranime une idée laissée à l'abandon en 2020 ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eric Elliott on Twitter: "Rush developers & -Mentorship & reviews halt -Bugs pile up -Tests get skipped -Communication suffers -Devs burn out -Productivity suffers"
+:jbake-tags: citation,management,_mois_déc.,_année_2016
+:jbake-date: 2016-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1481267015000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_ericelliott%2Fstatus%2F806643244402622471&searchtags=citation+management+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/_ericelliott/status/806643244402622471[Eric Elliott on Twitter: "Rush developers & -Mentorship & reviews halt -Bugs pile up -Tests get skipped -Communication suffers -Devs burn out -Productivity suffers"]
+
+Ca arrive tout le temps, et c'est tout le temps une grosse connerie

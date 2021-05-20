@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scaphandre v0.1.1: mesurer la consommation d'énergie (des coulisses) du numérique - Benoit Petit
+:jbake-tags: écologie,consomation,informatique,server,_mois_janv.,_année_2021
+:jbake-date: 2021-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1610813715000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbpetit.nce.re%2Ffr%2F2021%2F01%2Fscaphandre-v0.1.1-mesurer-la-consommation-d%25C3%25A9nergie-des-coulisses-du-num%25C3%25A9rique%2F&searchtags=%C3%A9cologie+consomation+informatique+server+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://bpetit.nce.re/fr/2021/01/scaphandre-v0.1.1-mesurer-la-consommation-d%C3%A9nergie-des-coulisses-du-num%C3%A9rique/[Scaphandre v0.1.1: mesurer la consommation d'énergie (des coulisses) du numérique - Benoit Petit]
+
+Oh mais c'est chouette ça !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 10 AJAX Effects to Boost Your Website’s Fanciness Factor | Six Revisions : Web Development and Design
+:jbake-tags: javascript,gallerie,list,library,webdesign,webgen,_mois_mars,_année_2008
+:jbake-date: 2008-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1205944534000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsixrevisions.com%2Frapid-development%2F10_ajax_effects_website_fanciness%2F&searchtags=javascript+gallerie+list+library+webdesign+webgen+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://sixrevisions.com/rapid-development/10_ajax_effects_website_fanciness/[10 AJAX Effects to Boost Your Website’s Fanciness Factor | Six Revisions : Web Development and Design]
+
+Une liste de dix javascripts vraiment très jolis, pour transformer facilement un site web quelconque en un truc qui a une gueule d'enfer.

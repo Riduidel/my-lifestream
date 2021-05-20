@@ -1,0 +1,103 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Générer mon asciidoc dans docker
+:jbake-tags: asciidoc,docker,maven,plantuml,_mois_juin,_année_2017
+:jbake-date: 2017-06-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/06/16/generer-mon-asciidoc-dans-docker.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/06/16/generer-mon-asciidoc-dans-docker/
+:jbake-style: wordpress
+
+++++
+<p>
+Non mais pourquoi je veux faire ça ?
+</p>
+<p>
+Parce que j'ai des collègues qui n'ont pas installé Graphviz. Personnellement, je ne comprend vraiment pas pourquoi. Mais bon, chacun ses choix.
+</p>
+<p>
+Donc, comme ils n'ont pas Graphviz, et ne veulent pas l'installer, qu'en bonus ils ne veulent installer ni maven, ni java, et qu'ils semblent considérer que Docker est "<a href="http://idioms.thefreedictionary.com/the+best+thing+since+sliced+bread">la meilleure chose depuis le pain en tranches</a>" (un indice : à mon avis, c'est faux), j'ai créé une image docker "kivabien" :
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">FROM maven:3.5.0-jdk-8-alpine
+</p>
+<p>
+RUN apk --no-cache add graphviz ttf-droid ttf-droid-nonlatin
+</p>
+<p>
+ADD . /usr/src/app
+<br/>
+WORKDIR /usr/src/app</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Donc vous prenez ce dockerfile, là, et comme je n'aime pas trop l'idée de publier ça sur le Hub (faut voir aussi que je suis un peu une quiche en docker), ben vous le lancez ... avec docker-compose et <a href="<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">version: '2.1'
+<br/>
+services:
+<br/>
+asciidoc-builder:
+<br/>
+build: .
+<br/>
+command: mvn install
+<br/>
+volumes:
+<br/>
+- .:/usr/src/app/
+<br/>
+- ~/.m2:/root/.m2
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>">cette configuration</a> :
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">version: '2.1'
+<br/>
+services:
+<br/>
+asciidoc-builder:
+<br/>
+build: .
+<br/>
+command: mvn install
+<br/>
+volumes:
+<br/>
+- .:/usr/src/app/
+<br/>
+- ~/.m2:/root/.m2
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+</p>
+<p>
+d'un habile coup de <code>docker-compose up</code>. Et si tout se passe bien, vous allez retrouver votre dossier <code>target</code> votre doc correctement générée. Notez que, normalement, votre doc pourra contenir du PlantUML, des liens, toute la richesse d'asciidoc.
+</p>
+<p>
+Elle est pas belle la vie ? Perso, je suis pas sûr, mais on me dit que c'est ça le progrès. Moi je dis ok.
+</p>
+<p>
+&#160;
+</p>
+++++

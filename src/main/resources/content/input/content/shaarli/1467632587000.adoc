@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""Programming is like pinball. The reward for doing it well is the opportunity to do it again." - Rick Cook"
+:jbake-tags: citation,programming,_mois_juil.,_année_2016
+:jbake-date: 2016-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1467632587000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F749893816497373184&searchtags=citation+programming+_mois_juil.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/749893816497373184[Programming Wisdom on Twitter: ""Programming is like pinball. The reward for doing it well is the opportunity to do it again." - Rick Cook"]
+
+Très juste

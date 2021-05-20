@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vistecture - Visualize, analyse and document your software service architecture
+:jbake-tags: architecture,documentation,microservices,open-source,_mois_sept.,_année_2019
+:jbake-date: 2019-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1568357900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvistecture.me%2F&searchtags=architecture+documentation+microservices+open-source+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://vistecture.me/[Vistecture - Visualize, analyse and document your software service architecture]
+
+Un projet dans la veine du C4Model dédié aux architectures de microservices.

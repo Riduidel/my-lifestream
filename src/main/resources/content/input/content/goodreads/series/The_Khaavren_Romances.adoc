@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Khaavren Romances
+:jbake-tags: serie
+:jbake-date: 2009-06-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Khaavren_Romances.adoc
+:jbake-source: https://www.goodreads.com/series/41289
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070396399.html[Gardes Phenix]

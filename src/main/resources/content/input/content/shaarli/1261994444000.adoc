@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The C Programming Language: 4.10
+:jbake-tags: @toread,programming,langage,geek,fun,cthulu,_mois_déc.,_année_2009
+:jbake-date: 2009-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1261994444000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bobhobbs.com%2Ffiles%2Fkr_lovecraft.html&searchtags=%40toread+programming+langage+geek+fun+cthulu+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.bobhobbs.com/files/kr_lovecraft.html[The C Programming Language: 4.10]
+
+Ouaip, Cthulu a écrit le C

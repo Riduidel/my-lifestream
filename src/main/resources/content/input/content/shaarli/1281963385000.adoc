@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Q10
+:jbake-tags: windows,open-source,portable,productivité,software,fullscreen,_mois_août,_année_2010
+:jbake-date: 2010-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1281963385000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.baara.com%2Fq10%2F&searchtags=windows+open-source+portable+productivit%C3%A9+software+fullscreen+_mois_ao%C3%BBt+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.baara.com/q10/[Q10]
+
+Un éditeur de texte pour écrivain ... Un jour, j'essayerai d'en parler un peu plus.

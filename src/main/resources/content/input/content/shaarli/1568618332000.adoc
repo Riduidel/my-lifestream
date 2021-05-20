@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Corey Quinn on Twitter: "For every retweet this gets, I will add an Uncomfortable @awscloud Truth to the thread." / Twitter
+:jbake-tags: citation,humour,amazon,aws,critique,_mois_sept.,_année_2019
+:jbake-date: 2019-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1568618332000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FQuinnyPig%2Fstatus%2F1173367909369802752&searchtags=citation+humour+amazon+aws+critique+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/QuinnyPig/status/1173367909369802752[Corey Quinn on Twitter: "For every retweet this gets, I will add an Uncomfortable @awscloud Truth to the thread." / Twitter]
+
+Il y a là-dedans quelques réalités qui font mal \*au-delà\* d'Amazon (comme par exemple celle sur les services open-source)

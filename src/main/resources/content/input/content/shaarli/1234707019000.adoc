@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DSM-G600, DNS-323 and TS-I300 Hack Forum / Mount a USB disc...need just a little help to finish, please!
+:jbake-tags: linux,matériel,howto,usb,dns-323,stockage,backup,_mois_févr.,_année_2009
+:jbake-date: 2009-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1234707019000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforum.dsmg600.info%2Fviewtopic.php%3Fpid%3D3221%23p3221&searchtags=linux+mat%C3%A9riel+howto+usb+dns-323+stockage+backup+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://forum.dsmg600.info/viewtopic.php?pid=3221#p3221[DSM-G600, DNS-323 and TS-I300 Hack Forum / Mount a USB disc...need just a little help to finish, please!]
+
+Un tutroeil hyper-complet sur le montage de périphériques de stockage USB sur le DNS-323. C'est bien fait, c'est complet, c'est pas tout à fait à jour (mais c'est pas grave) et ça pourrait me filer un sacré coup de main le jour où je voudrais faire ce genre de choses.

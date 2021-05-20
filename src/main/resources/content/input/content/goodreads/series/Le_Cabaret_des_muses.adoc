@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Cabaret des muses
+:jbake-tags: serie
+:jbake-date: 2014-03-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Le_Cabaret_des_muses.adoc
+:jbake-source: https://www.goodreads.com/series/77210
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782847891713.html[Le Bordel des muses 1. Au Moulin-Rouge]
+* link:../books/9782847897807.html[Mimi & Henri]
+* link:../books/9782756005652.html[Le Cabaret des muses 3. Allez, Darling]

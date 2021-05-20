@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to measure distance between two iphone devices using bluetooth? - Stack Overflow
+:jbake-tags: bluetooth,distance,mesure,épidémie,algorithme,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590679034000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F3625388%2F15619&searchtags=bluetooth+distance+mesure+%C3%A9pid%C3%A9mie+algorithme+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/3625388/15619[How to measure distance between two iphone devices using bluetooth? - Stack Overflow]
+
+En voyant la doc de StopCovid, je me suis demandé comment savoir qu'un autre téléphone est à moins d'un mètre pendant 1/4 d'heure ... La réponse va vous étonner (ou pas) : ça ne marche pas aussi simplement que ça 🤔

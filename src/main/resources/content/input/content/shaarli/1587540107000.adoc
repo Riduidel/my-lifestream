@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hubert SABLONNIÈRE 😎 sur Twitter : "🙏 About npm dependencies, I want: ✅ More context about dependency decisions 👀 More history details about dependency changes 🧪 So I've been experimenting with some tooling: 📝 Auto-generated+synced .md file I can annotate 🔎 Auto-generated dependency log I can read/search… https://t.co/ZB09DiVoqc"
+:jbake-tags: architecture,dépendances,context,programming,_mois_avr.,_année_2020
+:jbake-date: 2020-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1587540107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhsablonniere%2Fstatuses%2F1252730209213788160&searchtags=architecture+d%C3%A9pendances+context+programming+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/hsablonniere/statuses/1252730209213788160[Hubert SABLONNIÈRE 😎 sur Twitter : "🙏 About npm dependencies, I want: ✅ More context about dependency decisions 👀 More history details about dependency changes 🧪 So I've been experimenting with some tooling: 📝 Auto-generated+synced .md file I can annotate 🔎 Auto-generated dependency log I can read/search… https://t.co/ZB09DiVoqc"]
+
+C'est une très bonne idée d'Hubert d'essayer de recontextualiser la présence de dépendances ...

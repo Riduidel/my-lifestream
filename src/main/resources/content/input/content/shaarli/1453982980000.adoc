@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vogelsong on Twitter: "Taxis, agriculteurs. Ça vote massivement à droite et ça demande le soutien et la réglementation de l'état. Le libéralisme pour les autres."
+:jbake-tags: citation,politique,libéralisme,_mois_janv.,_année_2016
+:jbake-date: 2016-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1453982980000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FVogelsong%2Fstatus%2F692379946942119936&searchtags=citation+politique+lib%C3%A9ralisme+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/Vogelsong/status/692379946942119936[Vogelsong on Twitter: "Taxis, agriculteurs. Ça vote massivement à droite et ça demande le soutien et la réglementation de l'état. Le libéralisme pour les autres."]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FUPPES - Free UPnP Entertainment Service
+:jbake-tags: linux,mediacenter,n800,server,software,windows,macosx,upnp,_mois_août,_année_2007
+:jbake-date: 2007-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1188564409000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffuppes.ulrich-voelkel.de%2F&searchtags=linux+mediacenter+n800+server+software+windows+macosx+upnp+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://fuppes.ulrich-voelkel.de/[FUPPES - Free UPnP Entertainment Service]
+
+Un serveur UPnP multiplateforme. J'espère juste pouvoir le lancer sur mon serveur, quoi ...

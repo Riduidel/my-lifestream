@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thomas Fuchs sur Twitter : "As a programmer, it’s 💯 × more important to not over-engineer than to “avoid tech debt”. You’ll have to refactor and throw away code in the future anyway—it’s impossible to know what requirements will be. The less code you have, the easier it is to replace."
+:jbake-tags: citation,programming,expérience,concepts,_mois_mars,_année_2020
+:jbake-date: 2020-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1583920681000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fthomasfuchs%2Fstatus%2F1236306015169253377&searchtags=citation+programming+exp%C3%A9rience+concepts+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/thomasfuchs/status/1236306015169253377[Thomas Fuchs sur Twitter : "As a programmer, it’s 💯 × more important to not over-engineer than to “avoid tech debt”. You’ll have to refactor and throw away code in the future anyway—it’s impossible to know what requirements will be. The less code you have, the easier it is to replace."]
+
+Il m'a fallu près de 20 ans pour comprendre ça ... Et encore, même si j'ai compris, je ne suis pas sûr de l'appliquer ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ben Walding on Twitter: "Reliving my glory days of pointers and C-code (now in Golang) - randomly adding & and * to interface{} to try and get the desired output. About as productive."
+:jbake-tags: programming,go,critique,citation,_mois_mars,_année_2018
+:jbake-date: 2018-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1521012323000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbenwalding%2Fstatus%2F973355134506778624&searchtags=programming+go+critique+citation+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/benwalding/status/973355134506778624[Ben Walding on Twitter: "Reliving my glory days of pointers and C-code (now in Golang) - randomly adding & and * to interface{} to try and get the desired output. About as productive."]
+
+Je viens de lire un support de formation Go, et effectivement, la réapparition des pointeurs, c'est de la bonne idée de merde (mais ça n'est pas la seule qui craigne vraiment dans ce langage)

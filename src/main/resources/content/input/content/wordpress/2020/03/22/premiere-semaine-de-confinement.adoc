@@ -1,0 +1,60 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Première semaine de confinement
+:jbake-tags: épidémie,confinement,mavie,_mois_mars,_année_2020
+:jbake-date: 2020-03-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/03/22/premiere-semaine-de-confinement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/03/22/premiere-semaine-de-confinement/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Ce soir terminera notre première semaine de confinement effectif.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que Lundi dernier, nous avons tous ensemble commencé à télétravailler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour ma part, pas de problème, parce que je travaille dans l'informatique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour mes enfants (qui sont au lycée), la transition est un peu plus délicate : les outils de l'éducation nationale ne sont conçus ni pour le nombre d'élèves désormais en télétravail, ni pour une activité totalement en télétravail. Ca leur a rendu les journées de semaine un peu difficiles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais finalement, tout ça n'est que de la contingence matérielle face à différentes observations qui ont pu nous traverser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première, que je peux refaire exactement maintenant, c'est que ce confinement généralisé a apporté un calme à l'environnement qui est une authentique bénédiction : il n'y a plus de voitures dans les rues, on entend les oiseaux, et le ciel retrouve une couleur naturelle. Regardez, écoutez autour de vous. Il n'y a plus cette effervescence humaine idiote qui consiste à faire du bruit pour montrer, tel un petit garçon lors d'une après-midi trop calme, qu'on est là (oui, un petit garçon, je fais dans le stéréotype de genre). Au lieu de ça, on retrouve un environnement apaisé, un ciel visiblement plus bleu, un air plus limpide, un monde qui respire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le corollaire de cette première observation, c'est que quand je regarde ma rue, elle est occupée à près de 80% par les automobiles et leurs infrastructures. C'est fou, non ? Toutes ces boîtes d emétail immobiles, inutiles, qui nous bouffent l'espace, qui nous polluent ... Quel est leur sens ? Nous offrir la liberté d'aller voir loin un paysage plus beau pour supporter la médiocrité du quotidien ? Ne vaut-il pas mieux rendre le quotidien beau ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais je dis ça avec le privilège de celui qui se retrouve en télétravail parce que sa présence n'est pas jugée obligatoire au travail. Pas comme les soignants. Pas comme les caissières de supermarché. Pas comme les éboueurs qui sont passés dans ma rue hier matin. Pas comme le travailleur de base, autrement dit. C'est une chance, c'est un privilège. Mais c'est aussi une démonstration (qui me déchire le ventre) que cette crise sanitaire existe à cause de politiques favorisant les plus riches, et est traitée pour favoriser les plus riches. J'ai beau en faire partie, ça me fait dégueuler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/mtrlgrrrl\/status\/1240810470296244226","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+https://twitter.com/mtrlgrrrl/status/1240810470296244226
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Prétendre aujourd'hui qu'on ne pouvait pas savoir que ça allait arriver, qu'il ne fallait pas supprimer ces 15000 lits d'hopital en 5 ans, qu'il est juste est bon de ne pas augmenter (ni de recruter) les infirmiers et infirmières. Les gens qui ont fait ça, qui siègent dans les hautes administrations, ont peut-être des valeurs, mais je me refuse à imaginer que la qualité d'humain en fasse partie. Et ça n'est sûrement pas un hasard qu'on voie fleurir aujourd'hui les cagnottes finançant les hôpitaux qui viennent se substituer aux impôts qu'eux, les décideurs, et leurs amis de la finance, n'ont pas payé. Et ce non-hasard, cette volonté de déshabiller le secteur public, ils en rendront compte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sur cette note joyeuse se termine cette première semaine. On verra de quoi sera faite la suivante ...</p>
+<!-- /wp:paragraph -->
+++++

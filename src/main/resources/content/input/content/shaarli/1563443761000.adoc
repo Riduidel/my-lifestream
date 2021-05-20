@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Embedded Systems Architecture Resources — Embedded Artistry
+:jbake-tags: architecture,software,documentation,tutorial,list,_mois_juil.,_année_2019
+:jbake-date: 2019-07-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1563443761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fembeddedartistry.com%2Fblog%2F2019%2F7%2F12%2Fembedded-systems-architecture-resources&searchtags=architecture+software+documentation+tutorial+list+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://embeddedartistry.com/blog/2019/7/12/embedded-systems-architecture-resources[Embedded Systems Architecture Resources — Embedded Artistry]
+
+Une petite liste de lecture sur l'architecture logicielle (et en particulier dans le domaine de l'embarqué). Il y a des trucs qui ont l'air sacrément bien !

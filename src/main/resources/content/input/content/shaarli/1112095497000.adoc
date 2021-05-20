@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Concurrent Versions Librarian
+:jbake-tags: software,freeware,open-source,macosx,windows,programming,versionning,_mois_mars,_année_2005
+:jbake-date: 2005-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1112095497000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsente.epfl.ch%2Fsoftware%2Fcvl%2F&searchtags=software+freeware+open-source+macosx+windows+programming+versionning+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://sente.epfl.ch/software/cvl/[Concurrent Versions Librarian]
+
+CVL (Concurrent Versions Librarian) is a version and configuration management tool for MacOS X, Mac OS X Server (Rhapsody), Windows and OPENSTEP. It helps managing versions of various resources (source code, projects, documents). It allows parallel modifi

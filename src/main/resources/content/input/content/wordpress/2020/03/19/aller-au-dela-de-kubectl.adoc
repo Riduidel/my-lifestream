@@ -1,0 +1,62 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aller au-delà de kubectl
+:jbake-tags: application,interface,kubernetes,shell,_mois_mars,_année_2020
+:jbake-date: 2020-03-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/03/19/aller-au-dela-de-kubectl.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/03/19/aller-au-dela-de-kubectl/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Comme tous les développeurs du monde, ou presque, en ce moment, je vis dans Kubernetes. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, je ne vais pas vous expliuer ce qu'est Kubernetes, il y a <a href="https://www.supinfo.com/articles/single/2146-introduction-kubernetes">des</a> <a href="https://web.leikir.io/introduction-a-kubernetes/">articles</a> d'<a href="https://blog.ouvrard.it/2016/06/06/introduction-a-kubernetes/">introduction</a> à peu près partout.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Kubernetes, c'est un peu la revanche des ops sur les dev : ça marche très bien en prod, mais l'ergonomie, l'expérience du développeur est quand même assez médiocre. Et c'est bien normal, parce que le but, c'est de faire marcher des machines quelle que soit la charge de travail (c'est-à-dire le code qu'on essaye d'exécuter) qu'on met dessus. Et c'est précisément ça la force de Kubernetes (au-delà des choix architecturaux qu'on peut discuter). Par contre, en terme d'ergonomie, on est au niveau de git : ça fait ce que vous voulez, si vous avez pris le temps d'apprendre les cinquante sous-commandes et leurs 200 options. Et au cas où vous ne le sauriez pas, j'ai un amour très modéré pour les lignes de commande (sans doute parce que je sais tout c qu'on peut faire avec une application un minimum bien construite).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, évidement, quand je fais du Kubernetes, j'essaye d'éviter les commandes <code>kubectl</code>, même si je m'en sers parfois.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A la place, j'ai quelques solutions d'un niveau de sophistication variable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left","sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large"><img src="https://camo.githubusercontent.com/6dd81f81976c3abf550dddbed8dcc1fa93d86595/687474703a2f2f692e696d6775722e636f6d2f6466656c6b4b722e676966" alt="" /><figcaption>On peut faire plein de trucs avec kube-shell !</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>D'abord, quelques extensions au shell, comme <a href="https://github.com/cloudnativelabs/kube-shell">kube-shell</a>. C'est pas mal pratique, parce que ça ajoute de la complétion dans le shell. Mais il faut toujours savoir ce qu'on veut faire avant (l'interface n'est pas découvrable), et en plus quand je fais <code>Ctrl-C</code>, ça quitte l'application, ce qui fait comme si on manquait une marche.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left","sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large"><img src="https://raw.githubusercontent.com/derailed/k9s/master/assets/screen_po.png" alt="" /><figcaption>Avec k9s, ça prend vite du style</figcaption></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, il y a les applications dans le terminal. Et pour ça, <a href="https://github.com/derailed/k9s">k9s </a>est sans doute la meilleure. On voit tout de suite les informations utiles, et les manipulations d'habitude inutlement fastidieuses (lire les logs d'un conteneur dans un pod, ouvrir le shell) sont là bien présentées, faciles et pratiques. En fait, c'est vraiment très bien, pour les gens qui vivent dans le monde <a href="https://en.wikipedia.org/wiki/Text_mode">80x25</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/www.youtube.com\/watch?v=04v2ODsmtIs","type":"rich","providerNameSlug":"","align":"left","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube alignleft wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=04v2ODsmtIs
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Et enfin, les vraies interfaces graphiques. Dans ce domaine-là, <a href="https://github.com/lensapp/lens/">Lens</a> est bien chouette. On retrouve tout ce qui fait la force de k9s, avec encore plus d'écrans utiles, de coloration selon les états, de détails lisibles. Bref, c'est une appli super chouette, jolie, efficace, dans laquelle on ne se perd pas (contrairement à l'interface web de Kubernetes).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il n'y a en fait qu'un inconvénient. Je n'utilise pas vraiment Kubernetes, mais OpenShift. Or en plus de mettre en place des règles de sécurité supplémentaires (ce qu'on peut trouver utile ou pas), OpenShift ajoute quelques concepts (comme les DeploymentConfig) et une gestion de la sécurité différente (avec une authentification auprès du cluster qui semble être gérée différement). Du coup, c'est un peu moins efficace : on ne voit les DeploymentConfig nulle part, et Lens ne peut fonctionner qu'après que je me sois authentifié dans le cluster OpenShift, et avec le token qui a été généré. C'est dommage. Vraiment dommage, parce que ce sont des solutions particulièrement prometteuses.</p>
+<!-- /wp:paragraph -->
+++++

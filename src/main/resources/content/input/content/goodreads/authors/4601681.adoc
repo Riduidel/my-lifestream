@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Victor Milán
+:jbake-tags: author
+:jbake-date: 2019-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4601681.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1422563171p5/4601681.jpg
+:jbake-source: https://www.goodreads.com/author/show/4601681
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266279635.html[Guerre et dinosaures I]
+* link:../books/9782266286664.html[Guerre & Dinosaures II]

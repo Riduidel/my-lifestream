@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Audio Downloads : SayIt /// AnalogX
+:jbake-tags: software,freeware,windows,multimedia,fun,_mois_avr.,_année_2005
+:jbake-date: 2005-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1112526209000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.analogx.com%2Fcontents%2Fdownload%2Faudio%2Fsayit.htm&searchtags=software+freeware+windows+multimedia+fun+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.analogx.com/contents/download/audio/sayit.htm[Audio Downloads : SayIt /// AnalogX]
+
+Inspired by that evil device many of us were tormented by as children, the Speak&Spell, AnalogX SayIt gives your computer a synthesized voice to rival that of Colossus (from the movie Colossus: The Forbin Project). Type in any word or phrase, set the sl

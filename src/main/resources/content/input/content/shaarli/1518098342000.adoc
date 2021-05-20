@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kelsey Hightower on Twitter: "I've written code in safe and unsafe languages. After watching npm download the internet and having my understanding of boolean logic challenged, I will now add dangerous to that list."
+:jbake-tags: citation,programming,javascript,_mois_févr.,_année_2018
+:jbake-date: 2018-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1518098342000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fkelseyhightower%2Fstatus%2F959178044433838080&searchtags=citation+programming+javascript+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/kelseyhightower/status/959178044433838080[Kelsey Hightower on Twitter: "I've written code in safe and unsafe languages. After watching npm download the internet and having my understanding of boolean logic challenged, I will now add dangerous to that list."]
+
+Evidement, je suis d'accord ... Pas seulement à la base.

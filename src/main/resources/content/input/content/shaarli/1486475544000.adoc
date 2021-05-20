@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rich Rogers on Twitter: ""Getting moderately good at programming has taken about 20 years longer than I expected." - @JohnDCook https://t.co/xxXT8OPoVA"
+:jbake-tags: citation,programming,expérience,_mois_févr.,_année_2017
+:jbake-date: 2017-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1486475544000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRichRogersIoT%2Fstatus%2F819589940463988736&searchtags=citation+programming+exp%C3%A9rience+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/RichRogersIoT/status/819589940463988736[Rich Rogers on Twitter: ""Getting moderately good at programming has taken about 20 years longer than I expected." - @JohnDCook https://t.co/xxXT8OPoVA"]
+
+Ca explique bien pourquoi la France innove très peu : vous voyez beaucoup de développeurs avec plus de 20 ans d'expérience ?

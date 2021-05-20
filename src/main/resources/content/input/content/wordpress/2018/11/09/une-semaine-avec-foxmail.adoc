@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une semaine avec FoxMail
+:jbake-tags: mail,_mois_nov.,_année_2018
+:jbake-date: 2018-11-09
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/11/09/une-semaine-avec-foxmail.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/11/09/une-semaine-avec-foxmail/
+:jbake-style: wordpress
+
+++++
+<p>
+Je ne sais pas si vous savez, mais je suis un fervent utilisateur des mails. Je trouve en effet que cette interaction asynchrone par nature est parfaite dans notre ère du distribué, du rapide. Parfaite parce que ça permet à chacun d'avancer à son rythme. Et ça, contrairement à l’exigence d'instantanéité de l'horreur slackienne. Donc j'aime beaucoup les mails.
+</p>
+<p>
+Et ça fait un bon moment que j'utilise Thunderbird, dont je n'apprécie que très peu certains éléments : une interface ... datée. Mais bien plus que ça, des lenteurs, voire des blocages, difficilement explicables. Il faut bien reconnaître que j'ai une longue histoire de clients mails, avec <a href="https://riduidel.wordpress.com/2013/12/20/arf-opera/">Opera Mail</a>, <a href="https://riduidel.wordpress.com/2017/10/01/cest-pas-encore-demain-que-je-vais-virer-thunderbird/">Outlook Express</a> (quoi ?) et, depuis quelques années, Thunderbird, donc ...
+</p>
+<p>
+J'en ai donc eu marre, et j'ai voulu passer une semaine avec FoxMail.
+</p>
+<p>
+<a href="https://www.foxmail.com/">FoxMail</a>, c'est donc un logiciel chinois, <a href="http://foxmail.free.fr/">traduit en français</a> via un sale patch. Je ne dis pas par là que les traducteurs français sont mauvais, plutôt que la méthode de traduction est, à cause des développeurs de FoxMail, assez sale.
+</p>
+<p>
+Alors évidement, il y a un support de l'IMAP très correct. En plus, l'interface est confortablement réactive. Mais il manque des possibilités de personnalisation. Et le navigateur web utilisé pour le rendu ne bloque pas les images distantes (ce qui est très mauvais en termes de sécurité, figurez-vous). Et les <a href="https://getemoji.com/">emojis</a> ne sont pas supportés ! Et pour quelqu'un qui lit twitter par mail, les emojis, c'est utile (surtout pour les gens de CleverCloud qui semblent assez fans de ces emojis). Donc, ça ne va pas trop.
+</p>
+<p>
+Alors que faire ? Revenir vers Thunderbird la queue entre les jambes ? Ou aller encore plus loin dans la trahison et essayer l'une des applications mail Electron ? En l'occurence, je vais aller voir du côté de <a href="https://getmailspring.com/">MailSpring</a>, qui malgré son poids énorme (un chromium + nodsjs + le backend C++ de synchro des mails) a l'air ergonomiquement correct ...
+</p>
+++++

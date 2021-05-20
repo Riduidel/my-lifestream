@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Prometheus
+:jbake-tags: légende,feu,humour,_mois_juin,_année_2013
+:jbake-date: 2013-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1371815435000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1228%2F&searchtags=l%C3%A9gende+feu+humour+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xkcd.com/1228/[xkcd: Prometheus]
+
+Bon ben ça c'est exactement le pitch du dernier héros de Pratchett ... avec le dentier en plus :-p

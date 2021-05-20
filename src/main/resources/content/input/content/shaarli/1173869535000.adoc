@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PodcatcherMatrix - Choose your favorite podcatcher
+:jbake-tags: client,comparison,mp3,podcast,software,search,feed,rss,vidéo,web,_mois_mars,_année_2007
+:jbake-date: 2007-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1173869535000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.podcatchermatrix.org%2F&searchtags=client+comparison+mp3+podcast+software+search+feed+rss+vid%C3%A9o+web+_mois_mars+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.podcatchermatrix.org/[PodcatcherMatrix - Choose your favorite podcatcher]
+
+Un site pour trouver le bon lecteur de podcast

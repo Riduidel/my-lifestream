@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wolverine
+:jbake-tags:  combat, japon, mort, rayon-emprunt, vengeance,_année_2011,_mois_oct.,_note_3,rayon-bd,read
+:jbake-date: 2011-10-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780785123293.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409501578l/59962._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409501578l/59962._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/59962
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+The master of mutants joins the master of ninjas in Wolverine's first solo outing - replete with romance, intrigue and mayhem! Our beleagured berserker's in Japan on a mission of the heart, if he can survive the Hand first!
+</div>
+++++
+
+
+## Authors
+* link:../authors/15091.html[Chris Claremont]
+* link:../authors/15085.html[Frank Miller]
+* link:../authors/20575642.html[Paul Smith]
+
+## Series
+* link:../series/Marvel_Premiere_Classic.html[Marvel Premiere Classic]
+* link:../series/Marvel_Ultimate_Graphic_Novels_Collection.html[Marvel Ultimate Graphic Novels Collection]
+* link:../series/Marvel_Ultimate_Graphic_Novels_Collection__Publication_Order.html[Marvel Ultimate Graphic Novels Collection: Publication Order]
+* link:../series/Uncanny_X-Men_(1963).html[Uncanny X-Men (1963)]
+* link:../series/Wolverine_(1982).html[Wolverine (1982)]
+* link:../series/Wolverine__Miniseries.html[Wolverine: Miniseries]
+
+## Review
+
+++++
+Ah, Wolverine ! Le X-men préféré des gens pas malins comme moi ! L'inspirateur évident d'innombrables personnages de brutes épaisses (comme, par exemple, link:../series/Gilgamesh.html[<strike>Geritarish</strike> Gilgamesh]).<br/>Cet album nous narre comment Wolverine, au japon, en apprit beaucoup sur les hommes en général et lui-même en particulier. Evidement, comme il aime la bagarre, tout cet apprentissage se fait au cours d'innombrables scènes d'une violence graphique, aussi raffinée que Miller est capable de la dessiner. Et on trouve donc logiquement dans ces scènes des ressemblances fortes avec des histoires comme Elektra ou <a class="DirectBookReference destination_Serie" href="../series/300.html">300</a>. Cependant, le scénario de Claremont ajoute à cette violence un peu d'humanité, je trouve, aussi bien dans le traitement de mon canadien préféré que dans celui des motivations des personnages secondaires.<br/>Cela dit, malgré tout, il faut bien l'avouer, le scénario apparaît maintenant - 30 ans après l'écriture de ce récit - assez convenu.<br/>C'est toutefois une lecture intéressante pour beaucoup, et clairement séminale pour les amateurs de Wolverine et/ou des auteurs de cette BD, malgré des faiblesses honteuses de colorisation (qui donne parfois à Wolverine l'aspect imprimé des idoles du pop-art).
+++++

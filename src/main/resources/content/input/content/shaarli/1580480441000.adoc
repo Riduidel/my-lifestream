@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: nrc sur Twitter : ": public? : too long : pub? : too long *takes huge bong rip* : capitalise the first letter of the variable name? : shipit!"
+:jbake-tags: go,programming,langage,citation,critique,_mois_janv.,_année_2020
+:jbake-date: 2020-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1580480441000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fnick_r_cameron%2Fstatus%2F1222987035658469376&searchtags=go+programming+langage+citation+critique+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/nick_r_cameron/status/1222987035658469376[nrc sur Twitter : ": public? : too long : pub? : too long *takes huge bong rip* : capitalise the first letter of the variable name? : shipit!"]
+
+Non mais go c'est un langage conçu avec l'utilisateur au coeur, non ? Oui, parce que cette pique est exclusivement dédiée à ce langage.

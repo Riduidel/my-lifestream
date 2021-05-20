@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Starwolf
+:jbake-tags: serie
+:jbake-date: 2003-08-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Starwolf.adoc
+:jbake-source: https://www.goodreads.com/series/49481
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070428090.html[Les Loups des étoiles]

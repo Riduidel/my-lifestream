@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Explorable Explanations
+:jbake-tags: asciidoc,reactive,documentation,_mois_sept.,_année_2019
+:jbake-date: 2019-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1568628543000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fworrydream.com%2FExplorableExplanations%2F&searchtags=asciidoc+reactive+documentation+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://worrydream.com/ExplorableExplanations/[Explorable Explanations]
+
+Je me demande si ce genre d'expérience a déjà été conduit dans le monde Asciidoc ... En tout cas, ça m'intéresserait \*\*beaucoup\*\* de pouvoir écrire de l'asciidoc intégrant des données réactives.

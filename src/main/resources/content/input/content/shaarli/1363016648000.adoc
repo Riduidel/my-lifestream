@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lost Labyrinth ~ The best Roguelike on the Net
+:jbake-tags: windows,jeu,freeware,_mois_mars,_année_2013
+:jbake-date: 2013-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1363016648000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lostlabyrinth.com%2Findex.php%3Fp%3Dstart&searchtags=windows+jeu+freeware+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.lostlabyrinth.com/index.php?p=start[Lost Labyrinth ~ The best Roguelike on the Net]
+
+On dirait Diablo, mais en fait pas du tout le hack'n'slash ne rapporte pas de XP

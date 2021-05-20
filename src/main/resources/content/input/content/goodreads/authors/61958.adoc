@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Shirley
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/61958.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1206507607p5/61958.jpg
+:jbake-source: https://www.goodreads.com/author/show/61958
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]

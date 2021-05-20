@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La RGPD contre les téléconseillers
+:jbake-tags: marketing,téléphone,_mois_nov.,_année_2018
+:jbake-date: 2018-11-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/11/13/la-rgpd-contre-les-teleconseillers.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/11/13/la-rgpd-contre-les-teleconseillers/
+:jbake-style: wordpress
+
+++++
+<p>
+J'ai eu l'extrême déplaisir de recevoir un coup de téléphone d'un téléconseiller aujourd'hui.
+</p>
+<p>
+J'ai longtemps lutté contre cette nuisance par le biais de scripts de réponse autour desquels il est facile d'improviser. J'y ai rapidement ajouté la mention nécessaire de l'enregistrement de l'appel, qui me permet de prendre mon temps pour mieux justifier ma démarche : oui le téléconseiller va perdre beaucoup de temps (et peut-être de l'argent) avec moi sans aucune chance de conversion. Mais c'est nécessaire pour garantir que l'appel remonte la chaîne et que le prestataire ayant fourni mon numéro de téléphone soit correctement châtié.
+</p>
+<p>
+Mais aujourd'hui, j'ai compris que tout avait changé grâce à une phrase clé : "pouvez-vous m'indiquer comment exercer mon <a href="https://www.gdpr-expert.eu/article.html?id=17#textesofficiels">droit à l'oubli</a> au titre du RGDP ?". Si la personne au bout du téléphone ne peut pas répondre ... vous pouvez engager une demande de poursuites auprès de la CNIL, demande poursuite pouvant se solder par une amende de 4% du chiffre d'affaire mondial du groupe détenant l'entreprise.
+</p>
+<p>
+Personnellement, ça m'a mis en joie cet après-midi après que j'ai raccroché avec ce fameux téléconseiller.
+</p>
+++++

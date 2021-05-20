@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SQLite as a document database
+:jbake-tags: sql,nosql,json,recherche,open-source,_mois_nov.,_année_2020
+:jbake-date: 2020-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1606673780000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdgl.cx%2F2020%2F06%2Fsqlite-json-support&searchtags=sql+nosql+json+recherche+open-source+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://dgl.cx/2020/06/sqlite-json-support[SQLite as a document database]
+
+Si même SQLite peut se comporter comme une base de données de documents JSON ... le terme NoSQL a vraiment du plomb dans l'aile ...

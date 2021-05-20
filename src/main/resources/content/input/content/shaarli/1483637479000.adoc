@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The moving sofa problem — Dan Romik's home page
+:jbake-tags: mathématiques,espace,_mois_janv.,_année_2017
+:jbake-date: 2017-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1483637479000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.math.ucdavis.edu%2F%7Eromik%2Fmovingsofa%2F&searchtags=math%C3%A9matiques+espace+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.math.ucdavis.edu/~romik/movingsofa/[The moving sofa problem — Dan Romik's home page]
+
+Les mathématiciens ont quand même un don pour exploiter chaque problème du quotidien

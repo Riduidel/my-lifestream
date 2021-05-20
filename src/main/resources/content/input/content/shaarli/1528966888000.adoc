@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Awesome Asciidoctor: Use Inline Icons - Messages from mrhaki
+:jbake-tags: asciidoc,font,icon,tutorial,_mois_juin,_année_2018
+:jbake-date: 2018-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1528966888000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmrhaki.blogspot.com%2F2014%2F06%2Fawesome-asciidoc-use-inline-icons.html&searchtags=asciidoc+font+icon+tutorial+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://mrhaki.blogspot.com/2014/06/awesome-asciidoc-use-inline-icons.html[Awesome Asciidoctor: Use Inline Icons - Messages from mrhaki]
+
+Mettre des icônes font awesome dans un document Asciidoc, c'est cool, si on le fait bien.

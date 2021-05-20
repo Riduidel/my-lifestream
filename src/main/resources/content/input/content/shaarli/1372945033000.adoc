@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Camlistore
+:jbake-tags: web,fuse,go,software,freeware,open-source,lifestream,_mois_juil.,_année_2013
+:jbake-date: 2013-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1372945033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcamlistore.org%2F&searchtags=web+fuse+go+software+freeware+open-source+lifestream+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://camlistore.org/[Camlistore]
+
+Whaaa Euh ... en fait je comprend pas ce que ça fait. Ca m'a l'air d'une tentative habile d'accéder à des données web via des montages FUSE, mais je n'en suis pas sûr. Et surtout, le système d'installation me paraît particulièrement ésotérique (il faut installer go d'abord :-o)

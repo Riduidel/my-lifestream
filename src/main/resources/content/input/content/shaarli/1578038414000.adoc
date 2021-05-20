@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Talented Programmers, Who Are They?
+:jbake-tags: entretien,développeur,recrutement,test,talent,_mois_janv.,_année_2020
+:jbake-date: 2020-01-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1578038414000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2019%2F12%2F31%2Ftalented-programmers.html&searchtags=entretien+d%C3%A9veloppeur+recrutement+test+talent+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.yegor256.com/2019/12/31/talented-programmers.html[Talented Programmers, Who Are They?]
+
+Wow. L'approche de l'entretien est curieuse, mais la motivation derrière est extrêmement intéressante (et je vais garder sa classes sous le coude, parce qu'il y a là-dedans quelques anti-patterns bien typiques)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Full Cycle Developers at Netflix – Netflix TechBlog – Medium
+:jbake-tags: programming,organisation,équipe,devops,_mois_juil.,_année_2018
+:jbake-date: 2018-07-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1531123732000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fnetflix-techblog%2Ffull-cycle-developers-at-netflix-a08c31f83249&searchtags=programming+organisation+%C3%A9quipe+devops+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249[Full Cycle Developers at Netflix – Netflix TechBlog – Medium]
+
+J'aime bien cette idée de développeurs complets s'appuyant sur des équipes expertes dans certains domaines (si j'ai bien compris l'article)

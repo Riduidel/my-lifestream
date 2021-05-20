@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FJ Software Development
+:jbake-tags: software,freeware,open-source,windows,android,_mois_août,_année_2015
+:jbake-date: 2015-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1439738736000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fjsoft.at%2Fen%2F&searchtags=software+freeware+open-source+windows+android+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.fjsoft.at/en/[FJ Software Development]
+
+Eh, mais ça a l'air bien mieux que AirDroid, ce truc

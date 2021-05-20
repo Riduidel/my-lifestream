@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DESCRIPTION LOGICS course
+:jbake-tags: documentation,programming,concepts,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112190082000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.inf.unibz.it%2F%7Efranconi%2Fdl%2Fcourse%2F&searchtags=documentation+programming+concepts+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.inf.unibz.it/~franconi/dl/course/[DESCRIPTION LOGICS course]
+
+The main effort of the research in knowledge representation is providing theories and systems for expressing structured knowledge and for accessing and reasoning with it in a principled way. In this course we will study Description Logics (DL), an importa

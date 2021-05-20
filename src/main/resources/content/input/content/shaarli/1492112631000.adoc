@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Solve All Bugs Or Implement New Features?
+:jbake-tags: programming,qualité,feature,_mois_avr.,_année_2017
+:jbake-date: 2017-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1492112631000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fiamlucasmreis%2Fsolve-all-bugs-or-implement-new-features&searchtags=programming+qualit%C3%A9+feature+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://dev.to/iamlucasmreis/solve-all-bugs-or-implement-new-features[Solve All Bugs Or Implement New Features?]
+
+Je suis d'autant plus d'accord avec cette analyse que c'est précisément le point qui me gêne actuellement

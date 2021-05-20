@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Autumnlands Tome 2 Retour à la terre
+:jbake-tags:  anthropomorphisme, fantasy, voyage, écologie,_année_2017,_mois_mai,_note_4,rayon-bd,read
+:jbake-date: 2017-05-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782365778367.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494846938l/35139493._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1494846938l/35139493._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/35139493
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Jusqu'au jour de leur chute, les Nuageois régnaient sur le peuple des Moindres comme si rien ni personne ne pouvait les atteindre. Par trop d'avidité, les voilà désormais dépourvus de magie et livrés à eux-mêmes, en plein coeur des territoires hostiles qu'ils méprisaient autrefois. Alliances et trahisons se succèdent pour accéder au pouvoir et espérer sauver la communauté des survivants. Mais comment feront-ils sans leur Grand Champion, mis hors-jeu par le terrible conseiller Sandorst ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/7338.html[Kurt Busiek]
+
+## Series
+* link:../series/The_Autumnlands.html[The Autumnlands]
+
+## Review
+
+++++
+Ce second tome réalise toutes les promesses du premier avec un scénario assez habile, des personnages prenant corps, et un dessin franchement intéressant.
+++++

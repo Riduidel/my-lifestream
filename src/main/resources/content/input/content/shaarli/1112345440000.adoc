@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Opera Index
+:jbake-tags: web,exemple,css,opera,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112345440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sue-sims.nu%2Fopera%2Fincludes%2F&searchtags=web+exemple+css+opera+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sue-sims.nu/opera/includes/[Opera Index]
+
+To assist Opera users in applying their own user stylesheets, I've collected the CSS Core Styles here. Please note that these CSS files should only be used with the Opera Browser. Some rules included will crash Netscape.

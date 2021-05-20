@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paul Di Filippo
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/162927.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1296002707p5/162927.jpg
+:jbake-source: https://www.goodreads.com/author/show/162927
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]

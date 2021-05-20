@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Single Source Information: An Agile Best Practice for Effective Documentation
+:jbake-tags: architecture,documentation,_mois_mai,_année_2017
+:jbake-date: 2017-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1493720897000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fagilemodeling.com%2Fessays%2FsingleSourceInformation.htm&searchtags=architecture+documentation+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://agilemodeling.com/essays/singleSourceInformation.htm[Single Source Information: An Agile Best Practice for Effective Documentation]
+
+A lire en détail, j'ai l'impression que ça colle avec certaines idées de Simon Brown et autres

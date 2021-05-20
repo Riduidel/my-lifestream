@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tweetymail User Guide: Tweet via Email, Receive Tweets and Mentions, Create Email Alerts, and more
+:jbake-tags: twitter,email,software,web,_mois_mai,_année_2015
+:jbake-date: 2015-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1431627420000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftweetymail.com%2Fuserguide&searchtags=twitter+email+software+web+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://tweetymail.com/userguide[tweetymail User Guide: Tweet via Email, Receive Tweets and Mentions, Create Email Alerts, and more]
+
+Chouette façon d'interragir avec twitter ... je me demande si je ne vais pas y passer.

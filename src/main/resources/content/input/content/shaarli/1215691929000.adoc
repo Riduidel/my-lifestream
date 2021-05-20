@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Online Backup Reviews - Helping you choose the right backup solution.
+:jbake-tags: disk,guide,online,reference,tool,backup,stockage,review,_mois_juil.,_année_2008
+:jbake-date: 2008-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1215691929000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.backupreview.info%2F&searchtags=disk+guide+online+reference+tool+backup+stockage+review+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.backupreview.info/[Online Backup Reviews - Helping you choose the right backup solution.]
+
+Un énorme comparateur de solutions de backup en ligne.

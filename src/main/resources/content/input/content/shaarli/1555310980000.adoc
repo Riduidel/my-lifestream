@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Patrick McKenzie on Twitter: "Engagement is a toxic metric. Products which optimize for it become worse. People who optimize for it become less happy. It also seems to generate runaway feedback loops where most engagable people have a) worst individual experiences and then b) end up driving the product bus."
+:jbake-tags: programming,éthique,psychologie,comportement,_mois_avr.,_année_2019
+:jbake-date: 2019-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1555310980000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpatio11%2Fstatus%2F1115430680601612288&searchtags=programming+%C3%A9thique+psychologie+comportement+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/patio11/status/1115430680601612288[Patrick McKenzie on Twitter: "Engagement is a toxic metric. Products which optimize for it become worse. People who optimize for it become less happy. It also seems to generate runaway feedback loops where most engagable people have a) worst individual experiences and then b) end up driving the product bus."]
+
+L'engagement, c'est le fait que les gens restent sur votre appli. C'est un peu comme si on développait une application pour que les gens ne la quittent pas. C'est effectivement clairement toxique.

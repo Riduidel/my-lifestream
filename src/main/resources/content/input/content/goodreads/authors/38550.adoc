@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brandon Sanderson
+:jbake-tags: author
+:jbake-date: 2015-07-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/38550.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1394044556p5/38550.jpg
+:jbake-source: https://www.goodreads.com/author/show/38550
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253177128.html[Warbreaker]

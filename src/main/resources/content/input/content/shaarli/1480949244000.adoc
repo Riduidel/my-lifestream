@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Safer-Networking Forums - Download Section
+:jbake-tags: software,windows,system,réseau,intimité,_mois_déc.,_année_2016
+:jbake-date: 2016-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1480949244000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fforums.spybot.info%2Fdownloads.php%3Fid%3D55&searchtags=software+windows+system+r%C3%A9seau+intimit%C3%A9+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://forums.spybot.info/downloads.php?id=55[Safer-Networking Forums - Download Section]
+
+J'imagine que si je l'installe à la maison, certaines choses iront ... mieux

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: On exceptions
+:jbake-tags: programming,exception,design,_mois_sept.,_année_2017
+:jbake-date: 2017-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1504510278000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.frankel.ch%2Fexceptions%2F%23gsc.tab%3D0&searchtags=programming+exception+design+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.frankel.ch/exceptions/#gsc.tab=0[On exceptions]
+
+C'est à mon sens l'un des plus grands défauts de la vision actuelle de la programmation fonctionnelle : ça nous ramène à l'époque du C pour la gestion des exceptions

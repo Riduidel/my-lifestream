@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: twitter4j - How to enable Enhanced URLs enrichment on Twitter API? - Stack Overflow
+:jbake-tags: twitter,api,php,client,url,commerce,_mois_oct.,_année_2019
+:jbake-date: 2019-10-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1571305593000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F53280780%2F15619&searchtags=twitter+api+php+client+url+commerce+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/53280780/15619[twitter4j - How to enable Enhanced URLs enrichment on Twitter API? - Stack Overflow]
+
+Je voulais ajouter dans tweetledee des jolies miniatures des sites liés, comme sur le site Twitter, mais apparemment ils limitent cette fonctionnalité aux utilisateurs payants. C'est moche.

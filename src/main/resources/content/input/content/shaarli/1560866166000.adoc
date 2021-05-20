@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emu - GPU programming language for Rust
+:jbake-tags: rust,programming,gpu,_mois_juin,_année_2019
+:jbake-date: 2019-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1560866166000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcalebwin.github.io%2Femu%2F&searchtags=rust+programming+gpu+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://calebwin.github.io/emu/[Emu - GPU programming language for Rust]
+
+Je comprend parfaitement l'idée du truc ...

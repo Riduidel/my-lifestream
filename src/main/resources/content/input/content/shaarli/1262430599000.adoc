@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MLDonkey for DNS-323 | shadowandy - my life stories
+:jbake-tags: dns-323,bittorrent,mldonkey,emule,tutorial,install,_mois_janv.,_année_2010
+:jbake-date: 2010-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1262430599000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.shadowandy.net%2F2007%2F05%2Fmldonkey-for-dns-323.htm&searchtags=dns-323+bittorrent+mldonkey+emule+tutorial+install+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.shadowandy.net/2007/05/mldonkey-for-dns-323.htm[MLDonkey for DNS-323 | shadowandy - my life stories]
+
+La version de MLDonkey que je vais utiliser à la place de transmission.

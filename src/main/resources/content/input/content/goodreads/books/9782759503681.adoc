@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz/28
+:jbake-tags:  combat, extra-terrestres, mort,_année_2014,_mois_juin,_note_3,rayon-bd,read
+:jbake-date: 2014-06-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782759503681.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387896569l/10751721._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387896569l/10751721._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/10751721
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Gantz, #28.
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+* link:../authors/2741859.html[Laurent Latrille]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+Alors ça y est, la katastrophe a commencé.<br/>Et d'un coup, on bascule d'une histoire vaguement nihiliste dans un combat contre les émchants extra-terrestres qui me paraît beaucoup plus convenu.<br/>C'est techniquement bien réalisé, mais san attrait réel, je trouve.
+++++

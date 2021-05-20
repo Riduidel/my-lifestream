@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: If You K8s, Please Try K9s… – Fernand Galiana – Medium
+:jbake-tags: kubernetes,software,interface,_mois_févr.,_année_2019
+:jbake-date: 2019-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1549306930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40fernand.galiana%2Fif-you-k8s-please-try-k9s-82ea30eb9aa3&searchtags=kubernetes+software+interface+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/@fernand.galiana/if-you-k8s-please-try-k9s-82ea30eb9aa3[If You K8s, Please Try K9s… – Fernand Galiana – Medium]
+
+Waow, quelqu'un a testé cet outil Kubernetes qui m'a l'air bien génial ?

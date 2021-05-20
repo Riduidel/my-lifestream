@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GioFX Chimera Engine
+:jbake-tags: freeware,software,macosx,open-source,multimedia,3d,_mois_mars,_année_2005
+:jbake-date: 2005-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1110188847000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.giofx.net%2Fosx%2Fchimera.htm&searchtags=freeware+software+macosx+open-source+multimedia+3d+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.giofx.net/osx/chimera.htm[GioFX Chimera Engine]
+
+Chimera is a 3D Engine provided as Screensaver and Viewer application for Mac OS X with a lot of optional Scenes.

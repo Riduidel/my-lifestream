@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ultralight - HTML UI Engine
+:jbake-tags: programming,desktop,rust,gui,_mois_août,_année_2018
+:jbake-date: 2018-08-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1534491641000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fultralig.ht%2F&searchtags=programming+desktop+rust+gui+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://ultralig.ht/[Ultralight - HTML UI Engine]
+
+Alors ça, ça sent le bon moyen de faire des interfaces Rust "facilement" (même si il faut se taper du JS après pour animer l'application)

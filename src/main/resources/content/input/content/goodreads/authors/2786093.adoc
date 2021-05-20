@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emily St. John Mandel
+:jbake-tags: author
+:jbake-date: 2018-11-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2786093.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1576606299p5/2786093.jpg
+:jbake-source: https://www.goodreads.com/author/show/2786093
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782743642006.html[Station Eleven]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Max Brooks
+:jbake-tags: author
+:jbake-date: 2011-07-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5791.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1334340170p5/5791.jpg
+:jbake-source: https://www.goodreads.com/author/show/5791
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253129905.html[World War Z]

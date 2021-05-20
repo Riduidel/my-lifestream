@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joshua Bloch on Twitter: "Retweeting as this is new to me. Azul has an OpenJDK distro for Mac/Windows: "Zulu is 100% open source and free to use and redistribute." https://t.co/bCM2AoTgTc"
+:jbake-tags: java,programming,jvm,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482822590000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjoshbloch%2Fstatus%2F810882890934403073&searchtags=java+programming+jvm+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/joshbloch/status/810882890934403073[Joshua Bloch on Twitter: "Retweeting as this is new to me. Azul has an OpenJDK distro for Mac/Windows: "Zulu is 100% open source and free to use and redistribute." https://t.co/bCM2AoTgTc"]
+
+On oublie trop souvent qu'il y a quand même un paquet de compilations alternatives OpenJDK

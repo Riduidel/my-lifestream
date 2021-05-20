@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sillage
+:jbake-tags: serie
+:jbake-date: 2010-11-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Sillage.adoc
+:jbake-source: https://www.goodreads.com/series/58165
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782756019970.html[Sillage: Dérapage contrôlé (Sillage, #13)]
+* link:../books/9782756024332.html[Sillage: Liquidation totale (Sillage, #14)]
+* link:../books/9782756024349.html[Sillage: Chasse gardée (Sillage, #15)]
+* link:../books/9782756032627.html[Liés par le sang (Sillage, #16)]
+* link:../books/9782756041261.html[Grands Froids (Sillage, #17)]
+* link:../books/9782756064857.html[Psycholocauste (Sillage #18)]
+* link:../books/9782756064864.html[Temps mort (Sillage, #19)]

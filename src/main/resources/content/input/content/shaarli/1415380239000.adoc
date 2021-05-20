@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dooApp technical blog about Java: How to deploy wisdom application to AWS Beanstalk using Docker
+:jbake-tags: tutorial,documentation,déploiement,wisdom,java,docker,_mois_nov.,_année_2014
+:jbake-date: 2014-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1415380239000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.dooapp.com%2F2014%2F11%2Fhow-to-deploy-wisdom-application-to-aws.html&searchtags=tutorial+documentation+d%C3%A9ploiement+wisdom+java+docker+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.dooapp.com/2014/11/how-to-deploy-wisdom-application-to-aws.html[dooApp technical blog about Java: How to deploy wisdom application to AWS Beanstalk using Docker]
+
+Très chouette tutorial sur le déploiement Docker/AWS Beanstalk d'une appli Wisdom ( ... what else ?)

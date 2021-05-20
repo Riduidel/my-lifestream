@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hubert SABLONNIÈRE 😎 on Twitter: "👍 I just remembered this talk by @holman "How GitHub uses GitHub to build GitHub" 🤔 Now I'm wondering: where is the talk about how Google uses GCP to run YouTube, Gmail, the Play Store and others... ? https://t.co/xusYyAKIVD"
+:jbake-tags: google,programming,culture,_mois_juil.,_année_2018
+:jbake-date: 2018-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1530645550000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhsablonniere%2Fstatus%2F1014055144487636992&searchtags=google+programming+culture+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/hsablonniere/status/1014055144487636992[Hubert SABLONNIÈRE 😎 on Twitter: "👍 I just remembered this talk by @holman "How GitHub uses GitHub to build GitHub" 🤔 Now I'm wondering: where is the talk about how Google uses GCP to run YouTube, Gmail, the Play Store and others... ? https://t.co/xusYyAKIVD"]
+
+Ils sont pas très gentils avec Google chez Clever ... Cela dit Hubert a parfaitement raison : Angular par exemple a été utilisé par d'autres boîtes avant d'être utilisé chez Google, sympa le beta test

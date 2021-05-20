@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scott Hanselman sur Twitter : "My Teams meetings always end SO awkwardly and it's not clear when to leave. So I made live end credits. (no post credits scene) https://t.co/2pBThNBi2x" / Twitter
+:jbake-tags: visioconférence,obs,plugin,cinéma,communication,_mois_févr.,_année_2021
+:jbake-date: 2021-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1612420240000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fshanselman%2Fstatus%2F1357036562077241344&searchtags=visioconf%C3%A9rence+obs+plugin+cin%C3%A9ma+communication+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/shanselman/status/1357036562077241344[Scott Hanselman sur Twitter : "My Teams meetings always end SO awkwardly and it's not clear when to leave. So I made live end credits. (no post credits scene) https://t.co/2pBThNBi2x" / Twitter]
+
+Donc avec OBS, il y a enfin moyen de finir "correctement" toutes ces visio qui se terminent de façon trop louche (et le truc génial, ce serait de plugger ça sur l'agenda pour que cette fin se lance à l'heure de fin de réunion).

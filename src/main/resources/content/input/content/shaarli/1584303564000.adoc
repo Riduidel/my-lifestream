@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 🧘‍♂️Downward facing Dom 🧼👐🚿 sur Twitter : "Memory access. You're making a salad. L1 cache: Ingredients are on a chopping board L2/3: Ingredients are on a table RAM: Ingredients are in a fridge DISK: Ingredients are at the grocery HTTP API: Ingredients are on a different continent… https://t.co/L09lSmNhj2"
+:jbake-tags: citation,métaphore,mémoire,performance,informatique,_mois_mars,_année_2020
+:jbake-date: 2020-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1584303564000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDominikRan%2Fstatus%2F1236996117130121217&searchtags=citation+m%C3%A9taphore+m%C3%A9moire+performance+informatique+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/DominikRan/status/1236996117130121217[🧘‍♂️Downward facing Dom 🧼👐🚿 sur Twitter : "Memory access. You're making a salad. L1 cache: Ingredients are on a chopping board L2/3: Ingredients are on a table RAM: Ingredients are in a fridge DISK: Ingredients are at the grocery HTTP API: Ingredients are on a different continent… https://t.co/L09lSmNhj2"]
+
+J'aime beaucoup cette métaphore, c'est très ... parlant.

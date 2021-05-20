@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "Could we do something for the common trope of <BIG COMPANY> releasing <VERY UNDERWHELMING THING> as open source, touting it as a great innovation that everybody now scrambles to follow?"
+:jbake-tags: programming,évolution,marketing,_mois_mai,_année_2018
+:jbake-date: 2018-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1526536856000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F996512874569887746&searchtags=programming+%C3%A9volution+marketing+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/996512874569887746[Geoffroy Couprie on Twitter: "Could we do something for the common trope of <BIG COMPANY> releasing <VERY UNDERWHELMING THING> as open source, touting it as a great innovation that everybody now scrambles to follow?"]
+
+Kubernetes, React, Angular, Kotlin, VS Code, ... Vous en voulez d'autres ? C'est effectivement devenu le mode préféré de contrôle des écosystèmes par les GAFAM

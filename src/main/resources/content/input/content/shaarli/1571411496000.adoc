@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Benchmarking is hard: processors learn to predict branches – Daniel Lemire's blog
+:jbake-tags: programming,performance,analyse,_mois_oct.,_année_2019
+:jbake-date: 2019-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1571411496000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flemire.me%2Fblog%2F2019%2F10%2F16%2Fbenchmarking-is-hard-processors-learn-to-predict-branches%2F&searchtags=programming+performance+analyse+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://lemire.me/blog/2019/10/16/benchmarking-is-hard-processors-learn-to-predict-branches/[Benchmarking is hard: processors learn to predict branches – Daniel Lemire's blog]
+
+Intéressante analyse sur la prédiction de branches et les nombres d'essai significatifs ....

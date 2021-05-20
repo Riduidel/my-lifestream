@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Stéphane Bortzmeyer: RFC 5218: What Makes For a Successful Protocol?
+:jbake-tags: réseau,protocole,sécurité,conférence,_mois_mars,_année_2019
+:jbake-date: 2019-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1552669400000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.bortzmeyer.org%2F5218.html&searchtags=r%C3%A9seau+protocole+s%C3%A9curit%C3%A9+conf%C3%A9rence+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.bortzmeyer.org/5218.html[Blog Stéphane Bortzmeyer: RFC 5218: What Makes For a Successful Protocol?]
+
+Un article éminement intéressant sur le déploiement des protocoles ... Ca rejoint un truc dont je vais sans doute parler ... bientôt

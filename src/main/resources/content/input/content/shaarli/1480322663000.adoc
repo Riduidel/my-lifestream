@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Well Rounded Architect |
+:jbake-tags: architecture,software,carrière,_mois_nov.,_année_2016
+:jbake-date: 2016-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1480322663000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.thekua.com%2Fatwork%2F2016%2F11%2Fthe-well-rounded-architect%2F&searchtags=architecture+software+carri%C3%A8re+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.thekua.com/atwork/2016/11/the-well-rounded-architect/[The Well Rounded Architect |]
+
+Très bon article sur le "vrai" rôle d'un architecte

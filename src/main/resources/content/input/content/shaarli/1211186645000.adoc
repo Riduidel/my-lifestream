@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UMLSpeed diagram/XMI/source compiler
+:jbake-tags: uml,programming,texte,générateur,java,diagram,for:clownny59,for:brasseld,_mois_mai,_année_2008
+:jbake-date: 2008-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1211186645000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fumlspeed.sourceforge.net%2F&searchtags=uml+programming+texte+g%C3%A9n%C3%A9rateur+java+diagram+for%3Aclownny59+for%3Abrasseld+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://umlspeed.sourceforge.net/[UMLSpeed diagram/XMI/source compiler]
+
+Un générateur de diagrtammes UML à partir de pseudo-code. proche dans l'esprit de graphviz ou de taskjuggler. Bref, parfait pour les développeurs bourrins.

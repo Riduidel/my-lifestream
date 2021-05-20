@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bitart consulting: cocoa gestures
+:jbake-tags: software,freeware,macosx,system,mouse,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110976740000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bitart.com%2FCocoaGestures.html&searchtags=software+freeware+macosx+system+mouse+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bitart.com/CocoaGestures.html[bitart consulting: cocoa gestures]
+
+Cocoa Gestures adds mouse gestures to any Cocoa program such as Mail, Address Book, iCal, TextEdit, Safari, Chimera, OmniWeb, Path Finder, Stone Design's great suite of applications like Create, and many others. Please note: It only works for Cocoa applic

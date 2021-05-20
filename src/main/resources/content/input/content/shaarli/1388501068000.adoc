@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Markdown Journal
+:jbake-tags: lifestream,dropbox,markdown,online,blog,_mois_déc.,_année_2013
+:jbake-date: 2013-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1388501068000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmarkdownjournal.com&searchtags=lifestream+dropbox+markdown+online+blog+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://markdownjournal.com[Markdown Journal]
+
+Ah, une vision alternative du blog Markdown utilisant DropBox comme outil de synchronisation de données ... Je ne vais pas dans dette direction (essentiellement par fainéantise) mais je pense que ce serait assez "facile" à ajouter à la liste des outils de sortie dont je dispose pour mon lifestream ...

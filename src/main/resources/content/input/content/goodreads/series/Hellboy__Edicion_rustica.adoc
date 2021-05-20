@@ -1,0 +1,21 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy: Edición rústica
+:jbake-tags: serie
+:jbake-date: 2011-12-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hellboy__Edicion_rustica.adoc
+:jbake-source: https://www.goodreads.com/series/138582
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782840557500.html[Les Germes de la destruction (Hellboy, #1)]
+* link:../books/9782847890747.html[Au nom du Diable (Hellboy #2)]
+* link:../books/9782847893236.html[Le Cercueil enchaîné (Hellboy #3)]
+* link:../books/9782840558224.html[Hellboy 6. Le Ver conquérant]
+* link:../books/9781593078607.html[Hellboy, Vol. 7: The Troll Witch and Others]
+* link:../books/9781593078966.html[Hellboy, Vol. 8: Darkness Calls]
+* link:../books/9781595824318.html[Hellboy, Vol. 9: The Wild Hunt]
+* link:../books/9782756025049.html[Hellboy, tome 12 : La Fiancée de l'enfer]
+* link:../books/9782756035833.html[Hellboy 13. L'ultime tempête]
+* link:../books/9782840555599.html[Hellboy, Tome 4: La Main Droite De La Mort]

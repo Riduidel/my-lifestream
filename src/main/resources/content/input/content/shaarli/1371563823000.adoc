@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adactio: Journal—Battle for the planet of the APIs
+:jbake-tags: @toread,java,api,_mois_juin,_année_2013
+:jbake-date: 2013-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1371563823000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fadactio.com%2Fjournal%2F6291%2F&searchtags=%40toread+java+api+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://adactio.com/journal/6291/[Adactio: Journal—Battle for the planet of the APIs]
+
+Une elcture aimablement envoyée par l'équipe agorava ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Source Game Clones
+:jbake-tags: software,windows,jeu,linux,_mois_mai,_année_2013
+:jbake-date: 2013-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1369743864000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fosgameclones.com%2F&searchtags=software+windows+jeu+linux+_mois_mai+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://osgameclones.com/[Open Source Game Clones]
+
+Une chouette liste de clones open-source de jeux éventuellement abandonnés

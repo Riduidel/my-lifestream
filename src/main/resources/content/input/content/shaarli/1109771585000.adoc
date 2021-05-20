@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Win2VNC
+:jbake-tags: software,freeware,remote,vnc,windows,réseau,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109771585000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffredrik.hubbe.net%2Fwin2vnc.html&searchtags=software+freeware+remote+vnc+windows+r%C3%A9seau+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://fredrik.hubbe.net/win2vnc.html[Win2VNC]
+
+This program will let you use two screens on two different computers as if they were connected to the same computer. It even works between different operating systems.

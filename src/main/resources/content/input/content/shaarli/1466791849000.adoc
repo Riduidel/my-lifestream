@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jkschneider/java-power-assert
+:jbake-tags: java,programming,test,_mois_juin,_année_2016
+:jbake-date: 2016-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1466791849000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjkschneider%2Fjava-power-assert&searchtags=java+programming+test+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/jkschneider/java-power-assert[jkschneider/java-power-assert]
+
+Très chouette, les assertions Groovy sont quand même vachement mieux

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Distribution of Users’ Computer Skills: Worse Than You Think
+:jbake-tags: sociologie,ordinateur,éducation,interface,_mois_nov.,_année_2016
+:jbake-date: 2016-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1479388227000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nngroup.com%2Farticles%2Fcomputer-skill-levels%2F&searchtags=sociologie+ordinateur+%C3%A9ducation+interface+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.nngroup.com/articles/computer-skill-levels/[The Distribution of Users’ Computer Skills: Worse Than You Think]
+
+Donc dans les pays les plus en avance, il n'y a que 10% des gens qui savent bien se servir d'un ordinateur ...

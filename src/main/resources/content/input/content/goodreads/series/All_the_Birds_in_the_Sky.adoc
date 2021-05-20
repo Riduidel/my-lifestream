@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: All the Birds in the Sky
+:jbake-tags: serie
+:jbake-date: 2019-12-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/All_the_Birds_in_the_Sky.adoc
+:jbake-source: https://www.goodreads.com/series/218076
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290172872.html[Tous les oiseaux du ciel]

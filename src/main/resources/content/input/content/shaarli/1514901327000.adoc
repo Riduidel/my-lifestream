@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Docker, Inc is Dead
+:jbake-tags: politique,software,docker,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514901327000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchrisshort.net%2Fdocker-inc-is-dead%2F&searchtags=politique+software+docker+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://chrisshort.net/docker-inc-is-dead/[Docker, Inc is Dead]
+
+Les employés de Docker vont vivre des temps sacrément intéressants ...

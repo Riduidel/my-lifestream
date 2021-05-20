@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OCR using Tesseract in C#
+:jbake-tags: c#,ocr,@project_keepass_ocr,tutorial,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549626771000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.c-sharpcorner.com%2Farticle%2Focr-using-tesseract-in-C-Sharp%2F&searchtags=c%23+ocr+%40project_keepass_ocr+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.c-sharpcorner.com/article/ocr-using-tesseract-in-C-Sharp/[OCR using Tesseract in C#]
+
+Démarrer tesseract dans un projet C\#

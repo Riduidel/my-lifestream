@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Unobtrusive Javascript
+:jbake-tags: web,javascript,langage,tutorial,documentation,standard,usability,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112360133000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.onlinetools.org%2Farticles%2Funobtrusivejavascript%2F&searchtags=web+javascript+langage+tutorial+documentation+standard+usability+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.onlinetools.org/articles/unobtrusivejavascript/[Unobtrusive Javascript]
+
+On the following pages we will discuss and see how we can use Javascript, but still maintain accessibility. The technique to completely separate Javascript from the other two layers of web development has become commonly named "unobtrusive Javascript", as

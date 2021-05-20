@@ -1,0 +1,179 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr la blockchain en détail
+:jbake-tags: blockchain,devoxx,informatique,_mois_avr.,_année_2016
+:jbake-date: 2016-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/20/devoxxfr-la-blockchain-en-detail.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/20/devoxxfr-la-blockchain-en-detail/
+:jbake-style: wordpress
+
+++++
+<p>
+Juste en introduction, un chiffre, actuellement, 1 bitcoin=470$
+</p>
+<p>
+http://fr.slideshare.net/joel1di1/la-blockchain-en-dtail-devoxxfr-2016-benoit-lafontaine-yann-rouillard
+</p>
+<p>
+Donc chez Octo, ils croient que la blockchain va changer le monde ... et moi aussi.
+</p>
+<p>
+Donc Bitcoin (parce que c'est l'exemple canonique de la blockchain).
+<br/>
+Bitcoin permet (mais on le sait déjà) de transférer de façon sûre des informations. Et ça, c'est grâce à des méthodes cryptographiques bien connues.
+<br/>
+D'abord du hash, c'est rapide, c'est résistant à la collision, et c'est non réversible (bien pratique pour conserver la confidentialité de l'information hashée).
+<br/>
+Ensuite, la signature électronique. elle est assymétrique, comme ça on peut envoyer la clé publique au monde entier, tout en étant toujours le seul à pouvoir signer un message.
+</p>
+<p>
+Ensuite, il y a des structures de données qui vont bien.
+<br/>
+Typiquement, la blochchain, qui consiste en fait à mettre dans le block (n) la signature du block (n-1). Ce qui fait qu'on ne peut modiifier à bas cout que le dernier block. Et puis le merkle tree (petite musique d'ambiance) .. Globalement, on crée des hashes à partir d'un arbre de hash, qui permet à partir d'un seul hash d'avoir l'état de validité de tout un paquet d'opération. L'intérêt est surtout de pouvoir valider une donnée rapidement et efficacement.
+</p>
+<p>
+Du coup, bitcoin, c'est juste l'assemblage de toutes ces technologies pour ne pouvoir faire que les opérations suivantes
+</p>
+<p>
+Transférer des bitcoins qu'on possède
+<br/>
+Trouver des bitcoins (miner) et faire des transactions coinbase.
+</p>
+<p>
+Donc les gens peuvent se transférer des bitcoins, qui passent par l'envoi de message signés par le hash de l'émetteur via le protocole gossip.
+</p>
+<p>
+Bon, le truc compliqué, c'est quand on veut transférer des demi-bitcoins, parce qu'il faut faire une transaction vers le destinataire et vers soi-même avec le reste.
+</p>
+<p>
+Et le truc encore plus compliqué, c'est d'éviter la double-dépense : envoyer la transaction à deux destinataires pour dépenser le même bitcoin en double. On l'évite justement grâce aux blocks et aux arbres de merkle : les transactions sont toutes enregistrées dans des blocks qui sont organisés, de façon interne, en arbres de merkle.
+</p>
+<p>
+Alors du coup, après, pour faire pousser les blocks, il faut que les mineurs calculent de nouvelles valeurs de "nonce", qui garantit la valeur du hash. Et là, l'explication est un peu flou, mais c'est pas grave.
+</p>
+<p>
+Passons maintenant à un problème typique des réseaux : supposons que deux nouveaux blocks apparaissent en même temps, avec des hash valides, mais des contenus de transaction différents. Et ça va être résolue simplement en considérant que, dans le cas d'un fork, la chaîne de blocks valide est toujours la plus longue. Et du coup, si on contrôle la moitié du réseau, on a d'une certaine manière la possibilité de réécrire l'histoire, en invalidant certaines transactions, ou faire du déni de service en empêchant une personne de voir ses transactions écrites.
+</p>
+<p>
+Du coup, les mineurs ont quand même un rôle important, surtout qu'il sont rémunérés en bitcoin ... à l'heure actuelle, trouver un nouveau nonce rapporte environ 7000 € en bitcoins !
+</p>
+<p>
+Ca soulève certains enjeux. D'abord, la difficulté de miner augmente en fonction du nombre de mineurs ... et comme il y a maintenant des cartes physiques dédiées, ça devient vraiment compliqué. Du coup, pour miner, actuellement, l'investissement minimum est de 70 000 €. Et pour posséder 51 % du réseau, il faut un investissement bien plus conséquent ... Et la théorie des jeux indique que, dans ce cas, il vaut mieux s'équiper pour miner, ce qui permet de sécuriser le réseau de façon partagée. Même si les mineurs restent les mêmes. Ca se voit avec les pools de minage.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/722761504311914497
+<br/>
+</div>
+</p>
+<p>
+En bonus, si les pools de mineurs se regroupent, ils sont susceptibles de prendre le contrôle de l'écosystème bitcoin ... mais si ils le faisaient, ils perdraient leur investissement actuel.
+</p>
+<p>
+Dernier point : le nombre de bitcoins minables est défini. Et il semblerait que plus aucun bitcoin ne sera minable en 2140. Bon, à cette date, on sera mort. Mais surtout, les mineurs ne pourront plus gagner de l'argent en minant. En revanche, comme à cette date il y aura 17 milliards de bitcoins en circulation, les frais de transaction seront suffisants pour faire vivre les mineurs, qui se seront reconvertis.
+</p>
+<p>
+A cause de certaines limitations, d'autres monnaies sont apparues : le litecoin (avec beaucoup moins de puissance de travail requis), le NXT (ou c'est carrément une loterie - mais une loterie franchement intéressante), et bitshare qui permet la délégation de proof of work.
+</p>
+<p>
+Pour en revenir au bitcoin, on atteint déjà certaines limites : les transactions doivent attendre 10 minutes avant confirmation ... enfin, dans le cas où tout va bien (c'est-à-dire si le block fait encore moins de 1 Mo). Dans les autres cas, on peut attendre plusieurs heures ... pas pratique pour acheter la baguette.
+</p>
+<p>
+Et maintenant, passons à Ethereum ...
+</p>
+<p>
+Ca n'est pas le successeur de bitcoin.
+<br/>
+Ca n'est pas non plus le début du web 3.0 (le fameux web décentralisé).
+<br/>
+Et ça n'est enfin pas le nouvel investissement avec revenu garanti.
+</p>
+<p>
+En fait, c'est un ordinateur
+<br/>
+Décentralisé s'appuyant sur la blockchain et sans maître
+<br/>
+Infalsifiable grâce aux preuves de calcul.
+<br/>
+Toujours disponible (du moins tant qu'il y a suffisamment de noeuds)
+<br/>
+Accessible de partout, et par tout le monde.
+</p>
+<p>
+Où toute action se paye. Et l'aspect économique va permettre de (dé)favoriser certaines actions
+<br/>
+Qui produit des résultats cohérents ... à terme, ce qui n'inclut pas des résultats valides à court terme.
+<br/>
+Et enfin aussi rapide qu'un smartphone des années 90.
+</p>
+<p>
+Comment est-on passé de bitcoin à ethereum ?
+<br/>
+Grâce à une blockchain plus rapide, qui peut stocker des données, et des smart contracts turing complete (WTF ?!).
+</p>
+<p>
+Donc pour ça, la taille des blocks est adaptable dynamiquement en fonction du contenu.
+<br/>
+Et d'autre part, la chaîne de blocs qui est acceptée n'est as la plus longue, mais celle qui met en jeu les blocs du plus grand nombre de mineurs.
+</p>
+<p>
+Les données dans la blockchain
+<br/>
+En fait, chaque compte de la blockchain a un stockage de données et du code qui lui est associé.
+<br/>
+Chaque compte ? ben oui, parce qu'on peut gérer un compte par utilisateur et par smart contract. Bon, le stockage, c'est du clé/valeur 256 bits =&#62; 256 bits, donc peu, mais les APIs permettent du stockage bien plus riche (sans doute via un hash). En bonus, c'est un stockage privé. Cela dit, ces données sont lisibles par tous les mineurs.
+</p>
+<p>
+Du coup, à cause des limitations de débit (90kb/1és), il vaut mieux ne stocker que les hashs des données, plutôt que les données complètes
+</p>
+<p>
+Les smart contracts.
+<br/>
+Bon, là, c'est juste du code stocké dans la blockchain et capable d'agir dessus.
+</p>
+<p>
+En bonus, l'exécution d'un tel programme est transactionnel.
+</p>
+<p>
+Et enfin, les contrats peuvent se parler. Du coup, un contrat de prêt peut appeler un contrat de gestion de comptes.
+</p>
+<p>
+Bon, il y a toutefois des limitations :
+<br/>
+pas d'exécution déclenchée automatiquement parce que le code doit pouvoir être exécuté quelque soit l'hôte
+<br/>
+pas d'accès direct aux données externes pour la même raison
+<br/>
+et pas de temps d'exécution limitée parce que l'exécution d'un smart contract se paye
+</p>
+<p>
+Les smart contracts se développent pour l'instant avec des langages dédiés (le Solidity équivalent au javascript, le Serpent équivalent au Python, et enfin le LLL analogue au Lisp).
+</p>
+<p>
+Et enfin, une pause
+</p>
+<p>
+On reprend avec une démo, basée sur ethereum et ethereum wallet, qui permet de voir facilement ce qu'il y a dans un compte.
+</p>
+<p>
+A noter que l'exécution d'un contrat coûte de l'ethereum et du gaz, ce qui garantit qu'aucun contrat ne peut s’exécuter indéfiniment.
+</p>
+<p>
+Bon, tout ça, ça induit plusieurs complexités
+</p>
+<p>
+Chaque version d'un smart contract a une adresse différente. il faut donc trouver un moyen de garantir qu'on utilise la dernière version.
+<br/>
+Exécuter un contrat à intervalles réguliers va nécessiter un smart contract particulier (comme ethereum alarm clock), qui agit comme un cron distribué (et rémunérant les exécuteurs en bitcoin).
+<br/>
+Interagir entre contrats nécessite de connaître à la fois l'adresse et l'api de l'autre contrat. Il y a donc des mécanismes de service registry qui existent pour ça.
+<br/>
+Obtenir des informations sur le monde extérieur passe par un oracle, qui peut être appelé en synchrone ou en assynchrone.
+</p>
+<p>
+En conclusion, ces systèmes sont implémentés avec une vision libertaire du monde, qui vient de l'absence de régulation du web faite par les gouvernements depuis les années 2000. On en revient aux fameuses histoires de "code is law" et "software is eating the world".
+</p>
+++++

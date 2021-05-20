@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: All Clear
+:jbake-tags: serie
+:jbake-date: 2014-04-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/All_Clear.adoc
+:jbake-source: https://www.goodreads.com/series/50600
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290071021.html[Black-out]
+* link:../books/9782290071908.html[All Clear]

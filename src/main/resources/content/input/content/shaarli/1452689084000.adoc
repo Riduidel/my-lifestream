@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Identify you are not using Microservice Architecture | Rick Hightower | LinkedIn
+:jbake-tags: programming,architecture,web,_mois_janv.,_année_2016
+:jbake-date: 2016-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1452689084000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fhow-identify-you-using-microservice-architecture-rick-hightower&searchtags=programming+architecture+web+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.linkedin.com/pulse/how-identify-you-using-microservice-architecture-rick-hightower[How to Identify you are not using Microservice Architecture | Rick Hightower | LinkedIn]
+
+Amusant : il y a un mélange clair entre "JavaEE c'est pas bien" (qui est un peu trop dogmatique pour être honnête) et des bonnes pratiques de développement réactif qui sent bon le mélange explosif.

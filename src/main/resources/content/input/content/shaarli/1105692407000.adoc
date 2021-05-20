@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Sect of Homokaasu - The Rasterbator
+:jbake-tags: web,poster,_mois_janv.,_année_2005
+:jbake-date: 2005-01-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1105692407000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.homokaasu.org%2Frasterbator%2F&searchtags=web+poster+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.homokaasu.org/rasterbator/[The Sect of Homokaasu - The Rasterbator]
+
+The rasterbator is a web service which creates huge rasterized pictures out of relatively small image files. The pictures can be assembled into extremely cool looking posters!

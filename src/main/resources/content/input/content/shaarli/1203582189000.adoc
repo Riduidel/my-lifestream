@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSS Type Set
+:jbake-tags: code,design,javascript,online,programming,software,webdesign,css,wysiwyg,_mois_févr.,_année_2008
+:jbake-date: 2008-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1203582189000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.csstypeset.com%2F&searchtags=code+design+javascript+online+programming+software+webdesign+css+wysiwyg+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.csstypeset.com/[CSS Type Set]
+
+Un très bon outil pour générer du CSS en mode quasi-WYSIWYG

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bonsai CSS - A complete Utility First CSS Framework for less than 10kB | Bedrock.css
+:jbake-tags: css,framework,utilities,web,open-source,_mois_mai,_année_2020
+:jbake-date: 2020-05-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1590853967000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.bonsaicss.com%2F&searchtags=css+framework+utilities+web+open-source+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.bonsaicss.com/[Bonsai CSS - A complete Utility First CSS Framework for less than 10kB | Bedrock.css]
+
+Ca a l'air chouettte, même si mon plus grand intérêt pour les frameworks CSS est la mise en page facile. Et je me dis que je devrais apprendre Flexbox pour me faciliter la vie.

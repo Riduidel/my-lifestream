@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SMART tests with smartctl - Thomas-Krenn-Wiki
+:jbake-tags: documentation,tutorial,linux,disk,_mois_févr.,_année_2017
+:jbake-date: 2017-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1488190659000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.thomas-krenn.com%2Fen%2Fwiki%2FSMART_tests_with_smartctl&searchtags=documentation+tutorial+linux+disk+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.thomas-krenn.com/en/wiki/SMART_tests_with_smartctl[SMART tests with smartctl - Thomas-Krenn-Wiki]
+
+Pratique pour comprendre cet outil

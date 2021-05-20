@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The case of the 500-mile email
+:jbake-tags: réseau,email,communication,_mois_juin,_année_2015
+:jbake-date: 2015-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1433331306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ibiblio.org%2Fharris%2F500milemail.html&searchtags=r%C3%A9seau+email+communication+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.ibiblio.org/harris/500milemail.html[The case of the 500-mile email]
+
+Une fable incroyable sur les mails infoutus de faire plus de 500 miles.

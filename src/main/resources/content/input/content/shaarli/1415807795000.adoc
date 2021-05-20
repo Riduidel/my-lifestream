@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keypress: A Javascript library for capturing input
+:jbake-tags: javascript,library,clavier,programming,_mois_nov.,_année_2014
+:jbake-date: 2014-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1415807795000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdmauro.github.io%2FKeypress%2F&searchtags=javascript+library+clavier+programming+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://dmauro.github.io/Keypress/[Keypress: A Javascript library for capturing input]
+
+Très chouette présentation pour cette librairie d'entrée clavier Javascript. Dommage qu'elle ne soit pas dans webjars.

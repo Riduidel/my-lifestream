@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blogging vs. blog setups - Rakhim.org
+:jbake-tags: humour,blog,wordpress,jbake,lifestream,_mois_déc.,_année_2020
+:jbake-date: 2020-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1607590023000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frakhim.org%2Fhonestly-undefined%2F19%2F&searchtags=humour+blog+wordpress+jbake+lifestream+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://rakhim.org/honestly-undefined/19/[Blogging vs. blog setups - Rakhim.org]
+
+Complètement d'accord. Et c'est pour ça que j'ai créé non pas un outil de blog statique basé sur JBake, mais un outil d'aggrégation de ce que j'écris sur Wordpress, sur Goodreads et ici basé sur JBake 😉

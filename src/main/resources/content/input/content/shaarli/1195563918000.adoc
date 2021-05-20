@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welie.com - Patterns in Interaction Design
+:jbake-tags: design,développement,exemple,gallerie,navigation,web,webdesign,gui,_mois_nov.,_année_2007
+:jbake-date: 2007-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1195563918000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.welie.com%2F&searchtags=design+d%C3%A9veloppement+exemple+gallerie+navigation+web+webdesign+gui+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.welie.com/[Welie.com - Patterns in Interaction Design]
+
+Une autre mine de designs d'interface, cette fois-ci beaucoup plus liés au design web. intéressant quand même.

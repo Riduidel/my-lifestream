@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Winterheim
+:jbake-tags: serie
+:jbake-date: 2003-10-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Winterheim.adoc
+:jbake-source: https://www.goodreads.com/series/145776
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290318003.html[Le Fils des Ténèbres (Winterheim #1)]
+* link:../books/9782290320426.html[La saison des conquêtes (Winterheim, #2)]

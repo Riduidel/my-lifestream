@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Dinosaur Lords
+:jbake-tags: serie
+:jbake-date: 2019-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Dinosaur_Lords.adoc
+:jbake-source: https://www.goodreads.com/series/153319
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266279635.html[Guerre et dinosaures I]
+* link:../books/9782266286664.html[Guerre & Dinosaures II]

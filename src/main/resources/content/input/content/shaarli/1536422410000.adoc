@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [Ksummit-discuss] CHANGE OF PLAN: Maintainer Summit will be in Edinburgh
+:jbake-tags: communauté,développeur,linux,célébrité,_mois_sept.,_année_2018
+:jbake-date: 2018-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1536422410000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flists.linuxfoundation.org%2Fpipermail%2Fksummit-discuss%2F2018-September%2F005308.html&searchtags=communaut%C3%A9+d%C3%A9veloppeur+linux+c%C3%A9l%C3%A9brit%C3%A9+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://lists.linuxfoundation.org/pipermail/ksummit-discuss/2018-September/005308.html[[Ksummit-discuss] CHANGE OF PLAN: Maintainer Summit will be in Edinburgh]
+
+Quand Linus se trompe de continent, on déplace le kernel summit pour le suivre ... Je trouve que c'est une anecdote assez révélatrice de l'état d'esprit Linuxien ...

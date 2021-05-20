@@ -1,0 +1,126 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quoi comment je travaille ?
+:jbake-tags: mavie,productivité,todo,travail,_mois_août,_année_2013
+:jbake-date: 2013-08-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/08/23/quoi-comment-je-travaille.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/08/23/quoi-comment-je-travaille/
+:jbake-style: wordpress
+
+++++
+<p>
+Lifehacker, c'est bien.
+</p>
+<p>
+Et sur Lifehacker, il y a une série d'article intitulée <a href="http://lifehacker.com/how-i-work/">how I work</a> où ils interrogent des héros du web (enfin, des entrepreneurs talentueux, quoi) sur leur façon de travailler. J'aime beaucoup cette série.
+</p>
+<p>
+On y découvre que les façons de travailler sont évidement aussi nombreuses que les gens. Evidement, ça détruit le mythe dy taylorisme et du travail à la chaîne, mais on s'en doutait.
+</p>
+<p>
+Bref,
+</p>
+<p>
+Leur dernier article est lui intitlué <a href="http://lifehacker.com/how-you-work-yes-you-1166233790">How You Work (Yes, You!)</a>. N'écoutant que mon narcissisme, j'ai décidé d'y répondre ici même.
+</p>
+<p>
+Evidement, comme ce blog a une durée de vie assez longue, cette réponse est seulement valable en 2013 ... et quelques années autour.
+</p>
+<p>
+<strong>Location:</strong> <a href="http://www.euratechnologies.com">Euratechnologies</a> (enfin, pour le boulot), un choix pas spécialement de mon fait, mais qui s'avère plutôt heureux : l'endroit est assez près de ma maison hellemmoise, l'athmosphère est stimulante (sauf les jours de salons et autres barnum), et le parc juste devant est parfait quasiment en toute saison.
+</p>
+<p>
+<strong>Current gig: </strong>Développeur d'applications compliquées (ou plutôt complexes)
+</p>
+<p>
+<strong>Current mobile device:</strong> Vraiment ? Un <a href="http://www.lesmobiles.com/telephones/samsung-sgh-x680.html">samsung SGH-X680</a> mendié à ma femme ... essentiellement parce que je n'aime pas vraiment téléphoner
+</p>
+<p>
+<strong>Current computer:</strong> Le même depuis des années, un <a href="http://riduidel.wordpress.com/2009/11/24/le-futur-cest-maintenant/">Acer Aspire</a>. Bon, évidement, au bureau, c'est une machine <a href="http://riduidel.wordpress.com/2011/10/12/changement-de-poste-de-travail/">un peu plus puissante</a> ...
+<br/>
+<h3>One word that best describes how you work:</h3>
+<br/>
+A l'inspiration, j'ai l'impression. Mes camarades de dooapp disent qu'il faut balancer des idées dans mon chaudron infernal, laisser chauffer, et au bout d'un moment quelque sort de génial en sort
+<br/>
+<h3>What apps/software/tools can't you live without?</h3>
+<br/>
+<a href="www.opera.com">Opera</a>, évidement, <a href="maven.apache.org">Maven</a> aussi, plus encore qu'<a href="www.eclipse.org">Eclipse</a>. Les trois sont mes outils quotidiens de développeurs ... avec Stackoverflow et tout <a href="http://stackexchange.com/users/8620/riduidel">StackExchange</a>.
+</p>
+<p>
+Sur un second plan, <a title="Keepass ou LastPass ?" href="http://riduidel.wordpress.com/2011/01/06/keepass-ou-lastpass/">Keepass</a>/<a href="http://www.truecrypt.org/">TrueCrypt</a>/<a title="foobar2000, de plus en plus dingue !" href="http://riduidel.wordpress.com/2011/10/11/foobar2000-de-plus-en-plus-dingue/">Foobar2000</a> sont toujours démarrés sur mon ordinateur, et je ne pourrais pas aller bien loin sans synchroniser mon fichier Keepass avec <a href="http://www.dropbox.com">DropBox</a>.
+</p>
+<p>
+Et quand je ne suis pas au bureau, et que je dois faire des choses dans le vrai monde, le seul outil qui m'accompagne en vadrouille est mon <a href="http://www.couteaux-suisse.fr/couteaux-suisse-victorinox-11cm/116-couteau-suisse-marin-skipper-bleu-a-cran-10-pieces-090932.html">couteau suisse</a> et cinq mètres de <a href="http://fr.wikipedia.org/wiki/Bout_(cordage)">bout</a> préétiré.
+<br/>
+<h3>What's your workspace like?</h3>
+<br/>
+Il ressemble actuellement au bastard open-space from hell, et c'est bien pénible. L'article de LinuxFr contient quelques photos sur l'allure des couloirs d'Euratechnologies, qui ont effectivement un aspect très brut. Mais ce qui est clairement le plus gênant, il faut le reconnaître, c'est ... le bruit de la ventilation, et des autres collèues téléphonant en mode haut-parleur.
+<br/>
+<h3>What's your best time-saving trick?</h3>
+<br/>
+Un IDE n'est pas un éditeur. Laissez-le coder pour vous en utilisant à fond ses propositions de corrections d'erreur (pour déclarer des variables, ajouter des casts, etc, ...). Regardez donc coder David Gageot (je dois avoir un lien vers sa présentation quelque part). C'est comme ça qu'il faut utiliser un IDE, et pas simplement en le laissant compiler le code source.
+<br/>
+<h3>What's your favorite to-do list manager?</h3>
+<br/>
+<a href="https://github.com/blog/831-issues-2-0-the-next-generation">github issues</a> ou celui qu'ils avaient chez origo : un gestionnaire de tickets connectés à un wiki et à mylyn. C'est comme ça qu'on va vite.
+<br/>
+<h3>Besides your phone and computer, what gadget can't you live without?</h3>
+<br/>
+La question est mal posée : je peux vivre sans téléphone, mais pas sans mail/usenet. C'est un peu la magie des réseaux de communication modernes : il y a un outil pour chaque usage, mais on l'oublie à chaque fois : on confond le http et le web, on confond le téléphone et l'ordinateur ubiquitaire ... à chaque fois, il faut croire que "les gens" ne veulent voir qu'un seul usage quand la nature nous montre depuis des milliards d'années (avec par exemple le <a href="http://www.podcastscience.fm/dossiers/2012/01/04/histoire-evolutive-de-laudition-chez-les-vertebres/">tympan</a>, les nageoires, la <a href="http://fr.wikipedia.org/wiki/Vessie_natatoire">vessie natatoire</a>) qu'il ne peut pas y avoir un outil à usage unique.
+</p>
+<p>
+Mais bon, comme gadget un peu honteux, il ya évidement mon iPod, qui me permet principalement d'écouter <a title="Salle 101" href="http://riduidel.wordpress.com/2010/03/07/salle-101/">de bons podcasts</a> en voiture ...
+<br/>
+<h3>What everyday thing are you better at than anyone else?</h3>
+<br/>
+Apparement, il semble que je sois plutôt bon en résolution de bugs ... C'est une forme de "mixed blessing".
+<br/>
+<h3>What are you currently reading?</h3>
+<br/>
+<a href="http://www.goodreads.com/user/show/1156136-nicolas">Goodreads</a> le sait mieux que moi :-) non, je le sais quand même : <a href="http://www.noosfere.org/icarus/livres/niourf.asp?numlivre=2146582580">Roi du matin, reine du jour</a>, que j'ai du mal à finir, et <a href="http://www.noosfere.com/icarus/bd/serie.asp?numserie=3313">Gantz</a>. Bon, par contre je ne lis que très exceptionnellement de livres sérieux ou professionnels. J'ai l'impression que <a href="http://abstrusegoose.com/531">le dessin d'Abstruse Goose </a>
+<br/>
+<p style="text-align:center;"><img class="aligncenter" alt="" src="http://abstrusegoose.com/strips/of_course_all_of_my_comic_books_are_in_the_forever_section.png" width="448" height="333" /></p>
+<br/>
+s'applique vraiment bien à unt ravail technologique : les livres qui sortent sont déja périmés.
+<br/>
+<h3>What do you listen to while you work?</h3>
+<br/>
+Beaucoup de heavy metal : j'ai l'impression que ça fait bouillir le sang dans mes artères et que, du coup, j'accélère. Et puis du blues, mais absolument pas de chanson française. Ah, et comme les bouquins, vous pouvez savoir ce que j'écoute facilement avec <a href="http://www.lastfm.fr/user/Riduidel">last.fm</a>.
+<br/>
+<h3>Are you more of an introvert or an extrovert?</h3>
+<br/>
+<del>J'imagine qu'on peut dire sans problème introverti à tendance ermitique : la solitude ne me dérange absolument pas, et le manque de conversation orale non plus. Par contre, j'écris facilement des mails, dans ce blog, ou ailleurs (c'est je pense ce qui m'a permis d'avoir ce bon score chez StackOverflow ou Goodreads).</del>
+</p>
+<p>
+Non mais de qui je me moque moi ?
+</p>
+<p>
+Est-e que c'est uebn posture de dire qu'on est introverti ?
+</p>
+<p>
+j'en sais rien.
+</p>
+<p>
+Toujours est-il que, quand on parle du proverble "il vaut mieux la fermer et passer pour un con et l'ouvrir et ne laisser aucun doute à ce sujet", je ne laisse aucun doute.
+</p>
+<p>
+Ce qui fait de moi une forme curieuse d'extraverti contrarié : j'aime bien donner mon avis, mais j'aime encore mieux réussir à ne pas le donner.
+<br/>
+<h3>What's your sleep routine like?</h3>
+<br/>
+Rarement couché après 22 heures, levé à 7 heures en semaine. La régularité, c'est la clé.
+<br/>
+<h3>Fill in the blank: I'd love to see ______ answer these same questions.</h3>
+<br/>
+<a href="http://fr.wikipedia.org/wiki/Franck_Cammas">Franck Cammas</a>, définitivement. J'aimerais bien savoir comment il fait pour se préparer en même temps pour les jeux olympiques (qu'il gagnera), le tour de France à la voile (qu'il a gagné pour sa première participation), et toutes ses autres échéances.
+<br/>
+<h3>What's the best advice you've ever received?</h3>
+<br/>
+"Ne pose pas une question dont tu ne veux pas entendre la réponse"
+</p>
+<p>
+Et juste après, il y a "si ça ne marche pas, prends un plus gros marteau".
+</p>
+++++

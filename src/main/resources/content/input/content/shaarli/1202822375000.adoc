@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RubyGems.org: Viewing Gem iphoto2
+:jbake-tags: ruby,macosx,iphoto,library,_mois_févr.,_année_2008
+:jbake-date: 2008-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1202822375000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gemtacular.com%2Fgems%2Fiphoto2&searchtags=ruby+macosx+iphoto+library+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.gemtacular.com/gems/iphoto2[RubyGems.org: Viewing Gem iphoto2]
+
+Une librairie Ruby pour accéder à iPhoto, histoire d'y lire les iinformations concernant les photos que je peux prendre avec notre nouvel appareil.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Library Genesis
+:jbake-tags: web,piratage,livre,_mois_sept.,_année_2014
+:jbake-date: 2014-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1410613801000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flibgen.org%2F&searchtags=web+piratage+livre+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://libgen.org/[Library Genesis]
+
+Wow, alors CA c'est de la base de données de pirates.

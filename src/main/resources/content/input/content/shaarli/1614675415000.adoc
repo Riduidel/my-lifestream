@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: In Go-land you pay even for what you don't use -- Volution Notes
+:jbake-tags: programming,langage,initialisation,go,critique,_mois_mars,_année_2021
+:jbake-date: 2021-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1614675415000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnotes.volution.ro%2Fv1%2F2021%2F02%2Fnotes%2F378ae6f6%2F&searchtags=programming+langage+initialisation+go+critique+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://notes.volution.ro/v1/2021/02/notes/378ae6f6/[In Go-land you pay even for what you don't use -- Volution Notes]
+
+Les initialisations statiques sont un problème quelquesoit le langage. Et cet article le montre bien dans le cas spécifiqued e Go (il s'avère que les langages que je préfère utiliser -Java, Rust, Python - ont une vision "saine" du problème)

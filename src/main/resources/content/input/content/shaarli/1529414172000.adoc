@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Trick For Test Maintenance
+:jbake-tags: programming,rust,test,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529414172000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmatklad.github.io%2F2018%2F06%2F18%2Fa-trick-for-test-maintenance.html&searchtags=programming+rust+test+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://matklad.github.io/2018/06/18/a-trick-for-test-maintenance.html[A Trick For Test Maintenance]
+
+Hey, mais c'est très malin ! C'est juste dommage de passer par des macros qui vont m'obliger à utiliser des astuces de compilation avec Cargo pour que le code Codingame continue à fonctionner.

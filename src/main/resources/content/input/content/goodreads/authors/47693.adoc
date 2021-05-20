@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Antoine Bello
+:jbake-tags: author
+:jbake-date: 2011-12-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/47693.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1442451983p5/47693.jpg
+:jbake-source: https://www.goodreads.com/author/show/47693
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070124268.html[Les Éclaireurs]
+* link:../books/9782070355273.html[Les Falsificateurs]
+* link:../books/9782070358533.html[Éloge de la pièce manquante]
+* link:../books/9782070446896.html[Enquête sur la disparition d'Émilie Brunet]

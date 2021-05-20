@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'UFC-Que Choisir dresse un bilan très positif de l'arrivée de Free Mobile
+:jbake-tags: web,free,emploi,télécom,_mois_mai,_année_2014
+:jbake-date: 2014-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1399449067000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freenews.fr%2Fspip.php%3Farticle14678&searchtags=web+free+emploi+t%C3%A9l%C3%A9com+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.freenews.fr/spip.php?article14678[L'UFC-Que Choisir dresse un bilan très positif de l'arrivée de Free Mobile]
+
+Pour une fois que l'UFC dit du bien de free, ça change ...

@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Retour vers le führer
+:jbake-tags:  nazis, space-opera, temps,_année_2017,_mois_févr.,_note_2,rayon-bd,read
+:jbake-date: 2017-02-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782369812593.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486827849l/34226676._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486827849l/34226676._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/34226676
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Les informations cruciales transmises par Yoko Keren (T1) au QG ont décidé le Capitaine à lancer une nouvelle trame temporelle et activer un second agent : l’impulsive Stella Moonkicker, qui ne disposera à son tour que de 8 heures pour réunir un maximum de renseignements. Flanquée de Bobbie, son assommant robot de probation, elle est assignée à la sécurité d’un groupe de nostalgiques du nazisme, dont ils ne comprennent pas les dangers. Mais quand ils retrouvent dans le mystérieux mausolée la tête cryogénisée d’Hitler et réussissent à la réactiver, la menace d’un IVe Reich imposé à l’Infinity 8 se fait très sérieuse. Stella et Bobby vont affronter le Führer, car si le Capitaine est tué, aucun reboot ne pourra avoir lieu, et l’avènement du IVe Reich deviendra la seule trame temporelle à avoir jamais existé…
+</div>
+++++
+
+
+## Authors
+* link:../authors/45196.html[Lewis Trondheim]
+* link:../authors/20056.html[Olivier Vatine]
+
+## Series
+* link:../series/Infinity_8.html[Infinity 8]
+
+## Review
+
+++++
+Recommandé par la Salle 101, ce second tome m'a paru moins bon.<br/>Il est vrai que j'adhère moins au dessin de Vatine.<br/>Il est vrai également que l'héroïne est moins charismatique que la précédente.<br/>Il est vrai enfin que les nazis, je commence à en avoir mas claque comme ressort ironique.
+++++

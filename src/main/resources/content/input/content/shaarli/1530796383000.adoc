@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Downloading Ansible galaxy roles in parallel | Wesley Tanaka
+:jbake-tags: ansible,download,parallel,programming,_mois_juil.,_année_2018
+:jbake-date: 2018-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1530796383000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwtanaka.com%2Fnode%2F8218&searchtags=ansible+download+parallel+programming+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://wtanaka.com/node/8218[Downloading Ansible galaxy roles in parallel | Wesley Tanaka]
+
+Quand les solutions propres ne marchent pas, il reste les solutions sales. Et celle-là est bien bien sale.

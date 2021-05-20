@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WikiWand
+:jbake-tags: web,wikipedia,plugin,firefox,_mois_sept.,_année_2014
+:jbake-date: 2014-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1410506156000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wikiwand.com%2F&searchtags=web+wikipedia+plugin+firefox+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.wikiwand.com/[WikiWand]
+
+Je teste depuis aujourd'hui ce rafraichissement de l'interface de Wikipedia, et je suis bluffé. C'est très beau, très lisible.

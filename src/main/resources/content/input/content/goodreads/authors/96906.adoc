@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Enki Bilal
+:jbake-tags: author
+:jbake-date: 2011-10-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/96906.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1248114353p5/96906.jpg
+:jbake-source: https://www.goodreads.com/author/show/96906
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782203019669.html[Animal'z]
+* link:../books/9782731612066.html[Cœurs Sanglants et autres faits divers]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RustDT/Features.md at latest · RustDT/RustDT
+:jbake-tags: programming,rust,ide,langage,_mois_déc.,_année_2016
+:jbake-date: 2016-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1483080138000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FRustDT%2FRustDT%2Fblob%2Flatest%2Fdocumentation%2FFeatures.md%23features&searchtags=programming+rust+ide+langage+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/RustDT/RustDT/blob/latest/documentation/Features.md#features[RustDT/Features.md at latest · RustDT/RustDT]
+
+Manifestement, c'est indispensable pour développer en Rust (j'arrive pas à écrire 5 lignes !)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JDEV2013 - Bertrand Meyer - 2013-09-04 (Webcast CC-IN2P3/CNRS )
+:jbake-tags: agile,développement,programming,concepts,xp,_mois_oct.,_année_2013
+:jbake-date: 2013-10-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1380788908000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwebcast.in2p3.fr%2Fvideos-bertrand_meyer&searchtags=agile+d%C3%A9veloppement+programming+concepts+xp+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://webcast.in2p3.fr/videos-bertrand_meyer[JDEV2013 - Bertrand Meyer - 2013-09-04 (Webcast CC-IN2P3/CNRS )]
+
+Très chouette conférence de Bertrand Meyer sur les méthodes agiles. Il bafouille, certes, mais dit néanmoins des choses très intéressantes sur les mythes et bêtises de la pratique agile.

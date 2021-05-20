@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "“I'm not a great programmer; I'm just a good programmer with great habits.” - Kent Beck"
+:jbake-tags: citation,programming,expérience,age,_mois_janv.,_année_2017
+:jbake-date: 2017-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1484727434000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F821387319437627392&searchtags=citation+programming+exp%C3%A9rience+age+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/821387319437627392[Programming Wisdom on Twitter: "“I'm not a great programmer; I'm just a good programmer with great habits.” - Kent Beck"]
+
+N'oublions pas que ces bonnes habitudes proviennent de l'expérience ...

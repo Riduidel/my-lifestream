@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ownCloud Applications - apps.ownCloud.com
+:jbake-tags: raspberrypi,server,plugin,_mois_nov.,_année_2016
+:jbake-date: 2016-11-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1479822362000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fapps.owncloud.com%2Findex.php%3Fxcontentmode%3D920x922x923x924&searchtags=raspberrypi+server+plugin+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://apps.owncloud.com/index.php?xcontentmode=920x922x923x924[ownCloud Applications - apps.ownCloud.com]
+
+Et d'un coup, mon ownCloud installé juste avec les applis officielles reprend du poil de la bête

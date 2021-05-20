@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aeris on Twitter: "https://t.co/WHbb32gcdG"
+:jbake-tags: citation,sécurité,technologie,_mois_août,_année_2016
+:jbake-date: 2016-08-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1471416822000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faeris22%2Fstatus%2F764560605093195776%2Fphoto%2F1&searchtags=citation+s%C3%A9curit%C3%A9+technologie+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/aeris22/status/764560605093195776/photo/1[Aeris on Twitter: "https://t.co/WHbb32gcdG"]
+
+If you think technology can solve your security problems, then you don't understand the problems and you don't understand the technology

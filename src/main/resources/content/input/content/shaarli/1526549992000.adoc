@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Docker Swarm Bramble on a ClusterHat
+:jbake-tags: docker,cluster,raspberrypi,_mois_mai,_année_2018
+:jbake-date: 2018-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1526549992000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fniels.nu%2Fblog%2F2017%2Fdocker-swarm-bramble-raspberry-clusterhat.html&searchtags=docker+cluster+raspberrypi+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://niels.nu/blog/2017/docker-swarm-bramble-raspberry-clusterhat.html[A Docker Swarm Bramble on a ClusterHat]
+
+Super intéressant. Et le clusterhat me tape dans l'oeil assez fortement !

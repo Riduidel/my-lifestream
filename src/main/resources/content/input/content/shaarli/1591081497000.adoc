@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Geek In The Shell
+:jbake-tags: blog,informatique,architecture,_mois_juin,_année_2020
+:jbake-date: 2020-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1591081497000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftgits.github.io%2F&searchtags=blog+informatique+architecture+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://tgits.github.io/[The Geek In The Shell]
+
+Un ancien collègue a profité du confinement pour se lancer dans le monde magique des blogs. Et c'est chouette !

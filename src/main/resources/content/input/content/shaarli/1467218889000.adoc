@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cyanide & Happiness (Explosm.net)
+:jbake-tags: art,hasard,illustration,web,_mois_juin,_année_2016
+:jbake-date: 2016-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1467218889000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fexplosm.net%2Frcg%2Figacxzgvz&searchtags=art+hasard+illustration+web+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://explosm.net/rcg/igacxzgvz[Cyanide & Happiness (Explosm.net)]
+
+Et moi, avec un générateur de BD aléatoire, j'obtiens ça

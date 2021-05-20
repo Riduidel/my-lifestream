@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quarkus Runtime Performance
+:jbake-tags: java,quarkus,framework,performance,_mois_oct.,_année_2019
+:jbake-date: 2019-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1570433662000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fquarkus.io%2Fblog%2Fruntime-performance%2F&searchtags=java+quarkus+framework+performance+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://quarkus.io/blog/runtime-performance/[Quarkus Runtime Performance]
+
+Un bon article sur les performances de Quarkus en natif et en JVM, qui sont un peu différentes du startup time, mais néanmoins intéressantes

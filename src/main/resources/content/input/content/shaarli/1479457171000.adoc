@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AgileFortune on Twitter: "Having developers suffer the consequences of their decisions is a path to better software. ^ @fredjean https://t.co/sK0BRUIyUV"
+:jbake-tags: citation,programming,expérience,_mois_nov.,_année_2016
+:jbake-date: 2016-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1479457171000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FAgileFortune%2Fstatus%2F799496462166032384&searchtags=citation+programming+exp%C3%A9rience+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/AgileFortune/status/799496462166032384[AgileFortune on Twitter: "Having developers suffer the consequences of their decisions is a path to better software. ^ @fredjean https://t.co/sK0BRUIyUV"]
+
+Pas mal, ça m'est arrivé effectivement bien souvent de subir les conséquences de mes actes

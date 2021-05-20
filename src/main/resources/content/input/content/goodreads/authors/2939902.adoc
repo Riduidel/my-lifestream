@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jaco Van Dormael
+:jbake-tags: author
+:jbake-date: 2019-09-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2939902.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/2939902
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782870972809.html[Le Dernier Pharaon - Autour de Blake & Mortimer]

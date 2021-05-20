@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wildcats  Version 3.0 T1
+:jbake-tags:  broc, complot, rayon-bd,_année_2014,_mois_janv.,_note_4,read,surhomme
+:jbake-date: 2014-01-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782809402759.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390509351l/9218308._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390509351l/9218308._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/9218308
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Toutes les grandes entreprises ont commencé par une idée. Faire un réfrigérateur plus efficace. Inventer de meilleures chaussures de sport. Apporter aux masses la communication sans fil. Changer le monde. Halo Corporation veut changer le monde, et d'une façon complètement nouvelle. Son P D. G., Jack Marlowe (l'androïde de combat anciennement connu sous le nom de Spartan) a une vision : l'harmonie mondiale grâce à la société de consommation. Et il e placé des agents dans tous les secteurs d'influence pour arriver à ses fins. De Monsieur Wax, du Service des Parcs Nationaux, à C.C. Rendozzo, courtier en informations sensibles, en passant par le mercenaire Griffer, Marlowe s'est donné les moyens d'imposer Halo comme un marque qui compte. Tout commence avec cet album, le premier de Wildcats Version 3.0. Alors que Marlowe exploite une source d'énergie d'un autre monde pour en fournir aux masses une quantité illimitée, la recherche d'un agent disparu du FBI tourne à la traque en règle. Une quête qui aboutira dans les zones d'ombre des banlieues résidentielles américaines.
+</div>
+++++
+
+
+## Authors
+* link:../authors/166649.html[Alex Nikolavitch]
+* link:../authors/306735.html[Dustin Nguyen]
+* link:../authors/5479505.html[Dustin Nguyen Joe Casey]
+* link:../authors/23519.html[Joe Casey]
+
+## Series
+* link:../series/WildC.A.T.s_3.0.html[WildC.A.T.s 3.0]
+* link:../series/WildC.A.T.s_reading_order.html[WildC.A.T.s reading order]
+
+## Review
+
+++++
+Drôle d'histoire reprenant certains personnages des X-Men pour les projeter dans les guerres corproratistes du XXIème siècle.<br/>Ce qui est intéressant, c'est que Jack Marlowe reprend peu ou prou l'idéologie actuellement dominante (d'après les médias) dans la Silicon Valley : ce mélange de post-humanisme et de philosophie libertaire assez délirant. C'est même curieux de voir cette idéologie reprise de façon aussi flagrante par ce personnage de bon devenant mauvais.
+++++

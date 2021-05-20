@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Citra - Nintendo 3DS Emulator
+:jbake-tags: android,windows,macosx,emulator,dsi,_mois_sept.,_année_2020
+:jbake-date: 2020-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1600181368000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcitra-emu.org%2F&searchtags=android+windows+macosx+emulator+dsi+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://citra-emu.org/[Citra - Nintendo 3DS Emulator]
+
+J'ai chez moi un paquet de jeux DS, et une tablette, qui n'attendaient sans doute que ça ...

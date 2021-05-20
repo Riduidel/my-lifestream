@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sarah Drasner honeymoonin’ on Twitter: "Make sure that the old quote "they muddy the water so that it seems deep" doesn't describe your engineering style/codebases"
+:jbake-tags: citation,programming,communication,_mois_sept.,_année_2018
+:jbake-date: 2018-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1536250192000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsarah_edo%2Fstatus%2F813610718784356357&searchtags=citation+programming+communication+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/sarah_edo/status/813610718784356357[Sarah Drasner honeymoonin’ on Twitter: "Make sure that the old quote "they muddy the water so that it seems deep" doesn't describe your engineering style/codebases"]
+
+Je comprend parfaitement le sens, et j'en apprécie la finesse.

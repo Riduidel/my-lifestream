@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: pac4j
+:jbake-tags: java,sécurité,authentification,framework,_mois_mai,_année_2014
+:jbake-date: 2014-05-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1398969973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pac4j.org%2F%231&searchtags=java+s%C3%A9curit%C3%A9+authentification+framework+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.pac4j.org/#1[pac4j]
+
+Une libraire d'authentification via des services externes ... Pratique, et manifestement adaptable dans bien des environnements

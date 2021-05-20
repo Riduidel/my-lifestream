@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yacas
+:jbake-tags: software,freeware,macosx,mathématiques,_mois_sept.,_année_2006
+:jbake-date: 2006-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1157651347000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage.mac.com%2Fyacas%2Findex.html&searchtags=software+freeware+macosx+math%C3%A9matiques+_mois_sept.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://homepage.mac.com/yacas/index.html[Yacas]
+
+Encore un candidat au poste de remplacant de ma bonne vieille et inimitable TI-92 ?

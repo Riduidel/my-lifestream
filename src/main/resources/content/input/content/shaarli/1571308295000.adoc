@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: segfault87/ldraw.rs: The complete LDraw software suite written in Rust.
+:jbake-tags: rust,webassembly,lego,library,_mois_oct.,_année_2019
+:jbake-date: 2019-10-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1571308295000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsegfault87%2Fldraw.rs&searchtags=rust+webassembly+lego+library+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/segfault87/ldraw.rs[segfault87/ldraw.rs: The complete LDraw software suite written in Rust.]
+
+Djizousse ! Du Rust, du WebAssembly, tout ça pour afficher des modèles LDraw superfluides !

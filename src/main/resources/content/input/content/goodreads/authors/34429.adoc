@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bruce Sterling
+:jbake-tags: author
+:jbake-date: 2002-11-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/34429.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1379306689p5/34429.jpg
+:jbake-source: https://www.goodreads.com/author/show/34429
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780515043013.html[Involution Ocean]
+* link:../books/9782070418343.html[Gros temps]
+* link:../books/9782070423316.html[Schismatrice +]
+* link:../books/9782070425587.html[Les Mailles Du Réseau]
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]
+* link:../books/9782253072317.html[La Machine à différences]
+* link:../books/9782266083560.html[Le Feu sacré]

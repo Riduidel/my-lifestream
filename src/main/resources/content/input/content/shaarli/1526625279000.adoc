@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bat/README.md at master · sharkdp/bat
+:jbake-tags: linux,software,open-source,terminal,_mois_mai,_année_2018
+:jbake-date: 2018-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1526625279000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsharkdp%2Fbat%2Fblob%2Fmaster%2FREADME.md&searchtags=linux+software+open-source+terminal+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/sharkdp/bat/blob/master/README.md[bat/README.md at master · sharkdp/bat]
+
+Oh mais c'est génial ça ! Enfin une façon d'avoir un peu de couleur quand je regarde passer des fichiers YAML sans devoir lancer VI

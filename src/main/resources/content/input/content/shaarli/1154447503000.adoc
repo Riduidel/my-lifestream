@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Krugle
+:jbake-tags: search,code,programming,reference,exemple,documentation,_mois_août,_année_2006
+:jbake-date: 2006-08-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1154447503000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.krugle.com%2F&searchtags=search+code+programming+reference+exemple+documentation+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.krugle.com/[Krugle]
+
+Un moteur de recherche de code source

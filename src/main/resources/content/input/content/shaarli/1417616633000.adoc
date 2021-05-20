@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comparaison des fusées Ariane 1, 2, 3, 4, 5, 6
+:jbake-tags: espace,technologie,fusée,europe,_mois_déc.,_année_2014
+:jbake-date: 2014-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1417616633000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fcomparaison-des-fusees-ariane-1-2-3-4-5-6%2F&searchtags=espace+technologie+fus%C3%A9e+europe+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/comparaison-des-fusees-ariane-1-2-3-4-5-6/[Comparaison des fusées Ariane 1, 2, 3, 4, 5, 6]
+
+Quand je vois ces photos, une question me taraude (à laquelle @podcastscience pourrait répondre). Pourquoi la coiffe des fusées Ariane est-elle plus large que leur corps ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ólafur Waage on Twitter: "I have an idea for a data structure, hear me out. A linked list where every node contains a hash of all the data in the nodes behind it, and every time you want to add a new node, you need about 200.000 other computers to say ok and consume the power equivalent of a small nation"
+:jbake-tags: citation,programming,humour,blockchain,_mois_mai,_année_2018
+:jbake-date: 2018-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1525841215000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Folafurw%2Fstatus%2F993149128665391104&searchtags=citation+programming+humour+blockchain+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/olafurw/status/993149128665391104[Ólafur Waage on Twitter: "I have an idea for a data structure, hear me out. A linked list where every node contains a hash of all the data in the nodes behind it, and every time you want to add a new node, you need about 200.000 other computers to say ok and consume the power equivalent of a small nation"]
+
+Très bonne blague sur la blockchain. Et très juste

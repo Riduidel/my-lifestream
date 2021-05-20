@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DMHeroes
+:jbake-tags: générateur,web,jdr,_mois_août,_année_2019
+:jbake-date: 2019-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1565700481000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dmheroes.com%2F&searchtags=g%C3%A9n%C3%A9rateur+web+jdr+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.dmheroes.com/[DMHeroes]
+
+Bon, à priori, c'est un générateur de personnages de JDR. Mais ça peut aussi faire un très bon générateur de personnas, j'ai l'impression (et si je comprend bien l'idée)

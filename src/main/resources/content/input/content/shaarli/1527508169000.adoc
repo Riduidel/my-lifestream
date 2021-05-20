@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: "setgroups" operation not permitted? · Issue #2 · ncopa/su-exec
+:jbake-tags: linux,docker,kubernetes,system,_mois_mai,_année_2018
+:jbake-date: 2018-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1527508169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fncopa%2Fsu-exec%2Fissues%2F2&searchtags=linux+docker+kubernetes+system+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/ncopa/su-exec/issues/2["setgroups" operation not permitted? · Issue #2 · ncopa/su-exec]
+
+Ahah, c'est marrant, j'ai exactement le problème avec un conteneur Consul lancé dans K8s

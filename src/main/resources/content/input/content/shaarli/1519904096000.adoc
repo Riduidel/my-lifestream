@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "Bill Gates has done an AMA on Reddit and was asked "tabs or spaces?" https://t.co/ia7HScI8AP… "
+:jbake-tags: citation,programming,_mois_mars,_année_2018
+:jbake-date: 2018-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1519904096000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F968639434013908992&searchtags=citation+programming+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/968639434013908992[Programming Wisdom on Twitter: "Bill Gates has done an AMA on Reddit and was asked "tabs or spaces?" https://t.co/ia7HScI8AP… "]
+
+Pas faché de découvrir que j'ai quelques points communs avec Bill Gates ;-p

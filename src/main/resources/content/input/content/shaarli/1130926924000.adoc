@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lg3d-core: Running the Project Looking Glass Developer's Release on Microsoft Windows
+:jbake-tags: software,library,linux,3d,windows,freeware,_mois_nov.,_année_2005
+:jbake-date: 2005-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1130926924000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flg3d-core.dev.java.net%2Flg3d-on-windows.html&searchtags=software+library+linux+3d+windows+freeware+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+https://lg3d-core.dev.java.net/lg3d-on-windows.html[lg3d-core: Running the Project Looking Glass Developer's Release on Microsoft Windows]
+
+Project Looking Glass is a Sun exploration of 3D Desktops

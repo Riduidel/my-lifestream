@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: To type or not to type: quantifying detectable bugs in JavaScript | the morning paper
+:jbake-tags: javascript,programming,type,system,_mois_sept.,_année_2017
+:jbake-date: 2017-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1505918694000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.acolyer.org%2F2017%2F09%2F19%2Fto-type-or-not-to-type-quantifying-detectable-bugs-in-javascript%2F&searchtags=javascript+programming+type+system+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.acolyer.org/2017/09/19/to-type-or-not-to-type-quantifying-detectable-bugs-in-javascript/[To type or not to type: quantifying detectable bugs in JavaScript | the morning paper]
+
+Donc plutôt que de jouer avec des frameworks à la mode, mettre en place du typage progressif permet de réduire le nombre de bugs de 15% (après étude scientifique sur le code JS présent sur GitHub)

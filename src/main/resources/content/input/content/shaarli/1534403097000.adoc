@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Collaborate, but only intermittently, says new study: The march toward always-on technology may hinder groups' ability to solve complex problems -- ScienceDaily
+:jbake-tags: science,communication,entreprise,chat,_mois_août,_année_2018
+:jbake-date: 2018-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1534403097000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.sciencedaily.com%2Freleases%2F2018%2F08%2F180813160528.htm&searchtags=science+communication+entreprise+chat+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.sciencedaily.com/releases/2018/08/180813160528.htm[Collaborate, but only intermittently, says new study: The march toward always-on technology may hinder groups' ability to solve complex problems -- ScienceDaily]
+
+Donc ça veut dire qu'être toujours "on" pour le chat n'est pas forcément utile ? Ca alors ...

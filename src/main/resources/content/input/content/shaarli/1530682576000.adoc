@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moving from the shell to Rust with commandspec | Non-Recurring Engineering
+:jbake-tags: programming,rust,build,cargo,_mois_juil.,_année_2018
+:jbake-date: 2018-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1530682576000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftimryan.org%2F2018%2F07%2F02%2Fmoving-from-the-shell-to-rust-with-commandspec.html&searchtags=programming+rust+build+cargo+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://timryan.org/2018/07/02/moving-from-the-shell-to-rust-with-commandspec.html[Moving from the shell to Rust with commandspec | Non-Recurring Engineering]
+
+Intéressant article sur l'extension du build Rust

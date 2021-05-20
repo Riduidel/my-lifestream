@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dinis Cruz on Twitter: "(from https://t.co/4jRQvlhLMS) #PlantUML Diagram that shows all the limitations of non-text based diagram solutions (for example #Visio) #GenZ #Developers… https://t.co/LtjjGCnXK6"
+:jbake-tags: web,diagram,plantuml,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546414973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDinisCruz%2Fstatus%2F1071928114819842048&searchtags=web+diagram+plantuml+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/DinisCruz/status/1071928114819842048[Dinis Cruz on Twitter: "(from https://t.co/4jRQvlhLMS) #PlantUML Diagram that shows all the limitations of non-text based diagram solutions (for example #Visio) #GenZ #Developers… https://t.co/LtjjGCnXK6"]
+
+Le mec se tape un diagramme PlantUML pour expliquer pourquoi Visio c'est moins bien. J'aime l'idée ... mais j'aime un peu moins l'effort (et je me rends compte au passage que PlantUML fait très bien les mind maps - dont je ne me sers strictement jamais)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Consumer Authentication Strength Maturity Model (CASMM) | Daniel Miessler
+:jbake-tags: visualisation,password,sécurité,modèle,évolution,_mois_mars,_année_2021
+:jbake-date: 2021-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1616750062000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanielmiessler.com%2Fblog%2Fcasmm-consumer-authentication-security-maturity-model-2%2F&searchtags=visualisation+password+s%C3%A9curit%C3%A9+mod%C3%A8le+%C3%A9volution+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://danielmiessler.com/blog/casmm-consumer-authentication-security-maturity-model-2/[The Consumer Authentication Strength Maturity Model (CASMM) | Daniel Miessler]
+
+Une chouette façon de faire comprendre aux gens l'intérêt d'une gestion saine des mots de passe

@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Art of Systems Architecting
+:jbake-tags:  architecture,_année_2021,_mois_févr.,_note_4,rayon-informatique,read
+:jbake-date: 2021-02-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780849304408.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1020023
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Today's architecting must handle systems of types unknown until very recently. New domains, including personal computers, intersatellite networks, health services, and joint service command and control are calling for new architectures-and for architects specializing in those domains. Since the original publication, of this bestselling text, these new and emerging fields have contributed architectural concepts and tools of their own to the relatively new formalism-and evolving profession-called Systems Architecting.brThe Art of Systems Architecting, Second Edition restates and extends into the future the classical architecting paradigm, incorporating the most broadly applicable of these contributions. It remains the most innovative, insightful treatment available to the discipline, providing both the academic and the industrial communities with the up-to-date tools, concepts, and techniques needed to conceive and build complex systems.
+</div>
+++++
+
+
+## Authors
+* link:../authors/510497.html[Eberhardt Rechtin]
+
+
+
+## Review
+
+++++
+Très intéressant ouvrage sur l'architecture des systèmes. Il regroupe des visions technique et organisationnelles de ce que peuvent être différents systèmes, aussi bien dans le domaine aérospatial que dans le domaine informatique ou dans les domaines organisationnels. Une des valeurs essentielles de ce livre est d'apporter à un ensemble d'heuristiques qui démontrent bien que l'architecture se situe un niveau orthogonal de l'intérêt de l'ingénierie. En effet, l'ingénieur conçoit un système à partir de contraintes explicites, alors que l'architecte discute avec le client et les équipes en charge de la réalisation technique pour définir un compromis permettant d'exprimer ces contraintes qui nourriront l'ingénieur. C'est à mon avis une lecture indispensable surtout quand, comme moi, on vient du monde de l'ingénieur.
+++++

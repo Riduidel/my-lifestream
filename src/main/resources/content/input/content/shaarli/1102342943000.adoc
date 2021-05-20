@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Monde.fr : Blogs
+:jbake-tags: web,blog,_mois_déc.,_année_2004
+:jbake-date: 2004-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1102342943000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Fweb%2Fblogs%2F0%2C2-3506%2C48-0%2C0.html&searchtags=web+blog+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.lemonde.fr/web/blogs/0,2-3506,48-0,0.html[Le Monde.fr : Blogs]
+
+Pour créer son blog sur le site du monde

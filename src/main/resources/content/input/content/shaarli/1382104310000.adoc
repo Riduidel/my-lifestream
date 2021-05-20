@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: You Don't Need Millions of Dollars
+:jbake-tags: histoire,programming,jeu,3d,_mois_oct.,_année_2013
+:jbake-date: 2013-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1382104310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codinghorror.com%2Fblog%2F2013%2F10%2Fyou-dont-need-millions-of-dollars.html&searchtags=histoire+programming+jeu+3d+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.codinghorror.com/blog/2013/10/you-dont-need-millions-of-dollars.html[You Don't Need Millions of Dollars]
+
+"Carmack turned red. “If you ever ask me to patent anything,” he snapped, “I’ll quit." YEAH Ca, et le fait que je sois comme tant d'autres un enfant de Doom fait que, pour une fois, j'ai bien envie de lire cette histoire

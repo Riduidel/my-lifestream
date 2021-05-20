@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lille: Il n'y aura aucun service de V'Lille le mercredi 20 février
+:jbake-tags: lille,vélo,informatique,devops,_mois_févr.,_année_2019
+:jbake-date: 2019-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1549721586000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.20minutes.fr%2Flille%2F2446303-20190207-lille-aucun-service-vlille-mercredi-20-fevrier%3Ffbclid%3DIwAR3cOcO1ZNyDl2QyaRlFiqY07JTHLaCWep1arVIKmZV1D_mddMG4KNsAEfM&searchtags=lille+v%C3%A9lo+informatique+devops+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.20minutes.fr/lille/2446303-20190207-lille-aucun-service-vlille-mercredi-20-fevrier?fbclid=IwAR3cOcO1ZNyDl2QyaRlFiqY07JTHLaCWep1arVIKmZV1D_mddMG4KNsAEfM[Lille: Il n'y aura aucun service de V'Lille le mercredi 20 février]
+
+Décidément, Ilevia réussit un début de délégation de qualité : avec les lignes d ebus en moins, et cette mise en prod qui dure UNE PUTAIN DE JOURNEE ENTIERE, on se croit dans les années 90. (si ils veulent améliorer leurs mises en prod, on peut les aider)

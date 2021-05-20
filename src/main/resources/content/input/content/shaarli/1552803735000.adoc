@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cliff Jerrison on Twitter: ""We don't like having hate speech on our platforms, but there's no ethical and technically feasible way to define and eliminate it" - the same social media companies that will insta-ban you for a single exposed boob, or humming a copyrighted song"
+:jbake-tags: citation,internet,politique,débat,_mois_mars,_année_2019
+:jbake-date: 2019-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1552803735000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpervocracy%2Fstatus%2F1106502036852539392&searchtags=citation+internet+politique+d%C3%A9bat+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/pervocracy/status/1106502036852539392[Cliff Jerrison on Twitter: ""We don't like having hate speech on our platforms, but there's no ethical and technically feasible way to define and eliminate it" - the same social media companies that will insta-ban you for a single exposed boob, or humming a copyrighted song"]
+
+C'est tout à fait vrai. Mais d'un autre côté, il faut bien comprendre que "le débat" (alias l'invective, le discours de haine, le mensonge) est le fond de commerce des plateformes de discussion

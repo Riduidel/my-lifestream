@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chris Claremont
+:jbake-tags: author
+:jbake-date: 2011-10-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/15091.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1206644417p5/15091.jpg
+:jbake-source: https://www.goodreads.com/author/show/15091
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785123293.html[Wolverine]

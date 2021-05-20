@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: pdf
+:jbake-tags: ia,programming,_mois_oct.,_année_2017
+:jbake-date: 2017-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1508335478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fopenreview.net%2Fpdf%3Fid%3DByldLrqlx&searchtags=ia+programming+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://openreview.net/pdf?id=ByldLrqlx[pdf]
+
+J'en ai déja parlé avec quelques collègues, ça ne me surprend pas trop

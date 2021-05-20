@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Magrathea - Caffeinated Cocoa Software
+:jbake-tags: freeware,macosx,mapping,photographie,software,visualisation,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171639061000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.caffeinatedcocoa.com%2Fmagrathea%2F&searchtags=freeware+macosx+mapping+photographie+software+visualisation+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.caffeinatedcocoa.com/magrathea/[Magrathea - Caffeinated Cocoa Software]
+
+Un petit logiciel pour situer des documents sur une carte. Assez rigolo avec iPhoto, par exemple ...

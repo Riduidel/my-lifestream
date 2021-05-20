@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ?5vkQdg
+:jbake-tags: git,os,windows,linux,_mois_oct.,_année_2017
+:jbake-date: 2017-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1508859129000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3F5vkQdg&searchtags=git+os+windows+linux+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?5vkQdg[?5vkQdg]
+
+Pourquoi mais POURQUOI est-ce que git a fait le choix par défaut STUPIDE de convertir les retours à la ligne selon l'OS ?

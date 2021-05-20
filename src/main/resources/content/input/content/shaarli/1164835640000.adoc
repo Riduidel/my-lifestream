@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GPG4Win
+:jbake-tags: encryption,freeware,gui,open-source,sécurité,software,tool,utilities,windows,_mois_nov.,_année_2006
+:jbake-date: 2006-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1164835640000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gpg4win.org%2F&searchtags=encryption+freeware+gui+open-source+s%C3%A9curit%C3%A9+software+tool+utilities+windows+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.gpg4win.org/[GPG4Win]
+
+Une distribution GPG adaptée à Windows

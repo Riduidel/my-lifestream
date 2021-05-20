@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oldman, tome 2
+:jbake-tags:  complot, handicap, immortalité, magie,_année_2016,_mois_juin,_note_3,rayon-bd,read
+:jbake-date: 2016-06-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9791092066333.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467199773l/30810878._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1467199773l/30810878._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/30810878
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Oldman et ses compagnons ont réussi à repousser l'attaque des soldats d'élite de la Reine. Mais pour une raison inconnue, il part se rendre seul au Palais de la Reine. Dans le même temps, Neleh se décide d'un coup à révéler tout ce qu'elle sait à propos de son identité. Le secret de la jeunesse éternelle de la Raine risque d'être divulgué à tout le monde...
+</div>
+++++
+
+
+## Authors
+* link:../authors/15518742.html[Sheng Chang]
+* link:../authors/15518743.html[常勝]
+
+## Series
+* link:../series/Oldman.html[Oldman]
+
+## Review
+
+++++
+Un deuxième tome consacré exclusivement à un long flash-back qui nous raconte l'histoire d'Oldman. C'est clairement moins dynamique que le premier tome, mais ça n'en est pas moins intéressant. Le plus grand défaut de ce tome est que le personnage de la reine est quand même sacrément caricatural dans son ambition désespérée de régner pour toujours.
+++++

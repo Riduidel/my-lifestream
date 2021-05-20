@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sarah Mei sur Twitter : "But if your work is entirely based on logic, rather than informed by emotion & intuition, then I can replace you with a script.And I will."
+:jbake-tags: organisation,emploi,_mois_déc.,_année_2017
+:jbake-date: 2017-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1512720866000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsarahmei%2Fstatus%2F937918438739083264&searchtags=organisation+emploi+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/sarahmei/status/937918438739083264[Sarah Mei sur Twitter : "But if your work is entirely based on logic, rather than informed by emotion & intuition, then I can replace you with a script.And I will."]
+
+Ca donne à réfléchir sur tous ces gens qui appliquent des procédures et se dépêchent de ne pas réfléchir

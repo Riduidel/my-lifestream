@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: (5) Randall Kanna sur Twitter : "Have you ever noticed there’s a direct correlation with how long you’ve worked in tech and how badly you want to buy a ranch and retire?" / Twitter
+:jbake-tags: citation,informatique,culture,carrière,_mois_oct.,_année_2020
+:jbake-date: 2020-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1602484353000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRandallKanna%2Fstatus%2F1315382903522512896&searchtags=citation+informatique+culture+carri%C3%A8re+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/RandallKanna/status/1315382903522512896[(5) Randall Kanna sur Twitter : "Have you ever noticed there’s a direct correlation with how long you’ve worked in tech and how badly you want to buy a ranch and retire?" / Twitter]
+
+J'ai une présentation en projet dans laquelle ce tweet ira fort bien.

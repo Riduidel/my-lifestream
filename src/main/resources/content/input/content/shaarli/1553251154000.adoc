@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeremy Mikkola - Rules for Autocomplete
+:jbake-tags: ergonomie,gui,autocomplete,_mois_mars,_année_2019
+:jbake-date: 2019-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1553251154000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjeremymikkola.com%2Fposts%2F2019_03_19_rules_for_autocomplete.html&searchtags=ergonomie+gui+autocomplete+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html[Jeremy Mikkola - Rules for Autocomplete]
+
+Ce sont de bonnes règles pour rendre l'autocomplétion correcte

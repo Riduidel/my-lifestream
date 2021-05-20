@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FairEmail - Open source, privacy friendly email app for Android
+:jbake-tags: android,software,open-source,email,imap,client,_mois_mars,_année_2021
+:jbake-date: 2021-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1615900213000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Femail.faircode.eu%2F&searchtags=android+software+open-source+email+imap+client+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://email.faircode.eu/[FairEmail - Open source, privacy friendly email app for Android]
+
+Ah mais c'est une alternative à K9-Mail ! Pas mal !

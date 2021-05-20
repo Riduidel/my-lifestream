@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DeskEffects 1.5.4 - VersionTracker
+:jbake-tags: software,freeware,macosx,system,desktop,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110976244000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.versiontracker.com%2Fdyn%2Fmoreinfo%2Fmac%2F16091&searchtags=software+freeware+macosx+system+desktop+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.versiontracker.com/dyn/moreinfo/mac/16091[DeskEffects 1.5.4 - VersionTracker]
+
+DeskEffects is a preference pane that offers users access to foreground and background desktop screen effects and offers complete priority control. Also features an option to start your favorite desktop screen effects at login.

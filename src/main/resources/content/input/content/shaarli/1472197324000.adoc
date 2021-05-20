@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mathieubolla/sik_keyboard: A SIK (mechanical ergonomic compact) Keyboard
+:jbake-tags: diy,ordinateur,clavier,ergonomie,_mois_août,_année_2016
+:jbake-date: 2016-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1472197324000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmathieubolla%2Fsik_keyboard&searchtags=diy+ordinateur+clavier+ergonomie+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/mathieubolla/sik_keyboard[mathieubolla/sik_keyboard: A SIK (mechanical ergonomic compact) Keyboard]
+
+Un très joli projet, que je n'accomplirai néanmoins jamais

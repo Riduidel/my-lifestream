@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lcamtuf's blog: Pulling JPEGs out of thin air
+:jbake-tags: programming,art,_mois_nov.,_année_2014
+:jbake-date: 2014-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1417166165000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flcamtuf.blogspot.co.uk%2F2014%2F11%2Fpulling-jpegs-out-of-thin-air.html&searchtags=programming+art+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://lcamtuf.blogspot.co.uk/2014/11/pulling-jpegs-out-of-thin-air.html[lcamtuf's blog: Pulling JPEGs out of thin air]
+
+On peut y voir une forme extrême de test (puisque c'estc le cas). Je préfère y voir une forme particulièrement spectaculaire d'art générationel et incantatoire. Parce que ça marche quand même un peu "par magie", ce fuzzer.

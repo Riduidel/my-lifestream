@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Olivier Croisier sur Twitter : "#1 Advice on how to successfully setup microservices : DON'T. You're not Netflix. You're not Google or Amazon. Your "scalability concerns" can probably be handled by a simple monolith and a well-tuned SQL database. Don't shoot yourself in the foot just for the hype of it." / Twitter
+:jbake-tags: citation,microservices,_mois_févr.,_année_2021
+:jbake-date: 2021-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1613309542000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2FOlivierCroisier%2Fstatus%2F1351541272817922050&searchtags=citation+microservices+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/OlivierCroisier/status/1351541272817922050[Olivier Croisier sur Twitter : "#1 Advice on how to successfully setup microservices : DON'T. You're not Netflix. You're not Google or Amazon. Your "scalability concerns" can probably be handled by a simple monolith and a well-tuned SQL database. Don't shoot yourself in the foot just for the hype of it." / Twitter]
+
+Dans mes bras !

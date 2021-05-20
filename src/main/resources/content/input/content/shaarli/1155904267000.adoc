@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: /Message: A Slacker Approach to Getting Things Done (GTD)
+:jbake-tags: gmail,gtd,gcalendar,productivité,_mois_août,_année_2006
+:jbake-date: 2006-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1155904267000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.stoweboyd.com%2Fmessage%2F2006%2F07%2Fa_slacker_appro.html&searchtags=gmail+gtd+gcalendar+productivit%C3%A9+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.stoweboyd.com/message/2006/07/a_slacker_appro.html[/Message: A Slacker Approach to Getting Things Done (GTD)]
+
+Une implémentation de GTD utilisant à la fois Google Mail et Google Calendar. Pour être parfait, il ne manque plus que Google Notebook :-)

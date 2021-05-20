@@ -1,0 +1,38 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le lifestream est enfin visible !
+:jbake-tags: lifestream,mavie,web,_mois_janv.,_année_2014
+:jbake-date: 2014-01-05
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/01/05/le-lifestream-est-enfin-visible.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/01/05/le-lifestream-est-enfin-visible/
+:jbake-style: wordpress
+
+++++
+<p>
+Pour ceux qui ne suivent pas ce blog très assidument, c'est sans doute obscur, je vais donc clarifier.
+</p>
+<p>
+J'ai enfin franchi la dernière étape me permettant de fournir une version publique du lifestream. Elle est disponible à l'adresse http://nicolas.delsaux.free.fr/lifestream/ (par ailleurs rappelée au pied de ce blog).
+</p>
+<p>
+Le style est ... discutable.
+</p>
+<p>
+Mais il y a une ou deux fonctionnalités bien plaisantes à mes yeux dans les pages de tags par exemple.
+</p>
+<p>
+Et un gros bug lié à JBake et fortement visible aussi bien dans les tags que dans les archives. Gros bug qui fait que chaque article créé un mois différent du mois du précédent article relance l'affichage du mois. Je vais m'en occuper plus tard d'au moins deux façons :
+<br/>
+<ol>
+<br/>
+<li>Dans le template Velocity utilisé</li>
+<br/>
+<li>Dans JBake lui-même</li>
+<br/>
+</ol>
+<br/>
+Si vous voyez d'autres bugs, surtout, n'hésitez pas à les rapporter.
+</p>
+++++

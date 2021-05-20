@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A framework to contest and justify algorithmic decisions
+:jbake-tags: ia,loi,éthique,théorie,_mois_mai,_année_2021
+:jbake-date: 2021-05-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1620501209000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flink.springer.com%2Fepdf%2F10.1007%2Fs43681-021-00054-3%3Fsharing_token%3DXisLDLEQ89yY-1ckaC44jfe4RwlQNchNByi7wbcMAY6YFflWbXb_wGzd7EntT_wP8Lm3TAtnWNpoPTOzRNLhlQLpBaz6LIJjeb1Qq6LMv-c4D2vQ5gjhLD1p9jVtPGXUu8OP_neicsxG0uGLTCc8HcoMf3GkhNq_W2htigcwm_g%253D&searchtags=ia+loi+%C3%A9thique+th%C3%A9orie+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://link.springer.com/epdf/10.1007/s43681-021-00054-3?sharing_token=XisLDLEQ89yY-1ckaC44jfe4RwlQNchNByi7wbcMAY6YFflWbXb_wGzd7EntT_wP8Lm3TAtnWNpoPTOzRNLhlQLpBaz6LIJjeb1Qq6LMv-c4D2vQ5gjhLD1p9jVtPGXUu8OP_neicsxG0uGLTCc8HcoMf3GkhNq_W2htigcwm_g%3D[A framework to contest and justify algorithmic decisions]
+
+J'aime beaucoup l'abstract qui explique que les décisions algorithmiques doivent pouvoir être justifiables.

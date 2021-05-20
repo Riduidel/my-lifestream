@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Who ordered *that*? on Twitter: "Okay, I realized that I've and my colleagues have written a lot of serious crates with pun names, so thread time… "
+:jbake-tags: rust,programming,cargo,crates,humour,naming,_mois_mai,_année_2019
+:jbake-date: 2019-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1558424633000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FManishEarth%2Fstatus%2F1130519467299971074&searchtags=rust+programming+cargo+crates+humour+naming+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ManishEarth/status/1130519467299971074[Who ordered *that*? on Twitter: "Okay, I realized that I've and my colleagues have written a lot of serious crates with pun names, so thread time… "]
+
+Il y a du jeu de mot dans les noms des crates Rust, et c'est cool

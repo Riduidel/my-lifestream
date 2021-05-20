@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: zalando/skipper: An HTTP router and reverse proxy for service composition
+:jbake-tags: architecture,http,reverse,proxy,_mois_mars,_année_2018
+:jbake-date: 2018-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1520344742000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fzalando%2Fskipper&searchtags=architecture+http+reverse+proxy+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/zalando/skipper[zalando/skipper: An HTTP router and reverse proxy for service composition]
+
+Writing a reverse proxy ... the new fad for people fed up with "a new JS framework a day" or " a new Java framework a day"

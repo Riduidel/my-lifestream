@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Terry Bisson
+:jbake-tags: author
+:jbake-date: 2003-07-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/73422.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1599308817p5/73422.jpg
+:jbake-source: https://www.goodreads.com/author/show/73422
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070421480.html[Échecs et maths]

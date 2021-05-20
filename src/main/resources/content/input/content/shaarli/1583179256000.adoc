@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: astropierre sur Twitter : "Courbe de répartition de la mortalité du coronavirus, à partir de 44 000 cas répertoriés en Chine mi-février. Les ~3% de mortalité ne sont qu'une moyenne. Cela s'échelonne de moins de 0,5% quand l'âge est inférieur à 50 ans, à 15% au-dessus de 80 ans. https://t.co/j0Lal45I8p… https://t.co/D6dGZbgJyc"
+:jbake-tags: france,politique,maladie,épidémie,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583179256000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fastropierre%2Fstatus%2F1234387941109256192&searchtags=france+politique+maladie+%C3%A9pid%C3%A9mie+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/astropierre/status/1234387941109256192[astropierre sur Twitter : "Courbe de répartition de la mortalité du coronavirus, à partir de 44 000 cas répertoriés en Chine mi-février. Les ~3% de mortalité ne sont qu'une moyenne. Cela s'échelonne de moins de 0,5% quand l'âge est inférieur à 50 ans, à 15% au-dessus de 80 ans. https://t.co/j0Lal45I8p… https://t.co/D6dGZbgJyc"]
+
+Pour mémoire, tout le foin qui est fait en ce moment l'est pour cette maladie.

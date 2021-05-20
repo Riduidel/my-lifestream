@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CodevTT | Time tracking & project management on MantisBT
+:jbake-tags: software,freeware,open-source,web,projet,management,_mois_août,_année_2015
+:jbake-date: 2015-08-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1439792994000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcodevtt.org%2Fsite%2F&searchtags=software+freeware+open-source+web+projet+management+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://codevtt.org/site/[CodevTT | Time tracking & project management on MantisBT]
+
+C'est vraiment pas glamour, comme Mantis, mais ça fait le job. Et si c'est comme mantis, ça fait le job sérieusement.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #AltDevBlog » Functional Programming in C++
+:jbake-tags: développement,programming,concepts,functionnal,_mois_août,_année_2013
+:jbake-date: 2013-08-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1375717623000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.altdevblogaday.com%2F2012%2F04%2F26%2Ffunctional-programming-in-c%2F&searchtags=d%C3%A9veloppement+programming+concepts+functionnal+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/[#AltDevBlog » Functional Programming in C++]
+
+Très chouette article/interview de John Carmack sur les intérêts de la programmation fonctionnelle pour les développeurs C/C++. Le conseil essentiel ? " it isn’t an all-or-nothing proposition where you fall from grace with the first sin." via @lescastcodeurs (enfin, la ML)

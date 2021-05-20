@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software Architecture and System Design - Getting Your Grip and Some Related Resources | Tugberk Ugurlu @ the Heart of Software
+:jbake-tags: architecture,design,software,system,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577876296000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tugberkugurlu.com%2Farchive%2Fsoftware-architecture-and-system-design---getting-your-grip-and-some-related-resources&searchtags=architecture+design+software+system+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.tugberkugurlu.com/archive/software-architecture-and-system-design---getting-your-grip-and-some-related-resources[Software Architecture and System Design - Getting Your Grip and Some Related Resources | Tugberk Ugurlu @ the Heart of Software]
+
+Oh mais c'est pas mal du tout comme introduction au design d'architecture !

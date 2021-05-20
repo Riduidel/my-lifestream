@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jérôme Petazzoni on Twitter: "If you are running any kind of container orchestration system, there is a high chance that it relies on the Raft protocol. The Raft protocol is used by: - etcd (and therefore @kubernetesio) - @hashicorp's Consul and Nomad - @docker's SwarmKit - and more!"
+:jbake-tags: web,programming,distribué,system,consul,raft,_mois_août,_année_2018
+:jbake-date: 2018-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1535370329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjpetazzo%2Fstatus%2F1026784103646089216&searchtags=web+programming+distribu%C3%A9+system+consul+raft+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jpetazzo/status/1026784103646089216[Jérôme Petazzoni on Twitter: "If you are running any kind of container orchestration system, there is a high chance that it relies on the Raft protocol. The Raft protocol is used by: - etcd (and therefore @kubernetesio) - @hashicorp's Consul and Nomad - @docker's SwarmKit - and more!"]
+
+Ah, raft ! Ca commence à être au coeur de bien des éléments. Et ces quelques tweets permettent d'en appréhender les aspects essentiels

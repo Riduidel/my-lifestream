@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ChallengePost
+:jbake-tags: web,programming,challenge,_mois_sept.,_année_2013
+:jbake-date: 2013-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1380190309000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchallengepost.com%2F&searchtags=web+programming+challenge+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://challengepost.com/[ChallengePost]
+
+Pleind e sites de challenges de développement histoire de pouvoir se sortir les doigts sur quelque chose de "marrant"

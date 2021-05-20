@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thread by @colmmacc: "Last week I spoke about how we build ultra-reliable AWS services. It's my favourite talk that I've given. Everyone I've asked has told me th […]"
+:jbake-tags: programming,contrôle,validation,distribué,_mois_déc.,_année_2018
+:jbake-date: 2018-12-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1545315993000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthreadreaderapp.com%2Fthread%2F1071084058841559041.html&searchtags=programming+contr%C3%B4le+validation+distribu%C3%A9+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://threadreaderapp.com/thread/1071084058841559041.html[Thread by @colmmacc: "Last week I spoke about how we build ultra-reliable AWS services. It's my favourite talk that I've given. Everyone I've asked has told me th […]"]
+
+Tout ça est sacrément intéressant ... Et ne s'adresse pas qu'au design des control planes dans les applications distribuées.

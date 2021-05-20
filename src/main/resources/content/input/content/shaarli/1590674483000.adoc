@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Superorganizers
+:jbake-tags: organisation,méthode,interview,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590674483000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsuperorganizers.substack.com%2F&searchtags=organisation+m%C3%A9thode+interview+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://superorganizers.substack.com/[Superorganizers]
+
+Si vous cliquez sur le bouton "permettez-moi de le lire d'abord", vous trouverez des interviews de gens qui sont passionnés par l'organisation de leur méthode de travail. C'est souvent intéressant, et parfois utile.

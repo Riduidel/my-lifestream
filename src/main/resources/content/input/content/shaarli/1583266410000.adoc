@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: One Page Dungeon by watabou
+:jbake-tags: jdr,online,générateur,image,imagination,_mois_mars,_année_2020
+:jbake-date: 2020-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1583266410000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwatabou.itch.io%2Fone-page-dungeon&searchtags=jdr+online+g%C3%A9n%C3%A9rateur+image+imagination+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://watabou.itch.io/one-page-dungeon[One Page Dungeon by watabou]
+
+Un générateur de dongeons ? Pourquoi pas ... pourquoi pas.

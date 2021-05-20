@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Client web BRouter
+:jbake-tags: vélo,promenade,openstreetmap,_mois_avr.,_année_2021
+:jbake-date: 2021-04-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1618221143000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbrouter.de%2Fbrouter-web%2F%23map%3D17%2F50.62196%2F3.09363%2Fcyclosm&searchtags=v%C3%A9lo+promenade+openstreetmap+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://brouter.de/brouter-web/#map=17/50.62196/3.09363/cyclosm[Client web BRouter]
+
+Un outil bien sympathique pour se construire un itinéraire d promenade à pied, à vélo, bref, par tous les moyens supportés par OpenStreetMap

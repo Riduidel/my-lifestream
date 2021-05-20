@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FRANCE BLOOD BOWL - Ligue de Bloodbowl
+:jbake-tags: board,jeu,bloodbowl,_mois_août,_année_2006
+:jbake-date: 2006-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1155542872000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.francebloodbowl.com%2F&searchtags=board+jeu+bloodbowl+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.francebloodbowl.com/[FRANCE BLOOD BOWL - Ligue de Bloodbowl]
+
+Une ligue française de bloodbowl, fournissant surtout d'inestiables conseils tactiques

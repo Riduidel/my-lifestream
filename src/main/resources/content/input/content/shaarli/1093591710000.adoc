@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: java.net: Improve on Javadocs with <i>ashkelon</i> [Aug. 26, 2004]
+:jbake-tags: doclet,java,javadoc,software,_mois_août,_année_2004
+:jbake-date: 2004-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1093591710000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftoday.java.net%2Fpub%2Fa%2Ftoday%2F2004%2F08%2F26%2Fashkelon.html&searchtags=doclet+java+javadoc+software+_mois_ao%C3%BBt+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://today.java.net/pub/a/today/2004/08/26/ashkelon.html[java.net: Improve on Javadocs with <i>ashkelon</i> [Aug. 26, 2004]]
+
+This article describes ashkelon, an open source documentation system for Java that leverages Sun's Javadoc parser. When developing a UI for, say, 50 APIs, 500 packages, 10,000 classes, and 100,000 methods, how do you present mounds of information in a rea

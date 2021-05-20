@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MTV MUSIC - I Want My MTV
+:jbake-tags: musique,vidéo,audio,_mois_oct.,_année_2008
+:jbake-date: 2008-10-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1225185832000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mtvmusic.com%2F&searchtags=musique+vid%C3%A9o+audio+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.mtvmusic.com/[MTV MUSIC - I Want My MTV]
+
+Bon, MTV, ça n'a jamais forcément été ma tasse de thé. Mais ce petit site de lecture de clips vidéos, qui me présente dès le début Money for nothing ou Welcome to the jungle, ça me plaît beaucoup.

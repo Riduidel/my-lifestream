@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OuGéPro
+:jbake-tags: programming,bot,twitter,humour,_mois_juin,_année_2018
+:jbake-date: 2018-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1528092404000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchaotheque.org%2Fougepro%2F&searchtags=programming+bot+twitter+humour+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://chaotheque.org/ougepro/[OuGéPro]
+
+Rho punaise des tonnes de bots twitter. Je vous ai dit que c'était ma passion depuis le philosotron ?

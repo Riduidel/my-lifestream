@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les projets pathologiques Introduction
+:jbake-tags: software,programming,management,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112188422000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Feirene.free.fr%2F&searchtags=software+programming+management+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://eirene.free.fr/[Les projets pathologiques Introduction]
+
+Ce site s'intÃ©resse exclusivement aux dysfonctionnements auxquels on se heurte parfois dans la conduite des projets. Au cours de cette analyse nous essaierons de montrer que les difficultÃ©s rencontrÃ©es dans ce domaine peuvent Ãªtre liÃ©es Ã

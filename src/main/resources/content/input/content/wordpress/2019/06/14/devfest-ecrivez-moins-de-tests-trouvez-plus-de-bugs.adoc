@@ -1,0 +1,237 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [DevFest] Ecrivez moins de tests, trouvez plus de bugs
+:jbake-tags: devfest,fonctionnel,propriétés,test,_mois_juin,_année_2019
+:jbake-date: 2019-06-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/06/14/devfest-ecrivez-moins-de-tests-trouvez-plus-de-bugs.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/06/14/devfest-ecrivez-moins-de-tests-trouvez-plus-de-bugs/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Julien écrit du Java depuis 7 ans, du Haskell depuis un an jusqu’en prod, et travaille chez Decathlon.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+Et si Julien devait écrire une fonction qui, étant donné une date, détermine si c’est un nouvel an. Ecrire les tests pour cette fonction n’est pas si difficile : le nouvel an tombe à priori toujours le 31 décembre.De la même manière, quand il dit qu’une Citroën C5 a 5 places, tout le monde comprend sans avoir besoin de détails supplémentaires. Parce qu’il s’agit de propriétés.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Donc, est-ce qu’il ne vaudrait pas mieux expliquer comment marche un logiciel à l’aide de propriétés.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+&#160;
+</p>
+<p>
+Quelle est la différence entre un test unitaire et un test de propriété ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+L’entrée est fixée dans un test unitaire, mais aléatoire dans un test de propriétés. Du coup, au lieu d’exécuter le test une fois, on l’exécute de nombreuses fois. Et si on s’intéresse au résultat dans un test unitaire, on s’intéresse aussi au comportement dans le test de propriétés.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Les tests de propriétés ont été imaginés dans les années 80 pour Haskell avec un outil appelé <a href="https://hackage.haskell.org/package/QuickCheck">QuickCheck</a>.Qu’ils ont ensuite porté dans une pelletée de langages. Il y a donc des outils de test de propriétés dans la plupart des langages. La suite de la présentation se fera donc avec <a href="https://github.com/pholser/junit-quickcheck">junit-quickcheck</a>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-25">
+<br/>
+<h2 id="_quels_types_de_propriétés_peuvent_être_testés">Quels types de propriétés peuvent être testés ?</h2>
+<br/>
+Julien nous donne ici les grands types de "propriétés" testables avec junit-quicheck
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-27">
+<br/>
+<h3 id="_lidempotence">L’idempotence</h3>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Une fonction est idempotente si sa sortie ne change pas quelquesoit le nombre d’exécution. Le cas d’usage typique est le nettoyage d’entrée utilisateur (nom, numéro de téléphone, adresse, …​).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Et allons-y pour un exemple simple : supprimer les chaînes de caractère vides ou contenant moins de trois lettres.Dans ce test, il suffit simplement de vérifier que le résultat de deux appels successifs à la même méthode est le même.Et junit-quickcheck va générer pour ce test 100 listes de chaînes de caractères avec des textes très variés.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-37">
+<br/>
+<h3 id="_linvariance">L’invariance</h3>
+<br/>
+<div class="paragraph data-line-38">
+</p>
+<p>
+Une fonction est invariante par rapport à une entrée si la valeur de cette entrée ne change pas la valeur de sortie. Par exemple, pour un calcul de nouvel an, l’année n’est pas signifiante. C’est donc un invariant de cette fonction.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-41">
+</p>
+<p>
+Dans le test, c’est facile, on vérifie d’abord que le 31/12 est toujours un réveillon du nouvel an. Ensuite, ça se complique, puisque Julien veut vérifier que les dates qui ne sont pas le 31/12 ne sont pas du nouvel an. Pour ça, il génère des dates aléatoires …​ et forcément, le test échoue (parce qu’il y a dans les dates générées des 31/12).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-45">
+</p>
+<p>
+C’est l’occasion pour Julien de nous montrer que la génération de données pseudo-aléatoire permet de reproduire localement un test qui foirerait sur la CI, en copiant la seed utilisée pour générer les données. Et c’est ensuite l’occasion de nous montrer la méthode <code>assumeThat(…​)</code> qui va exclure les 31/12.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-48">
+<br/>
+<h3 id="_lanalogie">L’analogie</h3>
+<br/>
+<div class="paragraph data-line-49">
+</p>
+<p>
+Si vous avez une fonction <code>add(x,y)</code> et une fonction <code>multiply(x, y)</code>, on peut considérer que <code>multiply(x, 2)</code> est égal à <code>add(x, x)</code>. De la même manière, quand on refactore du code, le résultat du refactoring doit être égal au résultat du code initial.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-53">
+</p>
+<p>
+Allons-y pour un exemple de refactoring !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-55">
+</p>
+<p>
+On a donc une fonction initiale, une fonction refactorée. Et les deux fonctions prennent en paramètre des objets …​ complexes.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-57">
+<br/>
+<h3 id="_linverse">L’inverse</h3>
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+Là, tout simplement, si on a une fonction qui donne un résultat, on peut imaginer une autre fonction qui, étant donné le résultat, retourne la valeur initiale. Ca implique aussi que la fonction initiale ne perd pas d’information (sinon on ne peut pas l’inverser correctement). C’est typiquement le cas des expositions HTTP d’un modèle.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-62">
+</p>
+<p>
+Un autre exemple (et c’est celui qu’utilise Julien) est celui du calcul de prix avec ou sans taxe.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-64">
+</p>
+<p>
+Ca permet aussi à Julien de nous montrer comment junit-quickcheck génère les données.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-66">
+<br/>
+<h2 id="_shrinking">Shrinking</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-68">
+</p>
+<p>
+En cas d’erreur, la librairie va aussi réduire l’espace de recherche pour aider le développeur à trouver le cas minimal pour lequel le test échoue.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-70">
+<br/>
+<h2 id="_retour_dexpérience">Retour d’expérience</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-71">
+</p>
+<p>
+L’équipe de Julien a mis en place ces tests de propriété après avoir découvert Haskell. En aoutant ces tests pour des classes sur lesquelles ils avaient déja des tests unitaires, ils ont rapidement découvert des bugs …​ qui existaient en prod et n’étaient pas détectés. Ils ont maintenant inversé la balance : ils écrivent des tests de propriétés dans la plupart des cas, et des tests unitaires pour les cas spécifiques. Et en plus, il y a beaucoup moins de code : moins de tests, aucun jeu de données de test, …​
+<br/>
+<h2>Conclusion</h2>
+<br/>
+La présentation était très didactique, et pour un concept qui semble évolué, c'est vraiment bien. Et du coup, j'ai logiquement été convaincu par l'approche. Je ne suis toutefois pas sûr que junit-quickcheck soit adapté à junit 5 ... Et en plus, il y a une version <a href="https://github.com/BurntSushi/quickcheck">Rust</a> !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

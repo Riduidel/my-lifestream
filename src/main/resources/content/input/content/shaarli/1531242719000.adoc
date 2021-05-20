@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kevin Beaumont on Twitter: "The Facebook app on iPhone is bigger than the install media of Windows XP."
+:jbake-tags: web,progrès,application,_mois_juil.,_année_2018
+:jbake-date: 2018-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1531242719000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGossiTheDog%2Fstatus%2F1016462131967950848&searchtags=web+progr%C3%A8s+application+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/GossiTheDog/status/1016462131967950848[Kevin Beaumont on Twitter: "The Facebook app on iPhone is bigger than the install media of Windows XP."]
+
+C'est le genre de choses qui me fait toujours \*très\* mal. Au-dela des aspects éventuellement buggés, Windows XP apporte un service un peu plus vaste que Facebook. Alors pourquoi l'appli Facebook est-elle si grosse ?

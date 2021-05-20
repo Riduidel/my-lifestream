@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AntiMicro/antimicro: Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support
+:jbake-tags: gamepad,windows,_mois_janv.,_année_2018
+:jbake-date: 2018-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1516825100000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FAntiMicro%2Fantimicro&searchtags=gamepad+windows+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/AntiMicro/antimicro[AntiMicro/antimicro: Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support]
+
+Et pouf, un outil permettant de piloter Windows avec un gamepad

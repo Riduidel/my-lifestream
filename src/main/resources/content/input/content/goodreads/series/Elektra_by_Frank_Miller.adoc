@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Elektra by Frank Miller
+:jbake-tags: serie
+:jbake-date: 2015-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Elektra_by_Frank_Miller.adoc
+:jbake-source: https://www.goodreads.com/series/67868
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782876950986.html[Elektra: Le Retour]

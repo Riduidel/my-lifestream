@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: moditect/layrry: A Runner and API for Layered Java Applications
+:jbake-tags: java,jigsaw,dynamic,dépendances,_mois_mai,_année_2020
+:jbake-date: 2020-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1588522706000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmoditect%2Flayrry%23dynamic-plug-ins&searchtags=java+jigsaw+dynamic+d%C3%A9pendances+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/moditect/layrry#dynamic-plug-ins[moditect/layrry: A Runner and API for Layered Java Applications]
+
+C'est très chouette, et ça pourrait presque se rapprocher de ce qu'on peut faire en OSGi depuis ... 10 ans ? Mais comme c'est le standard de modularité d'Oracle, il va bien falloir s'adapter.

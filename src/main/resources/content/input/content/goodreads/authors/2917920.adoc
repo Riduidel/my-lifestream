@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ken Liu
+:jbake-tags: author
+:jbake-date: 2016-12-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2917920.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1400610835p5/2917920.jpg
+:jbake-source: https://www.goodreads.com/author/show/2917920
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070793105.html[La Ménagerie de papier]
+* link:../books/9782843449093.html[L'Homme qui mit fin à l'Histoire]

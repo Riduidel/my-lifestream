@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Take Notes as You Code—Lot of ‘em!
+:jbake-tags: idée,organisation,méthode,réflexion,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579265405000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblogs.oracle.com%2Fjavamagazine%2Ftake-notes-as-you-code-lots-of-em&searchtags=id%C3%A9e+organisation+m%C3%A9thode+r%C3%A9flexion+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blogs.oracle.com/javamagazine/take-notes-as-you-code-lots-of-em[Take Notes as You Code—Lot of ‘em!]
+
+C'est une idée intéressante, et je pense que je vais la mettre en application rapidement histoire de voir ce que ça donne. Reste à trouver "le bon moyen".

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pulse - Home
+:jbake-tags: software,windows,download,wallpaper,_mois_mai,_année_2011
+:jbake-date: 2011-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1304943858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpulse.codeplex.com%2F&searchtags=software+windows+download+wallpaper+_mois_mai+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://pulse.codeplex.com/[Pulse - Home]
+
+un outil de changement automatique de papier peint avec téléchargement depuis le web. Sympa, non ?

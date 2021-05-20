@@ -1,0 +1,72 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Engagement, identité et idiocratie
+:jbake-tags: éthique,culture,intelligence,philosophie,_mois_août,_année_2019
+:jbake-date: 2019-08-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/08/23/engagement-identite-et-idiocratie.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/08/23/engagement-identite-et-idiocratie/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>J'ai déja écrit bien des fois que j'écoutais pas mal de <a href="https://riduidel.wordpress.com/tag/podcast/">podcasts</a>, et que j'aimais beaucoup ça.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je ne vais pas le répéter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par contre, ce qu'il faut savoir, c'est que les podcasts ont souvent un coup de mou en été. C'est parfois gênant, en particulier parce qu'en allant travailler à pied, j'écoute plus de podcasts. Et en été, je continue à bosser. Donc j'ai moins de podcasts. J'ai donc pris l'habitude en été d'écouter une sélection d’épisodes de <a href="https://www.franceculture.fr/emissions/la-methode-scientifique/saison-27-08-2018-01-07-2019">la méthode scientifique</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cet été, j'ai donc entendu parler</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>de <a href="https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-lundi-17-juin-2019">sclérose en plaques</a></li><li>de <a href="https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-mercredi-12-juin-2019">fusion nucléaire</a></li><li>de l'<a href="https://www.franceculture.fr/emissions/la-methode-scientifique/space-horror-dans-lespace-na-pas-fini-de-crier">horreur spatiale</a> et d'Alien</li><li>et enfin, et c'est le sujet de cet article, d'<a href="https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-emission-du-jeudi-16-mai-2019">idiocratie</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>L'idiocratie, tirée du <a href="https://fr.wikipedia.org/wiki/Idiocracy">film éponyme</a>, c'est cette croyance qu'on est plus bête aujourd'hui qu'hier. Et comme à chaque fois, l'émission part dans une direction différente.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Les intervenants ont en effet d'abord cherché à définir l'intelligence, qui n'a bien sûr que peu de rapport avec le <a href="https://fr.wikipedia.org/wiki/Quotient_intellectuel">QI</a> ... Et là, les définitions divergent. Et c'est normal, parce que l'intelligence, ça n'est pas vraiment évident à définir. Et quelque part, ça n'est même pas le sujet de mon article, donc je vais vous laisser écouter pour vous faire votre idée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le sujet de cet article, c'est un point précis qu'évoquait  <a href="https://fr.wikipedia.org/wiki/Olivier_Houd%C3%A9">Olivier Houdé</a> : selon lui, le cerveau a au moins trois niveaux de réflexion</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>D'abord, le niveau des émotions. C'est le plus facile à manifester, parce que c'est celui qui vient du cerveau reptilien</li><li>Ensuite, le niveau des algorithmes, qui apporte les mathématiques, la logique. Il arrive après le premier, et quand l'homme peut se permettre le temps de la réflexion</li><li>Enfin, l'arbitre, que l'autre intervenant aurait aimé appeler l'esprit critique, qui va arbitrer entre les deux niveaux précédents et permettre une décision "idéale" pour l'individu, pour peu que les conditions s'y prêtent.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>J'ai été marqué par cette distinction parce qu'elle résonnait fort avec l'un des textes de la formidable newsletter de Binnie au sujet de la <a href="https://us18.campaign-archive.com/?u=429fa2f906aa2268376608570&#38;id=d51419bbc1">lucrativité de l'indignation</a> (entre autres). En gros, il y est dit que les réseaux sociaux sont motorisés par notre indignation. C'est pour ça que Youtube vous présente des vidéos limite c'est pour ça que vous retweetez ces messages stigmatisant la destruction de l'amazonie (et pas ceux souhaitant la fin d'Amazon). L'indignation, ce moteur qui vous pousse dans vos interactions, est clairement une émotion. Et pire encore, ça n'est pas une des émotions qu'Olivier Houdé mentionne comme susceptible de vous pousser à réfléchir (la curiosité, le doute, la culpabilité).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Non, l'indignation n'est qu'un moyen simple de renforcer la forteresse de votre identité, une manière de vous définir par ce que vous n'aimez pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En un sens, c'est bien que les auteurs des différents algorithmes de recommandation aient découvert ce moteur, qui était aussi jadis celui de chaînes télépoubellles comme <a href="https://fr.wikipedia.org/wiki/La_Cinq">la cinq</a>. Et c'est l'un des points clé de ma réflexion : les études sur le QI indiquent une baisse depuis 1975. Si le QI n'est pas l'intelligence, c'en est en tout cas une première approximation. Et le fait que cette baisse soit corrélée avec l'apparition des <a href="https://fr.wikipedia.org/wiki/M%C3%A9dias_de_masse">mass media</a> n'est évidement pas un hasard : ce sont les premiers à avoir exploité notre capacité à nous indigner. Alors est-il opportun de stigmatiser internet de façon spécifique ? Je ne crois pas. En revanche, stigmatiser la manière dont des gens intelligents exploitent la bêtise collective me paraît dans ce cas judicieux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je m'explique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Que ce soit dans une chaîne de télé, dans une rédaction, ou dans une équipe de développement, considérer via des tests soigneux que la meilleure manière de développer un buisness est l'exploitation du besoin d'identité de l'homme de la rue est un choix cynique et éthiquement mauvais. Est-ce que les gens de la presse people pensent faire quelque chose de propre ? Certainement pas. Alors qu'est-ce qui pousse les équipes développant les algorithmes de recommandation des GAFA à croire qu'ils font autre chose que pousser l'humanité au fond du gouffre ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que ne me faites pas croire qu'il n'existe pas de responsabilité de ces équipes dans, par exemple, l'élection de Trump, Bolsonaro ou autres. Cette responsabilité a déja été scientifiquement documentée. Alors ? Que faire ? Je crois sincèrement qu'il est temps de se pencher sur l'<a href="https://fr.wikipedia.org/wiki/%C3%89thique">éthique </a>et son application à l'ère des "algorithmes". Un sujet qui n'est pas simple, mais qui pourra sans doute faire dévier la route de ce qui est en train de devenir un effondrement intellectuel provoqué par des gens intelligents au service d'une idéologie de la performance au trimestre ...</p>
+<!-- /wp:paragraph -->
+++++

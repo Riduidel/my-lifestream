@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: java - Why does GSON use fields and not getters/setters? - Stack Overflow
+:jbake-tags: java,programming,sérialisation,json,_mois_juin,_année_2017
+:jbake-date: 2017-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1497881586000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F6203487%2Fwhy-does-gson-use-fields-and-not-getters-setters&searchtags=java+programming+s%C3%A9rialisation+json+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://stackoverflow.com/questions/6203487/why-does-gson-use-fields-and-not-getters-setters[java - Why does GSON use fields and not getters/setters? - Stack Overflow]
+
+La question est intéressante, mais la réponse est d'une stupidité crasse (surtout considérant que d'autres solutions y arrivent très bien)

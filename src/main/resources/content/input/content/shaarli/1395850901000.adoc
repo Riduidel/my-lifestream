@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visualisation du score IMDb des séries TV
+:jbake-tags: visualisation,télévision,art,_mois_mars,_année_2014
+:jbake-date: 2014-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1395850901000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fvisualisation-du-score-imdb-series-tv%2F&searchtags=visualisation+t%C3%A9l%C3%A9vision+art+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/visualisation-du-score-imdb-series-tv/[Visualisation du score IMDb des séries TV]
+
+J'avais été voir ce site, et il est effectivement très bien fichu. Il manque peut-être la possibilité de faire des comparaisons/superpositions, mais bon, je vais pas pinailler,c 'est du bon boulot.

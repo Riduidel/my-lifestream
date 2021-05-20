@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Petges.com - Attribute Changer
+:jbake-tags: attributes,file,freeware,software,windows,_mois_oct.,_année_2004
+:jbake-date: 2004-10-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1098967143000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.petges.com%2F&searchtags=attributes+file+freeware+software+windows+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.petges.com/[Petges.com - Attribute Changer]
+
+This application acts as a Windows shell extension and simplifies changing file and folder attributes by adding itself to the context menus for drives, folders and files. Filters and exceptions can be used to fine tune the update process.

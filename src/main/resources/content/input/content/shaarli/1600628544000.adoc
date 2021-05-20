@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software engineering whispers: The effect of textual vs. graphical software design descriptions on software design communication | SpringerLink
+:jbake-tags: communication,informatique,travail,schéma,texte,_mois_sept.,_année_2020
+:jbake-date: 2020-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1600628544000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs10664-020-09835-6%3Fwt_mc%3DInternal.Event.1.SEM.ArticleAuthorOnlineFirst&searchtags=communication+informatique+travail+sch%C3%A9ma+texte+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://link.springer.com/article/10.1007/s10664-020-09835-6?wt_mc=Internal.Event.1.SEM.ArticleAuthorOnlineFirst[Software engineering whispers: The effect of textual vs. graphical software design descriptions on software design communication | SpringerLink]
+
+Une étude des supports de communication qui révèle, d'une façon pas surprenante, que la communication autour de supports visuels (schémas, donc) aide à la compréhension et à la discussion.

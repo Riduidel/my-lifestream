@@ -1,0 +1,179 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment louper hashcode en trois leçons
+:jbake-tags: _mois_mars,_année_2019
+:jbake-date: 2019-03-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/03/08/comment-louper-hashcode-en-trois-lecons.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/03/08/comment-louper-hashcode-en-trois-lecons/
+:jbake-style: wordpress
+
+++++
+<p>
+Hier soir, avec deux collègues, nous avons participé à <a href="https://codingcompetitions.withgoogle.com/hashcode">hashcode</a>. Non, pardon, nous nous sommes inscrits à hashcode, nous avons réservé notre soirée ... mais nous n'avons produit aucun résultat. Pourquoi ? Anatomie d'un échec (comme ils disent à la télé).
+</p>
+<p>
+Note préliminaire : comme on a bien foiré, je ne donnerai pas les noms de mes comparses tant qu'ils ne donneront pas leur avis (par commentaire,).
+<br/>
+<h2>Montage de l'équipe</h2>
+<br/>
+Il y a deux semaines, un collègue m'a contacté pour participer à hashcode. Comme je le connais bien, et que le troisième membre de notre équipe est un participant régulier à Codingame, nous étions assez contents.
+<br/>
+<h2>Warm-up</h2>
+<br/>
+Nous avions donc les bureaux de Zenika Lille pour nous. En arrivant, nous nous sommes rapidement mis d'accord sur la synchronisation par git, en utilisant un seul <a href="https://github.com/lhauspie/hashcode-2019">repo</a>. C'était une bonne et une mauvaise idée.
+<br/>
+<ul>
+<br/>
+<li>Une bonne idée, parce qu'il était facile de récupérer le code modifié.</li>
+<br/>
+<li>Une mauvaise idée, parce qu'on a  eu plusieurs merdes de merge (qui confirment mes à-prioris négatifs sur git).</li>
+<br/>
+</ul>
+<br/>
+Dans notre repository, vous voyez qu'on a un dossier par participant. Ca aussi, c'était une bonne idée théoriquement. Mais nous n'avons pas eu la discipline de conserver nos dossiers nominatifs à cause d'une autre erreur - sans doute la mienne - qu'on verra par la suite.
+</p>
+<p>
+Nous nous sommes ensuite mis d'accord pour coder en Java (parce qu'après tout, on connaissait tous les trois Java). Et ça, c'était une vraie connerie. Parce que hashcode n'est pas codingame. Et si codingame nécessite clairement de choisir un langage commun, hashcode non (parce qu'il faut avant tout envoyer les fichiers produits, le code source étant ... presque optionnel). Laisser chaque participant choisir son langage aurait sans doute pu permettre une plus grande variété d'algorithmes et d'implémentations.
+<br/>
+<h2>Top départ</h2>
+<br/>
+Au top départ, nous avons fait un truc assez typique : mes collègues se sont placés au tableau blanc pendant que j'écrivais un modèle nous permettant théoriquement "facilement" d'implémenter un premier algorithme. Ce qui s'est sans doute révélé une erreur monumentale : ça a sorti l'un de mes coéquipiers du concours (ce dont je m'excuse), et ça a contraint l'espace de solution à ce qu'on pouvait modéliser avec mon code. C'est peut-être dû aux erreurs du warm-up, ou peut-être une mauvaise habitude que je tire de Codingame. En tout cas, ça nous a fait énormément de mal.
+</p>
+<p>
+Il n'empêche qu'au bout d'une heure, nous avions une implémentation valide pour le fichier d'exemple (avec quatre objets manipulés).
+<br/>
+<h2>Montée à l'échelle</h2>
+<br/>
+C'est au moment de passer au deuxième fichier que nos autres erreurs se sont révélées.
+</p>
+<p>
+D'abord, nous avons immédiatement tenté de créer un algorithme intelligent, alors que nous aurions dû consacrer une partie de notre énergie à une implémentation débile, ne serait-ce que pour avoir un score de base.
+</p>
+<p>
+Et comme notre code ne montait pas à l'échelle (autrement dit il ne permettait pas de traiter les 80.000 entrée du second fichier), nous n'avons pas produit quoi que ce soit d'utile pendant trois heures
+<br/>
+<h2>Découragement</h2>
+<br/>
+N'étant qu'humains, étant un peu fatigués, et un peu ... découragés, nous n'avons pas eu la présence d'esprit de revenir à cette implémentation naïve. C'est dommage, parce que ça a scellé notre destin. Aurait-t-on pu trouver un second souffle ? Je ne sais pas. Peut-être avec une meilleure gestion du temps, ou un "soutien psychologique", autrement dit quelqu'un qui ne code pas, mais qui nous assiste ?
+<br/>
+<h2>A retenir</h2>
+<br/>
+Je vais essayer de lister mes règles de participation pour l'année prochaine (ben oui, je ne resterai pas sur une défaite). Parce que
+</p>
+<p>
+&#160;
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/nmahoude" class="screenName"><img src="http://pbs.twimg.com/profile_images/719175135362695171/_lQjkmEM_mini.jpg" alt="profile of Father, Husband, Human problem solver, Software Developer.
+<br/>
+Opinions are my own"/>nmahoude</a>
+<br/>
+<span class="name">Nicolas Mahoudeaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/nmahoude/status/1 101 403 396 580 487 169" class="date">1 mars 2019 à 09:46:47</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@riduidel un grand homme a dit qu'on pouvait apprendre quelque chose de cette déroute .... je suis curieux 😅</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Donc
+<br/>
+<ul>
+<br/>
+<li>Découper les responsabilités, c'est bien. Le faire dans le bon sens, c'est mieux. Il faut donc
+<br/>
+<ul>
+<br/>
+<li>Une personne qui fasse l'implémentation la plus naïve possible, c'est-à-dire sans la moindre sorte de réflexion)</li>
+<br/>
+<li>Un explorateur d'idées</li>
+<br/>
+<li>Un implémenteur dans une méthode classique</li>
+<br/>
+<li>Un agiliste de l'extrême, ne serait-ce que pour nous aider à nous rappeler les promesses que nous faisons</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+&#160;
+<br/>
+<ul>
+<br/>
+<li>Avoir une méthode propre</li>
+<br/>
+</ul>
+<br/>
+&#160;
+<br/>
+<ul>
+<br/>
+<li style="list-style-type:none;">
+<br/>
+<ul>
+<br/>
+<li>Chaque membre de l'équipe choisit en toute autonomie son langage, sa méthode.</li>
+<br/>
+<li>Chaque membre de l'équipe a son repository GitHub indépendant. Ca permet quand même de partager le code à travers l'interface web de GitHub, autrement dit avec une indépendance vis-à-vis des collègues.</li>
+<br/>
+<li>Eventuellement un outil de chat pratique pour envoyer les liens vers les bons fichiers</li>
+<br/>
+<li>Et des tests au bon moment</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+<li>Avoir un moral de winner
+<br/>
+<ul>
+<br/>
+<li>Avoir un tableau (on l'avait)</li>
+<br/>
+<li>Avoir un bureau (on l'avait)</li>
+<br/>
+<li>Avoir mangé <strong>avant</strong></li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+Et avec tout ça, normalement, on pourra repartir quasi-derniers, et pas sans rien comme on l'a fait cette année.
+</p>
+++++

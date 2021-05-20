@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Documentation — The Hitchhiker's Guide to Python
+:jbake-tags: python,projet,documentation,tips,_mois_oct.,_année_2019
+:jbake-date: 2019-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1570176881000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.python-guide.org%2Fwriting%2Fdocumentation%2F&searchtags=python+projet+documentation+tips+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://docs.python-guide.org/writing/documentation/[Documentation — The Hitchhiker's Guide to Python]
+
+Merci Python d'avoir des docs de qualité !

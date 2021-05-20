@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kolekcja Świat Dysku
+:jbake-tags: serie
+:jbake-date: 2002-12-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Kolekcja_Swiat_Dysku.adoc
+:jbake-source: https://www.goodreads.com/series/290041
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266121361.html[Mécontes de fées (Les Annales du Disque-Monde, #12)]

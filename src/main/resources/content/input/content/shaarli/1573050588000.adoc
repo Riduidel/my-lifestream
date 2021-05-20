@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vicente Herrera sur Twitter : "Interesting! Didn't know about it. I'll research that book. Also worth noting, graph I mention is not about telling how "it should be done", but a statistical research of the kind of tasks done in past projects. Can't find the source now, I'll be thankful if anybody shares it.… https://t.co/dR5X8sIal9"
+:jbake-tags: programming,task,management,_mois_nov.,_année_2019
+:jbake-date: 2019-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1573050588000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FVicen_Herrera%2Fstatus%2F1192028392486559744&searchtags=programming+task+management+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Vicen_Herrera/status/1192028392486559744[Vicente Herrera sur Twitter : "Interesting! Didn't know about it. I'll research that book. Also worth noting, graph I mention is not about telling how "it should be done", but a statistical research of the kind of tasks done in past projects. Can't find the source now, I'll be thankful if anybody shares it.… https://t.co/dR5X8sIal9"]
+
+J'adorerais avoir la source de ce schéma sur les activités au cours du développement

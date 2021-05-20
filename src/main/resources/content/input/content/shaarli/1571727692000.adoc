@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WSL - Use KeePass KeeAgent for SSH Keys; Use external X11
+:jbake-tags: keepass,windows,linux,system,_mois_oct.,_année_2019
+:jbake-date: 2019-10-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1571727692000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Fshokinn%2F345e4d0949054ce2862758ed791b279a&searchtags=keepass+windows+linux+system+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://gist.github.com/shokinn/345e4d0949054ce2862758ed791b279a[WSL - Use KeePass KeeAgent for SSH Keys; Use external X11]
+
+Sympa ce fix pour que WSL utilise les clés SSH stockées dans KeePass/KeeAgent !

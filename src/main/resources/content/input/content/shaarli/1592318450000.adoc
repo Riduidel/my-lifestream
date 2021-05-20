@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why You Shouldn’t Use “Markdown” for Documentation — Eric Holscher - Surfing in Kansas
+:jbake-tags: asciidoc,markdown,standard,écriture,technique,documentation,_mois_juin,_année_2020
+:jbake-date: 2020-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1592318450000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ericholscher.com%2Fblog%2F2016%2Fmar%2F15%2Fdont-use-markdown-for-technical-docs%2F&searchtags=asciidoc+markdown+standard+%C3%A9criture+technique+documentation+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/[Why You Shouldn’t Use “Markdown” for Documentation — Eric Holscher - Surfing in Kansas]
+
+Malheureusement, tout ça est vrai : Markdown n'est pas formalisé, CommonMark n'est pas adopté en dehors de StackOverflow/Discourse. Alors, arrêtez s'il vous plaît d'utiliser Markdown et passez à Asciidoc, qui est bien plus puissant.

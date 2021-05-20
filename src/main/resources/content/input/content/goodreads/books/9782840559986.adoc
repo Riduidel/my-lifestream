@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vincent et Van Gogh
+:jbake-tags:  anthropomorphisme, art, broc,_année_2014,_mois_mars,_note_2,rayon-bd,read
+:jbake-date: 2014-03-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840559986.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364299913l/17694620._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1364299913l/17694620._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/17694620
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/249242.html[Gradimir Smudja]
+
+## Series
+* link:../series/Vincent_et_Van_Gogh.html[Vincent et Van Gogh]
+
+## Review
+
+++++
+Les images sont belles, très belles même.<br/>Et les clins d'oeil aux oeuvres des impressionistes (Van Gogh, Renoir, Monet et les autres) sont aussi nombreux que bien trouvés.<br/>Malheureusement, il n'y a pas d'autre d'idée dans le scénario que celle de ce malin de Vincent. Et ça se sent dès la dixième page.<br/>Du coup, malgré la beauté et l'art du dession de l'auteur font de cette oeuvre quelque chose de ... pas terrible.
+++++

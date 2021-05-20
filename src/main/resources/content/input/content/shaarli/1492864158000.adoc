@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eric Elliott on Twitter: "Acceptance tests help you build the right product. Unit tests help you build the product right."
+:jbake-tags: citation,programming,test,_mois_avr.,_année_2017
+:jbake-date: 2017-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1492864158000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_ericelliott%2Fstatus%2F843133678670790657&searchtags=citation+programming+test+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/_ericelliott/status/843133678670790657[Eric Elliott on Twitter: "Acceptance tests help you build the right product. Unit tests help you build the product right."]
+
+Peut-être la meilleure réponse à donner aux gens qui opposent les deux

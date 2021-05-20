@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hacknot - Great Mistakes in Technical Leadership
+:jbake-tags: développement,management,productivité,programming,_mois_juin,_année_2006
+:jbake-date: 2006-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1150288968000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hacknot.info%2Fhacknot%2Faction%2FshowEntry%3Feid%3D87&searchtags=d%C3%A9veloppement+management+productivit%C3%A9+programming+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.hacknot.info/hacknot/action/showEntry?eid=87[Hacknot - Great Mistakes in Technical Leadership]
+
+Un excellent article sur les erreurs à ne pas commettre en tant qu'expert technique (qui, il me semble, est la dénomination française se rapprochant le plus du technical lead américain).

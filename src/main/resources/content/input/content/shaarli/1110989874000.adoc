@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MBS: Temperature Monitor
+:jbake-tags: software,freeware,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110989874000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bresink.com%2Fosx%2FTemperatureMonitor.html&searchtags=software+freeware+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bresink.com/osx/TemperatureMonitor.html[MBS: Temperature Monitor]
+
+Temperature Monitor is an application to read out all available temperature sensors in Macintosh computers. The program can display and visualize measured values in a large variety of fashions.

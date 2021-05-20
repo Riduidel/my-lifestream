@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." - Andy Hunt"
+:jbake-tags: software,programming,citation,_mois_févr.,_année_2017
+:jbake-date: 2017-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1487751079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F834174380049571840&searchtags=software+programming+citation+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/834174380049571840[Programming Wisdom on Twitter: ""No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first." - Andy Hunt"]
+
+Ca rend un peu d'humilité

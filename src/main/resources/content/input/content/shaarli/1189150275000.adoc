@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JollysFastVNC
+:jbake-tags: freeware,macosx,réseau,remote,software,vnc,client,_mois_sept.,_année_2007
+:jbake-date: 2007-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1189150275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jinx.de%2FJollysFastVNC.html&searchtags=freeware+macosx+r%C3%A9seau+remote+software+vnc+client+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.jinx.de/JollysFastVNC.html[JollysFastVNC]
+
+Un nouveau client VNC pour mac

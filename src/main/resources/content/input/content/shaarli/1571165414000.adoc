@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Elastic tabstops - a better way to indent and align code
+:jbake-tags: editor,texte,code,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571165414000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnickgravgaard.com%2Felastic-tabstops%2F&searchtags=editor+texte+code+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://nickgravgaard.com/elastic-tabstops/[Elastic tabstops - a better way to indent and align code]
+
+Un concept pas idiot pour fournir une meilleure expérience de développement

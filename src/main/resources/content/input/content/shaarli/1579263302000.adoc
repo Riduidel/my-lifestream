@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Building a Microservice with Rust - Diego Pacheco - Medium
+:jbake-tags: rust,exemple,microservices,application,documentation,tutorial,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579263302000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40diego_pacheco%2Fbuilding-a-microservice-with-rust-957420f196fc&searchtags=rust+exemple+microservices+application+documentation+tutorial+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/@diego_pacheco/building-a-microservice-with-rust-957420f196fc[Building a Microservice with Rust - Diego Pacheco - Medium]
+
+Certains éléments d'architecture sont discutables. Mais dans l'ensemble, ça ressemble à ce qu'on peut faire en Java/Spring/Bidule, non ? Et ça donne une appli qui marche vite en consommant bien moins d'espace mémoire.

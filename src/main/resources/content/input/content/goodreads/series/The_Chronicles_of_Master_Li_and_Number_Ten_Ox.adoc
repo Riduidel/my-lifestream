@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Chronicles of Master Li and Number Ten Ox
+:jbake-tags: serie
+:jbake-date: 2013-12-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Chronicles_of_Master_Li_and_Number_Ten_Ox.adoc
+:jbake-source: https://www.goodreads.com/series/51535
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070450954.html[La magnificence des oiseaux (Maître Li et Bœuf Numéro Dix, #1)]
+* link:../books/9782070450961.html[La légende de la pierre (Maître Li et Bœuf Numéro Dix, #2)]
+* link:../books/9782070450978.html[Huit honorables magiciens (Maître Li et Bœuf Numéro Dix, #3)]

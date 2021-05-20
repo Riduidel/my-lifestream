@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HTTPS everywhere, avec Let’s Encrypt - SFEIR Mag
+:jbake-tags: sécurité,web,http,_mois_sept.,_année_2016
+:jbake-date: 2016-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1473247428000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flemag.sfeir.com%2Fhttps-everywhere-avec-lets-encrypt%2F&searchtags=s%C3%A9curit%C3%A9+web+http+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://lemag.sfeir.com/https-everywhere-avec-lets-encrypt/[HTTPS everywhere, avec Let’s Encrypt - SFEIR Mag]
+
+Ca a l'air rudement bien pensé, Let's Encrypt

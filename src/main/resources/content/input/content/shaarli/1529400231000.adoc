@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Let Your Groovy Code Remember Your Sins – Vladimír Oraný – Medium
+:jbake-tags: programming,groovy,compilateur,documentation,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529400231000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40musketyr%2Flet-your-groovy-code-remember-your-sins-7faf4e53dd7c&searchtags=programming+groovy+compilateur+documentation+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://medium.com/@musketyr/let-your-groovy-code-remember-your-sins-7faf4e53dd7c[Let Your Groovy Code Remember Your Sins – Vladimír Oraný – Medium]
+
+Très intéressant, pour garantir que les décisions de design sont toujours d'actualité

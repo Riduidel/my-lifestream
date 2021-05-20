@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AngelikaLanger.com - Java Generics FAQs - Frequently Asked Questions - Angelika Langer Training/Consulting
+:jbake-tags: software,développement,java,generics,_mois_janv.,_année_2005
+:jbake-date: 2005-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1105973060000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.langer.camelot.de%2FGenericsFAQ%2FJavaGenericsFAQ.html&searchtags=software+d%C3%A9veloppement+java+generics+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.langer.camelot.de/GenericsFAQ/JavaGenericsFAQ.html[AngelikaLanger.com - Java Generics FAQs - Frequently Asked Questions - Angelika Langer Training/Consulting]
+
+This is a collection of answers to frequently asked questions (FAQs) about Java Generics, a new language feature added to the Java programming language in version 5.0 of the Java Standard Edition (J2SE 5.0).

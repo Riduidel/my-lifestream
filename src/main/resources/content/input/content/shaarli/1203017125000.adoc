@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: All-purpose Property List manipulation library
+:jbake-tags: ruby,macosx,library,_mois_févr.,_année_2008
+:jbake-date: 2008-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1203017125000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fplist.rubyforge.org%2F&searchtags=ruby+macosx+library+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://plist.rubyforge.org/[All-purpose Property List manipulation library]
+
+C'est peut-être encore plus efficace que la méthode initiale, qui consiste à parser le XML à la main, mais tant que ça marche, tout va bien.

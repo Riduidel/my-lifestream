@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tips for the most immersive video calls | benkuhn.net
+:jbake-tags: webcam,micro,visioconférence,conseil,_mois_sept.,_année_2020
+:jbake-date: 2020-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1601278901000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.benkuhn.net%2Fvc%2F&searchtags=webcam+micro+visioconf%C3%A9rence+conseil+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.benkuhn.net/vc/[Tips for the most immersive video calls | benkuhn.net]
+
+Une très bonne liste du matériel pour de bonnes visio-conférences. Il y a là-dedans quelques conseils particulièrement malins.

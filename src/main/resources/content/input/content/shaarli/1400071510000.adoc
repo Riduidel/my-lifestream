@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sebsauvage/rss-bridge @ github - Mitsu'liens
+:jbake-tags: php,rss,web,programming,_mois_mai,_année_2014
+:jbake-date: 2014-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1400071510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Froot.suumitsu.eu%2Flinks%2F%3FAuGWSQ&searchtags=php+rss+web+programming+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://root.suumitsu.eu/links/?AuGWSQ[sebsauvage/rss-bridge @ github - Mitsu'liens]
+
+Il est vrai que certains contributeurs de piètre qualité se posaient des questions :-) Suertout que mes bridges à base de cache de page HTML mériteraient sans doute un peu de rework (et peut-être l'utilisation d'une lib de parsing RSS)

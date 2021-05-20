@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: System Rules
+:jbake-tags: java,open-source,test,system,plugin,_mois_déc.,_année_2016
+:jbake-date: 2016-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1481011109000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstefanbirkner.github.io%2Fsystem-rules%2F&searchtags=java+open-source+test+system+plugin+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://stefanbirkner.github.io/system-rules/[System Rules]
+
+Un paquet de règles JUnit pour valider les interactions avec le système. Pratique.

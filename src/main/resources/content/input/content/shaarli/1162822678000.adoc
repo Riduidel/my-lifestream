@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Subversion Users: Protocol proxy?
+:jbake-tags: documentation,software,subversion,email,proxy,_mois_nov.,_année_2006
+:jbake-date: 2006-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1162822678000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsvn.haxx.se%2Fusers%2Farchive-2005-01%2F0257.shtml&searchtags=documentation+software+subversion+email+proxy+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://svn.haxx.se/users/archive-2005-01/0257.shtml[Subversion Users: Protocol proxy?]
+
+Une question que je me suis déja posée et qui a son intérêt pour, par exemple, participer à un projety Sourceforge depuis un ordinateur derrière un proxy d'entreprise

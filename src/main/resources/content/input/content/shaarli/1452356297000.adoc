@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Normalization of deviance in software: how completely messed up practices become normal
+:jbake-tags: informatique,concepts,organisation,histoire,_mois_janv.,_année_2016
+:jbake-date: 2016-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1452356297000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdanluu.com%2Fwat%2F&searchtags=informatique+concepts+organisation+histoire+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://danluu.com/wat/[Normalization of deviance in software: how completely messed up practices become normal]
+
+Tout ce qui est écrit là-dedans m'est arrivé, et me fait frémir rétrospectivement

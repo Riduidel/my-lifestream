@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DZSlides
+:jbake-tags: html,javascript,web,powerpoint,_mois_juin,_année_2013
+:jbake-date: 2013-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1371566608000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpaulrouget.com%2Fdzslides%2F&searchtags=html+javascript+web+powerpoint+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://paulrouget.com/dzslides/[DZSlides]
+
+Ca m'a l'air d'un bon PowerPoint dans mon fichier HTML, ça !

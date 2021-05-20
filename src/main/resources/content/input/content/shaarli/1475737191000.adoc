@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gamasutra - More dirty coding tricks from game developers
+:jbake-tags: programming,jeu,histoire,_mois_oct.,_année_2016
+:jbake-date: 2016-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1475737191000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gamasutra.com%2Fview%2Fnews%2F249475%2F&searchtags=programming+jeu+histoire+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.gamasutra.com/view/news/249475/[Gamasutra - More dirty coding tricks from game developers]
+
+J'adore ces articles qui montrent jusqu'où ont été les dévs

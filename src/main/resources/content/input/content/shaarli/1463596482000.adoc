@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L’économie malade de ses modèles | CNRS Le journal
+:jbake-tags: économie,politique,science,_mois_mai,_année_2016
+:jbake-date: 2016-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1463596482000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flejournal.cnrs.fr%2Farticles%2Fleconomie-malade-de-ses-modeles%3Famp%3Butm_medium%3Dsocial&searchtags=%C3%A9conomie+politique+science+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://lejournal.cnrs.fr/articles/leconomie-malade-de-ses-modeles?amp;utm_medium=social[L’économie malade de ses modèles | CNRS Le journal]
+
+Excellent article critique sur les limites de "la science économique"

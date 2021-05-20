@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Margaret Weis
+:jbake-tags: author
+:jbake-date: 1995-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/869.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1371065031p5/869.jpg
+:jbake-source: https://www.goodreads.com/author/show/869
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780553403756.html[Fire Sea (The Death Gate Cycle, #3)]
+* link:../books/9780553561401.html[Serpent Mage (The Death Gate Cycle, #4)]
+* link:../books/9780553563696.html[The Hand of Chaos (The Death Gate Cycle, #5)]
+* link:../books/9782266008938.html[Le désir du dieu errant]
+* link:../books/9782266051637.html[L'étoile des elfes (Les portes de la mort, #2)]
+* link:../books/9782266051644.html[L'aile du dragon (Les portes de la mort, #1)]
+* link:../books/9782266054423.html[Le Prophète D'akhran]
+* link:../books/9782266054430.html[Le Paladin De La Nuit]
+* link:../books/9782266063821.html[Voyage au fond du labyrinthe (Les portes de la mort, #6)]
+* link:../books/9782266065337.html[La septième porte (Les portes de la mort, #7)]

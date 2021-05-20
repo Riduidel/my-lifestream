@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Contents
+:jbake-tags: programming,langage,ruby,guide,_mois_févr.,_année_2005
+:jbake-date: 2005-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1107340033000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ruby-doc.org%2Fdocs%2FUsersGuide%2Frg%2F&searchtags=programming+langage+ruby+guide+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ruby-doc.org/docs/UsersGuide/rg/[Contents]
+
+Ruby is "an easy object oriented language". It may seem a little strange at first, but it is designed to be easily read and written. This User's Guide will get you started at invoking and using ruby, and give you insights into ruby's nature that you may n

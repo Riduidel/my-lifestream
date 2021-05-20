@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML diagrams without redundancy | Stefan Densow - Blog
+:jbake-tags: plantuml,uml,diagram,modèle,_mois_avr.,_année_2019
+:jbake-date: 2019-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1555260767000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fzimtkeks.github.io%2F2019%2F03%2F08%2Fplantuml-diagrams-without-redundancy.html&searchtags=plantuml+uml+diagram+mod%C3%A8le+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://zimtkeks.github.io/2019/03/08/plantuml-diagrams-without-redundancy.html[PlantUML diagrams without redundancy | Stefan Densow - Blog]
+
+Oh c'est une super façon d'utiliser PlantUML pour faire des choses vraiment propres !

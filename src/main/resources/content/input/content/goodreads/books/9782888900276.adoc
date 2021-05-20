@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo, tome 6
+:jbake-tags:  amour, anthropomorphisme, combat, famille, honeur, japon, voyage,_année_2012,_mois_nov.,_note_5,rayon-bd,read
+:jbake-date: 2012-11-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888900276.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352233289l/16133654._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352233289l/16133654._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/16133654
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Usagi, las de sa vie de vagabond, cherche à revenir dans son village natal. Son chemin n'est pas un fleuve tranquille puisqu'il devra affronter un démon qui hante le pont d'un village, se battre en duel contre de redoutables bretteurs ou encore déjouer les plans machiavéliques de Jei, un de ses vieux ennemis. Mais, la grande force de ce volume se trouve essentiellement dans les révélations qu'il contient et qui changeront à jamais la vie de notre héros.<br /><br />Depuis sa première publication en 1984, le succès du lapin aux grandes oreilles n’a cessé de croître. La série a rapporté à son auteur de nombreux prix, dont le fameux Eisner Award et est traduite dans plus de 10 langues. En Français, la série totalise plus de 100.000 ventes !
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Si les premières histoires courtes de ce tome sont "classiques" (oui, rien chez Usagi n'est juste quelconque), l'histoire - un peu plus longue - qui conclut ce tome est simplement sublime. on y voit Usagi tenter de revenir dans son pays natal, mais s'y heurter à son passé d'une manière aussi délicate qu'insupportable pour lui, tiraillé qu'il est entre son honneur passé et son amour toujours présent.
+++++

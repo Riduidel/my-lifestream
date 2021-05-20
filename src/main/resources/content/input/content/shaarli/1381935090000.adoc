@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sebsauvage.net- Charsets et encoding
+:jbake-tags: java,programming,charset,encoding,_mois_oct.,_année_2013
+:jbake-date: 2013-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1381935090000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fpython%2Fcharsets_et_encoding.html&searchtags=java+programming+charset+encoding+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sebsauvage.net/python/charsets_et_encoding.html[sebsauvage.net- Charsets et encoding]
+
+L'introduction est à lire pour tous les développeurs qui lisent/écrivent un fichier dans un jeu de caractère "quelconque" (en France, ce sera typiquement ISO-8859-1(5)) et qui veulent l'afficher dans un autre jeu de caractère. Pour les javaistes, le secret, c'est de passer par Apache Commons-IO et IOUtils\#toString(InputStream, String charset) en mettant charset à la bonne valeur (et surtout, surtout, en considérant que Java utilise l'unicode en interne)

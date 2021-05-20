@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: New York Delaware (Travis, #10)
+:jbake-tags:  new-york,_année_2012,_mois_mars,_note_4,rayon-bd,read
+:jbake-date: 2012-03-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756020228.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331376402l/13519214._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331376402l/13519214._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/13519214
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Accompagné de Vlad, Thundercat et Harker, Travis est à New York pour mettre la main sur des terroristes contrôlés par une intelligence artificielle sur le point de s'accaparer les groupes de distribution des eaux mondiales. Mais dans l'ombre, une guerre plus impitoyable encore se prépare. Et si Big Apple n'était qu'un piège pour éloigner l'unique équipe capable de contrer la véritable menace ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/503980.html[Christophe Quet]
+* link:../authors/503981.html[Fred Duval]
+* link:../authors/989161.html[Pierre Schelle]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+Conclusion du combat sur l'eau contre la mignonne mais pas trop gentille Dommy, ce tome envoie nos héros à New-York dans une course-poursuite effrénée, avec cascades à l'américaine inclues.<br/>C'est distrayant, il y a un fond économico-moral assez intéressant, que demander de plus ? Ben rien, moi, je suis content.
+++++

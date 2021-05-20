@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Beef Up Your Skills with Code Exercise | Flippin' Awesome
+:jbake-tags: programming,formation,entraînement,jeu,_mois_juin,_année_2014
+:jbake-date: 2014-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1402576185000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflippinawesome.org%2F2014%2F05%2F12%2Fbeef-up-your-skills-with-code-exercise%2F&searchtags=programming+formation+entra%C3%AEnement+jeu+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://flippinawesome.org/2014/05/12/beef-up-your-skills-with-code-exercise/[Beef Up Your Skills with Code Exercise | Flippin' Awesome]
+
+Belle liste de sites pour améliorer son code. il manque toutefois codingame, mais bon, c'est aps trop grave puisqu'on y trouve project Euler :-)

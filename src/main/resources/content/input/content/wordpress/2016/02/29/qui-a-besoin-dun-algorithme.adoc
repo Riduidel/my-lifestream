@@ -1,0 +1,41 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Qui a besoin d'un algorithme ?
+:jbake-tags: mémoire,téléphone,_mois_févr.,_année_2016
+:jbake-date: 2016-02-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/02/29/qui-a-besoin-dun-algorithme.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/02/29/qui-a-besoin-dun-algorithme/
+:jbake-style: wordpress
+
+++++
+<p>
+Quand il peut acheter de l'espace disque ?
+</p>
+<p>
+Vous vous souvenez de <a href="https://riduidel.wordpress.com/2016/01/02/je-cherche-un-truc/">cette idée délirante de créer un serveur UPnP sur un Raspberry</a> pour servir la musique facilement sur tous mes périphériques mobiles ? Bon, eh bien, j'ai abandonné.
+</p>
+<p>
+Parce qu'en fait, ça n'est déjà plus une solution économique : il fallait acheter le Raspberry, la clé USB Wifi, la carte SD de forte capacité, la batterie, le boîtier ... L'un dans l'autre, ça me serait revenu à une bonne centaine d'euros, sans compter le temps à passer pour faire marcher le bazar.
+</p>
+<p>
+Alors que bon, acheter simplement une carte MicroSDXC de 128 Go et y claquer toute ma musique, c'est beaucoup plus simple, moins cher, et plus efficace. Donc c'est ce que j'ai fait. Et, heureusement, mon Wiko Raimbow accepte les 128 Go de la microSDXC. Et ça marche vraiment bien ! En fait, maintenant, le plus gros problème, c'est de transférer les fichiers "en masse" sans que ça dure des heures. Et pour ça, la solution la plus simple que j'ai trouvé, c'est ...
+<br/>
+<ol>
+<br/>
+<li>Arrêter le téléphone (c'est fait automatiquement tous les soirs à 20h30)</li>
+<br/>
+<li>Ouvrir le téléphone</li>
+<br/>
+<li>Mettre la carte dans un adaptateur SD/MicroSD</li>
+<br/>
+<li>Mettre l'adaptateur dans l'ordinateur</li>
+<br/>
+<li>Et copier les fichiers <em>très</em> vite.</li>
+<br/>
+</ol>
+<br/>
+Bref, c'est pas terrible. Mais comme je ne risque pas de copier des fichiers tous les quatre matins, eh bien ça vaut le coup !
+</p>
+++++

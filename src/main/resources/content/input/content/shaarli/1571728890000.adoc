@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tudor Girba sur Twitter : "Software architecture is not an artifact. It’s a property. And an emergent one, too."
+:jbake-tags: architecture,documentation,concepts,citation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1571728890000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgirba%2Fstatus%2F1186174673559666689&searchtags=architecture+documentation+concepts+citation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/girba/status/1186174673559666689[Tudor Girba sur Twitter : "Software architecture is not an artifact. It’s a property. And an emergent one, too."]
+
+Effectivement, les artefacts d'architecture ne sont en fait que de la documentation de la pratique architecturale.

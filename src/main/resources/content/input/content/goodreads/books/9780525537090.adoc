@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To: Absurd Scientific Advice for Common Real-World Problems
+:jbake-tags:  expérience, mathématiques, physique,_année_2021,_mois_févr.,_note_4,rayon-science,read
+:jbake-date: 2021-02-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780525537090.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550145086l/43852758._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550145086l/43852758._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/43852758
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<b>The world's most entertaining and useless self-help guide, from the brilliant mind behind the wildly popular webcomic xkcd and the #1 <i>New York Times</i> bestsellers <i>What If?</i> and <i>Thing Explainer</i></b><br /><br />For any task you might want to do, there's a right way, a wrong way, and a way so monumentally complex, excessive, and inadvisable that no one would ever try it. <i>How To</i> is a guide to the third kind of approach. It's full of highly impractical advice for everything from landing a plane to digging a hole.<br /><br />Bestselling author and cartoonist Randall Munroe explains how to predict the weather by analyzing the pixels of your Facebook photos. He teaches you how to tell if you're a baby boomer or a 90's kid by measuring the radioactivity of your teeth. He offers tips for taking a selfie with a telescope, crossing a river by boiling it, and powering your house by destroying the fabric of space-time. And if you want to get rid of the book once you're done with it, he walks you through your options for proper disposal, including dissolving it in the ocean, converting it to a vapor, using tectonic plates to subduct it into the Earth's mantle, or launching it into the Sun.<br /><br />By exploring the most complicated ways to do simple tasks, Munroe doesn't just make things difficult for himself and his readers. As he did so brilliantly in <i>What If?</i>, Munroe invites us to explore the most absurd reaches of the possible. Full of clever infographics and amusing illustrations, <i>How To</i> is a delightfully mind-bending way to better understand the science and technology underlying the things we do every day.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3089156.html[Randall Munroe]
+
+
+
+## Review
+
+++++
+Randall Munro cherche dans ce livre les réponses les plus loufoques à des questions simples.<br/>Pour donner un exemple, quand il se demande comment arriver à l'heure à un rendez-vous, son premier réflexe est de tenter de ralentir l'écoulement du temps.<br/>Donc, ce sont globalement des méthodes de l'ordre de la triche. Mais des méthodes qui impliquent globalement beaucoup de science. Et c'est très cool, parce que ça envoie le lecteur dans des directions totalement inattendues (mais souvent relativistes).<br/>Comme pour "Et si...", j'ai beaucoup aimé le ton et le sujet. Le bouquin est vraiment très sympa à picorer.
+++++

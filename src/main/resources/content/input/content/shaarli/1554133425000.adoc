@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sam Mortenson on Twitter: "Did you know <a ping="url1 url2 url3 ..."> is a thing? 😱… "
+:jbake-tags: web,réseau,validation,html,_mois_avr.,_année_2019
+:jbake-date: 2019-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1554133425000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDrupalSAM%2Fstatus%2F1111279855948042241&searchtags=web+r%C3%A9seau+validation+html+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/DrupalSAM/status/1111279855948042241[Sam Mortenson on Twitter: "Did you know <a ping="url1 url2 url3 ..."> is a thing? 😱… "]
+
+Je ne sais pas si ça marche sous Firefox, mais c'est en tout cas une excellente idée

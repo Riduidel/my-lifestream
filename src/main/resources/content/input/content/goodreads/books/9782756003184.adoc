@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Maître d'armes (De Cape et de Crocs, #8)
+:jbake-tags:  guerre, lune, rêve, voyage,_année_2016,_mois_juin,_note_5,rayon-bd,read
+:jbake-date: 2016-06-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756003184.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327507633l/1992890._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327507633l/1992890._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1992890
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Acte VIII. Explorant les étranges cimes nuageuses de l'immense îlot d'Oxymore, messieurs de Maupertuis et Villalobos retrouvent enfin le mystérieux Maître d'Armes. Mais l'homme a le sang chaud, le verbe haut, la lame prompte... comment va-t-il réagir aux provocations d'Eusèbe ? Acceptera-t-il de réorganiser la défense du royaume sélénite ? L'heure est grave car le fourbe prince Jean et l'infâme Mendoza ourdissent de sinistres projets : sur le paisible astre lunaire plane l'ombre de la guerre.
+</div>
+++++
+
+
+## Authors
+* link:../authors/876891.html[Alain Ayroles]
+* link:../authors/876892.html[Jean-Luc Masbou]
+
+## Series
+* link:../series/De_Cape_et_de_Crocs.html[De Cape et de Crocs]
+
+## Review
+
+++++
+Une page de garde racontant un récit rempli de cases blanches, mais pourtant très visuel.<br/>Un maître d'armes absolument bergeracois.<br/>Une bataille finale dont les tons de sang et d'os tranche méchamment avec la couleur de tout ce récit.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Visual Guide to Regular Expression
+:jbake-tags: regexp,tutorial,documentation,python,programming,_mois_janv.,_année_2021
+:jbake-date: 2021-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1609877524000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Famitness.com%2Fregex%2F&searchtags=regexp+tutorial+documentation+python+programming+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://amitness.com/regex/[A Visual Guide to Regular Expression]
+
+Un très chouette tutorial sur les expressions régulières ... appliquées en Java (mais la partie sur la définition des expressions régulière s'applique à peu près quelquesoit le langage)

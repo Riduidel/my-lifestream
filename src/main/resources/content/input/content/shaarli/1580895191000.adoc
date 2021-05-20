@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Discord is switching from Go to Rust - Discord Blog
+:jbake-tags: rust,go,programming,comparison,optimisation,_mois_févr.,_année_2020
+:jbake-date: 2020-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1580895191000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.discordapp.com%2Fwhy-discord-is-switching-from-go-to-rust-a190bbca2b1f&searchtags=rust+go+programming+comparison+optimisation+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f[Why Discord is switching from Go to Rust - Discord Blog]
+
+Sans surprise, quand on remplace du Go par du Rust, il n'y a plus de pause de GC.

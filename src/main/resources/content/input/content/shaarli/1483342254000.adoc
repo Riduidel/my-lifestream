@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources
+:jbake-tags: programming,jeu,_mois_janv.,_année_2017
+:jbake-date: 2017-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1483342254000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flnishan%2Fawesome-competitive-programming&searchtags=programming+jeu+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/lnishan/awesome-competitive-programming[lnishan/awesome-competitive-programming: A curated list of awesome Competitive Programming, Algorithm and Data Structure resources]
+
+Tout un tas de concurrents potentiels à @codingame

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VLC media player - Overview
+:jbake-tags: software,freeware,multimedia,vidéo,linux,windows,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110472949000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.videolan.org%2Fvlc%2F&searchtags=software+freeware+multimedia+vid%C3%A9o+linux+windows+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.videolan.org/vlc/[VLC media player - Overview]
+
+VLC is a highly portable multimedia player for various audio and video formats as well as DVDs, VCDs, and various streaming protocols. It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a high-bandwidth network.

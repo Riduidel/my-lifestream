@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cadey Alicia Ratio 🌐 sur Twitter : "Oh also, functional purity is a lie because computers emit heat when running your industry-defining stateless addition program in the cloud."
+:jbake-tags: humour,programming,functionnal,_mois_janv.,_année_2020
+:jbake-date: 2020-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1580197599000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftheprincessxena%2Fstatus%2F1221951561435402241&searchtags=humour+programming+functionnal+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/theprincessxena/status/1221951561435402241[Cadey Alicia Ratio 🌐 sur Twitter : "Oh also, functional purity is a lie because computers emit heat when running your industry-defining stateless addition program in the cloud."]
+
+Oh c'est bien drôle ça ! D'une manière générale, le fonctionnel pur qui a pour objectif de lire et d'écrire "des trucs" dans des flux qui peuvent être des fichiers ... Ca peut faire bizarre.

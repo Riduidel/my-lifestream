@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kandid, a genetic art project,
+:jbake-tags: java,freeware,software,art,génétique,_mois_janv.,_année_2005
+:jbake-date: 2005-01-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1106659170000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkandid.sourceforge.net%2F&searchtags=java+freeware+software+art+g%C3%A9n%C3%A9tique+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://kandid.sourceforge.net/[Kandid, a genetic art project,]
+
+Kandid is a system to evolve graphics. Graphics, in Kandid, is not drawn by hand. Instead new forms can be found using genetic algorithms. To achieve this aim Kandid simulates evolution using sexual reproduction and populations. But there is no fitness fu

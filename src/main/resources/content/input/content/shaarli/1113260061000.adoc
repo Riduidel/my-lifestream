@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rue Bricabrac
+:jbake-tags: adult,texte,blog,bdsm,_mois_avr.,_année_2005
+:jbake-date: 2005-04-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1113260061000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblogue.bricabrac.free.fr%2Fdotclear%2F&searchtags=adult+texte+blog+bdsm+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://blogue.bricabrac.free.fr/dotclear/[Rue Bricabrac]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: qntm on Twitter: "A group of hedgehogs is called an array, which means that everything in an array is a hedgehog, I don't make the rules… https://t.co/8UCMCoB6ZG"
+:jbake-tags: citation,humour,programming,_mois_mars,_année_2019
+:jbake-date: 2019-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1552464164000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fqntm%2Fstatus%2F1105283419011977216&searchtags=citation+humour+programming+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/qntm/status/1105283419011977216[qntm on Twitter: "A group of hedgehogs is called an array, which means that everything in an array is a hedgehog, I don't make the rules… https://t.co/8UCMCoB6ZG"]
+
+Donc à partir de maintenant, n'écrivez plus for(var i in array) Mais for(hedgehog in array) C'est bien plus stylé !

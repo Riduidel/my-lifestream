@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: S'abonner à un groupe Google sans adresse Google
+:jbake-tags: email,mailing-list,google,_mois_juin,_année_2013
+:jbake-date: 2013-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1372079526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkoansys.com%2Ftech%2Fsubscribe-to-google-groups-with-non-google-address%3Fmonth%3Aint%3D12%26year%3Aint%3D2011%26orig_query%3D&searchtags=email+mailing-list+google+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://koansys.com/tech/subscribe-to-google-groups-with-non-google-address?month:int=12&year:int=2011&orig_query=[S'abonner à un groupe Google sans adresse Google]
+
+TL-DR; legroupe+subscribe@googlegroups.com pour s'abonner legroupe+unsubscribe @googlegroups.com pour se désabonner Et paf chez GMX !

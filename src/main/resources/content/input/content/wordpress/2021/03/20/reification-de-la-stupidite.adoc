@@ -1,0 +1,72 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Réification de la stupidité
+:jbake-tags: communication,intelligence,media,_mois_mars,_année_2021
+:jbake-date: 2021-03-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/03/20/reification-de-la-stupidite.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/03/20/reification-de-la-stupidite/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>J'ai déja parlé, je crois, de ce sujet qui me hante de plus en plus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La réification, c'est le mot savant pour l'objectification, c'est-à-dire la réduction d'une personne à l'une de ces composantes. L'exemple canonique, c'est "<a href="https://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Pastiches/Une_femme">une femme</a>", parce que c'est celui qu'ont bien fait de mettre en avant les féministes : les femmes sont bien plus souvent réduites à leur texte et, partant de là, traitées avec au minimum de la condescendance, au pire ... bon, je crois que tout le monde sait à quel point l'homme minuscule est capable d'abaisser les minorités, visibles ou non. Parce que cette réification touche évidement bien d'autres catégories ethniques, physiques, spirituelles. Là aussi, les exemples ne manquent pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce dont j'aimerais parler aujourd'hui, c'est d'un cas assez spécifique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Spécifique, mais conditionnant peut-être la mise en visibilité des autres.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Aujourd'hui, comme le titre l'indique clairement, je voudrais parler de la réification de la stupidité. C'est-à-dire l'instrumentalisation, souvent par des gens malins plutôt que sages, de la stupidité des masses. Cette réification, on la retrouve à chaque fois qu'on appelle quelqu'un à réagir avec ces tripes. Et là, je pense que vous me voyez venir ... Qui aujourd'hui vous appelle à réagir, à vous <a href="https://fr.wikipedia.org/wiki/Indignez-vous_!">indigner</a> ? Contrairement à ce que le dernier lien indique, certainement pas un vieux résistant appelant à la solidarité, mais plutôt tous les médias, qu'ils soient de l'ancien ou du nouveau monde, qui vous proposent des solutions faciles et une égalité de parole entre partisans et opposants, quel que soit le sujet.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evidement, en ce moment, c'est assez flagrant : les processus scientifiques sont mis à mal par des processus médiatiques au prétexte que "la science ne peut pas s'isoler dans une tour d'ivoire". Ce qui est vrai, mais qui ne peut être le prétexte à la critique par des authentiques ignorants (président de la république compris) de mécanismes qui nécessitent la compréhension pleine et entière de concepts d'épidémiologie, de statistiques, de virologie et autres.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est également tout aussi flagrant lorsqu'on voit des gens qui, encore une fois n'y connaissent rien, imaginer des chiffres de consommation électrique d'équipements électroniques qui sont authentiquement délirants, et qui sont repris parce que nul ne se soucie réellement de leur provenance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je pourrais multiplier les exemples jusqu'à la nausée ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et évidement, je pense que vous savez tout autant que moins d'où vient cette exploitation de la stupidité.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et ce qui est cool, c'est que c'est plutôt bien documenté : <a href="https://www.madmoizelle.com/colere-internet-1015565">Madmoizelle</a>, <a href="https://www.lemonde.fr/idees/article/2018/01/20/reseaux-sociaux-la-pente-glissante-de-l-indignation-permanente_5244472_3232.html">Le Monde</a>, et même <a href="https://www.bfmtv.com/tech/vie-numerique/un-ancien-ingenieur-de-google-explique-comment-les-reseaux-sociaux-nous-rendent-accros_AN-201906300018.html">BFMtv</a>... tous vous parleront des ignobles réseaux sociaux qui ne font rien d'autre que manipuler le flux d'informations qui vous est présenté pour susciter chez vous un niveau d'indignation correct, qui vous poussera vers l'engagement. Et je dois dire que voir les médias traditionnels (et spécialement BFM) pointer du doigt l'algorithmisation de cette exploitation quand certains s'en sont fait une spécialité navrante est assez ... triste.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais comment lutter contre ça ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord en refusant le flux algorithmique. Pour donner un exemple typique, j'utilise Twitter à travers <a href="https://tweetledee.github.io/tweetledee/">Tweeltedee</a>, qui me donne un flux RSS complet, contenant donc tous les tweets des gens que je suis. Et quand j'ai été coincé chez moi, j'ai installé <a href="https://github.com/TwidereProject/Twidere-Android">twidere</a>. Et j'ai été toute à fait surpris - et déçu - de découvrir que celui-ci utilisait le flux "optimisé par twitter" pour maximiser mon engagement. Il y avait donc moins de messages, et surtout des messages censés susciter plus de réactions de ma part. Je ne suis pas sûr que ça ait été le cas. En tout cas, j'ai vu la différence ... et elle m'a déplu. Je vous recommande du coup d'avoir un flux aussi brut que possible, parce que ça vous poussera à faire vous-même la sélection des gens que vous suivez, plutôt que de laisser un algorithme choisir selon des critères définis pour optimiser certaines caractéristiques opaques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par ailleurs, je vous encourage à ne pas lire les messages "en direct". C'est-à-dire à laisser un délai entre l'envoi des messages et votre lecture. Tout ce qui peut limiter la réactivité est bon à prendre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et puis, surtout, prenez le temps de répondre ... Et de réfléchir ... Et de questionner vos certitudes ainsi que vos connaissances sur le sujet mentionné avant de réagir. Des conseils beaucoup plus faciles à donner qu'à suivre ... plus que le suivant d'ailleurs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le dernier conseil que je peux vous donner, c'est de favoriser l'émergence de l'intelligence. Dit comme ça, ça a l'air ... prétentieux et facile. En vérité, c'est plus facile qu'authentiquement prétentieux. La méthode la plus efficace, c'est de répondre aux certitudes par des questions bienveillantes : ne poussez pas les gens dans leurs retranchements, ça les mets dans une position défensive qui inhibe l'intelligence. Poussez-les plutôt à approfondir leur raisonnement. Parce que c'est en explorant les limites des connaissances des autres qu'on peut les aider à augmenter ces connaissances, et peut-être à comprendre qu'il faut douter pour apprendre.</p>
+<!-- /wp:paragraph -->
+++++

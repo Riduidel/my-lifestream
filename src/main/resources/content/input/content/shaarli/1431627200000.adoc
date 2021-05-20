@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DocTester - Java JUnit Doctest Framework -
+:jbake-tags: programming,software,test,bdd,documentation,freeware,open-source,java,junit,_mois_mai,_année_2015
+:jbake-date: 2015-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1431627200000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.doctester.org%2F&searchtags=programming+software+test+bdd+documentation+freeware+open-source+java+junit+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.doctester.org/[DocTester - Java JUnit Doctest Framework -]
+
+L'idée est très séduisante, mais je serais tenté de dire qu'il manque des morceaux dans l'API

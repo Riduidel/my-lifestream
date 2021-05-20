@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une documentation qui vit | Eventually coding
+:jbake-tags: documentation,agile,_mois_avr.,_année_2020
+:jbake-date: 2020-04-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1587406667000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feventuallycoding.com%2F2020%2F04%2F19%2Fune-documentation-qui-vit%2F&searchtags=documentation+agile+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://eventuallycoding.com/2020/04/19/une-documentation-qui-vit/[Une documentation qui vit | Eventually coding]
+
+Chouette article, qui fournit à mon avis une introduction sympa à la documentation vivante ...

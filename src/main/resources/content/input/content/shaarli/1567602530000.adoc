@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Classement des 200 développeur·se·s | Human Coders Ranking
+:jbake-tags: informatique,métier,sexisme,_mois_sept.,_année_2019
+:jbake-date: 2019-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1567602530000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Franking.humancoders.com%2Frankings%2Fdeveloppeurs&searchtags=informatique+m%C3%A9tier+sexisme+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://ranking.humancoders.com/rankings/developpeurs[Classement des 200 développeur·se·s | Human Coders Ranking]
+
+Vous voulez une vraie illustration du sexisme dans la profession de développeur : dans les 100 développeurs, il n'y a que 4 femmes .... Ca n'est pas seulement le sexisme des développeurs actuels, mais aussi celui des formations.

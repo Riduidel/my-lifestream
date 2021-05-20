@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bip.io
+:jbake-tags: web,open-source,software,freeware,automatisation,_mois_oct.,_année_2013
+:jbake-date: 2013-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1382105552000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbip.io%2F&searchtags=web+open-source+software+freeware+automatisation+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://bip.io/[bip.io]
+
+Tiens ?! une version auto-hébergeable de IFTTT ? Très chouette idée !

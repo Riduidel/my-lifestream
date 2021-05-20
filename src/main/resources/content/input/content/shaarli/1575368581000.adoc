@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Happiness and Life Satisfaction - Our World in Data
+:jbake-tags: politique,économie,qualité,vie,france,monde,_mois_déc.,_année_2019
+:jbake-date: 2019-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1575368581000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fourworldindata.org%2Fhappiness-and-life-satisfaction&searchtags=politique+%C3%A9conomie+qualit%C3%A9+vie+france+monde+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://ourworldindata.org/happiness-and-life-satisfaction[Happiness and Life Satisfaction - Our World in Data]
+
+Une enquête énorme sur la qualité de vie dans les différents pays. Evidement, il y a des corrélations avec l'économie et la stabilité politique. Mais il y a aussi l'insatisfaction chronique des français ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Photon: A WebAssembly Image Processing Library
+:jbake-tags: rust,webassembly,image,manipulation,library,open-source,_mois_juin,_année_2020
+:jbake-date: 2020-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1591341076000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsilvia-odwyer.github.io%2Fphoton%2F&searchtags=rust+webassembly+image+manipulation+library+open-source+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://silvia-odwyer.github.io/photon/[Photon: A WebAssembly Image Processing Library]
+
+Une librairie de traitement d'image en Rust/WebAssembly, pour faire mieux qu'ImageMagick dans le browser ou sur sa machine !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How do I sort a list with multiple sort parameters?
+:jbake-tags: java,programming,exemple,enum,fluent,_mois_sept.,_année_2015
+:jbake-date: 2015-09-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1443593468000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstackoverflow.com%2Fa%2F1421537%2F15619&searchtags=java+programming+exemple+enum+fluent+_mois_sept.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://stackoverflow.com/a/1421537/15619[How do I sort a list with multiple sort parameters?]
+
+Très très chouette exemple d'utilisation des enums pour composer des comparaisons. A réutiliser.

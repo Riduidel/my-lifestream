@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Access Developer Tools | Smithsonian Institution
+:jbake-tags: web,openapi,open-data,art,histoire,_mois_mars,_année_2020
+:jbake-date: 2020-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1584119898000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.si.edu%2Fopenaccess%2Fdevtools&searchtags=web+openapi+open-data+art+histoire+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.si.edu/openaccess/devtools[Open Access Developer Tools | Smithsonian Institution]
+
+Donc il y a une API pour les 11 millions d'images du Smithsonian. Je crois que c'est exactement le bon moment pour vraiment lancer ce projet de \*-quotes (dont je voulais faire au début un simple xkcd-quotes)

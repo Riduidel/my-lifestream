@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Roi en jaune (Arcane Majeur #2)
+:jbake-tags:  amérique, complot, expérience, fantastique, rayon-emprunt,_année_2012,_mois_mai,_note_3,rayon-bd,read
+:jbake-date: 2012-05-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847891638.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327788874l/11698045._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327788874l/11698045._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/11698045
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Automne 1961, Kennedy s'installe à la Maison Blanche et la Fondation Vane - ancêtre de l'agence Stargate - a bien du mal à survivre aux coupes budgétaires. Une dernière chance s'offre à elle : mettre hors d'état de nuire le sinistre homme d'affaire surnommé le "roi en jaune", et neutraliser son homme lige, un homme politique qui a juré la perte de la fondation... Richard Nixon
+</div>
+++++
+
+
+## Authors
+* link:../authors/5621260.html[Jean-Pierre Pécau]
+
+## Series
+* link:../series/Arcane_Majeur.html[Arcane Majeur]
+
+## Review
+
+++++
+Drôle d'histoire que ce voyage au pays des labos secrets des années soixante : on expérimente les pouvoirs de perception induits par le LSD, on essaye de voir au-delà des apparences, et on fait des lobotomies sans anesthésie pour voir ce que ça donne.<br/>Au milieu de ça, le paranormal des arcanes fait un peu tâche, mais reste assez sympathiquement amenée.<br/>Et puis voir la Pandora d'Arcanes se débattre au milieu des mafiosi corses, c'est assez marrant.
+++++

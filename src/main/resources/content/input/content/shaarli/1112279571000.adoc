@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Free UML (Universal Modeling Language) Training & Tutorials
+:jbake-tags: programming,uml,concepts,documentation,tutorial,portal,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112279571000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.intelligentedu.com%2Fnewly_researched_free_training%2FUML.html&searchtags=programming+uml+concepts+documentation+tutorial+portal+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.intelligentedu.com/newly_researched_free_training/UML.html[Free UML (Universal Modeling Language) Training & Tutorials]
+
+

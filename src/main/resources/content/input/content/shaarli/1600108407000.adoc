@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OCR in Java with Tess4J
+:jbake-tags: java,ocr,exemple,open-source,_mois_sept.,_année_2020
+:jbake-date: 2020-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1600108407000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.mscharhag.com%2Fjava%2Focr-tess4j&searchtags=java+ocr+exemple+open-source+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.mscharhag.com/java/ocr-tess4j[OCR in Java with Tess4J]
+
+Un exemple intéressant d'intégration Tesseract en Java. Ca n'est pas spécialement mon cas d'utilisation. Mais ça me donne enfin un moyen d'implémenter une diée de plugin Keepass.

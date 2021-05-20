@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Competitive Programmer's Handbook
+:jbake-tags: codingame,programming,java,ebook,@toread,_mois_mai,_année_2017
+:jbake-date: 2017-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1494597314000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcses.fi%2Fbook.html&searchtags=codingame+programming+java+ebook+%40toread+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://cses.fi/book.html[Competitive Programmer's Handbook]
+
+Muscle ton jeu avant Code4Life !

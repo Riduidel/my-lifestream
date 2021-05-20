@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction - Learning Rust With Entirely Too Many Linked Lists
+:jbake-tags: rust,programming,documentation,_mois_mars,_année_2019
+:jbake-date: 2019-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1553711879000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frust-unofficial.github.io%2Ftoo-many-lists%2Findex.html&searchtags=rust+programming+documentation+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://rust-unofficial.github.io/too-many-lists/index.html[Introduction - Learning Rust With Entirely Too Many Linked Lists]
+
+Il faut que je trouve le temps de lire cette série d'articles, ça a l'air très bien.

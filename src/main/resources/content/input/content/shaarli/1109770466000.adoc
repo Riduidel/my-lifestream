@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to setup ssh to tunnel VNC traffic throught the Internet
+:jbake-tags: web,documentation,tutorial,réseau,remote,vnc,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109770466000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pigtail.net%2FLRP%2Fvnc%2F&searchtags=web+documentation+tutorial+r%C3%A9seau+remote+vnc+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pigtail.net/LRP/vnc/[How to setup ssh to tunnel VNC traffic throught the Internet]
+
+This tutorial shows how to use ssh to tunnel VNC traffic (tcp port 5900) through the Internet, so that you can safely view/control your home Windows PC from a remote location, under the strong encryption of ssh.

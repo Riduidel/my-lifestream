@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reflections on trusting trust | the morning paper
+:jbake-tags: programming,compilateur,hack,_mois_sept.,_année_2016
+:jbake-date: 2016-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1473419791000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.acolyer.org%2F2016%2F09%2F09%2Freflections-on-trusting-trust%2F&searchtags=programming+compilateur+hack+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.acolyer.org/2016/09/09/reflections-on-trusting-trust/[Reflections on trusting trust | the morning paper]
+
+Conceptuellement fascinant. c'est la première fois que je vois les quines servir à quelque chose.

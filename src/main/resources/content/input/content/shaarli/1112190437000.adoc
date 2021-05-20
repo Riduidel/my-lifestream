@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Theory of Concatenative Combinators
+:jbake-tags: programming,documentation,concepts,algorithme,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112190437000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tunes.org%2F%7Eiepos%2Fjoy.html&searchtags=programming+documentation+concepts+algorithme+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tunes.org/~iepos/joy.html[The Theory of Concatenative Combinators]
+
+This article describes a new theory of combinators, similar in many ways to the theory of Combinatory Logic pioneered by Haskell Curry and others in the 1930s. Thus, although not essential, it would be helpful for the reader to have an understanding of th

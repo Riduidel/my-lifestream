@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thou Shalt Not Name Thy Method "Equals"
+:jbake-tags: programming,java,concepts,langage,_mois_févr.,_année_2015
+:jbake-date: 2015-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1424434756000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2F3yKMiq_g5io%2Fthou-shalt-not-name-thy-method&searchtags=programming+java+concepts+langage+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/3yKMiq_g5io/thou-shalt-not-name-thy-method[Thou Shalt Not Name Thy Method "Equals"]
+
+La résolution des méthodes en Java n'est ... pas forcément triviale.

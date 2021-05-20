@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Decrap - Windows PC De-crapifier, remove bloatware with ease!
+:jbake-tags: windows,software,freeware,system,_mois_nov.,_année_2013
+:jbake-date: 2013-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1385373654000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.decrap.org%2F&searchtags=windows+software+freeware+system+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.decrap.org/[Decrap - Windows PC De-crapifier, remove bloatware with ease!]
+
+Bien pratique pour nettoyer un portable tout neuf et déja tout pourri ... via http://lifehacker.com/decrap-uninstalls-all-the-bloatware-on-your-new-pc-auto-1469611234

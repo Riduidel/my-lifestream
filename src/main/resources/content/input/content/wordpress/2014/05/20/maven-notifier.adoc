@@ -1,0 +1,100 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: maven-notifier
+:jbake-tags: documentation,growl,java,maven,_mois_mai,_année_2014
+:jbake-date: 2014-05-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/05/20/maven-notifier.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/05/20/maven-notifier/
+:jbake-style: wordpress
+
+++++
+<p>
+J'avais téléchargé il y a quelques temps le jar de <a href="https://github.com/jcgay/maven-notifier">maven-notifier</a> histoire de l'installer, et puis je l'avais oublié ...
+</p>
+<p>
+Il faut dire que j'avais même eu à un moment le projet de faire un concurrent de cet outil, et puis, me rendant compte qu'il exisstait déja, j'avais choisi de tenter de l'utiliser pour éventuellement le forker et l'améliorer.
+</p>
+<p>
+Et j'avais oublié tout ça ...
+</p>
+<p>
+Heureusement, cette semaine, j'ai pris un peu de temps pour comprendre pourquoi, alors que j'avais ce fichier de configuration, aucun message n'était envoyé :
+</p>
+<p>
+notifier.implementation = growl
+</p>
+<p>
+J'ai donc décidé d'écrire un test unitaire exposant mon bug (parce que j'étais convaincu qu'il y avait un bug).
+</p>
+<p>
+Donc j'écris mon test, et je me rends compte que ce test écrit des paquets de logs qui ressemblent à ça (tiré de mon <a href="https://github.com/jcgay/maven-notifier/issues/6">issue github</a>)
+<br/>
+<pre><code>11:30:56.251 [New I/O client worker #1-1] 67 DEBUG jgntp.message - Message received
+<br/>
+GNTP/1.0 -ERROR NONE
+<br/>
+Error-Code: 400
+<br/>
+Error-Description: Invalid key hash
+<br/>
+Origin-Machine-Name: NDX-PC-W7
+<br/>
+Origin-Software-Name: Growl/Win
+<br/>
+Origin-Software-Version: 2.0.9.1
+<br/>
+Origin-Platform-Name: Microsoft Windows NT 6.1.7601 Service Pack 1
+<br/>
+Origin-Platform-Version: 6.1.7601.65536
+<br/>
+X-Message-Daemon: Growl/Win
+<br/>
+X-Timestamp: 20/05/2014 11:30:56
+<br/>
+11:30:56.261 [New I/O client worker #1-1] 40 ERROR c.g.j.m.n.growl.Slf4jGntpListener - Registration error: NOT_AUTHORIZED - Invalid key hash
+<br/>
+11:30:56.261 [New I/O client worker #1-1] 158 INFO  c.g.c.j.internal.io.NioTcpGntpClient - Scheduling registration retry in [3-SECONDS]
+<br/>
+11:30:59.271 [pool-2-thread-1] 68 DEBUG c.g.c.j.internal.io.NioGntpClient - Registering GNTP application [Maven]
+<br/>
+11:30:59.271 [New I/O client worker #1-2] 51 DEBUG jgntp.message - Sending message
+<br/>
+GNTP/1.0 REGISTER NONE SHA512:111581B770A50B07372A85ED928A8B6F3C34180782D43E1335BC3737E4FC57E70D23EBEFEFB3BF2363619E80D36707EF121AB8D9DA8C6E638F1927633B0428E6.9F99086EC1E3AD095E60EA607E321303
+<br/>
+Application-Name: Maven
+<br/>
+Notifications-Count: 1
+</p>
+<p>
+Notification-Name: build-status-notification
+<br/>
+Notification-Display-Name: Build result status
+<br/>
+Notification-Enabled: True
+<br/>
+</code></pre>
+<br/>
+Bonc e qui est chouette avec un bon log, c'est qu'on comprend tout de suite le problème, en l'occurence fort simple. Sisi, fort simple, regardez ce message :
+<br/>
+<pre><code>Registration error: NOT_AUTHORIZED - Invalid key hash</code></pre>
+<br/>
+C'est simple, non ? Je n'ai pas passé de mot de passe.
+</p>
+<p>
+Parce que si je regarde Growl for Windows, dans son onglet <a href="http://www.growlforwindows.com/gfw/help/default.aspx#security">Security</a>, c'est assez clair (limpide, en fait) : si je veux envoyer des notifications en TCP (et c'est précisément ce que permet la librairie JGNTP qu'utilise maven-notifier), il faut donner un mot de passe à Growl et à l'application.
+</p>
+<p>
+J'ai donc modifié mon fichier maven-notifier.properties pour qu'il soit comme ça
+<br/>
+<pre>notifier.implementation = growl
+<br/>
+notifier.growl.password=NON NON NON VOUS NE SAUREZ PAS CE MOT DE PASSE</pre>
+<br/>
+J'ai ajouté le même mot de passe dans Growl, et j'ai maintenant de jolies notifications Growl à chaque fin de build !
+</p>
+<p>
+Merci Jean-Christophe !
+</p>
+++++

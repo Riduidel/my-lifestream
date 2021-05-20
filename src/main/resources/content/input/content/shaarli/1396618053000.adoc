@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clarified CQRS
+:jbake-tags: software,concepts,programming,pattern,_mois_avr.,_année_2014
+:jbake-date: 2014-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1396618053000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.udidahan.com%2F2009%2F12%2F09%2Fclarified-cqrs%2F&searchtags=software+concepts+programming+pattern+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.udidahan.com/2009/12/09/clarified-cqrs/[Clarified CQRS]
+
+Très chouette article clarifiant, au-dela des frameworks qui sont assez arides comme introduction ce qu'est CQRS et ce qu'il peut impliquer sur l'architecture d'un logiciel.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Prevayler :: The Open Source Prevalence Layer
+:jbake-tags: jebliki,java,open-source,j2ee,library,prevalence,_mois_oct.,_année_2007
+:jbake-date: 2007-10-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1191328826000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fprevayler.org%2Fwiki%2F&searchtags=jebliki+java+open-source+j2ee+library+prevalence+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://prevayler.org/wiki/[Prevayler :: The Open Source Prevalence Layer]
+
+Même si c'est un peu plus lourd qu'ehcache en terme de code écrit, j'ai comme l'impression que ça peut être un chouïa plus efficace pour jebliki

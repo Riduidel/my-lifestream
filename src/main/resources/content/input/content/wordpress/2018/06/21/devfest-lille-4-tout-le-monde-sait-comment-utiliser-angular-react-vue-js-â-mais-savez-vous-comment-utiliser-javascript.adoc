@@ -1,0 +1,164 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevFest Lille 4 : Tout le monde sait comment utiliser Angular / React / Vue.js …​ Mais savez-vous comment utiliser Javascript ?
+:jbake-tags: évolution,devfest,framework,javascript,_mois_juin,_année_2018
+:jbake-date: 2018-06-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/21/devfest-lille-4-tout-le-monde-sait-comment-utiliser-angular-react-vue-js-%e2%80%8b-mais-savez-vous-comment-utiliser-javascript.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/21/devfest-lille-4-tout-le-monde-sait-comment-utiliser-angular-react-vue-js-%e2%80%8b-mais-savez-vous-comment-utiliser-javascript/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pourquoi aller voir une présentation sur Javascript ? D’abord parce que ce sont des collègues qui présentent, et qu’il sont sympathiques. Ensuite parce que Javascript est suffisament pervasif pour que ça vaille le coup de rester à jour.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_les_fonctionnalités_cool">Les fonctionnalités cool</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+J’adore ce premier exemple : <code>1+1+(1+true+[]+3+[20]+3)-2</code>. Ca donne quoi ? <code>223201</code> à cause d’une série de transtypages à la volée.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Un autre exemple utilise des blocs et des labels qui donnent des résultats tout aussi surprenants.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Et comme dans tout langage, il faut les connaître (et malheureusement, la plupart des développeurs Javascript ignorent ce genre de petits détails).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_ecmascript_2015">ECMAScript 2015</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+ECMAScript ajoute le spread operator (la déstructuration comme en Python), les promesses (avec un <code>⇒</code>) qui réutilisent le contexte de la fonction appelante, les proxys (qui permettent d’initialiser facilement des arborescences d’objet).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_frameworks">Frameworks</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Il y en a plein, et ils correspondent souvent à des cas d’utilisation clairs qu’il faut connaître pour les utiliser à bon escient (oui, comme partout, mais en Javascript, il y a beaucoup plus de mode).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_vanilla_js">Vanilla.js</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le javascript standard contient déja toutes les fonctionnalités nécessaires, et on peut parfaitement développer des applications JS sans utiliser le moindre framework (mais je le savais depuis 18 ans).
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_binding">Binding</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Nathan va nous réaliser un binding simple …​ si la technique le laisse faire (parce que la vidéo semble avoir rendu l’âme d’un coup). Je vous laisse regarder leur dépôt, c’est redoutablement simple.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_templating">Templating</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Aurélien va maintenant construire un système de templating basé sur la fonction précédement définie par Nathan.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_mon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+C’était chouette ! En particulier la longue conclusion sur la manière dont on construit le choix d’un framework à partir du problème à résoudre, et pas à partir des buzzwords du moment.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

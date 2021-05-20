@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Did you ever wish you had better Diagrams? – R. D. Müller – making the software-world a better place one document at a time
+:jbake-tags: asciidoc,diagram,générateur,vb,groovy,gradle,_mois_août,_année_2016
+:jbake-date: 2016-08-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1472456520000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frdmueller.github.io%2Fsparx-ea%2F&searchtags=asciidoc+diagram+g%C3%A9n%C3%A9rateur+vb+groovy+gradle+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://rdmueller.github.io/sparx-ea/[Did you ever wish you had better Diagrams? – R. D. Müller – making the software-world a better place one document at a time]
+
+Overengineer at its best : générer ses diagrammes avec EA via VB, Groovy et Gradle ... plutôt que d'utiliser PlantUML !

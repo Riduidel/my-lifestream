@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Treemaps for space-constrained visualization of hierarchies
+:jbake-tags: software,documentation,algorithme,programming,concepts,treemap,java,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112188804000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cs.umd.edu%2Fhcil%2Ftreemap-history%2F&searchtags=software+documentation+algorithme+programming+concepts+treemap+java+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cs.umd.edu/hcil/treemap-history/[Treemaps for space-constrained visualization of hierarchies]
+
+Landscape of the TreeMap technology and code samples (in Java)

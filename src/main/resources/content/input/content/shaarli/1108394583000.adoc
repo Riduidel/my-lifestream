@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby - Wikipédia, l'encyclopédie libre et gratuite
+:jbake-tags: web,wikipedia,ruby,programming,langage,_mois_févr.,_année_2005
+:jbake-date: 2005-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1108394583000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRuby&searchtags=web+wikipedia+ruby+programming+langage+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://fr.wikipedia.org/wiki/Ruby[Ruby - Wikipédia, l'encyclopédie libre et gratuite]
+
+Description du Ruby sur Wikipedia.fr

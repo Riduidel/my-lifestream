@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlaneShift - A 3D Fantasy MMORPG
+:jbake-tags: freeware,jeu,linux,mmorpg,online,windows,macosx,_mois_juil.,_année_2008
+:jbake-date: 2008-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1215273150000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.planeshift.it%2Findex.html&searchtags=freeware+jeu+linux+mmorpg+online+windows+macosx+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.planeshift.it/index.html[PlaneShift - A 3D Fantasy MMORPG]
+
+

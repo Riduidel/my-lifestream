@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'aile du dragon (Les portes de la mort, #1)
+:jbake-tags:  fantasy, rayon-imaginaire,_année_1995,_mois_janv.,_note_2,broc,read
+:jbake-date: 1995-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266051644.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571082912l/1998789._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571082912l/1998789._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1998789
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans tout le Mi-Royaume, il n'y a pas de plus formidable assassin que Hugh-la-Main, l'homme qui a toujours rempli ses contrats. Et maintenant, c'est le roi en personne qui fait appel à lui. Mais le personnage à assassiner, c'est le propre fils du roi. Qu'est-ce que ça cache ? Très loin au-dessus de leurs têtes, il y a le Haut-Royaume où vivent les mystériarques. Des dieux ? Non, malgré leurs pouvoirs : une femme qui a perdu le goût de vivre est un être humain, trop humain. Très loin au-dessous de leurs pieds, il y a le Bas-Royaume. "Crac !" "Boum !" "Tchic !" "Bang !" fait la Bougonneuse Batteuse. Et les petits Guègues la font marcher sans trop savoir pourquoi. Un seul prépare la révolution. Un visionnaire. Très loin au-dessous des Guègues, il y a peut-être aussi les Portes de la Mort, qui donnent accès aux secrets perdus. Mais nul n'en a jamais entendu parler. Alors, qu'est-ce que ça peut bien faire ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/869.html[Margaret Weis]
+* link:../authors/868.html[Tracy Hickman]
+
+## Series
+* link:../series/The_Death_Gate_Cycle.html[The Death Gate Cycle]
+
+## Review
+
+++++
+
+++++

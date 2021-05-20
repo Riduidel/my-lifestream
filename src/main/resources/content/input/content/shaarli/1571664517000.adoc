@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ophir Harpaz sur Twitter : "[1/4] Ok this is really funny, check this out. I was in the process of booking a flight via @OneTravel. Trying to make me book ASAP, they claimed: "38 people are looking at this flight". Whoa, 38 is a lot, I have to hurry up. But first I have to check how they came up with 38 >>… https://t.co/ypT4bKwuVW"
+:jbake-tags: hasard,réservation,web,_mois_oct.,_année_2019
+:jbake-date: 2019-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1571664517000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FOphirHarpaz%2Fstatus%2F1184486445039411201&searchtags=hasard+r%C3%A9servation+web+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/OphirHarpaz/status/1184486445039411201[Ophir Harpaz sur Twitter : "[1/4] Ok this is really funny, check this out. I was in the process of booking a flight via @OneTravel. Trying to make me book ASAP, they claimed: "38 people are looking at this flight". Whoa, 38 is a lot, I have to hurry up. But first I have to check how they came up with 38 >>… https://t.co/ypT4bKwuVW"]
+
+Vous noterez dans les commentaires l'extension Chrome pour aller sur Booking.com sans flipper ...

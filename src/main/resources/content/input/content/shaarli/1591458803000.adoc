@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Testing Your Code — The Hitchhiker's Guide to Python
+:jbake-tags: python,test,unit,library,open-source,_mois_juin,_année_2020
+:jbake-date: 2020-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1591458803000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.python-guide.org%2Fwriting%2Ftests%2F&searchtags=python+test+unit+library+open-source+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://docs.python-guide.org/writing/tests/[Testing Your Code — The Hitchhiker's Guide to Python]
+
+Un tour d'horizon intéressant des outils de test dans le monde Python. J'aime bien l'idée que unittest soit dans la librairie standard.

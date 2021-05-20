@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Photo
+:jbake-tags: citation,politique,justice,armée,_mois_août,_année_2014
+:jbake-date: 2014-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1409223683000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fscienceetfiction.tumblr.com%2Fpost%2F95909294804&searchtags=citation+politique+justice+arm%C3%A9e+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://scienceetfiction.tumblr.com/post/95909294804[Photo]
+
+"There's a reason you separate military and the police. One fights the enemies of the state, the other serves and protects the people. When the militaries becomes both, then the enemies of the state tend to become the people." Une version plus sombre du fameux "quand ton seul outil est un marteau, tous les problèmes finissent par ressembler à des clous."

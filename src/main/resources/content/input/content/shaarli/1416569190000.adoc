@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les « dev » ces nouvelles stars que l'on s'arrache, Enquête
+:jbake-tags: emploi,développement,carrière,_mois_nov.,_année_2014
+:jbake-date: 2014-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1416569190000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lesechos.fr%2Fjournal20141121%2Flec1_enquete%2F0203908469986-les-dev-ces-nouvelles-stars-que-lon-sarrache-1066627.php%23&searchtags=emploi+d%C3%A9veloppement+carri%C3%A8re+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.lesechos.fr/journal20141121/lec1_enquete/0203908469986-les-dev-ces-nouvelles-stars-que-lon-sarrache-1066627.php#[Les « dev » ces nouvelles stars que l'on s'arrache, Enquête]
+
+Je ne sais pas trop quoi penser de cette "enquête" qui regarde la passion des développeurs d'un oeil curieux, c'est vrai, mais qui me semble un peu méprisant. Surtout parce qu'il passe sous silence le fait que, sans dév, aujourd'hui, plus \*rien\* ne marche. Alors, le développeur, star ou cheville ouvrière du capitalisme ? Quant au chapître sur la mobilité des dévs, j'en reparlerai ... prochainement.

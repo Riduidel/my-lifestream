@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Feedback on iBook Firmware Mods for Dual Display Support
+:jbake-tags: web,documentation,dual-screen,macosx,ibook,_mois_mars,_année_2005
+:jbake-date: 2005-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1109851672000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.xlr8yourmac.com%2Fsystems%2Fibook_dual_display_mods.html&searchtags=web+documentation+dual-screen+macosx+ibook+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.xlr8yourmac.com/systems/ibook_dual_display_mods.html[Feedback on iBook Firmware Mods for Dual Display Support]
+
+

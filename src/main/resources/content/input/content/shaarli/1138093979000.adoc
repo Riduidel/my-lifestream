@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Planet SolarWolf
+:jbake-tags: freeware,jeu,software,windows,linux,macosx,open-source,_mois_janv.,_année_2006
+:jbake-date: 2006-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1138093979000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pygame.org%2Fshredwheat%2Fsolarwolf%2F&searchtags=freeware+jeu+software+windows+linux+macosx+open-source+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.pygame.org/shredwheat/solarwolf/[Planet SolarWolf]
+
+

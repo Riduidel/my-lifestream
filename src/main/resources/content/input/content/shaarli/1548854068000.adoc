@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jules Grandin on Twitter: "Est-ce que je viens de scrapper le site kebab-frites ? Est-ce que du coup j'ai la liste des kebab à Paris ? Est-ce que j'ai fait une carte ? ON. DIRAIT. BIEN… https://t.co/TBpB5LXxLA"
+:jbake-tags: carte,paris,kebab,_mois_janv.,_année_2019
+:jbake-date: 2019-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1548854068000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJulesGrandin%2Fstatus%2F1090562755868938241&searchtags=carte+paris+kebab+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/JulesGrandin/status/1090562755868938241[Jules Grandin on Twitter: "Est-ce que je viens de scrapper le site kebab-frites ? Est-ce que du coup j'ai la liste des kebab à Paris ? Est-ce que j'ai fait une carte ? ON. DIRAIT. BIEN… https://t.co/TBpB5LXxLA"]
+
+Le pouvoir des API ouvertes en action !

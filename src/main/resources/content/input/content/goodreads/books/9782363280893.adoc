@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bloody Marie
+:jbake-tags: ,_année_2017,_mois_juil.,_note_2,read
+:jbake-date: 2017-07-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782363280893.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360767916l/17371756._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360767916l/17371756._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/17371756
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+L'humanité s'est répandue dans la galaxie, et ses colonies finirent par être séparées par la distance. Il y a trois générations, les hommes et les femmes ont recommencé à voyager, donnant naissance à un nouvel espoir : l'Essor. Aujourd'hui, les grandes voies sont à nouveau sillonnées par les navires de commerce qui font la prospérité des armateurs, mais aussi celle de leurs prédateurs : les pirates. <br />Avec succès, la Ligue et la Flotte ont joué de tout leur poids et de la puissance de leurs corsaires pour mettre fin à l'activité des Forbans du Vide, avant de promettre des amnisties. Désormais, d'anciens pirates traquent leurs confrères. Ces dernières années ont sonné le glas de la piraterie. Mais, au comptoir d'un des plus anciens bars à matelots, un vieux soutier annonce aux habitués le retour de la terrible fille du feu Ravageur de Mondes : Bloody Marie. <br />Menée par une colère jamais retombée depuis que la Ligue, quinze ans auparavant, a piégé son père, la pirate refuse de baisser pavillon. Tous sabords ouverts, les canons prêts à vomir leurs charges de plasma, Bloody Marie lance le Long John pour un dernier raid... Entre passé et avenir de l'humanité, évolution futuriste et codes anciens de la piraterie, le scénario de Bloody Marie entremêle action, infiltration, combats spatiaux et enquête tout au long d'une intrigue savamment construite, complexe, captivante, pour aboutir à un final inattendu et percutant. <br /><i>Passionné par l'histoire et ses personnages légendaires, Jacques Martel crée ici un univers qui n'est pas sans rappeler ceux des plus célèbres space opera, d'une part pour son équilibre entre cohérence et réalisme, et d'autre part pour ses aspects grandioses et épiques. </i>
+</div>
+++++
+
+
+## Authors
+* link:../authors/692445.html[Jacques Martel]
+
+
+
+## Review
+
+++++
+Un space opera de facture parfaitement pulp malgré certains avatars cyberpunk. L'aspect le plus gênant pour moi serait l'intrigue à tiroirs, où la plupart des personnages ne sont pas ce s'ils semblent, dont le plan n'est pas celui qu'ils expliquent, mais dont les motivations sont pourtant celles qu'ils expliquent. Curieux et assez dommage de mon point de vue.
+++++

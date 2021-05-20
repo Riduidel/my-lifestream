@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UX Myths
+:jbake-tags: interface,design,conception,web,_mois_janv.,_année_2014
+:jbake-date: 2014-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1391182914000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fuxmyths.com&searchtags=interface+design+conception+web+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://uxmyths.com[UX Myths]
+
+Chouette article démontant des mythes classiques du domaine de la conception d'interface. Des mythes comme par exemple "users don't scroll" ou "good design means beautiful site". J'aime beaucoup l'idée d'attaquer des préconceptions pour essayer d'en tirer des choses utiles.

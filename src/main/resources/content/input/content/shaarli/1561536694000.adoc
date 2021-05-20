@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simon Brown on Twitter: "I built a little feature into Structurizr on the flight back from Bucharest yesterday: the open source client libraries have a PlantUML exporter, and I've integrated this into the web UI. This is useful for people who are not creating models as code because...… https://t.co/BDT9kw8Xoj"
+:jbake-tags: architecture,documentation,plantuml,agile,_mois_juin,_année_2019
+:jbake-date: 2019-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1561536694000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsimonbrown%2Fstatus%2F1142321883070763008&searchtags=architecture+documentation+plantuml+agile+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/simonbrown/status/1142321883070763008[Simon Brown on Twitter: "I built a little feature into Structurizr on the flight back from Bucharest yesterday: the open source client libraries have a PlantUML exporter, and I've integrated this into the web UI. This is useful for people who are not creating models as code because...… https://t.co/BDT9kw8Xoj"]
+
+This is an awesome idea !

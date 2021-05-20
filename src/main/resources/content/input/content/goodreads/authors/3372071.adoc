@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Luc Jacamon
+:jbake-tags: author
+:jbake-date: 2010-11-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3372071.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/3372071
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782203014381.html[Le commun des mortels (Le Tueur, #7)]
+* link:../books/9782203031678.html[L'ordre naturel des choses (Le Tueur, #8)]

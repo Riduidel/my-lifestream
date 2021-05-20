@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Six mois de Rust pour ça ?
+:jbake-tags: rrss2imap,rust,_mois_mai,_année_2019
+:jbake-date: 2019-05-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/05/08/six-mois-de-rust-pour-ca.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/05/08/six-mois-de-rust-pour-ca/
+:jbake-style: wordpress
+
+++++
+<p>
+Il y a six mois ... bon en fait <a href="https://github.com/Riduidel/rrss2imap/commit/cca40cf2dcd6f0978f0afa72f3b17e784e15e158">presqu'un an</a>, je commençais une réimplémentation de rss2imap en Rust. Pourquoi ? Parce que Python, c'est lent. Parce que le script avait quelques problèmes que je voulais corriger, et que l'idée de tout avoir dans un script Python 2 me gênait un peu.
+</p>
+<p>
+Donc je m'y suis mis. Et j'ai découvert des trucs.
+</p>
+<p>
+D'abord, comme un collègue me l'a expliqué dans un super-chouette midi-conf, effectivement, en Rust, il y a le <a href="https://doc.rust-lang.org/book/ch04-02-references-and-borrowing.html">borrow-checker</a>, il y a la durée de vie (et sérieusement, c'est très cool en terme de gestion de mémoire). Mais parfois ... c'est chiant. Et comme mon projet n'a pas des ambitions de performance extrêmes, ben je peux faire des <code>.clone()</code> quand j'ai des problèmes d'ownership. Une fois que j'ai assumé le fait que ce ne sera pas totalement ultra-optimisé, eh ben d'un coup, mes problèmes se sont simplifiés. Et franchement, c'estd evenu très cool.
+</p>
+<p>
+Ensuite, j'ai vraiment, mais alors vraiment apprécié la qualité de l'interface du compilateur : les messages d'erreur sont hyper clairs et aident vraiment à ce qu'ils soient corrigés. C'est bien plus agréable même que ce que fait le compilateur Java. Et c'est un truc incroyable, pour un langage aussi peu approchable, que d'avoir réussi à produire cette qualité d'interaction.
+</p>
+<p>
+De la même manière, l'écosystème est bien plus garni que ce que j'ai pu croire au début : pour chaque problème, il y a une dépendance. J'ai l'impression d'être dans le monde Java ! Et (même si ça déplaira à Nicolas - l'autre), je trouve que ça fait gagner un temps fou. Par contre, il ya  une petite différence avec Java : j'ai beau avoir un gros paquet de dépendances, mon exécutable Rust fait, sur la plateforme la plus lourde, 9,97 Mo. Ca n'est ... pas si lourd que ça, je trouve ... Et puis <a href="https://crates.io/crates/rrss2imap">crates.io</a>, c'est génial : ils fournissent un graphe des dépendances téléchargées, affichent le README du repository GitHub, et tout un tas d'autres trucs tellement cool. C'est vraiment un super outil de gestion des dépendances.
+</p>
+<p>
+Evidement, tout ça ne serait rien sans un outil de build approprié. Et là, de la même manière, cargo, c'est fou tellement c'est bien. C'est facile à utiliser, le format toml (dont je pensais qu'il me contraindrait un peu trop) s'est révélé bien pratique, et le mode de gestion des plugins est un sens plus sympa que ce qu'on peut trouver dans Maven.
+</p>
+<p>
+Au passage, j'ai bien galéré avant de trouver une solution de compilation multi-plateforme. Et cette semaine, j'ai mis en place <a href="https://travis-ci.org/Riduidel/rrss2imap">Travis-CI</a>. Et en deux jours, je suis passé de rien au déploiement automatique de releases pour 9 environnements différents (Linux - pour x86 et Raspberry, Windows, MacOS),  directement dans les <a href="https://github.com/Riduidel/rrss2imap/releases">releases GitHub</a>. J'ai certes deux ou trois détails à peaufiner (comme par exemple la génération d'un bon changelog dans les releases), mais dans l'ensemble, ça marche furieusement bien.
+</p>
+<p>
+Donc effectivement, j'ai progressé bien plus lentement que c que j'imaginais au début (parce que j'y ai consacré somme toute très peu de temps). Mais j'ai une confiance assez forte dans le code que j'ai écrit. Et c'est vraiment cool. Ca me donne envie d'en faire plus ... bien plus (autrement dit d'aller chercher la mission magique où je ferai du Rust en vrai).
+</p>
+++++

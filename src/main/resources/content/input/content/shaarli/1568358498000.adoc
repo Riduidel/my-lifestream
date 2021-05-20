@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hoverbear/getset: Getters and Setters for Rust.
+:jbake-tags: rust,programming,library,open-source,_mois_sept.,_année_2019
+:jbake-date: 2019-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1568358498000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FHoverbear%2Fgetset&searchtags=rust+programming+library+open-source+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/Hoverbear/getset[Hoverbear/getset: Getters and Setters for Rust.]
+
+Tiens donc, quelqu'un reprend donc en Rust une idée qui est à mon avis la pire qu'ait eu java ? Je ne peux pas dire que ça m'enthousiasme ...

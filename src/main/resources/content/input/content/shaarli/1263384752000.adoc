@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Secure Coding Guidelines for the Java Programming Language, Version 3.0 - Sun Developer Network
+:jbake-tags: sécurité,software,code,java,for:mischler,for:clownny59,_mois_janv.,_année_2010
+:jbake-date: 2010-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1263384752000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fsecurity%2Fseccodeguide.html&searchtags=s%C3%A9curit%C3%A9+software+code+java+for%3Amischler+for%3Aclownny59+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://java.sun.com/security/seccodeguide.html[Secure Coding Guidelines for the Java Programming Language, Version 3.0 - Sun Developer Network]
+
+Des règles de codage permettant la création d'applications Java sécurisées. Ou plutôt d'applications Java ne considérant pas la sécurité comme un problème exclusivement externe.

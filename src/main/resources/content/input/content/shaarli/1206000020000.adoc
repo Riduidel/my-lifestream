@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Most used CSS tricks | StylizedWeb.com
+:jbake-tags: css,développement,list,reference,tips,webdesign,webgen,_mois_mars,_année_2008
+:jbake-date: 2008-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1206000020000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstylizedweb.com%2F2008%2F03%2F12%2Fmost-used-css-tricks%2F&searchtags=css+d%C3%A9veloppement+list+reference+tips+webdesign+webgen+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://stylizedweb.com/2008/03/12/most-used-css-tricks/[Most used CSS tricks | StylizedWeb.com]
+
+Une liste de jolies ruses CSS

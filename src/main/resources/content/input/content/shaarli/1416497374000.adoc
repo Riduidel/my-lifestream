@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Attitude et éthique du développeur. | Raphaël Lemaire
+:jbake-tags: programming,métier,éthique,_mois_nov.,_année_2014
+:jbake-date: 2014-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1416497374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fraphael-lemaire.com%2Fblog%2F2014%2F11%2F18%2Fattitude-et-ethique-du-developpeur%2F&searchtags=programming+m%C3%A9tier+%C3%A9thique+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://raphael-lemaire.com/blog/2014/11/18/attitude-et-ethique-du-developpeur/[Attitude et éthique du développeur. | Raphaël Lemaire]
+
+Très chouette article sur les valeurs du développeur. BRAVO !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La chute de la presse : internet en cause, vraiment ? | Sam & Max: Python, Django, Git et du cul
+:jbake-tags: culture,société,décadence,_mois_nov.,_année_2013
+:jbake-date: 2013-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1384252210000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsametmax.com%2Fla-chute-de-la-presse-quelles-causes%2F&searchtags=culture+soci%C3%A9t%C3%A9+d%C3%A9cadence+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://sametmax.com/la-chute-de-la-presse-quelles-causes/[La chute de la presse : internet en cause, vraiment ? | Sam & Max: Python, Django, Git et du cul]
+
+Chouette article qui reflète évidement ce que je pense (sinon je n'en parlerai pas, normal) : la presse meurt parce qu'elle prend ses lecteus pour des abrutis.

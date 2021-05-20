@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Calendar of API changes | Twitter Developers
+:jbake-tags: twitter,api,oauth,_mois_juin,_année_2013
+:jbake-date: 2013-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1371124952000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.twitter.com%2Fcalendar&searchtags=twitter+api+oauth+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://dev.twitter.com/calendar[Calendar of API changes | Twitter Developers]
+
+Vous el voyez ce changement du 11 juin 2013 ? Ben c'est celui-là qui a tué Twitter pour moi.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A List Apart sur Twitter : "“Triggering a large number of requests in an HTTP/2 environment is no longer inherently bad for performance; transferring unnecessary data i… https://t.co/TlPDpvh3gS"
+:jbake-tags: javascript,réseau,http,_mois_nov.,_année_2017
+:jbake-date: 2017-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1512030489000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Falistapart%2Fstatus%2F935599329020178432&searchtags=javascript+r%C3%A9seau+http+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/alistapart/status/935599329020178432[A List Apart sur Twitter : "“Triggering a large number of requests in an HTTP/2 environment is no longer inherently bad for performance; transferring unnecessary data i… https://t.co/TlPDpvh3gS"]
+
+Enfin la fin des horreurs de bundling JS ?

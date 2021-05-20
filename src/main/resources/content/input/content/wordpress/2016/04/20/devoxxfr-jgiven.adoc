@@ -1,0 +1,61 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - JGiven
+:jbake-tags: devoxx,informatique,test,_mois_avr.,_année_2016
+:jbake-date: 2016-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/20/devoxxfr-jgiven.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/20/devoxxfr-jgiven/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, pour la BDD, j'ai déja vu Fitnesse, et franchement, ça fait braire tellement c'est mal fichu. J'avais aussi vu un autre outil BDD, bien plus convaincant, au <a href="https://riduidel.wordpress.com/2015/05/21/vite-un-chtijug/">chtijug</a>, mais comme j'ai oublié son nom, ben forcément, c'est moins tentant.
+</p>
+<p>
+Heureusement, c'est la fin de journée, et les talks raccourcissent. On est donc partis pour 1/2 heure de JGiven. Espérons que ce soit chouette !
+</p>
+<p>
+https://speakerdeck.com/mlthuret/jgiven-enfin-une-reelle-documentation-vivante
+</p>
+<p>
+Et donc, le BDD, ce sont les three amigos (dév, test, métier) qui écrivent ensemble les specs à partir d'exemple.
+</p>
+<p>
+Le but de JGiven, c'est de produire un rapport facilement lisible et navigable.
+</p>
+<p>
+Et effectivement, le rapport est beau. Bien plus beau que Cucumber ... et je ne vous parle pas de l'horreur qu'est Fitnesse.
+</p>
+<p>
+Encore mieux que le rapport, un scénario n'est pas un fichier plat, mais une classe Java (en fait un test). Et en bonus, quand on exécute le test, JGiven affiche un joli rapport d'exécution qui va contenir le scénario de façon lisible avec les succès ET les échecs.
+</p>
+<p>
+Et attendez, c'est pareil pour injecter les valeurs des tests (plutôt que de faire des sales tables façon wikipedia) !
+</p>
+<p>
+Bon, mais tout ça, c'était "simple".
+</p>
+<p>
+Quand on veut partager les informations, JGiven fournit aussi des outils pratiques.
+</p>
+<p>
+bon, la présentation va vraiment vite. Donc on passe vite fait aux options de présentation, qui vont permettre d'afficher une variable du test entre guillemets de façon automatique, par exemple.
+</p>
+<p>
+Franchement, pourquoi on n'utilise pas dans nos projets ce genre d'outils intelligents, mais des horreurs comme Fitnesse ?
+</p>
+<p>
+Je note toutefois qu'un outil comme JGiven n'est en fait qu'un support de discussion.
+</p>
+<p>
+Et c'est vrai qu'avec un outil pareil, aller voir le métier pour discuter d'un point d'implémentation est vraiment pratique.
+</p>
+<p>
+Question marrante : comment le métier écrit les scénarios.
+</p>
+<p>
+La réponse est chouette : en fait, le métier n'écrit pas les scénarios - ils le font peut-être au début, mais très rapidement, il faut être développeur pour pouvoir maintenir un scénario. Du coup, le fait que ce soit en fait simplement une surcouche de JUnit n'est pas gênant sur le long terme. Ce qui s'illustre par le processus de développement : le BI arrive avec une idée, qui est élicitée par l'équipe de dév à grands coups de post-it. Puis, une fois la réunion terminée, les post-its sont traduits directement en code (parce qu'ils sont valides).
+</p>
+++++

@@ -1,0 +1,162 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hacktoberfest, c'est cool !
+:jbake-tags: open-source,php,_mois_oct.,_année_2019
+:jbake-date: 2019-10-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/10/25/hacktoberfest-cest-cool.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/10/25/hacktoberfest-cest-cool/
+:jbake-style: wordpress
+
+++++
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://hacktoberfest.digitalocean.com/assets/logo-hf19-header-8245176fe235ab5d942c7580778a914110fa06a23c3d55bf40e2d061809d8785.svg" alt="" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Depuis 5 ans, GitHub et DigitalOcean font rimer Octobre et open-source. Et cette année, <a href="https://github.com/pulls?utf8=%E2%9C%93&#38;q=is%3Apr+author%3ARiduidel+archived%3Afalse+updated%3A2019-10-01..2019-10-31">j'ai un peu participé</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En vérité, je ne comptais pas du tout travailler sur ces projets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si ça n'avait tenu qu'à moi, j'aurais contribué à un projet plus ambitieux, comme Logan le fait en ce moment sur Quarkus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/lhauspie" class="screenName"><img src="http://pbs.twimg.com/profile_images/1055741424539521026/8ksXipol_mini.jpg" alt="profile of Dev back @ZenikaLille.
+🖥️⌨️🖱️ 
+Born to Code, Tech aficionado et Speaker à mes heures perdues."/>lhauspie</a>
+		<span class="name">Logan HAUSPIE 💻</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/lhauspie/status/1 187 707 911 272 837 125" class="date">25 oct. 2019 à 14:30:07</a>
+
+	<span class="content">
+	
+	<span class="text">After your many encouragements, I decided to keep contributing to @QuarkusIO.
+
+My second PR has just been merged: https://t.co/5bkavEPYMr
+
+And it keeps rolling on 😎🤘</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/lhauspie" class="screenName"><img src="http://pbs.twimg.com/profile_images/1055741424539521026/8ksXipol_mini.jpg" alt="profile of Dev back @ZenikaLille.
+🖥️⌨️🖱️ 
+Born to Code, Tech aficionado et Speaker à mes heures perdues."/>lhauspie</a>
+		<span class="name">Logan HAUSPIE 💻</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/lhauspie/status/1 187 707 911 272 837 125" class="date">25 oct. 2019 à 14:30:07</a>
+
+	<span class="content">
+	
+	<span class="text">After your many encouragements, I decided to keep contributing to @QuarkusIO.
+
+My second PR has just been merged: https://t.co/5bkavEPYMr
+
+And it keeps rolling on 😎🤘</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Seulement voilà, <a href="https://github.com/RSS-Bridge/rss-bridge">RSS-Bridge</a> et <a href="https://github.com/tweetledee/tweetledee">Tweetledee </a>sont des projets que j'utilise quotidiennement, dans le cadre de mon système personnel d'ingestion de l'information (oui, c'est prétentieux, mais c'est ce que c'est - et j'ai l'impression que je n'ai pas d'article à ce sujet). Et je rencontrais certaines frustrations avec ces projets. Et j'ai en plus découvert en lisant le code de Tweetledee qu'il était ... franchement antique. Du coup, je me suis retrouvé à écrire ces contributions en PHP (qui est loin d'être mon langage préféré). Heureusement, c'était un code raisonnablement simple, que j'ai pu mettre à jour simplement, pour arriver à ce résultat intéressant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 185 203 468 249 784 323" class="date">18 oct. 2019 à 16:38:21</a>
+
+	<span class="content">
+	
+	<span class="text">Je suis bien content de mon #hacktoberfest qui m'a permis de modifier https://t.co/8A4xK5Pkge pour arriver à afficher des discussions Twitter en un coup https://t.co/7f5udgPwe8</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EHKwNgXX4AAdcax.png" alt="1 185 203 398 024 617 984"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 185 203 468 249 784 323" class="date">18 oct. 2019 à 16:38:21</a>
+
+	<span class="content">
+	
+	<span class="text">Je suis bien content de mon #hacktoberfest qui m'a permis de modifier https://t.co/8A4xK5Pkge pour arriver à afficher des discussions Twitter en un coup https://t.co/7f5udgPwe8</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EHKwNgXX4AAdcax.png" alt="1 185 203 398 024 617 984"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Et ça me rend vraiment content d'avoir participé à Hacktoberfest : parce que ça m'a donné la possibilité de contribuer à un projet que j'utilise tous les jours, et de partager mes compétences pour améliorer cet outil pour tous ses utilisateurs.</p>
+<!-- /wp:paragraph -->
+++++

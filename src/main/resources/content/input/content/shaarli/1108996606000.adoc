@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MUTE: Simple, Anonymous File Sharing
+:jbake-tags: software,freeware,windows,réseau,p2p,sécurité,_mois_févr.,_année_2005
+:jbake-date: 2005-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1108996606000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmute-net.sourceforge.net%2F&searchtags=software+freeware+windows+r%C3%A9seau+p2p+s%C3%A9curit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://mute-net.sourceforge.net/[MUTE: Simple, Anonymous File Sharing]
+
+MUTE File Sharing is a new peer-to-peer network that provides easy search-and-download functionality while also protecting your privacy. MUTE File Sharing compiles as a fast, native application for many platforms (no Java, no Python, etc.).

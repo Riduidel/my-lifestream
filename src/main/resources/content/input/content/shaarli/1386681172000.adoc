@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bootswatch: Free themes for Bootstrap
+:jbake-tags: web,css,javascript,twitter-bootstrap,_mois_déc.,_année_2013
+:jbake-date: 2013-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1386681172000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbootswatch.com%2F&searchtags=web+css+javascript+twitter-bootstrap+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://bootswatch.com/[Bootswatch: Free themes for Bootstrap]
+
+Un ensemble de thèmes pour Twitter Bootstrap avec apparement des fonctionnalités pour en construire facilement de nouveaux

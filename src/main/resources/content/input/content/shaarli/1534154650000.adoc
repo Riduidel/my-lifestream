@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: docToolchain/docToolchain: a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
+:jbake-tags: programming,architecture,documentation,open-source,_mois_août,_année_2018
+:jbake-date: 2018-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1534154650000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FdocToolchain%2FdocToolchain&searchtags=programming+architecture+documentation+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/docToolchain/docToolchain[docToolchain/docToolchain: a Gradle based AsciiDoc Toolchain for Software Architecture Documentation]
+
+Je vois que cet outil permet apparement d'utiliser indifférement \#PlantUML/asciidoc et les gros outils ... Il va falloir que je regarde sérieusement ...

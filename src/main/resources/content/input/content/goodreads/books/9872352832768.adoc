@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chapungo
+:jbake-tags:  famille, fantastique, mort, rayon-bd,_année_2014,_mois_oct.,_note_4,amérique,read
+:jbake-date: 2014-10-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9872352832768.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413102041l/23356892._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413102041l/23356892._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/23356892
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+3 histoires en Amérique du Sud...<br />Avec l'arrivée des conquistadors, les anciens dieux meurent dans le sang...<br />Mais avec Toppi le récit plonge inévitablement, irrémédiablement dans le fantastique et même morts, les dieux aztèques sont toujours présents.<br /><br />Tzoacotlan 1521<br />Les conquistadors approchent. Quematzin fait appel aux dieux pour ce qu'il sait être son dernier combat. Ils vont lui donner la puissance, amis sera-t-elle suffisante ?<br /><br />San Isidro Maxtlacingo 1850<br />Dans un Mexique déjà christianisé, les anciens dieux se cachent parfois derrière la soutane du prêtre. Le village abandonné de San Isidro cache plus d'un mystère.<br /><br />Chapungo<br />Le jeune Chapungo est obsédé par ce que lui contait son père : un avion s'est écrasé dans la montagne. Certains disent qu'il transportait beaucoup d'or. Mais ce n'est pas la soif de l'or qui a fait tourner la tête de Chapungo...
+</div>
+++++
+
+
+## Authors
+* link:../authors/555180.html[Sergio Toppi]
+
+
+
+## Review
+
+++++
+Chacune de ces oeuvres est, comme tout le reste de ce que j'ai lu de 7423920, d'ailleurs, une espèce de chef d'oeuvre graphique incroyable, parce que dans ces dessins à l'encre de chine, le blanc n'éclaire pas le noir, il se contente de renforcer sa noirceur.<br/>Et de la noirceur, il y en a dans cette amérique prise dans le <a href="fr.wikipedia.org/wiki/Réalisme_magique">réalisme magique</a>.
+++++

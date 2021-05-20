@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rufus - Créez une clé USB démarrable de manière facile
+:jbake-tags: software,freeware,windows,usb,boot,liveusb,_mois_juin,_année_2016
+:jbake-date: 2016-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1466602648000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frufus.akeo.ie%2F&searchtags=software+freeware+windows+usb+boot+liveusb+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://rufus.akeo.ie/[Rufus - Créez une clé USB démarrable de manière facile]
+
+Chouette : un créateur de clé USB bootable !

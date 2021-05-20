@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ZScreen - brandonz.net
+:jbake-tags: desktop,capture,freeware,graphics,open-source,screenshot,windows,_mois_avr.,_année_2008
+:jbake-date: 2008-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1208244698000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.brandonz.net%2Fprojects%2Fzscreen%2F&searchtags=desktop+capture+freeware+graphics+open-source+screenshot+windows+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.brandonz.net/projects/zscreen/[ZScreen - brandonz.net]
+
+Un outil de capture d'image beaucoup plus évolué que ce que Windows peut fournir ...

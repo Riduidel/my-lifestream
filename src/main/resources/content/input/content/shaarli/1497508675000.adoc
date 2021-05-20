@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""Programmers have no idea how good (or bad) they are at programming. In fact, we all think we're pretty darn good at it.” - Steve Yegge"
+:jbake-tags: citation,programming,psychologie,_mois_juin,_année_2017
+:jbake-date: 2017-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1497508675000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F869300071313137665&searchtags=citation+programming+psychologie+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/869300071313137665[Programming Wisdom on Twitter: ""Programmers have no idea how good (or bad) they are at programming. In fact, we all think we're pretty darn good at it.” - Steve Yegge"]
+
+La première phrase est parfaitement vraie. La seconde est sans doute une illustration de Durning-Krueger ...

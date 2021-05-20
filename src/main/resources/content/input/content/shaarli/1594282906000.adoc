@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: (3) betsythemuffin sur Twitter : "obsessing over "clean code" as opposed to "contextually appropriate code" holds developers back from learning the strategic skills necessary to success at senior levels" / Twitter
+:jbake-tags: citation,complexité,code,méthode,artisanat,architecture,_mois_juil.,_année_2020
+:jbake-date: 2020-07-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1594282906000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbetsythemuffin%2Fstatus%2F1280930684819787776&searchtags=citation+complexit%C3%A9+code+m%C3%A9thode+artisanat+architecture+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/betsythemuffin/status/1280930684819787776[(3) betsythemuffin sur Twitter : "obsessing over "clean code" as opposed to "contextually appropriate code" holds developers back from learning the strategic skills necessary to success at senior levels" / Twitter]
+
+Parfaitement juste : clean code en tant qu'idée est sans doute bien à un niveau très local, mais inapproprié à un niveau plus global. Pour le dire autrement, dans un système complexe, il y a des moments où la complexité se laisse voir

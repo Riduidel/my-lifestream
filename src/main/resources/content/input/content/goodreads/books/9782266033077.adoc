@@ -1,0 +1,33 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Elric des Dragons
+:jbake-tags:  amour, bateau, dragons, démons, fantasy,_année_2017,_mois_juil.,_note_4,rayon-imaginaire,read
+:jbake-date: 2017-07-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266033077.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368221435l/4329568._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368221435l/4329568._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/4329568
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+oici la tragique histoire de Melniboné, l'île aux Dragons, qui fut maîtresse du monde. Il y a de cela bien longtemps. Désormais les Dragons dorment et Melniboné dépérit. Sur le trône de Rubis siège Elric, le prince albinos, dernier de sa race, nourri de drogues et d'élixirs qui le maintiennent tout juste en vie. La menace plane ; alors il rend visite au Seigneur du Chaos, Arioch, et conclut un pacte avec lui. Il fait ainsi les premiers pas sur le chemin de l'éternelle aventure : le Navire des Terres et des Mers le porte à la cité pestilentielle de Dhoz-kam, et son destin le pousse à franchir la Porte des Ténèbres ; au-delà, deux épées noires attendent leur maître et leur victime... Grandes ambitions, passions monstrueuses. Idéaux et trahisons. Souffrances atroces et joies cyniques. Tourments de l'amour et douceur de haïr. Un passé ancien, qui ne peut revivre que dans les plus immondes cauchemars.
+</div>
+++++
+
+
+## Authors
+* link:../authors/16939.html[Michael Moorcock]
+* link:../authors/5503437.html[Michael Moorcook]
+
+## Series
+* link:../series/Elric_Chronological_Order.html[Elric Chronological Order]
+* link:../series/The_Elric_Saga.html[The Elric Saga]
+* link:../series/The_Eternal_Champion_Sequence.html[The Eternal Champion Sequence]
+
+## Review
+
+++++
+Qui ne connaît pas l'albinos le plus célèbre de la fantasy ? Dans ce premier tome, il est empereur de Menilboné aux prises avec un cousin ambitieux. C'est plus ou moins mou, mais la conclusion le voit tirer Stormbringer, et le souffle épique de cette saga entre enfin dans les pages de cette histoire !
+++++

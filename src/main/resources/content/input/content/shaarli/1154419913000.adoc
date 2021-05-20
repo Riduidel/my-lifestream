@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aptana: The Web IDE
+:jbake-tags: css,dhtml,editor,freeware,ide,javascript,linux,macosx,open-source,plugin,web,windows,eclipse,_mois_août,_année_2006
+:jbake-date: 2006-08-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1154419913000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.aptana.com%2F&searchtags=css+dhtml+editor+freeware+ide+javascript+linux+macosx+open-source+plugin+web+windows+eclipse+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.aptana.com/[Aptana: The Web IDE]
+
+Un plugin Eclipse pour faire du développement web, avec tous les derniers raffinements

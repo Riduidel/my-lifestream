@@ -1,0 +1,43 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais alors les interfaces fluentes, c'est mal ?
+:jbake-tags: design,programming,_mois_mars,_année_2018
+:jbake-date: 2018-03-18
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/03/18/mails-alors-les-interfaces-fluentes-cest-mal.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/03/18/mails-alors-les-interfaces-fluentes-cest-mal/
+:jbake-style: wordpress
+
+++++
+<p>
+J'ai lu cette semaine un article intéressant de Yegor.
+</p>
+<p>
+Vous ne connaissez pas <a href="http://www.yegor256.com/">Yegor </a>? vous devriez. C'est LE défenseur ultime de la programmation orientée objet jusqu'au-boutiste. En fait, il est à peu près aussi fanatique que les fonctionnalistes les plus atteints. Donc, Yegor a écrit cette semaine un article assez chouette sur les interfaces fluentes et leur intérêt ... ou pas ... pour la programmation. Plus particulièrement, il critique leur maintenabilité dans cet article : <a href="http://www.yegor256.com/2018/03/13/fluent-interfaces.html">Fluent Interfaces Are Bad for Maintainability</a>. Lisez-le, c'est très chouette.
+</p>
+<p>
+Et ensuite, laissez-moi vous parler d'un sujet apparemment décorrélé. Est-ce que vous avez déja entendu parler des <a href="https://99percentinvisible.org/article/norman-doors-dont-know-whether-push-pull-blame-design/">Norman Doors</a> ? Il y a plein de vidéos qui en parlent. Mais j'ai découvert ce sujet grâce à cette vidéo
+</p>
+<p>
+https://www.youtube.com/watch?v=yY96hTb8WgI
+</p>
+<p>
+Dans cette vidéo, un passage m'a éclairé. Lorsque Don Norman noçus parle du bon design comme étant découvrable, ça m'a frappé.
+</p>
+<p>
+La première fois que j'ai conçu une interface fluente, c'était dans <a href="https://github.com/Riduidel/gaedo">gaedo </a>(enfin, dans ses prédécesseurs, mais ça ne compte pas vraiment). L'objectif, c'était d'avoir une API de persistance dans laquelle tous les éléments puissent être découverts grâce à la complétion de l'IDE. En particulier, les paramètres de recherche décrits dans l'article <a href="https://github.com/Riduidel/gaedo/blob/master/src/site/markdown/4_compilable_queries_a_senseless_concept.md">compilable queries, a senseless concept</a> sont tous découvrables dans l'IDE, ce qui revient à dire qu'à partir du moment où vous tapez le nom de votre service, toutes les opérations subséquentes peuvent être découvertes à partir de la complétion de l'IDE. Et c'est vraiment cool. Mais est-ce que c'est vraiment mauvais pour la maintenabilité ?
+</p>
+<p>
+Dans gaedo, un peu, parce que je n'avais alors pas réfléchi à ça.
+</p>
+<p>
+En revanche, dans les APIs fluentes que j'ai écrit ensuite, j'ai utilisé une méthode un peu plus structurée qui évite le phénomène dont il parle. Cette méthode est assez simple : la méthode de départ de l'API fluente doit retourner des éléments qui sont décrits par des classes internes - voire même des classes spécifiques. Mais surtout, surtout, ne polluez pas vos classes importantes avec le code de votre API fluente. Parce qu'effectivement, l'API peut changer (honnêtement, ça ne devrait pas être le cas, mais l'évolution n'est pas non plus un mal), mais son changement ne doit pas corrompre votre code "important".
+</p>
+<p>
+En quoi est-ce que ça contrarie la réflexion de Yegor ?
+</p>
+<p>
+Eh bien, Yegor, lui, jette comme toujours le bébé avec l'eau du bain et dit que, si les API fluentes sont mauvaises, elles doivent donc être remplacées par des enchaînement de création d'objet. Ca donne un résultat aussi laid que les API fonctionnelles dégueulasses. Et surtout, ça montre une chose claire : faire quelque chose de pur (en termes objets comme fonctionnels) donne souvent un résultat peu utilisable. Autrement dit, l'orthodoxie la plus pure donne rarement un résultat agréable.
+</p>
+++++

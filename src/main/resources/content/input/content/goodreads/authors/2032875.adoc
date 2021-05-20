@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rafael Grampá
+:jbake-tags: author
+:jbake-date: 2014-11-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2032875.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1442626011p5/2032875.jpg
+:jbake-source: https://www.goodreads.com/author/show/2032875
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782359107333.html[Mesmo Delivery]

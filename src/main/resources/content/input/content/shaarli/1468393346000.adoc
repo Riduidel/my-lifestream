@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: exercism.io
+:jbake-tags: programming,tutorial,langage,_mois_juil.,_année_2016
+:jbake-date: 2016-07-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1468393346000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fexercism.io%2F&searchtags=programming+tutorial+langage+_mois_juil.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://exercism.io/[exercism.io]
+
+Très chouette site d'exercices de code

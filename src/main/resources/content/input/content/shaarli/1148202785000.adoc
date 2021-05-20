@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to safe sleep your mac
+:jbake-tags: macosx,ibook,hack,reference,matériel,software,tutorial,utilities,_mois_mai,_année_2006
+:jbake-date: 2006-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1148202785000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.andrewescobar.com%2Farchive%2F2005%2F11%2F11%2Fhow-to-safe-sleep-your-mac%2F&searchtags=macosx+ibook+hack+reference+mat%C3%A9riel+software+tutorial+utilities+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.andrewescobar.com/archive/2005/11/11/how-to-safe-sleep-your-mac/[How to safe sleep your mac]
+
+Une solution pour une mise en veille plus efficace de mon iBook, qui fasse en sorte que ce superbe portable ne consomme plus \*rien\* en veille. Malheureusement, je n'ai pas encore réussi à le faire marcher correcttement.

@@ -1,0 +1,83 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pourquoi mes messages sont tronqués (ou absents) ?
+:jbake-tags: mastodon,raspberrypi,shaarli,stackoverflow,twitter,wordpress,_mois_avr.,_année_2017
+:jbake-date: 2017-04-28
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/04/27/pourquoi-mes-messages-sont-tronques-ou-absents.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/04/27/pourquoi-mes-messages-sont-tronques-ou-absents/
+:jbake-style: wordpress
+
+++++
+<p>
+J'écris ce message histoire de clarifier un peu les choses.
+</p>
+<p>
+Comme je passe doucement de Twitter à mastodon, j'en profite pour faire un nettoyage dans mes systèmes d'information et pour ajouter un peu de documentation.
+</p>
+<p>
+Donc, actuellement, pe publie des informations en utilisant les solutions suivantes
+</p>
+<p>
+<img class="alignnone size-full wp-image-4408" src="https://riduidel.files.wordpress.com/2017/04/flux_de_publication2.png" alt="flux_de_publication.png" width="1339" height="1637" />
+</p>
+<p>
+Il y a évidement des troncages, en particulier quand les textes arrivent dans twitter. Mais dans l'ensemble, c'est assez correct.
+</p>
+<p>
+Il y a toutefois un défaut, que j'ai l'intention de changer. Regardez en bas : Goodreads, Wordpress et StackOverflow publient directement dans Twitter sans passer par mastodon. C'est <strong>mal</strong>.
+</p>
+<p>
+Et autant pour Goodreads et Wordpress, je pense utiliser brutalement le flux RSS, autant pour Stackoverflow, comme je ne publie pas systématiquement mes questions, je pense que je vais garder une publication manuelle.
+</p>
+<p>
+Mais j'ai une question :
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/857 536 086 935 031 809" class="date">27 avr. 2017 à 12:05:10</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Petit sondage vite fait : si je renvoie avec feed2toot mes statuts goodreads/Wordpress/... dans Mastodon ... ça va vous soûler ?</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Pour l'instant, je n'ai pas la réponse ... mais je pense me décider assez vite.
+</p>
+<p>
+Bon, cela dit, je n'ai pas non plus la réponse à "comment embarquer un pouet dans Wordpress ...
+</p>
+++++

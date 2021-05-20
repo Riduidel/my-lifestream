@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: microsoft/cascadia-code: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+:jbake-tags: font,programming,open-source,_mois_nov.,_année_2019
+:jbake-date: 2019-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1574530575000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fcascadia-code&searchtags=font+programming+open-source+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/microsoft/cascadia-code[microsoft/cascadia-code: This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.]
+
+Je viens de me rendre compte que j'utilisais cette police un peu partout (et que j'aimais bien ça).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Google Chrome: It's time to ditch the browser | ZDNet
+:jbake-tags: web,browser,monopole,évolution,_mois_mars,_année_2021
+:jbake-date: 2021-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1615042702000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.zdnet.com%2Farticle%2Fgoogle-chrome-its-time-to-ditch-the-browser%2F&searchtags=web+browser+monopole+%C3%A9volution+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.zdnet.com/article/google-chrome-its-time-to-ditch-the-browser/[Google Chrome: It's time to ditch the browser | ZDNet]
+
+Le titre de l'article est très bon, mais le contenu est décevant. Parce que le problème avec Chrome n'est pas sa performance, mais son influence désastreuse sur l'évolution du web.

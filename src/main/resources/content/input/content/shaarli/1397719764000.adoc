@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Canvanizer
+:jbake-tags: web,online,productivité,notes,_mois_avr.,_année_2014
+:jbake-date: 2014-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1397719764000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcanvanizer.com%2F&searchtags=web+online+productivit%C3%A9+notes+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://canvanizer.com/[Canvanizer]
+
+Un chouette outil de notes virtuelles. Bon, évidement, l'inconvénient, c'est que c'est un service en ligne, du coup les questions traditionnelles se posent : \* comment sauvegarder les données que j'y rentre ? \* Existe-il un format portable pour utiliser ces données "ailleurs" ? Via http://lifehacker.com/canvanizer-offers-collaborative-brainstorming-via-digit-1560110426

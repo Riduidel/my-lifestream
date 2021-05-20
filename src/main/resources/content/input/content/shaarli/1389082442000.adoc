@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pour la Science - Article - La vidéosurveillance réduit-elle la délinquance ?
+:jbake-tags: liberté,surveillance,_mois_janv.,_année_2014
+:jbake-date: 2014-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1389082442000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pourlascience.fr%2Fewb_pages%2Fa%2Farticle-la-videosurveillance-reduit-elle-la-delinquance-25588.php&searchtags=libert%C3%A9+surveillance+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.pourlascience.fr/ewb_pages/a/article-la-videosurveillance-reduit-elle-la-delinquance-25588.php[Pour la Science - Article - La vidéosurveillance réduit-elle la délinquance ?]
+
+Attention, voici de la science ! Est-ce que la vidéo-surveillance limite la criminalité ? "La principale conclusion des travaux les plus rigoureux disponibles est ainsi que la vidéosurveillance est inefficace pour dissuader la délinquance en général ou pour réduire le sentiment d’insécurité." C'est clair, non ? Ca marche un peu dans les parkings pour limiter les vols de voiture, et c'est tout.

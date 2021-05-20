@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ailleurs (Arq, #1)
+:jbake-tags:  extra-terrestres, rayon-emprunt, voyage,_année_2011,_mois_mars,_note_4,rayon-bd,read
+:jbake-date: 2011-03-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840551522.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333189527l/10955982._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333189527l/10955982._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/10955982
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Résumé<br />Deux hommes (Montana et Joyce), une prostituée (Laura) et un couple (Travis et Alanna), que rien ne semblait devoir réunir, exceptée la fréquentation du même hôtel, se retrouvent soudainement<br />projetés dans un autre monde, curieux désert montagneux. Séparés par d'étranges cavaliers humanoïdes, ils devront alors, chacun de leur côté, assurer leur survie tout en cherchant à découvrir la raison de leur présence dans cet univers dont les lois leur échappent.
+</div>
+++++
+
+
+## Authors
+* link:../authors/4855102.html[Andreas]
+
+## Series
+* link:../series/Arq.html[Arq]
+
+## Review
+
+++++
+Une oeuvre étonnante, sacrément bien construite graphiquement, et qui me donne complètement envie de lire les tomes suivants, même si certains aspects me rappellent un peu trop La tapisserie de Fionavar, et si le dessin est encore un peu brouillon.
+++++

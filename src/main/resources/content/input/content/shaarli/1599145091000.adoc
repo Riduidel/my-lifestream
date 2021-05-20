@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jboz/plantuml-builder: Plantuml diagram from java sources
+:jbake-tags: java,plantuml,class,diagram,generation,open-source,library,_mois_sept.,_année_2020
+:jbake-date: 2020-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1599145091000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjboz%2Fplantuml-builder%2F&searchtags=java+plantuml+class+diagram+generation+open-source+library+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/jboz/plantuml-builder/[jboz/plantuml-builder: Plantuml diagram from java sources]
+
+Un outil assez pratique pour générer un diagramme de classe depuis du code Java. Il faut juste ne pas oublier qu'ajouter un package n'ajoute pas les classes qui sont dedans (à cause du modèle de chargement de classes, évidement).

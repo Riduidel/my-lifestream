@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What Color is Your Function? – journal.stuffwithstuff.com
+:jbake-tags: programming,functionnal,concepts,métaphore,article,réflexion,_mois_févr.,_année_2021
+:jbake-date: 2021-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1612349541000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjournal.stuffwithstuff.com%2F2015%2F02%2F01%2Fwhat-color-is-your-function%2F&searchtags=programming+functionnal+concepts+m%C3%A9taphore+article+r%C3%A9flexion+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/[What Color is Your Function? – journal.stuffwithstuff.com]
+
+Cette métaphore des couleurs de fonction pour mettre en valeur inconvénient d'async/await est vraiment chouette, et aboutit à une vision très sympa du défi que ça représente.

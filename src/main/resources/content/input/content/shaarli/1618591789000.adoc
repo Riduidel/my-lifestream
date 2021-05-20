@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: nofloc - Chrome Web Store
+:jbake-tags: chrome,extension,intimité,_mois_avr.,_année_2021
+:jbake-date: 2021-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1618591789000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchrome.google.com%2Fwebstore%2Fdetail%2Fnofloc%2Fegnfijfbeijcildnopmgpflofoobmece&searchtags=chrome+extension+intimit%C3%A9+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://chrome.google.com/webstore/detail/nofloc/egnfijfbeijcildnopmgpflofoobmece[nofloc - Chrome Web Store]
+
+A installer sur tous vos navigateurs chrome ... Parce que leur idée de floc est à gerber.

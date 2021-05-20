@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: denisidoro/navi: An interactive cheatsheet tool for the command-line
+:jbake-tags: linux,command-line,cheatsheet,dynamic,_mois_sept.,_année_2019
+:jbake-date: 2019-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1569505207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdenisidoro%2Fnavi&searchtags=linux+command-line+cheatsheet+dynamic+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/denisidoro/navi[denisidoro/navi: An interactive cheatsheet tool for the command-line]
+
+Oh c'est sacrément intéressant, et ça peut rendre potentiellement la ligne de commande compréhensible ...

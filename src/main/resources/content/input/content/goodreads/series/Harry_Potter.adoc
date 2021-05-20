@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Harry Potter
+:jbake-tags: serie
+:jbake-date: 2006-07-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Harry_Potter.adoc
+:jbake-source: https://www.goodreads.com/series/45175
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070572670.html[Harry Potter et le Prince de Sang-Mêlé (Harry Potter, #6)]
+* link:../books/9782070615360.html[Harry Potter et les Reliques de la Mort (Harry Potter, #7)]

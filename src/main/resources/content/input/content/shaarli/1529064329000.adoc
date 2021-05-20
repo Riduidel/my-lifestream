@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: net/http: allow control of case of header key · Issue #5022 · golang/go
+:jbake-tags: programming,design,http,go,_mois_juin,_année_2018
+:jbake-date: 2018-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1529064329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgolang%2Fgo%2Fissues%2F5022&searchtags=programming+design+http+go+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/golang/go/issues/5022[net/http: allow control of case of header key · Issue #5022 · golang/go]
+
+Un choix de design de l'API du langage curieux, qui a des impacts jusque dans les applications Java qui passent par Traefik (lequel change la casse des entêtes)

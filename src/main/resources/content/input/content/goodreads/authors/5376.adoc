@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jack Vance
+:jbake-tags: author
+:jbake-date: 1994-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5376.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1207604643p5/5376.jpg
+:jbake-source: https://www.goodreads.com/author/show/5376
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780879974671.html[Servants of the Wankh (Planet of Adventure, #2)]
+* link:../books/9782266036344.html[Le Prince des Étoiles (La Geste des Princes-Démons, #1)]
+* link:../books/9782277117216.html[le Chasch (cycle de Tschaï, #1)]
+* link:../books/9782277117230.html[le Dirdir (cycle de Tschaï, #3)]
+* link:../books/9782277117247.html[Le Pnume (cycle de Tschaï, #4)]

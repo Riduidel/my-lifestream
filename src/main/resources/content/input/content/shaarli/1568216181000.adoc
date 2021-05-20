@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Choosing properties for property-based testing | F# for fun and profit
+:jbake-tags: test,properties,tutorial,functionnal,_mois_sept.,_année_2019
+:jbake-date: 2019-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1568216181000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffsharpforfunandprofit.com%2Fposts%2Fproperty-based-testing-2%2F&searchtags=test+properties+tutorial+functionnal+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fsharpforfunandprofit.com/posts/property-based-testing-2/[Choosing properties for property-based testing | F# for fun and profit]
+
+Un intéressant exemple des différents types de tests basés sur les propriétés

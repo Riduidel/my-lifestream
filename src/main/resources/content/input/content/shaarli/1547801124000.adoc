@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ARA Records Ansible | ara.recordsansible.org
+:jbake-tags: ansible,log,web,_mois_janv.,_année_2019
+:jbake-date: 2019-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1547801124000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fara.recordsansible.org%2F&searchtags=ansible+log+web+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://ara.recordsansible.org/[ARA Records Ansible | ara.recordsansible.org]
+
+Si un jour je dois refaire du Ansible, j'utiliserai ce genre d'outils, parce que c'est bien pratique d'avoir des logs d'exécution accessibles sur le web ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emma Wedekind 🐞 sur Twitter : "You don't need to spend all of your free time coding to be a great developer 💘"
+:jbake-tags: citation,équilibre,développeur,_mois_nov.,_année_2019
+:jbake-date: 2019-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1573314028000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FEmmaWedekind%2Fstatus%2F1193114077125591040&searchtags=citation+%C3%A9quilibre+d%C3%A9veloppeur+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/EmmaWedekind/status/1193114077125591040[Emma Wedekind 🐞 sur Twitter : "You don't need to spend all of your free time coding to be a great developer 💘"]
+
+OUI ! Codez ... si vous voulez. Si vous ne voulez pas coder en-dehors du boulot, ne vous laissez pas forcer par la pression des pairs !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dluxemburg/reveal-run-in-terminal: Show and execute code in your presentation
+:jbake-tags: revealjs,présentation,command-line,plugin,web,javascript,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579286348000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdluxemburg%2Freveal-run-in-terminal&searchtags=revealjs+pr%C3%A9sentation+command-line+plugin+web+javascript+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/dluxemburg/reveal-run-in-terminal[dluxemburg/reveal-run-in-terminal: Show and execute code in your presentation]
+
+Bon, ben là, c'est génial (mis à part le fait que ça me fait exécuter du Node), ça peut me permettre d'exécuter des commandes depuis mes présentations. Vraiment chouette !

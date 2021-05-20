@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ditto, Clipboard Extension
+:jbake-tags: clipboard,software,windows,freeware,open-source,system,productivité,_mois_juin,_année_2008
+:jbake-date: 2008-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1213177335000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fditto-cp.sourceforge.net%2F%23Features&searchtags=clipboard+software+windows+freeware+open-source+system+productivit%C3%A9+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://ditto-cp.sourceforge.net/#Features[Ditto, Clipboard Extension]
+
+Un outil de presse-papier multiple, qui a l'avantage sur CLCL que j'utilise actuellement d'être Open-source

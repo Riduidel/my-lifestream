@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La septième porte (Les portes de la mort, #7)
+:jbake-tags:  fantasy, rayon-imaginaire,_année_1995,_mois_janv.,_note_2,broc,read
+:jbake-date: 1995-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266065337.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571083149l/4634820._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571083149l/4634820._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/4634820
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Depuis des millénaires monte sur les quatre mondes la sourde plainte des pauvres menschs persécutés par les demi-dieux. L'univers est devenu un piège : le Nexus vient d'être incendié par les serpents-dragons ; les Patryns, refoulés dans le Labyrinthe, luttent pour ne pas s'y laisser enfermer.<br /> Quant au Seigneur du Nexus, il est à Nécropolis et veut savoir où est la septième porte. Mais ni Haplo, torturé à mort, ni Alfred ne passent aux aveux. Car Haplo a un plan, et Alfred le connaît : il communique encore avec le corps inerte de son vieil ami. Quand la bataille finale s'engage, l'enjeu n'est pas seulement la victoire, mais la place qu'occuperont les combattants à l'instant où sera détruite la septième porte. Certains auront l'avenir devant eux. Quant aux autres, eh bien... il leur restera l'éternité pour y penser.<br /><br /> <i>Margaret Weis et Tracy Hickman ont débuté dans la carrière en écrivant des scénarios pour Donjons et Dragons. Puis ils sont passés du jeu de rôle au roman, domaine où leur talent n'a cessé de s'affirmer. Le cycle des Portes de la Mort est leur chef-d'œuvre à ce jour.</i>
+</div>
+++++
+
+
+## Authors
+* link:../authors/869.html[Margaret Weis]
+* link:../authors/868.html[Tracy Hickman]
+
+## Series
+* link:../series/The_Death_Gate_Cycle.html[The Death Gate Cycle]
+
+## Review
+
+++++
+
+++++

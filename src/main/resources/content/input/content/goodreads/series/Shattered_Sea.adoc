@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shattered Sea
+:jbake-tags: serie
+:jbake-date: 2020-07-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Shattered_Sea.adoc
+:jbake-source: https://www.goodreads.com/series/108746
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9791028103040.html[La Moitié d'un Roi (La Mer éclatée #1)]
+* link:../books/9791028109721.html[La Moitié d'un monde (La Mer éclatée #2)]

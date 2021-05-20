@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mecanisme.net :: Balzac - easier email
+:jbake-tags: software,macosx,réseau,email,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111067343000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mecanisme.net%2Fsoftware%2Fbalzac%2F&searchtags=software+macosx+r%C3%A9seau+email+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mecanisme.net/software/balzac/[mecanisme.net :: Balzac - easier email]
+
+Balzac is a new email application for OS X 10.3, which aims to provide a simple view on your mail whilst allowing fast, sophisticated searches of past correspondence.

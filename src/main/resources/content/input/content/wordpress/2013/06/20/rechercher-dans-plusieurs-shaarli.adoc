@@ -1,0 +1,49 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rechercher dans plusieurs Shaarli ?
+:jbake-tags: p2p,php,search,_mois_juin,_année_2013
+:jbake-date: 2013-06-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/20/rechercher-dans-plusieurs-shaarli.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/20/rechercher-dans-plusieurs-shaarli/
+:jbake-style: wordpress
+
+++++
+<p>
+<p style="text-indent:0;margin:0;">Sur la chatroom Shaarli, et ailleurs, certains souhaiteraient développer une recherche full-text distribuée dans les différents Shaarli.</p>
+<br/>
+<p style="text-indent:0;margin:0;">Une implémentation est même apparue (sur le site <a href="http://test.bananium.fr/test.php">bananium</a>).</p>
+<br/>
+<p style="text-indent:0;margin:0;">Je n'ai rien contre l'idée. En fait, j'ai même plutôt tout pour ce genre d'idée ... Mais l'implémentation qui lance une requête à mon petit shaarli à chaque fois qu'un utilisateur lance une recherche me paraît .... frustre ? et surtout terriblement impactante pour mon serveur.</p>
+<br/>
+<p style="text-indent:0;margin:0;">Pourquoi ?</p>
+<br/>
+<p style="text-indent:0;margin:0;">Parce que chaque recherche est lancée directement sur mon site. Et donc plus le site de recherche sera chargé, plus mon serveur sera chargé. Et ça, ça va vite l'amener au DoS (ben oui, c'est un bête NAS qui fait office de serveur chez moi, et croyez-moi, il n'est pas bien puissant). D'autant plus vite d'ailleurs, que les rechargements de selfoss suffisent quasiment à le mettre à genoux. Alors imaginez 20 utilisateurs qui font leur recherche en même temps.</p>
+<br/>
+<p style="text-indent:0;margin:0;">Cela dit, je crois qu'en fait tout cela vient d'un bon vieux syndrôme NIH - voire même encore plus bêtement d'une méconnaissance de ce qu'internet contient.</p>
+<br/>
+<p style="text-indent:0;margin:0;">Parce que, j'en parlais ce matin, des moteurs de recherche open-source facilement déployables, il y en a (<a href="http://www.seeks-project.info/site/">seeks</a>, par exemple).</p>
+<br/>
+<p style="text-indent:0;margin:0;">Et des librairies de moteur de recherche open-source en PHP intégrables, il y en a aussi un paquet :</p>
+</p>
+<p>
+<ul>
+<br/>
+<li><a href="http://www.sphider.eu/">Sphider</a> ou <a href="http://www.sphider-plus.eu/index.php?f=0">Sphider+</a></li>
+<br/>
+<li><a href="http://www.phpdig.net/">PhpDig</a></li>
+<br/>
+<li><a href="http://www.isearchthenet.com/isearch/">iSearch</a></li>
+<br/>
+<li>Les extensions de la <a href="http://php.net/manual/en/refs.search.php">lib PHP standard</a> peuvent aussi fournir une bonne base (Solr par exemple)</li>
+<br/>
+</ul>
+<br/>
+<p style="text-indent:0;margin:0;">Et qu'est-ce que ça apportera, tout ça ?</p>
+<br/>
+<p style="text-indent:0;margin:0;">Eh bien c'est simple : au lieu de lancer la recherche en temps réel sur ma machine, et donc de faire varier la charge de ma machine en fonction directe du nombre d'utilisateurs de la recherche, tous ces moteurs de recherche vont indexer mon site de façon régulière (pouf le cronjob, voire même le PushPullPubHub - enfin, le truc au nom façon <a href="http://www.dailymotion.com/video/xr31q_telechat-the-very-best-of-pubpub_animals#.UcMLqj63FBk">PubPub</a>), et surtout ils ne vont indexer mon contenu shaarli qu'une fois (par instance de moteur de recherche, évidement). Dans tous les cas, ça lissera bien la charge sur mon serveur, et en bonus je pourrai lui faire lire un robots.txt (le shaarli.txt n'existant pas encore).</p>
+<br/>
+<span id="__caret">_</span>
+</p>
+++++

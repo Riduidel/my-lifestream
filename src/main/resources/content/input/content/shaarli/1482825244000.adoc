@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Ⓐ De Goes on Twitter: "GoF => FP: Interpreter => Free Monad Visitor => Catamorphism Singleton => Reader Monad Abstract Factory => Modules Iterator => Traversable"
+:jbake-tags: citation,programming,oop,functionnal,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482825244000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjdegoes%2Fstatus%2F812088698888134657&searchtags=citation+programming+oop+functionnal+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/jdegoes/status/812088698888134657[John Ⓐ De Goes on Twitter: "GoF => FP: Interpreter => Free Monad Visitor => Catamorphism Singleton => Reader Monad Abstract Factory => Modules Iterator => Traversable"]
+
+Quand je lis ça, je trouve les patterns du GoF plus simples (typiquement le catamorphisme ...)

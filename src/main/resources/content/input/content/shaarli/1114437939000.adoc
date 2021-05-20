@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iNexus : Products : DriveGauge
+:jbake-tags: software,freeware,system,macosx,disk,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114437939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infinitenexus.com%2Fdg%2F&searchtags=software+freeware+system+macosx+disk+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.infinitenexus.com/dg/[iNexus : Products : DriveGauge]
+
+DriveGauge is a simple yet powerful, fully customizable utility designed to provide visual feedback about how full your drives are directly on each drive's icon.

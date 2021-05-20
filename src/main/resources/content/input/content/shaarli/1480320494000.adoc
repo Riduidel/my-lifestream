@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scott W. Ambler on Twitter: "Proving architecture with working code vs. describing it with powerpoint is a hallmark of effective architects."
+:jbake-tags: citation,architecture,programming,code,_mois_nov.,_année_2016
+:jbake-date: 2016-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1480320494000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fscottwambler%2Fstatus%2F802838253988675584&searchtags=citation+architecture+programming+code+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/scottwambler/status/802838253988675584[Scott W. Ambler on Twitter: "Proving architecture with working code vs. describing it with powerpoint is a hallmark of effective architects."]
+
+Bon, chez nous, c'est Visio, mais le combat est le même

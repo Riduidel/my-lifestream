@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Je cherche un truc ...
+:jbake-tags: informatique,mobile,raspberrypi,wifi,_mois_janv.,_année_2016
+:jbake-date: 2016-01-02
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/01/02/je-cherche-un-truc.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/01/02/je-cherche-un-truc/
+:jbake-style: wordpress
+
+++++
+<p>
+Je vous fais là une "capture des besoins" vite fait pour un truc .... dont je commence vraiment à ressentir le besoin.
+</p>
+<p>
+Donc, j'ai un téléphone portable sur lequel je mets la musique que je veux écouter (en l’occurrence sur une carte SDHC de 16 Go). Le problème, c'est que ma bibliothèque occupe bien plus que les 4 Go dont je je dispose pour ma musique (4 Go parce qu'il y a aussi quelques cartes pour <a href="http://osmand.net/">OsmAnd~</a>).
+</p>
+<p>
+Donc, j'aimerais bien trouver une solution pour stocker ma musique de façon mobile (plus que mon NAS, en tout cas).
+</p>
+<p>
+Apparemment, ça semble exister sous la forme de <a href="http://www.disquedurwifi.fr/">disques durs wifi</a>. Parce qu'avec ça, je mets ma musique dessus, et zou, non ?
+</p>
+<p>
+En fait, ça n'est pas si simple. Parce que d'après ce que je comprends, il faut utiliser une application spécifique pour lire la musique et les vidéos. Et, selon les modèles, il y aura de l'ethernet ou pas, ca fera répéteur wifi ou pas, ...
+<br/>
+Vous le comprenez bien, je ne suis pas conquis par ce que je vois sur le marché. Surtout parce que la question de l'UPnP est laissée de côté. Et oui ! L'UPnP, ma marotte !Ce qui m'amène évidement à faire ma liste de course.Si je devais choisir un disque dur réseau sans fil, j'en prendrais un qui
+<br/>
+<ul>Dispose d'un stockage de ... 250 Go (?)Intègre un serveur UpnPSe synchronise via rsync avec mon NAS domestiqueDispose d'une batterie tenant une douzaine d'heureSe recharge en USBDispose de connexions ethernet et wifi (avec bien sûr une sécurité très forte sur le wifi - genre une authentification basée sur l'adresse MAC)Soit également utilisable comme magnétoscope numérique en vacances (genre je branche une prise HDMI sur la télé, je choisis le film à jouer via le point de contrôle UPnP, et zou !)</ul>
+<br/>
+Bon, par contre, au niveau budget, je suis un peu incertain ...
+</p>
+++++

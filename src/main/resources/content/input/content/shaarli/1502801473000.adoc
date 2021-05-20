@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction to NoException | Baeldung
+:jbake-tags: java,programming,framework,exception,_mois_août,_année_2017
+:jbake-date: 2017-08-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1502801473000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.baeldung.com%2Fno-exception&searchtags=java+programming+framework+exception+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.baeldung.com/no-exception[Introduction to NoException | Baeldung]
+
+Elle est marrante cette bibliothèque qui encapsule les blocs try/catch ... Mais je ne suis pas sûr du sens de la chose

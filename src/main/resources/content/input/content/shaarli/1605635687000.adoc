@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Git is simply too hard |> Changelog
+:jbake-tags: git,concepts,interface,critique,_mois_nov.,_année_2020
+:jbake-date: 2020-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1605635687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchangelog.com%2Fposts%2Fgit-is-simply-too-hard&searchtags=git+concepts+interface+critique+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://changelog.com/posts/git-is-simply-too-hard[Git is simply too hard |> Changelog]
+
+Le fait que l'auteur travaille chez GitHub oriente ses propositions. Mais dans l'ensemble, je rejoins ce qui y est écrit (ce qui ne surprendra personne).

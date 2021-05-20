@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WinMover - Features
+:jbake-tags: freeware,software,system,windows,_mois_oct.,_année_2004
+:jbake-date: 2004-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1097564782000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.eliasae.se%2Fwinmover%2Ffeatures%2F&searchtags=freeware+software+system+windows+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.eliasae.se/winmover/features/[WinMover - Features]
+
+WinMover is an application for moving windows more comfortable with the the mouse in Microsoft Windows®. It is fully customizable and can mimic the behaviour of many window managers for UNIX and Linux. If you for example hold down the Alt-key, you can mo

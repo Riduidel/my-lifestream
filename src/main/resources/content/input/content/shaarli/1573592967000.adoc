@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Changing colors and fonts
+:jbake-tags: plantuml,dessin,thème,configuration,_mois_nov.,_année_2019
+:jbake-date: 2019-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1573592967000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fplantuml.com%2Ffr%2Fskinparam&searchtags=plantuml+dessin+th%C3%A8me+configuration+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://plantuml.com/fr/skinparam[Changing colors and fonts]
+
+Oh bon sang, je viens de me souvenir que PlantUML avait un paramètre pour faire des dessins façon dessiné main. je vais mettre ça dans mes diagrammes SNAPSHOT, ce sera vraiment chouette !

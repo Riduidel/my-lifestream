@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hyperdeck Markdown Presentations for iPad and macOS
+:jbake-tags: software,macosx,slideshow,générateur,markdown,_mois_mai,_année_2020
+:jbake-date: 2020-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1590499697000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhyperdeck.io%2F&searchtags=software+macosx+slideshow+g%C3%A9n%C3%A9rateur+markdown+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://hyperdeck.io/[Hyperdeck Markdown Presentations for iPad and macOS]
+
+C'est très chouette ... mais pourquoi diable est-ce du mac-only ?

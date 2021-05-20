@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: danteali/Slackomatic: bash script to send messages to Slack
+:jbake-tags: bash,shell,messaging,slack,open-source,_mois_déc.,_année_2018
+:jbake-date: 2018-12-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1544777987000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdanteali%2FSlackomatic&searchtags=bash+shell+messaging+slack+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/danteali/Slackomatic[danteali/Slackomatic: bash script to send messages to Slack]
+
+Soyons clairs, je déteste Slack. Mais pour avoir un bot qui envoie un message sur cet environnement dystopique, ce script est bien pratique

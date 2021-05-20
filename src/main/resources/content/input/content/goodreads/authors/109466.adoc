@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maurice G. Dantec
+:jbake-tags: author
+:jbake-date: 2003-03-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/109466.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1223157732p5/109466.jpg
+:jbake-source: https://www.goodreads.com/author/show/109466
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070417537.html[Babylon Babies]

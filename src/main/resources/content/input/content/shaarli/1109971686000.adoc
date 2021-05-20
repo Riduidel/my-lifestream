@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MacWarriors TrailBlazer
+:jbake-tags: software,freeware,macosx,réseau,web,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109971686000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.acm.uiuc.edu%2Fmacwarriors%2Fprojects%2Ftrailblazer%2F&searchtags=software+freeware+macosx+r%C3%A9seau+web+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.acm.uiuc.edu/macwarriors/projects/trailblazer/[MacWarriors TrailBlazer]
+
+visual browsed history

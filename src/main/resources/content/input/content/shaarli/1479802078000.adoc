@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: markproctor on Twitter: "Like the seasons, languages and frameworks come and go. Algorithms transcend those and the knowledge you develop can last a life time."
+:jbake-tags: citation,programming,algorithme,_mois_nov.,_année_2016
+:jbake-date: 2016-11-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1479802078000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmarkproctor%2Fstatus%2F800766146068680704&searchtags=citation+programming+algorithme+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/markproctor/status/800766146068680704[markproctor on Twitter: "Like the seasons, languages and frameworks come and go. Algorithms transcend those and the knowledge you develop can last a life time."]
+
+C'est pas la plus grande leçon de CodinGame ?

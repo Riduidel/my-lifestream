@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le stress subi par les développeurs les rend littéralement fous - JDN Web & Tech
+:jbake-tags: emploi,développement,culture,_mois_mai,_année_2014
+:jbake-date: 2014-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1399654399000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.journaldunet.com%2Fdeveloppeur%2Falgo-methodes%2Fles-syndromes-qui-rendent-fous-les-codeurs.shtml&searchtags=emploi+d%C3%A9veloppement+culture+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.journaldunet.com/developpeur/algo-methodes/les-syndromes-qui-rendent-fous-les-codeurs.shtml[Le stress subi par les développeurs les rend littéralement fous - JDN Web & Tech]
+
+J'ai l'impression qu'il s'agit d'une critique honnête du fameux harcèlement du développeur. Ce qui est drôle, c'est quand on lit cet article dans une entreprise dont le climat social se dégrade ... via http://sebsauvage.net/links/?NEcpKw

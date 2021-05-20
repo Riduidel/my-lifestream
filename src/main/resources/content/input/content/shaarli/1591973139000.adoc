@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Efficiently escaping strings using Cow in Rust
+:jbake-tags: rust,programming,optimisation,mémoire,_mois_juin,_année_2020
+:jbake-date: 2020-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1591973139000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffullstackmilk.dev%2Fefficiently_escaping_strings_using_cow_in_rust%2F&searchtags=rust+programming+optimisation+m%C3%A9moire+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://fullstackmilk.dev/efficiently_escaping_strings_using_cow_in_rust/[Efficiently escaping strings using Cow in Rust]
+
+Oh la vache, c'est vraiment sophistiqué comme méthode pour optimiser l'usage de sa mémoire !

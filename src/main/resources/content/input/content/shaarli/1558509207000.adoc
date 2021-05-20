@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zooba on Twitter: "Who put Python in the Windows 10 May 2019 Update? https://t.co/x0U7XICujN (Spoiler: it was me, @BrentRector and some of the app experts in the Windows team)… https://t.co/oTIHlxAmWW"
+:jbake-tags: python,windows,install,_mois_mai,_année_2019
+:jbake-date: 2019-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1558509207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fzooba%2Fstatus%2F1130927000401481728&searchtags=python+windows+install+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/zooba/status/1130927000401481728[Zooba on Twitter: "Who put Python in the Windows 10 May 2019 Update? https://t.co/x0U7XICujN (Spoiler: it was me, @BrentRector and some of the app experts in the Windows team)… https://t.co/oTIHlxAmWW"]
+
+C'est bien ... pour les gens qui n'utilisent pas chocolatey (qui fournit déja Python depuis bien longtemps)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Git: Use VS Code as merge editor · Issue #5770 · microsoft/vscode
+:jbake-tags: vscode,git,différence,configuration,_mois_juil.,_année_2019
+:jbake-date: 2019-07-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1562417562000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FMicrosoft%2Fvscode%2Fissues%2F5770&searchtags=vscode+git+diff%C3%A9rence+configuration+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/Microsoft/vscode/issues/5770[Git: Use VS Code as merge editor · Issue #5770 · microsoft/vscode]
+
+Une bonne astuce pour utiliser VSCode comme éditeur de diff git

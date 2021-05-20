@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parsing Google Calendar events with Python - Qxf2 blog
+:jbake-tags: programming,tutorial,python,google,calendar,_mois_mars,_année_2019
+:jbake-date: 2019-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1551782549000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fqxf2.com%2Fblog%2Fgoogle-calendar-python%2F&searchtags=programming+tutorial+python+google+calendar+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://qxf2.com/blog/google-calendar-python/[Parsing Google Calendar events with Python - Qxf2 blog]
+
+Un article assez complet sur l'intégration Google Calendar à Python

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Throw Keyword was a Mistake - By Chris Fox
+:jbake-tags: exception,langage,design,programming,java,_mois_janv.,_année_2020
+:jbake-date: 2020-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1579769934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackernoon.com%2Fthe-throw-keyword-was-a-mistake-l9e532di&searchtags=exception+langage+design+programming+java+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://hackernoon.com/the-throw-keyword-was-a-mistake-l9e532di[The Throw Keyword was a Mistake - By Chris Fox]
+
+Il y a des points intéressants dans cet article (avec lequel je suis en désaccord sur le fond). Cela dit, la gestion des cas limites sans exceptions (comme en Rust), c'est quand même moins trivial.

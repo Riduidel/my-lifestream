@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Jail - The Jailer Project Web Site
+:jbake-tags: java,jdbc,database,viewer,software,freeware,open-source,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556285777000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjailer.sourceforge.net%2F&searchtags=java+jdbc+database+viewer+software+freeware+open-source+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://jailer.sourceforge.net/[Open Jail - The Jailer Project Web Site]
+
+Ca ressemble rudement à une alternative \*très\* crédible à DBeaver

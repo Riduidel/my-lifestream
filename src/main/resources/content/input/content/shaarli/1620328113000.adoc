@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Generic arrays in Rust – ebvalaim.log
+:jbake-tags: rust,generics,expérience,mathématiques,_mois_mai,_année_2021
+:jbake-date: 2021-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1620328113000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Febvalaim.pl%2Fen%2F2015%2F09%2F25%2Fgeneric-arrays-in-rust%2F&searchtags=rust+generics+exp%C3%A9rience+math%C3%A9matiques+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://ebvalaim.pl/en/2015/09/25/generic-arrays-in-rust/[Generic arrays in Rust – ebvalaim.log]
+
+Il y a des gens qui ont des loisirs ... curieux. Cela dit, c'est assez instructif

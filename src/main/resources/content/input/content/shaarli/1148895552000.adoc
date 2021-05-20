@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Documentation Ruby
+:jbake-tags: documentation,ruby,reference,_mois_mai,_année_2006
+:jbake-date: 2006-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1148895552000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fperso.wanadoo.fr%2Falain.feler%2F&searchtags=documentation+ruby+reference+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://perso.wanadoo.fr/alain.feler/[Documentation Ruby]
+
+La doc de référence Ruby traduite en français

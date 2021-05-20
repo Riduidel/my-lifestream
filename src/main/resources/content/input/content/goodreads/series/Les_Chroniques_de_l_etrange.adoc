@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Chroniques de l'étrange
+:jbake-tags: serie
+:jbake-date: 2019-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Les_Chroniques_de_l_etrange.adoc
+:jbake-source: https://www.goodreads.com/series/166177
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782072714184.html[Les Quatre-vingt-un Frères (Les Chroniques de l'étrange, #1)]
+* link:../books/9782072870422.html[Les Gardiens célestes (Les Chroniques de l'étrange #3)]

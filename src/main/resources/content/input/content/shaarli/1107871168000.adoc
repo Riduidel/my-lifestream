@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SAM -- Answering Machine for Skype® users
+:jbake-tags: software,freeware,windows,voip,skype,chat,_mois_févr.,_année_2005
+:jbake-date: 2005-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1107871168000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freewebs.com%2Fskypeansweringmachine%2F&searchtags=software+freeware+windows+voip+skype+chat+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.freewebs.com/skypeansweringmachine/[SAM -- Answering Machine for Skype® users]
+
+SAM is a simple voice answering machine for Skype® users. When you are away from your PC and there is no one to answer your incoming Skype calls, SAM will pick up the call, play a greeting message and the "all-time clasic beep" so that the calling par

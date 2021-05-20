@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Photomesa Zoomable Image Browser
+:jbake-tags: visualisation,software,freeware,windows,exif,library,photographie,_mois_juin,_année_2008
+:jbake-date: 2008-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1214317352000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.windsorinterfaces.com%2Fphotomesa.shtml&searchtags=visualisation+software+freeware+windows+exif+library+photographie+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.windsorinterfaces.com/photomesa.shtml[Photomesa Zoomable Image Browser]
+
+Encore un outil de gestion de photos pour Winows, mais celui-là a un look cosmique, des fonctionnalités assez inédites, en plus de la traditionnelle gestion des infos EXIF.

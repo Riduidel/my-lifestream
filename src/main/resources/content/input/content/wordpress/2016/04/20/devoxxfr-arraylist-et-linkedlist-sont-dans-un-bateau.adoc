@@ -1,0 +1,112 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - ArrayList et LinkedList sont dans un bateau
+:jbake-tags: collection,devoxx,java,programming,_mois_avr.,_année_2016
+:jbake-date: 2016-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/20/devoxxfr-arraylist-et-linkedlist-sont-dans-un-bateau.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/20/devoxxfr-arraylist-et-linkedlist-sont-dans-un-bateau/
+:jbake-style: wordpress
+
+++++
+<p>
+Première conf et première déconvenue : je voulais aller voir Vert.x pour plusieurs raisons, mais au moment d'arriver dans la salle, elle était déja pleine.
+<br/>
+Donc, plan B : ArrayList et LinkedList sont dans un bateau, avec José Paumard.
+</p>
+<p>
+http://fr.slideshare.net/jpaumard/arraylist-et-linkedlist-sont-dans-un-bateau
+</p>
+<p>
+La présentation va tenter d'expliquer les différences de performance entre ArrayList et LinkedList, et en déduire des conseils sur nos structures de données.
+</p>
+<p>
+José est maître de conf, indépendant, Java champion, maître du monde, quoi.
+</p>
+<p>
+Et pour ne pas perdre de temps, José donne tout de suite la réponse à la question : y a-t-il une implémentation meilleure que les autres ? oui.
+</p>
+<p>
+Petit rappel : ArrayList et linkedList ont été conçues ... il y a 18 ans !
+</p>
+<p>
+Et donc, on va examiner les performances selon les différents éléments de l'API : add, remove, sort/removeIf, forEach, get
+</p>
+<p>
+Si on plonge un peu, un ArrayList est stocké sur un tableau, et donc quand on ajoute un élément, c'est à peu près instantané. A peu près ? Oui, parce que de temps en temps, il y a un appel à ArrayList#grow() qui fait des Arrays.copyOf() ... et c'est long. Evidement, on peut l'éviter en fixant la taille du tableau suffisamment grand, mais pour ça, il faut connaître la taille maximum ! De la même manière, un add(index, Element) va forcément faire un arraycopy des éléments suivants. Et évidement, c'est pareil pour une suppression.
+</p>
+<p>
+De la même manière, LinkedList paraît plus simple pour les écritures .. mais la lecture est plus lente ...
+</p>
+<p>
+Au passage, et parce que cette présentation est accessible même aux débutants, un petit détour par la complexité des algorithmes (les histoires de O(log(n)), O(n), O(n*log(n)). Et, malheureusement, si vous faites du O(n²), trouvez une autre implémentation, parce que ça va vite être dramatiquement long.
+</p>
+<p>
+Du coup, en termes de performance, à priori, ArrayList est forcément plus performant : toutes ses opérations sont en O(1) là où certaines opérations de LinkedList sont en O(n).
+</p>
+<p>
+Passons maintenant à l'analyse avec ... JMH !
+</p>
+<p>
+Donc José nous pond un beau benchmark pour ajouter un élément dans la liste, qui sera le pire des cas pour ArrayList (en remplissant dès le départ la liste) et pour LinkedList (en ajoutant l'élément au milieu). Et ça donne quel résultat ? un ArrayList 3 ns plus rapide que LinkedList !
+<br/>
+De la même manière, la lecture par index est bien plus lente dans LinkedList que dans ArrayList (mais ça, c'est attendu).
+<br/>
+Et on continue avec un itérateur Java2 ... qui montre un ArrayList deux fois plus rapide.
+<br/>
+Et on continue avec un itérateur de stream Java8 ... qui montre un ArrayList deux fois plus rapide. Mais deux implémentations plus rapides.
+</p>
+<p>
+Petit détour rigolo par le Collections.sort qui devient List.sort en java8 (et du coup l'implémentation initiale moche devient chouette).
+</p>
+<p>
+Maintenant, pour les détails de performance, allons voir comment ça se passe dans le CPU (ça plaira à un certain collègue)...
+</p>
+<p>
+Et l'explication semble se situer dans la gestion des caches CPU : avec le temps, on a ajouté entre le CPu et la RAM 3 niveaux de cache de vitesse différente. Et le but d'un bon algorithme est d'amener les données dans le cache L1 au moment où elles seront utilisées. Or, comme les données dans un ArrayList sont l'une derrière l'autre, ça marche bien mieux qu'une LinkedList où les données sont placées au hasard dans la RAM. cette dégradation des performances s'appelle le pointer chasing, et apparaît dès qu'on joue avec des pointeurs, autrement dit en Java ... des objets. Ou des collections comme HashSet, HashMap. D'ailleurs, José montre le bench qui ne met pas HashMap à l'honneur.
+</p>
+<p>
+Et au moment de raconter tout ça, José jette des coups d'oeil presque inquiets à Rémi Forax, qui hante la salle de réunion telle l'esprit de la JVM :-)
+</p>
+<p>
+Au passage, il y a d'autres implémentations de collections qui gèrent mieux ces aspects : Eclipse Collections, HPPC, Trove et Koloboke. Et toutes ces librairies basent leurs structures sur des tableaux.
+</p>
+<p>
+Et c'est le moment des questions, dont la mienne : "est-ce que ce pointer chasing se retrouve dans les références entre objet" Et la réponse est OUI. La conclusion qui me vient immédiatement à l'esprit est : mais alors, les objets sont inefficaces en termes de performance !
+</p>
+<p>
+En Java9, on peut utiliser Lists.of avec des implémentations optimisées (y compris dans le nombre de paramètres)
+</p>
+<p>
+Et maintenant, petite séance d'implémentation de collections de taille 1 et 2 pour rire.
+</p>
+<p>
+Et là, on arrive dans du bon sang de Java8 où une classe SingletonSet devient une interface bourrée de méthodes par défaut avec juste une méthode statique et une lambda-expression. Pas mal, pas mal du tout.
+</p>
+<p>
+Et il enchaîne avec la Map, qui est un exemple un peu moins convaincant (surtout la méthode get(int) utilisée pour la closure).
+</p>
+<p>
+En bonus, aucune de ces collections ne fournit de equals/hashcode compatible avec les collections "standard".
+</p>
+<p>
+Bon, mais les Singleton* sont-ils plus efficaces que les listes du JDK ?
+<br/>
+Et la réponse est "un peu, mais pas beaucoup".
+</p>
+<p>
+S'ensuit une petite discussion entre José, Rémi, et un auditeur anonyme sur le fait que les lambdas soient des objets ou pas, et soient donc dans la pile ou pas.
+</p>
+<p>
+Et du coup, les lambdas, ça rend bien des services, parce qu'on peut faire de l'indirection sans forcément tomber sur du pointer chasing. Et c'est surtout utile quand une classe ne dépend in fine que d'une unique valuer, ce qui peut être le cas dans du code applicatif.
+</p>
+<p>
+Ca a clairement le potentiel de changer le mode d'implémentation du code.
+<br/>
+Au passage, José nous recommande vivement de jeter un oeil à la présentation de Rémi de l'année dernière sur les designs patterns du GoF implémentés avec des lambdas.
+</p>
+<p>
+Dans le stock des questions, si la lambda change un état, ces implémentations de collection basées sur des lambdas sont susceptibles d'effectuer le code plusieurs fois.
+</p>
+++++

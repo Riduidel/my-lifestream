@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""It is far, far easier to make a correct program fast than it is to make a fast program correct." - Herb Sutter"
+:jbake-tags: citation,programming,qualité,_mois_févr.,_année_2017
+:jbake-date: 2017-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1488180653000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F835261531424194560&searchtags=citation+programming+qualit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/835261531424194560[Programming Wisdom on Twitter: ""It is far, far easier to make a correct program fast than it is to make a fast program correct." - Herb Sutter"]
+
+Mon inspiration pour chaque jeu Codingame

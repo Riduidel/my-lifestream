@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: groovy/GinqTest.groovy at GROOVY-8258 · apache/groovy
+:jbake-tags: groovy,programming,langage,sql,intégration,évolution,_mois_oct.,_année_2020
+:jbake-date: 2020-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1602346393000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fapache%2Fgroovy%2Fblob%2FGROOVY-8258%2Fsubprojects%2Fgroovy-linq%2Fsrc%2Ftest%2Fgroovy%2Forg%2Fapache%2Fgroovy%2Flinq%2FGinqTest.groovy&searchtags=groovy+programming+langage+sql+int%C3%A9gration+%C3%A9volution+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/apache/groovy/blob/GROOVY-8258/subprojects/groovy-linq/src/test/groovy/org/apache/groovy/linq/GinqTest.groovy[groovy/GinqTest.groovy at GROOVY-8258 · apache/groovy]
+
+Il y aura donc dans Groovy 4 un équivalent du LINQ existant sur la plateforme .NET ... C'EST GENIAL !!! 😍🤩🥰

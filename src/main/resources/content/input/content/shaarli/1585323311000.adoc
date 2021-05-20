@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Multiple modules in Spring Boot apps
+:jbake-tags: spring,boot,configuration,module,tutorial,microservices,_mois_mars,_année_2020
+:jbake-date: 2020-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1585323311000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.frankel.ch%2Fmultiple-modules-spring-boot-apps%2F&searchtags=spring+boot+configuration+module+tutorial+microservices+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.frankel.ch/multiple-modules-spring-boot-apps/[Multiple modules in Spring Boot apps]
+
+Oh ben tiens je me posais la question la semaine dernière, pour déployer deux composants Spring dans le même conteneur. Et effectivement, l'exemple de Nicolas n'est pas très bon, j'aurais plutôt mis deux jeux de fonctionnalités différents.

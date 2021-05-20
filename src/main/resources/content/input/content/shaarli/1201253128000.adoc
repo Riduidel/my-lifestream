@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Official War Rock Website -- Home
+:jbake-tags: 3d,fps,freeware,shareware,jeu,online,windows,_mois_janv.,_année_2008
+:jbake-date: 2008-01-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1201253128000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.warrock.net%2Findex.php&searchtags=3d+fps+freeware+shareware+jeu+online+windows+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.warrock.net/index.php[Official War Rock Website -- Home]
+
+Un FPS semi-gratuit, apparement assez complet, et surtout sans limite pour les radins

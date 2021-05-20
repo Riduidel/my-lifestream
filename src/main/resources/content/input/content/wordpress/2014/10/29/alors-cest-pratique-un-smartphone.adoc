@@ -1,0 +1,95 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alors c'est pratique un smartphone ?
+:jbake-tags: android,téléphone,_mois_oct.,_année_2014
+:jbake-date: 2014-10-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/10/29/alors-cest-pratique-un-smartphone.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/10/29/alors-cest-pratique-un-smartphone/
+:jbake-style: wordpress
+
+++++
+<p>
+Je n'aime pas trop le terme de smartphone, ne serait-ce que parce que je me souviens des vieux, voire même très vieux, téléphones portables qui avaient déja des applications.
+</p>
+<p>
+Et je crois que ça n'est pas la peine que je vous parle des différents Palm pilot, qui restent pour moi une espèce de summum, sur lequel je reviendrai ...
+</p>
+<p>
+Donc, je l'ai écrit ici il y a quelques temps, <a title="J’ai craqué !" href="http://riduidel.wordpress.com/2014/08/25/jai-craque/">j'ai acheté un Wiko Raimbow</a> d'une magnifique couleur <a href="http://fr.wikomobile.com/m145-RAINBOW">corail</a>. Et ça, c'est le premier choc. Parce que le téléphone n'est ni noir, ni blanc, et que bien des gens sont surpris de me voir utiliser avec plaisir un téléphone dans cette gamme de couleur. Personnellement, ça m'amuse beaucoup, parce que comme je dis toujours à mon fils
+<br/>
+<blockquote>Les vrais hommes peuvent porter du rose</blockquote>
+<br/>
+Et donc, rien que la couleur révèle bien des choses sur mes interlocuteurs.
+</p>
+<p>
+Ensuite, une fois le téléphone démarré, quelques détails me surprennent.
+</p>
+<p>
+Le premier, c'est qu'Android 4.4 a une très chouette option de démarrage/arrêt automatique, qui fait que mon téléphone s'arrête tous les sloirs à 20H30, ce qui me fournit un agréable sentiment d'apaisement. Du coup, d'ailleurs, je ne comprend toujours pas les gens qui prennent leur téléphone pour un sbstitut mammaire et s'y accrochent en permanence ... Mais bon, c'est pas bien grave.
+</p>
+<p>
+En revanche, ce qui l'est un peu plus, c'est la saisie.
+</p>
+<p>
+Parce qu'au début, avec mes gros doigts, j'avais un mal de chien à taper sur le clavier virtuel ... Et j'ai eu beau passer (sur <a href="http://sebsauvage.net/links/?sIH4sw">la recommandation de Sebsauvage</a>) à Kii Keyboard (j'aurais bien mis le lien, mais il ne semble actuellement pas disponible sur le Play Store ... et les développeurs ne semblent même pas avoir de site autonome, ce qui me trouble bien plus que je ne saurais le dire), je n'ai pas retrouvé l'expérience de saisie de mon vieux Palm. Je m'explique ...
+</p>
+<p>
+Au temps béni du Palm, on écrivait avec un stylet en utilisant <a href="http://fr.wikipedia.org/wiki/Graffiti_(Palm_OS)">l'alphabet Graffiti</a>, développé spécialement pour cette saisie. Et j'arrivais à écrire des textes à peu près aussi vite que les idées pouvaient me venir à l'esprit, ou aussi vite que les gens discutaient en réunion. Là, même avec la saisie prédictive (que je maîtrise encore assez mal, je dois bien l'avouer), j'ai l'impression d'être encore très loin de cette vitesse de saisie.
+</p>
+<p>
+Cela dit, grâce à la réactivité de l'écran, j'ai ajouté deux ou trois gadgets qui me facilitent vraiment la vie :
+<br/>
+<ul>
+<br/>
+<li><a href="https://play.google.com/store/apps/details?id=jun.ace.piecontrol">PieControl </a>ajoute un menu radial qui se lance en cliquant du doigt sur le côté de l'écran, et fournit quelques raccourcis bien pratiques pour accéder aux applications déja démarrées ou à une version réduite de la liste des applications. Cette liste des applications me paraissait, comme celle d'Android, d'ailleurs, largement insuffisante, avant tout parce qu'il n'y a pas de possibilité de recherche des applications à la Quicksilver/Launchy/Gnome DO.</li>
+<br/>
+<li>Heureusement, pour ça, j'ai trouvé hier <a href="https://play.google.com/store/apps/details?id=org.ligi.fast">FAST</a>, qui fait exactement ça : une liste d'applications avec recherche full text. Bien plus rapide que <a href="https://code.google.com/p/quickdroid/">Quickdroid</a></li>
+<br/>
+<li>Et pour les mots de passe, <a href="https://play.google.com/store/apps/details?id=keepass2android.keepass2android">Keepass2Android </a>permet facilement de taper les mots de passe, pour peu qu'on comprenne cette histoire de clavier alternatif à activer au besoin.</li>
+<br/>
+</ul>
+<br/>
+Bon, et évidement, j'ai les indispensables également mentionnés chez <a href="http://prism-break.org/fr/">Prism-break</a> :
+<br/>
+<ul>
+<br/>
+<li><a href="https://f-droid.org/">F-Droid</a>, qui est un peu la porte vers le libre, même si je trouve que cette porte se referme assez rapidement ...</li>
+<br/>
+<li><a href="https://f-droid.org/repository/browse/?fdfilter=firefox&#38;fdid=org.mozilla.firefox">Firefox </a>dont les extensions ne se synchronisent malheureusement pas avec les extensions de bureau (dommage pour <a href="http://www.wikiwand.com/">Wikiwand </a>- d'un autre côté j'ai <a href="https://f-droid.org/repository/browse/?fdfilter=aard&#38;fdid=aarddict.android">Aard </a>pour ça).</li>
+<br/>
+<li><a href="https://f-droid.org/repository/browse/?fdfilter=k9mail&#38;fdid=com.fsck.k9">K9-Mail</a> qui est vraiment très bien fichu (genre, le client GMail, à côté, c'est une honte - et pas seulement parce qu'il n'offre l'accès qu'à GMail)</li>
+<br/>
+<li><a href="https://f-droid.org/repository/browse/?fdfilter=adaway&#38;fdid=org.adaway">Adaway </a>que j'ai découvert cette semaine - essentiellement parce que je n'en pouvais plus de voir <a href="https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict">Podacst addict </a>me spammer dès que je me connectais à un réseau wifi.</li>
+<br/>
+</ul>
+<br/>
+Il y a quand même dans tout ça un thème que je retrouve de façon assez désagréable ...
+</p>
+<p>
+Sur mon ordinateur de bureau, même avec Windows 7, j'ai accès à des applications open-source de qualité pour la plupart de mes usages (sans compter les outils de développement, qui sont tous open-source, j'ai par exemple OpenOffice, Keepass, ou même ce bon vieux Urban Terror). Sur Android, l'open-source me semble, en-dehors des vrais efforts du type Replicant, réduit à la portion congrue.
+</p>
+<p>
+Et pourtant, des logiciels gratuits, il y en a à la pelle. Hélas, même un logiciel dont les données sont libres, comme par exemple <a href="https://play.google.com/store/apps/details?id=net.osmand">OsmAnd</a>, n'est gratuit qu'en surface : la version gratuite a une limite de dix téléchargements qui est ... assez vite atteinte. Et pour adjoindre l'insulte à l'injure, seule la version payante permet le calcul d'itinéraires de plus de 200 Km. Non mais on est où là ? Franchement, je me demande si je ne vais pas le désinstaller et partir chercher du côté des concurrents moralement honnêtes. Entre parenthèses, l'utilisation du guidage GPS n'est pas spécialement aidé par le fix GPS particulièrement lent et fragile de ce téléphone (ce qui est, en vrai, son plus gros point noir : le GPS ne marche qu'à moitié, pour moi).
+</p>
+<p>
+Et ça, vous voyez, c'est du gratuit en mode version d'essai, qui est exactement le genre de choses que je déteste. Et c'est là qu'on voit qu'Android est un marché en conquête : tous les éditeurs font comme à l'époque bénie de Windows 95 : du shareware qui ne dit pas son nom.
+</p>
+<p>
+Et comme évidement il y a beaucoup d'appelés mais peu d'élus, le paysage des applications ressemblera, d'ici quelques version, à Detroit depuis la fin de la cité de l'automobile, ou comme les sites de shareware de Windows en 2014 : tellement de produits abandonnés que la sélection se fait finallement assez vite.
+</p>
+<p>
+Cela dit, je m'en fous un peu, parce qu'une fois que je trouve un ensemble d'applications satisfaisant, je m'en contente. Et les applications, je les ai pour l'essentiel.
+</p>
+<p>
+Ah, au fait, vous aurez remarqué que je n'ai pas parlé d'accès réseau ... Normal, avec mon forfait 2 €. Et du coup, la grande question, c'est
+<br/>
+<blockquote>Avec la wikipedia et la carte de France embarquée, 32 Go, c'est assez ?</blockquote>
+<br/>
+Eh bien oui, et largement, même : j'ai la place pour y glisser 5 Go de MP3, et un peu d'ebooks (cela dit, je dois bien avouer que les mangas ne passent absolument pas sur un écran de cette taille).
+</p>
+<p>
+Bon, vous l'aurez compris, je suis plutôt content à la fois du matériel et de l'expérience ... même si je ne cracherais pas sur une méthode de saisie plus efficace.
+</p>
+++++

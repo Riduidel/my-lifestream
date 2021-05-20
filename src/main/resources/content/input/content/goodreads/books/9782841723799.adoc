@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Art du Disque Monde
+:jbake-tags: _année_2009,_mois_avr.,_note_5,rayon-imaginaire,read
+:jbake-date: 2009-04-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782841723799.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407673437l/1900895._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407673437l/1900895._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1900895
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Le Disque-monde navigue dans l'espace sur le dos de quatre éléphants posés sur une tortue géante (ils étaient autrefois cinq, mais c'est une autre histoire). C'est un monde débordant de magie, un monde de contrastes et d'extrêmes qui va de la métropole grouillante d'Ankh-Morpork, la plus ancienne ville du Disque (aujourd'hui administrée d'une main de fer dans un gant de velours par le Patricien, le seigneur Vétérini), jusqu'au vieil empire du Klatch où il existe quinze mots différents pour désigner l'assassinat. Sans oublier le mystérieux continent XXXX - ou Quatricks, sur lequel rien de ce qu'on a entendu dire n'est vraiment exagéré -, le tout petit royaume de Lancre et l'Uberwald, un pays sinistre ou des bruits de collision retentissent dans la nuit. Et puis il y a les habitants. Les sorcières Mémé Ciredutemps, Nounou Ogg, Magrat Goussedail (aujourd'hui reine, bien entendu). Une pléthore de mages, comme l'archichancelier Mustrum Ridculle, le bibliothécaire, Rincevent, l'économe... Les moines de l'histoire et les vieilles familles de vampyres. De grands héros, tels Cohen le barbare et sa Horde d'Argent, Sam Vimaire, le capitaine Carotte et les hommes du Guet municipal... et les gens ordinaires comme Planteur Je-m'tranche-la-gorge, Ron l'Infect, les Igor... et la Mort. Le Disque-monde est peut-être né de l'imagination de son créateur, Terry Pratchett, mais, au fil de la trentaine de romans publiés, il a mené sa propre vie. Le présent ouvrage réunit pour la première fois les illustrations du voyage personnel de Paul Kidby sur le Disque, en couleurs éclatantes et en noir et blanc raffiné : un bouquet de personnages qui ont gagné le cœur de millions de lecteurs remplis d'admiration dans le monde entier. Voici " L'art du Disque-monde ".
+</div>
+++++
+
+
+## Authors
+* link:../authors/58715.html[Patrick Couton]
+* link:../authors/19440.html[Paul Kidby]
+* link:../authors/1654.html[Terry Pratchett]
+
+## Series
+* link:../series/Discworld_Companion_Books.html[Discworld Companion Books]
+
+## Review
+
+++++
+Pour une fois, il ne s'agit pas d'un roman, mais d'un excellent roman sur le travail de <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> et <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a>.<br/>les illustrations sont magnifiquement reproduites et les textes sont très intéressants (surtout ceux traitant de l'autre Pratchett, celui qui bosse la nuit).
+++++

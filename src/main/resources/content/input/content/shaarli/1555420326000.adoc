@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JSON Schema Tool
+:jbake-tags: json,schéma,online,editor,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555420326000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.jsonschema.net%2F&searchtags=json+sch%C3%A9ma+online+editor+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.jsonschema.net/[JSON Schema Tool]
+
+Un sympathique éditeur de schema JSON

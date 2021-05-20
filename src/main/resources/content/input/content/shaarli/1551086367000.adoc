@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lorin Hochstein on Twitter: "I’m a big believer in the following two statements: 1. You should design your system so that you never need to ssh to prod to debug an issue. 2. You should never prevent engineers from being able to ssh to prod to debug an issue.… https://t.co/kwmiyH0SXN"
+:jbake-tags: programming,devops,architecture,debug,_mois_févr.,_année_2019
+:jbake-date: 2019-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1551086367000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flhochstein%2Fstatus%2F1097383348958224384&searchtags=programming+devops+architecture+debug+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/lhochstein/status/1097383348958224384[Lorin Hochstein on Twitter: "I’m a big believer in the following two statements: 1. You should design your system so that you never need to ssh to prod to debug an issue. 2. You should never prevent engineers from being able to ssh to prod to debug an issue.… https://t.co/kwmiyH0SXN"]
+
+C'est assez juste : SSH (ou tout au moins un moyen d'inspection détaillé de l'état de l'application) est très utile pour débugger, mais ne doit servir à rien dans le fonctionnement courant.

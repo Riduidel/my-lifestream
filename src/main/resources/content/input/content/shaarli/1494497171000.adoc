@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gierad Laput | Synthetic Sensors
+:jbake-tags: informatique,senseur,matériel,_mois_mai,_année_2017
+:jbake-date: 2017-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1494497171000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gierad.com%2Fprojects%2Fsupersensor%2F&searchtags=informatique+senseur+mat%C3%A9riel+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.gierad.com/projects/supersensor/[Gierad Laput | Synthetic Sensors]
+
+Un senseur générique assez intéressant

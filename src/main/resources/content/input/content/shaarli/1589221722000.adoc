@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andrew Lilley Brinker 🦀 sur Twitter : "The Orange Site is discussing recipe sites, with harsh critiques for the (usually) women running these sites, over the long articles before recipes. As usual, these bloggers are implied to be stupid. You know why blogs do this? Because Google ranks them higher. 1/8"
+:jbake-tags: google,search-engine,sociologie,_mois_mai,_année_2020
+:jbake-date: 2020-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1589221722000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Falilleybrinker%2Fstatus%2F1259897923552378886&searchtags=google+search-engine+sociologie+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/alilleybrinker/status/1259897923552378886[Andrew Lilley Brinker 🦀 sur Twitter : "The Orange Site is discussing recipe sites, with harsh critiques for the (usually) women running these sites, over the long articles before recipes. As usual, these bloggers are implied to be stupid. You know why blogs do this? Because Google ranks them higher. 1/8"]
+
+Bref, Google construit un écosystème web de merde en n'étant pas un bon joueur avec les sites qui y sont indexés.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Consistency Models
+:jbake-tags: programming,science,_mois_juil.,_année_2018
+:jbake-date: 2018-07-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1530858395000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjepsen.io%2Fconsistency&searchtags=programming+science+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://jepsen.io/consistency[Consistency Models]
+
+Conceptuellement intéressant, même si je doute de la valeur ajoutée immédiate pour moi

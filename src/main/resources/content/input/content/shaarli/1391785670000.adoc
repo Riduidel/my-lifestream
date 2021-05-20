@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architecture et matière du marcheur
+:jbake-tags: art,vidéo,cinétique,_mois_févr.,_année_2014
+:jbake-date: 2014-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1391785670000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Farchitecture-matiere-du-marcheur%2F&searchtags=art+vid%C3%A9o+cin%C3%A9tique+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/architecture-matiere-du-marcheur/[Architecture et matière du marcheur]
+
+Le genre de vidéo qui va très bien dans une installation un peu arty

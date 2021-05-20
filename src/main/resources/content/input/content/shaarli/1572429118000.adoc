@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gentics Mesh - The open source headless CMS for developers
+:jbake-tags: web,blog,open-source,library,rest,_mois_oct.,_année_2019
+:jbake-date: 2019-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1572429118000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgetmesh.io%2F&searchtags=web+blog+open-source+library+rest+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://getmesh.io/[Gentics Mesh - The open source headless CMS for developers]
+
+Ca m'a l'air pas trop mal pour gérer du contenu tout ça ...

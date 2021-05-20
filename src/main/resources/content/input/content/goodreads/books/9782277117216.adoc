@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: le Chasch (cycle de Tschaï, #1)
+:jbake-tags:  rayon-imaginaire, world-opera,_année_1995,_mois_janv.,_note_2,extra-terrestres,read
+:jbake-date: 1995-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782277117216.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/4790429
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Un signal de détresse, intercepté par le vaisseau spatial Explorateur IV, provient de la lointaine planète Tschaï. Adam Reith, chargé d'examiner de plus près la provenance des radiations, est attaqué tandis que son astronef est détruit.<br />Capturé par les Hommes-Emblèmes, Adam est traité comme un esclave. Il apprend que, sur Tschaï, vivent des êtres étranges, résultat du croisement d'hommes et d'entités extra terrestres: les Chasch, les Wankh, les Dirdir et les mystérieux Pnume.<br />Il apprend aussi que les emblèmes confèrent une identité, une personnalité à ceux qui les portent. L'occasion se présente pour Adam de voler celui de Taz-Onmal, l'enfant-roi, mais pour recouvrer sa liberté, il lui reste à affronter la ville des Chasch...
+</div>
+++++
+
+
+## Authors
+* link:../authors/5376.html[Jack Vance]
+
+## Series
+* link:../series/Planet_of_Adventure.html[Planet of Adventure]
+
+## Review
+
+++++
+Je garde de ce cycle de roman le souvenir d'extra-terrestres aussi stupides que ceux de <a class="DirectAuthorReference destination_Author" href="../authors/3034502.html">Douglas R. Hofstadter</a>, et d'un héros assez supérieur.
+++++

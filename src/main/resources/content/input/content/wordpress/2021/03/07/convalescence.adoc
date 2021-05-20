@@ -1,0 +1,82 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Convalescence
+:jbake-tags: mavie,procrastination,_mois_mars,_année_2021
+:jbake-date: 2021-03-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/03/07/convalescence.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/03/07/convalescence/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Mon arrêt maladie se termine, et je peux tenter d'en tirer un rapide bilan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avant toute chose, je me dois de signaler que je suis un menteur. En effet, j'ai toujours cru être capable de me passer de contact humain pendant de longues périodes. Mais là, la topologie des maisons lilloises m'a isolé dans ma chambre sous les combles quand ma famille restait au rez-de-chaussée. Et pour la première fois depuis bien longtemps, j'ai un peu souffert de ce manque de relations sociales avec les gens que j'aime. Et c'est une réalisation qui fait en fait du bien : se rendre compte que les gens qu'on aime nous manquent, quand on sait qu'on les reverra, ça fait du bien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, comme tout vieux geek, j'ai passé beaucoup trop de temps à jouer. Comme je l'ai déja écrit, j'ai passé beaucoup de temps sur les convoyeurs de <a href="https://mindustrygame.github.io/">mindustry</a> (les captures d'écran statiques ne font pas honneur à la folie qui peut s'emparer du joueur pendant une partie un poil longue) à tenter de faire rentrer plus de matière dans mon noyau. Et à mon avis, il y a largement de quoi en faire un support pour une présentation sur, par exemple, le fameux <a href="https://www.enterpriseintegrationpatterns.com/">enterprise integration patterns</a>, ou le refactoring ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par ailleurs, j'ai réussi à trouver le temps de lire au moins un livre un peu sérieux, <a href="https://sdincose.org/wp-content/uploads/2017/10/TheArtOfSystemsEngineering_inaugural.pdf">The Art of System Architecting</a>, qui m'a permis de clarifier certaines de mes intuitions, comme le dit très bien cette citation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/fnthawar\/status\/1359469249618706434","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/fnthawar" class="screenName"><img src="http://pbs.twimg.com/profile_images/1090216378379001856/0kVBhUhE_mini.jpg" alt="profile of VP Engineering @Shopify - Helpful (Acquired), Pivotal, Xtreme Labs (Acquired), Achievers, Microsoft, Trilogy, Waterloo. Everything you know is wrong!"/>fnthawar</a>
+		<span class="name">Farhan Thawar</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/fnthawar/status/1 359 469 249 618 706 434" class="date">10 févr. 2021 à 12:48:21</a>
+
+	<span class="content">
+	
+	<span class="text">Read non-fiction to raise your floor. Read fiction to raise your ceiling.</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>J'ai également pris un peu de temps (moins d'une journée, en fait), pour virer Plex de mon NAS et le remplacer (évidement) par MiniDlna pour des raisons évidentes : si Plex a plein de fonctionnalités magiques, la performance n'en fait pas partie. Et dans la mesure où mon NAS est un modèle peu performant, lui mettre un logiciel trop lourd sur le dos n'a aucun intérêt. Et évidemnet, depuis que j'utilise MiniDlna, l'affichage de la liste de mes films sur la freebox se fait en un clin d'oeil. J'ai bien sûr perdu les fonctionnalités magiques de tri automatique de Plex, mais je connais un script Python magique qui pourrait peut-être (<a href="https://github.com/Kraymer/flinck">flinck</a>) les restaurer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et puis j'ai tenté de trouver une astuce pour mettre à jour ma <a href="https://riduidel.wordpress.com/2021/02/06/android-et-obsolesence/">tablette obsolète</a> (que j'ai trouvé), mais je n'ai pas osé la flasher par peur de la bricker.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais surtout, j'ai réfléchi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai réfléchi, par exemple, au fait que je n’avançais pas du tout sur mon idée de plugin Keepass. Il y a à ça des raisons logistiques, mais il y a surtout une réflexion sur la valeur de la procrastination. Parce que pour un projet domestique, la motivation est importante, et les freins à celle-ci sont évidents. Et en l’occurrence, je sais que je n'ai pas avancé parce que je vois encore trop de zones floues que je vais doucement prendre le temps de clarifier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai aussi réfléchi à mon rôle dans mon entreprise actuelle, bien aidé par une cascade organisationnelle que j'ai tenté avant mon arrêt maladie, et dont je reparlerai sans doute bientôt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai également beaucoup pensé à la beauté de ce pays, la France, dans lequel on peut se faire opérer d'un problème aussi pénible qu'handicapant et potentiellement grave ((la hernie discale, pour ceux qui ne suivent pas), presque gratuitement, dans ce qui pourrait être les meilleures conditions au monde. Et je trouve lamentablement triste que les gens au pouvoir, guidés par des considérations comptables plus que par tout autre chose au monde, choisissent sciemment de détruire ce système de santé. Ca dit des choses bien tristes sur eux, et sur leur vision de ce que peut être la grandeur d'un pays. A titre personnel, et d'une façon pas étonnante, l'intérêt porté à la santé des français entrera de façon presque prioritaire des mes critères électoraux. Parce que pour être honnête, augmenter la police et l'armée au détriment de la santé, de la culture, de l'écologie, c'est une vision féodalisante, rétrograde, pétainiste et particulièrement stupide  de ce qu'est le rôle d'un gouvernement.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hitler uses Kubernetes - YouTube
+:jbake-tags: kubernetes,humour,_mois_févr.,_année_2020
+:jbake-date: 2020-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1581579770000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9wvEwPLcLcA&searchtags=kubernetes+humour+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=9wvEwPLcLcA[Hitler uses Kubernetes - YouTube]
+
+Tellement de punchlines 🤣 (et il y a même un compliment à Rust dans le tas)

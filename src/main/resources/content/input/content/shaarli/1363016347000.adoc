@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cloud Project
+:jbake-tags: software,windows,jeu,freeware,_mois_mars,_année_2013
+:jbake-date: 2013-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1363016347000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Finteractive.usc.edu%2Fprojects%2Fcloud%2F&searchtags=software+windows+jeu+freeware+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://interactive.usc.edu/projects/cloud/[Cloud Project]
+
+Ca m'a l'air bien pour les enfants ... en tout cas mieux que World of Tanks ou Urban Terror :-)

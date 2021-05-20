@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Accessibility Extensions for Internet Explorer
+:jbake-tags: html,webdesign,_mois_août,_année_2004
+:jbake-date: 2004-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1093265473000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcita.rehab.uiuc.edu%2Fsoftware%2Fieaccessible%2Findex.html&searchtags=html+webdesign+_mois_ao%C3%BBt+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://cita.rehab.uiuc.edu/software/ieaccessible/index.html[Accessibility Extensions for Internet Explorer]
+
+IE Accessible adds features to Internet Explorer to make it easier for people to view and navigate web content based on the structural markup used to create the web page. IEAccessible can be used directly by everyone (including people with disabilities) t

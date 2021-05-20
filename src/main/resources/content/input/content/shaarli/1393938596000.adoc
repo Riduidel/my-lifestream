@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Toutes les couleurs RVB sont dans ces images
+:jbake-tags: art,informatique,couleur,_mois_mars,_année_2014
+:jbake-date: 2014-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1393938596000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Ftoutes-les-couleurs-rvb-sont-dans-ces-images%2F&searchtags=art+informatique+couleur+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/toutes-les-couleurs-rvb-sont-dans-ces-images/[Toutes les couleurs RVB sont dans ces images]
+
+Original, comme site. Les résultats ne me paraissent pas tous spectaculaires, mais ça reste une drôle d'idée.

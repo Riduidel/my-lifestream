@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gaucho Software - Software - X Resource Graph
+:jbake-tags: software,freeware,open-source,macosx,system,monitor,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110980855000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gauchosoft.com%2FSoftware%2FX%2520Resource%2520Graph%2FGeneral%2520Info%2F&searchtags=software+freeware+open-source+macosx+system+monitor+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.gauchosoft.com/Software/X%20Resource%20Graph/General%20Info/[Gaucho Software - Software - X Resource Graph]
+
+XRG is an open source system monitor for Mac OS X. XRG allows you to monitor CPU activity, memory usage, battery status, machine temperature, network activity, disk I/O, current weather, and stock market data. The goal of XRG is to be a functional system

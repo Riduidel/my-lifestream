@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Harmful GOTOs, Premature Optimizations, and Programming Myths are the Root of all Evil
+:jbake-tags: programming,culture,concepts,mème,_mois_mai,_année_2015
+:jbake-date: 2015-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1432200024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvidelalvaro.github.io%2F2015%2F02%2Fprogramming-myths.html%3Futm_content%3Dbuffer63cc2%26utm_medium%3Dsocial&searchtags=programming+culture+concepts+m%C3%A8me+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://videlalvaro.github.io/2015/02/programming-myths.html?utm_content=buffer63cc2&utm_medium=social[Harmful GOTOs, Premature Optimizations, and Programming Myths are the Root of all Evil]
+
+Une présentation et un article fascinant sur les mèmes divers qui obscurissent le jugement des développeurs.

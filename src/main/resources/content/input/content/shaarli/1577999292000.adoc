@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sketch2Code - Transform sketches into HTML using AI
+:jbake-tags: ia,web,générateur,online,_mois_janv.,_année_2020
+:jbake-date: 2020-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1577999292000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsketch2code.azurewebsites.net%2F&searchtags=ia+web+g%C3%A9n%C3%A9rateur+online+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://sketch2code.azurewebsites.net/[Sketch2Code - Transform sketches into HTML using AI]
+
+Je trouve impressionant l'utilisation de l'intelligence artificielle pour ce genre de sujets.

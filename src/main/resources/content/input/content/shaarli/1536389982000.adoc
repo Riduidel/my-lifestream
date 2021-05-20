@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Unmanned Sailboat Traverses The North Atlantic | Hackaday
+:jbake-tags: mer,bateau,ia,navigation,_mois_sept.,_année_2018
+:jbake-date: 2018-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1536389982000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2018%2F09%2F07%2Funmanned-sailboat-traverses-the-north-atlantic%2F&searchtags=mer+bateau+ia+navigation+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://hackaday.com/2018/09/07/unmanned-sailboat-traverses-the-north-atlantic/[Unmanned Sailboat Traverses The North Atlantic | Hackaday]
+
+C'est super chouette. C'est juste dommage que le bateau soit aussi inefficacement architecturé (pour naviguer, je veux dire)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Your favourite app isn’t native
+:jbake-tags: web,mobile,programming,_mois_mai,_année_2014
+:jbake-date: 2014-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1400070262000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkennethormandy.com%2Fjournal%2Fyour-favourite-app-isnt-native&searchtags=web+mobile+programming+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://kennethormandy.com/journal/your-favourite-app-isnt-native[Your favourite app isn’t native]
+
+J'aime bien cet article qui explique clairement pourquoi les applications hybrdies ne sont pas tant "le mal" que ça.

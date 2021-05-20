@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daimonin MMORPG - FREE fantasy online multiplayer game
+:jbake-tags: freeware,jeu,linux,mmorpg,online,windows,_mois_déc.,_année_2006
+:jbake-date: 2006-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1166440743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.daimonin.net%2F&searchtags=freeware+jeu+linux+mmorpg+online+windows+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.daimonin.net/[Daimonin MMORPG - FREE fantasy online multiplayer game]
+
+Un MMORPG Open-source en 2D isométrique à la Diablo, ça risque d'être bien, sauf qu'il n'y a pas encore de portage Mac

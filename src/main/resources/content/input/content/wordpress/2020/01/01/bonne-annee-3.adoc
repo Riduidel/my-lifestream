@@ -1,0 +1,81 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bonne année !
+:jbake-tags: rust,science-fiction,voeux,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/01/01/bonne-annee-3.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/01/01/bonne-annee-3/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>J'ai découvert que j'avais maintenant suffisement d'articles pour créer une catégorie "<a href="https://riduidel.wordpress.com/tag/voeux/">voeux</a>" sur ce blog. Et j'en suis assez content.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bref ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>2020 commence à peine et comme tous les ans, c'est le moment de faire un bilan (personnel et professionnel). Mais avant, une note préliminaire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/soolipsis\/statuses\/1209037477966745600","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/soolipsis" class="screenName"><img src="http://pbs.twimg.com/profile_images/823673227671113729/7WgwciKZ_mini.jpg" alt="profile of "/>soolipsis</a>
+		<span class="name">GesHel</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/soolipsis/status/1 209 037 477 966 745 600" class="date">23 déc. 2019 à 10:06:12</a>
+
+	<span class="content">
+	
+	<span class="text">#dystopia https://t.co/2zWuuAMsNl</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EMddLNSW4AAY1VY.jpg" alt="1 209 037 472 098 869 248"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Je suis né en 1974. Quand j'étais gamin, et même encore aujourd'hui, d'ailleurs, j'aimais énormément la science-fiction. Elle nous promet des futurs exaltants, stupéfiants, terrifiants, incroyables. Avec le temps, j'ai compris que ce futur était, en un sens, un mirage. Comme j'ai l'habitude de le dire "avant, je pensais que dans le futur on aurait des voitures volantes, et tout ce qu'on a, c'est des adultes en trottinette". Autrement dit, le futur (et pour moi, 2020, c'est le futur réalisé) est décevant. Pourquoi ? D'une part, parce que la science-fiction, comme toute espèce artistique, vise à raconter des histoires, et que ces histoires ne montrent évidement pas le côté prosaïque de la vie (par exemple, il n'y a que rarement de héros contrôleurs de gestion ou community managers). D'autre part, parce que, à mon avis, nous allons dans la mauvaise direction collectivement. Nous sommes aujourd'hui à un moment où la plupart des écosystèmes vont se déglinguer à cause des actions humaines. Tout ça pourrait être corrigé si les gens "au pouvoir" pouvaient prendre des mesures à long terme. Malheureusement, à cause de la nature de la démocratie représentative et du court-termisme qu'elle implique, aucun politicien ne prendra jamais une mesure radicale pour deux raisons : d'abord il ne serait pas réélu, et ensuite ses opposants annuleraient cette mesure. Bref, la démocratie est incompatible avec le sauvetage de la planète. Mais aussi avec à peu près tout ce que propose la science-fiction qui, globalement, est un mouvement artistique assez radical. Et du coup, nécessairement, pour les vieux fans de science-fiction comme moi, le futur est toujours assez décevant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Qu'est-ce que j'en tire ? De l'indulgence. Beaucoup d'indulgence pour le monde, et beaucoup moins pour moi. Mais j'y reviendrai ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors, qu'est-ce que j'ai fait de cool en 2019 ? Du Rust, bien sûr, et ça a bien marché. Bon, mon projet rrss2imap n'est pas follement extraordinaire, mais il marche très bien sur mon Raspberry, et c'est vraiment cool. Est-ce que je vais continuer ? Sans aucun doute, mais dans d'autres contextes, parce que rrss2imap marche bien (à quelques <a href="https://github.com/Riduidel/rrss2imap/issues">bugs</a> près, bien sûr, mais aucun n'est rédhibitoire). Bon, j'aimerais bien y ajouter les futures Rust, mais j'attends leur implémentation dans reqwests ... Est-ce que j'en ferai professionnellement ? Avec le temps, j'ai acquis la conviction qu'un langage comme Rust n'a aucune chance d'être adopté (parce qu'il n'a pas le soutien d'une entreprise : regardez les histoires de Groovy et Kotlin, par exemple) à une échelle d'entreprise, donc je pense que non. Dommage. Cela dit, j'ai appris quelques trucs avec Rust (que j'aurais appris autrement, si je n'avais pas fait de Rust).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L'autre projet qui me tient à coeur, c'est celui de créer une webradio fonctionnelle. Et là, je dois bien reconnaître que ... je n'ai pas avancé d'un iota. C'est triste, mais je sais pourquoi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En effet, j'ai fait ... pas mal de trucs, comme des conférences (je n'ai pas de vidéo de celle faite avec Logan à Snowcamp, ni de celle faite tout seul au <a href="https://www.meetup.com/fr-FR/ChtiJUG/events/262094608/">chtijug</a> - que je vais redonner à <a href="https://sched.co/XoOv">Snowcamp </a>dans moins d'un mois d'ailleurs - et dont vous pouvez voir <a href="https://github.com/Riduidel/conferences/blob/master/histoire-des-modes/src/slides/asciidoc/index.adoc">les slides sur GitHub</a>). A ce sujet, j'ai de plus en plus l'impression que la plupart des développeurs se trompent au sujet des conférences ... mais j'en reparlerai sans doute. En attendant, je suis assez content de faire des conférences, pour peu qu'elles ne demandent pas trop de préparation (pas comme celle de <a href="https://riduidel.wordpress.com/2019/01/27/vis-ma-vie-de-speaker-au-snowcamp/">Snowcamp 2019</a>, par exemple, qui fut un vrai enfer, mais j'ai appris la leçon).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mon travail de directeur technique m'a également appris beaucoup sur les gens (mais aussi sur moi-même). J'ai ainsi découvert quelque chose que je dois changer maintenant (et comme je dois le faire, je vais essayer de le faire). Ce truc, c'est d'arrêter d'avoir une vision critiquent négativement les technologies que je n'aime pas. Ou plutôt, d'arrêter ce truc que tout le monde fait (pardon, que je fais) qui est de dire "c'est nul" quand je veux dire en fait "j'aime pas". Je l'ai découvert, assez cruellement, parce que j'ai appris que certains collègues refusaient de m'avoir comme directeur technique parce qu'ils pensaient que je dénigrerai leur travail. Ca me rend triste. Et pire encore, c'est mauvais pour eux, parce que je crois sincèrement qu'il est bon de se confronter à des opinions contraires (pour peu que tout le monde comprenne qu'en matière de <em>style</em>, toutes les opinions se valent). Et en fait, ça, c'est mon plus grand défi pour l'année qui vient ...</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - modular monoliths
+:jbake-tags: architecture,ddd,_mois_avr.,_année_2016
+:jbake-date: 2016-04-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-modular-monoliths.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-modular-monoliths/
+:jbake-style: wordpress
+
+++++
+<p>
+Alors, que peut dire un architecte comme Simon Brown des monolithes ? Et d'abord, qui est-ce ? pour moi, avant tout, c'est le créateur de <a href="https://structurizr.com/">structurizr</a>, une espèce d'outil mixte générant un schéma d'architecture à partir des classes Java. il y a quelques bonnes idées, mais il y manque un ou deux aspects utiles (comme la génération immédiate de graphes utiles à l'aide d'apis comme graphviz ou autres). Mais allons-y pour les monolithes modulaires.
+</p>
+<p>
+Et vous pouvez <a href="http://www.codingthearchitecture.com/presentations/devnexus2016-modular-monoliths">voir tous les slides de la présentation sur le site de Simon.</a>
+</p>
+<p>
+Vous savez comment Simon acronyme Structurizr ? Software architecture diagram as a service .... SADAAS, quoi.
+</p>
+<p>
+Et, logiquement, sa présentation reprend des termes déja vus dans Structizer : containers, components, classes, .... Sauf qu'en plus, Simon explique bien que cette vision n'est valable qu'en Java : en Javascript, il n'y a pas forcément de container ou de composant.
+</p>
+<p>
+Et à bien y réfléchir, mais là je donne clairement mon avis, l'approche C4 (contexte, container, composant, classes) de Simon doit quand même hyper bien coller avec le DDD ....
+</p>
+<p>
+Simon nous parle ensuite du model-code gap : l'architecte décrit des containers, des composants, qui n'existent pas en Java. Et si on recréee le diagramme de composants/containers à partir du code, on obtient un résultat très loin de ce que l'architecte a initialement conçu.
+</p>
+<p>
+Et alors pour éviter ça les frameworks proposent des organisations en layers bien connues ... Mais en vérité ça n'aide pas vraiment, même si ça n'est pas vraiment mauvais. Parce qu'en fait, est-ce qu'elles sont vraiment signifiantes d'un point de vue architectural. Et franchement, je sens bien arriver le moment où, comme pour DDD, il va nous expliquer que la bonne architecture ne sépare pas le code en layers, mais en bounded contexts. Ah, en fait, non : on parle plutôt d'identifier les composants dans les classes en utilisant des annotations, du packaging, des modules (maven/OSGi/Jigsaw/....).
+</p>
+<p>
+L'approche que propose Simon est en fait encore plus simple : pourquoi ne pas mettre les classes du même composant dans le même pacage, en ne rendant public que la classe "présentant" le composant.
+</p>
+<p>
+Alors évidement, cette approche risque de choquer, par exemple chez les affcionados du test, pour lesquels certaines classes moins visibles seront difficilement testables unitairement.
+</p>
+<p>
+Pour finir cette partie, il devrait y avoir un meilleur lien entre l'architecture, le code, et la testabilité. Et quand j'y pense .... Ben oui, Wisdom change pas mal les choses de ce point de vue.
+</p>
+<p>
+L'un des points intéressant de cette organisation du code est que les composants sont un premier pas vers les micro-services. Et c'est bien ... pas seulement pour faire des micro-services.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JJOS Project @ sourceforge.net
+:jbake-tags: programming,java,library,system,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112361114000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjjos.sourceforge.net%2F&searchtags=programming+java+library+system+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://jjos.sourceforge.net/[JJOS Project @ sourceforge.net]
+
+Operating system written in Java

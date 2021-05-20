@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lg3d-livecd: LG3D LiveCD Project
+:jbake-tags: linux,livecd,_mois_mars,_année_2005
+:jbake-date: 2005-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1109843419000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flg3d-livecd.dev.java.net%2F&searchtags=linux+livecd+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+https://lg3d-livecd.dev.java.net/[lg3d-livecd: LG3D LiveCD Project]
+
+It is our aim to create a LiveCD booting with Project Looking Glass 3D by default (KDE is supported, too). As a basis for our efforts we use GamesKnoppix, a Knoppix derivate with better 3D hardware-acceleration and lg3d 0.6.1. The LiveCD will focus on dem

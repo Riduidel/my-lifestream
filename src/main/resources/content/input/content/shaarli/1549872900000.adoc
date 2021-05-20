@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: kenhowardpdx/vscode-gist: vscode extension for quick gists
+:jbake-tags: vscode,plugin,github,gist,open-source,_mois_févr.,_année_2019
+:jbake-date: 2019-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1549872900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fkenhowardpdx%2Fvscode-gist&searchtags=vscode+plugin+github+gist+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/kenhowardpdx/vscode-gist[kenhowardpdx/vscode-gist: vscode extension for quick gists]
+
+Une extension similaire dans le concept à Code Notes

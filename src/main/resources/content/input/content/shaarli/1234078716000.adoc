@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blakbird's Technicopedia
+:jbake-tags: lego,technic,documentation,reference,_mois_févr.,_année_2009
+:jbake-date: 2009-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1234078716000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ericalbrecht.com%2Ftechnic%2Findex.html&searchtags=lego+technic+documentation+reference+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.ericalbrecht.com/technic/index.html[Blakbird's Technicopedia]
+
+Un gros site de référence de tous les modèles Technics qui sont sorti depuis 1977. Bien sûr, ça n'est pas aussi complet que BrickFactory, mais la recherche y est beaucoup plus détaillée.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ruffle-rs/ruffle: A Flash Player emulator written in Rust
+:jbake-tags: rust,flash,emulator,open-source,_mois_août,_année_2019
+:jbake-date: 2019-08-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1566207986000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fruffle-rs%2Fruffle&searchtags=rust+flash+emulator+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/ruffle-rs/ruffle[ruffle-rs/ruffle: A Flash Player emulator written in Rust]
+
+Bon sang de bon soir ! Je n'arrive pas à déterminer si le fait que Flash puisse être sauvé par Rust soit une bonne ou une mauvaise chose ... (j'attends sans impatience la prochaine JVM écrite en Rust)

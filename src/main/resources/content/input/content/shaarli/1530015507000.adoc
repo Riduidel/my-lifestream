@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hello Nannou! – nannou.cc
+:jbake-tags: programming,framework,rust,audio,vidéo,_mois_juin,_année_2018
+:jbake-date: 2018-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1530015507000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnannou.cc%2Fnews%2Fhello-nannou%2F&searchtags=programming+framework+rust+audio+vid%C3%A9o+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://nannou.cc/news/hello-nannou/[Hello Nannou! – nannou.cc]
+
+Ca me rappelle curieusement proc5ssing ...

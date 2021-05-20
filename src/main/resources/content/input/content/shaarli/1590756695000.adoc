@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hackaday | Fresh Hacks Every Day
+:jbake-tags: hack,matériel,magazine,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590756695000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F&searchtags=hack+mat%C3%A9riel+magazine+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://hackaday.com/[Hackaday | Fresh Hacks Every Day]
+
+Tous les jours, ce site présente des hacks matériels. Il y a des trucs assez moyens, et d'autres franchement géniaux.

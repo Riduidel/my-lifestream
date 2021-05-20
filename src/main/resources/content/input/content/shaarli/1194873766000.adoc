@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: index - Terminal Emulator Poderosa
+:jbake-tags: freeware,geek,shell,software,open-source,windows,utilities,_mois_nov.,_année_2007
+:jbake-date: 2007-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1194873766000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fen.poderosa.org%2Findex.html&searchtags=freeware+geek+shell+software+open-source+windows+utilities+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://en.poderosa.org/index.html[index - Terminal Emulator Poderosa]
+
+Un émulateur de terminal multisession avec onglets. une espèce de rêve, en fait.

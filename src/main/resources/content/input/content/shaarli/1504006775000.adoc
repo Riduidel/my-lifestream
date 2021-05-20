@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clean Coder Blog
+:jbake-tags: programming,justice,responsabilité,_mois_août,_année_2017
+:jbake-date: 2017-08-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1504006775000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.cleancoder.com%2Funcle-bob%2F2017%2F08%2F28%2FJustFollowingOders.html&searchtags=programming+justice+responsabilit%C3%A9+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://blog.cleancoder.com/uncle-bob/2017/08/28/JustFollowingOders.html[Clean Coder Blog]
+
+Courir ne servira à rien dans ce cas : la Justice s'emparera de tous les développeurs qui ont simplement "suivi les ordres". Pensez-y à chaquefois qu'on vous demande de faire un truc louche ...

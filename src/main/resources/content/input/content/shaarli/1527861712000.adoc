@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mre/awesome-static-analysis: A curated list of static analysis tools, linters and code quality checkers for various programming languages
+:jbake-tags: programming,java,rust,analyse,_mois_juin,_année_2018
+:jbake-date: 2018-06-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1527861712000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmre%2Fawesome-static-analysis&searchtags=programming+java+rust+analyse+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/mre/awesome-static-analysis[mre/awesome-static-analysis: A curated list of static analysis tools, linters and code quality checkers for various programming languages]
+
+Une intéressante collection d'outils de validation statique

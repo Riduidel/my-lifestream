@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean Yang sur Twitter : "What programming languages and cars have in common: 🧐 Everyone uses them but few are enthusiasts ✨ Engineering meets design For a timeline cleanse, here's a thread of programming languages as cars. First up: Python as the Honda Civic. Practical; ubiquitous; not the fastest. https://t.co/70jDIK2zTT" / Twitter
+:jbake-tags: humour,comparatif,langage,voiture,_mois_janv.,_année_2021
+:jbake-date: 2021-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1610184735000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjeanqasaur%2Fstatus%2F1347645536711581696&searchtags=humour+comparatif+langage+voiture+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/jeanqasaur/status/1347645536711581696[Jean Yang sur Twitter : "What programming languages and cars have in common: 🧐 Everyone uses them but few are enthusiasts ✨ Engineering meets design For a timeline cleanse, here's a thread of programming languages as cars. First up: Python as the Honda Civic. Practical; ubiquitous; not the fastest. https://t.co/70jDIK2zTT" / Twitter]
+
+Une comparaison très juste entre les langages de programmation et les voitures

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marvel Comics Presents (1988)
+:jbake-tags: serie
+:jbake-date: 2011-12-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Marvel_Comics_Presents_(1988).adoc
+:jbake-source: https://www.goodreads.com/series/241637
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780785123279.html[Wolverine: Weapon X]

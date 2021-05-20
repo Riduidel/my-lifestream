@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: "a gentleman in Virginia" sur Twitter : "Consistently praising software engineers who fight incidents while consistently ignoring engineers who quietly build stable systems is a sure fire recipe for producing behaviors that produce more incidents."
+:jbake-tags: entreprise,culture,héroïsme,travail,_mois_févr.,_année_2020
+:jbake-date: 2020-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1582561301000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftaotetek%2Fstatus%2F1230848784814526469&searchtags=entreprise+culture+h%C3%A9ro%C3%AFsme+travail+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/taotetek/status/1230848784814526469["a gentleman in Virginia" sur Twitter : "Consistently praising software engineers who fight incidents while consistently ignoring engineers who quietly build stable systems is a sure fire recipe for producing behaviors that produce more incidents."]
+
+Ca n'est pas la première fois que je vois passer ce genre de messages, mais c'est toujours utile de le rappeler : la culture du héros qui vient sauver la prod est mauvaise pour tout le monde (héros compris)

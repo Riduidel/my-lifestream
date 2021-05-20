@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Excalidraw
+:jbake-tags: programming,concepts,design,état,_mois_avr.,_année_2020
+:jbake-date: 2020-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1585827829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fexcalidraw.com%2F&searchtags=programming+concepts+design+%C3%A9tat+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://excalidraw.com/[Excalidraw]
+
+Une belle explication graphique des machines à états. J'aime autant l'explication technique que sa mise en forme.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Frameworkless Movement
+:jbake-tags: manifesto,programming,dépendances,idée,_mois_juil.,_année_2020
+:jbake-date: 2020-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1593793815000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.frameworklessmovement.org%2F&searchtags=manifesto+programming+d%C3%A9pendances+id%C3%A9e+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.frameworklessmovement.org/[Frameworkless Movement]
+
+Trouvé via Julien Kirch, une idée intéressante (et qui plaira au moins à un ancien collègue)

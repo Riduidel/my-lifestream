@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TeleTeaching @ University of Trier - TeleTeachingTool
+:jbake-tags: software,freeware,windows,macosx,linux,java,réseau,vnc,_mois_mars,_année_2006
+:jbake-date: 2006-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1143445866000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fteleteaching.uni-trier.de%2Fttt.en.html&searchtags=software+freeware+windows+macosx+linux+java+r%C3%A9seau+vnc+_mois_mars+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://teleteaching.uni-trier.de/ttt.en.html[TeleTeaching @ University of Trier - TeleTeachingTool]
+
+The TeleTeachingTool is a piece of software to record, transmit and replay of multimedia-based lectures, speeches and documentations.

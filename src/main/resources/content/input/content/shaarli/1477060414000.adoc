@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Image Synthesis from Yahoo's open_nsfw
+:jbake-tags: art,nsfw,generated,neural,réseau,_mois_oct.,_année_2016
+:jbake-date: 2016-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1477060414000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fopen_nsfw.gitlab.io%2F&searchtags=art+nsfw+generated+neural+r%C3%A9seau+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://open_nsfw.gitlab.io/[Image Synthesis from Yahoo's open_nsfw]
+
+La conclusion est amusante : les possibilités génératives des réseaux de neurones sont énormes ...

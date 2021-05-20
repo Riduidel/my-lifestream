@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Espionnage : comment Orange et les services secrets coopèrent
+:jbake-tags: confidentialité,espionnage,snowden,écoute,_mois_mars,_année_2014
+:jbake-date: 2014-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1395321791000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Finternational%2Farticle%2F2014%2F03%2F20%2Fdgse-orange-des-liaisons-incestueuses_4386264_3210.html&searchtags=confidentialit%C3%A9+espionnage+snowden+%C3%A9coute+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.lemonde.fr/international/article/2014/03/20/dgse-orange-des-liaisons-incestueuses_4386264_3210.html[Espionnage : comment Orange et les services secrets coopèrent]
+
+Eh bien merci à Snowden de m'apprendre qu'Orange collabore pour des raisons historiques et consubstantielles à l'espionnage illégal de mes communications. Ca me fait plaisir de savoir que tout ce que j'envoie dans les tuyaux d'un opérateur privé atterit dans els grandes oreilles des espions.

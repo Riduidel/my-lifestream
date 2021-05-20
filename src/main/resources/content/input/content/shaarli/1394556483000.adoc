@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tinyMediaManager Organizes Your Movie Library, Works Across Platforms
+:jbake-tags: software,freeware,windows,macosx,linux,vidéo,library,_mois_mars,_année_2014
+:jbake-date: 2014-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1394556483000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flifehacker.com%2Ftinymediamanager-organizes-your-movie-library-works-ac-1531470949&searchtags=software+freeware+windows+macosx+linux+vid%C3%A9o+library+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://lifehacker.com/tinymediamanager-organizes-your-movie-library-works-ac-1531470949[tinyMediaManager Organizes Your Movie Library, Works Across Platforms]
+
+Il semble que ça fonctionne aussi pour les fichiers distants. Parfait donc pour continuer à tout stocker sur le NAS tout en servant les fichiers avec minidlna ...

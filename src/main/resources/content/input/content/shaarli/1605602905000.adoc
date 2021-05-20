@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apache Kafka Pyramid. Integrating Kafka into a large… | by SPOUD | Oct, 2020 | Medium
+:jbake-tags: kafka,écosystème,évolution,architecture,entreprise,intégration,_mois_nov.,_année_2020
+:jbake-date: 2020-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1605602905000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspoud-io.medium.com%2Fapache-kafka-pyramid-f475d8840596&searchtags=kafka+%C3%A9cosyst%C3%A8me+%C3%A9volution+architecture+entreprise+int%C3%A9gration+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://spoud-io.medium.com/apache-kafka-pyramid-f475d8840596[Apache Kafka Pyramid. Integrating Kafka into a large… | by SPOUD | Oct, 2020 | Medium]
+
+Cette pseudo-pyramide de Maslov présente un beau voyage vers l'intégration de Kafka en entreprise, avec des défis variés dépendant de l'avancement de cette intégration.

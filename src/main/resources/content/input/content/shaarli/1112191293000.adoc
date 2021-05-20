@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Workflow Patterns
+:jbake-tags: programming,documentation,concepts,pattern,workflow,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112191293000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftmitwww.tm.tue.nl%2Fresearch%2Fpatterns%2F&searchtags=programming+documentation+concepts+pattern+workflow+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://tmitwww.tm.tue.nl/research/patterns/[Workflow Patterns]
+
+Welcome to www.workflowpatterns.com the workflow patterns page. This site serves as a repository for workflow modeling patterns. These patterns can be used to examine the expressive power of a workflow server that you intend to work with or they can serve

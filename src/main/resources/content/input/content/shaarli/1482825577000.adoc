@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Find a great pull request naming is hard. Hack your co-workers brain with theses messages
+:jbake-tags: commentaire,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482825577000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Fflexbox%2Fa9085ab37532cea67b2d79b9a70fc5fc&searchtags=commentaire+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://gist.github.com/flexbox/a9085ab37532cea67b2d79b9a70fc5fc[Find a great pull request naming is hard. Hack your co-workers brain with theses messages]
+
+Très chouette façon d'écrire les messages de commits

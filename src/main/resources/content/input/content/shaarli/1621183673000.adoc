@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vladimir Gaevoy sur Twitter : "Prediction #HTML/#JS will be used the same way as old good friend IE... to download Chrome... oops sorry #WASM. For doing UI you will use something like #QT, #XAML, etc which renders just into #HTML canvas. Soon😎" / Twitter
+:jbake-tags: web,technologie,wasm,citation,critique,_mois_mai,_année_2021
+:jbake-date: 2021-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1621183673000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvgman%2Fstatus%2F1392773734067539968&searchtags=web+technologie+wasm+citation+critique+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/vgman/status/1392773734067539968[Vladimir Gaevoy sur Twitter : "Prediction #HTML/#JS will be used the same way as old good friend IE... to download Chrome... oops sorry #WASM. For doing UI you will use something like #QT, #XAML, etc which renders just into #HTML canvas. Soon😎" / Twitter]
+
+En tant que vieux développeur front (à l'époque où il n'y avait pas de JS), je trouve ça cool. En tant qu'utilisateur du web, je pense que c'est encore un bon sang d'enfer qui va faire cramer les réseaux.

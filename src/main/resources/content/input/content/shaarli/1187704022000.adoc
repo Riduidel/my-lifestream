@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AJZaurusUSB
+:jbake-tags: driver,macosx,usb,réseau,_mois_août,_année_2007
+:jbake-date: 2007-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1187704022000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dsitri.de%2Fwiki.php%3Fpage%3DAJZaurusUSB&searchtags=driver+macosx+usb+r%C3%A9seau+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.dsitri.de/wiki.php?page=AJZaurusUSB[AJZaurusUSB]
+
+Un driver mac pour voir des devices (par exemple le n800) branchés dessus en USB comme des éléments branchés par un réseau classique

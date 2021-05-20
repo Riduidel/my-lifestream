@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dan Luu on Twitter: "I've wondered about this. Anecdotally, the place I've worked with the best quality didn't do code review (maybe three "serious" user-visible bugs during the 8 years I was there, one of which was a fab issue that couldn't have been caught with any amount of code review). https://t.co/NCS5hFthVB" / Twitter
+:jbake-tags: culture,informatique,métier,review,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568013059000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdanluu%2Fstatus%2F1170299294617747458&searchtags=culture+informatique+m%C3%A9tier+review+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/danluu/status/1170299294617747458[Dan Luu on Twitter: "I've wondered about this. Anecdotally, the place I've worked with the best quality didn't do code review (maybe three "serious" user-visible bugs during the 8 years I was there, one of which was a fab issue that couldn't have been caught with any amount of code review). https://t.co/NCS5hFthVB" / Twitter]
+
+J'aime quand Dan luu se penche sur un sujet en apparence consensuel. Généralement, ça se termine ... mal.

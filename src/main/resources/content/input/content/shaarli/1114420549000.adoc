@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bobbyvandersluis.com | Ten good practices for writing JavaScript in 2005
+:jbake-tags: programming,javascript,concepts,documentation,tool,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114420549000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bobbyvandersluis.com%2Farticles%2Fgoodpractices.php&searchtags=programming+javascript+concepts+documentation+tool+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bobbyvandersluis.com/articles/goodpractices.php[bobbyvandersluis.com | Ten good practices for writing JavaScript in 2005]
+
+Ten good practices for writing JavaScript in 2005

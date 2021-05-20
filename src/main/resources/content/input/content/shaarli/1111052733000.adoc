@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Amar Sagoo - Tofu
+:jbake-tags: software,freeware,macosx,reader,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111052733000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage.mac.com%2Fasagoo%2Ftofu%2F&searchtags=software+freeware+macosx+reader+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://homepage.mac.com/asagoo/tofu/[Amar Sagoo - Tofu]
+
+Tofu is... different. It is a novel application to address the common problem that people don't like reading text on the screen.

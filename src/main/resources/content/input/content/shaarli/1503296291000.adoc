@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: resilience4j/resilience4j: Resilience4j is a fault tolerance library designed for Java8 and functional programming
+:jbake-tags: java,programming,library,microservices,open-source,_mois_août,_année_2017
+:jbake-date: 2017-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1503296291000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fresilience4j%2Fresilience4j&searchtags=java+programming+library+microservices+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/resilience4j/resilience4j[resilience4j/resilience4j: Resilience4j is a fault tolerance library designed for Java8 and functional programming]
+
+Une bibliothèque intégrant toutes les astuces classiques du dév microservices d'une façon différente de Hystrix

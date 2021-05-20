@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: web BM's
+:jbake-tags: web,software,freeware,javascript,opera,programming,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112344489000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.aleto.ch%2FwebTools%2FwebBMs.html&searchtags=web+software+freeware+javascript+opera+programming+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.aleto.ch/webTools/webBMs.html[web BM's]
+
+BM's ( Bookmarklets ) are little Pieces of Code. The Titles contain that Code as Link. So you can drag and drop them to your personal toolbar and use them on a other site by clicking them. For Opera Users there are also Opera Buttons. The Code Link shows

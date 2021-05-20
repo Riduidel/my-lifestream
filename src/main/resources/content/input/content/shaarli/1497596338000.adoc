@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: login-logout_1305_mickens.pdf
+:jbake-tags: programming,science,distribué,_mois_juin,_année_2017
+:jbake-date: 2017-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1497596338000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.usenix.org%2Fsystem%2Ffiles%2Flogin-logout_1305_mickens.pdf&searchtags=programming+science+distribu%C3%A9+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.usenix.org/system/files/login-logout_1305_mickens.pdf[login-logout_1305_mickens.pdf]
+
+Eh ben, on peut dire qu'il est énervé

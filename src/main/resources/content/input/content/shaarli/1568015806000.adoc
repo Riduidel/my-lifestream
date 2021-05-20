@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Valid, literal XML in C++ with Blasien
+:jbake-tags: c++,programming,library,xhtml,fun,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568015806000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.vandenoever.info%2Fblog%2F2015%2F07%2F05%2Fliteral-xml-in-c%2B%2B.html&searchtags=c%2B%2B+programming+library+xhtml+fun+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.vandenoever.info/blog/2015/07/05/literal-xml-in-c++.html[Valid, literal XML in C++ with Blasien]
+
+C'est pas mal cette façon d'écrire du XHTML en C++ en abusant les opérateurs ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Roguelike Tutorial: Up-to-date and Literate — Aimlessly Going Forward
+:jbake-tags: asciidoc,programming,documentation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1570538111000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faimlesslygoingforward.com%2Fblog%2F2019%2F10%2F02%2Froguelike-tutorial-up-to-date-and-literate%2F&searchtags=asciidoc+programming+documentation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://aimlesslygoingforward.com/blog/2019/10/02/roguelike-tutorial-up-to-date-and-literate/[Roguelike Tutorial: Up-to-date and Literate — Aimlessly Going Forward]
+
+La vache, j'ignorais qu'on pouvait faire de la vraie programmation littéraire en Asciidoc. C'est fou ! (et pas si pratique, en fait)

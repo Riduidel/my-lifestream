@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Corey Quinn on Twitter: "If I ever get to interview a Google Cloud exec, I have one question: "Why should we trust Google Cloud to stick around? After all, you killed Reader, Plus, Inbox..." *seven minutes elapse* "...Allo, Glass--excuse me, don't interrupt. I'm not done. iGoogle, Video, and Buzz?""
+:jbake-tags: programming,écosystème,google,citation,humour,_mois_mai,_année_2019
+:jbake-date: 2019-05-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1556726704000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FQuinnyPig%2Fstatus%2F1123249401672105985&searchtags=programming+%C3%A9cosyst%C3%A8me+google+citation+humour+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/QuinnyPig/status/1123249401672105985[Corey Quinn on Twitter: "If I ever get to interview a Google Cloud exec, I have one question: "Why should we trust Google Cloud to stick around? After all, you killed Reader, Plus, Inbox..." *seven minutes elapse* "...Allo, Glass--excuse me, don't interrupt. I'm not done. iGoogle, Video, and Buzz?""]
+
+Quand je pense aux clients ... et aux collègues ... qui investissent en masse sur cette boîte dont on sait qu'elle méprise totalement le monde extérieur ...

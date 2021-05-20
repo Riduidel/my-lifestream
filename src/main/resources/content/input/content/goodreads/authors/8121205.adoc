@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maxime Le Drain
+:jbake-tags: author
+:jbake-date: 2015-01-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/8121205.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/8121205
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253177241.html[Anno Dracula (Anno Dracula, #1)]

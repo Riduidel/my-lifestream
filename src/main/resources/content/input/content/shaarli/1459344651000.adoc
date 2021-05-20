@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tous les épisodes ! - Kaamelott
+:jbake-tags: humour,télévision,fantasy,_mois_mars,_année_2016
+:jbake-date: 2016-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1459344651000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hypnoweb.net%2Fkaamelott%2Fepisodes-.119.2%2F&searchtags=humour+t%C3%A9l%C3%A9vision+fantasy+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.hypnoweb.net/kaamelott/episodes-.119.2/[Tous les épisodes ! - Kaamelott]
+
+Tous les scripts des épisodes de Kaamelott

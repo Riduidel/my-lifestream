@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le caste des Méta-Barons
+:jbake-tags: serie
+:jbake-date: 2011-07-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Le_caste_des_Meta-Barons.adoc
+:jbake-source: https://www.goodreads.com/series/288197
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782731611793.html[Aghnar Le Bisaïeul (La Caste des Méta-Barons, #3)]
+* link:../books/9782731612271.html[Oda la Bisaïeule (La Caste des Méta-Barons, #4)]

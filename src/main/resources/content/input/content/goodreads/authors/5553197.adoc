@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cédric Ferrand
+:jbake-tags: author
+:jbake-date: 2013-07-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5553197.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1494350427p5/5553197.jpg
+:jbake-source: https://www.goodreads.com/author/show/5553197
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070446001.html[Wastburg]
+* link:../books/9782361831943.html[Sovok]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Christophe Sirot on Twitter: "J'écoute l'épisode de @lescastcodeurs sur le sondage StackOverflow et je tiens à dire que je milite pour l'usage du terme "Sparse Stack Developer""
+:jbake-tags: citation,programming,_mois_mai,_année_2018
+:jbake-date: 2018-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1526538185000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjcsirot%2Fstatus%2F996821709813579776&searchtags=citation+programming+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jcsirot/status/996821709813579776[Jean-Christophe Sirot on Twitter: "J'écoute l'épisode de @lescastcodeurs sur le sondage StackOverflow et je tiens à dire que je milite pour l'usage du terme "Sparse Stack Developer""]
+
+Bien trouvé !

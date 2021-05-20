@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La BicheTrot
+:jbake-tags: restaurant,lille,_mois_janv.,_année_2021
+:jbake-date: 2021-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1610525753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.labichetrot.fr%2F&searchtags=restaurant+lille+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.labichetrot.fr/[La BicheTrot]
+
+C'est juste au coin de la rue, et c'est très chouette !

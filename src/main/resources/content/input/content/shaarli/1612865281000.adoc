@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing Landing Zones | The Responsible Designer
+:jbake-tags: architecture,design,produit,_mois_févr.,_année_2021
+:jbake-date: 2021-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1612865281000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwirfs-brock.com%2Fblog%2F2011%2F07%2F20%2Fintroducing-landing-zones%2F&searchtags=architecture+design+produit+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://wirfs-brock.com/blog/2011/07/20/introducing-landing-zones/[Introducing Landing Zones | The Responsible Designer]
+
+Ce concept de zone d'atterrissage d'un produit, d'un programme, me semble particulièrement pertinent (et rentre curieusement bien dans le modèle de document d'architecture que j'utilise)

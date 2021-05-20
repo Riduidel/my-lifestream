@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Agent Ransack - Home
+:jbake-tags: search,software,system,windows,@toinstall,_mois_août,_année_2004
+:jbake-date: 2004-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1093347945000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mythicsoft.com%2Fagentransack%2Fdefault.aspx&searchtags=search+software+system+windows+%40toinstall+_mois_ao%C3%BBt+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.mythicsoft.com/agentransack/default.aspx[Agent Ransack - Home]
+
+Agent Ransack is a free tool for finding files and information on your hard drive fast and efficiently. When searching the contents of files Agent Ransack displays the text found so you can quickly browse the results without having to separately open each

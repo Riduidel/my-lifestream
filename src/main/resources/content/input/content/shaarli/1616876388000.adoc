@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Louvre site des collections
+:jbake-tags: api,culture,musée,art,france,histoire,_mois_mars,_année_2021
+:jbake-date: 2021-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1616876388000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcollections.louvre.fr%2F&searchtags=api+culture+mus%C3%A9e+art+france+histoire+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://collections.louvre.fr/[Louvre site des collections]
+
+Je n'ai pas le swagger sous les yeux, mais il semble bien que le musée du Louvre rende toutes ses collections accessibles sur le web avec une api ! Ca m'enthousiasme beaucoup !

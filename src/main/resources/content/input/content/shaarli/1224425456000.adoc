@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: webgen - static website generator - Webgen::SourceHandler::Feed
+:jbake-tags: webgen,ruby,rss,_mois_oct.,_année_2008
+:jbake-date: 2008-10-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1224425456000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwebgen.rubyforge.org%2Fdocumentation%2Fsourcehandler%2Ffeed.html&searchtags=webgen+ruby+rss+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://webgen.rubyforge.org/documentation/sourcehandler/feed.html[webgen - static website generator - Webgen::SourceHandler::Feed]
+
+Faudra que je pense à utiliser ça quand je générerais un flux RSS à partir de mon blog

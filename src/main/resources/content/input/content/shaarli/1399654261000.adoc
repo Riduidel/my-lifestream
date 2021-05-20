@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ned Batchelder: GitHub monoculture
+:jbake-tags: git,web,développement,programming,_mois_mai,_année_2014
+:jbake-date: 2014-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1399654261000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnedbatchelder.com%2F%2Fblog%2F201405%2Fgithub_monoculture.html&searchtags=git+web+d%C3%A9veloppement+programming+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://nedbatchelder.com//blog/201405/github_monoculture.html[Ned Batchelder: GitHub monoculture]
+
+C'est vrai, mais en même temps non. C'est vrfai parce qu'il y a des nigauds qui considèrent qu'il suffit de livrer le source chez GitHub pour que le projet soit complet. C'est faux parce qu'il n'y a pas de difficulté majeure de migration (il suffit de déplacer l'upstream de github vers gitorious ou bitbucket). Sauf, bien sûr, pour les bugs qui ne sont pas visibles dans git, hélas. via http://sebsauvage.net/links/?KOE6Tg

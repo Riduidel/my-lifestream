@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maijstral
+:jbake-tags: serie
+:jbake-date: 2011-03-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Maijstral.adoc
+:jbake-source: https://www.goodreads.com/series/49496
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780812557985.html[The Crown Jewels (Maijstral, #1)]

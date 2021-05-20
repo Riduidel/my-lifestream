@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mike Davidson: Introducing sIFR: The Healthy Alternative to Browser Text
+:jbake-tags: web,flash,html,javascript,dhtml,library,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112345469000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mikeindustries.com%2Fblog%2Farchive%2F2004%2F08%2Fsifr&searchtags=web+flash+html+javascript+dhtml+library+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mikeindustries.com/blog/archive/2004/08/sifr[Mike Davidson: Introducing sIFR: The Healthy Alternative to Browser Text]
+
+cool flash / dhtml font handling

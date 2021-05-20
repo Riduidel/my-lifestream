@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open data index / France
+:jbake-tags: open-data,france,libre,_mois_nov.,_année_2013
+:jbake-date: 2013-11-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1383656704000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Findex.okfn.org%2Fcountry%2Foverview%2FFrance%2F&searchtags=open-data+france+libre+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://index.okfn.org/country/overview/France/[Open data index / France]
+
+J'ai comme l'impression que la France n'est pas vraiment au top de l'open data ... Ce qui est curieux, c'est de voir quels sont les secteurs fermés : les dépenses du gouvernement, par exemple ...

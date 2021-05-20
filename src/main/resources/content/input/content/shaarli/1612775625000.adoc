@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Visual Language for Digital Integration | MuleSoft Blog
+:jbake-tags: architecture,diagram,system,documentation,méthode,interface,_mois_févr.,_année_2021
+:jbake-date: 2021-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1612775625000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblogs.mulesoft.com%2Fapi-integration%2Fstrategy%2Fa-visual-language-for-digital-integration%2F&searchtags=architecture+diagram+system+documentation+m%C3%A9thode+interface+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://blogs.mulesoft.com/api-integration/strategy/a-visual-language-for-digital-integration/[A Visual Language for Digital Integration | MuleSoft Blog]
+
+Il y a dans cet article deux très belles citations, et une vision intéressante des diagrammes d'architecture, malheureusement diminués par un usage incorrect des légendes.

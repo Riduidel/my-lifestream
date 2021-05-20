@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: a11y.css
+:jbake-tags: css,web,accessibility,_mois_nov.,_année_2017
+:jbake-date: 2017-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1510760359000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fffoodd.github.io%2Fa11y.css%2F&searchtags=css+web+accessibility+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://ffoodd.github.io/a11y.css/[a11y.css]
+
+Une feuille de style CSS qui permet de détecter facilement toutes les erreurs d'accessibilité et de contenu

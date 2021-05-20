@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wika et les Fées noires (Wika, #2)
+:jbake-tags:  combat, initiation, rayon-bd,_année_2016,_mois_nov.,_note_4,fantasy,read
+:jbake-date: 2016-11-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782344003718.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478116776l/32860421._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478116776l/32860421._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/32860421
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans la lande des Formoires, Wika a perdu son premier amour, Bran, puis s'est débarrassée des loups d'Obéron lancés à ses trousses avant d'être sauvée de l'appétit des créatures des marais par les fées noires : Ness, Mata et Gwynette. Car elles aussi ont un compte à régler avec Obéron. Elles promettent à Wika de parfaire son apprentissage et de la rendre assez puissante pour défaire le tyran si la jeune femme accepte de faire renaître de ses cendres Balor, le puissant royaume des fées noires !<br /><br />Pour son premier scénario en bande dessinée, Thomas Day réinvente les contes de fées traditionnels en une épopée baroque mêlant fantasy et steampunk, magnifiée par les planches somptueuses et fourmillant de détails d’un Olivier Ledroit au sommet de son art.
+</div>
+++++
+
+
+## Authors
+* link:../authors/644125.html[Olivier Ledroit]
+* link:../authors/15307873.html[Thomas Day]
+
+## Series
+* link:../series/Wika.html[Wika]
+
+## Review
+
+++++
+Toujours aussi joueur, ce second tome permet à Ledroit de renouer avec ses grandes planches si magnifiquement décorées, et à Day de nous mettre en place un scénario qui, par certains aspects, déroge subtilement au canon de la fantasy habituelle.
+++++

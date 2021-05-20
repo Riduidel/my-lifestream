@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Is there a way to share a configMap in kubernetes between namespaces? - Stack Overflow - Shaarli de Riduidel
+:jbake-tags: kubernetes,command-line,astuce,_mois_févr.,_année_2020
+:jbake-date: 2020-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1582292080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3FPQGodw&searchtags=kubernetes+command-line+astuce+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?PQGodw[Is there a way to share a configMap in kubernetes between namespaces? - Stack Overflow - Shaarli de Riduidel]
+
+Tant que j'y suis, pour supprimer les pods de déploiement générés par OpenShift kubectl get pods -o name \| grep deploy \| sed "s/pod\\///" \| xargs kubectl delete pod

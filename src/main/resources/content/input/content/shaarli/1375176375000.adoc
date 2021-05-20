@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pourquoi l'estimation du temps des tâches de développement est-elle régulièrement fausse d'un facteur de 2, voire 3 ?
+:jbake-tags: développement,logiciel,management,planning,_mois_juil.,_année_2013
+:jbake-date: 2013-07-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1375176375000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftiger-222.fr%2Findex.php%3Fd%3D2013%2F07%2F23%2F16%2F59%2F42-developpement-lestimation-du-temps-regulierement-sous-estimee&searchtags=d%C3%A9veloppement+logiciel+management+planning+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://tiger-222.fr/index.php?d=2013/07/23/16/59/42-developpement-lestimation-du-temps-regulierement-sous-estimee[Pourquoi l'estimation du temps des tâches de développement est-elle régulièrement fausse d'un facteur de 2, voire 3 ?]
+
+Très chouette explication du traditionnel dérapage des estimations. Le passage de la vue d'ensemble au détail faisant surgir de nouvelles difficultés est tout à fait édifiant.

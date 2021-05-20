@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gunnar Morling 🌍 sur Twitter : "* Automate formatting (no nitpick on stylistics) * Do "30%" reviews early on (avoiding long work on wrong path) * Focus on the bigger design questions instead of small details * Aim for getting things in quickly, improvements can be made as follow * But: Require tests and docs… https://t.co/8OA8E7mhtk"
+:jbake-tags: citation,code,review,process,organisation,_mois_déc.,_année_2019
+:jbake-date: 2019-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1577814862000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgunnarmorling%2Fstatus%2F1208086072770646016&searchtags=citation+code+review+process+organisation+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gunnarmorling/status/1208086072770646016[Gunnar Morling 🌍 sur Twitter : "* Automate formatting (no nitpick on stylistics) * Do "30%" reviews early on (avoiding long work on wrong path) * Focus on the bigger design questions instead of small details * Aim for getting things in quickly, improvements can be made as follow * But: Require tests and docs… https://t.co/8OA8E7mhtk"]
+
+Effectivement, les code reviews, c'est bien ... si c'est bien fait. Et ça n'est souvent pas le cas.

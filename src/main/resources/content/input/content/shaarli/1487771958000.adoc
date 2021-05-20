@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La police de proximité aurait-elle pu éviter l'affaire Théo ?
+:jbake-tags: politique,police,france,_mois_févr.,_année_2017
+:jbake-date: 2017-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1487771958000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.francetvinfo.fr%2Ffaits-divers%2Farrestation-violente-a-aulnay-sous-bois%2Fla-police-de-proximite-aurait-elle-pu-eviter-l-affaire-theo_2061773.html&searchtags=politique+police+france+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.francetvinfo.fr/faits-divers/arrestation-violente-a-aulnay-sous-bois/la-police-de-proximite-aurait-elle-pu-eviter-l-affaire-theo_2061773.html[La police de proximité aurait-elle pu éviter l'affaire Théo ?]
+
+Une illustration tragique de la stupidité du pilotage par indicateurs

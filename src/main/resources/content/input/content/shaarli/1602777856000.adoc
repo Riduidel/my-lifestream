@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A few words on Git. – Hadi Hariri
+:jbake-tags: git,critique,informatique,design,api,system,_mois_oct.,_année_2020
+:jbake-date: 2020-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1602777856000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhadihariri.com%2F2020%2F10%2F14%2Fa-few-words-on-git%2F&searchtags=git+critique+informatique+design+api+system+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://hadihariri.com/2020/10/14/a-few-words-on-git/[A few words on Git. – Hadi Hariri]
+
+Une version développée d'un tweet qui a eu un certain succès

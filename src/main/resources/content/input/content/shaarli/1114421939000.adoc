@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Del.icio.us popular sites
+:jbake-tags: folksonomie,tool,web,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114421939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.populicio.us%2F&searchtags=folksonomie+tool+web+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.populicio.us/[Del.icio.us popular sites]
+
+New Sites (24h), New Sites (48h), Last 24h popular, All time popular,

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 5 Error Tracking Tools Java Developers Should Know | Takipi Blog
+:jbake-tags: java,programming,erreur,reporting,_mois_oct.,_année_2014
+:jbake-date: 2014-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1412753758000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.takipiblog.com%2F5-error-tracking-tools-java-developers-should-know%2F&searchtags=java+programming+erreur+reporting+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.takipiblog.com/5-error-tracking-tools-java-developers-should-know/[5 Error Tracking Tools Java Developers Should Know | Takipi Blog]
+
+Chouette article sur les outils de collecte d'erreur

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PuTTY Download Page
+:jbake-tags: software,freeware,open-source,windows,réseau,@toinstall,_mois_oct.,_année_2009
+:jbake-date: 2009-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1254986990000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.chiark.greenend.org.uk%2F%7Esgtatham%2Fputty%2Fdownload.html&searchtags=software+freeware+open-source+windows+r%C3%A9seau+%40toinstall+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html[PuTTY Download Page]
+
+La référence des consoles à distance (enfin, pour moi ...)

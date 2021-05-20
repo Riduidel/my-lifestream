@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Does Your State Make Electricity? - The New York Times
+:jbake-tags: écologie,énergie,politique,_mois_janv.,_année_2019
+:jbake-date: 2019-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1547819510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2018%2F12%2F24%2Fclimate%2Fhow-electricity-generation-changed-in-your-state.html&searchtags=%C3%A9cologie+%C3%A9nergie+politique+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.nytimes.com/interactive/2018/12/24/climate/how-electricity-generation-changed-in-your-state.html[How Does Your State Make Electricity? - The New York Times]
+
+Dans certains domaines, les états-unis sont conceptuellement attardés. Et je comprend également bien mieux pourquoi les accords sur la réduction des émissions de CO² passent mal chez eux ...

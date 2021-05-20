@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Création d'une nouvelle alerte
+:jbake-tags: rss,_mois_oct.,_année_2010
+:jbake-date: 2010-10-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1286959079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Falertes-leboncoin.appspot.com%2F&searchtags=rss+_mois_oct.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://alertes-leboncoin.appspot.com/[Création d'une nouvelle alerte]
+
+Une petite application de création de flux RSS à partir des annonces sur leboncoin. J'ai envie de dire merci Grails :-)

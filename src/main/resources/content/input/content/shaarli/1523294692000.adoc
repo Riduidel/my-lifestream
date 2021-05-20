@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: "Things you should NOT do when reporting a bug: 1. Using a stack trace as only issue description, without any clue of how to reproduce it 2. Saying how urgent your problem is and that the human civilization as we know it will be destroyed if it won't be solved in next 30 minutes… https://t.co/e1ZmBrjbKx"
+:jbake-tags: citation,programming,debug,_mois_avr.,_année_2018
+:jbake-date: 2018-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1523294692000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F974349485483708417&searchtags=citation+programming+debug+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/974349485483708417[Mario Fusco on Twitter: "Things you should NOT do when reporting a bug: 1. Using a stack trace as only issue description, without any clue of how to reproduce it 2. Saying how urgent your problem is and that the human civilization as we know it will be destroyed if it won't be solved in next 30 minutes… https://t.co/e1ZmBrjbKx"]
+
+Pas sûr que ça me serve ... Mais c'est toujours intéressant à garder sous le coude

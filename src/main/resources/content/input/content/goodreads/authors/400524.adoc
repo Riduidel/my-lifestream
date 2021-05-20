@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Philippe Buchet
+:jbake-tags: author
+:jbake-date: 2010-09-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/400524.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/400524
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756018669.html[Les Russes sur la Lune!]
+* link:../books/9782756019970.html[Sillage: Dérapage contrôlé (Sillage, #13)]
+* link:../books/9782756024332.html[Sillage: Liquidation totale (Sillage, #14)]
+* link:../books/9782756024349.html[Sillage: Chasse gardée (Sillage, #15)]
+* link:../books/9782756032627.html[Liés par le sang (Sillage, #16)]
+* link:../books/9782756041261.html[Grands Froids (Sillage, #17)]
+* link:../books/9782756064857.html[Psycholocauste (Sillage #18)]
+* link:../books/9782756064864.html[Temps mort (Sillage, #19)]

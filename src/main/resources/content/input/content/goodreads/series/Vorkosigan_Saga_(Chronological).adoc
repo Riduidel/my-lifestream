@@ -1,0 +1,27 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vorkosigan Saga (Chronological)
+:jbake-tags: serie
+:jbake-date: 2003-08-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Vorkosigan_Saga_(Chronological).adoc
+:jbake-source: https://www.goodreads.com/series/98254
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290045114.html[Opération Cay]
+* link:../books/9782290036877.html[Cordelia Vorkosigan]
+* link:../books/9782290034545.html[Barrayar (Vorkosigan Saga, #7)]
+* link:../books/9782290043769.html[L'apprentissage du guerrier (Vorkosigan, #2)]
+* link:../books/9782277232889.html[Miles Vorkosigan]
+* link:../books/9782290048917.html[Cetaganda (Vorkosigan Saga, #9)]
+* link:../books/9782290046401.html[Ethan D'athos]
+* link:../books/9782277239253.html[Un clone encombrant]
+* link:../books/9782277240259.html[La danse du miroir]
+* link:../books/9782290052303.html[Memory (Vorkosigan Saga, #10)]
+* link:../books/9780671578084.html[Komarr (Vorkosigan Saga, #11)]
+* link:../books/9782290311721.html[Ekaterin]
+* link:../books/9780743436120.html[Diplomatic Immunity (Vorkosigan Saga, #13)]
+* link:../books/9782290075395.html[L'Alliance (La saga Vorkosigan #15)]
+* link:../books/9782290032633.html[Cryoburn]
+* link:../books/9780671578299.html[Borders of Infinity (Vorkosigan Saga [Publication] #5.1-5.3)]

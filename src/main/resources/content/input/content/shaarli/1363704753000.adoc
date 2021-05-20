@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: None
+:jbake-tags: projet,web,github,management,_mois_mars,_année_2013
+:jbake-date: 2013-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1363704753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhuboard.com%2F&searchtags=projet+web+github+management+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://huboard.com/[None]
+
+Et paf je kanbanise mes projets github !

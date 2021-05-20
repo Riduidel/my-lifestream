@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le premier vrai super-héros (Kick-Ass, #1: 1-4)
+:jbake-tags:  combat, surhomme,_année_2010,_mois_nov.,_note_3,rayon-bd,read
+:jbake-date: 2010-11-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782809409994.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328009086l/7887564._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328009086l/7887564._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7887564
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/444929.html[John Romita Jr.]
+* link:../authors/12736.html[Mark Millar]
+
+
+
+## Review
+
+++++
+Le premier vrai super-héros, hein !<br/>Un battage médiatique spectaculaire dû à la sortie du film associé !<br/>Tout ça pour l'histoire d'un jeune mal dans sa peau qui pense qu'enfiler une combinaison de plongée dans la rue suffira à le rendre phénoménalement balaise.<br/>C'est pas vraiment terrible, en fait, sauf bien sûr les scènes de baston (en particulier, évidement, le final) dans lesquelles le dessinateur a réellement pris son pied.<br/>Je me demande si le second tome est meilleur, en fait ...
+++++

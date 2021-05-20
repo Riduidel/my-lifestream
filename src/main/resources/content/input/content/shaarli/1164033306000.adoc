@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I.NFECTIO.US : ActiveRecord UML Diagrams
+:jbake-tags: rails,ruby,UML,_mois_nov.,_année_2006
+:jbake-date: 2006-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1164033306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frailtie.net%2Farticles%2F2006%2F07%2F30%2Factiverecord-uml-diagrams&searchtags=rails+ruby+UML+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://railtie.net/articles/2006/07/30/activerecord-uml-diagrams[I.NFECTIO.US : ActiveRecord UML Diagrams]
+
+Les diagrammes UML des ActiveRecord Rails

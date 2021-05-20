@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Render Markdown as unrendered Markdown (see http://jsbin.com/huwosomawo)
+:jbake-tags: web,markdown,html,css,_mois_mai,_année_2015
+:jbake-date: 2015-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1431683850000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2FImJasonH%2Fc00cdd7aece6945fb8ea&searchtags=web+markdown+html+css+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://gist.github.com/ImJasonH/c00cdd7aece6945fb8ea[Render Markdown as unrendered Markdown (see http://jsbin.com/huwosomawo)]
+
+Une CSS pour rendre du HTML comme du markdown

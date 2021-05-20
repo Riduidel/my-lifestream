@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: antonwierenga/activemq-cli: Command Line tool to interact with the Apache ActiveMQ message broker
+:jbake-tags: activemq,command-line,client,open-source,conférence,_mois_févr.,_année_2020
+:jbake-date: 2020-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1580667106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fantonwierenga%2Factivemq-cli&searchtags=activemq+command-line+client+open-source+conf%C3%A9rence+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/antonwierenga/activemq-cli[antonwierenga/activemq-cli: Command Line tool to interact with the Apache ActiveMQ message broker]
+
+Un autre client pour ActiveMQ en ligne de commande ...

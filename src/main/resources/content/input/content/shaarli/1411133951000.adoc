@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rant
+:jbake-tags: langage,programming,texte,générateur,_mois_sept.,_année_2014
+:jbake-date: 2014-09-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1411133951000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fonethingwell.org%2Fpost%2F97882478520&searchtags=langage+programming+texte+g%C3%A9n%C3%A9rateur+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://onethingwell.org/post/97882478520[Rant]
+
+Drôle d'idée : c'est une espèce de langage de génération de texte basé sur des règles plutôt sophistiquées. Très pratique pour générer, par exemple, du lorem ipsum non standard

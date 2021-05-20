@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TreeLine
+:jbake-tags: software,freeware,open-source,windows,linux,productivité,outliner,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115663209000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bellz.org%2Ftreeline%2F&searchtags=software+freeware+open-source+windows+linux+productivit%C3%A9+outliner+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bellz.org/treeline/[TreeLine]
+
+TreeLine is used to organize and store text data in a tree structure. It is well suited to keeping track of many different types of information. Each node of the tree can contain several defined fields, forming a mini-database. The format of each node can

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Page personnelle de Pierre Chatelier - MozoDojo
+:jbake-tags: freeware,graphics,image,photographie,software,macosx,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171640345000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fktd.club.fr%2Fprogrammation%2Fmozodojo_en.php&searchtags=freeware+graphics+image+photographie+software+macosx+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://ktd.club.fr/programmation/mozodojo_en.php[Page personnelle de Pierre Chatelier - MozoDojo]
+
+Un logiciel pour créer une image à partir d'une bibliothèque

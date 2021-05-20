@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: uwcron: Cron for the fun_plug
+:jbake-tags: dns-323,cron,_mois_juin,_année_2013
+:jbake-date: 2013-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1370872923000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnas-tweaks.net%2F431%2Fuwcron-cron-for-the-fun_plug%2F&searchtags=dns-323+cron+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://nas-tweaks.net/431/uwcron-cron-for-the-fun_plug/[uwcron: Cron for the fun_plug]
+
+Troisième façon de faire du cron sur le NAS ... J'espère que ce sera la bonne :-/

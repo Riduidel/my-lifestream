@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Romeu Moura sur Twitter : "To put this down in words : This is awful for many reasons and an obvious one is because it empowers people to exploit/steal from artists in a whole other level but ALSO: It means that we are going to see a huge surge in NFTs even if no artist actually adopt it" / Twitter
+:jbake-tags: blockchain,escroquerie,vol,technologie,_mois_mars,_année_2021
+:jbake-date: 2021-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1615296595000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmalk_zameth%2Fstatus%2F1369244800805928965&searchtags=blockchain+escroquerie+vol+technologie+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/malk_zameth/status/1369244800805928965[Romeu Moura sur Twitter : "To put this down in words : This is awful for many reasons and an obvious one is because it empowers people to exploit/steal from artists in a whole other level but ALSO: It means that we are going to see a huge surge in NFTs even if no artist actually adopt it" / Twitter]
+
+Dans la série "la blockchain corrompt", voici maintenant "la blockchain corrompt twitter". Grâce à elle, n'importe qui peut se déclarer propriétaire de vos tweets sans votre consentement (ni celui de twitter, d'ailleurs). D'un autre côté, je ne crois pas qu'un tribunal en reconnaisse la légalité ...

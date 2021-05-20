@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zuul | DevNull
+:jbake-tags: java,web,management,devops,configuration,programming,_mois_avr.,_année_2014
+:jbake-date: 2014-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1397737890000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.devnull.org%2Fzuul&searchtags=java+web+management+devops+configuration+programming+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.devnull.org/zuul[Zuul | DevNull]
+
+Oh, tiens, une web-app centralisée pour gérer les fichiers de propriétés dans différents environnements. Ca paraît une idée plutôt chouette, et assez pratique pour les dev-ops, non ? via http://java.dzone.com/articles/mule-meets-zuul-centralized

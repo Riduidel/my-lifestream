@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sarjakuvan Mestareita
+:jbake-tags: serie
+:jbake-date: 2015-09-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Sarjakuvan_Mestareita.adoc
+:jbake-source: https://www.goodreads.com/series/123444
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782870970201.html[Le Piège diabolique (Blake et Mortimer, #9)]

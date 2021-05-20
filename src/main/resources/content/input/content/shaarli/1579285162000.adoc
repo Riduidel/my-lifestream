@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La manière la plus simple d’installer un serveur mail (avec docker-mailserver) – La Réponse est 42
+:jbake-tags: docker,email,conférence,docker-compose,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579285162000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fomnos.fr%2Fla-maniere-la-plus-simple-dinstaller-un-serveur-mail-avec-docker-mailserver%2F&searchtags=docker+email+conf%C3%A9rence+docker-compose+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://omnos.fr/la-maniere-la-plus-simple-dinstaller-un-serveur-mail-avec-docker-mailserver/[La manière la plus simple d’installer un serveur mail (avec docker-mailserver) – La Réponse est 42]
+
+Un autre exemple de serveur mail dans Docker. Cest cool !a

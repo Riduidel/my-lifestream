@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: None
+:jbake-tags: webcam,software,command-line,windows,freeware,_mois_mars,_année_2013
+:jbake-date: 2013-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1362644725000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbatchloaf.wordpress.com%2Fcommandcam%2F&searchtags=webcam+software+command-line+windows+freeware+_mois_mars+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://batchloaf.wordpress.com/commandcam/[None]
+
+Pour disposer d'un équivalent du fameux hack mac qui fait une photo à chaque commit git

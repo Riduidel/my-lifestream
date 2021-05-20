@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Synergy
+:jbake-tags: software,shareware,macosx,multimedia,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110903567000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wincent.com%2Fa%2Fproducts%2Fsynergy-classic%2F&searchtags=software+shareware+macosx+multimedia+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.wincent.com/a/products/synergy-classic/[Synergy]
+
+Synergy is a tiny Cocoa application for Mac OS X 10.2 (and later) that puts three buttons to control iTunes in your menubar: previous track, next track, and play/pause; as well as providing you with visual feedback about the currently playing tune. Synerg

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hoverfly by SpectoLabs
+:jbake-tags: programming,test,http,interface,go,java,_mois_août,_année_2018
+:jbake-date: 2018-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1533629911000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhoverfly.io%2F&searchtags=programming+test+http+interface+go+java+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://hoverfly.io/[Hoverfly by SpectoLabs]
+
+Un simulateur de serveur. Pratique pour développer un client quand le serveur n'est pas encore complètement prêt. Et il y a des bindings Java !

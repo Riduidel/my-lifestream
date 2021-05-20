@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: andrew-schofield/keepass2-haveibeenpwned: Simple Have I Been Pwned checker for KeePass
+:jbake-tags: web,sécurité,password,keepass,plugin,_mois_févr.,_année_2018
+:jbake-date: 2018-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1519311194000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fandrew-schofield%2Fkeepass2-haveibeenpwned&searchtags=web+s%C3%A9curit%C3%A9+password+keepass+plugin+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/andrew-schofield/keepass2-haveibeenpwned[andrew-schofield/keepass2-haveibeenpwned: Simple Have I Been Pwned checker for KeePass]
+
+Cool ! Un plugin pour tester ma base KeePass contre les fuites de mots de passe existe déja !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dockerizing the Modeshape REST and JCR App – David B. Harrison
+:jbake-tags: docker,jcr,programming,database,_mois_août,_année_2018
+:jbake-date: 2018-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1534922934000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.davidbharrison.com%2Fdockerizing-a-modeshape-rest-application%2F&searchtags=docker+jcr+programming+database+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.davidbharrison.com/dockerizing-a-modeshape-rest-application/[Dockerizing the Modeshape REST and JCR App – David B. Harrison]
+
+Ca pourrait me servir pour un test ...

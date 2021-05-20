@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sweet Home 3D
+:jbake-tags: freeware,open-source,software,java,macosx,linux,windows,design,home,_mois_oct.,_année_2007
+:jbake-date: 2007-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1191917090000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsweethome3d.sourceforge.net%2Findex.html&searchtags=freeware+open-source+software+java+macosx+linux+windows+design+home+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://sweethome3d.sourceforge.net/index.html[Sweet Home 3D]
+
+une applicationd e design d'intérieur en 3D, multiplateforme et open-source, c'est la fête !

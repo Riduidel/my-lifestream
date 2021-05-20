@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les architectures microservices, c’est un peu trop fort pour toi mon p’tit gars ! | OCTO Talks !
+:jbake-tags: microservices,architecture,critique,mode,_mois_avr.,_année_2020
+:jbake-date: 2020-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1587226042000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.octo.com%2Fles-architectures-microservices-cest-un-peu-trop-fort-pour-toi-mon-ptit-gars%2F&searchtags=microservices+architecture+critique+mode+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.octo.com/les-architectures-microservices-cest-un-peu-trop-fort-pour-toi-mon-ptit-gars/[Les architectures microservices, c’est un peu trop fort pour toi mon p’tit gars ! | OCTO Talks !]
+
+OK, donc nos collègues d'Octo s'autorisent également à dire que les architectures microservices ne sont pas des panacées. Bien.

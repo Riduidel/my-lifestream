@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitBook · Write & Publish Books
+:jbake-tags: markdown,lifestream,ebook,software,online,_mois_oct.,_année_2014
+:jbake-date: 2014-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1412932900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.gitbook.io%2F&searchtags=markdown+lifestream+ebook+software+online+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://www.gitbook.io/[GitBook · Write & Publish Books]
+
+Franchement intéressant, ce truc. J'ai bien l'impression que je pourrais "facilement" transformer mon lifestream en eBook pour Android avec une solution comme ça.

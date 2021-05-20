@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+:jbake-tags: ,_année_2019,_mois_mai,_note_5,read
+:jbake-date: 2019-05-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9781491973899.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484107737l/33369254._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484107737l/33369254._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/33369254
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Managing people is difficult wherever you work, but the tech industry as a whole is pretty bad at it. Tech companies in general lack the experience, tools, texts, and frameworks to do it well. And the handful of books that share tips and tricks of engineering management don t explain how to supervise employees in the face of growth and change.<br /><br />In this book, author Camille Fournier takes you through the stages of technical management, from mentoring interns to working with the senior staff. You ll get actionable advice for approaching various obstacles in your path, whether you re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization.<br /><br /> * Discover how to manage small teams and large/multi-level teams<br /> * Understand how to build and bootstrap a unifying culture in teams<br /> * Deal with people problems and learn how to mentor other managers and new leaders<br /> * Learn how to manage yourself: avoid common pitfalls that challenge many leaders<br /> * Obtain several practices that you can incorporate and practice along the way
+</div>
+++++
+
+
+## Authors
+* link:../authors/14801119.html[Camille Fournier]
+
+
+
+## Review
+
+++++
+Pour mon travail, et grâce à l'excellente conférence de N. Helleringer à Devoxx (https://www.youtube.com/watch?v=vWARXoZrx10), j'ai lu cet excellent ouvrage sur l'art du management. Evidement, c'est loin de mes lectures habituelles. Du coup mes notes ne seront sans doute pas du même accabit.<br/>Ce lvire est constitué de différents chapitres consacrés aux différentes étapes de l'évolution du manager, avec les éléments qui y apparaissent. Cette évolution est bien détaillée, et évidement spécifique au monde de l'informatique. Chaque chapitre propose en outre des évaluations à réaliser soi-même, qui fournissent des bases de réflexion très intéressantes. J'adorerai d'ailleurs avoir ces auto-évaluations sous une forme simplifiée ...<br/>Dans l'ensemble, même si je n'ai pas lu les deux derniers chapitres, qui s'adressent aux CTO, j'ai beaucoup appris sur les aspects humains de ce travail.<br/>
+++++

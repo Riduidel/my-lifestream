@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pattern matching in action using C# 6 - Tomas Petricek
+:jbake-tags: programming,c#,langage,exception,pattern,_mois_févr.,_année_2019
+:jbake-date: 2019-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1549358947000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftomasp.net%2Fblog%2F2015%2Fcsharp-pattern-matching%2F&searchtags=programming+c%23+langage+exception+pattern+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://tomasp.net/blog/2015/csharp-pattern-matching/[Pattern matching in action using C# 6 - Tomas Petricek]
+
+C'est assez amusant de voir que, dans les langages objets d'entreprise, le support des exceptions inclut une forme restreinte de pattern matching (pour la blague, c'est comme ça que les développeurs de Play Framework envoyaient les pages au début)

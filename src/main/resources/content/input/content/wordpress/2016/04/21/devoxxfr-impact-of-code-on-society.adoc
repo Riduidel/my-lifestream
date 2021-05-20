@@ -1,0 +1,76 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - impact of code on society
+:jbake-tags: devoxx,stackoverflow,_mois_avr.,_année_2016
+:jbake-date: 2016-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-impact-of-code-on-society.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-impact-of-code-on-society/
+:jbake-style: wordpress
+
+++++
+<p>
+Imagine what if the CSS design team designed a taxi ... Une blague qui plait à tous ceux qui bossent dans le développement.
+<br/>
+D'après Joel, un développeur passe 5 % de son temps à coder, et le bon sang de reste de son temps à essayer de comprendre ce qui se passe.
+</p>
+<p>
+Et donc, Joel en profite pour nous faire une histoire des réponses aux questions des développeurs sur le web ... avec un long passage sur l'horreur qu'était Experts Exchange. Je ne vais pas détailler ça, parce que Jeff Atwood en a parlé en long et en large sur Coding Horror : leur objectif a été de sortir les développeurs de cet enfer.
+</p>
+<p>
+Pour passer à autre chose, de nos jours, avant même votre réveil, des centaines de millions de lignes de code ont déjà tourné en votre nom pour, par exemple, activer votre réveil android, télécharger vos podcasts/mails/tweets, ... Et tout ça, ce sont des développeurs qui l'ont écrit, qui ont pris des décisions, qui ont écrit leur script de votre journée par leurs décisions de code.
+</p>
+<p>
+Et autant c'est raisonnable de voir uber vous demander de traverser la rue pour monter dans la voiture, autant un employé dans un centre de livraison est totalement piloté par du logiciel : on lui dit d'aller chercher un colis, puis de prendre un chemin particulier pour aller chercher une imprimante. Ces gens ne sont en fait plus que des output devices pour le système de livraison d'Amazon.
+</p>
+<p>
+Et parfois, ça a un impact émotionnel. Typiquement, quand Facebook manipule votre timeline, ça a un impact sur vos émotions, que ce soit quand ils expérimentent ou pas. Mais même ça, c'est loin d'être facile, parce que si Facebook veut vous montrer une timeline qui vous rend heureux, doit-il vous montrer des photos de vos anciens amis ? ou même des photos de personnes mortes ?
+</p>
+<p>
+Et n'oubliez pas que nous ne sommes qu'au début de la transformation. Dans le futur, il y aura encore plus de logiciel qui tournera pour vous.
+</p>
+<p>
+Alors certes il y avait des idées intéressantes. Mais comme le disait Twitter
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/elefevre" class="screenName"><img src="http://pbs.twimg.com/profile_images/3598889610/09ba00e15f69d48dd39a3b77afabf0ba_mini.jpeg" alt="profile of Yak Shaving as a Service. He/his."/>elefevre</a>
+<br/>
+<span class="name">Eric Lefevre-Ardant</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/elefevre/status/723 066 183 801 540 608" class="date">21 avr. 2016 à 10:29:46</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">C'est moi ou la keynote de Joel Spolsky était décevante ? #devoxxfr</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

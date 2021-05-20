@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Egoboo
+:jbake-tags: jeu,linux,macosx,software,freeware,open-source,windows,_mois_janv.,_année_2006
+:jbake-date: 2006-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1138093829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fegoboo.sourceforge.net%2F&searchtags=jeu+linux+macosx+software+freeware+open-source+windows+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://egoboo.sourceforge.net/[Egoboo]
+
+

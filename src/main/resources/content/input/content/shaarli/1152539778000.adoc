@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: activeCollab - open source project management and collaboration tool.
+:jbake-tags: collaboration,développement,freeware,groupware,knowledge,management,open-source,planning,productivité,software,web,php,_mois_juil.,_année_2006
+:jbake-date: 2006-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1152539778000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.activecollab.com%2F&searchtags=collaboration+d%C3%A9veloppement+freeware+groupware+knowledge+management+open-source+planning+productivit%C3%A9+software+web+php+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.activecollab.com/[activeCollab - open source project management and collaboration tool.]
+
+Un clone des produits de 37Signals, gratuit et utilisable n'importe où

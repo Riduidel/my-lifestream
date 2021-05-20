@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Safely Store a Password in 2016 - Paragon Initiative Enterprises Blog
+:jbake-tags: programming,password,stockage,_mois_févr.,_année_2016
+:jbake-date: 2016-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1455627887000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fparagonie.com%2Fblog%2F2016%2F02%2Fhow-safely-store-password-in-2016&searchtags=programming+password+stockage+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://paragonie.com/blog/2016/02/how-safely-store-password-in-2016[How to Safely Store a Password in 2016 - Paragon Initiative Enterprises Blog]
+
+Très bon article sur le stockage des mots de passe quelquesoit le langage

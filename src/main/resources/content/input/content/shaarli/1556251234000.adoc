@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Rust Solved Dependency Hell - Stephen Coakley
+:jbake-tags: programming,rust,dépendances,cargo,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556251234000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstephencoakley.com%2F2019%2F04%2F24%2Fhow-rust-solved-dependency-hell&searchtags=programming+rust+d%C3%A9pendances+cargo+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://stephencoakley.com/2019/04/24/how-rust-solved-dependency-hell[How Rust Solved Dependency Hell - Stephen Coakley]
+
+Je savais que je pouvais avoir plusieurs versions d'une dépendance mais je ne savais pas comment ça marche ... Maintenant que je sais, je trouve ça dinguement génial (et tellement mieux que Java/Maven)

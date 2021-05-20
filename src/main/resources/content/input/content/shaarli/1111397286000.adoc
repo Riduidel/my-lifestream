@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: YOT: Yogurt of Technology: Zippist ver.1.2 with Encryption
+:jbake-tags: software,freeware,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111397286000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww2.mitsuya.nuem.nagoya-u.ac.jp%2F%7Etagaya%2Fmte%2Farchives%2F2004%2F09%2Fzippist_ver12_w.html&searchtags=software+freeware+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www2.mitsuya.nuem.nagoya-u.ac.jp/~tagaya/mte/archives/2004/09/zippist_ver12_w.html[YOT: Yogurt of Technology: Zippist ver.1.2 with Encryption]
+
+Zippist makes zipped file to compress files and folders. A zip file can not contain resource forks, and the custom icons of files are not saved. Zippist contains a Unix command "zip" or Info-Zip. Mark Adler, Richard B. Wales, Jean-loup Gailly Onno van der

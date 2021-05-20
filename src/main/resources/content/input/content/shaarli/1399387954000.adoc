@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenJDK JEP 180: HashMap, collisions & attaques par la complexité
+:jbake-tags: java,sécurité,string,_mois_mai,_année_2014
+:jbake-date: 2014-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1399387954000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Fopenjdk-jep-180-hashmap-collisions-attaques-par-la-complexite&searchtags=java+s%C3%A9curit%C3%A9+string+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://linuxfr.org/news/openjdk-jep-180-hashmap-collisions-attaques-par-la-complexite[OpenJDK JEP 180: HashMap, collisions & attaques par la complexité]
+
+Très bon article sur la façon dont Java se prémunit de certaines attaques web (qui doivent au demeurabt être assez habilement forgées)

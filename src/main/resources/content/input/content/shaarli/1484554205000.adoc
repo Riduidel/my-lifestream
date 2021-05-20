@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jakeogh/angryfiles: generate a tree of diverse file names
+:jbake-tags: file,python,script,générateur,_mois_janv.,_année_2017
+:jbake-date: 2017-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1484554205000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjakeogh%2Fangryfiles&searchtags=file+python+script+g%C3%A9n%C3%A9rateur+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/jakeogh/angryfiles[jakeogh/angryfiles: generate a tree of diverse file names]
+
+Un chouette script Python de génération de noms de fichiers. Il génère \*tous\* les noms possibles.

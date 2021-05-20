@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Romeu Moura on Twitter: "Our industry is hell bent into turning every given practice into tools to use mechanically without thought https://t.co/uAXFIBBsHS"
+:jbake-tags: industry,programming,marketing,_mois_nov.,_année_2016
+:jbake-date: 2016-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1480318262000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmalk_zameth%2Fstatus%2F802921731203760128&searchtags=industry+programming+marketing+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/malk_zameth/status/802921731203760128[Romeu Moura on Twitter: "Our industry is hell bent into turning every given practice into tools to use mechanically without thought https://t.co/uAXFIBBsHS"]
+
+C'est parfaitement vrai, et parfaitement navrant. Mais c'est aussi une source sans fond de profit

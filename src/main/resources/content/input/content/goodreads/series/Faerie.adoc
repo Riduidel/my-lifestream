@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Faerie
+:jbake-tags: serie
+:jbake-date: 2006-03-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Faerie.adoc
+:jbake-source: https://www.goodreads.com/series/149954
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070313211.html[Faerie Hackers (Faerie, #1)]

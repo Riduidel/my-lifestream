@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tommoor/tinycon · GitHub
+:jbake-tags: javascript,library,favicon,_mois_sept.,_année_2014
+:jbake-date: 2014-09-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1412003745000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftommoor%2Ftinycon&searchtags=javascript+library+favicon+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://github.com/tommoor/tinycon[tommoor/tinycon · GitHub]
+
+C'est très mignon, et ça donne un résultat bien plus lisible que l'icône de KrissFeed (au pif, hein)

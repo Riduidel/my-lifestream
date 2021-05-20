@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Problem with Gradle
+:jbake-tags: gradle,critique,programming,build,_mois_janv.,_année_2021
+:jbake-date: 2021-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1609940470000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.bruceeckel.com%2F2021%2F01%2F02%2Fthe-problem-with-gradle%2F&searchtags=gradle+critique+programming+build+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/[The Problem with Gradle]
+
+Il y a des points d'utilisabilité intéressants dans ce texte.

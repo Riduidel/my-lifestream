@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing PrrrStack – Crash Springfield – Medium
+:jbake-tags: programming,rust,web,postgres,_mois_juil.,_année_2018
+:jbake-date: 2018-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1530682687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40ccrsh%2Fintroducing-prrrstack-d617ff518ba6&searchtags=programming+rust+web+postgres+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://medium.com/@ccrsh/introducing-prrrstack-d617ff518ba6[Introducing PrrrStack – Crash Springfield – Medium]
+
+Oh, une stack web basée sur Rust ! La partie avec React est à mon sens dispensable, mais la partie serveur me rappelle le Java comme en 2002

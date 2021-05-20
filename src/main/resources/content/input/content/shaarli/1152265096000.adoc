@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gcal.app - a Google Calendar Client » Chip.Cuccio.US
+:jbake-tags: calendar,desktop,macosx,productivité,software,_mois_juil.,_année_2006
+:jbake-date: 2006-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1152265096000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchip.cuccio.us%2Fprojects%2Fgcal%2F&searchtags=calendar+desktop+macosx+productivit%C3%A9+software+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://chip.cuccio.us/projects/gcal/[Gcal.app - a Google Calendar Client » Chip.Cuccio.US]
+
+Un client Google Calendar pour Mac ... je ne suis pas sûr que ce soit une bonne idée, mais bon

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pie In The Sky « Not The User’s Fault
+:jbake-tags: usability,interface,interaction,gui,_mois_oct.,_année_2008
+:jbake-date: 2008-10-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1225211396000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjonoscript.wordpress.com%2F2008%2F10%2F28%2Fpie-in-the-sky%2F&searchtags=usability+interface+interaction+gui+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://jonoscript.wordpress.com/2008/10/28/pie-in-the-sky/[Pie In The Sky « Not The User’s Fault]
+
+"The reason why pie menus are good has to do with Fitts’ Law, one of the most reliable theories in all of HCI, which has been empirically verified time and time again." Ca, c'est la partie la plus intéressante pour moi de cet article sur l'utilisation de menus ronds dans des versions de test de Firefox. Bon, en soi, Firefox ne m'intéresse pas. Mais les menus circulaires, oui et, plus encore, la loi de Fitt avec une jolie formule mathématique pour la justifier.

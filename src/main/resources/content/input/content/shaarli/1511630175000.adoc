@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - chaeron/thermostat: Raspberry Pi Thermostat
+:jbake-tags: raspberrypi,maison,diy,_mois_nov.,_année_2017
+:jbake-date: 2017-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1511630175000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fchaeron%2Fthermostat&searchtags=raspberrypi+maison+diy+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/chaeron/thermostat[GitHub - chaeron/thermostat: Raspberry Pi Thermostat]
+
+Il y a quand même des tonnes de thermostats basés sur Raspberry et c'est cool, même si la partie qui m'intéresse le plus est la communication sans fil avec un relais de pilotage

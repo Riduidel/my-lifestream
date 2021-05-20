@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: De l’infra à l’IA: des gophers à tous les étages. - YouTube
+:jbake-tags: kubernetes,go,cloud,présentation,_mois_juin,_année_2020
+:jbake-date: 2020-06-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1591036069000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DYbHSnBRWVWQ&searchtags=kubernetes+go+cloud+pr%C3%A9sentation+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=YbHSnBRWVWQ[De l’infra à l’IA: des gophers à tous les étages. - YouTube]
+
+J'ai appris deux ou trois choses sympa (cloudevents, KNative Eventing, ONNX), mais j'ai eu malgré ça l'impression d'un survol.

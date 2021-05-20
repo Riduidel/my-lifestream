@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSA Wikis, Gantt Project Tool
+:jbake-tags: software,freeware,open-source,projet,management,java,_mois_juin,_année_2006
+:jbake-date: 2006-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1150211467000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fghannid.homeip.net%2Fwiki%2FLGanttPrd_en.wiki&searchtags=software+freeware+open-source+projet+management+java+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://ghannid.homeip.net/wiki/LGanttPrd_en.wiki[CSA Wikis, Gantt Project Tool]
+
+Un outil de création de Gantt

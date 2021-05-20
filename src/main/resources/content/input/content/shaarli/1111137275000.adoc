@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ANT | Not TV
+:jbake-tags: software,freeware,macosx,réseau,multimedia,_mois_mars,_année_2005
+:jbake-date: 2005-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1111137275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.antnottv.org%2F&searchtags=software+freeware+macosx+r%C3%A9seau+multimedia+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.antnottv.org/[ANT | Not TV]
+
+ANT is an RSS video aggregator and media player currently available for Mac OS X 10.3 Panther. With ANT, you can subscribe to any RSS 2.0 feed with enclosures. ANT will automatically download fresh audio and video content for you to watch and listen to

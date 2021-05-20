@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Twitter / rhwy: You should start a project ...
+:jbake-tags: devops,lean,agile,_mois_juin,_année_2014
+:jbake-date: 2014-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1402062183000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frhwy%2Fstatus%2F474830227139727360%2Fphoto%2F1&searchtags=devops+lean+agile+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://twitter.com/rhwy/status/474830227139727360/photo/1[Twitter / rhwy: You should start a project ...]
+
+Très très très bonne idée. Ce qui est génial, c'est que l'objectif n'est pas de faire une belle maquette au début du projet, mais de faire en sorte que la maquette soit livrée jusqu'au client.

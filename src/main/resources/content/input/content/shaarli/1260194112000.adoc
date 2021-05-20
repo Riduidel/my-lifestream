@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andres Almiray's Weblog : Weblog
+:jbake-tags: article,tutorial,programming,groovy,swing,@toread,for:mischler,_mois_déc.,_année_2009
+:jbake-date: 2009-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1260194112000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jroller.com%2Faalmiray%2Fentry%2Fbuilding_rich_swing_applications_with1&searchtags=article+tutorial+programming+groovy+swing+%40toread+for%3Amischler+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.jroller.com/aalmiray/entry/building_rich_swing_applications_with1[Andres Almiray's Weblog : Weblog]
+
+La deuxième partie d'une série de 3 articles sur les interfaces Swing en Groovy. On rentre cette fois-ci dans les détails du SwingBuilder et de sa façon d'intégrer des composants externes.

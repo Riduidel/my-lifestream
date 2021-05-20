@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitOps: The Bad and the Ugly
+:jbake-tags: devops,git,critique,programming,kubernetes,_mois_sept.,_année_2020
+:jbake-date: 2020-09-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1599735519000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.container-solutions.com%2Fgitops-the-bad-and-the-ugly&searchtags=devops+git+critique+programming+kubernetes+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.container-solutions.com/gitops-the-bad-and-the-ugly[GitOps: The Bad and the Ugly]
+
+GitOps est riche de promesses ... mais les inconvénients mentionnés dans cet article méritent vraiment qu'on y réfléchisse ...

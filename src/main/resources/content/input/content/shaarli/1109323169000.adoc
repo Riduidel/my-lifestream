@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mortik
+:jbake-tags: software,freeware,jeu,mmorpg,library,_mois_févr.,_année_2005
+:jbake-date: 2005-02-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1109323169000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmortik.sourceforge.net%2F&searchtags=software+freeware+jeu+mmorpg+library+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://mortik.sourceforge.net/[Mortik]
+
+Massive Multiplayer Online Role Playing Games (MMORPGs), are the biggest thing to happen to the game world since the introduction of 3D graphics. These games allow thousands of players to interact together in huge three dimensional worlds. Thing is, often

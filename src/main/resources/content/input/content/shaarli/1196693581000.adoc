@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JTextCheck - JTextCheck - text checking API for Java
+:jbake-tags: java,library,programming,software,texte,tool,jebliki,_mois_déc.,_année_2007
+:jbake-date: 2007-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1196693581000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinux.org.mt%2Fprojects%2Fjtextcheck%2Findex.html&searchtags=java+library+programming+software+texte+tool+jebliki+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://linux.org.mt/projects/jtextcheck/index.html[JTextCheck - JTextCheck - text checking API for Java]
+
+Je ne sais pas si le faire côté serveur sera plus efficace que de le faire en Javascript. Mais pour moi, offrir un correcteur orthographique dans l'édition des pages de JeBliki serait le top.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Omni Group - Applications - OmniDictionary
+:jbake-tags: software,freeware,macosx,dictionnary,_mois_nov.,_année_2005
+:jbake-date: 2005-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1131109744000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.omnigroup.com%2Fapplications%2Fomnidictionary%2F&searchtags=software+freeware+macosx+dictionnary+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.omnigroup.com/applications/omnidictionary/[The Omni Group - Applications - OmniDictionary]
+
+OmniDictionary is a Mac OS X client for network dictionary servers. It's pretty straightforward - type a word into the entry field, hit return, and the definition is displayed. If the dictionary server supports multiple dictionaries, you can select your d

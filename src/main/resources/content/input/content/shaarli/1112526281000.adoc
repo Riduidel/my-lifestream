@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: arXiv.org e-Print archive
+:jbake-tags: web,science,ebook,_mois_avr.,_année_2005
+:jbake-date: 2005-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1112526281000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.arxiv.org%2F&searchtags=web+science+ebook+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.arxiv.org/[arXiv.org e-Print archive]
+
+Papers on physics, mathematics and other scientific topics.

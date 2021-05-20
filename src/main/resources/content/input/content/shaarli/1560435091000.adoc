@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Liga fined €250,000 after Android app spied on football fans – HOTforSecurity
+:jbake-tags: android,espionnage,intimité,sport,droit,_mois_juin,_année_2019
+:jbake-date: 2019-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1560435091000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhotforsecurity.bitdefender.com%2Fblog%2Fla-liga-fined-e250000-after-android-app-spied-on-football-fans-21332.html&searchtags=android+espionnage+intimit%C3%A9+sport+droit+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hotforsecurity.bitdefender.com/blog/la-liga-fined-e250000-after-android-app-spied-on-football-fans-21332.html[La Liga fined €250,000 after Android app spied on football fans – HOTforSecurity]
+
+Je vous recommande de lire l'article en entier, qui est ... particulièrement éclairant. Par contre, les développeurs qui ont commis ça ne risquent apparemment rien. Ca risque de ne pas durer (et c'est tant mieux).

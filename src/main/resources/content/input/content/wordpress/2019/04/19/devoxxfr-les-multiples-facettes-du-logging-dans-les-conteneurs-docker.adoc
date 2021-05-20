@@ -1,0 +1,196 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Les multiples facettes du logging dans les conteneurs Docker
+:jbake-tags: devoxx,docker,logs,_mois_avr.,_année_2019
+:jbake-date: 2019-04-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/19/devoxxfr-les-multiples-facettes-du-logging-dans-les-conteneurs-docker.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/19/devoxxfr-les-multiples-facettes-du-logging-dans-les-conteneurs-docker/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/m_gandin" class="screenName"><img src="http://pbs.twimg.com/profile_images/776485864151154688/chv_ri-A_mini.jpg" alt="profile of I program my home computer / Beam myself into the future (and mostly writing code at https://t.co/Is2qla9X88)"/>m_gandin</a>
+<br/>
+<span class="name">Mathieu Gandin</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/m_gandin/status/1 118 916 999 789 318 144" class="date">18 avr. 2019 à 18:39:35</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Tools in Action sur le logging dans les conteneurs Docker par @nicolas_frankel #DevoxxFR https://t.co/gWFj7DYYUA</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4cxEsJWkAADdfy.jpg" alt="1 118 916 989 064 482 816"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Pour me finir la journée, quoi de mieux que d'écouter <a href="https://twitter.com/nicolas_frankel/">Nicolas</a> me parler de logs ?
+</p>
+<p>
+Quand on fait du Docker, on produit des logs. Cool. On peut bien sûr s’attacher aux conteneurs pour voir leurs logs. Mais comme pour se détacher, on fait <code>Ctrl-C</code>, le conteneur s’arrête. Et du coup c’est pas pratique. En fait, quand on s’attache à un conteneur, tous les signaux sont transmis à ce conteneur (y compris le <code>Ctrl-C</code> qui l'arrête). Pour éviter ça, il y a l’option <code>--sig-proxy=false</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Évidement, quand on fait <code>docker logs</code>, on a tous les logs du conteneur. Illisible.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Pour récupérer directement, le fichier, on peut faire un petit <code>docker inspect …​</code> qui nous donnera, caché dans un coin, le <code>LogPath</code>. Et ce fichier de log, si vous êtes sous linux, contiendra les logs Docker en JSON.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Pour éviter ces couches d’abstraction, utilisons donc …​ le cloud ! (en l’occurrence <a href="https://www.exoscale.com/">Exoscale</a>, puisque Nicolas bosse pour eux). Donc Nicolas redémarre son conteneur sur une machine hébergée chez Exoscale, et refait la même manœuvre de <code>docker logs</code>, <code>docker inspect</code>. Mais dans le cloud, les logs centralisés, c’est quand même mieux, non ? Donc autant prendre les logs et les pousser dans <a href="https://www.elastic.co/fr/products/elasticsearch">ElasticSearch</a> avec <a href="https://www.elastic.co/products/beats/filebeat">FileBeat</a>. Ce qui est galère, c’est quand même d’aller chercher l’emplacement du fichier. En plus, filebeat est normalement capable de retrouver le fichier de logs. Pour ça, il suffit de donner à filebeat l’id du conteneur Docker. En faisant ça, filebeat retrouve donc le fichier, et récupère le vrai message de log (et pas le JSON produit par Docker).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Par contre, évidement, les logs vont grossir, et il va falloir faire de la log rotation et autres saletés d’admin sys. On peut donc utiliser un driver de logs différents pour notre conteneur, pour envoyer par exemple les logs avec gelf. Évidement, pour consommer les logs, il faut un logstash. Et en plus, <code>docker logs</code> ne marche plus.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Et puis franchement, des applications qui écrivent sur stdout …​ il y en a peu. Par exemple, Tomcat écrit dans trois fichiers (et pas dans stdout). Nicolas prend donc un conteneur qui écrit ses logs dans des fichiers …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+On peut bien sûr monter ce fichier de log via un volume sur le host. Mais c’est assez embêtant parce que ça supprime l’abstraction qu’offre Docker. Pour ça, filebeats peut accéder aux volumes exposés par notre conteneur qui produit des logs grâce à un volume partagé.
+<br/>
+<h2>Conclusion</h2>
+<br/>
+ 
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+A travers ses différentes démos, Nicolas nous a donc montré que
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-32">
+<br/>
+<ul>
+<br/>
+<li>Il ne faut pas utiliser attach</li>
+<br/>
+<li>Si vous voulez récupérer vos logs, vous risquez de perdre <code>docker logs</code>.</li>
+<br/>
+<li>Il vous faut un outil de gestion de logs centralisé.</li>
+<br/>
+</ul>
+<br/>
+Même si le sujet ne semble pas foufou, l'analyse de logs, c'est un truc qui occupe pas mal de mon temps, et ce que montrait Nicolas était chouette (et je dis pas ça parce qu'on a  tous les deux le même prénom, le même humour, le même genre de voix discrète, bref, beaucoup trop de points communs)
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/nicolas_frankel" class="screenName"><img src="http://pbs.twimg.com/profile_images/1063110424306929664/9pYrPAp6_mini.jpg" alt="profile of 🥑 Developer Advocate @Hazelcast
+<br/>
+✍️ Blogger at https://t.co/nnBYBMZOCC
+<br/>
+🎓 Learner
+<br/>
+🧑‍💻 Former developer and architect
+<br/>
+📖 Author of https://t.co/p1nP5PIUmo"/>nicolas_frankel</a>
+<br/>
+<span class="name">Nicolas Frankel (@Home for a long time I believe)</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/nicolas_frankel/status/1 119 008 297 347 104 768" class="date">19 avr. 2019 à 00:42:22</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Merci à tous les participants à la session "Les multiples facettes du #logging dans un container #Docker" à #DevoxxFR. Les slides sont maintenant disponibles https://t.co/2SSj8fRwlp</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

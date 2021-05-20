@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mdp/cist: Curl to Gist
+:jbake-tags: web,partage,fichier,_mois_mai,_année_2019
+:jbake-date: 2019-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1558429378000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmdp%2Fcist&searchtags=web+partage+fichier+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/mdp/cist[mdp/cist: Curl to Gist]
+
+Ah tiens la même chose que termbin mais pour envoyer les données dans gist.github.com

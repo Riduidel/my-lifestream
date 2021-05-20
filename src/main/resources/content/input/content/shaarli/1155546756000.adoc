@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wikimapia - Let's describe the whole Earth!
+:jbake-tags: folksonomie,collaboration,library,carte,reference,social,wiki,wikipedia,_mois_août,_année_2006
+:jbake-date: 2006-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1155546756000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wikimapia.org%2F&searchtags=folksonomie+collaboration+library+carte+reference+social+wiki+wikipedia+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.wikimapia.org/[Wikimapia - Let's describe the whole Earth!]
+
+Une espèce de mélange entre un wiki et google maps. La mayonnaise n'a pas encore complètement pris, mais l'initative est pour le moins prometteuse.

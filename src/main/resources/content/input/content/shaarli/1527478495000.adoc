@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Richard Feynman on Twitter: "Scientists are explorers. Philosophers are tourists.… "
+:jbake-tags: citation,science,philosophie,_mois_mai,_année_2018
+:jbake-date: 2018-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1527478495000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FProfFeynman%2Fstatus%2F1000803081460760576&searchtags=citation+science+philosophie+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/ProfFeynman/status/1000803081460760576[Richard Feynman on Twitter: "Scientists are explorers. Philosophers are tourists.… "]
+
+Cette phrase est d'une puissance explicative folle sur le monde qui nous entoure. Ca n'est pas réellement "vrai", mais tant de choses en découlent ...

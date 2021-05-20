@@ -1,0 +1,184 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devfest Lille 1 : UX et jeux vidéos
+:jbake-tags: design,devfest,ux,_mois_juin,_année_2018
+:jbake-date: 2018-06-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/21/devfest-lille-1-ux-et-jeux-videos.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/21/devfest-lille-1-ux-et-jeux-videos/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Sarah Coulmont est ingénieur en cognitique, et travaille chez Murex sur …​ l’UX. Alexandra Nemery est docteur en ergonomie, et travaille également chez Murex sur l’UX.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Sarah commence par nous cadrer le sujet : dès qu’une personne utilise un logiciel, c’est de l’expérience utilisateur. La France est assez en retard dans ce domaine, mais peut le rattraper en se posant quelques bonnes questions
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Qui sont nos utilisateurs ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+En général, on trouve quatre types de personnalités
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist">
+<br/>
+<ul>
+<br/>
+<li>Combattant</li>
+<br/>
+<li>Accomplisseur</li>
+<br/>
+<li>Socialiseur</li>
+<br/>
+<li>Explorateur</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Chacun de ces types de personnalités a des motivations différentes. Et évidement, ces différents profils vont demander des expériences de jeu différentes.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Il me vient à l’esprit d’ailleurs que ces histoires de profil sont applicables également au rôles de développeurs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+D’une façon amusante, Sarah et Alexandra délèguent ensuite une partie de leur présentation à Kahoot.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Ce qui nous permet d’apprendre que l’UX doit être prise en compte tout au long du développement, ou que le profil de joueur le plus rare est l’explorateur.  Malheureusement, la salle se dissipe assez rapidement avec ces questions assez amusantes. Et clairement, 200 bons gros développeurs qui discutent, ben ça fait trop de bruit pour moi (parfois, je suis un vieux con).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Alexandra enchaîne avec des contre-exemples d’interfaces dans Summoner Wars. Certains me paraîssent même être de l’ordre des dark patterns. En tout cas, ces exemples montrent bien le besoin d’une terminologie claire et de chemins de navigation simples dans les interfaces.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+De la même manière, Sarah nous montre dans Heavy Rain le risque que provoque une interface inhabituelle avec une manipulation du personnage via des contrôles joystick inhabituels pour les gamers. Ce qui va parfois avec l’envie des créateurs de faire ressentir au joueur l’inconfort du personnage (dans certaines scènes de franchissement d’obstacle), mais peut empêcher l’immersion du joueur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Par ailleurs, si l’interface est complète, il faudra reposer sur la mémoire des utilisateurs, ce qui peut ne pas être une bonne idée. Voire même une très mauvaise, lorsqu’il y a beaucoup d’éléments à retenir.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Et comme dans Heavy Rain, il est important d’adapter les interactions possibles au device utilisé (comme par exemple la navigation danss les menus d’Assassin’s Creed qui utilisent une pseudo-souris).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+En parlant d’interaction, les jeux comme World of Warcraft montrent bien l’importance du choix de la densité informationelle (en particulier avec les mods qui ajoutent des tonnes d’information à un écran déja trop riche).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Comment travailler sur ces éléments ? Avec des tests utilisateurs, tout simplement ! Pour les mener, c’est bien d’avoir des ergonomes. Mais c’est également possible assez simplement en filmant un utilisateur (visage et mains) ainsi que l’écran de l’ordinateur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Par ailleurs, l’un des éléments importants d’une bonne interface (surtout en jeux vidéos), c’est de raconter une histoire que l’utilisateur va comprendre immédiatement (pour éviter ce que les amateurs de lecture SF nomment les infodumps). Tout ça expliqué grâce au créateur de Mario, qui en un sens est un des premiers UX designers.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pour conclure, si vous voulez que votre produit soit aussi populaire que Mario, pensez simple et inspirez-vous du monde extérieur.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_mon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Le message était clair et la métaphore du jeu vidéo, si elle paraît facile, est néanmoins riche de sens (il n’y a qu’à voir le succès de StackOverflow)
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

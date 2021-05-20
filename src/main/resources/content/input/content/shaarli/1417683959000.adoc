@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebHistoryPics
+:jbake-tags: histoire,art,internet,web,culture,_mois_déc.,_année_2014
+:jbake-date: 2014-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1417683959000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwebhistorypics.com%2F&searchtags=histoire+art+internet+web+culture+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://webhistorypics.com/[WebHistoryPics]
+
+Alors ça, c'est vraiment très drôle.

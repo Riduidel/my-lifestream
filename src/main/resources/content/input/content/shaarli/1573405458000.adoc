@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nick Sullivan sur Twitter : "I was chatting with a friend of mine who hires engineers who told me that in their company's hiring process they have an explicit focus on assessing the candidate's "grit" during the interview process."
+:jbake-tags: recrutement,informatique,motivation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1573405458000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgrittygrease%2Fstatus%2F1193304558656573440&searchtags=recrutement+informatique+motivation+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/grittygrease/status/1193304558656573440[Nick Sullivan sur Twitter : "I was chatting with a friend of mine who hires engineers who told me that in their company's hiring process they have an explicit focus on assessing the candidate's "grit" during the interview process."]
+
+Wow, alors ça c'est ... vraiment chouette ... et impressionant.

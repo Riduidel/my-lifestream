@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Daily Grind Network | Software
+:jbake-tags: software,freeware,macosx,programming,web,html,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111398035000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.thedailygrind.net%2Fwork%2Fsoftware%2Fcontent.php%3Fid%3D445_0_10_0&searchtags=software+freeware+macosx+programming+web+html+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.thedailygrind.net/work/software/content.php?id=445_0_10_0[The Daily Grind Network | Software]
+
+This application allows web authors to offer superior support for users who rely on browsers which support tables but not images.

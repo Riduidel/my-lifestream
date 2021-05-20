@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Run Docker On Windows Using Vagrant
+:jbake-tags: docker,windows,virtualbox,vagrant,devops,documentation,_mois_mai,_année_2014
+:jbake-date: 2014-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1399451976000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2Fjulienbarbier42%2Frun-docker-on-windows-using-vagrant&searchtags=docker+windows+virtualbox+vagrant+devops+documentation+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.slideshare.net/julienbarbier42/run-docker-on-windows-using-vagrant[Run Docker On Windows Using Vagrant]
+
+Un guide d'installation complet histoire de pouvoir tester Docker facilement sans trop changer de plateforme

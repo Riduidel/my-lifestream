@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thorsten Ball sur Twitter : "I like this comment not because of PHP (used it 10+ years ago & don't have a valid opinion on it anymore), but because you can replace PHP with any other technology and it would still be a great comment. 99% of the time the tech doesn't matter to a business's success.… https://t.co/Uwic8NtUao"
+:jbake-tags: citation,programming,projet,produit,_mois_déc.,_année_2019
+:jbake-date: 2019-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1575635981000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fthorstenball%2Fstatus%2F1202517825522479104&searchtags=citation+programming+projet+produit+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/thorstenball/status/1202517825522479104[Thorsten Ball sur Twitter : "I like this comment not because of PHP (used it 10+ years ago & don't have a valid opinion on it anymore), but because you can replace PHP with any other technology and it would still be a great comment. 99% of the time the tech doesn't matter to a business's success.… https://t.co/Uwic8NtUao"]
+
+Effectivement, le succès n'est presque jamais dû au choix de la bonne techno, mais bien plus souvent à la construction de la bonne équipe.

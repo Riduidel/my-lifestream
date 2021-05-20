@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WTF is JAMstack?
+:jbake-tags: lifestream,web,javascript,architecture,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549632600000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjamstack.wtf%2F&searchtags=lifestream+web+javascript+architecture+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jamstack.wtf/[WTF is JAMstack?]
+
+Très très intéressant. Je m'y intéresserai ... quand je reprendrai mon projet de lifestream extrayant les données de tous mes sites sociaux ... (par exemple tout produire à grand coup de JS extrayant les données de Firebase ...)

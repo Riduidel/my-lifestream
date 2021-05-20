@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Index DOT Css: Index Page
+:jbake-tags: css,développement,reference,web,_mois_nov.,_année_2004
+:jbake-date: 2004-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1100697963000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.blooberry.com%2Findexdot%2Fcss%2F&searchtags=css+d%C3%A9veloppement+reference+web+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.blooberry.com/indexdot/css/[Index DOT Css: Index Page]
+
+Index of all CSS selectors, their values and, most important, their support by respective browsers

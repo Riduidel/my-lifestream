@@ -1,0 +1,45 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Allons plus loin en Rust
+:jbake-tags: rrss2imap,rust,_mois_août,_année_2018
+:jbake-date: 2018-08-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/08/08/allons-plus-loin-en-rust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/08/08/allons-plus-loin-en-rust/
+:jbake-style: wordpress
+
+++++
+<p>
+J'avais écrit quelques réponses Codingame en Rust, histoire de voir un peu de quoi il retournait, mais je n'étais pas allé bien plus loin.
+</p>
+<p>
+Et si Codingame permet de s'interroger sur l'algorithmique et les notions de bas niveau comme l'ownership, ça n'est néanmoins pas un outil "correct" pour tester un un écosystème.
+</p>
+<p>
+Il y a bien longtemps, je faisais du Ruby. Et pour découvrir le Ruby, je m'étais lancé dans quelques projets pas forcément très complexes, mais qui me permettaient de faire du web, et de tester en particulier Ruby on Rails.
+</p>
+<p>
+Donc, je vais faire la même chose avec Rust : me lancer dans quelques développements concrets.
+</p>
+<p>
+En l’occurrence, je suis un peu titillé par <a href="https://github.com/rcarmo/rss2imap">rss2imap</a>. En effet, le concept est bon (ou plus exactement très adapté à ma consommation de flux RSS). Mais l'implémentation souffre de quelques défauts : long, pas forcément hyper ergonomique. J'ai donc décidé de m’attaquer à une réécriture, pour l'instant privée, que je vais appeler audacieusement rrss2imap.
+</p>
+<p>
+Et donc, je vais devoir
+<br/>
+<ul>
+<br/>
+<li>Lire des options en ligne de commande</li>
+<br/>
+<li>Charger des fichiers RSS</li>
+<br/>
+<li>Les transformer en fichiers HTML lisibles dans Thunderbird</li>
+<br/>
+<li>Et envoyer tout ça en IMAP.</li>
+<br/>
+</ul>
+<br/>
+On verra si c'est facile ou pas ...
+</p>
+++++

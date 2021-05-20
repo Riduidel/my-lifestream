@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Server-side I/O: Node vs. PHP vs. Java vs. Go | Toptal
+:jbake-tags: programming,benchmark,java,go,php,node.js,_mois_déc.,_année_2017
+:jbake-date: 2017-12-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1513179225000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.toptal.com%2Fback-end%2Fserver-side-io-performance-node-php-java-go&searchtags=programming+benchmark+java+go+php+node.js+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.toptal.com/back-end/server-side-io-performance-node-php-java-go[Server-side I/O: Node vs. PHP vs. Java vs. Go | Toptal]
+
+Intéressante comparaison. Bon, Java est deuxième ... sans utiliser vert.x ou RxJava ou d'autres outils mettant l'asynchrone au coeur du serveur ...

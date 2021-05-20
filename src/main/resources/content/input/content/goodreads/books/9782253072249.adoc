@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Cité des permutants
+:jbake-tags:  extra-terrestres, favorites, humanité, ia, rayon-imaginaire,_année_2008,_mois_nov.,_note_5,hard-science,read
+:jbake-date: 2008-11-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253072249.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/50922309
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+In the not-too-distant future, technology has given birth to immortality. The human mind can be scanned and downloaded into a virtual reality program to become a perfect electronic "Copy", aware of itself. The bad news is, someone has blocked the bail-out option that allows a Copy, by law, to return to flash-and-blood life. From the author of Quarantine.
+</div>
+++++
+
+
+## Authors
+* link:../authors/11213.html[Bernard Sigaud]
+* link:../authors/32699.html[Greg Egan]
+
+## Series
+* link:../series/Subjective_Cosmology.html[Subjective Cosmology]
+
+## Review
+
+++++
+J'ai lu ce bouquin il y a bien longtemps.<br/>Tellement longtemps, en fait, que je n'ai plus le texte de ce que j'avais pu en penser à l'époque.<br/>Pas très grave, en fait, car mon opinion a beaucoup évolué sur le sujet.<br/>Revenons en au début ...<br/>Ce roman raconte, dans un futur pas trop lointain, comment un homme convainc des Copies (des systèmes experts modélisant parfaitement des individus dont on a scanné le cerveau à haute résolution) de se copier dans un refuge qui ne pourra jamais être sujet aux décisions politiques des humains "incarnés" (autrement dit vivant). Et bien sûr, Egan nous sort le grand jeu en utilisant une solution à base de déformation de la flèche du temps pour créer des espaces-temps auto-générés à partir de permutations de notre propre espace-temps. Ah oui, tout de suite, dès que j'essaye d'expliquer un tant soi peu, ça part en vrille.<br/>Bon, si j'ai bien compris, il postule dans ce roman qu'un univers parallèle cohérent intérieurement peut se générer à partir de permutations d'instantanés de notre propre espace-temps. Bon, c'est pas plus clair, mais vous devrez vous en contenter.<br/>Bon, attention aux spoilers à partir d'ici.<br/>En vérité, lors de cette lecture, j'ai pris une grosse claque en arrivant vers la dernière partie (celle qui se passe dans l'univers virtuel qui s'appelle l'Elysium), et j'ai compris que, sous couvert de l'exploration d'un monde se basant sur des automates à états finis blablabla, 40820 questionnait notre réalité.<br/>En effet, dans ce roman, il démonte l'hypothèse que notre réalité peut être analysée de plus en plus finement pour la remplacer par une hyppothèse un peu plus morphogénétique. En effet, son hypothèse (qu'il choisit d'explorer dans un univers virtuel plutôt que dans le réel), est que la réalité n'est pas découverte, mais construite. C'est-à-dire que si, à un moment donné, la majorité des gens pensent que la terre est plate, alors elle l'est effectivement, et l'univers se construira autour de cette réalité de base.<br/>Enfin, tout ça, c'est ce que je crois avoir compris de toute la partie se passant dans l'Elysium. La première partie (celle où on apprend que Durham a déja une bonne vingtaine d'existences dans des univers parallèles) m'a un peu plus laissé froid, sans doute parce qu'elle est moins vérifiable d'une part, et moins perturbante d'autre part.<br/>En même temps, je trouve que les deux aspects clés de ce roman : construction de la réalité et étalement quantique, sont également fortement utilisés dans <a class="DirectBookReference destination_Book" href="9782253072331.html">L'Énigme de l'Univers</a>, pas vous ?<br/>Il reste quand même un inconvénient assez clair aux romans d'40820, par ailleurs très connu (le défaut, pas les romans) : si la ou les théories scientifiques sont assez clairement mises en avant, c'est évidement au détriment de l'intrigue et des personnages. Et de ce point de vue, la cohérence de ce roman est assez faible : Maria, l'informaticienne du coin, arrive sans problème à résoudre un problème de vie artificielle loin d'être évident, et en profite pour construire un monde à partir de cette découverte, Durham, qui ne semble pas à être un génie total, construit dans sa réalité virtuelle une explication de phénomènes bizarres qu'il observe (sa capacité à rester temporellement cohérent alors qu'il est calculé de manière totallement incohérente), et en déduit une théorie des univers parallèles en un flash grandiose. Et pire que tout, ensemble, ils génèrent un univers complet sur la base de théories franchement pas évidentes (par exemple, pour moi, en tant qu'informaticien, les machines de Turing et de Von Neuman sont encore des concepts assez abstraits, et surtout très peu utilisables pour générer un univers auto-réplicant).<br/>Pour le dire plus brièvement : si on sait qu'40820 est un génie, on est en revanche étonné que ses personnages soient également des génies, polymathes (cf la <a href="http://fr.wikipedia.org/wiki/Polymathe">wikipedia</a>) qui plus est.<br/>Heureusement, ce roman est à mon sens "sauvé" pour moi par le fait qu'il traite de vie artificielle, qui reste pour moi un bon vieux violon d'Ingres, ce qui enf ait une lecture largement recommandée.
+++++

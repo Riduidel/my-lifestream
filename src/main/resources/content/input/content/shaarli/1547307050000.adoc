@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Updating WSL — Windows Subsystem for Linux Guide documentation
+:jbake-tags: ubuntu,windows,wsl,update,command-line,_mois_janv.,_année_2019
+:jbake-date: 2019-01-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1547307050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwsl-guide.org%2Fen%2Flatest%2Fupdate.html&searchtags=ubuntu+windows+wsl+update+command-line+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://wsl-guide.org/en/latest/update.html[Updating WSL — Windows Subsystem for Linux Guide documentation]
+
+Avec WSL, on a droit à Ubuntu 14.04 ... C'est cool. Mais c'est encore mieux quand on passe en 18.08 !

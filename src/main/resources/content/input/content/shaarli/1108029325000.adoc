@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tagsurf
+:jbake-tags: web,chat,board,folksonomie,_mois_févr.,_année_2005
+:jbake-date: 2005-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1108029325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tagsurf.com%2F&searchtags=web+chat+board+folksonomie+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tagsurf.com/[Tagsurf]
+
+Welcome to Tagsurf. Tagsurf is a new type of online message board which uses tags to help organize subjects instead of threads or channels. Join now for free and start posting tagged messages. By joining you can also sign up for various alerts based on ta

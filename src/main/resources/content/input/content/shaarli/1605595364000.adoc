@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java logging: what should you log and what not? | Snyk
+:jbake-tags: log,motivation,méthode,tutorial,article,_mois_nov.,_année_2020
+:jbake-date: 2020-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1605595364000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsnyk.io%2Fblog%2Fjava-logging-what-should-you-log-and-what-not%2F&searchtags=log+motivation+m%C3%A9thode+tutorial+article+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://snyk.io/blog/java-logging-what-should-you-log-and-what-not/[Java logging: what should you log and what not? | Snyk]
+
+Dans cet article, j'aime bien l'histoire des 5W-H (qui est l'équivalent du très journalistique QQQOCP), qui colle vraiment bien avec les notions derrière les logs.

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Poseidon's Children
+:jbake-tags: serie
+:jbake-date: 2017-08-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Poseidon_s_Children.adoc
+:jbake-source: https://www.goodreads.com/series/70560
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782811217754.html[La Terre bleue de nos souvenirs]
+* link:../books/9782811239992.html[Sous le vent d'acier]
+* link:../books/9791028105716.html[Dans le sillage de Poséidon]

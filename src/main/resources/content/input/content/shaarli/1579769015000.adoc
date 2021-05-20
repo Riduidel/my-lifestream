@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Patrick McKenzie sur Twitter : ""Monoliths versus microservices: Make it a monolith. Done. You won't have sufficient organizational complexity to justify the engineering tax of microservices until you have multiple engineering teams, and plausibly your company never gets there.""
+:jbake-tags: programming,architecture,concepts,microservices,monolithe,_mois_janv.,_année_2020
+:jbake-date: 2020-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1579769015000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpatio11%2Fstatus%2F1219998611980746753&searchtags=programming+architecture+concepts+microservices+monolithe+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/patio11/status/1219998611980746753[Patrick McKenzie sur Twitter : ""Monoliths versus microservices: Make it a monolith. Done. You won't have sufficient organizational complexity to justify the engineering tax of microservices until you have multiple engineering teams, and plausibly your company never gets there.""]
+
+Je vois des gens faire des microservices, et franchement, c'est l'enfer : il faut démultiplier la CI/CD, superviser toutes les instances, assurer la sécurité des communications, garantir la cohérence des droits. Donc oui, les monolithes, c'est l'avenir.

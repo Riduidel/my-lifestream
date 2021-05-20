@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mac GNU Privacy Guard
+:jbake-tags: software,freeware,open-source,réseau,sécurité,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1110901897000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmacgpg.sourceforge.net%2Ffr%2F&searchtags=software+freeware+open-source+r%C3%A9seau+s%C3%A9curit%C3%A9+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://macgpg.sourceforge.net/fr/[Mac GNU Privacy Guard]
+
+Mac GNU Privacy Guard (ou Mac GPG, pour les intimes) est un port de GnuPG sur Mac OS X, sous licence d'utilisation GNU GPL. Le but de ce projet est de dÃ©velopper une version de GnuPG qui soit facile Ã installer, qui puisse Ãªtre incorporÃ©e faci

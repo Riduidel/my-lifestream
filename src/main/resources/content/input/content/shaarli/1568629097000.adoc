@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jessica Joy Kerr on Twitter: "But... no deploys?? Nodes start empty. Call services by hash Nodes request code as needed and pass it around. Me: This guarantees that consistent algorithms are running on every node! Very important for distributed consensus. https://t.co/pCoOxm4Qr1" / Twitter
+:jbake-tags: conférence,notes,visual,_mois_sept.,_année_2019
+:jbake-date: 2019-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1568629097000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjessitron%2Fstatus%2F1172953930151661569&searchtags=conf%C3%A9rence+notes+visual+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jessitron/status/1172953930151661569[Jessica Joy Kerr on Twitter: "But... no deploys?? Nodes start empty. Call services by hash Nodes request code as needed and pass it around. Me: This guarantees that consistent algorithms are running on every node! Very important for distributed consensus. https://t.co/pCoOxm4Qr1" / Twitter]
+
+Si tu veux pas écrire des articles quand tu regardes une conf, tu peux aussi faire comme Jessica et annoter les slides. C'est rigolo (et c'est déjà ça)

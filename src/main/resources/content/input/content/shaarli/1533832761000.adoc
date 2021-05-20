@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Feminella ⏣ ✈️ DEN on Twitter: "Recently, I saw one of the most intriguing uses of WebAssembly (wasm) while talking to an insurance company that's in the middle of revamping itself to migrate to the cloud. I think it's a very interesting story! Thread below."
+:jbake-tags: programming,rust,web,wasm,_mois_août,_année_2018
+:jbake-date: 2018-08-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1533832761000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjxxf%2Fstatus%2F1027358517462626304&searchtags=programming+rust+web+wasm+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jxxf/status/1027358517462626304[John Feminella ⏣ ✈️ DEN on Twitter: "Recently, I saw one of the most intriguing uses of WebAssembly (wasm) while talking to an insurance company that's in the middle of revamping itself to migrate to the cloud. I think it's a very interesting story! Thread below."]
+
+Rust, c'est cool. Par contre, et même si c'est génial, je pense que la même chose aurait pu être faite en Javascript. A mon avis, le seul intérêt, c'est le côté compilé du truc ...

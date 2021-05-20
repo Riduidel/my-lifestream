@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Icon packs for Java applications
+:jbake-tags: java,programming,gui,swing,javafx,icon,_mois_avr.,_année_2017
+:jbake-date: 2017-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1492886085000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faalmiray.github.io%2Fikonli%2F&searchtags=java+programming+gui+swing+javafx+icon+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://aalmiray.github.io/ikonli/[Icon packs for Java applications]
+
+Oh mais quelle bonne nouvelle ! Des packs d'icônes pour Swing et JavaFX ...

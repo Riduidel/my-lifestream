@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: William Gibson
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/9226.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1373826214p5/9226.jpg
+:jbake-source: https://www.goodreads.com/author/show/9226
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]
+* link:../books/9782253072317.html[La Machine à différences]

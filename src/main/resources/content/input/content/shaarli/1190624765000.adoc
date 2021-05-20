@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Name that Color - Chirag Mehta : chir.ag
+:jbake-tags: couleur,design,freeware,fun,online,search,tool,visualisation,webdesign,_mois_sept.,_année_2007
+:jbake-date: 2007-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1190624765000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchir.ag%2Fphernalia%2Fname-that-color%2F&searchtags=couleur+design+freeware+fun+online+search+tool+visualisation+webdesign+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://chir.ag/phernalia/name-that-color/[Name that Color - Chirag Mehta : chir.ag]
+
+Un nommeur de couleur : à partir de n'importe quelle couleur choisie dans un sélecteur de couleur, cette page magique choisit la couleur nommée la plus proche, et affiche le nom et la couleur.

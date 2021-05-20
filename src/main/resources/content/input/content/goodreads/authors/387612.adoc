@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paul Kearney
+:jbake-tags: author
+:jbake-date: 2011-07-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/387612.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1598986570p5/387612.jpg
+:jbake-source: https://www.goodreads.com/author/show/387612
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780441009039.html[Hawkwood's Voyage (The Monarchies of God, #1)]

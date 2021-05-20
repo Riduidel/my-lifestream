@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Juli Zeh
+:jbake-tags: author
+:jbake-date: 2018-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/293199.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1593464860p5/293199.jpg
+:jbake-source: https://www.goodreads.com/author/show/293199
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782330061159.html[Corpus delicti : Un procès]

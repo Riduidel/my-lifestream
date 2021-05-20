@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tagir Valeev sur Twitter : "I've found a perfect way to mark unused parameters in #Java. Unfortunately, this is not compilable :( Could anybody file a JEP, please? Btw how about other languages? Can 💩 be used as an identifier anywhere? https://t.co/MhLmko92Ae" / Twitter
+:jbake-tags: unicode,emoji,code,hack,humour,documentation,_mois_sept.,_année_2020
+:jbake-date: 2020-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1599922722000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftagir_valeev%2Fstatus%2F1304449179352207360&searchtags=unicode+emoji+code+hack+humour+documentation+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/tagir_valeev/status/1304449179352207360[Tagir Valeev sur Twitter : "I've found a perfect way to mark unused parameters in #Java. Unfortunately, this is not compilable :( Could anybody file a JEP, please? Btw how about other languages? Can 💩 be used as an identifier anywhere? https://t.co/MhLmko92Ae" / Twitter]
+
+C'est assez marrant comme idée, mais je pense que je prendrais personnellement un autre émoji (parce que malgré tout, "pile of poo" est connoté).

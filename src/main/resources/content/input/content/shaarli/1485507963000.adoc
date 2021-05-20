@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L’open source contre la régulation ? | InternetActu.net
+:jbake-tags: open-source,droit,régulation,_mois_janv.,_année_2017
+:jbake-date: 2017-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1485507963000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.internetactu.net%2Fa-lire-ailleurs%2Flopen-source-contre-la-regulation%2F&searchtags=open-source+droit+r%C3%A9gulation+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.internetactu.net/a-lire-ailleurs/lopen-source-contre-la-regulation/[L’open source contre la régulation ? | InternetActu.net]
+
+L'open-source est quand même une notion révolutionnaire, dans le monde de la propriété \[intellectuelle\].

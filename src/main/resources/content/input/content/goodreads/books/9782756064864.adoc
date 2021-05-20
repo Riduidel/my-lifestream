@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Temps mort (Sillage, #19)
+:jbake-tags:  extra-terrestres, space-opera, temps,_année_2016,_mois_nov.,_note_4,rayon-bd,read
+:jbake-date: 2016-11-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756064864.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478502758l/32886587._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478502758l/32886587._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/32886587
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Sillage est confronté à sa première décision de convoi indépendant : doit-il accueillir en son sein deux représentants d'une espèce pourchassée par les troupes de choc de la Constituante et présentée comme l'une des pires menaces de tout l'univers ? Cette espèce serait capable de maîtriser le temps. Voilà un pouvoir dont Nävis et Bobo, qui traquent le voleur de l'ornosphère, auraient bien besoin.
+</div>
+++++
+
+
+## Authors
+* link:../authors/400521.html[Jean-David Morvan]
+* link:../authors/400524.html[Philippe Buchet]
+
+## Series
+* link:../series/Sillage.html[Sillage]
+
+## Review
+
+++++
+Intéressante exploration du voyage temporel, et de ses conséquences politiques. Encore une preuve que Sillage n'est pas qu'une série d'action.
+++++

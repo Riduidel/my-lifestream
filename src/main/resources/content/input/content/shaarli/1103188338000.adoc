@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WhoLockMe Explorer Extension v1.04 beta (NT-Win2K-XP) download page
+:jbake-tags: freeware,software,system,windows,file,_mois_déc.,_année_2004
+:jbake-date: 2004-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1103188338000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dr-hoiby.com%2FWhoLockMe%2F&searchtags=freeware+software+system+windows+file+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.dr-hoiby.com/WhoLockMe/[WhoLockMe Explorer Extension v1.04 beta (NT-Win2K-XP) download page]
+
+WhoLockMe is a little extension for your Microsoft Explorer. It permeets you to list all the process locking your selected file.

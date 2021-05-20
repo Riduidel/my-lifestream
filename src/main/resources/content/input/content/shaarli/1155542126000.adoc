@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LE CERVEAU À TOUS LES NIVEAUX!
+:jbake-tags: science,image,biologie,_mois_août,_année_2006
+:jbake-date: 2006-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1155542126000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lecerveau.mcgill.ca%2Fflash%2Findex_a.html&searchtags=science+image+biologie+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.lecerveau.mcgill.ca/flash/index_a.html[LE CERVEAU À TOUS LES NIVEAUX!]
+
+Un site très didactique sur le cerveau

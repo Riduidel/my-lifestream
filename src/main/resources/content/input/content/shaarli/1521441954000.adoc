@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pi-hole®: A black hole for Internet advertisements – curl -sSL https://install.pi-hole.net | bash
+:jbake-tags: server,raspberrypi,adblock,_mois_mars,_année_2018
+:jbake-date: 2018-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1521441954000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpi-hole.net%2F&searchtags=server+raspberrypi+adblock+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://pi-hole.net/[Pi-hole®: A black hole for Internet advertisements – curl -sSL https://install.pi-hole.net | bash]
+
+Génial ! Un proxy bloquant les pubs activé par le DHCP. Ca pourrait vraiment beaucoup aider à la maison ..

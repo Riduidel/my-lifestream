@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Utiliser Eclipse derrière un proxy à la con
+:jbake-tags: eclipse,plugin,subversion,_mois_nov.,_année_2016
+:jbake-date: 2016-11-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/11/24/utiliser-eclipse-derriere-un-proxy-a-la-con.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/11/24/utiliser-eclipse-derriere-un-proxy-a-la-con/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous connaissez les <a href="http://padawan.info/fr/2007/09/le-proxy-a-la-c.html">proxy à la con</a> ? C'est une spécialité des grandes boîtes françaises qui ont une vision assez ... restrictive ... de ce qu'est un "bon" usage d'internet.
+</p>
+<p>
+Par exemple, j'ai dû il y a peu installer un Eclipse pour me connecter à un serveur Subversion chez un client qui n'autorise pas l'accès à bintray. Pas grave ? Ca dépend.
+</p>
+<p>
+Par habitude, j'utilise <a href="https://github.com/subclipse/subclipse/wiki">Subclipse</a>. Or, récemment, ils ont changé leur hébergement pour passer .. chez bintray. Du coup, le plugin n'est plus téléchargeable. Heureusement, eclipse est modulaire, et j'ai pu installer Subversive "facilement" : pour installer <a href="https://www.eclipse.org/subversive/">Subversive</a>, on installe d'abord le plugin, qui télécharge indépendamment les connecteurs sur un site qui a changé. Ca se passe bien sans proxy à la con. En revanche, dans le cas contraire, il faut télécharger l'update site contenant les connecteurs. Et c'est tout aussi merdique (même si, en fait, Subversive semble mieux que Subclipse - au merge dialog près).
+</p>
+++++

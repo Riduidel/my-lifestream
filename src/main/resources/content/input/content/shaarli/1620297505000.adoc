@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: flamegraph-rs/flamegraph: Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
+:jbake-tags: rust,performance,profiler,visualisation,cargo,_mois_mai,_année_2021
+:jbake-date: 2021-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1620297505000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fflamegraph-rs%2Fflamegraph&searchtags=rust+performance+profiler+visualisation+cargo+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/flamegraph-rs/flamegraph[flamegraph-rs/flamegraph: Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3]
+
+Il me semble qu'il serait utile que je comprenne comment ça marche, et si ça peut marcher sous Windows, ce qui n'est parfois pas évident.

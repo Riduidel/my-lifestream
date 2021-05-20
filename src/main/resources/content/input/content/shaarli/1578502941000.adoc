@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Algorithms interviews: theory vs. practice
+:jbake-tags: informatique,emploi,entretien,question,_mois_janv.,_année_2020
+:jbake-date: 2020-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1578502941000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanluu.com%2Falgorithms-interviews%2F&searchtags=informatique+emploi+entretien+question+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://danluu.com/algorithms-interviews/[Algorithms interviews: theory vs. practice]
+
+Un article très intéressant sur les questions d'algorithmie dans les entretiens d'embauche. Ca me fait douter (de façon positive) de deux ou trois choses

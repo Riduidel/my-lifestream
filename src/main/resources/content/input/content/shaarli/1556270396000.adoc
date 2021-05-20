@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust cheat sheet
+:jbake-tags: rust,programming,cheatsheet,_mois_avr.,_année_2019
+:jbake-date: 2019-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1556270396000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fupsuper.github.io%2Frust-cheatsheet%2F&searchtags=rust+programming+cheatsheet+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://upsuper.github.io/rust-cheatsheet/[Rust cheat sheet]
+
+Elle est bien cette cheat sheet, même si elle est un peu ... compacte

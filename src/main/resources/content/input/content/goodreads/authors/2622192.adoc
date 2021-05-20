@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Warren Fahy
+:jbake-tags: author
+:jbake-date: 2010-10-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2622192.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1587412748p5/2622192.jpg
+:jbake-source: https://www.goodreads.com/author/show/2622192
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290027929.html[Fragment]

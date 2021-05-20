@@ -1,0 +1,43 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Michael Moorcock
+:jbake-tags: author
+:jbake-date: 2011-07-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/16939.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1424079041p5/16939.jpg
+:jbake-source: https://www.goodreads.com/author/show/16939
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780441166107.html[The Dragon in the Sword (Erekosë, #3)]
+* link:../books/9780684861418.html[Mother London]
+* link:../books/9782070415823.html[Gloriana ou la Reine inassouvie]
+* link:../books/9782207251768.html[Les Danseurs de la fin des temps]
+* link:../books/9782266000222.html[Elric à la fin des temps]
+* link:../books/9782266000239.html[La Revanche de la rose (Le cycle d'Elric, #6)]
+* link:../books/9782266027113.html[Le Navigateur sur les mers du destin (Cycle d'Elric, #2)]
+* link:../books/9782266028370.html[Le cavalier chaos]
+* link:../books/9782266028967.html[L'Épée de l'aurore]
+* link:../books/9782266029315.html[La Sorcière dormante]
+* link:../books/9782266029322.html[L'Épée noire]
+* link:../books/9782266029339.html[Stormbringer]
+* link:../books/9782266029346.html[Elric le nécromancien]
+* link:../books/9782266030212.html[Le Secret des runes (La Légende de Hawkmoon #4)]
+* link:../books/9782266030366.html[Le Comte Airain (La Légende de Hawkmoon #5)]
+* link:../books/9782266030953.html[La Quête de Tanelorn (La Légende de Hawkmoon #7)]
+* link:../books/9782266030960.html[Le Champion de Garathorm (La Légende de Hawkmoon #6)]
+* link:../books/9782266033077.html[Elric des Dragons]
+* link:../books/9782266037648.html[La Forteresse de la perle]
+* link:../books/9782266039697.html[La Quête D'erekosë, Tome 2: Les Guerriers D'argent]
+* link:../books/9782266039703.html[La Quête D'erekosë, Tome 1: Le Champion éternel]
+* link:../books/9782266047678.html[La Lance et le Taureau (Corum #4)]
+* link:../books/9782266047708.html[Le Chevalier des épées (Corum #1)]
+* link:../books/9782266047739.html[Le Chêne et le Bélier (Corum #5)]
+* link:../books/9782266071253.html[Contes du Loup Blanc : Par-delà le multivers]
+* link:../books/9782266119856.html[Le Dieu fou (La Légende de Hawkmoon #2)]
+* link:../books/9782266137447.html[Le Chevalier des épées (Corum #1)]
+* link:../books/9782266141703.html[La Reine des épées (Corum #2)]
+* link:../books/9782266141871.html[Le Roi des épées (Corum #3)]
+* link:../books/9782266151542.html[Le Glaive et l'Étalon (Corum #6)]
+* link:../books/9782905158765.html[Le Chien De Guerre Et La Douleur Du Monde Von Bek]

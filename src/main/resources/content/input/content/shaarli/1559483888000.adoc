@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dave Dustin on Twitter: "Want a cool trick to stop people using SELECT * ? Add an illegal computed column to the end of the table definition.… https://t.co/iTAIR9SJlB"
+:jbake-tags: programming,sql,hack,_mois_juin,_année_2019
+:jbake-date: 2019-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1559483888000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvenzann%2Fstatus%2F1133168053867278341&searchtags=programming+sql+hack+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/venzann/status/1133168053867278341[Dave Dustin on Twitter: "Want a cool trick to stop people using SELECT * ? Add an illegal computed column to the end of the table definition.… https://t.co/iTAIR9SJlB"]
+
+C'est chouette cette astuce qui permet de garantir le bon usage du langage

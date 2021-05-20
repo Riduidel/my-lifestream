@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La fondation Eclipse déménage en Europe - LinuxFr.org
+:jbake-tags: eclipse,politique,open-source,europe,_mois_mai,_année_2020
+:jbake-date: 2020-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1589272510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flinuxfr.org%2Fnews%2Fla-fondation-eclipse-demenage-en-europe&searchtags=eclipse+politique+open-source+europe+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://linuxfr.org/news/la-fondation-eclipse-demenage-en-europe[La fondation Eclipse déménage en Europe - LinuxFr.org]
+
+Le déménagement en Europe de la fondation Eclipse est loin d'être un acte anodin, essentiellement parce que celle-ci est un lien fort entre les contributeurs et les entreprises.

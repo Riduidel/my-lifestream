@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mac OS X Hacking Tools
+:jbake-tags: macosx,documentation,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1110534914000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.kernelthread.com%2Fmac%2Fosx%2Ftools.html&searchtags=macosx+documentation+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.kernelthread.com/mac/osx/tools.html[Mac OS X Hacking Tools]
+
+This page is a compendium of some programs you might come across while tinkering with Mac OS X. Documentation for most of these tools exists, therefore my aim is not to reproduce documentation, but simply to maintain a cache of relevant information.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Version Badge for npm, RubyGems, PyPI, Bower and other packages
+:jbake-tags: github,badge,version,web,_mois_juin,_année_2020
+:jbake-date: 2020-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1592681686000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbadge.fury.io%2Ffor%2Fgh%2FRiduidel%2Fagile-architecture-documentation-system&searchtags=github+badge+version+web+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://badge.fury.io/for/gh/Riduidel/agile-architecture-documentation-system[Version Badge for npm, RubyGems, PyPI, Bower and other packages]
+
+Ce service marche mieux pour récupérer la dernière release de mon projet

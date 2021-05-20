@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.
+:jbake-tags: programming,algorithme,_mois_janv.,_année_2017
+:jbake-date: 2017-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1483342139000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftayllan%2Fawesome-algorithms&searchtags=programming+algorithme+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/tayllan/awesome-algorithms[tayllan/awesome-algorithms: A curated list of awesome places to learn and/or practice algorithms.]
+
+De quoi muscler le cerveau ...

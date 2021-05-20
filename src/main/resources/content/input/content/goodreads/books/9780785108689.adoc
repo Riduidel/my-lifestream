@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ultimate X-Men, Vol. 2: Return to Weapon X
+:jbake-tags:  surhomme,_année_2010,_mois_juil.,_note_3,rayon-bd,read
+:jbake-date: 2010-07-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780785108689.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570553869l/267794._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570553869l/267794._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/267794
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Now pawn of the mysterious weapon X program, the mutant heros' only hope lies with the one team member to evade capture: the enigmatic, unproven Wolverine! Can Logan go it alone against the shadow-ops organisation that transformed him into one of the worlds most lethal killing machines.<br /><br /><b>Collecting</b>: <i>Ultimate X-Men</i> 7-12
+</div>
+++++
+
+
+## Authors
+* link:../authors/61330.html[Adam Kubert]
+* link:../authors/12736.html[Mark Millar]
+* link:../authors/7164.html[Tom Raney]
+
+## Series
+* link:../series/Coleccionable_Ultimate.html[Coleccionable Ultimate]
+* link:../series/Ultimate_X-Men_(Collected_Editions).html[Ultimate X-Men (Collected Editions)]
+* link:../series/Ultimate_X-Men_(Single_Issues).html[Ultimate X-Men (Single Issues)]
+
+## Review
+
+++++
+Le fils du professeur Xavier, les relations tumultueuses entre Wolverine et Cyclope, une attaque du Phénix, Le Fauve en pleine love-story avec un mauvais mutant, ... et tant d'autres thèmes qui font, avec les dessinateurs variés qui s'en emparent, de ces épais volumes d'assez bons moments.
+++++

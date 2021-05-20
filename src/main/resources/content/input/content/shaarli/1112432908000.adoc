@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TTS Interactive Demo
+:jbake-tags: web,expérience,multimedia,_mois_avr.,_année_2005
+:jbake-date: 2005-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1112432908000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.research.att.com%2Fprojects%2Ftts%2F%2Fdemo.html&searchtags=web+exp%C3%A9rience+multimedia+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.research.att.com/projects/tts//demo.html[TTS Interactive Demo]
+
+

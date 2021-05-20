@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Semantic MediaWiki - ontoworld.org
+:jbake-tags: php,sémantique,wiki,wikipedia,plugin,software,freeware,_mois_juil.,_année_2006
+:jbake-date: 2006-07-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1154003951000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.ontoworld.org%2Findex.php%2FSemantic_MediaWiki&searchtags=php+s%C3%A9mantique+wiki+wikipedia+plugin+software+freeware+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://wiki.ontoworld.org/index.php/Semantic_MediaWiki[Semantic MediaWiki - ontoworld.org]
+
+Un plugin pour Mediawiki permettant l'utilisation d'informations sémantiques pour l'organisation des infos. Ca me paraît tout à fait intéressant.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Des peintures célèbres vues de très près
+:jbake-tags: art,visualisation,_mois_févr.,_année_2014
+:jbake-date: 2014-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1392882512000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fdes-peintures-celebres-vues-de-tres-pres%2F&searchtags=art+visualisation+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/des-peintures-celebres-vues-de-tres-pres/[Des peintures célèbres vues de très près]
+
+Je pourrais me perdre dans ces détails ... Je trouve d'ailleurs fascinant la précision, le détail de certains peintres classiques.

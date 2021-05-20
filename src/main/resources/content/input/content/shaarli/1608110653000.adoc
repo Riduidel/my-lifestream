@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What Can You Put in a CSS Variable? / Coder's Block
+:jbake-tags: css,programming,web,design,_mois_déc.,_année_2020
+:jbake-date: 2020-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1608110653000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcodersblock.com%2Fblog%2Fwhat-can-you-put-in-a-css-variable%2F&searchtags=css+programming+web+design+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://codersblock.com/blog/what-can-you-put-in-a-css-variable/[What Can You Put in a CSS Variable? / Coder's Block]
+
+Vraiment, les variables CSS, ça fait envie!

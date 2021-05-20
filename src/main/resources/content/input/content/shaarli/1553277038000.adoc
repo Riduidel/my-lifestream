@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cédric Champeau's blog: Goodbye, Groovy!
+:jbake-tags: programming,culture,groovy,kotlin,communauté,_mois_mars,_année_2019
+:jbake-date: 2019-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1553277038000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmelix.github.io%2Fblog%2F2019%2F03%2Fgoodbye-groovy.html&searchtags=programming+culture+groovy+kotlin+communaut%C3%A9+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://melix.github.io/blog/2019/03/goodbye-groovy.html[Cédric Champeau's blog: Goodbye, Groovy!]
+
+Cette nouvelle est assez triste. Parce que les communautés ont toujours besoin de soutien dans les entreprises.

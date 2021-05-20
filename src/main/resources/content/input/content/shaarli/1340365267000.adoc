@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mavenizer - Usage
+:jbake-tags: développement,maven,java,Dev,_mois_juin,_année_2012
+:jbake-date: 2012-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1340365267000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmavenizer.sourceforge.net%2Fusage.html&searchtags=d%C3%A9veloppement+maven+java+Dev+_mois_juin+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://mavenizer.sourceforge.net/usage.html[Mavenizer - Usage]
+
+Un petit outil pour transformer facilement des paquets de jar en dépendances maven

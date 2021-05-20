@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Southern Reach
+:jbake-tags: serie
+:jbake-date: 2018-02-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Southern_Reach.adoc
+:jbake-source: https://www.goodreads.com/series/112239
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253183785.html[Annihilation (The Southern Trilogy, #1)]

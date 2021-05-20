@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L. Sprague de Camp
+:jbake-tags: author
+:jbake-date: 2002-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3305.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1218217726p5/3305.jpg
+:jbake-source: https://www.goodreads.com/author/show/3305
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290309650.html[Conan L'aventurier]

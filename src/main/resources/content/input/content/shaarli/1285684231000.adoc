@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Numpty Physics
+:jbake-tags: jeu,open-source,physique,windows,linux,enfants,@totest,_mois_sept.,_année_2010
+:jbake-date: 2010-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1285684231000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnumptyphysics.garage.maemo.org%2F&searchtags=jeu+open-source+physique+windows+linux+enfants+%40totest+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://numptyphysics.garage.maemo.org/[Numpty Physics]
+
+Une version gratuite du formidable Crayon Physics Deluxe. Va falloir que je regarde un peu les niveaux qui existent, et comment ça marche, avant de laisser les enfants le tester ...

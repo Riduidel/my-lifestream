@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Forum Automobile JapanCar - [FAQ Général] Toutes les FAQ General
+:jbake-tags: voiture,documentation,_mois_janv.,_année_2006
+:jbake-date: 2006-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1138624547000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jpcar.net%2Fforum%2Fviewtopic.php%3Ft%3D10926&searchtags=voiture+documentation+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.jpcar.net/forum/viewtopic.php?t=10926[Forum Automobile JapanCar - [FAQ Général] Toutes les FAQ General]
+
+Une très grosse faq de mécanique et d'automobile

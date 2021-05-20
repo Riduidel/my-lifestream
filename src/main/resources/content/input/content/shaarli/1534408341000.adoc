@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A FizzBuzzy Tour of Traits in Rust | Josh Mcguigan - The things I write
+:jbake-tags: rust,programming,interface,trait,tutorial,_mois_août,_année_2018
+:jbake-date: 2018-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1534408341000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.joshmcguigan.com%2Fblog%2Ffizzbuzz-tour-of-traits-rust%2F&searchtags=rust+programming+interface+trait+tutorial+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.joshmcguigan.com/blog/fizzbuzz-tour-of-traits-rust/[A FizzBuzzy Tour of Traits in Rust | Josh Mcguigan - The things I write]
+
+A travers l'exemple ridiculement simple de FizzBuzz, cet article nous emmène dans un chouette voyage à travers les traits Rust. C'est vraiment intéressant (et j'ai appris un bon paquet de trucs)

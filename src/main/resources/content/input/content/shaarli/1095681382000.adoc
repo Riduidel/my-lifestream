@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: X-Deep/32 X-Server - Interoperability Solutions
+:jbake-tags: client,freeware,software,unix,windows,_mois_sept.,_année_2004
+:jbake-date: 2004-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1095681382000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pexus.com%2F&searchtags=client+freeware+software+unix+windows+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.pexus.com/[X-Deep/32 X-Server - Interoperability Solutions]
+
+Welcome to the official site of X-Deep/32 X-Server. The binaries for the latest release of X-Deep/32 Version 4.6.5 is available as a freeware. The functionality of this version is similar to the last release of the software from Pexus Systems, Inc. Pe

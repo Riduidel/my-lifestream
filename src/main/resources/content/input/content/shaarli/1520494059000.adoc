@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fork Awesome, a fork of the iconic font and CSS toolkit
+:jbake-tags: web,icon,open-source,_mois_mars,_année_2018
+:jbake-date: 2018-03-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1520494059000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fforkawesome.github.io%2FFork-Awesome%2F&searchtags=web+icon+open-source+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://forkawesome.github.io/Fork-Awesome/[Fork Awesome, a fork of the iconic font and CSS toolkit]
+
+Cette extension de fontawesome est vraiment chouette !

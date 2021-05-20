@@ -1,0 +1,24 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Soda
+:jbake-tags: serie
+:jbake-date: 2011-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Soda.adoc
+:jbake-source: https://www.goodreads.com/series/53627
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782800115153.html[Un ange trépasse (Soda, #1)]
+* link:../books/9782800115399.html[Lettres à Satan (Soda, #2)]
+* link:../books/9782800118192.html[Tu ne buteras point (Soda, #3)]
+* link:../books/9782800119489.html[Dieu est mort ce soir (Soda, #4)]
+* link:../books/9782800120591.html[Fureur chez les saints (Soda, #5)]
+* link:../books/9782800121369.html[Confessions express (Soda, #6)]
+* link:../books/9782800122304.html[Lève-toi et meurs (Soda, #7)]
+* link:../books/9782800123486.html[Tuez en paix (Soda, #8)]
+* link:../books/9782800124711.html[Et délivre-nous du mal (Soda, #9)]
+* link:../books/9782800126616.html[Dieu seul le sait (Soda, #10)]
+* link:../books/9782800128542.html[Prières et balistique (Soda, #11)]
+* link:../books/9782800132686.html[Code apocalypse (Soda, #12)]
+* link:../books/9782800153254.html[Résurrection (Soda, #13)]

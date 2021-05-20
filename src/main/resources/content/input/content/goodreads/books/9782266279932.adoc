@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Mythologie Viking
+:jbake-tags:  famille, fantasy, rayon-imaginaire, voyage,_année_2020,_mois_févr.,_note_3,dieu,read
+:jbake-date: 2020-02-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266279932.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525172724l/40015198._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525172724l/40015198._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/40015198
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+La légende raconte qu'il existerait neuf mondes, reliés par Yggdrasil, le frêne puissant et parfait. C'est là le théâtre des aventures d'Odin, le plus grand et ancien dieu, Père de tout ; de son fils aîné Thor, fort et tumultueux, armé de Mjollnir, son légendaire marteau ; et de Loki, séduisant, rusé et manipulateur inégalable. Dieux trop humains, parfois sages, souvent impétueux, quelquefois tricheurs, ils guerroient, se défient et se trahissent. Jusqu'à Ragnarok, la fin de toutes choses. <br /><br />Voici leur histoire, rapportée par Neil Gaiman, le plus grand des conteurs.
+</div>
+++++
+
+
+## Authors
+* link:../authors/1221698.html[Neil Gaiman]
+* link:../authors/94314.html[Patrick Marcel]
+
+
+
+## Review
+
+++++
+Un livre très chouette, quoi qu'assez court, reprenant l'essentiel de la mythologie nordique.<br/>Certaines scènes sont vraiment comiques, mais la plupart sont terriblement tristes. Qui plus est, Neil Gaiman écrit fort bien (mais ça, on le savait depuis longtemps). Bref, c'est bien écrit, distrayant, mais peut-être un poil  décousu.
+++++

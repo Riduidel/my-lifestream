@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Radioactivité (Carmen Mc Callum #14)
+:jbake-tags:  afrique, combat, cyberpunk, humanité, ia, immortalité, voyage,_année_2015,_mois_avr.,_note_3,rayon-bd,read
+:jbake-date: 2015-04-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756062044.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429529243l/25393963._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1429529243l/25393963._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/25393963
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Bugg, l'intelligence émancipée née de la fusion d'un hacker et d'une I.A., confie une nouvelle mission à haut risque à Carmen : partir à la recherche des derniers êtres génétiquement modifiés qui ont trouvé refuge à Bamako, dans une zone hautement radioactive. En l'acceptant, Carmen va, sans le savoir, participer à un évènement majeur qui changera à tout jamais la face du monde.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3026920.html[Emem]
+* link:../authors/13844581.html[Florence Calvez]
+* link:../authors/503981.html[Fred Duval]
+
+## Series
+* link:../series/Carmen_Mc_Callum.html[Carmen Mc Callum]
+
+## Review
+
+++++
+Pas mal, ce tome qui envoie Carmen en Afrique.<br/>J'en retiens notament l'IA qui veut mourir, et ces chimères génétiques qui mélangent plus ou moins heureusement l'humain et l'animal.<br/>Pour le reste, ma foi, la dénonciation du nucléaire continue alors que, de nos jours, je serais plus tenté de dénoncer le monde pétrolier ou les innombrables formes d'intégrisme.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Interviews: Stack Overflow Co-Founder Jeff Atwood Answers Your Questions - Slashdot
+:jbake-tags: web,programming,stackoverflow,_mois_déc.,_année_2015
+:jbake-date: 2015-12-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1449043582000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fslashdot.org%2Fstory%2F303157&searchtags=web+programming+stackoverflow+_mois_d%C3%A9c.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://slashdot.org/story/303157[Interviews: Stack Overflow Co-Founder Jeff Atwood Answers Your Questions - Slashdot]
+
+Chouette interview de Jeff Atwood sur Slashdot

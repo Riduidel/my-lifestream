@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moisés Macero sur Twitter : "In my opinion, Software Architecture is mainly about: 1. Drawing boxes and arrows 2. Talking with people 3. Facilitating and participating in design sessions 4. Splitting changes into realistic chunks of work 5. Encouraging others to participate in SW architecture 1/ 👇"
+:jbake-tags: architecture,software,citation,conférence,_mois_janv.,_année_2020
+:jbake-date: 2020-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1579593657000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmoises_macero%2Fstatus%2F1219509760375980033&searchtags=architecture+software+citation+conf%C3%A9rence+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/moises_macero/status/1219509760375980033[Moisés Macero sur Twitter : "In my opinion, Software Architecture is mainly about: 1. Drawing boxes and arrows 2. Talking with people 3. Facilitating and participating in design sessions 4. Splitting changes into realistic chunks of work 5. Encouraging others to participate in SW architecture 1/ 👇"]
+
+C'est une belle vision du \*métier\* d'architecte.

@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Berserk, tome 02
+:jbake-tags:  combat, démons, fantasy, rayon-emprunt,_année_2011,_mois_nov.,_note_2,rayon-bd,read
+:jbake-date: 2011-11-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782723448147.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367443572l/1940367._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367443572l/1940367._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1940367
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Guts, le guerrier noir, promène son imposante silhouette de routes en villages. Sur son passage, les cadavres s'amoncellent et il laisse derrière lui des torrents de sang. Le corps vêtu de noir, il porte sur son dos une épée aussi haute qu'un homme. Sur son cou, une marque mystérieuse le condamne à être poursuivi jour et nuit par des démons. Puck, l'elfe facétieux, croise un jour le chemin de cette machine à tuer. Quelles horreurs a-t-il pu connaître pour être animé d'une telle soif de vengeance ? Alors que le monde sombre inextricablement dans le chaos, Guts règle ses comptes avec les forces démoniaques qui resserrent leur emprise sur la destinée des hommes. Une époque s'achève Au fil des années, « Berserk » est devenu au Japon un classique de l'heroic fantasy, une référence pour les amoureux de Tolkien et de jeux de rôles. En France, la série a déjà ses fans, qui voient leur attente récompensée : la série est publiée en sens de lecture et format original, et les 7 premiers volumes sont prévus pour paraître mensuellement. L'un des mangas les plus attendus de l'année !
+</div>
+++++
+
+
+## Authors
+* link:../authors/145435.html[Kentaro Miura]
+
+## Series
+* link:../series/___Berserk.html[ベルセルク / Berserk]
+
+## Review
+
+++++
+Oulala, que de violence !<br/>Ici, Guts combat un baron qui est possédé par un démon, et quelques soldats hors du commun par leurs dimensions.<br/>Heureusement, avec son épée digne de Stormbringer, il les découpe tous plus ou moins en tranche.<br/>Bref, c'est ridicule, c'est hyper-violent, c'est grotesquement surfait, mais je trouve ce truc très distrayant.
+++++

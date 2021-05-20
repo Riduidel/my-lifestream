@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Expérience Terminale
+:jbake-tags:  hard-science, humanité, ia, rayon-imaginaire,_année_1998,_mois_janv.,_note_2,broc,read
+:jbake-date: 1998-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290047033.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543667678l/2110651._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1543667678l/2110651._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2110651
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+To test his theories of immortality and life after death, Dr. Peter Hobson has created three electronic simulations of his own personality. The first has all knowledge of physical existence edited out, to simulate life after death. The second is without knowledge of aging or death, to simulate immortality. The third is unmodified, a control. Now they are free. One is a killer.
+</div>
+++++
+
+
+## Authors
+* link:../authors/25883.html[Robert J. Sawyer]
+
+
+
+## Review
+
+++++
+
+++++

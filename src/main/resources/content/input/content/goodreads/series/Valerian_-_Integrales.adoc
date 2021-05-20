@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Valérian - Intégrales
+:jbake-tags: serie
+:jbake-date: 2016-12-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Valerian_-_Integrales.adoc
+:jbake-source: https://www.goodreads.com/series/212143
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782205060164.html[Valérian et Laureline l'Intégrale, volume 1 (Valérian, #0-2 omnibus)]
+* link:../books/9782205060379.html[Valérian et Laureline l'Intégrale, volume 2 (Valérian, #3-5 omnibus)]

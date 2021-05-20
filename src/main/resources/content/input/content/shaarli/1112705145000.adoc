@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Build servlet-based enterprise Web applications
+:jbake-tags: java,langage,programming,servlet,jsp,documentation,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112705145000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.javaworld.com%2Fjw-12-1998%2Fjw-12-servlethtml.html&searchtags=java+langage+programming+servlet+jsp+documentation+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.javaworld.com/jw-12-1998/jw-12-servlethtml.html[Build servlet-based enterprise Web applications]
+
+Servlets provide tremendous appeal to Java developers whose endeavors include server-side processing. But many programmers don't exploit their power. This article examines servlet response streaming and garbage management -- two advanced techniques that w

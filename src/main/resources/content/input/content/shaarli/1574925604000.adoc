@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eyes Above The Waves: Your Debugger Sucks
+:jbake-tags: debugger,réflexion,histoire,programming,_mois_nov.,_année_2019
+:jbake-date: 2019-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1574925604000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frobert.ocallahan.org%2F2019%2F11%2Fyour-debugger-sucks.html&searchtags=debugger+r%C3%A9flexion+histoire+programming+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://robert.ocallahan.org/2019/11/your-debugger-sucks.html[Eyes Above The Waves: Your Debugger Sucks]
+
+Un article important et utile sur l'importance des bons outils (et la culture de la gratuité au coeur du développement - sans aucun doute lié à la nature de coût historique du développement).

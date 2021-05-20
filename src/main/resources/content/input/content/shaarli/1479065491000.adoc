@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Capgemini exposes millions of recruitment firm clients - Security - iTnews
+:jbake-tags: sécurité,web,_mois_nov.,_année_2016
+:jbake-date: 2016-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1479065491000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.itnews.com.au%2Fnews%2Fcapgemini-exposes-millions-of-recruitment-firm-clients-441154&searchtags=s%C3%A9curit%C3%A9+web+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.itnews.com.au/news/capgemini-exposes-millions-of-recruitment-firm-clients-441154[Capgemini exposes millions of recruitment firm clients - Security - iTnews]
+
+Des têtes vont tomber ...

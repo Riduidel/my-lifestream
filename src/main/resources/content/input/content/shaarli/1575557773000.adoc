@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dark Sky - Boulevard De La Liberte, Lille, Nord
+:jbake-tags: météo,interface,_mois_déc.,_année_2019
+:jbake-date: 2019-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1575557773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdarksky.net%2Fforecast%2F50.6328%2C3.0595%2Fca12%2Ffr&searchtags=m%C3%A9t%C3%A9o+interface+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://darksky.net/forecast/50.6328,3.0595/ca12/fr[Dark Sky - Boulevard De La Liberte, Lille, Nord]
+
+Le site est bien joli, il faut juste espérer que les prévisions soient correctes ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Exif viewer : Opanda IExif - Professional EXIF / GPS / IPTC Viewer & Editor in Windows, IE & Firefox
+:jbake-tags: exif,freeware,metadata,photographie,software,_mois_juin,_année_2008
+:jbake-date: 2008-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1213779231000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.opanda.com%2Fen%2Fiexif%2Findex.html&searchtags=exif+freeware+metadata+photographie+software+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.opanda.com/en/iexif/index.html[Exif viewer : Opanda IExif - Professional EXIF / GPS / IPTC Viewer & Editor in Windows, IE & Firefox]
+
+Une visionneuse de champs EXIF, ca risque d'être pratique pour les mettre à jour ...

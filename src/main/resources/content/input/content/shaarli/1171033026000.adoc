@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Main Page - ByzantineOS
+:jbake-tags: livecd,linux,lightweight,multimedia,_mois_févr.,_année_2007
+:jbake-date: 2007-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1171033026000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbyzgl.sourceforge.net%2Fwiki%2Findex.php%2FMain_Page&searchtags=livecd+linux+lightweight+multimedia+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://byzgl.sourceforge.net/wiki/index.php/Main_Page[Main Page - ByzantineOS]
+
+Une distribution Linux assez légère, apparement orientée multimedia et, surtout, internet

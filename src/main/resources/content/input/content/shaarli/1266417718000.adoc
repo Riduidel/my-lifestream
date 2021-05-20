@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kodu
+:jbake-tags: software,windows,programming,jeu,enfants,éducation,_mois_févr.,_année_2010
+:jbake-date: 2010-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1266417718000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffuse.microsoft.com%2Fkodu%2F&searchtags=software+windows+programming+jeu+enfants+%C3%A9ducation+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://fuse.microsoft.com/kodu/[Kodu]
+
+Un environnement de développement de jeux pour Xbox et PC à destination des plus jeunes.

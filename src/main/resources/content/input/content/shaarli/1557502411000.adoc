@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andri on Twitter: "I've said it before, but I think the biggest mistake of Docker was to default to the root user. Containers should be non-privileged by default.… https://t.co/u03Gl6kjJX"
+:jbake-tags: openshift,docker,conteneur,sécurité,configuration,_mois_mai,_année_2019
+:jbake-date: 2019-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1557502411000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fandrioid%2Fstatus%2F1126766701599526912&searchtags=openshift+docker+conteneur+s%C3%A9curit%C3%A9+configuration+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/andrioid/status/1126766701599526912[Andri on Twitter: "I've said it before, but I think the biggest mistake of Docker was to default to the root user. Containers should be non-privileged by default.… https://t.co/u03Gl6kjJX"]
+
+La vraie raison pour laquelle OpenShift est galère à utiliser, c'est ça : 90% des conteneurs Docker sont inutilisables sans reconfiguration dans OpenShift

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Florian Amrhein : NewsPortal WebNewsReader
+:jbake-tags: forum,nntp,software,usenet,web,php,freeware,_mois_févr.,_année_2006
+:jbake-date: 2006-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1138894904000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflorian-amrhein.de%2Fnewsportal&searchtags=forum+nntp+software+usenet+web+php+freeware+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://florian-amrhein.de/newsportal[Florian Amrhein : NewsPortal WebNewsReader]
+
+

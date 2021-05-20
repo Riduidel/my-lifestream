@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alice, Bliss, Robo: Take our Drug or Programming Language quiz.
+:jbake-tags: programming,drogue,_mois_juin,_année_2014
+:jbake-date: 2014-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1402038269000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.com%2Farticles%2Ftechnology%2Ffuture_tense%2F2014%2F06%2Falice_bliss_robo_take_our_drug_or_programming_language_quiz.html&searchtags=programming+drogue+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.slate.com/articles/technology/future_tense/2014/06/alice_bliss_robo_take_our_drug_or_programming_language_quiz.html[Alice, Bliss, Robo: Take our Drug or Programming Language quiz.]
+
+Excellent ce quizz !

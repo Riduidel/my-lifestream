@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arun Gupta, Miles to go ...: TOTD #125: OSGi Declarative Services in GlassFish - Accessed from a Java EE client
+:jbake-tags: java,osgi,glassfish,tutorial,_mois_mars,_année_2010
+:jbake-date: 2010-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1270050057000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblogs.sun.com%2Farungupta%2Fentry%2Ftotd_124_osgi_declarative_services&searchtags=java+osgi+glassfish+tutorial+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://blogs.sun.com/arungupta/entry/totd_124_osgi_declarative_services[Arun Gupta, Miles to go ...: TOTD #125: OSGi Declarative Services in GlassFish - Accessed from a Java EE client]
+
+Les services déclaratifs OSGi avec Glassfish

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NoBlogDefFound: instanceof operator and Visitor pattern replacement in Java 8
+:jbake-tags: java,instanceof,library,développement,programming,lambda,_mois_oct.,_année_2013
+:jbake-date: 2013-10-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1380806427000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnurkiewicz.blogspot.fr%2F2013%2F09%2Finstanceof-operator-and-visitor-pattern.html&searchtags=java+instanceof+library+d%C3%A9veloppement+programming+lambda+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://nurkiewicz.blogspot.fr/2013/09/instanceof-operator-and-visitor-pattern.html[NoBlogDefFound: instanceof operator and Visitor pattern replacement in Java 8]
+
+Très très chouette exemple de l'utilisation des lambdas pour faire de Java un langage sacrément cool. Vous allez voir, Java8 sera encore plus différent des versions précédentes que Java5 n'a pu l'être.

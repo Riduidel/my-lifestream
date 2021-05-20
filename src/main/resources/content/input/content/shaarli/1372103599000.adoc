@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Note : Tabulation vs. espace - Les liens de Kevin Merigot
+:jbake-tags: programming,editor,code,_mois_juin,_année_2013
+:jbake-date: 2013-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1372103599000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmypersonnaldata.eu%2Fshaarli%2F%3FH3EABQ&searchtags=programming+editor+code+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://mypersonnaldata.eu/shaarli/?H3EABQ[Note : Tabulation vs. espace - Les liens de Kevin Merigot]
+
+\+1, tout simplement. Je sais bien qu'il ne faut pas mener ce combat. Je sais bien que ça ne sert \*à rien\* d'argumenter dans cette guerre de tranchées. Mais ce petit kevin a raison. Les \[ESPACE\] NE DOIVENT PAS être utilisés pour indenter le code. Point final.

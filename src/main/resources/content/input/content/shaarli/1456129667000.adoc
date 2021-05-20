@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NoBlogDefFound: instanceof operator and Visitor pattern replacement in Java 8
+:jbake-tags: java,programming,tutorial,concepts,_mois_févr.,_année_2016
+:jbake-date: 2016-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1456129667000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nurkiewicz.com%2F2013%2F09%2Finstanceof-operator-and-visitor-pattern.html%3Fm%3D1&searchtags=java+programming+tutorial+concepts+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.nurkiewicz.com/2013/09/instanceof-operator-and-visitor-pattern.html?m=1[NoBlogDefFound: instanceof operator and Visitor pattern replacement in Java 8]
+
+Très chouette exemple de DSL Java8 ... même si un visiteur n'est pas que ça ...

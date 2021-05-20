@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nous sommes nombreux (Nous sommes Bob #2)
+:jbake-tags:  amour, extra-terrestres, guerre, ia, space-opera,_année_2020,_mois_juil.,_note_3,rayon-imaginaire,read
+:jbake-date: 2020-07-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253083627.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594140006l/54432335._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594140006l/54432335._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/54432335
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Bob Johansson et ses copies ont désormais quitté la Terre depuis quarante ans, à la recherche de nouvelles planètes habitables. Mais c'est la seule partie du plan initial encore viable... Une guerre globale a éliminé 99,9% de l'espèce humaine, tandis qu'un hiver nucléaire rend progressivement la Terre stérile. Un groupe d'extrémistes souhaite finir le travail et supprimer ce qui reste de l'humanité. Ailleurs, les sondes brésiliennes encore en activité continuent à vouloir écarter toute concurrence. Et les Bob ont découvert une espèce extraterrestre capable de voyager dans l'espace, qui considère toute autre forme de vie comme un repas potentiel...<br />Face à ces menaces, l'ingéniosité combinée des Bob, éparpillés dans les étoiles, risque d'être mise à rude épreuve !<br /><br />Pendant quelques centaines de pages, nous sommes tous Bob. Bifrost.<br /><br />Un nouveau cycle de science-fiction aussi amusant et divertissant que convainquant. Unification France.<br /><br />Traduit de l’anglais (États-Unis) par Sébastien Baert.
+</div>
+++++
+
+
+## Authors
+* link:../authors/12130438.html[Dennis E. Taylor]
+
+## Series
+* link:../series/Bobiverse.html[Bobiverse]
+
+## Review
+
+++++
+Dans ce deuxième tome, les bob rencontrent l'âme et la guerre, et continuent à être tous d'accord. C'est toujours distrayant et toujours un peu léger malgré les questions éthiques.<br/>Par exemple, pourquoi rendre justice par eux mêmes ? Ou pourquoi choisir la guerre avant de négocier ? Il y a là-dedans de quoi faire des romans génialement adultes, hélas ça n'est pas le cas.<br/>Mais c'est assez bien écrit (et à mon avis ça n'est pas l'objectif de l'auteur), donc ça passe. 
+++++

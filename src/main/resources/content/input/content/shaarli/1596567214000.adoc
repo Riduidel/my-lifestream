@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rust-blog/sizedness-in-rust.md at master · pretzelhammer/rust-blog · GitHub
+:jbake-tags: rust,programming,concepts,mémoire,_mois_août,_année_2020
+:jbake-date: 2020-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1596567214000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fpretzelhammer%2Frust-blog%2Fblob%2Fmaster%2Fposts%2Fsizedness-in-rust.md&searchtags=rust+programming+concepts+m%C3%A9moire+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/pretzelhammer/rust-blog/blob/master/posts/sizedness-in-rust.md[rust-blog/sizedness-in-rust.md at master · pretzelhammer/rust-blog · GitHub]
+
+Un article très chouette sur la taille des objets Rust et le trait Sized ... qui est effectivement un truc un chouïa compliqué à comprendre.

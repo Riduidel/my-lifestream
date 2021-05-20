@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz 3
+:jbake-tags:  combat, initiation, rayon-emprunt, sexe,_année_2013,_mois_août,_note_4,rayon-bd,read
+:jbake-date: 2013-08-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782845803244.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332360577l/4937583._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332360577l/4937583._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/4937583
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Nada más volver Kurono y los demás a su vida normal después de la terrible lucha contra el cebollense, Gantz empieza a reunir más y más muertos. Entre ellos, unos moteros que han cañido en una emboscada, una abuela y su nieto muertos en un accidente, Hôjô y Sadako... Por otro lado, tenemos a Nishi, que se pasa los días disfrutando del dudoso y desviado placer de matar a animales... De repente, nuestros protagonistas se quedan paralizados y son enviados de nuevo a la habitación misteriosa, donde reciben instrucciones para atrapar al tanakense...
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+Quelques scènes concupiscentes, beaucoup plus de passages sur l'impossible retour à la réalité, avant de revenir voir Gantz avec ... une nouvelle équipe.<br/>On assistera donc à nouveau à des scènes où des gens meurent, mais traitées peut-être avec plus de finesse que celle du premier tome (la tête de Keï qui vole, encore consciente, m'a un peu touché, je dois dire)
+++++

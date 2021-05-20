@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keybase launches encrypted git
+:jbake-tags: git,online,server,sécurité,_mois_oct.,_année_2017
+:jbake-date: 2017-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1507287523000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkeybase.io%2Fblog%2Fencrypted-git-for-everyone&searchtags=git+online+server+s%C3%A9curit%C3%A9+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://keybase.io/blog/encrypted-git-for-everyone[Keybase launches encrypted git]
+
+Un serveur git embarqué dans Keybase, donc totallement chiffré, ça paraît enfin le bon endroit pour cache mon fichier Keepass ...

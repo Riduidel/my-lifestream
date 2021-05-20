@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Diffly - Subversion Browsing and Check-in Tool
+:jbake-tags: freeware,macosx,software,subversion,_mois_mai,_année_2007
+:jbake-date: 2007-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1178120667000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmattmower.com%2Fdiffly%2F&searchtags=freeware+macosx+software+subversion+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://mattmower.com/diffly/[Diffly - Subversion Browsing and Check-in Tool]
+
+Un petit browser d'espace de travail client, ça sera toujours mieux que la ligne de commande ...

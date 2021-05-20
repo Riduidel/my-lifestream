@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manish sur Twitter : "@bodil the plural of mutex is "deadlock"" / Twitter
+:jbake-tags: citation,humour,thread,synchronisation,_mois_mars,_année_2021
+:jbake-date: 2021-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1615970307000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FManishEarth%2Fstatus%2F1116419801889394688&searchtags=citation+humour+thread+synchronisation+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/ManishEarth/status/1116419801889394688[Manish sur Twitter : "@bodil the plural of mutex is "deadlock"" / Twitter]
+
+De la vraie blague de geek. Mais celle-là est drôle (enfin, à mon goût, plutôt)

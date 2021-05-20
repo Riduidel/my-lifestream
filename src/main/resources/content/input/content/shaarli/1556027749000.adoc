@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: inkle/inky: An editor for ink: inkle's narrative scripting language
+:jbake-tags: programming,editor,fiction,écriture,_mois_avr.,_année_2019
+:jbake-date: 2019-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1556027749000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Finkle%2Finky&searchtags=programming+editor+fiction+%C3%A9criture+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/inkle/inky[inkle/inky: An editor for ink: inkle's narrative scripting language]
+
+Il y a donc un langage de balisage pour fiction interactive (autrement dit un équivalent d'asciidoc) ? MAIS C'EST TROP GENIAL !

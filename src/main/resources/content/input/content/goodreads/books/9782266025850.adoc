@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Silmarillon
+:jbake-tags:  fantasy,_année_2020,_mois_déc.,_note_2,rayon-imaginaire,read
+:jbake-date: 2020-12-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266025850.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368380968l/2085402._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368380968l/2085402._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2085402
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Les Premiers Jours du Monde étaient à peine passés quand Fëanor, le plus doué des elfes, créa les trois Silmarils. Ces bijoux renfermaient la Lumière des Deux Arbres de Valinor. Morgoth, le Premier Prince de la Nuit, était encore sur la Terre du Milieu, et il fut fâché d'apprendre que la Lumière allait se perpétuer. Alors il enleva les Silmarils, les fit sertir dans son diadème et garder la forteresse d'Angband. Les elfes prirent les armes pour reprendre les joyaux et ce fut la première de toutes les guerres. Longtemps, longtemps après, lors de la Guerre de l'Anneau, Elrond et Galadriel en parlaient encore. C'est J.R.R. Tolkien qui, explorant les vieilles légendes de tous les peuples, en retrouva les traces à demi effacées. Il les racontait le soir à la veillée. Il en prit note. Et c'est son fils Christopher qui aujourd'hui réunit pour nous les manuscrits où court l'écho de cette formidable épopée.
+</div>
+++++
+
+
+## Authors
+* link:../authors/656983.html[J.R.R. Tolkien]
+* link:../authors/16195.html[Pierre Alien]
+
+## Series
+* link:../series/Middle-earth_Universe.html[Middle-earth Universe]
+
+## Review
+
+++++
+Bienvenue dans la bible de Tolkien. Cet épais livre regroupe en 400 pages 6000 ans d'histoire imaginaire, depuis la création du monde par le chant divin jusqu'au départ des terres du milieu des derniers elfes. Et si la puissance évocatrice de Tolkien me transporte toujours, certains défauts me sautent maintenant aux yeux, comme le matérialisme de ces elfes millénaires, prompts à posséder comme à désirer le bien d'autrui (ce qui contraste très péjorative ment avec leur supposée sagesse) ou cet tendance de chaque âge de la terre à être moins beau, moins riche, plus porté vers le mal que le précédent.<br/>Franchement, plus que toute autre chose, ça traduit à mon avis le côté férocement réactionnaire de Tolkien, mais je peux me tromper.<br/>En tout cas ce texte aussi fastidieux qu'une bible ne mérite à mon avis une lecture que des analystes en tolkiennerie, qui verront certains motifs apparaître avec une belle constance.
+++++

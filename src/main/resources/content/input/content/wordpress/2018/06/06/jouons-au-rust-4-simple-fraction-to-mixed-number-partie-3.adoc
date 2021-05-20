@@ -1,0 +1,35 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jouons au Rust 4 – Simple fraction to mixed number … partie 3
+:jbake-tags: algorithme,codingame,mathématiques,rust,_mois_juin,_année_2018
+:jbake-date: 2018-06-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/06/jouons-au-rust-4-simple-fraction-to-mixed-number-partie-3.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/06/jouons-au-rust-4-simple-fraction-to-mixed-number-partie-3/
+:jbake-style: wordpress
+
+++++
+<p>
+Parfois, j'en ai marre.
+</p>
+<p>
+Pas marre de l'informatique, hein, mais marre de buter dans certains problèmes.
+</p>
+<p>
+Et en l'occrence, j'en ai eu marre de cette histoire de fractions pour lesquelles mon calcul de PGCD par la <a href="https://fr.wikipedia.org/wiki/Plus_grand_commun_diviseur_de_nombres_entiers#D%C3%A9composition_en_facteurs_premiers">réduction en facteurs premiers</a> n'était définitivement pas assez rapide. J'ai donc repris le bout de code en Groovy, qui utilisait une stupide recherche exhaustive. Et ça ne suffisait toujours pas : je bloquais à 87% des tests en ayant 100% des tests en succès. J'ai donc cherché sur le web les solutions, et je suis tombé sur <a href="https://www.xarg.org/puzzle/codingame/simple-fraction-to-mixed-number/">cette solution en JS</a>.
+</p>
+<p>
+J'ai été en particulier choqué par le one-liner de calcul du PGCD :
+<br/>
+<pre class="prettyprint"><span class="kwd">var</span><span class="pln"> gcd </span><span class="pun">=</span> <span class="pun">(</span><span class="pln">a</span><span class="pun">,</span><span class="pln"> b</span><span class="pun">)</span> <span class="pun">=&#62;</span><span class="pln"> b </span><span class="pun">===</span> <span class="lit">0</span> <span class="pun">?</span><span class="pln"> a </span><span class="pun">:</span><span class="pln"> gcd</span><span class="pun">(</span><span class="pln">b</span><span class="pun">,</span><span class="pln"> a </span><span class="pun">%</span><span class="pln"> b</span><span class="pun">);</span></pre>
+<br/>
+Là, franchement, j'ai bloqué. Comme je n'aime pas bloquer, un tour complémentaire m'a amené à la page Wikipedia de <a href="https://fr.wikipedia.org/wiki/Algorithme_d%27Euclide">l'algorithme d'Euclide</a>, puis sur <a href="https://z0ltan.wordpress.com/2017/05/27/a-quick-comparison-of-euclids-algorithm-in-haskell-rust-and-d/">un exemple de solution en Rust</a> ... que j'ai bravement copié/collé.
+</p>
+<p>
+Vous trouvez ça mal ? Ben pas moi, parce que j'ai encore appris des choses, en particulier en mettant mon implémentation dans <a href="https://doc.rust-lang.org/rust-by-example/mod.html">un module Rust</a> pour isoler l'appel récursif.
+</p>
+<p>
+En tout cas, le code final est raisonnablement correct, et vous pouvez y jeter un oeil sur <a href="https://github.com/Riduidel/codingame/blob/master/src/main/9%20-%20community/simple_fraction_to_mixed_number/src/simple_fraction_to_mixed_number.rs">GitHub</a>. Et maintenant, je vais peut-être tenter autre chose ... Mais je ne sais pas si je vais me lancer dans mon vrai projet ou faire encore une expérience Codingame ou autre ...
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Steel Skies: gaslight
+:jbake-tags: graphics,itunes,macosx,musique,plugin,software,visualisation,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171641427000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.steelskies.com%2Fgaslight%2F&searchtags=graphics+itunes+macosx+musique+plugin+software+visualisation+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.steelskies.com/gaslight/[Steel Skies: gaslight]
+
+Un plugin affichant des images assez jolies lors d'une lecture avec iTunes

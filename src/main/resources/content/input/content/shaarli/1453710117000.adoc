@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rich Rogers on Twitter: ""Programmers spend the first 5 years of their career mastering complexity, and the rest of their lives learning simplicity." - @buzz"
+:jbake-tags: informatique,rh,citation,carrière,_mois_janv.,_année_2016
+:jbake-date: 2016-01-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1453710117000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRichRogersHDS%2Fstatus%2F667885494643130368&searchtags=informatique+rh+citation+carri%C3%A8re+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/RichRogersHDS/status/667885494643130368[Rich Rogers on Twitter: ""Programmers spend the first 5 years of their career mastering complexity, and the rest of their lives learning simplicity." - @buzz"]
+
+Et voilà pourquoi la vision informatique à la française, avec des développeurs qui deviennent chefs de projet au bout de deux ans est complètement délirante de stupidité.

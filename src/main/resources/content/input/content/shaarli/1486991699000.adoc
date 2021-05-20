@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GnuPG, Keybase, le web of trust : à quoi ça sert ?
+:jbake-tags: sécurité,web,_mois_févr.,_année_2017
+:jbake-date: 2017-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1486991699000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sk2.org%2Ftalks%2Fsnowcamp2017-gnupg%2F%23%2F&searchtags=s%C3%A9curit%C3%A9+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.sk2.org/talks/snowcamp2017-gnupg/#/[GnuPG, Keybase, le web of trust : à quoi ça sert ?]
+
+Très chouette présentation sur la sécurité du web, et manifestement pas vu par un amateur

@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Champion de Garathorm (La Légende de Hawkmoon #6)
+:jbake-tags:  combat, corps, fantasy, voyage,_année_2020,_mois_juil.,_note_2,rayon-imaginaire,read
+:jbake-date: 2020-07-31
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266030960.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374946387l/6642568._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1374946387l/6642568._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6642568
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Hawkmoon dépérit. Hawkmoon va-t-il mourir ? Constamment il songe à la merveilleuse Yisselda qui n'est plus, aux beaux enfants qui n'ont jamais été. Une messagère vient requérir son aide : des guerriers mystérieux ont pris la ville de Garathorm. Eux mêmes ne semblent pas très bien savoir comment ils sont arrivés là. Sont-ils envoyés par les Seigneurs du Chaos qui se tiennent au bout du temps et cherchent à manipuler l'histoire parce que leur propre monde est à l'agonie ?<br />C'est assez pour Hawkmoon. Ils ont dû surgir d'un passage entre les dimensions. Il affronte l'armée inconnue, prêt à fouiller les tréfonds du multivers pour trouver un chemin vers son amour perdu.<br />Mais l'espace-temps est déchiré. D'un monde à l'autre, Hawkmoon risque de changer de corps : Yisselda ne le reconnaîtra pas. Il peut changer d'esprit : c'est lui alors qui ne la reconnaîtra pas. Il peut déboucher dans un monde où elle est vivante et où c'est lui qui est mort. Et il y a pis, cent fois pis.<br />Pour la rejoindre, une seule solution : guérir la blessure du multivers. Une tâche à la mesure du Soldat du Destin.
+</div>
+++++
+
+
+## Authors
+* link:../authors/16939.html[Michael Moorcock]
+
+## Series
+* link:../series/Hawkmoon.html[Hawkmoon]
+* link:../series/The_Chronicles_of_Castle_Brass.html[The Chronicles of Castle Brass]
+* link:../series/The_Eternal_Champion_Sequence.html[The Eternal Champion Sequence]
+
+## Review
+
+++++
+Hawkmoon se morfond dans son château après la disparition de sa femme, avant d'être emporté dans une aventure dans un autre plan, qui le verra sauver un monde du chaos dans un corps d'emprunt. C'est assez inconsistant. 
+++++

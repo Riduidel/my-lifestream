@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Relax, not being a senior engineer is totally fine | Marios Fakiolas
+:jbake-tags: france,informatique,métier,évolution,démographie,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590758714000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmariosfakiolas.com%2Fblog%2Frelax-not-being-a-senior-engineer-is-totally-fine%2F&searchtags=france+informatique+m%C3%A9tier+%C3%A9volution+d%C3%A9mographie+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://mariosfakiolas.com/blog/relax-not-being-a-senior-engineer-is-totally-fine/[Relax, not being a senior engineer is totally fine | Marios Fakiolas]
+
+L'article est bien, à une nuance près : un développeur senior américain a plutôt 20 ans d'expérience que 5 ... Pas comme en France où on est senior dès qu'on sait écrire du code tout seul.

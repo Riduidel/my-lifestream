@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iBackup
+:jbake-tags: macosx,software,freeware,shareware,system,backup,_mois_mai,_année_2006
+:jbake-date: 2006-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1149088369000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.grapefruit.ch%2FiBackup%2Findex.html&searchtags=macosx+software+freeware+shareware+system+backup+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.grapefruit.ch/iBackup/index.html[iBackup]
+
+Une application de backup, toujours utile enc as de panade

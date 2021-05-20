@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le blog perso de Sam » Installer Ruby et RoR sur Ubuntu 6.06 (Dapper)
+:jbake-tags: ubuntu,tutorial,ruby,rails,install,_mois_sept.,_année_2006
+:jbake-date: 2006-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1158760395000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog-perso.onzeweb.info%2F2006%2F07%2F18%2Finstall-ruby-ubuntu%2F&searchtags=ubuntu+tutorial+ruby+rails+install+_mois_sept.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://blog-perso.onzeweb.info/2006/07/18/install-ruby-ubuntu/[Le blog perso de Sam » Installer Ruby et RoR sur Ubuntu 6.06 (Dapper)]
+
+

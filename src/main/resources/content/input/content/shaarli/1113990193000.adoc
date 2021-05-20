@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Proggy Programming Fonts
+:jbake-tags: @toinstall,font,freeware,programming,windows,linux,macosx,_mois_avr.,_année_2005
+:jbake-date: 2005-04-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1113990193000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.proggyfonts.com%2F&searchtags=%40toinstall+font+freeware+programming+windows+linux+macosx+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.proggyfonts.com/[Proggy Programming Fonts]
+
+This site is the home of the Proggy programmer's fonts (Proggy Clean, Proggy Square, Proggy Small, and Proggy Tiny) as well as a number of contributed programming fonts (Crisp, Speedy, CodingFontTobi1, and Opti). It is also the home of two other proportio

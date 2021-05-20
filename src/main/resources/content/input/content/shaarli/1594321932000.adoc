@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kevlin Henney sur Twitter : "One of the most useful inclusions (but most common omission) on software architecture diagrams is teams. Show relationships between people and software, not just software structure. Architecture is a socio-technical construct, but we often focus on the technical in isolation." / Twitter
+:jbake-tags: organisation,entreprise,documentation,diagram,équipe,_mois_juil.,_année_2020
+:jbake-date: 2020-07-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1594321932000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FKevlinHenney%2Fstatus%2F1281226989454712832&searchtags=organisation+entreprise+documentation+diagram+%C3%A9quipe+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/KevlinHenney/status/1281226989454712832[Kevlin Henney sur Twitter : "One of the most useful inclusions (but most common omission) on software architecture diagrams is teams. Show relationships between people and software, not just software structure. Architecture is a socio-technical construct, but we often focus on the technical in isolation." / Twitter]
+
+J'aime beaucoup cette idée d'intégrer les équipes aux documentations d'architecture, à cause des impacts politiques évidents

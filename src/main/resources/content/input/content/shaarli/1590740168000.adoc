@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: News and podcasts for developers |> Changelog
+:jbake-tags: programming,informatique,écosystème,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590740168000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchangelog.com%2F&searchtags=programming+informatique+%C3%A9cosyst%C3%A8me+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://changelog.com/[News and podcasts for developers |> Changelog]
+
+Il y a dans ce qui est essentiellement un podcast (que je n'écoute pas) des infos parfois très intéressantes.

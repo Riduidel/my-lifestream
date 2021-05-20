@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Exceptional Performance of Lil' Exception
+:jbake-tags: java,programming,exception,_mois_janv.,_année_2014
+:jbake-date: 2014-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1389193703000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fshipilev.net%2Fblog%2F2014%2Fexceptional-performance%2F&searchtags=java+programming+exception+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://shipilev.net/blog/2014/exceptional-performance/[The Exceptional Performance of Lil' Exception]
+
+Un article très sérieusement documenté sur le coût des exceptions Java sur la performance de l'application. J'y ai découvert plus d'un truc un peu dingue ... Le pire étant pour moi le coût de remplissage de la stack trace.

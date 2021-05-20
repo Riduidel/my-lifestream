@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: » A Digital Remake
+:jbake-tags: design,font,graphics,programming,python,script,software,tool,_mois_mai,_année_2007
+:jbake-date: 2007-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1180021309000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.progetto-exp.org%2F%3Fpage_id%3D97&searchtags=design+font+graphics+programming+python+script+software+tool+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.progetto-exp.org/?page_id=97[» A Digital Remake]
+
+Un générateur de lettrines pour les premières lettres de texte. Il est écrit en Python, c'est sûr, mais il doit être possible de le rubyiser, non ?

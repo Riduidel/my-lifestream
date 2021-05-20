@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ThemeChanger
+:jbake-tags: freeware,software,macosx,desktop,_mois_mars,_année_2005
+:jbake-date: 2005-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1110201942000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthemechanger.sourceforge.net%2F&searchtags=freeware+software+macosx+desktop+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://themechanger.sourceforge.net/[ThemeChanger]
+
+ThemeChanger switches your theme in MacOS X. It supports the .theme and .dlta formats, and generates an aqua backup automatically. You can also restore the aqua backup via single-user mode, if an installed theme damages your system.

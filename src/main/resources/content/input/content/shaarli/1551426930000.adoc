@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Logan HAUSPIE 💻 on Twitter: "H -30 minutes pour la Google #HashCode . Les cerveaux 🧠 vont fumer pendant 2 heures."
+:jbake-tags: programming,jeu,apprentissage,communication,_mois_mars,_année_2019
+:jbake-date: 2019-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1551426930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flhauspie%2Fstatus%2F1101164462588026881&searchtags=programming+jeu+apprentissage+communication+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/lhauspie/status/1101164462588026881[Logan HAUSPIE 💻 on Twitter: "H -30 minutes pour la Google #HashCode . Les cerveaux 🧠 vont fumer pendant 2 heures."]
+
+Hier soir, les cerveaux ont fumé ... en vain. Ca mérite un article de blog.

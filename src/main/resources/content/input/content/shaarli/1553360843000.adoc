@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Allen Wirfs-Brock on Twitter: "About 10 years ago after I spoke about ES5 at a conference a young person came up to me and asked: Don't you feel bad about the failure of object-oriented programming? 1/… https://t.co/cpgz2MiM52"
+:jbake-tags: citation,programming,oop,histoire,conférence,_mois_mars,_année_2019
+:jbake-date: 2019-03-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1553360843000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fawbjs%2Fstatus%2F1108123104419540992&searchtags=citation+programming+oop+histoire+conf%C3%A9rence+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/awbjs/status/1108123104419540992[Allen Wirfs-Brock on Twitter: "About 10 years ago after I spoke about ES5 at a conference a young person came up to me and asked: Don't you feel bad about the failure of object-oriented programming? 1/… https://t.co/cpgz2MiM52"]
+
+Pas tout à fait l'un des éléments de ma prochaine présentation, mais néanmoins intéressant

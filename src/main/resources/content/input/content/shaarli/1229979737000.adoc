@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Futurama: Using Java Technology to Build Robots That Can See, Hear Speak, and Move
+:jbake-tags: software,programming,java,développement,lego,robotics,mindstorms,_mois_déc.,_année_2008
+:jbake-date: 2008-12-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1229979737000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fdeveloper%2FtechnicalArticles%2FProgramming%2Frobotics%2F&searchtags=software+programming+java+d%C3%A9veloppement+lego+robotics+mindstorms+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://java.sun.com/developer/technicalArticles/Programming/robotics/[Futurama: Using Java Technology to Build Robots That Can See, Hear Speak, and Move]
+
+Ce qui est intéressant, là-dedans, ça n'est pas seulement le côté robots. C'est aussi, et surtout, en fait, le fait de mentionner dans le même article la synthèse vocale \*et\* la reconnaissance d'images. Et à chaque fois, ça a l'air super simple. J'aime bien le Java.

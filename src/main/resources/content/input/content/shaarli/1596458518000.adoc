@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Bit Player Who Changed the World - Study Hacks - Cal Newport
+:jbake-tags: informatique,concepts,histoire,_mois_août,_année_2020
+:jbake-date: 2020-08-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1596458518000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.calnewport.com%2Fblog%2F2020%2F07%2F29%2Fthe-bit-player-who-changed-the-world%2F&searchtags=informatique+concepts+histoire+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.calnewport.com/blog/2020/07/29/the-bit-player-who-changed-the-world/[The Bit Player Who Changed the World - Study Hacks - Cal Newport]
+
+J'ignorais totalement que c'était Shannon qui avait fait le lien entre l'algèbre booléenne et les circuits imprimés.

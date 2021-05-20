@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Orion
+:jbake-tags: serie
+:jbake-date: 2014-01-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Orion.adoc
+:jbake-source: https://www.goodreads.com/series/203545
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782723418683.html[Orion, tome 2]

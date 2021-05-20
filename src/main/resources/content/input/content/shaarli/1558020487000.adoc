@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful.
+:jbake-tags: concepts,informatique,règle,loi,_mois_mai,_année_2019
+:jbake-date: 2019-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1558020487000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdwmkerr%2Fhacker-laws&searchtags=concepts+informatique+r%C3%A8gle+loi+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/dwmkerr/hacker-laws[dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful.]
+
+Une très chouette liste des principes informatiques

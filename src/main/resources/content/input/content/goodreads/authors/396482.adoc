@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cédric Perdereau
+:jbake-tags: author
+:jbake-date: 2009-08-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/396482.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/396482
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266177139.html[La Guerre des fleurs]
+* link:../books/9782266186315.html[Voyageurs]
+* link:../books/9782352942320.html[Black Man]
+* link:../books/9782811201357.html[Anges déchus]

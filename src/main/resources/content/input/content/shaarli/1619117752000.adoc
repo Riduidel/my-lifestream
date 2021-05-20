@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gregory Szorc's Digital Home | Modern CI is Too Complex and Misdirected
+:jbake-tags: continuous,intégration,build,critique,analyse,_mois_avr.,_année_2021
+:jbake-date: 2021-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1619117752000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgregoryszorc.com%2Fblog%2F2021%2F04%2F07%2Fmodern-ci-is-too-complex-and-misdirected%2F&searchtags=continuous+int%C3%A9gration+build+critique+analyse+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://gregoryszorc.com/blog/2021/04/07/modern-ci-is-too-complex-and-misdirected/[Gregory Szorc's Digital Home | Modern CI is Too Complex and Misdirected]
+
+L'article est important. Parce que moi aussi, j'ai toujours du mal à voir la valeur ajoutée des outils d'intégration continue face aux outils de build (oui, même Jenkins). Et son explication sur l'intérêt de taskcluster est vraiment pertinente.

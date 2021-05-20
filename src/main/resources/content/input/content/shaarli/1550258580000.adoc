@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rrss2imap - Cargo: packages for Rust
+:jbake-tags: rust,programming,cargo,release,rrss2imap,_mois_févr.,_année_2019
+:jbake-date: 2019-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1550258580000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcrates.io%2Fcrates%2Frrss2imap&searchtags=rust+programming+cargo+release+rrss2imap+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://crates.io/crates/rrss2imap[rrss2imap - Cargo: packages for Rust]
+
+Bon sang de bon soir ! Mon premier crate est releasé sur crates.io ! Evidement la doc est foireuse. Evidement c'est plein de bugs. MAIS J'ai releasé sur crates.io !

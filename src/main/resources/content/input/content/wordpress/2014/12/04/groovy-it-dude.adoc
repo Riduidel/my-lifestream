@@ -1,0 +1,110 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Groovy it, dude !
+:jbake-tags: groovy,subversion,_mois_déc.,_année_2014
+:jbake-date: 2014-12-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/12/04/groovy-it-dude.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/12/04/groovy-it-dude/
+:jbake-style: wordpress
+
+++++
+<p>
+Je vais faire un peu de live-blogging d'un problème pénible.
+</p>
+<p>
+Ce matin, je devais faire un merge.
+</p>
+<p>
+Et curieusement, ce merge foirait, à cause d'une erreur ... difficilement compréhensible
+</p>
+<p>
+<code>
+<br/>
+Working copy and merge source not ready for reintegration
+<br/>
+svn: Reintegrate can only be used if revisions 9043 through 9581 were previously merged from http://achille.perigee.fr/svn16/autocat/autocat-java/branches/2.1 to the reintegrate source, but this is not the case:
+<br/>
+autocat-java/branches/2.0-item-196-cc-html5
+<br/>
+</code>
+</p>
+<p>
+J'avais trouvé (via <a href="http://stackoverflow.com/a/6751422/15619">Stackoverflow</a> évidement) une méthode manuelle pour corriger le problème. Et j'étais en train de me préparer à faire tout ça à la main en quelques heures.
+</p>
+<p>
+Et puis je me suis dit que c'est quand même con de corriger une cinquantaine de fichiers à la main quand je peux scripter ça.
+</p>
+<p>
+Et aussitôt, j'ai lancé ma meilleure Groovy Console pour y écrire ce script, qui fait exactement ce que mentionne la solution : faire un <code>svn propdel</code> sur chaque fichier mentionné.
+</p>
+<p>
+Et dix minutes plus tard ...
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">def files = [
+<br/>
+/* Files requiring intervention */
+<br/>
+]
+</p>
+<p>
+def projectDir = /* my project dir */
+</p>
+<p>
+/**
+<br/>
+* I **could** have used svnant (http://subclipse.tigris.org/svnant.html) but as it is not available in any repo, I preferred to directly invoke the command
+<br/>
+*/
+<br/>
+def ant = new AntBuilder()
+</p>
+<p>
+files.each { filename -&gt;
+<br/>
+def line = "propdel"
+<br/>
+println "svn ${line} ${filename}"
+<br/>
+ant.exec(outputproperty:"svnOut",
+<br/>
+errorproperty: "svnErr",
+<br/>
+resultproperty:"svnExit",
+<br/>
+failonerror: "true",
+<br/>
+dir : projectDir,
+<br/>
+executable: 'svn') {
+<br/>
+arg(value:line)
+<br/>
+arg(value:"svn:mergeinfo")
+<br/>
+arg(value:filename)
+<br/>
+}
+</p>
+<p>
+println "${ant.project.properties.svnOut}"
+<br/>
+}</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+</p>
+<p>
+Le plus compliqué pour moi a été de me décider : est-ce que j'utilise <a href="http://subclipse.tigris.org/svnant.html">svnant</a>, ou est-ce que je fais directement de l'exécution shell de "svn" ? Eh bien ce qui m'a poussé vers la deuxième solution,c 'est que svnant n'est disponible que par téléchargement direct, et que je n'avais pas le courage de voir comment <a href="http://groovy.codehaus.org/Grape">Groovy Grapes</a> allait devoir être configuré pour ça ...
+</p>
+<p>
+En tout cas, ça confirme encore une fois mon opinion sur le fait que Groovy est définitvement LE langage de la JVM pour scripter dans tous les environements.
+</p>
+++++

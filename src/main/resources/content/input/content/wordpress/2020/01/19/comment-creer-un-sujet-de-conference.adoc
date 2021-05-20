@@ -1,0 +1,88 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment créer un sujet de conférence ?
+:jbake-tags: asciidoc,conférence,github,méthode,_mois_janv.,_année_2020
+:jbake-date: 2020-01-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/01/19/comment-creer-un-sujet-de-conference.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/01/19/comment-creer-un-sujet-de-conference/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>C'est une question d'inspiration à laquelle je n'avais jamais pensé avant qu'Hubert Sablonnière ne parle de sa méthode.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/hsablonniere\/status\/1216359689987948544","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/hsablonniere" class="screenName"><img src="http://pbs.twimg.com/profile_images/854028880046379008/Bm-ygvTm_mini.jpg" alt="profile of 😜 Curious and passionate Web developer working for 💡☁️ @clever_cloud"/>hsablonniere</a>
+		<span class="name">Hubert SABLONNIÈRE</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/hsablonniere/status/1 216 359 689 987 948 544" class="date">12 janv. 2020 à 15:02:03</a>
+
+	<span class="content">
+	
+	<span class="text">😉 Last year, I started a "framework" to help me write my conference talks propositions
+🤔 It's a document with sections, I answer the questions and that helps me to think about the talk, why & how
+😍 I used it again this year & it helped a lot, maybe it can help you
+
+details ⤵️</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Franchement, je trouve l'idée vraiment intéressante et je vais m'empresser de me l'approprier, mais avec une nuance.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je n'ai pas encore demandé à Hubert, mais j'ai l'impression que pour lui, tout ça est assez "privé" : je ne sais pas sous quelle forme il implémente son framework, ni dans quel format il présente ses résultats.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En revanche, personnellement, toutes mes conférences (plus exactement, toutes les conférences que je fais "tout seul") sont dans un unique repository GitHub.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, je me dis qu'utiliser les issues templates de GitHub pour me permettre de réfléchir aux sujets de conférences que je veux lancer peut être une idée très intéressante ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et comme une idée non mise en pratique ne vaut rien, paf ! <a href="https://github.com/Riduidel/conferences/issues/new?assignees=&#38;labels=&#38;template=une-nouvelle-conf-rence--.md&#38;title=Est+si+on+faisait+une+conf%C3%A9rence+sur+">J'ai mon template</a>, et on va voir ce que ça peut donner. Et je vous en reparlerai d'ici quelques temps ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Puisqu'on en est à Hubert, j'ai revu ce matin sa conférence sur doc as code de 2017.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/www.youtube.com\/watch?v=T6YJlaY0Dpw","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=T6YJlaY0Dpw
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Déja à cette éopque, il avait un outillage assez spectaculaire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heureusement, il semble que la plus grande partie de cette outillage soit maintenant utilisable dans mon contexte préféré : Asciidoc + RevealJS. Par exemple, j'ai mis la main récement sur un plugin RevealJS qui me permet d'exécuter du code pendant ma présentation (ce qui me paraît utile à court terme) <a href="https://github.com/dluxemburg/reveal-run-in-terminal">reveal-run-in-terminal</a>. Je me demande si une extension pour intégrer un éditeur (comme Hubert le fait dans sa démo Asciidoc) serait utile. Mais je verrai tout ça ... bientôt.</p>
+<!-- /wp:paragraph -->
+++++

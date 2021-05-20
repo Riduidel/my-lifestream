@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plan: Organize your life
+:jbake-tags: github,google,todo,calendar,organisation,gtd,_mois_juil.,_année_2019
+:jbake-date: 2019-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1562092846000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgetplan.co%2Flogin&searchtags=github+google+todo+calendar+organisation+gtd+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://getplan.co/login[Plan: Organize your life]
+
+Wow, c'est l'outil que je cherchais qui lie les activités dans les différents outils Google à d'autres services web (comme par exemple Gitub). C'est vraiment bien fait, et ça pourrait m'aider à m'organiser d'une manière très efficace.

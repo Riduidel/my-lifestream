@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BatteryCare - Download
+:jbake-tags: windows,freeware,software,portable,battery,_mois_juil.,_année_2011
+:jbake-date: 2011-07-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1311935935000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbatterycare.net%2Fen%2Fdownload.html&searchtags=windows+freeware+software+portable+battery+_mois_juil.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://batterycare.net/en/download.html[BatteryCare - Download]
+
+Un outil de monitoring de batterie de portable, bien pratique quand le portable vieillit un peu ...

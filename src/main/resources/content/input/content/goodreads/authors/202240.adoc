@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Élisabeth Vonarburg
+:jbake-tags: author
+:jbake-date: 2002-03-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/202240.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1343264016p5/202240.jpg
+:jbake-source: https://www.goodreads.com/author/show/202240
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290315026.html[La Voie obscure (La Tapisserie de Fionavar #3)]

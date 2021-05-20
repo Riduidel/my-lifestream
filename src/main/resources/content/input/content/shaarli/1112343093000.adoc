@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bibliography of Reference Documents
+:jbake-tags: web,portal,documentation,html,xml,http,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112343093000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.utoronto.ca%2Fwebdocs%2FHTMLdocs%2FNewHTML%2Fbibliography.html&searchtags=web+portal+documentation+html+xml+http+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.utoronto.ca/webdocs/HTMLdocs/NewHTML/bibliography.html[Bibliography of Reference Documents]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The KnotPlot Site
+:jbake-tags: software,freeware,mathématiques,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110969777000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cs.ubc.ca%2Fnest%2Fimager%2Fcontributions%2Fscharein%2FKnotPlot.html&searchtags=software+freeware+math%C3%A9matiques+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cs.ubc.ca/nest/imager/contributions/scharein/KnotPlot.html[The KnotPlot Site]
+
+Knots can be loaded from a database of almost 1000 knots and links or sketched by hand in three dimensions. Also, knots may be constructed via the Conway notation or using a tangle calculator. A number of special knot types (torus knots, knot chains, Liss

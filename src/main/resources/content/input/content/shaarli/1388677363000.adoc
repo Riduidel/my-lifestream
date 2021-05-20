@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Turn GitHub into a To-Do List
+:jbake-tags: github,gist,web,todolist,gtd,_mois_janv.,_année_2014
+:jbake-date: 2014-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1388677363000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flifehacker.com%2Fwhy-a-github-gist-is-my-favorite-to-do-list-1493063613&searchtags=github+gist+web+todolist+gtd+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://lifehacker.com/why-a-github-gist-is-my-favorite-to-do-list-1493063613[How to Turn GitHub into a To-Do List]
+
+Mettre une todolist dans un gist ? Ben ouais ! L'idée n'est pas mauvaise .... vraiment pas mauvaise. Je me demande même pour le coup s'il n'y a pas un moyen d'éditer ça dans mon Eclipse ou ailleurs ...

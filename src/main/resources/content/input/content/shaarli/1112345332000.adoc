@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SELFHTML actuel
+:jbake-tags: web,documentation,html,css,javascript,xml,php,perl,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112345332000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Factuel.fr.selfhtml.org%2F&searchtags=web+documentation+html+css+javascript+xml+php+perl+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://actuel.fr.selfhtml.org/[SELFHTML actuel]
+
+

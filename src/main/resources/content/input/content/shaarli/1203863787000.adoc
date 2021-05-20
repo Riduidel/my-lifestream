@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: the loPEZ dispenser » Blog Archive » iPhoto IPTC/EXIF/XMP Tags
+:jbake-tags: iphoto,script,exif,metadata,_mois_févr.,_année_2008
+:jbake-date: 2008-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1203863787000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lopez-net.com%2Fblog%2F%3Fp%3D4&searchtags=iphoto+script+exif+metadata+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.lopez-net.com/blog/?p=4[the loPEZ dispenser » Blog Archive » iPhoto IPTC/EXIF/XMP Tags]
+
+Une version modifiée du script mentionné dans le lien "Trailfire Guide: High Earth Orbit » Blog Archive » Writing iPhoto Exif Data", mais visiblement amélioré pour mieux tenir compte de certains cas particuliers (comme les tags utilisant plusieurs m

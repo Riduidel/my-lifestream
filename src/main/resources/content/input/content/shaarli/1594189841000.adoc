@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
+:jbake-tags: python,terminal,interface,gui,library,open-source,_mois_juil.,_année_2020
+:jbake-date: 2020-07-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1594189841000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fwillmcgugan%2Frich%23tables&searchtags=python+terminal+interface+gui+library+open-source+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/willmcgugan/rich#tables[willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.]
+
+Euh, wow N'oubliez pas que ces tables s'affichent dans votre terminal, et pas dans une appli web. Et ça, c'est chouette ! Vive Python !

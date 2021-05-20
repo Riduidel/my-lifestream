@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mike Mignola
+:jbake-tags: author
+:jbake-date: 2011-12-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/10182.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1548964535p5/10182.jpg
+:jbake-source: https://www.goodreads.com/author/show/10182
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781593078607.html[Hellboy, Vol. 7: The Troll Witch and Others]
+* link:../books/9781593078966.html[Hellboy, Vol. 8: Darkness Calls]
+* link:../books/9781595824318.html[Hellboy, Vol. 9: The Wild Hunt]
+* link:../books/9781595824776.html[Hellboy, Vol. 10: The Crooked Man and Others]
+* link:../books/9782756025049.html[Hellboy, tome 12 : La Fiancée de l'enfer]
+* link:../books/9782756035833.html[Hellboy 13. L'ultime tempête]
+* link:../books/9782756039589.html[Hellboy 14 - Masques & Monstres]
+* link:../books/9782756048161.html[Hellboy en Enfer 1 : Secrets de famille]
+* link:../books/9782756069838.html[Hellboy En Enfer 02. La Carte de La Mort]
+* link:../books/9782840554172.html[Hellboy, tome 5 : le diable dans la boîte]
+* link:../books/9782840555599.html[Hellboy, Tome 4: La Main Droite De La Mort]
+* link:../books/9782840557500.html[Les Germes de la destruction (Hellboy, #1)]
+* link:../books/9782840558224.html[Hellboy 6. Le Ver conquérant]
+* link:../books/9782847890747.html[Au nom du Diable (Hellboy #2)]
+* link:../books/9782847891966.html[Hellboy, tome 7 : le troisième souhait]
+* link:../books/9782847893236.html[Le Cercueil enchaîné (Hellboy #3)]

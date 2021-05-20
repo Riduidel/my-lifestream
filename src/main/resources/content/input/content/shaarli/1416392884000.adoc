@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plain Old Groovy Objects. So intellectually simple, yet powerful.
+:jbake-tags: java,programming,langage,histoire,_mois_nov.,_année_2014
+:jbake-date: 2014-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1416392884000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.accelebrate.com%2Fblog%2Fcall-pogo-name%2F&searchtags=java+programming+langage+histoire+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.accelebrate.com/blog/call-pogo-name/[Plain Old Groovy Objects. So intellectually simple, yet powerful.]
+
+J'aime beaucoup cet article, qui me rappelle de vieux souvenirs. Parce que moi aussi, j'ai connu l'époque dont il parle :-o

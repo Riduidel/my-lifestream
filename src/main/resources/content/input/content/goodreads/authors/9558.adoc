@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Poppy Z. Brite
+:jbake-tags: author
+:jbake-date: 2007-02-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/9558.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1311937607p5/9558.jpg
+:jbake-source: https://www.goodreads.com/author/show/9558
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070338856.html[Âmes perdues]

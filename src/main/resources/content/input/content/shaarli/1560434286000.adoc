@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Two-Channel Auto-Type Obfuscation - KeePass
+:jbake-tags: keepass,sécurité,hack,configuration,_mois_juin,_année_2019
+:jbake-date: 2019-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1560434286000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkeepass.info%2Fhelp%2Fv2%2Fautotype_obfuscation.html&searchtags=keepass+s%C3%A9curit%C3%A9+hack+configuration+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://keepass.info/help/v2/autotype_obfuscation.html[Two-Channel Auto-Type Obfuscation - KeePass]
+
+J'ignorais que Keepass avait ce niveau de protection. Je m'en vais de ce pas cocher cette case pour les entrées en 2FA ...

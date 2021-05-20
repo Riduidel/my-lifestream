@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DBeaver | Free Universal Database Manager
+:jbake-tags: java,eclipse,plugin,database,jdbc,software,freeware,open-source,_mois_juin,_année_2016
+:jbake-date: 2016-06-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1465320455000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdbeaver.jkiss.org%2F&searchtags=java+eclipse+plugin+database+jdbc+software+freeware+open-source+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://dbeaver.jkiss.org/[DBeaver | Free Universal Database Manager]
+
+Un plugin "SQL" étendu bien meilleur que le standard d'Eclipse. Et il génère le diagramme de base !

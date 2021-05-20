@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Emilien Pecoul on Twitter: "Good programmers are good co-workers before all."
+:jbake-tags: citation,programming,carrière,_mois_nov.,_année_2016
+:jbake-date: 2016-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1480319964000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FOuarzy%2Fstatus%2F802874417965580289&searchtags=citation+programming+carri%C3%A8re+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/Ouarzy/status/802874417965580289[Emilien Pecoul on Twitter: "Good programmers are good co-workers before all."]
+
+Eh ouais, le modèle du génie sociopathe n'est pas vraiment le bon

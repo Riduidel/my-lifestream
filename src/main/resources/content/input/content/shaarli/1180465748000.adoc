@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rails CHM documentation
+:jbake-tags: développement,documentation,help,programming,reference,ruby,rails,chm,_mois_mai,_année_2007
+:jbake-date: 2007-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1180465748000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdelynnberry.com%2Fprojects%2Frails-chm-documentation&searchtags=d%C3%A9veloppement+documentation+help+programming+reference+ruby+rails+chm+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://delynnberry.com/projects/rails-chm-documentation[Rails CHM documentation]
+
+La doc de Rails au format CHM. Très utile car là, au moins, on peut rechercher des solutions rapidement. Et en bonus, la page liste quelques lecteurs de fichiers CHM pour d'autres plateformes que Windows.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Presentation Zen
+:jbake-tags: management,productivité,usability,tutorial,web,zen,blog,design,présentation,_mois_déc.,_année_2005
+:jbake-date: 2005-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1133952638000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpresentationzen.blogs.com%2Fpresentationzen%2F&searchtags=management+productivit%C3%A9+usability+tutorial+web+zen+blog+design+pr%C3%A9sentation+_mois_d%C3%A9c.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://presentationzen.blogs.com/presentationzen/[Presentation Zen]
+
+

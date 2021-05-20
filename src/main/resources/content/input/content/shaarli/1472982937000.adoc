@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Boitier Rouge - l'Automobile Autrement
+:jbake-tags: web,blog,voiture,_mois_sept.,_année_2016
+:jbake-date: 2016-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1472982937000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fboitierrouge.com%2F&searchtags=web+blog+voiture+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://boitierrouge.com/[Boitier Rouge - l'Automobile Autrement]
+
+Un blog auto complet, bien écrit, et clairement présenté

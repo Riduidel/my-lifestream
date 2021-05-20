@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mocking Without Mocks - The Birth of JMicroMock - Software People Inspiring
+:jbake-tags: java,programming,test,mock,software,library,_mois_août,_année_2015
+:jbake-date: 2015-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1440423851000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcodemanship.co.uk%2Fparlezuml%2Fblog%2F%3Fpostid%3D1317%26utm_content%3Dbuffer7dd39%26utm_medium%3Dsocial&searchtags=java+programming+test+mock+software+library+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://codemanship.co.uk/parlezuml/blog/?postid=1317&utm_content=buffer7dd39&utm_medium=social[Mocking Without Mocks - The Birth of JMicroMock - Software People Inspiring]
+
+Je n'avais jamais pensé à créer des sous-classes anonymes dans mes tests pour en faire des quasi-mocks ... Et c'est vraiment une chouette idée ! Parce que je trouve toujours les syntaxes des mocks un peu ... curieuses

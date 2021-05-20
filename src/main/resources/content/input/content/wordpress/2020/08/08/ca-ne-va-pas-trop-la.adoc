@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ca ne va pas trop, là
+:jbake-tags: mavie,motivation,_mois_août,_année_2020
+:jbake-date: 2020-08-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/08/08/ca-ne-va-pas-trop-la.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/08/08/ca-ne-va-pas-trop-la/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Bon, je suis donc rentré de vacances la semaine dernière.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et depuis, je végète.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour le dire autrement, je ne fais rien. En partie parce que je suis en chômage partiel, mais c'était déjà le cas avant. Et en partie parce que ... je ne sais pas trop, en fait. Et c'est super bizarre. J'ai en effet différents projets plus ou moins faciles à faire avancer, et même des idées complémentaires. Je pourrais même faire la liste ici, mais franchement, ça ne serait pas très utile, je pense. Et quelque part, je crois que c'est le coeur du problème : chacun de ces projets correspond à un truc que j'ai précisément <em>envie</em> de faire. Mais j'ai l'impression que cette semaine, je n'ai juste aucune espèce d'envie de faire quoi que ce soit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je me connais, je sais que ça ne vas pas durer. C'est surtout ça qui me rassure, sans doute parce que j'ai une assez bonne connaissance de moi-même. Mais c'est quand même un sentiment curieux, et en fait même pas si désagréable. C'est tellement peu désagréable que j'ai l'impression que c'est la révélation de l'été, qui va au-delà du simple "tout est château de sable" : à quoi bon tenter des trucs si on sait que, de toute façon, ça ne sert à rien ? Et c'est en l'écrivant que je comprend à quel point ça ressemble à l'attitude de "autant s'allonger et attendre la mort". Donc, je vais arrêter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comment ? En utilisant la méthode classique. Cette méthode n'est en fait pas si compliquée que ça, puisqu'il me suffit de lister ces différents éléments pour leur rendre leur réalité et les prioriser facilement. Donc, qu'est-ce que j'ai envie de faire ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Reprendre mon bot codingame du <a href="https://riduidel.wordpress.com/2020/05/19/jai-mange-la-pillule-grise/">spring challenge</a> en Rust avec la <a href="https://riduidel.wordpress.com/2020/06/17/tron-ou-la-tesselation-de-voronoi/">tesselation de Voronoï</a>.</li><li>Faire avancer ma webradio</li><li>Reprendre la partie OPML du lifestream avant d'intégrer d'autres fonctions</li><li>Faire avancer mon code de génération de documentation d'architecture</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Rien de fou, mais tout ce qui faut pour que je m'y remette, non ? Alors Lundi, c'est reparti (j'espère)</p>
+<!-- /wp:paragraph -->
+++++

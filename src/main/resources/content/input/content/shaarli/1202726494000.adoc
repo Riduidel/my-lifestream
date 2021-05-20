@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Tao of Mac - Inter-Wiki Map
+:jbake-tags: web,webgen,wiki,mapping,_mois_févr.,_année_2008
+:jbake-date: 2008-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1202726494000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthe.taoofmac.com%2Fspace%2Fmeta%2FInterWikiMap&searchtags=web+webgen+wiki+mapping+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://the.taoofmac.com/space/meta/InterWikiMap[The Tao of Mac - Inter-Wiki Map]
+
+La carte des interwikis de Tao Of Mac. Ca pourrait être un bon début si je veux faire la mienne, puisque les syntaxes wiki de webgen n'incluent bizarrement pas ce genre de liens

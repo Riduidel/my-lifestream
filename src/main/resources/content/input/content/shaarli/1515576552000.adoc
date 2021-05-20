@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bastamag on Twitter: "Selon le décompte réalisé par @Bastamag, les policiers français ont abattu 18 personnes en 2017 https://t.co/MxUUy1NYw3 https://t.co/X75sscYDX2"
+:jbake-tags: police,france,violence,_mois_janv.,_année_2018
+:jbake-date: 2018-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1515576552000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FBastamag%2Fstatus%2F950998161706938368&searchtags=police+france+violence+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/Bastamag/status/950998161706938368[Bastamag on Twitter: "Selon le décompte réalisé par @Bastamag, les policiers français ont abattu 18 personnes en 2017 https://t.co/MxUUy1NYw3 https://t.co/X75sscYDX2"]
+
+Vous noterez que ces chiffres ne sont pas produits par l'Etat, mais par un media, ce qui est en soi une information. Quant au fait que la police française soit violente ... ça me désole, mais ne me surprend pas. Heureusement (pour la police) les statistiques ethniques sont illégales en france, sinon on constaterait en plus leur racisme

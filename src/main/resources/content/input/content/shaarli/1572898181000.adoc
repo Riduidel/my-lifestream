@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kinopio
+:jbake-tags: carte,logiciel,idée,web,interface,_mois_nov.,_année_2019
+:jbake-date: 2019-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1572898181000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkinopio.club%2F&searchtags=carte+logiciel+id%C3%A9e+web+interface+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://kinopio.club/[Kinopio]
+
+C'est un outil en apparence assez bizarre, mais dont le concept semble très léché.

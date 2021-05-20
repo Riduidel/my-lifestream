@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Modern Best Practices for Testing in Java
+:jbake-tags: java,documentation,test,_mois_oct.,_année_2019
+:jbake-date: 2019-10-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1571857308000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fphauer.com%2F2019%2Fmodern-best-practices-testing-java%2F&searchtags=java+documentation+test+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://phauer.com/2019/modern-best-practices-testing-java/[Modern Best Practices for Testing in Java]
+
+Un article très complet sur les bonnes pratiques du test en Java façon 2019

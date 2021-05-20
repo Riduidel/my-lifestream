@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ErgoEmacs
+:jbake-tags: open-source,open,freeware,userfriendly,software,windows,emacs,_mois_oct.,_année_2012
+:jbake-date: 2012-10-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1350639969000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fergoemacs.org%2F&searchtags=open-source+open+freeware+userfriendly+software+windows+emacs+_mois_oct.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://ergoemacs.org/[ErgoEmacs]
+
+Et si je tentais emacs avec les bons packages ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing the Unit Testing Context Pattern
+:jbake-tags: java,programming,pattern,test,_mois_janv.,_année_2014
+:jbake-date: 2014-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1390310118000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FmS0p0iQ5i5s%2Fintroducing-unit-testing&searchtags=java+programming+pattern+test+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/mS0p0iQ5i5s/introducing-unit-testing[Introducing the Unit Testing Context Pattern]
+
+Tiens c'est marrant,c 'est ce que je fais de plus en plus. C'est spécialement pratique pour les tests utuilisant Weld : je démarre Weld dans mon test, et je lui demande de me charger une instance de ma classe de test, et ça roule via http://java.dzone.com/

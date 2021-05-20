@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: badidea 💫 on Twitter: "we really need to move towards a consensus as a society that algorithms changing things behind your back because they think they know you better than you do is emotionally abusive"
+:jbake-tags: informatique,éthique,responsabilité,_mois_mars,_année_2019
+:jbake-date: 2019-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1552309142000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F0xabad1dea%2Fstatus%2F1104434607204827136&searchtags=informatique+%C3%A9thique+responsabilit%C3%A9+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/0xabad1dea/status/1104434607204827136[badidea 💫 on Twitter: "we really need to move towards a consensus as a society that algorithms changing things behind your back because they think they know you better than you do is emotionally abusive"]
+
+Aucun rapport avec le besoin d'éthique dans l'informatique, \*hein\*

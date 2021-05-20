@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hackacon on Twitter: "Monter son État totalitaire en moins de 15 jours grâce à une méthode agile. Une IA domestique qui recrée une ambiance délétère à la maison."
+:jbake-tags: politique,france,démocratie,_mois_juin,_année_2017
+:jbake-date: 2017-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1497207492000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FLeHackacon%2Fstatus%2F873471871399997440&searchtags=politique+france+d%C3%A9mocratie+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/LeHackacon/status/873471871399997440[Hackacon on Twitter: "Monter son État totalitaire en moins de 15 jours grâce à une méthode agile. Une IA domestique qui recrée une ambiance délétère à la maison."]
+
+Un tweet prémonitoire, manifestement

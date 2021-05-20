@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chroniques de la Lune Noire
+:jbake-tags: serie
+:jbake-date: 2011-03-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Chroniques_de_la_Lune_Noire.adoc
+:jbake-source: https://www.goodreads.com/series/61972
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782205044447.html[De Vents, de Jade et de Jais (Chroniques de la Lune Noire, #7)]

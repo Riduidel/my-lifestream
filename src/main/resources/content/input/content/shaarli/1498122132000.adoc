@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JitPack | Publish JVM and Android libraries
+:jbake-tags: maven,dépendances,git,java,programming,_mois_juin,_année_2017
+:jbake-date: 2017-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1498122132000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjitpack.io%2F&searchtags=maven+d%C3%A9pendances+git+java+programming+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://jitpack.io/[JitPack | Publish JVM and Android libraries]
+
+Ah ça y est, je l'ai retrouvé ! Je ne sais pas si c'est une bonne idée ou si c'est le mal absolu.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HTML Help by The Web Design Group
+:jbake-tags: web,documentation,tutorial,html,css,langage,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112343569000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.htmlhelp.com%2F&searchtags=web+documentation+tutorial+html+css+langage+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.htmlhelp.com/[HTML Help by The Web Design Group]
+
+Lots of reference and tutorials on HTML, CSS, etc.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NewsForge | Share calendars over the Internet with iCal
+:jbake-tags: documentation,tutorial,macosx,calendar,software,_mois_févr.,_année_2006
+:jbake-date: 2006-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1138893992000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Finternet.newsforge.com%2Farticle.pl%3Fsid%3D05%2F07%2F12%2F143252&searchtags=documentation+tutorial+macosx+calendar+software+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://internet.newsforge.com/article.pl?sid=05/07/12/143252[NewsForge | Share calendars over the Internet with iCal]
+
+

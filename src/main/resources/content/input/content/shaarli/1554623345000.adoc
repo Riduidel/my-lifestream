@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Toulouse JUG on Twitter: "Très satisfait du déroulement de la soirée du JUG jeudi soir, je voudrais en profiter pour alerter nos chers membres sur un point crucial : les biais de genre, ou, moins politiquement correct : le sexisme."
+:jbake-tags: féminisme,informatique,_mois_avr.,_année_2019
+:jbake-date: 2019-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1554623345000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftoulousejug%2Fstatus%2F1114605666721763329&searchtags=f%C3%A9minisme+informatique+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/toulousejug/status/1114605666721763329[Toulouse JUG on Twitter: "Très satisfait du déroulement de la soirée du JUG jeudi soir, je voudrais en profiter pour alerter nos chers membres sur un point crucial : les biais de genre, ou, moins politiquement correct : le sexisme."]
+
+Si jamais des collègues femmes veulent venir au chtijug et cherchent un appui contre les abrutis (pas un rempart, juste quelqu'un qui dira "c'est vrai, tu as raison") ... je suis là

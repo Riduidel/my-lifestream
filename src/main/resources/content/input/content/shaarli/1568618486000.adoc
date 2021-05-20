@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simon Brown on Twitter: "RT @allenholub: If you have an Architect who uses the term "code monkey," immediately reassign them to a junior programmer position so that…" / Twitter
+:jbake-tags: programming,architecture,citation,métier,_mois_sept.,_année_2019
+:jbake-date: 2019-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1568618486000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsimonbrown%2Fstatus%2F1173475731646636032&searchtags=programming+architecture+citation+m%C3%A9tier+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/simonbrown/status/1173475731646636032[Simon Brown on Twitter: "RT @allenholub: If you have an Architect who uses the term "code monkey," immediately reassign them to a junior programmer position so that…" / Twitter]
+
+Ca n'est pas seulement vrai dans une organisation agile. Ca me semble être vrai dans ... n'importe quelle organisation.

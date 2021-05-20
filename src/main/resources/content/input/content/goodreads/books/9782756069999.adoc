@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Centaure (Carmen Mc Callum #15)
+:jbake-tags:  complot, guerre, ia, terrorisme,_année_2015,_mois_nov.,_note_3,rayon-bd,read
+:jbake-date: 2015-11-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756069999.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448802542l/28008228._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448802542l/28008228._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/28008228
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Le monde pleure les 50 000 victimes de l'attentat nucléaire de Londres. Pour éviter de nouvelles attaques, Carmen part à la recherche du créateur de l'I.A. avec laquelle Bugg a fusionné. Son périple l'entraînera de l'Inde aux univers virtuels sur les traces du Centaure, un projet secret de prise en charge du monde par différentes strates d'intelligences artificielles.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3026920.html[Emem]
+* link:../authors/503981.html[Fred Duval]
+
+## Series
+* link:../series/Carmen_Mc_Callum.html[Carmen Mc Callum]
+
+## Review
+
+++++
+Un tome intermédiaire dans une histoire très prometteuse.<br/>On y découvre donc de nouvelles façons d'introduire des virus informatiques ou autres sans support numérique.<br/>On y découvre aussi une ville ravagée par une bombe nucléaire d'assez forte puissance. Et c'est une image terrifiante qui redonne une juste idée de la vie humaine.
+++++

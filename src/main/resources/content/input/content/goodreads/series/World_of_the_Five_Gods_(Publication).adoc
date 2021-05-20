@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: World of the Five Gods (Publication)
+:jbake-tags: serie
+:jbake-date: 2006-07-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/World_of_the_Five_Gods_(Publication).adoc
+:jbake-source: https://www.goodreads.com/series/43463
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780380818600.html[The Curse of Chalion (World of the Five Gods, #1)]
+* link:../books/9780380818617.html[Paladin of Souls (World of the Five Gods, #2)]

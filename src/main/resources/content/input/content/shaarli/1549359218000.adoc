@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CyberChef
+:jbake-tags: sécurité,encoding,web,_mois_févr.,_année_2019
+:jbake-date: 2019-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1549359218000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgchq.github.io%2FCyberChef%2F&searchtags=s%C3%A9curit%C3%A9+encoding+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://gchq.github.io/CyberChef/[CyberChef]
+
+Un super outil pour toutes les manipulations de chaîne (typiquement mon camarade sécu-boy utilise ce genre

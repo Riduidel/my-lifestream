@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Opt out of PRISM, the NSA’s global data surveillance program - PRISM BREAK
+:jbake-tags: sécurité,privacy,@totest,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1371040092000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fprism-break.org%2F&searchtags=s%C3%A9curit%C3%A9+privacy+%40totest+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://prism-break.org/[Opt out of PRISM, the NSA’s global data surveillance program - PRISM BREAK]
+
+Très très chouette site listant toutes les façons de sortir de Prism, autrement dit d'utiliser des servcies protecteurs de notre intimité. J'ai juste un doute sur l'intérêt de Bitcoiin là-dedans ...

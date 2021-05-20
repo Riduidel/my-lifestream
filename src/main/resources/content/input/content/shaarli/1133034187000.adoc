@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: vidéos de conférences
+:jbake-tags: science,vidéo,documentation,_mois_nov.,_année_2005
+:jbake-date: 2005-11-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1133034187000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cerimes.education.fr%2Findex.php%3Fpage%3Dfiches%26op1%3D%2C%2C13%2C7%2C259%2C%2C&searchtags=science+vid%C3%A9o+documentation+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cerimes.education.fr/index.php?page=fiches&op1=,,13,7,259,,[vidéos de conférences]
+
+Ce catalogue des conférences de l'Institut d'Astrophysique de Paris, propose 33 conférences directement visibles sur ce site. Vous devez installer RealOne pour voir les vidéos. Un mardi par mois, l’IAP organise des conférences ouvertes au public (

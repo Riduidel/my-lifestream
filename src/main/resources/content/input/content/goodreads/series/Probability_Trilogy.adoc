@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Probability Trilogy
+:jbake-tags: serie
+:jbake-date: 2005-01-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Probability_Trilogy.adoc
+:jbake-source: https://www.goodreads.com/series/63708
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266117715.html[Réalité Partagée]
+* link:../books/9782266128179.html[Artefacts]
+* link:../books/9782266138215.html[Les faucheurs]

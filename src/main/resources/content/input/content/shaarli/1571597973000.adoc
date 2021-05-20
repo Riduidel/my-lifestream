@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My favourite Git commit | fatbusinessman.com
+:jbake-tags: bug,développeur,histoire,discussion,_mois_oct.,_année_2019
+:jbake-date: 2019-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1571597973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffatbusinessman.com%2F2019%2Fmy-favourite-git-commit&searchtags=bug+d%C3%A9veloppeur+histoire+discussion+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fatbusinessman.com/2019/my-favourite-git-commit[My favourite Git commit | fatbusinessman.com]
+
+C'est une belle histoire racontée par ce commit. Mais quand je travaille sur un bug, j'ai tendance à me poser plein de questions et à noter ces questions dans l'issue GitHub/Mantis/Whatever. Le résultat est le même, mais la méthode différente.

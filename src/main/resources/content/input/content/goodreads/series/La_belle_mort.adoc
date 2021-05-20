@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La belle mort
+:jbake-tags: serie
+:jbake-date: 2013-06-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/La_belle_mort.adoc
+:jbake-source: https://www.goodreads.com/series/252824
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782359101751.html[La belle mort]

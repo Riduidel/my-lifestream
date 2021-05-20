@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manifold - supplements your Java project with useful features like Type-safe Metaprogramming, Structural Typing, and Extension Methods
+:jbake-tags: java,programming,library,type,_mois_juil.,_année_2019
+:jbake-date: 2019-07-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1563436921000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmanifold.systems%2F&searchtags=java+programming+library+type+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://manifold.systems/[Manifold - supplements your Java project with useful features like Type-safe Metaprogramming, Structural Typing, and Extension Methods]
+
+Euh, Wow ? Ca a l'air extrêmement sophistiqué, mais évidement porteur de code peut-être moins compréhensible ...

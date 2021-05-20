@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: dieselpoint/norm: Access a database in one line of code.
+:jbake-tags: java,programming,library,database,open-source,_mois_avr.,_année_2017
+:jbake-date: 2017-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1492874626000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdieselpoint%2Fnorm&searchtags=java+programming+library+database+open-source+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/dieselpoint/norm[dieselpoint/norm: Access a database in one line of code.]
+
+Pas mal ... Ca me fait un peu penser à gaedo, ce genre d'idée (même si l'implémentation est très différente)

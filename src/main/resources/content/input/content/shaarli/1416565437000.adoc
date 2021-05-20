@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: French gov used fake Google certificate to read its workers' traffic • The Register
+:jbake-tags: web,online,sécurité,ssl,_mois_nov.,_année_2014
+:jbake-date: 2014-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1416565437000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theregister.co.uk%2F2013%2F12%2F10%2Ffrench_gov_dodgy_ssl_cert_reprimand%2F&searchtags=web+online+s%C3%A9curit%C3%A9+ssl+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.theregister.co.uk/2013/12/10/french_gov_dodgy_ssl_cert_reprimand/[French gov used fake Google certificate to read its workers' traffic • The Register]
+
+ca me rappelle des trucs que j'ai déja lu. Sauf que ça n'est pas la chine, mais notre ministère des finances (celui-là même qui s'occupe de la télédéclaration des impôts).

@@ -1,0 +1,101 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 300.000
+:jbake-tags: épidémie,santé,stats,_mois_août,_année_2020
+:jbake-date: 2020-08-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/08/29/300-000.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/08/29/300-000/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Une épidémie déferle donc sur le monde. Cette épidémie engendre <a href="https://riduidel.wordpress.com/2020/08/23/la-peur-est-la-petite-mort/">de la peur</a> et des tonnes de réaction idiotes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans cet article-ci, je vais aborder un autre point qui va s'appuyer sur un paquet de chiffres pas drôles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Savez-vous quels pays ont le meilleur système de santé ? D'après <a href="https://ceoworld.biz/2019/08/05/revealed-countries-with-the-best-health-care-systems-2019/">CEOWorld</a>, c'est Taïwan (tant mieux pour eux). Et la France est huitième dans ce classement. C'est bien, non ? En fouillant un poil, je découvre qu'il y a évidement des tonnes de classements avec des pondérations différentes. Mais généralement, notre pays est bien classé. Lisons par exemple ensemble <a href="https://healthpowerhouse.com/media/EHCI-2018/EHCI-2018-report.pdf">ce rapport datant de 2018</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>France11th, 796 points. Dropped out of the top 10 after reducing formerly liberal access to specialist services around 2009, but has slowly and steadily been climbing back. This pattern is not unusual after rule changes for Access (see Denmark above!). The management of the HCP have relocated to France; with a background from Sweden, our personal experience makes us believe that French patients must be a bit grumpy about Waiting Times in healthcare –from a Swedish perspective, Accessibility is fabulous!A technically competent and efficient system, with a tendency to medicalize a lot of conditions2, and to give patients a lot of drugs!France has long had the lowest heart disease mortality in Europe, and was the first country (1988), where CVD was no longer the biggest cause of death. Also, France was #1 in the Euro Heart Index 2016.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>La comparaison intra-européenne est évidement plus difficile, parce que les autres pays européens ont eux aussi de bons systèmes de santé (et j'en suis très content pour eux). Donc on peut dire que la France soigne bien ses malades. Dans combien de lits ? Eh bien d'après la wikipedia ... manifestement moins</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>[Entre 1982 et 2013] le nombre de lits hospitaliers par habitant a donc diminué d'un peu plus de 40 %, passant de 11 lits pour 1 000 habitants à 6,5</p><cite><a href="https://fr.wikipedia.org/wiki/H%C3%B4pital_en_France#Offre_de_lits">Offre de lits en France</a></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Et évidement, la comparaison avec d'autres pays n'est pas toujours à notre avantage (mais bien plus que ce que je pourrais croire) d'après l'<a href="https://data.oecd.org/fr/healtheqt/lits-d-hopitaux.htm">OCDE</a>. Et pour finir sur ce sujet, <a href="https://fr.statista.com/themes/2934/les-hopitaux-en-france/">statistica </a>nous dit qu'il y actuellement environ 42.000 places disponibles en hôpitaux publics ... Ce qui n'est qu'une autre vision des 5.9 lits pour 1.000 habitants.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca me permet de recontextualiser cette épidémie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Regardons un peu cette courbe de nouvelles infections publiée récement sur Twitter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/Panda31808732\/status\/1299066862601408514","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/Panda31808732" class="screenName"><img src="http://pbs.twimg.com/profile_images/1080968417790676993/PbjQD_NU_mini.jpg" alt="profile of « Entre le champagne pour quelques-uns et l'eau potable pour tous, il faut choisir. » — Thomas Sankara"/>Panda31808732</a>
+		<span class="name">Maître Pandaï</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/Panda31808732/status/1 299 066 862 601 408 514" class="date">27 août 2020 à 21:30:50</a>
+
+	<span class="content">
+	
+	<span class="text">1. Un point sur la deuxième vague en France. https://t.co/sEAP7Qx55z</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/Egc2VEcXYAQ2I9w.jpg" alt="1 299 066 753 117 544 452"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Si on regarde les <a href="https://coronavirus.politologue.com/coronavirus-france.FR">statistiques</a> <a href="https://www.coronavirus-statistiques.com/">spécifiques</a> du <a href="https://www.gouvernement.fr/info-coronavirus/carte-et-donnees">coronavirus</a>, on constate qu'il y a environ 4.500 personnes hospitalisées ... sur les 300.000 personnes qui ont eu à un moment le coronavirus. Au sujet spécifique des statistiques, regardez un peu les taux de mortalité comparés. C'est ... "intéressant" (d'une façon particulièrement morbide) : la France et l'Italie se payent des taux de mortalité à 15% quand la plupart des autres pays sont à moins de 5%. Pourquoi ? Je n'en sais rien, mais je vais faire l'hypothèse que les modes de vie y sont peut-être pour quelque chose, et qu'en l'absence de test plus généralisé, il y a eu en fait beaucoup plus de malades. Bref, revenons à nos chiffres.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Actuellement, en France, moins de 300.000 personnes ont été atteint. Soit, rapporté à la <a href="https://fr.wikipedia.org/wiki/D%C3%A9mographie_de_la_France">population française</a> ... 0,46%.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Est-ce que vous savez ce que ça veut dire ? Qu'une maladie ne touchant statistiquement personne (oui, statistiquement, moins de 1%, même si c'est <a href="https://fr.wikipedia.org/wiki/Liste_des_communes_de_France_les_plus_peupl%C3%A9es">la population de la ville de Nantes ou à peu près</a>, c'est personne) suffit à mettre notre système de santé à genoux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je pourrai évidement gloser sur la limitation des systèmes de santé. Mais je ne pense pas que ce soit si intéressant, puisque les études précédement mentionnées sur les systèmes de santé montrent bien la qualité du nôtre. En revanche, je peux me permettre de mentionner une chose : notre système de santé est bon, à environnement médical constant. C'est-à-dire en se plaçant dans des hypothèses de risques médicaux n'évoluant pas : pas de nouvelles pratiques, pas de nouvelles maladies.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et si gouverner, c'est prévoir, gouverner la santé des français en définissant un système aussi inadaptable que le nôtre et faisant de la mortalité la variable d'ajustement correspond à quel type de réflexion ? Pour le dire autrement, les gens qui définissent ce cadre de santé pensent-ils réellement que le monde ne change pas, alors qu'on sait de plus en plus, quelquesoit le sujet, que la seule constante, c'est le changement ? Ca me rend perplexe à de multiples niveaux.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cecilia Muñoz sur Twitter : "Thread: We @NewAmericaPIT are watching with dismay as multiple government websites crash due to an increase in traffic - a tragic reminder of the importance of building reliable, scalable infrastructure during non-crisis moments. If you’re crashing during a crisis, it’s too late."
+:jbake-tags: informatique,résilience,_mois_mars,_année_2020
+:jbake-date: 2020-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1584734411000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcecmunoz%2Fstatus%2F1240636450917486593&searchtags=informatique+r%C3%A9silience+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/cecmunoz/status/1240636450917486593[Cecilia Muñoz sur Twitter : "Thread: We @NewAmericaPIT are watching with dismay as multiple government websites crash due to an increase in traffic - a tragic reminder of the importance of building reliable, scalable infrastructure during non-crisis moments. If you’re crashing during a crisis, it’s too late."]
+
+Ce thread contient quelques perles sur ce que devrait être le design de solutions réellement robustes.

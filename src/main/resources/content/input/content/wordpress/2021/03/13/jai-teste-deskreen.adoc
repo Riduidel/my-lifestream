@@ -1,0 +1,81 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai testé Deskreen
+:jbake-tags: android,écran,matériel,web,_mois_mars,_année_2021
+:jbake-date: 2021-03-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/03/13/jai-teste-deskreen.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/03/13/jai-teste-deskreen/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Vous ne connaissez pas <a href="https://deskreen.com/lang-en">Deskreen</a> ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/francoisz\/status\/1353704939378388993","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/francoisz" class="screenName"><img src="http://pbs.twimg.com/profile_images/554969596101267456/wvlcHVWx_mini.jpeg" alt="profile of I'm French, CEO at @marmelab. I tweet twice a day about #sustainability #React #LeanStartup #Leadership #Agile #NodeJs #WebPerf #UX #GraphQL #Security #OSS"/>francoisz</a>
+		<span class="name">François Zaninotto</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/francoisz/status/1 353 704 939 378 388 993" class="date">25 janv. 2021 à 15:03:02</a>
+
+	<span class="content">
+	
+	<span class="text">Deskreen: Turn any device with a web browser to a second screen for your computer. Like MacOS' Sidecar, but for any computer and any phone / tablet. #OSS #JS https://t.co/d1e5Lq1vzs https://t.co/aCZht93szX</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EslTd_DXcAsQ3pn.jpg" alt="1 353 704 937 608 409 099"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Il a y juste un truc qui n'est pas dit dans tous ces avis dithyrambiques : il faut acheter un "dummy plug HDMI". c'est-à-dire une prise HDMI qui fait croire à votre ordinateur qu'il y a un écran connecté, même si il n'y en a pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Normalement, ça m'aurait stoppé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais j'ai chez moi une tablette Lenovo qui ne sert plus trop, et une autre tablette Samsung elle aussi sous-utilisée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc j'ai acheté <a href="https://www.amazon.fr/dp/B07WT4FTQ6">le bon plug</a> chez Amazon (j'aurais aimé pouvoir l'acheter chez LDLC, mais manifestement, ces produits ne semblent pas avoir trop de succès chez les vendeurs de matériel français). Vous noterez que j'ai pris un modèle qui fait aussi pass-through pour connecter un vrai écran.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et donc, la prise est arrivée ce matin, et je me suis empressé de tester.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, l'appairage se fait sans trop de souci : je scanne le QRCode affiché par deskreen, ça m'ouvre le navigateur (en http simple) qui lance un stream envoyant le contenu de l'écran.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans l'ensemble, c'est raisonnablement bien fichu. Malheureusement, comme le flux vidéo passe par mon réseau wifi domestique, qui est un peu chargé, l'écran a parfois un lag assez important. Je pense que ça peut se résoudre en passant par le partage de connexion en USB ... J'essayerai une fois que j'aurais réussi à configurer ça sur mon téléphone (parce que trouver comment dire à Android d'utiliser la connexion réseau de l'ordinateur connecté en USB plutôt que la sienne est ... délicat).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et donc, est-ce que je suis content d'avoir acheté ce dummy plug ? Oui, parce que je sens que ça peut rapidement devenir un très bon logiciel (il faudrait juste voir comment optimiser l'envoi du flux vidéo, mais ça, ça fait partie des choses connues, non ?).</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld - Moist von Lipwig
+:jbake-tags: serie
+:jbake-date: 2013-04-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld_-_Moist_von_Lipwig.adoc
+:jbake-source: https://www.goodreads.com/series/128727
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266236744.html[Timbré]
+* link:../books/9782266266055.html[Monnayé (Discworld, #36; Moist Von Lipwig, #2)]
+* link:../books/9782266277150.html[Déraillé (Discworld, #40, Moist von Lipwig #3)]

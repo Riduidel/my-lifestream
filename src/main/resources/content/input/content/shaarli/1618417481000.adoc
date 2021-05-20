@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Peter Speckmayer sur Twitter : "@Grady_Booch Sometimes a Microservices architecture is just a monolith with network latency stuck on top." / Twitter
+:jbake-tags: citation,microservices,réseau,critique,_mois_avr.,_année_2021
+:jbake-date: 2021-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1618417481000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FPeterSpeckmayer%2Fstatus%2F1382027200552124416&searchtags=citation+microservices+r%C3%A9seau+critique+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/PeterSpeckmayer/status/1382027200552124416[Peter Speckmayer sur Twitter : "@Grady_Booch Sometimes a Microservices architecture is just a monolith with network latency stuck on top." / Twitter]
+
+Et ouais, les microservices, c'est pas forcément si simple ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Battle for Wesnoth
+:jbake-tags: jeu,linux,macosx,open-source,software,windows,_mois_oct.,_année_2004
+:jbake-date: 2004-10-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1096968501000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wesnoth.org%2F&searchtags=jeu+linux+macosx+open-source+software+windows+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.wesnoth.org/[Battle for Wesnoth]
+
+The Battle for Wesnoth is a turn-based strategy game with a fantasy theme. Build your army, selecting, from one mission to the next one, your most experienced fighters. Fighters you did recruit among a great number of units, offering various strategic

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xmolecules/jmolecules: Libraries to help developers express architectural abstractions in Java code
+:jbake-tags: architecture,programming,java,annotation,open-source,_mois_oct.,_année_2020
+:jbake-date: 2020-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1603558018000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fxmolecules%2Fjmolecules&searchtags=architecture+programming+java+annotation+open-source+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/xmolecules/jmolecules[xmolecules/jmolecules: Libraries to help developers express architectural abstractions in Java code]
+
+Une assez chouette façon d'inclure dans le code les considérations architecturales. Ca marcherait très bien avec Structurizr ...

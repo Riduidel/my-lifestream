@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Skype Journal
+:jbake-tags: blog,documentation,tutorial,software,réseau,voip,_mois_avr.,_année_2005
+:jbake-date: 2005-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1113411718000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.skypejournal.com%2F&searchtags=blog+documentation+tutorial+software+r%C3%A9seau+voip+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.skypejournal.com/[Skype Journal]
+
+A blog about skype

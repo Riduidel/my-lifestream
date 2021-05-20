@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: progrium/topframe: Local webpage screen overlay for customizing your computing experience
+:jbake-tags: go,desktop,software,open-source,freeware,_mois_avr.,_année_2021
+:jbake-date: 2021-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1618075409000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fprogrium%2Ftopframe&searchtags=go+desktop+software+open-source+freeware+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/progrium/topframe[progrium/topframe: Local webpage screen overlay for customizing your computing experience]
+
+Les gophers ont donc réinventé ActiveDesktop ... Pour info, quand Microsoft a fait ça il y a vingt ans, tout le monde a détesté (même si, bien utilisé, ça pouvait rendre certains services)

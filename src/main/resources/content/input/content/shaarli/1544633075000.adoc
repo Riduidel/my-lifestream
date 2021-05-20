@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cargo-inspect - A Little Tool for Exploring Rust Internals | Matthias Endler
+:jbake-tags: rust,programming,compilation,transformation,_mois_déc.,_année_2018
+:jbake-date: 2018-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1544633075000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmatthias-endler.de%2F2018%2Fcargo-inspect%2F&searchtags=rust+programming+compilation+transformation+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://matthias-endler.de/2018/cargo-inspect/[cargo-inspect - A Little Tool for Exploring Rust Internals | Matthias Endler]
+
+Oh chouette, un outil Rust pour voir le code produit après la transformation du sucre syntaxique en instructions valides. J'aurais adoré avoir ça en Java !

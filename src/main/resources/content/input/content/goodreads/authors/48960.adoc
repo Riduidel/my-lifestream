@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Walter Jon Williams
+:jbake-tags: author
+:jbake-date: 2003-08-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/48960.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1275489992p5/48960.jpg
+:jbake-source: https://www.goodreads.com/author/show/48960
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780812557985.html[The Crown Jewels (Maijstral, #1)]
+* link:../books/9782207249314.html[Câblé]
+* link:../books/9782207256022.html[Les Continents perdus]
+* link:../books/9782290320471.html[La Guerre du plasma]

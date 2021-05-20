@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - ddd-crew/ddd-starter-modelling-process: If you're new to DDD and not sure where to start, this process will guide you step-by-step
+:jbake-tags: ddd,design,architecture,domain,concepts,_mois_mai,_année_2020
+:jbake-date: 2020-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1590000884000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fddd-crew%2Fddd-starter-modelling-process&searchtags=ddd+design+architecture+domain+concepts+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/ddd-crew/ddd-starter-modelling-process[GitHub - ddd-crew/ddd-starter-modelling-process: If you're new to DDD and not sure where to start, this process will guide you step-by-step]
+
+Le DDD ressemble pour moi un peu trop à de l'architecture métier (un concept qui me paraît toujours furieusement antinomique), mais en cas de besoin, ce repository fournit des points de départ franchement utiles.

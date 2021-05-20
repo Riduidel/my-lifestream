@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ZeroBin
+:jbake-tags: android,software,_mois_août,_année_2014
+:jbake-date: 2014-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1408970162000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fzerobin.warriordudimanche.net%2F%3F8fa1b4282a8fd0ea%23opWHCUGIO6j%2BNAsRcRwOMgwaUVF8V%2FkGYY7VCY3SdIo&searchtags=android+software+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://zerobin.warriordudimanche.net/?8fa1b4282a8fd0ea#opWHCUGIO6j+NAsRcRwOMgwaUVF8V/kGYY7VCY3SdIo[ZeroBin]
+
+Je ne remercie presque pas les shaarlieurs qui donnent dans cette discussion une liste longue comme le bras d'applications à installer/tester ... Bon, en fait, si, merci. Par contre, curieusement, je ne vois aucun tutoriel d'installation de F-Droid, alors que ça me paraît à peu près indispensable.

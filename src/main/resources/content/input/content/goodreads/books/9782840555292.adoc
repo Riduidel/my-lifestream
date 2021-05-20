@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gwalchmei le héros (Arthur, une épopée celtique, #3)
+:jbake-tags:  combat, rayon-bd,_année_2010,_mois_janv.,_note_4,fantasy,read
+:jbake-date: 2010-01-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840555292.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379600486l/5952775._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1379600486l/5952775._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/5952775
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/123874.html[David Chauvel]
+* link:../authors/208441.html[Jérôme Lereculey]
+
+## Series
+* link:../series/Arthur__une_epopee_celtique.html[Arthur, une épopée celtique]
+
+## Review
+
+++++
+A la fois Arthur rencontrant la belle et dangereuse Gwenhyffar, et gwalchmei devenent le meilleur des héros d'Arthur, ce tome est assez sympathique.
+++++

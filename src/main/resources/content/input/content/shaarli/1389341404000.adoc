@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Photos
+:jbake-tags: xkcd,photographie,_mois_janv.,_année_2014
+:jbake-date: 2014-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1389341404000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1314%2F&searchtags=xkcd+photographie+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://xkcd.com/1314/[Photos]
+
+Et aujourd'hui, dans le rôle du mec au chapeau, il y a ... moi : j'ai tendance à trouver toute cette production de phoos un peu inutile ... Bon, d'un autre côté, c'est ma femme qui tient l'appareil, ça me laisse le temps de regarder le paysage.

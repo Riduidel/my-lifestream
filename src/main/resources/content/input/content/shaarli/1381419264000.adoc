@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeff Atwood's CODE Keyboard Review
+:jbake-tags: clavier,programming,matériel,_mois_oct.,_année_2013
+:jbake-date: 2013-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1381419264000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxahlee.info%2Fkbd%2Fjeff_code_keyboard.html&searchtags=clavier+programming+mat%C3%A9riel+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xahlee.info/kbd/jeff_code_keyboard.html[Jeff Atwood's CODE Keyboard Review]
+
+Le clavier de Jeff Atwood se fait descendre (avec des alternatives intéressantes)

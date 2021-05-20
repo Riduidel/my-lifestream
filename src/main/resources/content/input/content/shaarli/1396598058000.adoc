@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Code as Craft: Building a Strong Engineering Culture at Etsy
+:jbake-tags: entreprise,management,culture,_mois_avr.,_année_2014
+:jbake-date: 2014-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1396598058000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2Fchaddickerson%2Fcode-as-craft-building-a-strong-engineering-culture-at-etsy%3Fsf24572308%3D1&searchtags=entreprise+management+culture+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.slideshare.net/chaddickerson/code-as-craft-building-a-strong-engineering-culture-at-etsy?sf24572308=1[Code as Craft: Building a Strong Engineering Culture at Etsy]
+
+Une présentation plus courte que le monument de Netflix,; mais qui reprend le même thème :c e qui fait aller une entreprise de l'avant, ça n'est pas la stratégie (imposée par la direction) mais la culture (partagée par chacun)

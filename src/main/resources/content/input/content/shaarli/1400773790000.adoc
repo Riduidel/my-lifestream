@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Tools and Technologies Landscape for 2014 | RebelLabs | zeroturnaround.com
+:jbake-tags: java,écosystème,programming,_mois_mai,_année_2014
+:jbake-date: 2014-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1400773790000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fzeroturnaround.com%2Frebellabs%2Fjava-tools-and-technologies-landscape-for-2014%2F&searchtags=java+%C3%A9cosyst%C3%A8me+programming+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-for-2014/[Java Tools and Technologies Landscape for 2014 | RebelLabs | zeroturnaround.com]
+
+Très chouette rapport sur l'état du développement en Java. Et je suis bien content de m'y retrouver majoritairement (sauf pour le (no)SQL).

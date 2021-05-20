@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JUnitPerf
+:jbake-tags: software,programming,java,library,test,performance,junit,_mois_janv.,_année_2009
+:jbake-date: 2009-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1233153436000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fclarkware.com%2Fsoftware%2FJUnitPerf.html&searchtags=software+programming+java+library+test+performance+junit+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://clarkware.com/software/JUnitPerf.html[JUnitPerf]
+
+Une bonne solution pour le test unitaire de performance, j'ai l'impression ...

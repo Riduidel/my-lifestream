@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vinicius Carvalho on Twitter: "Rethinking my decisions (and industry-wise) over the years ... 2000s : Drop this binary stuff and IDL, use XML it's portable 2010s : Drop th… https://t.co/UGp5NOkf2n"
+:jbake-tags: citation,programming,xml,json,réseau,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514897424000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvccarvalho%2Fstatus%2F944351740190773250&searchtags=citation+programming+xml+json+r%C3%A9seau+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/vccarvalho/status/944351740190773250[Vinicius Carvalho on Twitter: "Rethinking my decisions (and industry-wise) over the years ... 2000s : Drop this binary stuff and IDL, use XML it's portable 2010s : Drop th… https://t.co/UGp5NOkf2n"]
+
+Pour le coup, je suis content d'être resté mentalement coincé en 2000

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Install Chrome OS in VirtualBox | Chrome Techa
+:jbake-tags: software,tutorial,os,virtualization,_mois_nov.,_année_2009
+:jbake-date: 2009-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1258800849000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchrometecha.blogspot.com%2F2009%2F11%2Fhow-to-install-chrome-os-in-virtualbox.html&searchtags=software+tutorial+os+virtualization+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://chrometecha.blogspot.com/2009/11/how-to-install-chrome-os-in-virtualbox.html[How to Install Chrome OS in VirtualBox | Chrome Techa]
+
+Je le bookmarke à la fois parce que je veux voir ce que ça donne, mais aussi, et surtout, parce que VirtualBox m'intéresse beaucoup, ne serait-ce que pour avoir un environnement de développement elixir freebox.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zusor sur Twitter : "Welp, that's the end of GoodTwitter. Twitter has already been breaking things (that I can't really do anything about) and now they're announcing the end of the legacy version which means the end of GoodTwitter (they even mention extensions like GoodTwitter) https://t.co/EK5BIoNY12" / Twitter
+:jbake-tags: twitter,gui,plugin,firefox,redirector,_mois_mai,_année_2020
+:jbake-date: 2020-05-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1590396438000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FZusorOW%2Fstatus%2F1258885451055800320&searchtags=twitter+gui+plugin+firefox+redirector+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ZusorOW/status/1258885451055800320[Zusor sur Twitter : "Welp, that's the end of GoodTwitter. Twitter has already been breaking things (that I can't really do anything about) and now they're announcing the end of the legacy version which means the end of GoodTwitter (they even mention extensions like GoodTwitter) https://t.co/EK5BIoNY12" / Twitter]
+
+Bon, je suis obligé d'utiliser l'immonde nouvelle interface de Twitter. Si quelqu'un sait comment rediriger twitter vers tweetdeck (ou n'importe quelle UI fonctionnelle comme nitter), ça m'ira.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les tests unitaires paramétriques avec JUnitParams, une alternative à Junit Parameterized
+:jbake-tags: java,développement,test,junit,_mois_août,_année_2013
+:jbake-date: 2013-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1376309019000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.xebia.fr%2F2013%2F08%2F12%2Fles-tests-unitaires-parametriques-avec-junitparams-une-alternative-a-junit-parameterized%2F&searchtags=java+d%C3%A9veloppement+test+junit+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blog.xebia.fr/2013/08/12/les-tests-unitaires-parametriques-avec-junitparams-une-alternative-a-junit-parameterized/[Les tests unitaires paramétriques avec JUnitParams, une alternative à Junit Parameterized]
+
+Chouette article expliquant comment remplacer le pénible (mais standard @RunWith(Parameterized.class) par quelque chose de plus souple et donnant des résultats plus lisibles.

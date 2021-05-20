@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Milton: Java Webdav Server Library
+:jbake-tags: software,web,library,java,server,collaboration,webdav,http,open-source,_mois_oct.,_année_2009
+:jbake-date: 2009-10-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1254741483000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmilton.ettrema.com%2Findex.html&searchtags=software+web+library+java+server+collaboration+webdav+http+open-source+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://milton.ettrema.com/index.html[Milton: Java Webdav Server Library]
+
+Un framework pour réaliser "facilement" un serveur WebDAV en Java, ça pourrait m'être utile ...

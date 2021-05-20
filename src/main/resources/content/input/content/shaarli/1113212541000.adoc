@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ACSLogo for Mac OS X
+:jbake-tags: macosx,software,freeware,programming,logo,enfants,_mois_avr.,_année_2005
+:jbake-date: 2005-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1113212541000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.alancsmith.co.uk%2Flogo%2F&searchtags=macosx+software+freeware+programming+logo+enfants+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.alancsmith.co.uk/logo/[ACSLogo for Mac OS X]
+
+ACSLogo is a Logo Interpreter for Mac OS X. Logo is a popular language used to teach simple programming by guiding the progress of a 'turtle' which moves around a graphics screen:

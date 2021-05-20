@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dallas Barr, Tome 4: Nouvelle lune
+:jbake-tags:  immortalité, lune, terrorisme,_année_2014,_mois_mars,_note_1,rayon-bd,read
+:jbake-date: 2014-03-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782803620579.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327882160l/7717390._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327882160l/7717390._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7717390
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/12476.html[Joe Haldeman]
+* link:../authors/238619.html[Marvano]
+
+## Series
+* link:../series/Dallas_Barr.html[Dallas Barr]
+
+## Review
+
+++++
+Je dois bien le reconnaître, je n'ai pas tout compris à cette histoire d'androïde menant ses légions de terroristes à l'attaque d'une plateforme pélagothermale ... Mais apparement, ca se finit bien ... enfin, je crois.
+++++

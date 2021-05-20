@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dallas Barr, Tome 6: Sarabande
+:jbake-tags:  immortalité, ville,_année_2014,_mois_mars,_note_2,rayon-bd,read
+:jbake-date: 2014-03-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782803620593.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327882483l/4709270._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327882483l/4709270._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/4709270
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/12476.html[Joe Haldeman]
+* link:../authors/238619.html[Marvano]
+
+## Series
+* link:../series/Dallas_Barr.html[Dallas Barr]
+
+## Review
+
+++++
+C'est marrant ces tomes où je ne comprend rien.<br/>Et en plus dans celui-là on ne voit même pas Dallas. Décevant, vraiment décevant.<br/>Il y a toutefois toujours cette profondeur dans la vision d'un avenir pas forcément lointain, mais toujours profond dans ses développements.
+++++

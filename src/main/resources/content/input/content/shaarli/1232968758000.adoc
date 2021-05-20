@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Differential2
+:jbake-tags: lego,tutorial,differential,instructions,_mois_janv.,_année_2009
+:jbake-date: 2009-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1232968758000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnxtasy.org%2Fwp-content%2Fuploads%2F2006%2F08%2FDifferential2-00.html&searchtags=lego+tutorial+differential+instructions+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://nxtasy.org/wp-content/uploads/2006/08/Differential2-00.html[Differential2]
+
+Une cellule différentielle n'utilisant \*pas\* la pièce différentielle conçue par lego. C'est exactement ce que je cherchais depuis environ une semaine. Et ça va bien m'aider pour faire mon petit tank ...

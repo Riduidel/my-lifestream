@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to have HTTPs on development with Docker, Traefik v2 and mkcert - DEV Community 👩‍💻👨‍💻
+:jbake-tags: docker,docker-compose,réseau,configuration,https,_mois_oct.,_année_2019
+:jbake-date: 2019-10-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1571818835000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fnflamel%2Fhow-to-have-https-on-development-with-docker-traefik-v2-and-mkcert-2jh3&searchtags=docker+docker-compose+r%C3%A9seau+configuration+https+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dev.to/nflamel/how-to-have-https-on-development-with-docker-traefik-v2-and-mkcert-2jh3[How to have HTTPs on development with Docker, Traefik v2 and mkcert - DEV Community 👩‍💻👨‍💻]
+
+Oh, c'est chouette. Un jour, quand j'aurais du temps, je ferais la même chose, mais avec de l'autodécouverte de services par Traefik, quand même, parce que c'est bien mieux.

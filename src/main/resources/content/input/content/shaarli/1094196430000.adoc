@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Workbench - Home
+:jbake-tags: open-source,projet,software,windows,freeware,management,planning,_mois_sept.,_année_2004
+:jbake-date: 2004-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1094196430000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.openworkbench.org%2F&searchtags=open-source+projet+software+windows+freeware+management+planning+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.openworkbench.org/[Open Workbench - Home]
+
+Free Alternative to Microsoft Project

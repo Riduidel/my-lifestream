@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: json.pizza
+:jbake-tags: json,web,format,javascript,_mois_août,_année_2019
+:jbake-date: 2019-08-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1566202771000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjson.pizza%2F&searchtags=json+web+format+javascript+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://json.pizza/[json.pizza]
+
+Un formatteur de JSON en ligne assez amusant

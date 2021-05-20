@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: THEOI PROJECT - A Guide to Greek Gods, Spirits & Monsters
+:jbake-tags: web,culture,theology,grèce,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109892090000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theoi.com%2F&searchtags=web+culture+theology+gr%C3%A8ce+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.theoi.com/[THEOI PROJECT - A Guide to Greek Gods, Spirits & Monsters]
+
+Welcome to Theoi.com a guide to the Ancient Greek Pantheon of Gods ("Theoi"), . .Spirits ("Daimones") and Monsters ("Theres").

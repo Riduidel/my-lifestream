@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yukito Kishiro
+:jbake-tags: author
+:jbake-date: 2011-02-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3450.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1273227843p5/3450.jpg
+:jbake-source: https://www.goodreads.com/author/show/3450
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781421500577.html[Battle Angel Alita - Last Order : Angel & the Vampire, Vol. 06]
+* link:../books/9781421508658.html[Battle Angel Alita - Last Order : Angel's Vision, Vol. 08]
+* link:../books/9781421513485.html[Battle Angel Alita - Last Order : Angel's Duty, Vol. 09]
+* link:../books/9781569319765.html[Battle Angel Alita - Last Order : Angel of the Innocents, Vol. 02]
+* link:../books/9781591161356.html[Battle Angel Alita - Last Order : Angel Eternal, Vol. 03]
+* link:../books/9781591162810.html[Battle Angel Alita - Last Order : Angel of Protest, Vol. 04]
+* link:../books/9781591162827.html[Battle Angel Alita - Last Order : Haunted Angel, Vol. 05]
+* link:../books/9782723439800.html[Gunnm Last Order, Tome 01]

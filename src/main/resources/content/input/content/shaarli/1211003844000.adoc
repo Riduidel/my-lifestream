@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bloggin’ West Again » Blog Archive » Java Simple Plugin Framework - The DoYouNeedThis?-Edition
+:jbake-tags: java,library,plugin,_mois_mai,_année_2008
+:jbake-date: 2008-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1211003844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.xeoh.net%2Farchives%2F402%23comment-10759&searchtags=java+library+plugin+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://blog.xeoh.net/archives/402#comment-10759[Bloggin’ West Again » Blog Archive » Java Simple Plugin Framework - The DoYouNeedThis?-Edition]
+
+Un outil de gestion des plugins utilisant les annotations, qui risque par conséquent d'être plus simple à utiliser que Java plugin Framework

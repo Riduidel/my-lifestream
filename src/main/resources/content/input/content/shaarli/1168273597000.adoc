@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ServerSideWiki - Powered by RubyonRails and TiddlyWiki
+:jbake-tags: geek,javascript,management,productivité,rails,software,ruby,web,wiki,_mois_janv.,_année_2007
+:jbake-date: 2007-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1168273597000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.serversidewiki.com%2F&searchtags=geek+javascript+management+productivit%C3%A9+rails+software+ruby+web+wiki+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.serversidewiki.com/[ServerSideWiki - Powered by RubyonRails and TiddlyWiki]
+
+Un composant serveur en RoR pour héberger mon MonkeyGTD

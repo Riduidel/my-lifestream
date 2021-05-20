@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Boulogne sur mer on Ruddr - Météo marine et Marées gratuite - sponsored by Sunbrella®
+:jbake-tags: web2.0,web,mer,météo,_mois_juin,_année_2012
+:jbake-date: 2012-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1340176760000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ruddr.com%2Fboulogne-sur-mer&searchtags=web2.0+web+mer+m%C3%A9t%C3%A9o+_mois_juin+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.ruddr.com/boulogne-sur-mer[Boulogne sur mer on Ruddr - Météo marine et Marées gratuite - sponsored by Sunbrella®]
+
+Chouette site de prévisions mété collaboratives ... Dommage que ce soit uniquement marin !

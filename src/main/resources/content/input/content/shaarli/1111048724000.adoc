@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PTHiTunesNotifier
+:jbake-tags: software,freeware,macosx,system,multimedia,clavier,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111048724000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pth.com%2FPTHiTunesNotifier%2F&searchtags=software+freeware+macosx+system+multimedia+clavier+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pth.com/PTHiTunesNotifier/[PTHiTunesNotifier]
+
+PTHiTunesNotifier is an application that displays the currently playing iTunes track in an overlay window and allows you to control iTunes from the menu bar and via Hot Keys. The information is shown in an overlay window whenever the current track changes

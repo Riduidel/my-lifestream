@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LargeType - A service that displays large type
+:jbake-tags: freeware,macosx,software,texte,utilities,system,_mois_juil.,_année_2006
+:jbake-date: 2006-07-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1154094608000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.coldpizzasoftware.com%2Flargetype%2F&searchtags=freeware+macosx+software+texte+utilities+system+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.coldpizzasoftware.com/largetype/[LargeType - A service that displays large type]
+
+Un tout petit gadget ridicule pour afficher du texte en -très- grand

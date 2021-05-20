@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Belgariad
+:jbake-tags: serie
+:jbake-date: 2010-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Belgariad.adoc
+:jbake-source: https://www.goodreads.com/series/40739
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266033756.html[Le Pion blanc des présages (La Belgariade #1)]
+* link:../books/9782266033749.html[La reine des sortilèges (La Belgariade, #2)]
+* link:../books/9782266170994.html[Le Gambit du magicien (La Belgariade, #3)]
+* link:../books/9782266041546.html[La tour des maléfices (La Belgariade, #4)]
+* link:../books/9782266041553.html[La fin de partie de l'enchanteur (La Belgariade, #5)]

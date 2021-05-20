@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: betsythemuffin on Twitter: "I've been thinking a lot about domain-oriented OO vs pattern-oriented OO because domain-oriented OO is usually thought of as "unteachable," and that fact showcases the way developer education is broken. https://t.co/gODy3mbF8F"
+:jbake-tags: réflexion,programming,oop,_mois_juin,_année_2018
+:jbake-date: 2018-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1528862657000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbetsythemuffin%2Fstatus%2F1006597377413795842&searchtags=r%C3%A9flexion+programming+oop+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/betsythemuffin/status/1006597377413795842[betsythemuffin on Twitter: "I've been thinking a lot about domain-oriented OO vs pattern-oriented OO because domain-oriented OO is usually thought of as "unteachable," and that fact showcases the way developer education is broken. https://t.co/gODy3mbF8F"]
+
+Superbe thread sur la difficulté de la "vraie" modélisation objet, et de son interaction avec l'artisanat logiciel

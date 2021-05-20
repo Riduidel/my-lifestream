@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dooblet: Find alternatives to everything!
+:jbake-tags: search,web,_mois_oct.,_année_2008
+:jbake-date: 2008-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1224573555000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dooblet.com%2Fa%2F_%2F&searchtags=search+web+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.dooblet.com/a/_/[Dooblet: Find alternatives to everything!]
+
+trouvé via outils froids, ce site permet de trouver des alternatives ... Des alternatives à tout, en fait; Pour l'instant, je l'ai juste testé sur des logiciels, mais ça peut marcher pour n'importe quoi, et je trouve l'idée assez sympathique.

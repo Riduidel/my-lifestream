@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Practices - Home
+:jbake-tags: développement,exemple,java,tutorial,_mois_nov.,_année_2004
+:jbake-date: 2004-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1099989131000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.javapractices.com%2Findex.cjp&searchtags=d%C3%A9veloppement+exemple+java+tutorial+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.javapractices.com/index.cjp[Java Practices - Home]
+
+javapractices.com offers concise presentations of Java practices, tasks, and designs, illustrated with syntax-highlighted code examples. Many code examples are taken from WEB4J and StocksMonitor, robust example applications whose full source code may be p

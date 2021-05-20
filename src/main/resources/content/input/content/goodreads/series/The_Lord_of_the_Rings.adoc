@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Lord of the Rings
+:jbake-tags: serie
+:jbake-date: 2007-09-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Lord_of_the_Rings.adoc
+:jbake-source: https://www.goodreads.com/series/66175
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266026550.html[La Communauté de l'Anneau (Le Seigneur des Anneaux, #1)]

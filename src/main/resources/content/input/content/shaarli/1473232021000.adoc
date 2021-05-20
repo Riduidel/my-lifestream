@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jasongorman on Twitter: "How to identify if a file is source code: if changing the contents of the file means we need to retest the software, it's source code"
+:jbake-tags: citation,programming,test,source,_mois_sept.,_année_2016
+:jbake-date: 2016-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1473232021000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjasongorman%2Fstatus%2F772683198732042242&searchtags=citation+programming+test+source+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/jasongorman/status/772683198732042242[jasongorman on Twitter: "How to identify if a file is source code: if changing the contents of the file means we need to retest the software, it's source code"]
+
+Très vrai

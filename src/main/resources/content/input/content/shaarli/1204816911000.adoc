@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Taskjuggler - The Open Source Project Management Software - Home
+:jbake-tags: freeware,management,open-source,planning,productivité,programming,projet,software,ruby,_mois_mars,_année_2008
+:jbake-date: 2008-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1204816911000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.taskjuggler.org%2F&searchtags=freeware+management+open-source+planning+productivit%C3%A9+programming+projet+software+ruby+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.taskjuggler.org/[Taskjuggler - The Open Source Project Management Software - Home]
+
+Pour la première fois, j'ai trouvé un outil de gestion de projet qui correspond à ce que je veux vraiment (et donc à ce qui pourrait être utile aux bons développeurs).

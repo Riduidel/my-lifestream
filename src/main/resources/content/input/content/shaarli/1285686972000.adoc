@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alice.org
+:jbake-tags: 3d,enfants,programming,java,freeware,tutorial,software,_mois_sept.,_année_2010
+:jbake-date: 2010-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1285686972000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.alice.org%2F&searchtags=3d+enfants+programming+java+freeware+tutorial+software+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.alice.org/[Alice.org]
+
+Un environnement de développement pour les jeunes, voire les enfants ... Bien sûr que les miens seront des geeks !

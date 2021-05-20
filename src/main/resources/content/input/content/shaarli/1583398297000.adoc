@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Groovy Goodness: Using The Call Operator () - Messages from mrhaki
+:jbake-tags: groovy,programming,concepts,méthode,_mois_mars,_année_2020
+:jbake-date: 2020-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1583398297000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmrhaki.blogspot.com%2F2017%2F02%2Fgroovy-goodness-using-call-operator.html&searchtags=groovy+programming+concepts+m%C3%A9thode+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://mrhaki.blogspot.com/2017/02/groovy-goodness-using-call-operator.html[Groovy Goodness: Using The Call Operator () - Messages from mrhaki]
+
+Il y a vraiment en Groovy des trucs qui ont un effet "what ?\#!". Par exemple, cette méthode implicite, c'est bizarre ...

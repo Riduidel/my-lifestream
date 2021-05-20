@@ -1,0 +1,135 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment ingérer et retranscrire des informations en masse ?
+:jbake-tags: documentation,information,mavie,veille,_mois_mai,_année_2020
+:jbake-date: 2020-05-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/20/comment-ingerer-et-retranscrire-des-informations-en-masse.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/20/comment-ingerer-et-retranscrire-des-informations-en-masse/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Je ne savais pas trop quoi écrire ce matin, quand j'ai vu dans mes notifications Twitter ce message</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/GwennaelBuchet\/status\/1262923503453589506","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/GwennaelBuchet" class="screenName"><img src="http://pbs.twimg.com/profile_images/1358827563720794114/R-yZb45f_mini.jpg" alt="profile of "/>GwennaelBuchet</a>
+		<span class="name">Gwennael Buchet</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/GwennaelBuchet/status/1 262 923 503 453 589 506" class="date">20 mai 2020 à 03:50:01</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel Mais comment fais-tu pour trouver le temps de lire autant d'articles ? 😀
+#jaloux 😅
+
+Peut être un bon rétro pour un de tes futurs posts de ton blog. Je suis intéressé par partager avec toi nos recettes de nos gestions du temps qui laissent la part belle  aux activités annexes 😉</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Et je me suis dit que ce serait bien d'y répondre. D'abord avec quelques platitudes (dans cet article), suivies d'une mise à jour de mon architecture personnelle de gestion des informations, suivie sans doute de considérations d'encore plus haut niveau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Quelques platitudes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Ca veut dire quoi, l'ère de l'information ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Si je dis que nous vivons en ce moment en pleine révolution industrielle, je pense que ça ne choquera personne. Nous sommes ainsi passé depuis ma naissance en 74 de l'<a href="https://fr.wikipedia.org/wiki/Histoire_du_p%C3%A9trole">ère du pétrôle</a> à l'<a href="https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_de_l%27information">ère de l'information</a>. L'exemple le plus typique de cette transition est à mon avis le <a href="https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es">RGPD</a>, qui réglemente comment les informations sur un individu peuvent être détenues par d'autres entités. Et dans cette ère de l'information, la plupart des emplois deviennent, directement ou indirectement, des emplois de traitement et d'exploitation de l'information (j'évite à dessein d'utiliser le terme "donnée", parce qu'il ne correspond pas au cas que je veux détailler - le mien). On va y trouver des emplois de bas niveau (le marketing de masse), ou des emplois de haut niveau, comme par exemple le métier de développeur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Attention</strong> : pour moi, un développeur, ça n'est pas quelqu'un qui lit une spéc technique, sous quelque forme que ce soit, pour produire un code. Ca, c'est un codeur, un métier honnête et respectable, mais qui n'a pas la même portée. Le développeur discute avec l'utilisateur, comprend son besoin métier, le traduit dans une solution informatique qu'il déploie.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Développeur et connaissances</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Bien, ce développeur, donc, doit pouvoir se plonger dans un métier qui n'est pas le sien et le comprendre. Pour ça, il ne peut que projeter ses connaissances dans un domaine qui n'est pas le sien. Et qui, soyons honnête, ne le sera jamais. Bref, il doit apprendre. Or apprendre, c'est une compétence, et comme toutes les compétences, il y a une composante innée, une forme d'intérêt pour l'apprentissage, et une composante acquise, typiquement lorsqu'on se rend compte pour la première fois que la personne en face parle un langage qu'on va devoir comprendre, et donc apprendre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'écrivais plus haut qu'il s'agit d'une exploitation de haut niveau de l'information, parce qu'elle consiste à mettre en branle ces informations apprises pour en tirer un résultat concret, pas toujours dans le domaine dans lequel celles-ci ont été acquises ... Ce qui implique d'avoir des informations à disposition ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Sérendipité à l'ère numérique</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Est-ce que vous connaissez la <a href="https://fr.wikipedia.org/wiki/S%C3%A9rendipit%C3%A9">sérendipité</a> ? C'est ce truc louche, qui consiste justement à mélanger des informations de domaines divers pour les agréger en une innovation. Dans <a href="https://fr.wikipedia.org/wiki/Liste_des_d%C3%A9couvertes_et_inventions_li%C3%A9es_au_hasard">les exemples typiques</a>, on trouve le velcro, le post-it, le micro-ondes, ... Et tant d'autres. Je pense personnellement que c'est une méthode très efficace pour apporter de nouvelles choses, aussi inutiles soient-elles. Et en fait, le problème avec ce concept, c'est qu'on a du mal à le raccrocher à des moments de la vraie vie. Pour ma part, la manière la plus classique de le voir, c'est de l'imaginer comme une lecture de journal ... Pas la lecture du 20 minutes ou autres support publicitaire, mais celle d'un vrai journal, que les hommes d'affaire du siècle précédent prenaient la peine de lire le matin en arrivant au bureau</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"right","width":272,"height":242,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignright size-large is-resized"><img src="http://www.compassrose.com/static/chicago-daily-news-editor.jpg" alt="" width="272" height="242" /></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Vous voyez, le cadre du siècle précédent, quand il arrivait à son bureau, prenait le temps de lire son journal en entier : de la page politique à la page sport, en passant par la case théatre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il n'avait peut-être pas formalisé de méthode, mais ce journal l'exposait à des informations dans des domaines variés. Et plus important encore, à des informations ne cherchant pas à attirer son oeil au-delà de la première page. Bref, le titre <a href="https://fr.wikipedia.org/wiki/Pi%C3%A8ge_%C3%A0_clics">putaclic</a> était assez peu présent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Qu'en tirer ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>A mon avis, il y a dans cette méthode plusieurs avantages qu'il faut considérer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>D'abord, s'exposer à des informations et des opinions diverses (et même potentiellement en conflit avec ses croyances) est une bonne chose : ça permet facilement de construire une opinion, et surtout, ça vous ouvre de nouveaux horizons</li><li>Ensuite, il y un grand intérêt psychologique à définir des créneaux pendant lesquels on va traiter de nouvelles informations. En effet, à mon avis, notre époque est celle de la déconcentration. Et être capable d'en garder un peu permet de nourrir des réflexions un peu plus profondes que celles qu'offre l'action/réaction</li><li>Enfin, recevoir des informations variées va vous pousser à définir votre propre niveau d'exigence et aiguiser votre sens critique. Parce que dans le déluge de merde qu'on reçoit, être capable d'isoler l'information pertinente est une compétence extrêmement utile (qui elle aussi mérite d'être travaillée).</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>C'est donc vers ces objectifs que j'ai dirigé mon système d'information. Il y a bien sûr quelques non-buts. C'est-à-dire des choses que je ne veux volontairement pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Mais cette histoire d'opinion ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Avoir une opinion sur un sujet, c'est utile ... du moment qu'on sait que c'est une opinion. Parce que, comme le dit l'inspecteur Harry</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/www.youtube.com\/watch?v=sY1iT5nko0M","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=sY1iT5nko0M
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, une opinion est un biais, et savoir qu'on a un biais, c'est déjà être capable de tenir compte de ce biais et potentiellement de le corriger, même si ça n'est pas facile. </p>
+<!-- /wp:paragraph -->
+++++

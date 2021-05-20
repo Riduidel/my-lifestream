@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction | 24 days of Rust
+:jbake-tags: rust,documentation,tutorial,_mois_mai,_année_2018
+:jbake-date: 2018-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1527160534000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fzsiciarz.github.io%2F24daysofrust%2Findex.html&searchtags=rust+documentation+tutorial+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://zsiciarz.github.io/24daysofrust/index.html[Introduction | 24 days of Rust]
+
+Oh miam, encore un peu de lecture sur Rust pour quand j'aurais fini le manuel

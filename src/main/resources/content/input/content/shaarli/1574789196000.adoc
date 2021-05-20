@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Liaison – Do We Really Need a Web API?
+:jbake-tags: javascript,réseau,library,remote,_mois_nov.,_année_2019
+:jbake-date: 2019-11-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1574789196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fliaison.dev%2Fblog%2Farticles%2FDo-We-Really-Need-A-Web-API-yq12wz&searchtags=javascript+r%C3%A9seau+library+remote+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://liaison.dev/blog/articles/Do-We-Really-Need-A-Web-API-yq12wz[Liaison – Do We Really Need a Web API?]
+
+Je ne voudrais pas avoir l'air de faire le vieux con, mais ce serait pas exactement du RPC à l'ancienne ?

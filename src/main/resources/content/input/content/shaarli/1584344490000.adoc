@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SpreadSim | Spread Simulation - SARS-CoV-2
+:jbake-tags: épidémie,maladie,simulation,propagation,mathématiques,visualisation,_mois_mars,_année_2020
+:jbake-date: 2020-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1584344490000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.spreadsim.com%2F&searchtags=%C3%A9pid%C3%A9mie+maladie+simulation+propagation+math%C3%A9matiques+visualisation+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.spreadsim.com/[SpreadSim | Spread Simulation - SARS-CoV-2]
+
+Si tu veux tester des hypothèses de pandémie, c'est le bon site ...

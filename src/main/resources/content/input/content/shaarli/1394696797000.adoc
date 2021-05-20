@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Atom Can’t Replace Vim — Medium
+:jbake-tags: editor,programming,histoire,concepts,_mois_mars,_année_2014
+:jbake-date: 2014-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1394696797000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fp%2F433852f4b4d1&searchtags=editor+programming+histoire+concepts+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://medium.com/p/433852f4b4d1[Why Atom Can’t Replace Vim — Medium]
+
+Chouette article expliquant bien les avantages d'emacs et de vi pour replacer Atom dans son contexte. Ca montre particulièrement que si emacs a influencé tous les éditeurs de logiciels, la voie choisie par vi n'est pas idiote du tout et aurait mérité un héritage plus vaste.

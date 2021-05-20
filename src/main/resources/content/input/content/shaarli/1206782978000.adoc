@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PhotoStation.fr, fini la photo trop chère !
+:jbake-tags: photographie,laboratoire,numérique,printing,_mois_mars,_année_2008
+:jbake-date: 2008-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1206782978000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.photostation.fr%2Fwww%2Findex.cfm%3Fr%3D75026&searchtags=photographie+laboratoire+num%C3%A9rique+printing+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.photostation.fr/www/index.cfm?r=75026[PhotoStation.fr, fini la photo trop chère !]
+
+Un premier laboratoire photo numérique à tester.

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Criptonomicón
+:jbake-tags: serie
+:jbake-date: 2002-12-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Criptonomicon.adoc
+:jbake-source: https://www.goodreads.com/series/141793
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253072362.html[Le Code Enigma (Cryptonomicon, #1)]
+* link:../books/9782253072447.html[Le Réseau Kinakuta (Cryptonomicon, #2)]
+* link:../books/9782253072553.html[Golgotha (Cryptonomicon, #3)]

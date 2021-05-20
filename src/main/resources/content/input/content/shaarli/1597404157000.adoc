@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wiki bankruptcy – Mike Crittenden
+:jbake-tags: wiki,édition,mémoire,_mois_août,_année_2020
+:jbake-date: 2020-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1597404157000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcritter.blog%2F2020%2F08%2F10%2Fwiki-bankruptcy%2F&searchtags=wiki+%C3%A9dition+m%C3%A9moire+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://critter.blog/2020/08/10/wiki-bankruptcy/[Wiki bankruptcy – Mike Crittenden]
+
+Autrement dit, implémenter un garbage collector dans un wiki est une bonne idée ...

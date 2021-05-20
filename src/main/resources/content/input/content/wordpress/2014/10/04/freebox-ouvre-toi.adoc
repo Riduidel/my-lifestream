@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Freebox, ouvre-toi !
+:jbake-tags: freebox,_mois_oct.,_année_2014
+:jbake-date: 2014-10-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/10/04/freebox-ouvre-toi.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/10/04/freebox-ouvre-toi/
+:jbake-style: wordpress
+
+++++
+<p>
+Ma freebox avait donc chaud. Trop chaud, par cet été indien un peu doux (mais trop, il ne fait là que 20° C).
+</p>
+<p>
+Je l'avais surélevée, croyant bêtement ce qu'internet me disait. Jusqu'à ce qu'un de mes collègues ne me rappelle que, souvent, la chaleur ne vient pas seulement d'ordinateur surchargés, mais aussi d'ordinateurs empoussiérés.
+</p>
+<p>
+J'ai donc cherché comment ouvrir la boîte histoire d'aspirer un peu les composants ...
+</p>
+<p>
+Et j'ai trouvé cette vidéo :
+</p>
+<p>
+[youtube=http://www.youtube.com/watch?v=a5v5shAmvjU]
+</p>
+<p>
+Et là, je dois dire que ça a été bien facile de l'ouvrir, de passer un coup d'aspirateur dedans, avant de la refermer et de la rebrancher. Espérons juste que ca suffise, parce qu'affronter le support de free encore une fois ne m'emballe pas plus que ça ....
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CDI Custom Scope | Rafael Pestano
+:jbake-tags: cdi,java,scope,programming,tutorial,_mois_mai,_année_2017
+:jbake-date: 2017-05-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1496157375000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frpestano.wordpress.com%2F2013%2F06%2F30%2Fcdi-custom-scope%2F&searchtags=cdi+java+scope+programming+tutorial+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://rpestano.wordpress.com/2013/06/30/cdi-custom-scope/[CDI Custom Scope | Rafael Pestano]
+
+Je ne pensais pas en avoir besoin dans une application JavaFX, mais en fait si

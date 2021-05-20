@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trevor Smale / Open Source Ventilator - OpenLung BVM Ventilator · GitLab
+:jbake-tags: épidémie,maladie,diy,open-source,matériel,médecine,_mois_mars,_année_2020
+:jbake-date: 2020-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1584651709000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgitlab.com%2FTrevorSmale%2FOSV-OpenLung&searchtags=%C3%A9pid%C3%A9mie+maladie+diy+open-source+mat%C3%A9riel+m%C3%A9decine+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://gitlab.com/TrevorSmale/OSV-OpenLung[Trevor Smale / Open Source Ventilator - OpenLung BVM Ventilator · GitLab]
+
+Si tu veux faire de l'open-source utile A TOUS, tu peux traduire les documents de ce projet en français

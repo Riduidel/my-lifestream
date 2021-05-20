@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Microsoft Previews Rust For Windows - TecTalk
+:jbake-tags: windows,api,rust,déploiement,_mois_avr.,_année_2021
+:jbake-date: 2021-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1619763558000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tectalk.co%2Fmicrosoft-previews-rust-for-windows%2F&searchtags=windows+api+rust+d%C3%A9ploiement+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.tectalk.co/microsoft-previews-rust-for-windows/[Microsoft Previews Rust For Windows - TecTalk]
+
+On serait pas à deux doigts de pouvoir créer des applications natives Windows en pur Rust ? En tout cas, on peut accéder aux API Windows ...

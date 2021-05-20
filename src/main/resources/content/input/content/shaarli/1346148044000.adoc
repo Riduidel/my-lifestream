@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MarkdownPad: Fully Customizable Markdown Editor With Live Preview
+:jbake-tags: freeware,software,markdown,editor,windows,_mois_août,_année_2012
+:jbake-date: 2012-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1346148044000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.addictivetips.com%2Fwindows-tips%2Fmarkdownpad-fully-customizable-markdown-editor-with-live-preview%2F&searchtags=freeware+software+markdown+editor+windows+_mois_ao%C3%BBt+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.addictivetips.com/windows-tips/markdownpad-fully-customizable-markdown-editor-with-live-preview/[MarkdownPad: Fully Customizable Markdown Editor With Live Preview]
+
+Plus je fais du markdown, plus je me dis que, décidément, un outil comme ça serait bien pratique (et encore plus dans un plugin Eclipse).

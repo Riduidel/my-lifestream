@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clement Escoffier on Twitter: "Spent half a day writing #yaml files... The other half debugging it... Embrace Cloud-Native they say..."
+:jbake-tags: programming,citation,critique,yaml,_mois_août,_année_2018
+:jbake-date: 2018-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1535369929000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fclementplop%2Fstatus%2F1033420487316127745&searchtags=programming+citation+critique+yaml+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/clementplop/status/1033420487316127745[Clement Escoffier on Twitter: "Spent half a day writing #yaml files... The other half debugging it... Embrace Cloud-Native they say..."]
+
+On parle d'un développeur professionnel, là. Et qui galère avec le descripteur "tendance". Ca me rend fou.

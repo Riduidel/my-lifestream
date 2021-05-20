@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Riduidel ( Nicolas Delsaux )
+:jbake-tags: github,web,visualisation,_mois_août,_année_2019
+:jbake-date: 2019-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1567184331000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.gitmemory.com%2FRiduidel&searchtags=github+web+visualisation+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.gitmemory.com/Riduidel[Riduidel ( Nicolas Delsaux )]
+
+Très chouette site de visualisation de votre activité GitHub. Et même si je ne suis pas surpris par mon activité, c'est toujours marrant à voir.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Metadata Deluxe / Photo applications
+:jbake-tags: photographie,iptc,xmp,exif,software,_mois_juin,_année_2013
+:jbake-date: 2013-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1371057563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmetadatadeluxe.pbworks.com%2Fw%2Fpage%2F20792258%2FPhoto%2520applications&searchtags=photographie+iptc+xmp+exif+software+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://metadatadeluxe.pbworks.com/w/page/20792258/Photo%20applications[Metadata Deluxe / Photo applications]
+
+Tout un paquet d'applications photos supportant le tagging XMP/EXIF/IPTC

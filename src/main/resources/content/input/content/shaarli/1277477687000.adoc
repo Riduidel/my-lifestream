@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Storybook - Open Source Novel Writing Software for Novelists, Authors and Creative Writers
+:jbake-tags: freeware,java,open-source,software,_mois_juin,_année_2010
+:jbake-date: 2010-06-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1277477687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstorybook.intertec.ch%2Fjoomla%2F&searchtags=freeware+java+open-source+software+_mois_juin+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://storybook.intertec.ch/joomla/[Storybook - Open Source Novel Writing Software for Novelists, Authors and Creative Writers]
+
+Un logiciel d'écriture et d'aide à la structuration. Je me demande si il fonctionne sur mon iBook ...

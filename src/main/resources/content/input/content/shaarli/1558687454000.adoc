@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Dark Forest Theory of the Internet – OneZero
+:jbake-tags: web,intimité,communication,_mois_mai,_année_2019
+:jbake-date: 2019-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1558687454000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fonezero.medium.com%2Fthe-dark-forest-theory-of-the-internet-7dc3e68a7cb1&searchtags=web+intimit%C3%A9+communication+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://onezero.medium.com/the-dark-forest-theory-of-the-internet-7dc3e68a7cb1[The Dark Forest Theory of the Internet – OneZero]
+
+Après le dark web, les dark forrests ... Si la métaphore est intéressante, le constat est ... pathétique. mais surtout faux : une newsletter est indexée (quand elle est servie par google groups ou même par mailchimp)

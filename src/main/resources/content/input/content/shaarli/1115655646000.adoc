@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Octave Home Page
+:jbake-tags: software,freeware,open-source,macosx,linux,windows,science,mathématiques,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115655646000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.octave.org%2F&searchtags=software+freeware+open-source+macosx+linux+windows+science+math%C3%A9matiques+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.octave.org/[Octave Home Page]
+
+GNU Octave is a high-level language, primarily intended for numerical computations. It provides a convenient command line interface for solving linear and nonlinear problems numerically, and for performing other numerical experiments using a language that

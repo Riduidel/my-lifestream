@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eric Elliott on Twitter: "The Immutable Laws of Dev Productivity: 1. Slow is fast 2. Fast is slow 3. Velocity Lies 4. Crunch time is crash time #CodeReview #TDD #CICD"
+:jbake-tags: management,programming,_mois_déc.,_année_2016
+:jbake-date: 2016-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1481526114000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_ericelliott%2Fstatus%2F807327766622277632&searchtags=management+programming+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/_ericelliott/status/807327766622277632[Eric Elliott on Twitter: "The Immutable Laws of Dev Productivity: 1. Slow is fast 2. Fast is slow 3. Velocity Lies 4. Crunch time is crash time #CodeReview #TDD #CICD"]
+
+Autrement dit, quand vous allez l'impression que votre équipe se traîne, ralentissez !

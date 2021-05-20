@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eliza Networks sur Twitter : "@mgattozzi zimbu code looks like this, which i think is really beautiful but would NEVER actually want to write. it's this incredible mishmash of ideas from other languages, and bram moolenaar's own crackpot opinions, and the result looks totally nonsensical https://t.co/01d5wMKXAX" / Twitter
+:jbake-tags: programming,langage,design,horreur,erreur,_mois_févr.,_année_2021
+:jbake-date: 2021-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1612864835000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Fmycoliza%2Fstatus%2F1358831884420059136&searchtags=programming+langage+design+horreur+erreur+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/mycoliza/status/1358831884420059136[Eliza Networks sur Twitter : "@mgattozzi zimbu code looks like this, which i think is really beautiful but would NEVER actually want to write. it's this incredible mishmash of ideas from other languages, and bram moolenaar's own crackpot opinions, and the result looks totally nonsensical https://t.co/01d5wMKXAX" / Twitter]
+
+J'ai lu avec une fascination horrifiée tout ce thread qui décrit le langage Zimbu, qui n'est oils vraiment ésotérique, mais juste totalement foutraque.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Microsoft Wireless Laser Mouse 8000 [Topic Unique] - Claviers / Souris - Hardware - Périphériques - FORUM HardWare.fr
+:jbake-tags: bluetooth,mouse,software,_mois_oct.,_année_2009
+:jbake-date: 2009-10-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1256223763000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforum.hardware.fr%2Fhfr%2FHardwarePeripheriques%2FClaviers-Souris%2Funique-microsoft-wireless-sujet_32369_1.htm&searchtags=bluetooth+mouse+software+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://forum.hardware.fr/hfr/HardwarePeripheriques/Claviers-Souris/unique-microsoft-wireless-sujet_32369_1.htm[Microsoft Wireless Laser Mouse 8000 [Topic Unique] - Claviers / Souris - Hardware - Périphériques - FORUM HardWare.fr]
+
+Je mets le bookmark juste pour le lien vers le patch microsoft rendant la clé Bluetooth universelle.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Appeler la police ne sera plus gratuit
+:jbake-tags: administration,_mois_janv.,_année_2017
+:jbake-date: 2017-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1484820895000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lefigaro.fr%2Fconso%2F2017%2F01%2F18%2F20010-20170118ARTFIG00180-appeller-la-police-ne-sera-plus-gratuit.php&searchtags=administration+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.lefigaro.fr/conso/2017/01/18/20010-20170118ARTFIG00180-appeller-la-police-ne-sera-plus-gratuit.php[Appeler la police ne sera plus gratuit]
+
+Bon, c'est pour les appels \*de confort\* \*à Paris\*. Mais qu'une administration rende ses services payants, c'est choquant.

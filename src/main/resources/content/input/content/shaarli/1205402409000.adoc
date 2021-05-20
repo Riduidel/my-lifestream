@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iTuny « Fast thinking
+:jbake-tags: itunes,open-source,plugin,productivité,software,windows,utilities,_mois_mars,_année_2008
+:jbake-date: 2008-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1205402409000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ff0vela.wordpress.com%2Ftag%2Fituny%2F&searchtags=itunes+open-source+plugin+productivit%C3%A9+software+windows+utilities+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://f0vela.wordpress.com/tag/ituny/[iTuny « Fast thinking]
+
+En gros complément du précédent, un ensemble de script pour Launchy permettant de contrôler iTunes. Je vais peut-êtyre m'en servir moins que les raccourcis clavier (une histoire de mémoire des muscles), mais je trouve ça sympa quand même.

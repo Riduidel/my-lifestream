@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaarlo - fou à lier
+:jbake-tags: shaarli,rss,_mois_déc.,_année_2013
+:jbake-date: 2013-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1386259747000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffoualier.gregory-thibault.com%2F%3FwguswQ&searchtags=shaarli+rss+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://foualier.gregory-thibault.com/?wguswQ[Shaarlo - fou à lier]
+
+Chouette idée ça : avoir un flux RSS contenant l'ensemble des liens que j'ai balancé dans la shaarlisphere ... Donc mon lien est http://shaarli.fr/?do=rss&q=nicolas-delsaux.hd.free.fr/Shaarli Je l'ajoute de suite dans KrissFeed (parce que Shaarli.fr est parfois aussi procrastinant que imgur) Via http://sebsauvage.net/links/?PVsUFg

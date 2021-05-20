@@ -1,0 +1,400 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Back to basics, ne perdez plus votre temps avec les dates
+:jbake-tags: date,devoxx,_mois_avr.,_année_2019
+:jbake-date: 2019-04-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/19/devoxxfr-back-to-basics-ne-perdez-plus-votre-temps-avec-les-dates.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/19/devoxxfr-back-to-basics-ne-perdez-plus-votre-temps-avec-les-dates/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/zepag" class="screenName"><img src="http://pbs.twimg.com/profile_images/1327603069643878402/2BX0Zz9E_mini.jpg" alt="profile of Geek, photography enthusiast, Open Source and Devops fan, organizer of  @devops_lu, @YaJUG and @voxxed_lu conference"/>zepag</a>
+<br/>
+<span class="name">Pierre-Antoine Grégoire 🌊🐧🇫🇷📷🎸🎮</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/zepag/status/1 118 839 192 992 321 536" class="date">18 avr. 2019 à 13:30:25</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Je sens que @fcamblor va faire des calembours douteux sur les dates :D intro sur fond des horloges d'Emmet Brown :) #DevoxxFR https://t.co/mwaLRHVfym</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bqSFhWsAAyF7d.jpg" alt="1 118 839 153 888 768 000"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Les problèmes de date, ça arrive à tout le monde : Microsoft, Apple, Twitter. Donc ça vous est arrivé …​ ou ça va vous arriver.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-5">
+<br/>
+<h2 id="trueavant">Avant</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Au début, on utilisait le soleil pour mesurer le temps. Ca permettait juste de savoir le milieu de la journée. Et pour des villes qui sont sur le même fuseau horaire, l’heure solaire (l’heure vraie) peut être différente. Pour éviter ça, on utilise une heure standard. La première était GMT (maintenant dépréciée en faveur d’UTC).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Le temps repose sur la seconde, une unité dans laquelle on a confiance, puisqu’elle est définie par un élément physique régulier et mesurable. Aujourd’hui, c’est défini par un nombre donné d’oscillations de l’atome de césium. C’est le temps atomique international. Ce temps sert de base au temps UTC. Il est stable quelquesoit la saison et démarre à <a href="https://fr.wikipedia.org/wiki/Epoch">EPOCH</a>. Comme la rotation de la Terre n’est pas forcément constante, on introduit régulièrement des leap seconds. Depuis EPOCH, on en a introduit 37.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Le temps est envoyé aux ordinateurs depuis des horloges atomiques à travers le protocole <a href="https://fr.wikipedia.org/wiki/Network_Time_Protocol">NTP</a>. Si il y a des deltas entre le client et le serveur, NTP garantit que les échanges mettent toujours moins de 1 seconde.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-15">
+<br/>
+<h2 id="truerepr_senter_le_temps">Représenter le temps</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Pour représenter le temps, on peut utiliser des timestamps. Evidement, ces timestamps s’expriment sur un nombre de bit donné …​ qui sera rempli à EPOCHalypse. Du coup, ça a un impact sur le stockage des dates représentant des instants dans le futur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+On peut aussi utiliser les datetimes ISO (8601). Qui incluent la date, l’heure, et le fuseau horaire.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Enfin, on peut utiliser des dates et heures locaux (sans fuseau horaire). Clairement, il y a beaucoup de non-dits dans ces cas, ce qui n’aide vraiment pas. On peut également dissocier des dates &#38; heures.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-23">
+<br/>
+<h2 id="trueles_timezones">Les timezones</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Une timezone, c’est un fuseau horaire. Et un timezone offset, c’est le décalage entre un fuseau horaire et UTC. Attention : à partir d’une timezone, on ne peut pas forcément déterminer le timezone offset (par exemple, en France, on a une heure d'été/heure d’hiver).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+La plupart des timezone définissent des offsets entiers par rapport à UTC. Ces offsets sont variables par timezone. Et on utilise des TZ Table pour les déterminer.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Les TZ Table sont disponibles sur GitHub, sur un repository où il y a des changements …​ plusieurs fois par semaine.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-32">
+<br/>
+<h3 id="truecomment_le_syst_me_se_met_il_jour">Comment le système se met-il à jour ?</h3>
+<br/>
+<div class="ulist data-line-34">
+<br/>
+<ul>
+<br/>
+<li>En Java, les TZ Data sont définies dans le JRE (et peuvent être updatées par le TZUpdater - disponible dans le JDK).</li>
+<br/>
+<li>Pour MySQL, il faut le faire à la main.</li>
+<br/>
+<li>En Node, on le fait à la main avec un paquet mis à jour à chaque release des TZ Data</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-39">
+<br/>
+<h3 id="trueque_faire">Que faire ?</h3>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Ca dépend des applications : une application purement française pourra survivre à des mises à jour peu fréquentes. Par contre, pour l’international, il faut pouvoir suivre ces mises à jour rapidement (les russes ont changé leurs TZ Data avec une action effective un mois après).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+En particulier, créer des dates dans le futur est dangereux, puisque les règles peuvent changer. Si vous devez le faire, stockez la date et l’heure locale ainsi que la timezone de l’utilisateur (et la date de création).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-45">
+<br/>
+<h2 id="truedst">DST</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-47">
+</p>
+<p>
+Le changement d’heure, ça n’est pas pratique (et ça risque de disparaître).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-49">
+</p>
+<p>
+Mais il y a autre chose : quand on passe de l’heure d’hiver à l’heure d’été, une heure n’existe pas. Ca a un impact : que fait votre librairie quand vous donnez une heure qui n’existe pas ? Avec java.util.Date, ça plante.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+Réciproquement, au passage à l’heure d’hiver, une heure existe deux fois. Ca n’est pas non plus très pratique. Dans ce cas, le comportement peut aussi être différent selon le navigateur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-54">
+</p>
+<p>
+Dans les grosses boîtes, les batches qui passent la nuit (à 2H30, par exemple) peuvent avoir des problèmes pénibles. Pour éviter ça, il faut baser les batches sur des heures UTC.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-56">
+<br/>
+<h2 id="truecas_particuliers">Cas particuliers</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+En plus de ces éléments …​ curieux, il y a tout un tas de cas particuliers :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-60">
+<br/>
+<ul>
+<br/>
+<li>Les années bissextiles</li>
+<br/>
+<li>Le 31 décembre d’une année aux îles Samoa n’existe pas</li>
+<br/>
+<li>Deux dates Java sont égales si elles utilisent le même fuseau horaire. Si ça n’est pas le cas, il ya une méthode <code>isEqual</code> pour ça</li>
+<br/>
+<li>Et encore, ça n’est rien à côté de la gestion des dates en Javascript, qui semble être authentiquement la fête de la saucisse</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-65">
+<br/>
+<h2 id="truequelques_bonnes_pratiques">Quelques bonnes pratiques</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="ulist data-line-67">
+<br/>
+<ul>
+<br/>
+<li>Tous les serveurs doivent être en timezone UTC à tous les niveaux
+<br/>
+<div class="ulist data-line-68">
+<br/>
+<ul>
+<br/>
+<li>La timezone de l’OS doit être UTC</li>
+<br/>
+<li>La timezone de la DB doit être UTC</li>
+<br/>
+</ul>
+<br/>
+</div></li>
+<br/>
+<li>Envoyer la date n’est pas trivial
+<br/>
+<div class="ulist data-line-71">
+<br/>
+<ul>
+<br/>
+<li>N’envoyez pas de date sans fuseau horaire</li>
+<br/>
+<li>N’envoyez pas non plus de date simplement avec la date</li>
+<br/>
+<li>Envoyez plutôt une range de date (avec la timezone) pour éviter les problèmes louches de changement d’heure</li>
+<br/>
+</ul>
+<br/>
+</div></li>
+<br/>
+<li>En vrai, les recherches de date sont en général des recherches de range …​ Ca mérite d’y réfléchir</li>
+<br/>
+<li>N’utilisez pas de LocalDateTime !</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-77">
+<br/>
+<h3 id="truetime_only_patterns">Time-only patterns</h3>
+<br/>
+<div class="ulist data-line-79">
+<br/>
+<ul>
+<br/>
+<li>Stocker toujours la timezone de l’utilisateur ayant saisi l’heure</li>
+<br/>
+<li>Evitez de stocker votre heure dans un objet DateTime
+<br/>
+<div class="ulist data-line-81">
+<br/>
+<ul>
+<br/>
+<li>Utilisez plutôt une chaîne de caractère avec la timezone à côté</li>
+<br/>
+</ul>
+<br/>
+</div></li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-83">
+<br/>
+<h3 id="truedate_only_patterns">Date-only patterns</h3>
+<br/>
+<div class="ulist data-line-85">
+<br/>
+<ul>
+<br/>
+<li>Utilisez une structure adaptée</li>
+<br/>
+<li>Evitez de stocker une date dans une DateTime. Si vous devez le faire, utilisez midi comme heure, c’est plus facile.</li>
+<br/>
+<li>Si vous connaissez la timezone, stockez-la</li>
+<br/>
+</ul>
+<br/>
+<h2>Conclusion</h2>
+<br/>
+C'était aussi intéressant que ce à quoi je m'attendais, et à mon avis un super complément à l'énorme article de <a href="https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/">Jon Skeet</a> sur le même sujet. Et en plus, <a href="https://twitter.com/fcamblor">Frédéric</a> était vraiment bon.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

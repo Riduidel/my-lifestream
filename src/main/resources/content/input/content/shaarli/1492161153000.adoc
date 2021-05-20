@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Solving Imaginary Scaling Issues at Scale — as interpreted by @seldo
+:jbake-tags: web,programming,scalabilité,performance,_mois_avr.,_année_2017
+:jbake-date: 2017-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1492161153000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fi%2Fmoments%2F801085643547930624&searchtags=web+programming+scalabilit%C3%A9+performance+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/i/moments/801085643547930624[Solving Imaginary Scaling Issues at Scale — as interpreted by @seldo]
+
+Tout ce qu'il y a là-dedans est rigoureusement vrai

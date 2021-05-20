@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fire : A Multi-Protocol IM Client For OS X
+:jbake-tags: software,freeware,macosx,réseau,chat,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109971906000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffire.sourceforge.net%2F&searchtags=software+freeware+macosx+r%C3%A9seau+chat+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://fire.sourceforge.net/[Fire : A Multi-Protocol IM Client For OS X]
+
+Fire is a free Instant Messaging client for Mac OS X. It supports the seven most popular Instant Messaging services: AIMÂ® ICQÂ® irc Jabber MSNÂ® Yahoo! MessengerÂ® Apple Rendezvous (New!)

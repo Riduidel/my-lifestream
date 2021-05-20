@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 2016 Florida President: Trump vs. Clinton - Polls - HuffPost Pollster
+:jbake-tags: statistiques,gui,web,politique,_mois_nov.,_année_2016
+:jbake-date: 2016-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1478246361000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Felections.huffingtonpost.com%2Fpollster%2F2016-florida-presidential-general-election-trump-vs-clinton%3Fvia%3Dpollster%26related%3Dhuffpostpol%2Cpollsterpolls&searchtags=statistiques+gui+web+politique+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://elections.huffingtonpost.com/pollster/2016-florida-presidential-general-election-trump-vs-clinton?via=pollster&related=huffpostpol,pollsterpolls[2016 Florida President: Trump vs. Clinton - Polls - HuffPost Pollster]
+
+La meilleure partie de ce graphique ? La ligne du bas qui indique les intervalles de confiance

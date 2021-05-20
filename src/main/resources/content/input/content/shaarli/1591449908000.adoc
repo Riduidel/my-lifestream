@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust-Powered Command-Line Utilities to Increase Your Productivity
+:jbake-tags: rust,programming,command-line,utilities,_mois_juin,_année_2020
+:jbake-date: 2020-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1591449908000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftowardsdatascience.com%2Frust-powered-command-line-utilities-to-increase-your-productivity-eea03a4cf83a&searchtags=rust+programming+command-line+utilities+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://towardsdatascience.com/rust-powered-command-line-utilities-to-increase-your-productivity-eea03a4cf83a[Rust-Powered Command-Line Utilities to Increase Your Productivity]
+
+Bon, je n'aime pas la ligne de commande, c'est un fait. Mais je trouve bien que les développeurs Rust y apportent des innovations.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Libre | Dans le cloud, personne ne vous entend crier
+:jbake-tags: web,sécurité,confidentialité,_mois_sept.,_année_2014
+:jbake-date: 2014-09-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1409831799000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog-libre.org%2Fpost%2F2014%2F09%2F03%2Fdans-le-cloud-personne-ne-vous-entend-crier&searchtags=web+s%C3%A9curit%C3%A9+confidentialit%C3%A9+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog-libre.org/post/2014/09/03/dans-le-cloud-personne-ne-vous-entend-crier[Blog Libre | Dans le cloud, personne ne vous entend crier]
+
+Chouette article qui relance incidement mon envie de quitter Dropbox

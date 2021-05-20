@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rachota project home page
+:jbake-tags: software,freeware,open-source,java,portable,gtd,management,_mois_nov.,_année_2006
+:jbake-date: 2006-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1164813461000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frachota.sourceforge.net%2F&searchtags=software+freeware+open-source+java+portable+gtd+management+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://rachota.sourceforge.net/[Rachota project home page]
+
+Une application de suivi d'activités en Java, Open-source, lançable depuis une clé USB. Que demande le peuple ?

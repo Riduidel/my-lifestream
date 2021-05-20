@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Future History or "Heinlein Timeline"
+:jbake-tags: serie
+:jbake-date: 2005-10-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Future_History_or__Heinlein_Timeline_.adoc
+:jbake-source: https://www.goodreads.com/series/109620
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780671656232.html[The Man Who Sold the Moon]
+* link:../books/9780425019085.html[Orphans of the Sky]

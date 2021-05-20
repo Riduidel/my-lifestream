@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: O'Reilly Network: The CSS Anarchist Strikes Again!
+:jbake-tags: web,css,langage,documentation,tips,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348337000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.oreillynet.com%2Fpub%2Fa%2Fjavascript%2F2001%2F03%2F09%2Fanarchist_2.html&searchtags=web+css+langage+documentation+tips+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.oreillynet.com/pub/a/javascript/2001/03/09/anarchist_2.html[O'Reilly Network: The CSS Anarchist Strikes Again!]
+
+More css anarchy !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Portable Rails: Ruby on Rails as a PortableApp
+:jbake-tags: software,documentation,tutorial,ruby,rails,windows,_mois_avr.,_année_2007
+:jbake-date: 2007-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1175786661000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fruby.about.com%2Fod%2Fresources%2Fqt%2Fportable_rails.htm&searchtags=software+documentation+tutorial+ruby+rails+windows+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://ruby.about.com/od/resources/qt/portable_rails.htm[Portable Rails: Ruby on Rails as a PortableApp]
+
+Dans la même veine que PortableRuby, une version portable de Rails, ça doit bien pouvoir servir ... surtout pour développer vite fait mal fait ;-)

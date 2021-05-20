@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Anne Gabrillagues on Twitter: "Un architecte qui ne code pas est dangereux pour les projets ! #AgilePaysBasque"
+:jbake-tags: citation,programming,architecture,carrière,_mois_sept.,_année_2016
+:jbake-date: 2016-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1474897419000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fagabrillagues%2Fstatus%2F779324344552022016&searchtags=citation+programming+architecture+carri%C3%A8re+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/agabrillagues/status/779324344552022016[Anne Gabrillagues on Twitter: "Un architecte qui ne code pas est dangereux pour les projets ! #AgilePaysBasque"]
+
+Exactement !

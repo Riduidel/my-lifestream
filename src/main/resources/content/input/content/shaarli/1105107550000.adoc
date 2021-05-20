@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Opera's search.ini illustrated
+:jbake-tags: software,opera,help,search,_mois_janv.,_année_2005
+:jbake-date: 2005-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1105107550000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.schrode.net%2Fopera%2Fsearch%2Fsearch_ini.html&searchtags=software+opera+help+search+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.schrode.net/opera/search/search_ini.html[Opera's search.ini illustrated]
+
+How to change the default search queries in Opera by editing search.ini and buttons.ini, more specifically dedicated to Opera 6, but usable for Opera 7

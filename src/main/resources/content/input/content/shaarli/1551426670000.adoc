@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaFX UI in Rust
+:jbake-tags: java,javafx,rust,communication,_mois_mars,_année_2019
+:jbake-date: 2019-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1551426670000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fastonbitecode.github.io%2Fblog%2Fpost%2Frust-javafx%2F&searchtags=java+javafx+rust+communication+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://astonbitecode.github.io/blog/post/rust-javafx/[JavaFX UI in Rust]
+
+Ohlala OHLALA OHLALALALALALALALA Je suis ému. Même si la communication entre JavaFX et Rust est, dans ce cas, vraiment déguleulasse. Et même si le lancement de la JVM par Rust est également sale. Merci Jérémy !

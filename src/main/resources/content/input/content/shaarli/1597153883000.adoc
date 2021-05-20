@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architects Zoom In and Out, See Different Things (Thinking Like An Architect Part 5) - The Architect Elevator
+:jbake-tags: architecture,complexité,entreprise,_mois_août,_année_2020
+:jbake-date: 2020-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1597153883000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farchitectelevator.com%2Farchitecture%2Farchitects-zoom%2F&searchtags=architecture+complexit%C3%A9+entreprise+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://architectelevator.com/architecture/architects-zoom/[Architects Zoom In and Out, See Different Things (Thinking Like An Architect Part 5) - The Architect Elevator]
+
+Ca me fait vraiment penser à la manière dont Simon Brown présent le modèle C4 (bon, c'est normal vu le sujet)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PS emulator
+:jbake-tags: software,freeware,jeu,macosx,emulator,_mois_juil.,_année_2006
+:jbake-date: 2006-07-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1154034297000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpcsx.gpost.dk%2F&searchtags=software+freeware+jeu+macosx+emulator+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://pcsx.gpost.dk/[PS emulator]
+
+Un émulateur de playstation pour le Mac .... je me demande quels jeux pourront tourner sur mon ibook.

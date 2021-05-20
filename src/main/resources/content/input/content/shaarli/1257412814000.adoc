@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alternatives to Windows, Mac, Linux and online software - AlternativeTo.net
+:jbake-tags: software,library,windows,linux,macosx,_mois_nov.,_année_2009
+:jbake-date: 2009-11-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1257412814000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Falternativeto.net%2Fdesktop&searchtags=software+library+windows+linux+macosx+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://alternativeto.net/desktop[Alternatives to Windows, Mac, Linux and online software - AlternativeTo.net]
+
+Trop une bonne idée, ce site. Pour chaque logiciel, il référence des alternatives valables, et souvent open-sources (ou en tout cas moins chères)

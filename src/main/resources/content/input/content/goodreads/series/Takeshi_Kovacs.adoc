@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Takeshi Kovacs
+:jbake-tags: serie
+:jbake-date: 2015-02-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Takeshi_Kovacs.adoc
+:jbake-source: https://www.goodreads.com/series/44634
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782811200589.html[Carbone modifié]
+* link:../books/9782811201357.html[Anges déchus]
+* link:../books/9791028103880.html[Furies déchaînées]

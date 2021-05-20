@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 300 Universe
+:jbake-tags: serie
+:jbake-date: 2011-05-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/300_Universe.adoc
+:jbake-source: https://www.goodreads.com/series/210861
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782878270310.html[300]

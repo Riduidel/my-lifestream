@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Iceberger
+:jbake-tags: science,mer,_mois_févr.,_année_2021
+:jbake-date: 2021-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1613813573000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjoshdata.me%2Ficeberger.html&searchtags=science+mer+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://joshdata.me/iceberger.html[Iceberger]
+
+Et voici la simulation physique qui montre qu'effectivement, les icebergs flottent sur le "côté"

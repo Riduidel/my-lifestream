@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shelfari - Welcome to Shelfari! Read, Share, Explore!
+:jbake-tags: livre,catalog,folksonomie,free,library,management,online,sharing,social,web,_mois_sept.,_année_2007
+:jbake-date: 2007-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1189085261000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.shelfari.com%2F&searchtags=livre+catalog+folksonomie+free+library+management+online+sharing+social+web+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.shelfari.com/[Shelfari - Welcome to Shelfari! Read, Share, Explore!]
+
+Pour la première fois, je tombe sur un service en ligne qui me donne envie de balancer mon gros plugin Wordpress pour les laisser dépatouiller mes données ... Enfin, presque :-)

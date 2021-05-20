@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: natto | a canvas for JavaScript
+:jbake-tags: javascript,web,ide,programming,_mois_avr.,_année_2021
+:jbake-date: 2021-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1618593281000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnatto.dev%2Fd%2Ff4a5f18d4e9e4569850e8e2115ca247b&searchtags=javascript+web+ide+programming+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://natto.dev/d/f4a5f18d4e9e4569850e8e2115ca247b[natto | a canvas for JavaScript]
+
+Un outil de développement Javascript très intéressant, parce qu'à mi-chemin entre le graphe d'opérations et l'outil de développement "classique". C'est plein de possibilités très intéressantes.

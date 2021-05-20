@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CLI: improved
+:jbake-tags: linux,command-line,alternatives,_mois_août,_année_2018
+:jbake-date: 2018-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1535737691000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fremysharp.com%2F2018%2F08%2F23%2Fcli-improved&searchtags=linux+command-line+alternatives+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://remysharp.com/2018/08/23/cli-improved[CLI: improved]
+
+Toutes ces alternatives sont très intéressantes. Je vais les installer sur mon Ubuntu for Windows :-)

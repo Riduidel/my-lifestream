@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La mission de Rosetta expliquée en dessin animé
+:jbake-tags: science,espace,voyage,_mois_nov.,_année_2014
+:jbake-date: 2014-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1415811943000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fmission-rosetta-expliquee-en-dessin-anime%2F&searchtags=science+espace+voyage+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/mission-rosetta-expliquee-en-dessin-anime/[La mission de Rosetta expliquée en dessin animé]
+
+Encore un exploit de la technologie spatiale. Dans quelques minutes, Philae va atterir, et je ne suis pas sûr que ce dessin animé rende pleinement justice aux adeptes de Kerbal Space Program qui ont réussi à envoyer ces sondes sur cette comète.

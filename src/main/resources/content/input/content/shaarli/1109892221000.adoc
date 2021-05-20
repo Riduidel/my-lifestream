@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dmitri Chklovskii
+:jbake-tags: web,science,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109892221000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cshl.org%2Flabs%2Fmitya%2Fchklovskiilabhome.html&searchtags=web+science+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cshl.org/labs/mitya/chklovskiilabhome.html[Dmitri Chklovskii]
+
+Our goal is to uncover fundamental principles of brain design and apply them to understand the workings of the brain. We pursue this goal theoretically, by building quantitative theories that can explain existing observations and make experimentally testa

@@ -1,0 +1,71 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La prochaine frontière ? l'ALM
+:jbake-tags: agile,github,processus,_mois_oct.,_année_2013
+:jbake-date: 2013-10-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/10/24/la-prochaine-frontiere-lalm.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/10/24/la-prochaine-frontiere-lalm/
+:jbake-style: wordpress
+
+++++
+<p>
+Dans mon message sur le <a href="http://riduidel.wordpress.com/2013/10/23/le-depot-de-bilan-ca-craint/">dépôt de bilan</a>, je parlais de
+<br/>
+<blockquote>Un truc tout con : pour faire de l’agile, utiliser cinq outils, c’est juste idiot. je vais préciser un peu : on utilise Scrumwise pour le backlog, Google Drive pour les specs, Mantis pour les bugs, Google Spreadsheet pour donner d ela visibilité aux bugfixes …</blockquote>
+<br/>
+Je dois dire que ça m'a pas mal travaillé récement. Ca m'a d'autant plus travaillé qu'en raison des contraintes externes, on nous demande ces temps-ci beaucoup de reporting concernant les corrections de bugs (un secteur du développement sur lequel il faudrait aussi que j'écrive quelque chose). Un reporting qui, naturellement, prend la forme d'un tableau Google Drive (parce que quand ton seul outil est un marteau, tous les problèmes finissent par ressembler à des clous).
+</p>
+<p>
+J'en parlais parce qu'une nouvelle sur LinuxFr m'a récement intrigué  :  <a href="https://linuxfr.org/news/la-forge-libre-tuleap-gagne-le-prix-americain-infoworld-bossie-award-2013">La forge libre Tuleap gagne le prix américain InfoWorld Bossie Award 2013</a>. Ca m'avait intrigué parce que, avec Sourceforge, Origo, gitHub, on peut dire que j'ai un peu vadrouillé du côté des forges, et que si certaines fonctionnalités sont sympathiques, ça ne va pas souvent bien loin ...
+</p>
+<p>
+Enfin, pas loin, pas loin, je dois bien reconnaître que GitHub Issues est une sacrément bon sang de bonne idée. Et c'est sans doute à cause de cette bonne idée que je trouve Tuleap aussi bien : parce qu'il pousse cette diée de tracabilité du code bien plus loin. C'est expliqué dans leur doc : on peut lier une user story à un bug report, lui-même lié à un commit (et éventuellement fermé depuis le commit) et à un build du Jenkins embarqué. Et là, comme dans GitHub, il semble possible de fermer (ou tout au moins de référencer) un item dans le commit pour que tous soient liés.
+</p>
+<p>
+Et à mon avis, c'est ça la prochaine frontière du développement.
+</p>
+<p>
+Je m'explique.
+</p>
+<p>
+Vous développiez comment il y a dix ans ?
+</p>
+<p>
+Moi, je faisais du java dans mon Textpad avec un script Ant qui tentait de faire (mal) des tests. (Bon déja c'était bien j'utilisais Ant pour compiler).
+</p>
+<p>
+Et puis JUnit est apparu pour mieux qualifier la qualité de mon code.
+</p>
+<p>
+Et puis Hudson/Jenkins est apparu pour mieux s'assurer de la qualité de tout le code qui pouvait dépendre du mien ... et pour faire tout un tas d'autre trucs.
+</p>
+<p>
+Mais, d'un point de vue traçabilité, il manquait quand même des choses : comment savoir d'où venait - fonctionnellement - telle ou telle ligne de code ?
+</p>
+<p>
+Rien.
+</p>
+<p>
+Aujourd'hui, avec Git, on peut un peu plus facilement retracer une ligne de code jusqu'à un commit et - dans GitHub uniquement - à un issue qui a pu être écrit à ce sujet. Mais il manque l'aspect fonctionnel : quel est le besoin utilisateur qui a mené à ce code ?
+</p>
+<p>
+Et c'est ça à mona vis que peut amener Tuleap : aller de la spec au code en un coup, et d'une façon qui documente clairement le process.
+</p>
+<p>
+Bon, il y a évidement d'autres avantages, mais celui-là me paraît structurant pour une entreprise.
+</p>
+<p>
+Oh, j'allais oublier la cerise sur le gateau : il y a un connecteur Mylyn pour que le développeur aie connaissance d'autant d'informations que possible dans son Eclipse !
+</p>
+<p>
+Autrement dit, j'ai hâte d'essayer cet outil.
+</p>
+<p>
+&#160;
+</p>
+<p>
+&#160;
+</p>
+++++

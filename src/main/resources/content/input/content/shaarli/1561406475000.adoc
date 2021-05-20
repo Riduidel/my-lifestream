@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Facebook just picked Rust to implement their new Libre blockchain : rust
+:jbake-tags: rust,programming,déploiement,blockchain,sécurité,_mois_juin,_année_2019
+:jbake-date: 2019-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1561406475000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.reddit.com%2Fr%2Frust%2Fcomments%2Fc20aed%2Ffacebook_just_picked_rust_to_implement_their_new%2F&searchtags=rust+programming+d%C3%A9ploiement+blockchain+s%C3%A9curit%C3%A9+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.reddit.com/r/rust/comments/c20aed/facebook_just_picked_rust_to_implement_their_new/[Facebook just picked Rust to implement their new Libre blockchain : rust]
+
+Oh, tiens, un choix judicieux de la part de Facebook (oui, évidement que je dis ça juste parce que je pense que Rust est une sacrément bonne idée)

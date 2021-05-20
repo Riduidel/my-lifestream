@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RadRails, all is forgiven!
+:jbake-tags: debug,développement,eclipse,programming,rails,ruby,tips,tutorial,_mois_févr.,_année_2007
+:jbake-date: 2007-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1170607498000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frichtextblog.blogspot.com%2F2006%2F09%2Fradrails-all-is-forgiven.html&searchtags=debug+d%C3%A9veloppement+eclipse+programming+rails+ruby+tips+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://richtextblog.blogspot.com/2006/09/radrails-all-is-forgiven.html[RadRails, all is forgiven!]
+
+Un tutorial pour faire du debugging d'applications Rails depuis Eclipse. Je ne l'ai pas encore testé avec Locomotive, mais pourquoi pas ...

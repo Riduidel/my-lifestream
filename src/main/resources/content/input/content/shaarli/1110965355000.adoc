@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FingaMIDI
+:jbake-tags: software,freeware,open-source,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110965355000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffingamidi.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://fingamidi.sourceforge.net/[FingaMIDI]
+
+FingaMIDI is a replacement driver for the ADB trackpad found in Apple G4 PowerBooks and second generation (white) iBooks. It allows the inbuilt trackpad to be used as a three-axis MIDI controller, sending x, y and z (pressure) data as parameter change mes

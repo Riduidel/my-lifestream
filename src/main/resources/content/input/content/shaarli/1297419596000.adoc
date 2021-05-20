@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TCPView - Free Port Viewer Software
+:jbake-tags: software,windows,réseau,_mois_févr.,_année_2011
+:jbake-date: 2011-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1297419596000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffree-port-scanner.com%2Ftcpview-port-viewer-software.php&searchtags=software+windows+r%C3%A9seau+_mois_f%C3%A9vr.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://free-port-scanner.com/tcpview-port-viewer-software.php[TCPView - Free Port Viewer Software]
+
+J'aime bien les softs de SysInternals, ils sont petits, ils sont sympas, ils font bien le boulot qu'on leur demande de faire. celui-ci, en l'occurence, liste joliment les ports TCP/UDP ouverts sur une machine. Et c'est parfois hyper-utile.

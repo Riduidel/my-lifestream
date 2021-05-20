@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Modern Extreme Programming | Benji's Blog -
+:jbake-tags: programming,management,agile,_mois_mai,_année_2015
+:jbake-date: 2015-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1431607353000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbenjiweber.co.uk%2Fblog%2F2015%2F04%2F17%2Fmodern-extreme-programming%2F%3Futm_content%3Dbuffer9f096%26utm_medium%3Dsocial&searchtags=programming+management+agile+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://benjiweber.co.uk/blog/2015/04/17/modern-extreme-programming/?utm_content=buffer9f096&utm_medium=social[Modern Extreme Programming | Benji's Blog -]
+
+Un bon article sur l'évolution de l'extreme programming dans le contexte moderne

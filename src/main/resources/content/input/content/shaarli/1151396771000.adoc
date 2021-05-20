@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: stu nicholls | CSS PLaY | experiments with cascading style sheets | home page
+:jbake-tags: css,design,développement,exemple,expérience,gallerie,hack,programming,web,tutorial,_mois_juin,_année_2006
+:jbake-date: 2006-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1151396771000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cssplay.co.uk%2Findex.html&searchtags=css+design+d%C3%A9veloppement+exemple+exp%C3%A9rience+gallerie+hack+programming+web+tutorial+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.cssplay.co.uk/index.html[stu nicholls | CSS PLaY | experiments with cascading style sheets | home page]
+
+Un site d'exemples CSS tout à fait incroyables.

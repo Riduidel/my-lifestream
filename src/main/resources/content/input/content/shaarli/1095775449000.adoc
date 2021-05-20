@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GanttProject - Home
+:jbake-tags: java,open-source,projet,software,freeware,management,planning,windows,linux,macosx,_mois_sept.,_année_2004
+:jbake-date: 2004-09-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1095775449000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fganttproject.sourceforge.net%2F&searchtags=java+open-source+projet+software+freeware+management+planning+windows+linux+macosx+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://ganttproject.sourceforge.net/[GanttProject - Home]
+
+A project can be subdivided into sub-tasks, each with a begin date, duration, dependencies, progress, and notes.Ganttproject uses an XML file format and can export PNG/JPG images, HTML web pages or PDF documents.

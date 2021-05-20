@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fabien Cerutti
+:jbake-tags: author
+:jbake-date: 2017-09-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/8037738.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/8037738
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070792801.html[L'Ombre du pouvoir (Le Bâtard de Kosigan #1)]
+* link:../books/9782070792818.html[Le Fou prend le Roi (Le Bâtard de Kosigan #2)]
+* link:../books/9782072786662.html[Le Marteau des sorcières (Le Bâtard de Kosigan, #3)]
+* link:../books/9782072863059.html[Le Testament d'involution (Le Bâtard de Kosigan, #4)]

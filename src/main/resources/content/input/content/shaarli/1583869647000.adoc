@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Coronavirus Tracker - COVID-19 Coronavirus outbreak map LIVE in 2020
+:jbake-tags: maladie,épidémie,carte,infographie,_mois_mars,_année_2020
+:jbake-date: 2020-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1583869647000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvisalist.io%2Femergency%2Fcoronavirus&searchtags=maladie+%C3%A9pid%C3%A9mie+carte+infographie+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://visalist.io/emergency/coronavirus[Coronavirus Tracker - COVID-19 Coronavirus outbreak map LIVE in 2020]
+
+Wow, Cette carte de l'infection du coronavirus est vraiment chouette, et semble enfin constituée d'une façon raisonnable.

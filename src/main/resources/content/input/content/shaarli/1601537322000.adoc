@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Microservices — architecture nihilism in minimalism's clothes - Blog by Vasco Figueira
+:jbake-tags: microservices,architecture,critique,réflexion,_mois_oct.,_année_2020
+:jbake-date: 2020-10-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1601537322000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvlfig.me%2Fposts%2Fmicroservices&searchtags=microservices+architecture+critique+r%C3%A9flexion+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://vlfig.me/posts/microservices[Microservices — architecture nihilism in minimalism's clothes - Blog by Vasco Figueira]
+
+Une vision très détaillée de ces histoires d'architectures à base de microservices. C'est d'autant plus intéressant que ça met bien en avant le fait que le vrai truc complexe, c'est le passage du code à la prod.

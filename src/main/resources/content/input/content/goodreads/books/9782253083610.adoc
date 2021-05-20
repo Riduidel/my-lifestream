@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nous sommes Légion (Nous sommes Bob #1)
+:jbake-tags:  humanité, ia, immortalité, initiation, near-space, voyage,_année_2020,_mois_juin,_note_3,rayon-imaginaire,read
+:jbake-date: 2020-06-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253083610.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592026589l/53992089._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592026589l/53992089._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/53992089
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Bob Johansson vient de vendre sa start-up et va pouvoir profiter de la vie. Tant de lieux à visiter, de livres à lire et de films à voir ! Pas de bol, il se fait écraser en traversant la rue. Lorsqu’il revient à lui, un siècle plus tard, c'est pour découvrir qu'il appartient désormais au gouvernement. Téléchargé dans un ordinateur, il est pressenti pour devenir une IA capable de se répliquer à volonté, aux commandes d'une sonde interstellaire destinée à la recherche de planètes habitables. Les enjeux sont considérables. S'il refuse cette mission, on l'éteindra et un autre prendra sa place. S'il accepte, il devient une cible de choix. Au moins trois autres puissances se verraient bien envoyer leur sonde en premier, et tous les coups sont permis.<br /><br />Pour Bob, l'endroit le plus sûr, c'est dans l'espace, le plus loin possible de la Terre. C'est du moins ce qu'il croit...
+</div>
+++++
+
+
+## Authors
+* link:../authors/12130438.html[Dennis E. Taylor]
+
+## Series
+* link:../series/Bobiverse.html[Bobiverse]
+
+## Review
+
+++++
+Dans ce roman, Bob est un développeur qui a revendu avec succès sa startup et qui, pour fêter ça, prend une souscription dans une boîte de cryonistes (vous savez, ceux qui vous congèlent à la mort dans l'espoir qu'on pourra un jour vous revitaliser).<br/>Une ellipse plus tard, on le retrouve transformé en IA par un gouvernement américain théocratique lancé dans une course à l'espace. Evidement, il va gagner cette course à l'espace et devenir le pionnier de l'humanité dans les 30 années-lumière autour de la Terre. Et comme il est devenu une IA? Bob va développer tout un tas de nouveaux gadgets et, surtout, se multiplier.<br/>Je ne suis pas sûr d'avoir totalement adhéré à ce roman pour une raison assez simple: Bob est trop fort. En effet, il arrive toujours à se défaire de ses chaînes avec facilité, sans que ça ne paraisse si grave que ça : les intégristes essayent d'implanter des backdoors dans son code ? Pas de problème, il se copie dans une sandbox et teste tout le code pour trouver le problème. Il est pris dans la politique terrienne ? Pas de problème, il arrivera à s'en tirer et à sauver les restes de la population terrienne. Il est attaqué par une IA rivale venue du Brésil ? Pas de problème, il trouve comment se défaire de son adversaire vite et bien. Tout semble en fait terriblement facile.<br/>Et au-dela de cette facilité, il y a un autre gros problème (attention spoiler). Bob se démultiplie (et ça n'est pas vraiment pas le problème) et agit comme un démiurge, ce qui est plusieurs fois mentionné comme un risque dans ce roman. Mais il ne s'interroge réellement à aucun moment sur ses motivations. Je vais prendre deux exemples : d'abord quand il sauve l'humanité puis quand il découvre des extra-terrestres. Dans les deux cas, une vraie interrogation aurait dû se poser : doit-il intervenir ou pas ? Et si il intervient, quelle forme doit prendre cette intervention ? Ces interrogations, qui à mon sens feraient tout le sel d'un roman sur l'omnipotence, ne sont qu’effleurées et réglées par un "je veux le faire, alors je vais le faire". Et si cette interrogation sur la corruption par le pouvoir apparaît en creux, ça n'est certainement pas la volonté de l'auteur qui, dans une tradition de la SF positive des années 60, est très content de tout ce qui arrive à Bob.<br/>Au sujet de la tradition dans laquelle l'auteur s'inscrit, il faut noter que ce roman est correctement écrit, habilement rythmé entre les différents Bob narrateurs, et qu'on ne se perd que rarement dans la multiplicité des points de vue. Toutefois, il souffre de ce point de vue de quelques défauts : le fan service est parfois un peu pénible (oh, le Seigneur des Anneaux, oh, Star Trek/Star Wars/Stargate/Battlestar Gallactica). Bon, en même temps, le premier chapître pose le ton avec la convention de SF à Las Vegas ... Bref, c'est un roman écrit par un fan de SF pour les fans de SF, une espèce de sucrerie légère qui rappelle avec une certaine nostalgie la capacité qu'à cette espèce littéraire à créer du Sense of Wonder. Malheureusement, c'est écrit avec la légèreté d'un magazine de mode là où certaines questions auraient mérité plus de profondeur. Je lirai quand même le deuxième tome pour voir si l'auteur arrive à dégager plus de profondeur ... et aussi parce que j'aime bien cette histoire au personnage central attachant.
+++++

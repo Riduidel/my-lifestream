@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Site Ancolie - pages pour enfants
+:jbake-tags: jeu,enfants,web,_mois_nov.,_année_2007
+:jbake-date: 2007-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1194184816000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fperso.orange.fr%2Fancolie51%2Fpages_enfants2%2Faccueil.html&searchtags=jeu+enfants+web+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://perso.orange.fr/ancolie51/pages_enfants2/accueil.html[Site Ancolie - pages pour enfants]
+
+Un site de jeux pour enfants

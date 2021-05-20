@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: InternetFrog.com
+:jbake-tags: web,test,réseau,bandwidth,java,_mois_avr.,_année_2005
+:jbake-date: 2005-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1113476538000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.internetfrog.com%2Fmypc%2Fspeedtest%2F&searchtags=web+test+r%C3%A9seau+bandwidth+java+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.internetfrog.com/mypc/speedtest/[InternetFrog.com]
+
+test speed connection for any PC through a Java applet

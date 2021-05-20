@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Rust Programming Language
+:jbake-tags: rust,programming,documentation,_mois_mai,_année_2018
+:jbake-date: 2018-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1526919888000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdoc.rust-lang.org%2Fbook%2F&searchtags=rust+programming+documentation+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://doc.rust-lang.org/book/[The Rust Programming Language]
+
+Cette doc Rust est d'une qualité folle. Chaque chapitre est limpide, et les exemples sont tous conçus pour être copié/collés. C'est vraiment spectaculairement bien fait (et Rust est impressionant).

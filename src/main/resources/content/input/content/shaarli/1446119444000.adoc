@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Word Document to Asciidoc Conversion
+:jbake-tags: documentation,word,markdown,web,_mois_oct.,_année_2015
+:jbake-date: 2015-10-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1446119444000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthepaulrayner.com%2Fblog%2F2013%2F02%2F14%2Fword-to-asciidoc.adoc%2F&searchtags=documentation+word+markdown+web+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://thepaulrayner.com/blog/2013/02/14/word-to-asciidoc.adoc/[Word Document to Asciidoc Conversion]
+
+Le chaînon manquant pour l'amélioration de la doc !

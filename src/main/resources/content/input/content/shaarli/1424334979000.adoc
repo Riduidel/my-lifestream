@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Charlax — Maslow's pyramid of code review
+:jbake-tags: programming,qualité,code,review,_mois_févr.,_année_2015
+:jbake-date: 2015-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1424334979000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.d3in.org%2Fpost%2F111338685456%2Fmaslows-pyramid-of-code-review%3Futm_content%3Dbuffera268a%26utm_medium%3Dsocial&searchtags=programming+qualit%C3%A9+code+review+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blog.d3in.org/post/111338685456/maslows-pyramid-of-code-review?utm_content=buffera268a&utm_medium=social[Charlax — Maslow's pyramid of code review]
+
+Chouette concept sur ce que doit faire le code review

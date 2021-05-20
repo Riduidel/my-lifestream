@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XShelf 1.1.2 for MacOS X
+:jbake-tags: software,freeware,macosx,utilities,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109972781000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage.mac.com%2Fkhsu%2FXShelf%2FXShelf.html&searchtags=software+freeware+macosx+utilities+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://homepage.mac.com/khsu/XShelf/XShelf.html[XShelf 1.1.2 for MacOS X]
+
+

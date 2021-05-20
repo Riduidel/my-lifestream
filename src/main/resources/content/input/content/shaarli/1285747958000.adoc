@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: aTunes
+:jbake-tags: database,audio,desktop,freeware,java,multimedia,open-source,_mois_sept.,_année_2010
+:jbake-date: 2010-09-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1285747958000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.atunes.org%2F&searchtags=database+audio+desktop+freeware+java+multimedia+open-source+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.atunes.org/[aTunes]
+
+Le genre de soft qui fait plaisir au javaiste que je suis. C'est quasiment aussi particulier, à sa façon, que iTunes, mais ça marche sur tous les OS (avec évidement à chaque fois des particularités rigolotes).

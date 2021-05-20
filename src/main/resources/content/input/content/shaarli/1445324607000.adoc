@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OpenJDK Development Using Tactics from Game of Thrones by Stuart Marks
+:jbake-tags: java,programming,fun,_mois_oct.,_année_2015
+:jbake-date: 2015-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1445324607000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffr.slideshare.net%2Fjbaruch%2F07-ignitesmarksgame-ofthrones&searchtags=java+programming+fun+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://fr.slideshare.net/jbaruch/07-ignitesmarksgame-ofthrones[OpenJDK Development Using Tactics from Game of Thrones by Stuart Marks]
+
+Et les mecs font ça à JavaOne. HODOR !

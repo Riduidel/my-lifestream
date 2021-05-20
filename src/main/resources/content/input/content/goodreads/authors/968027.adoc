@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Run
+:jbake-tags: author
+:jbake-date: 2008-11-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/968027.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1563107943p5/968027.jpg
+:jbake-source: https://www.goodreads.com/author/show/968027
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782359100105.html[Révélations (Mutafukaz, #3)]
+* link:../books/9782359101294.html[Doggybags 1 (Doggybags, #1)]
+* link:../books/9782359103380.html[De4d end (Mutafukaz, #4)]
+* link:../books/9782359108156.html[V (Mutafukaz #5)]
+* link:../books/9782916739038.html[Troublants Trous Noir (Mutafukaz, #2)]
+* link:../books/9782952450942.html[Dark Meat City (Mutafukaz, #1)]

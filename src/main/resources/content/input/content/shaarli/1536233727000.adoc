@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RustFest on Twitter: "Also, parents of @rustlang: hope your kids are sleeping safe and sound already, here's a little info for you! We'll again have child care offers at RustFest, please get in touch! https://t.co/jox9uaylfU"
+:jbake-tags: rust,communauté,_mois_sept.,_année_2018
+:jbake-date: 2018-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1536233727000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRustFest%2Fstatus%2F1037430165666766856&searchtags=rust+communaut%C3%A9+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/RustFest/status/1037430165666766856[RustFest on Twitter: "Also, parents of @rustlang: hope your kids are sleeping safe and sound already, here's a little info for you! We'll again have child care offers at RustFest, please get in touch! https://t.co/jox9uaylfU"]
+
+Le genre d'idées qui me font aimer la communauté Rust (que j'approche seulement)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PhotoME - Exif, IPTC & ICC Metadata Editor
+:jbake-tags: exif,photographie,software,freeware,windows,editor,_mois_juin,_année_2008
+:jbake-date: 2008-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1213791239000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.photome.de%2F&searchtags=exif+photographie+software+freeware+windows+editor+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.photome.de/[PhotoME - Exif, IPTC & ICC Metadata Editor]
+
+Un éditeur de métadonnées

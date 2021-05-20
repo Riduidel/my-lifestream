@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: install Smackbook
+:jbake-tags: hack,macosx,software,tutorial,documentation,install,_mois_août,_année_2006
+:jbake-date: 2006-08-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1154455012000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.applegeeks.com%2Fsm%2Findex.php%2Ftopic%2C7135.msg129483.html%23msg129483&searchtags=hack+macosx+software+tutorial+documentation+install+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.applegeeks.com/sm/index.php/topic,7135.msg129483.html#msg129483[install Smackbook]
+
+Un tutorial complet pour installer Smackbook. Vous savez, Smackbook, le hack qui permet de changer de bureau en tapant le côté du portable

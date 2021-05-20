@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Control and access your iTunes music library from any custom menu – You Control: Tunes
+:jbake-tags: software,freeware,macosx,multimedia,clavier,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110986412000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.yousoftware.com%2Fitunes%2F&searchtags=software+freeware+macosx+multimedia+clavier+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.yousoftware.com/itunes/[Control and access your iTunes music library from any custom menu – You Control: Tunes]
+
+You Control: Tunes is a free utility that gives you complete control over iTunes from the Mac OS X menu bar. You donâ⊘t have to stop whatever it is you may be doing, switch to iTunes, take care of business and then go back to your original app. You ca

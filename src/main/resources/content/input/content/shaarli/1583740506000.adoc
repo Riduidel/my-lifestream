@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bryan Liles sur Twitter : "You aren't a Go, or Rust, or Java, or Python, or JavaScript developer (unless you are writing those languages). In reality you are a developer who uses language X to solve Y problems. You can learn new languages and paradigms. Don't get stuck in the I am an X developer."
+:jbake-tags: citation,psychologie,travail,informatique,_mois_mars,_année_2020
+:jbake-date: 2020-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1583740506000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbryanl%2Fstatus%2F1218999339311386628&searchtags=citation+psychologie+travail+informatique+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/bryanl/status/1218999339311386628[Bryan Liles sur Twitter : "You aren't a Go, or Rust, or Java, or Python, or JavaScript developer (unless you are writing those languages). In reality you are a developer who uses language X to solve Y problems. You can learn new languages and paradigms. Don't get stuck in the I am an X developer."]
+
+Sur le papier, je suis d'accord. Mais quand on a investi (comme moi) 15 ans à maîtriser le développement dans un langage (Java), c'est difficile de ne pas dire "je suis développeur Java"

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NoSQL : arrêtons de dire n’importe quoi | Sam & Max: Python, Django, Git et du cul
+:jbake-tags: nosql,software,programming,opinion,_mois_mars,_année_2014
+:jbake-date: 2014-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1395914556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsametmax.com%2Fnosql-arretons-de-dire-nimporte-quoi%2F&searchtags=nosql+software+programming+opinion+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://sametmax.com/nosql-arretons-de-dire-nimporte-quoi/[NoSQL : arrêtons de dire n’importe quoi | Sam & Max: Python, Django, Git et du cul]
+
+C'est bien cet article, parce qu'il explique bien que le "mouvement" NoSQL est en quelque sorte une espèce de vaste cacophonie remplie de spécialistes du buzzword bingo, mais aussi de bonnes idées.

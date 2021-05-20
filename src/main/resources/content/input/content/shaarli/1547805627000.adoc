@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Setting Up Powerline Shell on Windows Subsystem for Linux
+:jbake-tags: windows,terminal,shell,couleur,font,_mois_janv.,_année_2019
+:jbake-date: 2019-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1547805627000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fiamnotmyself.com%2F2017%2F04%2F15%2Fsetting-up-powerline-shell-on-windows-subsystem-for-linux%2F&searchtags=windows+terminal+shell+couleur+font+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://iamnotmyself.com/2017/04/15/setting-up-powerline-shell-on-windows-subsystem-for-linux/[Setting Up Powerline Shell on Windows Subsystem for Linux]
+
+Tu veux un shell qui soit beau dans ton Windows ? Avec powerline, tu auras toutes les jolies petites choses du shell Linux dans ton Windows (et c'est encore mieux avec fish)

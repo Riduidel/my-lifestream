@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Et pouf, un nouveau projet open-source !
+:jbake-tags: codingame,maven,_mois_juin,_année_2017
+:jbake-date: 2017-06-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/06/04/et-pouf-un-nouveau-projet-open-source.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/06/04/et-pouf-un-nouveau-projet-open-source/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, le projet existe depuis un moment, et est déja utilisé par quelques happy fews.
+</p>
+<p>
+Il s'agit de <a href="https://framagit.org/Riduidel/codingame-maven-plugins">codingame-maven-plugins</a>, qui fournit des plugins facilitant le développement et le déploiement pour Codingame.
+</p>
+<p>
+Le source est chez framagit, parce que je me voyais mal faire un projet en com.github, et que Sonatype tient à ce qu'on détienne le domaine correspondant au groupId.
+</p>
+<p>
+Du coup, merci framagit, et merci framasoft !
+</p>
+++++

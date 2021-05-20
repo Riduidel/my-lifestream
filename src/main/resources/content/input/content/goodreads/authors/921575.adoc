@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sylvie Denis
+:jbake-tags: author
+:jbake-date: 2010-05-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/921575.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1329046468p5/921575.jpg
+:jbake-source: https://www.goodreads.com/author/show/921575
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253087830.html[Axiomatique]
+* link:../books/9782253159896.html[Radieux]

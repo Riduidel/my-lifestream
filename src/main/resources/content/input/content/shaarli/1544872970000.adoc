@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Steve Canon on Twitter: "FORTRAN has had generics since before Go existed. 🤪… "
+:jbake-tags: programming,langage,fortran,go,citation,_mois_déc.,_année_2018
+:jbake-date: 2018-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1544872970000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fstephentyrone%2Fstatus%2F1073487475379564544&searchtags=programming+langage+fortran+go+citation+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/stephentyrone/status/1073487475379564544[Steve Canon on Twitter: "FORTRAN has had generics since before Go existed. 🤪… "]
+
+J'ai fait du Fortran au XXème siècle, et c'était ... bien ... mais pas foufou non plus. Cela dit, Go n'est pas non plus bien fameux.

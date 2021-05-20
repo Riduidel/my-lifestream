@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Slim Decafe Java – Pulse Code
+:jbake-tags: java,spring,quarkus,performance,mémoire,_mois_déc.,_année_2019
+:jbake-date: 2019-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1576569678000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.benco.io%2Fjava-microsvc-mem%2F&searchtags=java+spring+quarkus+performance+m%C3%A9moire+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.benco.io/java-microsvc-mem/[Slim Decafe Java – Pulse Code]
+
+Quand je vois tous ces gens qui font du Spring Boot comme si c'était la solution universelle, ce genre d'article me fait un peu de bien ...

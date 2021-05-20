@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Afterburner.fx The Opinionated JavaFX Productivity Igniter
+:jbake-tags: java,javafx,framework,open-source,cdi,_mois_mai,_année_2017
+:jbake-date: 2017-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1496258070000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fafterburner.adam-bien.com%2F&searchtags=java+javafx+framework+open-source+cdi+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://afterburner.adam-bien.com/[Afterburner.fx The Opinionated JavaFX Productivity Igniter]
+
+Ca a l'air pas mal du tout ... Dommage que la seule doc soit en vidéo

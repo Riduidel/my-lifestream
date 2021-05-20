@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La ponctuation française
+:jbake-tags: français,langage,reference,_mois_oct.,_année_2007
+:jbake-date: 2007-10-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1193412089000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.la-ponctuation.com%2F&searchtags=fran%C3%A7ais+langage+reference+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.la-ponctuation.com/[La ponctuation française]
+
+Un très beau site sur la ponctuation à la française

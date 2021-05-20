@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: orshachar/known-issue: Add a @KnownIssue annotation for TestNg tests that already have a related bug on Jira, and they will be skipped until it is resolved.
+:jbake-tags: java,programming,test,integration,bug,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546414039000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Forshachar%2Fknown-issue&searchtags=java+programming+test+integration+bug+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/orshachar/known-issue[orshachar/known-issue: Add a @KnownIssue annotation for TestNg tests that already have a related bug on Jira, and they will be skipped until it is resolved.]
+
+C'est une chouette idée, qui mériterait d'être étendue 1 - à JUnit 2 - à d'autres bugtrackers (je pense en particulier à GitHub issues)

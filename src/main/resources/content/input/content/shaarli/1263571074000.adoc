@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Generic CRUD Components with Java EE 5 : Adam Bien's Weblog
+:jbake-tags: tutorial,j2ee,pattern,crud,generics,_mois_janv.,_année_2010
+:jbake-date: 2010-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1263571074000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.adam-bien.com%2Froller%2Fabien%2Fentry%2Fgeneric_crud_components_with_java&searchtags=tutorial+j2ee+pattern+crud+generics+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.adam-bien.com/roller/abien/entry/generic_crud_components_with_java[Generic CRUD Components with Java EE 5 : Adam Bien's Weblog]
+
+Le genre de couches de service que j'aid éja implémentée plus d'une fois. ca mériterait carrément de figurer dans un projet de référence, ça ...

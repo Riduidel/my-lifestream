@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [forrestbrazeal] Bad architecture diagrams obscure complexity. Good architecture diagrams reduce complexity. Great architecture diagrams force you to confront the complexity inherent in your problem space.
+:jbake-tags: architecture,documentation,diagram,citation,_mois_mai,_année_2020
+:jbake-date: 2020-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1590478186000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fforrestbrazeal%2Fstatuses%2F1265159394301480964&searchtags=architecture+documentation+diagram+citation+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/forrestbrazeal/statuses/1265159394301480964[[forrestbrazeal] Bad architecture diagrams obscure complexity. Good architecture diagrams reduce complexity. Great architecture diagrams force you to confront the complexity inherent in your problem space.]
+
+La phrase est d'une justesse incroyable : le vrai défi de l'architecte, c'est bien de présenter les vrais challenges de l'application. C'est à mon avis pour ça qu'il faut plusieurs types de diagrammes différents.

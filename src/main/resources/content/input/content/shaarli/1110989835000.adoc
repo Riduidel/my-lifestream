@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CMatrix by Chris Allegretta
+:jbake-tags: software,freeware,linux,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110989835000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.asty.org%2Fcmatrix.html&searchtags=software+freeware+linux+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.asty.org/cmatrix.html[CMatrix by Chris Allegretta]
+
+CMatrix is a program I wrote one evening because I didn't want to have to run Wind\*ws to see the cool scrolling lines from 'The Matrix', my fave movie. If you haven't seen this movie and you are a fan of computers or sci-fi in general, go see this movie!

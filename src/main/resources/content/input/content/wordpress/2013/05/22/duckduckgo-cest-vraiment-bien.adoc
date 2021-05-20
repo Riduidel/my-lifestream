@@ -1,0 +1,36 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DuckDuckGo, c'est vraiment bien !
+:jbake-tags: duckduckgo,web,_mois_mai,_année_2013
+:jbake-date: 2013-05-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/05/22/duckduckgo-cest-vraiment-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/05/22/duckduckgo-cest-vraiment-bien/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, ça, je le savais déja (essentiellement parce que je l'utilise maintenant comme moteur de recherche par défaut - ce qui a l'avantage non négligeable de me faire regarder les mises à jour de Google Search avec un oeil curieux).
+<br/>
+Ce qu'en revanche je ne savais pas, c'est que <a href="https://dukgo.com/blog/xmpp-services-at-duckduckgo">DuckDuckGo héberge son propre serveur XMPP</a> (qui, lui, fait de la fédération - et me permet donc théoriquement d'utiliser mon compte gmail et/ou opera pour me connecter dessus).
+</p>
+<p>
+En soi, c'est assez cool. Ce qui l'est encore plus, c'est qu'ils disposent d'un bot Jabber relayant dans ce protocole toutes les fonctionnalités (et <a href="https://duckduckgo.com/goodies">elles sont multiples</a>) de leur moteur de recherche.
+</p>
+<p>
+Du coup, je peux maintenant, depuis mon Pidgin moche mais pratique, demander des tonnes de trucs à l'internet.
+</p>
+<p>
+<a href="http://www.kaakook.fr/citation-12461">Des trucs comme dormir ?</a> MAIS C'EST PAS UN PYJAMA !(désolé, je peux pas résister)
+</p>
+<p>
+Non, juste tout ce qu'internet peut offrir.
+</p>
+<p>
+J'avais essayé un service un peu approchant de chez Google, mais je dois avouer que c'était un peu moins bien fichu.
+</p>
+<p>
+Là, par contre, je suis conquis (une fois de plus) par l'approche .... que je ne qualifierai pas de geek (le terme est maintenant désuet : l'UMP l'utilise) ... respectueuse des réseaux ... de cet éditeur de moteur de recherche. Chapeau les gars !
+</p>
+++++

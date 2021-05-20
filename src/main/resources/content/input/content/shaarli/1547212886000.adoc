@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: free-programming-books/free-programming-books-fr.md at master · EbookFoundation/free-programming-books
+:jbake-tags: documentation,informatique,libre,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547212886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books%2Fblob%2Fmaster%2Ffree-programming-books-fr.md&searchtags=documentation+informatique+libre+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-fr.md[free-programming-books/free-programming-books-fr.md at master · EbookFoundation/free-programming-books]
+
+Si vous cherchez des ebooks libres sur l'informatique, ça m'a l'air d'être le bon endroit ...

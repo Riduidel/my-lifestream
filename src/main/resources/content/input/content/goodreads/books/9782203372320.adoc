@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'habitant De L'infini, Tome 6
+:jbake-tags:  fantasy, japon, rayon-bd,_année_2000,_mois_janv.,_note_1,broc,read
+:jbake-date: 2000-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782203372320.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452631795l/2546639._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1452631795l/2546639._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2546639
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Manji, el samurai inmortal y su compañera siguen su errante camino por el que irán encontrando nuevas amenazas. Los enemigos continúan cayendo, pero cada vez son más letales... Una historia ambientada en el Japón del periodo Edo, en la que un samurai maldito debe llegar a vencer a mil adversarios para poder deshacerse de la pesada carga que supone la inmortalidad. Una serie de culto votada una y otra vez como la favorita de los lectores que saben lo que es un buen manga.
+</div>
+++++
+
+
+## Authors
+* link:../authors/180389.html[Hiroaki Samura]
+
+## Series
+* link:../series/Blade_of_the_Immortal___.html[Blade of the Immortal / 無限の住人]
+
+## Review
+
+++++
+
+++++

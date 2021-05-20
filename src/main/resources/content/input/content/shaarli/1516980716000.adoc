@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NanoHttpd/nanohttpd: Tiny, easily embeddable HTTP server in Java.
+:jbake-tags: java,programming,web,http,library,_mois_janv.,_année_2018
+:jbake-date: 2018-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1516980716000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FNanoHttpd%2Fnanohttpd&searchtags=java+programming+web+http+library+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/NanoHttpd/nanohttpd[NanoHttpd/nanohttpd: Tiny, easily embeddable HTTP server in Java.]
+
+Mais c'est très choupi, ça !

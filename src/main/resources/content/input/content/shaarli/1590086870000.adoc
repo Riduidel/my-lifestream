@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: notepad_logger - crates.io: Rust Package Registry
+:jbake-tags: rust,windows,hack,log,library,open-source,_mois_mai,_année_2020
+:jbake-date: 2020-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1590086870000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcrates.io%2Fcrates%2Fnotepad_logger&searchtags=rust+windows+hack+log+library+open-source+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://crates.io/crates/notepad_logger[notepad_logger - crates.io: Rust Package Registry]
+
+Bon, heu, là, c'est d'un intérêt ... particulier. Et j'imagine qu'il y a en plus pas mal de technique pour arriver à envoyer les logs dans Notepad. Bref, c'est fou, étrange, et vraiment pas à mon goût.

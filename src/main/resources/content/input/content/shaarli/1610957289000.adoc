@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Supporting Your Own Field or Method Injection Annotation Processors in Spring
+:jbake-tags: spring,cdi,java,hack,programming,_mois_janv.,_année_2021
+:jbake-date: 2021-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1610957289000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjoshlong.com%2Fjl%2FblogPost%2Fsupporting_your_own_field_or_method_injection_annotation_processors_in_spring.html&searchtags=spring+cdi+java+hack+programming+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://joshlong.com/jl/blogPost/supporting_your_own_field_or_method_injection_annotation_processors_in_spring.html[Supporting Your Own Field or Method Injection Annotation Processors in Spring]
+
+J'avais déja fait la même chose avec CDI et ... c'était beaucoup, mais alors beaucoup plus facile. Là, ça resemble à du bon gros hack.

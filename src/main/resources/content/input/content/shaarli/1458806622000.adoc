@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les fausses bonnes idées que j’ai croisé dans ma carrière - BreizhCamp 2016 // Speaker Deck
+:jbake-tags: programming,histoire,_mois_mars,_année_2016
+:jbake-date: 2016-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1458806622000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Flilobase%2Fles-fausses-bonnes-idees-que-jai-croise-dans-ma-carriere-breizhcamp-2016&searchtags=programming+histoire+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://speakerdeck.com/lilobase/les-fausses-bonnes-idees-que-jai-croise-dans-ma-carriere-breizhcamp-2016[Les fausses bonnes idées que j’ai croisé dans ma carrière - BreizhCamp 2016 // Speaker Deck]
+
+Bon article sur tous ces trucs qui ont l'air intelligent, alors qu'en fait non

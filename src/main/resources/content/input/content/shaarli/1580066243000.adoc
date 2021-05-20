@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home - The Haskell Tool Stack
+:jbake-tags: haskell,environnement,programming,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580066243000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.haskellstack.org%2Fen%2Fstable%2FREADME%2F&searchtags=haskell+environnement+programming+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://docs.haskellstack.org/en/stable/README/[Home - The Haskell Tool Stack]
+
+Donc ghc est l'équivalent de rustc cabal est l'équivalent de cargo et stack est l'équivalent de rustup (avec un peud e cargo dedans)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joel on Software - Back to Basics
+:jbake-tags: programming,concepts,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112281060000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.joelonsoftware.com%2Farticles%2Ffog0000000319.html&searchtags=programming+concepts+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.joelonsoftware.com/articles/fog0000000319.html[Joel on Software - Back to Basics]
+
+Articles from Joel Spolsky in english

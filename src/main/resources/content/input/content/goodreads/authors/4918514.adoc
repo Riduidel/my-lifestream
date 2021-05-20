@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Charlie Jane Anders
+:jbake-tags: author
+:jbake-date: 2019-12-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4918514.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1532450668p5/4918514.jpg
+:jbake-source: https://www.goodreads.com/author/show/4918514
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290172872.html[Tous les oiseaux du ciel]

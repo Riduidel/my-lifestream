@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Dhall configuration language
+:jbake-tags: yaml,configuration,langage,_mois_juin,_année_2019
+:jbake-date: 2019-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1559813561000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdhall-lang.org%2F&searchtags=yaml+configuration+langage+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dhall-lang.org/[The Dhall configuration language]
+
+Je crois qu'il va falloir que je jette un oeil à ce truc, ça a l'air "intéressant"

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Learn you Func Prog on five minute quick! • The Register
+:jbake-tags: programming,functionnal,humour,_mois_janv.,_année_2016
+:jbake-date: 2016-01-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1452759238000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theregister.co.uk%2F2016%2F01%2F13%2Fstob_remember_the_monoids%2F%3Fmt%3D1452727496860&searchtags=programming+functionnal+humour+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.theregister.co.uk/2016/01/13/stob_remember_the_monoids/?mt=1452727496860[Learn you Func Prog on five minute quick! • The Register]
+
+Oh qu'il est bon cet article. des langages aux monades, tout y passe.

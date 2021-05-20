@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Code review – from good to great – Eduards Sizovs
+:jbake-tags: code,review,pratique,programming,_mois_août,_année_2020
+:jbake-date: 2020-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1596567030000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsizovs.net%2F2020%2F07%2F19%2Fthe-code-review%2F&searchtags=code+review+pratique+programming+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://sizovs.net/2020/07/19/the-code-review/[Code review – from good to great – Eduards Sizovs]
+
+Cet article sur la revue de code me donnerait presque envie de m'y mettre ...

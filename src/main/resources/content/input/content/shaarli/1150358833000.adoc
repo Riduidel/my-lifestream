@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How IT Projects Really Work (in cartoon form) V1.5
+:jbake-tags: comics,développement,engineering,humour,management,projet,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150358833000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.scaryideas.com%2FCartoons%2FITProjects%2Fproject_1.5.html&searchtags=comics+d%C3%A9veloppement+engineering+humour+management+projet+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.scaryideas.com/Cartoons/ITProjects/project_1.5.html[How IT Projects Really Work (in cartoon form) V1.5]
+
+Un très bon résumé de ce que peut donner la gestion de projets.

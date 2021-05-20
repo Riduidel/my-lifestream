@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Refroidissement FREEBOX REVOLUTION V6 - Matechnique.fr
+:jbake-tags: freebox,hack,_mois_févr.,_année_2017
+:jbake-date: 2017-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1486472422000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.matechnique.fr%2Frefroidissement-freebox-revolution-v6%2F&searchtags=freebox+hack+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.matechnique.fr/refroidissement-freebox-revolution-v6/[Refroidissement FREEBOX REVOLUTION V6 - Matechnique.fr]
+
+La méthode jackypc pour avoir une freebox à la bonne température

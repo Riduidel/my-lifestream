@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 3K, 60fps, 130ms: achieving it with Rust | tonari blog
+:jbake-tags: rust,programming,expérience,tutorial,_mois_juin,_année_2020
+:jbake-date: 2020-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1592376563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.tonari.no%2Fwhy-we-love-rust&searchtags=rust+programming+exp%C3%A9rience+tutorial+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.tonari.no/why-we-love-rust[3K, 60fps, 130ms: achieving it with Rust | tonari blog]
+
+Un retour d'expérience très complet, et vraiment très bien fichu, sur la création d'une solution de visio conférence basée sur Rust. Tout y passe : le langage, les crates, les IDE, l'intégration continue. C'est vraiment très intéressant.

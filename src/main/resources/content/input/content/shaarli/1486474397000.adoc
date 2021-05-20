@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Armin Ronacher on Twitter: "Fun fact: because of all the metadata, the javascript community downloads "isarray" in the excess of 100GB a month from npm. For a one liner"
+:jbake-tags: développement,javascript,_mois_févr.,_année_2017
+:jbake-date: 2017-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1486474397000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmitsuhiko%2Fstatus%2F712624914071728128&searchtags=d%C3%A9veloppement+javascript+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/mitsuhiko/status/712624914071728128[Armin Ronacher on Twitter: "Fun fact: because of all the metadata, the javascript community downloads "isarray" in the excess of 100GB a month from npm. For a one liner"]
+
+On disait beaucoup de mal sur maven sur ces sujets-là il y a quelques années ...

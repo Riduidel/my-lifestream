@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Philip K. Dick
+:jbake-tags: author
+:jbake-date: 2002-10-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4764.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1264613853p5/4764.jpg
+:jbake-source: https://www.goodreads.com/author/show/4764
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780879978105.html[The Three Stigmata of Palmer Eldritch]
+* link:../books/9782070814053.html[L'o10ssée Folio SF en 10 nouvelles]
+* link:../books/9782207302385.html[Deus Irae]
+* link:../books/9782277116332.html[Ubik]

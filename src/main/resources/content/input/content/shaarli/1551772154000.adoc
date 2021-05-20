@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stephanie Morillo on Twitter: "Hey developers—I know many of y'all use Medium as a blog platform. If I can offer a #proTip, migrate your blog posts to your own personal blog. If you're writing content for free on Medium, and they put a wall preventing others to read it, it defeats the purpose of using it.… https://t.co/Kkil9CKYVJ"
+:jbake-tags: communication,blog,platform,web,_mois_mars,_année_2019
+:jbake-date: 2019-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1551772154000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fradiomorillo%2Fstatus%2F1097956302456844289&searchtags=communication+blog+platform+web+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/radiomorillo/status/1097956302456844289[Stephanie Morillo on Twitter: "Hey developers—I know many of y'all use Medium as a blog platform. If I can offer a #proTip, migrate your blog posts to your own personal blog. If you're writing content for free on Medium, and they put a wall preventing others to read it, it defeats the purpose of using it.… https://t.co/Kkil9CKYVJ"]
+
+Sérieusement, créez un blog plutôt que d'utiliser Medium. Ca n'est pas plus dur, et vous y gagnez une certaine garantie de survie de vos écrits

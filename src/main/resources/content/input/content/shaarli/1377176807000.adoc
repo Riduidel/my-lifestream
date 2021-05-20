@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: error-prone - Catch common Java mistakes as compile-time errors
+:jbake-tags: java,compilateur,développeur,programming,open-source,_mois_août,_année_2013
+:jbake-date: 2013-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1377176807000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcode.google.com%2Fp%2Ferror-prone%2F&searchtags=java+compilateur+d%C3%A9veloppeur+programming+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://code.google.com/p/error-prone/[error-prone - Catch common Java mistakes as compile-time errors]
+
+Un compilateur Java qui détecte les erreurs communes et les affiche comme erreurs de compilation. Très chouette pour développer en mode "light" (cad sans Eclipse)

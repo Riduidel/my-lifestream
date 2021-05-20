@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Virtue
+:jbake-tags: software,freeware,macosx,desktop,_mois_mars,_année_2005
+:jbake-date: 2005-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1110201526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvirtuedesktops.sourceforge.net%2F&searchtags=software+freeware+macosx+desktop+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://virtuedesktops.sourceforge.net/[Virtue]
+
+Virtue is a virtual desktop manager for Mac OS 10.3 developed as a so called pet project of mine. Over time Virtue developed (and keeps developing) into a full featured virtual desktop manager able to compete with commercial variants of its kind. DesktopM

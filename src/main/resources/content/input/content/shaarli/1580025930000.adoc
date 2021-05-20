@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Self-Protecting Projects
+:jbake-tags: programming,build,qualité,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580025930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Famihaiemil.com%2F2020%2F01%2F17%2Fself-protecting-projects.html&searchtags=programming+build+qualit%C3%A9+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://amihaiemil.com/2020/01/17/self-protecting-projects.html[Self-Protecting Projects]
+
+Les deux idées mentionnées dans cet article sont très bonnes. Si la validation du projet pendant le build est facile à mettre en place, la création automatique d'issues à chaque exception paraît un peu moins triviale.

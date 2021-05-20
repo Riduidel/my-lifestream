@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jerkar, the pure Java build tool
+:jbake-tags: java,build,framework,open-source,_mois_mars,_année_2017
+:jbake-date: 2017-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1488363797000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fproject.jerkar.org%2Findex.html&searchtags=java+build+framework+open-source+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://project.jerkar.org/index.html[Jerkar, the pure Java build tool]
+
+Mais qu'est-ce que c'est que cette idée ?

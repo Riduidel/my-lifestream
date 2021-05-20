@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Au nom du Diable (Hellboy #2)
+:jbake-tags:  combat, nazis, rayon-bd,_année_2011,_mois_déc.,_note_3,démons,read
+:jbake-date: 2011-12-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847890747.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/929181
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Hellboy is one of the most celebrated comics series in recent years. The ultimate artists' artist and a great storyteller whose work is in turns haunting, hilarious, and spellbinding, Mike Mignola has won numerous awards in the comics industry and beyond. When strangeness threatens to engulf the world, a strange man will come to save it. Sent to investigate a mystery with supernatural overtones, Hellboy discovers the secrets of his own origins, and his link to the Nazi occultists who promised Hitler a final solution in the form of a demonic avatar.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3961.html[Alan Moore]
+* link:../authors/13717537.html[Marc Winckler]
+* link:../authors/10182.html[Mike Mignola]
+
+## Series
+* link:../series/Hellboy.html[Hellboy]
+* link:../series/Hellboy_-_Edicao_Historica.html[Hellboy - Edição Histórica]
+* link:../series/Hellboy_Edicao_Historica.html[Hellboy Edição Histórica]
+* link:../series/Hellboy__Despierta_al_Demonio.html[Hellboy: Despierta al Demonio]
+* link:../series/Hellboy__Edicion_cartone.html[Hellboy: Edición cartoné]
+* link:../series/Hellboy__Edicion_rustica.html[Hellboy: Edición rústica]
+
+## Review
+
+++++
+Elle est pas un peu effrayante, cette histoire mettant en scène la belle, mais dangereuse, Lisa Haupstein, Raspoutine, et quelques autres nazis, le tout dans des décors aussi effrayants que les personnages ?<br/>Moi, en tout cas, je la trouve efffrayant, mais aussi extrêmement hiératique, par la grâce du trait de Mignolia, qui ne semble pas vouloir dessiner réellement le mouvement, mais plutôt le suggérer : même quand Hellboy saute, vole ou tombe, on n'a pas vraiment l'impression que ça se passe.
+++++

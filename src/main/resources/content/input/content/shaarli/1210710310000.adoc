@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: impala - Google Code
+:jbake-tags: dynamic,java,plugin,programming,spring,ioc,_mois_mai,_année_2008
+:jbake-date: 2008-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1210710310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fimpala%2F&searchtags=dynamic+java+plugin+programming+spring+ioc+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://code.google.com/p/impala/[impala - Google Code]
+
+Une extension à Spring pour supporter "facilement" (mais faut tester) du code avec plugins.

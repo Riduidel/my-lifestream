@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EmailFuture.com - The best way to send emails to yourself in the future.
+:jbake-tags: email,générateur,todo,_mois_mars,_année_2017
+:jbake-date: 2017-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1490177552000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Femailfuture.com%2F&searchtags=email+g%C3%A9n%C3%A9rateur+todo+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://emailfuture.com/[EmailFuture.com - The best way to send emails to yourself in the future.]
+
+J'utilisais il y a longtemps un service analogue. C'est très pratique pour les notes à soi-même.

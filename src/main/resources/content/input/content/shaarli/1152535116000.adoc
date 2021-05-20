@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Properties : CSS 2.1 Reference : Cultured Code
+:jbake-tags: css,documentation,développement,programming,reference,visualisation,web,_mois_juil.,_année_2006
+:jbake-date: 2006-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1152535116000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.culturedcode.com%2Fcss%2Freference.html&searchtags=css+documentation+d%C3%A9veloppement+programming+reference+visualisation+web+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.culturedcode.com/css/reference.html[Properties : CSS 2.1 Reference : Cultured Code]
+
+Un très beau guide de référence CSS 2

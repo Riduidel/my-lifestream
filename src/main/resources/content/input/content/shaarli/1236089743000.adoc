@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robokill - Rock Solid Arcade
+:jbake-tags: freeware,web,jeu,fun,online,browser,_mois_mars,_année_2009
+:jbake-date: 2009-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1236089743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rocksolidarcade.com%2Fgames%2Frobokill%2F&searchtags=freeware+web+jeu+fun+online+browser+_mois_mars+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.rocksolidarcade.com/games/robokill/[Robokill - Rock Solid Arcade]
+
+Un bon vieux jeu de baston à l'ancienne ... mais en flash. En tout cas, ça défouraille sérieusement.

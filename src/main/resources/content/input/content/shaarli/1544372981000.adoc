@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sebastian Slomski 🇪🇺 on Twitter: "Remember the time when you used #selfhtml to learn about the web?… "
+:jbake-tags: web,histoire,html,documentation,_mois_déc.,_année_2018
+:jbake-date: 2018-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1544372981000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsebslomski%2Fstatus%2F1071142525619068928&searchtags=web+histoire+html+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/sebslomski/status/1071142525619068928[Sebastian Slomski 🇪🇺 on Twitter: "Remember the time when you used #selfhtml to learn about the web?… "]
+
+selfhtml, c'était bien ... et c'était en français !

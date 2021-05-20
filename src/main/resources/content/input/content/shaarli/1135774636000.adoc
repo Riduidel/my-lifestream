@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: For those that don't like the dark old days of dos we have produced a version of Wake on Lan for Windows
+:jbake-tags: software,freeware,windows,réseau,_mois_déc.,_année_2005
+:jbake-date: 2005-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1135774636000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.depicus.com%2Fwake-on-lan%2Fwake-on-lan-gui.aspx&searchtags=software+freeware+windows+r%C3%A9seau+_mois_d%C3%A9c.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.depicus.com/wake-on-lan/wake-on-lan-gui.aspx[For those that don't like the dark old days of dos we have produced a version of Wake on Lan for Windows]
+
+

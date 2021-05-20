@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: subhra74/xdm: Powerfull download accelerator and video downloader
+:jbake-tags: java,programming,gui,download,application,windows,macosx,linux,open-source,_mois_sept.,_année_2020
+:jbake-date: 2020-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1600888496000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsubhra74%2Fxdm&searchtags=java+programming+gui+download+application+windows+macosx+linux+open-source+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/subhra74/xdm[subhra74/xdm: Powerfull download accelerator and video downloader]
+
+Pour des raisons pas tout à fait honnêtes, je regarde cet accélérateur de téléchargement ... et je découvre avec étonnement que c'est du Java. Trop cool !

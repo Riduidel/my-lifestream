@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SlipBox
+:jbake-tags: freeware,notes,productivité,software,macosx,_mois_juil.,_année_2006
+:jbake-date: 2006-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1152536239000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmarkusguhe.net%2Fslipbox%2F&searchtags=freeware+notes+productivit%C3%A9+software+macosx+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://markusguhe.net/slipbox/[SlipBox]
+
+Une boîte à idées pour le Mac, avec gestion des liens entre les idées ... C'est une excellente idée !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Eunicycle
+:jbake-tags: monocycle,technologie,transport,_mois_sept.,_année_2004
+:jbake-date: 2004-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1095076268000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tlb.org%2Feunicycle.html&searchtags=monocycle+technologie+transport+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.tlb.org/eunicycle.html[The Eunicycle]
+
+Some time ago I built a self-balancing two-wheeled scooter. Since then I realized that two wheels are redundant, and only a single wheel is needed to make a ridable vehicle. A vehicle with a single wheel is much smaller and lighter. It's easily carried wi

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Green Vs. Brown Programming Languages - Earthly Blog
+:jbake-tags: programming,langage,mode,histoire,_mois_avr.,_année_2021
+:jbake-date: 2021-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1619118657000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fearthly.dev%2Fblog%2Fbrown-green-language%2F&searchtags=programming+langage+mode+histoire+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://earthly.dev/blog/brown-green-language/[Green Vs. Brown Programming Languages - Earthly Blog]
+
+Je trouve l'analyse tout à fait pertinente. Et je crois que je sais même d'où ça vient : le langage qu'aime le tech lead est adopté par une équipe qui n'a pas le choix, et qui n'a pas tout compris au langage, et va donc écrire du mauvais code ...

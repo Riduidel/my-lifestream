@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Octave Klaba on Twitter: "Les navettes déposent à SBG les équipes fraiches qui viennent de Roubaix et on récupère ceux qui ont tout donné. #Ovh https://t.co/EEZfZ8oi12"
+:jbake-tags: entreprise,organisation,_mois_nov.,_année_2017
+:jbake-date: 2017-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1510560076000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Folesovhcom%2Fstatus%2F929654854267625472&searchtags=entreprise+organisation+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/olesovhcom/status/929654854267625472[Octave Klaba on Twitter: "Les navettes déposent à SBG les équipes fraiches qui viennent de Roubaix et on récupère ceux qui ont tout donné. #Ovh https://t.co/EEZfZ8oi12"]
+
+Donc chez OVH, plutôt que de faire faire un sale Lille-Paris/Paris-Strasbourg en TGV (3H), ils louent des jets (1H) pour les techniciens hardware. Est-ce que votre boîte en fait autant ?

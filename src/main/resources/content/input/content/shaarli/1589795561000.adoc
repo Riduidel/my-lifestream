@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XMLBeam –
+:jbake-tags: xml,java,sérialisation,persistence,open-source,library,_mois_mai,_année_2020
+:jbake-date: 2020-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1589795561000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxmlbeam.org%2Findex.html&searchtags=xml+java+s%C3%A9rialisation+persistence+open-source+library+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://xmlbeam.org/index.html[XMLBeam –]
+
+Elle est sympa cette librairie de lecture de fichiers XML ! Ah pardon, elle fait aussi l'écriture. Et j'aime vraiment bien cette iée de tout spécifier en XPath

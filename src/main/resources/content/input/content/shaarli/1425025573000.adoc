@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home
+:jbake-tags: web,open-source,programming,_mois_févr.,_année_2015
+:jbake-date: 2015-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1425025573000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codehaus.org%2F&searchtags=web+open-source+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.codehaus.org/[Home]
+
+Oula, Codehaus s'arrête. Si vous avez des projets chez eux, ou que vous utilisez leur repository maven, pensez au déménagement

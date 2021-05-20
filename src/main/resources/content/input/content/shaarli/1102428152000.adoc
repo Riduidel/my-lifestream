@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: url2bmp
+:jbake-tags: freeware,software,web,windows,_mois_déc.,_année_2004
+:jbake-date: 2004-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1102428152000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pixel-technology.com%2Ffreeware%2Furl2bmp%2Fenglish%2F&searchtags=freeware+software+web+windows+_mois_d%C3%A9c.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.pixel-technology.com/freeware/url2bmp/english/[url2bmp]
+
+url2bmp is a Windows freeware converting an URL to an image. url2bmp screen shoot It works in interactive mode or in command line mode. Nothing to install, this is a stand-alone program Any screen size Accurate image reduction Writes BMP, PNG,

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Flying Meat: VoodooPad Lite
+:jbake-tags: software,freeware,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1111141081000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.flyingmeat.com%2Fvoodoopad%2Fvoodoopadlite.html&searchtags=software+freeware+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.flyingmeat.com/voodoopad/voodoopadlite.html[Flying Meat: VoodooPad Lite]
+
+VoodooPad is a new kind of notepad. It's like having your own personal hypertext library, where you can jot down notes, web addresses, to-do lists... Anything on your mind. VoodooPad automatically links each page together, to form a miniature world wide w

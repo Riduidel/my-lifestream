@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Profiling Rust code on Windows using CodeXL - DEV Community 👩‍💻👨‍💻
+:jbake-tags: rust,profiling,windows,performance,optimisation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1574194837000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fmartinmodrak%2Fprofiling-rust-code-on-windows-using-codexl&searchtags=rust+profiling+windows+performance+optimisation+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dev.to/martinmodrak/profiling-rust-code-on-windows-using-codexl[Profiling Rust code on Windows using CodeXL - DEV Community 👩‍💻👨‍💻]
+
+Un premier article sur le profiling Rust sous Windows assez intéressant ...

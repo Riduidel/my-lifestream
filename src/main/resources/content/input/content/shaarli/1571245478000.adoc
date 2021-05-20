@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Midnight Lizard - color schemes for all websites
+:jbake-tags: plugin,firefox,web,thème,_mois_oct.,_année_2019
+:jbake-date: 2019-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1571245478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmidnight-lizard.org%2Fhome&searchtags=plugin+firefox+web+th%C3%A8me+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://midnight-lizard.org/home[Midnight Lizard - color schemes for all websites]
+
+Je suis invraisemblablement tenté d'installer cette extension pour passer tout internet en Solarized Light ...

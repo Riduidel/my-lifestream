@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Is there a way to share a configMap in kubernetes between namespaces? - Stack Overflow
+:jbake-tags: kubernetes,configmap,configuration,copie,_mois_févr.,_année_2020
+:jbake-date: 2020-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1582278184000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F55516643%2F15619&searchtags=kubernetes+configmap+configuration+copie+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/55516643/15619[Is there a way to share a configMap in kubernetes between namespaces? - Stack Overflow]
+
+Une astuce assez pratique pour copier des configmaps d'un namespace à un autre. Je l'ai adaptée comme ça kubectl get configmap --namespace= \--export -o yaml \| sed "s/ /  /" \| kubectl apply --namespace=  \-f -

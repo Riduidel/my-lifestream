@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oblique
+:jbake-tags:  combat, enquête, hard-science, nano, rayon-imaginaire,_année_2005,_mois_févr.,_note_5,cyberpunk,read
+:jbake-date: 2005-02-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253068235.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347372031l/3628895._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347372031l/3628895._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3628895
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+L'Omphalos est un gigantesque mausolée destiné à accueillir des semi-vivants congelés souhaitant être réveillés lorsque la médecine aura trouvé le secret de l'éternelle jeunesse. Tous fabuleusement riches et, comme les potentats de l'Antiquité, entourés de leurs biens les plus précieux. De quoi donner des idées à Giffrey lorsqu'il visite en touriste l'Omphalos. Celle en particulier de jouer les pilleurs de tombes avec une bande de malfrats hautement professionnels. Mais dans ce milieu du XXIe siècle, à l'ère de la nanotechnologie et de l'émergence des Penseurs, ces intelligences artificielles ayant accédé à la conscience, rien n'est ce qu'il semble. Que cache réellement l'Omphalos ? Qui est réellement Giffrey, à son insu ? Un thriller haletant, dans l'univers de La Reine des anges, par un des maîtres de la science-fiction américaine
+</div>
+++++
+
+
+## Authors
+* link:../authors/16024.html[Greg Bear]
+
+## Series
+* link:../series/Queen_of_Angels.html[Queen of Angels]
+
+## Review
+
+++++
+Dans un caveau caché dans le fin fond de l’amérique profond doit se trouver le trésor amassé par d’innombrables nababs qui attendent un avenir meilleur(1). Bien sûr, d’audacieux cambrioleurs rêvent de mettre la main dessus. Ca, c’est à peu près ce qu’on peut trouver sur la quatrième de couverture de ce formidable roman. On y retrouve un certain nombre de personnages déja vus dans link:9782221071595.html[La Reine des Anges] avec lequel link:9782253068235.html[Oblique] partage également une vision de la Terre future extrêmement séduisante. Heureusement, link:../authors/16024.html[Greg Bear] explore ici d’autres aspects de cet univers, infiniment complexe. On entre ici dans la difficile question de l’intérêt de la santé personnelle pour la santé de l’espèce. En effet, une bonne partie du roman se base sur l’existence de thérapies basées sur la correction des potentiels électriques du cerveau(2) par le biais de nanomachines régulant la production de neuro-transmetteurs. Rien que cette exploration fournit une matière dense, riche, dans laquelle l’auteur peut puiser pour épicer de très nombreuses manières son récit. Mais ça n’est pas tout. Comme dans link:9782207249314.html[Câblé] ou link:9782253071808.html[Tous à Zanzibar](3), et dans d’autres romans, l’auteur utilise ce que j’appelle les Etats-Désunis. On y trouve des états centraux qui se sont séparés de ceux de la côte Ouest (la côte Est n’est même pas évoquée). Cette déconstruction politique permet à peu de frais de juxtaposer de nombreux systèmes, politiques et de valeurs, concernant par exemple l’utilisation des nanomachines, le port d’armes, bref, tant de tendances qui séparent actuellement ces états. Enfin, l’un des éléments les plus intéressants à mon sens (avec les différenters enquêtes menées) est la présence de deux penseurs (4) qui vont jouer un rôle clé à la fois dans le cours de l’intrigue et dans sa résolution. D’abord, Jill qui est plus une réincarnation du Shalmanezer de Brunner et cet étonnant Roddy qui met en oeuvre des théories du calcul très étranges, mais pourtant séduisantes. Tous ces éléments de contexte et de narration font de ce roman un excellent morceau de cyberpunk, sachant manier avec une aisance évidente les références (très nombreuses) à link:9782253071808.html[Tous à Zanzibar](5). A un point tel, d’ailleurs, que je me demande dans quelle mesure link:9782253068235.html[Oblique] n’en est pas une brillante réinterprétation au goût du jour. <br/>(1) Le lien avec les cryonistes me semble aussi évident qu’intéressant.<br/>(2) Censées permettre, et c’est une hypothèse de l’auteur, la guérison de très nombreux déréglements psychiques et autres troubles de la personnalité.<br/>(3) Je ne me souviens plus précisément s’il s’agit de celui-là, mais il me semble bien.<br/>(4) on parle plus classiquement d’IA, mais j’aime bien ce terme<br/>(5) Entre Jill-Shalmanezer, le style d’écriture utilisant très précisément l’espèce de zapping mis en place par link:../authors/23113.html[John Brunner], et la manière dont les différents personnages évoluent et sont utilisés, tout ou presque rappelle l’oeuvre phare de cet auteur.
+++++

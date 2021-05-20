@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gaël Poupard on Twitter: "Spolier : à la fin, l’internaute télécharge une feuille de style CSS qui s’applique à un document HTML. Ces standards sont inoxydables. Quoique vous fassiez : — une SPA, une PWA, du hybride… — du Sass, du PostCSS, du CSS-in-JS… OSEF, à commencer par vos utilisateurs. 😘"
+:jbake-tags: css,html,javascript,web,standard,citation,_mois_juin,_année_2019
+:jbake-date: 2019-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1560178117000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fffoodd_fr%2Fstatus%2F1136874825560051713&searchtags=css+html+javascript+web+standard+citation+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ffoodd_fr/status/1136874825560051713[Gaël Poupard on Twitter: "Spolier : à la fin, l’internaute télécharge une feuille de style CSS qui s’applique à un document HTML. Ces standards sont inoxydables. Quoique vous fassiez : — une SPA, une PWA, du hybride… — du Sass, du PostCSS, du CSS-in-JS… OSEF, à commencer par vos utilisateurs. 😘"]
+
+Oh ben ça alors ! Vous voulez dire que le web, ça n'est pas des trucs fous-fous ?

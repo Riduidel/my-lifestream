@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What Made iOS 13 Launch So Buggy and How To Fix The Development Process
+:jbake-tags: apple,integration,devops,_mois_nov.,_année_2019
+:jbake-date: 2019-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1574887840000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.infoq.com%2Fnews%2F2019%2F11%2Fapple-improves-ios-testing%2F&searchtags=apple+integration+devops+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.infoq.com/news/2019/11/apple-improves-ios-testing/[What Made iOS 13 Launch So Buggy and How To Fix The Development Process]
+
+Ca fait vraiment réfléchir : que les gens d'apple se fassent prendre au classique coup de l'intégration impossible, c'est vraiment tellement classique dans les boîtes drivées par les coûts.

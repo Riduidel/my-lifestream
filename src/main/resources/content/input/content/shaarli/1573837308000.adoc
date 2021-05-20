@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gitless
+:jbake-tags: git,software,développeur,windows,macosx,linux,_mois_nov.,_année_2019
+:jbake-date: 2019-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1573837308000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgitless.com%2F&searchtags=git+software+d%C3%A9veloppeur+windows+macosx+linux+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://gitless.com/[Gitless]
+
+Oh un git simplifié ! Ca doit couvrir la plupart des besoins des développeurs, non ?

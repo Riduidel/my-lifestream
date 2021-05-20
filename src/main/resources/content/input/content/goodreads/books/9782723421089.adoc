@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ghost in the Shell, tome 1
+:jbake-tags:  combat, cyberpunk, cyborg, ia,_année_2010,_mois_avr.,_note_3,rayon-bd,read
+:jbake-date: 2010-04-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782723421089.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342782678l/625820._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342782678l/625820._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/625820
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Deep into the 21st century, the line between man and machine has been inexorably blurred as humans rely on the enhancement of mechanical implants and robots are upgraded with human tissue. In this rapidly converging landscape, cyborg super-agent Major Motoko Kusanagi is charged to track down the craftiest and most dangerous terrorists and cybercriminals, including "ghost hackers," capable of exploiting the human/machine interface by re-programming human minds to become puppets to carry out their criminal ends. When Major Kusanagi tracks the cybertrail of one such master hacker, the Puppeteer, her quest leads her into a world beyond information and technology where the very nature of consciousness and the human soul are turned upside-down and inside-out.
+</div>
+++++
+
+
+## Authors
+* link:../authors/4866.html[Masamune Shirow]
+* link:../authors/287036.html[Murata Hideo]
+
+## Series
+* link:../series/Ghost_in_the_Shell.html[Ghost in the Shell]
+
+## Review
+
+++++
+Il y a des concepts vraiment fascinants dans le travail de Massamune Shirow. Je trouve presque dommage qu'ils soient noyés sous un déluge de naïades à peine vêtues.
+++++

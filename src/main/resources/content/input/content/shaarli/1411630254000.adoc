@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marka - Beautiful transformable icons
+:jbake-tags: interface,javascript,icon,programming,library,_mois_sept.,_année_2014
+:jbake-date: 2014-09-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1411630254000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffian.my.id%2Fmarka%2F&searchtags=interface+javascript+icon+programming+library+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://fian.my.id/marka/[Marka - Beautiful transformable icons]
+
+C'est chouette cette idée d''icônes définies uniquement en Javascript. Ca me rappelle un truc qu'avait fait un collègue en Java/Swing ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Uncensored Java EE 7 Book
+:jbake-tags: édition,censure,partage,p2p,politique,_mois_sept.,_année_2014
+:jbake-date: 2014-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1410946118000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FujUCrHhr_44%2Funcensored-java-ee-7-book&searchtags=%C3%A9dition+censure+partage+p2p+politique+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/ujUCrHhr_44/uncensored-java-ee-7-book[The Uncensored Java EE 7 Book]
+
+J'ai bien l'impression qu'Antonio Goncalvez va perdre son éditeur, maintenant que son article est chez JavaLobby ... C'est dommage, parce que j'ai fait acheter son bouqin JavaEE 6 et Glassfish à ma boîte, et c'était une très bonne lecture. D'un autre côté, si son JavaEE7 est dispo dans un bon GitHub, ça lui fera sans doute bien plus de pub

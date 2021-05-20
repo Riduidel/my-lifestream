@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: shanselman/TerminalAttractMode: Given a Profile and folder name, rotates the background of a Terminal
+:jbake-tags: open-source,windows,terminal,background,gif,_mois_juin,_année_2019
+:jbake-date: 2019-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1561818592000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fshanselman%2FTerminalAttractMode&searchtags=open-source+windows+terminal+background+gif+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/shanselman/TerminalAttractMode[shanselman/TerminalAttractMode: Given a Profile and folder name, rotates the background of a Terminal]
+
+C'est une idée de génie (et particulièrement fun pour les présentations)

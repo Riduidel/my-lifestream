@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Browser diversity starts with us. | Zeldman on Web & Interaction Design
+:jbake-tags: web,écosystème,diversité,firefox,chrome,monopole,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549621023000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zeldman.com%2F2018%2F12%2F07%2Fbrowser-diversity-starts-with-us%2F&searchtags=web+%C3%A9cosyst%C3%A8me+diversit%C3%A9+firefox+chrome+monopole+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.zeldman.com/2018/12/07/browser-diversity-starts-with-us/[Browser diversity starts with us. | Zeldman on Web & Interaction Design]
+
+Heureusement que mon navigateur standard est, malgré les qualités de Chrome, Firefox. Pourquoi ? Parce que le premier niveau de confiance en l'open-source, c'est de l'utiliser !

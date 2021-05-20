@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La vague
+:jbake-tags: art,photographie,nature,mer,_mois_avr.,_année_2015
+:jbake-date: 2015-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1428137803000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fla-vague%2F&searchtags=art+photographie+nature+mer+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/la-vague/[La vague]
+
+Curieusement, la mer est bien souvent comme ça

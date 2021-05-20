@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Charles L. Harness
+:jbake-tags: author
+:jbake-date: 2003-06-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/451346.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1372407311p5/451346.jpg
+:jbake-source: https://www.goodreads.com/author/show/451346
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070427055.html[L'Anneau de Ritornel]

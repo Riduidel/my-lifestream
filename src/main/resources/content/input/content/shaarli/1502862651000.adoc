@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A functional approach to dependency injection in Java
+:jbake-tags: java,programming,functionnal,_mois_août,_année_2017
+:jbake-date: 2017-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1502862651000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackernoon.com%2Fsuperkleisliisfantasticframeworksareatrocious-a-functional-approach-to-dependency-injection-in-e7bc8c4993fa&searchtags=java+programming+functionnal+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://hackernoon.com/superkleisliisfantasticframeworksareatrocious-a-functional-approach-to-dependency-injection-in-e7bc8c4993fa[A functional approach to dependency injection in Java]
+
+La programmation fonctionnelle fournit parfois des solutions très intéressantes. En l'occurence, pour l'inversion de contrôle.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Online Backup with Comodo Backup
+:jbake-tags: software,freeware,windows,réseau,backup,_mois_janv.,_année_2008
+:jbake-date: 2008-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1201705512000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbackup.comodo.com%2F&searchtags=software+freeware+windows+r%C3%A9seau+backup+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://backup.comodo.com/[Online Backup with Comodo Backup]
+
+Un petit logiciel de backup gratuit, qui a l'air de supporter pas mal de mdoes très pratiques. J'ai déja commencé à faire un backup "couillon" par copie d'une machine dans une autre, j'essayerais plus tard de faire un backup plus "malin" vers le serv

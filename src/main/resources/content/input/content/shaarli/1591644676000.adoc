@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - npryce/pottery: It's like Twitter, for recording things that happen in your project, stored in it's version control repository.
+:jbake-tags: programming,github,histoire,communauté,_mois_juin,_année_2020
+:jbake-date: 2020-06-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1591644676000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fnpryce%2Fpottery&searchtags=programming+github+histoire+communaut%C3%A9+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/npryce/pottery[GitHub - npryce/pottery: It's like Twitter, for recording things that happen in your project, stored in it's version control repository.]
+
+C'est original, et ça mérite d'être réfléchi (parce qu'avoir une vue de l'historique du projet qui inclut des événements non techniques a du sens).

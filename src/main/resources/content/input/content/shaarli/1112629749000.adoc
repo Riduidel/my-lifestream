@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JSOS - servlets office suite
+:jbake-tags: software,java,j2ee,servlet,programming,exemple,library,_mois_avr.,_année_2005
+:jbake-date: 2005-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1112629749000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcoldjava.hypermart.net%2Fservlets.htm&searchtags=software+java+j2ee+servlet+programming+exemple+library+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://coldjava.hypermart.net/servlets.htm[JSOS - servlets office suite]
+
+

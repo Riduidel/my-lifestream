@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Download details: Script Debugger for Windows NT 4.0, 2000, and XP
+:jbake-tags: software,freeware,windows,programming,debug,javascript,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112359556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.microsoft.com%2Fdownloads%2Fdetails.aspx%3Ffamilyid%3D2F465BE0-94FD-4569-B3C4-DFFDF19CCD99&searchtags=software+freeware+windows+programming+debug+javascript+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.microsoft.com/downloads/details.aspx?familyid=2F465BE0-94FD-4569-B3C4-DFFDF19CCD99[Download details: Script Debugger for Windows NT 4.0, 2000, and XP]
+
+The one and true javascript debugger for IE

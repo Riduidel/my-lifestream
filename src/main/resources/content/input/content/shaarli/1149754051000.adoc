@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fish Fillets - Next Generation
+:jbake-tags: freeware,software,windows,linux,macosx,jeu,puzzle,_mois_juin,_année_2006
+:jbake-date: 2006-06-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1149754051000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffillets.sourceforge.net%2F&searchtags=freeware+software+windows+linux+macosx+jeu+puzzle+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://fillets.sourceforge.net/[Fish Fillets - Next Generation]
+
+Un petit jeu bizarre à tester sur le mac

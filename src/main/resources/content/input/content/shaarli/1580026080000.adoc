@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The CSS Cascade
+:jbake-tags: css,documentation,découpage,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580026080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwattenberger.com%2Fblog%2Fcss-cascade&searchtags=css+documentation+d%C3%A9coupage+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://wattenberger.com/blog/css-cascade[The CSS Cascade]
+
+Cet article me rappelle une chouette présentation d'un collègue à snowcamp sur l'intégration CSS...

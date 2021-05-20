@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Viewing raw HTTP requests for debugging purposes | Mika’s tech blog
+:jbake-tags: networking,logging,windows,tutorial,_mois_sept.,_année_2020
+:jbake-date: 2020-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1601277279000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmika-s.github.io%2Fhttp%2Fdebugging%2F2019%2F04%2F08%2Fdebugging-http-requests.html&searchtags=networking+logging+windows+tutorial+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://mika-s.github.io/http/debugging/2019/04/08/debugging-http-requests.html[Viewing raw HTTP requests for debugging purposes | Mika’s tech blog]
+
+Un chouette article sur les différents moyens de tracer des requêtes. J'ai comme l'auteur une préférence pour Fiddler. Mais il faut être honnête, Wireshark et netcat sont bien plus puissants.

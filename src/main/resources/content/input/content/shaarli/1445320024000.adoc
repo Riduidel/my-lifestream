@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [venkat_s] The first step in becoming a better programmer is to let go of the conviction that we can code it once and get it right on the first write.
+:jbake-tags: citation,programming,test,_mois_oct.,_année_2015
+:jbake-date: 2015-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1445320024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F655260659194732544&searchtags=citation+programming+test+_mois_oct.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/655260659194732544[[venkat_s] The first step in becoming a better programmer is to let go of the conviction that we can code it once and get it right on the first write.]
+
+"The first step in becoming a better programmer is to let go of the conviction that we can code it once and get it right on the first write."

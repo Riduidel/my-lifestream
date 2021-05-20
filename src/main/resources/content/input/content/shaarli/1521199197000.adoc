@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jérôme Avoustin on Twitter: "Un anti-pattern est une fonction pure qui, à partir des mêmes causes, produit toujours la même merde"
+:jbake-tags: programming,citation,functionnal,pattern,_mois_mars,_année_2018
+:jbake-date: 2018-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1521199197000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJeromeAvoustin%2Fstatus%2F974580842533130240&searchtags=programming+citation+functionnal+pattern+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/JeromeAvoustin/status/974580842533130240[Jérôme Avoustin on Twitter: "Un anti-pattern est une fonction pure qui, à partir des mêmes causes, produit toujours la même merde"]
+
+Bonne description fonctionnaliste d'un anti-pattern !

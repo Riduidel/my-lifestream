@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fault injection in your JUnit with ByteMan
+:jbake-tags: java,test,bytecode,programming,qualité,_mois_avr.,_année_2014
+:jbake-date: 2014-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1397736938000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.javabenchmark.org%2F2013%2F04%2Ffault-injection-in-your-junit-with.html&searchtags=java+test+bytecode+programming+qualit%C3%A9+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.javabenchmark.org/2013/04/fault-injection-in-your-junit-with.html[Fault injection in your JUnit with ByteMan]
+
+Sacrément intéressant. je me demande ce que ça donnera avec les method references de Java 8 ... Bon, par contre, je suis peu satisafait par le "AT ENTRY" en chaîne de caractère pour spécifier le moment où renvoyer l'exception. Les enums sont faits pour ça, nom d'un chien !

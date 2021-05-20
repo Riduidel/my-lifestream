@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Getting Real, the book by 37signals
+:jbake-tags: design,développement,ebook,management,productivité,pdf,technologie,web,xp,_mois_oct.,_année_2006
+:jbake-date: 2006-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1162212725000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgettingreal.37signals.com%2F&searchtags=design+d%C3%A9veloppement+ebook+management+productivit%C3%A9+pdf+technologie+web+xp+_mois_oct.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://gettingreal.37signals.com/[Getting Real, the book by 37signals]
+
+Le bouquin écrit par les mecs de 37signals sur la façon de développer une application pour avoir une chance de livrer dans les temps (ce qui n'est vraiment pas mon cas actuellement).

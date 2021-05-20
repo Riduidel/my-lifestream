@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Tribulations d'un mage en Aurient
+:jbake-tags:  fantasy, guerre, rayon-imaginaire,_année_2005,_mois_févr.,_note_3,combat,read
+:jbake-date: 2005-02-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266148030.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337581757l/2692023._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1337581757l/2692023._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2692023
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<i>'A foot on the neck is nine points of the law'</i><br /><br />There are many who say that the art of diplomacy is an intricate and complex dance. There are others who maintain that it's merely a matter of who carries the biggest stick. The oldest and most inscrutable (not to mention heavily fortified) empire on the Discworld is in turmoil, brought about by the revolutionary treatise <b>What I did on My Holidays</b>. Workers are uniting, with nothing to lose but their water buffaloes; warlords are struggling for power - and what the nation wants, to avoid terrible doom for everyone, is a wizard. Rincewind is not the Disc’s premier wizard – in fact, he can’t even spell ‘wizard’ – but no-one specified whether competence was an issue. And they do have a very big stick…<br /><br />Mighty Battles! Revolution! Death! War! (And his sons Terror and Panic and daughter Clancy).<br /><br /><i>Alternate cover edition for <a href="https://www.goodreads.com/book/show/17426052-interesting-times" rel="nofollow noopener">ISBN 9781407034966</a></i>
+</div>
+++++
+
+
+## Authors
+* link:../authors/58715.html[Patrick Couton]
+* link:../authors/1654.html[Terry Pratchett]
+
+## Series
+* link:../series/Discworld.html[Discworld]
+* link:../series/Discworld_-_Rincewind.html[Discworld - Rincewind]
+
+## Review
+
+++++
+Je n’aime pas dire du mal, mais <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> n’écrit pas toujours des chefs-d’oeuvre de la littérature. Une fois posée cette évidence, force est de reconnaître que ce tome des Annales du Disque-Monde quoique très intéressant, n’est pas inoubliable. Non parce que les personnages n’y sont pas à la hauteur. <br/>Avec Cohen le barbare(1) et Rincevent(2), le quota de personnages fascinants est atteint sans problème, d’autant plus que le méchant de l’histoire a un je-ne-sais-quoi de tout-à-fait décap(it)ant. Non, en fait, le problème, comme à chaque fois qu’il y a usurpation, c’est qu’on ne sait jamais à quel moment se joue l’histoire. <br/>Et, apparement, là, elle ne se joue pas au moment où <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> le souhaite. Parce que même si sa bataille épique entre sept vieillards et un million de soldats (qui n’a donc aucune chance d’être gagnée par ces derniers) est remarquable, elle manque de personnalité. Alors même que la fuite des cachots est formidable de pratchettitude. Bref, même si c’est, dans l’absolu, un intéressant roman de fantasy, il s’agit là d’un <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> assez mineur. Bien sûr, il est mieux que La huitième couleur(3), mais bon, il n’est pas fabuleux pour autant. <br/>(1) Ma définition du bonheur ? Une soupe bien chaude et du papier-toilette sec !<br/>(2) Oui, vous avez bien lu, Rincevent, celui-là même qu’on avait laissé dans les dimensions de la basse-fosse à la fin de Sourcellerie et qui s’en revient, aussi courageux que toujours<br/>(3) Reconnu borne inférieure des romans du maîîîîîître
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bartosz Adamczewski sur Twitter : "People try to solve problems for the most generic case; what they should be doing instead is to solve for the most common case. #programming" / Twitter
+:jbake-tags: programming,méthode,définition,scope,citation,_mois_mai,_année_2021
+:jbake-date: 2021-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1620718411000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbadamczewski01%2Fstatus%2F1391801082511298563&searchtags=programming+m%C3%A9thode+d%C3%A9finition+scope+citation+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/badamczewski01/status/1391801082511298563[Bartosz Adamczewski sur Twitter : "People try to solve problems for the most generic case; what they should be doing instead is to solve for the most common case. #programming" / Twitter]
+
+La différence est subtile, mais sacrément importante.

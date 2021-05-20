@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bug 1452097 – Need help info for oc edit about how to use different editor in Windows
+:jbake-tags: bug,openshift,command-line,windows,_mois_mai,_année_2018
+:jbake-date: 2018-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1526022478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbugzilla.redhat.com%2Fshow_bug.cgi%3Fid%3D1452097&searchtags=bug+openshift+command-line+windows+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://bugzilla.redhat.com/show_bug.cgi?id=1452097[Bug 1452097 – Need help info for oc edit about how to use different editor in Windows]
+
+OpenShift, c'est pas mal ... mais ce bug remonté en Janvier est toujours présent aujourd'hui : aucun éditeur Windows n'est reconnu comme éditeur par la commande oc.

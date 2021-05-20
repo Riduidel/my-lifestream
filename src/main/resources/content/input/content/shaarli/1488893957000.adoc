@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hover.css - A collection of CSS3 powered hover effects
+:jbake-tags: web,animation,css,_mois_mars,_année_2017
+:jbake-date: 2017-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1488893957000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fianlunn.github.io%2FHover%2F&searchtags=web+animation+css+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://ianlunn.github.io/Hover/[Hover.css - A collection of CSS3 powered hover effects]
+
+Très chouette paquet d'animations de boutons à base de CSS

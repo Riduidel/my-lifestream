@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Quarkus - In Relation To
+:jbake-tags: programming,java,framework,quarkus,_mois_mars,_année_2019
+:jbake-date: 2019-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1552127548000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fin.relation.to%2F2019%2F03%2F08%2Fwhy-quarkus%2F&searchtags=programming+java+framework+quarkus+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://in.relation.to/2019/03/08/why-quarkus/[Why Quarkus - In Relation To]
+
+Pour être clair, tous les mecs de RedHat sont exceptionnellement enthousiastes à propos de Quarkus. Et pour avoir rapidement testé, je trouve moi aussi ça spectaculaire.

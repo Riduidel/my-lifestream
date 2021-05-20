@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Creative Way To Handle OutOfMemory Errors
+:jbake-tags: java,programming,forensics,administration,_mois_mars,_année_2014
+:jbake-date: 2014-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1395998369000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2F9QsJKGlaARY%2Fcreative-way-handle&searchtags=java+programming+forensics+administration+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/9QsJKGlaARY/creative-way-handle[Creative Way To Handle OutOfMemory Errors]
+
+Je connaissais pas le -XX:OnOutOfMemoryError. C'est le genre de truc vicieux qui peut mettre un bazar pas possible si il n'est pas correctement loggé ...

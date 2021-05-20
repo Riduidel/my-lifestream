@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Export installed Chocolatey packages as chocolatey script
+:jbake-tags: windows,script,install,chocolatey,_mois_nov.,_année_2016
+:jbake-date: 2016-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1479898480000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Falimbada%2F449ddf65b4ef9752eff3&searchtags=windows+script+install+chocolatey+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://gist.github.com/alimbada/449ddf65b4ef9752eff3[Export installed Chocolatey packages as chocolatey script]
+
+Exporter facilement la liste des packages Chocolatey installés (en PowerShell !)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Integrated systems for integrated programmers - Signal v. Noise
+:jbake-tags: architecture,application,microservices,monolithe,critique,_mois_févr.,_année_2020
+:jbake-date: 2020-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1580723822000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fm.signalvnoise.com%2Fintegrated-systems-for-integrated-programmers%2F&searchtags=architecture+application+microservices+monolithe+critique+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://m.signalvnoise.com/integrated-systems-for-integrated-programmers/[Integrated systems for integrated programmers - Signal v. Noise]
+
+J'aime beaucoup cet article qui aborde les microservices et le TDD sous un angle que je n'avais pas envisagé : la promesse d'une simplification qui résoudrait tout.

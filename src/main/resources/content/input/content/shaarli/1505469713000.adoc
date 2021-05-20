@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: David Perrotin on Twitter: "Depuis 2007, 94 pers ont été tuées par les forces de l'ordre selon l'Obs et @ACAT_France. Les procédures restent toujours très opaques https://t.co/itFRDsSBUQ"
+:jbake-tags: police,violence,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1505469713000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdavidperrotin%2Fstatus%2F908597774626717696&searchtags=police+violence+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/davidperrotin/status/908597774626717696[David Perrotin on Twitter: "Depuis 2007, 94 pers ont été tuées par les forces de l'ordre selon l'Obs et @ACAT_France. Les procédures restent toujours très opaques https://t.co/itFRDsSBUQ"]
+
+La police tue (et ce chiffre ne tient évidement pas compte de tous les morts des suites de leurs blessures)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HTML and CSS Tutorials, References, Articles and News - HTML Dog
+:jbake-tags: web,documentation,tutorial,html,css,langage,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112343591000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.htmldog.com%2F&searchtags=web+documentation+tutorial+html+css+langage+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.htmldog.com/[HTML and CSS Tutorials, References, Articles and News - HTML Dog]
+
+Web designer's resource for everything HTML and CSS, the most common technologies used in making web pages.

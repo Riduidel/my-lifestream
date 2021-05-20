@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ditto clipboard manager
+:jbake-tags: software,freeware,windows,system,clipboard,open-source,_mois_nov.,_année_2009
+:jbake-date: 2009-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1258100333000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fditto-cp.sourceforge.net%2F&searchtags=software+freeware+windows+system+clipboard+open-source+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://ditto-cp.sourceforge.net/[Ditto clipboard manager]
+
+Sans doute le meilleur clipboard manager disponible

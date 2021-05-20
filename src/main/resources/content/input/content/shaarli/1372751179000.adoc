@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gumdrop - Static website generator using Markdown and Twig
+:jbake-tags: static,php,web,générateur,open-source,markdown,_mois_juil.,_année_2013
+:jbake-date: 2013-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1372751179000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgumdropapp.com%2F&searchtags=static+php+web+g%C3%A9n%C3%A9rateur+open-source+markdown+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://gumdropapp.com/[Gumdrop - Static website generator using Markdown and Twig]
+
+Oh oh ! un générateur statique utilisant Markdown et écrit en PHP ? Ce sera sans doute plus facile à installer que les Jekyll et autres rubyseries. Le seul inconvénient que je voie pour l'utiliser directement sur le NAS, c'est le fait qu'il semble basé sur PHP 5.4 (et donc qu'il me faille attendre le build de memiks)

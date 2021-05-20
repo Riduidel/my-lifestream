@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: IOGraphica — MousePath's new home
+:jbake-tags: software,freeware,fun,desktop,art,visualisation,_mois_mars,_année_2010
+:jbake-date: 2010-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1267519606000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fiographica.com%2F&searchtags=software+freeware+fun+desktop+art+visualisation+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://iographica.com/[IOGraphica — MousePath's new home]
+
+Transforme les mouvements de la souris en oeuvre d'art, surtout quand on superpose les autres applications dessous.

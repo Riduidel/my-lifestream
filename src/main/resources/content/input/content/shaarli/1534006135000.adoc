@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "this is awesome: A Rust macro that parses Java-like syntax and runs it as a Rust program https://t.co/a7gIQJ8VbW"
+:jbake-tags: rust,java,programming,macro,_mois_août,_année_2018
+:jbake-date: 2018-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1534006135000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1028180262608355328&searchtags=rust+java+programming+macro+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1028180262608355328[Geoffroy Couprie on Twitter: "this is awesome: A Rust macro that parses Java-like syntax and runs it as a Rust program https://t.co/a7gIQJ8VbW"]
+
+Donc on peut "quasiment" écrire du Java en Rust avec cette macro ... diabolique. Je suis troublé.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iPhoto to JAlbum Exporter
+:jbake-tags: software,freeware,macosx,utilities,photographie,gallerie,_mois_févr.,_année_2008
+:jbake-date: 2008-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1202744706000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.kraehe21.de%2Fiptja%2Fiptja.html&searchtags=software+freeware+macosx+utilities+photographie+gallerie+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.kraehe21.de/iptja/iptja.html[iPhoto to JAlbum Exporter]
+
+Un exporteur iPhoto pour JAlbum, qui m'a l'air très pratique pour générer un album sur le web, en attendant de faire développer des photos papier. Allez, je reparlerais de tout ça un peu plus tard.

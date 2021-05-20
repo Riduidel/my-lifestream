@@ -1,0 +1,86 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parlons contexte, parlons contraintes
+:jbake-tags: architecture_agile,c4model,contraintes,_mois_avr.,_année_2020
+:jbake-date: 2020-04-09
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/09/parlons-contexte-parlons-contraintes.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/09/parlons-contexte-parlons-contraintes/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Dans le cadre de la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'une architecture</a>, on a déjà évoqué le <a href="https://riduidel.wordpress.com/2020/04/08/tout-est-une-question-de-contexte/">contexte</a>, les <a href="https://riduidel.wordpress.com/2020/04/08/une-application-cest-avant-tout-des-fonctionnalites/">fonctionnalités</a>, les <a href="https://riduidel.wordpress.com/2020/04/09/quest-ce-quon-entend-par-niveau-de-qualite-dun-logiciel/">contraintes de qualité</a>. Nous allons maintenant évoquer les contraintes, qui sont en fait dépendantes du contexte. Comment ? Avant tout, il faut se demander de quelles contraintes il s'agit. Le <a href="https://structurizr.com/help/documentation/constraints">modèle</a> de Simon Brown est assez clair :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Time, budget and resources.</li><li>Approved technology lists and technology constraints.</li><li>Target deployment platform.</li><li>Existing systems and integration standards.</li><li>Local standards (e.g. development, coding, etc).</li><li>Public standards (e.g. HTTP, SOAP, XML, XML Schema, WSDL, etc).</li><li>Standard protocols.</li><li>Standard message formats.</li><li>Size of the software development team.</li><li>Skill profile of the software development team.</li><li>Nature of the software being built (e.g. tactical or strategic).</li><li>Political constraints.</li><li>Use of internal intellectual property.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Quand vous regardez cette liste, que voyez-vous ? Personnellement, j'y vois du contexte. En effet, quel que soit le sujet, il ne s'agit pas de décisions portées par l'équipe, mais de contraintes apportées par l'écosystème dans lequel ce logiciel va exister. Alors certes, ça peut être un contexte désagréable. Mais c'est surtout un contexte à documenter.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et c'est aussi un contexte qui justifie l'agilité qui existe de façon sous-jacente dans cette méthode. En effet, chacune de ces contraintes est susceptible de changer dans le temps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans une expérience précédente, j'ai participé à des projets déployés dans des conteneurs. Evidement, les conteneurs ne sont pas déployés à la main, mais dans des orchestrateurs. Et des orchestrateurs, il y en a plein la <a href="https://www.cncf.io/">CNCF</a> ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/memenetes\/status\/1247630361242279936","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/memenetes" class="screenName"><img src="http://pbs.twimg.com/profile_images/1233212323260616704/YkPUCzy0_mini.jpg" alt="profile of Kubernetes dank memes. DM to get yours published."/>memenetes</a>
+		<span class="name">memenetes</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/memenetes/status/1 247 630 361 242 279 936" class="date">7 avr. 2020 à 23:00:32</a>
+
+	<span class="content">
+	
+	<span class="text">Kid: I want a really difficult puzzle for my birthday
+Me: https://t.co/y5dzjL6mIv</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EVB5M3vWoAAVg9C.jpg" alt="1 247 630 358 809 583 616"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Oui, bon, je mets le puzzle pour la blague. N'empêche. Dans cette équipe, le premier déploiement a été fait en utilisant Rancher, <a href="https://www.youtube.com/watch?v=ZR32t40h8Vs">le petit orchestrateur qui montait</a>. Et puis le contexte a pivoté, et l'entreprise a décidé que tous les déploiements devaient être faits avec OpenShift.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première version d'un document d'architecture dans cette époque aurait mentionné Rancher comme une contrainte définie par l'équipe d'infrastructure. Et une deuxième version aurait évoqué le passage à Kubernetes (et les contraintes associées). Etre agile, dans ce cas, c'est quoi ? Evidement, c'est être capable de s'adapter, aussi bien dans le logiciel qui est développé que dans la documentation d'architecture qui l'accompagne. Mais c'est aussi être capable de livrer facilement et rapidement cette documentation, et de l'exposer dans une forme qui indique clairement sa version. C'est pour ça que Word n'est pas un bon outil : la tracabilité n'est pas facilement assurée. En revanche, en livrant des PDF depuis un gestionnaire de releases, comme par exemple <a href="https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository">GitHub Releases</a>, on assure aux lecteurs que leur document sera bien la version attendue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais revenons à nos contraintes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evidement, au début du projet, surtout dans le cadre d'une mission effectuée par un consultant (comme moi), toutes ces contraintes ne sont pas connues. Mais le fait d'avoir une liste de questions à poser aide beaucoup.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si on applique ça à notre exemple, ça donne <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype/commit/8189391a3c2218dedee8df1828e5827400a22c60">ce commit</a>. Bon, les contraintes sont assez simplistes parce qu'il s'agit après tout d'un exemple, mais il est important de se les rappeler, parce qu'elles conditionnent les possibilités de déploiement. Dans le prochain article, vous verrez d'autres formes de contraintes, internes à l'équipe.</p>
+<!-- /wp:paragraph -->
+++++

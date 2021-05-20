@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grady Booch sur Twitter : "It is a truth universally acknowledged that a single developer in possession of a good idea must end up spending a tortuous amount of time setting up frameworks, repositories, and a continuous integration pipeline before writing a single line of code."
+:jbake-tags: programming,devops,framework,citation,critique,_mois_mars,_année_2020
+:jbake-date: 2020-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1584107530000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGrady_Booch%2Fstatus%2F1238277437982519297&searchtags=programming+devops+framework+citation+critique+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/Grady_Booch/status/1238277437982519297[Grady Booch sur Twitter : "It is a truth universally acknowledged that a single developer in possession of a good idea must end up spending a tortuous amount of time setting up frameworks, repositories, and a continuous integration pipeline before writing a single line of code."]
+
+La vraie cérémonie dans le développement, elle est dans tous ces outils qu'on est "obligés" de mettre en place

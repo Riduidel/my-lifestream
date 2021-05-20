@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Technical Analysis
+:jbake-tags: économie,trading,critique,statistiques,_mois_janv.,_année_2019
+:jbake-date: 2019-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1548058625000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxkcd.com%2F2101%2F&searchtags=%C3%A9conomie+trading+critique+statistiques+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://xkcd.com/2101/[xkcd: Technical Analysis]
+
+J'ai bossé un an dans une boîte qui livrait un logiciel permettant ce genre d'analyse ... Un bon miroir aux alouettes. Et le meilleur, c'est que ce sont spécialement les gens éduqués qui se font berner (ou qui ont les moyens)

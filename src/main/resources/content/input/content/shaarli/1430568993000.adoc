@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tom Eastman on Twitter: "This slide needs to be tattooed on people. @nnja #PyCon2015 #pycon http://t.co/WUvelj7eHY"
+:jbake-tags: citation,recrutement,_mois_mai,_année_2015
+:jbake-date: 2015-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1430568993000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftveastman%2Fstatus%2F586931520146903041%2Fphoto%2F1&searchtags=citation+recrutement+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/tveastman/status/586931520146903041/photo/1[Tom Eastman on Twitter: "This slide needs to be tattooed on people. @nnja #PyCon2015 #pycon http://t.co/WUvelj7eHY"]
+
+Hiring developers is hard Technical debt frustrates developers Frustrated developers are more likely to leave

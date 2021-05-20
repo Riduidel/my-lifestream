@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaScript development is not fun for me anymore – Paul Verbeek-Mast – Medium
+:jbake-tags: javascript,node.js,_mois_sept.,_année_2017
+:jbake-date: 2017-09-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1505980853000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40paulvm%2Fjavascript-development-is-not-fun-for-me-anymore-ac4e9d7b89a3&searchtags=javascript+node.js+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.com/@paulvm/javascript-development-is-not-fun-for-me-anymore-ac4e9d7b89a3[JavaScript development is not fun for me anymore – Paul Verbeek-Mast – Medium]
+
+Eh ben, il tabasse encore plus que moi, et avec des raisons autrement plus intelligentes

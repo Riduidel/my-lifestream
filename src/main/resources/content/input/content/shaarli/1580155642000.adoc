@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nicolas Grilly sur Twitter : "Only 3 good reasons for using #microservices instead of building a monolith: - You have multiple teams with clear responsibilities: 1 service per team - You use various technologies: 1 service per tech (e.g. Go and JVM) - Your services scale differently (CPU, RAM, disk, network)"
+:jbake-tags: microservices,architecture,design,citation,_mois_janv.,_année_2020
+:jbake-date: 2020-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1580155642000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fngrilly%2Fstatus%2F1221473374318317569&searchtags=microservices+architecture+design+citation+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ngrilly/status/1221473374318317569[Nicolas Grilly sur Twitter : "Only 3 good reasons for using #microservices instead of building a monolith: - You have multiple teams with clear responsibilities: 1 service per team - You use various technologies: 1 service per tech (e.g. Go and JVM) - Your services scale differently (CPU, RAM, disk, network)"]
+
+Les microservices mis en place pour des raisons dogmatiques, c'est vraiment pas terrible.

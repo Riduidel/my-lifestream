@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "ok, let’s bring the horror back: https://t.co/B94h8AmSU1"
+:jbake-tags: rust,crash,_mois_avr.,_année_2019
+:jbake-date: 2019-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1555259776000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1116692648465772544&searchtags=rust+crash+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1116692648465772544[Geoffroy Couprie on Twitter: "ok, let’s bring the horror back: https://t.co/B94h8AmSU1"]
+
+Oh c'est une idée marrante (et stylée)

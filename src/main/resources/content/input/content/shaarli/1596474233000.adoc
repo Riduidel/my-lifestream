@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Teenyicons — Tiny minimal 1px icons
+:jbake-tags: icon,web,svg,_mois_août,_année_2020
+:jbake-date: 2020-08-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1596474233000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fteenyicons.com%2F&searchtags=icon+web+svg+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://teenyicons.com/[Teenyicons — Tiny minimal 1px icons]
+
+Des icônes spécialement conçues pour être minuscules, c'est chouette

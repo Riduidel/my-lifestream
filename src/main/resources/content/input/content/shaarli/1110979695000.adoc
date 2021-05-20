@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: stupidFish23 - shadowClipboard
+:jbake-tags: software,shareware,macosx,system,clipboard,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110979695000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.stupidfish23.com%2Fshadowclipboard%2F&searchtags=software+shareware+macosx+system+clipboard+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.stupidfish23.com/shadowclipboard/[stupidFish23 - shadowClipboard]
+
+shadowClipboard is a clipboard (also called pasteboard on some systems) enhancer that manages multiple clipboards in a convenient, unobtrusive way. shadowClipboard gives you access to files, pages of texts, images, pdf documents and all other data you hav

@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Interpréter une ligne de commande en Rust
+:jbake-tags: cli,library,rrss2imap,rust,_mois_août,_année_2018
+:jbake-date: 2018-08-08
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/08/08/interpreter-une-ligne-de-commande-en-rust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/08/08/interpreter-une-ligne-de-commande-en-rust/
+:jbake-style: wordpress
+
+++++
+<p>
+Quand on écrit un programme en ligne de commande (ce que j'ai l'intention de faire pour commencer), la première étape, c'est de lire les arguments de cette ligne de commande.
+</p>
+<p>
+Quand je faisais du Java, il y avait des options classiques
+<br/>
+<ul>
+<br/>
+<li><a href="http://commons.apache.org/cli/">commons-cli</a></li>
+<br/>
+<li><a href="http://args4j.kohsuke.org/">args4j</a></li>
+<br/>
+<li><a href="http://jcommander.org/">JCommander</a></li>
+<br/>
+</ul>
+<br/>
+Et j'appréciais particulièrement dans les deux derniers la possibilité de créer une structure recueillant ces options pour les traiter facilement dans mon code.
+</p>
+<p>
+Quand j'ai commencé à chercher des équivalents Rust, je suis évidement tombé sur <a href="https://clap.rs/">clap</a>. Mais je n'apprécie pas du tout le fait de construire ma ligne de commande à grands coups d'appels de méthodes. Je m'étais donc résolu à utiliser une librairie dont j'ai oublié le nom, quand je suis tombé (via l'excellent aggrégateur <a href="https://readrust.net/">Read Rust</a>) sur <a href="https://docs.rs/structopt/0.2.10/structopt/">StructOpt</a>.
+</p>
+<p>
+Conceptuellement, StructOpt fournit comme JCommander le moyen de mapper une liste de flags sur une structure. Il se base sur clap, évidement (un peu comme le <a href="http://docs.groovy-lang.org/latest/html/gapi/groovy/cli/commons/CliBuilder.html">CliBuilder</a> Groovy se base sur commons-cli), mais utilise les possibilités de métaprogrammation Rust (et en particulier les <a href="https://doc.rust-lang.org/book/2018-edition/appendix-04-macros.html#procedural-macros-for-custom-derive">macro derive</a>) pour générer à partir de la structure de stockage les appels clap qui vont permettre de parser la ligne de commande.
+</p>
+<p>
+C'est astucieux et élégant, et ça permet facilement de créer des sous-commandes, des options, et globalement tout ce qu'on veut.
+</p>
+++++

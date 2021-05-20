@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Absolute scale corrupts absolutely - apenwarr
+:jbake-tags: réflexion,échelle,informatique,espace,santé,twitter,_mois_oct.,_année_2019
+:jbake-date: 2019-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1570689623000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fapenwarr.ca%2Flog%2F20190819&searchtags=r%C3%A9flexion+%C3%A9chelle+informatique+espace+sant%C3%A9+twitter+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://apenwarr.ca/log/20190819[Absolute scale corrupts absolutely - apenwarr]
+
+La clé de l'article est dans cette phrase : "the cheaper interactions become, the more intensely a system is corrupted. The faster interactions become, the faster the corruption spreads."

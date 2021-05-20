@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martin Kleppmann sur Twitter : "Every technology contributes to determining who has what power. Therefore, every technology is political. If a technology seems apolitical, that probably just means that it supports the incumbents and doesn’t challenge the status quo. Likewise, every organisation is political." / Twitter
+:jbake-tags: citation,technologie,politique,évolution,_mois_avr.,_année_2021
+:jbake-date: 2021-04-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1619528164000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmartinkl%2Fstatus%2F1386956303218749443&searchtags=citation+technologie+politique+%C3%A9volution+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/martinkl/status/1386956303218749443[Martin Kleppmann sur Twitter : "Every technology contributes to determining who has what power. Therefore, every technology is political. If a technology seems apolitical, that probably just means that it supports the incumbents and doesn’t challenge the status quo. Likewise, every organisation is political." / Twitter]
+
+Un commentaire avec lequel je suis assez d'accord (il s'applique par exemple à Basecamp, aux FAANG, etc, ...)

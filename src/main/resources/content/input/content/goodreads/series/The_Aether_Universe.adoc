@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Aether Universe
+:jbake-tags: serie
+:jbake-date: 2008-11-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Aether_Universe.adoc
+:jbake-source: https://www.goodreads.com/series/73958
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782207255704.html[L'Âge des Lumières]

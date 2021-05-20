@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TodoList
+:jbake-tags: freeware,management,productivité,software,utilities,tool,windows,gtd,_mois_sept.,_année_2006
+:jbake-date: 2006-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1157544273000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codeproject.com%2Ftools%2FToDoList2.asp&searchtags=freeware+management+productivit%C3%A9+software+utilities+tool+windows+gtd+_mois_sept.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.codeproject.com/tools/ToDoList2.asp[TodoList]
+
+Un gestionnaire de todo pour Windows ... à tester

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Enterprise Integration Patterns - Messaging Patterns Overview
+:jbake-tags: entreprise,integration,design,pattern,catalog,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583164398000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.enterpriseintegrationpatterns.com%2Fpatterns%2Fmessaging%2F&searchtags=entreprise+integration+design+pattern+catalog+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/[Enterprise Integration Patterns - Messaging Patterns Overview]
+
+Les patterns d'intégration, c'est bien, mais c'est assez complexe ...

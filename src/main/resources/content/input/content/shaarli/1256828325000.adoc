@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: From the Frog's Mouth: Maven and JavaFX, the story of TwitterFX POM
+:jbake-tags: maven,javafx,jnlp,_mois_oct.,_année_2009
+:jbake-date: 2009-10-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1256828325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblogs.jfrog.org%2F2009%2F05%2Fmaven-and-javafx-story-of-twitterfx-pom.html&searchtags=maven+javafx+jnlp+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://blogs.jfrog.org/2009/05/maven-and-javafx-story-of-twitterfx-pom.html[From the Frog's Mouth: Maven and JavaFX, the story of TwitterFX POM]
+
+Un article expliquant comment intégrer le plus proprement possible JavaFX, Maven et Java web Start. Intéressant pour l'avenir

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jutta Eckstein sur Twitter : "👇🏼This, so repeat after me: An organization produces a design that reflects the organization's biases. Also known as Eckstein's law" / Twitter
+:jbake-tags: organisation,règle,critique,_mois_nov.,_année_2020
+:jbake-date: 2020-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1606292059000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJuttaEckstein%2Fstatus%2F1320817639275548673&searchtags=organisation+r%C3%A8gle+critique+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/JuttaEckstein/status/1320817639275548673[Jutta Eckstein sur Twitter : "👇🏼This, so repeat after me: An organization produces a design that reflects the organization's biases. Also known as Eckstein's law" / Twitter]
+
+Cette loi d'Eckstein est parfaite. Je tente une traduction française ... "Les logiciels produits par une organisation sont le reflet des biais de cette organisation"

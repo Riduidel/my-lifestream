@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thunderbird Conversations
+:jbake-tags: software,freeware,plugin,email,_mois_juil.,_année_2013
+:jbake-date: 2013-07-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1375104106000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faddons.mozilla.org%2Ffr%2Fthunderbird%2Faddon%2Fgmail-conversation-view%2F&searchtags=software+freeware+plugin+email+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://addons.mozilla.org/fr/thunderbird/addon/gmail-conversation-view/[Thunderbird Conversations]
+
+Ah c'est donc pour ça que mes messages sur la ML des castcodeurs ne ressemblaient à rien ! via http://sebsauvage.net/links/?01hlVg

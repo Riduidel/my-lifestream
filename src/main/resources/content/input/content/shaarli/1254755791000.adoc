@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: java.com: Java + Vous
+:jbake-tags: software,java,langage,développement,download,@toinstall,_mois_oct.,_année_2009
+:jbake-date: 2009-10-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1254755791000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.java.com%2Ffr%2F&searchtags=software+java+langage+d%C3%A9veloppement+download+%40toinstall+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.java.com/fr/[java.com: Java + Vous]
+
+La base de tout

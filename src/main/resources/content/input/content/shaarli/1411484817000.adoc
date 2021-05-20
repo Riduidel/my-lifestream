@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Online Javascript Regular Expression Tester
+:jbake-tags: javascript,online,regexp,test,_mois_sept.,_année_2014
+:jbake-date: 2014-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1411484817000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pagecolumn.com%2Ftool%2Fregtest.htm&searchtags=javascript+online+regexp+test+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.pagecolumn.com/tool/regtest.htm[Online Javascript Regular Expression Tester]
+
+Chouette outil d'expressions régulières en Javascript.

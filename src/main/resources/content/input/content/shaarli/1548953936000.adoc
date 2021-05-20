@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Documentation is King - Speaker Deck
+:jbake-tags: documentation,code,programming,concepts,_mois_janv.,_année_2019
+:jbake-date: 2019-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1548953936000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fkennethreitz%2Fdocumentation-is-king%3Fslide%3D53&searchtags=documentation+code+programming+concepts+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://speakerdeck.com/kennethreitz/documentation-is-king?slide=53[Documentation is King - Speaker Deck]
+
+J'aime beaucoup, et j'aimerais bien en faire quelque chose d'intéressant ... Autrement dit ça touche une corde sensible en moi

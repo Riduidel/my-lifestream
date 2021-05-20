@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ultimate X-Men (Collected Editions)
+:jbake-tags: serie
+:jbake-date: 2010-05-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Ultimate_X-Men_(Collected_Editions).adoc
+:jbake-source: https://www.goodreads.com/series/50158
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780785108689.html[Ultimate X-Men, Vol. 2: Return to Weapon X]
+* link:../books/9780785110910.html[Ultimate X-Men, Vol. 6: Return of the King]
+* link:../books/9782809450095.html[Ultimate X-Men Tome 9: Apocalypse]
+* link:../books/9780785121039.html[Ultimate X-Men Collection, Book 5]
+* link:../books/9780785112518.html[Ultimate X-Men Collection, Book 4]
+* link:../books/9782809438901.html[Ultimate X-Men, Tome 8]

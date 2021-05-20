@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kris Jenkins on Twitter: "Maybe instead of, "doing agile," we should ask, "where's your feedback loop?" Do you have a feedback loop at all? Is it fast? Is it simple? And does it actually involve end-users?"
+:jbake-tags: organisation,agile,adaptation,_mois_juil.,_année_2019
+:jbake-date: 2019-07-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1563390904000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fkrisajenkins%2Fstatus%2F1151149517548478464&searchtags=organisation+agile+adaptation+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/krisajenkins/status/1151149517548478464[Kris Jenkins on Twitter: "Maybe instead of, "doing agile," we should ask, "where's your feedback loop?" Do you have a feedback loop at all? Is it fast? Is it simple? And does it actually involve end-users?"]
+
+Un changement d'état d'esprit intéressant ... qui pourrait donner des résultats ... vraiment chouettes, si on y réfléchit bien (par exemple en développant cette philosophie du chaos monkey agile)

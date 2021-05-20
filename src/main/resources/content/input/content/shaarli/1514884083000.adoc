@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.” - John… https://t.co/nFySel90MY"
+:jbake-tags: citation,programming,psychologie,motivation,création,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514884083000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F942446547329052673&searchtags=citation+programming+psychologie+motivation+cr%C3%A9ation+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/942446547329052673[Programming Wisdom on Twitter: "You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity.” - John… https://t.co/nFySel90MY"]
+
+Très juste : on est dans une forme d'imagination assez particulière ... mais de l'imagination avant tout

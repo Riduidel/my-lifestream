@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parcours Etranges :: Physique, calcul, philosophie :: Home
+:jbake-tags: mathématiques,physique,musique,philosophie,réflexion,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590762357000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstrangepaths.com%2Ffr%2F&searchtags=math%C3%A9matiques+physique+musique+philosophie+r%C3%A9flexion+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://strangepaths.com/fr/[Parcours Etranges :: Physique, calcul, philosophie :: Home]
+
+Un site rempli de réflexions fascinantes, mais mort depuis dix ans (du moins en français).

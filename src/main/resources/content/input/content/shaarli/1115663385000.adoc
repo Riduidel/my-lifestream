@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vitrite - Useless window transparency since 2002
+:jbake-tags: software,freeware,windows,system,desktop,transparency,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115663385000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhome.insightbb.com%2F%7Eryanvm%2Ftinyutilities%2Fvitrite%2F%23screenshots&searchtags=software+freeware+windows+system+desktop+transparency+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://home.insightbb.com/~ryanvm/tinyutilities/vitrite/#screenshots[Vitrite - Useless window transparency since 2002]
+
+Vitrite is a tiny utility written by me, Ryan VanMiddlesworth, that allows you to manually adjust the level of transparency for almost any visible window. It works by utilizing a feature present in Windows 2000/XP (and all later incarnations) for variable

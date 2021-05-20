@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Improbable Research
+:jbake-tags: humour,bizarre,science,_mois_mai,_année_2006
+:jbake-date: 2006-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1149091370000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.improbable.com%2Fairchives%2Fpaperair%2Fvolume9%2Fv9i4%2Fchicken_egg.html&searchtags=humour+bizarre+science+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.improbable.com/airchives/paperair/volume9/v9i4/chicken_egg.html[Improbable Research]
+
+Enfin une réponse expérimentale à cette question clé : qui de l'oeuf ou de la poule arrive le premier, via \{Charles Lehalle\}

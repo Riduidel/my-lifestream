@@ -1,0 +1,154 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Lazy Java
+:jbake-tags: fonctionnel,java,stream,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-lazy-java.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-lazy-java/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Mario vient nous parler de la progammation lazy, fortement utilisée en programmation fonctionnelle, mais rare en style impératif. Qu’est-ce que c’est ? C’est une stratégie d'évaluation qui fait en sorte que la valeur ne soit calculée que quand elle est utilisée. En programmation fonctionnelle, une fonction stricte évalue ses valeurs immédiatement, quand une fonction lazy évalue ses valeurs uniquement quand elles sont nécessaires.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Et donc, globalement, Java est un langage strict …​ A quelques exceptions près (les opérateurs booléeans, l’opérateur ternaire, certaines structures de contrôle, et les streams). Mais on peut rendre Java beaucoup plus lazy. Ca rend par exemple l’opérateur ternaire difficile à remplacer par une fonction …​ sauf en utilisant des lambdas (en l’occurence les <code>Supplier&#60;T&#62;</code>). C’est utilisé dans les apis de log modernes, par exemple (voir dans log4j 2).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-12">
+</p>
+<p>
+Et franchement, c’est une sacrément bonne méthode d’optimisation : rien ne va plus vite que de ne pas appeler le code !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-14">
+</p>
+<p>
+Et les streams utilisent ça : on peut créer un stream d’entiers infini : <code>IntStream.iterate(1, i → i+1)</code>. Et du coup, un stream, ça n’est pas une structure de données, mais la spécification de données qu’on peut obtenir. Et grâce à ça, l’aspect lazy du code des streams permet la séparation des responsabilités. Et pour Mario, c’est cet aspect, plus que la compacité du code, qui rend les streams utile.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Et là, Mario nous sort un exemple de calcul de nombre premiers classique d’abord, puis récursif avec un <code>head</code> et un <code>tail</code> sur la liste des nombres. Cet exemple ne marche pas …​ Parce qu’un stream ne peut être terminé qu’une fois. Et que sa récursion n’est pas lazy, du coup, pouf, une boucle infinie ! Alors qu’en Scala, il y a une lazy concatenation (l’opérateur <code>#::</code>) qui aurait permis au premier exemple de marcher.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Donc, Mario recrée une liste lazy à base de head/tail et de <code>Supplier&#60;T&#62;</code>. Et je comprend à peu près comment ça marche ! L’explication graphique du code mérite vraiment d'être vue.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Et pour les afficher, on peut utiliser une itération externe ou interne. Et sur sa collection magique, on peut aussi (et surtout) utiliser la récursion. La récursion, c’est pratique. Mais en Java, ça peut conduire à des StackOverflow. Parce que Java n’implémente pas la tail call optimization, qui permet des récursions infinies en enlevant certaines méthodes de la pile d’appel. Et Scala l’implémente également, bien sûr (par contre il faut annoter les méthodes où on veut l’appliquer).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Par contre, la tail recursion ne marche que si la méthode récursive est appelée en dernier.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+Heureusement, on peut utiliser la technique des trampolines pour permettre cette récursion infinie. En fait, le trampoline, c’est une manière de transformer une récursion en une suite d’appels de méthodes, à grand coups de <code>Supplier&#60;T&#62;</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-36">
+</p>
+<p>
+Et pour finir, Mario se propose de nous implémenter de l’injection de dépendances lazy. Et honnêtement, qund il fait la liste des défauts de l’injection de dépendances classique, ça fait peur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-38">
+</p>
+<p>
+Et pour ça, il introduit la monade <code>Reader</code> qui est une façon commode d’invoquer une fonction dans un contexte.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Et ça marche d’une façon très chouette, voire même lisible.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-42">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-43">
+</p>
+<p>
+L’approche lazy, c’est quand même la meilleure des optimisations parce que ça permet de n’exécuter que le code vraiment utile. Par ailleurs, la démarche fonctionnelle apporte souvent des intérêts en remettant au moment de la compilation des comportements qui doivent y être traités.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-46">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-47">
+</p>
+<p>
+j’avais déja vu sur Twitter les slides de Mario, je crois, ou au moins une partie, que je n’avais alors pas parfaitement compris. Avec la présentation en live, j’ai beaucoup mieux compris, et j’ai pris une claque. C’est vraiment chouette.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevoxxFR sur Twitter : "Devoxx France 2021 aura lieu du 30 juin au 2 juillet prochain, au Palais des Congrès https://t.co/2lG3ChYAoK #Devoxx #DevoxxFR" / Twitter
+:jbake-tags: conférence,épidémie,actualité,_mois_déc.,_année_2020
+:jbake-date: 2020-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1607630971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FDevoxxFR%2Fstatus%2F1336960134275354624&searchtags=conf%C3%A9rence+%C3%A9pid%C3%A9mie+actualit%C3%A9+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/DevoxxFR/status/1336960134275354624[DevoxxFR sur Twitter : "Devoxx France 2021 aura lieu du 30 juin au 2 juillet prochain, au Palais des Congrès https://t.co/2lG3ChYAoK #Devoxx #DevoxxFR" / Twitter]
+
+Clairement, en 2021, il va y avoir une édition de DevoxxFr spéciale Harry Potter et magies diverses. Je n'ai plus qu'à trouver de bons talks à proposer ...

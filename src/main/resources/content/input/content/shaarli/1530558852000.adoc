@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 🖖Jochen Mader 🇪🇺 on Twitter: "Yes, I love #maven. It took me about 10 minutes to understand the build structure and add something to a project I have never seen before. The lack of flexibility in #maven is its biggest advantage."
+:jbake-tags: citation,maven,build,_mois_juil.,_année_2018
+:jbake-date: 2018-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1530558852000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodepitbull%2Fstatus%2F1013778115708030976&searchtags=citation+maven+build+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/codepitbull/status/1013778115708030976[🖖Jochen Mader 🇪🇺 on Twitter: "Yes, I love #maven. It took me about 10 minutes to understand the build structure and add something to a project I have never seen before. The lack of flexibility in #maven is its biggest advantage."]
+
+J'ai effectivement toujours du mal avec les outils de build flexibles ...

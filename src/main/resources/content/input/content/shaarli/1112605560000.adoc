@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To Make A Portable Opera
+:jbake-tags: software,tutorial,web,browser,opera,_mois_avr.,_année_2005
+:jbake-date: 2005-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1112605560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.chooseopera.com%2FCDProject%2Fportable.html&searchtags=software+tutorial+web+browser+opera+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.chooseopera.com/CDProject/portable.html[How To Make A Portable Opera]
+
+It's possible to make a portable version of Opera that can run directly from removable media such as a CD or a USB drive (a keychain (or "thumb") flash drive, or a digital camera). Applications could include web site demonstrations, slide show presentatio

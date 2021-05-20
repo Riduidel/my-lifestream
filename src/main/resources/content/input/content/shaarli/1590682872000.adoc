@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julien Dubois sur Twitter : "I've had a look at France's #StopCovid application sources. The server is coded with Java/Spring Boot so I was happy to find my favorite tech stack here! Then I became quickly disappointed ⬇️" / Twitter
+:jbake-tags: spring,sécurité,france,programming,épidémie,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590682872000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjuliendubois%2Fstatus%2F1266022088055414785&searchtags=spring+s%C3%A9curit%C3%A9+france+programming+%C3%A9pid%C3%A9mie+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/juliendubois/status/1266022088055414785[Julien Dubois sur Twitter : "I've had a look at France's #StopCovid application sources. The server is coded with Java/Spring Boot so I was happy to find my favorite tech stack here! Then I became quickly disappointed ⬇️" / Twitter]
+
+Quand un expert Spring lit le code StopCovid, ça fait mal (parce que même moi, non expert, j'aurai pu voir ces erreurs)

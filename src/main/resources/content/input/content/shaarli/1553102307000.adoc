@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ArchUnit User Guide
+:jbake-tags: programming,uml,plantuml,architecture,test,_mois_mars,_année_2019
+:jbake-date: 2019-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1553102307000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.archunit.org%2Fuserguide%2Fhtml%2F000_Index.html%23_plantuml_component_diagrams_as_rules&searchtags=programming+uml+plantuml+architecture+test+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.archunit.org/userguide/html/000_Index.html#_plantuml_component_diagrams_as_rules[ArchUnit User Guide]
+
+C'est authentiquement génial (et une forme de retour à la MDA).

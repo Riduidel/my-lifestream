@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What's In Your Box? >> Linux >> The Guide to a Linux iTunes Server
+:jbake-tags: web,software,linux,macosx,musique,_mois_mars,_année_2005
+:jbake-date: 2005-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1109688688000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.whatsinyourbox.org%2Farticle28.html&searchtags=web+software+linux+macosx+musique+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.whatsinyourbox.org/article28.html[What's In Your Box? >> Linux >> The Guide to a Linux iTunes Server]
+
+A description of a way to see a linux server as iTunes source

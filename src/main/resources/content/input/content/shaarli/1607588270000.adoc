@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Previous Conferences | The Theory and Application of Diagrams
+:jbake-tags: conférence,diagram,schéma,communication,méthode,_mois_déc.,_année_2020
+:jbake-date: 2020-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1607588270000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.diagrams-conference.org%2Fprevious-conferences&searchtags=conf%C3%A9rence+diagram+sch%C3%A9ma+communication+m%C3%A9thode+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.diagrams-conference.org/previous-conferences[Previous Conferences | The Theory and Application of Diagrams]
+
+Le saviez-vous, il y a une conférence annuelle sur les diagrammes. C'est meta (et donc c'est mal), mais c'est néanmoins intéressant.

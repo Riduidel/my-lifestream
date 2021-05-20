@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment classer ses photos ?
+:jbake-tags: documentation,photographie,exif,metadata,iptc,xmp,_mois_janv.,_année_2009
+:jbake-date: 2009-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1231334011000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.figer.com%2FPublications%2Fcollection.htm&searchtags=documentation+photographie+exif+metadata+iptc+xmp+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.figer.com/Publications/collection.htm[Comment classer ses photos ?]
+
+Une page très intéressante sur les différents types de métadonnées utilisables et utilisées dans les photos. Autant j'étais partisan d'EXIF+IPTC, autant à mon avis XMP semble une alternative de plus en plus crédible pour stocker les infos. L'idéal sera bien sûr de stocker les données dans les différents formats.

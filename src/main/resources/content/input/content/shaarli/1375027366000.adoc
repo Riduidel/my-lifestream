@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Get Home Early
+:jbake-tags: humour,stackoverflow,_mois_juil.,_année_2013
+:jbake-date: 2013-07-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1375027366000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgeek-and-poke.com%2Fgeekandpoke%2F2013%2F7%2F17%2Fget-home-early&searchtags=humour+stackoverflow+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://geek-and-poke.com/geekandpoke/2013/7/17/get-home-early[Get Home Early]
+
+Eh ouais : StackOverflow est en train de devenir plus important que maven central, plus important en fait que tous les autres sites d'informatique réunis. Et, ce qui fait plaisir, c'est que toutes les données sont accessibles sous licence creative commons

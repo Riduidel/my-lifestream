@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zinious Software: software downloads, game services, and hosting solutions
+:jbake-tags: software,freeware,windows,search,p2p,bittorrent,@toinstall,_mois_nov.,_année_2009
+:jbake-date: 2009-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1258800729000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zinious.com%2Fproducts%2FTorrentFetcher%2F&searchtags=software+freeware+windows+search+p2p+bittorrent+%40toinstall+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.zinious.com/products/TorrentFetcher/[Zinious Software: software downloads, game services, and hosting solutions]
+
+Un moteur de recherche de torrents sur le bureau, sans passer par des sites remplis de pub plutôt crasseuses, ça vau carrément le coup, à mon avis ... Et ça doit pouvoir se cloner assez facilement ... Encore faut-il avoir le temps (gasp) ... Quoique qu'en fait, c'est un très bon candidat à un test de Griffon, ça (enfin, dès que j'aurais récupéré mon ordinateur du futur).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Using Gephi for RDB Schema Visualization | devjason
+:jbake-tags: groovy,exemple,code,programming,_mois_nov.,_année_2010
+:jbake-date: 2010-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1290694508000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.devjason.com%2F2010%2F11%2F22%2Fusing-gephi-for-rdb-schema-visualization%2F&searchtags=groovy+exemple+code+programming+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.devjason.com/2010/11/22/using-gephi-for-rdb-schema-visualization/[Using Gephi for RDB Schema Visualization | devjason]
+
+Un exemple non trivial de construction de fichier XML pour Gephi, avec l'utilisation de \*leur\* API de manipulation XML

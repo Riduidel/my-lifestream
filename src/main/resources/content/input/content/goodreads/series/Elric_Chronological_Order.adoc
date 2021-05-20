@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Elric Chronological Order
+:jbake-tags: serie
+:jbake-date: 2017-07-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Elric_Chronological_Order.adoc
+:jbake-source: https://www.goodreads.com/series/117866
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266033077.html[Elric des Dragons]
+* link:../books/9782266037648.html[La Forteresse de la perle]
+* link:../books/9782266027113.html[Le Navigateur sur les mers du destin (Cycle d'Elric, #2)]
+* link:../books/9782266029346.html[Elric le nécromancien]
+* link:../books/9782266029315.html[La Sorcière dormante]
+* link:../books/9782266000239.html[La Revanche de la rose (Le cycle d'Elric, #6)]
+* link:../books/9782266029322.html[L'Épée noire]
+* link:../books/9782266029339.html[Stormbringer]

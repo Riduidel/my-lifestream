@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wcalc Homepage
+:jbake-tags: software,freeware,open-source,macosx,mathématiques,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110965294000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fw-calc.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+math%C3%A9matiques+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://w-calc.sourceforge.net/[Wcalc Homepage]
+
+Wcalc is a very capable calculator. It has standard functions (sin, asin, and sinh for example, in either radians or degrees), many pre-defined constants (pi, e, c, etc.), support for using variables, "active" variables, a command history, hex/octal/binar

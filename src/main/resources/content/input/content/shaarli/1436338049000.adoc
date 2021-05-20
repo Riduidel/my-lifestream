@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [mijustin] Making software is a lot harder than people think because making something people want is a lot harder than people think.
+:jbake-tags: citation,software,programming,_mois_juil.,_année_2015
+:jbake-date: 2015-07-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1436338049000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F615100699165261824&searchtags=citation+software+programming+_mois_juil.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/615100699165261824[[mijustin] Making software is a lot harder than people think because making something people want is a lot harder than people think.]
+
+Belle pensée sur la complexité du développement logiciel

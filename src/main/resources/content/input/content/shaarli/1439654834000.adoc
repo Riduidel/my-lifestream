@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les 15 types de pavages pentagonaux
+:jbake-tags: mathématiques,science,plan,_mois_août,_année_2015
+:jbake-date: 2015-08-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1439654834000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fles-15-types-de-pavages-pentagonaux%2F&searchtags=math%C3%A9matiques+science+plan+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/les-15-types-de-pavages-pentagonaux/[Les 15 types de pavages pentagonaux]
+
+J'avais entendu de ces histoires de pavage du plan sur PodcastScience ... mais voir la liste ... ca a un côté intriguant.

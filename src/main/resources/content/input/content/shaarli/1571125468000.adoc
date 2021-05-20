@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sudo Flaw Lets Linux Users Run Commands As Root Even When They're Restricted
+:jbake-tags: sécurité,linux,sudo,faille,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571125468000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthehackernews.com%2F2019%2F10%2Flinux-sudo-run-as-root-flaw.html&searchtags=s%C3%A9curit%C3%A9+linux+sudo+faille+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://thehackernews.com/2019/10/linux-sudo-run-as-root-flaw.html[Sudo Flaw Lets Linux Users Run Commands As Root Even When They're Restricted]
+
+Aouch ! Je l'ai sur mon Rasbperry, et ça fait un peu peur ...

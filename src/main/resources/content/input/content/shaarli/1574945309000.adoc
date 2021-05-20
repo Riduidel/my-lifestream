@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cut the Turkey and Run - Sociological Images
+:jbake-tags: sociologie,politique,surveillance,_mois_nov.,_année_2019
+:jbake-date: 2019-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1574945309000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthesocietypages.org%2Fsocimages%2F2019%2F11%2F27%2Fcut-the-turkey-and-run%2F&searchtags=sociologie+politique+surveillance+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://thesocietypages.org/socimages/2019/11/27/cut-the-turkey-and-run/[Cut the Turkey and Run - Sociological Images]
+
+Les diners de famille sont aussi l'occasion de faire de la datascience politique : "People who ate in an opposing political district spent less time at dinner, about 30-50 minutes less on average" (merci la géolocalisation)

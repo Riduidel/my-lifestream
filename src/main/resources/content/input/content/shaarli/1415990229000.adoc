@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Screeps - the world's first MMO sandbox strategy game for programmers
+:jbake-tags: javascript,programming,online,jeu,_mois_nov.,_année_2014
+:jbake-date: 2014-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1415990229000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.screeps.com%2F&searchtags=javascript+programming+online+jeu+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.screeps.com/[Screeps - the world's first MMO sandbox strategy game for programmers]
+
+Hrm ... Avec tout le javascript-fu que j'ai récement acquis, ça vaudrait le coup de se lancer dans un truc inutile comme ça via http://sebsauvage.net/links/?3ADklA

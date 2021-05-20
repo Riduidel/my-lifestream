@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WildC.A.T.s 3.0
+:jbake-tags: serie
+:jbake-date: 2014-01-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/WildC.A.T.s_3.0.adoc
+:jbake-source: https://www.goodreads.com/series/56180
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782809402759.html[Wildcats Version 3.0 T1]
+* link:../books/9782809404111.html[Wildcats 3.0 T02: Claude De Confidentialité]

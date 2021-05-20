@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Superman: Miniseries
+:jbake-tags: serie
+:jbake-date: 2010-05-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Superman__Miniseries.adoc
+:jbake-source: https://www.goodreads.com/series/241412
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9781401201913.html[Superman: Red Son]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Prochains passages
+:jbake-tags: espace,vaisseaux,observation,_mois_mars,_année_2020
+:jbake-date: 2020-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1585249098000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftorep.fr%2FISS%2Fpassages%2Fpassages.htm&searchtags=espace+vaisseaux+observation+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://torep.fr/ISS/passages/passages.htm[Prochains passages]
+
+Un site très pratique pour savoir quand la station spatiale internationale passe au-dessus de vous. Ca m'a bien aidé ce soir pour y jeter un oeil (avec le ciel clair de ce soir, c'était parfait).

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The First Law
+:jbake-tags: serie
+:jbake-date: 2016-02-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_First_Law.adoc
+:jbake-source: https://www.goodreads.com/series/43644
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290029596.html[Premier Sang (La Première Loi #1)]
+* link:../books/9782756402963.html[Déraison et Sentiments (La Première Loi #2)]
+* link:../books/9782290032954.html[Dernière Querelle (La Première Loi #3)]

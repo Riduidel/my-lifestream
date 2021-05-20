@@ -1,0 +1,76 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tout le monde peut se tromper
+:jbake-tags: architecture_agile,contexte,politique,_mois_avr.,_année_2020
+:jbake-date: 2020-04-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/13/tout-le-monde-peut-se-tromper.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/13/tout-le-monde-peut-se-tromper/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Suite au dernier article sur la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> concernant précisément la définition de l'<a href="https://riduidel.wordpress.com/2020/04/10/alors-ca-ressemble-a-quoi-une-architecture-avec-c4/">architecture</a>, j'avais créé un joli diagramme :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5670,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-09-11_34_26-example.png?w=809" alt="" class="wp-image-5670" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Et j'ai reçu cette semaine ce chouette message de Guillem</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/buraitopengin\/status\/1248711294892625926","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/buraitopengin" class="screenName"><img src="http://pbs.twimg.com/profile_images/1240689529335488512/glCAB7Ea_mini.jpg" alt="profile of Software Artisan at @Eleven_Labs 
+Tweeting in #english and #french
+Collaboration over competition 🖖
+He/Him"/>buraitopengin</a>
+		<span class="name">Guillem Canal</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/buraitopengin/status/1 248 711 294 892 625 926" class="date">10 avr. 2020 à 22:35:47</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel Personnellement j'évite d'utiliser le nom commercial d'un produit pour nommer un conteneur, par exemple: 
+Stream Processing Platform [Kafka]
+Search Engine [ElastiSearch]
+Data Sink [Kafka Connect]</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Je trouve qu'il a tout à fait raison : dans le cas général, il vaut mieux définir la fonction avant de choisir le produit utilisé pour l'implémenter ... sauf en fait, si la solution technique fait partie du contexte. Oui, je veux bien reconnaître que je réponds à cette objection parfaitement légitime par une pirouette, et ça n'est pas bien. Néanmoins, comme j'ai déjà eu l'occasion de l'écrire, tout est une question de contexte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Typiquement, dans notre exemple, Kafka et ElasticSearch ont été choisis avant que je ne commence ce document. A ce titre, on peut peut-être considérer que ces produits font partie du contexte, non ? Je n'en suis pas sûr. Néanmoins, ça illustre bien la multiplicité des formes que prennent <a href="https://riduidel.wordpress.com/2020/04/08/tout-est-une-question-de-contexte/">le contexte</a> et <a href="https://riduidel.wordpress.com/2020/04/09/parlons-contexte-parlons-contraintes/">les contraintes</a> : les contraintes peuvent être politiques (comment organiser l'équipe), elles peuvent définir une infrastructure (comme par exemple Kubernetes) et elles peuvent enfin prendre la forme de solutions logicielles imposées (comme c'est le cas de Kafka ou Elastic). Dans ce cas, il vaut peut-être mieux écrire directement le nom du produit ... enfin, je crois, même si je n'en suis pas complètement certain. Je vous laisse y réfléchir ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A titre d'exemple, voici la version corrigée de ce diagramme</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5700,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-12-18_47_50-example.png?w=1024" alt="" class="wp-image-5700" /></figure>
+<!-- /wp:image -->
+++++

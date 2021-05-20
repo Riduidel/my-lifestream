@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cloud infrastructure for the Internet of Things: Kubernetes on solar plants ♦︎ learnk8s
+:jbake-tags: kubernetes,déploiement,iot,automatisation,_mois_janv.,_année_2019
+:jbake-date: 2019-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1546607711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flearnk8s.io%2Fblog%2Fkubernetes-on-solar-plants&searchtags=kubernetes+d%C3%A9ploiement+iot+automatisation+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://learnk8s.io/blog/kubernetes-on-solar-plants[Cloud infrastructure for the Internet of Things: Kubernetes on solar plants ♦︎ learnk8s]
+
+Je n'avais pas compris le sens du déploiement K8s dans les toyota. Mais avec cet article, c'est bien plus clair !

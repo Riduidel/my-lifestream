@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurie sur Twitter : "I can't say this enough. You will read code more than you write code. Learn to get good at it." / Twitter
+:jbake-tags: citation,architecture,code,lecture,compétence,@project_conf_archeologie,_mois_sept.,_année_2020
+:jbake-date: 2020-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1599634431000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flaurieontech%2Fstatus%2F1300422871328518146%3Fref_src%3Dtwsrc%255Etfw%257Ctwcamp%255Etweetembed%257Ctwterm%255E1300422871328518146%257Ctwgr%255Eshare_3%26ref_url%3Dhttps%253A%252F%252Ftrishagee.com%252F2020%252F09%252F07%252Freading-code-is-a-skill%252F&searchtags=citation+architecture+code+lecture+comp%C3%A9tence+%40project_conf_archeologie+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/laurieontech/status/1300422871328518146?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1300422871328518146%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Ftrishagee.com%2F2020%2F09%2F07%2Freading-code-is-a-skill%2F[Laurie sur Twitter : "I can't say this enough. You will read code more than you write code. Learn to get good at it." / Twitter]
+
+Ce tweet va me servir ...

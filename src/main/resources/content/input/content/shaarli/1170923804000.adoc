@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bubbl.us
+:jbake-tags: collaboration,communication,design,editor,graphics,gtd,knowledge,mapping,online,productivité,web,_mois_févr.,_année_2007
+:jbake-date: 2007-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1170923804000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bubbl.us%2F&searchtags=collaboration+communication+design+editor+graphics+gtd+knowledge+mapping+online+productivit%C3%A9+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.bubbl.us/[bubbl.us]
+
+Un site permettant facilement la création de cartes de concepts

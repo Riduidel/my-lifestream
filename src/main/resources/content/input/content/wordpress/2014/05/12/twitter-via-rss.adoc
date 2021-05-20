@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Twitter via RSS
+:jbake-tags: php,rss,twitter,web,_mois_mai,_année_2014
+:jbake-date: 2014-05-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/05/12/twitter-via-rss.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/05/12/twitter-via-rss/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous savez que Twitter n'a plus de flux RSS accessible pour la "home" d'un utilisateur.
+</p>
+<p>
+Ben oui, la home, la page qui se charge quand on se connecte à Twitter.
+</p>
+<p>
+Personnellement, je trouvais ça pénible, mais sans plus.
+</p>
+<p>
+Et puis <a href="https://groups.google.com/forum/#!topic/lescastcodeurs/wYd8X5aWx1k">Guillaume Laforge a demandé aux castcodeurs</a> comment on s'informait de nos jours sur le web ...
+</p>
+<p>
+Du coup, évidement, j'ai répondu ça
+<br/>
+<blockquote>Et hélas, Twitter.
+<br/>
+Hélas, parce que Twitter ne me fournit que de minuscules bouts d'information là où j'aimerai avoir plus de matière.
+<br/>
+Hélas, parce que Twitter ne me permet pas de classer les sources d'information dans des dossiers, ou selon des tags, ou quelque autre sorte d'organisation.
+<br/>
+Hélas, enfin, parce qu'il n'y a pas moyen de savoir quels messages j'ai déja lu.
+<br/>
+Hélas, toujours, parce qu'il n'y a pas de flux RSS disponible pour ma timeline complète (c'est-à-dire avec tous les gens que je suis).</blockquote>
+<br/>
+Et pourtant, on trouve sur twitter des tas de liens intéressants. Du coup, j'ai cherché un peu des outils permettant de récupérer dans des flux RSS le contenu de ma page twitter ... Et j'ai trouvé des trucs, mais difficilement. Cela dit, <a href="http://blog.pixsy.net/how-to-make-a-twitter-rss-feed-after-api-change/">Pixsy </a>m'a fourni, outre un outil apparement très chouette (mais qui ne marche pas pour twitter), un lien vers <a href="http://chrissimpkins.github.io/tweetledee/">tweetledee </a>que j'ai immédiatement installé sur mon serveur PHP local.
+</p>
+<p>
+Et du coup, j'ai à côté de mon rss-bridge qui me sert très bien un tweetledee au but assez spécifique.
+</p>
+<p>
+Je n'ai pas réfléchi bien longtemps avant de l'installer. Parce que comme rss-bridge, c'est de l'open-source sans base de données, facile à utiliser, et qui correspond bien au besoin. Evidement, c'aurait été un peu mieux que rss-bridge me fournisse ce service, mais comme il faut passer par OAuth pour se connecter à Twitter, j'imagine que Seb n'y est pas spécialement favorable (et je dois également reconnaître que je n'ai pas eu le courage de coder le truc).
+</p>
+++++

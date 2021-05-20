@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Patterns of Intermediation
+:jbake-tags: web,programming,concepts,pattern,ajax,_mois_avr.,_année_2005
+:jbake-date: 2005-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1112625450000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ldodds.com%2Fprojects%2Fpatterns%2Fpatterns_of_intermediation.html&searchtags=web+programming+concepts+pattern+ajax+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ldodds.com/projects/patterns/patterns_of_intermediation.html[Patterns of Intermediation]
+
+This is a working document whose aim is to define and describe a number of design patterns suitable for use when writing web intermediaries: bookmarklets, Greasemonkey scripts, or dynamic web interfaces, e.g. using XMLHttpRequest.

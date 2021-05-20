@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devskiller/jpa2ddl: JPA Schema Generator Plugin
+:jbake-tags: java,maven,gradle,plugin,database,migration,generation,_mois_nov.,_année_2020
+:jbake-date: 2020-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1604659042000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FDevskiller%2Fjpa2ddl&searchtags=java+maven+gradle+plugin+database+migration+generation+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/Devskiller/jpa2ddl[Devskiller/jpa2ddl: JPA Schema Generator Plugin]
+
+Admettons que vous ayiez à gérer une application dans un contexte Spring/Hibernate/Flyway, et que l'application n'ait jamais connu Flyway. Avec cet outil, vous pourrez créer un bon script d'initialisation !

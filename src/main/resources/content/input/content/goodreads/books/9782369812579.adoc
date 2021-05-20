@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Romance et macchabées
+:jbake-tags:  amour, extra-terrestres, humour, mort, space-opera,_année_2017,_mois_févr.,_note_3,rayon-bd,read
+:jbake-date: 2017-02-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782369812579.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486827161l/34226595._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1486827161l/34226595._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/34226595
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Croisière intergalactique de L'infinity 8, jour 15. Le vaisseau est bloqué par un gigantesque amas d'artéfacts, de bouts de planètes et de sépultures. L'infinity 8 est-il condamné à finir sa carrière englouti dans ce répugnant mausolée géant ? Le sort de 88 000 passagers de 257 races différentes est en jeu... Les meilleurs agents du spacio-paquebot ont intérêt à se surpasser pour le sortir de ce pétrin.<br /><br />L’agente Yoko Keren, plus préoccupée de trouver un géniteur idéal que de faire respecter l’ordre au sein de L’Infinity 8, est la première agente missionnée par le Capitaine. Le vaisseau vient d’être arrêté sur son trajet par un amas mystérieux, à elle d’en découvrir la nature et l’origine. Mais à peine approche-t-elle de ce qui s’avère être un mausolée géant, qu’un groupe de Kornaliens, seule espèce nécrophage de l’Infinity, s’échappe du vaisseau. Ils assimilent, en même temps que les cadavres, les comportements, en l’occurrence criminels et violents, de ceux qu’ils dévorent… Il ne reste à la belle agente qu’un allié, Sagoss, le seul nécrophage à avoir englouti un romantique exalté… et à s'être transformé du coup en amoureux fou mais ultra lourdingue. Arrivera-t-elle à éviter l’explosion du vaisseau jusqu’au reboot ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/1960387.html[Dominique Bertail]
+* link:../authors/45196.html[Lewis Trondheim]
+* link:../authors/261321.html[Zep]
+
+## Series
+* link:../series/Infinity_8.html[Infinity 8]
+
+## Review
+
+++++
+Amusante histoire d'extraterrestres nécrophages.<br/>Il y a de plus un côté psychopompe à ces nécrophages qui acquièrent certains traits de personnalité des morts qu'ils mangent.<br/>Et puis cette projection de viande salvatrice, quelle bonne blague.
+++++

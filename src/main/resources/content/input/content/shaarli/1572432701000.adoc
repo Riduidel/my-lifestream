@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Asynchronous Communication: What It Is & Why You Should Care About It
+:jbake-tags: communication,entreprise,psychologie,_mois_oct.,_année_2019
+:jbake-date: 2019-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1572432701000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdoist.com%2Fblog%2Fasynchronous-communication%2F&searchtags=communication+entreprise+psychologie+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://doist.com/blog/asynchronous-communication/[Asynchronous Communication: What It Is & Why You Should Care About It]
+
+Comment passer de la communication synchrone à la communication asynchrone ?

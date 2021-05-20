@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [bmathus] Every time someone logs onto a system interactively, they compromise everyone's knowledge of that system — Mark Burgess #devops
+:jbake-tags: citation,devops,administration,system,_mois_nov.,_année_2015
+:jbake-date: 2015-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1446904808000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F662357689339666432&searchtags=citation+devops+administration+system+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/662357689339666432[[bmathus] Every time someone logs onto a system interactively, they compromise everyone's knowledge of that system — Mark Burgess #devops]
+
+Mes collègues admin seront \*forcément\* d'accord

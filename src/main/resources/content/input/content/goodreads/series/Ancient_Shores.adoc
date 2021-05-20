@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ancient Shores
+:jbake-tags: serie
+:jbake-date: 2005-10-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Ancient_Shores.adoc
+:jbake-source: https://www.goodreads.com/series/161579
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266087995.html[Anciens rivages]

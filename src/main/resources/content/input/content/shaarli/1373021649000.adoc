@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Douglas Engelbart (1925-2013)
+:jbake-tags: humour,hommage,mort,_mois_juil.,_année_2013
+:jbake-date: 2013-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1373021649000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1234%2F&searchtags=humour+hommage+mort+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xkcd.com/1234/[Douglas Engelbart (1925-2013)]
+
+Bel hommage à l'inventeur de cet élément insurpassable de l'interface homme-machine (et pas que, j'imagine, mais ça, c'est vraiment LE truc)

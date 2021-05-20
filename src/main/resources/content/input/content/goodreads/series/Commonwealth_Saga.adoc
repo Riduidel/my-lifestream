@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Commonwealth Saga
+:jbake-tags: serie
+:jbake-date: 2010-01-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Commonwealth_Saga.adoc
+:jbake-source: https://www.goodreads.com/series/40740
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782811200077.html[Pandore abusée (L'Étoile de Pandore #1)]
+* link:../books/9782811201609.html[Judas démasqué (L'Étoile de Pandore #4)]
+* link:../books/9782811200367.html[Pandore menacée (L'Étoile de Pandore #2)]
+* link:../books/9782811201111.html[Judas déchaîné (L'Étoile de Pandore #3)]

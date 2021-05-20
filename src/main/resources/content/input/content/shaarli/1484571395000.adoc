@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: An ecosystem of tools around PlantUML to render textual UML diagrams anywhere you want (updated)
+:jbake-tags: uml,plantuml,documentation,exemple,_mois_janv.,_année_2017
+:jbake-date: 2017-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1484571395000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmodeling-languages.com%2Fplantuml-textual-uml-online%2F&searchtags=uml+plantuml+documentation+exemple+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://modeling-languages.com/plantuml-textual-uml-online/[An ecosystem of tools around PlantUML to render textual UML diagrams anywhere you want (updated)]
+
+J'aime quand on fait la pub de PlantUML

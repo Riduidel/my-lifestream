@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WorldBrain's Memex - Memex by worldbrain.io
+:jbake-tags: web,browser,extension,annotation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1571927865000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fworldbrain.io%2F&searchtags=web+browser+extension+annotation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://worldbrain.io/[WorldBrain's Memex - Memex by worldbrain.io]
+
+La vache, on dirait un Shaarli "under massive steroids" (sauf que les données ne sont pas sur mon Raspberry, à priori). Mais quand j'y pense, je ferais bien en sorte de le synchroniser avec Shaarli, ce serait vraiment cool.

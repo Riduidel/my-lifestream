@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ncat - Netcat for the 21st Century
+:jbake-tags: réseau,windows,logging,software,open-source,_mois_sept.,_année_2020
+:jbake-date: 2020-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1601276675000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnmap.org%2Fncat%2F&searchtags=r%C3%A9seau+windows+logging+software+open-source+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://nmap.org/ncat/[Ncat - Netcat for the 21st Century]
+
+Ca m'a l'air plus facile d'attaquer les choses "par en bas", donc avec un netcat branché sur PlantUML, que de tenter de faire marcher Wireshark ...

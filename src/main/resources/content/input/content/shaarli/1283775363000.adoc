@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DoudouLinux - Français
+:jbake-tags: éducation,linux,software,freeware,open-source,enfants,_mois_sept.,_année_2010
+:jbake-date: 2010-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1283775363000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.doudoulinux.org%2Fweb%2Ffrancais%2F&searchtags=%C3%A9ducation+linux+software+freeware+open-source+enfants+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.doudoulinux.org/web/francais/[DoudouLinux - Français]
+
+Un liveCD pour les enfants !

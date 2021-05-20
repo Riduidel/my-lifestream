@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Scalzi
+:jbake-tags: author
+:jbake-date: 2017-01-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4763.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1562613145p5/4763.jpg
+:jbake-source: https://www.goodreads.com/author/show/4763
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782811217778.html[Le Vieil Homme et la Guerre]

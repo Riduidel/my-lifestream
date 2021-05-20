@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: About The iPhoto Library Folder
+:jbake-tags: software,iphoto,article,documentation,_mois_déc.,_année_2009
+:jbake-date: 2009-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1259700968000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fatcatsoftware.com%2Fiplm%2FDocumentation%2FiPLM%2Fpgs%2Flibraryfolder.html&searchtags=software+iphoto+article+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.fatcatsoftware.com/iplm/Documentation/iPLM/pgs/libraryfolder.html[About The iPhoto Library Folder]
+
+Un très bon article expliquant comment iPhoto fout le bazar dans mes photos en les rangeant à sa sauce

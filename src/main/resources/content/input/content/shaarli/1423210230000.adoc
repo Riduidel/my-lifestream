@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GlyphSearch: Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, Octicons and Foundation
+:jbake-tags: web,font,search,online,développement,_mois_févr.,_année_2015
+:jbake-date: 2015-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1423210230000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fglyphsearch.com%2F&searchtags=web+font+search+online+d%C3%A9veloppement+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://glyphsearch.com/[GlyphSearch: Search for icons from Font Awesome, Glyphicons, IcoMoon, Ionicons, Octicons and Foundation]
+
+Chouette ! un moteur de recherche dans les biblothèques de glyphicones les plus connues.

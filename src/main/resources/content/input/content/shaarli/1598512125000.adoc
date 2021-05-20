@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maël sur Twitter : "On est allés beaucoup, beaucoup trop loin dans la critique de l'empreinte du numérique, et dans la mauvaise direction. Aveuglés par des détails. Je fais 100€ de courses alimentaires et on me dit "⚠attention, un ticket de caisse par mail c'est très polluant". 1/n" / Twitter
+:jbake-tags: écologie,informatique,critique,_mois_août,_année_2020
+:jbake-date: 2020-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1598512125000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmaeool%2Fstatus%2F1298323007266533379&searchtags=%C3%A9cologie+informatique+critique+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/maeool/status/1298323007266533379[Maël sur Twitter : "On est allés beaucoup, beaucoup trop loin dans la critique de l'empreinte du numérique, et dans la mauvaise direction. Aveuglés par des détails. Je fais 100€ de courses alimentaires et on me dit "⚠attention, un ticket de caisse par mail c'est très polluant". 1/n" / Twitter]
+
+La critique frappe fort, et surtout frappe juste. Le green IT concerne surtout la production du matériel, bien plus que l'usage des octets.

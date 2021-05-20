@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Arbre de l'été (La Tapisserie de Fionavar #1)
+:jbake-tags:  fantasy, rayon-imaginaire,_année_2002,_mois_mars,_note_2,broc,read
+:jbake-date: 2002-03-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290315002.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/821500
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+It all began with a lecture that introduced five university students to a man who would change their lives, a wizard who could take them from Earth to the heart of the first of all worlds—Fionavar. And take them Loren Silvercloak did, for his need—the need of Fionavar and all the worlds—was great indeed.<br /><br />And in a marvelous land of men and dwarves, of wizards and gods—and of the Unraveller and his minions of Darkness—Kimberly, Dave, Jennifer, Kevin, and Paul discovered who they were truly meant to be. For the five were a long-awaited part of the pattern known as the Fionavar Tapestry, and only if they accepted their destiny would the armies of the Light stand any chance of surviving when the Unraveller unleashed his wrath upon the world.
+</div>
+++++
+
+
+## Authors
+* link:../authors/60177.html[Guy Gavriel Kay]
+
+## Series
+* link:../series/The_Fionavar_Tapestry.html[The Fionavar Tapestry]
+
+## Review
+
+++++
+
+++++

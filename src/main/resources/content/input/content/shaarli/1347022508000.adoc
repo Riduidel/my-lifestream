@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jeepeeonline le blog: dungeonslayers
+:jbake-tags: fantasy,jeu,open-source,jdr,_mois_sept.,_année_2012
+:jbake-date: 2012-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1347022508000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jeepeeonline.be%2Fsearch%2Flabel%2Fdungeonslayers&searchtags=fantasy+jeu+open-source+jdr+_mois_sept.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.jeepeeonline.be/search/label/dungeonslayers[jeepeeonline le blog: dungeonslayers]
+
+Oh, tiens, un petit jeu de rôles gratuit pour casser des monstres dans des dongeons !

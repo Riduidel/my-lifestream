@@ -1,0 +1,88 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J'ai demi-perdu mon NAS, c'est grave ?
+:jbake-tags: dns-323,_mois_mars,_année_2016
+:jbake-date: 2016-03-10
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/03/10/jai-demi-perdu-mon-nas-cest-grave.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/03/10/jai-demi-perdu-mon-nas-cest-grave/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous le connaissez, mon NAS, qui héberge toutes mes données, et quelques applications, et avec lequel j'ai déjà vécu quelques péripéties ?
+</p>
+<p>
+Eh bien celle-ci est un peu plus grave. Et le premier signe clair a été une espèce de bruit bizarre (comme des aiguilles qui claquent contre une plaque métallique) en début de semaine. Quand j'ai entendu ça, intérieurement, j'ai frémi, parce que je craignais de savoir très précisément d'où ça venait.
+<br/>
+<h3>Qu'est-ce qui s'est passé</h3>
+<br/>
+Et quand je me suis connecté aujourd'hui sur KrissFeed, j'ai eu la la malheureuse confirmation que les ennuis étaient arrivés :
+</p>
+<p>
+[caption id="attachment_3134" align="aligncenter" width="382"]<img class=" size-full wp-image-3134 aligncenter" src="https://riduidel.files.wordpress.com/2016/03/2016-03-10-13_04_33-500-internal-server-error.png" alt="2016-03-10 13_04_33-500 - Internal Server Error" width="382" height="64"> Et ça, c'est vraiment mauvais signe[/caption]
+</p>
+<p>
+Du coup, je me suis connecté en SSH, et j'ai obtenu la triste confirmation :
+</p>
+<p>
+[caption id="attachment_3139" align="aligncenter" width="439"]<img class=" size-full wp-image-3139 aligncenter" src="https://riduidel.files.wordpress.com/2016/03/2016-03-10-13_07_54-nicolas-delsaux-hd-free-fr-putty.png" alt="2016-03-10 13_07_54-nicolas-delsaux.hd.free.fr - PuTTY" width="439" height="66"> Tout s'explique ... ou pas[/caption]
+</p>
+<p>
+Alors que je vous explique (ou plutôt, que je vous rappelle des souvenirs).
+</p>
+<p>
+Dans mon <a href="https://riduidel.wordpress.com/tag/dns323/">NAS</a>, j'ai deux disques durs, chacun coupés en deux partitions : une première en RAID 1 assure la duplication des données "essentielles", et une seconde, en JBOD, me fournit un gros espace de stockage sans garantie de survie.
+</p>
+<p>
+Le fait que j'arrive à me connecter à la machine indique que la première partition est sauve sur au moins un des deux disques. En revanche, le fait que la deuxième partition me donne une erreur de disque m'indique qu'un des deux disques a sûrement perdu des données.
+</p>
+<p>
+Alors avant de courir partout comme un poulet sans tête, un peu de méthode g(enre la <a href="https://www.wikiwand.com/fr/Boucle_OODA">boucle OODA</a>).
+<br/>
+<h3>Qu'est-ce que j'ai perdu ?</h3>
+<br/>
+En fait, pas grand chose : la première partition stockait mes photos et toutes les données "personnelles", et la deuxième servait au stockage de binaires. Il y avait donc
+<br/>
+<ul>
+<br/>
+<li>de la musique - également stockée sur mon ordinateur de bureau, donc non perdue</li>
+<br/>
+<li>des films/séries - là, clairement, tout est perdu, mais je peux/vais les retélécharger dès que le NAS sera à nouveau fonctionnel</li>
+<br/>
+<li>les données de mes sites web - et là, c'est catastrophique. Parce que certains de ces applis PHP stockaient des données. Et d'autres étaient très utiles. Tiens, pour détailler
+<br/>
+<ul>
+<br/>
+<li><a href="https://riduidel.wordpress.com/tag/shaarli/">Shaarli </a>stockait tous mes liens directement dans un dossier data ... qui par miracle était placé via un lien symbolique dans <code>/mnt/HD_a2</code> ! Donc mes liens sont sauvegardés, et avec une install de PHP sur un PC Windows, je pourrait les exporter au format <code>bookmarks.html</code>.</li>
+<br/>
+<li><a href="https://riduidel.wordpress.com/2013/06/26/allez-pouf-un-krissfeed/">KrissFeed </a>me servait de lecteur RSS local, et pour lui je n'ai pas de backup des données, mais juste un vieux fichier OPML ... ce qui est bien suffisant, en fait</li>
+<br/>
+<li><a href="https://riduidel.wordpress.com/2014/05/12/twitter-via-rss/">Tweetledee </a>m'assurait la conversion Twitter=&#62;RSS ... Et quelque part, ça n'est pas bien grave si il ne marche plus ... sur cette machine. parce que j'ai toujours besoin d'un accès à Twitter, mais pas forcément sous cette forme.</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+<h3>Qu'est-ce que je peux faire ?</h3>
+<br/>
+A priori, le DNS-323 fournit une application de "réparation" du RAID ... Cela dit, je pense qu'elle va réparer le RAID en supprimant les secteurs foireux, ce qui implique potentiellement que je perde <strong>réellement</strong> tout ce qu'il y a dans cette partition JBOD. Et ça, je préfererai éviter. Mais bon, comme c'est la seule à faire, je vais le faire. En parallèle, je vais également racheter un disque. Parce que je les ai acheté en même temps, qu'ils ont eu le même usage, et que si l'un a lâché, l'autre ne va pas tarder.
+<br/>
+<h3>Qu'est-ce que je peux faire pour éviter que ça ne se reproduise ?</h3>
+<br/>
+Plusieurs choses, en fait
+<br/>
+<ol>
+<br/>
+<li>Eviter de charger mon NAS en m'en servant comme ordinateur. Par exemple, je suis pas sûr que de l'avoir fait tourner 24/24 sur des téléchargements n'ait pas réduit sa durabilité. Autrement dit, investir dans un matériel dédié à ces usages para-légaux (typiquement un Raspberry ou un ODROID) dans lequel les données tomberont dans une carte MicroSD sans problème de plateau qui arrête de tourner ... mais avec des problèmes de corruption de la carte.</li>
+<br/>
+<li>Me tenir mieux au courant de l'état du matériel. Et ça, ça veut dire superviser ... par mail, éventuellement</li>
+<br/>
+<li>Diminuer ma dépendance au web pour les usages non web. Typiquement, je consomme beaucoup de temps à lire des flux RSS. Est-ce que je ne pourrai pas plutôt les pousser sur mon compte mail par IMAP ? Ca déporterait cette charge chez gmx ..</li>
+<br/>
+</ol>
+</p>
+++++

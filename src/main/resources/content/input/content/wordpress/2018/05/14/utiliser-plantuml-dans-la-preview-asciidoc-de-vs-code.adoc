@@ -1,0 +1,50 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Utiliser PlantUML dans la preview Asciidoc de VS Code
+:jbake-tags: asciidoc,configuration,vscode,_mois_mai,_année_2018
+:jbake-date: 2018-05-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/05/14/utiliser-plantuml-dans-la-preview-asciidoc-de-vs-code.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/05/14/utiliser-plantuml-dans-la-preview-asciidoc-de-vs-code/
+:jbake-style: wordpress
+
+++++
+<p>
+Oui, parce que vendredi, j'ai craqué.
+</p>
+<p>
+Malgré la haine persistante que j'ai pour l'idée d'installer un navigateur web et un serveur Node.js pour éditer des fichiers textes, j'ai enfin installé l'un de ces "nouveaux éditeurs de texte".
+</p>
+<p>
+Et comme Windows, c'était mon idée, j'ai choisi le pire de la world company : <a href="https://code.visualstudio.com/">Visual Studio Code</a>. Dans l'ensemble, c'est pas trop mal. Mais parfois, ça surprend. Par exemple, il y a une chouette <a href="https://github.com/joaompinto/asciidoctor-vscode/">extension pour faire de l'asciidoc</a> dans Code. Mais elle utilise asciidoctor-js et ne supporte donc pas <a href="https://github.com/asciidoctor/asciidoctor-diagram">asciidoctor-diagram</a>. Comment changer ça ?
+</p>
+<p>
+Facilement (ou presque).
+</p>
+<p>
+D'abord, installez <a href="https://www.ruby-lang.org/fr/">ruby </a>et <a href="https://github.com/asciidoctor/asciidoctor-diagram">asciidoctor-diagram</a> (il installera automatiquement asciidoc).
+</p>
+<p>
+Ensuite, dans vos paramètres de Visual Studio Code, ajoutez (merci à <a href="https://github.com/joaompinto/asciidoctor-vscode/issues/67">ce ticket</a>)
+<br/>
+<pre>// make sure Asciidoc extension shows diagrams !
+<br/>
+"AsciiDoc.use_asciidoctor_js": false,
+<br/>
+"AsciiDoc.asciidoctor_command": "asciidoctor -r asciidoctor-diagram -o-",
+<br/>
+</pre>
+<br/>
+Redémarrez votre VS Code
+</p>
+<p>
+Et vous pourrez mettre du PlantUML dans vos fichier asciidoc et avoir des previews comme ça.
+</p>
+<p>
+<img class="alignnone size-full wp-image-5277" src="https://riduidel.files.wordpress.com/2018/05/2018-05-14-11_24_54-e2978f-configuration-adoc-sans-titreespace-de-travail-visual-studio-code.png" alt="2018-05-14 11_24_54-● configuration.adoc - Sans titre(Espace de travail) - Visual Studio Code" width="1378" height="523" />
+</p>
+<p>
+Par contre, vous n'aurez pas de coloration syntaxique du contenu PlantUML, bien qu'il existe également une <a href="https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml">extension VS Code pour ça</a>. Et là, à mon avis, en utilisant un include asciidoc, on doit pouvoir marier le meilleur des deux mondes ...
+</p>
+++++

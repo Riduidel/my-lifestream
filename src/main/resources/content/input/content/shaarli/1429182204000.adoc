@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Loi renseignement : des "Imsi Catcher" espions devant l'Assemblée ? | France info
+:jbake-tags: sécurité,communication,démocratie,_mois_avr.,_année_2015
+:jbake-date: 2015-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1429182204000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.franceinfo.fr%2Factu%2Fpolitique%2Farticle%2Fdes-appareils-pour-espionner-les-conversations-pres-d-une-manifestation-contre-la-loi-sur-le-668469&searchtags=s%C3%A9curit%C3%A9+communication+d%C3%A9mocratie+_mois_avr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.franceinfo.fr/actu/politique/article/des-appareils-pour-espionner-les-conversations-pres-d-une-manifestation-contre-la-loi-sur-le-668469[Loi renseignement : des "Imsi Catcher" espions devant l'Assemblée ? | France info]
+
+Là, ça fait vraiment flipper

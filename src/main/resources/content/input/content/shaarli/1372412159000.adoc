@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven dependency incompatible license check plugin
+:jbake-tags: java,maven,license,question,check,_mois_juin,_année_2013
+:jbake-date: 2013-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1372412159000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstackoverflow.com%2Fa%2F17335091%2F15619&searchtags=java+maven+license+question+check+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://stackoverflow.com/a/17335091/15619[Maven dependency incompatible license check plugin]
+
+Super cool ! Deux ans après que je pose la question, un mec me répond qu'il a écrit un plugin qui correspond pile-poil à mon besoin. Décidément, StackExchange est le meilleur site d'internet ... presque devant la wikipedia :-)

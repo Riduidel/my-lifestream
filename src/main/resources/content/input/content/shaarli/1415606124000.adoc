@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Voar
+:jbake-tags: web,online,jeu,espace,_mois_nov.,_année_2014
+:jbake-date: 2014-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1415606124000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvoar.io%2F&searchtags=web+online+jeu+espace+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://voar.io/[Voar]
+
+Il n'y a peut-être qu'une touche à cliquer, mais ça n'empêche pas ce jeu d'être foutraquement addictif. Via http://imgur.com/gallery/9fi4h

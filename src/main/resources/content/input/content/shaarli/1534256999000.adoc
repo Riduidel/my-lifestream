@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #OSSbyMAIF - Toutes les cartes
+:jbake-tags: organisation,entreprise,informatique,_mois_août,_année_2018
+:jbake-date: 2018-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1534256999000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmaif.github.io%2Fcards%2Ffr%2Fall.html&searchtags=organisation+entreprise+informatique+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://maif.github.io/cards/fr/all.html[#OSSbyMAIF - Toutes les cartes]
+
+Je n'avais pas vu les règles du jeu de la MAIF. C'est très bien.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Building A Cheap Kubernetes Cluster From Old Laptops | Hackaday
+:jbake-tags: ordinateur,portable,kubernetes,cluster,diy,_mois_févr.,_année_2021
+:jbake-date: 2021-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1612861899000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2021%2F02%2F08%2Fbuilding-a-cheap-kubernetes-cluster-from-old-laptops%2F&searchtags=ordinateur+portable+kubernetes+cluster+diy+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://hackaday.com/2021/02/08/building-a-cheap-kubernetes-cluster-from-old-laptops/[Building A Cheap Kubernetes Cluster From Old Laptops | Hackaday]
+
+J'ai un collègue qui a lui aussi un cluster k8s d'ordinateurs portables, mais il n'a pas optimisé le sien jusqu'à démonter les ordinateurs pour optimiser la consommation...

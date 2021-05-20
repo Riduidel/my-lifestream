@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architectural Katas: Practicing Architecture
+:jbake-tags: programming,architecture,kata,_mois_nov.,_année_2016
+:jbake-date: 2016-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1478529794000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farchkatas.herokuapp.com%2F&searchtags=programming+architecture+kata+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://archkatas.herokuapp.com/[Architectural Katas: Practicing Architecture]
+
+Les katas, c'est bien. les katas d'architecture, c'est encore mieux

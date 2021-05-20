@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AdNauseam - Clicking Ads So You Don't Have To
+:jbake-tags: web,publicité,plugin,_mois_mars,_année_2017
+:jbake-date: 2017-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1490882758000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fadnauseam.io%2F&searchtags=web+publicit%C3%A9+plugin+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://adnauseam.io/[AdNauseam - Clicking Ads So You Don't Have To]
+
+Très bien : ça fait en sorte que la pub coûte vraiment cher pour un retour sur investissement nul.

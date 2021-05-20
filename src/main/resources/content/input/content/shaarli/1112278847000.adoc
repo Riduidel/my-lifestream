@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: robots.net - Robot news and Robotics Info
+:jbake-tags: IA,science,robot,portal,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112278847000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.robots.net%2F&searchtags=IA+science+robot+portal+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.robots.net/[robots.net - Robot news and Robotics Info]
+
+News site on relating to robotics. Great place to find a lot of interesting information on teh subject.

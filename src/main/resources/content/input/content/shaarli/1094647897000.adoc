@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Main Page - Cunnan
+:jbake-tags: age,middle,renaissance,wiki,_mois_sept.,_année_2004
+:jbake-date: 2004-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1094647897000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sca.org.au%2Fcunnan%2Fwiki%2FMain_Page&searchtags=age+middle+renaissance+wiki+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.sca.org.au/cunnan/wiki/Main_Page[Main Page - Cunnan]
+
+Welcome to Cunnan, a Wiki collecting information for re-enactors of the Middle Ages and Renaissance with a heavy slant towards members of the SCA. Cunnan is the largest SCA wiki in the world - anyone can edit our articles. You should be bold in updati

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Orisinal : Morning Sunshine
+:jbake-tags: web,flash,jeu,_mois_janv.,_année_2005
+:jbake-date: 2005-01-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1104742213000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ferryhalim.com%2Forisinal%2F&searchtags=web+flash+jeu+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ferryhalim.com/orisinal/[Orisinal : Morning Sunshine]
+
+Beautiful interactive flash stuff (including the flash flowers)

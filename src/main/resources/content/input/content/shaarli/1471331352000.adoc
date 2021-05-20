@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Deciphering Glyph :: The One Python Library Everyone Needs
+:jbake-tags: programming,python,library,open-source,_mois_août,_année_2016
+:jbake-date: 2016-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1471331352000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fglyph.twistedmatrix.com%2F2016%2F08%2Fattrs.html%3Famp%3Butm_medium%3Dtwitter&searchtags=programming+python+library+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://glyph.twistedmatrix.com/2016/08/attrs.html?amp;utm_medium=twitter[Deciphering Glyph :: The One Python Library Everyone Needs]
+
+Intéressante solution pythonesque au problème existant dans tous les langages objets de définition des types

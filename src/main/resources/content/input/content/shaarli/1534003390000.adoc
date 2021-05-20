@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ludovic Piot on Twitter: "And don't even use it since it's a real ergonomic crap.… "
+:jbake-tags: organisation,productivité,communication,chat,_mois_août,_année_2018
+:jbake-date: 2018-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1534003390000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flpiot%2Fstatus%2F1028226017272496128&searchtags=organisation+productivit%C3%A9+communication+chat+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/lpiot/status/1028226017272496128[Ludovic Piot on Twitter: "And don't even use it since it's a real ergonomic crap.… "]
+
+D'ici deux/trois ans, on verra fleurir les articles "pourquoi nous quittons slack", "pourquoi les mails sont finalement bons pour notre organisation". Alors qu'en fait, le secret, c'est de ne \*jamais\* utiliser d'outils de communication synchrones, ça tue la productivité.

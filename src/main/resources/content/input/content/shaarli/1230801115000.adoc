@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Xebia France - Simplifier les assertions JUnit et améliorer vos tests
+:jbake-tags: junit,programming,java,library,développement,test,for:Clownny59,_mois_janv.,_année_2009
+:jbake-date: 2009-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1230801115000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.xebia.fr%2F2008%2F04%2F02%2Fsimplifier-les-assertions-junit-et-ameliorer-vos-tests%2F&searchtags=junit+programming+java+library+d%C3%A9veloppement+test+for%3AClownny59+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://blog.xebia.fr/2008/04/02/simplifier-les-assertions-junit-et-ameliorer-vos-tests/[Blog Xebia France - Simplifier les assertions JUnit et améliorer vos tests]
+
+Comme j'utilise depuis un moment jUnit et jMock, ce serait sûrement une bonne idée de rendre les assertions un peu plus lisibles, non ?

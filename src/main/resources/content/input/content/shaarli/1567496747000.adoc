@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Riduidel/maven-growl-plugin: A maven execution listener that sends growl notifications during build.
+:jbake-tags: maven,growl,plugin,open-source,_mois_sept.,_année_2019
+:jbake-date: 2019-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1567496747000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FRiduidel%2Fmaven-growl-plugin&searchtags=maven+growl+plugin+open-source+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/Riduidel/maven-growl-plugin[Riduidel/maven-growl-plugin: A maven execution listener that sends growl notifications during build.]
+
+En cherchant un plugin maven pour envoyer des notifications growl, je retombe sur ce vieux projet écrit par ... moi-même ! Ca fait bizarre

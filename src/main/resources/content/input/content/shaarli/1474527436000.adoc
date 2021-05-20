@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Modern Agile - une déclinaison francophone des principes
+:jbake-tags: agile,organisation,_mois_sept.,_année_2016
+:jbake-date: 2016-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1474527436000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feric.siber.fr%2F2016%2F09%2F08%2Fmodern-agile-declinaison-francophone-principes%2F&searchtags=agile+organisation+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://eric.siber.fr/2016/09/08/modern-agile-declinaison-francophone-principes/[Modern Agile - une déclinaison francophone des principes]
+
+Revoir l'agile, c'est bien. En revanche, il faut peut-être éviter de ne faire qu'un travail d'affichage.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Understanding java from command line on OSX - Rico's Blog
+:jbake-tags: java,macosx,command-line,version,architecture,développement,article,_mois_août,_année_2013
+:jbake-date: 2013-08-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1376917466000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.hgomez.net%2Fblog%2F2012%2F07%2F20%2Funderstanding-java-from-command-line-on-osx%2F&searchtags=java+macosx+command-line+version+architecture+d%C3%A9veloppement+article+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blog.hgomez.net/blog/2012/07/20/understanding-java-from-command-line-on-osx/[Understanding java from command line on OSX - Rico's Blog]
+
+Un excellent article sur la "bonne" façon de changer le Java utilisé en ligne de commande par MacOS. Le flag "-a i386" est un des murs de mon enfer actuel ...

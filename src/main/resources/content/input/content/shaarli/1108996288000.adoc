@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kameleon P2P : Projet de peer to peer anonyme et sécurisé
+:jbake-tags: software,freeware,windows,réseau,p2p,sécurité,_mois_févr.,_année_2005
+:jbake-date: 2005-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1108996288000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkameleon.sourceforge.net%2F%3Fblog%3Dkameleon&searchtags=software+freeware+windows+r%C3%A9seau+p2p+s%C3%A9curit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://kameleon.sourceforge.net/?blog=kameleon[Kameleon P2P : Projet de peer to peer anonyme et sécurisé]
+
+Bienvenue sur le site du projet Kameleon. Projet qui deviendra un logiciel de partage peer 2 peer décentralisé disposant de deux modes de communication : anonyme ou sécurisé.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Notepad++ Notepad++ 7.5 released
+:jbake-tags: software,publicité,open-source,_mois_sept.,_année_2017
+:jbake-date: 2017-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1505286548000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnotepad-plus-plus.org%2Fnews%2Fnotepad-7.5-released.html&searchtags=software+publicit%C3%A9+open-source+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://notepad-plus-plus.org/news/notepad-7.5-released.html[Notepad++ Notepad++ 7.5 released]
+
+Le développeur de Notepad++ est quand même un vrai dictateur bienveillant : comme le plugin manager contient de la pub, il l'a viré.

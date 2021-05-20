@@ -1,0 +1,138 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Clean architecture
+:jbake-tags: architecture,design,patterns,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-clean-architecture.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-clean-architecture/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Partons d’une application qui récupère des exemples sur Internet. En Android, on va faire une sale activité, et même une seule classe. Pour refactorer l’application, on commence par appliquer les principes <a href="https://fr.wikipedia.org/wiki/SOLID_%28informatique%29">SOLID</a>. Et également par la rendre testable.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Au bout d’un moment, on se retrouve avec du MVC ou MVVM (selon qu’on soit sous Android ou iOS)
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-10">
+<br/>
+<h2 id="truekeskec">Keskecé</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Le concept de clean architecture, c’est d’isoler la logique métier en appliquant les patterns classiques (architecture hexagonale, DDD, …​).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-13">
+<br/>
+<h2 id="trueprincipes">Principes</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="ulist data-line-15">
+<br/>
+<ul>
+<br/>
+<li>Indépendant des frameworks</li>
+<br/>
+<li>Définir un bon découpage métier (en particulier, définir des packages selon les fonctionnalités métier, plutôt que selon les fonctionnalités techniques)</li>
+<br/>
+<li>Testable</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-19">
+<br/>
+<h2 id="trueavantages">Avantages</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+D’abord, grâce à l’utilisation d’interfaces, le code change plus facilement. On implémente les fonctionnalités plus vite …​ Une fois qu’on a construit la structure initiale. Le code est également plus réutilisable, y compris les fragments de fonctionnalités métier. D’ailleurs, comme les règles métier sont isolées, il est plus facile d’en parler avec le métier. Pour le développement d’applications mobiles, ça aide également à concevoir un modèle identique pour Android et iOS, ce qui aide évidement beaucoup les développeurs. Et ça, c’est valable même si les features ne sont pas développées à la même vitesse.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-27">
+<br/>
+<h2 id="truerisques">Risques</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Evidement, l’overengineering peut apparaître, comme toujours. Toute l'équipe doit par ailleurs être embarquée dans la démarche. Ce que les revues de code garantissent en aval du code.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-31">
+<br/>
+<h2 id="truesix_mois_plus_tard">Six mois plus tard …​</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-32">
+</p>
+<p>
+Le code métier aurait pu être écrit une seule fois pour les deux plateformes mobiles (par exemple avec Kotlin native). Réfléchir à la stratégie de test dès le début aurait évité des tests fastidieux à écrire. Se passer de la clean architecture leur semble maintenant difficile. Le pattern reactive a beaucoup aidé à mettre en place ce type d’architecture. Il y a globalement moins de bug, surtout sur les couches hors domaine.
+<br/>
+<h2>Mon avis</h2>
+<br/>
+Manifestement, Clean architecture est plus un guide de bonnes pratiques pour architectes en herbe plutôt qu'un style architectural. Ce sont des bonnes pratiques, et comme à chaque fois, les bonnes pratiques semblent naïves et simplistes dans une conférence comme Devoxx, mais c'est à mon avis autre chose sur une application réellement utilisée. Et c'est tout l'intérêt de la chose.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

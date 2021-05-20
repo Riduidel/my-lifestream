@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Docker et la tendance de la conteneurisation : a-t-elle vraiment été en production ?
+:jbake-tags: docker,critique,sécurité,_mois_juin,_année_2017
+:jbake-date: 2017-06-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1497035126000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.imirhil.fr%2F2016%2F10%2F09%2Fdocker-container-hell.html&searchtags=docker+critique+s%C3%A9curit%C3%A9+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.imirhil.fr/2016/10/09/docker-container-hell.html[Docker et la tendance de la conteneurisation : a-t-elle vraiment été en production ?]
+
+Les arguments évoqués résonnent pas mal en moi. Mais je ne reproche pas forcément les mêmes choses à Docker (sans doute parce que je ne connais pas tous ces problèmes).

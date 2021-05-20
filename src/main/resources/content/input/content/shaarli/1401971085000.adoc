@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sunsets in Google Calendar Using R
+:jbake-tags: nature,scripting,_mois_juin,_année_2014
+:jbake-date: 2014-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1401971085000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2F2v_mfitzJhk%2Fsunsets-google-calendar-using&searchtags=nature+scripting+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/2v_mfitzJhk/sunsets-google-calendar-using[Sunsets in Google Calendar Using R]
+
+Très très chouette idée : utiliser les informations disponibles dans R pour se donner à soi-même des rendez-vous avec le coucher du soleil. Personnellement, je suis plus levé de soleil, mais l'idée n'en est pas moins excellente.

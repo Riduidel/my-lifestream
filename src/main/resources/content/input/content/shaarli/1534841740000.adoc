@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Install Sonarr Raspberry Pi 2 with Latest Stable Mono •
+:jbake-tags: web,download,bittorrent,_mois_août,_année_2018
+:jbake-date: 2018-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1534841740000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.htpcguides.com%2Finstall-sonarr-raspberry-pi-2-latest-stable-mono%2F&searchtags=web+download+bittorrent+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.htpcguides.com/install-sonarr-raspberry-pi-2-latest-stable-mono/[Install Sonarr Raspberry Pi 2 with Latest Stable Mono •]
+
+Après une discussion fort intéressante avec un collègue, il semble que Sonarr soit assez utile ... et utilisable avec mon Raspberry !

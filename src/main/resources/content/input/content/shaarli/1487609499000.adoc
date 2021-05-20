@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lesfurets/JenkinsPipelineUnit: Framework for unit testing Jenkins pipelines
+:jbake-tags: jenkins,tdd,programming,_mois_févr.,_année_2017
+:jbake-date: 2017-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1487609499000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flesfurets%2FJenkinsPipelineUnit&searchtags=jenkins+tdd+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/lesfurets/JenkinsPipelineUnit[lesfurets/JenkinsPipelineUnit: Framework for unit testing Jenkins pipelines]
+
+C'est conceptuellement génial (et une extension logique du pipeline-as-code). La complétude viendra plus tard ...

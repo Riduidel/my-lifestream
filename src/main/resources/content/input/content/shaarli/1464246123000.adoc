@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Troy Hunt: The “Cobra Effect” that is disabling paste on password fields
+:jbake-tags: web,password,sécurité,_mois_mai,_année_2016
+:jbake-date: 2016-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1464246123000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.troyhunt.com%2Fthe-cobra-effect-that-is-disabling%2F&searchtags=web+password+s%C3%A9curit%C3%A9+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.troyhunt.com/the-cobra-effect-that-is-disabling/[Troy Hunt: The “Cobra Effect” that is disabling paste on password fields]
+
+Le théatre de la sécurité se niche partout, avec à chaque fois des conséquences désastreuses

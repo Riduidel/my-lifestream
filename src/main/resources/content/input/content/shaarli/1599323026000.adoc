@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Abstract Wikipédia - LinuxFr.org
+:jbake-tags: wikipedia,traduction,automatisation,concepts,programming,_mois_sept.,_année_2020
+:jbake-date: 2020-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1599323026000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flinuxfr.org%2Fnews%2Fabstract-wikipedia&searchtags=wikipedia+traduction+automatisation+concepts+programming+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://linuxfr.org/news/abstract-wikipedia[Abstract Wikipédia - LinuxFr.org]
+
+C'est une idée assez incroyable, quand on y réfléchit un poil. Cela dit, la linguistique est un domaine \*invraisemblablement\* complexe. Par contre, je parie que ça s'appliquera super bien à la traduction d'applications.

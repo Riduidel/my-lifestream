@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bitbooks | Build Online Books from Github
+:jbake-tags: online,markdown,open-source,ebook,générateur,git,github,_mois_janv.,_année_2015
+:jbake-date: 2015-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1422345329000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbitbooks.cc%2F&searchtags=online+markdown+open-source+ebook+g%C3%A9n%C3%A9rateur+git+github+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://bitbooks.cc/[Bitbooks | Build Online Books from Github]
+
+Encore un outil de création de livres à base de GitHub + Markdown. Ca commence à être un secteur un peu encombré, je trouve.

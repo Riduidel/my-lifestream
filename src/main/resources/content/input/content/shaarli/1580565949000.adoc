@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vegapit
+:jbake-tags: rust,javafx,programming,webassembly,tutorial,_mois_févr.,_année_2020
+:jbake-date: 2020-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1580565949000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvegapit.com%2Farticle%2Fjavafx-gui-rust-webassembly-asmble-kotlin&searchtags=rust+javafx+programming+webassembly+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://vegapit.com/article/javafx-gui-rust-webassembly-asmble-kotlin[Vegapit]
+
+Je ne comprend pas trop l'intérêt de faire du Rust dans une application JavaFX. MAIS je suis quand même fasciné par l'idée (sans doute parce que j'aime bien ces deux technologies).

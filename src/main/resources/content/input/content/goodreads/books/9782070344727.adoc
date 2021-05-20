@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Croisière sans escale
+:jbake-tags:  humanité, innocence, mutant, rayon-imaginaire, space-opera,_année_2007,_mois_nov.,_note_5,far-future,read
+:jbake-date: 2007-11-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070344727.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453857492l/4924343._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453857492l/4924343._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/4924343
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Roy Complain est un chasseur de la tribu Greene. Il arpente le monde envahi par la jungle des poniques et survit tant bien que mal grâce à ce qu'on lui donne en échange de son gibier. Jusqu'au jour où Gwenny, sa compagne, est enlevée dans des circonstances étranges. Il part alors, en compagnie de Marapper, le prêtre, et de trois autres membres de la tribu, à la découverte de secteurs inexplorés du monde où subsistent les traces d'une civilisation gigantesque et disparue. Les croyances et les certitudes de Complain vont, petit à petit, voler en éclats.
+</div>
+++++
+
+
+## Authors
+* link:../authors/1154045.html[André-François Ruaud]
+* link:../authors/33297.html[Brian W. Aldiss]
+* link:../authors/1396.html[Michel Deutsch]
+
+
+
+## Review
+
+++++
+De temps en temps, lire des classiques, ça soigne.<br/>Ce roman en fait à mon avis partie, puisqu'assez ancien, traitant d'un sujet plus qu'intéressant, et ma foi fort bien écrit. Il a été chaudement conseillé par sf.marseille, et à bon escient.<br/>Dans ce roman, on suit les aventures d'un chasseur dans une espèce de jungle assez improbable, qui va au fur et à mesure révéler toute son étrangeté et sa dimension assez terrifiante, avec une fin ouverte comme la sf dite, justement, classique, en a le secret.<br/>J'ai beaucoup aimé la quête de sens de ce brave chasseur qui, tout en découvrant un monde plus complexe, abandonne sa vision simpliste du monde issue d'un environnement formatté pour commencer à se poser de vraies questions sur son environnement. J'ai d'ailleurs bien envie de rapprocher cette quête de celles qu'on retrouve par exemple dans <a class="DirectBookReference destination_Book" href="9782070421497.html">Le monde inverti</a> ou même, et peut-être plus encore à cause de la lutte permanente contre un environnement naturellement hostile, dans <a class="DirectBookReference destination_Book" href="9782070342266.html">La Horde du Contrevent</a>, bien qu'il n'y ait pas vraiment de grande différence entre les deux(1).<br/>Et puis bien sûr il y a ce vaisseau, très loin de ce à quoi du space-op de bas étage nous habituerait(2) , avec ses multiples pannes, son côté assez fantastique, mais authentiquement expliquable, et puis bien sûr l'explication en elle-même(3).<br/>Bref, tout ça nous donne un univers saisissant, un personnage intéressant, une quête de soi absolument fascinant, et fort logiquement un bouquin vraiment réussi. Et en bonus, cette édition nous livre une postface retrançant à grands coups l'histoire du genre space-opera et de ses oeuvres les plus marquantes dans le genre de ce roman, qui même elle vaut le coup d'être lue.<br/><br/>(1) Je ne veux pas dire par là qu'il y a peu de différence entre les romans, mais plutôt que la proximité entre ce roman et les deux cités se fait sur un point de vue sur lequel ces deux oeuvres me semblent assez proches, ce qui bien entendu est loin d'être clair, mais me parait néanmoins évident.<br/>(2) Ben oui, dans le space-opera, mis à part peut-être chez <a class="DirectAuthorReference destination_Author" href="../authors/51204.html">Alastair Reynolds</a>, les vaisseaux sont beaux, flaboyants, ultra-modernes, et propres sur eux<br/>(3) J'ai d'ailleurs trouvé ce changement de paradigme absolument fabuleux. Passer d'un univers à la taille du héros à un autre, pour lui faire comprendre ses différences de perception, je trouve ça remarquablement bien fait. Bien sûr, c'est désormais un procédé courant, mais il est ici mis en oeuvre avec habileté.
+++++

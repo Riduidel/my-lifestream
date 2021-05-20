@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Knowledge Worker Free/Open Source Toolbox
+:jbake-tags: software,freeware,windows,open-source,_mois_nov.,_année_2005
+:jbake-date: 2005-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1132046342000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcampbell-online.com%2Fresources%2Fknowledge_worker_toolbox.html&searchtags=software+freeware+windows+open-source+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://campbell-online.com/resources/knowledge_worker_toolbox.html[Knowledge Worker Free/Open Source Toolbox]
+
+Une grosse liste de logiciels pluys ou moins gratuits pour rempalcer les poids-lourds trop chers de Microsoft et consors

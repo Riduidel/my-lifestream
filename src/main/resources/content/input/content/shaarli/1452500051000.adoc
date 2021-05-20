@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stop Comparing JSON and XML - Yegor Bugayenko
+:jbake-tags: xml,json,programming,persistence,_mois_janv.,_année_2016
+:jbake-date: 2016-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1452500051000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.yegor256.com%2F2015%2F11%2F16%2Fjson-vs-xml.html%3Futm_content%3Dbuffer5a527%26utm_medium%3Dsocial&searchtags=xml+json+programming+persistence+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.yegor256.com/2015/11/16/json-vs-xml.html?utm_content=buffer5a527&utm_medium=social[Stop Comparing JSON and XML - Yegor Bugayenko]
+
+Ca fait plaisir de lire une défense honnête de XML face à JSON

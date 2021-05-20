@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lire les metadonnées EXIF
+:jbake-tags: exif,tutorial,documentation,_mois_août,_année_2008
+:jbake-date: 2008-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1219650668000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.labo-dotnet.com%2Farticles%2FCsharp%2FLire%2520les%2520metadonn%C3%A9es%2520EXIF%2F0%2F51.aspx&searchtags=exif+tutorial+documentation+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.labo-dotnet.com/articles/Csharp/Lire%20les%20metadonnées%20EXIF/0/51.aspx[Lire les metadonnées EXIF]
+
+Un bon aperçu de la manière dont les métadonnées EXIF sont stockées, ça pourrait servir ...

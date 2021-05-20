@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo Tome 19
+:jbake-tags:  fantasy, initiation, japon,_année_2013,_mois_févr.,_note_3,rayon-bd,read
+:jbake-date: 2013-02-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782888903215.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360494593l/8434814._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360494593l/8434814._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/8434814
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Usagi devra-t-il finir par avouer à Jotaro le secret de sa parenté? Aura-t-il le cœur de ruiner la confiance et l’amour que Jotaro porte à celui qu’il croit être son père? Pourra-t-il renoncer à sa vie d’errance et d’aventures? Mais pour l’heure, il recherche désespérément son jeune compagnon, qui a dû s’enfuir pour échapper à de barbares kidnappeurs. En chemin, ses pas l’amèneront à rencontrer une fois de plus le Bouc Solitaire et son fils, Gorogoro, en bien mauvaise posture... ll croisera aussi de nouveau les pas de Tomoé Amé, la garde du corps du Seigneur Noriyuki, avant de retrouver son ancien Sensei et de combattre une fois de plus la ligue des Assassins...
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+Dans ce tome, Usagi termine son voyage avec jotaro. Et évidement, la question de la paternité de l'un vis-à-vis de l'autre sous-tend tous leurs échanges verbaux ainsi que leurs passes d'armes face aux maraudeurs, brigands de autres chemins et autres assassins qui traînent.
+++++

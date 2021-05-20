@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: http://blog.evanweaver.com/articles/2007/01/13/growing-up-your-acts_as_taggable
+:jbake-tags: plugin,programming,reference,rails,tutorial,documentation,_mois_mai,_année_2007
+:jbake-date: 2007-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1178814784000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.evanweaver.com%2Farticles%2F2007%2F01%2F13%2Fgrowing-up-your-acts_as_taggable&searchtags=plugin+programming+reference+rails+tutorial+documentation+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://blog.evanweaver.com/articles/2007/01/13/growing-up-your-acts_as_taggable[http://blog.evanweaver.com/articles/2007/01/13/growing-up-your-acts_as_taggable]
+
+Un tutorial expliquant comment utiliser has\_many\_polymorphic àç la palce de acts\_as\_taggable, mais apparement en mieux. Parce que acts\_as\_taggable, je le trouve quand même pas terrible

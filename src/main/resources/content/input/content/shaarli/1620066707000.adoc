@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Artvee
+:jbake-tags: art,web,libre,_mois_mai,_année_2021
+:jbake-date: 2021-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1620066707000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fartvee.com%2F&searchtags=art+web+libre+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://artvee.com/[Artvee]
+
+De l'art ... dans le domaine public ! Ca fait toujours plaisir !

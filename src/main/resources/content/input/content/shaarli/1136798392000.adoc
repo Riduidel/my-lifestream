@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Soundstream is a Mac OS X screensaver created with Quartz Composer. It consists of a randomly moving particle generator (reminiscent of Flurry) that reacts to the sound level picked up by your computer's microphone.
+:jbake-tags: freeware,fun,geek,macosx,screensaver,musique,software,_mois_janv.,_année_2006
+:jbake-date: 2006-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1136798392000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pcheese.net%2Fsoftware%2Fsoundstream%2F&searchtags=freeware+fun+geek+macosx+screensaver+musique+software+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.pcheese.net/software/soundstream/[Soundstream is a Mac OS X screensaver created with Quartz Composer. It consists of a randomly moving particle generator (reminiscent of Flurry) that reacts to the sound level picked up by your computer's microphone.]
+
+

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gemini, le protocole du slow web | ploum.net
+:jbake-tags: web,protocole,http,évolution,critique,alternatives,_mois_nov.,_année_2020
+:jbake-date: 2020-11-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1606561781000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fploum.net%2Fgemini-le-protocole-du-slow-web%2F&searchtags=web+protocole+http+%C3%A9volution+critique+alternatives+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ploum.net/gemini-le-protocole-du-slow-web/[Gemini, le protocole du slow web | ploum.net]
+
+C'est curieux cette tentation des développeurs de toujours réinventer la roue. En voyant cette histoire de Gemini, je me dis qu'en fait, on peut très facilement arriver au même résultat avec du http, pour peu qu'on conçoive un site simple, non ?

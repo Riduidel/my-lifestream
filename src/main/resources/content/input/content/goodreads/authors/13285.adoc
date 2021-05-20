@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dave Gibbons
+:jbake-tags: author
+:jbake-date: 2009-09-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/13285.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1308663000p5/13285.jpg
+:jbake-source: https://www.goodreads.com/author/show/13285
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782840552512.html[Watchmen: Les Gardiens, Édition Intégrale]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: why updating DNS is slow
+:jbake-tags: web,dns,cache,_mois_févr.,_année_2021
+:jbake-date: 2021-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1612780455000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwizardzines.com%2Fcomics%2Fupdating-dns%2F&searchtags=web+dns+cache+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://wizardzines.com/comics/updating-dns/[why updating DNS is slow]
+
+La mise à jour dns, c'est toujours long. Pourquoi ? À cause des caches à tous les niveaux !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Etch-A-Snap — A Raspberry Pi powered Etch-A-Sketch Camera - YouTube
+:jbake-tags: raspberrypi,dessin,photographie,_mois_avr.,_année_2019
+:jbake-date: 2019-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1556027312000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwFrpxqqJUbc&searchtags=raspberrypi+dessin+photographie+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=wFrpxqqJUbc[Etch-A-Snap — A Raspberry Pi powered Etch-A-Sketch Camera - YouTube]
+
+Euh, c'est vraiment fou, ça, non ?

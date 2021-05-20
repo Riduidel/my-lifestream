@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd in Toki Pona
+:jbake-tags: langue,xkcd,tokipona,_mois_déc.,_année_2019
+:jbake-date: 2019-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1575486434000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmorr.cc%2Ftoki-pona-xkcd%2F&searchtags=langue+xkcd+tokipona+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://morr.cc/toki-pona-xkcd/[xkcd in Toki Pona]
+
+Merci SebSauvage pour le lien. Ca me donne envie de me mettre au toki pona, même si c'est une envie à peu près irréaliste.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Roman Elizarov on Twitter: "Vertical screen space is a precious and limited resource in software engineering. Software defect rates increase significantly when code does not fit into a page and you have to scroll or navigate around to study it. But don't take this fact to the extreme. 1/4"
+:jbake-tags: programming,ergonomie,_mois_mars,_année_2019
+:jbake-date: 2019-03-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1552058196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frelizarov%2Fstatus%2F1103381979247112192&searchtags=programming+ergonomie+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/relizarov/status/1103381979247112192[Roman Elizarov on Twitter: "Vertical screen space is a precious and limited resource in software engineering. Software defect rates increase significantly when code does not fit into a page and you have to scroll or navigate around to study it. But don't take this fact to the extreme. 1/4"]
+
+Eh ouais, avoir un écran avec plus de pixels ne vous rendra pas meilleur. Faire des méthodes plus courtes que l'écran n'est haut en revanche vous aidera beaucoup.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: http://ogi.vladimir.prelovac.com/index.html
+:jbake-tags: search-engine,_mois_mai,_année_2021
+:jbake-date: 2021-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1620396310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fogi.vladimir.prelovac.com%2Findex.html&searchtags=search-engine+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://ogi.vladimir.prelovac.com/index.html[http://ogi.vladimir.prelovac.com/index.html]
+
+Un moteur de recherche qui essaye de retourner les résultats qui ne sont pas dans Google. C'est cpnceptuellement intéressant.

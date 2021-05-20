@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marc Laidlaw
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7608.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1460454356p5/7608.jpg
+:jbake-source: https://www.goodreads.com/author/show/7608
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]

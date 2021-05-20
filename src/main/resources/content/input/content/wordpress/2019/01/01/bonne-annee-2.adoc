@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bonne année !
+:jbake-tags: voeux,_mois_janv.,_année_2019
+:jbake-date: 2019-01-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/01/01/bonne-annee-2.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/01/01/bonne-annee-2/
+:jbake-style: wordpress
+
+++++
+<p>
+Je me demande si je ne devrais pas créer une catégorie dédiée à ces articles, parce qu'avec le temps, les messages sur ce sujet se multiplient ... (regardez donc en <a href="https://riduidel.wordpress.com/2018/01/16/bonne-annee/">2018</a>, par exemple).
+</p>
+<p>
+L'avantage, c'est que je peux regarder le message de l'année précédente pour vous dire si, oui ou non, j'ai fait ce que j'avais dit.
+</p>
+<p>
+Et pour commencer, ma radio internet est loin d'avoir avancé aussi bien que je le voulais, même si certains points sont assez positifs. Mais je veux continuer à faire avancer ce projet, qui est très cool. En fait, ce qui traine, c'est avant tout la partie matérielle : je ne trouve pas le bon écran, et je ne sais pas encore comment connecter la télécommande. Mais ça n'est pas grave, je vais y arriver.
+</p>
+<p>
+Ensuite, je n'ai pas fait de présentation à DevoxxFr. En revanche, cette année, c'est sûr, <a href="https://sched.co/J2sW">je parle à Snowcamp avec un collègue</a>. Ca me stresse pas mal, parce que je ne suis pas tout à fait prêt, mais je vais y arriver, et je vous dirai si l'expérience vaut le travail. Ce qui est chouette, c'est que ça concerne un certain nombre de sujets incontournables (à mon avis) comme K8s, Elastic ou Kafka, et qu'on y ajoute un ou deux trucs marrants (comme Jenkins-X). On verra e que ça va donner, mais je crois que ça pourrait être chouette (et donner lieu à quelques produits dérivés marrants).
+</p>
+<p>
+Et en 2019? je vais me remettre sérieusement à Rust, parce que si j'en ai fait en 2018, je dois bien reconnaître que la maintenance de mon parc informatique a consommé un certain temps : entre <a href="https://riduidel.wordpress.com/2018/09/27/et-si-jarretais-de-faire-nimporte-quoi-avec-mon-raspberry/">le Raspberry qui a fait des siennes</a>, le <a href="https://riduidel.wordpress.com/2018/09/13/je-change-le-nas/">NAS qui est mort</a> (et que j'ai dû remplacer), j'ai passé bien trop de temps à faire du matériel plutôt que du logiciel. Heureusement, j'ai enfin utilisé des <a href="https://riduidel.wordpress.com/2018/12/08/raspberry-et-ansible/">méthodes professionnelles</a>, et je suis convaincu que ma prochaine réinstallation du Raspberry sera bien plus rapide. Et le nouveau NAS me paraît plus robuste ... mais seul le temps me le dira.
+</p>
+<p>
+Et puis, d'un point de vue réellement professionnel, il y aura d'autres changements. En effet, j'ai changé de statut dans mon entreprise pour devenir un "<a href="https://github.com/Riduidel/conferences/blob/master/dtl-myself/src/slides/asciidoc/index.adoc">directeur technique local</a>". Le terme est pompeux ... et recouvre très incorrectement la réalité, je trouve. En tout état de cause, mon entreprise me demande d'apporter à mes collègues deux ou trois astuces, et ça me fait très plaisir. Mais ça va aussi sans doute changer ma façon de travailler. C'est excitant et logiquement un peu inquiétant.
+</p>
+<p>
+Dans l'ensemble, cette année 2019 promet&#160; bien des choses à titre personnel.
+</p>
+++++

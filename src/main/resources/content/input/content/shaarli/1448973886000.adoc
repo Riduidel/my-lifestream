@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Euratechnologies - Lille sur Vimeo
+:jbake-tags: lille,histoire,vidéo,architecture,_mois_déc.,_année_2015
+:jbake-date: 2015-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1448973886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvimeo.com%2F76011398&searchtags=lille+histoire+vid%C3%A9o+architecture+_mois_d%C3%A9c.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://vimeo.com/76011398[Euratechnologies - Lille sur Vimeo]
+
+Chouette résumé de l'histoire d'Euratechnologies

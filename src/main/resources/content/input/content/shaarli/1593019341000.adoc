@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RedDress-PlantUML/README.md at master · Drakemor/RedDress-PlantUML
+:jbake-tags: plantuml,thème,design,web,macro,_mois_juin,_année_2020
+:jbake-date: 2020-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1593019341000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FDrakemor%2FRedDress-PlantUML%2Fblob%2Fmaster%2FREADME.md&searchtags=plantuml+th%C3%A8me+design+web+macro+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/Drakemor/RedDress-PlantUML/blob/master/README.md[RedDress-PlantUML/README.md at master · Drakemor/RedDress-PlantUML]
+
+Des thèmes de couleur pour PlantUML? c'est une belle idée !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cheval on Twitter: "que dirait Freud de l'omniprésence d'Internet dans nos vies ? probablement qu'on rêve de baiser notre mère, le mec était pas super varié dans ses analyses, faut être honnête sur le sujet"
+:jbake-tags: citation,humour,internet,psychatrie,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549631572000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FHorseFigaro%2Fstatus%2F1093260600644460544&searchtags=citation+humour+internet+psychatrie+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/HorseFigaro/status/1093260600644460544[Cheval on Twitter: "que dirait Freud de l'omniprésence d'Internet dans nos vies ? probablement qu'on rêve de baiser notre mère, le mec était pas super varié dans ses analyses, faut être honnête sur le sujet"]
+
+Très drôle (surtout quand comme moi on pense que Freud était clairement déglingué du bulbe

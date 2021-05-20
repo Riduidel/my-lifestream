@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Serment des pécadous (Traquemage, #1)
+:jbake-tags:  initiation, magie,_année_2017,_mois_nov.,_note_4,rayon-bd,read
+:jbake-date: 2017-11-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756064642.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442649320l/26702993._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442649320l/26702993._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/26702993
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Le pécadou, étonnant fromage de cornebique, fait la fierté de Pistolin. <br />Mais avec la guerre que se livrent les mages, la vie dans la montagne est devenue impossible. <br />Après avoir été le témoin de l'extermination de son troupeau, notre héros fait le serment de traquer les mages et de les tuer tous. <br />Accompagné par Myrtille, l'unique survivante de son troupeau, Pistolin part accomplir sa vengeance
+</div>
+++++
+
+
+## Authors
+* link:../authors/1377541.html[Relom]
+* link:../authors/1212442.html[Wilfrid Lupano]
+
+## Series
+* link:../series/Traquemage.html[Traquemage]
+
+## Review
+
+++++
+Très chouette, très drôle, et beaucoup plus fin que le dessin apparemment grossier ne peut le laisser suggérer. Je vais m'empresser d'acheter le second tome.
+++++

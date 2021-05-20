@@ -1,0 +1,65 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Javascript all the things .. or not ?
+:jbake-tags: javascript,_mois_sept.,_année_2014
+:jbake-date: 2014-09-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/09/24/javascript-all-the-things-or-not.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/09/24/javascript-all-the-things-or-not/
+:jbake-style: wordpress
+
+++++
+<p>
+Depuis deux semaines, je me suis remis avec intensité (et <a href="http://adobe-cep.github.io/CEP-Resources/">sous la contrainte</a>)  au développement Javascript dans un univers proche du navigateur classique, mais pas tout à fait semblable.
+</p>
+<p>
+Et je dois dire que, si certaines choses ont changé, d'autres sont toujours aussi décevantes.
+</p>
+<p>
+Typiquement, je suis déçu d'avoir passé DEUX JOURS ENTIERS pour détecter que je passais un argument <code>undefined</code> à une fonction. Surtout que c'est arrivé alors que j'utilise Eclipse avec son mode Javascript, qui est censé m'afficher quelques erreurs (mais qui n'est apparement pas dérangé par l'utilisation de variables non définies ... à moins que ça ne soit configurable).
+</p>
+<p>
+L'autre déception, mais je m'y attendais, c'est nodeJS et son écosystème authentiquement merdique. Je m'explique.
+</p>
+<p>
+Vous pensez que nodeJS est un framework permettant de développer des applications web côté serveur, pas vrai ? Moi, en tout cas, je le croyais. Jusqu'à ce que je découvre que, via NPM, Grunt, Bower, et tout un tas de projets concurrents aux noms de hipsters mal dégrossis, les développeurs Javascripts sont censés être capables d'en faire l'équivalent de maven. Sauf que, d'une part, personne ne s'est dit "tiens, si on faisait tourner maven dans Tomcat ?", et que d'autre part le tri évolutif n'a pas encore lieu : il y a pour chaque besoin au moins deux outils concurrents, à peu près aussi peu fiables l'un que l'autre, et toujours très mal documentés. En bonus, quand vous commencez un projet, que node commence par installer tout un tas de trucs sur votre machine, et que le fichier <code>package.js</code> ne semble pas vraiment utilisable pour ajouter des dépendances (on me dit toujours de faire <code>npm install bidule</code>), ben ça fait bizarre.
+</p>
+<p>
+Surtout quand, d'un autre côté, grâce aux Webjars découverts dans Wisdom, gérer des dépendances Javascript dans un projet Maven est d'une simplicité proprement biblique.
+</p>
+<p>
+Et il y a d'autres bonnes nouvelles ...
+</p>
+<p>
+La première va vous paraître typique du développeur Java fou, mais est en fait plus qu'appréciable dès que le projet grossit un peut (et comme j'ai déja 700 fichiers, on peut dire que c'est déja un gros projet, je pense).
+</p>
+<p>
+C'est <a href="http://requirejs.org">requirejs</a>.
+</p>
+<p>
+Cette petite librairie, à la documentation rigolote, permet à peu de frais de faire de l'injection de dépendance en Javascript d'une façon qui, sans atteindre la complexité de CDI et de ses scopes/produces/... est quand même vraiment très pratique. Et par très pratique, je veux dire absolument indispensable si on ne veut pas pourir son namespace global avec des tonnes de variables à la noix.
+</p>
+<p>
+La seconde est un peu une conséquence de la première.
+</p>
+<p>
+En fait, à l'origine, je voulais suivre le mouton et développer une application AngularJS tout ce qu'il y a de plus traditionnel. Bon, je savais aussi que j'allais avoir <strong>vraiment</strong> besoin de requirejs. Je ne me voyais donc pas charger une partie de l'application avec requirejs, et en utiliser une autre sans. J'ai donc cherché pendant une journée ou deux comment faire marcher angularJS avec requirejs. Mais aucune des solutions que j'ai vu ne m'a réellement satisfait. Oui, il y a douze réponses sur StackOverflow pointant sur autant de projets nodeJS dans GitHub. Mais
+<br/>
+<ol>
+<br/>
+<li>Vous pouvez relire ce que j'ai écrit plus haut sur nodeJS</li>
+<br/>
+<li>Même en copiant le code dans mon projet, ça n'a jamais fonctionné de façon convaincante.</li>
+<br/>
+</ol>
+<br/>
+Du coup, j'ai du chercher un peu plus.
+</p>
+<p>
+Et je suis tombé via <a href="http://todomvc.com/">todoMVC</a>, sur <a href="http://www.ractivejs.org/">Ractive</a>. Ractive, c'est l'outil de génération d'interface Javascript sympa : il s'insère facilement dans un projet requirejs, il fournit des templates en HTML également chargeables avec requirejs, il veut bien travailler avec jQuery quand il faut, et surtout il est simple à comprendre : pas besoin d'une tripotée de contrôlleurs,factories, et autres idées pénibles issues des plus mauvaises interprétations du MVC (oui oui, je le reproche bien à AngularJS). Non. Il se contente de fournir des contrôleurs, des vues, et des modèles. C'est facile à utiliser, rapide à comprendre, et ça fournit de belles interfaces graphiques.
+</p>
+<p>
+Bon, en même temps, je sais que l'écosystème Javascript est comme ça depuis ma lecture de <a href="http://www.crockford.com/javascript/javascript.html">Javascript, the world most misunderstood language</a> il y a bien longtemps. Cela dit, j'aime bien l'idée de passer à un langage fonctionnel, sauf lorsque je dois faire (comme c'est le cas aujourd'hui), du code récursif et asynchrone - heureusement qu'il y a les <a href="http://api.jquery.com/category/deferred-object/">Deferred de jQuery</a>, sinon ce serait authentiquement impossible. En parlant de ça, je ne comprend pas trop le débat sur les <a href="http://promisesaplus.com/">Promises/A </a>et les Promises/B. Ca donne l'impression que la communauté Javascript n'a pas de JCP .... oui, je sais, il n'y en a pas, et c'est bien dommage.
+</p>
+++++

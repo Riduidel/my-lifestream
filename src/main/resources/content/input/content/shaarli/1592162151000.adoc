@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PyFormat: Using % and .format() for great good!
+:jbake-tags: python,string,formatting,documentation,_mois_juin,_année_2020
+:jbake-date: 2020-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1592162151000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpyformat.info%2F&searchtags=python+string+formatting+documentation+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://pyformat.info/[PyFormat: Using % and .format() for great good!]
+
+Un bon article sur les méthodes de formatage de chaînes de caractères en Python.

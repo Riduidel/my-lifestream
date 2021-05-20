@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: glish.com : CSS layout techniques
+:jbake-tags: web,css,langage,documentation,design,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348433000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.glish.com%2Fcss%2F&searchtags=web+css+langage+documentation+design+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.glish.com/css/[glish.com : CSS layout techniques]
+
+If you are looking for help making the transition to CSS layout (that's Cascading Style Sheets), you've come to the right place. I am cataloging here as many useful cross-browser CSS layout techniques as I can find.

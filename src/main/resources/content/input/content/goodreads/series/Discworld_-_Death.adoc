@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Discworld - Death
+:jbake-tags: serie
+:jbake-date: 2004-12-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Discworld_-_Death.adoc
+:jbake-source: https://www.goodreads.com/series/109516
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266080682.html[Mortimer (Les Annales du Disque-Monde, #4)]
+* link:../books/9782266121354.html[Le Faucheur (Les Annales du Disque-Monde, #11)]
+* link:../books/9782266136990.html[Les annales du Disque-Monde, tome 16 : Accrocs du roc]
+* link:../books/9782266162142.html[Le Père Porcher (Les Annales du Disque-Monde, #20)]
+* link:../books/9782266203494.html[Procrastination (Les annales du Disque-Monde, tome 26)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Software Breakdown
+:jbake-tags: blog,software,web,benchmark,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112342713000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.asymptomatic.net%2Fblogbreakdown.htm&searchtags=blog+software+web+benchmark+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.asymptomatic.net/blogbreakdown.htm[Blog Software Breakdown]
+
+This chart displays attributes of different user-installed blog software packages side-by-side for comparison.

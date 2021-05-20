@@ -1,0 +1,33 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pieds d'argile
+:jbake-tags:  enquête, fantasy, rayon-imaginaire, ville,_année_2006,_mois_févr.,_note_4,complot,read
+:jbake-date: 2006-02-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266159548.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/3153105
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<i>'Sorry?' said Carrot. If it's just a thing, how can it commit murder? A sword is a thing' - he drew his own sword; it made an almost silken sound - 'and of course you can't blame a sword if someone thrust it at you, sir.'</i><br /><br />For members of the City Watch, life consists of troubling times, linked together by periods of torpid inactivity. Now is one such troubling time. People are being murdered, but there's no trace of anything alive having been at the crime scene. Is there ever a circumstance in which you can blame the weapon not the murderer? Such philosophical questions are not the usual domain of the city's police, but they're going to have to start learning fast...
+</div>
+++++
+
+
+## Authors
+* link:../authors/58715.html[Patrick Couton]
+* link:../authors/1654.html[Terry Pratchett]
+
+## Series
+* link:../series/Discworld.html[Discworld]
+* link:../series/Discworld_-_Ankh-Morpork_City_Watch.html[Discworld - Ankh-Morpork City Watch]
+* link:../series/Kolekcja_Swiat_Dysku.html[Kolekcja Świat Dysku]
+
+## Review
+
+++++
+Ce tome des annales se situe dans Ankh, et met en scène nos amis du Guet : Vimaire, Côlon, Chicard, Carotte et tous les autres. Cette fois-ci, pas de dragon, pas de fousi, mais un collège d’héraldique qui peint les blasons à partir d’animaux vivants (imaginez deux hippopotames qui se dressent sur leurs pattes arrière avec une chouette entre eux), et des golems aussi, des tonnes de golems, des golems comme s’il en pleuvait, et d’ailleurs, à un moment donné, il en tombe. <br/>Et surtout, surtout, le personnage le plus drôle de ce tome, à mon sens, Petitcul Hilare. Petitcul Hilare et son entretien d’embauche, Petitcul Hilare et ses accessoires. Ca, c’est du génie qui fait rire avec deux bouts de ficelle. Parce que comme on est dans une aventure du Guet, exceptionnellement, il y a une intrigue qui tient sur plus de deux lignes. Une intrigue d’ailleurs assez retorse, dont la conclusion m’a un peu déçu (mais bon, <a class="DirectAuthorReference destination_Author" href="../authors/1654.html">Terry Pratchett</a> n’a jamais été intéressé par les scènes d’action, il préfère les confrontations, comme celle finale entre Vimaire et le patricien – un très beau dialogue, ponctué de magistraux "Monsieur"), mais qui reste très bien foutue. Et enfin, il y a les problèmes de classe de Chicard, qu’il faut bien classer techniquement parmi les humains, et qui se retrouve bien embêté. Il m’a encore bien fait marrer, lui. <br/>Bref, c’est un bon tome, qui ne déroge pas à la tradition, et nous offre une quantité suffisante de rire pour un mois au moins.
+++++

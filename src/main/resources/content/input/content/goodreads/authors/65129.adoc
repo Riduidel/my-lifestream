@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gentry Lee
+:jbake-tags: author
+:jbake-date: 2009-07-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/65129.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1358130743p5/65129.jpg
+:jbake-source: https://www.goodreads.com/author/show/65129
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290000373.html[Rama : l'intégrale, Tome 1]
+* link:../books/9782290000380.html[Rama : l'intégrale, Tome 2 (Rama #3-4)]

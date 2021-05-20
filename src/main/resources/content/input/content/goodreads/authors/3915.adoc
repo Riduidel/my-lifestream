@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Steven Pinker
+:jbake-tags: author
+:jbake-date: 2020-09-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3915.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1235758085p5/3915.jpg
+:jbake-source: https://www.goodreads.com/author/show/3915
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780241957714.html[The Sense of Style: The Thinking Person’s Guide to Writing in the 21st Century]

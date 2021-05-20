@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The poster to accompany Designing Data-Intensive Applications (DDIA)
+:jbake-tags: informatique,concepts,art,_mois_déc.,_année_2019
+:jbake-date: 2019-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1575882103000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdataintensive.net%2Fposter.html&searchtags=informatique+concepts+art+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dataintensive.net/poster.html[The poster to accompany Designing Data-Intensive Applications (DDIA)]
+
+Je suis en train de lire le bouquin qui est accompagné par ce poster, et qui est franchement bien. Mais j'aimerais aussi beaucoup avoir chaque île sous forme d'une image A4 ...

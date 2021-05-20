@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: viksoe.dk - GMail Drive shell extension
+:jbake-tags: gmail,réseau,software,windows,_mois_oct.,_année_2004
+:jbake-date: 2004-10-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1097496484000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.viksoe.dk%2Fcode%2Fgmail.htm&searchtags=gmail+r%C3%A9seau+software+windows+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.viksoe.dk/code/gmail.htm[viksoe.dk - GMail Drive shell extension]
+
+GMail Drive is a Shell Namespace Extension that creates a virtual filesystem around your Google GMail account, allowing you to use GMail as a storage medium.

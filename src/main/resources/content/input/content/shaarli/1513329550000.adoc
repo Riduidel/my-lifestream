@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ⚡Julia Evans⚡ sur Twitter : "here is a zine page on design that I'm working on! https://t.co/PgoE4PMnef"
+:jbake-tags: programming,design,architecture,_mois_déc.,_année_2017
+:jbake-date: 2017-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1513329550000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F930645786790125569&searchtags=programming+design+architecture+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/930645786790125569[⚡Julia Evans⚡ sur Twitter : "here is a zine page on design that I'm working on! https://t.co/PgoE4PMnef"]
+
+Très chouette faon d'envisager le design préalable d'un logiciel

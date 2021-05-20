@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - flamegraphs
+:jbake-tags: java,linux,performance,_mois_avr.,_année_2016
+:jbake-date: 2016-04-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-flamegraphs.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-flamegraphs/
+:jbake-style: wordpress
+
+++++
+<p>
+J'ai déja vu ces fameux flamegraphs, mais je ne me souviens plus vraiment dans quel article ...
+</p>
+<p>
+https://speakerdeck.com/npeters/devoxx-fr-2016-java-vous-declare-sa-flamme
+</p>
+<p>
+En gros, le flamegraph, c'est une vision de la pile d'exécution où le temps CPU est horizontal, et où les appels de méthode s'empilent les uns sur les autres.
+</p>
+<p>
+Et donc, flamegraph vient de chez netflix, et fonctionne bien pour du java (ouais) sur du Linux (oooh).
+</p>
+<p>
+Et le processus de génération est ... un peu fastidieux. En effet, il faut enregistrer les performances côté OS avec perf, et transformer les résultats avec un script perl. cela dit, la capture au niveau OS est bien pratique, puisque le JIT transforme parfois le code Java en code natif. Et ensuite, il faut lancer l'enregistrement des performances côté java avec perf-agent pour également alimenter les données. Bon, il y a certes un outil qui contient tout ça, mais l'installation reste néanmoins fastidieuse. Parce que bon, sérieusement, me demander à moi de faire un yum install, deux git clone et un cmake/make/make install, c'est trop. Je veux dire, pourquoi je ferai ça ?
+</p>
+<p>
+Bon, cela dit, l'analyse est très puissante : on peut surveiller le processus quand il est actif, mais aussi le temps passé dans le GC, et même le temps passé dans les autres états du process Linux (genre les attentes d'IO, les wait, ...).
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scrapy | A Fast and Powerful Scraping and Web Crawling Framework
+:jbake-tags: web,crawler,framework,python,open-source,_mois_août,_année_2019
+:jbake-date: 2019-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1566989356000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fscrapy.org%2F&searchtags=web+crawler+framework+python+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://scrapy.org/[Scrapy | A Fast and Powerful Scraping and Web Crawling Framework]
+
+Un scrapper plus bas niveau que icrawler, mais qui offre bien sûr beaucoup plus de liberté ...

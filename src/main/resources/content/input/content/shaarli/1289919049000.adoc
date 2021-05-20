@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Command Prompt Explorer Bar - CodeProject
+:jbake-tags: explorer,freeware,software,shell,windows,utilities,_mois_nov.,_année_2010
+:jbake-date: 2010-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1289919049000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codeproject.com%2FKB%2Fcs%2Fcommandbar.aspx&searchtags=explorer+freeware+software+shell+windows+utilities+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.codeproject.com/KB/cs/commandbar.aspx[Command Prompt Explorer Bar - CodeProject]
+
+Un outil pour intégrer l'invite de commande dans l'explorateur de fichiers. Ca me paraît sacrément plus pratique que tout ce que j'ai vu (y compris le fameux click droit "open command here ..."

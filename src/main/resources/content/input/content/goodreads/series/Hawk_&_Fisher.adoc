@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hawk & Fisher
+:jbake-tags: serie
+:jbake-date: 2012-05-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hawk_&_Fisher.adoc
+:jbake-source: https://www.goodreads.com/series/42653
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782352940708.html[Les épées de Haven (Darkwood, #2)]

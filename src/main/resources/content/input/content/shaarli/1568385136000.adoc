@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Xavier V. on Twitter: "RT @jarek000000: One thing that shows how grotesque mainstream java frameworks are is that developers coined term POJO - to indicate that t…" / Twitter
+:jbake-tags: humour,programming,java,functionnal,_mois_sept.,_année_2019
+:jbake-date: 2019-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1568385136000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvdwxv%2Fstatus%2F1172318940233519104&searchtags=humour+programming+java+functionnal+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/vdwxv/status/1172318940233519104[Xavier V. on Twitter: "RT @jarek000000: One thing that shows how grotesque mainstream java frameworks are is that developers coined term POJO - to indicate that t…" / Twitter]
+
+C'est parfaitement juste. Toutefois, pour défendre un peu ces horreurs, elles datent d'une époque où le fonctionnalisme n'était pas vraiment répandu dans le développement.

@@ -1,0 +1,434 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un chtijug dans le textile
+:jbake-tags: api,chtijug,docker,http,proxy,_mois_avr.,_année_2017
+:jbake-date: 2017-04-28
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/04/28/un-chtijug-dans-le-textile.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/04/28/un-chtijug-dans-le-textile/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class="paragraph">Et paf, un chtijug pas à petit prix chez kiabi ! Le site est plutôt sympa, avec un côté plateforme pour théatre d’improvisation (par contre, les spots du fond qui clignotent, ça va pas être pratique pour les épileptiques). Julien (du chtijug) est bien content qu’on sorte des éternels ISEN/IUT B …​ et moi aussi : aller faire ces conférences dans des entreprises, pour des développeurs professionnels, c’est effectivement mieux.</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/sebastienfriess" class="screenName"><img src="http://pbs.twimg.com/profile_images/1210282851817738240/UAsY6u4L_mini.jpg" alt="profile of Directeur Engineering @sfeirlille, dev certifié #GCP,   #velotafeur, #golang #running #rum. Mes tweets n’engagent que moi."/>sebastienfriess</a>
+<br/>
+<span class="name">Seb FRIΞSS 🚴🏻🏃🏻‍♂️</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/sebastienfriess/status/857 641 829 281 517 569" class="date">27 avr. 2017 à 19:05:20</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">C'est parti pour le @chtijug #API. @loicmathieu on stage pour nous présenter le cas  @KiabiFrance suivi de @traefikproxy avec @emilevauge https://t.co/mXxQ7OMuKP</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/C-b0roaXYAYzPp7.jpg" alt="857 641 809 480 212 486"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<h1 id="_openapi_chez_kiabi" class="sect0">OpenAPI chez Kiabi</h1>
+<br/>
+Il y a deux ans, Kiabi a lancé une API web. Je ne vais pas vous reprendre tout l’argumentaire développé par le speaker sur les API, parce que personnellement, je connais déja (oui, je ne suis pas vraiment pédagogue). Cela dit, il explique bien les différents aspects positifs de la définition d’une API (quand les slides seront disponibles, ce sera plus clair). L’un des plus grands bénéfices étant évidement l’accélération des développements : en découplant le développement back-end et le développement front-end, on peut accélerer ce dernier.
+<br/>
+<div class="paragraph">
+</p>
+<p>
+OpenAPI, c’est le troisième niveau du développement d’API dans l'échelle suivante :
+</p>
+<p>
+</div>
+<br/>
+<div class="olist arabic">
+<br/>
+<ol class="arabic">
+<br/>
+<li>API interne</li>
+<br/>
+<li>API publique, mais uniquement exposée aux partenaires (avec évidement de l’OAuth, et peut-être de l’API management)</li>
+<br/>
+<li>API publique, exposée et source de revenus.</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_d_finition">Définition</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pour développer l’API, Kiabi a d’abord défini des concepts généraux :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist">
+<br/>
+<ul>
+<br/>
+<li>API Kiss
+<br/>
+<div class="ulist">
+<br/>
+<ul>
+<br/>
+<li>incluant une API affordance, c’est-à-dire intuitive dans son usage, et suggérant même ses bons usages</li>
+<br/>
+<li>avec une sémantique claire</li>
+<br/>
+<li>et en ne fournissant qu’une seule façon de faire une chose</li>
+<br/>
+</ul>
+<br/>
+</div></li>
+<br/>
+<li>Réutiliser des standards et des types d’API existant</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Par contre, il faut éviter d’utiliser le jargon fonctionnel interne (ce qui est un point à mon sens super intéressant). Laissez-moi détailler ce point un instant. Dans votre entreprise, vos fonctionnels sont là pour définir le vocabulaire métier. Vous comptez sur leur sérieux. Mais quand vous développez une API publique, vous n'utilisez pas ce vocabulaire ... C'est de la schizophrénie ? Non, à mon avis, c'est plutôt que le vocabulaire interne dérive, se jargonifie, et perd son adhérence avec le réel. Du coup, c'est DDD ou pas ? A mon avis, et contrairement à certain homonyme, oui.
+</p>
+<p>
+A partir de ces concepts, Kiabi a défini une refcard qui reprend l’ensemble des concepts et des règles de fonctionnement définies. Chose curieuse, cette refacrd inclut la liste des codes HTTP retournés par les applications Kiabi. Ca me paraît curieux : le W3C a défini ces codes pour des raisons qui peuvent arriver, non ? Alors pourquoi ne pas tous les utiliser ?
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/jak78" class="screenName"><img src="http://pbs.twimg.com/profile_images/378800000088121039/b4e73262ceb62ea0c3721ce37cccaed7_mini.jpeg" alt="profile of Helping companies to build amazing software&teams, founder @OCTOChti, @chtijug, @nordagile, Soft. craft. Lille, Culture Code author https://t.co/ZdVAWvMCE1"/>jak78</a>
+<br/>
+<span class="name">Julien Jakubowski</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/jak78/status/858 003 308 136 595 456" class="date">28 avr. 2017 à 19:01:44</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">La refcard API sur laquelle s'est basé Kiabi @chtijug #api #kiabi  https://t.co/oizulcryMT</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_impl_mentation">Implémentation</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Et donc, les implémenteurs implémentent leur API à partir de ces règles, et elle est définie en comité (argh) avec une platrée d’architectes transverses (re-argh). Evidement, ça qualifie le projet comme non-agile, mais en un sens, je comprend le besoin de cohérence du bazar. Et de la même manière, l’implémentation se fait sur une plateforme standard : Tomcat, CXF, JSON, …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_management">Management</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pour gérer tout ça, Kiabi a mis en place un API Manager (Software AG Webmethods API machintruc) qui ne semble pas fournir tous les services, puisqu’il y a quand même un Apache en frontal (apparemment pour faire de l’URI rewriting). Ils ont également un portail d’API pour développeur, évidement indispensable pour permettre aux développeurs d’utiliser les différentes API proposées. D’une façon amusante, le speaker insiste lourdement sur le fait que ce portail d’API permet aux développeurs d’utiliser facilement les différentes API. Ca trahit à mon sens plus le choc culturel qu’est cette ouverture que le challenge technique de ce portail (ne serait-ce que parce que <a href="https://api.stackexchange.com/">StackOverflow</a>, <a href="https://www.goodreads.com/api">Goodreads</a>, le fournissent déja depuis …​ quoi …​ 5 ans ?).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_d_mo">Démo</h2>
+<br/>
+<div class="sectionbody"></div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_pub">Pub</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Kiabi organise au mois de juin un hackathon. Bon, personnellement, je ne suis pas fan de ce genre d'événements. Mais si ça vous branche …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="_traefik" class="sect0">traefik</h1>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/BnJ25" class="screenName"><img src="http://pbs.twimg.com/profile_images/1344603956153114625/0I1zIWbC_mini.jpg" alt="profile of 🇧🇪 lost in Paris playing with @rustlang at @CosmianOfficial. Zero copy Rustacean contributing to @rust_analyzer and https://t.co/nxADLEeyHs ex #ovh #golang"/>BnJ25</a>
+<br/>
+<span class="name">Benjamin Coenen 🇧🇪 🦀</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/BnJ25/status/857 652 264 202 383 361" class="date">27 avr. 2017 à 19:46:48</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Talk de @emilevauge sur @traefikproxy 💪🏻 au @chtijug ! #golang https://t.co/5xIcEGMB4M</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/C-b-K-0XgAAwfjv.jpg" alt="857 652 243 675 447 296"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pourquoi faire un autre reverse proxy (par rapport à, par exemple, nginx ou HAProxy) ? A cause des miccroservices.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Avec les microservices, on gagne un tas de nouveaux outils :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist">
+<br/>
+<ul>
+<br/>
+<li>Des conteneurs (Docker, rkt)</li>
+<br/>
+<li>Des orchestrateurs (Docker Swarm, Kubernetes, Mesos, Rancher)</li>
+<br/>
+<li>Des outils de service discovery (etcd, Consul, Zookeeper)</li>
+<br/>
+<li>Et des reverse proxy</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+A quoi ça sert ? A connecter le réseau privé au web en respectant l'état des microservices. Souvenez-vous, Christophe Furmaniak en avait déja parlé lors d’<a href="https://riduidel.wordpress.com/2016/03/30/rancheros-au-chtijug/">une session sur Rancher</a>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Les reverse-proxyes open-source (HAProxy et nginx) ont une configuration statique. Du coup, quand les microservices sont déployés, il faut
+</p>
+<p>
+</div>
+<br/>
+<div class="olist arabic">
+<br/>
+<ol class="arabic">
+<br/>
+<li>Arrêter le proxy</li>
+<br/>
+<li>Changer la configuration</li>
+<br/>
+<li>Redémarrer le proxy</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pas très pratique.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+traefik, lui, lit sa configuration depuis l’orchestrateur. Du coup, pas besoin de redémarrage. Plutôt cool …​ Et pour être rapide, c’est du go. Et d’un coup, je comprend pourquoi le go progresse : avec le build statique, une image Docker d’un programme go ne contient pas de dépendances, et c’est chouette ! (pour ceux qui aiment ça). Attention, je ne dis pas que c'est bien. Je dis juste que Go est plutôt bien adapté au monde Docker.<strong>
+<br/>
+</strong>
+</p>
+<p>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_d_mo_2">Démo</h2>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/sebastienfriess" class="screenName"><img src="http://pbs.twimg.com/profile_images/1210282851817738240/UAsY6u4L_mini.jpg" alt="profile of Directeur Engineering @sfeirlille, dev certifié #GCP,   #velotafeur, #golang #running #rum. Mes tweets n’engagent que moi."/>sebastienfriess</a>
+<br/>
+<span class="name">Seb FRIΞSS 🚴🏻🏃🏻‍♂️</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/sebastienfriess/status/857 658 456 505 016 320" class="date">27 avr. 2017 à 20:11:25</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">.@chtijug @loicmathieu @KiabiFrance @traefikproxy @emilevauge .@kubernetesio live demo with @traefikproxy #cheese 😁 https://t.co/4lpERJ3LEZ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/C-cDztaXUAIpqSL.jpg" alt="857 658 440 935 755 778"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">Et d’un coup, je comprend <a href="http://blog.lecacheur.com/2017/03/07/pourquoi-utiliser-un-gestionnaire-dabreviation/">l’affection de Quentin Adam pour les gestionnaires d’abréviation</a> : lancer des conteneurs docker en ligne de commande pendant une démo, ça peut merder facilement …​ Parce qu'Emile a eu quelques soucis liés à la connexion internet ... sensible et aux commandes docker un peu longues.</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/857940064785006594
+<br/>
+</div>
+</p>
+++++

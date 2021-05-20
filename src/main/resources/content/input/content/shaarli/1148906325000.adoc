@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: About Desktop Manager
+:jbake-tags: desktop,freeware,macosx,software,system,utilities,_mois_mai,_année_2006
+:jbake-date: 2006-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1148906325000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdesktopmanager.berlios.de%2F&searchtags=desktop+freeware+macosx+software+system+utilities+_mois_mai+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://desktopmanager.berlios.de/[About Desktop Manager]
+
+Le gestionnaire de bureaux virtuels qui a inspiré Virtue

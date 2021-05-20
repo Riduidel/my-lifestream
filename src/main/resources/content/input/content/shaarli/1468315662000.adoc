@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Table Report
+:jbake-tags: javascript,performance,test,_mois_juil.,_année_2016
+:jbake-date: 2016-07-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1468315662000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.stefankrause.net%2Fjs-frameworks-benchmark2%2Fwebdriver-java%2Ftable.html&searchtags=javascript+performance+test+_mois_juil.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.stefankrause.net/js-frameworks-benchmark2/webdriver-java/table.html[Table Report]
+
+Intéressant test de performance des frameworks JS

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: aeris 🏳️‍🌈 sur Twitter : "Juste. pour. allumer. une. putain. d’ampoule. 😱… "
+:jbake-tags: domotique,critique,architecture,_mois_déc.,_année_2019
+:jbake-date: 2019-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1576687387000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faeris22%2Fstatus%2F1206714523698245632&searchtags=domotique+critique+architecture+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/aeris22/status/1206714523698245632[aeris 🏳️‍🌈 sur Twitter : "Juste. pour. allumer. une. putain. d’ampoule. 😱… "]
+
+Est-ce que ça ne justifie pas un peu le faible niveau d'adoption de la domotique ? Parce qu'en fait, c'est valable dans une entreprise, mais sûrement pas à la maison ...

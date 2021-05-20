@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: M. John Harrison
+:jbake-tags: author
+:jbake-date: 2003-09-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/10765.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1277603037p5/10765.jpg
+:jbake-source: https://www.goodreads.com/author/show/10765
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070426225.html[La Mécanique du Centaure]

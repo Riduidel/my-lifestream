@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grady Booch on Twitter: "Real code is to false architects as water was to the Wicked Witch of the West. https://t.co/vrcU04eHRy"
+:jbake-tags: programming,architecture,_mois_oct.,_année_2016
+:jbake-date: 2016-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1477386503000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGrady_Booch%2Fstatus%2F790439698124578821&searchtags=programming+architecture+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/Grady_Booch/status/790439698124578821[Grady Booch on Twitter: "Real code is to false architects as water was to the Wicked Witch of the West. https://t.co/vrcU04eHRy"]
+
+C'est loin d'être faux

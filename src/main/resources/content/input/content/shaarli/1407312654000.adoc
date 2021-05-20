@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: warp: a bash script to SSH from a list of hostnames
+:jbake-tags: software,freeware,open-source,linux,shell,ssh,_mois_août,_année_2014
+:jbake-date: 2014-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1407312654000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthechangelog.com%2Fwarp-bash-script-ssh-list-hostnames%2F&searchtags=software+freeware+open-source+linux+shell+ssh+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://thechangelog.com/warp-bash-script-ssh-list-hostnames/[warp: a bash script to SSH from a list of hostnames]
+
+Très bonne idée pour se faciliter le SSH

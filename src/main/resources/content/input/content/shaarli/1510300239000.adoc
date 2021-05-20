@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Seconde mise en demeure pour l'association LinuxFr - LinuxFr.org
+:jbake-tags: justice,contrefaçon,france,_mois_nov.,_année_2017
+:jbake-date: 2017-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1510300239000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flinuxfr.org%2Fnews%2Fseconde-mise-en-demeure-pour-l-association-linuxfr&searchtags=justice+contrefa%C3%A7on+france+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://linuxfr.org/news/seconde-mise-en-demeure-pour-l-association-linuxfr[Seconde mise en demeure pour l'association LinuxFr - LinuxFr.org]
+
+C'est une histoire folle, et le plaignant ne manque certainement pas de culot. Se revendiquer du libre après ça ...

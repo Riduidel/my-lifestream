@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alan Grant
+:jbake-tags: author
+:jbake-date: 2010-09-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/28712.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1308066287p5/28712.jpg
+:jbake-source: https://www.goodreads.com/author/show/28712
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782302011939.html[Judge Dredd : Heavy Metal Dredd (Soleil US Comics: Judge Dredd, #1)]
+* link:../books/9782365775540.html[La balade de Lobo]

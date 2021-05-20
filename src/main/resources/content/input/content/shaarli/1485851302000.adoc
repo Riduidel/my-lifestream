@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La maison des horreurs de l’encoding | Sam & Max
+:jbake-tags: encoding,programming,_mois_janv.,_année_2017
+:jbake-date: 2017-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1485851302000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsametmax.com%2Fla-maison-des-horreurs-de-lencoding%2F&searchtags=encoding+programming+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://sametmax.com/la-maison-des-horreurs-de-lencoding/[La maison des horreurs de l’encoding | Sam & Max]
+
+Parfaitement lucide. Et la partie python est bien faible face au descriptif de ce merdier.

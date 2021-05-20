@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: We do not handle existing MANIFEST.MF files properly · Issue #1443 · quarkusio/quarkus
+:jbake-tags: open-source,programming,java,quarkus,_mois_mars,_année_2019
+:jbake-date: 2019-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1553070247000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fquarkusio%2Fquarkus%2Fissues%2F1443&searchtags=open-source+programming+java+quarkus+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/quarkusio/quarkus/issues/1443[We do not handle existing MANIFEST.MF files properly · Issue #1443 · quarkusio/quarkus]
+
+Qui est-ce qui a 1. relevé un bug dans quarkus 2. fourni une correction 3. Vue cette correction intégrée dans la prochaine version Eh ben c'est moi ! Et si d'habitude je ne suis pas spécialement fier de mes contributions open-source, là, j'en suis fier !

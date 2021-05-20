@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wika
+:jbake-tags: serie
+:jbake-date: 2014-06-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Wika.adoc
+:jbake-source: https://www.goodreads.com/series/195418
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782723498043.html[Wika et la fureur d'Obéron (Wika, #1)]
+* link:../books/9782344003718.html[Wika et les Fées noires (Wika, #2)]

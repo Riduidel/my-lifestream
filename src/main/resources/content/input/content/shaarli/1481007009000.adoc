@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kris Howard on Twitter: "Every 5 years the number of programmers in the world roughly doubles. So half the programmers in the world have <5 yrs experience! #yow16"
+:jbake-tags: programming,emploi,_mois_déc.,_année_2016
+:jbake-date: 2016-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1481007009000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fweb_goddess%2Fstatus%2F804452382536912897&searchtags=programming+emploi+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/web_goddess/status/804452382536912897[Kris Howard on Twitter: "Every 5 years the number of programmers in the world roughly doubles. So half the programmers in the world have <5 yrs experience! #yow16"]
+
+Ca calme

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tomcat, Maven, Angular, Grunt et Yeoman sont dans un bateau | Un expresso sans sucre
+:jbake-tags: maven,java,build,développeur,javascript,_mois_déc.,_année_2013
+:jbake-date: 2013-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1386681043000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.tartachuc.org%2F2013%2F06%2F11%2Ftomcat-maven-angular-grunt-et-yeoman-sont-dans-un-bateau%2F&searchtags=maven+java+build+d%C3%A9veloppeur+javascript+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blog.tartachuc.org/2013/06/11/tomcat-maven-angular-grunt-et-yeoman-sont-dans-un-bateau/[Tomcat, Maven, Angular, Grunt et Yeoman sont dans un bateau | Un expresso sans sucre]
+
+Comment intégrer un build Javascript "moderne" dans un build Maven standard.

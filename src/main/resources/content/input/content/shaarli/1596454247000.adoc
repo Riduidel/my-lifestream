@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - github/roadmap: GitHub public roadmap
+:jbake-tags: github,roadmap,_mois_août,_année_2020
+:jbake-date: 2020-08-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1596454247000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgithub%2Froadmap&searchtags=github+roadmap+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/github/roadmap[GitHub - github/roadmap: GitHub public roadmap]
+
+Github a un repo public contenant sa roadmap. C'est cool. Bon, c'est vrai, GitLab a la même chose. Et encore une fois, on voit l'intérêt de maintenir les évolutions dans un outil de suivi de tickets ...

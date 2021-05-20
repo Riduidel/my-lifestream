@@ -1,0 +1,70 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Numérique responsable
+:jbake-tags: écologie,entreprise,_mois_mars,_année_2021
+:jbake-date: 2021-03-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/03/14/numerique-responsable.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/03/14/numerique-responsable/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a quelques temps, mes collègues rennais ont participé à la rédaction d'un numéro hors-série de Kaizen consacré au numérique responsable.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/ZenikaIT\/status\/1326542559548596224","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ZenikaIT" class="screenName"><img src="http://pbs.twimg.com/profile_images/1263116226420752385/s3JIql8x_mini.jpg" alt="profile of Cabinet d'#innovation technologique, managériale et organisationnelle. Il accompagne les entreprises dans leur #transfonum. Some news : https://t.co/ufklNtq8an"/>ZenikaIT</a>
+		<span class="name">Zenika</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ZenikaIT/status/1 326 542 559 548 596 224" class="date">11 nov. 2020 à 16:09:26</a>
+
+	<span class="content">
+	
+	<span class="text">Il y a un an, @KaizenMag s'installait dans les mêmes locaux que notre agence de @ZenikaRennes. #Kaizen, #Zenika, 2 anagrammes. Il n’en fallait pas plus pour se dire : on y va ! Créons un numéro hors-série ensemble ! Nos Z racontent leur expérience   https://t.co/5oteQ81U4u</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et devinez quoi ? J'ai pris le temps de lire ces 132 pages d'articles de 4 pages sur des sujets variés, mais toujours autour du même thème, qui est évidement celui du numérique responsable (dingue, hein). En l’occurrence, le magazine parle beaucoup d'écologie et de consommation de ressources et d'énergie, et un peu de responsabilité sociale ou éthique. Et c'est bien comme ça. Il y a par ailleurs plusieurs chiffres marquants : 90% des rejets de gaz à effets de serre sont liés à la fabrication des matériels, et seuls 10% concernent leur utilisation. Au début, cette répartition semble folle ... Et elle devient d'un coup moins dingue quand on sait combien de métaux et terres rares sont utilisées pour fabriquer un ordinateur ou, pire encore, un smartphone. Ce qui pousse à un constat, également fait sur <a href="https://ifttd.io/coder-au-vert/">IFTTD avec Raphaël Lemaire</a> : pour construire un logiciel qui soit raisonnablement correct d'un point de vue écologique, il faut avant tout ne pas pousser les utilisateurs à renouveler leur matériel. Ca implique de ne pas sauter sur les dernières nouveautés à la mode, mais aussi de s'intéresser à la performance de l'application en tant que fonctionnalité essentielle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et ce qui est bien avec cette lecture, c'est que j'ai pu l'aborder avec un oeil critique assez intéressant. Parce qu'il y a certaines choses qui m'ont chagriné dans ce magazine. D'abord le fait que certains des interviewés ont une hiérarchie des usages qui m'a un peu déplu : utiliser un ordinateur pour travailler, ok, mais pour se distraire, pouah ! Ensuite un élément d'ordre conceptuel sur la définition de ce qu'est l'écologie. Parce que si il y a bien un terme galvaudé aujourd'hui, c'est celui-là. Et pendant cette lecture, j'ai distingué au moins trois sens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>L'écologie scientifique, qui est l'étude des interactions entre organismes et dont on entend trop peu parler.</li><li>L'écologie politique, qui est parfois un peu confuse dans ses objectifs, ses moyens et sa vision mais qui cherche globalement à remettre la planète au coeur de la politique, si j'ai bien compris</li><li>L'écologie technique, qui est l'application de techniques et de méthodes industrielles dans l'objectif de diminuer l'impact sur le réchauffement climatique</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Et en fait, la confusion entre ces trois sens apparaît à la lecture.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Un autre inconvénient de cette lecture est qu'à mon avis, la bataille des chiffres continue entre les différents lobbies. Quand j'entends par exemple que le numérique produit plus de gaz à effets de serre que l'aviation ... j'ai des doutes très sérieux. Et d'un autre côté, chaque transaction bitcoin consomme autant d'électricité que l'alimentation d'une ville entière. Donc il y a là-dedans une réalité mesurable, qui mériterait d'être trouvée. Mais il y a tellement d'intérêts politiques ou économiques que la vérité sera difficilement trouvable. Ca n'est pas un appel au complotisme en mode "on nous cache tout", mais plus le constat que si l'écologie s'envisage désormais comme une force politique, elle met nécessairement en place une opposition, ou plutôt plusieurs oppositions, qui vont rendre les débats sur ces sujet fascinants pour les années à venir.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et je me réjouis de voir que certains collègues participent avec autant d'implication à ce débat, dans une publication de cette qualité.</p>
+<!-- /wp:paragraph -->
+++++

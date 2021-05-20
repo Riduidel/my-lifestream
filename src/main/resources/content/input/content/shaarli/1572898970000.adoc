@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lukas Eder sur Twitter : "After many years of using Maven, I must say it's actually really good."
+:jbake-tags: maven,citation,build,_mois_nov.,_année_2019
+:jbake-date: 2019-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1572898970000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flukaseder%2Fstatus%2F1189885673278443520&searchtags=maven+citation+build+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/lukaseder/status/1189885673278443520[Lukas Eder sur Twitter : "After many years of using Maven, I must say it's actually really good."]
+
+La lecture de ce thread confirme (évidement) le bien que je pense de cet outil qui n'est pas parfait, mais qui est celui qui me correspond le plus.

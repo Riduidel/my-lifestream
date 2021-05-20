@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: victorvoid/dinoql: A customizable GraphQL style query language for interacting with JavaScript objects.
+:jbake-tags: graphql,javascript,api,library,_mois_mai,_année_2019
+:jbake-date: 2019-05-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1558020376000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fvictorvoid%2Fdinoql&searchtags=graphql+javascript+api+library+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/victorvoid/dinoql[victorvoid/dinoql: A customizable GraphQL style query language for interacting with JavaScript objects.]
+
+Oh tiens, j'ai un collègue qui sera sans doute très content d'explorer son modèle avec du "graphql"

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Writing great documentation
+:jbake-tags: @toread,documentation,article,tutorial,for:mischler,_mois_juin,_année_2010
+:jbake-date: 2010-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1276605858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjacobian.org%2Fwriting%2Fgreat-documentation%2F&searchtags=%40toread+documentation+article+tutorial+for%3Amischler+_mois_juin+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://jacobian.org/writing/great-documentation/[Writing great documentation]
+
+Un excellent guide sur ce qui fait qu'une documentation est bonne ... ou pas.

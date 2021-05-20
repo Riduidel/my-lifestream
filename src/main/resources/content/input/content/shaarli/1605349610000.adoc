@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Architect’s Path (Part 1) - The Architect Elevator
+:jbake-tags: architecture,modélisation,livre,_mois_nov.,_année_2020
+:jbake-date: 2020-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1605349610000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farchitectelevator.com%2Farchitecture%2Farchitect-path%2F&searchtags=architecture+mod%C3%A9lisation+livre+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://architectelevator.com/architecture/architect-path/[The Architect’s Path (Part 1) - The Architect Elevator]
+
+Un très chouette article listant quelques ressources de référence sur les pratiques d'architecture logicielle.

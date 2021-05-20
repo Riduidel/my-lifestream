@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to run a script as a service in Raspberry Pi – Raspbian Jessie – Food Concerns
+:jbake-tags: raspberrypi,debian,service,tutorial,_mois_mai,_année_2019
+:jbake-date: 2019-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1559030420000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.diegoacuna.me%2Fhow-to-run-a-script-as-a-service-in-raspberry-pi-raspbian-jessie%2F&searchtags=raspberrypi+debian+service+tutorial+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.diegoacuna.me/how-to-run-a-script-as-a-service-in-raspberry-pi-raspbian-jessie/[How to run a script as a service in Raspberry Pi – Raspbian Jessie – Food Concerns]
+
+Un guide "facile" pour créer un service Raspbian

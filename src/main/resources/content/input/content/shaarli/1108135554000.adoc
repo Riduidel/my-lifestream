@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apprenez Ruby
+:jbake-tags: software,programming,langage,scripting,ruby,documentation,_mois_févr.,_année_2005
+:jbake-date: 2005-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1108135554000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ruby-doc.org%2Fdocs%2Fbeginner-fr%2Fxhtml%2F&searchtags=software+programming+langage+scripting+ruby+documentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ruby-doc.org/docs/beginner-fr/xhtml/[Apprenez Ruby]
+
+Tutorial Ruby

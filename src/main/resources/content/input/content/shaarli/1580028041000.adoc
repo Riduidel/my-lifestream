@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: justinamiller/SoftwareArchitect: Path to a Software Architect
+:jbake-tags: architecture,software,métier,compétence,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580028041000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjustinamiller%2FSoftwareArchitect&searchtags=architecture+software+m%C3%A9tier+comp%C3%A9tence+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/justinamiller/SoftwareArchitect[justinamiller/SoftwareArchitect: Path to a Software Architect]
+
+Une page raisonnablement complète sur les différentes facettes du métier d'architecte logiciel

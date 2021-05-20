@@ -1,0 +1,34 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Développez votre première application décentralisée sur la blockchain avec Ethereum et Embark
+:jbake-tags: blockchain,devoxx,embark,ethereum,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-developpez-votre-premiere-application-decentralisee-sur-la-blockchain-avec-ethereum-et-embark.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-developpez-votre-premiere-application-decentralisee-sur-la-blockchain-avec-ethereum-et-embark/
+:jbake-style: wordpress
+
+++++
+<p>
+Et maintenant, un peu d'ethereum/embark !
+</p>
+<p>
+Attention : une application ethereum ne peut plus être arrêtée une fois démarrée.
+<br/>
+<a href="http://ethstats.net">ethstats.net</a> propose des statistiques hyper-intéressantes sur le réseau ethereum.
+<br/>
+Et on peut faire du scratch avec ethereum ! (voir <a href="http://etherscripter.com">etherscripter.com</a>) (franchement, pourquoi on s'emmerde avec les langages texte alors que ce truc est vraiment bien plus pratique ?)
+<br/>
+Dans les usages, il y a par exemple <a href="http://weifund.io/">weifund</a> qui est un équivalent de kickstarter dans la blockchain publique. Ou <a href="http://ether.fund">ether.fund</a>.
+</p>
+<p>
+Dans les outils utiles, il y a aussi ethereum-wallet qui permet de visualiser des contrats et de les exécuter facilement.
+</p>
+<p>
+Avec <a href="https://iurimatias.github.io/embark-framework/">embark</a>, on peut scaffolder facilement un projet. Par défaut, celui-ci génère une application qui se contente de lire et d'écrire une valeur.
+</p>
+<p>
+Voir aussi <a href="https://dappsforbeginners.wordpress.com/">dapps for beginners</a>.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Russ Kick @ AltGov2 on Twitter: "CBS News buys 4 used photocopiers at random. Like every digital copier since 2002, they have hard drives that store images of every copy, every scan, every fax. They pull the images from the hard drives.... https://t.co/HqyPF6pC1w .… https://t.co/7klKHDdPxs"
+:jbake-tags: sécurité,matériel,disk,_mois_mai,_année_2018
+:jbake-date: 2018-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1526019422000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fthememoryhole2%2Fstatus%2F994641217957826562&searchtags=s%C3%A9curit%C3%A9+mat%C3%A9riel+disk+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/thememoryhole2/status/994641217957826562[Russ Kick @ AltGov2 on Twitter: "CBS News buys 4 used photocopiers at random. Like every digital copier since 2002, they have hard drives that store images of every copy, every scan, every fax. They pull the images from the hard drives.... https://t.co/HqyPF6pC1w .… https://t.co/7klKHDdPxs"]
+
+Et par exemple, dans une boîte comme Capgemini, quand on se débarasse d'un copieur, on ne nettoie pas le disque ...

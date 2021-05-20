@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scott  Hawkins
+:jbake-tags: author
+:jbake-date: 2020-03-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/8446300.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1430050068p5/8446300.jpg
+:jbake-source: https://www.goodreads.com/author/show/8446300
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782072844645.html[La Bibliothèque de Mount Char]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Third party cargo subcommands · rust-lang/cargo Wiki
+:jbake-tags: cargo,rust,plugin,build,_mois_nov.,_année_2019
+:jbake-date: 2019-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1573062248000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frust-lang%2Fcargo%2Fwiki%2FThird-party-cargo-subcommands&searchtags=cargo+rust+plugin+build+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/rust-lang/cargo/wiki/Third-party-cargo-subcommands[Third party cargo subcommands · rust-lang/cargo Wiki]
+
+Mais pourquoi est-ce que je perds toujours cette page ? En tout cas, c'est bien cool d'avoir des plugins pour cargo !

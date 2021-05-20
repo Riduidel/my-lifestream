@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Panda Systems: PandoCalendar
+:jbake-tags: software,freeware,macosx,desktop,calendar,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110987614000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pandacorner.com%2FPandaSystems%2FPandoCalendar.html&searchtags=software+freeware+macosx+desktop+calendar+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pandacorner.com/PandaSystems/PandoCalendar.html[Panda Systems: PandoCalendar]
+
+This useful Mac-only program places a fully functional calendar on your desktop. The look is completely customizable. You can change the calendar's font, size, and the colors used to draw the calendar; the background can be entirely transparent, so you c

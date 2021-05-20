@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lévitation acoustique en 3D
+:jbake-tags: science,science-fiction,lévitation,son,_mois_janv.,_année_2014
+:jbake-date: 2014-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1388681642000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Flevitation-acoustique-en-3d%2F&searchtags=science+science-fiction+l%C3%A9vitation+son+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/levitation-acoustique-en-3d/[Lévitation acoustique en 3D]
+
+Une vidéo tout à fait épatante sur les progrès de la lévitation par résonnance accoustique. J'ai bien envie de dire que d'ici 10 ans on pourra s'envoler, mais je n'en suis pas convaincu. En revanche, assembler des objets complexes en3D grâce à la lévitation, autrement dit créer des imprimantes 3D d'un nouveau type, ça me paraît possible

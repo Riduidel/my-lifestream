@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Raspberry Pi GPIO Pinout - Pi 1, B+, Pi 2
+:jbake-tags: raspberrypi,connecteur,gpio,guide,visual,_mois_août,_année_2020
+:jbake-date: 2020-08-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1597508273000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffr.pinout.xyz%2F&searchtags=raspberrypi+connecteur+gpio+guide+visual+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://fr.pinout.xyz/[Raspberry Pi GPIO Pinout - Pi 1, B+, Pi 2]
+
+Si vus avez quoi que ce soit à connecter à votre raspberry, ce guide du brochage GPIO est vraiment pratique.

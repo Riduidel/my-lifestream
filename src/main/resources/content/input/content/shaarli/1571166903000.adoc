@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tudor Girba sur Twitter : "Having any convention that is automatically ensured beats having the perfect convention that lies in a document."
+:jbake-tags: citation,convention,automatisation,devops,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571166903000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgirba%2Fstatus%2F1183818653936095238&searchtags=citation+convention+automatisation+devops+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/girba/status/1183818653936095238[Tudor Girba sur Twitter : "Having any convention that is automatically ensured beats having the perfect convention that lies in a document."]
+
+A imprimer en énorme : aucune convention gérée à la main ne vaut une convention gérée automatiquement

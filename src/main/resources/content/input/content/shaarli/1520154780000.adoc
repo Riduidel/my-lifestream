@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plugin System Overview - Volumio Documentation
+:jbake-tags: javascript,programming,raspberrypi,audio,_mois_mars,_année_2018
+:jbake-date: 2018-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1520154780000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvolumio.github.io%2Fdocs%2FPlugin_System%2FPlugin_System_Overview.html&searchtags=javascript+programming+raspberrypi+audio+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://volumio.github.io/docs/Plugin_System/Plugin_System_Overview.html[Plugin System Overview - Volumio Documentation]
+
+Oh non ! je peux écrire des plugins pour volumio (cool) en nodejs (PAS COOL)

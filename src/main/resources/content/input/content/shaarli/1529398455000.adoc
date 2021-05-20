@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust: Trait Objects vs Generics | Metrink Blog
+:jbake-tags: programming,rust,trait,generics,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529398455000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.metrink.com%2Fblog%2F2018%2F03%2F30%2Frust-trait-objects-vs-generics%2F&searchtags=programming+rust+trait+generics+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://blog.metrink.com/blog/2018/03/30/rust-trait-objects-vs-generics/[Rust: Trait Objects vs Generics | Metrink Blog]
+
+La nuance entre le trait compilé statiquement et celui exécuté dynamiquement est assez subtile. Et je me suis déjà bien fait mordre par cette subtilité de Rust.

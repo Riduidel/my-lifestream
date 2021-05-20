@@ -1,0 +1,48 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: De quel droit ?
+:jbake-tags: épidémie,mavie,réflexion,_mois_août,_année_2020
+:jbake-date: 2020-08-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/08/07/de-quel-droit.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/08/07/de-quel-droit/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Bon, je reviens de vacances plutôt dépaysantes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5885,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/08/img_20200712_203926688.jpg?w=1024" alt="" class="wp-image-5885" /><figcaption>C'est une vue dont on se lasse <strong>très</strong> difficilement (et c'est sur <a href="https://www.airbnb.fr/rooms/35281907">AirBnB</a>)</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Du coup, ne vous attendez pas tout de suite à des réflexions très techniques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par contre, je ne peux pas dire que je n'ai pas réfléchi à différents sujets.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le premier, dont je vais vous entretenir maintenant, est relatif au coronavirus, évidement, puisque même en vacances, il était présent partout ... ou plutôt son ombre était présente partout.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que le coronavirus, c'est l'essence même de la menace fantôme. En effet, c'est une maladie faiblement léthale, dont certains malades ne développeront même aucun symptôme. Ca, c'est <a href="https://fr.wikipedia.org/wiki/Maladie_%C3%A0_coronavirus_2019">factuel</a>. Ce qui ne l'est pas, en revanche, c'est le mode de réaction humain face à cette épidémie. Qu'il s'agisse du port du masque, du gel hydroalcoolique, et des autres précautions, il m'est difficile de distinguer ce qui est réellement efficace de ce qui fait partie du <a href="https://en.wikipedia.org/wiki/Security_theater">spectacle de la sécurité</a>. D'une manière amusante, ce terme ne semble même pas exister en français. Donc, une rapide définition s'impose. Le spectacle de la sécurité, ce sont l'ensemble des mesures de sécurité inefficaces face aux menaces pour lesquelles elles sont conçues. L'exemple typique est le portail de sécurité aéroportuaire : ça montre aux passagers non violents qu'ils sont en sécurité, quand les passagers aux intentions violentes trouveront facilement une parade.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p> Y a-t-il un spectacle de la sécurité épidémique ? Si vous y réfléchissez un peu, et que vous vous documentez, vous découvrirez rapidement que ce virus est en fait redoutablement fragile : il survit peu de temps dans un milieu extérieur, nécessite une promiscuité prolongée pour se propager et, évidement, ne survit pas dans les environnements toxiques (comme par exemple la mer, ou les piscines chlorées ou salées). Dans ces conditions, les mesures de protections m'apparaissent parfois superfétatoires : porter son masque en plein air ? C’est peu pertinent, puisque l’atmosphère est renouvelée naturellement. Je pourrais continuer. Alors qu'en fait, je devrais m'arrêter, puisque je nage en plein <a href="https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger">Dunning-Kruger</a> : après tout, je ne suis pas épidémiologiste.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et pourtant, comme tout un chacun, je ne peux pas m'empêcher de porter des jugements : les couples qui se promènent avec l'un des deux portant son masque et pas l'autre me semblent ridicules, tout comme ceux qui le portent en se baladant le long de la plage avant de l'enlever lorsqu'ils se mettent à bronzer sur la même plage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca me rend d'ailleurs fort sensible aux jugements émis sur les réseaux sociaux (oui, je me souviens de <a href="https://riduidel.wordpress.com/2020/06/08/les-reseaux-sociaux-sont-ils-le-cimetiere-de-la-pensee/">ce que j'ai écrit</a> par ailleurs) par des gens qui me semblent par ailleurs intelligents : critiquer le port ou le non port du masque  dans un environnement donné, surtout lorsqu'il s'agit de masques en tissus n'offrant en fait qu'une protection aléatoire contre ce virus, me paraît prétentieux et vain. Et ça me rappelle à quel point nous devrions tous, moi compris, <strong>apprendre à nous taire et à ralentir</strong>.</p>
+<!-- /wp:paragraph -->
+++++

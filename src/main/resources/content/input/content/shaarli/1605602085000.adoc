@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ncarlier/webhookd: A very simple webhook server launching shell scripts.
+:jbake-tags: web,go,command-line,api,_mois_nov.,_année_2020
+:jbake-date: 2020-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1605602085000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fncarlier%2Fwebhookd&searchtags=web+go+command-line+api+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/ncarlier/webhookd[ncarlier/webhookd: A very simple webhook server launching shell scripts.]
+
+Oh, une version go (simplifiée) de apache+cgi 😀 Je me moque, mais l'idée est somme toute amusante

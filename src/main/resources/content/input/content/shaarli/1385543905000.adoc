@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: I have firsthand experience with an undead parrot
+:jbake-tags: animaux,mort,art,_mois_nov.,_année_2013
+:jbake-date: 2013-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1385543905000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftheoatmeal.com%2Fcomics%2Fgrump&searchtags=animaux+mort+art+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://theoatmeal.com/comics/grump[I have firsthand experience with an undead parrot]
+
+Une chouette histoire, à la fois effrayante et pathétique

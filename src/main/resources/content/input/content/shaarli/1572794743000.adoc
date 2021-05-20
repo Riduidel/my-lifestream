@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LaPalice sur Twitter : "Merci à la @pyconfr de m’avoir donné l’occasion de préparer cette présentation, je suis très heureuse du résultat et des super bons retours que j’ai eu ! Le transcript de la conférence est disponible ici : https://t.co/xEDRpX2TzH pour les personnes intéressées :)"
+:jbake-tags: conférence,psychologie,manipulation,éthique,_mois_nov.,_année_2019
+:jbake-date: 2019-11-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1572794743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FNLaPalice%2Fstatus%2F1190685643036381189&searchtags=conf%C3%A9rence+psychologie+manipulation+%C3%A9thique+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/NLaPalice/status/1190685643036381189[LaPalice sur Twitter : "Merci à la @pyconfr de m’avoir donné l’occasion de préparer cette présentation, je suis très heureuse du résultat et des super bons retours que j’ai eu ! Le transcript de la conférence est disponible ici : https://t.co/xEDRpX2TzH pour les personnes intéressées :)"]
+
+J'aurai adorer faire au technozaure quelque chose d'aussi bien que ce que @NLaPalice a fait à la pycon. Vraiment, c'est une super chouette conf avec un transcript vraiment bien écrit.

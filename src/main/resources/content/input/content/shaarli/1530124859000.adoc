@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Support for OpenID ends on July 25, 2018 - Meta Stack Exchange
+:jbake-tags: openid,connexion,web,stackoverflow,_mois_juin,_année_2018
+:jbake-date: 2018-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1530124859000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmeta.stackexchange.com%2Fquestions%2F307647%2Fsupport-for-openid-ends-on-july-25-2018&searchtags=openid+connexion+web+stackoverflow+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://meta.stackexchange.com/questions/307647/support-for-openid-ends-on-july-25-2018[Support for OpenID ends on July 25, 2018 - Meta Stack Exchange]
+
+D'habitude, je suis un grand fan de StackOverflow. Mais là, je regrette, mais c'est naze. Arrêter de supporter des fournisseurs OpenID autres que Google et Facebook, c'est la garantie de l'enfermement dans des plateformes privatives. J'ai mal à mon StackOverflow.

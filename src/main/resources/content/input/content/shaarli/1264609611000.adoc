@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Optimiser son application web pour iPhone ou iPod Touch | Jay Salvat, le Blog
+:jbake-tags: web,développement,html,css,ipod,for:mischler,_mois_janv.,_année_2010
+:jbake-date: 2010-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1264609611000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.jaysalvat.com%2Farticles%2Foptimiser-son-application-web-pour-iphone-ou-ipod-touch.php&searchtags=web+d%C3%A9veloppement+html+css+ipod+for%3Amischler+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://blog.jaysalvat.com/articles/optimiser-son-application-web-pour-iphone-ou-ipod-touch.php[Optimiser son application web pour iPhone ou iPod Touch | Jay Salvat, le Blog]
+
+Comment détecter et utiliser un iPhone/iPod pour afficher au mieux son site web

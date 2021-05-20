@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pure Mac: Software For Macintosh
+:jbake-tags: software,macosx,library,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111401372000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pure-mac.com%2F&searchtags=software+macosx+library+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pure-mac.com/[Pure Mac: Software For Macintosh]
+
+one of the first Macintosh software compendiums on the internet. Download all your Mac OS X and Classic Mac software including freeware, shareware, demos, games, updates, software for mp3, ipod, itunes etc.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sampsakuronen/circleci-radiator-view: Radiator view for Circle CI
+:jbake-tags: intégration,interface,_mois_juil.,_année_2017
+:jbake-date: 2017-07-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1499871240000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsampsakuronen%2Fcircleci-radiator-view&searchtags=int%C3%A9gration+interface+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/sampsakuronen/circleci-radiator-view[sampsakuronen/circleci-radiator-view: Radiator view for Circle CI]
+
+Une chouette vue en radiateur pour CircleCI

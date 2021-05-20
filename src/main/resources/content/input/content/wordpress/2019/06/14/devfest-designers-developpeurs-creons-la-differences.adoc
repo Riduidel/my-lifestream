@@ -1,0 +1,118 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [DevFest] Designers, Développeurs, créons la différences!
+:jbake-tags: design,devfest,web,_mois_juin,_année_2019
+:jbake-date: 2019-06-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/06/14/devfest-designers-developpeurs-creons-la-differences.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/06/14/devfest-designers-developpeurs-creons-la-differences/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="header"></div>
+<br/>
+<div id="content">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Aujourd’hui, tous les sites se ressemblent, parce que tous les projets utilisent une bibliothèque de composants sans y réfléchir.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+On va voir comment faire autrement en prenant l’exemple de l’aquarium de Florent.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Florent a un aquarium, donc une application pour le gérer.Son application est considérée évidement comme moche par le client (et c’est normal).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Donc typiquement, le client appelle un designer après coup.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Après quelques échanges entre le designer et le client, ce designer produira un nouveau layout qu’il ne saura pas communiquer au développeur. Autrement dit ça ne marchera pas.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-16">
+</p>
+<p>
+Une autre approche, c’est de faire intervenir le designer dès le départ. Comme ça, le designer peut faire des recherches sur les utilisateurs et leurs besoins en prenant son temps. Pendant ce temps, les développeurs peuvent commencer à travailler et à produire de la valeur métier en tenant compte de ce besoin UX. Une fois les parcours utilisateurs identifiés, le designer peut commencer à produire des wireframes. C’est le moment de partager les informations entre designers et développeurs. On peut utiliser par exemple Figma, Zepelin, …​ En parallèle, le designer travaille sur le mood board dont il va tirer des éléments suscitant des émotions. Avec ces outils, le designer travaille sur des maquettes réelles pour mobile et desktop. Ces maquettes utilisent le concept d'"atomic design" où on construit les éléments du plus petit au plus grand. Et pour démontrer ces éléments, l’équipe utilise storybook. Dans ce design atomique, les premiers éléments sont
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-28">
+<br/>
+<ul>
+<br/>
+<li class="data-line-28">les icônes (en SVG plutôt qu’avec des font-icons)</li>
+<br/>
+<li class="data-line-29">les animations</li>
+<br/>
+<li class="data-line-30">la grille</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-32">
+</p>
+<p>
+Avec ça, on peut créer des composants plus avancés (comme des boutons) qu’on peut concevoir en peer programming …​ et démontrer également dans storybook.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+Tous ces éléments peuvent aussi être partagés avec zeroheight.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-36">
+</p>
+<p>
+Evidement, le design system doit être évolutif, comme le code. Il faut nécessairement conserver dans l’équipe un designer et un développeur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+Si on utilise malgré tout un framework de composants, il faut le considérer comme une dette technique assumée et le documenter comme le design system de l’application. Il ne faut pas oublier qu’un design system, avant tout, c’est du design, c’est donc indépendant de la technologie.
+<br/>
+<h2>Conclusion</h2>
+<br/>
+Florent et Cécile, des collègues, ont réussi à bien présenter les enjeux du développement web en 2019 : il ne faut pas seulement faire une application qui fonctionne, mais aussi présenter une belle expérience à l'utilisateur. Et la méthode et les outils présentés ici semblent très efficaces pour assurer une collaboration efficace.
+</p>
+<p>
+</div>
+<br/>
+</div>
+</p>
+++++

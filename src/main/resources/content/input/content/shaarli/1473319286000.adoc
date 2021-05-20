@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The 100% correct way to validate email addresses
+:jbake-tags: email,validation,web,_mois_sept.,_année_2016
+:jbake-date: 2016-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1473319286000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackernoon.com%2Fthe-100-correct-way-to-validate-email-addresses-7c4818f24643%23.fomtxryqx&searchtags=email+validation+web+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://hackernoon.com/the-100-correct-way-to-validate-email-addresses-7c4818f24643#.fomtxryqx[The 100% correct way to validate email addresses]
+
+Comment valider une adresse mail ? En envoyant un mail de test : toute autre méthode est inefficace.

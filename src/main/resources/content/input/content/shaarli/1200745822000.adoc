@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MalloxCast » Convertir un fichier TS (freebox) en MPEG
+:jbake-tags: tutorial,documentation,vidéo,divx,_mois_janv.,_année_2008
+:jbake-date: 2008-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1200745822000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmallox.podemus.com%2F2007%2F02%2Fconvertir-un-fichier-ts-freebox-en-mpeg%2F&searchtags=tutorial+documentation+vid%C3%A9o+divx+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://mallox.podemus.com/2007/02/convertir-un-fichier-ts-freebox-en-mpeg/[MalloxCast » Convertir un fichier TS (freebox) en MPEG]
+
+J'ai quelques enregistrements sur mla freebox que je veux pouvoir compresser un peu, et un tutorial comme ça, ça aide bien !

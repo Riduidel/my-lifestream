@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zone d'Intérêt: Les grandes oreilles américaines à Paris
+:jbake-tags: espionnage,nsa,intimité,_mois_déc.,_année_2014
+:jbake-date: 2014-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1418402735000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zonedinteret.net%2F2013%2F12%2Fles-grandes-oreilles-americaines-paris.html&searchtags=espionnage+nsa+intimit%C3%A9+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.zonedinteret.net/2013/12/les-grandes-oreilles-americaines-paris.html[Zone d'Intérêt: Les grandes oreilles américaines à Paris]
+
+L'article se concentre évidement sur l'espionnage "à haut niveau". Mais il ne faut pas oublier que les américains font de la collecte de données globales, et que grâce à leurs "IMSI cachers", ils peuvent récupérer les informations sur tous les téléphones de touristes allant au Louvre. Par exemple, si je prends une photo de la Joconde avec mon téléphone, et que le 'envoie par la 4G en passant accidentellement par leur antenne, ils récupèrent 1 - ma localisation à une date donnée 2 - l'id de mon téléphone 3 - mon nom (si je l'envoie dans le MMS) Ca suffit, non ?

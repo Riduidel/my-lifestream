@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Phoronix Test Suite - PTS Desktop Live
+:jbake-tags: software,freeware,linux,benchmark,_mois_nov.,_année_2009
+:jbake-date: 2009-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1258981377000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.phoronix-test-suite.com%2F%3Fk%3Dpts_desktop_live&searchtags=software+freeware+linux+benchmark+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.phoronix-test-suite.com/?k=pts_desktop_live[Phoronix Test Suite - PTS Desktop Live]
+
+Un bon moyen de savoir ce qu'un ordinateur a réellement dans le ventre, en dehors de toute considérations liées à l'OS.

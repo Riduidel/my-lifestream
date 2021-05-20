@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MLCad - Basic tutorial - Page 1
+:jbake-tags: documentation,tutorial,software,lego,_mois_sept.,_année_2010
+:jbake-date: 2010-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1283775036000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.holly-wood.it%2Fmlcad%2Fbasic1-en.html&searchtags=documentation+tutorial+software+lego+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.holly-wood.it/mlcad/basic1-en.html[MLCad - Basic tutorial - Page 1]
+
+Un tutorial pour MLCad et LDraw, au cas où je les ressorte un jour ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Creating Ansible Roles from Scratch: Part 1 - Azavea - Beyond Dots on a Map
+:jbake-tags: documentation,ansible,_mois_oct.,_année_2017
+:jbake-date: 2017-10-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1507900637000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.azavea.com%2Fblog%2F2014%2F10%2F09%2Fcreating-ansible-roles-from-scratch-part-1%2F&searchtags=documentation+ansible+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.azavea.com/blog/2014/10/09/creating-ansible-roles-from-scratch-part-1/[Creating Ansible Roles from Scratch: Part 1 - Azavea - Beyond Dots on a Map]
+
+Ah, enfin une doc claire sur le contenu d'un rôle Ansible

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iTag - IPTC/XMP Photo Tagging & Search
+:jbake-tags: editor,freeware,metadata,photographie,software,windows,exif,_mois_juin,_année_2008
+:jbake-date: 2008-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1213792462000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.itagsoftware.com%2Findex.php&searchtags=editor+freeware+metadata+photographie+software+windows+exif+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.itagsoftware.com/index.php[iTag - IPTC/XMP Photo Tagging & Search]
+
+Un très joli éditeur EXIF avant de pouvoir les visionner joliment

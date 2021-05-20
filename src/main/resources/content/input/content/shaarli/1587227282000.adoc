@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fred Hebert sur Twitter : "why I think most software architecture diagrams using queues/busses/kafka/whatever are garbage: they hide critical information for visual simplicity and tend to not necessarily remove any of the inherent complexity… https://t.co/DYIcOssXy1"
+:jbake-tags: diagram,architecture,mq,_mois_avr.,_année_2020
+:jbake-date: 2020-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1587227282000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmononcqc%2Fstatus%2F1070373406917517313&searchtags=diagram+architecture+mq+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/mononcqc/status/1070373406917517313[Fred Hebert sur Twitter : "why I think most software architecture diagrams using queues/busses/kafka/whatever are garbage: they hide critical information for visual simplicity and tend to not necessarily remove any of the inherent complexity… https://t.co/DYIcOssXy1"]
+
+Je suis assez d'accord. Typiquement, je n'ai pas encore trouvé de bonnes façon de recenser les différents canaux utilisés dans un MOM par une application ... Et de les représenter correctement dans mes diagrammes.

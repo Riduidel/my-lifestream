@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Solomon Hykes sur Twitter : "The way OSS is funded today is not sustainable, but it benefits Big Tech so they won't fix it. Is that a controversial thing to say? It seems obvious to me, but maybe others disagree?"
+:jbake-tags: open-source,histoire,citation,_mois_janv.,_année_2020
+:jbake-date: 2020-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1580321576000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsolomonstre%2Fstatus%2F1222318288803266560&searchtags=open-source+histoire+citation+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/solomonstre/status/1222318288803266560[Solomon Hykes sur Twitter : "The way OSS is funded today is not sustainable, but it benefits Big Tech so they won't fix it. Is that a controversial thing to say? It seems obvious to me, but maybe others disagree?"]
+
+Ca fait à peu près vingt ans que ça se sait, non ? Et puis l'open-source gratuit reste un bon modèle ... pour toutes les entreprises qui s'en servent. Il n'y a guère que les contributeurs individuels qui en souffrent (et à mon avis ça fait partie de la démonstration).

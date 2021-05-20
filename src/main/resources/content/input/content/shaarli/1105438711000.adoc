@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Videora - BitTorrent RSS Reader
+:jbake-tags: software,freeware,windows,vidéo,p2p,bittorrent,_mois_janv.,_année_2005
+:jbake-date: 2005-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1105438711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.videora.com%2Fen-us%2F&searchtags=software+freeware+windows+vid%C3%A9o+p2p+bittorrent+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.videora.com/en-us/[Videora - BitTorrent RSS Reader]
+
+Videora 1.0 is the first version of our new personal video downloading program.

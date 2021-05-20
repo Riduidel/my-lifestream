@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Letting neural networks be weird • When algorithms surprise us
+:jbake-tags: ia,algorithme,_mois_juin,_année_2018
+:jbake-date: 2018-06-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1527861895000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faiweirdness.com%2Fpost%2F172894792687%2Fwhen-algorithms-surprise-us&searchtags=ia+algorithme+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://aiweirdness.com/post/172894792687/when-algorithms-surprise-us[Letting neural networks be weird • When algorithms surprise us]
+
+Ces histoires d'algorithmes génétiques qui jouent avec les règles sont sidérantes, et une sacrée leçon pour tous ceux qui développent de l'IA

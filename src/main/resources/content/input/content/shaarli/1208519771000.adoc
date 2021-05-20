@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zenphoto » User Guide
+:jbake-tags: php,photographie,gallerie,web,_mois_avr.,_année_2008
+:jbake-date: 2008-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1208519771000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zenphoto.org%2Fcategory%2FUser-Guide%2F&searchtags=php+photographie+gallerie+web+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.zenphoto.org/category/User-Guide/[Zenphoto » User Guide]
+
+Une gallerie en PHP très simple, qui "semble" lire les tags EXIF

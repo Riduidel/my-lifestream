@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ANTIREZ sur Twitter : "I look at the web today. Not as a programmer, but as a user of broken sites that are unable to obey the most basic rules of navigation and usability, terribly slow despite the hardware progresses. And I can only think that modern frontend development has failed." / Twitter
+:jbake-tags: citation,web,ergonomie,utilisateur,_mois_avr.,_année_2021
+:jbake-date: 2021-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1617648500000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fantirez%2Fstatus%2F1378272801522597888&searchtags=citation+web+ergonomie+utilisateur+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/antirez/status/1378272801522597888[ANTIREZ sur Twitter : "I look at the web today. Not as a programmer, but as a user of broken sites that are unable to obey the most basic rules of navigation and usability, terribly slow despite the hardware progresses. And I can only think that modern frontend development has failed." / Twitter]
+
+Je vais faire mal à mes collègues développeurs front, mais je suis d'accord.

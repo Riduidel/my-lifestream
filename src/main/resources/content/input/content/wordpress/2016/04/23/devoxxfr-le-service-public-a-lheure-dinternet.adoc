@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Le Service Public à l'heure d'internet
+:jbake-tags: devoxx,open-source,politique,_mois_avr.,_année_2016
+:jbake-date: 2016-04-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/23/devoxxfr-le-service-public-a-lheure-dinternet.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/23/devoxxfr-le-service-public-a-lheure-dinternet/
+:jbake-style: wordpress
+
+++++
+<p>
+Est-ce que vous savez qu'en Estonie, on peut utiliser sa carte d'identité pour signer numériquement des documents ? Et que dans ce pays, l'accès à internet est un droit fondamental ? Ca vous fait rêver ? Et si ça arrivait en France ?
+</p>
+<p>
+Matti travaille au sein de l'équipe de beta.gouv.fr, et il nous présente comment la France va peut-être passer du modèle "plan calcul" à des méthodes, disons, plus pragmatiques.
+</p>
+<p>
+Il commence par un peu de sociologie sur un thème assez classique, l’opposition entre numérique et action publique, ou entre entreprise et collaboratif. Et le moins qu'on puisse dire, c'est que s'opposer, évidement, ça n'est pas très pratique. Dans le monde de "l'économie collaborative", on préfère éviter. Et parfois, certains gouvernements également.
+</p>
+<p>
+Pour en revenir à l'Estonie, son modèle a, par exemple, inspiré le gouvernement américain suite à la débâcle du déploiement du site web obamacare : 3 mois après son démarrage officiel, il ne marchait toujours pas, alors que les équipes avaient suivi une belle méthode planifiée. ils sont donc passé à une méthode agile, à des incréments livrés régulièrement, pour réparer les choses autant que possible. De la même manière, le gouvernement anglais a refondu l'ensemble de ses services publics sur la même base. Les anglais ont commencé il y a 5 ans à 10, et ont aujourd'hui 200 personnes qui refondent tout autour d'un concept simple : une barre de recherche pour trouver le service, une interface utilisable par 80 % des gens, et des assistants pour les 20 % qui n'y arrivent pas.
+</p>
+<p>
+En France, de la même manière, ça a commencé dans le même ordre : libérer les données, open-sourcer le code, et enfin produire des apis. Matti et son équipe ont déjà sorti le portail open-data, mis en place quelques applications, et mis une partie du code sur github. Oui, le code des impôts est sur github. Vous le saviez, évidement.
+</p>
+<p>
+Cela dit, à ce moment, j'ai eu un authentique choc dissociatif. Je vous explique : je suis un développeur qui fait un peu d'open-source. Ca m'est déjà arrivé de contribuer par des issues, de la doc, du code, des commentaires, bref, tout ce qu'un développeur peut faire pour aider et s'approprier un projet (faut pas rigoler, généralement, quand j'aide un projet, c'est pour que ça marche <b>chez moi</b>). Mais là, quand Matti a expliqué que <u>je</u> pouvais contribuer à la France, littéralement, gratuitement, mon côté citoyen français de merde a fait surface et m'a dit : "quoi, travailler gratuitement pour l'état ? JAMAIS". Et là, tiraillé que j'étais entre ces deux aspects, j'ai bloqué.
+</p>
+<p>
+Ce blocage a fait que je n'étais pas forcément très attentif au fait que même les tests Fitnesse (pouah) sont fournis collaborativement, ce qui ne m'intéressais en fait que moyennement. De la même manière, je n'ai pas trop suivi le déploiement, mais ça n'est pas non plus très grave.
+</p>
+<p>
+En revanche, ça m'a fait repenser à l'opposition du début, entre collaboration et planification, et à la référence de Matti à l'hyper-appartenance au groupe (qui dit qu'en vous identifiant trop à un groupe, on s'empêche surtout de voir les bons côtés du groupe antagoniste). Imaginez, à devoxx, au milieu de mes pairs, j'étais dans une logique de planification !
+</p>
+<p>
+Encore maintenant, j'ai du mal à mesurer tous les impacts de cette révélation. Une chose est sûre, ça fait réfléchir.
+</p>
+++++

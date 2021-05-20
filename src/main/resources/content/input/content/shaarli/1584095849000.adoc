@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jesús Rubio 🏴‍☠️ sur Twitter : "New tools written in @rustlang are taking my OS every day...🦜… "
+:jbake-tags: rust,programming,system,linux,command-line,alternatives,_mois_mars,_année_2020
+:jbake-date: 2020-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1584095849000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjesusprubio%2Fstatus%2F1237752138069094400&searchtags=rust+programming+system+linux+command-line+alternatives+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/jesusprubio/status/1237752138069094400[Jesús Rubio 🏴‍☠️ sur Twitter : "New tools written in @rustlang are taking my OS every day...🦜… "]
+
+J'ai déja dit à quel point Rust était chouette ? Et en plus, on voit d eplus en plus de commandes Linux réécrites(et améliorées) en Rust. C'est chouette !

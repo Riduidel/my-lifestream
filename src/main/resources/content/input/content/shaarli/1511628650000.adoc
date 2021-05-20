@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Building a Thermostat with the Raspberry Pi | Obfuscation's End
+:jbake-tags: diy,raspberrypi,maison,_mois_nov.,_année_2017
+:jbake-date: 2017-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1511628650000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.variantweb.net%2Fblog%2Fbuilding-a-thermostat-with-the-raspberry-pi%2F&searchtags=diy+raspberrypi+maison+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.variantweb.net/blog/building-a-thermostat-with-the-raspberry-pi/[Building a Thermostat with the Raspberry Pi | Obfuscation's End]
+
+Intéressant ... d'autant plus que j'en ai marre de cette cochonnerie de thermostat Theben

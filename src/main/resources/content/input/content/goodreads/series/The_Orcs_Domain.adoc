@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Orcs Domain
+:jbake-tags: serie
+:jbake-date: 2008-09-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Orcs_Domain.adoc
+:jbake-source: https://www.goodreads.com/series/147588
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782811200145.html[La Compagnie de la Foudre (Orcs, #1)]

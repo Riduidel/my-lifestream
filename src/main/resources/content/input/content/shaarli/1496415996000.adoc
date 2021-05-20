@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XSLT Generator Maven plugin
+:jbake-tags: java,xml,maven,plugin,open-source,xsl,_mois_juin,_année_2017
+:jbake-date: 2017-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1496415996000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxsltmp.sourceforge.net%2Findex.html&searchtags=java+xml+maven+plugin+open-source+xsl+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://xsltmp.sourceforge.net/index.html[XSLT Generator Maven plugin]
+
+Un plugin maven bien pratique pour générer du Java à partir du XML

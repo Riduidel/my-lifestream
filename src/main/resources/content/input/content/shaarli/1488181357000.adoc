@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Seven Circles of Developer Hell [Infographic] - Toggl Blog
+:jbake-tags: programming,humour,_mois_févr.,_année_2017
+:jbake-date: 2017-02-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1488181357000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.toggl.com%2F2017%2F02%2Fseven-circles-of-developer-hell%2F&searchtags=programming+humour+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.toggl.com/2017/02/seven-circles-of-developer-hell/[The Seven Circles of Developer Hell [Infographic] - Toggl Blog]
+
+La plupart des détails sont assez justes

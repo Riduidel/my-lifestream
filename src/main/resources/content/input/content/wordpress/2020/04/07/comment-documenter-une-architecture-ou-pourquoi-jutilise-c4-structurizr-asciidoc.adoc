@@ -1,0 +1,120 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment documenter une architecture ? (ou pourquoi j'utilise C4/Structurizr/Asciidoc)
+:jbake-tags: architecture_agile,asciidoc,c4model,maven,structurizr,_mois_avr.,_année_2020
+:jbake-date: 2020-04-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Nous avons donc vu ce qu'était <a href="https://riduidel.wordpress.com/2020/04/02/cest-quoi-une-architecture-logicielle/">une architecture</a>, ce qu'en faisait <a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">un architecte</a>, et pourquoi il était important de la documenter. Nous allons voir aujourd'hui comment. Et même si la réponse est dans le titre, il y a un raisonnement derrière ce titre. Suivez-moi donc (mais n'hésitez pas à me dire si je me trompe, les commentaires sont pour vous).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Historiquement, les architectes étaient détachés des équipes de développement. Nous avons déjà vu que je ne pense pas que ce soit une si bonne idée que ça. Mais à cette époque, les architectes utilisaient un ensemble d'outils décorrélés des outils de développement. Des outils comme <a href="https://www.visual-paradigm.com/">Visual Paradigm</a>, <a href="https://fr.wikipedia.org/wiki/Rational_Rose">Rational Rose</a>, <a href="https://www.archimatetool.com/">Archimate</a>, et tant d'autres. Ces outils reposent sur un modèle de l’architecture accessible uniquement à travers l'interface de ces outils. Autrement dit un modèle fermé. De mon point de vue, c'est une erreur à plusieurs points de vue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>D'abord, en tant que développeur puis architecte, je me vois mal renoncer au plaisir douteux de coder pour le remplacer par celui encore plus douteux de construire une architecture par drag'n'drop ou autre interface graphique (malgré le bien que je pense de celles-ci).</li><li>Ensuite, créer un modèle d'architecture isolé du code de l'application crée une barrière qui empêche les développeurs d'accéder à ce modèle d'architecture ou, mieux encore, de le modifier eux-mêmes (lorsque le logiciel évolue, ou lorsque l'architecte, en tant que scribe, n'a pas correctement compris ce que les développeurs ont produit).</li><li>Enfin, j'ai déjà expliqué pourquoi il était important que la documentation raconte l'histoire du logiciel. Or ces outils ne permettent pas facilement de créer cette histoire, parce qu'ils sont uniquement des modèles. L'histoire vient se rajouter après.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Vous objecterez sans doute que je n'y connais rien. Et c'est peut-être vrai, je n'y connais pas grand chose à ces outils. Parce que chacune de mes tentatives a révélé le fossé, construit sur un jargon, qui isole lui aussi l'architecte du développeur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, ces outils ne me paraissent pas efficaces, dans le cadre de ma pratique de l'architecture logicielle. En revanche, ils mettent en scène un point essentiel : la nécessité d'un modèle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En effet, l'alternative "simpliste" à ces outils est l'utilisation d'outils de dessin, comme par exemple <a href="https://app.diagrams.net/">draw.io</a> ou <a href="https://plantuml.com/">PlantUML</a>. Je n'aime pas trop le premier, mais j'adore le second. Parce que PlantUML repose sur l'utilisation d'<a href="https://fr.wikipedia.org/wiki/UML_(informatique)">UML</a> pour son rôle de base : construire une représentation de concepts UML. Et aussi parce qu'il évite l'écueil classique de laisser l'architecte dessiné. Et si il y a quelque chose qui consomme un temps fou (et souvent inutile), c'est bien le dessin, la mise en page d'un schéma d'architecture. Et PlantUML permet de s'abstraire de cette tâche inutile en utilisant <a href="https://graphviz.org/">GraphViz</a>, qui fait partie de ces perles méconnues de l'informatique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais hélas, il n'a pas de modèle associé. Pourquoi ce modèle est important ? Parce qu'il permet de raisonner, d'analyser, d'inspecter l'architecture qui a été définie. Alors est-il possible de marier un modèle permettant d'analyser l'architecture à un mode de représentation de celle-ci permettant d'en raconter l'histoire ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evidement, si vous avez lu le titre, vous savez que la réponse tient en deux mots : <a href="https://c4model.com/">C4</a> et <a href="https://github.com/structurizr/java/">Structuriz</a>. Simon Brown fait de nombreuses présentations au sujet de C4, et il existe par ailleurs déja des articles français à ce sujet. Je vous laisse donc regarder</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/www.youtube.com\/watch?v=x2-rSnhpw0g","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=x2-rSnhpw0g
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Ou lire l'un de ces articles</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><a href="https://medium.com/better-programming/modeling-software-architecture-with-c4-243eb1f240c7">Modelling software architecture with C4</a></li><li><a href="https://qappdesign.com/code/the-c4-software-architecture-model/">The C4 software architecture model</a></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Dans tous les cas, vous comprendrez que, contrairement à la plupart des autres méthodes, C4 offre une approche fractale, c'est-à-dire exposant les différents niveaux de détail d'une architecture logicielle, en partant du contexte pour passer par les conteneurs, les composants avant d'arriver au code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour créer un modèle C4, plutôt que de simplement utiliser des diagrammes PlantUML incohérents, la solution la plus pratique est d'utiliser Structurizr avec lequel vous définissez le modèle de votre application en Java. Et d'un coup, la frontière entre le code de l'application et celui de l'architecture disparaît, ce qui permet aux développeurs de s'approprier complètement l'architecture, puisque celle-ci devient un artefact logiciel comme un autre, ou presque.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il manque là une dernière chose : comment raconter l'histoire. Parce qu'avec Structurizr on a encore un modèle, et pas une histoire. C'est d'ailleurs quelque chose que Simon a ajouté à la version web de Structurizr :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/simonbrown\/status\/1246028368212119552","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/simonbrown" class="screenName"><img src="http://pbs.twimg.com/profile_images/1326809575782313987/EWeNACF1_mini.jpg" alt="profile of Author "Software Architecture for Developers" | C4 model & @structurizr for software architecture diagramming | Keynote speaker & trainer | 🌎✈️👨‍💻☕️🏄🏻‍♂️"/>simonbrown</a>
+		<span class="name">Simon Brown</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/simonbrown/status/1 246 028 368 212 119 552" class="date">3 avr. 2020 à 12:54:47</a>
+
+	<span class="content">
+	
+	<span class="text">In addition to all of the diagram features, did you know that you can use Structurizr to read/publish Markdown/AsciiDoc files? This is especially useful if you're doing #DocsAsCode. Let's say you have a folder full of content, perhaps some software architecture documentation...</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>L'intérêt d'<a href="https://asciidoctor.org/">Asciidoc</a> c'est qu'avec celui-ci, on peut facilement écrire une documentation qui inclue aussi bien du code que des <a href="https://asciidoctor.org/docs/asciidoctor-diagram/">diagrammes </a>de toute forme (et en particulier PlantUML). Enfin, là, on n'a qu'un outil, pas un moyen de raconter une histoire : il manque un plan. Et ce plan, c'est encore Simon Brown qui le propose : regardez donc <a href="http://www.codingthearchitecture.com/2016/05/31/agile_software_architecture_documentation.html">Agile Architecture Documentation</a>. Vous avez là un plan qui vous permet d'accompagner vos lecteurs, qu'ils soient développeurs, responsables de projets, opérationnels ou autre dans la découverte de votre système logiciel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il ne vous reste plus qu'à mettre tout ça en oeuvre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Coup de chance (pour moi), j'ai créé un archetype maven qui vous permet de mettre tout ça en place très facilement (pour peu que vous ayez déja maven et graphviz sur votre machine) : <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype">Agile architecture documentation archetype</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans le prochain article, nous détaillerons le rôle des différentes parties, et comment ne pas les écrire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ah, et si vous demandez pourquoi je n'utilise pas la version web de Structurizr, eh bien vous avez raison. Et la raison est assez pragmatique : en tant que consultant, je suis amené à travailler pour des entreprises différentes ayant des points de vue typiquement français sur ces aspects. Il me semble donc raisonnable de ne pas imposer l'utilisation d'une solution web. Et puis on verra dans les articles suivants que la méthode consistant à construire le modèle avec Structurizr pour l'exploiter "localement" n'a pas que des inconvénients ...</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CodinGame points details
+:jbake-tags: codingame,jeu,optimisation,_mois_mars,_année_2017
+:jbake-date: 2017-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1490024379000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fapps.rezonux.com%2Fcodingame%2F%3Fuser%3Deea0806fd23eaf0538d76d56c58ade4e5429351&searchtags=codingame+jeu+optimisation+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://apps.rezonux.com/codingame/?user=eea0806fd23eaf0538d76d56c58ade4e5429351[CodinGame points details]
+
+Un outil pour trouver rapidement les jeux Codingame sur lesquels je peux gagner des points

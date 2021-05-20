@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: google-guice - Google Code
+:jbake-tags: développement,java,library,programming,software,ioc,freeware,open-source,_mois_avr.,_année_2007
+:jbake-date: 2007-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1175780466000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fgoogle-guice%2F&searchtags=d%C3%A9veloppement+java+library+programming+software+ioc+freeware+open-source+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://code.google.com/p/google-guice/[google-guice - Google Code]
+
+Un framework d'IoC développé chez Google, et à priori très léger

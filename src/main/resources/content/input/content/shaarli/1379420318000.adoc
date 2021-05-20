@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Five years ago, Stack Overflow launched. Then, a miracle occurred.
+:jbake-tags: stackoverflow,gamification,web,_mois_sept.,_année_2013
+:jbake-date: 2013-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1379420318000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.stackoverflow.com%2F2013%2F09%2Ffive-years-ago-stack-overflow-launched-then-a-miracle-occurred%2F&searchtags=stackoverflow+gamification+web+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blog.stackoverflow.com/2013/09/five-years-ago-stack-overflow-launched-then-a-miracle-occurred/[Five years ago, Stack Overflow launched. Then, a miracle occurred.]
+
+Et aujourd'hui, j'ai eu mon 5ième badge de yearling :-) Plus sérieusement, tout ça, c'est la faute de l'excellent Jeff Atwood.

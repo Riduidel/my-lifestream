@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Forum de la QVT | Zenika
+:jbake-tags: entreprise,bonheur,travail,conférence,_mois_avr.,_année_2019
+:jbake-date: 2019-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1556182905000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.zenika.com%2F2019%2F04%2F25%2Fforum-de-la-qvt-zenika%2F&searchtags=entreprise+bonheur+travail+conf%C3%A9rence+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.zenika.com/2019/04/25/forum-de-la-qvt-zenika/[Forum de la QVT | Zenika]
+
+Un compte-rendu de conférence très intéressant, qui résonne avec ce que j'ai pu entendre/dire durant Devoxx.

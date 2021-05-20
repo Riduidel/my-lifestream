@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Birthgrave
+:jbake-tags: serie
+:jbake-date: 2004-08-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Birthgrave.adoc
+:jbake-source: https://www.goodreads.com/series/49476
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290338261.html[La saga d'Uasti (Birthgrave, #1-3)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ventusky - cartes de prévision météo
+:jbake-tags: météo,carte,_mois_févr.,_année_2017
+:jbake-date: 2017-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1486377778000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ventusky.com%2F&searchtags=m%C3%A9t%C3%A9o+carte+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.ventusky.com/[Ventusky - cartes de prévision météo]
+
+Cette carte est tout de même bien chouette

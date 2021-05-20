@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sen:te - GPGMail
+:jbake-tags: software,freeware,macosx,réseau,email,sécurité,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111401281000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sente.ch%2Fsoftware%2FGPGMail%2FEnglish.lproj%2FGPGMail.html&searchtags=software+freeware+macosx+r%C3%A9seau+email+s%C3%A9curit%C3%A9+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sente.ch/software/GPGMail/English.lproj/GPGMail.html[Sen:te - GPGMail]
+
+GPGMail is a plug-in for Apple's Mail, providing a front-end to gpg for some operations. It allows you to read/write encrypted messages, as well as electronically signed messages.

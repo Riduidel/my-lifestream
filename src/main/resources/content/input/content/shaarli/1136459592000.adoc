@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: famfamfam.com: Icons
+:jbake-tags: software,freeware,windows,macosx,linux,icon,webdesign,_mois_janv.,_année_2006
+:jbake-date: 2006-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1136459592000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.famfamfam.com%2Flab%2Ficons%2F&searchtags=software+freeware+windows+macosx+linux+icon+webdesign+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.famfamfam.com/lab/icons/[famfamfam.com: Icons]
+
+

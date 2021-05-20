@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Freaks' Squeele : Funérailles
+:jbake-tags: serie
+:jbake-date: 2013-05-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Freaks__Squeele___Funerailles.adoc
+:jbake-source: https://www.goodreads.com/series/119659
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782359104462.html[Fortunate Sons (Funérailles #1)]
+* link:../books/9782359104783.html[Pain in Black (Funérailles #2)]
+* link:../books/9782359105261.html[Cowboys on horses without wings (Funérailles #3)]
+* link:../books/9791033504818.html[Destruction Eve (Funérailles #4)]

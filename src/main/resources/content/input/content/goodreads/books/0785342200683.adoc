@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions
+:jbake-tags:  rayon-informatique,_année_2020,_mois_avr.,_note_2,architecture,read
+:jbake-date: 2020-04-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/0785342200683.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/85012
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<i>Enterprise Integration Patterns</i> provides an invaluable catalog of sixty-five patterns, with real-world solutions that demonstrate the formidable of messaging and help you to design effective messaging solutions for your enterprise. The authors also include examples covering a variety of different integration technologies, such as JMS, MSMQ, TIBCO ActiveEnterprise, Microsoft BizTalk, SOAP, and XSL. A case study describing a bond trading system illustrates the patterns in practice, and the book offers a look at emerging standards, as well as insights into what the future of enterprise integration might hold. This book provides a consistent vocabulary and visual notation framework to describe large-scale integration solutions across many technologies. It also explores in detail the advantages and limitations of asynchronous messaging architectures. The authors present practical advice on designing code that connects an application to a messaging system, and provide extensive information to help you determine when to send a message, how to route it to the proper destination, and how to monitor the health of a messaging system. If you want to know how to manage, monitor, and maintain a messaging system once it is in use, get this book.
+</div>
+++++
+
+
+## Authors
+* link:../authors/48626.html[Bobby Woolf]
+* link:../authors/48627.html[Gregor Hohpe]
+
+## Series
+* link:../series/Martin_Fowler_Signature_Book.html[Martin Fowler Signature Book]
+* link:../series/The_Addison-Wesley_Signature_Series.html[The Addison-Wesley Signature Series]
+
+## Review
+
+++++
+Ce livre est un catalogue des patterns classiques des bus de messages.<br/>C'est à mon avis une bonne introduction aux concepts utilisée dans cette partie de l'informatique.<br/>Au-delà de ça, comme c'est avant tout un catalogue, ça n'est pas follement intéressant (même si je suis convaincu que la plupart de ces patterns dépassent le cadre dans lequel ils sont décrits). Et c'est surtout un bon complément au livre de Kleipmann, justement parce que designing data intensive applications est dans le design conceptuel, alors que celui-ci est dans une application plus pratique, peut-être plus ... basique.
+++++

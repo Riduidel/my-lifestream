@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Justin Garrison sur Twitter : "No: Body: Wants: To: Write: - yaml#KubeCon @kelseyhightower"
+:jbake-tags: citation,programming,configuration,format,_mois_déc.,_année_2017
+:jbake-date: 2017-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1513008167000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frothgar%2Fstatus%2F938790206140010498&searchtags=citation+programming+configuration+format+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/rothgar/status/938790206140010498[Justin Garrison sur Twitter : "No: Body: Wants: To: Write: - yaml#KubeCon @kelseyhightower"]
+
+Mais tellement ! Pourquoi diable a-t-on abandonné le XML ? C'est verbeux ? Mais ces putain d'espaces !

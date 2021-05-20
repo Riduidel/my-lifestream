@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Memory Map Shows You What’s Taking up Space in Android
+:jbake-tags: android,software,mémoire,usage,visualisation,_mois_mars,_année_2015
+:jbake-date: 2015-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1425294188000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flifehacker.com%2Fmemory-map-shows-you-what-s-taking-up-space-in-android-1682596420&searchtags=android+software+m%C3%A9moire+usage+visualisation+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://lifehacker.com/memory-map-shows-you-what-s-taking-up-space-in-android-1682596420[Memory Map Shows You What’s Taking up Space in Android]
+
+Chouette visualisation de l'espace occupé sur un Android.

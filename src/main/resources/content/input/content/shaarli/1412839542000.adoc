@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 12 Java Snippets you won't believe actually compile - Journey of Code
+:jbake-tags: java,programming,langage,_mois_oct.,_année_2014
+:jbake-date: 2014-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1412839542000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.journeyofcode.com%2F12-java-snippets-wont-believe-actually-compile%2F&searchtags=java+programming+langage+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.journeyofcode.com/12-java-snippets-wont-believe-actually-compile/[12 Java Snippets you won't believe actually compile - Journey of Code]
+
+Bon, il s'avère que je connaissais la plupart de ces choses, et que je n'ai même pas été surpris par celles que je ne connaissais pas. Autant dire que j'ai l'impression d'avoir de la bouteille ...

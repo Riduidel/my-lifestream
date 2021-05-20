@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mezzoblue ‽‽‽ css crib sheet
+:jbake-tags: web,css,langage,documentation,test,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mezzoblue.com%2Fcss%2Fcribsheet%2F&searchtags=web+css+langage+documentation+test+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mezzoblue.com/css/cribsheet/[mezzoblue ‽‽‽ css crib sheet]
+
+Useful rules to bear in mind when building CSS

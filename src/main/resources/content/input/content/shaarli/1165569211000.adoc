@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Algorithms Book
+:jbake-tags: algorithme,complexité,ordinateur,documentation,ebook,engineering,freeware,guide,mathématiques,online,pdf,programming,science,_mois_déc.,_année_2006
+:jbake-date: 2006-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1165569211000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cse.ucsd.edu%2Fusers%2Fdasgupta%2Fmcgrawhill%2F&searchtags=algorithme+complexit%C3%A9+ordinateur+documentation+ebook+engineering+freeware+guide+math%C3%A9matiques+online+pdf+programming+science+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.cse.ucsd.edu/users/dasgupta/mcgrawhill/[Algorithms Book]
+
+Un bouquin entier d'algorithmique, recommandé par Cédric Besut

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: (3) Michael Mattsson sur Twitter : "Some assembly may be required. Ideas included. #Kubernetes #DevOps #CloudNative #Docker #Containers #LEGO Thanks to @Bhaal_Spawn for the original idea. 🙏 @memenetes material... https://t.co/d4mW0LllFS" / Twitter
+:jbake-tags: lego,humour,kubernetes,informatique,_mois_juin,_année_2020
+:jbake-date: 2020-06-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1593083835000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdatamattsson%2Fstatus%2F1275814200498151425&searchtags=lego+humour+kubernetes+informatique+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/datamattsson/status/1275814200498151425[(3) Michael Mattsson sur Twitter : "Some assembly may be required. Ideas included. #Kubernetes #DevOps #CloudNative #Docker #Containers #LEGO Thanks to @Bhaal_Spawn for the original idea. 🙏 @memenetes material... https://t.co/d4mW0LllFS" / Twitter]
+
+Je veux pouvoir faire mes schémas d'architecture d'applications déployées dans Kuberntes avec ces constructions Lego !

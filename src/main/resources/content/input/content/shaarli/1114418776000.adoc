@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Objectif Sciences
+:jbake-tags: éducation,enfants,vacances,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114418776000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fasso.objectif-sciences.com%2F&searchtags=%C3%A9ducation+enfants+vacances+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://asso.objectif-sciences.com/[Objectif Sciences]
+
+La recherche scientifique est un tout indivisible que l'on se doit de prÃ©senter aux futurs chercheurs et citoyens afin qu'ils puissent l'apprÃ©hender de la meilleure maniÃ¨re qu'il soit, et le plus tÃ´t possible. MÃªme s'ils ne deviennent pas s

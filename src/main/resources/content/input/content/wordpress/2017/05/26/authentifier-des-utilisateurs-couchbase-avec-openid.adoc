@@ -1,0 +1,189 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Authentifier des utilisateurs Couchbase avec OpenID
+:jbake-tags: couchbase,openid,_mois_mai,_année_2017
+:jbake-date: 2017-05-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/05/26/authentifier-des-utilisateurs-couchbase-avec-openid.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/05/26/authentifier-des-utilisateurs-couchbase-avec-openid/
+:jbake-style: wordpress
+
+++++
+<p>
+<h6>Attention, pour les non techniciens, ça va piquer.</h6>
+<br/>
+Donc, j'ai démarré récement une mission, dans laquelle je dois synchroniser une application mobile avec un serveur. le client comme le serveur utilise <a href="https://www.couchbase.com/">Couchbase</a>, donc on va utiliser <a href="https://developer.couchbase.com/documentation/mobile/1.4/guides/sync-gateway/index.html">Sync Gateway</a>. Sur le papier, ça paraît tout à fait raisonnable.
+</p>
+<p>
+Là où ça l'est moins, c'est qu'on ne veut pas stocker de bases d'authentification (la CNIL, tout ça, c'est trop pénible). On va donc passer par de l'<a href="https://fr.wikipedia.org/wiki/OpenID_Connect">OpenID Connect</a> (ce qui est conceputellement très cool). Et comme l'application est mobile-only, on va utiliser ce qu'ils appellent le flow implicite.
+</p>
+<p>
+Il est assez bien décrit dans la doc de <a href="https://developer.couchbase.com/documentation/mobile/1.4/guides/authentication/openid/index.html#implicit-flow">Couchbase Sync Gateway</a>, et en particulier dans ce diagramme
+</p>
+<p>
+<img class="alignnone size-full wp-image-4675" src="https://riduidel.files.wordpress.com/2017/05/images-003.png" alt="images-003" width="1920" height="1080" />
+</p>
+<p>
+Présenté comme ça, c'est simple. Mais en fait, c'est rempli de subtilités.
+<br/>
+<h2>Un token, Quel token ?</h2>
+<br/>
+D'abord, il faut obtenir le token JWT auprès de votre fournisseur.
+</p>
+<p>
+Dans mon cas, c'était <a href="https://auth0.com/#!">Auth0</a>, donc un appel à <a href="https://auth0.com/docs/api/authentication#social"><code>/authorize</code></a> avec les bons paramètres va renvoyer (via l'url de redirection) le token JWT. Pour ceux qui développent une application JavaFX, il y a une chouette question StackOverflow qui donne un bon exemple ... mais je n'arrive plus à remettre la main dessus.
+<br/>
+<h2>Poster le token ?</h2>
+<br/>
+Bon alors vous voyez cette jolie image là-haut ? Elle donne toute la doc de Couchbase sur ce qu'il faut faire du token. J'ai essayé pendant une semaine différentes méthodes avant d'utiliser la seule vraie solution : regarder le source !
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+<br/>
+<span class="name">Nicolas Delsaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/riduidel/status/866 994 684 002 017 281" class="date">23 mai 2017 à 14:30:15</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Et c'est parti pour une petite lecture de code ... Go :-(</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Ben oui, parce que <a href="https://github.com/couchbase/sync_gateway">la sync gateway de Couchbase est écrite en Go</a>.
+</p>
+<p>
+Donc, j'ai compris assez vite que ça se passait dans le dossier <a href="https://github.com/couchbase/sync_gateway/tree/master/rest">/rest,</a> et en particulier dans le fichier <a href="https://github.com/couchbase/sync_gateway/blob/master/rest/session_api.go">session.go</a>, qui sert de handler pour les urls de ... session.
+</p>
+<p>
+SAUF QUE en go, comme en d'autres langages, on utilise des intercepteurs pour la sécurité. Donc la gestion des authentifications se partage entre <a href="https://github.com/couchbase/sync_gateway/blob/master/rest/handler.go">handler.go</a> et <a href="https://github.com/couchbase/sync_gateway/blob/master/auth/auth.go">auth.go</a>. Pour être plus clair, dans handler.go, la gestion de l'authentification se fait dans cette fonction
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">func (h *handler) checkAuth(context *db.DatabaseContext) error {
+<br/>
+h.user = nil
+<br/>
+if context == nil {
+<br/>
+return nil
+<br/>
+}
+</p>
+<p>
+defer checkAuthRollingMean.AddSince(time.Now())
+</p>
+<p>
+var err error
+<br/>
+// If oidc enabled, check for bearer ID token
+<br/>
+if context.Options.OIDCOptions != nil {
+<br/>
+if token := h.getBearerToken(); token != "" {
+<br/>
+h.user, _, err = context.Authenticator().AuthenticateUntrustedJWT(token, context.OIDCProviders, h.getOIDCCallbackURL)
+<br/>
+if h.user == nil || err != nil {
+<br/>
+return base.HTTPErrorf(http.StatusUnauthorized, "Invalid login")
+<br/>
+}
+<br/>
+return nil
+<br/>
+}
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+En fait, si vous regardez le code, vous verrez que h.getBearerToken() lit en fait le token OpenId depuis les entêtes de la requête. Ca fait déja une réponse facile à trouver :
+</p>
+<p>
+<strong>Il faut mettre le bearer token dans les entêtes HTTP, et PAS dans le corps du POST.</strong>
+<br/>
+<h2>Oui, mais quel token ?</h2>
+<br/>
+Donc, j'en étais là, et à chaque fois que je postais mon token, avec tous les logs activés en mode debug, j'avais à peu près cette suite de messages
+</p>
+<p>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">FROM maven:3.5.0-jdk-8-alpine
+</p>
+<p>
+RUN apk --no-cache add graphviz ttf-droid ttf-droid-nonlatin
+</p>
+<p>
+ADD . /usr/src/app
+<br/>
+WORKDIR /usr/src/app</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>
+<br/>
+Bon, je vous fais grâce des détails, mais dites-vous que ça signifie que mon token est bien passé à la couche <a href="https://github.com/coreos/go-oidc">go-oidc</a>, qui le refuse. Et là, j'ai dû lire le code environ 2 jours dans tous les sens avant de comprendre.
+</p>
+<p>
+Alors, autant vous le dire, il y a plusieurs types de token JWT.
+</p>
+<p>
+<img class="alignnone size-full wp-image-4714" src="https://riduidel.files.wordpress.com/2017/05/maxresdefault.jpg" alt="maxresdefault" width="1920" height="1080" />
+</p>
+<p>
+Et en fait, la différence se fait dans l'algorithme. Vous avez le choix entre HS256 et RS256. Et la seule différence, c'est que le RS256 est signé avec un algorithme assymétrique.
+</p>
+<p>
+Par défaut, Auth0 propose du HS256.
+</p>
+<p>
+Et évidement, go-oidc ne décode que les tokens RS256. Et le choix de l'algorithme se fait dans les paramètres avancés du client Auth0.
+</p>
+<p>
+Autrement dit
+</p>
+<p>
+<strong>Utilisez l'algorithme RS256.</strong>
+</p>
+<p>
+Une fois que vous aurez fait tout ça, vous pourrez bénéficier de l'authentification OpenId Connect pour vos synchronisations. Et ça vous créera les utilisateurs automatiquement. Bon, le nom des utilisateurs dans votre sync gateway sera leur id Auth0, mais franchement, vous allez vous laisser arrêter par ce genre de détail ? Moi non plus. D'ailleurs, je m'en vais de ce pas proposer une pull request à Couchbase pour modifier les différents éléments manquants.
+</p>
+++++

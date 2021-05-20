@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The new European guidelines for prevention of cardiovascular disease are misleading - PubMed
+:jbake-tags: science,médecine,_mois_janv.,_année_2021
+:jbake-date: 2021-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1610963421000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpubmed.ncbi.nlm.nih.gov%2F33416003%2F&searchtags=science+m%C3%A9decine+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://pubmed.ncbi.nlm.nih.gov/33416003/[The new European guidelines for prevention of cardiovascular disease are misleading - PubMed]
+
+La médecine est une science, et comme telle, avance en se corrigeant en permanence. Ici, on apprend que le taux de choléstérol n'a que peu de rapport avec le diabète ET la longévité ...

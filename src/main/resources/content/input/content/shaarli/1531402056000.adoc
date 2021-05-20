@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rest-assured/rest-assured: Java DSL for easy testing of REST services
+:jbake-tags: java,programming,test,rest,api,library,_mois_juil.,_année_2018
+:jbake-date: 2018-07-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1531402056000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frest-assured%2Frest-assured&searchtags=java+programming+test+rest+api+library+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/rest-assured/rest-assured[rest-assured/rest-assured: Java DSL for easy testing of REST services]
+
+Ca m'attriste de voir des équipes de dév Java faire des tests d'API en YAML/Python quand ils peuvent utiliser REST-assured

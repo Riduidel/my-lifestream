@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Principles for better design
+:jbake-tags: design,principe,concepts,_mois_sept.,_année_2020
+:jbake-date: 2020-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1599629386000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Freflexio.debec.eu%2Fprinciples-for-better-design&searchtags=design+principe+concepts+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://reflexio.debec.eu/principles-for-better-design[Principles for better design]
+
+Quelques principes de design utiles, dans un article à la forme et au fond franchement bien fichus.

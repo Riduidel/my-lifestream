@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Boating Knots | How to Tie Boating Knots | Animated Boating Knots
+:jbake-tags: reference,guide,howto,_mois_sept.,_année_2011
+:jbake-date: 2011-09-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1316620113000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.animatedknots.com%2Findexboating.php%3FLogoImage%3DLogoGrog.jpg%26Website%3Dwww.animatedknots.com&searchtags=reference+guide+howto+_mois_sept.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.animatedknots.com/indexboating.php?LogoImage=LogoGrog.jpg&Website=www.animatedknots.com[Boating Knots | How to Tie Boating Knots | Animated Boating Knots]
+
+Un chouette site de matelotage, pour enfin apprendre à faire tous ces noeuds que je ne sais plus trop par quel bout prendre.

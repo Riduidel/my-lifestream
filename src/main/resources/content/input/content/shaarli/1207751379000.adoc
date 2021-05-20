@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Agile Software Engineering - University of Calgary | AgilePlanning / AgilePlanner
+:jbake-tags: scrum,XP,planning,_mois_avr.,_année_2008
+:jbake-date: 2008-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1207751379000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fase.cpsc.ucalgary.ca%2Fase%2Findex.php%2FAgilePlanning%2FAgilePlanner&searchtags=scrum+XP+planning+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://ase.cpsc.ucalgary.ca/ase/index.php/AgilePlanning/AgilePlanner[Agile Software Engineering - University of Calgary | AgilePlanning / AgilePlanner]
+
+Un outil de gestion des storycards sous forme de plugin eclipse, mais hélas avec les données stockées sur un serveur. j'aurais largement préféré stocker ces données dans le CVS avec le projet ...

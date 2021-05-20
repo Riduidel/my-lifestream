@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Claude Mézières
+:jbake-tags: author
+:jbake-date: 2016-12-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/152210.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1338717434p5/152210.jpg
+:jbake-source: https://www.goodreads.com/author/show/152210
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782205060164.html[Valérian et Laureline l'Intégrale, volume 1 (Valérian, #0-2 omnibus)]
+* link:../books/9782205060379.html[Valérian et Laureline l'Intégrale, volume 2 (Valérian, #3-5 omnibus)]

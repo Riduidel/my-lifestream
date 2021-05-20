@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Notifu, a free open source pop-up balloon utility
+:jbake-tags: windows,system,notification,software,open-source,_mois_sept.,_année_2019
+:jbake-date: 2019-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1567501295000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.paralint.com%2Fprojects%2Fnotifu%2F&searchtags=windows+system+notification+software+open-source+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.paralint.com/projects/notifu/[Notifu, a free open source pop-up balloon utility]
+
+Bon, ben si Growl est mort, il va falloir passer par des implémentations inférieures ... comme notifu, qui est très frustre (mais qui utilise les notifications natives, et ça, c'est bien)

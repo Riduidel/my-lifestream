@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NicePlayer
+:jbake-tags: player,freeware,software,macosx,vidéo,multimedia,_mois_févr.,_année_2007
+:jbake-date: 2007-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1170429422000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fniceplayer.sourceforge.net%2F&searchtags=player+freeware+software+macosx+vid%C3%A9o+multimedia+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://niceplayer.sourceforge.net/[NicePlayer]
+
+Un player vidéo pour Mac qui utilise les composants de Quicktime et, en option, ceux de VLC.

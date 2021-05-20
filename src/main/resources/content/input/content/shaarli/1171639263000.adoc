@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UML Tool for Fast UML Diagrams
+:jbake-tags: UML,développement,documentation,eclipse,editor,freeware,java,open-source,plugin,programming,software,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171639263000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.umlet.com%2F&searchtags=UML+d%C3%A9veloppement+documentation+eclipse+editor+freeware+java+open-source+plugin+programming+software+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.umlet.com/[UML Tool for Fast UML Diagrams]
+
+Un éditeur uml léger utilisable comme plugin Eclipse. Finallement, je me demande s'il ne vaudrait pas mieux tout traiter à grands coups de fichiers décrivant le contenu de diagrammes UML, et laissant par exemple graphviz les mettre en page.

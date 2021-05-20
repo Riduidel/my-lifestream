@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Algorithms replace your biases with someone else’s - Sociological Images
+:jbake-tags: algorithme,ia,communication,droit,justice,_mois_juil.,_année_2017
+:jbake-date: 2017-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1499670852000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthesocietypages.org%2Fsocimages%2F2017%2F07%2F05%2Falgorithms-replace-your-biases-with-someone-elses-biases%2F&searchtags=algorithme+ia+communication+droit+justice+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://thesocietypages.org/socimages/2017/07/05/algorithms-replace-your-biases-with-someone-elses-biases/[Algorithms replace your biases with someone else’s - Sociological Images]
+
+Sacrément intéressant. Ca rejoint toutes les discussion sur l'explicabilité des décisions algorithmiques

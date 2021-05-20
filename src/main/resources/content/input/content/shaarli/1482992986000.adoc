@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Carmack on Twitter: "If installation is taking longer than downloading, someone has made poor architectural choices. This is distressingly common."
+:jbake-tags: citation,programming,installation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1482992986000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FID_AA_Carmack%2Fstatus%2F813873357607211009&searchtags=citation+programming+installation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/ID_AA_Carmack/status/813873357607211009[John Carmack on Twitter: "If installation is taking longer than downloading, someone has made poor architectural choices. This is distressingly common."]
+
+Oh comme il a raison

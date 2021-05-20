@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Multihash
+:jbake-tags: sécurité,web,hash,library,java,go,python,open-source,_mois_mars,_année_2017
+:jbake-date: 2017-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1488473859000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmultiformats.io%2Fmultihash%2F%23self-describing-hashes&searchtags=s%C3%A9curit%C3%A9+web+hash+library+java+go+python+open-source+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://multiformats.io/multihash/#self-describing-hashes[Multihash]
+
+Ca m'a l'air conceptuellement très chouette, surtout maintenant qu'on sait que les hashes ont une durée de vie ... courte

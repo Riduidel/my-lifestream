@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shopizer | open source e-commerce in Java
+:jbake-tags: java,e-commerce,boutique,open-source,application,_mois_sept.,_année_2020
+:jbake-date: 2020-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1599137249000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.shopizer.com%2Fhome&searchtags=java+e-commerce+boutique+open-source+application+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.shopizer.com/home[Shopizer | open source e-commerce in Java]
+
+Une solution de e-commerce en Java/Spring/and co. Ca m'aidera la prochaine fois que je dois dire à un client de prendre un produit sur étagère.

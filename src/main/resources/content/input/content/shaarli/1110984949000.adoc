@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: vercruesse | de
+:jbake-tags: software,freeware,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110984949000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.vercruesse.de%2Fsoftware&searchtags=software+freeware+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.vercruesse.de/software[vercruesse | de]
+
+Brings back the application switcher menu (and more) to Mac OS X. It's highly customizable and offers some nice extra features, such as Classic Window Mode (orders all windows of an application to front when it becomes active) or Single Application Mode (

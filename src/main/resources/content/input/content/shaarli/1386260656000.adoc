@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lifestream project
+:jbake-tags: lifestream,github,java,maven,_mois_déc.,_année_2013
+:jbake-date: 2013-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1386260656000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FRiduidel%2Flifestream&searchtags=lifestream+github+java+maven+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://github.com/Riduidel/lifestream[Lifestream project]
+
+Et paf, le dépôt Github de mon projet de lifestreamer automatique. Services gérés ? \* Goodreads \* Wordpress \* Shaarli (les trucs que j'utilise, quoi) Bon, évidement, c'est juste un build maven (parce que j'aime ça). Mais ça commence à marcher à peu près ...

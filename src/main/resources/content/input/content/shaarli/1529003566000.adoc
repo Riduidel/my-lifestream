@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rivet: Dependency Injection in Rust - diamondm-mvilim.pdf
+:jbake-tags: rust,programming,ioc,recherche,_mois_juin,_année_2018
+:jbake-date: 2018-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1529003566000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcs242.stanford.edu%2Fassets%2Fprojects%2F2017%2Fdiamondm-mvilim.pdf&searchtags=rust+programming+ioc+recherche+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://cs242.stanford.edu/assets/projects/2017/diamondm-mvilim.pdf[Rivet: Dependency Injection in Rust - diamondm-mvilim.pdf]
+
+Donc Rust est un langage qui est à la fois utilisé en production et pour produire de la recherche universitaire. Et même si le sujet est franchement appliqué, je trouve ça très cool.

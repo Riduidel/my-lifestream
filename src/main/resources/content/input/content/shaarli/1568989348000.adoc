@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Whole Code Catalog
+:jbake-tags: programming,visualisation,catalog,_mois_sept.,_année_2019
+:jbake-date: 2019-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1568989348000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffutureofcoding.org%2Fcatalog%2F&searchtags=programming+visualisation+catalog+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://futureofcoding.org/catalog/[The Whole Code Catalog]
+
+Ce site, issue des travaux à l'origine de Dark, est vraiment incroyablement chouette.

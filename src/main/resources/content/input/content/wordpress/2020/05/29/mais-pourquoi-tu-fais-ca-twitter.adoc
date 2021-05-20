@@ -1,0 +1,68 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais pourquoi tu fais ça Twitter ?
+:jbake-tags: bug,twitter,ui,web,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/29/mais-pourquoi-tu-fais-ca-twitter.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/29/mais-pourquoi-tu-fais-ca-twitter/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Je ne vais pas parler ici de l'horreur qui se développe outre-atlantique, je agrde ça pour un peu plus tard.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Non, je vais vous parler d'un problème très personnel. Vous savez que Twitter a récemment changé d'interface pour un truc plus fischer-price (des gros boutons, des couleurs voyantes). Comme ça quoi</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.luckyfind.fr/sites/luckyfind/files/classifieds/012713-577bb9af2b918-577bb8c3749f7-jeufisherprice_1.jpg" alt="" /><figcaption>C'est beau, c'est simple</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Ah pardon, on me signale que je me suis trompé, c'est plus comme ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5839,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/05/2020-05-29-17_57_00-accueil-_-twitter.png?w=1024" alt="" class="wp-image-5839" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Bon, pas toujours, parce que quand je lis un tweet depuis tweetledee + rrss2imap, le tweet est comme ça dans Thunderbird</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5841,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/05/2020-05-29-17_59_25-work-nicolas.delsaux40gmx.fr-mozilla-thunderbird.png?w=704" alt="" class="wp-image-5841" /><figcaption>Avouez que c'est d'une sobreté de bon aloi</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Mais quand je clique sur le lien indiqué dans l'URL, ça donne ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5842,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/05/2020-05-29-17_59_57-arnaud-hc3a9ritier-athome-sur-twitter-_-_rt-40geepawhill_-i-want-to-talk-about-this.png?w=745" alt="" class="wp-image-5842" /><figcaption>Il manque un ou deux trucs, non ?</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Bon, tout est dit, non ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et si je regarde dans ce super site (<a href="https://wheregoes.com/">wheregoes</a>) que j'ai découvert il y a peu, ça donne ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5843,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/05/2020-05-29-18_03_04-redirect-tracer.png?w=933" alt="" class="wp-image-5843" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Et ce qui est fou, c'est que si j'ouvre directement la dernière page, le tweet est complet ! Alors c'est quoi l'intérêt de cette manoeuvre ? A qui profite le truc ? Je ne comprend pas. Si quelqu'un a le moindre début d'explication, je vous laisse parler.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par contre, je sais déja que je vais aller regarder dans le code de Tweetledee comment faire pour qu'il m'ouvre directement l'url finale, parce que franchement, atterir sur des tweets tronqués, ça ne m'intéresse pas trop.</p>
+<!-- /wp:paragraph -->
+++++

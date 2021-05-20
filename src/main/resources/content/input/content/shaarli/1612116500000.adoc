@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jOOQ/jOOX: jOOX - The Power of jQuery Applied to W3C DOM Like JDBC, DOM is a powerful, yet very verbose low-level API to manipulate XML. The HTML DOM an be manipulated with the popular jQuery product, in JavaScript. Why don't we have jQuery in Java? jOOX is jQuery's XML parts, applied to Java.
+:jbake-tags: java,xml,parser,jquery,api,open-source,_mois_janv.,_année_2021
+:jbake-date: 2021-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1612116500000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FjOOQ%2FjOOX&searchtags=java+xml+parser+jquery+api+open-source+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/jOOQ/jOOX[jOOQ/jOOX: jOOX - The Power of jQuery Applied to W3C DOM Like JDBC, DOM is a powerful, yet very verbose low-level API to manipulate XML. The HTML DOM an be manipulated with the popular jQuery product, in JavaScript. Why don't we have jQuery in Java? jOOX is jQuery's XML parts, applied to Java.]
+
+Vraiment, Lukas Eder est un développeur talentueux : la plupart de ses idées sont franchement excellentes. Et cette décoration des API XML par du pseudo--Jquery beaucoup de sens.

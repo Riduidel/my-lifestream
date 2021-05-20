@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Custom Properties as State | CSS-Tricks
+:jbake-tags: css,web,programming,_mois_janv.,_année_2021
+:jbake-date: 2021-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1612018137000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcss-tricks.com%2Fcustom-properties-as-state%2F&searchtags=css+web+programming+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://css-tricks.com/custom-properties-as-state/[Custom Properties as State | CSS-Tricks]
+
+C'est vraiment très séduisant, ce concept de variables CSS ... Ca donne vraiment envie d'en abuser 😀

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Regards Th‽oriques sur le
+:jbake-tags: web,concepts,folksonomie,science,_mois_avr.,_année_2005
+:jbake-date: 2005-04-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1112881203000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fusers.info.unicaen.fr%2F%7Egiguet%2Ftaln98%2F&searchtags=web+concepts+folksonomie+science+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://users.info.unicaen.fr/~giguet/taln98/[Regards Th‽oriques sur le]
+
+Dans cet article, nous proposons de prendre du recul par rapport Ã l'aspect opÃ©ratoire du tagging, et nous tentons de montrer que le tagging ouvre la voie au renouveau de l'analyse syntaxique en la fondant sur l'explicitation des processus : process

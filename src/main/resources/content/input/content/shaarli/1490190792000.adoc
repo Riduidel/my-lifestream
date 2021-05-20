@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: svg-icon
+:jbake-tags: web,icon,freeware,_mois_mars,_année_2017
+:jbake-date: 2017-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1490190792000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fleungwensen.github.io%2Fsvg-icon%2F&searchtags=web+icon+freeware+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://leungwensen.github.io/svg-icon/[svg-icon]
+
+Un bon gros paquet d'icônes SVG facilement réutilisables.

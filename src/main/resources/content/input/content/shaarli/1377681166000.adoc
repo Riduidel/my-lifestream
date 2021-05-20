@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OHMYGOSH go read this link I posted
+:jbake-tags: humour,internet,_mois_août,_année_2013
+:jbake-date: 2013-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1377681166000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftheoatmeal.com%2Fcomics%2Fohmygosh_link&searchtags=humour+internet+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://theoatmeal.com/comics/ohmygosh_link[OHMYGOSH go read this link I posted]
+
+Internet aujourd'hui : plus de chatons, de bébés et de photos de bouffe que de trucs intelligents. Hélas ?

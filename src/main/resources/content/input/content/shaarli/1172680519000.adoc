@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gestion de projet
+:jbake-tags: management,productivité,_mois_févr.,_année_2007
+:jbake-date: 2007-02-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1172680519000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gestiondeprojet.net%2Farticles%2Findex.htm&searchtags=management+productivit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.gestiondeprojet.net/articles/index.htm[Gestion de projet]
+
+Un article très complet sur ce qui peut faire en sorte qu'un projet soit bien géré.

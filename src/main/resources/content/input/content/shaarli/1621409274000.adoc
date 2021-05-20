@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sara Dufour sur Twitter : "#NoEstimates, un mouvement hétérogène et controversé lancé en 2012 sur Twitter 🔮 Le sujet vu par @ddreptate dans un meetup organisé par @ByondSM 🧶 https://t.co/qw0xaB6DTw" / Twitter
+:jbake-tags: estimation,développement,méthode,agile,_mois_mai,_année_2021
+:jbake-date: 2021-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1621409274000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FComSaraDufour%2Fstatus%2F1392157190350385152&searchtags=estimation+d%C3%A9veloppement+m%C3%A9thode+agile+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/ComSaraDufour/status/1392157190350385152[Sara Dufour sur Twitter : "#NoEstimates, un mouvement hétérogène et controversé lancé en 2012 sur Twitter 🔮 Le sujet vu par @ddreptate dans un meetup organisé par @ByondSM 🧶 https://t.co/qw0xaB6DTw" / Twitter]
+
+Une discussion sacrément intéressante sur les estimations et leurs mauvais côtés

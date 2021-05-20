@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Heartbleed Explanation
+:jbake-tags: web,programming,hacker,infographie,_mois_avr.,_année_2014
+:jbake-date: 2014-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1397202132000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1354%2F&searchtags=web+programming+hacker+infographie+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://xkcd.com/1354/[Heartbleed Explanation]
+
+Explqiuer HeartBleed en quatre images ? C'est possible. Et parfaitement réussi, d'ailleurs.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CPU ⬜ Carré Petit Utile sur Twitter : "On s'en doutait mais maintenant, nous avons la confirmation par une étude scientifique : Apprendre à programmer est plus lié à une aptitude à apprendre une langue qu'à maitriser les bases mathématiques… https://t.co/XYqaNptUPK"
+:jbake-tags: science,informatique,neurologie,cerveau,compréhension,_mois_mars,_année_2020
+:jbake-date: 2020-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1583242218000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCPUprogramme%2Fstatus%2F1234753327650557953&searchtags=science+informatique+neurologie+cerveau+compr%C3%A9hension+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/CPUprogramme/status/1234753327650557953[CPU ⬜ Carré Petit Utile sur Twitter : "On s'en doutait mais maintenant, nous avons la confirmation par une étude scientifique : Apprendre à programmer est plus lié à une aptitude à apprendre une langue qu'à maitriser les bases mathématiques… https://t.co/XYqaNptUPK"]
+
+Ca me rassure beaucoup sur ma capacité à apprendre dans le futur des langues "humaines" 😋

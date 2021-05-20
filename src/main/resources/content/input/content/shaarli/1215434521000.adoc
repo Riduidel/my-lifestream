@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nexuiz - A free open-source fast paced first person shooter (FPS) for Windows, Linux and OSX
+:jbake-tags: fps,freeware,jeu,linux,multiplayer,online,open-source,software,windows,_mois_juil.,_année_2008
+:jbake-date: 2008-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1215434521000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Falientrap.org%2Fnexuiz%2F&searchtags=fps+freeware+jeu+linux+multiplayer+online+open-source+software+windows+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://alientrap.org/nexuiz/[Nexuiz - A free open-source fast paced first person shooter (FPS) for Windows, Linux and OSX]
+
+

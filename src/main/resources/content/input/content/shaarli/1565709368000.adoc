@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Logipole - Tools for Windows -
+:jbake-tags: windows,software,freeware,metadata,editor,iptc,exif,mp3,xmp,_mois_août,_année_2019
+:jbake-date: 2019-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1565709368000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.logipole.com%2Fmetadata%2B%2B-en.htm&searchtags=windows+software+freeware+metadata+editor+iptc+exif+mp3+xmp+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.logipole.com/metadata++-en.htm[Logipole - Tools for Windows -]
+
+Enfin, le graal : un éditeur de métadonnées qui couvre les photos ET la musique

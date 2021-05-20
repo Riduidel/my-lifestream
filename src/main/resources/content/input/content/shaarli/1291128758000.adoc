@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: M.A.R.S. – Download
+:jbake-tags: software,freeware,jeu,open-source,linux,windows,_mois_nov.,_année_2010
+:jbake-date: 2010-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1291128758000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmars-game.sourceforge.net%2F%3Fpage_id%3D8&searchtags=software+freeware+jeu+open-source+linux+windows+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://mars-game.sourceforge.net/?page_id=8[M.A.R.S. – Download]
+
+Un shoot'em'up bien jol, enfin, le site est bien joli

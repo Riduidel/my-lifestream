@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Artefacts
+:jbake-tags:  big-dumb-object, combat, enquête, extra-terrestres, guerre, hard-science, rayon-imaginaire, space-opera,_année_2005,_mois_mars,_note_5,read,écologie
+:jbake-date: 2005-03-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266128179.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1319169
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Lors de leur première expédition sur la planète Monde, les Terriens avaient découvert deux artefacts, sans doute créés par les mystérieux concepteurs des trous-de-vers. L'un, en orbite, a explosé lorsqu'on a voulu l'introduire dans le tunnel spatial, provoquant la destruction du vaisseau terrien. L'autre est enterré dans la roche des Monts Neury, lieu sacré et tabou pour les habitants de la planète. Comme il génère un champ de probabilité, il pourrait constituer une arme inestimable dans le conflit qui oppose la civilisation humaine aux Faucheurs, qui détruisent systématiquement les colonies galactiques et refusent toute forme de communication. Pénétrant de nouveau dans les montagnes mondiennes, militaires et scientifiques vont extraire l'artefact inconnu de la gangue rocheuse où il est enterré depuis cinquante mille ans, et tenter de le tester malgré le danger qu'il représente pour Monde. C'est cela ou perdre la guerre contre les Faucheurs... Dans le même temps, l'un d'eux a été capturé. Une femme douée d'un talent d'empathie très développé, une Sensitive, va tenter de communiquer avec lui. Arrivera-t-elle à faire dire au Faucheur en quoi consiste leur arme invincible ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/21158.html[Nancy Kress]
+
+## Series
+* link:../series/Probability_Trilogy.html[Probability Trilogy]
+
+## Review
+
+++++
+Après les explorations ethnologiques de link:9782266117715.html[Réalité Partagée], qu’on pourrait comparer d’une certaine manière à celles de <a class="DirectBookReference destination_Book" href="9782070426843.html">Parade nuptiale</a>, ce tome se recentre vers le coeur de la hard-science : physique théorique, étude des super-cordes et des dimensions enroulées de l’espace à onze dimensions, et tutti quanti. Bien sûr, il y a autour de ça toutes les distractions habituelles dans ce genre de roman : des extra-terrestres, des discussions, un peu d’aventure, et des conséquences incaluclables. Mais, à mon avis, ça n’est pas là le point focal de ce roman. Le point clé, à mon avis, tient dans le cheminement des découvertes, qu’il s’agisse de l’explication des phénomènes de complexification des ondes de probabilité(1), ou des débuts de la communication entre humains et faucheurs. <br/>Dans les deux cas, on suit pas à pas les avancées, les frustrations, et, surtout, l’espèce de mur d’incompréhension entre le chercheur et son environnement. C’est à mon avis tout à fait fascinant. Ca met également en valeur d’une manière similaire deux personnages totallement opposés : le physicien, égocentrique, totallement hermétique à son environnement(2), et la Sensitive, capable de lire les émotions de ses interlocuteurs comme un livre ouvert. Cette dernière est sans aucun doute la meilleure idée de ce roman. Pas seulement en termes d’intrigue, même si elle apporte une intrigue secondaire assez intéressante, apportant une nouvelle déclinaison au thème de l’altérité, qui doit sans doute être un fil directeur de cette série. Cette Sensitive est surtout un merveilleux moyen permettant l’auteur de nous faire passer énormément d’informations sur les différents personnages du roman sans nous donner une position omnisciente(3). Et, dans le contexte d’un roman de science-fiction, où la création d’un background digne de ce nom impose toujours une part, généralement laborieuse, de descriptions plus ou moins bien faites sur les technologies plausibles, c’est très utile de disposer d’un point d’accès aux personnages n’entravant pas la fluidité du récit. <br/>Bien sûr, on retrouve aussi dans ce tome quelques défauts déja vus dans le premier : des personnages souvent transparents pour les seconds rôles (ça peut aussi être un avantage, évitant ce qu’on pourrait appeler l’effet Aube de la nuit), une position humaine assez difficilement tenable(4) qui est sans doute une critique, mais assez pauvre (quoique d’après l’épilogue, le troisième tome risque fort de développer fortement cet aspect). Il n’y a toutefois pas là assez de points négatifs pour ôter à ce roman son caractère essentiel pour la SF. Sans être un chef-d’oeuvre absolu, il forme à mon avis un membre évident de toute bonne bibliothèque. <br/><br/>(1) Trois pages jouissives (pour les "scientifiques" du dimanche comme moi) de physique quantique incompréhensible expliquée "avec les mains", comme disait un de mes profs.<br/>(2) Il m’a un peu fait penser à moi, même si je ne suis pas tout à fait un génie de la physique quantique.<br/>(3) celle-ci ayant un très net inconvénient : elle tue l’intrigue dans l’oeuf.<br/>(4) qui m’a fortement rappelé l’ère joyeuse du colonialisme.
+++++

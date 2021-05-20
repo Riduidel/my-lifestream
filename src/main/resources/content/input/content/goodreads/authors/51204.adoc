@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alastair Reynolds
+:jbake-tags: author
+:jbake-date: 2004-12-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/51204.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1521740247p5/51204.jpg
+:jbake-source: https://www.goodreads.com/author/show/51204
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266136600.html[L'Espace de la révélation]
+* link:../books/9782266145374.html[Diamond Dogs, Turquoise Days]
+* link:../books/9782266147583.html[La Cité du Gouffre]
+* link:../books/9782266162807.html[L'Arche de la rédemption]
+* link:../books/9782266169011.html[Le Gouffre de l'absolution]
+* link:../books/9782266191432.html[La Pluie du siècle]
+* link:../books/9782266223935.html[Janus]
+* link:../books/9782811217754.html[La Terre bleue de nos souvenirs]
+* link:../books/9782811239992.html[Sous le vent d'acier]
+* link:../books/9791028105716.html[Dans le sillage de Poséidon]

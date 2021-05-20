@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Allen Holub sur Twitter : "We all know we should avoid global variables. Why then, do we plonk a giant global variable right down in the middle of our programs? Calling it a database and talking to it through a server doesn't change anything. Coupling through a db is just as bad as through a global."
+:jbake-tags: programming,concepts,database,mémoire,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583178719000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fallenholub%2Fstatus%2F1233819008631095297&searchtags=programming+concepts+database+m%C3%A9moire+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/allenholub/status/1233819008631095297[Allen Holub sur Twitter : "We all know we should avoid global variables. Why then, do we plonk a giant global variable right down in the middle of our programs? Calling it a database and talking to it through a server doesn't change anything. Coupling through a db is just as bad as through a global."]
+
+C'est assez compliqué : la programmation immutable n'existe que parce quelque part il existe un système stockant l'état, qu'il s'agisse d'une base de données ou d'un fichier. Prétendre que c'est un problème, c'est prétendre que la permanence n'a pas d'intérêt.

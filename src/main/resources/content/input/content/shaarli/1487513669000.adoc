@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CDN comparison | The best CDN review
+:jbake-tags: web,bandwidth,cdn,_mois_févr.,_année_2017
+:jbake-date: 2017-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1487513669000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcdncomparison.com%2F&searchtags=web+bandwidth+cdn+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://cdncomparison.com/[CDN comparison | The best CDN review]
+
+Chouette comparatif de CDN, même si il s'agit essentiellement de CDN payants ...

@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Berserk, tome 08
+:jbake-tags:  combat, fantasy, guerre, rayon-emprunt,_année_2012,_mois_oct.,_note_3,rayon-bd,read
+:jbake-date: 2012-10-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782723450980.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349291052l/16065328._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349291052l/16065328._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/16065328
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Guts, le guerrier noir, promène son imposante silhouette de routes en villages. Sur son passage, les cadavres s'amoncellent et il laisse derrière lui des torrents de sang. Le corps vêtu de noir, il porte sur son dos une épée aussi haute qu'un homme. Sur son cou, une marque mystérieuse le condamne à être poursuivi jour et nuit par des démons. Puck, l'elfe facétieux, croise un jour le chemin de cette machine à tuer. Quelles horreurs a-t-il pu connaître pour être animé d'une telle soif de vengeance ? Alors que le monde sombre inextricablement dans le chaos, Guts règle ses comptes avec les forces démoniaques qui resserrent leur emprise sur la destinée des hommes. Une époque s'achève Au fil des années, « Berserk » est devenu au Japon un classique de l'heroic fantasy, une référence pour les amoureux de Tolkien et de jeux de rôles. En France, la série a déjà ses fans, qui voient leur attente récompensée : la série est publiée en sens de lecture et format original, et les 7 premiers volumes sont prévus pour paraître mensuellement. L'un des mangas les plus attendus de l'année !
+</div>
+++++
+
+
+## Authors
+* link:../authors/145435.html[Kentaro Miura]
+
+## Series
+* link:../series/___Berserk.html[ベルセルク / Berserk]
+
+## Review
+
+++++
+La fin de la collaboration entre Guts et Griffith ? Je ne crois pas.<br/>La fin des amours compliquées entre le même Guts et Casca ? Pas no plus.<br/>La fin d'un tas de gens désagréables (ou pas) ? Alors ça c'est sûr ! Et c'est sacrément impressionant quand Guts se bat.<br/>En revanche, les scènes de chateau sont ... moins bien, je trouve.
+++++

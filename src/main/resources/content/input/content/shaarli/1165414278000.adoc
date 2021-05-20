@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Exploitong Amazon web service via PHP and SQLite
+:jbake-tags: livre,php,programming,web,xml,_mois_déc.,_année_2006
+:jbake-date: 2006-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1165414278000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fprogramming.newsforge.com%2Fprogramming%2F06%2F03%2F03%2F175207.shtml%3Ftid%3D55&searchtags=livre+php+programming+web+xml+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://programming.newsforge.com/programming/06/03/03/175207.shtml?tid=55[Exploitong Amazon web service via PHP and SQLite]
+
+Un article décrivant l'utilisation du web service de e-commerce d'Amazon pour récupérer des informations de vente et, peut-être, des informations bibliographiques pour mon projet de toujours : prendre n'importe quel bouquin chez moi disposant d'un ISB

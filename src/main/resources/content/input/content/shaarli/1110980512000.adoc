@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [unsanity] ShapeShifter - Unsanity - Makers of Haxies, small useful utilities that enhance and redefine how Mac OS X works.
+:jbake-tags: software,macosx,customize,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110980512000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.unsanity.com%2Fhaxies%2Fshapeshifter%2F&searchtags=software+macosx+customize+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.unsanity.com/haxies/shapeshifter/[[unsanity] ShapeShifter - Unsanity - Makers of Haxies, small useful utilities that enhance and redefine how Mac OS X works.]
+
+ShapeShifter is a revolutionary new product that lets you change the overall appearance of your Mac using 'themes'. We're not talking about just desktop backgrounds and icons here, we're talking about everything - the look of windows, menus, apps, buttons

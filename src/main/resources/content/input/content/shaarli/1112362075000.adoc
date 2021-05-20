@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction to Computer Science using Java
+:jbake-tags: programming,langage,java,documentation,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112362075000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchortle.ccsu.ctstateu.edu%2FCS151%2Fcs151java.html&searchtags=programming+langage+java+documentation+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://chortle.ccsu.ctstateu.edu/CS151/cs151java.html[Introduction to Computer Science using Java]
+
+This is a first course in Computer Science using the programming language Java. It covers the fundamentals of programming and of computer science.

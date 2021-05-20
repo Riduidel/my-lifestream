@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adium X : Home
+:jbake-tags: software,freeware,open-source,macosx,im,réseau,_mois_mars,_année_2005
+:jbake-date: 2005-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1110357266000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.adiumx.com%2F&searchtags=software+freeware+open-source+macosx+im+r%C3%A9seau+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.adiumx.com/[Adium X : Home]
+
+Multi-format Instant Messenging for Mac OS X -- similar to Trillian.

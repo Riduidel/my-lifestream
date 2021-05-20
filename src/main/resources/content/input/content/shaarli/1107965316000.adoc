@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Starport: Galactic Empires MMORPG
+:jbake-tags: software,freeware,windows,jeu,online,_mois_févr.,_année_2005
+:jbake-date: 2005-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1107965316000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.starportgame.com%2F&searchtags=software+freeware+windows+jeu+online+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.starportgame.com/[Starport: Galactic Empires MMORPG]
+
+Potentially interesting online space trading game

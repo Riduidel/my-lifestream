@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scorched 3D - A 3D Remake Of Scorched Earth
+:jbake-tags: freeware,jeu,shoot'em'up,software,windows,_mois_nov.,_année_2004
+:jbake-date: 2004-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1100014279000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fscorched3d.sourceforge.net%2F&searchtags=freeware+jeu+shoot%27em%27up+software+windows+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://scorched3d.sourceforge.net/[Scorched 3D - A 3D Remake Of Scorched Earth]
+
+Scorched 3D is a game based loosely (or actually quite heavily now) on the classic DOS game Scorched Earth "The Mother Of All Games". Scorched 3D adds amongst other new features a 3D island environment and LAN and internet play. Scorched 3D is totally fre

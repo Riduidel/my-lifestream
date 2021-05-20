@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How To Kill An OSGi Project - With 10 Questions | Javalobby
+:jbake-tags: faq,documentation,java,osgi,_mois_oct.,_année_2010
+:jbake-date: 2010-10-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1285941881000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.dzone.com%2Farticles%2Fhow-kill-osgi-project-10%3Fpage%3D1&searchtags=faq+documentation+java+osgi+_mois_oct.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://java.dzone.com/articles/how-kill-osgi-project-10?page=1[How To Kill An OSGi Project - With 10 Questions | Javalobby]
+
+Une liste de questions à se poser pour le développement avec OSGi.

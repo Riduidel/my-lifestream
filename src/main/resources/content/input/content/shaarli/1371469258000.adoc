@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Final Term
+:jbake-tags: macosx,terminal,application,freeware,open-source,_mois_juin,_année_2013
+:jbake-date: 2013-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1371469258000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffinalterm.org%2F&searchtags=macosx+terminal+application+freeware+open-source+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://finalterm.org/[Final Term]
+
+Qu'es-ce que 'jaimerais voir un terminal comme ça pour Windows ! Oh je sais bien qu'il y a le problème de l'incompatibilité entre le shell linux et la ligne de commande Windows. N'empêche : entre les barres de programmation, les menus contextuels, les images bien affichées, ben c'est la classe

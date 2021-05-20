@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bienvenue à Night Vale
+:jbake-tags:  enquête, famille, rayon-imaginaire, voyage,_année_2017,_mois_juin,_note_2,fantastique,read
+:jbake-date: 2017-06-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253083054.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489429917l/34564412._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1489429917l/34564412._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/34564412
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Night Vale : une sympathique communauté au cœur d’un désert au sud-ouest des États-Unis. Un endroit à part, peuplé de spectres, d'anges et d'extraterrestres, où prennent vie théories conspirationnistes et légendes urbaines... Une ville où il ne fait pas bon croiser les créatures encapuchonnées qui ont investi le nouveau parc à chiens interdit au public, où la police secrète a pignon sur rue, où l'acquisition d'un poisson rouge vous fera vous poser des questions sur son régime de souris, où certains jours de la semaine sont annulés à cause de contraintes de calendrier, où de mystérieuses lumières survolent la population pendant qu’elle fait semblant de dormir. Bienvenue à Night Vale.<br />Découvrez le livre inspiré du podcast au succès international, Welcome to Night Vale.<br /> <br />Un roman totalement loufoque à lire de toute urgence. Jean-Luc Riviera, Actusf.com
+</div>
+++++
+
+
+## Authors
+* link:../authors/4532873.html[Jeffrey Cranor]
+* link:../authors/2559520.html[Joseph Fink]
+
+## Series
+* link:../series/Welcome_to_Night_Vale.html[Welcome to Night Vale]
+
+## Review
+
+++++
+Vous connaissez Night Vale. <br/>Ca n'est pas une question. <br/>Vous connaissez Night Vale. Ou sans doute sa version française <a href="http://valnuit.blogspot.com/">"Bienvenue à Valnuit"</a>.<br/>Eh bien ce roman est une tentative de tirer de cette émission radio étrange, un peu effrayante et complètement surréaliste un récit de plus grande ampleur.<br/>On y croise donc une mère de famille, une tenancière de mont de piété, et quelques personnages emblématiques du podcast (Carlos, Cecil, les anges).<br/>Certains points du podcast sont bien retranscrits à l'écrit : l'ambiance un peu folle, la manière dont le récit dérape parfois sur des considérations philosophiques sur le temps, ou l'espace, ou la réalité physique de la propriété. Malheureusement, le récit traîne un peu en longueur, et je ne suis pas sûr que la partie se passant à King City soit réellement pertinente.<br/>Par ailleurs, certains choix de traduction sont incompatibles avec ceux fait dans le podcast, et vu la primauté de l'oral sur l'écrit, j'ai eu beaucoup de mal à voir disparaître St-Falaise, par exemple.<br/>Cela dit, même si la lecture a été difficile (de par sa nature intrinsèque), ça reste un bon bouquin.
+++++

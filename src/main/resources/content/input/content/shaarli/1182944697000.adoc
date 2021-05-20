@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VLC & la diffusion de webcam
+:jbake-tags: tutorial,documentation,windows,webcam,stream,_mois_juin,_année_2007
+:jbake-date: 2007-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1182944697000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lapagedujour.com%2Ffiches%2FVLC-diffusion-webcam.html&searchtags=tutorial+documentation+windows+webcam+stream+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.lapagedujour.com/fiches/VLC-diffusion-webcam.html[VLC & la diffusion de webcam]
+
+tutorial expliquant utiliser VLC pour streamer la vidéo d'une webcam (pour la récupérer depuis un autre poste, par exemple)

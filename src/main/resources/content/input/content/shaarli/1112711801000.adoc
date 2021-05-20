@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to make CSS Drop Caps
+:jbake-tags: programming,web,css,tutorial,exemple,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112711801000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.citrusmoon.net%2Fdropcaps.html&searchtags=programming+web+css+tutorial+exemple+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.citrusmoon.net/dropcaps.html[How to make CSS Drop Caps]
+
+A page detailing the intricacies of creating drop caps using CSS.

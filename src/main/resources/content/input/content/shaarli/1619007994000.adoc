@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kat Maddox sur Twitter : "https://t.co/ihoTC5OlXU" / Twitter
+:jbake-tags: python,programming,humour,_mois_avr.,_année_2021
+:jbake-date: 2021-04-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1619007994000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fctrlshifti%2Fstatus%2F1384749873862348800&searchtags=python+programming+humour+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/ctrlshifti/status/1384749873862348800[Kat Maddox sur Twitter : "https://t.co/ihoTC5OlXU" / Twitter]
+
+Ca arrive à beaucoup de débutants en Python 😎

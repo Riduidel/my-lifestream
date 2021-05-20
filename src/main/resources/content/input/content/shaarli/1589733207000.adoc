@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NuShell: the shell where traditional Unix meets modern development, written in Rust
+:jbake-tags: rust,programming,shell,interview,_mois_mai,_année_2020
+:jbake-date: 2020-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1589733207000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnotamonadtutorial.com%2Fnushell-the-shell-where-traditional-unix-meets-modern-development-written-in-rust-caf92c2c7c98&searchtags=rust+programming+shell+interview+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://notamonadtutorial.com/nushell-the-shell-where-traditional-unix-meets-modern-development-written-in-rust-caf92c2c7c98[NuShell: the shell where traditional Unix meets modern development, written in Rust]
+
+Une interview franchement intéressante des créateurs du shell nu (écrit en Rust)

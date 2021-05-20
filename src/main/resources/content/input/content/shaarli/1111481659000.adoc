@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robocode Central
+:jbake-tags: software,freeware,jeu,java,programming,open-source,_mois_mars,_année_2005
+:jbake-date: 2005-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1111481659000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frobocode.sourceforge.net%2F%3FOpen&searchtags=software+freeware+jeu+java+programming+open-source+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://robocode.sourceforge.net/?Open[Robocode Central]
+
+A programmer's game using little tanks

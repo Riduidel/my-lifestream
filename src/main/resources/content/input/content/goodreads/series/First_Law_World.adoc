@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: First Law World
+:jbake-tags: serie
+:jbake-date: 2016-02-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/First_Law_World.adoc
+:jbake-source: https://www.goodreads.com/series/150214
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290029596.html[Premier Sang (La Première Loi #1)]
+* link:../books/9782756402963.html[Déraison et Sentiments (La Première Loi #2)]
+* link:../books/9782290032954.html[Dernière Querelle (La Première Loi #3)]
+* link:../books/9782811218249.html[Servir Froid]
+* link:../books/9782811219031.html[Les Héros]
+* link:../books/9782811222154.html[Pays rouge]

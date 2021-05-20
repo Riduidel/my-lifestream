@@ -1,0 +1,172 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reprise des travaux sur le lifestream
+:jbake-tags: debugger,lifestream,optimisation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-28
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/28/reprise-des-travaux-sur-le-lifestream.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/28/reprise-des-travaux-sur-le-lifestream/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a des années, j'avais entamé <a href="https://github.com/Riduidel/lifestream">un projet</a> de <a href="https://riduidel.wordpress.com/tag/lifestream/">lifestream</a>, parce que ça me parlait.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avec cette période de chômage partiel, j'ai le temps de m'y replonger un peu. j'ai donc traversé les phases habituelles de reprise d'un projet</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/riduidel\/statuses\/1250696161431863296","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 250 696 161 431 863 296" class="date">16 avr. 2020 à 10:02:56</a>
+
+	<span class="content">
+	
+	<span class="text">Bon, j'ai bien l'impression que je vais devoir refaire mon code de #lifestream de zéro (ça compile plus, je ne comprend plus ce que j'ai voulu faire, c'est l'enfer)</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>J'ai affronté le déni, la colère, avant de me rendre compte que ce que j'avais codé en Java il y a cinq ans marchait plutôt bien. Mais que les templates FreeMarker que j'avais écrit ne marchaient absolument pas. Je les ai donc réécrit la semaine dernière pour avoir un résultat <a href="http://nicolas.delsaux.free.fr/lifestream/">plus sympa</a> (sur lequel j'ai néanmoins encore un peu de travail). Je vous parle de tout ça parce qu'il est arrivé un truc particulièrement chouette.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je suis passé de ce temps de rendu</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/riduidel\/status\/1253311071106011146","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 253 311 071 106 011 146" class="date">23 avr. 2020 à 15:13:39</a>
+
+	<span class="content">
+	
+	<span class="text">Bon ben en fait, ça "marche" ... mais lentement " Total time:  02:35 h" (oui, c'est un peu lent)</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>A celui-ci</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/riduidel\/status\/1254342976475725824","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 254 342 976 475 725 824" class="date">26 avr. 2020 à 11:34:04</a>
+
+	<span class="content">
+	
+	<span class="text">Bon, j'ai réussi à redescendre à 17 minutes (en supprimant juste une fonctionnalité que je pourrais émuler en JS)</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>En ne changeant que quelques lignes dans un template. Comment ? Vous allez voir qu'il y a un rapport avec cette vidéo de BDX.IO</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/youtu.be\/rcr2ngoNU7k?t=1442","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://youtu.be/rcr2ngoNU7k?t=1442
+</div><figcaption>Il y a un tas de choses qui me déplaisent dans cette conférence, mais cette partie (à partie de 24'02) est intéressante</figcaption></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Oui, parce que pendant le confinement, je continue à regarder des vidéos de conférence le dimanche matin pendant mon repassage ... pas vous ? Revenons à nos moutons. Donc j'avais conçu un chouette <a href="https://github.com/Riduidel/lifestream/commit/2c420f9444a74c41353a162f3248947d7969c732#diff-e21b4ea68f68df5410e256a26b57c5ba">template de rendu de tag</a>. Vous pouvez par exemple en voir le résultat sur <a href="http://nicolas.delsaux.free.fr/lifestream/tags/lifestream.html">cette page</a>. On voit bien deux parties. Dans la première, on a la liste des articles associés à un tag donné, et dans la deuxième, la liste des tags associés, récupérés depuis la liste des articles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca marchait très bien avec mes données de test (environ 60 articles). Mais quand je suis passé à mon blog complet (9700 articles et 3000 tags), d'un coup, ça ne marchait plus. Certaines pages de tags mettaient plus de 5 minutes à s'afficher. Pourquoi ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Un développeur débutant aurait plongé la tête la première dans un profiler histoire de voir ce qu'il se passait. Je dois dire (à ma trop grande satisfaction) que je n'en ai pas eu besoin. Sans doute parce que j'ai déjà joué bien des fois du profiler. Sans doute aussi parce que la pratique de <a href="http://nicolas.delsaux.free.fr/lifestream/tags/codingame.html">Codingame</a> a apporté en moi un souci de performance, et une compréhension de deux ou trois choses ... comme par exemple les ordres de grandeur (les O(n), O(n.log(n)) et autres O(n²)). Si vous ne connaissez pas, je vous encourage à vous lancer d'abord dans un problème Codingame de façon naïve, voir votre solution partir en timeout (parce qu'ils limitent le temps dont vous disposez pour faire votre calcul) et commencer à creuser pour gagner des millisecondes. C'est aussi frustrant qu'enrichissant. Donc, j'ai réfléchi à mon code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il s'avère que dans la première version, j'affichai d'abord la liste des tags liés, et ensuite seulement la liste des posts. Et rien que ça, ça veut dire parcourir deux fois la liste des posts pour y trouver les tags. Donc 2*O(n*m) ! Dans ce cas, un gain facile et de construire la liste des tags depuis la liste des posts (donc l'afficher après), ce qui nous fait tout de suite aller deux fois plus vite. J'ai donc implémenté ça, pour me rendre compte que c'était encore très lent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et là, j'ai dû ouvrir le débuggeur à un moment "très lent". Parce que je ne comprenais pas d'où venait cette lenteur. Ca m'a amené à la compréhension d'un autre truc. FreeMarker est très bien, avec une doc absolument canon, mais il y a quelque chose qu'ils n'expliquent pas : comment marchent les séquences. En effet, <a href="https://github.com/Riduidel/lifestream/commit/57d5a664b99c1a71273dbad21b32da586c4d87a7#diff-e21b4ea68f68df5410e256a26b57c5ba">dans mon code</a>, je construisais ma liste de tags comme ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"xml"} -->
+<pre class="wp-block-syntaxhighlighter-code">&#60;#assign all_linked_tags = all_linked_tags + [tag]&#62;</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Et ça, vous voyez, c'est déclaratif. Autrement dit je n'ai pas accès à l'implémentation (surtout que j'ai déclaré ma séquence comme ça <code>&#60;#assign all_linked_tags =  []&#62;</code> donc avec un type Java indéterminé). C'est extrêmement gênant, parce que je pense qu'une des grandes forces de Java, c'est de fournir une API de collection riche et efficace. Typiquement en Java (ou en Groovy), j'aurai déclaré cette colllection comme un <code>SortedSet</code>. Là, je ne sais pas ce que c'est, et je ne sais pas non plus ce que fait cette concaténation (sauf en lisant <a href="https://freemarker.apache.org/docs/dgui_template_exp.html#dgui_template_exp_sequenceop_cat">cette page de la doc</a> - très bien faite - chose que je viens seulement de faire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il s'avère que FreeMarker fait évidement les choses de la façon la plus simple (et donc la plus périlleuse) : une nouvelle séquence contenant un <code>left</code> et un <code>right</code> est déclarée, et roule ma poule.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Seulement quand je fais ça sur le tag <a href="http://nicolas.delsaux.free.fr/lifestream/tags/web.html">web</a>, par exemple, il y a un paquet d'objets qui sont créés. Et que se passe-t-il pour chaque tag de chaque post quand on appelle ce built-in : <code><a href="https://github.com/Riduidel/lifestream/commit/57d5a664b99c1a71273dbad21b32da586c4d87a7#diff-e21b4ea68f68df5410e256a26b57c5baR36">&#60;#if all_linked_tags?seq_contains(tag)&#62;</a></code> ? Oui, exactement le pire cas imaginable en terme de performance : on va visiter chacune des séquences de cette hiérarchie pour voir si la chaîne de caractère est présente. Bref, l'enfer des performances.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup j'ai dû réfléchir. Et pour ça, heureusement, en ces temps de confinement, j'ai encore le droit de sortir marcher. Donc j'ai marché. J'ai réfléchi. J'ai aussi pas mal joué à World of Tanks pour laisser mon cerveau de derrière carburer (je suis à peu près sûr qu'un neuro-scientifique pourrait y voir une forme de <a href="https://fr.wikipedia.org/wiki/Recuit_simul%C3%A9">recuit simulé</a> ou autre forme d’agrégation de tentatives de résolution). Et finalement, j'ai utilisé la méthode la plus simple : j'ai supprimé la boucle, que j'ai remplacé par du Javascript (mes collègues rient tous quand j'écris du Javascript, mais mon navigateur ne se plaint pas). Résultat ? Je suis revenu à des performances tolérables (ok, 20 minutes, c'est beaucoup, mais je "pense" que ça rentre encore dans les limites de GitHub Actions). Evidement, j'ai encore bien des choses à optimiser dans ce lifestream (regardez les <a href="https://github.com/Riduidel/lifestream/issues">issues</a>), mais il n'est pas exclu que j'en ai fini d'ici la fin de la semaine ...</p>
+<!-- /wp:paragraph -->
+++++

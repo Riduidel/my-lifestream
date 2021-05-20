@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Essays - Gwern.net
+:jbake-tags: web,design,élégance,css,_mois_mai,_année_2020
+:jbake-date: 2020-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1588776701000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.gwern.net%2Findex&searchtags=web+design+%C3%A9l%C3%A9gance+css+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.gwern.net/index[Essays - Gwern.net]
+
+Je sais pas vous, mais je trouve ce site web incroyablement classe.

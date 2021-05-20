@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin - YouTube
+:jbake-tags: java,architecture,software,concepts,_mois_août,_année_2013
+:jbake-date: 2013-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1377068788000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWpkDN78P884%26t%3D40m23s&searchtags=java+architecture+software+concepts+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.youtube.com/watch?v=WpkDN78P884&t=40m23s[Ruby Midwest 2011 - Keynote: Architecture the Lost Years by Robert Martin - YouTube]
+
+Mais ouiiiiii Database is a detail, you PUNK Je suis complètement d'accord avec cette vision des choses. C'est très bien si la base de données permet de faire "des trucs" avec les données. mais pour moi, développeur d'application, c'est un détail pénible.

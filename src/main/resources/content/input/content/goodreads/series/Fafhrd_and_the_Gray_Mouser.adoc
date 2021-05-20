@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fafhrd and the Gray Mouser
+:jbake-tags: serie
+:jbake-date: 2014-07-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Fafhrd_and_the_Gray_Mouser.adoc
+:jbake-source: https://www.goodreads.com/series/51499
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266029308.html[Epées et démons (Le cycle des épées, #1)]
+* link:../books/9782266041898.html[Epées et mort (Le Cycle des Épées, #2)]
+* link:../books/9782266023498.html[Épées et sorciers (Le Cycle des Épées, #4)]
+* link:../books/9782266042970.html[Les Épées de Lankhmar (Le Cycle des Épées, #5)]
+* link:../books/9782266036108.html[La Magie des glaces (Le Cycle des épées, #6)]
+* link:../books/9782266041522.html[Le Crépuscule des épées (Le Cycle des Épées, #7)]

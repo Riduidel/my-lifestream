@@ -1,0 +1,21 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joe Haldeman
+:jbake-tags: author
+:jbake-date: 2002-05-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/12476.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1224736362p5/12476.jpg
+:jbake-source: https://www.goodreads.com/author/show/12476
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070320776.html[En Mémoire De Mes Péchés]
+* link:../books/9782290308257.html[La Guerre éternelle]
+* link:../books/9782800123493.html[Dallas Barr, Tome 1: Immortalité à vendre]
+* link:../books/9782803620555.html[Dallas Barr, Tome 2: Le choix de Maria]
+* link:../books/9782803620562.html[Dallas Barr, Tome 3: Premier quartier]
+* link:../books/9782803620579.html[Dallas Barr, Tome 4: Nouvelle lune]
+* link:../books/9782803620586.html[Dallas Barr, Tome 5: Anna des mille jours]
+* link:../books/9782803620593.html[Dallas Barr, Tome 6: Sarabande]
+* link:../books/9782803620937.html[Dallas Barr, Tome 7: La dernière valse]

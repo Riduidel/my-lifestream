@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manish on Twitter: "This example illustrates a certain pedagogical conundrum really well, actually. It's one I bump into a lot when helping folks learn Rust (and other things)… https://t.co/YUa89XrIqW"
+:jbake-tags: programming,langage,design,pattern,culture,_mois_juin,_année_2019
+:jbake-date: 2019-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1561536809000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FManishEarth%2Fstatus%2F1142338147038224384&searchtags=programming+langage+design+pattern+culture+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ManishEarth/status/1142338147038224384[Manish on Twitter: "This example illustrates a certain pedagogical conundrum really well, actually. It's one I bump into a lot when helping folks learn Rust (and other things)… https://t.co/YUa89XrIqW"]
+
+La discussion est parfaitement valide : quand on passe d'un langage à un autre, il faut à la fois apprendre la syntaxe \*et\* les usages (les anglophones parleront de design patterns, mais ca n'est pas le cas). Et les usages sont souvent implicites.

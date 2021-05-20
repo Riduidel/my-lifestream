@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Text to UML tools - Fastest way to create your models
+:jbake-tags: uml,générateur,texte,programming,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514884269000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmodeling-languages.com%2Ftext-uml-tools-complete-list%2F&searchtags=uml+g%C3%A9n%C3%A9rateur+texte+programming+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://modeling-languages.com/text-uml-tools-complete-list/[Text to UML tools - Fastest way to create your models]
+
+Chouette panorama des outils de génération d'UML à partir de texte.

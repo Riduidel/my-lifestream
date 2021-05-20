@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Peter Maurer
+:jbake-tags: software,shareware,macosx,system,task,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110471119000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.petermaurer.de%2Fnasi.php%3Fthema%3Dwitch&searchtags=software+shareware+macosx+system+task+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.petermaurer.de/nasi.php?thema=witch[Peter Maurer]
+
+Have you ever wanted to switch to a certain window â⊘ not just the application it belongs to? While you can use ExposÃ© to switch windows, doing so can be very clumsy if you're the keyboard-only type of user. And don't all of these windows look just

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The UX of LEGO Interface Panels – George Cave
+:jbake-tags: interface,design,lego,exemple,_mois_août,_année_2020
+:jbake-date: 2020-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1596559543000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.designedbycave.co.uk%2F2020%2FLEGO-Interface-UX%2F&searchtags=interface+design+lego+exemple+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.designedbycave.co.uk/2020/LEGO-Interface-UX/[The UX of LEGO Interface Panels – George Cave]
+
+L'article est un très chouette résumé du design d'interface, basé sur un sujet que j'apprécie ... beaucoup.

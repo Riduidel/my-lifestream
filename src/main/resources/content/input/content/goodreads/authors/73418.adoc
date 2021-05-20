@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Patrick Kelly
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/73418.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/73418
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070439942.html[Regarde le soleil]
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]

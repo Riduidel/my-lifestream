@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Watchmen
+:jbake-tags: serie
+:jbake-date: 2009-09-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Watchmen.adoc
+:jbake-source: https://www.goodreads.com/series/103586
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782840552512.html[Watchmen: Les Gardiens, Édition Intégrale]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: subhra74/snowflake: Graphical SFTP client and terminal emulator with helpful utilities
+:jbake-tags: java,ssh,client,open-source,application,réseau,_mois_janv.,_année_2020
+:jbake-date: 2020-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1580384523000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsubhra74%2Fsnowflake%2F&searchtags=java+ssh+client+open-source+application+r%C3%A9seau+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/subhra74/snowflake/[subhra74/snowflake: Graphical SFTP client and terminal emulator with helpful utilities]
+
+Un terminal SSH très chouette ... En Java 11 ! ❤

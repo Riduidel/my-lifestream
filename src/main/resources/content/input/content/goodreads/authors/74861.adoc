@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mark Gatiss
+:jbake-tags: author
+:jbake-date: 2018-12-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/74861.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1445341685p5/74861.jpg
+:jbake-source: https://www.goodreads.com/author/show/74861
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9791028104399.html[Le Club Vesuvius (Lucifer Box, #1)]

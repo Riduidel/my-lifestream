@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Attach icons to anything with CSS
+:jbake-tags: code,css,design,programming,stylesheet,tutorial,web,_mois_mai,_année_2007
+:jbake-date: 2007-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1178291600000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hunlock.com%2Fblogs%2FAttach_icons_to_anything_with_CSS&searchtags=code+css+design+programming+stylesheet+tutorial+web+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.hunlock.com/blogs/Attach_icons_to_anything_with_CSS[Attach icons to anything with CSS]
+
+Un petit tutorial CSS pour ajouter des icônes à n'importe quel élément d'une page. Ca risque de me servir pour le bliki

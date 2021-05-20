@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Github Stale Bots: A False Economy | blog.benwinding
+:jbake-tags: github,bot,bug,ergonomie,communication,_mois_janv.,_année_2021
+:jbake-date: 2021-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1611129971000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.benwinding.com%2Fgithub-stale-bots%2F&searchtags=github+bot+bug+ergonomie+communication+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://blog.benwinding.com/github-stale-bots/[Github Stale Bots: A False Economy | blog.benwinding]
+
+Je suis carrément d'accord avec ça. J'ai un certain nombre d'issues github qui ont été fermées par ce genre de bot et franchement, ça m'énerve.

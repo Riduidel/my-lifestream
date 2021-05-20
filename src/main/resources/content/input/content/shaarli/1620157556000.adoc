@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: javascript - how to install node js canvas on windows - Stack Overflow
+:jbake-tags: windows,build,javascript,horreur,_mois_mai,_année_2021
+:jbake-date: 2021-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1620157556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F25450606%2F15619&searchtags=windows+build+javascript+horreur+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/25450606/15619[javascript - how to install node js canvas on windows - Stack Overflow]
+
+Bon, je voulais installer vega-cli sous Windows, qui dépend de canvas. Mais là, je vais être brutal, mais allez bien vous faire foutre.

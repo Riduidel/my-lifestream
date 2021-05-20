@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gogglemarks.net - Stir your tea with a wrench.
+:jbake-tags: fun,hacking,science,tutorial,_mois_juil.,_année_2006
+:jbake-date: 2006-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1152018249000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gogglemarks.net%2Findex.php%3Faction%3Ddisplay%26tag%3Dnerfrifle&searchtags=fun+hacking+science+tutorial+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.gogglemarks.net/index.php?action=display&tag=nerfrifle[Gogglemarks.net - Stir your tea with a wrench.]
+
+Comment faire un fusil à air comprimé à partir de tuyaux de PVC ... pour tous les plombiers joueurs !

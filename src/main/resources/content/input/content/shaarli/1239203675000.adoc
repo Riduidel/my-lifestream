@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MiiTube - The Wii Video Channel
+:jbake-tags: web,wii,portal,vidéo,youtube,_mois_avr.,_année_2009
+:jbake-date: 2009-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1239203675000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.miitube.co.uk%2F&searchtags=web+wii+portal+vid%C3%A9o+youtube+_mois_avr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.miitube.co.uk/[MiiTube - The Wii Video Channel]
+
+Peut-être la meilleure version de youTube pour wii que j'ai vue

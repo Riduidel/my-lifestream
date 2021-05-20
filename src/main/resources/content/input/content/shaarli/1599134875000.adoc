@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Help users change passwords easily by adding a well-known URL for changing passwords
+:jbake-tags: web,spécification,interface,ergonomie,_mois_sept.,_année_2020
+:jbake-date: 2020-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1599134875000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fweb.dev%2Fchange-password-url%2F&searchtags=web+sp%C3%A9cification+interface+ergonomie+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://web.dev/change-password-url/[Help users change passwords easily by adding a well-known URL for changing passwords]
+
+Oh alors ça c'est vraiment une chouette idée ! Parce que franchement, les sites web impossibles à naviguer ... ça va bien 5 minutes. Mais faire des URL bien connues pour les fonctionnalités communes, c'est vraiment mieux.

@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Imperial Radch
+:jbake-tags: serie
+:jbake-date: 2017-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Imperial_Radch.adoc
+:jbake-source: https://www.goodreads.com/series/113751
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780316246620.html[Ancillary Justice (Imperial Radch, #1)]
+* link:../books/9782290111444.html[L'Épée de l'Ancillaire (Imperial Radch #2)]
+* link:../books/9782290111451.html[La Miséricorde de l'ancillaire (Imperial Radch #3)]
+* link:../books/9782290228807.html[Provenance]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Medi@skin - Personnalisez votre Media-Nav
+:jbake-tags: voiture,hack,multimedia,_mois_sept.,_année_2016
+:jbake-date: 2016-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1473078526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mediaskin.ovh%2F&searchtags=voiture+hack+multimedia+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.mediaskin.ovh/[Medi@skin - Personnalisez votre Media-Nav]
+
+Ca ne semble pas aussi complet que Menavrus ... mais c'est gratuit. Il manque en fait surtout l'accès ODB

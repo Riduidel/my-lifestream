@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Heather Miller on Twitter: "Lots of companies are heavy consumers of open source software. Odd though how rare it is to see one contribute PRs back to depended-on OSS."
+:jbake-tags: open-source,emploi,motivation,_mois_févr.,_année_2017
+:jbake-date: 2017-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1487882102000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fheathercmiller%2Fstatus%2F682198447181709312&searchtags=open-source+emploi+motivation+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/heathercmiller/status/682198447181709312[Heather Miller on Twitter: "Lots of companies are heavy consumers of open source software. Odd though how rare it is to see one contribute PRs back to depended-on OSS."]
+
+C'est très vrai, et ça me choque toujours

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Academy
+:jbake-tags: serie
+:jbake-date: 2006-05-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Academy.adoc
+:jbake-source: https://www.goodreads.com/series/42777
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253108733.html[Les Machines de Dieu (L'Académie #1)]

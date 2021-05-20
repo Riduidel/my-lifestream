@@ -1,0 +1,125 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [DevFest] Il faut sauver le soldat Jenkins
+:jbake-tags: déploiement,devfest,devops,intégration,jenkins,kubernetes,_mois_juin,_année_2019
+:jbake-date: 2019-06-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/06/14/devfest-il-faut-sauver-le-soldat-jenkins.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/06/14/devfest-il-faut-sauver-le-soldat-jenkins/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="header"></div>
+<br/>
+<div id="content">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Jenkins-X, est-ce que c’est Jenkins dans K8s ? Non.
+</p>
+<p>
+Est-ce que c’est une distribution de Jenkins ? Non.
+</p>
+<p>
+Est-ce que c’est une collection de plugins ? Non.
+</p>
+<p>
+Est-ce que ça remplace Jenkins ? Non.
+</p>
+<p>
+&#160;
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Jenkins est maintenant hébergé par la <a href="https://cd.foundation/">CD foundation</a> (filiale de la Linux foundation).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+L’approche cloud-native, en général, ça marche bien (même si ça implique le continuous delivery). Mais quand ça foire,c 'est un peu l’enfer.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+En plus, pour faire tourner correctement une appli dans un environnement K8s, il y a un certain nombre d’outils à installer …​ et c’est facilement l’enfer. Heureusement, avec la ligne de commande <code>jx</code>, créer un cluster est aussi facile que lancer <code>jx create cluster gke</code>. Et là, jx va déployer tout un tas d’outils utiles (comme par exemple une container registry, du stockage, un ingress controller, …​). Et surtout, il va connecter cet environnement d’exécution avec un environnement de build dans GitHub.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-18">
+</p>
+<p>
+Il y a d’ailleurs deux modes de déploiement : un mode classique, et un mode "serverless".
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+Dans Jenkins-X, la configuration est fournie "as code" et injectée depuis git via <a href="https://prow.k8s.io/">prow</a>. Autrement dit, Jenkins-X est une implémentation de gitops, c’est-à-dire une vision infra-as-code. Et pour ça, jenkins-x utilise les pipelines classiques de Jenkins pour mettre à jour l’infrastructure du cluster Kubernetes.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Ca change beaucoup la vie des sysadmins. Parce qu’au lieu d’appliquer des modifications en prod, ils vont pousser l’état de leur cluster et faire de la review de pull-request. Pour appliquer ces pull-request, on fait des promotions d’application dans Jenkins.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Et c’est déja le moment de la démo !
+</p>
+<p>
+En note préliminaire, mon collègue Logan et moi avions présenté en janvier <a href="https://riduidel.wordpress.com/2019/01/27/vis-ma-vie-de-speaker-au-snowcamp/">une conférence</a> à Snowcamp qui traitait partiellement de Jenkins-X, et je ne suis pas peu fier d'affirmer que notre démo ressemblait beaucoup à celle de Nicolas (sans les problèmes techniques terrifiants qu'il a affronté avec classe)
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-30"></div>
+<br/>
+<div class="paragraph data-line-32">
+</p>
+<p>
+Bref, ... Nicolas crée une application Node avec <code>jx create app</code> qui va créer l’application dans GitHub, lui associer un namespace K8s et permettre un déploiement de cette application. Il nous montre ensuite que la création du repository GitHub se fait en deux commits : un premier pour créer le code "basique", et un second pour lui ajouter les éléments propres à Jenkins-X (un chart Helm, des valeurs d’exemple). On passe au vrai développement :
+<br/>
+<ol>
+<br/>
+<li>fork GitHub,</li>
+<br/>
+<li>modification du code,</li>
+<br/>
+<li>création d’une pull-request dans le code applicatif.</li>
+<br/>
+</ol>
+<br/>
+Jenkins-X ayant enregistré un web-hook GitHub, il reçoit la notification et lance un build de la pull-request. Et ce build sera déployé dans un namespace spécifique, qui permettra facilement de comparer la pull-request et la prod.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<h2>Conclusion</h2>
+<br/>
+Je pense sincèrement (contrairement à mes collègues ops) que Jenkins-X est une très bonne solution CI-CD à l'heure du cloud. Parce que Jenkins est sans doute le meilleur outil de CI. Et que Jenkins-X y ajoute les éléments nécessaires au fonctionnement dans l'univers Kubernetes.
+</p>
+++++

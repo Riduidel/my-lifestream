@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Index of /jmemprof
+:jbake-tags: programming,java,software,freeware,profiler,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112364412000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Foss.metaparadigm.com%2Fjmemprof%2F&searchtags=programming+java+software+freeware+profiler+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://oss.metaparadigm.com/jmemprof/[Index of /jmemprof]
+
+JMemProf is a live Java memory profiler suitable for deployment in web containers such as JBoss, Tomcat and others. JMemProf allows you to retrieve memory profile information while your application is running.

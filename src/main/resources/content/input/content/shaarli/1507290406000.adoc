@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keybase
+:jbake-tags: partage,web,_mois_oct.,_année_2017
+:jbake-date: 2017-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1507290406000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkeybase.io%2Fdocs%2Fkbfs&searchtags=partage+web+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://keybase.io/docs/kbfs[Keybase]
+
+Ohlala, mais à chaque fois que je tombe sur un truc de Keybase, c'est de la balle. La seule chose qui m'inquiète, c'est le modèle économique ...

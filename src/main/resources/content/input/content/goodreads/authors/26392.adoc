@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Joann Sfar
+:jbake-tags: author
+:jbake-date: 2011-04-07
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/26392.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1246421249p5/26392.jpg
+:jbake-source: https://www.goodreads.com/author/show/26392
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782205050707.html[Socrate le demi-chien: Héraclès]

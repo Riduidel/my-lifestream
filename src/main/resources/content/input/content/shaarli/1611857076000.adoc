@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: diimdeep/awesome-split-keyboards: A collection of ergonomic split keyboards ⌨
+:jbake-tags: clavier,ergonomie,matériel,catalog,diy,_mois_janv.,_année_2021
+:jbake-date: 2021-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1611857076000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdiimdeep%2Fawesome-split-keyboards&searchtags=clavier+ergonomie+mat%C3%A9riel+catalog+diy+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/diimdeep/awesome-split-keyboards[diimdeep/awesome-split-keyboards: A collection of ergonomic split keyboards ⌨]
+
+Bon, c'est une forme particulière de fétichisme, mais franchement, je trouve ces claviers absolument terribles (même si j'ai beaucoup de mal à m'imaginer en acheter un)

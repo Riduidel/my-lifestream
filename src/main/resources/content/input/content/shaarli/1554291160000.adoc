@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: socketwench on Twitter: "I don't want self driving cars. I want boring things like public transit that comes so regularly I don't need to check a schedule. I want fast passenger rail so accessible and easy it's preferable to suffering airports. I want cities that aren't built around cars-as-default."
+:jbake-tags: citation,écologie,transport,_mois_avr.,_année_2019
+:jbake-date: 2019-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1554291160000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsocketwench%2Fstatus%2F1112417058581557249&searchtags=citation+%C3%A9cologie+transport+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/socketwench/status/1112417058581557249[socketwench on Twitter: "I don't want self driving cars. I want boring things like public transit that comes so regularly I don't need to check a schedule. I want fast passenger rail so accessible and easy it's preferable to suffering airports. I want cities that aren't built around cars-as-default."]
+
+Les voitures autonomes ressemblent de plus en plus à un rêve de SF de droite : inefficace pour le plus grand nombre, séparant nettement l'élite de la plèbe, elles ne sont pas une solution viable.

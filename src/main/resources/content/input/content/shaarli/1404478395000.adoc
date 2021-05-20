@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment trouver un film que vous aimerez ? « Korben - Liens d'un Parigot-Manchot
+:jbake-tags: film,recommendation,web,_mois_juil.,_année_2014
+:jbake-date: 2014-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1404478395000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgilles.wittezaele.fr%2Flinks%2F%3Fz3orkQ&searchtags=film+recommendation+web+_mois_juil.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://gilles.wittezaele.fr/links/?z3orkQ[Comment trouver un film que vous aimerez ? « Korben - Liens d'un Parigot-Manchot]
+
+Chouette,d es servcies de recommandation de films/séries à la pelle !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: linpengcheng/PurefunctionPipelineDataflow: My Blog: The Grand Unified Programming Theory: The Pure Function Pipeline Data Flow with principle-based Warehouse/Workshop Model
+:jbake-tags: concepts,architecture,programming,design,clojure,_mois_avr.,_année_2021
+:jbake-date: 2021-04-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1618989644000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flinpengcheng%2FPurefunctionPipelineDataflow&searchtags=concepts+architecture+programming+design+clojure+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/linpengcheng/PurefunctionPipelineDataflow[linpengcheng/PurefunctionPipelineDataflow: My Blog: The Grand Unified Programming Theory: The Pure Function Pipeline Data Flow with principle-based Warehouse/Workshop Model]
+
+Il va également falloir que je relise ça à tête reposée, mais je sens transparaître le rêve de Martin Kleipmann là-dedans

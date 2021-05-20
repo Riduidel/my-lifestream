@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML Dependency
+:jbake-tags: uml,class,diagram,générateur,_mois_janv.,_année_2017
+:jbake-date: 2017-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1483346026000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fplantuml-depend.sourceforge.net%2Findex.html&searchtags=uml+class+diagram+g%C3%A9n%C3%A9rateur+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://plantuml-depend.sourceforge.net/index.html[PlantUML Dependency]
+
+Ah tiens c'est marrant ce truc ... même si ça semble générer des diagrammes inutilisables

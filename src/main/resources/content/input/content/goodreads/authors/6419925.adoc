@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurent Whale
+:jbake-tags: author
+:jbake-date: 2017-10-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/6419925.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1339340060p5/6419925.jpg
+:jbake-source: https://www.goodreads.com/author/show/6419925
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782361831769.html[Les Pilleurs d'âmes]

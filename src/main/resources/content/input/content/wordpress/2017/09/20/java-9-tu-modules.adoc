@@ -1,0 +1,435 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java 9, tu modules ?
+:jbake-tags: chtijug,java,_mois_sept.,_année_2017
+:jbake-date: 2017-09-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/09/20/java-9-tu-modules.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/09/20/java-9-tu-modules/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/lhauspie" class="screenName"><img src="http://pbs.twimg.com/profile_images/1055741424539521026/8ksXipol_mini.jpg" alt="profile of Dev back @ZenikaLille.
+<br/>
+🖥️⌨️🖱️
+<br/>
+Born to Code, Tech aficionado et Speaker à mes heures perdues."/>lhauspie</a>
+<br/>
+<span class="name">Logan HAUSPIE 💻</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/lhauspie/status/910 251 497 358 860 288" class="date">19 sept. 2017 à 23:17:23</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Super prez' @ChtiJUG de @RemiForaxOff sur la modularité de #Java 9 chez @LaRedouteFr sponsorisé par @ZenikaLille ! https://t.co/J6Z0VU5pA0</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DKHc0vLW0AA_I8b.jpg" alt="910 251 398 280 957 952"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DKHc3YZXUAMF6qC.jpg" alt="910 251 443 705 303 043"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-3">
+<br/>
+<h2 id="truer_mi">Rémi ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-4">
+</p>
+<p>
+Vous connaissez Rémi ? Il est maître de conférences à Marne la Vallée, développeur d’<a href="http://asm.ow2.org/">ASM </a>(j’ignorais ça), d’OpenJDK, expert pour le JCP (et clairement spécialiste des évolutions du langage, pas la partie JavaEE) où il a ajouté invokedynamic, et a travaillé sur les lambda, Jigsaw.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-6">
+<br/>
+<h2 id="truejava_9">Java 9</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Java 9 est la dernière grosse release, parce que c’est pénible. Ca va être remplacé par une release tous les six mois …​ c’est un peu plus rapide. Et donc, dans six mois, on verra <code>var</code> apparaître dans le langage Java.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-9">
+<br/>
+<h2 id="trueles_modules">Les modules</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+Historiquement, ça devait arriver en Java 6 ou 7 …​ Ca a pris un peu de retard.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-12">
+<br/>
+<h3 id="truepourquoi_modulariser">Qui veut modulariser le JDK ?</h3>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Il y a d’une part des développeurs du JDK qui veulent le faire évoluer, mais ne peuvent pas à cause de toutes les APIs qui utilisent des classes "cachées" du JDK. Et d’autre part …​ des experts de sécurité qui considèrent les failles de la plateforme.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-15">
+<br/>
+<h3 id="trued_autres_probl_mes">D’autres problèmes</h3>
+<br/>
+<div class="sect3 data-line-16">
+<br/>
+<h4 id="truel_enfer_du_classpath">L’enfer du CLASSPATH</h4>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Sans outil pour gérer automatiquement le CLASSPATH (genre maven, gradle et autres), c’est l’enfer. Par ailleurs, quand le ClassLoader charge une classe, il scanne linéairement tous les jars et charge la première classe qu’il trouve. Du coup, c'est long. Mais aussi super merdique quand on a deux versions du même artefact. Du coup, on aimerait bien que ce soit géré par la JVM. De la même manière, éviter que les NoClassDefFoundError ne sortent qu'à l’exécution serait une bonne idée pour les développeurs.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-23">
+<br/>
+<h4 id="trueall_ger_java">Alléger Java</h4>
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Ce serait sympa de pouvoir faire tourner le code Java sur des plateformes plus légères (typiquement pour l’IoT). Personellement, ça meparaît vaguement possible avec des outils comme <a href="https://www.guardsquare.com/en/proguard">ProGuard </a>de limiter la taille des dépendances, mais ce serait mieux d’avoir ça directement dans le JDK. Par exemple, rt.jar contient encore des parseurs XML (qui n’ont pas à être des classes privilégiées) ou CORBA (qui s’en sert encore ?).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-30">
+<br/>
+<h4 id="truecomment_modulariser">Comment modulariser ?</h4>
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+[caption id="attachment_5066" align="alignleft" width="500"]<img class=" size-full wp-image-5066 alignleft" src="https://riduidel.files.wordpress.com/2017/09/standards.png" alt="standards" width="500" height="283" /> Aucun rapport avec Java, bien sûr[/caption]
+</p>
+<p>
+Il y a déja des standards de modules en Java
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-33">
+<br/>
+<ul>
+<br/>
+<li>maven</li>
+<br/>
+<li>gradle</li>
+<br/>
+<li>JBoss</li>
+<br/>
+<li>OSGi</li>
+<br/>
+<li>JavaEE</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-41">
+</p>
+<p>
+Du coup, Jigsaw doit fournir un système de modules compatible avec tous ces systèmes prééexistants. Ce qui implique tristement qu’il ne peuvent pas contenir de numéros de version. Et ça, c’est moche.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-43">
+<br/>
+<h4 id="truemodularisons_donc">Modularisons donc !</h4>
+<br/>
+<div class="sect4 data-line-44">
+<br/>
+<h5 id="truec_est_quoi_un_module">C’est quoi un module ?</h5>
+<br/>
+<div class="paragraph data-line-45">
+</p>
+<p>
+Dans un module, il y a
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-47">
+<br/>
+<ul>
+<br/>
+<li>des dépendances</li>
+<br/>
+<li>et des classes qu’on veut garder invisibles aux autres packages</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-50">
+</p>
+<p>
+Par exemple, java se est constitué d’un paquet de modules …​ dont java.compiler. Ce qui signifie qu’il n’y a plus de distinctions JRE/JDK.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+Tout ça est décrit dans un module-info.java qui va être compilé comme le reste du code. Ca empêche les modifications ultérieures, ce qui est bien.
+<br/>
+A la compilation, il ne peut donc plus y avoir de "split-packages" (des packages déclarés dans deux JARS), ou de dépendances cycliques.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect4 data-line-55">
+<br/>
+<h5 id="truequ_est_ce_qu_on_perd">Qu’est-ce qu’on perd ?</h5>
+<br/>
+<div class="ulist data-line-56">
+<br/>
+<ul>
+<br/>
+<li>les "split-package"</li>
+<br/>
+<li><code>setAccessible(true)</code> sur une classe d’un module fermé</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-59">
+</p>
+<p>
+Au passage, ça permettra enfin à Rémi d’optimiser les champs <code>final</code> (un truc dont j'étais sûr qu’il existait déja pourtant)
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-61">
+</p>
+<p>
+Enfin, sauf si on active le flag <code>--illegal-access=permit</code> (qui est parfaitement clair). Notez qu’il y a d’autres valeurs possibles (<code>warn</code>, <code>debug</code>). Bon, un jour, il disparaîtra.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-63">
+</p>
+<p>
+En bonus, les classes JavaEE cachés dans JavaSE (java.xml.bind, java.xml.ws et autres) ne seront plus dans le JDK. Notez que ces classes sont toujours accessibles via des dépendances Maven.
+<br/>
+Les classes <code>sun.</code> et <code>com.sun.</code> qui ne sont pas utilisées sont également supprimées.
+</p>
+<p>
+A noter : L'annotation <code>@ForRemovall</code> (je ne suis pas sûr de l'orthographe) indique les classes qui seront supprimées dans la prochaine version du JDK. C'est une version étendue du classique <code>@Deprecated</code>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-15">
+<br/>
+<div class="sect3 data-line-43">
+<br/>
+<div class="sect4 data-line-71">
+<br/>
+<h5 id="truecomment_trouver_les_d_pendances">Comment trouver les dépendances</h5>
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+Avec <a href="https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jdeps.html">jdeps</a>, par exemple, on peut facilement trouver toutes les dépendances d’un module. Notez que cet outil existe déja dans Java8.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-74">
+<br/>
+<h4 id="trueoui_mais_comment_je_transforme_mon_application_pour_java9">Oui, mais comment je transforme mon application pour Java9 ?</h4>
+<br/>
+<div class="paragraph data-line-76">
+</p>
+<p>
+Pour ça, Rémi a développé son application de test : <a href="https://github.com/forax/moduletools">ModuleTools</a> qui lui permet de lire et d'écrire un fichier <code>module-info.java</code> ou <code>module-info.class</code>.Et dans son application, il déclare quelques modules, qui dépendent tous de <code>java.base</code> (comme les classes Java dépendent de <code>java.lang.Object</code>).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-80">
+</p>
+<p>
+Contrairement à maven, un <code>require</code> de module n’est pas transitif (contrairement à maven). Du coup, il y a un require transitif, mais qui est limité à un niveau.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-82">
+</p>
+<p>
+En terme d’organisation de fichiers, il est possible d’avoir plusieurs organisations, dont par exemple plusieurs modules dans le même dossier (ce qui n’est supporté ni par maven, ni par gradle, ni par les IDE).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-84">
+</p>
+<p>
+Il est possible de stocker la version du JAR dans le <code>module-info</code>, et de la réutiliser depuis le code, mais le système de modules n’utilise pas la version.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect4 data-line-86">
+<br/>
+<h5 id="truecomment_utiliser_un_jar_non_modulaire">Comment utiliser un JAR non modulaire ?</h5>
+<br/>
+<div class="paragraph data-line-87">
+</p>
+<p>
+Typiquement, une dépendance de Maven Central.On ne peut évidement pas ajouter simplement le JAR dans le CLASSPATH. Il suffit en fait de mettre le jar dans le module-path, et Java va générer automatiquement un module-info, qui permet en plus à ce module automatique de dépendre de JARs du CLASSPATH.Et comment s’appelle ce module ? Soit le nom fourni dans le <code>MANIFEST.MF</code> comme <code>Automatic-Module-Name</code>, soit le nom du JAR sans le numéro de version. Du coup, en ce moment, sur GitHub, c’est la fête à l’<a href="https://github.com/search?q=automatic-module-name&#38;type=Issues&#38;utf8=%E2%9C%93"><code>Automatic-Module-Name</code></a>. Au passage, il est possible d’utiliser les JARs modulaires comme des JARs classiques, en les mettant dans le CLASSPATH !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect4 data-line-95">
+<br/>
+<h5 id="truecomment_limiter_la_visibilit">Comment limiter la visibilité ?</h5>
+<br/>
+<div class="paragraph data-line-96">
+</p>
+<p>
+Si on veut faire un module interne, il est possible de limiter sa visibilité à certains modules spécifiques, et pas au monde entier. C’est très chouette pour mieux gérer la sécurité. C’est ce qu’ont fait les développeurs du JDK pour la tristement célèbre <code>sun.misc.Unsafe</code> dont une partie a été déplacée dans <code>jdk.unsupported</code>, et une autre partie dans un <code>jdk.internal.misc</code>. Du coup, la réflexion n’est plus possible sur les champs privés (dommage pour <a href="https://github.com/Riduidel/gaedo">gaedo</a>). C’aurait été pénible pour JPA …​ mais les fournisseurs d’implémentation JPA utilisent des agents qui changent le code avant son exécution. Cela dit, la réflexion reste possible grâce à <code>open</code> sur un package ou sur le module.Par ailleurs, le très moche <a href="https://docs.oracle.com/javase/8/docs/api/index.html?java/util/ServiceLoader.html"><code>ServiceLoader</code></a> a été étendu pour fonctionner avec les modules …​ La différence, c’est que la description est un peu propre et intégrée au <code>module-info</code>. Et la description à la fois des fournisseurs d’implémentation et de l’utilisation de ces implémentations doit être fournie. C’est super cool, parce que ça permet de <strong>tester</strong> les injections de dépendances.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect4 data-line-104">
+<br/>
+<h5 id="truepackager">Packager ?</h5>
+<br/>
+<div class="paragraph data-line-105">
+</p>
+<p>
+Avec jlink, on peut créer une image à la volée de l’application et de ses dépendances. Pratique pour l’embarqué, évidement, mais aussi pour Docker. Hélas, il ne peut pas y avoir de modules automatiques, parce qu’avec ces modules automatiques, il faut embarquer tout le JDK, et ça limite en plus énormément les possibilités d’optimisation de jlink. C’est un peu la carotte de Jigsaw. Ca permet aussi d’utiliser une JVM minimale <strong>de 3 Mo !</strong>. Bon, sans JIT, mais sur un Raspberry, c’est pas vraiment utile. Ca permet aussi de garantir la durée d’exécution …​ avec jaotc, qui génère du code natif (qui pourra même se passer de JIT). Le but à terme de cette expérience est (accrochez-vous) <strong>de réécrire la JVM en Java</strong> (pour se débarasser du code C++).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-108">
+</p>
+<p>
+Evidement jlink (et l’ahead-of-time-compiling) est chouette pour les performances. Et pour l’espace disque.
+<br/>
+<h2>Conclusion</h2>
+<br/>
+Modulariser, ça n'est pas si facile, à la fois pour les implémenteurs et les utilisateurs. A ce sujet, la conclusion de Rémi est parfaitement claire : si vous avez une application non-modulaire, n'essayez pas de la modulariser. C'est à la fois long, complexe, et sans valeur ajoutée. En revanche, si vous vous lancez dans une nouvelle application, la modulariser dès le départ peut être utile.
+</p>
+<p>
+Et merci à nos amis du chtijug pour une soirée sans faille, dans une super salle, et avec une vue vraiment chouette !
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/910196474344067073
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

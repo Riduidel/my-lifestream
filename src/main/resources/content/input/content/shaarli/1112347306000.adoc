@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Selectors - Cascading Style Sheets Syntax
+:jbake-tags: web,css,documentation,langage,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112347306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.blooberry.com%2Findexdot%2Fcss%2Fsyntax%2Fselectors%2Fselectors.htm&searchtags=web+css+documentation+langage+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.blooberry.com/indexdot/css/syntax/selectors/selectors.htm[Selectors - Cascading Style Sheets Syntax]
+
+

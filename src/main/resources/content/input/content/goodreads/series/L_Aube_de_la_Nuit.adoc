@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Aube de la Nuit
+:jbake-tags: serie
+:jbake-date: 2008-07-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/L_Aube_de_la_Nuit.adoc
+:jbake-source: https://www.goodreads.com/series/180901
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266119481.html[L'Alchimiste du neutronium I - Consolidation]
+* link:../books/9782266136150.html[Le Dieu nu II - Révélation]
+* link:../books/9782266123006.html[L'Alchimiste du neutronium II - Conflit]
+* link:../books/9782266133579.html[Le Dieu nu I - Résistance]
+* link:../books/9782266130257.html[Rupture dans le réel I - Genèse]
+* link:../books/9782266111201.html[Rupture dans le réel III - Expansion]
+* link:../books/9782266111195.html[Rupture dans le réel II - Émergence]

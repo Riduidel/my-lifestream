@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AP Grapher for MacOS X
+:jbake-tags: software,freeware,macosx,réseau,wifi,grapher,_mois_avr.,_année_2005
+:jbake-date: 2005-04-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1114614136000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.chimoosoft.com%2Fapgrapher.html&searchtags=software+freeware+macosx+r%C3%A9seau+wifi+grapher+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.chimoosoft.com/apgrapher.html[AP Grapher for MacOS X]
+
+AP Grapher is a freeware program for Mac OS X to graph the signal strength of a wireless base station such as Apple's Airport Basestation, although it should work with any brand of base station.

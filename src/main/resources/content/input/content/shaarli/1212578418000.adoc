@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DVzine.org - The Dvorak Zine
+:jbake-tags: documentation,english,ergonomie,fun,geek,matériel,clavier,dvorak,_mois_juin,_année_2008
+:jbake-date: 2008-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1212578418000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdvzine.org%2F&searchtags=documentation+english+ergonomie+fun+geek+mat%C3%A9riel+clavier+dvorak+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://dvzine.org/[DVzine.org - The Dvorak Zine]
+
+une bande dessinée plutôt marrante sur l'istoire des layouts de clavier et l'intérêt du dvorak.

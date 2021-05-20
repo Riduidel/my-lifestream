@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Free CSS Toolbox - Free CSS Validator, CSS Formatter, CSS Compressor
+:jbake-tags: software,freeware,windows,css,editor,_mois_nov.,_année_2008
+:jbake-date: 2008-11-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1225887639000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.blumentals.net%2Fcsstool%2F&searchtags=software+freeware+windows+css+editor+_mois_nov.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.blumentals.net/csstool/[Free CSS Toolbox - Free CSS Validator, CSS Formatter, CSS Compressor]
+
+J'imagine que vous allez me demander pourquoi je bookmarke un truc qui ne vaut peut-être même pas un plugin pour Eclipse ? La raison en est assez simple : lancer Eclipse pour modifier la feuille de style de mon site web, ça ne m"intéresse pas. Et puis là, dans la fenêtre principale, il y a un très joli panneau permettant de sélectionner facilement les attributs CSS à utiliser. Faudrait que je regarde d'ailleurs si il n'existe pas des "plugins" pour Notepad++ qui fournisse le même genre de fonctionnalité.

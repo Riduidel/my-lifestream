@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Languages: Application and Interpretation by Shriram Krishnamurthi
+:jbake-tags: compilateur,ordinateur,ebook,éducation,langage,programming,reference,science,_mois_avr.,_année_2008
+:jbake-date: 2008-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1208870663000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cs.brown.edu%2F%7Esk%2FPublications%2FBooks%2FProgLangs%2F2007-04-26%2F&searchtags=compilateur+ordinateur+ebook+%C3%A9ducation+langage+programming+reference+science+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/[Programming Languages: Application and Interpretation by Shriram Krishnamurthi]
+
+

@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Usagi Yojimbo #02
+:jbake-tags:  anthropomorphisme, combat, fantasy, honeur, initiation, japon,_année_2012,_mois_sept.,_note_5,rayon-bd,read
+:jbake-date: 2012-09-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782940334995.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1940352
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/125282.html[Stan Sakai]
+
+## Series
+* link:../series/Usagi_Yojimbo.html[Usagi Yojimbo]
+
+## Review
+
+++++
+si le premier tome donnait quelques instantanés de la vie d'Usagi, celui-ci inscrit le premier récit dans l'initiation du lapin au rôle de samouraï, par son vieux maître, au fin fond des montagnes. Tout y est : le maître bougon, mais sympathique (et talentueux), les adversaires envieux mais médiocres, le duel contre un ami (plusieurs fois d'ailleurs) déchirant le héros entre son devoir et son désir ...<br/>Bref, Usagi, c'est bien.<br/>Enfin, la première histoire est très bien. L'histoire de Kappa est peine un interlude, et celle sur les ouvriers de la soie, quoiqu'assez typique, est peut-être moins forte émotionellement.
+++++

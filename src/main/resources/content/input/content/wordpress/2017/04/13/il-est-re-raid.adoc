@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Il est re-RAID
+:jbake-tags: dns-323,_mois_avr.,_année_2017
+:jbake-date: 2017-04-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/04/13/il-est-re-raid.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/04/13/il-est-re-raid/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, c'est bien dépassé (genre ça fait pile un mois). Mais <a href="https://riduidel.wordpress.com/2017/03/14/il-est-un-peu-moins-raid/">mon NAS a retrouvé son RAID</a>. La leçon essentielle est qu'il faut bien lire les messages des différentes commandes Linux, parce qu'en fait, j'avais démonté le mauvais disque dur ...
+</p>
+<p>
+Dès que j'ai pensé à enlever le bon disque dur, ça c'est mis à bien marcher.
+</p>
+++++

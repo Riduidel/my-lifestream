@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HERE WeGo
+:jbake-tags: carte,web,_mois_août,_année_2019
+:jbake-date: 2019-08-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1567070199000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwego.here.com%2F%3Fmap%3D48.11864%2C4.78009%2C7%2Cnormal&searchtags=carte+web+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://wego.here.com/?map=48.11864,4.78009,7,normal[HERE WeGo]
+
+Ca m'a l'air d'une bonne alternative (commerciale) à Google Maps. J'ai néanmoins beaucoup de mal avec le copyright HERE ...

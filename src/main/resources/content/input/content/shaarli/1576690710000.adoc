@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: emily freeman sur Twitter : "If I were a CTO, I’d be concerned about going all in on GCP because of Google’s track record of dropping projects without warning. I know I work for a competitor. But am I way off base here? Is that a real concern or do people trust that they’ll continue their cloud offering?"
+:jbake-tags: google,stratégie,produit,histoire,_mois_déc.,_année_2019
+:jbake-date: 2019-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1576690710000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Feditingemily%2Fstatus%2F1207120149804806144&searchtags=google+strat%C3%A9gie+produit+histoire+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/editingemily/status/1207120149804806144[emily freeman sur Twitter : "If I were a CTO, I’d be concerned about going all in on GCP because of Google’s track record of dropping projects without warning. I know I work for a competitor. But am I way off base here? Is that a real concern or do people trust that they’ll continue their cloud offering?"]
+
+Euh, wow, ça pique FORT. Et pourtant, c'est vrai : Google a réellement un cimetière de produits qui marchaient (techniquement et en termes d'usage). Du coup, la pérennité de leurs produits est quand même ... aléatoire

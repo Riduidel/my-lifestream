@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rixx/goodreads-to-sqlite: Export your (or other people's) Goodreads data to SQLite
+:jbake-tags: export,goodreads,sql,python,_mois_nov.,_année_2019
+:jbake-date: 2019-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1574708161000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frixx%2Fgoodreads-to-sqlite&searchtags=export+goodreads+sql+python+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/rixx/goodreads-to-sqlite[rixx/goodreads-to-sqlite: Export your (or other people's) Goodreads data to SQLite]
+
+Ca m'a l'air d'une idée assez sympa, cet outil d'export.

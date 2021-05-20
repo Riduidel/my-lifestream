@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Walkmod: automatically refactor code to apply code conventions - Federico Tomassetti - Software Architect
+:jbake-tags: java,build,formatting,maven,_mois_mars,_année_2017
+:jbake-date: 2017-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1489076387000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftomassetti.me%2Fwalkmod-automatically-refactor-code-to-apply-code-conventions%2F&searchtags=java+build+formatting+maven+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://tomassetti.me/walkmod-automatically-refactor-code-to-apply-code-conventions/[Walkmod: automatically refactor code to apply code conventions - Federico Tomassetti - Software Architect]
+
+Ooooh, de l'application de convention de code dans le build ... MIAM !

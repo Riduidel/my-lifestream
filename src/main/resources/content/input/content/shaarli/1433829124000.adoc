@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: LockHunter is a free 64/32 bit tool to delete files blocked by any processes
+:jbake-tags: software,freeware,windows,system,_mois_juin,_année_2015
+:jbake-date: 2015-06-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1433829124000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flockhunter.com%2Findex.htm&searchtags=software+freeware+windows+system+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://lockhunter.com/index.htm[LockHunter is a free 64/32 bit tool to delete files blocked by any processes]
+
+Chouette outil de déverrouillage de fichiers sous Windows. Bien plus joli que The Unlocker ou Who Locks Me.

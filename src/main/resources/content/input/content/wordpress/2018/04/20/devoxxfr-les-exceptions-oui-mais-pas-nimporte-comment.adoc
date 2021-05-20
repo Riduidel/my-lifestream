@@ -1,0 +1,48 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Les exceptions, oui, mais pas n’importe comment
+:jbake-tags: exception,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-les-exceptions-oui-mais-pas-nimporte-comment.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-les-exceptions-oui-mais-pas-nimporte-comment/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Evaneos est une boîte d’une dizaine d’années, avec un code qui a le même âge. Charles a mené des campagnes de refactoring pour faire évoluer le code, et a beaucoup lutté contre les exceptions. Dans la plupart des systèmes, les exceptions sont simplement loggées. C’est une traduction de l’exception, et ça peut ne pas être bonne idée. Et ça pollue les logs. En bonus, quand les logs sont émis en critique, ils génèrent des alertes (et déclenchent potentiellement des astreintes et de la fatigue). Donc, il faut utiliser le bon niveau de log. De la même manière, attraper toutes les exceptions sans détail, ça peut avoir des effets indésirables. Donc, il vaut mieux traiter les exceptions de façon indépendante. Mais ça fait vite beaucoup de code. Et n’hésitez surtout pas à traduire les exceptions d’un contexte à l’autre, pour les rendre compréhensibles par les utilisateurs de votre code.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-13">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-14">
+</p>
+<p>
+Je m’attendais à plus de cette présentation. Mais si elle a marché, c’est qu’il y a du public, et donc qu’on peut faire mieux.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

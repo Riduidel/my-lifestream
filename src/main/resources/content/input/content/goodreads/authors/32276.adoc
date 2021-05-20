@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Charles Sheffield
+:jbake-tags: author
+:jbake-date: 2005-04-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/32276.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1276323505p5/32276.jpg
+:jbake-source: https://www.goodreads.com/author/show/32276
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780671319731.html[The Web Between the Worlds]
+* link:../books/9780671721411.html[Brother to Dragons]

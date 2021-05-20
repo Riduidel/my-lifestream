@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Transcend: a new video game by Jason Rohrer
+:jbake-tags: software,freeware,open-source,macosx,jeu,windows,linux,shoot'em'up,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114439434000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftranscend.sourceforge.net%2F&searchtags=software+freeware+open-source+macosx+jeu+windows+linux+shoot%27em%27up+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://transcend.sourceforge.net/[Transcend: a new video game by Jason Rohrer]
+
+Transcend can best be described as retro-style, abstract, 2D shooter. The graphics are geometrical, and the pace is sometimes frenzied.

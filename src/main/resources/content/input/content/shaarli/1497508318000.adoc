@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: docToolchain Manual
+:jbake-tags: documentation,maven,asciidoc,plantuml,générateur,_mois_juin,_année_2017
+:jbake-date: 2017-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1497508318000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frdmueller.github.io%2FdocToolchain%2F&searchtags=documentation+maven+asciidoc+plantuml+g%C3%A9n%C3%A9rateur+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://rdmueller.github.io/docToolchain/[docToolchain Manual]
+
+Oh bon sang ! Un template de documentation asciidoc utilisant arc42 ! Avec PlantUML ! Et la génération PDF, Word, ... Trop bien !

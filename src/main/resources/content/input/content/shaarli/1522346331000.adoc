@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lascar Développeur on Twitter: "Déployer un index.html dans k8s: - un Makefile pour générer un dossier target - un Dockerfile pour coller dans NGiNX - un package Helm - un tls secret pour l’https - une static ip gce - un lb gce - un pipeline de déploiement… https://t.co/XP6Po0xLUb"
+:jbake-tags: citation,programming,conteneur,_mois_mars,_année_2018
+:jbake-date: 2018-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1522346331000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FLascarDev%2Fstatus%2F978293243535380480&searchtags=citation+programming+conteneur+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/LascarDev/status/978293243535380480[Lascar Développeur on Twitter: "Déployer un index.html dans k8s: - un Makefile pour générer un dossier target - un Dockerfile pour coller dans NGiNX - un package Helm - un tls secret pour l’https - une static ip gce - un lb gce - un pipeline de déploiement… https://t.co/XP6Po0xLUb"]
+
+Tellement vrai

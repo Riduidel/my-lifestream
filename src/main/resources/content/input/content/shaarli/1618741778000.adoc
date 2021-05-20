@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco 🇪🇺 sur Twitter : "#Lombok https://t.co/J9mdfcHx6m" / Twitter
+:jbake-tags: humour,critique,développement,java,design,_mois_avr.,_année_2021
+:jbake-date: 2021-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1618741778000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F1383686667257581578&searchtags=humour+critique+d%C3%A9veloppement+java+design+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/1383686667257581578[Mario Fusco 🇪🇺 sur Twitter : "#Lombok https://t.co/J9mdfcHx6m" / Twitter]
+
+Ah Lombok, ce truc ... certains aiment. personnellement, j'ai très vite ressenti ça comme les portails de téléportation d'Hypérion : un truc qui rend un service mineur, au prix de l'exploitation de ton âme pour une durée ... forcément trop longue

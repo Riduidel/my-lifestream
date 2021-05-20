@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aegypt
+:jbake-tags:  histoire, rayon-imaginaire,_année_2001,_mois_juil.,_note_2,fantastique,read
+:jbake-date: 2001-07-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266081412.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406720920l/2437385._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1406720920l/2437385._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2437385
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+There is more than one history of the world.<br /><br />Before science defined the modern age, other powers, wondrous and magical, once governed the universe, their lore perfected within a lost capital of hieroglyphs, wizard-kings, and fabulous monuments, not Egypt -- but Ægypt.<br /><br />What if it were really so?<br /><br />In the 1970s, a historian named Pierce Moffett moves to the New England countryside to write a book about Ægypt, driven by an idea he dare not believe -- that the physical laws of the universe once changed and may change again. Yet the notion is not his alone. Something waits at the locked estate of Fellowes Kraft, author of romances about Will Shakespeare and Giordano Bruno and Dr. John Dee, something for which Pierce and those near him have long sought without knowing it, a key, perhaps, to Ægypt.
+</div>
+++++
+
+
+## Authors
+* link:../authors/52074.html[John Crowley]
+
+## Series
+* link:../series/The_Aegypt_Cycle.html[The Aegypt Cycle]
+
+## Review
+
+++++
+En fait, le problème, c’est que dès le début, j’ai été noyé par les différents personnages qui se mélangent les uns aux autres sans aucune séparation : on passe du “héros” ou plutôt du personnage principal de Pierce Moffet au Docteur Dee ou à Giordano Bruno sans rien pour nous signaler ces passages, ce qui est très déstabilisant. Déja, ca rendait les choses difficiles, mais je me suis accroché par habitude : je ne supporte pas de ne pas terminer un roman. Le problème, c’est que pour avoir un roman, il faut une histoire. Et là, il n’y en a aucune : il ne se passe quasiment rien. C’est digne de link:../authors/1396.html[<strike>Michel Butor</strike> Michel Deutsch] (pour ceux qui connaissent). Je sais bien que théoriquement, ce roman fait partie d’un cycle, et que du coup, l’action est plus longue à se mettre en placce. Seulement, n’avoir aucune action ni quoi que ce soit de digne de ce nom à se mettre sous la dent après 450 pages, c’est frustrant. C’est d’autant plus frustrant que j’avais lu link:../series/Le_Cabaret_des_muses.html[<strike>Le Parlement des fées</strike> Le Cabaret des muses] du même auteur, où une action presque aussi faible m’avait apporté nettement plus de satisfaction.<br/><br/>Alors ? Que faire, que dire ? Rien en fait, puisque je n’ai vu dans ce roman qu’un épais tas de papier inintéressant et que, pour une fois, arrivé à la page 300, à peu près, je n’espérais plus qu’une chose : en avoir fini ! Et oui, je me voyais mal arriver sur fras et dire c’est nul, tellement nul que je ne l’ai pas fini. Il y aurait forcément eu quelqu’un pour me dire que j’avais loupé l’essentiel.
+++++

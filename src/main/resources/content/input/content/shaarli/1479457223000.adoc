@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rich Rogers on Twitter: "Being a good, senior dev is easy: 1. Don't tell; ask 2. Don't rewrite; pair and refactor 3. Don't sneer; encourage 4. Be kind. @rgladwell"
+:jbake-tags: citation,programming,expérience,_mois_nov.,_année_2016
+:jbake-date: 2016-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1479457223000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FRichRogersIoT%2Fstatus%2F799311395888238593&searchtags=citation+programming+exp%C3%A9rience+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/RichRogersIoT/status/799311395888238593[Rich Rogers on Twitter: "Being a good, senior dev is easy: 1. Don't tell; ask 2. Don't rewrite; pair and refactor 3. Don't sneer; encourage 4. Be kind. @rgladwell"]
+
+A imprimer en énorme

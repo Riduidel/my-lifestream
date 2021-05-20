@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JW on Twitter: ""TLDR; containers as production app deployment artifacts have, in the medium and long term, caused more problems than they've solved for almost every case I've seen." https://t.co/65yaUffaTG <--abstraction debate is real and growing"
+:jbake-tags: citation,programming,conteneur,_mois_févr.,_année_2018
+:jbake-date: 2018-02-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1518446079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fwattersjames%2Fstatus%2F962811556764495873&searchtags=citation+programming+conteneur+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/wattersjames/status/962811556764495873[JW on Twitter: ""TLDR; containers as production app deployment artifacts have, in the medium and long term, caused more problems than they've solved for almost every case I've seen." https://t.co/65yaUffaTG <--abstraction debate is real and growing"]
+
+Aouch, ça fait bien mal

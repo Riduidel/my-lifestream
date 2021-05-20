@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Cités obscures : Livre 1
+:jbake-tags:  fantastique, ville,_année_2019,_mois_avr.,_note_4,rayon-bd,read
+:jbake-date: 2019-04-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782203101685.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514719035l/37780610._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1514719035l/37780610._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/37780610
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<b>Les Cités obscures revisitées.</b><br /><br /><i>Les Cités obscures</i> sont l'œuvre culte de François Schuiten et Benoît Peeters. Nourries de références à notre monde, notamment sur le plan architectural, les villes qu'ils mettent en scène s'inscrivent dans un univers parallèle. Le premier Livre de cette intégrale, enrichi d'extraits du <i>Guide des Cités</i> et de nombreux inédits, permet de (re)visiter Xhystos, Samaris, Pâhry, Urbicande et Calvani, et de mesurer mieux encore la puissance et la cohérence du monde obscur.<br /><br />Les intégrales seront publiées en 4 volumes à paraître entre l'automne 2017 et le printemps 2019. Elles proposent des planches restaurées et un contenu augmenté par rapport aux éditions originales de chaque récit.<br /><br /><b>Ce volume contient : La Fièvre d'Urbicande, Les Murailles de Samaris, L'Archiviste, Les mystères de Pâhry<br /><br />DÉTAILS DE L’OUVRAGE:</b><br />328 pages - 20.6 x 27.1 cm<br />Couleur - Relié<br />ISBN : 9782203101685
+</div>
+++++
+
+
+## Authors
+* link:../authors/7616.html[Benoît Peeters]
+* link:../authors/573160.html[François Schuiten]
+
+## Series
+* link:../series/Les_Cites_obscures.html[Les Cités obscures]
+
+## Review
+
+++++
+Ce recueil est à la fois un bel objet, et une somme sur une oeuvre dans laquelle je ne peux m'empêcher de trouver un côté alchimiste urbain assez intéressant. En effet, les auteurs passent leur temps à utiliser les codes de l'architecture, de l'urbanisme pour construire une symbolique de la ville.<br/>C'est très intéressant, même si c'est parfois un peu aride.
+++++

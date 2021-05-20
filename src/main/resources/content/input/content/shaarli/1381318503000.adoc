@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Auto-Unboxing Gotcha: Beware!
+:jbake-tags: java,programming,trick,integer,number,_mois_oct.,_année_2013
+:jbake-date: 2013-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1381318503000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FNOFgzi1k2So%2Fjava-auto-unboxing-gotcha&searchtags=java+programming+trick+integer+number+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/NOFgzi1k2So/java-auto-unboxing-gotcha[Java Auto-Unboxing Gotcha: Beware!]
+
+Très jolie petite astuce montrant comment l'opérateur ternaire peut provoquer des arrondis foireux d'entiers ...

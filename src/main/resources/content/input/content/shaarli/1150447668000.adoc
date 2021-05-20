@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Best Tool For the Job » Quicksilver Abracadabra Gestures
+:jbake-tags: freeware,gtd,macosx,gui,mouse,plugin,productivité,software,tutorial,_mois_juin,_année_2006
+:jbake-date: 2006-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1150447668000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmarcusvorwaller.com%2Fblog%2Farchives%2F2006%2F02%2F20%2Fquicksilver-abracadabra-gestures%2F&searchtags=freeware+gtd+macosx+gui+mouse+plugin+productivit%C3%A9+software+tutorial+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://marcusvorwaller.com/blog/archives/2006/02/20/quicksilver-abracadabra-gestures/[Best Tool For the Job » Quicksilver Abracadabra Gestures]
+
+Comment installer le plugin abracadabra pour Quicksilver

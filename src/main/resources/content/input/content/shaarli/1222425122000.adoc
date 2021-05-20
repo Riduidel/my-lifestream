@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sweetcron - Google Code
+:jbake-tags: lifestream,open-source,software,blog,php,rss,aggregator,_mois_sept.,_année_2008
+:jbake-date: 2008-09-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1222425122000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fsweetcron%2F&searchtags=lifestream+open-source+software+blog+php+rss+aggregator+_mois_sept.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://code.google.com/p/sweetcron/[sweetcron - Google Code]
+
+Un aggrégateur de lifestream hébergeable sur mon site chez free. Ca a l'air conceputellement bien et vachement customisable. La seule chose qui m'intéresse, en fait, c'est de savoir s'il peut archiver mes contributions dans tout l'unviers.

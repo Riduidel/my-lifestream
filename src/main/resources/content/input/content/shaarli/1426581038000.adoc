@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to parse XML with PHP5 | Treehouse Blog
+:jbake-tags: php,programming,software,library,xml,_mois_mars,_année_2015
+:jbake-date: 2015-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1426581038000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.teamtreehouse.com%2Fhow-to-parse-xml-with-php5&searchtags=php+programming+software+library+xml+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blog.teamtreehouse.com/how-to-parse-xml-with-php5[How to parse XML with PHP5 | Treehouse Blog]
+
+Peut-être la bonne librairie pour parser les flux RSS complexes dans rss-bridge ...

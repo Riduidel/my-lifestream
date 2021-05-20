@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UML Modeling Tool - JUDE
+:jbake-tags: UML,software,programming,java,editor,design,_mois_févr.,_année_2007
+:jbake-date: 2007-02-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1172486519000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjude.change-vision.com%2Fjude-web%2Fproduct%2Fcommunity.html&searchtags=UML+software+programming+java+editor+design+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://jude.change-vision.com/jude-web/product/community.html[UML Modeling Tool - JUDE]
+
+Un modeleur UML très bien, car très simple, très utilisable (ce qui n'est pas souvent le cas) et néanmoins complet.

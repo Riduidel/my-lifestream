@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stephen Connolly 🤷🏼‍♂️ sur Twitter : "So we have architecture docs as plantuml embedded in our asciidoc... and more crazy, we embed in the plantuml status badges for the datadog alarms of each component https://t.co/yXZSVvE1ez which incentivises keeping the diagram up to date. 1/2… https://t.co/swZwdLXZi6"
+:jbake-tags: architecture,documentation,monitoring,cohérence,_mois_avr.,_année_2020
+:jbake-date: 2020-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1587224830000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fconnolly_s%2Fstatus%2F1251470743377981440&searchtags=architecture+documentation+monitoring+coh%C3%A9rence+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/connolly_s/status/1251470743377981440[Stephen Connolly 🤷🏼‍♂️ sur Twitter : "So we have architecture docs as plantuml embedded in our asciidoc... and more crazy, we embed in the plantuml status badges for the datadog alarms of each component https://t.co/yXZSVvE1ez which incentivises keeping the diagram up to date. 1/2… https://t.co/swZwdLXZi6"]
+
+Oh j'adore cette idée : les diagrammes d'architecture peuvent porter directement le lien vers le monitoring. C'est très chouette !

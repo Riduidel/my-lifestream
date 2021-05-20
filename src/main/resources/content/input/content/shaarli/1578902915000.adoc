@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hubert SABLONNIÈRE 😎 sur Twitter : "😉 Last year, I started a "framework" to help me write my conference talks propositions 🤔 It's a document with sections, I answer the questions and that helps me to think about the talk, why & how 😍 I used it again this year & it helped a lot, maybe it can help you details ⤵️"
+:jbake-tags: conférence,préparation,process,documentation,_mois_janv.,_année_2020
+:jbake-date: 2020-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1578902915000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhsablonniere%2Fstatuses%2F1216359689987948544&searchtags=conf%C3%A9rence+pr%C3%A9paration+process+documentation+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/hsablonniere/statuses/1216359689987948544[Hubert SABLONNIÈRE 😎 sur Twitter : "😉 Last year, I started a "framework" to help me write my conference talks propositions 🤔 It's a document with sections, I answer the questions and that helps me to think about the talk, why & how 😍 I used it again this year & it helped a lot, maybe it can help you details ⤵️"]
+
+Mais c'est génial ! Hubert n'a pas seulement des talks impressionants, mais aussi une méthode de construction rigoureuse. Et ça, ça va m'être utile (et pas que).

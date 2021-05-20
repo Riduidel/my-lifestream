@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aleksey Shipilëv on Twitter: "Conjecture: developers expect complexity. Corollary: if you give developers a simple project, they would first complicate it to comfortable levels. Another corollary: if developers have no problems to solve, they are eager to create some."
+:jbake-tags: citation,programming,complexité,_mois_avr.,_année_2019
+:jbake-date: 2019-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1555552565000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fshipilev%2Fstatus%2F1118466048586670080&searchtags=citation+programming+complexit%C3%A9+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/shipilev/status/1118466048586670080[Aleksey Shipilëv on Twitter: "Conjecture: developers expect complexity. Corollary: if you give developers a simple project, they would first complicate it to comfortable levels. Another corollary: if developers have no problems to solve, they are eager to create some."]
+
+Il m'est effectivement déja arrivé de complexifier du code au nom du "tu vas voir, ça va nous tomber dessus"

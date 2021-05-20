@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Messengers Chronicles
+:jbake-tags: serie
+:jbake-date: 2012-01-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Messengers_Chronicles.adoc
+:jbake-source: https://www.goodreads.com/series/242915
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070439942.html[Regarde le soleil]

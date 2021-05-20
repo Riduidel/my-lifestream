@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The History of the Runestaff
+:jbake-tags: serie
+:jbake-date: 2020-07-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_History_of_the_Runestaff.adoc
+:jbake-source: https://www.goodreads.com/series/49206
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266119856.html[Le Dieu fou (La Légende de Hawkmoon #2)]
+* link:../books/9782266028967.html[L'Épée de l'aurore]
+* link:../books/9782266030212.html[Le Secret des runes (La Légende de Hawkmoon #4)]

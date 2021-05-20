@@ -1,0 +1,52 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaarli ? c'est dans la poche ? Heu, le wallabag ?
+:jbake-tags: archive,idée,lifestream,shaarli,web,_mois_janv.,_année_2014
+:jbake-date: 2014-01-31
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/01/31/shaarli-cest-dans-la-poche-heu-le-wallabag.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/01/31/shaarli-cest-dans-la-poche-heu-le-wallabag/
+:jbake-style: wordpress
+
+++++
+<p>
+De plus en plus, à cause de mon projet de <a href="http://nicolas.delsaux.free.fr/lifestream/">lifestream </a>(pour lequel il va falloir que j'agresse un peu plus JBake, maintenant que je comprend mieux son fonctionnement), je me pose la question de la survie des liens que je fais, à la fois vers l'extérieur, et entre mes différents sites.
+</p>
+<p>
+Du coup, je regarde les articles sur, par exemple, <a href="http://vivihome.net/2013/10/14/combiner-shaarli-poche/">Shaarli et <del>Poche</del></a> <a href="http://www.wallabag.org/?lang=fr_fr">Wallabag</a>. Et je crois pouvoir répondre aux auteurs (à moins de besoins spécifiques), qu'ils ont tout faux : la solution n'est pas là.
+</p>
+<p>
+Le besoin spécifique, c'est la création d'<a href="http://fr.wikipedia.org/wiki/Effet_Streisand">un effet Streisand</a>. Et pour ceux qui ne comprennent pas, j'explique. Pour faire un effet Streisand, il faut aspirer la page à protéger rapidement sur un site local, et servir cette page au reste du monde. Ce que je propose n'est pas applicable dans ce cas-là.
+</p>
+<p>
+En revanche, dans mon cas d'utilisation, c'est nettement plus applicable. Et ça ne nécessite pas d'application local, mais une simple modification des urls liées par Shaarli (peut-être via un script greasemonkey - qui doit même exister).
+</p>
+<p>
+Donc, vous connaissez sûrement l'<a href="http://archive.org/web/">internet wayback machine</a>. Non ? Eh bien si vous ne connaissez pas, laissez <a href="http://www.codinghorror.com/blog/2012/04/preserving-the-internet-and-everything-else.html">Jeff Atwood</a> vous guider pour la visite. Si vous connaissez, venons-en au fait sans plus tarder.
+</p>
+<p>
+<a href="https://archive.org/help/wayback_api.php">L'internet Wayback Machine propose une API</a>. Oh, tiens, ilss proposent aussi un moyen simple de conserver une page dans leur mémoire gigantesque :
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2014/01/internet-archive_-wayback-machine-opera_2014-01-31_17-06-30.png"><img class="aligncenter size-full wp-image-2197" alt="Internet Archive_ Wayback Machine - Opera_2014-01-31_17-06-30" src="http://riduidel.files.wordpress.com/2014/01/internet-archive_-wayback-machine-opera_2014-01-31_17-06-30.png" width="314" height="195" /></a>
+</p>
+<p>
+&#160;
+</p>
+<p>
+Bon, bref, l'API.
+</p>
+<p>
+Que diriez-vous donc si Shaarli ajoutait, à côté du permalien, un lien Wayback machine Envopyant au snapshot le plus proche de la page sauvegardée ? Ce serait chouette, non ?
+</p>
+<p>
+Bon, je devine les réticences de SebSauvage. Donc ce sera fait via un script Greasemonkey. Il doit exister, non ? ... Une rapide visite sur Userscripts me dit que non, il n'y a pas de script de consultation d'une page via archive.org .... Je suis surpris.
+</p>
+<p>
+Mais je ne vais pas l'ajouter :-)
+</p>
+<p>
+Parce que personellement, c'est mon lifestream qui fera toute cette réogranisation des données pour pointer vers la bonne page de l'archive (et éventuellement l'aspirer dans un wallabag local, sait-on jamais)
+</p>
+++++

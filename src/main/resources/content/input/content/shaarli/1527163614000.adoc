@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rust-unofficial/awesome-rust: A curated list of Rust code and resources.
+:jbake-tags: rust,programming,_mois_mai,_année_2018
+:jbake-date: 2018-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1527163614000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frust-unofficial%2Fawesome-rust&searchtags=rust+programming+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/rust-unofficial/awesome-rust[rust-unofficial/awesome-rust: A curated list of Rust code and resources.]
+
+Génial, du rust !

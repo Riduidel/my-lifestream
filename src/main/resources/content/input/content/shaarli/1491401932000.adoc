@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: explainshell.com - match command-line arguments to their help text
+:jbake-tags: linux,documentation,command-line,_mois_avr.,_année_2017
+:jbake-date: 2017-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1491401932000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fexplainshell.com%2F&searchtags=linux+documentation+command-line+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://explainshell.com/[explainshell.com - match command-line arguments to their help text]
+
+C'est génial ! Je veux le même dans mon shell Linux !

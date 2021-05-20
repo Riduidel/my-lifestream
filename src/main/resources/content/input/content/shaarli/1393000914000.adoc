@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: quand je corrige un bug le vendredi à 17h00
+:jbake-tags: humour,software,développement,_mois_févr.,_année_2014
+:jbake-date: 2014-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1393000914000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flesjoiesducode.fr%2Fpost%2F77384624741%2Fquand-je-corrige-un-bug-le-vendredi-a-17h00&searchtags=humour+software+d%C3%A9veloppement+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://lesjoiesducode.fr/post/77384624741/quand-je-corrige-un-bug-le-vendredi-a-17h00[quand je corrige un bug le vendredi à 17h00]
+
+Ah, ça, c'est moi il y a 1/4 d'heure !

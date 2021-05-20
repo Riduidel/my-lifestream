@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What is Kodu | Projects | Fuse Labs
+:jbake-tags: 3d,enfants,programming,freeware,jeu,microsoft,_mois_sept.,_année_2010
+:jbake-date: 2010-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1285687008000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffuse.microsoft.com%2Fproject%2Fkodu.aspx&searchtags=3d+enfants+programming+freeware+jeu+microsoft+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://fuse.microsoft.com/project/kodu.aspx[What is Kodu | Projects | Fuse Labs]
+
+Un outil de développement de jeux et de trucs divers

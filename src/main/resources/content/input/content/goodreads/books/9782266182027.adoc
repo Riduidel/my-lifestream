@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le fabuleux Maurice et ses rongeurs savants
+:jbake-tags:  animaux, complot, fantasy,_année_2015,_mois_août,_note_3,rayon-imaginaire,read
+:jbake-date: 2015-08-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266182027.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462309630l/3246365._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462309630l/3246365._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3246365
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Les déchets magiques de l'Université de l'Invisible ont transformé le chat Maurice et les rats des environs en créatures super intelligentes, dotées de parole et d'une conscience du monde très aiguë. Maurice est devenu le roi de l'arnaque. Avec sa bande de rats, il parcourt les cités qu'il pille joyeusement en simulant des invasions, grâce à un complice benêt, le joueur de flûte. Mais arrivés à Bad Igoince, la petite bande tombe sur un os. Un village sans rats où vivent pourtant des chasseurs de rats, voilà qui est étrange. Voire carrément malsain...
+</div>
+++++
+
+
+## Authors
+* link:../authors/58715.html[Patrick Couton]
+* link:../authors/1654.html[Terry Pratchett]
+
+## Series
+* link:../series/Discworld.html[Discworld]
+
+## Review
+
+++++
+Une réinterprétation très pratchiettenne ( normal) des histoires de joueur de flûte. Maurice est très bon, tout comme noir mat. J'ai juste un souci avec Malicia, qui est peut-être un peu trop théâtrale. Mais, comme tout livre de Pratchett, ça reste une lecture très agréable, quand bien même il s'agit clairement d'une oeuvre à destination du jeune public.
+++++

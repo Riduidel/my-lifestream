@@ -1,0 +1,78 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: On fait comment une conception ?
+:jbake-tags: collaboration,_mois_mai,_année_2021
+:jbake-date: 2021-05-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/05/04/on-fait-comment-une-conception.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/05/04/on-fait-comment-une-conception/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Suite à mon précédent article un poil critique sur la revue de code, j'ai eu droit à une question intéressante de la part de mon collègue Douglas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/sixdouglas\/status\/1380772176471728129","type":"rich","providerNameSlug":"twitter","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/sixdouglas" class="screenName"><img src="http://abs.twimg.com/sticky/default_profile_images/default_profile_mini.png" alt="profile of Dev @ZenikaLille"/>sixdouglas</a>
+		<span class="name">Douglas SIX</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/sixdouglas/status/1 380 772 176 471 728 129" class="date">10 avr. 2021 à 08:38:35</a>
+
+	<span class="content">
+	
+	<span class="text">@nmahoude @riduidel Par contre, comment gérerais tu cette activité dans le cadre d’une équipe qui n’a pas une connaissance profonde du produit sur lequel elle travaille (je parle du turnover de l’équipe) ? Pourrait-on simplement faire de la conception ensemble ?</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>La première chose à noter dans cette question, c'est l'insistance sur le fait que les développeurs ne connaissent pas forcément le produit sur lequel ils travaillent. Et c'est parfaitement vrai. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, ça veut dire quoi "concevoir un développement" ? Il s'agit tout simplement de jouer, pour un développement particulier, le rôle de l'architecte. Et là, je n'aide personne, puisque le rôle de l'architecte est particulièrement flou dans le monde du logiciel. Néanmoins, pour une fois, je pense que la définition de Grady Booch est appropriée :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Architecture represents the significant design decisions that shape a system, where significant is measured by cost of change.</p><cite>Grady Booch - <strong><a href="https://web.archive.org/web/20141105103823/https://www.ibm.com/developerworks/community/blogs/gradybooch/entry/on_design?lang=en">On design</a></strong> (voir aussi <strong><a href="https://www.bredemeyer.com/whatis.htm">Software Architecture and Related Concerns</a></strong>)</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Donc, quand on joue le rôle d'architecte pour un développement, c'est-à-dire qu'on le conçoit, on doit se poser les questions concernant les changements significatifs qu'on va apporter au système. Et pour revenir à la question de Douglas, c'est une excellente façon de découvrir le système et de le comprendre. Autrement dit, je propose d’utiliser ces phases de conception pour prendre le temps de découvrir ce qu'on va modifier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais comment rendre cette connaissance partageable ? D'abord, via un support commun. Et si les issues des bugtrackers marchent bien pour discuter de petites modifications, je trouve que, pour les gros développements, il vaut parfois mieux créer un vrai document de conception qu'on mettra avec la documentation d'architecture - dans la section ADR. Sauf que j'aurais tendance à ne pas formaliser mon ADR aussi simplement que ce que proposent les différents modèles. Non, à titre personnel, j'aurais plutôt tendance à présenter le problème, puis la description de la solution en reprenant justement le plan de l'<a href="http://www.codingthearchitecture.com/2016/05/31/agile_software_architecture_documentation.html">agile architecture documentation</a>. Parce qu'il permet précisément de segmenter le gros problème en ses différentes facettes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Typiquement, une grosse fonctionnalité, une qui requiert une documentation spécifique, va avoir des impacts sur différents éléments du logiciel : l'architecture, les donnée,s le déploiement. Et ce modèle de document couvre correctement ces différentes questions, comme je l'ai déjà écrit. Qui plus est, il permet facilement l'amélioration collaborative : un premier rédacteur peut lancer ses idées, et les voir améliorées par un second rédacteur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce qui permet quelque chose que je trouve de plus en plus souhaitable, aussi bien organisationnellement que techniquement : remplacer le synchrone par l'asynchrone via un support permanent, et constamment amélioré.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour l'écrire autrement, ce que je propose est assez simple : quand vous lancez un nouveau développement, demandez à un nouvel arrivant d'en faire la conception en suivant le modèle de l'agile architecture documentation, en commençant par un simple commentaire dans le bug tracker puis, si il s'avère que la fonctionnalité est trop importante, dans un document que vous placerez dans vos ADR. Et relisez ce qu'il produit avant de lancer le développement.</p>
+<!-- /wp:paragraph -->
+++++

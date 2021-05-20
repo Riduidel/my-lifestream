@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julien Ponge on Twitter: "RT @simas_ch: The funny thing about diagrams explaining Kafka architecture: Change Kafka to ESB and you have an ESB architecture diagram fr…" / Twitter
+:jbake-tags: citation,kafka,entreprise,bus,_mois_août,_année_2019
+:jbake-date: 2019-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1567181862000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjponge%2Fstatus%2F1167411205478260736&searchtags=citation+kafka+entreprise+bus+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jponge/status/1167411205478260736[Julien Ponge on Twitter: "RT @simas_ch: The funny thing about diagrams explaining Kafka architecture: Change Kafka to ESB and you have an ESB architecture diagram fr…" / Twitter]
+
+T'imagine l'enfer le jour où les clients vont se rendre compte qu'ils refont les mêmes trucs qu'il y a dix ans ?

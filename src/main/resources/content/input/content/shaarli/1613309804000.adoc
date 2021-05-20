@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tagir Valeev sur Twitter : "Ever wondered how the JVM debugger 'Evaluate' feature works in IDEs? Long ago I thought that the Java debug interface (JDI) actually allows you to specify the expression and get back its value. https://t.co/CSxBfWZWCh" / Twitter
+:jbake-tags: java,debugger,programming,design,_mois_févr.,_année_2021
+:jbake-date: 2021-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1613309804000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Ftagir_valeev%2Fstatus%2F1360512507744550914&searchtags=java+debugger+programming+design+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/tagir_valeev/status/1360512507744550914[Tagir Valeev sur Twitter : "Ever wondered how the JVM debugger 'Evaluate' feature works in IDEs? Long ago I thought that the Java debug interface (JDI) actually allows you to specify the expression and get back its value. https://t.co/CSxBfWZWCh" / Twitter]
+
+Je me demande comment ça marche dans éclipse...

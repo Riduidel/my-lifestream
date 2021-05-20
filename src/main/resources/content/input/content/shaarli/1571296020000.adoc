@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Josh Long (龙之春, जोश, Джош Лонг, جوش لونق) sur Twitter : "Every time I get on stage I: * shutdown all apps * launch a presentation Google Chrome profile no chat plugins * empty my Downloads directory * disable OS notifications * put everything on my Desktop into a folder called ‘misc’ * rebuild to cache deps * open ‘slides’ You?"
+:jbake-tags: speaker,présentation,méthode,_mois_oct.,_année_2019
+:jbake-date: 2019-10-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1571296020000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fstarbuxman%2Fstatus%2F1184343864804429824&searchtags=speaker+pr%C3%A9sentation+m%C3%A9thode+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/starbuxman/status/1184343864804429824[Josh Long (龙之春, जोश, Джош Лонг, جوش لونق) sur Twitter : "Every time I get on stage I: * shutdown all apps * launch a presentation Google Chrome profile no chat plugins * empty my Downloads directory * disable OS notifications * put everything on my Desktop into a folder called ‘misc’ * rebuild to cache deps * open ‘slides’ You?"]
+
+Des tonnes de bons conseils pour speakers expérimentés. Je retiens en particulier le coup du second compte utilisateur ...

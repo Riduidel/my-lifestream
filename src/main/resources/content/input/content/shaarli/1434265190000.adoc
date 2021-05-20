@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JSON Generator – Tool for generating random data
+:jbake-tags: javascript,json,générateur,software,online,_mois_juin,_année_2015
+:jbake-date: 2015-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1434265190000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.json-generator.com%2F&searchtags=javascript+json+g%C3%A9n%C3%A9rateur+software+online+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.json-generator.com/[JSON Generator – Tool for generating random data]
+
+Un générateur de JSON à partir d'un modèle, lui-même décrit sous forme de JSON

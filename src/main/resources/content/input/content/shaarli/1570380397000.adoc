@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bibliothèque BnF sur Twitter : "Sur @GallicaBnF des millions d’images sont accessibles aux chercheurs ainsi qu'à tous les publics souhaitant en faire un usage non commercial. Ces images peuvent être téléchargées facilement en haute définition via une API gratuite 👉https://t.co/P8eM9HwrmO… https://t.co/oWohURwVue"
+:jbake-tags: image,libre,histoire,carte,_mois_oct.,_année_2019
+:jbake-date: 2019-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1570380397000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FlaBnF%2Fstatus%2F1179735536728190978&searchtags=image+libre+histoire+carte+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/laBnF/status/1179735536728190978[Bibliothèque BnF sur Twitter : "Sur @GallicaBnF des millions d’images sont accessibles aux chercheurs ainsi qu'à tous les publics souhaitant en faire un usage non commercial. Ces images peuvent être téléchargées facilement en haute définition via une API gratuite 👉https://t.co/P8eM9HwrmO… https://t.co/oWohURwVue"]
+
+Nom de Zeus ! Je prédis une hausse significative de l'usage d'images de Gallica un peu partout

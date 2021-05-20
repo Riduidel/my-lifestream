@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JNode.org |
+:jbake-tags: software,freeware,open-source,programming,java,library,system,_mois_avr.,_année_2005
+:jbake-date: 2005-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1112526571000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjnode.sourceforge.net%2Fportal%2F&searchtags=software+freeware+open-source+programming+java+library+system+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://jnode.sourceforge.net/portal/[JNode.org |]
+
+JNode is a simple to use & install Java operating system for personal use. It runs on modern devices.

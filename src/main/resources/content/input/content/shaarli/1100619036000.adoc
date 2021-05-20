@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Working Smart
+:jbake-tags: productivité,web,_mois_nov.,_année_2004
+:jbake-date: 2004-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1100619036000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmichaelhyatt.blogs.com%2Fworkingsmart%2F&searchtags=productivit%C3%A9+web+_mois_nov.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://michaelhyatt.blogs.com/workingsmart/[Working Smart]
+
+Weblog of Thomas Nelson Publishers COO of Thomas Nelson Publishers on smart working and useful efficiency tips.

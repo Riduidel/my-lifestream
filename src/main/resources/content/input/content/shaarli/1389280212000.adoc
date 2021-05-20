@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software in 2014
+:jbake-tags: software,programming,concepts,web,mobile,_mois_janv.,_année_2014
+:jbake-date: 2014-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1389280212000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tbray.org%2Fongoing%2FWhen%2F201x%2F2014%2F01%2F01%2FSoftware-in-2014&searchtags=software+programming+concepts+web+mobile+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://www.tbray.org/ongoing/When/201x/2014/01/01/Software-in-2014[Software in 2014]
+
+Excellent article sur l'état du développement côté client (lire mobile). J'aime particulièrement son expression "explosion cambrienne" qui montre bien à quel point le développement client voit chaque jour émerger sa nouvelle idée qui se révèle à chaque fois ou presque soit une fausse bonne idée, soit une réinvention d'un truc largement préexistant.

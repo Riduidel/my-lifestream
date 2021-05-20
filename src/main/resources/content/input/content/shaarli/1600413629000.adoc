@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bash History Navigation
+:jbake-tags: linux,command-line,histoire,mémoire,astuce,_mois_sept.,_année_2020
+:jbake-date: 2020-09-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1600413629000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Felijahmanor.com%2Fblog%2Fpun-history&searchtags=linux+command-line+histoire+m%C3%A9moire+astuce+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://elijahmanor.com/blog/pun-history[Bash History Navigation]
+
+Quelques astuces relatives à l'historique des commandes sous Linux. J'aime beaucoup le top 5 des commandes ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom sur Twitter : ""Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." — Isaac Asimov"
+:jbake-tags: citation,informatique,concepts,psychologie,_mois_mars,_année_2020
+:jbake-date: 2020-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1584209078000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatuses%2F1238821434710949888&searchtags=citation+informatique+concepts+psychologie+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/statuses/1238821434710949888[Programming Wisdom sur Twitter : ""Part of the inhumanity of the computer is that, once it is competently programmed and working smoothly, it is completely honest." — Isaac Asimov"]
+
+Effectivement, les ordinateurs sont aussi inhumains parce qu'ils ont toujours raison, et aucun moyen de comprendre la psychologie humaine.

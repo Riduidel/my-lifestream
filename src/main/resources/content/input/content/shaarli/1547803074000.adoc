@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What if the Architect is Wrong?
+:jbake-tags: architecture,documentation,décision,responsabilité,_mois_janv.,_année_2019
+:jbake-date: 2019-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1547803074000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2019%2F01%2F15%2Fwhat-if-architect-is-wrong.html&searchtags=architecture+documentation+d%C3%A9cision+responsabilit%C3%A9+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.yegor256.com/2019/01/15/what-if-architect-is-wrong.html[What if the Architect is Wrong?]
+
+Très bon article, qui montre bien que l'architecte est responsable des décisions architecturales, et qu'il s'appuie pour ça sur des requirements. Il manque simplement les ADR qui sont les traces des décisions.

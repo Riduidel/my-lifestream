@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sputnik Screenshots
+:jbake-tags: software,freeware,macosx,system,launcher,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110991493000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sebastian-krauss.de%2Fsoftware%2Fsputnikscreenshots.html&searchtags=software+freeware+macosx+system+launcher+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sebastian-krauss.de/software/sputnikscreenshots.html[Sputnik Screenshots]
+
+Sputnik is a small application that allows you to perform a few tasks with only a few keystrokes. These tasks include launching applications, controlling iTunes, searching for addresses, performing calculations and performing searches using your favorite

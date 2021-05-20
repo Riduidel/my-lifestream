@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Récits du Vieux Royaume
+:jbake-tags: serie
+:jbake-date: 2009-09-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Recits_du_Vieux_Royaume.adoc
+:jbake-source: https://www.goodreads.com/series/74361
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070437412.html[Gagner la guerre]
+* link:../books/9782070355709.html[Janua vera]
+* link:../books/9782361831981.html[Le Sentiment du fer]

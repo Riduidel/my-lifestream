@@ -1,0 +1,66 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Après l'architecture, il est temps de passer au code
+:jbake-tags: architecture_agile,c4model,design,_mois_avr.,_année_2020
+:jbake-date: 2020-04-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/14/nous-avons-bien-concu-codons-maintenant.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/14/nous-avons-bien-concu-codons-maintenant/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série consacrée à la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> avec C4 dans un contexte agile. Et il fait évidement suite à celui où nous avons défini <a href="https://riduidel.wordpress.com/2020/04/10/alors-ca-ressemble-a-quoi-une-architecture-avec-c4/">l'architecture</a> à "gros grains".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'effectivement, dans un contexte classique, on commence par concevoir tous les détails du code avant de rentrer dans l'implémentation. Seulement voilà, depuis quinze ans maintenant, l'agile et sa variante non adaptable Scrum ont envahi les organisations et définissent un standard de fait concernant la production de logiciel. Et dans ce standard de fait, on n'attend pas forcément d'avoir conçu un logiciel pour le développer. C'est sans doute un tord immense, mais c'est comme ça : il semble maintenant admis qu'un développeur peut se lancer dans un développement d'une semaine de code juste armé d'un post-it et d'une discussion avec un product owner. J'ai l'air sarcastique comme ça, mais j'ai vu de tels développements avoir lieu, et ça commence généralement assez mal avant de continuer encore plus mal et se terminer par des refactorings menés à l'arrache.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, comment faire pour bien mener les activités de code ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, en se posant les bonnes questions, et c'est ce que propose Simon Brown dans la section <a href="https://structurizr.com/help/documentation/code">code</a>. C’est-à-dire en réfléchissant avant de coder. Et c'est ce que propose la série de question qu'il pose. Le problème, c'est que ces questions n'ont pas forcément de sens en-dehors du code. Je m'explique. De nos jours, les composants sont tous développés dans des plateformes à la GitHub, qui facilite le <a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">readme driven development</a>. Du coup, ces questions ont plus de sens dans le readme de chaque projet, et ne doivent se retrouver dans la documentation d'architecture que de manière indirecte. Parce que si ces questions y ont un intérêt, c'est à titre d'archive. Il faut donc disposer d'un moyen de les copier facilement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est pour cette raison que l'archétype que je fournis dispose d'un module dédié à GitHub (j'ajouterai celui dédié à Gitlab prochainement) qui permet de lire les propriétés de chaque composant pour "aspirer" le readme dans la section code de la documentation d'architecture. Ca n'a qu'un défaut : les diagrammes éventuellement présents dans le readme ne sont pas aspirés ... pour l'instant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai testé cette approche dans un projet précédent, et elle s'avère très intéressante pour agréer la documentation sans effort.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans mon exemple, il me suffit d'annoter un élément du modèle de cette façon</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:syntaxhighlighter/code {"language":"java"} -->
+<pre class="wp-block-syntaxhighlighter-code">Container sncfReader = kafkatrain.addContainer("sncf-reader", "Read timetables from navitia, despite its name", "Java/Vert.x");
+sncfReader.addProperty(Keys.GITHUB_PROJECT, "https://github.com/Riduidel/snowcamp-2019");
+sncfReader.addProperty(Keys.GITHUB_README, "src/build/reference/sncf-reader/readme.md");</pre>
+<!-- /wp:syntaxhighlighter/code -->
+
+<!-- wp:paragraph -->
+<p>Pour que la documentation d'architecture prenne cette forme</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5689,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://riduidel.files.wordpress.com/2020/04/2020-04-10-17_50_02-example.png?w=1024" alt="" class="wp-image-5689" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>C'est pratique, parce que la documentation d'architecture reste un point central, et ça ne perturbe pas le travail des développeurs !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On pourrait aussi forcer les développeurs à se poser les questions de façon plus appuyée en demandant pour chaque composant quel est la motivation de chaque choix de technologie, mais je pense que c'est pousser trop loin la démarche de justification. Si vous avez le moindre avis sur cette question, je suis preneur ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que bien souvent, on choisit une technologie (comme Java, par exemple) uniquement parce qu'on la maîtrise, et pas du tout pour ses qualités spécifiques dans une situation donnée. C'est également le cas des systèmes de données du projet, qu'on évoquera dans le prochain article.</p>
+<!-- /wp:paragraph -->
+++++

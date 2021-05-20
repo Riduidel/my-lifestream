@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PHP: La bonne manière
+:jbake-tags: php,documentation,programming,_mois_juil.,_année_2019
+:jbake-date: 2019-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1562003254000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feilgin.github.io%2Fphp-the-right-way%2F&searchtags=php+documentation+programming+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://eilgin.github.io/php-the-right-way/[PHP: La bonne manière]
+
+Un gros doc expliquant comment faire du PHP "moderne". C'est bien.

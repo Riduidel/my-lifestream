@@ -1,0 +1,74 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Codingame : fin de partie
+:jbake-tags: codingame,mavie,_mois_juil.,_année_2017
+:jbake-date: 2017-07-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/07/04/codingame-fin-de-partie.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/07/04/codingame-fin-de-partie/
+:jbake-style: wordpress
+
+++++
+<p>
+Il y avait ces dix derniers jours un contest codingame.
+</p>
+<p>
+Et j'étais assez bien parti, puisque je suis arrivé en ligue silver. Malheureusement, à un moment donné, je me suis rendu compte que j'y passais sans doute trop de temps.
+</p>
+<p>
+J'ai donc décidé d'arrêter de participer aux contests codingame. D'ailleurs, je ne pense pas me remettre à codingame, même en-dehors des contests, avant un bon moment. Je retire de nombreuses choses de mes participations que je vais tenter de découper en plusieurs morceaux
+<br/>
+<h2>Wondev Woman</h2>
+<br/>
+Sur le contest proprement dit, c'était bien. J'avais commencé à coder mardi un algorithme conceptuellement proche de celui que j'utilisais pour Hypersonic, me permettant théoriquement de faire une analyse complète du plateau à plusieurs tours d'avance. J'achoppais sur un problème de chargement des directions possibles, mais j'avais en tête une solution.
+</p>
+<p>
+Mais avant un peu de vocabulaire
+<br/>
+<ul>
+<br/>
+<li>J'appelle <strong>action</strong> une action complète (MOVE&#38;BUILD ou PUSH&#38;BUILD).</li>
+<br/>
+<li>Un <strong>mouvement</strong> est un élément d'une action (déplacer la case "active" dans le futur d'une des directions possibles). Donc si on y réfléchit bien, une action est une paire de mouvements. Petite révélation : la différence entre PUSH&#38;BUILD et MOVE&#38;BUILD est que, dans le premier cas, le premier mouvement arrive sur une case occupée</li>
+<br/>
+</ul>
+<br/>
+Du coup, mon algorithme devenait quelque chose ressemblant à
+<br/>
+<ol>
+<br/>
+<li>Calculer les mouvements possibles au tour courant pour mes pions</li>
+<br/>
+<li>Pour chaque mouvement, calculer l'état du terrain après le mouvement (sans tenir compte de la position des joueurs). Il va y avoir des tonnes de superposition, qui correspondent à des futurs communs, ça offre une bonne réduction de l'espace de recherche.</li>
+<br/>
+<li>Scorer les positions des pions. Pour les meilleures positions, recommencer à l'étape 1. Le score utilisé doit être indépendant de la longueur des chemins</li>
+<br/>
+</ol>
+<br/>
+A mon avis, avec ça, j'aurais pu atteindre l'or. <strong>mais</strong>.
+<br/>
+<ul>
+<br/>
+<li>Implémenter un tel code est long, et assez fastidieux.</li>
+<br/>
+<li>J'ai eu cette idée uniquement parce que j'ai repris hypersonic après la fin du contest</li>
+<br/>
+<li>Je n'ai ni la motivation, ni le talent pour atteindre la légende (mon meilleur score à été d'atteindre le fond de la ligue gold).</li>
+<br/>
+</ul>
+<br/>
+<h2>Plus généralement</h2>
+<br/>
+Ces constats, qui ne sont pas d'ordre techniques mais personnels, sont reproductibles pour tous les problèmes de codingame : il y a de bien meilleurs joueurs que moi, et je le vois clairement.
+</p>
+<p>
+A mon avis, c'est parfait pour découvrir un nouveau langage. Et en réalité, attaquer ces problèmes en Java était pour moi une facilité. En théorie, j'aurais dû les attaquer en Python, en Scala, ou dans n'importe quel langage dans lequel j'ai envie de progresser vite.
+</p>
+<p>
+Parce que les structures de données que j'ai mis en place, contrairement à d'autres participants, faisaient la part belle aux design patterns, à la bonne programmation orientée objet, bref au code Java bien idiomatique. Et je sais que j'aurais fait pareil dans d'autres langages.
+</p>
+<p>
+Du coup, je vais arrêter d'y jouer en Java, et je m'y remettrais si je dois découvrir un nouveau langage.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [JavaSpecialists 255] - Java 10: Inferred Local Variables
+:jbake-tags: java,programming,qualité,_mois_avr.,_année_2018
+:jbake-date: 2018-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1523460713000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.javaspecialists.eu%2Farchive%2FIssue255.html&searchtags=java+programming+qualit%C3%A9+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.javaspecialists.eu/archive/Issue255.html[[JavaSpecialists 255] - Java 10: Inferred Local Variables]
+
+Pas mal, c'est la première fois que je vois un argument contre var qui ait du sens.

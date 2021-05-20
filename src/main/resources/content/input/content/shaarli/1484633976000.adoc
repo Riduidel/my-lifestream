@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ronmamo/reflections
+:jbake-tags: java,library,classpath,exploration,_mois_janv.,_année_2017
+:jbake-date: 2017-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1484633976000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fronmamo%2Freflections&searchtags=java+library+classpath+exploration+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/ronmamo/reflections[ronmamo/reflections]
+
+La bonne librairie Java pour trouver les classes implémentant une interface, ou ayant une annotation, ...

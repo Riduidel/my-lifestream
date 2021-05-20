@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ignite Realtime: Openfire Server
+:jbake-tags: java,server,xmpp,open-source,_mois_juin,_année_2019
+:jbake-date: 2019-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1559746374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.igniterealtime.org%2Fprojects%2Fopenfire%2F&searchtags=java+server+xmpp+open-source+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.igniterealtime.org/projects/openfire/[Ignite Realtime: Openfire Server]
+
+La prochaine fois que je chercherai un serveur XMPP, faut que j'évite d'utiliser des "standards" moisis. Celui-ci est complet, et fonctionne bien (y compris dans Docker)

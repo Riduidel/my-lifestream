@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mary Wollstonecraft Shelley
+:jbake-tags: author
+:jbake-date: 2003-11-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/11139.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1588859766p5/11139.jpg
+:jbake-source: https://www.goodreads.com/author/show/11139
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782277235675.html[Frankenstein ou Le Prométhée moderne]

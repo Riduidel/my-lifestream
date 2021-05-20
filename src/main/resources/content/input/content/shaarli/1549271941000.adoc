@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SLA & Uptime calculator: How much downtime corresponds to 99.9 % uptime
+:jbake-tags: service,qualité,calculator,web,_mois_févr.,_année_2019
+:jbake-date: 2019-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1549271941000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fuptime.is%2F99.9&searchtags=service+qualit%C3%A9+calculator+web+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://uptime.is/99.9[SLA & Uptime calculator: How much downtime corresponds to 99.9 % uptime]
+
+Il est mignon ce calculateur d'uptimes en fonction d'un pourcentage de disponibilité

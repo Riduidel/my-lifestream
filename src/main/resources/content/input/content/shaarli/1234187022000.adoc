@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: start - DNS323Wiki
+:jbake-tags: dns-323,wiki,documentation,_mois_févr.,_année_2009
+:jbake-date: 2009-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1234187022000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.dns323.info%2F&searchtags=dns-323+wiki+documentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://wiki.dns323.info/[start - DNS323Wiki]
+
+Un wiki super complet sur les façons de customiser, voire même d'ultra-péter, mon petit disque dur réseau

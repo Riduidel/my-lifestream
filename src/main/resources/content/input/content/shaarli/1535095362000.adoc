@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Diane Hosfelt on Twitter: "The Borrow Checker (A benevolent dictator) ...it would have been cats but my stick figures are very limited @rustlang… https://t.co/B9qMMIFEIQ"
+:jbake-tags: rust,mémoire,erreur,_mois_août,_année_2018
+:jbake-date: 2018-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1535095362000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Favadacatavra%2Fstatus%2F1032768060996952064&searchtags=rust+m%C3%A9moire+erreur+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/avadacatavra/status/1032768060996952064[Diane Hosfelt on Twitter: "The Borrow Checker (A benevolent dictator) ...it would have been cats but my stick figures are very limited @rustlang… https://t.co/B9qMMIFEIQ"]
+
+C'est vrai qu'il invite à lire les messages d'erreur (qui sont par ailleurs bien foutus)

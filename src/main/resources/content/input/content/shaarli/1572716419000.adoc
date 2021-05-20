@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paper Phone – Applications sur Google Play
+:jbake-tags: android,application,offline,papier,_mois_nov.,_année_2019
+:jbake-date: 2019-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1572716419000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.withgoogle.experiments.unplugged&searchtags=android+application+offline+papier+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://play.google.com/store/apps/details?id=com.withgoogle.experiments.unplugged[Paper Phone – Applications sur Google Play]
+
+L'idée est géniale, particulièrement pour les gens qui ne décrochent pas facilement de leur téléphone (et j'en connais)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Sad State of Web Development — Medium
+:jbake-tags: javascript,web,front,programming,_mois_janv.,_année_2016
+:jbake-date: 2016-01-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1452595283000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40wob%2Fthe-sad-state-of-web-development-1603a861d29f%23.31rba2khc&searchtags=javascript+web+front+programming+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.31rba2khc[The Sad State of Web Development — Medium]
+
+Très juste. De mon point de vue, jQuery + requirejs + Ractivejs, ça suffit dans tous les cas.

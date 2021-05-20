@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Do you kill registrator? - Rancher - Rancher Forums
+:jbake-tags: rancher,consul,docker,registry,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1505475194000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fforums.rancher.com%2Ft%2Fdo-you-kill-registrator%2F5152&searchtags=rancher+consul+docker+registry+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://forums.rancher.com/t/do-you-kill-registrator/5152[Do you kill registrator? - Rancher - Rancher Forums]
+
+Donc ... Rancher-registrator remplace registrator qui ne marche plus depuis Rancher 1.2.x ... OKAAAAYYYY

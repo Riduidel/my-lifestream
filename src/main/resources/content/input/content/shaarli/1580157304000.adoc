@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pull Requests · dluxemburg/reveal-run-in-terminal
+:jbake-tags: open-source,revealjs,plugin,partage,_mois_janv.,_année_2020
+:jbake-date: 2020-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1580157304000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdluxemburg%2Freveal-run-in-terminal%2Fpulls&searchtags=open-source+revealjs+plugin+partage+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/dluxemburg/reveal-run-in-terminal/pulls[Pull Requests · dluxemburg/reveal-run-in-terminal]
+
+Vous voyez ça, c'est un projet non maintenu. Alors on fait quoi dans ces cas-là ? On le laisse crever, ou on le forke ? Au bout de quatre ans de non-maintenance, je pense que le fork est faisable.

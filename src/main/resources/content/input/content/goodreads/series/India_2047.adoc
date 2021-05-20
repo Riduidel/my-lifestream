@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: India 2047
+:jbake-tags: serie
+:jbake-date: 2014-03-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/India_2047.adoc
+:jbake-source: https://www.goodreads.com/series/83985
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070453610.html[Le Fleuve des dieux]
+* link:../books/9782070467709.html[La Petite Déesse]

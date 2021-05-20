@@ -1,0 +1,56 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - Jean-Michel Billaut
+:jbake-tags: devoxx,futur,médecine,_mois_avr.,_année_2016
+:jbake-date: 2016-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-jean-michel-billaut.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-jean-michel-billaut/
+:jbake-style: wordpress
+
+++++
+<p>
+Je connais <a href="http://billaut.typepad.com/">son blog</a> depuis des années. et je sais bien pourquoi il en bave pour monter l'escalier.
+<br/>
+Franchement, c'est surtout un plaisir incroyable d'écouter parler cet homme qui suit les évolutions du web depuis des dizaines d'années.
+</p>
+<p>
+Et le gars commence tranquille avec ses meilleures blagues sur madame Billaut qui le croit fondé de pouvoir dans une banque 1.0. et surtout, il enchaîne avec talent sans l'ombre d'une note autre que la liste des sites qu'il veut nous montrer.
+</p>
+<p>
+Donc, petite introduction sur la disruption de la médecine, avec un rapide aperçu de ses meilleures idées. je dis ses meilleures idées, parce qu'en ayant lu son blog, je sais qu'il a bien plus de choses intéressantes à dire. Allez donc le lire.
+<br/>
+On est dans la troisième révolution industrielle où, peut-être, nous ne serons plus malades.
+</p>
+<p>
+Rapide plongée dans la médecine, où il nous a parlé, je pense, de CRISPR (le même que sur <a href="http://www.podcastscience.fm/">podcast science</a>). Ca permet l'intervention directe sur les gènes à bas coût et rapidement.
+</p>
+<p>
+En France, faire faire son séquencage génomique est passible d'un an de prison et de 15000€ d'amendes. Alors que vos gènes sont les vôtres.
+</p>
+<p>
+Et pendant ce temps-là, à Boston, Jean-Michel se fait séquencer et interpréter son génome pour 1000 $. Et la chine investit des milliards de dollars dans le domaine.
+</p>
+<p>
+Dans le futur, vous ferez votre séquencage deux fois par an pour voir ce qui a bougé, et vous connecterez ça à l'internet des objets de médecine et au big data pour trouver les processus amenant au cancer, au diabète, et aux autre maladies dégénératives.
+</p>
+<p>
+La démocratisation des outils d'analyse, comme les spectromètres prochainement intégrables dans les téléphones portable, va tout changer, car tout le monde saura à la fois si les aliments contiennent des pesticides, par exemple, et quel sera l'impact de ces aliments sur leur métabolisme.
+</p>
+<p>
+Et pour avancer dans ce domaine, l'Angleterre a lancé une initiative nationale, pendant que l'Islande, l'Ecosse, l'Irlande, lance des startups sur le sujet.
+</p>
+<p>
+il y a même des boites comme portable genomics, qui permettent aux gens d'être propriétaires de leurs données génomiques, et de les revendre aux entreprises qui en veulent.
+</p>
+<p>
+Et, en bonus, il y a aussi des startups qui se lancent dans l'impression/création/pousse d'organes artificels (comme le foie ou la glande thyroïde). Ca sauve des vies.
+</p>
+<p>
+A l'heure actuelle, 10 M$ ont été investis dans la e-santé.
+</p>
+<p>
+Pour finir, dans 10 ans, 80% des médecins ne serviront plus à rien.
+</p>
+++++

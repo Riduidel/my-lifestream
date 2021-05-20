@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Living Diagrams with Java Annotations and PlantUML - comsystoreply - Medium
+:jbake-tags: plantuml,documentation,diagram,dynamic,code,open-source,java,annotation,_mois_févr.,_année_2020
+:jbake-date: 2020-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1580908089000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fcomsystoreply%2Fliving-diagrams-with-java-annotations-and-plantuml-9d3de355d224&searchtags=plantuml+documentation+diagram+dynamic+code+open-source+java+annotation+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/comsystoreply/living-diagrams-with-java-annotations-and-plantuml-9d3de355d224[Living Diagrams with Java Annotations and PlantUML - comsystoreply - Medium]
+
+Ca ressemble à une idée que j'ai eue, mais que je n'ai jamais pu mener à son terme ...

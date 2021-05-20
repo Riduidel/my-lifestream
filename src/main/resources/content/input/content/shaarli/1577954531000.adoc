@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni
+:jbake-tags: web,http,rest,json,développeur,design,_mois_janv.,_année_2020
+:jbake-date: 2020-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1577954531000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.vinaysahni.com%2Fbest-practices-for-a-pragmatic-restful-api&searchtags=web+http+rest+json+d%C3%A9veloppeur+design+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api[Best Practices for Designing a Pragmatic RESTful API | Vinay Sahni]
+
+Un bel ensemble de bonnes pratiques dans le design d'une API REST. C'est joliment détaillé et assez clair. Il ne manque qu'une version checklist pour que ce soit parfait 😋

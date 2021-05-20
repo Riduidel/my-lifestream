@@ -1,0 +1,452 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jenkins, sers-moi donc un Chtijug !
+:jbake-tags: chtijug,groovy,jenkins,_mois_janv.,_année_2017
+:jbake-date: 2017-01-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/01/19/jenkins-sers-moi-donc-un-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/01/19/jenkins-sers-moi-donc-un-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+<a href="https://riduidel.wordpress.com/2015/05/21/vite-un-chtijug/">Nicolas Géraud était venu nous parler des pipelines il y déja deux ans.</a>Est-ce que cette présentation allait être mieux ? En tout cas, elle est bien différente.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/821 778 950 267 478 020" class="date">18 janv. 2017 à 18:59:04</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">C'est parti pour la session Jenkins2 / Pipeline. Merci @IUTALille1 de nous héberger et @ZenikaLille et @Onyme_FR pour le buffet. https://t.co/AJCTgPgSMH</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/C2eLmShWEAAaZzg.jpg" alt="821 778 946 941 390 848"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-6">
+</p>
+<p>
+Petit point sponsoring de l’IUT sur la taxe d’apprentissage : les entreprises peuvent déclarer des organismes de formation bénéficiaires de leur taxe d’apprentissage. Ca peut avoir une influence sur le budget de ces organismes.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Et c’est parti !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+Avec d’abord un petit sondage :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-12">
+<br/>
+<ul>
+<br/>
+<li>qui connait Jenkins ? A main levée, tout le monde dans la salle.</li>
+<br/>
+<li>qui a déja migré vers Jenkins 2 ? Encore à main levée, pas grand monde.</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-15">
+<br/>
+<h2 id="truejenkins_2">Jenkins 2</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Donc Jenkins 2 … est totalement compatible avec Jenkins 1. Et c’est bien, parce que la montée de version va être simple. Dans l’ensemble, les plugins sont compatibles.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Avec Jenkins 2, il y a aussi de nouveaux sites
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-21">
+<br/>
+<ul>
+<br/>
+<li><a class="bare" href="http://jenkins.io/">http://jenkins.io</a> qui est bien plus grand public</li>
+<br/>
+<li>le <a href="http://plugins.jenkins.io/">project Voltron</a> sert de plugin store avec une chouette présentation. Limite comme le google play store, en fait.</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Il y a maintenant au premier démarrage un mot de passe à aller chercher dans les logs de la machine. Ca va permettre de sécuriser le serveur Jenkins avec un admin par défaut. Evidement, on peut toujours avoir un Jenkins non sécurisé, mais il faut le vouloir. Ce qui change pas mal de Jenkins 1 qui, par défaut, n'était pas sécurisé. En bonus, une liste de plugins par défaut est disponible, pour faire une première personnalisation de Jenkins.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+Et ensuite, on arrive aux fameux pipeline-as-code.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-29">
+<br/>
+<h3 id="truepipeline_as_code">Pipeline as code</h3>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Un job est défini par un <code>Jenkinsfile</code>, écrit dans un DSL Groovy, qu’on peut stocker dans son SCM. L’avantage, c’est aussi de permettre d’utiliser les structures de contrôle de Groovy pour personnaliser le job.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-33">
+<br/>
+<h3 id="trueet_ensuite">Et ensuite</h3>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+Il y a tout un tas de nouveaux trucs qui ne vont pas tarder à arriver
+</p>
+<p>
+</div>
+<br/>
+<div class="sect3 data-line-36">
+<br/>
+<h4 id="trueblueocean_d_ja_disponible_en_pas_beta_mais_pas_release_non_plus">BlueOcean (déja disponible en pas beta, mais pas release non plus)</h4>
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+La fameuse nouvelle interface graphique pour Jenkins. Les captures sont très chouettes !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Franchement, l’affichage des pipelines est très chouette. Si j’avais eu ça chez Perigee, j’aurais pu montrer un vraiment très beau pipeline. Le plus incroyable, c’est quand même de pouvoir faire "pousser" un pipeline graphiquement. Il faut voir l'écran pour le croire, je trouve.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-44">
+<br/>
+<h4 id="truepipeline_d_claratif">Pipeline déclaratif</h4>
+<br/>
+<div class="paragraph data-line-45">
+</p>
+<p>
+En bonus, ça permet à des non-développeurs de modifier le build, ce qui n’est pas une si mauvaise idée, puisque le code exécuté est toujours en SCM. En fait, le pipeline généré n’est pas exactement identique à celui qu’un développeur écrirait : c’est un pipeline déclaratif.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+D’une façon amusante, le speaker décrit la syntaxe d’un DSL Groovy comme "à mi-chemin entre YAML et Groovy". Guillaume Laforge et tous ses amis pleurent des larmes de sang en entendant ça. Parce que quand on regarde un DSL Groovy, comme par exemple le <a href="http://docs.groovy-lang.org/latest/html/api/groovy/xml/MarkupBuilder.html">MarkupBuilder</a>, on est exactement dans la syntaxe visible à l'écran. Bon, je ne vais pas en vouloir au speaker : il connaît sans doute mieux Jenkins que je connais Groovy.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-51">
+<br/>
+<h4 id="trueback_end_storage">Back-end storage</h4>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+Manifestement, l’objectif est de découpler le fonctionnement de Jenkins et le stockage des configurations d’exécution et des résultats. C’est une chouette idée, mais pas vraiment assistée par les capacités des plugins à écrire eux-mêmes des fichiers.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-55">
+<br/>
+<h3 id="truedonc_jenkins_2_c_est">Donc Jenkins 2, c’est ?</h3>
+<br/>
+<div class="paragraph data-line-57">
+</p>
+<p>
+Jenkins 2, c’est mieux, et orienté sur le continuous delivery. Et pas le continuous deployment. Autrement dit, l'équipe de cloudbees ne vise pas trop à utiliser Jenkins pour le déploiement en prod.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-59">
+<br/>
+<h2 id="truequelques_questions">Quelques questions</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-61">
+<br/>
+<h3 id="truesi_les_pipelines_sont_d_claratifs_comme_maven_ou_gradle_pourquoi_ne_pas_r_utiliser_leur_outillage">Si les pipelines sont déclaratifs, comme maven ou gradle, pourquoi ne pas réutiliser leur outillage ?</h3>
+<br/>
+<div class="paragraph data-line-62">
+</p>
+<p>
+Jenkins est utilisé pour faire le delivery, ce que ne font pas ces outils. En un sens, je comprend cette réponse : le scope fonctionnel est différent, et ce serait assez curieux de dire "on peut faire du gradle pour le déploiement". Et puis, Cloudbees et Gradle inc ne vont pas fusionner demain.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-64">
+</p>
+<p>
+Mais quand même, en transformant les jobs en bouts de code, je trouve que Cloudbees fait rentrer Jenkins dans une espace de continuum de build qui va de mon poste jusqu’aux artefacts déployables en prod.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-66">
+<br/>
+<h3 id="truecomment_se_compare_l_api_de_pipeline_as_code_et_de_job_dsl">Comment se compare l’API de pipeline-as-code et de job-dsl ?</h3>
+<br/>
+<div class="paragraph data-line-67">
+</p>
+<p>
+L’inspiration initiale de pipeline-as-code était buildflow, mais ça a vite divergé.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-69">
+<br/>
+<h3 id="trueet_la_d_mo">Et la démo</h3>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/DamienDuportal" class="screenName"><img src="http://pbs.twimg.com/profile_images/2428732492/BDIMINPEA00_mini.jpg" alt="profile of "/>DamienDuportal</a>
+<br/>
+<span class="name">Damien Duportal</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/DamienDuportal/status/821 787 616 802 701 317" class="date">18 janv. 2017 à 19:33:30</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Demo de @jenkinsci 2  par @alecharp au @chtijug : une salle chargée et attentive ! https://t.co/EmJuzes3lV</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/C2eTeRDXAAkZcWb.jpg" alt="821 787 605 201 256 457"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-71">
+<br/>
+<ul>
+<br/>
+<li>Premier truc cool : les plugins installés sont toujours installés à la dernière version.</li>
+<br/>
+<li>Deuxième truc cool : BlueOcean est déjà disponible comme plugin, et donc installable.</li>
+<br/>
+<li>Troisième truc cool : le travail d’administrateur Jenkins s’arrête, pour les jobs, à créer les jobs et les connecter à des SCM. Tout le reste vient du <code>Jenkinsfile</code>.</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-75"></div>
+<br/>
+<div class="paragraph data-line-77">
+</p>
+<p>
+Et donc, on passe à la création du Jenkinsfile. Et là, la structure des DSL Groovy réapparaît vraiment, et c’est bien.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-79">
+<br/>
+<ul>
+<br/>
+<li>Quatrième truc cool : les commandes <code>checkout</code> de SCM utilisent la révision du <code>Jenkinsfile</code>comme référence. Par conséquent, l’enchaînement d'étapes se passera beaucoup mieux que dans Jenkins 1, puisqu’il n’y aura pas de révision à passer. Par contre, curieusement, le DSL ne semble pas contenir de commande maven, puisque notre speaker exécute les commandes maven via un <code>sh "mvn clean package"</code>. Arf … apparement, le plugin exécutant maven est "mauvais".</li>
+<br/>
+<li>Cinquième truc cool : l’interface de Jenkins inclut un générateurs de snippets façon vieux wizards qui permet d’apprendre très rapidement le DSL des pipelines.</li>
+<br/>
+<li>Sixième truc cool : l’affichage des pipelines en cours est vraiment très sympa, avec des logs par noeud du pipeline affichés en temps réel.</li>
+<br/>
+<li>Septième truc cool : le DSL inclut une notion de stashes, valable uniquement pour la durée du pipeline, qui permet donc de ne pas déployer dans Nexus les artefacts temporaires.</li>
+<br/>
+<li>Premier truc pas cool : le pipeline est toujours exécuté sur le master. Du coup, la montée en charge pourrait mal se passer.</li>
+<br/>
+<li>Huitième truc cool : pour les pipelines déclaratifs, il est possible de demander à Jenkins d’analyser la syntaxe.</li>
+<br/>
+<li>Deuxième truc pas cool : on peut relancer un pipeline à partir d’une étape uniquement dans la version commerciale de Jenkins. C’est moins bien … mais je comprend tout à fait.</li>
+<br/>
+<li>Neuvième truc cool : il est possible de créer des morceaux de code partagés entre pipelines.</li>
+<br/>
+<li>Dixième truc cool : les milestones permettent d'éviter de lancer plusieurs builds concurrents sur une ressource critique.</li>
+<br/>
+</ul>
+<br/>
+Et si vous voulez voir le Jenkinsfile utilisé pour ce live-coding, il est <a href="https://github.com/alecharp/simple-app/blob/feature/build-in-jenkins-with-docker/Jenkinsfile">disponible sur github</a>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-100">
+<br/>
+<h2 id="trued_autres_questions">D’autres questions</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-101">
+<br/>
+<h3 id="truecomment_tester_un_pipeline">Comment tester un pipeline ?</h3>
+<br/>
+<div class="paragraph data-line-102">
+</p>
+<p>
+Eh bien, on ne peut pas : il faut le lancer dans une instance de Jenkins. Autrement dit, c’est le genre de truc où il faut une instance de test de Jenkins. Et mon collègue me souffle à l’oreille qu’on peut très bien utiliser l’annotation <code>@StaticCompile</code> de Groovy pour vérifier la syntaxe autant que possible (parce que <code>@StaticCompile</code>, sur un DSL, il doit bien s’amuser, tiens).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-106">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-108">
+</p>
+<p>
+J’ai quand même hâte de voir les projets passer au moins aux pipelines as code, histoire d’avoir dans mon SCM, à côté de mon pom.xml, le <code>Jenkinsfile</code> qui va bien. Et histoire aussi d'ajouter un peu de Groovy dans tout ça !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

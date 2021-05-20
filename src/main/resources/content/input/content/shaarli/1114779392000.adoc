@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Selfish Class
+:jbake-tags: software,programming,concepts,_mois_avr.,_année_2005
+:jbake-date: 2005-04-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1114779392000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.joeyoder.com%2Fpapers%2Fpatterns%2FSelfish%2Fselfish.html&searchtags=software+programming+concepts+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.joeyoder.com/papers/patterns/Selfish/selfish.html[The Selfish Class]
+
+Software artifacts that cannot attract programmers are not reused, and fade into oblivion.

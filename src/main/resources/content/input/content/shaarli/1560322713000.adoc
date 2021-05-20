@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Justin Cormack on Twitter: "Ok this is bonkers, turn your memory voltage/refresh down and run algorithms in lossy mode to save power.… "
+:jbake-tags: programming,system,mémoire,erreur,_mois_juin,_année_2019
+:jbake-date: 2019-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1560322713000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjustincormack%2Fstatus%2F1138425822996500485&searchtags=programming+system+m%C3%A9moire+erreur+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/justincormack/status/1138425822996500485[Justin Cormack on Twitter: "Ok this is bonkers, turn your memory voltage/refresh down and run algorithms in lossy mode to save power.… "]
+
+Un truc comme ça paraît invraisemblablement fou : on passe du monde à peu près déterministe au monde où l'erreur est acceptée ... C'est un vrai changement de paradigme machine.

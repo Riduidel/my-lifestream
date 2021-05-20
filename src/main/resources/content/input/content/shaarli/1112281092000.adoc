@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hello, World Page!
+:jbake-tags: programming,langage,exemple,java,ruby,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112281092000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww2.latech.edu%2F%7Eacm%2FHelloWorld.shtml&searchtags=programming+langage+exemple+java+ruby+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www2.latech.edu/~acm/HelloWorld.shtml[Hello, World Page!]
+
+Welcome to the ACM "Hello World" project. Everyone has seen the Hello World program used as a first exposure to a new language or environment. We are attempting to collect examples for as many languages and related programming environments (shells etc.) a

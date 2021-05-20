@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Groovy 3.0 Ajoute De Nouvelles Fonctionnalités Issues De Java
+:jbake-tags: groovy,programming,langage,open-source,_mois_janv.,_année_2020
+:jbake-date: 2020-01-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1579680438000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.infoq.com%2Ffr%2Farticles%2Fgroovy-3-new-features-java%2F&searchtags=groovy+programming+langage+open-source+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.infoq.com/fr/articles/groovy-3-new-features-java/[Groovy 3.0 Ajoute De Nouvelles Fonctionnalités Issues De Java]
+
+Groovy n'est pas mort, et ça, c'est une belle nouvelle !

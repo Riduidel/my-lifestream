@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kicks Condor
+:jbake-tags: bizarre,web,idée,catalog,_mois_nov.,_année_2019
+:jbake-date: 2019-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1572898231000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.kickscondor.com%2F&searchtags=bizarre+web+id%C3%A9e+catalog+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.kickscondor.com/[Kicks Condor]
+
+Le site est visuellement super louche, mais il y a là-dedans des trucs vraiment chouettes (et bizarres)

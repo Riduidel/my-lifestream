@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Auditorium
+:jbake-tags: python,revealjs,connecteur,open-source,_mois_mars,_année_2020
+:jbake-date: 2020-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1583159716000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fapiad.net%2Fauditorium%2F&searchtags=python+revealjs+connecteur+open-source+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://apiad.net/auditorium/[Auditorium]
+
+Une idée de fou, en fait ... Est-ce que j'ai envie de faire la même chose en Java avec Quarkus ? Bien sûr que oui. Est-ce que c'est une mauvaise idée ? Evidement.

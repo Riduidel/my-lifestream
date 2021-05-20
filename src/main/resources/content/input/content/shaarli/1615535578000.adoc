@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Immutables.org
+:jbake-tags: java,annotation,immutable,interface,code,générateur,_mois_mars,_année_2021
+:jbake-date: 2021-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1615535578000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fimmutables.github.io%2F&searchtags=java+annotation+immutable+interface+code+g%C3%A9n%C3%A9rateur+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://immutables.github.io/[Immutables.org]
+
+Ce truc à base d'annotation processor (qui me rappelle Qi4j et Lombok - en propre) me semble conceptuellement intéressant ...

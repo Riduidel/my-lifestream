@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pourquoi le transfert Hadopi > CSA réjouit les ayants droit
+:jbake-tags: internet,loi,régulation,_mois_sept.,_année_2013
+:jbake-date: 2013-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1378977130000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.numerama.com%2Fmagazine%2F26966-pourquoi-le-transfert-hadopi-csa-rejouit-les-ayants-droit.html&searchtags=internet+loi+r%C3%A9gulation+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.numerama.com/magazine/26966-pourquoi-le-transfert-hadopi-csa-rejouit-les-ayants-droit.html[Pourquoi le transfert Hadopi > CSA réjouit les ayants droit]
+
+Autrement dit, le gouvernement veut qu'internet soit encore pire que le minitel 2.0 : La télé 2.0 avec des émetteurs et des spectateurs. Pouah, pouah, et re-pouah ! la seule chose qui me console,c 'est que c'est pas demain qu'il y aura un logiciel de filtrage parental chez moi, je vous le garantis. (Ou plutôt aps demain qu'il y aura un logiciel pour mon NAS).

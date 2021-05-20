@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Concepts du langage Java
+:jbake-tags: documentation,langage,java,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112361945000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcui.unige.ch%2Fjava%2FJAVAF%2Fconcepts.html&searchtags=documentation+langage+java+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://cui.unige.ch/java/JAVAF/concepts.html[Concepts du langage Java]
+
+Cours complet d'introduction au Java

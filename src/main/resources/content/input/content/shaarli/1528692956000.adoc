@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jon Tennant on Twitter: "DO NOT add this as the URL for a bookmark: javascript:location.hostname += '.sci-hub.tw' Which when you click on a paywalled research article, automatically takes you to the @Sci_Hub version of it. And DO NOT try this, see that it works wonderfully, and share it with others."
+:jbake-tags: science,propriété,piratage,_mois_juin,_année_2018
+:jbake-date: 2018-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1528692956000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FProtohedgehog%2Fstatus%2F1005837592275881984&searchtags=science+propri%C3%A9t%C3%A9+piratage+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/Protohedgehog/status/1005837592275881984[Jon Tennant on Twitter: "DO NOT add this as the URL for a bookmark: javascript:location.hostname += '.sci-hub.tw' Which when you click on a paywalled research article, automatically takes you to the @Sci_Hub version of it. And DO NOT try this, see that it works wonderfully, and share it with others."]
+
+Si vous avez un jour besoin d'accéder à un papier de recherche, c'est une bonne façon.

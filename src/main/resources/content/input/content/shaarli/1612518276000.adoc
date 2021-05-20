@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Meshtastic
+:jbake-tags: communication,matériel,gps,_mois_févr.,_année_2021
+:jbake-date: 2021-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1612518276000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmeshtastic.letstalkthis.com%2F&searchtags=communication+mat%C3%A9riel+gps+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://meshtastic.letstalkthis.com/[Meshtastic]
+
+CA m'a l'air d'un super outil pour le staff de ride on Lille...

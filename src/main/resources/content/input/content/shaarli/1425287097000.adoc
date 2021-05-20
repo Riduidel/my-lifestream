@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ascii art generator in Java
+:jbake-tags: software,library,open-source,image,java,_mois_mars,_année_2015
+:jbake-date: 2015-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1425287097000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkorhner.github.io%2Fjava%2Fimage-processing%2Fascii-art-generator%2F&searchtags=software+library+open-source+image+java+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://korhner.github.io/java/image-processing/ascii-art-generator/[Ascii art generator in Java]
+
+Un équivalent de la fameuse libkk, mais en Java

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Public Money, Public Code
+:jbake-tags: open-source,audit,politique,_mois_sept.,_année_2017
+:jbake-date: 2017-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1505386400000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpubliccode.eu%2Ffr%2F&searchtags=open-source+audit+politique+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://publiccode.eu/fr/[Public Money, Public Code]
+
+Signez ! Il n'est pas normal que le code source des logiciels d'état ne soit pas ouvert.

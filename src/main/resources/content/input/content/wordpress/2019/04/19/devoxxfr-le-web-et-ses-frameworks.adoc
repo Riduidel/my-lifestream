@@ -1,0 +1,376 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - le web et ses frameworks
+:jbake-tags: devoxx,framework,javascript,standard,web,_mois_avr.,_année_2019
+:jbake-date: 2019-04-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/19/devoxxfr-le-web-et-ses-frameworks.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/19/devoxxfr-le-web-et-ses-frameworks/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class="sect1 data-line-3">
+<br/>
+<h2 id="trueprologue">Prologue</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-4">
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/LairFR" class="screenName"><img src="http://pbs.twimg.com/profile_images/1293487489005563905/pc7MnFn3_mini.jpg" alt="profile of Technical leadership, systems, webdev, crypto"/>LairFR</a>
+<br/>
+<span class="name">Lair</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/LairFR/status/1 118 813 773 945 606 149" class="date">18 avr. 2019 à 11:49:24</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Hubert Sablonnière @hsablonniere talks about hype effects and the never ending quest for the "next cool thing" which almost always dies after a few years
+<br/>
+@ekino_France #DevoxxFR https://t.co/OAKi60RCbd</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bTMMsWsAAU-ds.jpg" alt="1 118 813 763 967 299 584"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+De nouveaux frameworks encore plus mieux, avec une voix de Frédéric Mitterand, c’est un lancement assez inattendu (mais d'un autre côtté, <a href="https://twitter.com/hsablonniere">Hubert</a> est très fort pour nous raconter une histoire. Et on va aux conférences pour ça, non ?). Comment dormir quand les choix à la mode risquent de ne pas durer bien longtemps.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-7">
+<br/>
+<h3>Quels sont les problèmes des frameworks</h3>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Choisir la solution avant le problème. Pourquoi ? Parce que la techno est cool, et qu’on préfère redre heureux les développeurs plutôt que les utilisateurs. ou parce qu’un GAFA s’en sert.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-12">
+</p>
+<p>
+Autre problème, on reste dans son environnement avant de se poser des questions plus générales. On ne questionne pas assez les qualités/défauts des frameworks avant de les utiliser. Du coup on perd de vue les principes.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+Et comme on perd de vue ces principes, on produit du code fortement couplé avec le framework, qui ne durera pas dans le temps. Et quand le framework disparaît …​ c’est plus difficile de mettre à jour l’application.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-18">
+<br/>
+<h2 id="truequels_probl_mes_veut_on_r_soudre">Quels problèmes veut-on résoudre</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+Pour l’utilisateur
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-22">
+<br/>
+<ul>
+<br/>
+<li>De la rapidité
+<br/>
+<div class="ulist data-line-23">
+<br/>
+<ul>
+<br/>
+<li>Au chargement</li>
+<br/>
+<li>Pendant la navigation</li>
+<br/>
+</ul>
+<br/>
+</div></li>
+<br/>
+<li>Fluide</li>
+<br/>
+<li>Une faible consommation mémoire/batterie/cpu</li>
+<br/>
+<li>Accessible</li>
+<br/>
+<li>Utilisable partout</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Pour les développeurs, on veut
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-32">
+<br/>
+<ul>
+<br/>
+<li>Gagner du temps</li>
+<br/>
+<li>Du code propre</li>
+<br/>
+<li>Isoler les impacts</li>
+<br/>
+<li>Éviter les erreurs</li>
+<br/>
+<li>Faciliter la collaboration</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-38">
+<br/>
+<h2 id="truepourquoi_a_t_on_ces_probl_mes">Pourquoi a-t-on ces problèmes ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Entre l’utilisateur devant son navigateur et le serveur, il y a le navigateur, qui fait tout un tas de truc. Surtout depuis qu’on fait du Javascript …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-42">
+<br/>
+<h2 id="truequ_apportent_les_frameworks">Qu’apportent les frameworks ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-44">
+</p>
+<p>
+On va parler ici d’Angular/React/Vue, puisque ce sont actuellement les frameworks à la mode.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Avant tout, un système de composants, qui facilitent la vie. Ca résout des problèmes pour les devs : le code est propre, les impacts sont limités.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+On trouve également le templating, qui facilite également bien la vie aux développeurs.Ou encore la gestion des CSS, ce qui encore une fois permet de bien isoler les impacts.La manipulation du DOM correspond à un objectif pour l’utilisateur, puisque ça rend l’application fluide, plus performante, et accessible. Ca aide aussi le développeur à avoir un modèle de pensée simple. Tout comme le server-side rendering, qui accélère le premier rendu. Ou le routeur (qui permet l'écriture de PWA).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-54">
+</p>
+<p>
+Donc les frameworks apportent effectivement plein de choses.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-56">
+<br/>
+<h2 id="truequ_apportent_les_standards">Qu’apportent les standards</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+Si les frameworks apportent des éléments, ces éléments ont tendance à être intégrés, après un certain temps, dans les standards. Et à ce moment-là, les frameworks restent pour le sucre syntaxique et les cas limite.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-60">
+</p>
+<p>
+Dans les standards intéressants, il y a évidement les web components, qui apportent beaucoup (mais ne remplaceront pas les frameworks actuels). Dans les web components, on peut créer des éléments custom, et c’est cool. Ce qui est encore plus cool, c’est de pouvoir interagir avec cet élément à travers les attributs, les méthodes, et les événements qu’on peut envoyer au reste de la page. Ces éléments custom ont quand même des limites pénibles : on ne peut pas customizer les éléments Safari, il n’y a pas de data-binding sur les propriétés, il n’y a pas de hot reload. Heureusement, ça avance …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-63">
+</p>
+<p>
+Les web components fournissent aussi un shadow DOM (qui n’a <strong>rien à voir</strong> avec le virtual DOM de React). Ici, on cherche à isoler le composant du CSS externe. Par contre, on ne fera pas de server side rendering, là aussi, ça avance …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-65">
+</p>
+<p>
+On peut aussi créer des templates, mais ça n’est pas vraiment significatif.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-67">
+<br/>
+<h2 id="trueun_exemple">Un exemple</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-69">
+</p>
+<p>
+Pour finir, Hubert nous présente ce que fait CleverCloud actuellement pour refondre certains éléments de leur console. Ils utilisent une conception top-down et un développement bottom-up. Mais surtout, ils utilisent <a href="https://github.com/storybooks/storybook">Storybook</a> qui permet de développer <strong>et</strong> documenter du développement dans le navigateur. Et franchement, cet outil, si je l’avais eu quand je développais des interfaces …​. j’aurais été <strong>très</strong> content.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+Pour conclure, Hubert nous encourage à nous demander quels sont les éléments globaux de l’application, et d’essayer de réduire l’adhérence vis-à-vis de ces éléments globaux. Mais également de faire en sorte que les choix de développement aient un impact limité (ce qui ressemble à la définition des décisions architecturales).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-74">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-76">
+</p>
+<p>
+Ca me rappelle vraiment, mais alors vraiment, la <a href="https://github.com/Riduidel/conferences/blob/master/histoire-des-modes/src/slides/asciidoc/index.adoc">présentation</a> que j’ai fait au technozaure, même si Hubert a bien plus de talent que moi. Et qu’il applique bien plus finement son programme. Et qu’il raconte bien mieux. Le développement, c'est résoudre les problèmes des utilisateurs avant tout, faire des choix techniques en limitant leurs impacts.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ptibulle" class="screenName"><img src="http://pbs.twimg.com/profile_images/441518681034461184/8Uve80s__mini.jpeg" alt="profile of #jobcrafter #devmobile #gdg_nantes_android #sketchnote CTO Ikobox"/>ptibulle</a>
+<br/>
+<span class="name">Pierre TIBULLE</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ptibulle/status/1 118 825 207 861 579 777" class="date">18 avr. 2019 à 12:34:50</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Frameworks déconstruire pour reconstruire par @hsablonniere à #DevoxxFr en #sketchnote https://t.co/ixeQ6DR4yg</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4bdlrSWwAAo6z_.jpg" alt="1 118 825 196 792 758 272"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

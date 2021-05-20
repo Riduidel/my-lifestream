@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML Archives - JDriven
+:jbake-tags: plantuml,trick,_mois_janv.,_année_2017
+:jbake-date: 2017-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1484639391000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.jdriven.com%2Fcategory%2Fdocumenting%2Fplantuml-documenting%2F&searchtags=plantuml+trick+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://blog.jdriven.com/category/documenting/plantuml-documenting/[PlantUML Archives - JDriven]
+
+Il y a là-dedans quelques idées particulièrement subtiles pour l'usage de PlantUML

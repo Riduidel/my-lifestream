@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: asciidoctor/asciidoctor-maven-examples: A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.
+:jbake-tags: asciidoc,maven,exemple,_mois_déc.,_année_2016
+:jbake-date: 2016-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1481010315000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fasciidoctor%2Fasciidoctor-maven-examples&searchtags=asciidoc+maven+exemple+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/asciidoctor/asciidoctor-maven-examples[asciidoctor/asciidoctor-maven-examples: A collection of example projects that demonstrates how to use the Asciidoctor Maven plugin.]
+
+Encore un bon paquet d'exemples Asciidoc

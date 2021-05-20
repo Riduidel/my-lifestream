@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Watch Maven in Color | Gary Gregory
+:jbake-tags: maven,couleur,_mois_mai,_année_2015
+:jbake-date: 2015-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1430570261000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgarygregory.wordpress.com%2F2015%2F03%2F23%2Fwatch-maven-in-color%2F&searchtags=maven+couleur+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://garygregory.wordpress.com/2015/03/23/watch-maven-in-color/[Watch Maven in Color | Gary Gregory]
+
+Chouette astuce sur la colorisation de la sortie Maven

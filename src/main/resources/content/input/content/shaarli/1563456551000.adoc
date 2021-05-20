@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visual Programming with Embedded Rust? Yes we can with Apache Mynewt and Google Blockly!
+:jbake-tags: rust,visual,programming,embeddable,_mois_juil.,_année_2019
+:jbake-date: 2019-07-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1563456551000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40ly.lee%2Fvisual-programming-with-embedded-rust-yes-we-can-with-apache-mynewt-and-google-blockly-8b67ef7412d7&searchtags=rust+visual+programming+embeddable+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/@ly.lee/visual-programming-with-embedded-rust-yes-we-can-with-apache-mynewt-and-google-blockly-8b67ef7412d7[Visual Programming with Embedded Rust? Yes we can with Apache Mynewt and Google Blockly!]
+
+C'est complètement fou ! Et génial !

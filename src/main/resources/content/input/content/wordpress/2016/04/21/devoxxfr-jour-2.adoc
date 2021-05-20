@@ -1,0 +1,96 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #Devoxxfr jour 2
+:jbake-tags: devoxx,_mois_avr.,_année_2016
+:jbake-date: 2016-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-jour-2.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-jour-2/
+:jbake-style: wordpress
+
+++++
+<p>
+Et c'est parti pour une deuxième journée de Devoxx.
+<br/>
+Quand j'ai vu Antonio, Nicolas et Zouher se faire filmer par Stefan Janssen avec leurs t-shirts de purs dévs (vous savez que ça a le pire WOF du monde, les t-shirts de dév), j'ai pensé à "trois associés et une cloche" ... Sauf qu'il y a 2500 développeurs dans la salle, et quelques sacrés speakers au morceau de la journée. Donc merci à l'équipe de Devoxx pour cet événement invraissemblablement chouette.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/aheritier" class="screenName"><img src="http://pbs.twimg.com/profile_images/1214796079230787586/j7JOs5RA_mini.jpg" alt="profile of @cloudbees Support Tooling Manager #java #lescastcodeurs #devoxxfr #devops #oss #jenkinsci #maven #asf"/>aheritier</a>
+<br/>
+<span class="name">Arnaud Héritier</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/aheritier/status/723 050 786 662 522 880" class="date">21 avr. 2016 à 09:28:35</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">RT @Devoxx: The obligatory #DevoxxFR keynote selfie with @agoncal @nmartignole @ZouheirCadi and @Stephan007 https://t.co/XlXrVYWOb4</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/CgjKVdOWgAAwfri.jpg" alt="723 050 210 163 851 264"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Donc, la keynote, qui nous rappelle avant tout que Devoxx est chouette et grandit chaque année. Et c'est cool.
+<br/>
+Ensuite, un petit tour de Stefan sur scène pour nous expliquer que MyDevoxx est une chouette appli (open-source à partir de maintenant pour Android). Et également pour nous expliquer que devoxx huntly permet de gamifier la visite en scannant des QRCode un peu partout. Bon, ça dépend bien sûr du réseau wifi (dans mon cas) qui était .. plutôt mauvais. Du coup, Devoxx Huntly est une chouette idée, pas forcément utilisable selon les contraintes physiques.
+<br/>
+Pour continuer le tour des applications, il y a maintenant une application pour AppleTV et AndroidTV. Malheureusement, rien pour Android, bien qu'il y ait une API basée sur Javascript (de mémoire).
+</p>
+<p>
+Et en bonus de mon agenda plein à craquer, il y a aussi
+<br/>
+<ul>
+<br/>
+<li>Hackergarten</li>
+<br/>
+<li>Les mercenaires de devops</li>
+<br/>
+<li>Le café philoxx</li>
+<br/>
+<li>Une soirée meet&#38;greet</li>
+<br/>
+<li>Devoxx4kids</li>
+<br/>
+</ul>
+<br/>
+Et ça c'est moche, parce que j'aurais pas le temps d'aller voir.
+</p>
+<p>
+Du coup, petite présentation de Devoxx4kids, qui vise à donner aux enfants le vrai contrôle de leur ordinateur.
+</p>
+<p>
+Et pour finir, on sait déja que la prochaine édition aura lieu du 5 au 7 avril prochain.
+</p>
+++++

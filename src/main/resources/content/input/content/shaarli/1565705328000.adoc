@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XClacksOverhead.org
+:jbake-tags: mémoire,http,web,hack,_mois_août,_année_2019
+:jbake-date: 2019-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1565705328000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxclacksoverhead.org%2Fhome%2Fabout&searchtags=m%C3%A9moire+http+web+hack+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://xclacksoverhead.org/home/about[XClacksOverhead.org]
+
+Oh. Je suis touché. Je me souviens parfaitement de cette histoire de message GNU dans Timbré. Et le fait que l'entête HTTP existe vraiment est ... émouvant.

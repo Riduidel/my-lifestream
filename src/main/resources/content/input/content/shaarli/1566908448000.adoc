@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: React
+:jbake-tags: javascript,web,startup,économie,react,opinion,_mois_août,_année_2019
+:jbake-date: 2019-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1566908448000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.sonniesedge.net%2Fposts%2Freact%2F&searchtags=javascript+web+startup+%C3%A9conomie+react+opinion+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.sonniesedge.net/posts/react/[React]
+
+Il y a dans cet article certains points très intéressants, et très loin de l'aspect technique des choses, qui méritent une réflexion approfondie ...

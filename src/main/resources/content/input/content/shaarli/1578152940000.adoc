@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: launchbadge/sqlx: 🧰 The Rust SQL Toolkit.
+:jbake-tags: rust,programming,sql,database,library,open-source,_mois_janv.,_année_2020
+:jbake-date: 2020-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1578152940000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flaunchbadge%2Fsqlx&searchtags=rust+programming+sql+database+library+open-source+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/launchbadge/sqlx[launchbadge/sqlx: 🧰 The Rust SQL Toolkit.]
+
+Ca a l'air très chouettement fait : les requpetes SQL sont validées par le compilateur Rust!

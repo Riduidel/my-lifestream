@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Concurnas Programming Language
+:jbake-tags: programming,langage,jvm,parallel,concurrence,reactive,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580028704000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fconcurnas.com%2F&searchtags=programming+langage+jvm+parallel+concurrence+reactive+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://concurnas.com/[The Concurnas Programming Language]
+
+Oh c'est marrant ce langage construit pour la concurrence dans la JVM et qui permet \*très\* facilement de lancer des tâches parallèles.

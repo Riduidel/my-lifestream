@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: goetz .. buerkle .. Posting links to del.icio.us with Opera
+:jbake-tags: browser,opera,web,delicious,_mois_juil.,_année_2008
+:jbake-date: 2008-07-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1215527024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgoetz.buerkle.org%2Fdelicious-opera&searchtags=browser+opera+web+delicious+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://goetz.buerkle.org/delicious-opera[goetz .. buerkle .. Posting links to del.icio.us with Opera]
+
+More detailed I wanted a button in my Opera, that opens a small pop-up window and fills out the URL field with the current URL, the description field with the current page title and the notes field with some text that maybe currently selected in the docum

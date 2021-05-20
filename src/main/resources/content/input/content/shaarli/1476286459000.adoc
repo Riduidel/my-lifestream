@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: git push -f on Twitter: "Functional programmer: (noun) One who names variables "x", names functions "f", and names code patterns "zygohistomorphic prepromorphism""
+:jbake-tags: citation,programming,functionnal,_mois_oct.,_année_2016
+:jbake-date: 2016-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1476286459000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjamesiry%2Fstatus%2F598547781515485184&searchtags=citation+programming+functionnal+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/jamesiry/status/598547781515485184[git push -f on Twitter: "Functional programmer: (noun) One who names variables "x", names functions "f", and names code patterns "zygohistomorphic prepromorphism""]
+
+Tout à fait d'accord

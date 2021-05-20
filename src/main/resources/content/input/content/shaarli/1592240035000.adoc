@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Beautiful News
+:jbake-tags: actualité,visualisation,_mois_juin,_année_2020
+:jbake-date: 2020-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1592240035000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Finformationisbeautiful.net%2Fbeautifulnews%2F&searchtags=actualit%C3%A9+visualisation+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://informationisbeautiful.net/beautifulnews/[Beautiful News]
+
+Alors ça c'est un site vraiment bien : avoir des bonnes nouvelles, c'est bien, mais les mettre joliment en forme, c'est encore mieux !

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Widowmaker
+:jbake-tags: serie
+:jbake-date: 2002-09-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Widowmaker.adoc
+:jbake-source: https://www.goodreads.com/series/58112
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782207306024.html[Le faiseur de veuves]

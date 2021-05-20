@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Éric Gratien
+:jbake-tags: author
+:jbake-date: 2015-01-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3377523.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/3377523
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782203365018.html[Aussi loin que je me rappelle... (Anita Bomba, #1)]
+* link:../books/9782203365025.html[C'est pas parce que je suis pauvre que je vais me priver (Anita Bomba, #2)]
+* link:../books/9782203365032.html[Un jour, j'ai arrêté de bosser et ma tête s'est remise à marcher (Anita Bomba, #3)]
+* link:../books/9782203365049.html[La vie est trop courte pour laisser les médiocres s'épanouir (Anita Bomba, #4)]
+* link:../books/9782226175427.html[Poussière d'ange (Anita Bomba, #5)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andrzej Sapkowski
+:jbake-tags: author
+:jbake-date: 2005-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/38569.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1241014902p5/38569.jpg
+:jbake-source: https://www.goodreads.com/author/show/38569
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266151436.html[Le Dernier Vœu (Sorceleur, #1)]

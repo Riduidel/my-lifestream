@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guillaume Lhermitte on Twitter: "Open source projects are much like countries infrastructures. Big companies would not thrive as they do without them. Yet, when the time comes to repay for them (financing open source or paying taxes for infrastructures) they get "cold pockets" ...… https://t.co/T4YJ8YQCQE"
+:jbake-tags: open-source,économie,_mois_mai,_année_2019
+:jbake-date: 2019-05-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1558948802000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGuLhe_le_GuJ%2Fstatus%2F1132022223655624704&searchtags=open-source+%C3%A9conomie+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/GuLhe_le_GuJ/status/1132022223655624704[Guillaume Lhermitte on Twitter: "Open source projects are much like countries infrastructures. Big companies would not thrive as they do without them. Yet, when the time comes to repay for them (financing open source or paying taxes for infrastructures) they get "cold pockets" ...… https://t.co/T4YJ8YQCQE"]
+
+La métaphore est parfaitement valide : on me demande \*à moi\* de sponsorer de l'open-source alors qu'en réalité c'est à mon entreprise (ou à son client) de le faire

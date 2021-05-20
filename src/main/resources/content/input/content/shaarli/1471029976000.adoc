@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""A programmer is ideally an essayist who works with traditional aesthetic & literary forms as well as mathematical concepts.” - Donald Knuth"
+:jbake-tags: citation,programming,_mois_août,_année_2016
+:jbake-date: 2016-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1471029976000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F764114988441165824&searchtags=citation+programming+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/764114988441165824[Programming Wisdom on Twitter: ""A programmer is ideally an essayist who works with traditional aesthetic & literary forms as well as mathematical concepts.” - Donald Knuth"]
+
+LE sens du code, ça n'est pas seulement d'être compilé, mais surtout d'être lu

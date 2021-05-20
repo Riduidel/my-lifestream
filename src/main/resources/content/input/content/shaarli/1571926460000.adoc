@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SPP server for Windows | kaytat's blog
+:jbake-tags: windows,audio,réseau,android,_mois_oct.,_année_2019
+:jbake-date: 2019-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1571926460000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkaytat.com%2Fblog%2F%3Fp%3D332&searchtags=windows+audio+r%C3%A9seau+android+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://kaytat.com/blog/?p=332[SPP server for Windows | kaytat's blog]
+
+LinuxFr m'a donné une solution pour streamer l'audio de mon PC vers mon téléphone Android ! Il faut "juste" installer ce serveur sous Windows ...

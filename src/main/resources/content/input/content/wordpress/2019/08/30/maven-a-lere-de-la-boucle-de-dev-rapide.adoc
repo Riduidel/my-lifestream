@@ -1,0 +1,119 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven à l'ère de la boucle de dév rapide
+:jbake-tags: java,maven,_mois_août,_année_2019
+:jbake-date: 2019-08-30
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/08/30/maven-a-lere-de-la-boucle-de-dev-rapide.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/08/30/maven-a-lere-de-la-boucle-de-dev-rapide/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Vous savez que je ne suis pas tout jeune.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc j'utilise des outils qui, eux aussi, ne sont pas tous jeunes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En l'occurence (même si ça défrise les oreilles de certains développeurs Gradle), j'utilise maven pour tous mes projets. Parce que maven est conçu pour être utilisé d'une certaine façon. Et ce mode d'utilisation de maven n'inclut pas le "live reload". Vous savez ce qu'est le live reload ? C'est ce truc dont tous les développeurs rêvent qui permet d'avoir le code recompilé/redéployé à chaque sauvegarde de fichiers.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première fois que je l'ai vu dans Maven, ça a été évidement dans <a href="https://riduidel.wordpress.com/2014/06/20/un-peu-de-wisdom-ca-fera-du-bien/">Wisdom Framework</a>. Bien sûr, l'auteur de Wisdom a repris ce live reload pour l'intégrer dans <a href="https://riduidel.wordpress.com/2015/12/02/vert-x-au-chtijug/">Vert.x</a>. Ca marche un peu moins bien, parce que vert.x n'est pas OSGi, mais ça aide. Et puis ce même live reload a trouvé le chemin de <a href="https://riduidel.wordpress.com/2019/04/19/devoxxfr-graalvm-et-quarkus-changent-la-donne/">Quarkus</a>. Et là, ça marche très bien (sauf quand on change les dépendances).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est super pratique, quand on utilise l'un des frameworks susnommés (ou Spring Boot, qui offre un plugin équivalent). Mais par exemple, quand je bosse sur une <a href="https://github.com/Riduidel/conferences">conférence</a>, je fais comment ? Eh bien j'utilise le super plugin <a href="https://github.com/fizzed/maven-plugins">fizzed-watcher</a> ! Il est d'un fonctionnement confondant de simplicité (ce qui n'empêche pas l'auteur de fournir une <a href="http://fizzed.com/blog/2015/02/watcher-plugin-for-maven-released">bonne page de doc</a>) : vous lui mettez dans la configuration</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>le chemin du touchfile</li><li>les différents dossiers/fichiers à surveiller</li><li>et la liste des goals à exécuter</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, vous lancez maven, et à chaque modification des fichiers surveillés, les goals maven mentionnés sont exécutés. C'est très simple, et très flexible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Regardez par exemple <a href="https://github.com/Riduidel/conferences/blob/master/pom.xml">dans mon projet de conférences</a> <a href="<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">					&lt;plugin&gt;
+						&lt;groupId&gt;com.fizzed&lt;/groupId&gt;
+						&lt;artifactId&gt;fizzed-watcher-maven-plugin&lt;/artifactId&gt;
+						&lt;configuration&gt;
+							&lt;touchFile&gt;target/watcher.docs.touchfile&lt;/touchFile&gt;
+							&lt;watches&gt;
+								&lt;watch&gt;
+									&lt;directory&gt;${asciidoc.source.docs.directory}&lt;/directory&gt;
+								&lt;/watch&gt;
+							&lt;/watches&gt;
+							&lt;goals&gt;
+								&lt;goal&gt;clean&lt;/goal&gt;
+								&lt;goal&gt;process-resources&lt;/goal&gt;
+							&lt;/goals&gt;
+						&lt;/configuration&gt;
+					&lt;/plugin&gt;</pre></body></html>
+</code>
+</pre>">comment j'utilise fizzed-watcher</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">					&lt;plugin&gt;
+						&lt;groupId&gt;com.fizzed&lt;/groupId&gt;
+						&lt;artifactId&gt;fizzed-watcher-maven-plugin&lt;/artifactId&gt;
+						&lt;configuration&gt;
+							&lt;touchFile&gt;target/watcher.docs.touchfile&lt;/touchFile&gt;
+							&lt;watches&gt;
+								&lt;watch&gt;
+									&lt;directory&gt;${asciidoc.source.docs.directory}&lt;/directory&gt;
+								&lt;/watch&gt;
+							&lt;/watches&gt;
+							&lt;goals&gt;
+								&lt;goal&gt;clean&lt;/goal&gt;
+								&lt;goal&gt;process-resources&lt;/goal&gt;
+							&lt;/goals&gt;
+						&lt;/configuration&gt;
+					&lt;/plugin&gt;</pre></body></html>
+</code>
+</pre>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<pre class='github'>
+<code>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">					&lt;plugin&gt;
+						&lt;groupId&gt;com.fizzed&lt;/groupId&gt;
+						&lt;artifactId&gt;fizzed-watcher-maven-plugin&lt;/artifactId&gt;
+						&lt;configuration&gt;
+							&lt;touchFile&gt;target/watcher.docs.touchfile&lt;/touchFile&gt;
+							&lt;watches&gt;
+								&lt;watch&gt;
+									&lt;directory&gt;${asciidoc.source.docs.directory}&lt;/directory&gt;
+								&lt;/watch&gt;
+							&lt;/watches&gt;
+							&lt;goals&gt;
+								&lt;goal&gt;clean&lt;/goal&gt;
+								&lt;goal&gt;process-resources&lt;/goal&gt;
+							&lt;/goals&gt;
+						&lt;/configuration&gt;
+					&lt;/plugin&gt;</pre></body></html>
+</code>
+</pre>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>C'est simple, non ? Et rien qu'avec ça, les contenus sont mis à jour automatiquement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et plus je m'en sers, plus je trouve ça super pratique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup si vous aussi trouvez que maven peut être pratique, ajouter fizzed-watcher dans votre pom, comme ça vous oublierez votre process maven, et votre code sera rapidement déployé.</p>
+<!-- /wp:paragraph -->
+++++

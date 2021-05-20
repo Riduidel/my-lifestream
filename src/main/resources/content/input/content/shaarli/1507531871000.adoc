@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Implementing architectural fitness functions using Gradle, JUnit and code-assert - JDriven
+:jbake-tags: architecture,test,java,_mois_oct.,_année_2017
+:jbake-date: 2017-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1507531871000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.jdriven.com%2F2017%2F10%2Fimplementing-architectural-fitness-functions-using-gradle-junit-code-assert%2F&searchtags=architecture+test+java+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://blog.jdriven.com/2017/10/implementing-architectural-fitness-functions-using-gradle-junit-code-assert/[Implementing architectural fitness functions using Gradle, JUnit and code-assert - JDriven]
+
+Vérifier l'architecture dans les tests unitaires ? Une super idée !

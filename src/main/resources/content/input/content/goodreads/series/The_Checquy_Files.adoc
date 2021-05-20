@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Checquy Files
+:jbake-tags: serie
+:jbake-date: 2015-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Checquy_Files.adoc
+:jbake-source: https://www.goodreads.com/series/89879
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266250566.html[Au service surnaturel de sa majesté (Au service surnaturel de sa majesté, #1)]

@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: François Schuiten
+:jbake-tags: author
+:jbake-date: 2012-10-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/573160.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1280109949p5/573160.jpg
+:jbake-source: https://www.goodreads.com/author/show/573160
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782203101685.html[Les Cités obscures : Livre 1]
+* link:../books/9782203153745.html[Les Cités obscures : Livre 2]
+* link:../books/9782203343245.html[La Frontière invisible]
+* link:../books/9782870972809.html[Le Dernier Pharaon - Autour de Blake & Mortimer]

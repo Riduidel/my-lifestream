@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home - GMaven - Codehaus
+:jbake-tags: lifestream,documentation,maven,groovy,_mois_juil.,_année_2013
+:jbake-date: 2013-07-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1375260819000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdocs.codehaus.org%2Fdisplay%2FGMAVEN%2FHome&searchtags=lifestream+documentation+maven+groovy+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://docs.codehaus.org/display/GMAVEN/Home[Home - GMaven - Codehaus]
+
+La doc de référence pour l'intégration de compilation groovy dans un projet maven

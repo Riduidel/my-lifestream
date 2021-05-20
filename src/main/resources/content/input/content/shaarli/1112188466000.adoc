@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nopaste
+:jbake-tags: web,board,exchange,programming,highlight,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112188466000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rafb.net%2Fpaste%2F&searchtags=web+board+exchange+programming+highlight+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.rafb.net/paste/[Nopaste]
+
+This is a site where people upload snippets of code for others to be able to reuse.

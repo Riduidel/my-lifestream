@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oui, c'est oui.
+:jbake-tags: sexe,culture,humanité,_mois_oct.,_année_2014
+:jbake-date: 2014-10-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1412593448000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gqmagazine.fr%2Fsexactu%2Farticles%2Foui-cest-oui%2F15942&searchtags=sexe+culture+humanit%C3%A9+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.gqmagazine.fr/sexactu/articles/oui-cest-oui/15942[Oui, c'est oui.]
+
+Bel article sur l'importance du consentement.

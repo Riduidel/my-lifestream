@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Coronavirus Pandemic Data Explorer - Our World in Data
+:jbake-tags: épidémie,visualisation,_mois_août,_année_2020
+:jbake-date: 2020-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1597758639000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fourworldindata.org%2Fcoronavirus-data-explorer%3FzoomToSelection%3Dtrue%26casesMetric%3Dtrue%26interval%3Dsmoothed%26aligned%3Dtrue%26perCapita%3Dtrue%26smoothing%3D7%26country%3D%7EFRA%26pickerMetric%3Dlocation%26pickerSort%3Dasc&searchtags=%C3%A9pid%C3%A9mie+visualisation+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&casesMetric=true&interval=smoothed&aligned=true&perCapita=true&smoothing=7&country=~FRA&pickerMetric=location&pickerSort=asc[Coronavirus Pandemic Data Explorer - Our World in Data]
+
+Un très bon site permettant de se construire ses propres graphiques d'évolution du coronavirus (par exemple un comparatif France/Suède). Hélas, il souffre du même problème que les autres : les données proviennent des états, et ont donc des biais méthodologiques significatifs.

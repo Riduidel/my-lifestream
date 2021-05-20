@@ -1,0 +1,24 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robert Silverberg
+:jbake-tags: author
+:jbake-date: 2002-07-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/4338.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1366300348p5/4338.jpg
+:jbake-source: https://www.goodreads.com/author/show/4338
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780449135709.html[The Stochastic Man]
+* link:../books/9782070415861.html[Gilgamesh, roi d'Ourouk]
+* link:../books/9782070814053.html[L'o10ssée Folio SF en 10 nouvelles]
+* link:../books/9782207305188.html[L'Appel des ténèbres]
+* link:../books/9782253041207.html[Chroniques de Majipoor (Majipoor #2)]
+* link:../books/9782253047353.html[L'Oreille interne]
+* link:../books/9782253052494.html[Valentin de Majipoor (Majipoor #3)]
+* link:../books/9782253071914.html[La Face des eaux]
+* link:../books/9782253072256.html[Les Monades urbaines]
+* link:../books/9782253072386.html[Le Château de Lord Valentin (Majipoor #1)]
+* link:../books/9782266017725.html[La Tour de verre]
+* link:../books/9782277115854.html[Les Ailes de la nuit]

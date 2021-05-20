@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust vs. Go - Julio Merino
+:jbake-tags: programming,rust,go,langage,comparatif,_mois_août,_année_2018
+:jbake-date: 2018-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1533561542000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjulio.meroh.net%2F2018%2F07%2Frust-vs-go.html&searchtags=programming+rust+go+langage+comparatif+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://julio.meroh.net/2018/07/rust-vs-go.html[Rust vs. Go - Julio Merino]
+
+Très intéressant comparatif (parce que nuancé) de deux langages récents

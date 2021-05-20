@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: darkfaewave on Twitter: "Functional programming is great because the compiler can catch a lot of mistakes for you. I’m working on a compiler that can check for an e… https://t.co/hcaNw6j36r"
+:jbake-tags: citation,programming,functionnal,_mois_janv.,_année_2018
+:jbake-date: 2018-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1514897764000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSunDappledAsh%2Fstatus%2F944606565113516032&searchtags=citation+programming+functionnal+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/SunDappledAsh/status/944606565113516032[darkfaewave on Twitter: "Functional programming is great because the compiler can catch a lot of mistakes for you. I’m working on a compiler that can check for an e… https://t.co/hcaNw6j36r"]
+
+La blague est assez subtile, mais elle est très drôle

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - Zenika/karto: A simple static analysis tool to visualize, explore and diagnosticate network policies declared in a Kubernetes cluster.
+:jbake-tags: kubernetes,réseau,visualisation,open-source,_mois_juin,_année_2020
+:jbake-date: 2020-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1592026933000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FZenika%2Fkarto&searchtags=kubernetes+r%C3%A9seau+visualisation+open-source+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/Zenika/karto[GitHub - Zenika/karto: A simple static analysis tool to visualize, explore and diagnosticate network policies declared in a Kubernetes cluster.]
+
+Ce projet d'un collègue pour explorer certains aspects de Kubernetes m'a l'air superbement léché (et pratique)

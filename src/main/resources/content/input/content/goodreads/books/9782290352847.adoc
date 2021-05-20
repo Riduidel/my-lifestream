@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Anansi Boys
+:jbake-tags:  dieu, fable, rayon-imaginaire,_année_2008,_mois_sept.,_note_5,fantasy,read
+:jbake-date: 2008-09-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290352847.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/52472187
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+<strong>God is dead. Meet the kids.</strong><br /><br />Fat Charlie Nancy's normal life ended the moment his father dropped dead on a Florida karaoke stage. Charlie didn't know his dad was a god. And he never knew he had a brother. <br /><br />Now brother Spider's on his doorstep -- about to make Fat Charlie's life more interesting... and a lot more dangerous.
+</div>
+++++
+
+
+## Authors
+* link:../authors/787969.html[Michel Pagel]
+* link:../authors/1221698.html[Neil Gaiman]
+
+## Series
+* link:../series/American_Gods.html[American Gods]
+
+## Review
+
+++++
+A chaque nouveau roman, c'est la confirmation d'un fait établi. Je suis fan de <a class="DirectAuthorReference destination_Author" href="../authors/1221698.html">Neil Gaiman</a>. Et encore une fois, ça se vérifie dans cette histoire.<br/>Histoire dans laquelle on suit (principalement) les aventures de Gros Charlie, fils apparement malchanceux du dieu Anansi. Pourquoi malchanceux ? Parce qu'il semblerait q'uil n'ait pas hérité de tous les pouvoirs divins du paternel. Oh, bien sûr, on est chez Gaiman, l'auteur de link:9782290325452.html[<strike>Miroirs et fumées</strike> Miroirs et fumée] qui se plait à nous embobiner à l'aide de faux-semblants de qualité. Et ce qui est remarquable à propos de ces faux-semblants, c'est que tout en les ancrant assez clairement dans le mythe proto-historique, il réussit avec une maestria incontestable à les ancrer dans le quotidien le plus tristement moderne et normal. Je veux dire par là qu'à côté du voyage dans le temps du rêve, on trouve aussi des messages envoyés par SMS, quelques ordinateurs égarés, un peu d'escroquerie internationale, bref, ce genre de choses qui ancrent bien le roman dans le réel alors que, justement, tout dedans tend à le faire partir dans la quatrième dimension.<br/>En fait, j'ai d'ailleurs un peu l'impression que Gaiman a précisément voulu écrire un bouquin sur ce qui arriverait à un type qui apprend soudain que son univers est dans la quatrième dimension depuis au moins sa naissance. Et, globalement, il ne le prend pas si mal que ça ... sauf bien sûr quand il se rend compte que sa fiancée n'est plus si attachée que ça à lui.<br/>J'aimerais bien vous en dire beaucoup plus en fait. Vous parler par exemple de Tigre,d e Lion et des autres qui sont rendus tellement vivants qu'on les imagine très bien se baladant au début du monde.L Si bien, même qu'on apprécie la lâcheté de Tigre, et qu'on comprend tout ce que Gaiman veut dire quand il l'appelle un gros chat : d'accord, il est gros, mais en fait, c'est juste un chat, quoi.<br/>Et puis il y a la musique de l'histoire. Parce que cette histoire, comme toutes les histoires, a sa musique. Et celle-ci sonnait vraiment bien à mon oreille, même si je ne l'entendais pas.<br/>Bref, lisez-le - comme, en fait, il faut lire tous les autres bouquins de Gaiman.<br/>Tant que j'y suis, j'ai vu sur la wikipedia qu'il semblait y avoir un rapport entre ce roman et <a class="DirectBookReference destination_Serie" href="../series/American_Gods.html">American Gods</a>. Mis à part la présence de dieux, c'est censé être quoi, le rapport ?
+++++

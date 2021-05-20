@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tools Archives - Next of Windows
+:jbake-tags: windows,blog,software,catalog,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590657536000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nextofwindows.com%2Fcategory%2Ftools&searchtags=windows+blog+software+catalog+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.nextofwindows.com/category/tools[Tools Archives - Next of Windows]
+
+Si vous croyez que Windows est une plateforme sans évolutions, ce site vous donnera une vision peut-être un peu plus nuancée. Il y a quelques très chouettes logiciels là-dedans, et certains que j'ai adopté.

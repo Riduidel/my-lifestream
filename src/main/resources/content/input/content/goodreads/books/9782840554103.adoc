@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mémoire Morte
+:jbake-tags:  dystopie, fantastique, ia, m-moire, rayon-emprunt, ville,_année_2012,_mois_mars,_note_3,rayon-bd,read
+:jbake-date: 2012-03-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840554103.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332786021l/1807737._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332786021l/1807737._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/1807737
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans une cité aux dimensions infinies, l'information en temps réel et l'image sont reines. Un ordinateur, le ROM, recueille les faits et gestes de chacun et les mémorisent, déchargeant ainsi la population d'un effort pourtant salutaire. En effet, les habitants de cette cité ne recherchent plus que l'immédiat. En rétrécissant leur espace temporel, ils se créent de nouvelles frontières, symbolisées par ces murs qui peu à peu asphyxient la ville. De plus, à toujours vivre au présent, ils en viennent à tout oublier, jusqu'à leur propre langue.
+</div>
+++++
+
+
+## Authors
+* link:../authors/329097.html[Marc-Antoine Mathieu]
+
+
+
+## Review
+
+++++
+Très curieuse histoire ... on y croise des fonctionnaires fous, un urbanisme infini, et une espèce d'ordinateur curieusement éveillé à la conscience.<br/><br/>On y croise en fait surtout des archétypes et des idées, dont celles de la stagnation de la ville soumise aux urbanistes (par opposition à une espèce de nature anarchique et créatrice, j'imagine), mais aussi (voire surtout) de la dépendance technophile à une espèce de "smartphone" (je mets le mot entre guillemets, car je ne crois pas qu'il en existait avec Siri à l'époque de l'écriture de cette oeuvre) abrutissant les individus et les vidant de leur mémoire et de leur intelligence.<br/><br/>Là-dedans, le choix du noir et blanc ajoute encore une touche irréaliste à l'oeuvre pour nous faire comprendre qu'il s'agit en fait d'une critique d'un mode d evie connecté (enfin, j'imagine). C'est pas mal, mais pas fabuleux non plus.
+++++

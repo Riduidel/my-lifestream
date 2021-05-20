@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: achiku/planter: Generate PlantUML ER diagram textual description from PostgreSQL tables
+:jbake-tags: plantuml,diagram,postgres,générateur,_mois_janv.,_année_2020
+:jbake-date: 2020-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1579876322000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fachiku%2Fplanter&searchtags=plantuml+diagram+postgres+g%C3%A9n%C3%A9rateur+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/achiku/planter[achiku/planter: Generate PlantUML ER diagram textual description from PostgreSQL tables]
+
+Bon, c'est du go. Mais ça va me fournir des modèles de base de données utilisables dans ma doc !

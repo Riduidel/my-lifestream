@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Code Enigma (Cryptonomicon, #1)
+:jbake-tags:  enquête, favorites, guerre, histoire, inclassable, rayon-imaginaire, science,_année_2006,_mois_août,_note_5,cyberpunk,read
+:jbake-date: 2006-08-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253072362.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584188515l/52371742._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584188515l/52371742._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/52371742
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Que peuvent avoir en commun Tolkien, une thèse déconstruisant le mythe de la barbe, et la cryptographie ? Neal Stephenson. Cet auteur descendant des <i>cyberpunks</i> cultive une écriture jubilatoire et foisonnante qui fait de ses œuvres des bijoux d'un nouveau genre. <p>Après les aventures d'un livreur de pizzas dans <i>Le Samouraï virtuel</i>, Stephenson s'attelle à l'histoire de trois personnages : L.P. Waterhouse, décrypteur de génie pendant la Deuxième Guerre mondiale, de son petit-fils Randy, informaticien doué qui souhaite créer un paradis informatique en Asie et de Bobby Shaftoe, marine émérite en poste pendant la guerre du Pacifique. Ces trois destins croisés, éloignés autant dans le temps que dans l'échelle sociale, semblent pourtant converger, dans ce premier volume, vers un étrange trésor de guerre japonais englouti dans le pacifique. Avec comme thème central l'information et la désinformation en temps de guerre militaire ou économique, ce livre est un véritable pont entre les genres : romans de guerre, d'espionnage et de SF. <i>--Laurent Schneitter</i></p>
+</div>
+++++
+
+
+## Authors
+* link:../authors/70572.html[Jean Bonnefoy]
+* link:../authors/545.html[Neal Stephenson]
+
+## Series
+* link:../series/Criptonomicon.html[Criptonomicón]
+
+## Review
+
+++++
+J'ai relu, durant mes vacances, les trois tomes de ce bouquin totallement fascinant pour le geek science-fictif que je suis. Fascinant car l'un des personnages principaux est quasiment moi : Randy Waterhouse est un geek tout à fait typique : plus tout à fait en forme, assez intelligent pour avoir de bonnes idées, mais trop procrastinateur pour les mettre en oeuvre, et de surcroit plutôt à la traîne dans sa compréhension de l'univers.<br/><br/>A sa décharge, l'univers présenté, aussi bien dans la partie moderne du roman que dans la partie seconde guerre mondiale, est foisonnant, bourré de personnages hauts en couleurs et d'explications à la limite du compréhensible sur la cryptographie, la nécessité masturbatoiredans la rédaction de code, et autres sujets d'intérêt.<br/><br/>Bon, enfin, j'ai déja eu l'occasion d'en parler, mais je trouve qu'il s'agit d'une oeuvre séminale de <a class="DirectAuthorReference destination_Author" href="../authors/545.html">Neal Stephenson</a>. on y retrouve en effet la richesse du contenu déja présente dans <a class="DirectBookReference destination_Book" href="9782253072218.html">Le Samouraï virtuel</a>, alliée à la richesse de contenu technique qu'on est en droit d'attendre de l'auteur de <q>in the beginning was the command line</q>.<br/><br/>Bref, c'était une excellente lecture, et je ne regrette absolument pas de l'avoir pris dans mon sac de vacances.
+++++

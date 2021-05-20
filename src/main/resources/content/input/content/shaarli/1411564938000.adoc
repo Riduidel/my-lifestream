@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: x2js - XML <=> JSon Javascript convert/mapping Library - Google Project Hosting
+:jbake-tags: javascript,programming,library,_mois_sept.,_année_2014
+:jbake-date: 2014-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1411564938000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcode.google.com%2Fp%2Fx2js%2F&searchtags=javascript+programming+library+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://code.google.com/p/x2js/[x2js - XML <=> JSon Javascript convert/mapping Library - Google Project Hosting]
+
+Un outil bien pratique pour transformer du XML en quasi-JSON et réciproquement.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Liens de Memiks
+:jbake-tags: dns-323,people,shaarli,_mois_juin,_année_2013
+:jbake-date: 2013-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1371821666000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fshaarli.memiks.fr%2F&searchtags=dns-323+people+shaarli+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://shaarli.memiks.fr/[Les Liens de Memiks]
+
+Tiens ?! Le memiks qui a eu la gentillesse de me faire un build de PHP 5.3.11 avec les bonnes libs pour mon NAS a aussi un shaarli ? Cool

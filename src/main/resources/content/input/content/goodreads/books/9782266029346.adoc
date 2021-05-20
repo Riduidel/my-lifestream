@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Elric le nécromancien
+:jbake-tags: ,_année_2017,_mois_août,_note_4,read
+:jbake-date: 2017-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266029346.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368380046l/4614623._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1368380046l/4614623._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/4614623
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Le Glorieux Empire de Melniboné s’est effondré sous l’assaut des Puissances surnaturelles. Ses fils se sont dispersés à la surface de la Terre et s’éteignent lentement, haïs et craints des hommes, perdant le souvenir de leur antique fortune. Elric, le prince des ruines, descendant des empereurs, est le dernier adorateur de leurs dieux grotesques et merveilleux aux temples à demi oubliés. L’Ordre lentement cède au Chaos. Elric est l’héritier de secrets terribles qui désormais ne peuvent que retarder l’échéance et portent surtout malheur à celui qui les détient. Alors il vit d’expédients, d’orgies et d’aventures, pillard sans scrupules, tueur cynique et désabusé, hanté par le remords et la mélancolie. Il nargue la mort, en attendant qu’elle le rattrape.
+</div>
+++++
+
+
+## Authors
+* link:../authors/16939.html[Michael Moorcock]
+
+## Series
+* link:../series/Elric_Chronological_Order.html[Elric Chronological Order]
+* link:../series/The_Elric_Saga.html[The Elric Saga]
+
+## Review
+
+++++
+Dans ce court roman, Elric organise le sac de Menilboné, rencontré son compagnon Triste l'une, et se découvre un ennemi juré. Écriture, pour ampoulée, reste toujours lisible, sans doute parce que l'action et l'introspection sont toujours aussi bien alternées.
+++++

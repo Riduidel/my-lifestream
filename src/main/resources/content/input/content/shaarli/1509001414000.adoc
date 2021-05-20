@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML Pleasantness: Using The Built-in Icons - Messages from mrhaki
+:jbake-tags: uml,diagram,plantuml,icon,_mois_oct.,_année_2017
+:jbake-date: 2017-10-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1509001414000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmrhaki.blogspot.co.uk%2F2017%2F10%2Fplantuml-pleasantness-using-built-in.html&searchtags=uml+diagram+plantuml+icon+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://mrhaki.blogspot.co.uk/2017/10/plantuml-pleasantness-using-built-in.html[PlantUML Pleasantness: Using The Built-in Icons - Messages from mrhaki]
+
+Wow, à chaque fois que je me dis que je sais à peu près tout de PlantUML, je découvre un nouveau truc dingue

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Prebake: Block EU Cookie Notices with Adblock
+:jbake-tags: web,online,cookie,plugin,adblock,_mois_sept.,_année_2015
+:jbake-date: 2015-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1443449462000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fprebake.eu%2F&searchtags=web+online+cookie+plugin+adblock+_mois_sept.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://prebake.eu/[Prebake: Block EU Cookie Notices with Adblock]
+
+Enfin : la suppression de cette authentique nuisance européaniste qu'est le message signalant l'ajout d'un cookie.

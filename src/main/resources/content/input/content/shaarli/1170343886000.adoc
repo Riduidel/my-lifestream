@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Traffic en temps réel autour de Lille
+:jbake-tags: traffic,voiture,lille,_mois_févr.,_année_2007
+:jbake-date: 2007-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1170343886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bisonfute.equipement.gouv.fr%2Fdiri%2Flisteflashs.do%3FpageAstec%3Die1_lille.html&searchtags=traffic+voiture+lille+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.bisonfute.equipement.gouv.fr/diri/listeflashs.do?pageAstec=ie1_lille.html[Traffic en temps réel autour de Lille]
+
+Comme à Paris, le traffic routier en temps réel sur les gros axes autour de Lille.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My resume in an Operating system
+:jbake-tags: web,emulator,cv,_mois_sept.,_année_2016
+:jbake-date: 2016-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1473231386000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mathieupassenaud.fr%2Fresume%2F&searchtags=web+emulator+cv+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.mathieupassenaud.fr/resume/[My resume in an Operating system]
+
+De la folie furieuse

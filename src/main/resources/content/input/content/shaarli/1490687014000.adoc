@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Universal adversarial perturbations
+:jbake-tags: ia,image,hack,_mois_mars,_année_2017
+:jbake-date: 2017-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1490687014000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farxiv.org%2Fpdf%2F1610.08401v1.pdf&searchtags=ia+image+hack+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://arxiv.org/pdf/1610.08401v1.pdf[Universal adversarial perturbations]
+
+Une nouvelle façon de lutter contre la reconnaissance d'images

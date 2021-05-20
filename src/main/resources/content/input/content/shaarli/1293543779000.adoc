@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Develobert: Javascript Lorem Ipsum Generator
+:jbake-tags: javascript,développement,_mois_déc.,_année_2010
+:jbake-date: 2010-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1293543779000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.develobert.info%2F2007%2F11%2Fautomated-lorem-ipsum-generator.html%3Futm_source%3Dfeedburner%26utm_medium%3Dfeed%26utm_campaign%3DFeed%253A%2Btaoofmac%252Ffull%2B%2528The%2BTao%2Bof%2BMac%2529&searchtags=javascript+d%C3%A9veloppement+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.develobert.info/2007/11/automated-lorem-ipsum-generator.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+taoofmac%2Ffull+%28The+Tao+of+Mac%29[Develobert: Javascript Lorem Ipsum Generator]
+
+Un petit outil de génération de texte assez rigolo, essentiellement parce qu'il utilise en fait de la doc (enfin, de la quasi-doc HTML), et ça c'est bien

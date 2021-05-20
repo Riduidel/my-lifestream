@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Overview - OpenRewrite
+:jbake-tags: java,programming,refactoring,qualité,évolution,_mois_sept.,_année_2020
+:jbake-date: 2020-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1600777991000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.openrewrite.org%2F&searchtags=java+programming+refactoring+qualit%C3%A9+%C3%A9volution+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://docs.openrewrite.org/[Overview - OpenRewrite]
+
+Nom de Zeus : Du refactoring au build ! ca m'a l'air fou ... et potentiellement génial !

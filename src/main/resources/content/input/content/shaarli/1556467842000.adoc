@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wapm | WebAssembly Package Manager
+:jbake-tags: wasm,repository,online,_mois_avr.,_année_2019
+:jbake-date: 2019-04-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1556467842000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwapm.io%2F&searchtags=wasm+repository+online+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://wapm.io/[wapm | WebAssembly Package Manager]
+
+Oh, tiens, un hub des packages wasm ... J'espère juste trouver une version Windows :-D

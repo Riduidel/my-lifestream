@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: KubeApps Hub: Discover & launch great Kubernetes-ready apps | KubeApps Hub
+:jbake-tags: web,kubernetes,helm,_mois_août,_année_2018
+:jbake-date: 2018-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1534837141000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhub.kubeapps.com%2F&searchtags=web+kubernetes+helm+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://hub.kubeapps.com/[KubeApps Hub: Discover & launch great Kubernetes-ready apps | KubeApps Hub]
+
+Je cherchais ça depuis que j'ai lancé Helm : un site web qui me permette de lister des charts ...

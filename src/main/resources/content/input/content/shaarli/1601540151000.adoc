@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Automated Tools For WiFi Cracking | Hackaday
+:jbake-tags: raspberrypi,wifi,crack,matériel,_mois_oct.,_année_2020
+:jbake-date: 2020-10-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1601540151000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2020%2F09%2F30%2Fautomated-tools-for-wifi-cracking%2F&searchtags=raspberrypi+wifi+crack+mat%C3%A9riel+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://hackaday.com/2020/09/30/automated-tools-for-wifi-cracking/[Automated Tools For WiFi Cracking | Hackaday]
+
+Un petit device mignon pour ... automatiser le crackage de réseau wifi 😮

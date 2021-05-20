@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Tueurs de fer (Travis #12.)
+:jbake-tags:  combat, ia, jungle,_année_2017,_mois_mai,_note_3,rayon-bd,read
+:jbake-date: 2017-05-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756080765.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493715334l/35050218._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493715334l/35050218._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/35050218
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Vlad Nyrki, qui a réussi à rentrer au Mexique pour retrouver Travis, est prêt à tout pour atteindre son but. Dans ce premier épisode du triptyque du 4e cycle, notre aventurier galactique réapparaît enfin !<br /><br />Alors que les puissantes armées des narcotrafiquants étaient sur le point de prendre le contrôle<br /><br /> total du Mexique, Vlad Nyrki parvient à retrouver son plus vieil ami mystérieusement disparu dans cette zone de guerre civile. Il y découvre alors Travis, réfugié dans la jungle du Chiapas chez les enfants de Marcos et engagé aux côtés des rebelles zapatistes pour le partage des terres mexicaines…
+</div>
+++++
+
+
+## Authors
+* link:../authors/503980.html[Christophe Quet]
+* link:../authors/503981.html[Fred Duval]
+* link:../authors/989161.html[Pierre Schelle]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+Pas mauvais du tout, ce voyage dans la jungle mexicaine.
+++++

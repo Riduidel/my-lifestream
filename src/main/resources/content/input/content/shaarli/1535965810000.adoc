@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thread by @sdboyer: "i'm finally ready to share my personal story about this whole dependency management process. Consider it a counterpoint to the story […]" #golang
+:jbake-tags: open-source,politique,go,_mois_sept.,_année_2018
+:jbake-date: 2018-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1535965810000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthreadreaderapp.com%2Fthread%2F1034893100450291713.html&searchtags=open-source+politique+go+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://threadreaderapp.com/thread/1034893100450291713.html[Thread by @sdboyer: "i'm finally ready to share my personal story about this whole dependency management process. Consider it a counterpoint to the story […]" #golang]
+
+Franchement, la communauté go n'a pas l'air très harmonieuse ...

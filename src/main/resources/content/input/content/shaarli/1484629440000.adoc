@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le formatage des strings en long et en large | Sam & Max
+:jbake-tags: programming,python,string,_mois_janv.,_année_2017
+:jbake-date: 2017-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1484629440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsametmax.com%2Fle-formatage-des-strings-en-long-et-en-large%2F&searchtags=programming+python+string+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://sametmax.com/le-formatage-des-strings-en-long-et-en-large/[Le formatage des strings en long et en large | Sam & Max]
+
+Très bon article sur le formattage des strings en Python. Je vais tenter de passer de % à format ...

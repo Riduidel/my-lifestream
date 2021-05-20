@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Death of Microservice Madness in 2018
+:jbake-tags: programming,architecture,microservices,_mois_avr.,_année_2019
+:jbake-date: 2019-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1556168811000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdwmkerr.com%2Fthe-death-of-microservice-madness-in-2018%2F&searchtags=programming+architecture+microservices+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dwmkerr.com/the-death-of-microservice-madness-in-2018/[The Death of Microservice Madness in 2018]
+
+Les critères permettant de décider si on doit utiliser des microservices sont \*très\* intéressants

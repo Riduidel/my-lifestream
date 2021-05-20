@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Announcing Lucet: Fastly’s native WebAssembly compiler and runtime
+:jbake-tags: webassembly,compilateur,x86,_mois_avr.,_année_2019
+:jbake-date: 2019-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1554370116000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.fastly.com%2Fblog%2Fannouncing-lucet-fastly-native-webassembly-compiler-runtime&searchtags=webassembly+compilateur+x86+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.fastly.com/blog/announcing-lucet-fastly-native-webassembly-compiler-runtime[Announcing Lucet: Fastly’s native WebAssembly compiler and runtime]
+
+Oh, un compilateur de WebAssembly vers du natif.

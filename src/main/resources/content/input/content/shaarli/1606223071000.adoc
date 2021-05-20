@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: If All You Have Is a Database, Everything Looks Like a Nail - Scattered Thoughts on Distributed Systems
+:jbake-tags: sql,database,microservices,architecture,histoire,_mois_nov.,_année_2020
+:jbake-date: 2020-11-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1606223071000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fpathelland.substack.com%2Fp%2Fif-all-you-have-is-a-database-everything&searchtags=sql+database+microservices+architecture+histoire+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://pathelland.substack.com/p/if-all-you-have-is-a-database-everything[If All You Have Is a Database, Everything Looks Like a Nail - Scattered Thoughts on Distributed Systems]
+
+Un peu d'histoire : que se passait-il dans les années 80 quand on avait une base de données relationnelle ? Des choses pas vraiment jolies, liées aux autres contraintes ... Par contre, ça explique bien l'intérêt des microservices ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: spacedesk - Multi Monitor alternative to MaxiVista, Air Parrot, ZoneScreen
+:jbake-tags: software,réseau,display,windows,_mois_févr.,_année_2015
+:jbake-date: 2015-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1423822784000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fspacedesk.ph%2F&searchtags=software+r%C3%A9seau+display+windows+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://spacedesk.ph/[spacedesk - Multi Monitor alternative to MaxiVista, Air Parrot, ZoneScreen]
+
+Une alternative à ZoneScreen ... intéressant

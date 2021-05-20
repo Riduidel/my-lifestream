@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco 🇪🇺 sur Twitter : "Applying the KISS principle also implies doing "boring" stuff instead of blindly following the coolest trends of the moment. Do monoliths unless you don't need microservices for a good reason. Use synchronous code unless you don't need async or reactive for a good reason.… https://t.co/qL0G3wgcmp"
+:jbake-tags: citation,microservices,architecture,mode,_mois_nov.,_année_2019
+:jbake-date: 2019-11-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1573406043000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatuses%2F1193217843007041538&searchtags=citation+microservices+architecture+mode+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/statuses/1193217843007041538[Mario Fusco 🇪🇺 sur Twitter : "Applying the KISS principle also implies doing "boring" stuff instead of blindly following the coolest trends of the moment. Do monoliths unless you don't need microservices for a good reason. Use synchronous code unless you don't need async or reactive for a good reason.… https://t.co/qL0G3wgcmp"]
+
+C'est quand même chouette quand les gens expérimentés sont d'accord, non ? Même si en l’occurrence c'est à contre-courant de la mode ...

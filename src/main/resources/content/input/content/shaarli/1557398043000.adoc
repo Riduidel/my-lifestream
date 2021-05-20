@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chris Ford on Twitter: "I don't want to love Docker, vim or the web framework I use any more than I want to love my electricity, my water or my wifi."
+:jbake-tags: conférence,citation,outillage,réflexion,commodité,_mois_mai,_année_2019
+:jbake-date: 2019-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1557398043000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fctford%2Fstatus%2F1126381501912887298&searchtags=conf%C3%A9rence+citation+outillage+r%C3%A9flexion+commodit%C3%A9+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ctford/status/1126381501912887298[Chris Ford on Twitter: "I don't want to love Docker, vim or the web framework I use any more than I want to love my electricity, my water or my wifi."]
+
+On est exactement dans le thème que je veux creuser ... Est-ce qu'on doit s'attacher émotionnellement à nos outils, se définir à travers eux ? j'ai envie de dire que non, alors qu'évidement, dans certains cas, oui.

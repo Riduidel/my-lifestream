@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Vampire Chronicles
+:jbake-tags: serie
+:jbake-date: 1998-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Vampire_Chronicles.adoc
+:jbake-source: https://www.goodreads.com/series/43564
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782265079625.html[Entretien avec un vampire]

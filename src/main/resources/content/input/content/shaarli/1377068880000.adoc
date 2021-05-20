@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thinkful | A Guide To Using Github Pages
+:jbake-tags: lifestream,github,web,tutorial,_mois_août,_année_2013
+:jbake-date: 2013-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1377068880000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.thinkful.com%2Flearn%2Fa-guide-to-using-github-pages%2F&searchtags=lifestream+github+web+tutorial+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.thinkful.com/learn/a-guide-to-using-github-pages/[Thinkful | A Guide To Using Github Pages]
+
+Un chouette guide sur les pages chez github, qui pourrait me permettre de donner un frontal à mon projet de lifestream

@@ -1,0 +1,256 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gradle au chtijug
+:jbake-tags: chtijug,gradle,programming,_mois_nov.,_année_2019
+:jbake-date: 2019-11-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/11/13/gradle-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/11/13/gradle-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 194 682 053 977 149 441" class="date">13 nov. 2019 à 19:22:52</a>
+
+	<span class="content">
+	
+	<span class="text">C’est parti pour la session @gradle avec @ljacomet https://t.co/MkcZWDsxd7</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EJRc_d-W4AAuHpa.jpg" alt="1 194 682 046 607 712 256"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 194 682 053 977 149 441" class="date">13 nov. 2019 à 19:22:52</a>
+
+	<span class="content">
+	
+	<span class="text">C’est parti pour la session @gradle avec @ljacomet https://t.co/MkcZWDsxd7</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EJRc_d-W4AAuHpa.jpg" alt="1 194 682 046 607 712 256"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Louis est venu pour nous donner envie d’essayer Gradle. Il commence par un sondage facile qui montre (comme d’habitude) que Maven est bien plus utilisé que Gradle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ljacomet" class="screenName"><img src="http://pbs.twimg.com/profile_images/1196154600971210753/squ61TTm_mini.jpg" alt="profile of Software developer, active learner, curious and passionate"/>ljacomet</a>
+		<span class="name">Louis Jacomet</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ljacomet/status/1 194 975 241 824 604 161" class="date">14 nov. 2019 à 14:47:53</a>
+
+	<span class="content">
+	
+	<span class="text">@chtijug @gradle Les slides sont en ligne sur https://t.co/R8nyXoJsfe et le repository source dispo sur https://t.co/mfe6S82vYe
+
+merci pour l'invitation, l'attention, les questions et le feedback sur le contenu!</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ljacomet" class="screenName"><img src="http://pbs.twimg.com/profile_images/1196154600971210753/squ61TTm_mini.jpg" alt="profile of Software developer, active learner, curious and passionate"/>ljacomet</a>
+		<span class="name">Louis Jacomet</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ljacomet/status/1 194 975 241 824 604 161" class="date">14 nov. 2019 à 14:47:53</a>
+
+	<span class="content">
+	
+	<span class="text">@chtijug @gradle Les slides sont en ligne sur https://t.co/R8nyXoJsfe et le repository source dispo sur https://t.co/mfe6S82vYe
+
+merci pour l'invitation, l'attention, les questions et le feedback sur le contenu!</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:heading -->
+<h2 id="_gradle_cest_quoi">Gradle c’est quoi ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>C’est un outil de build et d’automatisation, implémenté à 80-90% en Java 😯. Évidement Gradle est gratuit. Mais il est aussi agnostique c’est-à-dire qu’il peut builder du Java, de l’Android, du natif, du go, de l’Asciidoctor). Grâce aux environnements de build temporaire, il y a 10 M de téléchargements par mois. Chez LinkedIn, il y aurait 300k builds par semaine.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evidement, Gradle estd éveloppé par Gradle Inc, qui vend deux produits : Gradle enterprise et Gradle build scan.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_productivité_du_développeur">Productivité du développeur</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Aujourd’hui, la productivité du développeur est importante, avec les IDE, les langages, les frameworks (comme Micronaut et Quarkus), le matériel. Mais globalement, la productivité du développeur dépend des boucles de feedback rapide. Et c’est ce que veut offrir Gradle ! Et pour atteindre la productivité, il faut une performance maximale du build …​ de l’ensemble des composants. Et donc, Gradle mesure les builds sur les outils de CI, mais aussi sur les postes des développeurs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_expérience_personnelle">Expérience personnelle</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Louis a travaillé sur un projet Maven pour lequel le build le plus rapide prenait 20 minutes (avec 20 modules). Et en passant à Gradle, il obtient son résultat en quelques secondes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_comment">Comment ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="_anatomie_dun_projet_gradle">Anatomie d’un projet Gradle</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>DOnc Gradle a des conventions, comme maven. Par exemple, le source est dans&#160;<code>src/main/java</code>, les resources de rest sont dans&#160;<code>src/test/resources</code>. Il y d’autres conventions spécifiques : le nom du projet est le nom du dossier le contenant (ce qui pose problème pour les projets de base).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans un projet simple, le build sera dans le dossier&#160;<code>build</code>&#160;plutôt que&#160;<code>target</code>. Vous aurez toujours un&#160;<code>gradle/wrapper/gradle-wrapper.jar</code>&#160;pour vous permettre d’utiliser la version de Gradle que vous voulez. Et il y a un&#160;<code>build.gradle[.kts]</code>&#160;définissant le build.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans un projet multimodule, il y a un dossier par module, et voilà.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="_démo">Démo</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Donc notre&#160;<code>build.gradle</code>&#160;est un fichier écrit dans un DSL Groovy. On y retrouve les dépendances, les plugins, la configuration. Et pour écrire des éléments spécifiques, on peut évidement faire des plugins, qui semblent plus simple à charger …​ Et là, j’ai l’impression que Louis part tout de suite sur un projet un peu complexe …​ (tout ehcache d’un coup, c’est peut-être un peu épais …​)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par contre, ce qui est sympa avec gradle, c’est que&#160;<code>gradle tasks</code>liste l’ensemble des tâches disponibles. Mais en fait, on continue très vite à avoir un bon gros gradle, puisque fondamentalement, il y a des dépendances, des plugins, de la configuration.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="_modèle_de_build">Modèle de build</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dans Gradle, il y a un modèle complet pour chaque tâche. Louis prend l’exemple de la compilation : lors de celle-ci, on a juste besoin du CLASSPATH correspondant aux signatures des méthodes. En revanche, à l’exécution, il faut le CLASSPATH correspondant à tout le code (y compris celui utile dans le corps des méthodes). Du coup, quand une dépendance change de version Gradle ne recompile la dépendance qui si la signature des méthodes de la dépendance change. Ca accélère évidement beaucoup la compilation !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comment vérifier que le build est incrémental ? Il suffit de lancer deux fois de suite le build. Si la deuxième fois des tâches s’exécutent, elles ne sont pas incrémentales, et c’est un problème.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce qui nous ramène aux plugins Gradle, pour lesquels il faut déclarer les entrées/sorties via des annotations. Parce que grâce à cette déclaration précise, il est possible de vérifier si la tâche doit être exécutée ou pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cette mdoélisation a un autre avantage : si votre environnement d’intégration continue a déja construit le projet, il est possible grâce au build cache de récupérer le résultat de ce build plutôt que de reconstruire l’application. C’est génial ! Si la récupération du résultat par le réseau va plus vite que le build.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ce build cache est stable pour les projets Java, Groovy, Scala. Et il y a une image Docker disponible :&#160;<a href="https://hub.docker.com/r/gradle/build-cache-node">gradle/build-cache-node</a>&#160;!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_gradle_6">Gradle 6</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Qu’est-ce que ça apporte ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Le support Java 13. "Seulement" maintenant parce que Gradle utilise des bibliothèques externes qui ont dû elles aussi passer à Java 13.</li><li>Des améliorations autour de la JVM<ul><li>L’optimisation de la compilation de Groovy (pour utiliser le cach autant que possible).</li><li>Une compilation incrémentale plus rapide pour le Java et le Groovy.</li><li>Le support du compilateur Zinc pour Scala</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Mais surtout la gestion améliorée des dépendances. On change de mode de déclaration des dépendances avec des contraintes sur les versions. Et en fait, ces contraintes permettent de n’inclure les dépendances que si c’est nécessaire. C’est cool ! Et on peut aussi proposer, au sein d’un range de version, définir une version préférée. On peut également définir une version comme dans Maven de façon stricte. Ca a permis de créer un concept de plateforme (qui ressemble un peu au BOM Java).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans les travaux intéressants, Gradle a également ajouté la notion de capacité ("capability") qui permet de garantir qu’il n’y a qu’une implémentation. C’est vraiment utile par exemple pour n’avoir qu’une implémentation de&#160;<code>slf4j</code>. Il y a également l’alignement de versions de dépendances qui "collaborent" (comme Jackson ou Spring).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, en fait, Louis nous explique que tout ça n’est pas si nouveau (en fait, seul le&#160;<code>strictly</code>&#160;est nouveau). Par contre, ce qu’il y a en Gradle 6, c’est un fichier de métadonnées qui permet de publier ces éléments. A noter que ce manifeste liste les fichiers avec leurs signatures. Mais aussi la Javadoc. Ou le source. Ca permet aux consomateurs d’accéder précisément aux éléments utiles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et Louis rentre dans une liste de cas particuliers franchement hallucinants : guava, jackson, junit, tous ces projets ont en fait des modes de gestion bien foireux, qui obligent à bien des efforts pour être propre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_conclusion">Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Gradle est chouette et plein de très bonnes idées. Mais. Ces idées, malgré leur performance évidente, sont d’un intérêt moindre quand on utilise des frameworks comme Quarkus ou autres, qui offrent un rechargement vraiment rapide. Par ailleurs, à l’époque des microservices, les builds semblent de mon expérience se simplifier "un peu". Du coup, Gradle est un super produit rempli d’idées incroyablement chouettes. Mais je ne me sens pas la motivation de l’adopter. Pour être honnête, ça me donne même envie de commencer à regarder maven les yeux dans les yeux pour voir comment l’améliorer. Sans doute parce que j’ai une affection quasiment immorale pour cet outil honni par bien des développeurs (et je ne le nie pas).Last updated 2019-11-13 21:45:29 +0100
+
+</p>
+<!-- /wp:paragraph -->
+++++

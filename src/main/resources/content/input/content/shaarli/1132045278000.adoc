@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spirited Away is very simple utility for MacOSX. You just start it up and let it run in the background. Spirited Away checks each running application's activity, and if an application isn't active for a certain fixed time, Spirited Away hides the applicat
+:jbake-tags: software,freeware,macosx,system,_mois_nov.,_année_2005
+:jbake-date: 2005-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1132045278000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdrikin.com%2Fspiritedaway%2Fen&searchtags=software+freeware+macosx+system+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://drikin.com/spiritedaway/en[Spirited Away is very simple utility for MacOSX. You just start it up and let it run in the background. Spirited Away checks each running application's activity, and if an application isn't active for a certain fixed time, Spirited Away hides the applicat]
+
+Très pratique, ce genre de gadgets. Parce qu'au bout d'un moment, l'écran de l'iBook finit toujours, même avec Desktop manager, par être encombré de tout un tas de bazar absolument ridicule.

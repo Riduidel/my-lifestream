@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Andres Almiray's Weblog : Weblog
+:jbake-tags: groovy,swing,griffon,article,tutorial,@toread,for:mischler,_mois_déc.,_année_2009
+:jbake-date: 2009-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1260348478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jroller.com%2Faalmiray%2Fentry%2Fbuilding_rich_swing_applications_with3&searchtags=groovy+swing+griffon+article+tutorial+%40toread+for%3Amischler+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.jroller.com/aalmiray/entry/building_rich_swing_applications_with3[Andres Almiray's Weblog : Weblog]
+
+La quatrième partie de cette série d'articles nous présente (enfin ?) Griffon et ses possibiltés.

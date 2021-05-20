@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Michael Simons sur Twitter : "With Maven, you can exclude _all_ transitive dependencies with a wildcard. This comes in handy if you want to have something in test scope only for some isolated classes. https://t.co/jYkq8m1Ltc" / Twitter
+:jbake-tags: maven,astuce,dépendances,_mois_févr.,_année_2021
+:jbake-date: 2021-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1614183000000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Frotnroll666%2Fstatus%2F1364528435809386506&searchtags=maven+astuce+d%C3%A9pendances+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/rotnroll666/status/1364528435809386506[Michael Simons sur Twitter : "With Maven, you can exclude _all_ transitive dependencies with a wildcard. This comes in handy if you want to have something in test scope only for some isolated classes. https://t.co/jYkq8m1Ltc" / Twitter]
+
+J'ignorais ça (et honnêtement, ça m'aurait parfois servi)

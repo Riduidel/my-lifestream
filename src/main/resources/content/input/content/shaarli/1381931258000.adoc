@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Netophonix - Le forum • Liste des Sagas MP3
+:jbake-tags: audio,podcast,aventure,feuilleton,_mois_oct.,_année_2013
+:jbake-date: 2013-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1381931258000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforum.netophonix.com%2Fsagaslist.php&searchtags=audio+podcast+aventure+feuilleton+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://forum.netophonix.com/sagaslist.php[Netophonix - Le forum • Liste des Sagas MP3]
+
+Un annuaire de sagas MP3, parce qu'il semble que je n'aie aucun podcast en attente. Au passage, il est bien de voir un nouveau média être utilisé pour de la vraie création (et pas simplement de l'adaptation).

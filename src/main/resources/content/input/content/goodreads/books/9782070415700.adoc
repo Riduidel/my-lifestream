@@ -1,0 +1,33 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fondation
+:jbake-tags:  guerre, rayon-imaginaire, science,_année_2006,_mois_nov.,_note_3,complot,read
+:jbake-date: 2006-11-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070415700.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/122363
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+En ce début de treizième millénaire, l'Empire n'a jamais été aussi puissant, aussi étendu à travers toute la Galaxie. C'est dans sa capitale, Trantor, que l'éminent savant Hari Seldon invente la psychohistoire, une science nouvelle permettant de prédire l'avenir. Grâce à elle, Seldon prévoit l'effondrement de l'Empire d'ici cinq siècles, suivi d'une ère de ténèbres de trente mille ans. Réduire cette période à mille ans est peut-être possible, à condition de mener à terme son projet : la Fondation, chargée de rassembler toutes les connaissances humaines. Une entreprise visionnaire qui rencontre de nombreux et puissants détracteurs...
+</div>
+++++
+
+
+## Authors
+* link:../authors/16667.html[Isaac Asimov]
+* link:../authors/25530.html[Jean Rosenthal]
+
+## Series
+* link:../series/Foundation_(Chronological_Order).html[Foundation (Chronological Order)]
+* link:../series/Foundation_(Publication_Order).html[Foundation (Publication Order)]
+* link:../series/Foundation_Universe.html[Foundation Universe]
+
+## Review
+
+++++
+Après plus de cinquante ans d’attente, je me suis enfin décidé à lire le cycle le plus connu du bon docteur. Vous ferais-je l’affront d’un résumé ? Non, je ne crois pas. Avant d’arriver aux choses désagréables, je voudrais noter quelques points positifs. Le premier d’entre eux étant évidement la formidable écriture d’<a class="DirectAuthorReference destination_Author" href="../authors/16667.html">Isaac Asimov</a> qui, grâce à un vocabulaire simple mais percutant, nous fait rentrer très vite dans ces récits et surtout, nous captive de la première à la dernière page. Un autre point intéressant est mis en valeur par une citation qu’emploie régulièrement l’un des héros : "la violence est le dernier refuge de l’incompétence". Ca a dû être le postulat de départ de l’auteur : réussir un roman dans lequel la violence ne serait jamais employée par ces héros. Naturellement, pour éviter le recours à la violence, il faut faire preuve d’intelligence et de ruse. Et c’est évidement le cas des différents héros. C’est même mon principal reproche. Ils sont en effet d’une intelligence tellement au-dessus de celle de leurs adversaires qu’il leur est possible de gagner une guerre sans livrer un seul combat. Ca, à la rigueur, c’est acceptable. Seulement on ne les voit jamais se démener pour livrer une guerre, une révolution, des négociations secrètes … Et c’est ça le second gros défaut de ce livre : les phases délicates, qui feraient pourtant un bon roman, sont toujours soigneusement éludées à grands coups de "trois ans plus tard" ou "Il était maintenant maire". D’une part, c’est frustrant, et d’autre part, ça enlève une partie de l’intérêt de ce roman. Néanmoins, Fondation reste un excellent roman, une référence historique du genre qui, si elle a vieilli(1), n’en demeure pas moins une étape significative, mais de quoi ? Car il me semble (attention, hein, il me semble seulement) qu’à part le côté atomique de la chose (qui est justement le plus agaçant du roman), qui est la partie la plus datée de la chose, Asimov n’a pas été très suivi, mis à part par lui-même. Le fait est donc, qu’il s’agit d’une oeuvre du patrimoine de la SF très agréable et distrayante, et assez courte. A lire à mon sens par tous ceux souhaitant plonger un peu dans le monde des grands anciens <br/>(1) Ca fait bien longtemps que je n’avais pas vu une telle profusion de gadgets nucléaires, de la montre au champ de force.
+++++

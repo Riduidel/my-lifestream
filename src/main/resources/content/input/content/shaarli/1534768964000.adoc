@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""In carpentry you measure twice and cut once. In software development you never measure and make cuts until you run out of time." - Adam Morse"
+:jbake-tags: citation,programming,_mois_août,_année_2018
+:jbake-date: 2018-08-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1534768964000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F1029412445985693697&searchtags=citation+programming+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/1029412445985693697[Programming Wisdom on Twitter: ""In carpentry you measure twice and cut once. In software development you never measure and make cuts until you run out of time." - Adam Morse"]
+
+Oh ca fait mal (en tout cas, je m'y reconnais)

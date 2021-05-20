@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: my.struts.ressouces.Html
+:jbake-tags: java,langage,programming,documentation,servlet,jsp,struts,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112705073000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mycgiserver.com%2F%7Eeboudrant%2F&searchtags=java+langage+programming+documentation+servlet+jsp+struts+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mycgiserver.com/~eboudrant/[my.struts.ressouces.Html]
+
+a wait taglib for Struts

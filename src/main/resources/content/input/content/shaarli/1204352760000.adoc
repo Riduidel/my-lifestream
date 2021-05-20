@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Childsplay: Educational games for young children.
+:jbake-tags: enfants,éducation,freeware,jeu,linux,open-source,software,windows,_mois_mars,_année_2008
+:jbake-date: 2008-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1204352760000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchildsplay.sourceforge.net%2F&searchtags=enfants+%C3%A9ducation+freeware+jeu+linux+open-source+software+windows+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://childsplay.sourceforge.net/[Childsplay: Educational games for young children.]
+
+Un ensemble de jeux éducatifs pour enfants de 3 à 8 ans.

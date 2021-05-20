@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geek Test en français !
+:jbake-tags: geek,test,_mois_sept.,_année_2004
+:jbake-date: 2004-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1094647016000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpatate.ressource-toi.org%2F%7Erst210%2Fasp%2Fgeek%2Fgeek_test.asp&searchtags=geek+test+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://patate.ressource-toi.org/~rst210/asp/geek/geek_test.asp[Geek Test en français !]
+
+Afin de mieux vous situer sur l'échelle de la geekitude, voici ma libre adaptation d'un test américain approuvé par la communauté internationale des geeks. Ce test se veut fun, à prendre au troisième degré et au-delà. Mesurez-vous aux autres et co

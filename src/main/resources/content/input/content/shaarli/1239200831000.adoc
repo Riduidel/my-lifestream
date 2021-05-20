@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What is Wii Browser? « Wii Browser
+:jbake-tags: software,browser,wii,portal,bookmark,_mois_avr.,_année_2009
+:jbake-date: 2009-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1239200831000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wiibrowser.com%2Fwii-browser.wii&searchtags=software+browser+wii+portal+bookmark+_mois_avr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.wiibrowser.com/wii-browser.wii[What is Wii Browser? « Wii Browser]
+
+Le système parfait pour se créer une jolie page d'accueil pour la wii : un delicious spécialement adapté.

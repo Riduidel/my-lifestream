@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Elegant READMEs
+:jbake-tags: readme,programming,documentation,développeur,_mois_avr.,_année_2019
+:jbake-date: 2019-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1556097956000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2019%2F04%2F23%2Felegant-readme.html&searchtags=readme+programming+documentation+d%C3%A9veloppeur+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.yegor256.com/2019/04/23/elegant-readme.html[Elegant READMEs]
+
+Le vrai problème de Yegor, c'est qu'il écrit trois articles bien trollesques pour une pépite comme celui-ci. Parce que son exemple de README est vraiment très bon.

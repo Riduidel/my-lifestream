@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: foone on Twitter: "Wow. @sparkfun made an app that searches for nearby bluetooth devices that might be ATM/gas pump skimmers. That's some real cyberpunk shit. https://t.co/CLsI5RKxMC"
+:jbake-tags: software,freeware,android,_mois_sept.,_année_2017
+:jbake-date: 2017-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1505929650000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FFoone%2Fstatus%2F910217984098017281&searchtags=software+freeware+android+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/Foone/status/910217984098017281[foone on Twitter: "Wow. @sparkfun made an app that searches for nearby bluetooth devices that might be ATM/gas pump skimmers. That's some real cyberpunk shit. https://t.co/CLsI5RKxMC"]
+
+Ca m'a l'air parfaitement génial, tout ça ! A installer à côté de l'IMSI-catcher

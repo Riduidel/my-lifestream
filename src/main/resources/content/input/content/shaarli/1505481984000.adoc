@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mickaelistria/eclipse-bluesky: Simple and productive Web Development Tools in the Eclipse IDE
+:jbake-tags: programming,javascript,css,html,eclipse,plugin,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1505481984000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmickaelistria%2Feclipse-bluesky&searchtags=programming+javascript+css+html+eclipse+plugin+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/mickaelistria/eclipse-bluesky[mickaelistria/eclipse-bluesky: Simple and productive Web Development Tools in the Eclipse IDE]
+
+Ca m'a l'air rudement chouette, ce plugin d'édition web pour Eclipse !

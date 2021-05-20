@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Death Of The Commercial Database: Oracle's Dilemma - Oracle Corporation (NASDAQ:ORCL) | Seeking Alpha
+:jbake-tags: anticipation,oracle,sgbd,_mois_févr.,_année_2017
+:jbake-date: 2017-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1487586742000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fseekingalpha.com%2Farticle%2F4044813-death-commercial-database-oracles-dilemma&searchtags=anticipation+oracle+sgbd+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://seekingalpha.com/article/4044813-death-commercial-database-oracles-dilemma[The Death Of The Commercial Database: Oracle's Dilemma - Oracle Corporation (NASDAQ:ORCL) | Seeking Alpha]
+
+Enfin, l'oligopole des bases de données relationnelles va dégonfler ! (bon, ça n'est qu'une prédiction)

@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'échauffement commence
+:jbake-tags: codingame,rust,_mois_mai,_année_2020
+:jbake-date: 2020-05-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/01/lechauffement-commence.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/01/lechauffement-commence/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>La semaine prochaine, il y a un challenge Codingame multijoueur !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca fait plus de deux ans que je n'en ai pas fait, mais franchement, les réflexes reviennent très vite ! J'ai donc choisi le challenge <a href="https://www.codingame.com/training/medium/aneo">Aneo</a> (sans doute parce qu'il est sponsorisé). Si vous lisez l'énoncé, vous aurez l'impression qu'il faut faire de calculs sophistiqués. Et en fait, ça n'est vraiment le cas si vous prenez le temps de réfléchir au problème avant de plonger sur la solution.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et en fait, le concept est de passer dans un espace 2D avec comme axe des X la distance à l'origine (facile) et comme axe des Y le temps. De cette façon, votre vitesse devient le coefficient directeur de la droite. Et vérifier que la voiture a tous les feux verts correspond "simplement" à calculer la valeur de cette droite à la distance de chaque feu puis vérifier que ça tombe à un moment où le feu est vert. Comme sur ce schéma issu de <a href="https://forum.codingame.com/t/aneo-sponsored-puzzle-discussion/42954/129?u=riduidel">ce message</a> qui reprend les mêmes idées.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://forum.codingame.com/uploads/default/original/3X/b/c/bc8cea9039a088c89904e362f174fd08d8e67a95.png" alt="" /><figcaption>Evidement, dans mon explication, j'ai inversé x et y.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Le truc le plus complexe est de bien gérer les conversions d'unités (entre les m/s et les km/h en particulier). Ca m'a bloqué pendant un moment à 80% de la réponse valide ... Mais j'ai trouvé la solution ! Vous pouvez aller le voir <a href="https://github.com/Riduidel/codingame/blob/master/src/main/2%20-%20medium/aneo.rs">sur GitHub</a>, parce qu'il semble bien que l'inclusion de code source ne marche plus ☹</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En gros, il semble que le problème soit particulièrement sensible aux erreurs d'arrondi. Et si dans ma première version j'utilisais des f32 un peu partout, la dernière version ne citent qu'une unique opération arithmétique : <code>let time_at_light = (36*light.distance)/(10*speed_in_kmh);</code> dans laquelle j'utilise ma distance en mètre avec une vitesse en kilomètres/heure sans problème.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans les bons côtés de cette reprise, j'ai pris le temps d'analyser le problème, et ça, c'est bien. Et puis, même si je n'ai pas fait de projet cargo (et donc pas de tests), je n'ai pas eu trop de mal à reprendre les bonnes habitudes du Rust. En particulier, je n'ai eu aucun souci à comprendre les rares problèmes d'ownership de mon code. Et ça, ça me rassure pas mal pour la semaine prochaine.</p>
+<!-- /wp:paragraph -->
+++++

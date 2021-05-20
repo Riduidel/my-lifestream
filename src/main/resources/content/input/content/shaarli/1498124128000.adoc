@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Insee - Population - La situation démographique en 2014 - Pyramide des âges par état matrimonial
+:jbake-tags: france,population,infographie,_mois_juin,_année_2017
+:jbake-date: 2017-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1498124128000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.insee.fr%2Ffr%2Fstatistiques%2F2418114&searchtags=france+population+infographie+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.insee.fr/fr/statistiques/2418114[Insee - Population - La situation démographique en 2014 - Pyramide des âges par état matrimonial]
+
+Elle est couette cette pyramide. Et en plus elle montre bien le baby boom

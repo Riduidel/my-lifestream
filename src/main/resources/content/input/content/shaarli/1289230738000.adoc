@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: penguinppc.org: front page
+:jbake-tags: matériel,ibook,macosx,open-source,powerpc,linux,_mois_nov.,_année_2010
+:jbake-date: 2010-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1289230738000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpenguinppc.org%2F&searchtags=mat%C3%A9riel+ibook+macosx+open-source+powerpc+linux+_mois_nov.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://penguinppc.org/[penguinppc.org: front page]
+
+Il est temps d'offrir une nouvelle vie à l'iBook qui ne me sert plus.

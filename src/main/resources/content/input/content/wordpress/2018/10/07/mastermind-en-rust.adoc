@@ -1,0 +1,2265 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mastermind en Rust
+:jbake-tags: kata,rust,_mois_oct.,_année_2018
+:jbake-date: 2018-10-07
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/10/07/mastermind-en-rust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/10/07/mastermind-en-rust/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Dans le monde du développement, il y a certaines idées qui semblent bizarre, mais qui sont en fait géniales. Les <a title="https://fr.wikipedia.org/wiki/Kata" href="https://fr.wikipedia.org/wiki/Kata">katas</a> en sont un parfait exemple. Et comme on s’est lancés au bureau à un trimestre Rust, on a logiquement commencé par un kata pas trop dur …​ <a title="http://codingdojo.org/kata/Mastermind/" href="http://codingdojo.org/kata/Mastermind/">Mastermind</a>. Et comme je l’ai promis à mes collègues, je me fends d’une solution annotée (si toutefois la sortie Asciidoc passe bien dans Wordpress).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_démarrage">Démarrage</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Facile
+</p>
+<p>
+</div>
+<br/>
+<div class="literalblock">
+<br/>
+<div class="content">
+<br/>
+<pre>cargo init</pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Crée un projet cargo avec un code source basique, qu’on va modifier (évidement il faut avoir installé Rust et Cargo).
+</p>
+<p>
+<b>NOTE</b> Si vous voulez développer plus vite, cargo a l’avantage d’être extensible (et un tas d’extensions intéressantes sont listées sur <a title="https://github.com/rust-unofficial/awesome-rust#build-system" href="https://github.com/rust-unofficial/awesome-rust#build-system">Awesome Rust</a>). Je vous recommande d’installer <a title="https://crates.io/crates/cargo-watch" href="https://crates.io/crates/cargo-watch">cargo-watch</a>, ça ira plus vite …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_on_commence_en_tdd">On commence en TDD</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Evidement, on est propres, donc on commence par écrire un test.
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlight"><code class="language-rust">#[cfg(test)] <b class="conum">(1)</b>
+<br/>
+mod tests {
+<br/>
+<b class="conum">(2)</b>
+<br/>
+use super::*; <b class="conum">(3)</b>
+</p>
+<p>
+#[test]
+<br/>
+fn can_evaluate_r_r() {</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="colist arabic">
+<br/>
+<ol>
+<br/>
+<li>Le module de test ne sera activé que dans la configuration test …​ qui est celle lancée par <code>cargo test</code> (ou <code>cargo watch -x test</code>)</li>
+<br/>
+<li>En Rust, on déclare les tests unitaires dans un module (qui peut être dans le même fichier, ou dans un autre).</li>
+<br/>
+<li>Pour appeler les fonctions déclarées dans notre fichier, il faut déclarer au compilateur qu’on utilise le module parent, grâce à cette syntaxe …​ un peu curieuse.</li>
+<br/>
+<li>Ensuite, comme avec l’annotation <code>@Test</code> de JUnit, on déclare notre test. Il ne reste plus qu’à coder un test !</li>
+<br/>
+<li>Evidement qu’il y a une bibliothèque d’assertions !</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_et_on_implémente_intelligement">Et on implémente …​ intelligement</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Là je sors du TDD classique des katas pour livrer tout de suite la solution complète.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Comme je n’ai pas envie de perdre mon temps, c’est le moment de lancer <code>cargo-watch</code>. Donc <code>cargo watch -x test</code>, et c’est parti pour le code ! Heureusement, j’avais une bonne idée de l’implémentation.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_une_fonction">Une fonction</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Les tests le montrent bien, on a une belle fonction <code>evaluate(…​)</code>
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlight"><code class="language-rust">/// Public interface of the evaluation function
+<br/>
+/// The return value is *ALWAYS* a two-elements array
+<br/>
+pub fn evaluate(secret: Vec, user: Vec) -&#62; (i32, i32) {</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+En théorie, évidement, personne n’utilise de <code>Vec</code> dans une interface …​ Ni de tuples, mais bon, c’est un kata, hein.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_des_couleurs">Des couleurs !</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Parce qu’il nous faut de quoi stocker nos couleurs. Donc, hop, un <code>enum</code> !
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlight"><code class="language-rust">#[derive(Clone, Debug, PartialEq)] <b class="conum">(1)</b>
+<br/>
+pub enum Color {
+<br/>
+RED,
+<br/>
+GREEN,
+<br/>
+BLUE,
+<br/>
+YELLOW,
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="colist arabic">
+<br/>
+<ol>
+<br/>
+<li>Les enum peuvent implémenter des traits (ou des interfaces). Et le compilateur permet d’implémenter automatiquement les interfaces classiques via l’attribute <a title="https://doc.rust-lang.org/rust-by-example/trait/derive.html" href="https://doc.rust-lang.org/rust-by-example/trait/derive.html"><code>derive</code></a>.</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_et_du_code">Et du code</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Enfin, il nous faut une implémentation.
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock">
+<br/>
+<div class="content">
+<br/>
+<pre class="highlight"><code class="language-rust">pub fn do_evaluate(mut secret: Vec, user: &#38;[Color]) -&#62; (i32, i32) {
+<br/>
+let mut returned = (0, 0); <b class="conum">(1)</b>
+<br/>
+if let Some((first_user, next_user)) = user.split_first() { <b class="conum">(2)</b>
+<br/>
+if let Some(index) = secret.iter().position(|c| c == first_user) { <b class="conum">(3)</b>
+<br/>
+if index == 0 {
+<br/>
+returned = (1, 0);
+<br/>
+} else {
+<br/>
+returned = (0, 1);
+<br/>
+}
+<br/>
+secret.remove(index); <b class="conum">(4)</b>
+<br/>
+}
+<br/>
+if !next_user.is_empty() {
+<br/>
+let other = do_evaluate(secret, next_user); <b class="conum">(5)</b>
+<br/>
+returned = (returned.0 + other.0, returned.1 + other.1); <b class="conum">(6)</b>
+<br/>
+}
+<br/>
+}
+<br/>
+returned
+<br/>
+}</code></pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="colist arabic">
+<br/>
+<ol>
+<br/>
+<li>Créer un tuple, c’est facile !</li>
+<br/>
+<li>Là, c’est typique : la méthode <a title="https://doc.rust-lang.org/std/vec/struct.Vec.html#method.split_first" href="https://doc.rust-lang.org/std/vec/struct.Vec.html#method.split_first"><code>split_first()</code></a> découpe notre vecteur en extrayant la tête et la queue. C’est <a title="https://en.wikipedia.org/wiki/CAR_and_CDR" href="https://en.wikipedia.org/wiki/CAR_and_CDR">trèèèès lispesque</a>. Mais surtout, comme il n’y a pas de <code>null</code> en Rust, cette méthode retourne une <a title="https://doc.rust-lang.org/std/option/enum.Option.html" href="https://doc.rust-lang.org/std/option/enum.Option.html"><code>Option</code></a> (qui est donc un enum avec deux variantes structurellement différentes). Et comme je ne veux pas m’embêter à gérer le cas <code>None</code>, j’utilise le <a title="https://doc.rust-lang.org/book/second-edition/ch06-03-if-let.html" href="https://doc.rust-lang.org/book/second-edition/ch06-03-if-let.html"><code>if let</code></a> de Rust. Et comme je sais que le contenu sera un <code>Some</code> qui contient un tuple, je me retrouve avec ce <code>if let Some(…​.)</code>.</li>
+<br/>
+<li>Comme j’ai deux vecteurs à découper, je recommence l’opération sur l’autre.</li>
+<br/>
+<li>Ici, c’est l’élément fonctionnel intéressant : quand j’ai trouvé si un élément était dans la liste des secrets, je le supprime de cette liste. Oui, c’est un effet de bord et c’est mal. Mais c’est un kata.</li>
+<br/>
+<li>Et pour pouvoir parcourir toute la liste, un peu de récursion, c’est cool !</li>
+<br/>
+<li>Et enfin, un petit ajout de tuples. La syntaxe d’accès aux éléments du tuple est toutefois un peu curieuse.</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_et_ça_marche">Et ça marche ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Ben oui !
+</p>
+<p>
+</div>
+<br/>
+<div class="listingblock">
+<br/>
+<div class="content">
+<br/>
+<pre>running 2 tests
+<br/>
+test tests::can_evaluate_r_r ... ok
+<br/>
+test tests::can_evaluate_r_r_b_r_r_r ... ok
+</p>
+<p>
+test result: ok. 2 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out</pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Et le code complet est sur <a title="<pre class='github'>
+<br/>
+<code>
+<br/>
+<html lang="en"><head>
+<br/>
+<meta charset="utf-8">
+<br/>
+<link rel="dns-prefetch" href="https://github.githubassets.com">
+<br/>
+<link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+<br/>
+<link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+<br/>
+<link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-uGiH6wbEDXS0vWuvN3hZbENUuT1jRMWy2XVfJIgd3mEESUBtD/hnFdIiujVyRcPJ5dofwZ6e196xmCczSkgz9g==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-b86887eb06c40d74b4bd6baf3778596c.css">
+<br/>
+<link crossorigin="anonymous" media="all" integrity="sha512-gEUpuli94xYShC0AAbAVQoQqxAoVyNDUWuD3x6Hsvwm8f1L7gbiu4bEM1HDLEkRz4ofHAvdAdmeqaUtzBCy6xg==" rel="stylesheet" href="https://github.githubassets.com/assets/site-804529ba58bde31612842d0001b01542.css">
+<br/>
+<link crossorigin="anonymous" media="all" integrity="sha512-8rXKu7ZOFdS3H7Rk0wJ38WQFoEp6b7HTSZ58yDoWzKX+JDPYC6vtbIdTIbhWT90/16upZIaZDCPOA8P9a8mv5A==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-f2b5cabbb64e15d4b71fb464d30277f1.css">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-2Tv1VQoy2kaxDIPWa40DzxC7ou3lAWTHqe/npmKNz/mJnES617GVYxEkryY/xZ8U/RXi1EkE31stiFb4orAVXQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-d93bf5550a32da46b10c83d66b8d03cf.css">
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-oRkKscjEH1b2bAAJURl5E/Q7RFJnHgCDjcbhNpHzxJ3s5G5I2oNZc9b4KrHgOG2D8rpkXsPu88B5p8lOCe8f6Q==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-a1190ab1.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-xs/XWtVY6sgxCZKGLtrGrcsYgDgR0UR1Nx14ivzvJC0S8ZEB7BAxAOBDF8xFrtPq/6Vek9n2A2A8mx/odP+fMg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-c6cfd75a.js"></script>
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-+MwvC3rSAaQjKVbALblvS0KULukVYcqzY2ug5b5z0SjYWX4K+vXVEMZfgEK3viB9kTD2txkEu+XhQrmmAGGaUw==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-f8cc2f0b.js"></script>
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-aEeAsfpL9cBt2DYP2NfaqKLyYLkN4BS+/ikvLHM+abhqZsoNmd3Wxqwu6TGp7Pf/vqvvGeL26/NswwMkS1WwQg==" type="application/javascript" data-module-id="./chunk-color-modes.js" src="https://github.githubassets.com/assets/chunk-color-modes-684780b1.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-zaLwmM/bgGhKnDy4YPvbl92aZ1yaF7e3A+bjdCoWZSCls/co65VBCDE+blnNwcfc61E/cQHJiFDokMdSGmTYxQ==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-cda2f098.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-6j/oSF+kbW+yetNPvI684VzAu9pzug6Vj2h+3u1LdCuRhR4jnuiHZfeQKls3nxcT/S3H+oIt7FtigE/aeoj+gg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-ea3fe848.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ymxyvUviKFi+en2si3ZTyY4YCLRKlk0cKK/ngD9ir8xoeH44pCE1I4MBRQE5PcErmUJMhlcAk3+pgwHB7VcseA==" type="application/javascript" data-module-id="./chunk-edit.js" src="https://github.githubassets.com/assets/chunk-edit-ca6c72bd.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-DAk56F8lz8k6kg6vf15oE4tu4MTIPDT9DUo3VwO8SLYyb3ws4QU433BG7eVXOS50wzl7dUuMFRfTP1rHlHi45g==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-0c0939e8.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-j5Eltv6XYkPt7XVCMWLH6qhNBoFOzxXLIsaoffjjTl2fw/sXVfluH+EGE5dYJPEBwsmqK0LenheRi9hmNcWnCA==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-8f9125b6.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-QM/lwlNqhmQdgdKAm7AmH4UPduFZRVyImbYS6vxhjNHvktVItzONWSYyvdRP83nsaNC1HZVeWmKSFh6uNHcF5A==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-40cfe5c2.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-9WNXtB07IyWypiPmkuucspwog4mme9q5GKGMSgd7FI0DPimmg/pEw+aaAofFV1vuWMt9I8H5QpsVtlbHGg1YBA==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-f56357b4.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-JoWpXsdKsRKFyspZP0lsV/mUnqLhErMvFLeq7PwLuptuR0JgHOv5NMWIeBqqWHuWmhIltMifR+/rEjO553Raug==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-2685a95e.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ZyozqjwhoIovRiwFwpwYmlQUgmIyGt5y8DgJhtiLHr9EM6f51vmXxaIIZap+ly64QSLa0zeA7DPCD6Yio2/AGA==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-672a33aa.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-x4kU6fFUhRRm2c+AcnGrKXfEBgPxFF8vMQ9RJQraR7T4kQEgj+3RsoU4+8FYsR359M0xSovamhNcCQlYA03c0g==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-c78914e9.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-q5LNebftLi+t+DZS5swr2IUtyCsm/vIO9pC33gFyCkg7Fyt2VyfOjEysu2c8quyhFbxr2Wrezi9QvEvzRYxzIw==" type="application/javascript" src="https://github.githubassets.com/assets/gist-ab92cd79.js"></script>
+</p>
+<p>
+<meta name="viewport" content="width=device-width">
+</p>
+<p>
+<title>Launcher.java · GitHub</title>
+<br/>
+<meta name="description" content="GitHub Gist: instantly share code, notes, and snippets.">
+<br/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch-gist.xml" title="Gist">
+<br/>
+<link rel="fluid-icon" href="https://gist.github.com/fluidicon.png" title="GitHub">
+<br/>
+<meta property="fb:app_id" content="1401488693436528">
+<br/>
+<meta name="apple-itunes-app" content="app-id=1477376905">
+<br/>
+<meta name="twitter:image:src" content="https://github.githubassets.com/images/modules/gists/gist-og-image.png"><meta name="twitter:site" content="@github"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Launcher.java"><meta name="twitter:description" content="GitHub Gist: instantly share code, notes, and snippets.">
+<br/>
+<meta property="og:image" content="https://github.githubassets.com/images/modules/gists/gist-og-image.png"><meta property="og:site_name" content="Gist"><meta property="og:type" content="article"><meta property="og:title" content="Launcher.java"><meta property="og:url" content="https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8"><meta property="og:description" content="GitHub Gist: instantly share code, notes, and snippets."><meta property="article:author" content="262588213843476"><meta property="article:publisher" content="262588213843476">
+</p>
+<p>
+<link rel="assets" href="https://github.githubassets.com/">
+</p>
+<p>
+<meta name="request-id" content="E8A1:CBF8:1AF04A3:1C023D5:60683BD6" data-pjax-transient="true"><meta name="html-safe-nonce" content="4cc1cb82bb58cd0d47f69bbf11834b9b45d35c41197d7a534e96fc556e4ac334" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFOEExOkNCRjg6MUFGMDRBMzoxQzAyM0Q1OjYwNjgzQkQ2IiwidmlzaXRvcl9pZCI6IjY1MjYyMDY1MTQ0NDYyMjAyMjQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"><meta name="visitor-hmac" content="d45b9fd4cad54834c9232c5e88f5625ab2f0a420f69f0db3bff74de488905d7f" data-pjax-transient="true">
+</p>
+<p>
+<meta name="github-keyboard-shortcuts" content="" data-pjax-transient="true">
+</p>
+<p>
+<meta name="selected-link" value="gist_code" data-pjax-transient="">
+</p>
+<p>
+<meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+<br/>
+<meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+<br/>
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+<br/>
+<meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+</p>
+<p>
+<meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="gist"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event">
+</p>
+<p>
+<meta name="analytics-location" content="/<user-name>/<gist-id>" data-pjax-transient="true">
+</p>
+<p>
+<meta name="octolytics-dimension-public" content="true"><meta name="octolytics-dimension-gist_id" content="93195063"><meta name="octolytics-dimension-gist_name" content="d840566861b7ad33bf7c4a8eac8fe2b8"><meta name="octolytics-dimension-anonymous" content="false"><meta name="octolytics-dimension-owner_id" content="171018"><meta name="octolytics-dimension-owner_login" content="Riduidel"><meta name="octolytics-dimension-forked" content="false">
+</p>
+<p>
+<meta name="hostname" content="gist.github.com">
+<br/>
+<meta name="user-login" content="">
+</p>
+<p>
+<meta name="expected-hostname" content="gist.github.com">
+</p>
+<p>
+<meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
+</p>
+<p>
+<meta http-equiv="x-pjax-version" content="fc0c038c4164e425256f8f913140a513b183e6f334283e4ba5b6964948ad5706">
+</p>
+<p>
+<link href="/Riduidel.atom" rel="alternate" title="atom" type="application/atom+xml">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-cMy3yKcMc+xxMnXvp1BuJTYlJ4zcLel56uLyEBl208hbiP8Pinp3vgobWXTWzQBHpB8rvT+k42s8a8bs0U5ibg==" rel="stylesheet" href="https://github.githubassets.com/assets/gist-70ccb7c8a70c73ec713275efa7506e25.css">
+</p>
+<p>
+<meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+</p>
+<p>
+<meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+</p>
+<p>
+<meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+</p>
+<p>
+<link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+<br/>
+<link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+<br/>
+<link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+</p>
+<p>
+<meta name="theme-color" content="#1e2327">
+</p>
+<p>
+</head>
+</p>
+<p>
+<body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+</p>
+<p>
+<div class="position-relative js-header-wrapper ">
+<br/>
+<a href="#start-of-content" class="px-2 py-4 color-bg-info-inverse color-text-white show-on-focus js-skip-to-content">Skip to content</a>
+<br/>
+<span class="progress-pjax-loader width-full js-pjax-loader-bar Progress position-fixed">
+<br/>
+<span style="background-color: #79b8ff;width: 0%;" class="Progress-item progress-pjax-loader-bar "></span>
+<br/>
+</span>
+</p>
+<p>
+<div class="Header js-details-container Details flex-wrap flex-md-nowrap p-responsive" role="banner">
+<br/>
+<div class="Header-item d-none d-md-flex">
+<br/>
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href="/">
+<br/>
+<svg class="octicon octicon-mark-github v-align-middle d-inline-block d-md-none" height="24" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-github v-align-middle d-none d-md-inline-block" viewBox="0 0 45 16" version="1.1" width="67" aria-hidden="true"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-gist v-align-middle d-none d-md-inline-block" viewBox="0 0 25 16" version="1.1" width="37" aria-hidden="true"><path fill-rule="evenodd" d="M4.7 8.73h2.45v4.02c-.55.27-1.64.34-2.53.34-2.56 0-3.47-2.2-3.47-5.05 0-2.85.91-5.06 3.48-5.06 1.28 0 2.06.23 3.28.73V2.66C7.27 2.33 6.25 2 4.63 2 1.13 2 0 4.69 0 8.03c0 3.34 1.11 6.03 4.63 6.03 1.64 0 2.81-.27 3.59-.64V7.73H4.7v1zm6.39 3.72V6.06h-1.05v6.28c0 1.25.58 1.72 1.72 1.72v-.89c-.48 0-.67-.16-.67-.7v-.02zm.25-8.72c0-.44-.33-.78-.78-.78s-.77.34-.77.78.33.78.77.78.78-.34.78-.78zm4.34 5.69c-1.5-.13-1.78-.48-1.78-1.17 0-.77.33-1.34 1.88-1.34 1.05 0 1.66.16 2.27.36v-.94c-.69-.3-1.52-.39-2.25-.39-2.2 0-2.92 1.2-2.92 2.31 0 1.08.47 1.88 2.73 2.08 1.55.13 1.77.63 1.77 1.34 0 .73-.44 1.42-2.06 1.42-1.11 0-1.86-.19-2.33-.36v.94c.5.2 1.58.39 2.33.39 2.38 0 3.14-1.2 3.14-2.41 0-1.28-.53-2.03-2.75-2.23h-.03zm8.58-2.47v-.86h-2.42v-2.5l-1.08.31v2.11l-1.56.44v.48h1.56v5c0 1.53 1.19 2.13 2.5 2.13.19 0 .52-.02.69-.05v-.89c-.19.03-.41.03-.61.03-.97 0-1.5-.39-1.5-1.34V6.94h2.42v.02-.01z"></path></svg>
+<br/>
+</a>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item d-md-none">
+<br/>
+<button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+<br/>
+<svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
+<br/>
+</button>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item Header-item--full js-site-search flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+<br/>
+<div class="header-search flex-self-stretch flex-md-self-auto mr-0 mr-md-3 mb-3 mb-md-0">
+<br/>
+<!-- '"` --><!-- </textarea></xmp> --><form class="position-relative js-quicksearch-form" role="search" aria-label="Site" action="/search" accept-charset="UTF-8" method="get">
+<br/>
+<div class="header-search-wrapper form-control input-sm js-chromeless-input-container">
+<br/>
+<input type="text" class="form-control input-sm js-site-search-focus header-search-input" data-hotkey="s,/" name="q" aria-label="Search" placeholder="Search…" autocorrect="off" autocomplete="off" autocapitalize="off">
+<br/>
+</div>
+</p>
+<p>
+</form></div>
+</p>
+<p>
+<nav aria-label="Global" class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto">
+<br/>
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, go to all gists, text:all gists" href="/discover">All gists</a>
+</p>
+<p>
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, go to GitHub, text:Back to GitHub" href="https://github.com">Back to GitHub</a>
+</p>
+<p>
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e8c0890a2130a85999febeafc06e531dc36d1f5bbfe50ce063295da90ce60f11" href="https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+Sign in
+<br/>
+</a>
+<br/>
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, sign up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cb1f363031f245d153378c5a2fa5753bc2db0e8e884148098fd10c3f27920665" href="/join?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8&amp;source=header-gist">
+<br/>
+Sign up
+<br/>
+</a></nav>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+<br/>
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href="/">
+<br/>
+<svg class="octicon octicon-mark-github v-align-middle d-inline-block d-md-none" height="24" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-github v-align-middle d-none d-md-inline-block" viewBox="0 0 45 16" version="1.1" width="67" aria-hidden="true"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-gist v-align-middle d-none d-md-inline-block" viewBox="0 0 25 16" version="1.1" width="37" aria-hidden="true"><path fill-rule="evenodd" d="M4.7 8.73h2.45v4.02c-.55.27-1.64.34-2.53.34-2.56 0-3.47-2.2-3.47-5.05 0-2.85.91-5.06 3.48-5.06 1.28 0 2.06.23 3.28.73V2.66C7.27 2.33 6.25 2 4.63 2 1.13 2 0 4.69 0 8.03c0 3.34 1.11 6.03 4.63 6.03 1.64 0 2.81-.27 3.59-.64V7.73H4.7v1zm6.39 3.72V6.06h-1.05v6.28c0 1.25.58 1.72 1.72 1.72v-.89c-.48 0-.67-.16-.67-.7v-.02zm.25-8.72c0-.44-.33-.78-.78-.78s-.77.34-.77.78.33.78.77.78.78-.34.78-.78zm4.34 5.69c-1.5-.13-1.78-.48-1.78-1.17 0-.77.33-1.34 1.88-1.34 1.05 0 1.66.16 2.27.36v-.94c-.69-.3-1.52-.39-2.25-.39-2.2 0-2.92 1.2-2.92 2.31 0 1.08.47 1.88 2.73 2.08 1.55.13 1.77.63 1.77 1.34 0 .73-.44 1.42-2.06 1.42-1.11 0-1.86-.19-2.33-.36v.94c.5.2 1.58.39 2.33.39 2.38 0 3.14-1.2 3.14-2.41 0-1.28-.53-2.03-2.75-2.23h-.03zm8.58-2.47v-.86h-2.42v-2.5l-1.08.31v2.11l-1.56.44v.48h1.56v5c0 1.53 1.19 2.13 2.5 2.13.19 0 .52-.02.69-.05v-.89c-.19.03-.41.03-.61.03-.97 0-1.5-.39-1.5-1.34V6.94h2.42v.02-.01z"></path></svg>
+<br/>
+</a>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item f4 mr-0" role="navigation">
+<br/>
+<a class="HeaderMenu-link no-underline mr-3" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e8c0890a2130a85999febeafc06e531dc36d1f5bbfe50ce063295da90ce60f11" href="https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+Sign&nbsp;in
+<br/>
+</a>        <a class="HeaderMenu-link d-inline-block no-underline border color-border-tertiary rounded px-2 py-1" data-ga-click="Header, sign up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cb1f363031f245d153378c5a2fa5753bc2db0e8e884148098fd10c3f27920665" href="/join?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8&amp;source=header-gist">
+<br/>
+Sign&nbsp;up
+<br/>
+</a>    </div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div id="start-of-content" class="show-on-focus"></div>
+</p>
+<p>
+<div data-pjax-replace="" id="js-flash-container">
+</p>
+<p>
+<template class="js-flash-template">
+<br/>
+<div class="flash flash-full  {{ className }}">
+<br/>
+<div class="container-lg px-2">
+<br/>
+<button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+</p>
+<p>
+<div>{{ message }}</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</template>
+<br/>
+</div>
+</p>
+<p>
+<include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+</p>
+<p>
+<div class="application-main " data-commit-hovercards-enabled="" data-discussion-hovercards-enabled="" data-issue-and-pr-hovercards-enabled="">
+<br/>
+<div itemscope="" itemtype="http://schema.org/Code">
+<br/>
+<main id="gist-pjax-container" data-pjax-container="">
+</p>
+<p>
+<div class="gist-detail-intro gist-banner pb-3">
+<br/>
+<div class="text-center container-lg px-3">
+<br/>
+<p class="lead">
+<br/>
+Instantly share code, notes, and snippets.
+<br/>
+</p>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class="gisthead pagehead color-bg-secondary pb-0 pt-3 mb-4">
+<br/>
+<div class="px-0">
+</p>
+<p>
+<div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+<br/>
+<div class="flex-auto min-width-0 width-fit mr-3">
+<br/>
+<div class="d-flex">
+<br/>
+<div class="d-none d-md-block">
+<br/>
+<a class="avatar mr-2 flex-shrink-0" data-hovercard-type="user" data-hovercard-url="/users/Riduidel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Riduidel"><img class=" avatar-user" src="https://avatars.githubusercontent.com/u/171018?s=64&amp;v=4" width="32" height="32" alt="@Riduidel"></a>
+<br/>
+</div>
+<br/>
+<div class="d-flex flex-column">
+<br/>
+<h1 class="break-word f3 text-normal mb-md-0 mb-1">
+<br/>
+<span class="author"><a data-hovercard-type="user" data-hovercard-url="/users/Riduidel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Riduidel">Riduidel</a></span><!--
+<br/>
+--><span class="mx-1 color-text-secondary">/</span><!--
+<br/>
+--><strong itemprop="name" class="css-truncate-target mr-1" style="max-width: 410px"><a href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8">Launcher.java</a></strong>
+<br/>
+</h1>
+<br/>
+<div class="note m-0">
+<br/>
+Created <time-ago datetime="2018-11-23T19:48:47Z" class="no-wrap " title="23 nov. 2018, 20:48 UTC+1">2 years ago</time-ago>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<ul class="d-md-flex d-none pagehead-actions float-none">
+</p>
+<p>
+<li>
+<br/>
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist star button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7bc8336f502d274a4196c74044252b1bc2232dbdd931d16130e26fd916f9490f" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+<br/>
+Star
+<br/>
+</a>
+<br/>
+<a class="social-count" aria-label="0 users starred this gist" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/stargazers">
+<br/>
+0
+<br/>
+</a>
+<br/>
+</li>
+</p>
+<p>
+<li>
+<br/>
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to fork a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist fork button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b750855112952fe6f5b19d3670dcf23c3d91aab3e0524bd5911fcc2482943f3" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+<br/>
+Fork
+<br/>
+</a>    <span class="social-count">0</span>
+</p>
+<p>
+</li>
+<br/>
+</ul>
+<br/>
+</div>
+</p>
+<p>
+<div class="d-block d-md-none px-3 px-md-3 px-lg-5 mb-3">
+<br/>
+<a class="btn btn-sm btn-block tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist star button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7bc8336f502d274a4196c74044252b1bc2232dbdd931d16130e26fd916f9490f" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+<br/>
+Star
+<br/>
+</a>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="d-flex flex-md-row flex-column px-0 pr-md-3 px-lg-5">
+<br/>
+<div class="flex-md-order-1 flex-order-2 flex-auto">
+<br/>
+<nav class="UnderlineNav box-shadow-none px-3 px-lg-0 " aria-label="Gist" data-pjax="#gist-pjax-container">
+</p>
+<p>
+<div class="UnderlineNav-body">
+<br/>
+<a class="js-selected-navigation-item selected UnderlineNav-item" data-pjax="true" data-hotkey="g c" aria-current="page" data-selected-links="gist_code /Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-code UnderlineNav-octicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
+<br/>
+Code
+<br/>
+</a>
+<br/>
+<a class="js-selected-navigation-item UnderlineNav-item" data-pjax="true" data-hotkey="g r" data-selected-links="gist_revisions /Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/revisions" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/revisions">
+<br/>
+<svg class="octicon octicon-git-commit" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"></path></svg>
+<br/>
+Revisions
+<br/>
+<span title="1" class="Counter hx_reponav_item_counter ">1</span>
+<br/>
+</a>
+</p>
+<p>
+</div>
+<br/>
+</nav>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="d-md-flex d-none flex-items-center flex-md-order-2 flex-order-1 file-navigation-options" data-multiple="">
+</p>
+<p>
+<div class="d-lg-table d-none">
+<br/>
+<div class="file-navigation-option v-align-middle">
+</p>
+<p>
+<div class="d-md-flex d-none">
+<br/>
+<div class="input-group">
+<br/>
+<div class="input-group-button">
+<br/>
+<details class="details-reset details-overlay select-menu">
+<br/>
+<summary class="btn btn-sm select-menu-button" data-ga-click="Repository, clone Embed, location:repo overview" aria-haspopup="menu" role="button">
+<br/>
+<span data-menu-button="">Embed</span>
+<br/>
+</summary>
+<br/>
+<details-menu class="select-menu-modal position-absolute" data-menu-input="gist-share-url" style="z-index: 99;" aria-label="Clone options" role="menu">
+<br/>
+<div class="select-menu-header">
+<br/>
+<span class="select-menu-title">What would you like to do?</span>
+<br/>
+</div>
+<br/>
+<div class="select-menu-list">
+<br/>
+<button name="button" type="button" class="select-menu-item width-full" aria-checked="true" role="menuitemradio" value="<script src=&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8.js&quot;></script>" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;EMBED&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="38031e225d84ffa8bb90fbcd9b57fbd02d4a6fb9a5af9331ff3a3364ec68b80b">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+</p>
+<p>
+Embed
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Embed this gist in your website.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>                <button name="button" type="button" class="select-menu-item width-full" aria-checked="false" role="menuitemradio" value="https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;SHARE&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a5643d839ece3f6aebb45914ed94f35f22eae94c4a049d9e72dafad2d7598e7d">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+</p>
+<p>
+Share
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Copy sharable link for this gist.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>                <button name="button" type="button" class="select-menu-item width-full" aria-checked="false" role="menuitemradio" value="https://gist.github.com/d840566861b7ad33bf7c4a8eac8fe2b8.git" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;USE_HTTPS&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9c17810557701739628c727ea9a040338e0306c076e4e63acfa08fb2a0733b27">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+<br/>
+Clone via
+<br/>
+HTTPS
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Clone with Git or checkout with SVN using the repository’s web address.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>            </div>
+<br/>
+<div class="select-menu-list">
+<br/>
+<a role="link" class="select-menu-item select-menu-action" href="https://docs.github.com/articles/which-remote-url-should-i-use" target="_blank">
+<br/>
+<svg class="octicon octicon-question select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004a7.728 7.728 0 00-.313.195 2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.863-1.725A2.76 2.76 0 008 4c-.631 0-1.155.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 101.342.67z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+Learn more about clone URLs
+<br/>
+</div>
+<br/>
+</a>
+<br/>
+</div>
+<br/>
+</details-menu>
+<br/>
+</details>
+<br/>
+</div>
+</p>
+<p>
+<input id="gist-share-url" type="text" data-autoselect="" class="form-control input-monospace input-sm" value="<script src=&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8.js&quot;></script>" aria-label="Clone this repository at <script src=&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8.js&quot;></script>" readonly="">
+</p>
+<p>
+<div class="input-group-button">
+<br/>
+<clipboard-copy for="gist-share-url" aria-label="Copy to clipboard" class="btn btn-sm zeroclipboard-button" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;COPY_URL&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="95e743a232f1994a1aff49bc85d78333d07c884f4088910cd005151756c55b9a" tabindex="0" role="button"><svg class="octicon octicon-clippy" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.75 1a.75.75 0 00-.75.75v3c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-3a.75.75 0 00-.75-.75h-4.5zm.75 3V2.5h3V4h-3zm-2.874-.467a.75.75 0 00-.752-1.298A1.75 1.75 0 002 3.75v9.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 13.25v-9.5a1.75 1.75 0 00-.874-1.515.75.75 0 10-.752 1.298.25.25 0 01.126.217v9.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-9.5a.25.25 0 01.126-.217z"></path></svg></clipboard-copy>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="ml-2 file-navigation-option">
+<br/>
+<a class="btn btn-sm tooltipped tooltipped-s tooltipped-multiline js-remove-unless-platform" data-platforms="windows,mac" aria-label="Save Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8 to your computer and use it in GitHub Desktop." data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;OPEN_IN_DESKTOP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5368ddd05399d6e735e62881c7fafcb03f4327b9e8aea351696df554fad405a3" href="https://desktop.github.com"><svg class="octicon octicon-desktop-download" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M4.927 5.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 0 00-.177.427z"></path><path d="M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z"></path></svg></a>
+<br/>
+</div>
+</p>
+<p>
+<div class="ml-2">
+<br/>
+<a class="btn btn-sm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;DOWNLOAD_ZIP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="167c0125682c81f15615d4e760b90b293734721bde4d812357e7af7f4576b261" data-ga-click="Gist, download zip, location:gist overview" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/archive/de025f3f3bc5e2fb6ea60058328eb206287d5cba.zip">Download ZIP</a>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class="container-lg px-3 new-discussion-timeline">
+<br/>
+<div class="repository-content gist-content">
+</p>
+<p>
+<div>
+</p>
+<p>
+<div class="js-gist-file-update-container js-task-list-container file-box">
+<br/>
+<div id="file-launcher-java" class="file my-2">
+<br/>
+<div class="file-header d-flex flex-md-items-center flex-items-start">
+<br/>
+<div class="file-actions flex-order-2 pt-0">
+</p>
+<p>
+<a href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/raw/de025f3f3bc5e2fb6ea60058328eb206287d5cba/Launcher.java" role="button" class="btn btn-sm ">Raw</a>
+<br/>
+</div>
+<br/>
+<div class="file-info pr-4 d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+<br/>
+<span class="mr-1">
+<br/>
+<svg class="octicon octicon-code-square color-icon-secondary" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm9.22 3.72a.75.75 0 000 1.06L10.69 8 9.22 9.47a.75.75 0 101.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0zM6.78 6.53a.75.75 0 00-1.06-1.06l-2 2a.75.75 0 000 1.06l2 2a.75.75 0 101.06-1.06L5.31 8l1.47-1.47z"></path></svg>
+<br/>
+</span>
+<br/>
+<a class="wb-break-all" href="#file-launcher-java">
+<br/>
+<strong class="user-select-contain gist-blob-name css-truncate-target">
+<br/>
+Launcher.java
+<br/>
+</strong>
+<br/>
+</a>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div itemprop="text" class="Box-body p-0 blob-wrapper data type-java  gist-border-0">
+</p>
+<p>
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip="">
+<br/>
+<tbody><tr>
+<br/>
+<td id="file-launcher-java-L1" class="blob-num js-line-number" data-line-number="1"></td>
+<br/>
+<td id="file-launcher-java-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Launcher</span> <span class="pl-k">extends</span> <span class="pl-e">io.vertx.core<span class="pl-k">.</span>Launcher</span> {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L2" class="blob-num js-line-number" data-line-number="2"></td>
+<br/>
+<td id="file-launcher-java-LC2" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-k">void</span> <span class="pl-en">main</span>(<span class="pl-k">String</span>[] <span class="pl-v">args</span>) {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L3" class="blob-num js-line-number" data-line-number="3"></td>
+<br/>
+<td id="file-launcher-java-LC3" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">new</span> <span class="pl-smi">Launcher</span>()<span class="pl-k">.</span>dispatch(args);</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L4" class="blob-num js-line-number" data-line-number="4"></td>
+<br/>
+<td id="file-launcher-java-LC4" class="blob-code blob-code-inner js-file-line">	}</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L5" class="blob-num js-line-number" data-line-number="5"></td>
+<br/>
+<td id="file-launcher-java-LC5" class="blob-code blob-code-inner js-file-line">
+<br/>
+</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L6" class="blob-num js-line-number" data-line-number="6"></td>
+<br/>
+<td id="file-launcher-java-LC6" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">@Override</span></td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L7" class="blob-num js-line-number" data-line-number="7"></td>
+<br/>
+<td id="file-launcher-java-LC7" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">public</span> <span class="pl-k">void</span> <span class="pl-en">beforeStartingVertx</span>(<span class="pl-smi">VertxOptions</span> <span class="pl-v">options</span>) {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L8" class="blob-num js-line-number" data-line-number="8"></td>
+<br/>
+<td id="file-launcher-java-LC8" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">super</span><span class="pl-k">.</span>beforeStartingVertx(options);</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L9" class="blob-num js-line-number" data-line-number="9"></td>
+<br/>
+<td id="file-launcher-java-LC9" class="blob-code blob-code-inner js-file-line">		options<span class="pl-k">.</span>setMetricsOptions(<span class="pl-k">new</span> <span class="pl-smi">MicrometerMetricsOptions</span>()</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L10" class="blob-num js-line-number" data-line-number="10"></td>
+<br/>
+<td id="file-launcher-java-LC10" class="blob-code blob-code-inner js-file-line">				.setPrometheusOptions(<span class="pl-k">new</span> <span class="pl-smi">VertxPrometheusOptions</span>()<span class="pl-k">.</span>setEnabled(<span class="pl-c1">true</span>))<span class="pl-k">.</span>setEnabled(<span class="pl-c1">true</span>));</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L11" class="blob-num js-line-number" data-line-number="11"></td>
+<br/>
+<td id="file-launcher-java-LC11" class="blob-code blob-code-inner js-file-line">	}</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L12" class="blob-num js-line-number" data-line-number="12"></td>
+<br/>
+<td id="file-launcher-java-LC12" class="blob-code blob-code-inner js-file-line">}</td>
+<br/>
+</tr>
+<br/>
+</tbody></table>
+</p>
+<p>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<a name="comments"></a>
+<br/>
+<div class="js-quote-selection-container" data-quote-markdown=".js-comment-body">
+<br/>
+<div class="js-discussion ">
+<br/>
+<div class="ml-md-6 pl-md-3 ml-0 pl-0">
+</p>
+<p>
+<!-- Rendered timeline since 2018-11-23 11:48:47 -->
+<br/>
+<div id="partial-timeline-marker" class="js-timeline-marker js-updatable-content" data-last-modified="Fri, 23 Nov 2018 19:48:47 GMT">
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="discussion-timeline-actions">
+<br/>
+<div class="flash flash-warn mt-3">
+<br/>
+<a rel="nofollow" class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;signed out comment&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="86f561ebcb146915e401fd2f12a62139d485a8f66f781e59399a36b1a67010ef" href="/join?source=comment-gist">Sign up for free</a>
+<br/>
+<strong>to join this conversation on GitHub</strong>.
+<br/>
+Already have an account?
+<br/>
+<a rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;signed out comment&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8c7e5370b8deca4111a99a1b40a6beea95e274d8dcbaacef64b8b8a11438fc67" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">Sign in to comment</a>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div><!-- /.container -->
+</p>
+<p>
+</main>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+<br/>
+<div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
+<br/>
+<ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+<br/>
+<li class="mr-3 mr-lg-0">© 2021 GitHub, Inc.</li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+<br/>
+<li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
+<br/>
+</ul>
+</p>
+<p>
+<a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+<br/>
+<svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+</a>
+<br/>
+<ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+<br/>
+<li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="d-flex flex-justify-center pb-6">
+<br/>
+<span class="f6 color-text-tertiary"></span>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden="">
+<br/>
+<svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
+<br/>
+<button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+<br/>
+You can’t perform that action at this time.
+<br/>
+</div>
+</p>
+<p>
+<div class="js-stale-session-flash flash flash-warn flash-banner" hidden="">
+<br/>
+<svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
+<br/>
+<span class="js-stale-session-flash-signed-in" hidden="">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+<br/>
+<span class="js-stale-session-flash-signed-out" hidden="">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+<br/>
+</div>
+<br/>
+<template id="site-details-dialog">
+<br/>
+<details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary hx_rsm" open="">
+<br/>
+<summary role="button" aria-label="Close dialog"></summary>
+<br/>
+<details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+<br/>
+<button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog="">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+<br/>
+<div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+<br/>
+</details-dialog>
+<br/>
+</details>
+<br/>
+</template>
+</p>
+<p>
+<div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+<br/>
+<div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div aria-live="polite" class="sr-only"></div></body></html>
+<br/>
+</code>
+<br/>
+</pre>" href="<pre class='github'>
+<br/>
+<code>
+<br/>
+<html lang="en"><head>
+<br/>
+<meta charset="utf-8">
+<br/>
+<link rel="dns-prefetch" href="https://github.githubassets.com">
+<br/>
+<link rel="dns-prefetch" href="https://avatars.githubusercontent.com">
+<br/>
+<link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
+<br/>
+<link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-uGiH6wbEDXS0vWuvN3hZbENUuT1jRMWy2XVfJIgd3mEESUBtD/hnFdIiujVyRcPJ5dofwZ6e196xmCczSkgz9g==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-b86887eb06c40d74b4bd6baf3778596c.css">
+<br/>
+<link crossorigin="anonymous" media="all" integrity="sha512-gEUpuli94xYShC0AAbAVQoQqxAoVyNDUWuD3x6Hsvwm8f1L7gbiu4bEM1HDLEkRz4ofHAvdAdmeqaUtzBCy6xg==" rel="stylesheet" href="https://github.githubassets.com/assets/site-804529ba58bde31612842d0001b01542.css">
+<br/>
+<link crossorigin="anonymous" media="all" integrity="sha512-8rXKu7ZOFdS3H7Rk0wJ38WQFoEp6b7HTSZ58yDoWzKX+JDPYC6vtbIdTIbhWT90/16upZIaZDCPOA8P9a8mv5A==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-f2b5cabbb64e15d4b71fb464d30277f1.css">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-2Tv1VQoy2kaxDIPWa40DzxC7ou3lAWTHqe/npmKNz/mJnES617GVYxEkryY/xZ8U/RXi1EkE31stiFb4orAVXQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-d93bf5550a32da46b10c83d66b8d03cf.css">
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-oRkKscjEH1b2bAAJURl5E/Q7RFJnHgCDjcbhNpHzxJ3s5G5I2oNZc9b4KrHgOG2D8rpkXsPu88B5p8lOCe8f6Q==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-a1190ab1.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-xs/XWtVY6sgxCZKGLtrGrcsYgDgR0UR1Nx14ivzvJC0S8ZEB7BAxAOBDF8xFrtPq/6Vek9n2A2A8mx/odP+fMg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-c6cfd75a.js"></script>
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-+MwvC3rSAaQjKVbALblvS0KULukVYcqzY2ug5b5z0SjYWX4K+vXVEMZfgEK3viB9kTD2txkEu+XhQrmmAGGaUw==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-f8cc2f0b.js"></script>
+</p>
+<p>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-aEeAsfpL9cBt2DYP2NfaqKLyYLkN4BS+/ikvLHM+abhqZsoNmd3Wxqwu6TGp7Pf/vqvvGeL26/NswwMkS1WwQg==" type="application/javascript" data-module-id="./chunk-color-modes.js" src="https://github.githubassets.com/assets/chunk-color-modes-684780b1.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-zaLwmM/bgGhKnDy4YPvbl92aZ1yaF7e3A+bjdCoWZSCls/co65VBCDE+blnNwcfc61E/cQHJiFDokMdSGmTYxQ==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-cda2f098.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-6j/oSF+kbW+yetNPvI684VzAu9pzug6Vj2h+3u1LdCuRhR4jnuiHZfeQKls3nxcT/S3H+oIt7FtigE/aeoj+gg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-ea3fe848.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ymxyvUviKFi+en2si3ZTyY4YCLRKlk0cKK/ngD9ir8xoeH44pCE1I4MBRQE5PcErmUJMhlcAk3+pgwHB7VcseA==" type="application/javascript" data-module-id="./chunk-edit.js" src="https://github.githubassets.com/assets/chunk-edit-ca6c72bd.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-DAk56F8lz8k6kg6vf15oE4tu4MTIPDT9DUo3VwO8SLYyb3ws4QU433BG7eVXOS50wzl7dUuMFRfTP1rHlHi45g==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-0c0939e8.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-j5Eltv6XYkPt7XVCMWLH6qhNBoFOzxXLIsaoffjjTl2fw/sXVfluH+EGE5dYJPEBwsmqK0LenheRi9hmNcWnCA==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-8f9125b6.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-QM/lwlNqhmQdgdKAm7AmH4UPduFZRVyImbYS6vxhjNHvktVItzONWSYyvdRP83nsaNC1HZVeWmKSFh6uNHcF5A==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-40cfe5c2.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-9WNXtB07IyWypiPmkuucspwog4mme9q5GKGMSgd7FI0DPimmg/pEw+aaAofFV1vuWMt9I8H5QpsVtlbHGg1YBA==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-f56357b4.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-JoWpXsdKsRKFyspZP0lsV/mUnqLhErMvFLeq7PwLuptuR0JgHOv5NMWIeBqqWHuWmhIltMifR+/rEjO553Raug==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-2685a95e.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-ZyozqjwhoIovRiwFwpwYmlQUgmIyGt5y8DgJhtiLHr9EM6f51vmXxaIIZap+ly64QSLa0zeA7DPCD6Yio2/AGA==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-672a33aa.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-x4kU6fFUhRRm2c+AcnGrKXfEBgPxFF8vMQ9RJQraR7T4kQEgj+3RsoU4+8FYsR359M0xSovamhNcCQlYA03c0g==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-c78914e9.js"></script>
+<br/>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-q5LNebftLi+t+DZS5swr2IUtyCsm/vIO9pC33gFyCkg7Fyt2VyfOjEysu2c8quyhFbxr2Wrezi9QvEvzRYxzIw==" type="application/javascript" src="https://github.githubassets.com/assets/gist-ab92cd79.js"></script>
+</p>
+<p>
+<meta name="viewport" content="width=device-width">
+</p>
+<p>
+<title>Launcher.java · GitHub</title>
+<br/>
+<meta name="description" content="GitHub Gist: instantly share code, notes, and snippets.">
+<br/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch-gist.xml" title="Gist">
+<br/>
+<link rel="fluid-icon" href="https://gist.github.com/fluidicon.png" title="GitHub">
+<br/>
+<meta property="fb:app_id" content="1401488693436528">
+<br/>
+<meta name="apple-itunes-app" content="app-id=1477376905">
+<br/>
+<meta name="twitter:image:src" content="https://github.githubassets.com/images/modules/gists/gist-og-image.png"><meta name="twitter:site" content="@github"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Launcher.java"><meta name="twitter:description" content="GitHub Gist: instantly share code, notes, and snippets.">
+<br/>
+<meta property="og:image" content="https://github.githubassets.com/images/modules/gists/gist-og-image.png"><meta property="og:site_name" content="Gist"><meta property="og:type" content="article"><meta property="og:title" content="Launcher.java"><meta property="og:url" content="https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8"><meta property="og:description" content="GitHub Gist: instantly share code, notes, and snippets."><meta property="article:author" content="262588213843476"><meta property="article:publisher" content="262588213843476">
+</p>
+<p>
+<link rel="assets" href="https://github.githubassets.com/">
+</p>
+<p>
+<meta name="request-id" content="E8A1:CBF8:1AF04A3:1C023D5:60683BD6" data-pjax-transient="true"><meta name="html-safe-nonce" content="4cc1cb82bb58cd0d47f69bbf11834b9b45d35c41197d7a534e96fc556e4ac334" data-pjax-transient="true"><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFOEExOkNCRjg6MUFGMDRBMzoxQzAyM0Q1OjYwNjgzQkQ2IiwidmlzaXRvcl9pZCI6IjY1MjYyMDY1MTQ0NDYyMjAyMjQiLCJyZWdpb25fZWRnZSI6ImZyYSIsInJlZ2lvbl9yZW5kZXIiOiJmcmEifQ==" data-pjax-transient="true"><meta name="visitor-hmac" content="d45b9fd4cad54834c9232c5e88f5625ab2f0a420f69f0db3bff74de488905d7f" data-pjax-transient="true">
+</p>
+<p>
+<meta name="github-keyboard-shortcuts" content="" data-pjax-transient="true">
+</p>
+<p>
+<meta name="selected-link" value="gist_code" data-pjax-transient="">
+</p>
+<p>
+<meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
+<br/>
+<meta name="google-site-verification" content="KT5gs8h0wvaagLKAVWq8bbeNwnZZK1r1XQysX3xurLU">
+<br/>
+<meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
+<br/>
+<meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
+</p>
+<p>
+<meta name="octolytics-host" content="collector.githubapp.com"><meta name="octolytics-app-id" content="gist"><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event">
+</p>
+<p>
+<meta name="analytics-location" content="/<user-name>/<gist-id>" data-pjax-transient="true">
+</p>
+<p>
+<meta name="octolytics-dimension-public" content="true"><meta name="octolytics-dimension-gist_id" content="93195063"><meta name="octolytics-dimension-gist_name" content="d840566861b7ad33bf7c4a8eac8fe2b8"><meta name="octolytics-dimension-anonymous" content="false"><meta name="octolytics-dimension-owner_id" content="171018"><meta name="octolytics-dimension-owner_login" content="Riduidel"><meta name="octolytics-dimension-forked" content="false">
+</p>
+<p>
+<meta name="hostname" content="gist.github.com">
+<br/>
+<meta name="user-login" content="">
+</p>
+<p>
+<meta name="expected-hostname" content="gist.github.com">
+</p>
+<p>
+<meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
+</p>
+<p>
+<meta http-equiv="x-pjax-version" content="fc0c038c4164e425256f8f913140a513b183e6f334283e4ba5b6964948ad5706">
+</p>
+<p>
+<link href="/Riduidel.atom" rel="alternate" title="atom" type="application/atom+xml">
+</p>
+<p>
+<link crossorigin="anonymous" media="all" integrity="sha512-cMy3yKcMc+xxMnXvp1BuJTYlJ4zcLel56uLyEBl208hbiP8Pinp3vgobWXTWzQBHpB8rvT+k42s8a8bs0U5ibg==" rel="stylesheet" href="https://github.githubassets.com/assets/gist-70ccb7c8a70c73ec713275efa7506e25.css">
+</p>
+<p>
+<meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+</p>
+<p>
+<meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
+</p>
+<p>
+<meta name="browser-optimizely-client-errors-url" content="https://api.github.com/_private/browser/optimizely_client/errors">
+</p>
+<p>
+<link rel="mask-icon" href="https://github.githubassets.com/pinned-octocat.svg" color="#000000">
+<br/>
+<link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png">
+<br/>
+<link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg">
+</p>
+<p>
+<meta name="theme-color" content="#1e2327">
+</p>
+<p>
+</head>
+</p>
+<p>
+<body class="logged-out env-production page-responsive" style="word-wrap: break-word;">
+</p>
+<p>
+<div class="position-relative js-header-wrapper ">
+<br/>
+<a href="#start-of-content" class="px-2 py-4 color-bg-info-inverse color-text-white show-on-focus js-skip-to-content">Skip to content</a>
+<br/>
+<span class="progress-pjax-loader width-full js-pjax-loader-bar Progress position-fixed">
+<br/>
+<span style="background-color: #79b8ff;width: 0%;" class="Progress-item progress-pjax-loader-bar "></span>
+<br/>
+</span>
+</p>
+<p>
+<div class="Header js-details-container Details flex-wrap flex-md-nowrap p-responsive" role="banner">
+<br/>
+<div class="Header-item d-none d-md-flex">
+<br/>
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href="/">
+<br/>
+<svg class="octicon octicon-mark-github v-align-middle d-inline-block d-md-none" height="24" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-github v-align-middle d-none d-md-inline-block" viewBox="0 0 45 16" version="1.1" width="67" aria-hidden="true"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-gist v-align-middle d-none d-md-inline-block" viewBox="0 0 25 16" version="1.1" width="37" aria-hidden="true"><path fill-rule="evenodd" d="M4.7 8.73h2.45v4.02c-.55.27-1.64.34-2.53.34-2.56 0-3.47-2.2-3.47-5.05 0-2.85.91-5.06 3.48-5.06 1.28 0 2.06.23 3.28.73V2.66C7.27 2.33 6.25 2 4.63 2 1.13 2 0 4.69 0 8.03c0 3.34 1.11 6.03 4.63 6.03 1.64 0 2.81-.27 3.59-.64V7.73H4.7v1zm6.39 3.72V6.06h-1.05v6.28c0 1.25.58 1.72 1.72 1.72v-.89c-.48 0-.67-.16-.67-.7v-.02zm.25-8.72c0-.44-.33-.78-.78-.78s-.77.34-.77.78.33.78.77.78.78-.34.78-.78zm4.34 5.69c-1.5-.13-1.78-.48-1.78-1.17 0-.77.33-1.34 1.88-1.34 1.05 0 1.66.16 2.27.36v-.94c-.69-.3-1.52-.39-2.25-.39-2.2 0-2.92 1.2-2.92 2.31 0 1.08.47 1.88 2.73 2.08 1.55.13 1.77.63 1.77 1.34 0 .73-.44 1.42-2.06 1.42-1.11 0-1.86-.19-2.33-.36v.94c.5.2 1.58.39 2.33.39 2.38 0 3.14-1.2 3.14-2.41 0-1.28-.53-2.03-2.75-2.23h-.03zm8.58-2.47v-.86h-2.42v-2.5l-1.08.31v2.11l-1.56.44v.48h1.56v5c0 1.53 1.19 2.13 2.5 2.13.19 0 .52-.02.69-.05v-.89c-.19.03-.41.03-.61.03-.97 0-1.5-.39-1.5-1.34V6.94h2.42v.02-.01z"></path></svg>
+<br/>
+</a>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item d-md-none">
+<br/>
+<button class="Header-link btn-link js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
+<br/>
+<svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
+<br/>
+</button>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item Header-item--full js-site-search flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+<br/>
+<div class="header-search flex-self-stretch flex-md-self-auto mr-0 mr-md-3 mb-3 mb-md-0">
+<br/>
+<!-- '"` --><!-- </textarea></xmp> --><form class="position-relative js-quicksearch-form" role="search" aria-label="Site" action="/search" accept-charset="UTF-8" method="get">
+<br/>
+<div class="header-search-wrapper form-control input-sm js-chromeless-input-container">
+<br/>
+<input type="text" class="form-control input-sm js-site-search-focus header-search-input" data-hotkey="s,/" name="q" aria-label="Search" placeholder="Search…" autocorrect="off" autocomplete="off" autocapitalize="off">
+<br/>
+</div>
+</p>
+<p>
+</form></div>
+</p>
+<p>
+<nav aria-label="Global" class="d-flex flex-column flex-md-row flex-self-stretch flex-md-self-auto">
+<br/>
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, go to all gists, text:all gists" href="/discover">All gists</a>
+</p>
+<p>
+<a class="Header-link mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, go to GitHub, text:Back to GitHub" href="https://github.com">Back to GitHub</a>
+</p>
+<p>
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e8c0890a2130a85999febeafc06e531dc36d1f5bbfe50ce063295da90ce60f11" href="https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+Sign in
+<br/>
+</a>
+<br/>
+<a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade-15" data-ga-click="Header, sign up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cb1f363031f245d153378c5a2fa5753bc2db0e8e884148098fd10c3f27920665" href="/join?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8&amp;source=header-gist">
+<br/>
+Sign up
+<br/>
+</a></nav>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+<br/>
+<a class="Header-link" data-hotkey="g d" aria-label="Gist Homepage " href="/">
+<br/>
+<svg class="octicon octicon-mark-github v-align-middle d-inline-block d-md-none" height="24" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-github v-align-middle d-none d-md-inline-block" viewBox="0 0 45 16" version="1.1" width="67" aria-hidden="true"><path fill-rule="evenodd" d="M18.53 12.03h-.02c.009 0 .015.01.024.011h.006l-.01-.01zm.004.011c-.093.001-.327.05-.574.05-.78 0-1.05-.36-1.05-.83V8.13h1.59c.09 0 .16-.08.16-.19v-1.7c0-.09-.08-.17-.16-.17h-1.59V3.96c0-.08-.05-.13-.14-.13h-2.16c-.09 0-.14.05-.14.13v2.17s-1.09.27-1.16.28c-.08.02-.13.09-.13.17v1.36c0 .11.08.19.17.19h1.11v3.28c0 2.44 1.7 2.69 2.86 2.69.53 0 1.17-.17 1.27-.22.06-.02.09-.09.09-.16v-1.5a.177.177 0 00-.146-.18zM42.23 9.84c0-1.81-.73-2.05-1.5-1.97-.6.04-1.08.34-1.08.34v3.52s.49.34 1.22.36c1.03.03 1.36-.34 1.36-2.25zm2.43-.16c0 3.43-1.11 4.41-3.05 4.41-1.64 0-2.52-.83-2.52-.83s-.04.46-.09.52c-.03.06-.08.08-.14.08h-1.48c-.1 0-.19-.08-.19-.17l.02-11.11c0-.09.08-.17.17-.17h2.13c.09 0 .17.08.17.17v3.77s.82-.53 2.02-.53l-.01-.02c1.2 0 2.97.45 2.97 3.88zm-8.72-3.61h-2.1c-.11 0-.17.08-.17.19v5.44s-.55.39-1.3.39-.97-.34-.97-1.09V6.25c0-.09-.08-.17-.17-.17h-2.14c-.09 0-.17.08-.17.17v5.11c0 2.2 1.23 2.75 2.92 2.75 1.39 0 2.52-.77 2.52-.77s.05.39.08.45c.02.05.09.09.16.09h1.34c.11 0 .17-.08.17-.17l.02-7.47c0-.09-.08-.17-.19-.17zm-23.7-.01h-2.13c-.09 0-.17.09-.17.2v7.34c0 .2.13.27.3.27h1.92c.2 0 .25-.09.25-.27V6.23c0-.09-.08-.17-.17-.17zm-1.05-3.38c-.77 0-1.38.61-1.38 1.38 0 .77.61 1.38 1.38 1.38.75 0 1.36-.61 1.36-1.38 0-.77-.61-1.38-1.36-1.38zm16.49-.25h-2.11c-.09 0-.17.08-.17.17v4.09h-3.31V2.6c0-.09-.08-.17-.17-.17h-2.13c-.09 0-.17.08-.17.17v11.11c0 .09.09.17.17.17h2.13c.09 0 .17-.08.17-.17V8.96h3.31l-.02 4.75c0 .09.08.17.17.17h2.13c.09 0 .17-.08.17-.17V2.6c0-.09-.08-.17-.17-.17zM8.81 7.35v5.74c0 .04-.01.11-.06.13 0 0-1.25.89-3.31.89-2.49 0-5.44-.78-5.44-5.92S2.58 1.99 5.1 2c2.18 0 3.06.49 3.2.58.04.05.06.09.06.14L7.94 4.5c0 .09-.09.2-.2.17-.36-.11-.9-.33-2.17-.33-1.47 0-3.05.42-3.05 3.73s1.5 3.7 2.58 3.7c.92 0 1.25-.11 1.25-.11v-2.3H4.88c-.11 0-.19-.08-.19-.17V7.35c0-.09.08-.17.19-.17h3.74c.11 0 .19.08.19.17z"></path></svg>
+<br/>
+<svg height="24" class="octicon octicon-logo-gist v-align-middle d-none d-md-inline-block" viewBox="0 0 25 16" version="1.1" width="37" aria-hidden="true"><path fill-rule="evenodd" d="M4.7 8.73h2.45v4.02c-.55.27-1.64.34-2.53.34-2.56 0-3.47-2.2-3.47-5.05 0-2.85.91-5.06 3.48-5.06 1.28 0 2.06.23 3.28.73V2.66C7.27 2.33 6.25 2 4.63 2 1.13 2 0 4.69 0 8.03c0 3.34 1.11 6.03 4.63 6.03 1.64 0 2.81-.27 3.59-.64V7.73H4.7v1zm6.39 3.72V6.06h-1.05v6.28c0 1.25.58 1.72 1.72 1.72v-.89c-.48 0-.67-.16-.67-.7v-.02zm.25-8.72c0-.44-.33-.78-.78-.78s-.77.34-.77.78.33.78.77.78.78-.34.78-.78zm4.34 5.69c-1.5-.13-1.78-.48-1.78-1.17 0-.77.33-1.34 1.88-1.34 1.05 0 1.66.16 2.27.36v-.94c-.69-.3-1.52-.39-2.25-.39-2.2 0-2.92 1.2-2.92 2.31 0 1.08.47 1.88 2.73 2.08 1.55.13 1.77.63 1.77 1.34 0 .73-.44 1.42-2.06 1.42-1.11 0-1.86-.19-2.33-.36v.94c.5.2 1.58.39 2.33.39 2.38 0 3.14-1.2 3.14-2.41 0-1.28-.53-2.03-2.75-2.23h-.03zm8.58-2.47v-.86h-2.42v-2.5l-1.08.31v2.11l-1.56.44v.48h1.56v5c0 1.53 1.19 2.13 2.5 2.13.19 0 .52-.02.69-.05v-.89c-.19.03-.41.03-.61.03-.97 0-1.5-.39-1.5-1.34V6.94h2.42v.02-.01z"></path></svg>
+<br/>
+</a>
+<br/>
+</div>
+</p>
+<p>
+<div class="Header-item f4 mr-0" role="navigation">
+<br/>
+<a class="HeaderMenu-link no-underline mr-3" data-ga-click="Header, sign in" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e8c0890a2130a85999febeafc06e531dc36d1f5bbfe50ce063295da90ce60f11" href="https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+Sign&nbsp;in
+<br/>
+</a>        <a class="HeaderMenu-link d-inline-block no-underline border color-border-tertiary rounded px-2 py-1" data-ga-click="Header, sign up" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cb1f363031f245d153378c5a2fa5753bc2db0e8e884148098fd10c3f27920665" href="/join?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8&amp;source=header-gist">
+<br/>
+Sign&nbsp;up
+<br/>
+</a>    </div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div id="start-of-content" class="show-on-focus"></div>
+</p>
+<p>
+<div data-pjax-replace="" id="js-flash-container">
+</p>
+<p>
+<template class="js-flash-template">
+<br/>
+<div class="flash flash-full  {{ className }}">
+<br/>
+<div class="container-lg px-2">
+<br/>
+<button class="flash-close js-flash-close" type="button" aria-label="Dismiss this message">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+</p>
+<p>
+<div>{{ message }}</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</template>
+<br/>
+</div>
+</p>
+<p>
+<include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
+</p>
+<p>
+<div class="application-main " data-commit-hovercards-enabled="" data-discussion-hovercards-enabled="" data-issue-and-pr-hovercards-enabled="">
+<br/>
+<div itemscope="" itemtype="http://schema.org/Code">
+<br/>
+<main id="gist-pjax-container" data-pjax-container="">
+</p>
+<p>
+<div class="gist-detail-intro gist-banner pb-3">
+<br/>
+<div class="text-center container-lg px-3">
+<br/>
+<p class="lead">
+<br/>
+Instantly share code, notes, and snippets.
+<br/>
+</p>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class="gisthead pagehead color-bg-secondary pb-0 pt-3 mb-4">
+<br/>
+<div class="px-0">
+</p>
+<p>
+<div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+<br/>
+<div class="flex-auto min-width-0 width-fit mr-3">
+<br/>
+<div class="d-flex">
+<br/>
+<div class="d-none d-md-block">
+<br/>
+<a class="avatar mr-2 flex-shrink-0" data-hovercard-type="user" data-hovercard-url="/users/Riduidel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Riduidel"><img class=" avatar-user" src="https://avatars.githubusercontent.com/u/171018?s=64&amp;v=4" width="32" height="32" alt="@Riduidel"></a>
+<br/>
+</div>
+<br/>
+<div class="d-flex flex-column">
+<br/>
+<h1 class="break-word f3 text-normal mb-md-0 mb-1">
+<br/>
+<span class="author"><a data-hovercard-type="user" data-hovercard-url="/users/Riduidel/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Riduidel">Riduidel</a></span><!--
+<br/>
+--><span class="mx-1 color-text-secondary">/</span><!--
+<br/>
+--><strong itemprop="name" class="css-truncate-target mr-1" style="max-width: 410px"><a href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8">Launcher.java</a></strong>
+<br/>
+</h1>
+<br/>
+<div class="note m-0">
+<br/>
+Created <time-ago datetime="2018-11-23T19:48:47Z" class="no-wrap " title="23 nov. 2018, 20:48 UTC+1">2 years ago</time-ago>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<ul class="d-md-flex d-none pagehead-actions float-none">
+</p>
+<p>
+<li>
+<br/>
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist star button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7bc8336f502d274a4196c74044252b1bc2232dbdd931d16130e26fd916f9490f" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+<br/>
+Star
+<br/>
+</a>
+<br/>
+<a class="social-count" aria-label="0 users starred this gist" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/stargazers">
+<br/>
+0
+<br/>
+</a>
+<br/>
+</li>
+</p>
+<p>
+<li>
+<br/>
+<a class="btn btn-sm btn-with-count tooltipped tooltipped-n" aria-label="You must be signed in to fork a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist fork button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b750855112952fe6f5b19d3670dcf23c3d91aab3e0524bd5911fcc2482943f3" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-repo-forked" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path></svg>
+<br/>
+Fork
+<br/>
+</a>    <span class="social-count">0</span>
+</p>
+<p>
+</li>
+<br/>
+</ul>
+<br/>
+</div>
+</p>
+<p>
+<div class="d-block d-md-none px-3 px-md-3 px-lg-5 mb-3">
+<br/>
+<a class="btn btn-sm btn-block tooltipped tooltipped-n" aria-label="You must be signed in to star a gist" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;gist star button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7bc8336f502d274a4196c74044252b1bc2232dbdd931d16130e26fd916f9490f" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-star" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path></svg>
+<br/>
+Star
+<br/>
+</a>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="d-flex flex-md-row flex-column px-0 pr-md-3 px-lg-5">
+<br/>
+<div class="flex-md-order-1 flex-order-2 flex-auto">
+<br/>
+<nav class="UnderlineNav box-shadow-none px-3 px-lg-0 " aria-label="Gist" data-pjax="#gist-pjax-container">
+</p>
+<p>
+<div class="UnderlineNav-body">
+<br/>
+<a class="js-selected-navigation-item selected UnderlineNav-item" data-pjax="true" data-hotkey="g c" aria-current="page" data-selected-links="gist_code /Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8">
+<br/>
+<svg class="octicon octicon-code UnderlineNav-octicon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path></svg>
+<br/>
+Code
+<br/>
+</a>
+<br/>
+<a class="js-selected-navigation-item UnderlineNav-item" data-pjax="true" data-hotkey="g r" data-selected-links="gist_revisions /Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/revisions" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/revisions">
+<br/>
+<svg class="octicon octicon-git-commit" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"></path></svg>
+<br/>
+Revisions
+<br/>
+<span title="1" class="Counter hx_reponav_item_counter ">1</span>
+<br/>
+</a>
+</p>
+<p>
+</div>
+<br/>
+</nav>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="d-md-flex d-none flex-items-center flex-md-order-2 flex-order-1 file-navigation-options" data-multiple="">
+</p>
+<p>
+<div class="d-lg-table d-none">
+<br/>
+<div class="file-navigation-option v-align-middle">
+</p>
+<p>
+<div class="d-md-flex d-none">
+<br/>
+<div class="input-group">
+<br/>
+<div class="input-group-button">
+<br/>
+<details class="details-reset details-overlay select-menu">
+<br/>
+<summary class="btn btn-sm select-menu-button" data-ga-click="Repository, clone Embed, location:repo overview" aria-haspopup="menu" role="button">
+<br/>
+<span data-menu-button="">Embed</span>
+<br/>
+</summary>
+<br/>
+<details-menu class="select-menu-modal position-absolute" data-menu-input="gist-share-url" style="z-index: 99;" aria-label="Clone options" role="menu">
+<br/>
+<div class="select-menu-header">
+<br/>
+<span class="select-menu-title">What would you like to do?</span>
+<br/>
+</div>
+<br/>
+<div class="select-menu-list">
+<br/>
+<button name="button" type="button" class="select-menu-item width-full" aria-checked="true" role="menuitemradio" value="<script src=&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8.js&quot;></script>" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;EMBED&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="38031e225d84ffa8bb90fbcd9b57fbd02d4a6fb9a5af9331ff3a3364ec68b80b">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+</p>
+<p>
+Embed
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Embed this gist in your website.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>                <button name="button" type="button" class="select-menu-item width-full" aria-checked="false" role="menuitemradio" value="https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;SHARE&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a5643d839ece3f6aebb45914ed94f35f22eae94c4a049d9e72dafad2d7598e7d">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+</p>
+<p>
+Share
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Copy sharable link for this gist.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>                <button name="button" type="button" class="select-menu-item width-full" aria-checked="false" role="menuitemradio" value="https://gist.github.com/d840566861b7ad33bf7c4a8eac8fe2b8.git" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;USE_HTTPS&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9c17810557701739628c727ea9a040338e0306c076e4e63acfa08fb2a0733b27">
+<br/>
+<svg class="octicon octicon-check select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+<span class="select-menu-item-heading" data-menu-button-text="">
+<br/>
+Clone via
+<br/>
+HTTPS
+<br/>
+</span>
+<br/>
+<span class="description">
+<br/>
+Clone with Git or checkout with SVN using the repository’s web address.
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+</button>            </div>
+<br/>
+<div class="select-menu-list">
+<br/>
+<a role="link" class="select-menu-item select-menu-action" href="https://docs.github.com/articles/which-remote-url-should-i-use" target="_blank">
+<br/>
+<svg class="octicon octicon-question select-menu-item-icon" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm9 3a1 1 0 11-2 0 1 1 0 012 0zM6.92 6.085c.081-.16.19-.299.34-.398.145-.097.371-.187.74-.187.28 0 .553.087.738.225A.613.613 0 019 6.25c0 .177-.04.264-.077.318a.956.956 0 01-.277.245c-.076.051-.158.1-.258.161l-.007.004a7.728 7.728 0 00-.313.195 2.416 2.416 0 00-.692.661.75.75 0 001.248.832.956.956 0 01.276-.245 6.3 6.3 0 01.26-.16l.006-.004c.093-.057.204-.123.313-.195.222-.149.487-.355.692-.662.214-.32.329-.702.329-1.15 0-.76-.36-1.348-.863-1.725A2.76 2.76 0 008 4c-.631 0-1.155.16-1.572.438-.413.276-.68.638-.849.977a.75.75 0 101.342.67z"></path></svg>
+<br/>
+<div class="select-menu-item-text">
+<br/>
+Learn more about clone URLs
+<br/>
+</div>
+<br/>
+</a>
+<br/>
+</div>
+<br/>
+</details-menu>
+<br/>
+</details>
+<br/>
+</div>
+</p>
+<p>
+<input id="gist-share-url" type="text" data-autoselect="" class="form-control input-monospace input-sm" value="<script src=&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8.js&quot;></script>" aria-label="Clone this repository at <script src=&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8.js&quot;></script>" readonly="">
+</p>
+<p>
+<div class="input-group-button">
+<br/>
+<clipboard-copy for="gist-share-url" aria-label="Copy to clipboard" class="btn btn-sm zeroclipboard-button" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;COPY_URL&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="95e743a232f1994a1aff49bc85d78333d07c884f4088910cd005151756c55b9a" tabindex="0" role="button"><svg class="octicon octicon-clippy" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5.75 1a.75.75 0 00-.75.75v3c0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75v-3a.75.75 0 00-.75-.75h-4.5zm.75 3V2.5h3V4h-3zm-2.874-.467a.75.75 0 00-.752-1.298A1.75 1.75 0 002 3.75v9.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 13.25v-9.5a1.75 1.75 0 00-.874-1.515.75.75 0 10-.752 1.298.25.25 0 01.126.217v9.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-9.5a.25.25 0 01.126-.217z"></path></svg></clipboard-copy>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="ml-2 file-navigation-option">
+<br/>
+<a class="btn btn-sm tooltipped tooltipped-s tooltipped-multiline js-remove-unless-platform" data-platforms="windows,mac" aria-label="Save Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8 to your computer and use it in GitHub Desktop." data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;OPEN_IN_DESKTOP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5368ddd05399d6e735e62881c7fafcb03f4327b9e8aea351696df554fad405a3" href="https://desktop.github.com"><svg class="octicon octicon-desktop-download" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="M4.927 5.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 5H8.75V.75a.75.75 0 10-1.5 0V5H5.104a.25.25 0 00-.177.427z"></path><path d="M1.573 2.573a.25.25 0 00-.073.177v7.5a.25.25 0 00.25.25h12.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-3a.75.75 0 110-1.5h3A1.75 1.75 0 0116 2.75v7.5A1.75 1.75 0 0114.25 12h-3.727c.099 1.041.52 1.872 1.292 2.757A.75.75 0 0111.25 16h-6.5a.75.75 0 01-.565-1.243c.772-.885 1.192-1.716 1.292-2.757H1.75A1.75 1.75 0 010 10.25v-7.5A1.75 1.75 0 011.75 1h3a.75.75 0 010 1.5h-3a.25.25 0 00-.177.073zM6.982 12a5.72 5.72 0 01-.765 2.5h3.566a5.72 5.72 0 01-.765-2.5H6.982z"></path></svg></a>
+<br/>
+</div>
+</p>
+<p>
+<div class="ml-2">
+<br/>
+<a class="btn btn-sm" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;clone_or_download.click&quot;,&quot;payload&quot;:{&quot;feature_clicked&quot;:&quot;DOWNLOAD_ZIP&quot;,&quot;git_repository_type&quot;:&quot;GIST&quot;,&quot;gist_id&quot;:93195063,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="167c0125682c81f15615d4e760b90b293734721bde4d812357e7af7f4576b261" data-ga-click="Gist, download zip, location:gist overview" href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/archive/de025f3f3bc5e2fb6ea60058328eb206287d5cba.zip">Download ZIP</a>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div class="container-lg px-3 new-discussion-timeline">
+<br/>
+<div class="repository-content gist-content">
+</p>
+<p>
+<div>
+</p>
+<p>
+<div class="js-gist-file-update-container js-task-list-container file-box">
+<br/>
+<div id="file-launcher-java" class="file my-2">
+<br/>
+<div class="file-header d-flex flex-md-items-center flex-items-start">
+<br/>
+<div class="file-actions flex-order-2 pt-0">
+</p>
+<p>
+<a href="/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8/raw/de025f3f3bc5e2fb6ea60058328eb206287d5cba/Launcher.java" role="button" class="btn btn-sm ">Raw</a>
+<br/>
+</div>
+<br/>
+<div class="file-info pr-4 d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+<br/>
+<span class="mr-1">
+<br/>
+<svg class="octicon octicon-code-square color-icon-secondary" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M1.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 00.25-.25V1.75a.25.25 0 00-.25-.25H1.75zM0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0114.25 16H1.75A1.75 1.75 0 010 14.25V1.75zm9.22 3.72a.75.75 0 000 1.06L10.69 8 9.22 9.47a.75.75 0 101.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0zM6.78 6.53a.75.75 0 00-1.06-1.06l-2 2a.75.75 0 000 1.06l2 2a.75.75 0 101.06-1.06L5.31 8l1.47-1.47z"></path></svg>
+<br/>
+</span>
+<br/>
+<a class="wb-break-all" href="#file-launcher-java">
+<br/>
+<strong class="user-select-contain gist-blob-name css-truncate-target">
+<br/>
+Launcher.java
+<br/>
+</strong>
+<br/>
+</a>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div itemprop="text" class="Box-body p-0 blob-wrapper data type-java  gist-border-0">
+</p>
+<p>
+<table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip="">
+<br/>
+<tbody><tr>
+<br/>
+<td id="file-launcher-java-L1" class="blob-num js-line-number" data-line-number="1"></td>
+<br/>
+<td id="file-launcher-java-LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-k">public</span> <span class="pl-k">class</span> <span class="pl-en">Launcher</span> <span class="pl-k">extends</span> <span class="pl-e">io.vertx.core<span class="pl-k">.</span>Launcher</span> {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L2" class="blob-num js-line-number" data-line-number="2"></td>
+<br/>
+<td id="file-launcher-java-LC2" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">public</span> <span class="pl-k">static</span> <span class="pl-k">void</span> <span class="pl-en">main</span>(<span class="pl-k">String</span>[] <span class="pl-v">args</span>) {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L3" class="blob-num js-line-number" data-line-number="3"></td>
+<br/>
+<td id="file-launcher-java-LC3" class="blob-code blob-code-inner js-file-line">		<span class="pl-k">new</span> <span class="pl-smi">Launcher</span>()<span class="pl-k">.</span>dispatch(args);</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L4" class="blob-num js-line-number" data-line-number="4"></td>
+<br/>
+<td id="file-launcher-java-LC4" class="blob-code blob-code-inner js-file-line">	}</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L5" class="blob-num js-line-number" data-line-number="5"></td>
+<br/>
+<td id="file-launcher-java-LC5" class="blob-code blob-code-inner js-file-line">
+<br/>
+</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L6" class="blob-num js-line-number" data-line-number="6"></td>
+<br/>
+<td id="file-launcher-java-LC6" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">@Override</span></td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L7" class="blob-num js-line-number" data-line-number="7"></td>
+<br/>
+<td id="file-launcher-java-LC7" class="blob-code blob-code-inner js-file-line">	<span class="pl-k">public</span> <span class="pl-k">void</span> <span class="pl-en">beforeStartingVertx</span>(<span class="pl-smi">VertxOptions</span> <span class="pl-v">options</span>) {</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L8" class="blob-num js-line-number" data-line-number="8"></td>
+<br/>
+<td id="file-launcher-java-LC8" class="blob-code blob-code-inner js-file-line">		<span class="pl-c1">super</span><span class="pl-k">.</span>beforeStartingVertx(options);</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L9" class="blob-num js-line-number" data-line-number="9"></td>
+<br/>
+<td id="file-launcher-java-LC9" class="blob-code blob-code-inner js-file-line">		options<span class="pl-k">.</span>setMetricsOptions(<span class="pl-k">new</span> <span class="pl-smi">MicrometerMetricsOptions</span>()</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L10" class="blob-num js-line-number" data-line-number="10"></td>
+<br/>
+<td id="file-launcher-java-LC10" class="blob-code blob-code-inner js-file-line">				.setPrometheusOptions(<span class="pl-k">new</span> <span class="pl-smi">VertxPrometheusOptions</span>()<span class="pl-k">.</span>setEnabled(<span class="pl-c1">true</span>))<span class="pl-k">.</span>setEnabled(<span class="pl-c1">true</span>));</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L11" class="blob-num js-line-number" data-line-number="11"></td>
+<br/>
+<td id="file-launcher-java-LC11" class="blob-code blob-code-inner js-file-line">	}</td>
+<br/>
+</tr>
+<br/>
+<tr>
+<br/>
+<td id="file-launcher-java-L12" class="blob-num js-line-number" data-line-number="12"></td>
+<br/>
+<td id="file-launcher-java-LC12" class="blob-code blob-code-inner js-file-line">}</td>
+<br/>
+</tr>
+<br/>
+</tbody></table>
+</p>
+<p>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<a name="comments"></a>
+<br/>
+<div class="js-quote-selection-container" data-quote-markdown=".js-comment-body">
+<br/>
+<div class="js-discussion ">
+<br/>
+<div class="ml-md-6 pl-md-3 ml-0 pl-0">
+</p>
+<p>
+<!-- Rendered timeline since 2018-11-23 11:48:47 -->
+<br/>
+<div id="partial-timeline-marker" class="js-timeline-marker js-updatable-content" data-last-modified="Fri, 23 Nov 2018 19:48:47 GMT">
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="discussion-timeline-actions">
+<br/>
+<div class="flash flash-warn mt-3">
+<br/>
+<a rel="nofollow" class="btn btn-primary" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;signed out comment&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="86f561ebcb146915e401fd2f12a62139d485a8f66f781e59399a36b1a67010ef" href="/join?source=comment-gist">Sign up for free</a>
+<br/>
+<strong>to join this conversation on GitHub</strong>.
+<br/>
+Already have an account?
+<br/>
+<a rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;signed out comment&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://gist.github.com/Riduidel/d840566861b7ad33bf7c4a8eac8fe2b8&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8c7e5370b8deca4111a99a1b40a6beea95e274d8dcbaacef64b8b8a11438fc67" href="/login?return_to=https%3A%2F%2Fgist.github.com%2FRiduidel%2Fd840566861b7ad33bf7c4a8eac8fe2b8">Sign in to comment</a>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div><!-- /.container -->
+</p>
+<p>
+</main>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div class="footer container-lg width-full p-responsive" role="contentinfo">
+<br/>
+<div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
+<br/>
+<ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+<br/>
+<li class="mr-3 mr-lg-0">© 2021 GitHub, Inc.</li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-ga-click="Footer, go to status, text:status">Status</a></li>
+<br/>
+<li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
+<br/>
+</ul>
+</p>
+<p>
+<a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mx-lg-4" href="https://github.com">
+<br/>
+<svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+<br/>
+</a>
+<br/>
+<ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-ga-click="Footer, go to contact, text:contact">Contact GitHub</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-ga-click="Footer, go to Pricing, text:Pricing">Pricing</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-ga-click="Footer, go to api, text:api">API</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-ga-click="Footer, go to training, text:training">Training</a></li>
+<br/>
+<li class="mr-3 mr-lg-0"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog">Blog</a></li>
+<br/>
+<li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="d-flex flex-justify-center pb-6">
+<br/>
+<span class="f6 color-text-tertiary"></span>
+<br/>
+</div>
+</p>
+<p>
+</div>
+</p>
+<p>
+<div id="ajax-error-message" class="ajax-error-message flash flash-error" hidden="">
+<br/>
+<svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
+<br/>
+<button type="button" class="flash-close js-ajax-error-dismiss" aria-label="Dismiss error">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+<br/>
+You can’t perform that action at this time.
+<br/>
+</div>
+</p>
+<p>
+<div class="js-stale-session-flash flash flash-warn flash-banner" hidden="">
+<br/>
+<svg class="octicon octicon-alert" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path></svg>
+<br/>
+<span class="js-stale-session-flash-signed-in" hidden="">You signed in with another tab or window. <a href="">Reload</a> to refresh your session.</span>
+<br/>
+<span class="js-stale-session-flash-signed-out" hidden="">You signed out in another tab or window. <a href="">Reload</a> to refresh your session.</span>
+<br/>
+</div>
+<br/>
+<template id="site-details-dialog">
+<br/>
+<details class="details-reset details-overlay details-overlay-dark lh-default color-text-primary hx_rsm" open="">
+<br/>
+<summary role="button" aria-label="Close dialog"></summary>
+<br/>
+<details-dialog class="Box Box--overlay d-flex flex-column anim-fade-in fast hx_rsm-dialog hx_rsm-modal">
+<br/>
+<button class="Box-btn-octicon m-0 btn-octicon position-absolute right-0 top-0" type="button" aria-label="Close dialog" data-close-dialog="">
+<br/>
+<svg class="octicon octicon-x" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path></svg>
+<br/>
+</button>
+<br/>
+<div class="octocat-spinner my-6 js-details-dialog-spinner"></div>
+<br/>
+</details-dialog>
+<br/>
+</details>
+<br/>
+</template>
+</p>
+<p>
+<div class="Popover js-hovercard-content position-absolute" style="display: none; outline: none;" tabindex="0">
+<br/>
+<div class="Popover-message Popover-message--bottom-left Popover-message--large Box color-shadow-large" style="width:360px;">
+<br/>
+</div>
+<br/>
+</div>
+</p>
+<p>
+<div aria-live="polite" class="sr-only"></div></body></html>
+<br/>
+</code>
+<br/>
+</pre>">GitHub</a>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

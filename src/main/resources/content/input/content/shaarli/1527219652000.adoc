@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Stop All Sites from Asking You to Allow Push Notifications [Firefox]
+:jbake-tags: firefox,configuration,intimité,_mois_mai,_année_2018
+:jbake-date: 2018-05-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1527219652000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftechstuffer.com%2Fstop-push-notifications-firefox%2F&searchtags=firefox+configuration+intimit%C3%A9+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://techstuffer.com/stop-push-notifications-firefox/[How to Stop All Sites from Asking You to Allow Push Notifications [Firefox]]
+
+Avec Firefox, si tu veux pas de notifications, ou de demande de position, c'est facile !

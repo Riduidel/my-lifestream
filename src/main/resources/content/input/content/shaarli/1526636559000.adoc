@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tomorrow I stop coffee, I get to crab !
+:jbake-tags: programming,langue,rust,présentation,_mois_mai,_année_2018
+:jbake-date: 2018-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1526636559000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnotbad4u.github.io%2Frust-talk%2F%23%2F&searchtags=programming+langue+rust+pr%C3%A9sentation+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://notbad4u.github.io/rust-talk/#/[Tomorrow I stop coffee, I get to crab !]
+
+Cette présentation m'a décidé, je vais me mettre au Rust.

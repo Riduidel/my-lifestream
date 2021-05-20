@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How the Virus Got Out - The New York Times
+:jbake-tags: virus,épidémie,maladie,voyage,infographie,_mois_mars,_année_2020
+:jbake-date: 2020-03-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1584895192000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2020%2F03%2F22%2Fworld%2Fcoronavirus-spread.html&searchtags=virus+%C3%A9pid%C3%A9mie+maladie+voyage+infographie+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html[How the Virus Got Out - The New York Times]
+
+Si vous voulez savoir comment le virus s'est répandu dans le monde, c'est un article intéressant.

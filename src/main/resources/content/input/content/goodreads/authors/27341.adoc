@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Varley
+:jbake-tags: author
+:jbake-date: 2009-05-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/27341.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1346593830p5/27341.jpg
+:jbake-source: https://www.goodreads.com/author/show/27341
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070304745.html[Le Canal Ophite]
+* link:../books/9782070358052.html[Gens de la Lune]
+* link:../books/9782070415922.html[Persistance de la vision]
+* link:../books/9782070419166.html[Titan (Gaïa 1)]
+* link:../books/9782070419173.html[Sorcière (Gaïa 2)]
+* link:../books/9782070419180.html[Démon]
+* link:../books/9782070449774.html[Le Système Valentine]

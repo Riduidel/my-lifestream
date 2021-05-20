@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: robb0wen/synthwave-vscode: Synthwave inspired colour theme for VS Code 🌅🕶
+:jbake-tags: vscode,plugin,thème,css,_mois_mai,_année_2019
+:jbake-date: 2019-05-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1556737997000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frobb0wen%2Fsynthwave-vscode&searchtags=vscode+plugin+th%C3%A8me+css+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/robb0wen/synthwave-vscode[robb0wen/synthwave-vscode: Synthwave inspired colour theme for VS Code 🌅🕶]
+
+C'est chouette ... très chouette ... et totalement inutile !

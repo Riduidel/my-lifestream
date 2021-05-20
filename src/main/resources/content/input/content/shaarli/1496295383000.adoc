@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: python - Upgrading all packages with pip - Stack Overflow
+:jbake-tags: python,software,installation,_mois_juin,_année_2017
+:jbake-date: 2017-06-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1496295383000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F2720014%2Fupgrading-all-packages-with-pip&searchtags=python+software+installation+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://stackoverflow.com/questions/2720014/upgrading-all-packages-with-pip[python - Upgrading all packages with pip - Stack Overflow]
+
+pip, c'est bien pour installer des packages, mais pour les upgrades, ça a l'air ... merdeux

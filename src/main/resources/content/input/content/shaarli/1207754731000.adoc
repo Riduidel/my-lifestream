@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XPlanner Home
+:jbake-tags: agile,développement,freeware,groupware,gtd,management,open-source,planning,software,web,scrum,XP,_mois_avr.,_année_2008
+:jbake-date: 2008-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1207754731000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxplanner.org%2F&searchtags=agile+d%C3%A9veloppement+freeware+groupware+gtd+management+open-source+planning+software+web+scrum+XP+_mois_avr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://xplanner.org/[XPlanner Home]
+
+Un logiciel serveur-side pour l'organsiation du développement en suivant la méthode scrum.

@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Gambit du Renard
+:jbake-tags:  guerre, mort, space-opera,_année_2020,_mois_juil.,_note_4,rayon-imaginaire,read
+:jbake-date: 2020-07-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782072876813.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580122406l/50673400._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580122406l/50673400._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/50673400
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Le capitaine Kel Cheris tombe en disgrâce après avoir utilisé des armes non conventionnelles lors de sa dernière affectation. A sa grande surprise, elle est promue général à titre temporaire par le commandement Kel qui lui confie une mission d'une importance vitale pour l'Hexarcat, le système politique des six factions : mater une hérésie en cours dans la Forteresse des Aiguilles Diffuses. Seulement cette promotion est assortie d'une terrible condition : ancrer en elle l'esprit du général Shuos Jedao, ancien traître et fou sanguinaire mort depuis des siècles, mais stratège de génie qui n'a jamais perdu une bataille. Que cachent les six factions à Kel Cheris ? Que sait exactement Jedao et, surtout, qui fut-il réellement ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/3001246.html[Yoon Ha Lee]
+
+## Series
+* link:../series/The_Machineries_of_Empire.html[The Machineries of Empire]
+
+## Review
+
+++++
+Un space opera baroque, mettant en scène un capitaine hébergeant l'esprit d'un ancien général meurtrier de masse.<br/>Il y a dans ce livre un peu du cycle de l'ancillaire, un soupçon de Iain M Banks, une bonne dose de l'ocumène d'or et beaucoup, mais alors beaucoup de cruauté. Il y a aussi un côté follement militariste qui est assez déplaisant. Mais aussi une belle poésie dans les descriptions. 
+++++

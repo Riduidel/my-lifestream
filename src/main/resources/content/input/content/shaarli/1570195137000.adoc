@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: michiel/plantuml-kubernetes-sprites: PlantUML sprites generated from the kubernetes-icons
+:jbake-tags: plantuml,kubernetes,icon,_mois_oct.,_année_2019
+:jbake-date: 2019-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1570195137000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmichiel%2Fplantuml-kubernetes-sprites&searchtags=plantuml+kubernetes+icon+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/michiel/plantuml-kubernetes-sprites[michiel/plantuml-kubernetes-sprites: PlantUML sprites generated from the kubernetes-icons]
+
+Ouais, des sprites Kubernetes pour PlantUML !

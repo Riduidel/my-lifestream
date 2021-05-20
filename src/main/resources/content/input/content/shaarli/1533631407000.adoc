@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VS Live Share - Visual Studio Marketplace
+:jbake-tags: vscode,plugin,collaboration,programming,présentation,_mois_août,_année_2018
+:jbake-date: 2018-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1533631407000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DMS-vsliveshare.vsliveshare%26WT.mc_id%3Dfavoritethings-csstricks-brcl&searchtags=vscode+plugin+collaboration+programming+pr%C3%A9sentation+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare&WT.mc_id=favoritethings-csstricks-brcl[VS Live Share - Visual Studio Marketplace]
+
+Ca va me servir avec un collègue pour tenter un truc ... marrant

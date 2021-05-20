@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PlantUML Gizmo bundled for Google Docs and Slides - Blogging Allowed
+:jbake-tags: plantuml,google,slideshow,integration,_mois_nov.,_année_2019
+:jbake-date: 2019-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1574668871000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffuhrmanator.github.io%2F2019%2F11%2F24%2FPlantUML-Gizmo-Docs-Slides-bundle.html&searchtags=plantuml+google+slideshow+integration+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://fuhrmanator.github.io/2019/11/24/PlantUML-Gizmo-Docs-Slides-bundle.html[PlantUML Gizmo bundled for Google Docs and Slides - Blogging Allowed]
+
+Oh bon sang de bon soir !

@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ベルセルク / Berserk
+:jbake-tags: serie
+:jbake-date: 2011-11-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/___Berserk.adoc
+:jbake-source: https://www.goodreads.com/series/79796
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782723448123.html[Berserk, tome 01]
+* link:../books/9782723448147.html[Berserk, tome 02]
+* link:../books/9782723449021.html[Berserk, tome 03]
+* link:../books/9782723449038.html[Berserk, tome 04]
+* link:../books/9782723449045.html[Berserk, tome 05]
+* link:../books/9782723449052.html[Berserk, tome 06]
+* link:../books/9782723450973.html[Berserk, tome 07]
+* link:../books/9782723450980.html[Berserk, tome 08]
+* link:../books/9782723450997.html[Berserk, tome 09]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oglaf :: Le Banthram
+:jbake-tags: humour,nsfw,art,bande-dessinée,_mois_oct.,_année_2016
+:jbake-date: 2016-10-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1477320591000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Foglaf.lapin.org%2Findex.php%3Fnumber%3D528&searchtags=humour+nsfw+art+bande-dessin%C3%A9e+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://oglaf.lapin.org/index.php?number=528[Oglaf :: Le Banthram]
+
+Lisez Oglaf. C'est bien, et d'une immature drôlerie

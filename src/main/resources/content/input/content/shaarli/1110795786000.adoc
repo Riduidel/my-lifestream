@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Freeware
+:jbake-tags: software,freeware,library,windows,_mois_mars,_année_2005
+:jbake-date: 2005-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1110795786000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.aplusfreeware.com%2F&searchtags=software+freeware+library+windows+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.aplusfreeware.com/[A Freeware]
+
+here are a lot of great freeware programs out there. Many are as good or even better than their shareware or commercial alternatives. "A+ Freeware" are choice applications, which when combined, make the complete (!?) freeware package. In other words, all

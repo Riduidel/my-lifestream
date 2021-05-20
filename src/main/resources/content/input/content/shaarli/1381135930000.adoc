@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 'Tor Stinks' presentation – read the full document | World news | theguardian.com
+:jbake-tags: sécurité,nsa,prism,confidentialité,_mois_oct.,_année_2013
+:jbake-date: 2013-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1381135930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theguardian.com%2Fworld%2Finteractive%2F2013%2Foct%2F04%2Ftor-stinks-nsa-presentation-document&searchtags=s%C3%A9curit%C3%A9+nsa+prism+confidentialit%C3%A9+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.theguardian.com/world/interactive/2013/oct/04/tor-stinks-nsa-presentation-document['Tor Stinks' presentation – read the full document | World news | theguardian.com]
+
+Donc la NSA a du mal avec TOR ... Un truc qui m'interpèle dans cette présentation, c'est que la NSA "semble" capable d'analyser toutes les VM qui tournent sur AWS ... Evidement, ça pousse à utiliser OVH :-) Ou à éviter le cloud pour les données sensibles.

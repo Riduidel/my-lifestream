@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martin Fowler Signature Book
+:jbake-tags: serie
+:jbake-date: 2020-04-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Martin_Fowler_Signature_Book.adoc
+:jbake-source: https://www.goodreads.com/series/180777
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/0785342200683.html[Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions]

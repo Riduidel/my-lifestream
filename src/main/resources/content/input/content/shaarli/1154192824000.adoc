@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lighttpd-1-4-1
+:jbake-tags: documentation,tutorial,web,lighttpd,webdav,_mois_juil.,_année_2006
+:jbake-date: 2006-07-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1154192824000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.lighttpd.net%2Farticles%2F2005%2F08%2F22%2Flighttpd-1-4-1&searchtags=documentation+tutorial+web+lighttpd+webdav+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://blog.lighttpd.net/articles/2005/08/22/lighttpd-1-4-1[lighttpd-1-4-1]
+
+Un tutorial pour enfin faire marcher webdav avec lighttpd (pour autant que ça marche)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: moonmoon: simple web based feed aggregator in PHP
+:jbake-tags: rss,aggregator,web,lifestream,_mois_juil.,_année_2019
+:jbake-date: 2019-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1562748847000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmoonmoon.org%2F&searchtags=rss+aggregator+web+lifestream+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://moonmoon.org/[moonmoon: simple web based feed aggregator in PHP]
+
+Oh je crois que je vais en installer un chez moi ...

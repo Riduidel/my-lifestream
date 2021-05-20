@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [pinelfabien] "déjà écrire du JS dans de L'HTML c'était con mais alors écrire de L'HTML dans du JS c'est encore pire !" #reactjs #angularjs #rivieraDev
+:jbake-tags: citation,javascript,html,programming,web,_mois_juin,_année_2015
+:jbake-date: 2015-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1435644866000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F609707366553141248&searchtags=citation+javascript+html+programming+web+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/609707366553141248[[pinelfabien] "déjà écrire du JS dans de L'HTML c'était con mais alors écrire de L'HTML dans du JS c'est encore pire !" #reactjs #angularjs #rivieraDev]
+
+Je voudrais pas dire, mais avec RequireJS et RactiveJS, je n'ai pas ce problème ...

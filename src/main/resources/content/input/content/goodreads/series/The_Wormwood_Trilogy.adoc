@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Wormwood Trilogy
+:jbake-tags: serie
+:jbake-date: 2021-02-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Wormwood_Trilogy.adoc
+:jbake-source: https://www.goodreads.com/series/235759
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290172889.html[Rosewater (The Wormwood Trilogy, #1)]

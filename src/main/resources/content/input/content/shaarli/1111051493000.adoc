@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wink - [Homepage]
+:jbake-tags: software,freeware,linux,windows,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111051493000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.debugmode.com%2Fwink%2F&searchtags=software+freeware+linux+windows+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.debugmode.com/wink/[Wink - [Homepage]]
+
+Wink is a Tutorial and Presentation creation software, primarily aimed at creating tutorials on how to use software (like a tutor for MS-Word/Excel etc). Using Wink you can capture screenshots of your software, use images that you already have, type-in ex

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tad Williams
+:jbake-tags: author
+:jbake-date: 2009-11-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/6587.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1191183065p5/6587.jpg
+:jbake-source: https://www.goodreads.com/author/show/6587
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266089722.html[Autremonde]
+* link:../books/9782266177139.html[La Guerre des fleurs]

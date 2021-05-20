@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible
+:jbake-tags: go,programming,release,automatisation,_mois_janv.,_année_2019
+:jbake-date: 2019-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1547124582000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgoreleaser%2Fgoreleaser&searchtags=go+programming+release+automatisation+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/goreleaser/goreleaser[goreleaser/goreleaser: Deliver Go binaries as fast and easily as possible]
+
+Un outil à fournir à tous les projets go qui ne sont pas foutus de faire des release multiplateformes

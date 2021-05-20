@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JSweet: a transpiler to write JavaScript programs in Java
+:jbake-tags: java,programming,web,javascript,transpiler,_mois_déc.,_année_2015
+:jbake-date: 2015-12-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1451395425000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jsweet.org%2F&searchtags=java+programming+web+javascript+transpiler+_mois_d%C3%A9c.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.jsweet.org/[JSweet: a transpiler to write JavaScript programs in Java]
+
+Ca a l'air conceptuellement très chouette, ce JSweet. A ajouter dans Wisdom !

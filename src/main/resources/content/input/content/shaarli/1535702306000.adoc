@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Henning Koch on Twitter: "(Using email) You have one inbox. (Sign up for Slack) You have 30 inboxes. (Slack adds threads feature) Your inboxes have inboxes."
+:jbake-tags: citation,informatique,communication,_mois_août,_année_2018
+:jbake-date: 2018-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1535702306000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftriskweline%2Fstatus%2F1035073193550249984&searchtags=citation+informatique+communication+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/triskweline/status/1035073193550249984[Henning Koch on Twitter: "(Using email) You have one inbox. (Sign up for Slack) You have 30 inboxes. (Slack adds threads feature) Your inboxes have inboxes."]
+
+Et tout le monde me regarde comme un dinosaure quand j'insiste sur l'utilisation du mail (soupir)

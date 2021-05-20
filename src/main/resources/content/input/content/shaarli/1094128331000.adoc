@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Core J2EE Patterns - Intercepting Filter
+:jbake-tags: filter,j2ee,java,servlet,software,_mois_sept.,_année_2004
+:jbake-date: 2004-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1094128331000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fblueprints%2Fcorej2eepatterns%2FPatterns%2FInterceptingFilter.html&searchtags=filter+j2ee+java+servlet+software+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://java.sun.com/blueprints/corej2eepatterns/Patterns/InterceptingFilter.html[Core J2EE Patterns - Intercepting Filter]
+
+The presentation-tier request handling mechanism receives many different types of requests, which require varied types of processing. Some requests are simply forwarded to the appropriate handler component, while other requests must be modified, audited,

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BigQuery JSON Schema Generator
+:jbake-tags: json,big-data,bigquery,inférence,schéma,sql,_mois_juil.,_année_2019
+:jbake-date: 2019-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1562074252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbigquery-json-schema-generator.com%2F&searchtags=json+big-data+bigquery+inf%C3%A9rence+sch%C3%A9ma+sql+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://bigquery-json-schema-generator.com/[BigQuery JSON Schema Generator]
+
+Un outil de génération de schéma BigQuery à partir d'un document JSON. C'est toujours pratique ...

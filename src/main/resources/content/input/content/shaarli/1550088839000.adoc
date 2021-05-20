@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rustlog : Why is a Rust executable large?
+:jbake-tags: rust,programming,optimisation,_mois_févr.,_année_2019
+:jbake-date: 2019-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1550088839000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flifthrasiir.github.io%2Frustlog%2Fwhy-is-a-rust-executable-large.html&searchtags=rust+programming+optimisation+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://lifthrasiir.github.io/rustlog/why-is-a-rust-executable-large.html[Rustlog : Why is a Rust executable large?]
+
+De très bonnes explications sur les différentes méthodes permettant d'optimiser un exécutable Rust, avec en bonus des explications \*très\* complètes.

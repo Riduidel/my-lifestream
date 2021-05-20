@@ -1,0 +1,107 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le quidditch, c'est pas si facile
+:jbake-tags: codingame,game,java,_mois_déc.,_année_2016
+:jbake-date: 2016-12-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/12/04/le-quidditch-cest-pas-si-facile.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/12/04/le-quidditch-cest-pas-si-facile/
+:jbake-style: wordpress
+
+++++
+<p>
+Pour la troisième fois, je me suis lancé dans un des contests de Codingame.
+</p>
+<p>
+Cette fois-ci, Harry Potter était à l’honneur.
+</p>
+<p>
+[caption id="attachment_3990" align="alignnone" width="1024"]<img class="alignnone size-large wp-image-3990" src="https://riduidel.files.wordpress.com/2016/12/fantastic_bits_ld-compressor-1.jpg?w=1024" alt="fantastic_bits_ld-compressor-1" width="1024" height="576" /> Oui, enfin, sans les combats de sorciers[/caption]
+</p>
+<p>
+En particulier, le quidditch. Enfin, un quidditch un peu simplifié : seulement deux sorciers, et, surtout, pas de vif d'or. Et heureusement, parce que j'en ai bien bavé pour en arriver à résultat un peu meilleur que la dernière fois, et surtout, cette fois-ci, raisonnablement satisfaisant, vu le temps investi :
+</p>
+<p>
+[caption id="attachment_3995" align="alignnone" width="901"]<img class="alignnone size-full wp-image-3995" src="https://riduidel.files.wordpress.com/2016/12/score.png" alt="score" width="901" height="347" /> 707 sur 1950 qui passent atteignent le bronze, c'est bien. Mais s'arrêter à la porte de la ligue gold, ça craint.[/caption]
+</p>
+<p>
+<strong>EDIT</strong> : heureusement, une heure plus tard
+</p>
+<p>
+<img class="alignnone size-full wp-image-4028" src="https://riduidel.files.wordpress.com/2016/12/score_1.png" alt="score_1" width="864" height="85" />
+</p>
+<p>
+Alors, comme la dernière fois, il y a des leçons à retenir.
+</p>
+<p>
+D'abord, mon code magique qui produit des tests directement à partir du jeu est très pratique, mais nécessite que le code n'utilise jamais de random() sous quelque forme que ce soit. Cela dit, c'est tellement pratique ! regardez mes classes <a href="https://github.com/Riduidel/codingame/blob/master/multiplayer/fantastic-bits/src/test/java/org/ndx/codingame/fantastic/InGameTest.java">InGameTest</a>, comme par exemple ici
+</p>
+<p>
+[caption id="attachment_4007" align="alignnone" width="693"]<img class="alignnone size-full wp-image-4007" src="https://riduidel.files.wordpress.com/2016/12/test_generator.png" alt="test_generator" width="693" height="347" /> Et n'oubliez pas que ça vient directement de l'état du jeu à instant donné ![/caption]
+</p>
+<p>
+Ensuite, <a href="https://github.com/Riduidel/codingame/issues?utf8=%E2%9C%93&#38;q=is%3Aissue%20is%3Aclosed%20fantastic-bits">utiliser le bug tracker de GitHub comme bloc-note</a>, c'est évidement pratique pour me garantir que j'ai traité le sujet efficacement. Et je m'en resservirai.
+</p>
+<p>
+Enfin, j'avais une première implémentation que je savais boiteuse dès jeudi. Mais, si vous regardez <a href="https://github.com/Riduidel/codingame/commits/master">mon historique de commit,</a> vous verrez ... rien ! En effet, le code que j'ai mis en place samedi et dimanche n'a pas été placé dans GitHub avant ce soir ... Le fameux rush de fin de projet :-). Cela dit, il n'y avait peut-être pas de commits, mais il y avait des tests ! Et j'utilise toujours avec autant de profit mon plugin Maven qui génère le fichier source de codingame. Mais pour en revenir à cette histoire d'implémentation, clairement, il va falloir que je passe plus rapidement à la deuxième implémentation. Je dis deuxième, mais pour Hypersonic, j'ai enchaîné 4 implémentations différentes, donc n'en avoir que deux, c'est déja un net progrès. D'ailleurs, je pense ne pas vraiment pouvoir en faire moins. En effet, mis à part pour les super-tueurs genre Magus, il paraît difficile d'obtenir une première version qui soit à la fois correcte conceptuellement et efficace.
+</p>
+<p>
+Mais bon, tout ça ne doit pas ôter quelque chose que <a href="https://riduidel.wordpress.com/2016/10/03/je-ne-suis-pas-hypersonic-sur-codingame/">j'ai écrit sur hypersonic</a> : coder une de ces satanées IA est un sacré challenge, mais aussi un sacré fun. Et pour le coup, le quidditch était très bien grâce à sa complexité.
+</p>
+<p>
+PS : Bravo à nmahoude :
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/nmahoude" class="screenName"><img src="http://pbs.twimg.com/profile_images/719175135362695171/_lQjkmEM_mini.jpg" alt="profile of Father, Husband, Human problem solver, Software Developer.
+<br/>
+Opinions are my own"/>nmahoude</a>
+<br/>
+<span class="name">Nicolas Mahoudeaux</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/nmahoude/status/804 844 166 312 325 120" class="date">3 déc. 2016 à 01:26:17</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Oh my ...! Finally did it.
+<br/>
+Next steps : enjoy, rest and get lot of fun in legend league.
+<br/>
+#FantasticBits #codingame https://t.co/nmcIk3SUxK</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/Cytg7X0XUAAOlL6.jpg" alt="804 843 531 537 960 960"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

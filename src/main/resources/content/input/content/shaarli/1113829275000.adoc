@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Link to PDFs from HTML -- The PowerPoint FAQ
+:jbake-tags: software,web,html,documentation,tutorial,_mois_avr.,_année_2005
+:jbake-date: 2005-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1113829275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rdpslides.com%2Fpsfaq%2FFAQ00050.htm&searchtags=software+web+html+documentation+tutorial+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.rdpslides.com/psfaq/FAQ00050.htm[Link to PDFs from HTML -- The PowerPoint FAQ]
+
+You can also specify actions to be performed on the PDF document once it is opened. For example, you might want to open the document to a particular page or destination or set it to open with bookmarks displayed. To include one of these action commands wi

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Boot2docker by boot2docker
+:jbake-tags: linux,docker,devops,_mois_avr.,_année_2014
+:jbake-date: 2014-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1398886073000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fboot2docker.io%2F&searchtags=linux+docker+devops+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://boot2docker.io/[Boot2docker by boot2docker]
+
+C'est pas avec un truc comme ça qu'on pourrait "facilement" tester wisdom framework dans Docker ?

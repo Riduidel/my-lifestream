@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Buichi Terasawa
+:jbake-tags: author
+:jbake-date: 2015-12-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/403149.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/403149
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782374120058.html[Cobra Tome 1]
+* link:../books/9782374120065.html[Cobra Tome 2]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Karol Kuczmarski's Blog – Iteration patterns for Result & Option
+:jbake-tags: rust,programming,functionnal,_mois_juin,_année_2018
+:jbake-date: 2018-06-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1529390638000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxion.io%2Fpost%2Fcode%2Frust-iter-patterns.html&searchtags=rust+programming+functionnal+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://xion.io/post/code/rust-iter-patterns.html[Karol Kuczmarski's Blog – Iteration patterns for Result & Option]
+
+Eh ouais, on peut faire du filter/map/reduce en Rust (mais je trouve que ça n'est pas la partie la plus épatante du langage)

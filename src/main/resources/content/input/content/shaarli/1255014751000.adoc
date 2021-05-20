@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to install the Microsoft Loopback adapter in Windows XP
+:jbake-tags: windows,réseau,loopback,_mois_oct.,_année_2009
+:jbake-date: 2009-10-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1255014751000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsupport.microsoft.com%2Fkb%2F839013&searchtags=windows+r%C3%A9seau+loopback+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://support.microsoft.com/kb/839013[How to install the Microsoft Loopback adapter in Windows XP]
+
+Ben oui, pour ssher en toute tranquilité, il faut une loopback interface !

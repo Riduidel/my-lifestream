@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iTheater
+:jbake-tags: freeware,macosx,multimedia,player,vidéo,open-source,mediacenter,_mois_févr.,_année_2007
+:jbake-date: 2007-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1172302924000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.itheaterproject.com%2F&searchtags=freeware+macosx+multimedia+player+vid%C3%A9o+open-source+mediacenter+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.itheaterproject.com/[iTheater]
+
+Un mediacenter assez facile à démarrer. Reste à voir s'il fonctionne bien pour regarder les ffilms.

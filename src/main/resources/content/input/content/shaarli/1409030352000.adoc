@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FolderSync Lite - Applications Android sur Google Play
+:jbake-tags: software,android,file,synchronisation,_mois_août,_année_2014
+:jbake-date: 2014-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1409030352000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Ddk.tacit.android.foldersync.lite&searchtags=software+android+file+synchronisation+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://play.google.com/store/apps/details?id=dk.tacit.android.foldersync.lite[FolderSync Lite - Applications Android sur Google Play]
+
+AH, je pense que je vais m'en servir au moins pour copier facilement ma musique au bon endroit directement depuis le NAS ... Enfin, faut tester. D'un autre côté c'est complètement redondant avec Dropbox. Si je pouvais juste changer l'endroit où ce dernier stocke les fichiers sur le téléphone, ça m'arrangerait pas mal, en fait

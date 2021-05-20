@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Des tatouages sur des gens connus
+:jbake-tags: art,photographie,manipulation,_mois_juin,_année_2015
+:jbake-date: 2015-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1435659174000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fdes-tatouages-sur-des-gens-connus%2F&searchtags=art+photographie+manipulation+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/des-tatouages-sur-des-gens-connus/[Des tatouages sur des gens connus]
+
+Très chouette !

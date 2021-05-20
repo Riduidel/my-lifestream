@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compatible IPTC / XMP Applications
+:jbake-tags: software,photographie,exif,iptc,metadata,_mois_oct.,_année_2008
+:jbake-date: 2008-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1223387404000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.itagsoftware.com%2Fcompat.php&searchtags=software+photographie+exif+iptc+metadata+_mois_oct.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.itagsoftware.com/compat.php[Compatible IPTC / XMP Applications]
+
+La page de compatibilité d'iTag donne une bonne idée, je trouve, de ce qu'on peut faire avec de l'IPTC. Et surtout, elle me redonne confiance en ce soft pour entrer rapidement les données sans péter tous les tags exif de mes photos.

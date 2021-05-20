@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ivanreese/visual-programming-codex: Resources and references for the past and future of visual programming.
+:jbake-tags: visual,programming,catalog,_mois_juin,_année_2019
+:jbake-date: 2019-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1561921983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fivanreese%2Fvisual-programming-codex&searchtags=visual+programming+catalog+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/ivanreese/visual-programming-codex[ivanreese/visual-programming-codex: Resources and references for the past and future of visual programming.]
+
+Un référentiel d'outils de programmation visuelle

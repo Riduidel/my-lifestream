@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: easyb makes it easy, man
+:jbake-tags: software,programming,java,développement,bdd,test,groovy,_mois_nov.,_année_2009
+:jbake-date: 2009-11-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1259572505000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.easyb.org%2Findex.html&searchtags=software+programming+java+d%C3%A9veloppement+bdd+test+groovy+_mois_nov.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://www.easyb.org/index.html[easyb makes it easy, man]
+
+easyb a quand même l'air vachement simple. Peut-être même simpliste. Mais en tout cas, il rend la tâche de spécification très agréable.

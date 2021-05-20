@@ -1,0 +1,35 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kouign-amman, nous voici !
+:jbake-tags: android,os,_mois_nov.,_année_2014
+:jbake-date: 2014-11-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/11/19/kouign-amman-nous-voici.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/11/19/kouign-amman-nous-voici/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, théoriquement, je devrais écrire "kit et kat, nous voici". Seulement,
+<br/>
+<ol>
+<br/>
+<li>Je préfère le kouign-amman</li>
+<br/>
+<li>Je trouve désastreusement déplorable que Google soit (plutôt que Microsoft, par exemple), le premier éditeur d'OS à "re-brander" une version de son OS pour en tirer un bénéfice.</li>
+<br/>
+</ol>
+<br/>
+Ah, oui, au fait, je vous parle d'Android, là, pas de cuisine.
+</p>
+<p>
+Parce que les gens de Wiko ont eu la bonne idée de mettre à disposition <a href="http://fr.wikomobile.com/maj.php?telephone=145">KitKat pour mon Raimbow</a>. J'ai donc installé la mise à jour à partir de Windows la semaine dernière. Et dans l'ensemble, ça se passe plutôt bien. Même si j'ai dû manuellement réinstaller toutes les applications (d'accord, il y en a des grosses, mais puisque Google Play mémorise toutes les applications que j'ai installé - ou pas - il n'était pas capable de mémoriser que je voulais les installer en wifi ? HEIN ?). Bref, j'ai donc tout réinstallé.
+</p>
+<p>
+Tout, sauf un truc qui me manque terriblement : Kii Keyboard. Je l'avais découvert <a href="http://sebsauvage.net/links/?sIH4sw">grâce à SebSauvage</a>, et je le trouvais fantastiquement meilleur que le clavier par défaut de Google. Mais il n'existe plus sur Google Play, et je me méfie comme de la peste de tous ces sites de téléchargement d'APK. Donc pour l'instant, j'utilise le clavier par défaut. Moins bien, mais disponible (et aucun des autres que j'ai pu essayer, Swiftkey, Dasher, et autres ne m'a réellement convaincu).
+</p>
+<p>
+Bon, et puis il y a un autre souci, mineur celui-là. J'aimerais bien remettre <a href="https://sufficientlysecure.org/index.php/adaway/">Adaway</a>, mais je dois pour ça rooter mon téléphone, et je n'ai pas encore trouvé la bonne méthode. Mais je suis sûr que je vais trouver ...
+</p>
+++++

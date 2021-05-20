@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PostSecret
+:jbake-tags: web,bizarre,art,secret,_mois_févr.,_année_2005
+:jbake-date: 2005-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1108111986000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpostsecret.blogspot.com%2F&searchtags=web+bizarre+art+secret+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://postsecret.blogspot.com/[PostSecret]
+
+Read people's sordid/pathetic confessions on postcards.

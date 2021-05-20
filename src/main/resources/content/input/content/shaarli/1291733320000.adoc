@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dolphin - Gamecube and Wii Emulator
+:jbake-tags: emulator,jeu,linux,windows,_mois_déc.,_année_2010
+:jbake-date: 2010-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1291733320000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dolphin-emulator.com%2F&searchtags=emulator+jeu+linux+windows+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.dolphin-emulator.com/[Dolphin - Gamecube and Wii Emulator]
+
+Un émulateur de Wii ... Comme j'en ai déja une, ça pourrait au moins servir à jouer à plein, mais ça peut aussi servir à jouer pendant que quelqu'un d'autre utilise la télé ...

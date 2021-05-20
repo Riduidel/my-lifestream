@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Verónica Calafell
+:jbake-tags: author
+:jbake-date: 2014-05-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/465410.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1427247388p5/465410.jpg
+:jbake-source: https://www.goodreads.com/author/show/465410
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9788484494775.html[Gantz /9]
+* link:../books/9788484494782.html[Gantz /10]
+* link:../books/9788484496137.html[Gantz /11]

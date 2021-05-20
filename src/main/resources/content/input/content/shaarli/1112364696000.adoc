@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MUFFIN.DOIT.ORG
+:jbake-tags: programming,test,web,java,software,freeware,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112364696000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmuffin.doit.org%2F&searchtags=programming+test+web+java+software+freeware+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://muffin.doit.org/[MUFFIN.DOIT.ORG]
+
+Un proxy HTTP écrit en java qui supporte à peu près tout, et semble pouvoir se scripter facilement. Très pratique pour, par exemple, debugger dans Eclipse une applet qui se connecte en HTTPS avec des paramètres de session stockés dans des cookies

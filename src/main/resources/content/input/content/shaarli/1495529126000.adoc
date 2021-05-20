@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The font used for container log should be configurable · Issue #2672 · docker/kitematic
+:jbake-tags: software,open-source,bug,interface,_mois_mai,_année_2017
+:jbake-date: 2017-05-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1495529126000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdocker%2Fkitematic%2Fissues%2F2672&searchtags=software+open-source+bug+interface+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/docker/kitematic/issues/2672[The font used for container log should be configurable · Issue #2672 · docker/kitematic]
+
+Quand t'es fan d'un soft, mais qu'un détail te chiffonne

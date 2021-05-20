@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nicolas Frankel on Twitter: "“If you can’t fix it, you shouldn’t give it a second thought. What’s done is done.” — William Shakespeare #softwareengineering #philosophy"
+:jbake-tags: citation,programming,context,_mois_oct.,_année_2016
+:jbake-date: 2016-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1476778978000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fnicolas_frankel%2Fstatus%2F788114783228821504&searchtags=citation+programming+context+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/nicolas_frankel/status/788114783228821504[Nicolas Frankel on Twitter: "“If you can’t fix it, you shouldn’t give it a second thought. What’s done is done.” — William Shakespeare #softwareengineering #philosophy"]
+
+Très juste

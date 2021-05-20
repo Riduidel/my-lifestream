@@ -1,0 +1,211 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - A brief history of API
+:jbake-tags: histoire,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-a-brief-history-of-api.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-a-brief-history-of-api/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous pouvez retrouver les slides de la présentation sur <a href="https://drive.google.com/file/d/1H-1zcUzXkTptlcU-GSLj20d75dKTFgaP/view">Google Drive</a>.
+<br/>
+<h1 id="truepourrquoi" class="sect0">Pourquoi ?</h1>
+<br/>
+<div class="paragraph data-line-4">
+</p>
+<p>
+Parce qu’un juge fédéral lui a demandé quand les API sont apparues dans l’histoire.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect1 data-line-6">
+<br/>
+<h2 id="truequand_sont_apparues_les_api">Quand sont apparues les API ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Le terme subroutine a été inventé à l'époque de Von Neuman par celui-ci et un collègue. Ils expliquent dans la publication où apparaît le terme que les programmes se décomposent en opérations simples et réutilisables. Ce qui est curieux, c’est que Wilkes a reçu un prix Turing pour une idée similaire …​ mais surtout pour l’avoir implémenté. La machine utilisée était <a href="https://fr.wikipedia.org/wiki/Electronic_Discrete_Variable_Automatic_Computer">EDVAC</a>, un énorme ordinateur de 1949. 1 million de fois plus lent que nos ordinateurs, avec 512 séries de 17 bits de mémoire …​ Et tout un tas d’autres éléments qui montrent à quel point il était rudimentaire. Et il a réussi à aller plus vite que Von Neuman en créant un ordinateur plus simple. Plus simple, mais qui a été mis à jour plusieurs fois. En codant son premier programme, Wilkes se rend compte qu’en l'état, il devrait corriger ses erreurs pour le reste de sa vie. Pour éviter ça, il demande à un de ses doctorants de travailler sur une architecture de sous-routines. Son code supportait de multiples niveaux de sous-routines, le passage de fonctions comme arguments.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+Le concept a été introduit dans le premier livre sur la programmation : "<a href="https://archive.org/details/programsforelect00wilk">The preparation of programs for an electronic digital computer</a>".
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Et dans l’article présentant leur bibliothèque, ils expliquent aussi le besoin de debugger (qui fonctionnait sur leur ordinateur !). Il y explique également que la documentation de ces sous-routines est peut-être la tâche la plus complexe. Tout ça dans un papier de seulement <strong>deux pages</strong> !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Pourquoi Wilkes et Wheeler ne parlaient pas d’API ? C’est simple : il n’y avait qu’un ordinateur. Donc ils n’avaient pas besoin d’interagir avec d’autres ordinateurs. Par contre, quand ils ont recodé leurs fonctions dans la version améliorée d’EDVAC, ils ont donné vie à la notion d’API.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-26">
+</p>
+<p>
+Par contre, le mot semble être apparu en 1968. Ils comprenaient bien que l’API avait un sens au-delà de son implémentation. Mais aussi que les API apparaissent dès qu’il y a une bibliothèque de code. En quelque sorte, elles en sont une propriété émergente.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-29">
+<br/>
+<h2 id="truequ_est_ce_qui_constitue_une_api">Qu’est-ce qui constitue une API ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Une API est ensemble de fonctionnalités indépendantes de leur implémentation, afin de permettre des implémentations variables.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+Quelques exemples
+<br/>
+<ul>
+<br/>
+<li>L’API Fortran créée en 1954 contenait 28 fonctions mathématiques …​ et est toujours une partie de l’API standard de ce langage.</li>
+<br/>
+<li>Kernigham &#38; Ritchie écrivaient dans la doc du C que leur API doit être portable, afin de permettre aux programmes de s’exécuter sur de multiples plateformes sans changer le code. Comme Java, en fait.</li>
+<br/>
+<li>Sur les terminaux <a href="https://fr.wikipedia.org/wiki/VT100">VT100</a>, une API permettait de se déplacer sur l'écran. La même qui est encore utilisée dans les émulateurs de terminaux modernes.</li>
+<br/>
+<li>Le bios d’un PC fournit des API pour communiquer avec le hardware.</li>
+<br/>
+<li>Dans un téléphone portable, le processeur central parle au processeur radio en utilisant l’API des modems.</li>
+<br/>
+<li><a href="https://fr.wikipedia.org/wiki/PostScript">Adobe PostScript</a> pose la question : est-ce un langage ou une API. Autrement dit y a-t-il une différence entre un langage et une API ?</li>
+<br/>
+<li>Sur le web, des sites comme delicious fournissent des API web qui permettent de les utiliser.</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-49">
+<br/>
+<h3 id="truequ_en_retenir">Qu’en retenir</h3>
+<br/>
+<div class="paragraph data-line-50">
+</p>
+<p>
+Les API viennent en multiples formes. Elles sont éternelles. Elle peuvent créer des industries entières. Et enfin elles sont les moyens pour un composant d’un système informatique pour en utiliser un autre. Elles sont la glue qui tient le monde numérique.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-56">
+<br/>
+<h2 id="truepetite_digression_l_gale">Petite digression légale</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-57">
+</p>
+<p>
+On a toujours pu réimplémenter les API d’autres fournisseurs. Et chacun des exemples présentés a donné lieu a des réimplémentations. Même l’EDSAC a été réimplémenté, en 1959, au Japon !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-60">
+</p>
+<p>
+Evidement, depuis le proccès Oracle/Google, les API sont sous la menace légale.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-62">
+</p>
+<p>
+Si Oracle gagne, il ne sera plus possible de réimplémenter une API. Ou tout au moins, il faudra l’accord de l’auteur initial. Des produit comme GNU, Wine, Android, Samba, …​ ne pourraient pas exister.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-65">
+</p>
+<p>
+Autrement dit, le droit de réimplémenter des API est crucial pour de multiples raisons.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-67">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-68">
+</p>
+<p>
+Les API existent depuis toujours, et sans ça, l’informatique n’existerait pas. Et ce serait bien de leur permettre de continuer à exister.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-70">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+Du début à la fin, la présentation était excellente. Vive, bien menée, claire dans son propos (qui est avant tout une histoire de l’API), c'était vraiment une bonne façon de rentrer dans le sujet.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

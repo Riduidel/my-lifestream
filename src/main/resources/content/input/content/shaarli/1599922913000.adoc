@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sirupsen/napkin-math: Techniques and numbers for estimating system's performance from first-principles
+:jbake-tags: architecture,design,mathématiques,nombres,informatique,_mois_sept.,_année_2020
+:jbake-date: 2020-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1599922913000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsirupsen%2Fnapkin-math&searchtags=architecture+design+math%C3%A9matiques+nombres+informatique+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/sirupsen/napkin-math[sirupsen/napkin-math: Techniques and numbers for estimating system's performance from first-principles]
+
+Un repository intéressant regroupant des ordres de grandeur pour permettre facilement des estimations rapides.

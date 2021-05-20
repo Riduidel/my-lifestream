@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - l'entreprenariat au féminin
+:jbake-tags: devoxx,féminisme,_mois_avr.,_année_2016
+:jbake-date: 2016-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-lentreprenariat-au-feminin.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-lentreprenariat-au-feminin/
+:jbake-style: wordpress
+
+++++
+<p>
+Natacha a cofondé il y a dix ans le club Girl power 3.0 qui promeut le rôle des femmes dans le numérique. Bien.
+<br/>
+D'après Natacha, sans Ada Lovelace, les langages informatiques n'auraient pas été inventés. Est-ce qu'on parle pour autant d'elle ? Eh bien pas vraiment.
+<br/>
+Ensuite, on évoque Maragret Hamilton. Sans elle, l'homme n'aurait jamais marché sur la Lune. Ca calme, vraiment.
+</p>
+<p>
+On est à la fin d'un grand cycle dans nos sociétés ... et en particulier en France. Voilà exactement le genre de phrases qui me fait réfléchir.
+</p>
+<p>
+Natacha nous parle ensuite de #jamaissansElles. Une belle idée ... mais je crains que le name-dropping ne soit pas vraiment un élément utile pour convaincre des développeurs de l'intérêt de la mixité.
+</p>
+<p>
+En fait, pour être honnête, Natacha souffre de la comparaison avec les speakers précédents : son propos est intéressant (et à titre personnel j'y suis éminemment sensible). En revanche, il est un peu trop français à mon sens : trop orienté vers les conseils d'administration et la représentation publique, et pas forcément vers une transformation réelle. Mais ça n'est que mon opinion.
+</p>
+++++

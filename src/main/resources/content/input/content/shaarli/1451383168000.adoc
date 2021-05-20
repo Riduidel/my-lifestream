@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Handling money and currencies in Java with JSR 354 | techscouting through the java news
+:jbake-tags: java,programming,standard,library,argent,format,_mois_déc.,_année_2015
+:jbake-date: 2015-12-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1451383168000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.oio.de%2F2015%2F12%2F17%2Fhandling-money-and-currencies-in-java-with-jsr-354%2F&searchtags=java+programming+standard+library+argent+format+_mois_d%C3%A9c.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blog.oio.de/2015/12/17/handling-money-and-currencies-in-java-with-jsr-354/[Handling money and currencies in Java with JSR 354 | techscouting through the java news]
+
+Miam ! C'était peut-être l'un des derniers manques de Java

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bruno Borges on Twitter: "I smell a #YAML typo. Would be great if Google confirmed. "configuration was incorrectly applied to a larger number of servers across several neighboring regions, and it caused those regions to stop using more than half of their available network capacity"https://t.co/qCmkDly2wg"
+:jbake-tags: yaml,kubernetes,configuration,devops,_mois_juin,_année_2019
+:jbake-date: 2019-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1559812592000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbrunoborges%2Fstatus%2F1136132182643290112&searchtags=yaml+kubernetes+configuration+devops+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/brunoborges/status/1136132182643290112[Bruno Borges on Twitter: "I smell a #YAML typo. Would be great if Google confirmed. "configuration was incorrectly applied to a larger number of servers across several neighboring regions, and it caused those regions to stop using more than half of their available network capacity"https://t.co/qCmkDly2wg"]
+
+YAML ain't markup language, but an industrial accident waiting to happen. Apparemment, avec des trucs comme dhall, on peut éviter l'enfer du YAML (je dis bien \*apparemment\*).

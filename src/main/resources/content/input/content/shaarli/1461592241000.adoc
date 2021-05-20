@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Speechlogger | FAQs on Automatic Speech Recognition & Instant Voice Translation
+:jbake-tags: podcast,transcription,mp3,_mois_avr.,_année_2016
+:jbake-date: 2016-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1461592241000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeechlogger.appspot.com%2Ffaqs%2F&searchtags=podcast+transcription+mp3+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://speechlogger.appspot.com/faqs/[Speechlogger | FAQs on Automatic Speech Recognition & Instant Voice Translation]
+
+A tester pour @lescastcodeurs

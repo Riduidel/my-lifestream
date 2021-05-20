@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Robinson
+:jbake-tags: author
+:jbake-date: 2015-06-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/28055.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1305435500p5/28055.jpg
+:jbake-source: https://www.goodreads.com/author/show/28055
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756039589.html[Hellboy 14 - Masques & Monstres]

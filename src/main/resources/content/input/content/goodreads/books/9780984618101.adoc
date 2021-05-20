@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Just Enough Software Architecture: A Risk-Driven Approach
+:jbake-tags:  architecture,_année_2020,_mois_nov.,_note_3,rayon-informatique,read
+:jbake-date: 2020-11-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9780984618101.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/9005772
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+This practical guide seeks to make architecture relevant to all software developers. Developers need to understand how to use constraints as guiderails that ensure desired outcomes, and how seemingly small changes can affect a system's properties.
+</div>
+++++
+
+
+## Authors
+* link:../authors/4246328.html[George H. Fairbanks]
+
+
+
+## Review
+
+++++
+Le titre du roman est un peu mensonger (comme d'ailleurs la première partie, qui est malgré tout la plus intéressante).<br/>En effet, l'auteur parle de risk driven approach, et je me suis donc dit qu'il allait se concentrer sur l'analyse de risque et l'ensemble des éléments afférents. Et c'est partiellement vrai. En fait, cette approche peut se résumer à une phrase simple : si tu penses qu'un truc est risqué, réfléchis-y plus avant de te lancer. Et même si c'est très vrai, ça me paraît un peu insuffisant.<br/>Surtout parce que ça n'est pas assez développé dans la suite du livre, qui parle certes du fossé entre le modèle et le code, des failles conceptuelles, méthodologiques et notationelles qui font suite à la création d'un modèle, ou encore de l'impact de la multiplication des vues et des échelles. Malheureusement, ces aspects me semblent un peu trop abstraits, alors que j'aurais préféré un travail plus détaillé sur les attributs de qualité et leur description comme des scénarios fonctionnels.<br/>Cependant, je comprend complètement d'où Simon Brown a tiré les idées de son modèle C4 (qui n'est pas du tout la même chose que les 4+1 vues préconisées ici). En ce sens, c'est une lecture utile.
+++++

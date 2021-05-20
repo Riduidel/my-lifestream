@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le collectioneur
+:jbake-tags: serie
+:jbake-date: 2012-05-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Le_collectioneur.adoc
+:jbake-source: https://www.goodreads.com/series/80195
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782908551303.html[Le calumet de Pierre Rouge]
+* link:../books/9782908551549.html[L'obélisque Abyssin]
+* link:../books/9782908551501.html[Le Joyau Mongol]
+* link:../books/9782908551600.html[Le Sceptre De Muiredeagh]
+* link:../books/9782908551822.html[Le collier de Padmasumbawa]

@@ -1,0 +1,21 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Neil Gaiman
+:jbake-tags: author
+:jbake-date: 2001-11-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1221698.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1234150163p5/1221698.jpg
+:jbake-source: https://www.goodreads.com/author/show/1221698
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780930289553.html[Black Orchid]
+* link:../books/9782266279932.html[La Mythologie Viking]
+* link:../books/9782290021279.html[Des choses fragiles]
+* link:../books/9782290303344.html[Neverwhere]
+* link:../books/9782290315866.html[De bons présages]
+* link:../books/9782290325094.html[Stardust]
+* link:../books/9782290325452.html[Miroirs et fumée]
+* link:../books/9782290330418.html[American Gods]
+* link:../books/9782290352847.html[Anansi Boys]

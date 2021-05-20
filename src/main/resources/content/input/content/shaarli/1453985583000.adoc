@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tatiyants.com Postgres Query Plan Visualization - tatiyants.com
+:jbake-tags: programming,database,postgres,profiling,_mois_janv.,_année_2016
+:jbake-date: 2016-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1453985583000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftatiyants.com%2Fpostgres-query-plan-visualization%2F&searchtags=programming+database+postgres+profiling+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://tatiyants.com/postgres-query-plan-visualization/[tatiyants.com Postgres Query Plan Visualization - tatiyants.com]
+
+Très joli. C'est comme ça qu'on devrait faire du profiling de base de données, au lieu de lignes de commandes affreusement moches

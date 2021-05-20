@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A DoS Attack against the C# Compiler · Performance is a Feature!
+:jbake-tags: concepts,programming,compilateur,generics,_mois_nov.,_année_2017
+:jbake-date: 2017-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1510220886000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmattwarren.org%2F2017%2F11%2F08%2FA-DoS-Attack-against-the-C-Compiler%2F&searchtags=concepts+programming+compilateur+generics+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://mattwarren.org/2017/11/08/A-DoS-Attack-against-the-C-Compiler/[A DoS Attack against the C# Compiler · Performance is a Feature!]
+
+Wow, je n'avais jamais saisi quel était l'inconvénient des types génériques présents à l'exécution. Là, c'est assez clair ...

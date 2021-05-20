@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - rxi/lite: A lightweight text editor written in Lua
+:jbake-tags: lua,editor,windows,linux,open-source,_mois_mai,_année_2020
+:jbake-date: 2020-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1589270715000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frxi%2Flite&searchtags=lua+editor+windows+linux+open-source+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/rxi/lite[GitHub - rxi/lite: A lightweight text editor written in Lua]
+
+Un éditeur de texte, ok, mais celui-ci est en Lua (et du coup je connais deux/trois personnes qui vont trouver ça très cool)

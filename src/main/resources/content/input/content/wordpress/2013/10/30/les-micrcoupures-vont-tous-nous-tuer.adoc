@@ -1,0 +1,43 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les micrcoupures vont tous nous tuer !
+:jbake-tags: diagnostic,freebox,mavie,_mois_oct.,_année_2013
+:jbake-date: 2013-10-30
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/10/30/les-micrcoupures-vont-tous-nous-tuer.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/10/30/les-micrcoupures-vont-tous-nous-tuer/
+:jbake-style: wordpress
+
+++++
+<p>
+Depuis Samedi, je ne peux plus jouer ni à World of Tanks, ni à Path of Exile.
+</p>
+<p>
+<img class="aligncenter" alt="" src="http://i.imgur.com/hGRKqzO.png" width="552" height="367" />
+</p>
+<p>
+(psst : si les vidéos de tank en lego vous fascinent, c'est <a href="http://www.youtube.com/watch?v=c0JpkmKajOs&#38;list=PLLCj285H1QB5IgLIB52iw7kNPntlD5mf1">le channel</a> de <a href="http://sariel.pl/">Sariel.pl</a> qu'il vous faut)
+</p>
+<p>
+Naïvement, je pensais que c'était des problèmes d'installation ... Pas étonnant au vu du rendu de mon garage
+</p>
+<p>
+<a href="http://riduidel.files.wordpress.com/2013/10/capture-dc3a9cran-2013-10-28-07-28-04.png"><img class="aligncenter size-large wp-image-1644" alt="Capture d'écran 2013-10-28 07.28.04" src="http://riduidel.files.wordpress.com/2013/10/capture-dc3a9cran-2013-10-28-07-28-04.png?w=520" width="520" height="343" /></a>
+</p>
+<p>
+J'ai même rentré un ticket sur le support de wargaming.net !
+</p>
+<p>
+Et puis hier soir, je tentais de me détendre en jouant un peu à Urban terror, où j'ai également rencontré des problèmes certains : mon lagomètre affichait de moches barres rouges. Après avoir demandé aux autres joueurs à quoi elles correspondaient (et après avoir subi de nombreux dérapages incontrôlés), je me suis souvenu des fameuses histoires de <a href="http://forum.freenews.fr/index.php/topic,42102.0.html">microcoupures</a>. Et j'ai bien l'impression d'en subir des symptômes proches : ma freebox reste toujours gentiment connectée, mais j'ai ces fameux soucis d'affichage, et de jeu.
+</p>
+<p>
+En bonus, j'ai un  nombre de <a href="http://forum.universfreebox.com/viewtopic.php?t=5239">FEC</a> qui me paraît élevé : au moins 122000 hier soir, avec une FEC supplémentaire toutes les minutes (à peu près, hein). Bref, j'ai bien l'impression que ma ligne a été dégradée. D'un autre côté <a href="http://www.freenews.fr/spip.php?article1940">d'autres sites affirment que ce FEC ne sert à rien à l'internaute moyen ...</a>
+</p>
+<p>
+Pourtant, <a href="http://www.free-reseau.fr/hel59">mon NRA a l'air en forme</a> ... Bizarre.
+</p>
+<p>
+Cela dit, il est également possible qu'il y ait un bug dans le jeu. Même si wargaming.net n'est pas aussi vicieux qu'apple, il s'agit malgré tout d'une entreprise à but égoïstement lucratif ...
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TreeSheets
+:jbake-tags: software,freeware,windows,macosx,linux,productivité,_mois_avr.,_année_2014
+:jbake-date: 2014-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1396431928000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstrlen.com%2Ftreesheets%2F&searchtags=software+freeware+windows+macosx+linux+productivit%C3%A9+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://strlen.com/treesheets/[TreeSheets]
+
+Très impressionant, et assez intriguant. Le mélange entre mind mapping et feuille de calcul me fait un peu peur en terme de (dés)organisation, surtout quand on sait que ces familles de logiciels génèrent toutes deux des ayatollahs de la déviance, qui vont expliquer doctement pourquoi leur méthode est infiniment meilleure (et tout autant incompréhensible) que celle du mec d'à côté qui fait presque la même chose. Cela dit, je ressens une certaine forme d'attrait pour ce truc ... C'est louche.

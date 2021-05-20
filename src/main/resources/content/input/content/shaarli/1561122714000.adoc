@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rakyll/hey: HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
+:jbake-tags: web,performance,http,programming,test,_mois_juin,_année_2019
+:jbake-date: 2019-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1561122714000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frakyll%2Fhey&searchtags=web+performance+http+programming+test+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/rakyll/hey[rakyll/hey: HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom]
+
+Un petit outil de charge HTTP qui écrit tous ses logs dans la console (ce qui est plus pratique que superbenchmarker qui passe son temps à me générer des paquets de fichiers HTML)

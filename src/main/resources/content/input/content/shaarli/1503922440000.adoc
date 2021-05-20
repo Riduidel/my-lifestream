@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction
+:jbake-tags: javascript,programming,build,_mois_août,_année_2017
+:jbake-date: 2017-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1503922440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsurvivejs.com%2Fwebpack%2Fintroduction%2F&searchtags=javascript+programming+build+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://survivejs.com/webpack/introduction/[Introduction]
+
+Le truc qui fait comme npm, mais pas pareil, enfin tu peux pas comprendre, mais que les dévs JS frontend utilisent pour packager leurs fichiers ...

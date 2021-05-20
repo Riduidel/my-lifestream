@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Greg Egan
+:jbake-tags: author
+:jbake-date: 2001-10-23
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/32699.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1375595103p5/32699.jpg
+:jbake-source: https://www.goodreads.com/author/show/32699
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253072249.html[La Cité des permutants]
+* link:../books/9782253072331.html[L'Énigme de l'Univers]
+* link:../books/9782253072508.html[Isolation]
+* link:../books/9782253087830.html[Axiomatique]
+* link:../books/9782253114819.html[Téranésie]
+* link:../books/9782253159889.html[Océanique]
+* link:../books/9782253159896.html[Radieux]
+* link:../books/9782253195085.html[Zendegi]

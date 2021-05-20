@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 97 Things Every Software Architect Should Know - The Book [97 Things] : Near-Time
+:jbake-tags: software,architecture,programming,développement,design,_mois_déc.,_année_2009
+:jbake-date: 2009-12-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1262075685000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F97-things.near-time.net%2Fwiki%2F97-things-every-software-architect-should-know-the-book&searchtags=software+architecture+programming+d%C3%A9veloppement+design+_mois_d%C3%A9c.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://97-things.near-time.net/wiki/97-things-every-software-architect-should-know-the-book[97 Things Every Software Architect Should Know - The Book [97 Things] : Near-Time]
+
+Un très bon catalogue de bonnes pratiques sur l'architecture logicielle.

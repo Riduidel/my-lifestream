@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: nixCraft: The Best Linux Blog In the Unixverse on Twitter: "It is too quite here ...… "
+:jbake-tags: linux,terminal,editor,_mois_mai,_année_2018
+:jbake-date: 2018-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1526830223000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fnixcraft%2Fstatus%2F997448187043512321&searchtags=linux+terminal+editor+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/nixcraft/status/997448187043512321[nixCraft: The Best Linux Blog In the Unixverse on Twitter: "It is too quite here ...… "]
+
+Tellement d'accord. Vi et emacs sont des horreurs ergonomiques. Et nano est franchement bien fichu et assez complet pour toutes les fois où j'ai besoin d'éditer un fichier dans le terminal.

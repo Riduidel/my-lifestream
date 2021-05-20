@@ -1,0 +1,252 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - From a french monolith to a worldwide platform
+:jbake-tags: architecture,devoxx,expérience,kubernetes,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxx-from-a-french-monolith-to-a-worldwide-platform.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxx-from-a-french-monolith-to-a-worldwide-platform/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Avant, Dailymotion, c'était un gros monolithe LAMP hosté sur de vraies machines, dans un seul datacenter. L’objectif, c'était d’avoir du code qui s’exécute près du client, avec des applications go/python dans des conteneurs orchestrés par Kubernetes, et des apis GraphQL.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-56">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-57">
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-6">
+</p>
+<p>
+Pour ça, Dailymotion s’est réorganisé autour de tribus, d’escouades et de chapitres (façon Spotify). Ca permet d’aligner l’architecture et l’organisation, ce qui est toujours pratique.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Revenons à l’application. Comme le front-end communique via GraphQL, la migration se fait en douceur : c’est GraphQL qui expose les anciennes API comme les nouvelles, ce qui permet d’ajouter facilement les microservices à côté de l’application historique. Ca permet la migration facile, mais aussi l’appropriation des différents composants du code.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-11">
+<br/>
+<h2 id="trued_ploiement_de_graphql">Déploiement de GraphQL</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-12">
+</p>
+<p>
+La mise en place de GraphQL, et des fondations de l’application, vient d’une équipe de deux personnes, qui ont mis en place un K8s déployé dans 3 régions AWS. Ca marchait assez bien, mais les infrastructures étaient peu monitorées. L'équipe a ensuite fortement grossi pour atteindre 50 personnes, ce qui a permis de déployer plus de services plus rapidement. Il y a maintenant une dizaine de déploiements par jour (sur une quinzaine de services déployés par cette équipe).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+Evidement, cette croissance du personnel a dû être anticipée. Il y avait donc des sessions de formation régulières, sur K8s, la conteneurisation, GraphQL, …​ Mais aussi des modifications des différents outils de RH de la boîte.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-17">
+<br/>
+<h2 id="trueoutillage">Outillage</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-18">
+</p>
+<p>
+Pour un nouveau développeur chez Dailymotion, il y a pas mal de switch entre projets (avec des dépendances différentes, dans des versions différentes, …​). Donc la machine du développeur n’a que Docker. Et pour facilement passer d’un projet à un autre, ils ont conçu la spécification de <a href="https://gazr.io/">gazr</a>, qui permet de lancer les outils de build ou de test des différentes stacks. Grâce à cet outil, les commandes sont toujours identiques.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-23">
+<br/>
+<h2 id="trueorchestration">Orchestration</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Pour facilement créer et maintenir les clusters de prod, Dailymotion utilise un K8s managé chez Google Cloud Platform. Ca permet l’autoscaling. Par ailleurs, le code est déployé sur 3 régions GCP (Europe, Afrique, Asie). Par ailleurs, le code va être migré sur un cloud hybride utilisant les datacenters existant (ceux qui fournissent le CDN utilisé par Dailymotion pour les vidéos).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-27">
+<br/>
+<h2 id="truecontinuous_deployment">Continuous deployment</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+L'équipe qui s’occupait des releases a été remplacé par les équipes de développement elles-mêmes grâce aux Jenkinsfile. Ce sont ces équipes qui déploient jusqu’en prod (automatiquement, sauf lorsqu’une approbation humaine est nécessaire).
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-31">
+<br/>
+<h3 id="trueevolution_du_d_ploiement">Evolution du déploiement</h3>
+<br/>
+<div class="paragraph data-line-32">
+</p>
+<p>
+Initialement, les applications étaient déployées par des scripts bash. Ca a été remplacé par une tentative d’application déployant sur tout le cluster via les API K8s. C'était assez complexe, et certaines étapes restaient manuelles. Actuellement, les applications sont déployées par région via <a href="https://helm.sh/">Helm</a>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-36">
+</p>
+<p>
+Celui-ci gère les dépendances, fournit des templates pour séparer les déploiements par environnement, et permet le rollback.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-38">
+<br/>
+<h2 id="truegestion_de_la_plateforme">Gestion de la plateforme</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+L’API GraphQL est supervisée grâce à <a href="http://opentracing.io/">Open Tracing</a>. Evidement, il y a du monitoring, de la supervision, des logs gérés par Elastic/FluentD/Kibana, et du feature flipping.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-42">
+<br/>
+<h2 id="truer_les">Rôles</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-43">
+</p>
+<p>
+Avant, il y avait trois types d’ingénieurs
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-45">
+<br/>
+<ul>
+<br/>
+<li>Le software engineer écrit le code (pas forcément facile à opérer)</li>
+<br/>
+<li>Le release engineer package et déploie l’application</li>
+<br/>
+<li>Le system engineer opère l’application, mais ne peut pas corriger celle-ci.</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-49">
+</p>
+<p>
+Ces rôles ont été remplacés par le production engineer, qui tient chacun des rôles. Ca implique des changements organisationnels (les anciens développeurs peut se retrouver d’astreinte, il faut changer leur contrat de travail).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+Ca veut aussi dire que les développeurs peuvent mettre en prod. Et par exemple, Stan, lors d’une manipulation hasardeuse, à détruit tous les conteneurs faisant tourner Dailymotion dans le monde entier. Mais grâce aux outils de rollback préparés, le retour à la normale a pu avoir lieu très rapidement. Et surtout, ils ont pu apprendre de leurs erreurs et mettre en place des outils évitant ces manipulations.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-57">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+Un bon retour d’expérience avec quelques bonnes idées. Malheureusement, j’ai eu l’impression que la présentation restait un peu trop à la surface des choses.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

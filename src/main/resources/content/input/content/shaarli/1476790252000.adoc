@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JavaKoan/koan-annotations: Annotations for developing Koans in Java
+:jbake-tags: java,programming,tutorial,framework,kata,_mois_oct.,_année_2016
+:jbake-date: 2016-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1476790252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FJavaKoan%2Fkoan-annotations&searchtags=java+programming+tutorial+framework+kata+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/JavaKoan/koan-annotations[JavaKoan/koan-annotations: Annotations for developing Koans in Java]
+
+Un outil intriguant pour les sessions de code kata impliquant la prise en main d'une API

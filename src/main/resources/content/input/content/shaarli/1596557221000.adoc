@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Beginner's guide to Error Handling in Rust
+:jbake-tags: rust,programming,erreur,méthode,_mois_août,_année_2020
+:jbake-date: 2020-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1596557221000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sheshbabu.com%2Fposts%2Frust-error-handling%2F&searchtags=rust+programming+erreur+m%C3%A9thode+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.sheshbabu.com/posts/rust-error-handling/[Beginner's guide to Error Handling in Rust]
+
+Une introduction vraiment chouette aux différentes méthodes de gestion d'erreur en Rust (et pour le coup, il y en a un paquet).

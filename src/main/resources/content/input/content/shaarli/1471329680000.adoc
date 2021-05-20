@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gmetais/sw-delta: An incremental cache for the web
+:jbake-tags: javascript,cache,programming,web,_mois_août,_année_2016
+:jbake-date: 2016-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1471329680000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgmetais%2Fsw-delta&searchtags=javascript+cache+programming+web+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/gmetais/sw-delta[gmetais/sw-delta: An incremental cache for the web]
+
+Le cache incrémental jusqu'au navigateur, c'est pas mal du tout.

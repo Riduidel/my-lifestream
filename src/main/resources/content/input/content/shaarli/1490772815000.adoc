@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Retromat - Inspiration & plans pour rétrospectives (agile)
+:jbake-tags: agile,management,_mois_mars,_année_2017
+:jbake-date: 2017-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1490772815000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fplans-for-retrospectives.com%2Ffr%2F%3Fid%3D31-33-9-12-17&searchtags=agile+management+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://plans-for-retrospectives.com/fr/?id=31-33-9-12-17[Retromat - Inspiration & plans pour rétrospectives (agile)]
+
+Quelques idées de plan pour construire facilement des rétrospectives agiles

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Steve Francia on Twitter: ""The moral arc of the universe bends at the elbow of justice." - Martin Luther King, Jr."
+:jbake-tags: citation,justice,_mois_janv.,_année_2017
+:jbake-date: 2017-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1484570050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fspf13%2Fstatus%2F820995801447067648&searchtags=citation+justice+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/spf13/status/820995801447067648[Steve Francia on Twitter: ""The moral arc of the universe bends at the elbow of justice." - Martin Luther King, Jr."]
+
+"L'arc de la morale repose sur l'épaule de la justice" ... Classe.

@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Frank Miller
+:jbake-tags: author
+:jbake-date: 2011-05-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/15085.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1335457016p5/15085.jpg
+:jbake-source: https://www.goodreads.com/author/show/15085
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785123293.html[Wolverine]
+* link:../books/9782756030081.html[Hard Boiled - Réédition]
+* link:../books/9782840550518.html[Big Guy]
+* link:../books/9782878270310.html[300]

@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mœbius
+:jbake-tags: author
+:jbake-date: 2011-01-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5449827.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1327598149p5/5449827.jpg
+:jbake-source: https://www.goodreads.com/author/show/5449827
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782731615401.html[L'Incal: L'Intégrale]
+* link:../books/9782731623765.html[Arzach Classique]
+* link:../books/9782871298663.html[Icare]
+* link:../books/9782908766585.html[Arzak: L'arpenteur]

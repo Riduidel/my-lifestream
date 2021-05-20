@@ -1,0 +1,87 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Git n'est en fait pas trop dur ...
+:jbake-tags: complexité,concept,entreprise,git,organisation,réflexion,_mois_nov.,_année_2020
+:jbake-date: 2020-11-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/11/23/git-nest-en-fait-pas-trop-dur.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/11/23/git-nest-en-fait-pas-trop-dur/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a quelques jours, je lisai cet excellent article en tant qu'utilisateur de Git</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/riduidel\/status\/1328758776837648384","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 328 758 776 837 648 384" class="date">17 nov. 2020 à 18:55:54</a>
+
+	<span class="content">
+	
+	<span class="text">Le fait que l'auteur travaille chez GitHub oriente ses propositions.
+Mais dans l'ensemble, je rejoins ce qui y est écrit (ce qui ne surprendra personne). https://t.co/mLf4Fqwgyd</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et il est arrivé un truc marrant (enfin deux trucs, et pas si marrants).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'une part, <a href="https://sebsauvage.net/links/?k5l9nw">sebsauvage a repris mon lien</a>. D'autre part, et ça semble n'avoir rien à voir, mais je vais vous expliquer le lien que je vois, <a href="http://www.touilleur-express.fr/2020/11/20/quand-tu-sors-du-sous-marin/">Nicolas Martignole</a> alias le touilleur express (à lire avec la voix d'Emmanuel Bernard - si tu n'écoutes pas les castcodeurs, tu ne comprend pas la blague, bien sûr) a publié un article sur la fin de son expérience de manager.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Les remarques de Sebauvage tiennent donc à un sujet :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>ces outils censés nous simplifier la vie ajoutent en réalité une <em>charge mentale</em> aux développeurs.</p><cite>Sebsauvage</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Un sujet que je vais me permettre de rapprocher de l'un des paragraphes de Nicolas</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>C’est très bien expliqué dans le livre « <a href="https://teamtopologies.com/">Team Topologies</a> » de M.Skelton et M.Pais, si tu veux un livre utile à lire. Ils font cette observation et se focalisent sur les équipes. Une équipe ne peut gérer qu’une certaine quantité de charge mentale.</p><p>Ils identifient 3 types de charges, et je vais m’en servir pour vous parler de la <strong>Courgette</strong> dans quelques instants.</p><p>Il y a <strong>la charge cognitive intrinsèque</strong>, <strong>la charge cognitive externe</strong>, et <strong>la charge cognitive pertinente</strong> (ou <em>se rapportant à</em>).</p><cite>Nicolas Martignole</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Bon, là, vous me voyez arriver avec mes gros sabots.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'il me semble que la distinction des trois charges cognitive est un concept assez théorique, applicable dans la plupart des contextes (mais je suis sûr que c'est écrit dans ce livre). Cependant, il me semble que ça s'applique très bien au détail de l'activité de développeur. Parce que si Nicolas décrit bien la charge cognitive au niveau organisationnel, elle s'applique sans doute particulièrement bien au niveau du code qu'on écrit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quand on écrit du code, on a en effet une charge cognitive pertinente, qui correspond à l'algorithme qu'on est en train de coder, et une charge cognitive externe, qui correspond à la complexité induite dans notre code, ou notre travail, par les outils qu'on utilise. Par exemple, de mon point de vue, des outils comme Spring ou Git sont de ce point de vue terriblement mauvais : dans les deux cas, on doit se plier à la méthode de l'outil pour pouvoir l'utiliser, quand on voudrait laisser notre travail avancer à son rythme naturel. C'est sans doute pour ça qu'à titre personnel, je choisis souvent les interfaces graphiques, qui masquent la complexité technique sous les boutons. Et c'est sans doute aussi pour ça que je n'utilise jamais Spring en première intention, mais plutôt des trucs comme Vert.x, Quarkus, qui réduisent au contraire cette charge cognitive externe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et à mon avis, c'est peut-être le meilleur objectif qu'un développeur puisse se donner : créer des produits induisant aussi peu de charge cognitive que possible.</p>
+<!-- /wp:paragraph -->
+++++

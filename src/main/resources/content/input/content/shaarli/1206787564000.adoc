@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Exporting photos from iPhoto for use on your web site using Automator on The uber geeks
+:jbake-tags: iphoto,macosx,tutorial,documentation,scripting,photographie,_mois_mars,_année_2008
+:jbake-date: 2008-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1206787564000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftheubergeeks.net%2F2006%2F10%2F06%2Fexport-for-web%2F&searchtags=iphoto+macosx+tutorial+documentation+scripting+photographie+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://theubergeeks.net/2006/10/06/export-for-web/[Exporting photos from iPhoto for use on your web site using Automator on The uber geeks]
+
+Un workflow automator qui devrait me permettre d'exporter "facilement" les photos dans un dossier, pour ensuite pouvr "facilement" les envoyer au développement.

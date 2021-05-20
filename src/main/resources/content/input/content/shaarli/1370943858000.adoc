@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MAKE | Arduino Uno vs BeagleBone vs Raspberry Pi
+:jbake-tags: web,comparatif,beagleboard,raspberrypi,arduino,@toread,_mois_juin,_année_2013
+:jbake-date: 2013-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1370943858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.makezine.com%2F2013%2F04%2F15%2Farduino-uno-vs-beaglebone-vs-raspberry-pi%2F&searchtags=web+comparatif+beagleboard+raspberrypi+arduino+%40toread+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blog.makezine.com/2013/04/15/arduino-uno-vs-beaglebone-vs-raspberry-pi/[MAKE | Arduino Uno vs BeagleBone vs Raspberry Pi]
+
+Un comparatif MAKE des trois leaders du marché des ordi-hackers (je sais même pas quel nom donner à ces drôles de bestioles juste bonnes à faire des serveurs web)

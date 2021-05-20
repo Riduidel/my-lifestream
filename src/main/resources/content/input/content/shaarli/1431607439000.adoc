@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lessons Learned in Software Development | Henrik Warne's blog
+:jbake-tags: programming,méthode,culture,_mois_mai,_année_2015
+:jbake-date: 2015-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1431607439000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhenrikwarne.com%2F2015%2F04%2F16%2Flessons-learned-in-software-development%2F&searchtags=programming+m%C3%A9thode+culture+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://henrikwarne.com/2015/04/16/lessons-learned-in-software-development/[Lessons Learned in Software Development | Henrik Warne's blog]
+
+La plupart des leçons de cet article, je les ai aussi apprises à la dure. Et elles valent toutes le coup.

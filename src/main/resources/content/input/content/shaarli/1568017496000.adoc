@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Multi-Dimensional Analog Literals in C++
+:jbake-tags: programming,c++,syntax,concepts,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568017496000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.eelis.net%2FC%2B%2B%2Fanalogliterals.xhtml&searchtags=programming+c%2B%2B+syntax+concepts+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.eelis.net/C++/analogliterals.xhtml[Multi-Dimensional Analog Literals in C++]
+
+J'ignorais que C++ permettait ça. Et là, je suis choqué. Comment pourrai-je atteindre ce niveau de représentativité en Java/Rust/Javascript ?

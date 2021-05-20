@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Polhemspriset 2017 | daniel.haxx.se
+:jbake-tags: open-source,_mois_oct.,_année_2017
+:jbake-date: 2017-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1508312089000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdaniel.haxx.se%2Fblog%2F2017%2F10%2F16%2Fpolhemspriset-2017%2F&searchtags=open-source+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://daniel.haxx.se/blog/2017/10/16/polhemspriset-2017/[Polhemspriset 2017 | daniel.haxx.se]
+
+open source is eating the world ? C'est quand même la très grande classe pour l'auteur de curl.

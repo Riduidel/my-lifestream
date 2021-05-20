@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: c9fe/22120: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+:jbake-tags: web,histoire,plugin,mémoire,ergonomie,_mois_févr.,_année_2021
+:jbake-date: 2021-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1612263844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fc9fe%2F22120&searchtags=web+histoire+plugin+m%C3%A9moire+ergonomie+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/c9fe/22120[c9fe/22120: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.]
+
+J'ai souvent rêvé d'avoir un historique qui survivre à internet, c'est trèèèèès cool (et beaucoup plus utilisable que les sites initiaux). Vivement que ce soit compatible avec Firefox !

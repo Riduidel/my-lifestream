@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dual SIM + micro-SD Hack | DotMana
+:jbake-tags: hack,téléphone,mémoire,_mois_août,_année_2019
+:jbake-date: 2019-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1566482241000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dotmana.com%2Fweblog%2F2019%2F08%2Fdual-sim-micro-sd-hack%2F&searchtags=hack+t%C3%A9l%C3%A9phone+m%C3%A9moire+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.dotmana.com/weblog/2019/08/dual-sim-micro-sd-hack/[Dual SIM + micro-SD Hack | DotMana]
+
+Le hack physique pour faire rentrer une carte SD et deux cartes Sim dans les téléphones qui acceptent l'un ou l'autre est ... bien sale

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Graceful Shutdown of Java Apps Under Docker - These Things Happen
+:jbake-tags: programming,java,conteneur,shutdown,_mois_juin,_année_2018
+:jbake-date: 2018-06-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1528438431000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdyanarose.github.io%2Fblog%2F2017%2F08%2F26%2Fgraceful-shutdown-of-java-apps-under-docker%2F&searchtags=programming+java+conteneur+shutdown+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://dyanarose.github.io/blog/2017/08/26/graceful-shutdown-of-java-apps-under-docker/[Graceful Shutdown of Java Apps Under Docker - These Things Happen]
+
+Et pour la blague, comment arrêter une appli java dans un conteneur quand le conteneur s'arrête, c'est croquignolet ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pierre C on Twitter: "Slides (https://t.co/LPwC3JoNxG PDF) and video (https://t.co/Vq7jL5Wdu9) of my presentation "Security, Performance: pick one?" at #pts18 are online #rustlang #performance"
+:jbake-tags: web,présentation,sécurité,performance,rust,_mois_juil.,_année_2018
+:jbake-date: 2018-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1531203914000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpollux7%2Fstatus%2F1016272921575215104&searchtags=web+pr%C3%A9sentation+s%C3%A9curit%C3%A9+performance+rust+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/pollux7/status/1016272921575215104[Pierre C on Twitter: "Slides (https://t.co/LPwC3JoNxG PDF) and video (https://t.co/Vq7jL5Wdu9) of my presentation "Security, Performance: pick one?" at #pts18 are online #rustlang #performance"]
+
+Quand je lis ce genre de présentation Rust, j'ai l'impression de revenir au moment où je commençai à comprendre le Java (il y a presque 20 ans). Ca fait du bien !

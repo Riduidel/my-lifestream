@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Version 3 - ScrapeTorrent.com
+:jbake-tags: bittorrent,download,p2p,search,_mois_sept.,_année_2010
+:jbake-date: 2010-09-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1285659447000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fscrapetorrent.com%2Fv3%2F&searchtags=bittorrent+download+p2p+search+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://scrapetorrent.com/v3/[Version 3 - ScrapeTorrent.com]
+
+Un exwcellent site de recherche de torrents. Joli, bien achalandé, il trouve à peu près tout ce qu'on peut chercher.

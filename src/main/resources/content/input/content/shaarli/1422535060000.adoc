@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EitherMouse 0.59 - Multiple mice, individual settings... - Scripts - AutoHotkey Community
+:jbake-tags: software,freeware,windows,mouse,_mois_janv.,_année_2015
+:jbake-date: 2015-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1422535060000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.autohotkey.com%2Fboard%2Ftopic%2F44468-eithermouse-059-multiple-mice-individual-settings%2F&searchtags=software+freeware+windows+mouse+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.autohotkey.com/board/topic/44468-eithermouse-059-multiple-mice-individual-settings/[EitherMouse 0.59 - Multiple mice, individual settings... - Scripts - AutoHotkey Community]
+
+Un chouette utilitaire pour configurer plusieurs souris sur un même ordinateur. En bonus il permet de facilement changer les boutons entre gaucher et droitier. via http://superuser.com/q/439642/30716

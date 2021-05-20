@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gödel, Escher, Bach. Les Brins D'une Guirlande Eternelle
+:jbake-tags:  art, mathématiques, musique, rayon-emprunt,_année_2011,_mois_mars,_note_5,rayon-science,read
+:jbake-date: 2011-03-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782100054350.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/24118
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Il est bien rare de découvrir un ouvrage qui nous transporte littéralement dans des mondes nouveaux grâce à l'ampleur de son érudition, à la beauté et à la joie créatrice de son style et, par-dessus tout, grâce à son pouvoir de lier entre eux des domaines de la connaissance apparemment totalement étranger les uns aux autres. <br /><br /><b>Gödel, Escher, Bach</b> est l'un de ces livres. Un jeune et brillant professeur d'informatique établit des liens entre les gravures d'Escher, la musique de Bach et la logique mathématique. Il nous rend intelligibles des similitudes cachées entre des domaines aussi variés que la biologie, la psychologie, la physique, la linguistique et éclaire l'un des mystères de la philosophie scientifique moderne : notre apparente inaptitude à comprendre la nature de nos propres processus de pensée.<br /><br />Cette recherche nous renvoie aux célèbres paradoxes des anciens Grecs, mais aussi à l'apport révolutionnaire du mathématicien Kurt Gödel. Dans les deux cas, elle aboutit au phénomène d'auto-référence : tout langage, tout programme d'ordinateur, tout processus de pensée, lorsqu'il s'exprime à propos de lui-même, crée une structure comparable aux miroirs se réfléchissant à l'infini.<br /><br /><i>"Extraordinaire livre, comme on en lit un tous les dix ans. Un de ces textes phares dont on sort transformé, parce qu'on a comppris quelque chose d'essentiel..."</i> Jacques Attali<br /><br /><br />Né à New York en 1945, DOUGLAS HOFSTADTER est le fils de Robert Hofstadter, prix Nobel de physique. Il étudie les mathématiques et la physique dans différentes universités aux Etats-Unis et notamment au Laboratoire d'Intelligence Artificielle du MIT.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3034502.html[Douglas R. Hofstadter]
+* link:../authors/1582439.html[Jacqueline Henry]
+* link:../authors/603230.html[Robert French]
+
+
+
+## Review
+
+++++
+Ca fait longtemps que je n'ai pas mis aussi longtemps à lire un livre. A bien y réfléchir, c'est peut-être la première fois qu'il me faut plus d'un mois pour en lire un.<br/>Cela dit, il ne s'agit pas de n'importe quel roman. Ni même de n'importe quel livre.<br/>Dans celui-ci, l'auteur illumine de nombreux sujets de la lumière du théorème d'incomplétude de Gödel. Ca part des systèmes formels pour, évidement, passer par l'informatique avant d'aller se promener du côté de la génétique, des organisations humaines, voire même de notre vision du monde.<br/>Mais avant tout, le théorème d'incomplétude de Gödel, c'est quoi ?<br/>Eh bien c'est "simplement" l'expression dans un système formel dy syllogisme bien connu "cette phrase est fausse" : si elle est fausse, elle est vraie, et réciproquement. Notre esprit survit à cette contradiction (parce qu'il est assez contradictoire), mais un système formel, conçu donc pour exprimer des vérités, commence à peiner quand il devient assez puissant pour traduire ce genre de phrase.<br/>Pour nous expliquer ça, Hofsdater va d'abord nous expliquer les systèmes formels, avant de pouvoir nous montrer "avec les mains", comme disait un de mes profs, ce qui fait le sel de la démonstration de ce théorème.<br/>Et bien sûr, il conclura son ouvrage avec des exemples d'application.<br/>Et Bach et Escher ? Eh bien ils illustrent la notion à la base de ce théorème : l'auto-référence.<br/>Une notion qui, d'ailleurs, sera utilisé dans la seconde partie de ce monument de la vulgarisation scientifique : quand l'auteur s'attaquera aux implications de ce théorème dans le domaine de l'IA, qui, selon lui (et, d'un certain point de vue, selon moi également) est auto-référente par construction.
+++++

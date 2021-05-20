@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The FreeImage Project
+:jbake-tags: graphics,image,library,open-source,programming,software,exif,_mois_mars,_année_2008
+:jbake-date: 2008-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1205081629000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffreeimage.sourceforge.net%2Findex.html&searchtags=graphics+image+library+open-source+programming+software+exif+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://freeimage.sourceforge.net/index.html[The FreeImage Project]
+
+Oh, tiens, une alternative à cette pourriture galopante qu'est ImageMagick ?

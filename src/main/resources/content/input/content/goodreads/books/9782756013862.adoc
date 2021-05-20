@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dommy (Travis, #9)
+:jbake-tags:  combat, cyberpunk,_année_2012,_mois_mars,_note_4,rayon-bd,read
+:jbake-date: 2012-03-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756013862.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331375973l/6556434._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1331375973l/6556434._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/6556434
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+En proie à l'alcoolisme, Travis émerge à peine... Vlad, qui ne ménage pas ses efforts pour le secouer, l'entraîne sur les traces de Haussen, responsable de la pollution des centres de traitement des eaux de la Lune. Ce dernier détient leur ami Pacman et prépare une opération de grande envergure... Tous les moyens seront bons pour l'éliminer, même solliciter l'aide de la redoutable tueuse, Miss Thundercat.
+</div>
+++++
+
+
+## Authors
+* link:../authors/503980.html[Christophe Quet]
+* link:../authors/503981.html[Fred Duval]
+* link:../authors/989161.html[Pierre Schelle]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+Après avoir récupéré la belle miss Thunder, nos joyeux compères se mettent en chasse des indices qui devraient les amener à Pacman et incidement à sauver le monde. Ca passer par l'attaque d'un manoir dans la franc eprofonde avec profusion de flingues et d'action, et c'est bien.<br/>On retrouve aussi les deux joyeux hackers qui ont fait tout le sel de Travis Karmatronics, et c'est bien.<br/>Vivement la fin de cette histre !
+++++

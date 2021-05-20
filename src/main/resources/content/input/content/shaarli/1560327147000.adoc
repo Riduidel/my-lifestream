@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christin Gorman on Twitter: "I'm going to spoil it for you because it's so damn important. Microsoft did a scientific study - based on MS Vista code and found that the best predictor of bugs was: ORGANIZATIONAL COMPLEXITY More people = worse code More departments = worse code Higher turnover = worse code"
+:jbake-tags: organisation,informatique,bug,science,_mois_juin,_année_2019
+:jbake-date: 2019-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1560327147000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FChristinGorman%2Fstatus%2F1137996442214252544&searchtags=organisation+informatique+bug+science+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ChristinGorman/status/1137996442214252544[Christin Gorman on Twitter: "I'm going to spoil it for you because it's so damn important. Microsoft did a scientific study - based on MS Vista code and found that the best predictor of bugs was: ORGANIZATIONAL COMPLEXITY More people = worse code More departments = worse code Higher turnover = worse code"]
+
+SAY SURPRENANT ! Bon, le fait de le démontrer est néanmoins super cool

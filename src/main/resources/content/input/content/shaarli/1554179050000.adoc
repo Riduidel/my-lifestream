@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SCG: JExample
+:jbake-tags: test,programming,framework,java,_mois_avr.,_année_2019
+:jbake-date: 2019-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1554179050000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fscg.unibe.ch%2Fresearch%2Fjexample&searchtags=test+programming+framework+java+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://scg.unibe.ch/research/jexample[SCG: JExample]
+
+J'aime beaucoup l'idée de JExample ... Et j'aimerais bien voir si on peut le réécrire "au-dessus" de JUnit 5

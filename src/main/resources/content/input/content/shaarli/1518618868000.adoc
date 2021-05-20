@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rayna on Twitter: "Pour la #SaintValentin, sensibilisez-vous à la sécurité numérique : on utilise un gestionnaire de mots de passe lequel permet entre autres de générer des mots de passe complexes et aléatoires, uniques pour chaque service utilisé. Comme la serrure pour votre maison est unique ;)… https://t.co/UjMo70DtrA"
+:jbake-tags: web,sécurité,bluetooth,sextoy,_mois_févr.,_année_2018
+:jbake-date: 2018-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1518618868000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FMaliciaRogue%2Fstatus%2F963728938672340992&searchtags=web+s%C3%A9curit%C3%A9+bluetooth+sextoy+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/MaliciaRogue/status/963728938672340992[Rayna on Twitter: "Pour la #SaintValentin, sensibilisez-vous à la sécurité numérique : on utilise un gestionnaire de mots de passe lequel permet entre autres de générer des mots de passe complexes et aléatoires, uniques pour chaque service utilisé. Comme la serrure pour votre maison est unique ;)… https://t.co/UjMo70DtrA"]
+
+Très bonne démonstration des dangers de l'IoT. Cette dame pourrait venir faire des confs dans ma boîte,c e serait chouette !

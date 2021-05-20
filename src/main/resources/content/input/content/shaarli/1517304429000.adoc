@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Parisa Tabriz on Twitter: "Code gets rewritten all the time. Don't get too attached to it. The ideas are all that matter. ☸️👩‍💻"
+:jbake-tags: citation,programming,_mois_janv.,_année_2018
+:jbake-date: 2018-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1517304429000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flaparisa%2Fstatus%2F957384254014410753&searchtags=citation+programming+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/laparisa/status/957384254014410753[Parisa Tabriz on Twitter: "Code gets rewritten all the time. Don't get too attached to it. The ideas are all that matter. ☸️👩‍💻"]
+
+Et de la même manière, cette phrase devra aussi figurer quelque part

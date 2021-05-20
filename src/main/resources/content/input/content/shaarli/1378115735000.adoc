@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bee Orchid
+:jbake-tags: science,biologie,mémoire,évolution,_mois_sept.,_année_2013
+:jbake-date: 2013-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1378115735000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1259%2F&searchtags=science+biologie+m%C3%A9moire+%C3%A9volution+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://xkcd.com/1259/[Bee Orchid]
+
+Alors là c'est vraiment une très belle histoire de biologie

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Test & Code : Python Testing for Software Engineering 116: 15 amazing pytest plugins - Michael Kennedy
+:jbake-tags: python,codingame,programming,test,plugin,_mois_juin,_année_2020
+:jbake-date: 2020-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1591802553000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftestandcode.com%2F116&searchtags=python+codingame+programming+test+plugin+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://testandcode.com/116[Test & Code : Python Testing for Software Engineering 116: 15 amazing pytest plugins - Michael Kennedy]
+
+Il y a là-dedans des choses très utiles pour valider du Python pour Codingame

@@ -1,0 +1,274 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sécuriser son API au chtijug
+:jbake-tags: oauth2,rest,sécurité,web,_mois_sept.,_année_2019
+:jbake-date: 2019-09-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/09/12/securiser-son-api-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/09/12/securiser-son-api-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 172 205 344 883 400 705" class="date">12 sept. 2019 à 19:48:27</a>
+
+	<span class="content">
+	
+	<span class="text">🤓 On a du monde pour la rentrée des jugs. 👍 Première fois chez @EFFICOMLILLE ! Merci @Decathlon pour le sponsoring 🍺 https://t.co/0X73vM17nu</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EESCizdXUAAjIpG.jpg" alt="1 172 205 337 463 705 600"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+		<span class="name">Ch'ti JUG</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/chtijug/status/1 172 205 344 883 400 705" class="date">12 sept. 2019 à 19:48:27</a>
+
+	<span class="content">
+	
+	<span class="text">🤓 On a du monde pour la rentrée des jugs. 👍 Première fois chez @EFFICOMLILLE ! Merci @Decathlon pour le sponsoring 🍺 https://t.co/0X73vM17nu</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EESCizdXUAAjIpG.jpg" alt="1 172 205 337 463 705 600"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Pour la rentrée, on va parler sécurisation des APIs. Jusqu’où ira-ton ? Ce sera avant tout un retour d’expérience de ce qui est arrivé chez Decathlon.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il ya donc maintenant des API partout, parce que les entreprises ont pivoté pour ouvrir les systèmes via ces APIs. Du coup évidement la sécurité ne se passe plus de la même manière (on ne peut plus concevoir le SI comme une citadelle). Chez l’OWASP, ils mettent les API dans le futur top 10 des moyens d’attaque, pas parce que c’est dangereux, mais parce que c’est un bon moyen d’accès. Evidement, il y a tout un tas de risques typiques (déni de service, perte de réputation, …​)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="trueles_basiques">Les basiques</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Avant tout, pensez à exposer en HTTPS avec du TLS 1.2. Passez les données sensibles dans des headers, plutôt que dans les paramètres de requêtes (parce que les logs restent présents longtemps).&#160;<strong>Ne mettez pas les secrets dans le code source !</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans le top 10 2017 de l’OWASP, on trouve évidement l’injection Javascript/SQL. Ne construisez donc pas vos requêtes SQL à la main. Bon, il faut bien noter que les frameworks actuels empêchent ça depuis longtemps. Hélas, ça réapparait dès que le développeur écrit un morceau de requête à la main. Le site de l’OWASP fournit par ailleurs des informations bien plus complètes sur les injections et les défauts de sécurité.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="trueoutillage_de_base">Outillage de base</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Evidement, mettre en place un API manager est une bonne pratique, parce que facilite la gestion de la sécurité. De la même manière, utiliser un identity provider pour stocker l’identité, l’authentification, l’autorisation est vraiment bien.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="trueidentity_provider">Identity provider</h3>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="trueidentification">Identification</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ne confondez pas l’authentification et l’autorisation (ou en HTTP le 401 et le 403) ! Sur ces sujets, il y a deux éléments faciles à prendre en compte</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>FIDO plus dédiée à l’authentification (qui fournit aussi les clés matérielles). Comme dans OAuth2, on trouve de plus en plus de diagrammes de séquences normalisant les processus d’authentification.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et les captchas, qui limitent les attaques en force brute.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="trueautorisation">Autorisation</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ici, on va parler d’OAuth2, et son extension OpenId Connect (qui descend d’OpenId, dont la promesse était d’avoir un identifiant unique partout). Le but d’OAuth2, c’est de donner à l’utilisateur un token. Ce token se récupère à travers des flows, qui nécessitent différents rôles :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>le&#160;<strong>client</strong>&#160;fait la requête (c’est l’application cliente)</li><li>le resource server expose les données</li><li>le resource owner est le propriétaire de la donnée exposée (qui n’est pas forcément le même que le resource server).</li><li>l’authorization server vérifie les credentials de l’utilisateur (Google, Facebook, Keycloak).</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>A partir de là, on définit différents flows</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Le&#160;<strong>code flow</strong>&#160;: dans ce cas, c’est le resource server qui envoie le code (envoyé par le client) à l’authorization server pour que celui-ci envoie le token</li><li>Le&#160;<strong>code + PKCE</strong>, spécifique aux applications mobiles (et en particulier à Android) qui existe essentiellement parce que toute les applications peuvent écouter tous les ports en parallèle. On va ajouter au code un PKCE, généré par l’application cliente, qui permettra d’obtenir le token.</li><li>le flow&#160;<strong>implicit</strong>&#160;est&#160;<strong>déprécié</strong>. Il faut le remplacer par un code + PKCE.</li><li>Entre deux serveurs, on peut utiliser le&#160;<strong>client credentials</strong>. C’est un serveur qui va demander à l’authorization server des credentials directement.</li><li>Quand le code est totallement maîtrisé, on peut utiliser le&#160;<strong>resource owner password credential</strong>. Même si on maîtrise la production de l’application, il est assez risqué, puisque si un attaquant obtient l’application, il peut attaquer le serveur facilement.</li><li>Pour les matériels déployés chez le client (comme une freebox), il y a un&#160;<strong>device</strong>&#160;flow où un code à 4 chiffres est exposé par le matériel pour que l’utilisateur le saisisse dans son navigateur. C’est utilisé par exemple par Plex pour les applications externes (comme celle de la freebox).</li><li>Lorsqu’on utilise une borne, on peut utiliser le&#160;<strong>client initiated backchannel authentication</strong>.</li><li>Depuis un téléphone portable, on peut faire du SSO avec le&#160;<strong>Native SSO</strong>. La première application va demander un secret SSO, qui devra être déposé dans un espace sécurisé du mobile. Et les autres pourront réutiliser ce secret pour se connecter.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Pour une API, le token produit lors de ces flows sera passé en entête HTTP pour authentifier l’utilisateur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="truedes_faiblesses">Des faiblesses</h4>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="truel_aglorithme_de_chifrement">L’aglorithme de chifrement</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pas dans OAuth2, mais plus dans certains éléments de base. Par exemple, choisissez des algorithmes de chiffrement asymétriques, parce que ça complique considérablement la vie aux attaquants.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="truela_redirect_uri">La redirect URI</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Le serveur d’autorisation doit valider les urls de redirection, afin d'éviter que les token fuitent vers d’autres applications.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="truele_state_oauth2">Le state OAuth2</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Le state est toujours annoncé comme optionnel. Considérez qu’il est obligatoire, parce qu’il permet de limiter les attaques. Par exemple, dans les librairies d’Auth0, c’est le cas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="truele_logout">Le logout</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lorsqu’on se déconnecte, le navigateur conserve un cookie de l’identity provider, ce qui limite évidement la capacité à se délogger réellement (sauf avec des extensions comme Cookie Autodelete).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="trueles_scopes">Les scopes</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Les scopes permettent à l’application cliente de demander à l’utilisateur le consentement pour l’accès à des données. A l'ère du RGPD, c’est indispensable ! En revanche, c’est une donnée personnelle, et pas une donnée partagée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":5} -->
+<h5 id="trueles_audiences">Les audiences</h5>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>On peut aussi créer des tokens utilisables par plusieurs API, pour peu que le token définisse une audience plus large.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 id="trueapi_management">API Management</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>La brique d’autorisation est là pour gérer des audiences et des scopes, mais pas pour gérer le métier. Une mauvaise pratique est évidement de déporter le métier de l’application dans l’API Manager. En revanche, un API manager fournit un bon paquet de features</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="trueapi_key">API key</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>La clé d’API n’est pas de la sécurité. En revanche, elle est très utile. On peut créer des analytics, des quotas, …​ mais pas authentifier.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="truegestion_des_limites">Gestion des limites</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>L’API Manager permet de créer des rate limit (nombres de requêtes/secondes) ou des quotas (nombre de requêtes/jour ou par mois) qui évitent au client d’effondrer le serveur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="truecors">CORS</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>L’API Manager va faciliter l’implémentation de la fameuse "same origin policy" implémentée par les navigateurs. Pour ça, aussi bien l’appel à l’API qu’au front-end proviendra de la même URL, par exemple, mais des règles plus fines sont possibles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="truecircuit_breaker">Circuit breaker</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Encore un truc qui est portable par l’API Manager, pour peu que l’API dispose d’un endpoint de healthcheck.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="trueroutage_dynamique">Routage dynamique</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>On peut faire du routage dynmaique, ce qui permet par exemple de porter de l’A/B Testing, ou d’autres fonctionnalités de routage (par exemple du routage géographique).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4 id="trueobservabilit">Observabilité</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Puisque l’API Manager voit les différentes requêtes, il peut aussi permettre de mesurer les appels, et de fournir le top 10 des requêtes, etc, …​</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="trueconclusion">Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Alexandre nous a présenté ces slides</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/slideshare {"url":"https://www.slideshare.net/AlexandreFaria11/secure-your-api-from-basics-to-beyond-170861128","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-1-1 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-slideshare wp-block-embed is-type-rich wp-embed-aspect-1-1 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.slideshare.net/AlexandreFaria11/secure-your-api-from-basics-to-beyond-170861128
+</div></figure>
+<!-- /wp:core-embed/slideshare -->
+
+<!-- wp:paragraph -->
+<p>Et vous pouvez trouver les exemples dans <a href="https://github.com/lusoalex/talk-api-security">ce repository GitHub</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je ne m’attendais pas à avoir une présentation généraliste sur l'écosystème autour des API. C’est intéressant, évidement, mais ça n’adresse pas à mon avis le sujet d’une manière complète : qu’est-ce qui fait une API sûre ? quels sont les risques ? Je n’ai aps eu de réponse à ces questions.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Senior Oops Engineer sur Twitter : "I mean yes automation eliminates human errors in the sense that those errors will now be performed by machines" / Twitter
+:jbake-tags: automatisation,informatique,citation,erreur,_mois_août,_année_2020
+:jbake-date: 2020-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1598297036000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FReinH%2Fstatus%2F1280966650074820608&searchtags=automatisation+informatique+citation+erreur+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ReinH/status/1280966650074820608[Senior Oops Engineer sur Twitter : "I mean yes automation eliminates human errors in the sense that those errors will now be performed by machines" / Twitter]
+
+C'est une description tout à fait juste des bienfaits de l'automatisation ...

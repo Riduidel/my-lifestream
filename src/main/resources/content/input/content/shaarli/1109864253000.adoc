@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AskTog: Make Your Mac a Monster Machine
+:jbake-tags: web,macosx,customize,_mois_mars,_année_2005
+:jbake-date: 2005-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1109864253000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.asktog.com%2Fcolumns%2F060MonsterMac.html&searchtags=web+macosx+customize+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.asktog.com/columns/060MonsterMac.html[AskTog: Make Your Mac a Monster Machine]
+
+In case I ever switch to a Mac

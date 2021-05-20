@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Large pages and Java
+:jbake-tags: java,performance,mémoire,system,_mois_mai,_année_2021
+:jbake-date: 2021-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1621518080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkstefanj.github.io%2F2021%2F05%2F19%2Flarge-pages-and-java.html&searchtags=java+performance+m%C3%A9moire+system+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://kstefanj.github.io/2021/05/19/large-pages-and-java.html[Large pages and Java]
+
+Gagner 10% de performances sur les applis Java avec un switch ? La promesse est aléchante ...

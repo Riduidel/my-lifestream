@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mickael Istria sur Twitter : "I'm amazed by the amount of people who think VSCode is the first open-source, customizable, extensible and community-empowering IDE... Kids, listen to grandpa: that already existed for decades; it's not new problem nor new solutions. It's yet-another-form of the same old thing."
+:jbake-tags: citation,editor,plugin,histoire,_mois_oct.,_année_2019
+:jbake-date: 2019-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1572024709000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmickaelistria%2Fstatus%2F1187395893357666305&searchtags=citation+editor+plugin+histoire+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/mickaelistria/status/1187395893357666305[Mickael Istria sur Twitter : "I'm amazed by the amount of people who think VSCode is the first open-source, customizable, extensible and community-empowering IDE... Kids, listen to grandpa: that already existed for decades; it's not new problem nor new solutions. It's yet-another-form of the same old thing."]
+
+En l’occurrence, je pense toujours beaucoup à emacs quand j'utilise VSCode. Sauf qu'emacs n' \*jamais\* utilisé autant de RAM ...

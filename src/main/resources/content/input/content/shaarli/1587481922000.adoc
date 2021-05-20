@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Getting Started | Font Awesome
+:jbake-tags: font,windows,icon,_mois_avr.,_année_2020
+:jbake-date: 2020-04-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1587481922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffontawesome.com%2Fhow-to-use%2Fon-the-desktop%2Fsetup%2Fgetting-started&searchtags=font+windows+icon+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started[Getting Started | Font Awesome]
+
+Je découvre avec étonnement qu'on peut installer font-awesome comme une police de caractère sur son OS ... C'est ... cool ? (même si je ne m'en sers que dans des documents web)

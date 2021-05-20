@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: google/auto: A collection of source code generators for Java.
+:jbake-tags: java,programming,annotation,générateur,code,library,_mois_mai,_année_2019
+:jbake-date: 2019-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1558512227000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgoogle%2Fauto&searchtags=java+programming+annotation+g%C3%A9n%C3%A9rateur+code+library+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/google/auto[google/auto: A collection of source code generators for Java.]
+
+Je ne savais pas (avant d'utiliser Apache Beam) que Google avait développé son alternative à Lombok. C'est à peu près aussi utile que l'original ... Cela dit la génération de descripteurs de services/factories me semble une bonne idée.

@@ -1,0 +1,76 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le management visuel est une approche réactionnaire
+:jbake-tags: agile,organisation,_mois_nov.,_année_2019
+:jbake-date: 2019-11-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/11/17/le-management-visuel-est-une-approche-reactionnaire.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/11/17/le-management-visuel-est-une-approche-reactionnaire/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a des articles qu'on ne veut pas écrire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Des choses où on se dit que non, vraiment, ça n'est pas bien d'écrire ça.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais quand même.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Laissez-moi vous expliquer. D'abord, réactionnaire, c'est facile (tout au moins d'après <a href="https://fr.wiktionary.org/wiki/r%C3%A9actionnaire">le wiktionnaire</a>)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p><em>(Politique)</em> Qui <a href="https://fr.wiktionary.org/wiki/servir">sert</a> à <a href="https://fr.wiktionary.org/wiki/op%C3%A9rer">opérer</a> une <a href="https://fr.wiktionary.org/wiki/r%C3%A9action">réaction</a> ; qui <a href="https://fr.wiktionary.org/wiki/travailler">travaille</a> à une <a href="https://fr.wiktionary.org/wiki/r%C3%A9action">réaction</a> politique : à un mouvement d’opinion qui agit dans un sens contraire au mouvement qui a précédé. </p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, qui va contre les tendances précédentes.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et le management visuel ? C'est tout aussi facile, c'est l'art de faire fleurir les tableaux de bords/les panneaux d'avancement agile dans les bureaux. Regardez donc ces belles images d'efficacité affichée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://www.pepite-sc.com/content/uploads/2016/03/management-visuel.jpg" alt="" /><figcaption>Ce moment où tu remplaces ton feu de cheminée par des post-its ...</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Bon, maintenant que j'ai posé les mots, pourquoi c'est réactionnaire ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nous sommes en 2020, d'accord ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et à un moment où on sait que la visioconférence, le télétravail, c'est bien, on choisit de rassembler les gens dans le même bureau (idéalement assez serrés) pour les motiver par un tableau blanc/feu de camp sur lequel on va faire avancer des tâches d'une façon dix fois efficaces que l'infâme Trello (ou que des solutions intelligentes comme <a href="https://github.com/features/project-management">GitHub Project management</a>). Alors pourquoi ça marche mieux ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sans doute à cause de "l'agile par la peur". L'agile par la peur, c'est la méthode que suivent les organisations qui font de l'agile alors qu'elles n'en veulent pas, mais parce qu'elles meurent par perte de talents sans ça (genre CapGemini qui fait du Scrum, quoi). L'agile apr la peur, c'est aussi quand on fait des daily stand-up pour que le chef de projet devenu PO puisse suivre les tâches de l'équipe. Et donc,d ans l'agile par la peur, le management visuel est très apprécié, parce qu'il permet au manager d'avoir sous les yeux tout ce que fait l'équipe, mais aussi (et surtout) toute l'équipe. Parce qu'il ne faut pas se leurrer, si les entreprises investissent dans les tableaux blancs plutôt que dans des logiciels collaboratifs, c'est aussi parce que ça force les équipes à être colocalisées, c'est-à-dire au bureau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, avec le management visuel, on peut dire aux gens qui font du télétravail "ok, mais tu viens pour le daily alors ?". Et d'un coup, ça détruit le télétravail et ça remet l'agile dans les pas des méthodes de "command and control" les plus classiques.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Zéro autonomie</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Zéro innovation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tout ça grâce à un tableau et des post-its.</p>
+<!-- /wp:paragraph -->
+++++

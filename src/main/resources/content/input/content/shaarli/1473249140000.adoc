@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A coffee with Arnaud Roques (creator of PlantUML)
+:jbake-tags: uml,programming,interview,java,_mois_sept.,_année_2016
+:jbake-date: 2016-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1473249140000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmodeling-languages.com%2Finterview-plantuml%2F&searchtags=uml+programming+interview+java+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://modeling-languages.com/interview-plantuml/[A coffee with Arnaud Roques (creator of PlantUML)]
+
+Chouette interview, surtout pour un utilisateur de PlantUML comme moi.

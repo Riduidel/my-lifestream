@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Slant - What are the best programming fonts?
+:jbake-tags: font,développeur,programming,_mois_sept.,_année_2013
+:jbake-date: 2013-09-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1378814728000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slant.co%2Ftopics%2F67%2F%7Ewhat-are-the-best-programming-fonts&searchtags=font+d%C3%A9veloppeur+programming+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.slant.co/topics/67/~what-are-the-best-programming-fonts[Slant - What are the best programming fonts?]
+
+Très chouette site référencant les polices de caractères pour développeurs. Personnellement, j'utilise Consolas avec les couleurs Solarized-light, et c'est très agréable (via http://sebsauvage.net/links/?Upi4wQ)

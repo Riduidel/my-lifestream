@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Gentle Introduction to SQL
+:jbake-tags: développement,documentation,freeware,guide,langage,software,SQL,technique,tutorial,_mois_févr.,_année_2007
+:jbake-date: 2007-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1170839423000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsqlzoo.net%2F&searchtags=d%C3%A9veloppement+documentation+freeware+guide+langage+software+SQL+technique+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://sqlzoo.net/[A Gentle Introduction to SQL]
+
+Un guide complet des différentes requêtes SQL, avec leurs déclinaisons dans les différents serveurs

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ylorant/Leelabot: An administration bot for Urban Terror
+:jbake-tags: open-source,urban-terror,software,server,bot,_mois_sept.,_année_2017
+:jbake-date: 2017-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1506528226000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fylorant%2FLeelabot&searchtags=open-source+urban-terror+software+server+bot+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/ylorant/Leelabot[ylorant/Leelabot: An administration bot for Urban Terror]
+
+Heeeeeey ! Et le bot pour avoir une admin sympa !

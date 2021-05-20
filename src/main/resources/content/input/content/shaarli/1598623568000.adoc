@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: https://dl.acm.org/doi/pdf/10.1145/3386326
+:jbake-tags: groovy,programming,langage,histoire,culture,_mois_août,_année_2020
+:jbake-date: 2020-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1598623568000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdl.acm.org%2Fdoi%2Fpdf%2F10.1145%2F3386326&searchtags=groovy+programming+langage+histoire+culture+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://dl.acm.org/doi/pdf/10.1145/3386326[https://dl.acm.org/doi/pdf/10.1145/3386326]
+
+Je viens d'entendre parler de ce livre par les castcodeurs ... et c'est vraiment cool d'avoir un livre sur la longue et belle histoire du Groovy !

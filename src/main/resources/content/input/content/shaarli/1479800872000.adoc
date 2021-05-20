@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: "Debugging is like being the detective in a crime movie where you are also the murderer - Filipe Fortes"
+:jbake-tags: citation,programming,debug,_mois_nov.,_année_2016
+:jbake-date: 2016-11-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1479800872000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F800962093306494977&searchtags=citation+programming+debug+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/800962093306494977[Mario Fusco on Twitter: "Debugging is like being the detective in a crime movie where you are also the murderer - Filipe Fortes"]
+
+Très juste

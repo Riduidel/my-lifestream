@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Handle the Problem of Too Many Classes
+:jbake-tags: java,programming,concepts,oop,_mois_mars,_année_2017
+:jbake-date: 2017-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1488877669000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.yegor256.com%2F2017%2F02%2F28%2Ftoo-many-classes.html&searchtags=java+programming+concepts+oop+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.yegor256.com/2017/02/28/too-many-classes.html[How to Handle the Problem of Too Many Classes]
+
+Ce mec écrit des trucs vraiment intéressants, d'autant plus que je ne suis souvent pas d'accord au début.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TNPI - Homemade (Do It Yourself) .mac using mod_dav and Apache
+:jbake-tags: web,tutorial,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1109772073000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tnpi.biz%2Fcomputing%2Fmac%2Ftips%2Fidisk%2F&searchtags=web+tutorial+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tnpi.biz/computing/mac/tips/idisk/[TNPI - Homemade (Do It Yourself) .mac using mod_dav and Apache]
+
+"How I created my own .mac replacement" by Matt Simerson

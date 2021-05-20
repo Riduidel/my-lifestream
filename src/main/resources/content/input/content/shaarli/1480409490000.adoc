@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean-Louis Rigau on Twitter: "Pour les tâches répétitives, utilisez une échelle de douleur de 1 à 10 comme au urgences et automatisé tout ce qui dépasse 5 ! #devopsrex"
+:jbake-tags: devops,automatisation,_mois_nov.,_année_2016
+:jbake-date: 2016-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1480409490000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjlrigau%2Fstatus%2F803194867312627712&searchtags=devops+automatisation+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/jlrigau/status/803194867312627712[Jean-Louis Rigau on Twitter: "Pour les tâches répétitives, utilisez une échelle de douleur de 1 à 10 comme au urgences et automatisé tout ce qui dépasse 5 ! #devopsrex"]
+
+Pas con du tout

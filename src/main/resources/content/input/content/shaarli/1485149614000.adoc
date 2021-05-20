@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les éditeurs scientifiques craignent de disparaître
+:jbake-tags: science,politique,_mois_janv.,_année_2017
+:jbake-date: 2017-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1485149614000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Feconomie%2Farticle%2F2017%2F01%2F21%2Fles-editeurs-scientifiques-craignent-de-disparaitre_5066509_3234.html&searchtags=science+politique+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.lemonde.fr/economie/article/2017/01/21/les-editeurs-scientifiques-craignent-de-disparaitre_5066509_3234.html[Les éditeurs scientifiques craignent de disparaître]
+
+Ah tiens, une bonne nouvelle : la recherche scientifique française sera donc disponible gratuitement.

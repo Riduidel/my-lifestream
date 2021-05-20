@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kody sur Twitter : "We made a video about launching fireworks over Wi-Fi for the 4th of July only to find out @YouTube gave us a strike because we teach about hacking, so we can't upload it. YouTube now bans: "Instructional hacking and phishing: Showing users how to bypass secure computer systems""
+:jbake-tags: youtube,censure,sécurité,_mois_juil.,_année_2019
+:jbake-date: 2019-07-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1562244607000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FKodyKinzie%2Fstatus%2F1146196570083192832&searchtags=youtube+censure+s%C3%A9curit%C3%A9+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/KodyKinzie/status/1146196570083192832[Kody sur Twitter : "We made a video about launching fireworks over Wi-Fi for the 4th of July only to find out @YouTube gave us a strike because we teach about hacking, so we can't upload it. YouTube now bans: "Instructional hacking and phishing: Showing users how to bypass secure computer systems""]
+
+OK, donc Youtube censure les vidéos de sécurité ... Le mouvement de vases communiquants vers peertube pourrait-il enfin commencer ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Consortium de Falsification du Réel
+:jbake-tags: serie
+:jbake-date: 2011-12-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Consortium_de_Falsification_du_Reel.adoc
+:jbake-source: https://www.goodreads.com/series/192341
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070355273.html[Les Falsificateurs]
+* link:../books/9782070124268.html[Les Éclaireurs]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "Something I have not mentioned enough is how much of the work at @clever_cloud is R&D. It pays off greatly, even with a small team. Sure, we could take an OTS solution and build on it. But we did 5 years ago what current solutions barely do. And it fits our needs https://t.co/VGIPXShk5g" / Twitter
+:jbake-tags: métier,informatique,france,_mois_sept.,_année_2019
+:jbake-date: 2019-09-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1568098286000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1171137389718323201&searchtags=m%C3%A9tier+informatique+france+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1171137389718323201[Geoffroy Couprie on Twitter: "Something I have not mentioned enough is how much of the work at @clever_cloud is R&D. It pays off greatly, even with a small team. Sure, we could take an OTS solution and build on it. But we did 5 years ago what current solutions barely do. And it fits our needs https://t.co/VGIPXShk5g" / Twitter]
+
+Et c'est la raison pour laquelle je trouve l'employeur CleverCloud très, mais alors très intéressant (mis à part le fait qu'à mon avis je m'y ferais démonter la tête)

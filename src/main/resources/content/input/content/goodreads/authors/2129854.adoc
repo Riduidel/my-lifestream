@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: S.G. Browne
+:jbake-tags: author
+:jbake-date: 2014-10-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2129854.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1368108117p5/2129854.jpg
+:jbake-source: https://www.goodreads.com/author/show/2129854
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070455256.html[Comment j'ai cuisiné mon père, ma mère ... et retrouvé l'amour]
+* link:../books/9782264070982.html[La destinée, la mort et moi, comment j'ai conjuré le sort]

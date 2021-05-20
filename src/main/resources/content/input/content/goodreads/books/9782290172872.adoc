@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tous les oiseaux du ciel
+:jbake-tags:  fantastique, ia, ville,_année_2019,_mois_déc.,_note_1,amour,read
+:jbake-date: 2019-12-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290172872.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578851465l/50405832._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578851465l/50405832._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/50405832
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Childhood friends Patricia Delfine, a witch, and Laurence Armstead, a mad scientist, parted ways under mysterious circumstances during middle school. But as adults they both wind up in near-future San Francisco, where Laurence is an engineering genius and Patricia works with a small band of other magicians to secretly repair the world’s ever growing ailments. But something is determined to bring them back together—to either save the world, or end it.
+</div>
+++++
+
+
+## Authors
+* link:../authors/4918514.html[Charlie Jane Anders]
+
+## Series
+* link:../series/All_the_Birds_in_the_Sky.html[All the Birds in the Sky]
+
+## Review
+
+++++
+Ce roman très américain raconte les histoires mêlées d'une femme et d'un homme, qui découvrent peu à peu qu'ils sont sorciers ou techniciens géniaux. Et cette alliance des contraires va leur permettre de sauver le monde.<br/>Dit comme ça, c'est intéressant, non ? Moi, en tout cas, ça m'a intéressé.<br/>En revanche, j'ai très très vite déchanté : la première partie de ce roman est en effet une trop longue introduction basée sur le poncif américain de la vie des loosers du collège. Parce qu'évidement, nos deux génies n'ont aucune vie sociale et se font maltraiter par tout le monde. C'est franchement atrocement pénible d'inintérêt.<br/>Et la suite, qui devrait éviter que cette introduction ne plombe tout, ne change en fait pas grand chose. Parce qu'une fois sortis de leur collège moisi, nos deux personnages continuent évidement à obéir aux ordres, quand bien même ils ont clairement les moyens  de changer les choses par eux-mêmes.<br/>Evidement, c'est un premier tome (sans doute d'une trilogie), mais tellement navrant que je n'ai aucune idée de prolonger l'expérience, alors pourtant qu'il y a une conclusion optimiste et vraiment bien trouvée. Dommage.
+++++

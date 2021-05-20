@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to play | Regex Crossword
+:jbake-tags: regexp,jeu,apprentissage,web,_mois_avr.,_année_2021
+:jbake-date: 2021-04-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1619704229000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fregexcrossword.com%2Fhowtoplay&searchtags=regexp+jeu+apprentissage+web+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://regexcrossword.com/howtoplay[How to play | Regex Crossword]
+
+Via les foufous de CleverCloud, un site pour jouer en apprenant les regexes.

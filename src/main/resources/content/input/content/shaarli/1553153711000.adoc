@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: toddmotto/public-apis: A collective list of free APIs for use in software and web development.
+:jbake-tags: web,rest,api,exemple,catalog,_mois_mars,_année_2019
+:jbake-date: 2019-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1553153711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftoddmotto%2Fpublic-apis&searchtags=web+rest+api+exemple+catalog+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/toddmotto/public-apis[toddmotto/public-apis: A collective list of free APIs for use in software and web development.]
+
+Une list très complète d'API utilisables facilement. C'est très cool quand on veut faire une démo, ou un TP

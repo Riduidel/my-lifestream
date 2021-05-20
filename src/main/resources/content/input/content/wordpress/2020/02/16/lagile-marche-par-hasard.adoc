@@ -1,0 +1,50 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'agile marche par hasard ?
+:jbake-tags: agile,science,_mois_févr.,_année_2020
+:jbake-date: 2020-02-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/02/16/lagile-marche-par-hasard.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/02/16/lagile-marche-par-hasard/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Le titre n'est pas de moi, mais vient de cette vidéo</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/youtube {"url":"https:\/\/www.youtube.com\/watch?v=-2IIrgZHPgM","type":"rich","providerNameSlug":"","className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed-youtube wp-block-embed is-type-rich wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=-2IIrgZHPgM
+</div></figure>
+<!-- /wp:core-embed/youtube -->
+
+<!-- wp:paragraph -->
+<p>Ne vous laissez pas avoir par l'approche entomologique de la chose, la présentation marche bien de l'approche agile en entreprise. Et j'en ai retenu deux ou trois choses particulièrement savoureuses.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première est une explication claire des limites et de l'intérêt de l'agilité : en permettant des expériences plus fréquentes, l'agilité augmente la capacité de mutation d'une organisation, et donc sa capacité d'adaptation. Mais cette capacité d'adaptation est par nature locale à une équipe. Autrement dit, une expérience agile dans une équipe ne peut pas forcément s'appliquer à une autre équipe (ce qui rend les "frameworks" agiles bien peu efficaces).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La seconde, c'est de considérer que le moteur fondamental de l'agilité, c'est le hasard : on change un paramètre, et on regarde si ça marche. Si ça ne marche pas, on peut abandonner vite parce qu'on n'a pas investi beaucoup.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Face ça, François propose quelques éléments pour une agilité "moderne".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Offrir aux gens la sécurité, c'est-à-dire la capacité à échouer sans risque. Pour faciliter ça, chez <a href="https://marmelab.com">Marmelab</a>, François lance les nouveaux arrivants sur un projet impossible la première semaine histoire de bien leur faire comprendre qu'échouer, c'est possible, et ça ne doit pas non plus impliquer de sanction.</li><li>Apporter de la valeur en continu : ça ne sert à rien d'avoir un beau produit qui n'est pas en prod. Par contre, offrir de plus en plus de choses par petits incréments, ça fait avancer les choses.</li><li>Expérimenter et apprendre rapidement, c'est-à-dire se donner des objectifs vis-à-vis des expériences agiles.</li><li>Enfin, rendre les gens fantastiques. Tout simplement parce que quand les gens sont fantastiques, ils sont bien plus productifs.</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Par ailleurs, il propose de changer la formulation des user stories : remplacer le "en tant que ... quand ... je veux ..." par "nous pensons que ... permettra ... Nous saurons que c'est le cas quand ...". Cette formulation est géniale, parce qu'elle remplace les user stories en tant qu'axiome détenu par le PO par des hypothèses qu'on peut valider expérimentalement. C'est très intéressant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, c'est une très chouette conférence, aussi bien sur la forme que sur le fond. Si l'agile vous intéresse un tant soi peut, c'est à voir !</p>
+<!-- /wp:paragraph -->
+++++

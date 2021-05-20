@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Docker Shutdown Hooks (Or the Lack Therof) | My Inner Daemons
+:jbake-tags: docker,shell,_mois_juin,_année_2018
+:jbake-date: 2018-06-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1528433563000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.milesmaddox.com%2F2016%2F10%2F31%2FDocker_Shutdown_Hooks%2F&searchtags=docker+shell+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://blog.milesmaddox.com/2016/10/31/Docker_Shutdown_Hooks/[Docker Shutdown Hooks (Or the Lack Therof) | My Inner Daemons]
+
+Mon dieu comme c'est laid.

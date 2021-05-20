@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: In the lab, we use a beefy box (well, by our standards) to run VMWare images. After switching from Windows XP to Ubuntu (we were having stability problems with XP as a host, only on this machine) and setting up VMWare Player, the next thing to do was to s
+:jbake-tags: documentation,remote,ubuntu,_mois_nov.,_année_2005
+:jbake-date: 2005-11-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1131716114000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.snakeoillabs.com%2F2005%2F10%2F27%2Ffreenx-on-ubuntu-breezy-howto%2F&searchtags=documentation+remote+ubuntu+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.snakeoillabs.com/2005/10/27/freenx-on-ubuntu-breezy-howto/[In the lab, we use a beefy box (well, by our standards) to run VMWare images. After switching from Windows XP to Ubuntu (we were having stability problems with XP as a host, only on this machine) and setting up VMWare Player, the next thing to do was to s]
+
+

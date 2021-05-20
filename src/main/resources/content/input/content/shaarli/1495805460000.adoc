@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hope Not Hate on Twitter: "I find it hilarious to ask programmers who are in their 40s+ if they still code. What the fuck. Programming is for life, not for your 20s."
+:jbake-tags: software,carrière,programming,citation,_mois_mai,_année_2017
+:jbake-date: 2017-05-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1495805460000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmhsutton%2Fstatus%2F867407308195803137&searchtags=software+carri%C3%A8re+programming+citation+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/mhsutton/status/867407308195803137[Hope Not Hate on Twitter: "I find it hilarious to ask programmers who are in their 40s+ if they still code. What the fuck. Programming is for life, not for your 20s."]
+
+Parfaitement vrai, surtout avec le software is eating the world

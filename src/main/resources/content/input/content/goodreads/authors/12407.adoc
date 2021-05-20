@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ben Bova
+:jbake-tags: author
+:jbake-date: 2008-07-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/12407.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1230227407p5/12407.jpg
+:jbake-source: https://www.goodreads.com/author/show/12407
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266141642.html[Mars]

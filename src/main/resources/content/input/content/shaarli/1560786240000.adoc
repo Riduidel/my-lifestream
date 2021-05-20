@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Yehuda Katz 🥨 on Twitter: "It's pretty hard to tell whether many Google technologies would make it out of the starting gate without the heavy thumb that Google monopoly power places on the scale. Ironically, Googlers all believe that their technologies are winning because they're better."
+:jbake-tags: conférence,citation,google,chrome,histoire,_mois_juin,_année_2019
+:jbake-date: 2019-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1560786240000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fwycats%2Fstatus%2F1139681962308694016&searchtags=conf%C3%A9rence+citation+google+chrome+histoire+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/wycats/status/1139681962308694016[Yehuda Katz 🥨 on Twitter: "It's pretty hard to tell whether many Google technologies would make it out of the starting gate without the heavy thumb that Google monopoly power places on the scale. Ironically, Googlers all believe that their technologies are winning because they're better."]
+
+FFUUUU c'est hyper frustrant de préparer un sujet sur un sujet proche, et de devoir filtrer autant de bon contenu !

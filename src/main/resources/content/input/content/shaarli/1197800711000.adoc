@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bluetooth Remote Control pour Windows Mobile
+:jbake-tags: windows,remote,bluetooth,freeware,mobile,_mois_déc.,_année_2007
+:jbake-date: 2007-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1197800711000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjaylee.org%2FRemoteControl%2F&searchtags=windows+remote+bluetooth+freeware+mobile+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://jaylee.org/RemoteControl/[Bluetooth Remote Control pour Windows Mobile]
+
+4n logiciel pour commander son PC Windows depuis un appareil mobile équipé de Windows Mobile. Dommage, ça ne marche pas encore avec les téléphones Samsung.

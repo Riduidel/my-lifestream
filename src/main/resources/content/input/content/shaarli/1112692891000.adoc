@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Struttin' With Struts - Lessons
+:jbake-tags: java,programming,langage,j2ee,jsp,servlet,struts,documentation,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112692891000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.reumann.net%2Fstruts%2Fmain.do&searchtags=java+programming+langage+j2ee+jsp+servlet+struts+documentation+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.reumann.net/struts/main.do[Struttin' With Struts - Lessons]
+
+There are a lot of resources available to help you learn Struts. The purpose of these beginning lessons is not to teach you the foundations of Struts or to provide detailed explanations of all the components and functionality. To really get a good grasp o

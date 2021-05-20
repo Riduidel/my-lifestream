@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: janus.demon.co.uk/alife
+:jbake-tags: programming,science,IA,artificial,life,robot,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112278320000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.janus.demon.co.uk%2Falife%2F&searchtags=programming+science+IA+artificial+life+robot+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.janus.demon.co.uk/alife/[janus.demon.co.uk/alife]
+
+Artificial life is the science of creating lifelike behaviour in man-made systems that consist of populations of autonomous entities whose local interactions can be specified by simple rules. Emergent behaviours may become apparent in such populations as

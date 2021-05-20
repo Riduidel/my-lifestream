@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: HTTP Prompt - An interactive command-line HTTP client
+:jbake-tags: terminal,http,client,_mois_janv.,_année_2019
+:jbake-date: 2019-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1547212701000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhttp-prompt.com%2F&searchtags=terminal+http+client+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://http-prompt.com/[HTTP Prompt - An interactive command-line HTTP client]
+
+Mais c'est très chouette, cet outil !

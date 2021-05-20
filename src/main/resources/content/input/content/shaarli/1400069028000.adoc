@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Your website should stop doing this right now (pt. 1) — Building Things on the Internet — Medium
+:jbake-tags: web,design,programming,_mois_mai,_année_2014
+:jbake-date: 2014-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1400069028000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fbuilding-things-on-the-internet%2Fa0c3eb525200&searchtags=web+design+programming+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://medium.com/building-things-on-the-internet/a0c3eb525200[Your website should stop doing this right now (pt. 1) — Building Things on the Internet — Medium]
+
+Très chouette article sur toutes ces choses qu'on fait sans forcément se poser de questions, et qui se révèlent finalement débiles et pénibles pour les utilisateurs

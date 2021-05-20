@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SexyCyborg goes Pentesting - Album on Imgur
+:jbake-tags: diy,sécurité,_mois_sept.,_année_2016
+:jbake-date: 2016-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1473244219000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fimgur.com%2Fgallery%2Fc4WNF&searchtags=diy+s%C3%A9curit%C3%A9+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://imgur.com/gallery/c4WNF[SexyCyborg goes Pentesting - Album on Imgur]
+
+Il y a quelque chose de fascinant dans ce que fait cette jeune femme ...

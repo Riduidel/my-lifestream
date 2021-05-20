@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CipherShed | Secure Encryption Software
+:jbake-tags: open-source,software,windows,macosx,system,encryption,disk,_mois_avr.,_année_2016
+:jbake-date: 2016-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1461607676000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ciphershed.org%2F&searchtags=open-source+software+windows+macosx+system+encryption+disk+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://www.ciphershed.org/[CipherShed | Secure Encryption Software]
+
+La reprise de TrueCrypt en open-source. Ca c'est cool !

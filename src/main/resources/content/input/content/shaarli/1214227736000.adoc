@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PRTICE.INFO - Site d'aide aux Personnes-Ressources TICE \ TNI \ Fabriquer un TNWii pour 41 €
+:jbake-tags: éducation,tutorial,whiteboard,wii,for:clownny59,_mois_juin,_année_2008
+:jbake-date: 2008-06-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1214227736000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.prtice.info%2F%3Fvoir%3Dtnwii&searchtags=%C3%A9ducation+tutorial+whiteboard+wii+for%3Aclownny59+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.prtice.info/?voir=tnwii[PRTICE.INFO - Site d'aide aux Personnes-Ressources TICE \ TNI \ Fabriquer un TNWii pour 41 €]
+
+Un tableau blanc interactif réalisé en utilisant une wiimote en guise de caméra infrarouge, et un pointeur infrarouge à 1 € tout mouillé.

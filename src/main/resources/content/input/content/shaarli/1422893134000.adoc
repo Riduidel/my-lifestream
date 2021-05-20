@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Getting the Most Out of QR Codes Using URI Schemes
+:jbake-tags: mobile,qr-code,programming,protocole,_mois_févr.,_année_2015
+:jbake-date: 2015-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1422893134000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsixrevisions.com%2Fweb-development%2Fqr-codes-uri-schemes%2F&searchtags=mobile+qr-code+programming+protocole+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://sixrevisions.com/web-development/qr-codes-uri-schemes/[Getting the Most Out of QR Codes Using URI Schemes]
+
+Qu'est-ce qu'on peut faire avec un QR code ?

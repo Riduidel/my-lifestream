@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sherif181/java-sequence-diagram-generator: Simple latex sequence diagram generator. This project uses annotated junit tests to generate latex sequence diagrams.
+:jbake-tags: java,sequence,uml,générateur,@todo,_mois_mai,_année_2017
+:jbake-date: 2017-05-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1493972983000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsherif181%2Fjava-sequence-diagram-generator&searchtags=java+sequence+uml+g%C3%A9n%C3%A9rateur+%40todo+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/sherif181/java-sequence-diagram-generator[sherif181/java-sequence-diagram-generator: Simple latex sequence diagram generator. This project uses annotated junit tests to generate latex sequence diagrams.]
+
+Je m'en vais te forker ça pour supporter PlantUML !

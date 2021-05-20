@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [ADEO Dev Summit] Darwin Driven Development - YouTube
+:jbake-tags: programming,présentation,docker,darwin,architecture,_mois_oct.,_année_2019
+:jbake-date: 2019-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1570714160000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Djh_FciOg55s%26list%3DPLTzNapVaggug3Iz1guwleQrRvtgqlAKLe%26index%3D3%26t%3D0s&searchtags=programming+pr%C3%A9sentation+docker+darwin+architecture+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=jh_FciOg55s&list=PLTzNapVaggug3Iz1guwleQrRvtgqlAKLe&index=3&t=0s[[ADEO Dev Summit] Darwin Driven Development - YouTube]
+
+Une présentation à laquelle j'ai participé au mois de juin ... Le sujet est vraiment chouette, mais la forme n'est pas encore parfaite.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: putty-launchy-plugin - Google Code
+:jbake-tags: plugin,software,ssh,utilities,windows,freeware,system,launcher,_mois_nov.,_année_2007
+:jbake-date: 2007-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1194949200000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fputty-launchy-plugin%2F&searchtags=plugin+software+ssh+utilities+windows+freeware+system+launcher+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://code.google.com/p/putty-launchy-plugin/[putty-launchy-plugin - Google Code]
+
+Comme j'utilise massivement launchy et poutty, ca me parait rudement utile comme gadget.

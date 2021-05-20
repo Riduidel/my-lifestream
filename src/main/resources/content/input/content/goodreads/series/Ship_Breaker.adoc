@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ship Breaker
+:jbake-tags: serie
+:jbake-date: 2014-10-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Ship_Breaker.adoc
+:jbake-source: https://www.goodreads.com/series/47756
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290085769.html[Ferrailleurs des mers]

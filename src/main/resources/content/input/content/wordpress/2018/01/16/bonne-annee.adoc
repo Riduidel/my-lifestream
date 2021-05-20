@@ -1,0 +1,53 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bonne année !
+:jbake-tags: mavie,programming,raspberrypi,voeux,_mois_janv.,_année_2018
+:jbake-date: 2018-01-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/01/16/bonne-annee.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/01/16/bonne-annee/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, le temps de la trêve des confiseurs est certes passé, et je devrais plutôt me prolonger dans l'avenir. Mais je me dois auparavant de faire un bilan de cette année 2017.
+</p>
+<p>
+Et si l'année avait plutôt mal commencé, elle a pris un virage <a href="https://riduidel.wordpress.com/2017/05/05/changement-de-cap/">sacrément intéressant</a> avec mon arrivée chez Zenika. Et, pour la première fois depuis bien longtemps, je suis dans une boîte où, si il y a des médiocres, je ne les ai pas encore vus. Et ça, c'est spectaculairement intéressant.
+</p>
+<p>
+Du coup, je me suis retrouvé à apprendre et tenter plein de trucs :
+<br/>
+<ul>
+<br/>
+<li>Couchbase et OAuth</li>
+<br/>
+<li>Consul, Traefik, Ansible</li>
+<br/>
+</ul>
+<br/>
+Et depuis le début de l'année, j'ai même fait un peu de nginx + lua.
+</p>
+<p>
+Bref, je me retrouve à faire ce qui fait plaisir à tous les informaticiens du monde : découvrir de nouvelles technologies et tenter de nouveaux trucs. Et qui plus est, je le fais à un âge où, heureusement pour moi, le buzz ne prend plus si facilement que ça. Du coup, j'ai un oeil critique sur tous ces gadgets ... critique et parfois même acerbe, c'est vrai. Cela dit, cette critique est parfois fondée quand je vois le buzz qui est fait autour de certains produits quisont loin d'être aussi fameux que ce que la rumeur publique prétend ... mais j'y reviendrai peut-être.
+</p>
+<p>
+Et du coup, 2018 ...
+</p>
+<p>
+2018, ce sera une année ... différente.
+</p>
+<p>
+En 2018, je garantis qu'il y aura enfin des nouvelles de ma radio internet ... puisque j'ai acheté un Raspberry et une carte <a href="http://iqaudio.co.uk/hats/8-pi-dac-0712411999643.html">Pi-DAC+</a>.
+</p>
+<p>
+Il pourrait également y avoir (avec pas mal de chance) une présentation ... à DevoxxFr (et si je n'y fait pas de présentation, attendez-vous à voir une bonne grosse rafale d'articles sur toutes les présentations que j'y verrai).
+</p>
+<p>
+Il pourrait aussi y avoir un retour à Codingame ... en Kotlin ... ou en Lua, parce que je trouve le langage assez simple et marrant.
+</p>
+<p>
+Bref, il y aura encore de la vie sur ce blog.
+</p>
+++++

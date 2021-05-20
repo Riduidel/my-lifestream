@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Garry's modification for Palm III / Workpad computers
+:jbake-tags: web,palm,tutorial,charging,_mois_mars,_année_2005
+:jbake-date: 2005-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1109853811000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fastlight.demon.co.uk%2Fjg%2Fpalm.html&searchtags=web+palm+tutorial+charging+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.fastlight.demon.co.uk/jg/palm.html[James Garry's modification for Palm III / Workpad computers]
+
+Tired of swapping batteries in your Palm III or Workpad? Disturbed by dreams of a power socket on your PDA? I too suffered from these problems. But then I came to my senses and went back to the Newton... but that's another story... The advantages of

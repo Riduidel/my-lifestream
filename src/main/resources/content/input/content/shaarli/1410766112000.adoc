@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHut - Programming Languages and GitHub
+:jbake-tags: big-data,programming,langage,statistiques,_mois_sept.,_année_2014
+:jbake-date: 2014-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1410766112000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgithut.info%2F&searchtags=big-data+programming+langage+statistiques+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://githut.info/[GitHut - Programming Languages and GitHub]
+
+Très chouette exploitation big data des repositories GitHub. Ca fournit une de la popularité des langages assez peu biaisées (parce que Git est auourd'hui le standard)

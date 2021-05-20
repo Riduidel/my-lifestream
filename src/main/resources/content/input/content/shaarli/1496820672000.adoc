@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeff Atwood on Twitter: "There's a lotta bugs in our app you don't know anything about. Bugs you wouldn't fix. Bugs you couldn't fix. Bugs you _shouldn't_ fix."
+:jbake-tags: citation,programming,bug,_mois_juin,_année_2017
+:jbake-date: 2017-06-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1496820672000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodinghorror%2Fstatus%2F870800637532884992&searchtags=citation+programming+bug+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/codinghorror/status/870800637532884992[Jeff Atwood on Twitter: "There's a lotta bugs in our app you don't know anything about. Bugs you wouldn't fix. Bugs you couldn't fix. Bugs you _shouldn't_ fix."]
+
+Une augtre vision du traditionnel "c'est un bug ou une feature ?"

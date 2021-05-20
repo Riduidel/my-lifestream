@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Cygne noir : La Puissance de l'imprévisible
+:jbake-tags:  mathématiques,_année_2020,_mois_avr.,_note_1,rayon-essai,read
+:jbake-date: 2020-04-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782251444369.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490283509l/23422697._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1490283509l/23422697._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/23422697
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Quel est le point commun entre l'invention de la roue, Pompei, le krach boursier de 1987, Harry Potter et Internet? Pourquoi ne devrait-on jamais lire un journal ni courir pour attraper un train? Que peuvent nous apprendre les amants de Catherine de Russie sur les probabilites? Pourquoi les previsionnistes sont-ils pratiquement tous des arnaqueurs? Ce livre revele tout des Cygnes Noirs, ces evenements aleatoires, hautement improbables, qui jalonnent notre vie: ils ont un impact enorme, sont presque impossibles a prevoir, et pourtant, a posteriori, nous essayons toujours de leur trouver une explication rationnelle. Dans cet ouvrage eclairant, plein d'esprit d'impertinence et bien souvent prophetique, Taleb nous exhorte a ne pas tenir compte des propos de certains experts, et nous montre comment cesser de tout prevoir ou comment tirer parti de l'incertitude.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3364303.html[Christine Rimoldy]
+* link:../authors/21559.html[Nassim Nicholas Taleb]
+
+## Series
+* link:../series/Incerto.html[Incerto]
+
+## Review
+
+++++
+Je n'ai que rarement lu de livre aussi contrasté que celui-ci.<br/>Tellement même que je ne sais même pas par où commencer.<br/>AU niveau de la forme, c'est assez bien écrit .... mais au service d'une espèce de prétention difficilement imaginable : l'auteur pense manifestement que même un prix Nobel ne serait pas suffisant pour reconnaître tout son génie ...Cette prétention irrigue tout le livre pour le rendre absolument insupportable.<br/>Qui plus est, l'idée censément tellement intelligente qu'il souhaite présenter est en fait assez triviale : il y a des inconnus inconnus, et face à eux, les statistiques gaussiennes sont impuissantes. Ce qui est extrêmement bizarre, c'est que l'auteur prétend disposer d'une culture supérieure, et semble ignorer par le même temps (ou vouloir s'approprier) l'ensemble des idées de la zététique alors même que ce qu'il fait n'est que les mettre en application dans le domaine, certes beaucoup plus scientiste que scientifique, de l'économie. Parc qu'effectivement, je partage un point avec lui : l'économie n'est pas une science. A la rigueur, c'est une pratique maquillée en science, mais ça n'est pas une science. Et c'est peut-être le plus gros loupé méthodologique : comme l'auteur semble issu des cercles économiques, il ne peut pas voir l'éléphant dans la salle, l'absence de vraie méthode scientifique réfutable dans le domaine de l'économie.<br/>Autrement dit, il y a des idées intéressantes, mais trop peu, et noyées sous la prétention de l'auteur.<br/>Et c'est précisément la raison pour laquelle je me suis infligé cette oeuvre. Voir à quoi ressemblait un essai écrit par un "intellectuel reconnu mondialement". Eh bien j'ai lu, et je ne suis pas déçu par ma déception, puisqu'en un sens je m'y attendais. C'est faible sur le fond comme sur la forme, et si le terme démonstration est utilisé à plusieurs reprises, il ne l'est jamais à bon escient.<br/>Autrement dit, c'est une bonne lecture si vous voulez comprendre les mécanismes d ela psychologie de l'ego, pas forcément si vous voulez apprendre des choses intelligentes sur le hasard.
+++++

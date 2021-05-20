@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Groovy default params to avoid one-argument methods being called without params -- Guillaume Laforge's Blog
+:jbake-tags: javascript,groovy,langage,programming,concepts,_mois_janv.,_année_2016
+:jbake-date: 2016-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1452276756000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fglaforge.appspot.com%2Farticle%2Fgroovy-default-params-to-avoid-one-argument-methods-being-called-without-params&searchtags=javascript+groovy+langage+programming+concepts+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://glaforge.appspot.com/article/groovy-default-params-to-avoid-one-argument-methods-being-called-without-params[Groovy default params to avoid one-argument methods being called without params -- Guillaume Laforge's Blog]
+
+Chouette astuce (aussi bien en javascript qu'en groovy, d'ailleurs). Je vais l'utiliser !

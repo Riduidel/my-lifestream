@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adding and editing wiki pages locally - User Documentation
+:jbake-tags: codingame,wiki,documentation,github,_mois_déc.,_année_2016
+:jbake-date: 2016-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1480948362000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhelp.github.com%2Farticles%2Fadding-and-editing-wiki-pages-locally%2F&searchtags=codingame+wiki+documentation+github+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://help.github.com/articles/adding-and-editing-wiki-pages-locally/[Adding and editing wiki pages locally - User Documentation]
+
+Je vais sans doute déplacer mes post-mortem là-dedans, ce sera plus lisible

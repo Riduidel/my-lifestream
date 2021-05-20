@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Et pouf le compte XMPP DuckDuckGo !
+:jbake-tags: duckduckgo,jabber,_mois_mai,_année_2013
+:jbake-date: 2013-05-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/05/24/et-pouf-le-compte-xmpp-duckduckgo.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/05/24/et-pouf-le-compte-xmpp-duckduckgo/
+:jbake-style: wordpress
+
+++++
+<p>
+Et voilà, j'en parlais hier, c'est vérité aujourd'hui : j'ai maintenant un compte XMPP chez DuckDuckGo qui me permettra d'éviter l'un des problèmes "cachés" de la politique de Google : l'archivage automatique de toutes les conversations.
+</p>
+<p>
+En soi, ça ne paraît pas grave.
+</p>
+<p>
+Mais, à titre personnel, j'estime que ce qui est dans Jabber est du domaine de l'oralité, et ne doit donc pas être archivé (contrairement aux mails, par exemple).
+</p>
+<p>
+Bon, la conséquence, c'est que je vais migrer mes contacts vers mon compte GMail professionel ou vers ce novueau compte DuckDuckGo. Ca "devrait" être sans douleur ...
+</p>
+++++

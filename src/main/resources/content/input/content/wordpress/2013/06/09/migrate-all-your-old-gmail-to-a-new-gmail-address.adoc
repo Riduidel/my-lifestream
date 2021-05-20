@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Migrate All Your Old Gmail to a New Gmail Address
+:jbake-tags: gmail,mail,opera,pop,_mois_juin,_année_2013
+:jbake-date: 2013-06-09
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/06/09/migrate-all-your-old-gmail-to-a-new-gmail-address.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/06/09/migrate-all-your-old-gmail-to-a-new-gmail-address/
+:jbake-style: wordpress
+
+++++
+<p><a href="http://lifehacker.com/352401/migrate-all-your-old-gmail-to-a-new-gmail-address" title="Migrate All Your Old Gmail to a New Gmail Address">Migrate All Your Old Gmail to a New Gmail Address</a></p><p>Il semble donc possible de lire toute ma boîte GMail en POP.</p><p>Si le webmail d'Opera supporte la lecture d'un serveur pop distant, je sais comment va se faire mon exfiltration de GMail ...</p><p>Ca semble d'ailleurs être le cas, j'ai juste un problème pour créer "le bon" compte.</p>
+++++

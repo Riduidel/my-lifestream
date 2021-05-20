@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CloudEvents | A specification for describing event data in a common way
+:jbake-tags: spécification,format,échange,cloud,web,_mois_juin,_année_2020
+:jbake-date: 2020-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1591082599000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcloudevents.io%2F&searchtags=sp%C3%A9cification+format+%C3%A9change+cloud+web+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://cloudevents.io/[CloudEvents | A specification for describing event data in a common way]
+
+Ca m'a l'air d'une très très bonne idée, et en plus utilisable dans Kafka ou autres !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Input: Fonts for Code — Info
+:jbake-tags: font,code,_mois_oct.,_année_2019
+:jbake-date: 2019-10-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1571165231000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Finput.fontbureau.com%2Finfo%2F&searchtags=font+code+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://input.fontbureau.com/info/[Input: Fonts for Code — Info]
+
+Cette police de caractère a l'air assez, non, vraiment, propre ... Ca vaudrait le coup de tester, même si il lui manque les ligatures (dont je suis très vite devenu fan)

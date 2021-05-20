@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Are You an Architect?
+:jbake-tags: software,programming,architecture,_mois_juin,_année_2018
+:jbake-date: 2018-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1530017307000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2018%2F06%2F26%2Fare-you-an-architect.html&searchtags=software+programming+architecture+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.yegor256.com/2018/06/26/are-you-an-architect.html[Are You an Architect?]
+
+Pour une fois, pour une fois, j'approuve totalement cet article de Yegor. Tout est vrai, tout est juste, un architecte, c'est ça.

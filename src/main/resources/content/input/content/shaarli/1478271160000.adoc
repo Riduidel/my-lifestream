@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Proving Programs Correct Using Plain Old Java Types | Lambda the Ultimate
+:jbake-tags: java,programming,test,_mois_nov.,_année_2016
+:jbake-date: 2016-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1478271160000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flambda-the-ultimate.org%2Fnode%2F5387&searchtags=java+programming+test+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://lambda-the-ultimate.org/node/5387[Proving Programs Correct Using Plain Old Java Types | Lambda the Ultimate]
+
+Prouver qu'un programme est correct, c'est plus puissant que simplement le tester.

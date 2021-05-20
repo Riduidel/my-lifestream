@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Neil Tamplin sur Twitter : "On the hunt for the simplest most useful way to document technical architecture. Minimum viable bureaucracy *extremely* desirable. Does such a thing exist?" / Twitter
+:jbake-tags: citation,organisation,documentation,architecture,bureaucratie,_mois_juin,_année_2020
+:jbake-date: 2020-06-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1593533346000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FNeilTamplin%2Fstatus%2F1277977763337531392&searchtags=citation+organisation+documentation+architecture+bureaucratie+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/NeilTamplin/status/1277977763337531392[Neil Tamplin sur Twitter : "On the hunt for the simplest most useful way to document technical architecture. Minimum viable bureaucracy *extremely* desirable. Does such a thing exist?" / Twitter]
+
+Oh, wow, la minimal viable bureaucracy, c'est vraiment un concept auquel j'accroche à fond

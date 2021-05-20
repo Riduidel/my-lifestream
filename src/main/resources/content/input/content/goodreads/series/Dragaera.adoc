@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dragaera
+:jbake-tags: serie
+:jbake-date: 2007-02-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Dragaera.adoc
+:jbake-source: https://www.goodreads.com/series/49760
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070379910.html[Taltos]
+* link:../books/9782070348237.html[Yendi (Vlad Taltos, #2)]
+* link:../books/9783608935158.html[Teckla (Vlad Taltos, #3)]
+* link:../books/9782070318421.html[Jhereg (Vlad Taltos, #1) ]
+* link:../books/9782070396399.html[Gardes Phenix]

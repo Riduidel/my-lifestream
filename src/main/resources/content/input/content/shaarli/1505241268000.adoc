@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: thomasnield/rxkotlinfx-tornadofx-demo: A demo application demonstrating interop between rxkotlinfx and tornadofx
+:jbake-tags: programming,reactive,java,javafx,kotlin,_mois_sept.,_année_2017
+:jbake-date: 2017-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1505241268000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fthomasnield%2Frxkotlinfx-tornadofx-demo&searchtags=programming+reactive+java+javafx+kotlin+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/thomasnield/rxkotlinfx-tornadofx-demo[thomasnield/rxkotlinfx-tornadofx-demo: A demo application demonstrating interop between rxkotlinfx and tornadofx]
+
+Je suis sûr que voir du RxJavaFx ou du RxKotlin va rendre certains collègues fous

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clutter by Sprote Rsrch.
+:jbake-tags: software,freeware,macosx,multimedia,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109971646000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sprote.com%2Fclutter%2F&searchtags=software+freeware+macosx+multimedia+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sprote.com/clutter/[Clutter by Sprote Rsrch.]
+
+Clutter is a small Mac OS X application that lets you put music CDs on your desktop. You can drag them anywhere -- they're really windows. Line them up neatly or put them in piles, it's your choice. Each one looks like the real CD's cover, and double-c

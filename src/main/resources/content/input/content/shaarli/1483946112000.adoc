@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What should you log in an application and how to avoid having 24×7 support looking at them? | cloudncode
+:jbake-tags: log,programming,supervision,_mois_janv.,_année_2017
+:jbake-date: 2017-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1483946112000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcloudncode.blog%2F2016%2F12%2F30%2Fwhat-should-you-log-in-an-application-and-how-to-avoid-having-24x7-support-looking-at-them%2F&searchtags=log+programming+supervision+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://cloudncode.blog/2016/12/30/what-should-you-log-in-an-application-and-how-to-avoid-having-24x7-support-looking-at-them/[What should you log in an application and how to avoid having 24×7 support looking at them? | cloudncode]
+
+Un résumé intéressant sur la gestion de logs

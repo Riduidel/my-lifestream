@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Change Java version on Mac OS | GuiGarage
+:jbake-tags: macosx,java,gui,software,freeware,system,_mois_août,_année_2013
+:jbake-date: 2013-08-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1376913579000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.guigarage.com%2F2013%2F02%2Fchange-java-version-on-mac-os%2F&searchtags=macosx+java+gui+software+freeware+system+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.guigarage.com/2013/02/change-java-version-on-mac-os/[Change Java version on Mac OS | GuiGarage]
+
+Bon, ben si vous voulez changer de version facilepment sur mac, faut en passer par là

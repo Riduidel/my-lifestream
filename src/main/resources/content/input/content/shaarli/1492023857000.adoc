@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Hottest Editors
+:jbake-tags: humour,geek,informatique,biologie,_mois_avr.,_année_2017
+:jbake-date: 2017-04-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1492023857000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fxkcd.com%2F1823%2F&searchtags=humour+geek+informatique+biologie+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://xkcd.com/1823/[xkcd: Hottest Editors]
+
+Ce dessin est génial ! Si vous ne comprenez pas, @podcastscience a un superbe épisode sur crispr-cas9

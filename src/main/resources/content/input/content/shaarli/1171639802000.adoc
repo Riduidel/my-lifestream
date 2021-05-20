@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: miniAudicle (mac os x)
+:jbake-tags: audio,macosx,musique,editor,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171639802000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faudicle.cs.princeton.edu%2Fmini%2Fmac%2F&searchtags=audio+macosx+musique+editor+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://audicle.cs.princeton.edu/mini/mac/[miniAudicle (mac os x)]
+
+Un éditeur pour Mac permettant de générer de la musique. Ca doit pouvoir être complémentaire de Garage Band

@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeFileSync, c'est quand même vachement bien
+:jbake-tags: logiciel,open-source,synchronisation,_mois_juin,_année_2016
+:jbake-date: 2016-06-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/06/13/freefilesync-cest-quand-meme-vachement-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/06/13/freefilesync-cest-quand-meme-vachement-bien/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous savez que j'ai de plus en plus de mal avec "les géants du web" et leurs liens avec l'administration de la surveillance d'état américaine ... Par exemple, <a href="http://siliconvalley.blog.lemonde.fr/2014/04/12/la-nomination-de-condoleezza-rice-chez-dropbox-fait-polemique/">quand Condoleaza Rice s'installe au bureau de la direction de Dropbox</a>, le signal est assez fort pour que je m'inquiète. Mais ça, c'est sans doute une matérialisation de ma paranoïa.
+</p>
+<p>
+Toujours est-il qu'il n'y a pas bien longtemps, ma femme a remplacé son portable vieillissant par un UltraBook tout neuf, tout léger. Et là s'est posé la question de la synchronisation de ses données ... Alors évidement, elle a un compte Dropbox ... mais son compte Dropbox ne permet pas forcément de synchroniser une clé USB et un dossier de sa machine, par exemple. De la même manière, synchroniser sa machine avec un serveur SFTP est impossible.
+</p>
+<p>
+Heureusement, avec <a href="http://www.freefilesync.org/">FreeFileSync</a>, c'est possible. Bon, évidement, c'est pas plug'n'play : pour que la synchronisation soit instantanée, il faut jouer avec <a href="http://www.freefilesync.org/manual.php?topic=realtimesync">RealFileSync </a>et les tâches planifiées. Mais une fois que c'est configuré, il suffit de créer/modifier/supprimer un fichier sur la clé USB pour qu'il le soit sur le disque dur local, et le disque dur réseau.
+</p>
+<p>
+Ca marche quand même très bien ... et pas que sur Windows, ce qui est encore mieux !
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shadowbox.js Media Viewer
+:jbake-tags: gallerie,javascript,library,programming,slideshow,web,webgen,_mois_mars,_année_2008
+:jbake-date: 2008-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1204896296000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmjijackson.com%2Fshadowbox%2Findex.html&searchtags=gallerie+javascript+library+programming+slideshow+web+webgen+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://mjijackson.com/shadowbox/index.html[Shadowbox.js Media Viewer]
+
+Va vraiment falloir que je me mette à faire cette maudite gallerie webgen, parce qu'avec des tyrucs comme ce shadowbox, ça pourrait vraiment bien donner.

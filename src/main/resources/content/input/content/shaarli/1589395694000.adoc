@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tinker sur Twitter : "Singing the Blues: Taking Down an Insider Threat "I had all of the advantages. I was already inside the network. No one suspected me. But they found my hack, kicked me off the network... ...and physically hunted me down." https://t.co/468Q6C4KR5" / Twitter
+:jbake-tags: sécurité,informatique,histoire,_mois_mai,_année_2020
+:jbake-date: 2020-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1589395694000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2FTinkerSec%2Fstatus%2F1063423110513418240&searchtags=s%C3%A9curit%C3%A9+informatique+histoire+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://mobile.twitter.com/TinkerSec/status/1063423110513418240[Tinker sur Twitter : "Singing the Blues: Taking Down an Insider Threat "I had all of the advantages. I was already inside the network. No one suspected me. But they found my hack, kicked me off the network... ...and physically hunted me down." https://t.co/468Q6C4KR5" / Twitter]
+
+Wow, alors ça c'est de l'histoire de pentest un peu dingue.

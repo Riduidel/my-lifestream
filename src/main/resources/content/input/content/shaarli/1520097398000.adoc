@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: zyedidia/micro: A modern and intuitive terminal-based text editor
+:jbake-tags: linux,editor,_mois_mars,_année_2018
+:jbake-date: 2018-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1520097398000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fzyedidia%2Fmicro&searchtags=linux+editor+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/zyedidia/micro[zyedidia/micro: A modern and intuitive terminal-based text editor]
+
+J'adorerais installer ça à la place de nano ... mais ça n'est pas forcément toujours possible

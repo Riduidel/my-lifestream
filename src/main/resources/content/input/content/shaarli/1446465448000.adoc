@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [KevlinHenney] A common fallacy is to assume authors of incomprehensible code will somehow be able to express themselves lucidly and clearly in comments.
+:jbake-tags: citation,programming,documentation,_mois_nov.,_année_2015
+:jbake-date: 2015-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1446465448000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F660850402888429568&searchtags=citation+programming+documentation+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/660850402888429568[[KevlinHenney] A common fallacy is to assume authors of incomprehensible code will somehow be able to express themselves lucidly and clearly in comments.]
+
+Et c'est pour ça que je ne mets pas de commentaires ;-)

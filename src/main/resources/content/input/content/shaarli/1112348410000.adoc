@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Little Boxes
+:jbake-tags: web,css,langage,documentation,design,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348410000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.thenoodleincident.com%2Ftutorials%2Fbox_lesson%2Fboxes.html&searchtags=web+css+langage+documentation+design+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.thenoodleincident.com/tutorials/box_lesson/boxes.html[Little Boxes]
+
+CSS column layouts

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: IntrinsicLabs/osgood: Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.
+:jbake-tags: programming,javascript,node.js,sécurité,rust,_mois_nov.,_année_2019
+:jbake-date: 2019-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1573584876000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FIntrinsicLabs%2Fosgood&searchtags=programming+javascript+node.js+s%C3%A9curit%C3%A9+rust+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/IntrinsicLabs/osgood[IntrinsicLabs/osgood: Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.]
+
+J'ai des collègues qui font du backend en Node. Et je suis sûr que ça pourrait les intéresser ...

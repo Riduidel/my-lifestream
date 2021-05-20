@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Constant propagation is now on by default in nightly | Inside Rust Blog
+:jbake-tags: compilateur,optimisation,rust,performance,_mois_déc.,_année_2019
+:jbake-date: 2019-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1575405188000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.rust-lang.org%2Finside-rust%2F2019%2F12%2F02%2Fconst-prop-on-by-default.html&searchtags=compilateur+optimisation+rust+performance+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.rust-lang.org/inside-rust/2019/12/02/const-prop-on-by-default.html[Constant propagation is now on by default in nightly | Inside Rust Blog]
+
+Quand on parle d'optimisation de compilateur, c'est parfois abstrait ... pas là ! Celle-ci est aussi concrète qu'efficace.

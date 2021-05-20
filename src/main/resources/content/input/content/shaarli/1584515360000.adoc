@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: $ ero@tw𝗂tter:~# sur Twitter : "Grosse pensée à tous les #adminsys en PLS comme moi depuis le #COVID2019 Avec tous les gens en télétravail et tout ce que ça implique en terme d'infrastructure, demandes et problèmes affluent a un rythme incroyable. GG à tous les mecs de l'ombre qui permettent le télétravail💪"
+:jbake-tags: citation,administration,informatique,télétravail,_mois_mars,_année_2020
+:jbake-date: 2020-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1584515360000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FEro_13335%2Fstatus%2F1239934226134376450&searchtags=citation+administration+informatique+t%C3%A9l%C3%A9travail+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/Ero_13335/status/1239934226134376450[$ ero@tw𝗂tter:~# sur Twitter : "Grosse pensée à tous les #adminsys en PLS comme moi depuis le #COVID2019 Avec tous les gens en télétravail et tout ce que ça implique en terme d'infrastructure, demandes et problèmes affluent a un rythme incroyable. GG à tous les mecs de l'ombre qui permettent le télétravail💪"]
+
+Ouaip, bon courage à toutes les personnes qui font marcher tous ces outils qui me permettent de continuer à travailler

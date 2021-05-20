@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Medallia Blog: SmackBook Pro Archives
+:jbake-tags: display,desktop,hack,macosx,system,software,ibook,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150384460000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.medallia.com%2F2006%2F05%2Fsmacbook_pro.html&searchtags=display+desktop+hack+macosx+system+software+ibook+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://blog.medallia.com/2006/05/smacbook_pro.html[Medallia Blog: SmackBook Pro Archives]
+
+Je m'étonne de ne pas avoir dans del.icio.us ce super article, qui explique toute la magie de l'accéléromètre. Erreur corrigée, donc.

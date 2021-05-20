@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Paul Lewis on Twitter: "English is the JavaScript of natural languages: easy to begin with, entirely bonkers, but used so widely you can't really avoid it."
+:jbake-tags: langue,citation,métaphore,_mois_mai,_année_2019
+:jbake-date: 2019-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1558335291000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faerotwist%2Fstatus%2F1129820477667586051&searchtags=langue+citation+m%C3%A9taphore+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/aerotwist/status/1129820477667586051[Paul Lewis on Twitter: "English is the JavaScript of natural languages: easy to begin with, entirely bonkers, but used so widely you can't really avoid it."]
+
+Ohlala, ça doit faire souffrir les natifs anglophones. Mais pour tous les autres, comme moi, c'est ... terriblement vrai !

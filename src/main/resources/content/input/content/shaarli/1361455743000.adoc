@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: None
+:jbake-tags: développement,font,characters,_mois_févr.,_année_2013
+:jbake-date: 2013-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1361455743000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcopypastecharacter.com%2F&searchtags=d%C3%A9veloppement+font+characters+_mois_f%C3%A9vr.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://copypastecharacter.com/[None]
+
+Dans les codes caractères, il y a des tonnes de trucs chouettes ... et ça économise vachement la bande passante d'utiliser ces ressources vectorielles !

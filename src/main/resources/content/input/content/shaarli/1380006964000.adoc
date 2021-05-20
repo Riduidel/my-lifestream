@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le weblog entièrement nu » CPOLD, la poudre verte du suivi de versions
+:jbake-tags: développeur,programming,article,version,_mois_sept.,_année_2013
+:jbake-date: 2013-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1380006964000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Froland.entierement.nu%2Fblog%2F2008%2F01%2F22%2Fcpold-la-poudre-verte-du-suivi-de-versions.html&searchtags=d%C3%A9veloppeur+programming+article+version+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://roland.entierement.nu/blog/2008/01/22/cpold-la-poudre-verte-du-suivi-de-versions.html[Le weblog entièrement nu » CPOLD, la poudre verte du suivi de versions]
+
+Chouette présentation du système de gestion de version le plus utilisé, même si pas forcément le plus pratique.

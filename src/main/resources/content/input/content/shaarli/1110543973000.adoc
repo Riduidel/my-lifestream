@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MacFixIt - Mini-Tutorial: The dreaded spinning pinwheel; Avoiding unresponsiveness/slow-downs in Mac OS X
+:jbake-tags: web,documentation,tutorial,macosx,tuning,_mois_mars,_année_2005
+:jbake-date: 2005-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1110543973000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.macfixit.com%2Farticle.php%3Fstory%3D20050310003145313&searchtags=web+documentation+tutorial+macosx+tuning+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.macfixit.com/article.php?story=20050310003145313[MacFixIt - Mini-Tutorial: The dreaded spinning pinwheel; Avoiding unresponsiveness/slow-downs in Mac OS X]
+
+More RAM. Enough HD space? Delete .plist files. Run fewer apps. Reboot. Tips for Safari. "Archive and Install".

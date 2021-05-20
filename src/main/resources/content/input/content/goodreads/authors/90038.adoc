@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: William Olivier Desmond
+:jbake-tags: author
+:jbake-date: 2008-05-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/90038.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/90038
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070423316.html[Schismatrice +]

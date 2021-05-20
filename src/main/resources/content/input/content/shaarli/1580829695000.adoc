@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local - Our World in Data
+:jbake-tags: écologie,alimentation,transport,_mois_févr.,_année_2020
+:jbake-date: 2020-02-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1580829695000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fourworldindata.org%2Ffood-choice-vs-eating-local&searchtags=%C3%A9cologie+alimentation+transport+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://ourworldindata.org/food-choice-vs-eating-local[You want to reduce the carbon footprint of your food? Focus on what you eat, not whether your food is local - Our World in Data]
+
+Un très intéressant rapport sur le coût en CO² de la consomation d'aliments divers.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: google/OpenSK: OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.
+:jbake-tags: rust,open-source,usb,key,sécurité,_mois_févr.,_année_2020
+:jbake-date: 2020-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1580717307000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgoogle%2FOpenSK&searchtags=rust+open-source+usb+key+s%C3%A9curit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/google/OpenSK[google/OpenSK: OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.]
+
+Une implémentation de clé sécurisée utilisant Rust pour le code (et open-source du début à la fin). C'est cool !

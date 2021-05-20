@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maxima - Screenshots
+:jbake-tags: software,freeware,open-source,windows,linux,science,mathématiques,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115655598000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmaxima.sourceforge.net%2Fscreenshots.shtml&searchtags=software+freeware+open-source+windows+linux+science+math%C3%A9matiques+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://maxima.sourceforge.net/screenshots.shtml[Maxima - Screenshots]
+
+Maxima is a descendant of DOE Macsyma, which had its origins in the late 1960s at MIT. It is the only system based on that effort still publicly available and with an active user community, thanks to its open source nature. Macsyma was the first of a new

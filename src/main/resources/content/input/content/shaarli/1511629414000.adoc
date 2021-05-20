@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to build a homemade Nest thermostat | Stuff
+:jbake-tags: raspberrypi,maison,diy,_mois_nov.,_année_2017
+:jbake-date: 2017-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1511629414000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.stuff.tv%2Ffeatures%2Fhow-build-homemade-nest-thermostat&searchtags=raspberrypi+maison+diy+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.stuff.tv/features/how-build-homemade-nest-thermostat[How to build a homemade Nest thermostat | Stuff]
+
+Wow, un thermostat basé sur le raspberry avec calendrier Google pour piloter le tout. Ca a de l'allure !

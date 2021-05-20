@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: QSynergy -- www.volker-lanz.de
+:jbake-tags: desktop,freeware,macosx,linux,windows,kvm,for:clownny59,for:mischler,_mois_avr.,_année_2010
+:jbake-date: 2010-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1271404204000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.volker-lanz.de%2Fen%2Fsoftware%2Fqsynergy%2F&searchtags=desktop+freeware+macosx+linux+windows+kvm+for%3Aclownny59+for%3Amischler+_mois_avr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.volker-lanz.de/en/software/qsynergy/[QSynergy -- www.volker-lanz.de]
+
+Une meilleure interface que synergy pour faire du synergy, et effectivement elle a l'air sacrément plus sympa à utiliser.

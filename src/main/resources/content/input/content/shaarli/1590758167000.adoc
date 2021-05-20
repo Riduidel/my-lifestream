@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stop au StopCovid : l’application qui crashe - ZDNet
+:jbake-tags: france,politique,informatique,projet,_mois_mai,_année_2020
+:jbake-date: 2020-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1590758167000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.zdnet.fr%2Fblogs%2Fzapping-decrypte%2Fstop-au-stopcovid-l-application-qui-crashe-39904311.htm&searchtags=france+politique+informatique+projet+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.zdnet.fr/blogs/zapping-decrypte/stop-au-stopcovid-l-application-qui-crashe-39904311.htm[Stop au StopCovid : l’application qui crashe - ZDNet]
+
+Cet article, qui montre l'inutilité et la stupidité de l'application StopCovid, fait plaisir à lire.

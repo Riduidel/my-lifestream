@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apache Maven 3.3.1 Features - SoftwareEntwicklung Beratung Schulung
+:jbake-tags: maven,programming,java,software,_mois_mars,_année_2015
+:jbake-date: 2015-03-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1426689629000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.soebes.de%2Fblog%2F2015%2F03%2F17%2Fapache-maven-3-dot-3-1-features%2F&searchtags=maven+programming+java+software+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://blog.soebes.de/blog/2015/03/17/apache-maven-3-dot-3-1-features/[Apache Maven 3.3.1 Features - SoftwareEntwicklung Beratung Schulung]
+
+C'est marrant comme une release majeure de maven ne contient pas grand chose, alors qu'une mineure est vraiment touffue.

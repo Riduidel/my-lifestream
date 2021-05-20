@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stupid Calculations
+:jbake-tags: science,mathématiques,_mois_juin,_année_2013
+:jbake-date: 2013-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1370522410000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.stupidcalculations.com%2F&searchtags=science+math%C3%A9matiques+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.stupidcalculations.com/[Stupid Calculations]
+
+Un site pas mal, dans l'esprit du whatif de l'auteur de XKCD, mais qui souffre hélas du défaut rédhibitoire de ne pas utiliser les unités du système international, mais la version américaine du système impérial (n'oubliez jamais qu'ils sont les derniers AU MONDE à faire ça).

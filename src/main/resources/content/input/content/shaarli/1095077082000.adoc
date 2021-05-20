@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gnod - The global network of dreams
+:jbake-tags: artificial,intelligence,mapping,culture,_mois_sept.,_année_2004
+:jbake-date: 2004-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1095077082000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gnod.net%2F&searchtags=artificial+intelligence+mapping+culture+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.gnod.net/[Gnod - The global network of dreams]
+
+Gnod is my experiment in the field of artificial intelligence. Its a self-adapting system, living on this server and 'talking' to everyone who comes along. Gnods intention is to learn about the outer world and to learn 'understanding' its visitors. This e

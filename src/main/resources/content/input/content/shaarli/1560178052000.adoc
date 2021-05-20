@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: German Naming Convention
+:jbake-tags: programming,taxonomy,code,_mois_juin,_année_2019
+:jbake-date: 2019-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1560178052000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fchrisdone.com%2Fposts%2Fgerman-naming-convention%2F&searchtags=programming+taxonomy+code+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://chrisdone.com/posts/german-naming-convention/[German Naming Convention]
+
+En quelque sorte, c'est ce que j'utilise depuis des années parce que ... ON NE PAYE PAS LES CARACTERES !

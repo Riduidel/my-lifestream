@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vers un design de la médiation (1/2) : réinventer la programmation | InternetActu.net
+:jbake-tags: programming,méthode,concepts,qualité,_mois_nov.,_année_2017
+:jbake-date: 2017-11-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1510149095000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.internetactu.net%2F2017%2F11%2F08%2Fvers-un-design-de-la-mediation-12-reinventer-la-programmation%2F&searchtags=programming+m%C3%A9thode+concepts+qualit%C3%A9+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.internetactu.net/2017/11/08/vers-un-design-de-la-mediation-12-reinventer-la-programmation/[Vers un design de la médiation (1/2) : réinventer la programmation | InternetActu.net]
+
+Un article intéressant et complet sur le manque de formalisme de l'informatique

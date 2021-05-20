@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PXSL
+:jbake-tags: langage,software,texte,xml,xsl,_mois_janv.,_année_2007
+:jbake-date: 2007-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1169063301000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcommunity.moertel.com%2Fpxsl%2F&searchtags=langage+software+texte+xml+xsl+_mois_janv.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://community.moertel.com/pxsl/[PXSL]
+
+Une espèce de pseudo-XML avec moins de caractères inutiles

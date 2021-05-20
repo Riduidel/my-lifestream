@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Michael B Nielsen on Twitter: "@QuarkusIO inspired my to try running my @Minecraft server (server-snapshot-19w04b) on @graalvm (graalvm-ce-1.0.0-rc13) and it works like a charm."
+:jbake-tags: graalvm,java,programming,citation,_mois_mars,_année_2019
+:jbake-date: 2019-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1552149875000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjarry_dk%2Fstatus%2F1104103946086420480&searchtags=graalvm+java+programming+citation+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jarry_dk/status/1104103946086420480[Michael B Nielsen on Twitter: "@QuarkusIO inspired my to try running my @Minecraft server (server-snapshot-19w04b) on @graalvm (graalvm-ce-1.0.0-rc13) and it works like a charm."]
+
+Saperlipopette, même Minecraft ?

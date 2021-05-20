@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: James Ward on Twitter: "Most underrated thing about Open Source is skill portability. When teams use proprietary frameworks there is a huge cost to on-boarding. Also developers don't want to invest time learning something that has zero transfer to their next job."
+:jbake-tags: citation,open-source,compétence,_mois_févr.,_année_2019
+:jbake-date: 2019-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1550310987000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_JamesWard%2Fstatus%2F1095802475104284672&searchtags=citation+open-source+comp%C3%A9tence+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/_JamesWard/status/1095802475104284672[James Ward on Twitter: "Most underrated thing about Open Source is skill portability. When teams use proprietary frameworks there is a huge cost to on-boarding. Also developers don't want to invest time learning something that has zero transfer to their next job."]
+
+Parfaitement vrai !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lynx Viewer
+:jbake-tags: web,browser,lynx,_mois_févr.,_année_2005
+:jbake-date: 2005-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1108369065000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.delorie.com%2Fweb%2Flynxview.html&searchtags=web+browser+lynx+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.delorie.com/web/lynxview.html[Lynx Viewer]
+
+This service allows web authors to see what their pages will look like (sort of) when viewed with Lynx, a text-mode web browser. Note: for best results, you should download a copy of Lynx itself and run it locally on your own machine, rather than use t

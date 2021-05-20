@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: stacked on jargon on Twitter: "“cursed knowledge” is an interesting concept in a field where practitioners regularly self describe as getting “trapped” in descreasingly sized niches as their career progresses"
+:jbake-tags: citation,carrière,informatique,évolution,_mois_juin,_année_2019
+:jbake-date: 2019-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1560776566000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fadam_n_p%2Fstatus%2F1139624633164976128&searchtags=citation+carri%C3%A8re+informatique+%C3%A9volution+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/adam_n_p/status/1139624633164976128[stacked on jargon on Twitter: "“cursed knowledge” is an interesting concept in a field where practitioners regularly self describe as getting “trapped” in descreasingly sized niches as their career progresses"]
+
+Ca peut vous parler si vous êtes "spécialiste Struts", "expert JBuilder" et autres ...

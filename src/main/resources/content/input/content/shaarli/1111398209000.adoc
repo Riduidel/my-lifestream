@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SiteOrbiter
+:jbake-tags: software,freeware,macosx,réseau,web,carte,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111398209000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.siteorbiter.cc%2F&searchtags=software+freeware+macosx+r%C3%A9seau+web+carte+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.siteorbiter.cc/[SiteOrbiter]
+
+Get familiar with a web site quickly and easily. With the SiteOrbiter web cartography tool, you can gain insight into the structural components of a web site with a few clicks of the mouse.

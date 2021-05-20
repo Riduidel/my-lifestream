@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vive la France! Vive la Tech!… But do these two great tastes taste great together? | TechCrunch
+:jbake-tags: politique,france,numérique,_mois_juin,_année_2016
+:jbake-date: 2016-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1467221995000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftechcrunch.com%2F2016%2F06%2F05%2Fvive-la-vive-la-vive%2F&searchtags=politique+france+num%C3%A9rique+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://techcrunch.com/2016/06/05/vive-la-vive-la-vive/[Vive la France! Vive la Tech!… But do these two great tastes taste great together? | TechCrunch]
+
+Très bon article sur la mauvaise cible des incubateurs en France

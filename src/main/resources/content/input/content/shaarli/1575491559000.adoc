@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spring Boot Maven Plugin – Spring Boot
+:jbake-tags: maven,plugin,spring,configuration,_mois_déc.,_année_2019
+:jbake-date: 2019-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1575491559000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.spring.io%2Fspring-boot%2Fdocs%2F2.2.1.RELEASE%2Fmaven-plugin%2F&searchtags=maven+plugin+spring+configuration+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://docs.spring.io/spring-boot/docs/2.2.1.RELEASE/maven-plugin/[Spring Boot Maven Plugin – Spring Boot]
+
+Il est bien ce plugin qui repackage le JAR pour en faire un "jar-with-dependencies". C'aurait mieux avec une option pour avoir aussi le jar initial (avec un classifier).

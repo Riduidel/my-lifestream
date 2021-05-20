@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sécurité : toutes les Volkswagen peuvent être ouvertes sans clef
+:jbake-tags: voiture,informatique,piratage,_mois_août,_année_2016
+:jbake-date: 2016-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1470931034000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.silicon.fr%2Fsecurite-volkswagen-ouvertes-sans-clef-154939.html&searchtags=voiture+informatique+piratage+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.silicon.fr/securite-volkswagen-ouvertes-sans-clef-154939.html[Sécurité : toutes les Volkswagen peuvent être ouvertes sans clef]
+
+Encore une fois, le monde automobile est à la peine dès qu'il s'agit d'informatique

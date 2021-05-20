@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Change Groovy Grape and Gradle Cache Location and Use Maven Local Repository | Scott Murphy
+:jbake-tags: groovy,maven,documentation,grape,howto,_mois_févr.,_année_2011
+:jbake-date: 2011-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1297088419000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.scottmurphy.info%2Fhow-change-groovy-grape-and-gradle-cache-location-and-use-maven-local-repository&searchtags=groovy+maven+documentation+grape+howto+_mois_f%C3%A9vr.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.scottmurphy.info/how-change-groovy-grape-and-gradle-cache-location-and-use-maven-local-repository[How to Change Groovy Grape and Gradle Cache Location and Use Maven Local Repository | Scott Murphy]
+
+Un petit howto pour que Groovy grape et Maven partagent autant que possible le même repository de dépendances

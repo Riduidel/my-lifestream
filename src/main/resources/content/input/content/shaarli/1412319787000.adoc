@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nomyx, the game where you can change the rules
+:jbake-tags: jeu,online,nomic,programming,haskell,_mois_oct.,_année_2014
+:jbake-date: 2014-10-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1412319787000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nomyx.net%2F&searchtags=jeu+online+nomic+programming+haskell+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.nomyx.net/[Nomyx, the game where you can change the rules]
+
+Une implémentation en haskell de nomic. C'est courageux, parce que par définition le nomic est difficilement traduisible en code. En revanche, le langage choisi (haskell) me paraît pour l'instant à peine compréhensible.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: QCad
+:jbake-tags: software,freeware,open-source,windows,linux,macosx,engineering,dessin,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115654618000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ribbonsoft.com%2Fqcad.html&searchtags=software+freeware+open-source+windows+linux+macosx+engineering+dessin+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ribbonsoft.com/qcad.html[QCad]
+
+QCad is an application for computer aided drafting in two dimensions. With QCad you can create technical drawings such as plans for buildings, interiors or mechanical parts. QCad works under Linux, Unix Systems, Mac OS X and Windows. The source code of QC

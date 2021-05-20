@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Belgarion sagaen
+:jbake-tags: serie
+:jbake-date: 2010-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Belgarion_sagaen.adoc
+:jbake-source: https://www.goodreads.com/series/153436
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266041546.html[La tour des maléfices (La Belgariade, #4)]

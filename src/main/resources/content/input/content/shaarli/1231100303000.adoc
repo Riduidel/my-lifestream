@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven2DistributionManagementOnGooglecode - raisercostin - Google Code - How to configure maven2 distributionManagement to upload release on googlecode.com .
+:jbake-tags: programming,documentation,java,maven,googlecode,webdav,_mois_janv.,_année_2009
+:jbake-date: 2009-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1231100303000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fraisercostin%2Fwiki%2FMaven2DistributionManagementOnGooglecode&searchtags=programming+documentation+java+maven+googlecode+webdav+_mois_janv.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://code.google.com/p/raisercostin/wiki/Maven2DistributionManagementOnGooglecode[Maven2DistributionManagementOnGooglecode - raisercostin - Google Code - How to configure maven2 distributionManagement to upload release on googlecode.com .]
+
+Distribuer une version directement sur google code ... Il y a trois projets sur lesquels j'ai travaillé ou je travaille pour lesquels ça sera plus qu'utile. Mais commençons simplement par majick-properties ...

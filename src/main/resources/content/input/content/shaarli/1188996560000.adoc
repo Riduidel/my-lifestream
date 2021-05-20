@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Official Google Blog: Avoiding RSI
+:jbake-tags: article,éducation,clavier,mouse,productivité,programming,usability,work,_mois_sept.,_année_2007
+:jbake-date: 2007-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1188996560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgoogleblog.blogspot.com%2F2006%2F04%2Favoiding-rsi.html&searchtags=article+%C3%A9ducation+clavier+mouse+productivit%C3%A9+programming+usability+work+_mois_sept.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://googleblog.blogspot.com/2006/04/avoiding-rsi.html[Official Google Blog: Avoiding RSI]
+
+Je commence à être un peu touché par des troubles musculaires aux poignets. Et donc, je me renseigne, notamment chez google

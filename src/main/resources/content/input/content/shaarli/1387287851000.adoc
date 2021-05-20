@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Custom Elements
+:jbake-tags: html,javascript,web,développement,_mois_déc.,_année_2013
+:jbake-date: 2013-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1387287851000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcustomelements.io%2F&searchtags=html+javascript+web+d%C3%A9veloppement+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://customelements.io/[Custom Elements]
+
+Une gallerie de composants HTML5(+Javascript, j'imagine) réutilisables ... Ca pourrait servir

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mutiny!
+:jbake-tags: api,library,java,reactive,programming,_mois_déc.,_année_2020
+:jbake-date: 2020-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1607620529000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsmallrye.io%2Fsmallrye-mutiny%2Findex.html&searchtags=api+library+java+reactive+programming+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://smallrye.io/smallrye-mutiny/index.html[Mutiny!]
+
+J'aimerais bien voir des exemples avec cette API (connaissant le talent des développeurs pour le design d'API)

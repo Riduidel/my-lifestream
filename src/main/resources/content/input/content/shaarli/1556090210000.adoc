@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: hasCode.com » Blog Archive » Testing Java Applications for Resilience by Simulating Network Problems with Toxiproxy, JUnit and the Docker Maven Plugin
+:jbake-tags: programming,java,réseau,chaos,build,test,_mois_avr.,_année_2019
+:jbake-date: 2019-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1556090210000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.hascode.com%2F2018%2F07%2Ftesting-java-applications-for-resilience-by-simulating-network-problems-with-toxiproxy-junit-and-the-docker-maven-plugin%2F&searchtags=programming+java+r%C3%A9seau+chaos+build+test+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.hascode.com/2018/07/testing-java-applications-for-resilience-by-simulating-network-problems-with-toxiproxy-junit-and-the-docker-maven-plugin/[hasCode.com » Blog Archive » Testing Java Applications for Resilience by Simulating Network Problems with Toxiproxy, JUnit and the Docker Maven Plugin]
+
+C'est super intéressant cette idée d'ajouter des problèmes réseau \*dès\* le développement !

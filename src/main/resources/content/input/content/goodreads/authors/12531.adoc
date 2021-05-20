@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Theodore Sturgeon
+:jbake-tags: author
+:jbake-date: 1996-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/12531.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1211292667p5/12531.jpg
+:jbake-source: https://www.goodreads.com/author/show/12531
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266028745.html[Comme une bête]
+* link:../books/9782277123552.html[Les Plus qu'humains]

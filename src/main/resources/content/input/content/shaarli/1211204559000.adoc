@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Web-Based UML Sequence Diagram / MSC Generator
+:jbake-tags: diagram,dessin,online,programming,web,tool,texte,uml,declarative,_mois_mai,_année_2008
+:jbake-date: 2008-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1211204559000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.websequencediagrams.com%2F&searchtags=diagram+dessin+online+programming+web+tool+texte+uml+declarative+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.websequencediagrams.com/[Web-Based UML Sequence Diagram / MSC Generator]
+
+A peu près le meilleur moyen d'édcrire des diagrammes de séquence, quand on n'a pas encore d'objets sous la main.

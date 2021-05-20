@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laying out roles, inventories and playbooks – Random stuff
+:jbake-tags: ansible,documentation,_mois_déc.,_année_2017
+:jbake-date: 2017-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1512401273000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fleucos.github.io%2Fansible-files-layout&searchtags=ansible+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://leucos.github.io/ansible-files-layout[Laying out roles, inventories and playbooks – Random stuff]
+
+Une doc bien claire sur l'organisation des rôles et des playbook dans Ansible

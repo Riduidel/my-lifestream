@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rama
+:jbake-tags: serie
+:jbake-date: 2009-07-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Rama.adoc
+:jbake-source: https://www.goodreads.com/series/49121
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290000380.html[Rama : l'intégrale, Tome 2 (Rama #3-4)]
+* link:../books/9782290000373.html[Rama : l'intégrale, Tome 1]

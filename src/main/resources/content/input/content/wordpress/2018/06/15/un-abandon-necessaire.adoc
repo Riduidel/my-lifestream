@@ -1,0 +1,72 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un abandon nécessaire
+:jbake-tags: algorithme,codingame,mavie,_mois_juin,_année_2018
+:jbake-date: 2018-06-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/15/un-abandon-necessaire.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/15/un-abandon-necessaire/
+:jbake-style: wordpress
+
+++++
+<p>
+La semaine dernière, j'ai appris par des moyens inhabituels que Thalès organisait un concours <a href="https://www.codingame.com/hackathon/thales-2018">Codingame</a>. Donc je me suis inscrit, bien sûr.
+</p>
+<p>
+Et comme d'habitude, je suis parti dans une implémentation basique en Java, avec une machine à états simple et un système multi-agent rudimentaire. Autrement dit, mon algorithme correspondait à ça
+<br/>
+<ul>
+<br/>
+<li>Tu as le drapeau adversaire ? Rentre dans notre base</li>
+<br/>
+<li>Tu n'as pas le drapeau ?
+<br/>
+<ul>
+<br/>
+<li>Tu es le plus proche du drapeau enemi ? Va le chercher</li>
+<br/>
+<li>Tu es le plus proche de notre drapeau ?
+<br/>
+<ul>
+<br/>
+<li>Il est sur un adversaire ? Poursuis-le et percute-le</li>
+<br/>
+<li>Il est dans notre base ? Mets-toi entre lui et les adversaires</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+C'était naïf, et raisonnablement fonctionnel. Du coup je me suis mis en tête de l'améliorer. Et <strong>chaque</strong> modification que j'apportais le rendait un peu moins bon. Mais, à cause de l'<a href="https://fr.wikipedia.org/wiki/Hybris">hubris </a>des développeurs, j'étais convaincu de tenir une solution améliorable. Résultat ? Mercredi soir, alors que j'implémentais un moteur d'évitement (lire un calcul géométrique basique), je me suis rendu compte que j'avais perdu du temps avec des raffinements inutiles alors que j'aurais clairement dû reprendre les choses de zéro et partir sur une solution plus intelligente.
+</p>
+<p>
+Et je ne l'ai pas fait.
+</p>
+<p>
+En fait, j'ai arrêté de coder histoire de réfléchir.
+</p>
+<p>
+Parce que je n'ai de bons résultats à aucun jeu basé sur la géométrie continue, avec des trajectoires, des mobiles à inertie. Alors que quand la géométrie est discrète (façon bomberman ou hypersonic) j'ai des résultats intéressants. Pourquoi ?
+</p>
+<p>
+Il s'avère que dans le second cas, j'ai un modèle d'implémentation de jeu que je peux "facilement" décliner. Mais je n'ai toujours rien dans le premier. Il me faut donc trouver une bonne intuition. En l’occurrence, j'ai la nette impression que modéliser cet environnement par un champ vectoriel serait une bonne idée. MAIS je ne veux pas discrétiser (c’est-à-dire découper le terrain en petits carrés). Parce que c'est long, et surtout parce que c'est moche.
+</p>
+<p>
+Et comme je ne mets aucun espoir dans mes possibilités de victoire, je préfère travailler le style. Du coup il me faut quelque chose qui respecte mes envies de style. Et ces histoires de champ vectoriel, ça ressemble d'assez près aux équations de champ magnétique. Il va donc falloir que j'y jette un oeil sérieux. Mais ça, évidement, je ne peux pas le faire pendant un contest. Je vais donc mettre ce hackathon de côté et, quand j'aurais retrouvé la patate, je m'attaquerai de nouveau à un contest dont je ne suis toujours pas satisfait, bien que je sois gold : <a href="https://www.codingame.com/multiplayer/bot-programming/coders-strike-back">Coders Strike Back</a>. En attendant, je vais me reconcentrer sur <a href="https://www.codingame.com/contests/code-of-kutulu">Code of Kutulu</a>, pour deux très bonnes raisons
+<br/>
+<ol>
+<br/>
+<li>Je vais le faire (mal sans doute) en Rust</li>
+<br/>
+<li>Ce contest sort pour une bonne partie de l'esprit de nmahoude, qui ne peut pas avoir eu une mauvaise idée</li>
+<br/>
+</ol>
+</p>
+++++

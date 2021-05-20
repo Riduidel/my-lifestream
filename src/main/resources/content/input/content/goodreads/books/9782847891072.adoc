@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Hameau des Chênes (Travis, #6.1)
+:jbake-tags:  combat,_année_2012,_mois_mars,_note_2,cyberpunk,read
+:jbake-date: 2012-03-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847891072.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330286359l/7864790._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330286359l/7864790._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7864790
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+- Les gars la surnomment la Tarentule, elle est capable de raser un pâté de maisons en trous heures et de ressortir les gravats broyés, triés, prêts pour le recyclage ! - C'est donc ce monstre qui va dévorer tout cru le Hameau des chênes ! - C'est exact, Travis. C'est la misère, mais l'astroport a besoin d'une grosse extension... Alors tant pis pour les gens du coin.
+</div>
+++++
+
+
+## Authors
+* link:../authors/503980.html[Christophe Quet]
+* link:../authors/503981.html[Fred Duval]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+J'aime moins ce tome, parce qu'il nous ramène dans une réalité banlieusarde franchouillarde, et que les relations entre Travis et "oncle terry" ne sont pas au beau fixe.<br/>Toutefois, comme il s'agit du début d'un nouveau cycle, ça parait assez normal ... même si, encore une fois, les pavillons de banlieue avec jardin tout autour font maintenant partie des clichés qui m'agacent.
+++++

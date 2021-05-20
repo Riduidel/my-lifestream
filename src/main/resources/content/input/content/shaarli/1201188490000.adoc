@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Harmotion - Online Free to Play Shmup
+:jbake-tags: software,freeware,online,jeu,shoot'em'up,windows,_mois_janv.,_année_2008
+:jbake-date: 2008-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1201188490000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.harmotion.net%2Ffrontpage.html&searchtags=software+freeware+online+jeu+shoot%27em%27up+windows+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.harmotion.net/frontpage.html[Harmotion - Online Free to Play Shmup]
+
+Un shoot'em'up gratuit, jouable exclusivement en ligne, et apparement très beau.

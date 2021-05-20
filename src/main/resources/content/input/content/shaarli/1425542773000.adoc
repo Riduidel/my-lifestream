@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cédric Champeau's blog: Who is Groovy?
+:jbake-tags: groovy,histoire,programming,_mois_mars,_année_2015
+:jbake-date: 2015-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1425542773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmelix.github.io%2Fblog%2F2015%2F02%2Fwho-is-groovy.html&searchtags=groovy+histoire+programming+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://melix.github.io/blog/2015/02/who-is-groovy.html[Cédric Champeau's blog: Who is Groovy?]
+
+Un chouette résumé de l'histoire de Groovy.

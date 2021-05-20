@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cfg4j/cfg4j: Modern configuration library for distributed apps written in Java.
+:jbake-tags: java,library,properties,open-source,_mois_févr.,_année_2017
+:jbake-date: 2017-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1487520260000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fcfg4j%2Fcfg4j&searchtags=java+library+properties+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/cfg4j/cfg4j[cfg4j/cfg4j: Modern configuration library for distributed apps written in Java.]
+
+Intéressant ... cela dit, hocon doit faire à peu près la même chose ...

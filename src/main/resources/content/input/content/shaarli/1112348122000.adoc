@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: learn web standards :: css browser support
+:jbake-tags: web,css,langage,documentation,standard,browser,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348122000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.westciv.com%2Fstyle_master%2Facademy%2Fbrowser_support%2F&searchtags=web+css+langage+documentation+standard+browser+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.westciv.com/style_master/academy/browser_support/[learn web standards :: css browser support]
+
+In this section you will find browser support information for all of CSS1 and CSS2. We've divided the specification into a number of logical parts, which are listed below with their contents.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Physics 200A
+:jbake-tags: software,freeware,open-source,library,_mois_janv.,_année_2006
+:jbake-date: 2006-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1136798793000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fphysics.ucsd.edu%2Fstudents%2Fcourses%2Ffall2005%2Fphysics200a%2Fmac_stuff.html&searchtags=software+freeware+open-source+library+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://physics.ucsd.edu/students/courses/fall2005/physics200a/mac_stuff.html[Physics 200A]
+
+

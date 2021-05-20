@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MoinX
+:jbake-tags: software,freeware,macosx,productivité,wiki,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112184913000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmoinx.antbear.org%2F&searchtags=software+freeware+macosx+productivit%C3%A9+wiki+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://moinx.antbear.org/[MoinX]
+
+a Mac OS X desktop Wiki, built with ease of use in mind and rich with features. MoinX gives you a full blown and unmodified MoinMoin wiki without forcing you to run a full blown web server. Instead MoinX is bundled with the high performance Twisted webse

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Richard Monson-Haefel on Twitter: "Java, Kotlin, Groovy, Clojure, Scala and others embrace different programing styles and paradigms. It’s amazing to consider the versistility of the JVM! We should celebrate the diversity of languages that our platform supports, not argue over which is better. It’s all good!… https://t.co/VpaL2S39vJ"
+:jbake-tags: citation,programming,java,_mois_avr.,_année_2018
+:jbake-date: 2018-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1522734672000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frmonson%2Fstatus%2F980823845702479872&searchtags=citation+programming+java+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/rmonson/status/980823845702479872[Richard Monson-Haefel on Twitter: "Java, Kotlin, Groovy, Clojure, Scala and others embrace different programing styles and paradigms. It’s amazing to consider the versistility of the JVM! We should celebrate the diversity of languages that our platform supports, not argue over which is better. It’s all good!… https://t.co/VpaL2S39vJ"]
+
+La variété, c'est effectivement bien. Mais Kotlin me fait toujours l'effet d'un certain opportunisme ...

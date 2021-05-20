@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Apple Seed 1 (Appleseed, #1)
+:jbake-tags:  combat, cyberpunk, cyborg, ia, politique, post-apo, voyage,_année_2012,_mois_juin,_note_5,rayon-bd,read
+:jbake-date: 2012-06-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782876952287.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1311063
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+L'action se situe au tout début du 22ème siècle à la suite d'un conflit armé ayant débouché sur une guerre mondiale.<br /> La paix vient tout juste d'être rétablie, et les nouveaux pouvoirs politiques se mettent en place. Cette répartition des responsabilités est contrôlée de main de maître par un organisme nommé Aegis, dont une partie du personnel est constitué de Bioroïds (des humains artificiels). C'est alors que toutes les nations terriennes commencent à relever la tête et à réparer les dégâts causés par la guerre que débute l'histoire qui nous intéresse...
+</div>
+++++
+
+
+## Authors
+* link:../authors/4866.html[Masamune Shirow]
+
+## Series
+* link:../series/Appleseed.html[Appleseed]
+
+## Review
+
+++++
+Ce premier tome présente clairement les enjeux et les intérêts de cette série : il y sera question d'un monde reconstruit après une guerre mondiale, monde dans lequel les développements cybernétiques ont permis l'apparition de robots humanoides emportant dans un cockpit intégré leur pilote (ma description est évidement moins claire que les dessins).<br/>Les deux personnages principaux, Briareos et Dunan,  quittent une ville abandonnée qu'ils squattent pour rejoindre Olympus, une vile un peu utopique dans laquelle ils vont servir les plans de certains politiciens ...<br/>Ils y découvrent une humanité partagée entre humains originels et boiroïds (des formes spécifiques d'ingéniérie génétique), et une espèce de violence cachée, qui s'exprimera déja dans la fin de ce premier tome lors d'un passage rempli de très gros flingues.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pilote de clavier français enrichi pour Microsoft Windows
+:jbake-tags: software,freeware,windows,driver,clavier,_mois_févr.,_année_2005
+:jbake-date: 2005-02-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1108631673000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhome-14.tiscali-business.nl%2F%7Efbou2235%2Fkbdfrac.htm&searchtags=software+freeware+windows+driver+clavier+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://home-14.tiscali-business.nl/~fbou2235/kbdfrac.htm[Pilote de clavier français enrichi pour Microsoft Windows]
+
+Si vous utilisez Windows et que votre clavier est un clavier AZERTY français, vous aurez remarqué qu'il manque à ce clavier la possibilité de générer un certain nombre de signes pourtant bien utiles. Il manque notamment au pilote français « standa

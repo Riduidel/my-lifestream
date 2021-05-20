@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Âge de diamant
+:jbake-tags:  asie, complot, enfant, initiation, innocence, rayon-imaginaire,_année_2010,_mois_août,_note_5,nano,read
+:jbake-date: 2010-08-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782253072102.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/251604
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Un monde de l'avenir bardé de nanotechnologies, d'univers virtuels, de réseaux neuronaux et d'intelligences qui s'efforcent d'être le plus artificiel possible.<br /><br />Une petite fille qui reçoit une éducation singulière grâce à un Livre Mentor qui raconte des histoires.<br /><br />Et tout cela dans une Chine de l'avenir partagée entre les territoires des sectes, les enclaves des multinationales et les espaces électroniques.
+</div>
+++++
+
+
+## Authors
+* link:../authors/545.html[Neal Stephenson]
+* link:../authors/114513.html[Yves Bonnefoy]
+
+
+
+## Review
+
+++++
+Dans ce roman, on suit sur une vingtaine d'années le destin de quelques personnages, liés de plus ou moins près aux "manuels illustrés d'éducation à l'usage des jeunes filles". Ces manuels sont des artefacts issus d'une nanotechnologie aussi présente qu'abondante, en ces années 2100 (enfin, je crois, il faut avouer que l'auteur n'est pas très temporellement précis, ce qui est dans ce cas une qualité). Trois de ces manuels seront d'abord créés, avant que des centaines de milliers d'autres ne le soient à leur tour. Et bien sûr, c'est le destin des propriétaires de ces trois romans qui nous intéresse (mais que je ne vous dévoilerai évidement pas).<br/>J'avais lu ce roman il y a une bonne dizaine d'années, je crois, et en avais gardé le souvenir d'un ouvrage un peu abscons, mais curieusement fascinant.<br/>Aujourd'hui, en tant que père de famille, je suis beaucoup plus touché par la dimension éducative de ce roman, dans lequel j'ai bien l'impression que <a class="DirectAuthorReference destination_Author" href="../authors/545.html">Neal Stephenson</a> a voulu placer tous ses rêves en terme d'éducation pour geek.<br/>En effet, le but explicite de ce roman est de placer dans les mains de nos chères têtes blondes un manuel capable de répondre à toutes leurs questions (les fameux "pourquoi") sans jamais les freiner, en leur offrant une authentique capacité fractale de compréhension : chaque réponse entraîne une autre question qui plonge l'enfant encore plus au coeur de la connaissance. Et en un sens, on n'est pas forcément étonné de découvrir que Nell, qui est un peu l'héroïne de ce roman, se retrouve à quinze ans capable de programmer des machines de Turing loin d'être rudimentaires, puisqu'elles animent tout un royaume. Qui plus est, de par sa vision un peu anarchiste, l'auteur donne à ces manuels la capacité d'être subversifs, c'est-à-dire de pousser l'enfant en dehors des sentiers battus. Là où il pourra aller en fait le plus loin sans jamais être ramené à la norme par un système éducatif qui se comporte en système de pensée (et pas en système d'éducation).<br/>Ce côté subversif, on le voit aussi bien dans le contenu du manuel que dans la manière dont il va être détourné de son usage élitiste initial par d'habiles faussaires chinois (je me suis d'ailleurs pris, l'espace d'un instant, à rêver d'usines chinoises du calibre de celles de ce roman) pour apporter eux aussi cette subversion - et surtout cette connaissance - à leurs enfants.<br/>Une excellente lecture donc, pas forcément simple (comme toujours avec Stephenson), mais pleine de profondeur et d'intérêt.
+++++

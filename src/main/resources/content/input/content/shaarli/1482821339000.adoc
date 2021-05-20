@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Baptiste Mathus on Twitter: "Quand une entreprise qui se prétend mondiale parle de faire des trucs impactants "la nuit". Tu sens qu'il y a encore un long chemin à faire…"
+:jbake-tags: citation,architecture,batch,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482821339000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbmathus%2Fstatus%2F810505899152408576&searchtags=citation+architecture+batch+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/bmathus/status/810505899152408576[Baptiste Mathus on Twitter: "Quand une entreprise qui se prétend mondiale parle de faire des trucs impactants "la nuit". Tu sens qu'il y a encore un long chemin à faire…"]
+
+Mouaip ... et le terme de "nuit batch", on en parle ?

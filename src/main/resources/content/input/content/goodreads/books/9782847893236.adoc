@@ -1,0 +1,33 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Cercueil enchaîné (Hellboy #3)
+:jbake-tags:  fantastique,_année_2011,_mois_déc.,_note_3,rayon-bd,read
+:jbake-date: 2011-12-17
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847893236.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413147479l/2709684._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413147479l/2709684._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2709684
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+LA SÉRIE<br />Créature venu d'une autre dimension, Hellboy est apparu à la suite d'expériences menées par les nazis au cours de la Seconde Guerre mondiale. Devenu membre du Bureau de Recherche et de Défense sur le Paranormal (B.P.R.D.), il enquête dans le monde entier sur des événements surnaturels où sont impliquées des émanations «maléfiques »... Au cours de ses investigations, il croise et cherche à détruire toutes sortes de démons, esprits et autres golems, resurgis des âges les plus sombres de l'humanité.<br /><br />RÉSUMÉ DE L'ÉPISODE<br />Hellboy explore un univers noir situé en cette fin de siècle, inspiré de différentes mythologies et croyances antiques, médiévales ou bien encore païennes néo-nazies. Monstre né en enfer et ramené sur terre par la volonté des hommes, Hellboy est une crétaure aussi humaine que possible qui officie pour le Bureau de Recherche Paranormale de la Défense. En quête de rédemption, il pourchasse sans pitié les démons et les nazis.
+</div>
+++++
+
+
+## Authors
+* link:../authors/10182.html[Mike Mignola]
+
+## Series
+* link:../series/Hellboy.html[Hellboy]
+* link:../series/Hellboy_-_Edicao_Historica.html[Hellboy - Edição Histórica]
+* link:../series/Hellboy_Edicao_Historica.html[Hellboy Edição Histórica]
+* link:../series/Hellboy__Edicion_rustica.html[Hellboy: Edición rústica]
+
+## Review
+
+++++
+C'est hélas le premier tome se composant de récits courts. hélas ... c'est vite dit, puisque l'histoire éponyme semble convoquer en moins de dix pages un ancien démon, c'est vrai, mais aussi le talent littéraire d'écrivains depuis longtemps disparus.<br/>Et c'est bien ça tout le sel de Hellboy : à côté de ce démon grognon et revanchard, qui passe son temps à insulter et provoquer les monstruosités qu'il combat, on trouve - parfois - des récits emplis d'un authentique esprit mauvais ... diabolique, même.
+++++

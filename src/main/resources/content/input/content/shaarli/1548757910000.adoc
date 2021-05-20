@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cron-job.org - Free cronjobs - from minutely to once a year.
+:jbake-tags: cron,web,orchestrator,_mois_janv.,_année_2019
+:jbake-date: 2019-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1548757910000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcron-job.org%2Fen%2F&searchtags=cron+web+orchestrator+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://cron-job.org/en/[cron-job.org - Free cronjobs - from minutely to once a year.]
+
+C'est pas une mauvaise idée d'orchestration externe ... mais quand le web est down, tes cronjobs aussi :-/

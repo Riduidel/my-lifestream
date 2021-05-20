@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What Makes A Good Data Visualization? | Information Is Beautiful
+:jbake-tags: web,visualisation,_mois_mai,_année_2015
+:jbake-date: 2015-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1431628951000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.informationisbeautiful.net%2Fvisualizations%2Fwhat-makes-a-good-data-visualization%2F&searchtags=web+visualisation+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/[What Makes A Good Data Visualization? | Information Is Beautiful]
+
+Un joli diagramme illustrant ce que peut être une bonne visualisation

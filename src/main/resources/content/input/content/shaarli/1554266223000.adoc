@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sci Hub on Twitter: "The main rhetoric used against Sci-Hub goes like: yes sharing knowledge is good, but Sci-Hub is bad, because it is illegal. Don't buy it. Any country can easily make Sci-Hub legal by fixing the law, if they really want to support open knowledge"
+:jbake-tags: recherche,communication,droit,_mois_avr.,_année_2019
+:jbake-date: 2019-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1554266223000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FSci_Hub%2Fstatus%2F1112875999342063616&searchtags=recherche+communication+droit+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/Sci_Hub/status/1112875999342063616[Sci Hub on Twitter: "The main rhetoric used against Sci-Hub goes like: yes sharing knowledge is good, but Sci-Hub is bad, because it is illegal. Don't buy it. Any country can easily make Sci-Hub legal by fixing the law, if they really want to support open knowledge"]
+
+A ce sujet, n'oubliez pas que les éditeurs scientifiques s'enrichissent grâce à des recherches payées par nos impôts.

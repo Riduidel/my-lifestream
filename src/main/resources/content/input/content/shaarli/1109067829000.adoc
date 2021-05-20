@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mark Light - The Zen Garden
+:jbake-tags: web,bizarre,zen,jardin,_mois_févr.,_année_2005
+:jbake-date: 2005-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1109067829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cea2.mdx.ac.uk%2FlceaSite%2Fgallery%2Fzengarden%2F&searchtags=web+bizarre+zen+jardin+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cea2.mdx.ac.uk/lceaSite/gallery/zengarden/[Mark Light - The Zen Garden]
+
+A wonderful flash animation allowing one to have it's very own zen garden

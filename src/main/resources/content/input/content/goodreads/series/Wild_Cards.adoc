@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wild Cards
+:jbake-tags: serie
+:jbake-date: 2018-01-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Wild_Cards.adoc
+:jbake-source: https://www.goodreads.com/series/40686
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290068632.html[Wild Cards (Wild Cards, #1)]
+* link:../books/9782290068649.html[WILD CARDS T.02 : ACES HIGH]
+* link:../books/9782290068656.html[Jokers Wild (Wild Cards, #3)]

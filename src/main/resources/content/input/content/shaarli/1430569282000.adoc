@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Channing Walton on Twitter: "“Estimate?” “Why?” “For the plan!” “And when I’m wrong?” “We change the plan.” “That all?” “Yup.” “1 year.” “Unacceptable!” “1 day?” “Ok” 👍"
+:jbake-tags: citation,planning,estimation,programming,_mois_mai,_année_2015
+:jbake-date: 2015-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1430569282000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fchanningwalton%2Fstatus%2F591672083370921984&searchtags=citation+planning+estimation+programming+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/channingwalton/status/591672083370921984[Channing Walton on Twitter: "“Estimate?” “Why?” “For the plan!” “And when I’m wrong?” “We change the plan.” “That all?” “Yup.” “1 year.” “Unacceptable!” “1 day?” “Ok” 👍"]
+
+“Estimate?” “Why?” “For the plan!” “And when I’m wrong?” “We change the plan.” “That all?” “Yup.” “1 year.” “Unacceptable!” “1 day?” “Ok”

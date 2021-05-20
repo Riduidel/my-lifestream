@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Avec Locatio, le gouvernement va (encore) emmerder les plus pauvres | Slate.fr
+:jbake-tags: france,politique,éthique,informatique,algorithme,_mois_avr.,_année_2019
+:jbake-date: 2019-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1555946092000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.fr%2Fstory%2F176004%2Flocatio-start-up-logement-location-dossiers-pauvrete&searchtags=france+politique+%C3%A9thique+informatique+algorithme+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.slate.fr/story/176004/locatio-start-up-logement-location-dossiers-pauvrete[Avec Locatio, le gouvernement va (encore) emmerder les plus pauvres | Slate.fr]
+
+Evidement, la haine des pauvres se porte bien. Mais là, si cette haine est algorithmisée, il y a des développeurs derrière. Et c'est à eux que j'en veux, de se mettre dans les pas de ce gouvernement.

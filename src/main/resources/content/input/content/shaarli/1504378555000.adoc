@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSSFX integrated into ScenicView
+:jbake-tags: css,javafx,programming,_mois_sept.,_année_2017
+:jbake-date: 2017-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1504378555000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.matthieu.brouillard.fr%2F2014%2F11%2F16%2Fcssfx-demo-integration-in-scenicview%2F&searchtags=css+javafx+programming+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://blog.matthieu.brouillard.fr/2014/11/16/cssfx-demo-integration-in-scenicview/[CSSFX integrated into ScenicView]
+
+Sacrément intéressant

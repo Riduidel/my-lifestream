@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven Release Plugin: The Final Nail in the Coffin - Axel Fontaine - Entrepreneur, Architect, Developer, Trainer, Public Speaker, Author
+:jbake-tags: maven,release,git,jenkins,continuous,_mois_mai,_année_2016
+:jbake-date: 2016-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1464697134000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faxelfontaine.com%2Fblog%2Ffinal-nail.html&searchtags=maven+release+git+jenkins+continuous+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://axelfontaine.com/blog/final-nail.html[Maven Release Plugin: The Final Nail in the Coffin - Axel Fontaine - Entrepreneur, Architect, Developer, Trainer, Public Speaker, Author]
+
+Quand je pense que j'ai fait refaire ça (mal) avec des scripts Ruby/Groovy à un collègue ...

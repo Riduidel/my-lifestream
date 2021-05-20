@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: aliostad/SuperBenchmarker: Apache Benchmark (ab.exe) on steroids
+:jbake-tags: web,performance,test,command-line,_mois_juin,_année_2018
+:jbake-date: 2018-06-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1529919841000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Faliostad%2FSuperBenchmarker&searchtags=web+performance+test+command-line+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/aliostad/SuperBenchmarker[aliostad/SuperBenchmarker: Apache Benchmark (ab.exe) on steroids]
+
+Dis donc ! Apache Bench on Steroids, carrément ! Eh ben en fait, c'est assez vrai, parce que l'outil est simple, puissant, et semble même capable de générer un graphique des temps de réponse.

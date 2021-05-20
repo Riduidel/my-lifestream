@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ownership in Rust, Part 1 – Thomas Countz – Medium
+:jbake-tags: programming,mémoire,rust,documentation,_mois_août,_année_2018
+:jbake-date: 2018-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1533557560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40thomascountz%2Fownership-in-rust-part-1-112036b1126b&searchtags=programming+m%C3%A9moire+rust+documentation+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://medium.com/@thomascountz/ownership-in-rust-part-1-112036b1126b[Ownership in Rust, Part 1 – Thomas Countz – Medium]
+
+Une explication très claire et complète de l'ownership Rust

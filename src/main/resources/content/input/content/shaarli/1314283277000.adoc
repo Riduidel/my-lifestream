@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: X-Mouse Button Control
+:jbake-tags: software,freeware,windows,matériel,mouse,_mois_août,_année_2011
+:jbake-date: 2011-08-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1314283277000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.highrez.co.uk%2Fdownloads%2FXMouseButtonControl.htm&searchtags=software+freeware+windows+mat%C3%A9riel+mouse+_mois_ao%C3%BBt+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.highrez.co.uk/downloads/XMouseButtonControl.htm[X-Mouse Button Control]
+
+Un petit soft bien sympa qui va par exemple me permettre de passer d'une configuration gaucher à une configuration droitier d'un coup de cuillère à pot (en l'occurence quand SCROLL LOCK est activé).

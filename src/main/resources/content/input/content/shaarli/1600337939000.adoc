@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: odrotbohm/moduliths: Building modular, monolithic applications using Spring Boot
+:jbake-tags: architecture,application,spring,validation,_mois_sept.,_année_2020
+:jbake-date: 2020-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1600337939000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fodrotbohm%2Fmoduliths&searchtags=architecture+application+spring+validation+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/odrotbohm/moduliths[odrotbohm/moduliths: Building modular, monolithic applications using Spring Boot]
+
+Oh je sens que je vais regarder ça en détail plus tard ...

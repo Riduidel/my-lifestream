@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simple Introduction to Monads - With Java Examples
+:jbake-tags: java,functionnal,programming,monade,tutorial,_mois_janv.,_année_2021
+:jbake-date: 2021-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1610530107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.ppl-lang.dev%2Fblog%2Fintroduction-to-monads-with-java%2Findex.html&searchtags=java+functionnal+programming+monade+tutorial+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.ppl-lang.dev/blog/introduction-to-monads-with-java/index.html[Simple Introduction to Monads - With Java Examples]
+
+Je crois que c'est le premier article sur les monades que je comprenne vraiment (normal, puisqu'il s'adresse précisément à moi).

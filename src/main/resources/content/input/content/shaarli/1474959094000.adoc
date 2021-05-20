@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Git didn’t beat SVN, GitHub did.
+:jbake-tags: git,github,subversion,programming,_mois_sept.,_année_2016
+:jbake-date: 2016-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1474959094000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.gitprime.com%2Fgit-didnt-beat-svn-github-did%3Fref%3Dquuu&searchtags=git+github+subversion+programming+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.gitprime.com/git-didnt-beat-svn-github-did?ref=quuu[Git didn’t beat SVN, GitHub did.]
+
+J'ai pas tout lu, mais je suis quand même d'accord : la killer feature de git, c'est github !

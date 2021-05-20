@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EclipseSource Oomph Profile – updated to Photon – EclipseSource
+:jbake-tags: eclipse,programming,plugin,editor,_mois_juil.,_année_2018
+:jbake-date: 2018-07-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1530860481000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Feclipsesource.com%2Fblogs%2F2018%2F07%2F02%2Feclipsesource-oomph-profile-updated-to-photon%2F&searchtags=eclipse+programming+plugin+editor+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://eclipsesource.com/blogs/2018/07/02/eclipsesource-oomph-profile-updated-to-photon/[EclipseSource Oomph Profile – updated to Photon – EclipseSource]
+
+Wow, on peut enfin faire dans Eclipse ce qui existe dans VS Code (par exemple), c'est-à-dire avoir des décorations \*dans\* l'éditeur de texte. C'est chouette !

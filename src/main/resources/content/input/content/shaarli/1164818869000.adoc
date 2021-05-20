@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ToDoList 5.0.1 - A simple but effective way to keep on top of your tasks - The Code Project - Free Tools
+:jbake-tags: freeware,management,développement,productivité,programming,software,projet,tool,windows,_mois_nov.,_année_2006
+:jbake-date: 2006-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1164818869000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.codeproject.com%2Ftools%2Ftodolist2.asp&searchtags=freeware+management+d%C3%A9veloppement+productivit%C3%A9+programming+software+projet+tool+windows+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.codeproject.com/tools/todolist2.asp[ToDoList 5.0.1 - A simple but effective way to keep on top of your tasks - The Code Project - Free Tools]
+
+Un outil de gestion de tâches spécifique Windows ...

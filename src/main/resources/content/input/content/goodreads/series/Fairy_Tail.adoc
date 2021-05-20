@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fairy Tail
+:jbake-tags: serie
+:jbake-date: 2016-07-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Fairy_Tail.adoc
+:jbake-source: https://www.goodreads.com/series/138405
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782845999145.html[Fairy Tail, Tome 1 (Fairy Tail, #1)]

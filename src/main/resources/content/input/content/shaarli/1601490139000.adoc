@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: builtbybel/sharpapp: 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more
+:jbake-tags: open-source,software,windows,nettoyage,intimité,sécurité,performance,_mois_sept.,_année_2020
+:jbake-date: 2020-09-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1601490139000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fbuiltbybel%2Fsharpapp&searchtags=open-source+software+windows+nettoyage+intimit%C3%A9+s%C3%A9curit%C3%A9+performance+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/builtbybel/sharpapp[builtbybel/sharpapp: 💩⭐️🚀A #app with cutting edge technology to #minimize windows-10 telemetry and #maximize privacy plus many more]
+
+Un bon moyen de nettoyer Windows 10. Et open-source !

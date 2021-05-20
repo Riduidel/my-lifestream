@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: g4j - GMail API For Java
+:jbake-tags: GMail,java,open,software,source,_mois_sept.,_année_2004
+:jbake-date: 2004-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1095409133000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fg4j.sourceforge.net%2F&searchtags=GMail+java+open+software+source+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://g4j.sourceforge.net/[g4j - GMail API For Java]
+
+GMailer API for Java (g4j) is set of API that allows Java programmer to communicate to GMail. With G4J programmers can made Java based application that based on huge storage of GMail. An Email application, GMailer for Java is also built to demonstrate

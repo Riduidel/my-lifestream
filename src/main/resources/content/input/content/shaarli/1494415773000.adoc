@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: WebSlides: Create Beautiful HTML Presentations
+:jbake-tags: web,présentation,software,freeware,_mois_mai,_année_2017
+:jbake-date: 2017-05-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1494415773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwebslides.tv%2F%23slide%3D1&searchtags=web+pr%C3%A9sentation+software+freeware+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://webslides.tv/#slide=1[WebSlides: Create Beautiful HTML Presentations]
+
+Apparement très joli ... J'espère juste que c'est utilisable facilement hors ligne

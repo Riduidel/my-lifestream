@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: David W. Mack
+:jbake-tags: author
+:jbake-date: 2013-10-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/10455.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1368554593p5/10455.jpg
+:jbake-source: https://www.goodreads.com/author/show/10455
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782845380547.html[Métamorphose, Kabuki #1]
+* link:../books/9782845381780.html[Recueil, Kabuki #2]

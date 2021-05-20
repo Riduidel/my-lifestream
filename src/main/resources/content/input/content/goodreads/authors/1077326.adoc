@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J.K. Rowling
+:jbake-tags: author
+:jbake-date: 2006-07-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1077326.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1596216614p5/1077326.jpg
+:jbake-source: https://www.goodreads.com/author/show/1077326
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070572670.html[Harry Potter et le Prince de Sang-Mêlé (Harry Potter, #6)]
+* link:../books/9782070615360.html[Harry Potter et les Reliques de la Mort (Harry Potter, #7)]

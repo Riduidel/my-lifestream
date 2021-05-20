@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: saturn2015-software-architecture-as-code.key - saturn2015-software-architecture-as-code.pdf
+:jbake-tags: software,architecture,concepts,_mois_mai,_année_2015
+:jbake-date: 2015-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1431848024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstatic.codingthearchitecture.com%2Fpresentations%2Fsaturn2015-software-architecture-as-code.pdf&searchtags=software+architecture+concepts+_mois_mai+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://static.codingthearchitecture.com/presentations/saturn2015-software-architecture-as-code.pdf[saturn2015-software-architecture-as-code.key - saturn2015-software-architecture-as-code.pdf]
+
+Intéressant ... Je crois bien que je vais devoir me l'imprimer ...

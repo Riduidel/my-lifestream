@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Windows 7 Logon Background Changer - Customize your Windows 7 welcome screen wallpaper
+:jbake-tags: windows,software,freeware,open-source,_mois_févr.,_année_2015
+:jbake-date: 2015-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1423405516000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.julien-manici.com%2Fwindows_7_logon_background_changer%2F&searchtags=windows+software+freeware+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.julien-manici.com/windows_7_logon_background_changer/[Windows 7 Logon Background Changer - Customize your Windows 7 welcome screen wallpaper]
+
+Changer facilement le fond d'écran de login de Windows 7 ... Ca va me servir

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Oui, et alors ?
+:jbake-tags: politique,sécurité,internet,_mois_août,_année_2016
+:jbake-date: 2016-08-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1471113099000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fedgard.fdn.fr%2Fblog%2Findex.php&searchtags=politique+s%C3%A9curit%C3%A9+internet+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://edgard.fdn.fr/blog/index.php[Oui, et alors ?]
+
+Très bonne analyse sur cette proposition inique de limitation du chiffrement

@@ -1,0 +1,26 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sergio Toppi
+:jbake-tags: author
+:jbake-date: 2010-02-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/555180.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1265967175p5/555180.jpg
+:jbake-source: https://www.goodreads.com/author/show/555180
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782352830511.html[Aioranguaq ;Pribikoff 1898 ; Un Dieu Mineur]
+* link:../books/9782352830726.html[Le dossier Kokombo]
+* link:../books/9782352830924.html[Ogoniok]
+* link:../books/9782908551303.html[Le calumet de Pierre Rouge]
+* link:../books/9782908551334.html[Sharaz-De]
+* link:../books/9782908551402.html[Myetzko]
+* link:../books/9782908551488.html[Warramunga]
+* link:../books/9782908551501.html[Le Joyau Mongol]
+* link:../books/9782908551549.html[L'obélisque Abyssin]
+* link:../books/9782908551570.html[La légende de Potosi]
+* link:../books/9782908551600.html[Le Sceptre De Muiredeagh]
+* link:../books/9782908551822.html[Le collier de Padmasumbawa]
+* link:../books/9782908551983.html[Blues]
+* link:../books/9872352832768.html[Chapungo]

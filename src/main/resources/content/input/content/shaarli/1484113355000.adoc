@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cache, a Microsoft Garage Project
+:jbake-tags: software,freeware,windows,system,clipboard,_mois_janv.,_année_2017
+:jbake-date: 2017-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1484113355000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.thecacheapp.com%2F&searchtags=software+freeware+windows+system+clipboard+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.thecacheapp.com/[Cache, a Microsoft Garage Project]
+
+Très jolie application qui fait un peu tout : prise de notes, presse-papier, ...

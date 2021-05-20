@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DAEMON Tools Homepage :: News
+:jbake-tags: cd-rom,image,software,system,windows,_mois_oct.,_année_2004
+:jbake-date: 2004-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1096880232000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.daemon-tools.cc%2Fdtcc%2Fportal%2Fportal.php&searchtags=cd-rom+image+software+system+windows+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.daemon-tools.cc/dtcc/portal/portal.php[DAEMON Tools Homepage :: News]
+
+Virtual CD/DVD

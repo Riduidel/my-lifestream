@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevoxxFR – Lambda Architecture – Choose your tools for Real-Time Big Data | Blog Xebia France
+:jbake-tags: web,hype,buzz,java,architecture,développement,_mois_mai,_année_2014
+:jbake-date: 2014-05-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1399473265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.xebia.fr%2F2014%2F05%2F07%2Fdevoxxfr-lambda-architecture-choose-tools-for-real-time-big-data%2F&searchtags=web+hype+buzz+java+architecture+d%C3%A9veloppement+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.xebia.fr/2014/05/07/devoxxfr-lambda-architecture-choose-tools-for-real-time-big-data/[DevoxxFR – Lambda Architecture – Choose your tools for Real-Time Big Data | Blog Xebia France]
+
+Très chouette article à rapprocher évidement de CQRS (c'est E. Bernard qui el dit dans l'épisode des castcodeurs). dataiku a l'air d'une boîte quif ait des trucs bien chouettes ...

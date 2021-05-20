@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ext2 IFS For Windows
+:jbake-tags: driver,freeware,linux,partition,sharing,software,windows,XP,open-source,_mois_janv.,_année_2008
+:jbake-date: 2008-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1199524102000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fs-driver.org%2Findex.html&searchtags=driver+freeware+linux+partition+sharing+software+windows+XP+open-source+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.fs-driver.org/index.html[Ext2 IFS For Windows]
+
+Un driver permettant d'accéder à des partitions ext2fs et ext3fs depuis Windows. Et lui, il marche.

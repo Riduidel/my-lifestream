@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A la Une: haro sur Sarkozy ! - RFI
+:jbake-tags: france,politique,justice,_mois_mars,_année_2018
+:jbake-date: 2018-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1521619718000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.rfi.fr%2Femission%2F20180321-une-haro-sarkozy%3Fref%3Dtw_i&searchtags=france+politique+justice+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.rfi.fr/emission/20180321-une-haro-sarkozy?ref=tw_i[A la Une: haro sur Sarkozy ! - RFI]
+
+Au moins, la presse africaine est claire ...

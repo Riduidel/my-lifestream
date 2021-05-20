@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: : : Mac OS X facile : : Accueil
+:jbake-tags: web,macosx,documentation,tutorial,_mois_févr.,_année_2005
+:jbake-date: 2005-02-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1109235899000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.osxfacile.com%2F&searchtags=web+macosx+documentation+tutorial+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.osxfacile.com/[: : Mac OS X facile : : Accueil]
+
+L'objet de ce site est clair : La plupart des utilisateurs Mac sont, comme moi, des particuliers qui ont choisi d'acquérir un ordinateur "à la Pomme" non seulement en raison de la fiabilité et de la convivialité du Mac, mais aussi pour cet "Espr

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A visual guide on troubleshooting Kubernetes deployments
+:jbake-tags: kubernetes,debug,_mois_déc.,_année_2019
+:jbake-date: 2019-12-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1575578376000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flearnk8s.io%2Ftroubleshooting-deployments&searchtags=kubernetes+debug+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://learnk8s.io/troubleshooting-deployments[A visual guide on troubleshooting Kubernetes deployments]
+
+Le debug sur Kubernetes est facilement complexe. Heureusement, avec cet article, ça m'a l'air potentiellement plus facile.

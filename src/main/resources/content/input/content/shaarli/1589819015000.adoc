@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mark Seemann sur Twitter : "🔴 Don't say anything in the issue tracker you can say in a commit message. 🟠 Don't say anything with a commit message you can say in a comment. 🟡 Don't say anything with a comment you can say with a method name. 🟢 Don't say anything with a method name you can say with a type."
+:jbake-tags: documentation,bug,test,commentaire,code,_mois_mai,_année_2020
+:jbake-date: 2020-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1589819015000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fploeh%2Fstatus%2F1261739479439679490&searchtags=documentation+bug+test+commentaire+code+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ploeh/status/1261739479439679490[Mark Seemann sur Twitter : "🔴 Don't say anything in the issue tracker you can say in a commit message. 🟠 Don't say anything with a commit message you can say in a comment. 🟡 Don't say anything with a comment you can say with a method name. 🟢 Don't say anything with a method name you can say with a type."]
+
+Tous ces conseils sont parfaitement justes ... sauf lorsqu'ils sont impossibles (ce qui peut arriver)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bruno Borges sur Twitter : "A #JavaFX hello world application can consume as much as 50% *less* memory than an #Electron hello world application. The JVM is lightweight. #Java" / Twitter
+:jbake-tags: citation,mémoire,java,javafx,optimisation,_mois_sept.,_année_2020
+:jbake-date: 2020-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1600774465000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbrunoborges%2Fstatus%2F1307635017716121605&searchtags=citation+m%C3%A9moire+java+javafx+optimisation+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/brunoborges/status/1307635017716121605[Bruno Borges sur Twitter : "A #JavaFX hello world application can consume as much as 50% *less* memory than an #Electron hello world application. The JVM is lightweight. #Java" / Twitter]
+
+La meilleure partie de la citation est évidement la dernière phrase 😉

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chris Coyier sur Twitter : "Who’s gonna read your personal blog because it has an RSS feed? I’m gonna read your personal blog because it has an RSS feed.… https://t.co/nUSsC50AbQ"
+:jbake-tags: web,rss,rss-bridge,_mois_janv.,_année_2020
+:jbake-date: 2020-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1578499744000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fchriscoyier%2Fstatus%2F1214606808125341696&searchtags=web+rss+rss-bridge+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/chriscoyier/status/1214606808125341696[Chris Coyier sur Twitter : "Who’s gonna read your personal blog because it has an RSS feed? I’m gonna read your personal blog because it has an RSS feed.… https://t.co/nUSsC50AbQ"]
+
+Je vais le tourner autrement : si ton site n'a pas de flux RSS, je vais devoir lui en donner un par la grâce de RSS-Bridge.

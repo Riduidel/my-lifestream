@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Netstation Linux - Introduction
+:jbake-tags: thinclient,linux,réseau,windows,lightweight,_mois_févr.,_année_2007
+:jbake-date: 2007-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1171033242000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnetstation.sourceforge.net%2Findex.html&searchtags=thinclient+linux+r%C3%A9seau+windows+lightweight+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://netstation.sourceforge.net/index.html[Netstation Linux - Introduction]
+
+Micro-distribution transformant un PC (donc une tour ou un portable) classique en terminal léger. Le genre de truc qui me plairait tout-à-fait pour de multiples usages ...

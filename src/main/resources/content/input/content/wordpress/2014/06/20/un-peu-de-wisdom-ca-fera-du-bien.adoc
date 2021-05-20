@@ -1,0 +1,206 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un peu de wisdom, ça fera du bien
+:jbake-tags: angularjs,java,maven,osgi,wisdom,_mois_juin,_année_2014
+:jbake-date: 2014-06-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/06/20/un-peu-de-wisdom-ca-fera-du-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/06/20/un-peu-de-wisdom-ca-fera-du-bien/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, cet après-midi, j'ai un peu de temps, donc je vais vous live-blogger une expérimentation.
+</p>
+<p>
+L'expérimentation,, en l'occurence, est l'utilisation de <a href="http://wisdom-framework.org/">wisdom-framework</a> pour créer l'exemple canonique d'<a href="https://angularjs.org/">AngularJS </a>: une <a href="http://todomvc.com/architecture-examples/angularjs/#/">liste de tâches</a> mises à jour de façon "moderne". L'objectif est d'arriver avant la find e la journée à une application web qui enregistre les TODOs dans un fichier au format <a href="http://todotxt.com/">todo.txt</a>.
+</p>
+<p>
+<strong>EDIT</strong> : cet objectif n'a pas été atteint, parce que j'ai perdu un peu de temps sur l'install, et surtout parce que le fameux exemple de todo avec angular ne semble pas exister ... bizarre.
+</p>
+<p>
+Ah, mais vous ne connaissez pas wisdom ? C'est normal, c'est assez jeune, mais pourtant porteur d'innombrables promesses (et j'exagère à peine en disant ça). C'est donc un framework pour applications web basé sur la modularité et le dynamisme.
+</p>
+<p>
+La modularité, grâce à <a href="https://fr.wikipedia.org/wiki/OSGi">OSGi</a>, permet de découper une application web en paquets de tout petits blocs faciles à modifier, faciles à faire évoluer à peu près indépendament, mais pourtant utilisant des ressources communes.
+</p>
+<p>
+Le dynamisme permet, encore grâce à OSGi, mais aussi grâce à maven, de développer aussi vite qu'avec une application pure Javascript, tout en bénéficiant de l'écosystème et des capacités de typage de Java. Enfin bon, vous allez voir avec moi.
+<br/>
+<h2>Créer le projet</h2>
+<br/>
+Facile, c'est <a href="http://wisdom-framework.org/reference/0.5.1/index.html#_create_a_wisdom_project">documenté</a> (la doc de wisdom me paraît d'ailleurs dans l'ensemble fort bien fichue - de toute façon, il suffit d'aller sur <a href="https://github.com/wisdom-framework/wisdom">GitHub </a>ou dans le Google Group pour <a href="http://wisdom-framework.org/learn/community/community.html">poser des questions</a> ...). Donc allons-y :
+<br/>
+<pre>mvn org.wisdom-framework:wisdom-maven-plugin:0.5.1:create -DgroupId=fr.fot.java.wisdom -DartifactId=wisdomTodo -Dversion=0.0.1-SNAPSHOT
+<br/>
+</pre>
+<br/>
+Et normalement, c'est bon ... sauf qu'entre ma version de maven incorrecte (3.0.4), mon Java incorrect (1.6.0_40), ça ne marche pas en ligne de commande et, de la même manière, créer le projet à partir de l'archétype dans Eclipse échoue lamentablement avec un message ... cryptique :
+<br/>
+<pre>Unable to create project from archetype [org.wisdom-framework:wisdom-maven-plugin:0.5.1 -&#62; ]
+<br/>
+The desired archetype does not exist (org.wisdom-framework:wisdom-maven-plugin:0.5.1)
+<br/>
+</pre>
+<br/>
+Ca fait bizarre ... Bon, je crée le projet à la main et je reviens ...
+</p>
+<p>
+Et pour créer le projet à la main, histoire que vous ne perdiez pas autant de temps que moi, si vous êtes dans Eclipse, la commande d'au-dessus se traduit sous la forme
+</p>
+<p>
+<a href="https://riduidel.files.wordpress.com/2014/06/run-configurations_2014-06-20_16-03-09.png"><img class="aligncenter size-large wp-image-2444" src="http://riduidel.files.wordpress.com/2014/06/run-configurations_2014-06-20_16-03-09.png?w=520" alt="Run Configurations_2014-06-20_16-03-09" width="520" height="500" /></a>
+</p>
+<p>
+A lancer dans un "Base directory" vide pour que ça se passe bien.
+</p>
+<p>
+Et donc, une fois que c'est fait, je tape <code>mvn wisdom:run</code>, je vais sur <code>http://localhost:9000</code> (ne craignez rien, ces instructions sont, encore une fois, indiquées dans la doc), et j'ai droit à une très jolie page m'indiquant que faire après ...
+</p>
+<p>
+Une page fournie par le <code>WelcomeController</code>. Le meilleur étant évidement que, quand je renomme le package de ce contrpoleur, je vois la console wisdom s'agiter un moment, puisque l'application est rechargée dans le dos d'Eclipse (c'est bon ça Clément !).
+<br/>
+<h2>Ajouter une route à l'application</h2>
+<br/>
+Donc maintenant, pour ajouter une nouvelle page (oui, je vais ajouter ma page avant de remplacer la @Route par défaut dans le contrôleur), ça me paraît assez facile :
+<br/>
+<pre>    /**
+<br/>
+* Ici todo est le nom du fichier du template, sans l'extension thl.html
+<br/>
+*/
+<br/>
+@View("todo")
+<br/>
+Template todoList;
+</p>
+<p>
+/**
+<br/>
+* Et donc quand on va aller sur http://localhost:9000/list, ça va afficher le template #todoList qui n'existe pas encore ... d'où une erreur.
+<br/>
+* @return
+<br/>
+*/
+<br/>
+@Route(method = HttpMethod.GET, uri = "/list")
+<br/>
+public Result todoList() {
+<br/>
+return ok(render(todoList));
+<br/>
+}
+<br/>
+</pre>
+<br/>
+Et quand j'essaye de taper <code>http://localhost:9000/list</code> dans mon navigateur j'ai droit ... évidement à une belle page d'erreur, puisque le tempalte n'existe pas ! Donc je le crée avec un contenu ... quelconque.
+</p>
+<p>
+Et devinez quoi ? Eh bien évidement, ça marche !
+</p>
+<p>
+Bon, je n'ai plus qu'à rempalcer ce contenu par celui de l'exemple d'Angular JS  ... qui a malheureusement été remplacé par exemple commercial. Pas grave, on peut le <a href="http://todomvc.com/">trouver</a> <a href="http://www.angularjstutorial.com/tag/angular-todo-list/">ailleurs</a> (la deuxième version est bien plus simple pour un noob comme moi).
+</p>
+<p>
+Et là c'est le drame : les attributs ng-app d'Angular viennent foutre le bazar dans le parsing XML :
+<br/>
+<pre>Caused by: org.thymeleaf.exceptions.TemplateInputException: Exception parsing document: template="bundle://58.11:0/templates/todo.thl.html", line 13 - column 13
+<br/>
+at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.parseTemplateUsingPool(AbstractNonValidatingSAXTemplateParser.java:167) ~[na:na]
+<br/>
+at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.parseTemplate(AbstractNonValidatingSAXTemplateParser.java:117) ~[na:na]
+<br/>
+at org.thymeleaf.TemplateRepository.getTemplate(TemplateRepository.java:277) ~[na:na]
+<br/>
+at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1104) ~[na:na]
+<br/>
+at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1060) ~[na:na]
+<br/>
+at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:1011) ~[na:na]
+<br/>
+at org.thymeleaf.TemplateEngine.process(TemplateEngine.java:955) ~[na:na]
+<br/>
+at org.wisdom.template.thymeleaf.impl.WisdomTemplateEngine.process(WisdomTemplateEngine.java:85) ~[na:na]
+<br/>
+at org.wisdom.template.thymeleaf.impl.ThymeLeafTemplateImplementation.render(ThymeLeafTemplateImplementation.java:120) ~[na:na]
+<br/>
+at org.wisdom.api.templates.Template$$Proxy.render(Unknown Source) ~[na:na]
+<br/>
+at org.wisdom.api.DefaultController.render(DefaultController.java:188) ~[wisdom-api-0.5.1.jar:na]
+<br/>
+at fr.fot.java.wisdom.todo.WelcomeController.__M_todoList(WelcomeController.java:65) ~[na:na]
+<br/>
+at fr.fot.java.wisdom.todo.WelcomeController.todoList(WelcomeController.java) ~[na:na]
+<br/>
+... 33 common frames omitted
+<br/>
+Caused by: org.xml.sax.SAXParseException: Le nom d'attribut "ng-app" associ� � un type d'�l�ment "html" doit �tre suivi du caract�re '='.
+<br/>
+at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:198) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:177) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:441) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:368) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1375) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanAttribute(XMLDocumentFragmentScannerImpl.java:1489) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanStartElement(XMLDocumentFragmentScannerImpl.java:1279) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2715) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:607) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:488) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:835) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:764) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:123) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1210) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:568) ~[na:1.7.0]
+<br/>
+at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:302) ~[na:1.7.0]
+<br/>
+at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.doParse(AbstractNonValidatingSAXTemplateParser.java:210) ~[na:na]
+<br/>
+at org.thymeleaf.templateparser.xmlsax.AbstractNonValidatingSAXTemplateParser.parseTemplateUsingPool(AbstractNonValidatingSAXTemplateParser.java:134) ~[na:na]
+<br/>
+... 45 common frames omitted
+<br/>
+</pre>
+<br/>
+En même temps, je sais que c'est ça essentiellement grâce à une très bonne remontée d'erreur (c'est un avantage certain). Du coup je replonge dans la doc de wisdom pour voir comment angular et thymeleaf peuvent vivre ensemble ... Ah en fait ça n'est <b>pas</b> dans la doc de Wisdom, mais <a>sur la ML de Thymeleaf</a>.
+</p>
+<p>
+Bon, et du coup, une fois que j'ai modifié l'entête pour
+<br/>
+<pre>&#60;!doctype html&#62;
+<br/>
+&#60;html data-ng-app=""&#62;</pre>
+<br/>
+que j'ai fermé les différents tags mal fermés et corrigé deux ou trois boulettes, ma page s'affiche ... mochement, je dois dire :-)
+</p>
+<p>
+Je peux donc y ajouter le contrôleur pour angular, que je copie-colle également sans m'embêter. Mais avant ça, je vais d'abord <a href="http://wisdom-framework.org/reference/0.5.1/index.html#_webjars">ajouter </a>les <a href="http://www.webjars.org/">webjars </a>demandés (quelle chouette idée, ces dépendances javascript utilisables facilement) ...
+</p>
+<p>
+Mais ça, ce sera pour une autre fois.
+</p>
+<p>
+Parce que les mecs d'angular semblent avoir décidé de changer leur exemple (que j'ai pourtant vu des dizaines de fois) et que, n'ayant plus de tutoriel parfaitement clair, je ne peux même plus tenter d'adapter ce que je vois à ce que wisdom me fournit (parce que figurez-vous que je ne connais malheureusement pas encore l'outil).
+</p>
+<p>
+Bon, bref. J'y reviendrai sans doute la semaine prochaine. En tout cas, je suis plutôt séduit par la facilité avec laquelle wisdom s'installe, s'adapte, et se met à jour quand on change du code.
+</p>
+<p>
+Comme quoi l'apprentissage n'est pas toujours un chemin facile. Surtout quand on se met soi-même des bâtons dans les roues.
+</p>
+++++

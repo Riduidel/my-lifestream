@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Atomist - Build Applications, Not Infrastructure
+:jbake-tags: programming,template,concepts,architecture,_mois_janv.,_année_2017
+:jbake-date: 2017-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1484030526000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.atomist.com%2F&searchtags=programming+template+concepts+architecture+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.atomist.com/[Atomist - Build Applications, Not Infrastructure]
+
+Avec slack et github, le développement devient quasi-public, et permet ce genre d'idées géniales

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mike Coutermarsh on Twitter: "Comments in your code are for WHY the code does what it does. Not for explaining WHAT the code does."
+:jbake-tags: citation,programming,arguments,documentation,_mois_avr.,_année_2018
+:jbake-date: 2018-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1523853258000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmscccc%2Fstatus%2F980915510920429568&searchtags=citation+programming+arguments+documentation+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/mscccc/status/980915510920429568[Mike Coutermarsh on Twitter: "Comments in your code are for WHY the code does what it does. Not for explaining WHAT the code does."]
+
+Oh mais tellement. ca fait partie d'une démarche d'explicabilité, à mon avis.

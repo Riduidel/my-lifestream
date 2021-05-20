@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Building successful online communities: Evidence-based social design - AcaWiki
+:jbake-tags: psychologie,web,communauté,_mois_mai,_année_2018
+:jbake-date: 2018-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1525412821000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Facawiki.org%2FBuilding_successful_online_communities%3A_Evidence-based_social_design%23Regulating_Behavior_in_Online_Communities&searchtags=psychologie+web+communaut%C3%A9+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://acawiki.org/Building_successful_online_communities:_Evidence-based_social_design#Regulating_Behavior_in_Online_Communities[Building successful online communities: Evidence-based social design - AcaWiki]
+
+Très intéressant : pour permettre aux cyber-harceleurs de s'arrêter sans perdre la face, le MIT a mis en place un système qui permet aux victimes de dénoncer les harceleurs, et explique aux harceleurs que leur compte doit avoir été compromis et qu'il convient de changer leur mot de passe. Ca leur permet de ne pas reproduire le mauvais comportement sans perdre la face.

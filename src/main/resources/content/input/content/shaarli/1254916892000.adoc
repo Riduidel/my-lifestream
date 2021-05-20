@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: .:: NOTEPAD++ ::.
+:jbake-tags: software,freeware,windows,programming,editor,open-source,_mois_oct.,_année_2009
+:jbake-date: 2009-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1254916892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnotepad-plus.sourceforge.net%2Ffr%2Fsite.htm&searchtags=software+freeware+windows+programming+editor+open-source+_mois_oct.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://notepad-plus.sourceforge.net/fr/site.htm[.:: NOTEPAD++ ::.]
+
+Mon éditeur gnérique de choix (enfin, pour le moment ...)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ignore the code: Temporal User Interfaces
+:jbake-tags: design,visualisation,software,concepts,for:mischler,_mois_janv.,_année_2010
+:jbake-date: 2010-01-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1263315193000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fignorethecode.net%2Fblog%2F2009%2F03%2F05%2Ftemporal-user-interfaces%2F&searchtags=design+visualisation+software+concepts+for%3Amischler+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://ignorethecode.net/blog/2009/03/05/temporal-user-interfaces/[ignore the code: Temporal User Interfaces]
+
+Une idée très intéressante

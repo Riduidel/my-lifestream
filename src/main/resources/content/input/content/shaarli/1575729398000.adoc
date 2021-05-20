@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - pivovarit/throwing-function: Checked Exceptions-enabled Java 8+ functional interfaces + adapters
+:jbake-tags: java,programming,library,exception,lambda,_mois_déc.,_année_2019
+:jbake-date: 2019-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1575729398000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fpivovarit%2Fthrowing-function&searchtags=java+programming+library+exception+lambda+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/pivovarit/throwing-function[GitHub - pivovarit/throwing-function: Checked Exceptions-enabled Java 8+ functional interfaces + adapters]
+
+La prochaine fois que j'aurais du code qui balance de la throwable dans une lambda, il faudra que je me souvienne de cette librairie (que j'avais oublié la semaine dernière)

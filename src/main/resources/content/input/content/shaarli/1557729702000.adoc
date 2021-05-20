@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: IT runs on Java 8 · Vicki Boykis
+:jbake-tags: évolution,informatique,transformation,conférence,_mois_mai,_année_2019
+:jbake-date: 2019-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1557729702000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fveekaybee.github.io%2F2019%2F05%2F10%2Fjava8%2F&searchtags=%C3%A9volution+informatique+transformation+conf%C3%A9rence+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://veekaybee.github.io/2019/05/10/java8/[IT runs on Java 8 · Vicki Boykis]
+
+Ohlala, c'est tellement vrai (même si certains points piquent quand même un peu)

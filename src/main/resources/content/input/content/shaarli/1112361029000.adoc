@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Map
+:jbake-tags: web,documentation,java,carte,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112361029000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fdeveloper%2FonlineTraining%2Fnew2java%2Fjavamap%2F&searchtags=web+documentation+java+carte+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://java.sun.com/developer/onlineTraining/new2java/javamap/[Java Map]
+
+Map of the Java world

@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Golden Oecumene
+:jbake-tags: serie
+:jbake-date: 2008-03-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Golden_Oecumene.adoc
+:jbake-source: https://www.goodreads.com/series/41545
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253121992.html[L'Œcumène d'or]
+* link:../books/9782253124771.html[Le Phénix exultant]
+* link:../books/9782253124795.html[La Haute Transcendance]

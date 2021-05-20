@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Anthony Goubard, l'homme qui coda seul en 30 jours une suite bureautique libre - Framablog
+:jbake-tags: java,software,freeware,open-source,editor,_mois_juin,_année_2013
+:jbake-date: 2013-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1371738796000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.framablog.org%2Findex.php%2Fpost%2F2013%2F06%2F20%2Fjoffice-anthony-goubard&searchtags=java+software+freeware+open-source+editor+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.framablog.org/index.php/post/2013/06/20/joffice-anthony-goubard[Anthony Goubard, l'homme qui coda seul en 30 jours une suite bureautique libre - Framablog]
+
+Je suis vraiment bien bien content de voir qu'encore en 2013 il y a des gens qui se lancent dans des projets un peu plus ambitieux qu'une TODO-list en Java. Et donc le mec a écrit un éditeur de documents façon Office, mais aussi ... Ant Commander (dont SebSauvage parle ici http://sebsauvage.net/links/?8WSwVg). Chapeau, quoi

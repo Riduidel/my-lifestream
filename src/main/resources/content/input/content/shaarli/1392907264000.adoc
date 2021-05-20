@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Heisenbug - Wikipedia, the free encyclopedia
+:jbake-tags: software,programming,bug,culture,_mois_févr.,_année_2014
+:jbake-date: 2014-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1392907264000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHeisenbug&searchtags=software+programming+bug+culture+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://en.wikipedia.org/wiki/Heisenbug[Heisenbug - Wikipedia, the free encyclopedia]
+
+Sapristi, j'ai un Heisenbug !

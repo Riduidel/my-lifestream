@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Lingua::Romana::Perligata -- Perl for the XXIimum Century
+:jbake-tags: programming,bizarre,langue,_mois_déc.,_année_2014
+:jbake-date: 2014-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1418901252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.csse.monash.edu.au%2F%7Edamian%2Fpapers%2FHTML%2FPerligata.html&searchtags=programming+bizarre+langue+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.csse.monash.edu.au/~damian/papers/HTML/Perligata.html[Lingua::Romana::Perligata -- Perl for the XXIimum Century]
+
+Alors ça c'est fort : ce truc permet d'utiliser du latin - plutôt que de l'anglais - pour l'ensemble de la grammaire Perl. Impressionant

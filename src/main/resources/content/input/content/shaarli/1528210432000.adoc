@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Benchmarking In Stable Rust With Criterion.rs | bheisler.github.io
+:jbake-tags: performance,test,rust,framework,_mois_juin,_année_2018
+:jbake-date: 2018-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1528210432000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbheisler.github.io%2Fpost%2Fbenchmarking-with-criterion-rs%2F&searchtags=performance+test+rust+framework+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://bheisler.github.io/post/benchmarking-with-criterion-rs/[Benchmarking In Stable Rust With Criterion.rs | bheisler.github.io]
+
+Oh mais c'est vachement mieux que l'outil de benchmark officiel qui n'est toujours pas disponible dans la version stable de Rust.

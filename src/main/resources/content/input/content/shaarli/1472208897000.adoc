@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Can Software Make You Less Racist?
+:jbake-tags: ergonomie,web,racisme,_mois_août,_année_2016
+:jbake-date: 2016-08-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1472208897000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.codinghorror.com%2Fcan-software-make-you-less-racist%2F&searchtags=ergonomie+web+racisme+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://blog.codinghorror.com/can-software-make-you-less-racist/[Can Software Make You Less Racist?]
+
+Très intéressant, parce que contredisant avec talent toutes ces histoires de logiciels qui ne peuvent pas changer les comportements.

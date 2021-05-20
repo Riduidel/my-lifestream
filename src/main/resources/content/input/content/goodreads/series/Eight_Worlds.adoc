@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eight Worlds
+:jbake-tags: serie
+:jbake-date: 2009-05-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Eight_Worlds.adoc
+:jbake-source: https://www.goodreads.com/series/130295
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070304745.html[Le Canal Ophite]
+* link:../books/9782070358052.html[Gens de la Lune]
+* link:../books/9782070449774.html[Le Système Valentine]

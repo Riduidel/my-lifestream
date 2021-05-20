@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕯𝖎𝖓𝖌𝖇𝖆𝖙𝖘
+:jbake-tags: web,font,générateur,_mois_déc.,_année_2018
+:jbake-date: 2018-12-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1545212228000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbeautifuldingbats.com%2Fhey-howd-you-do-that&searchtags=web+font+g%C3%A9n%C3%A9rateur+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://beautifuldingbats.com/hey-howd-you-do-that[𝕭𝖊𝖆𝖚𝖙𝖎𝖋𝖚𝖑 𝕯𝖎𝖓𝖌𝖇𝖆𝖙𝖘]
+
+Ca a l'air marrant, cet outil pour créer des textes dans des polices fun utilisables partout

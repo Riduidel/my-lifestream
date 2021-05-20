@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Great Ship
+:jbake-tags: serie
+:jbake-date: 2014-07-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Great_Ship.adoc
+:jbake-source: https://www.goodreads.com/series/114016
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253195023.html[Le Grand Vaisseau (Great Ship, #1)]
+* link:../books/9782253195160.html[Un puits dans les étoiles]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SkyRails
+:jbake-tags: graphics,réseau,social,software,visualisation,_mois_nov.,_année_2007
+:jbake-date: 2007-11-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1193925127000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcgi.cse.unsw.edu.au%2F%7Ewyos%2Fskyrails%2F&searchtags=graphics+r%C3%A9seau+social+software+visualisation+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://cgi.cse.unsw.edu.au/~wyos/skyrails/[SkyRails]
+
+Un truc de dingue. Je sais pas encore comment je vais m'en servir au boulot, mais je suis sûr que je vais trouver une façon de l'utiliser ...

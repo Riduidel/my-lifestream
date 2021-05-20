@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EAC - Exact Audio Copy
+:jbake-tags: freeware,software,windows,audio,mp3,_mois_janv.,_année_2005
+:jbake-date: 2005-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1105008432000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.exactaudiocopy.de%2F&searchtags=freeware+software+windows+audio+mp3+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.exactaudiocopy.de/[EAC - Exact Audio Copy]
+
+Exact Audio Copy

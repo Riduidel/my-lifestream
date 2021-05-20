@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manual · janssk1/maven-graph-plugin Wiki
+:jbake-tags: maven,plugin,graph,dépendances,programming,java,_mois_mai,_année_2016
+:jbake-date: 2016-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1462374070000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fjanssk1%2Fmaven-graph-plugin%2Fwiki%2FManual&searchtags=maven+plugin+graph+d%C3%A9pendances+programming+java+_mois_mai+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/janssk1/maven-graph-plugin/wiki/Manual[Manual · janssk1/maven-graph-plugin Wiki]
+
+Un chouette plugin, qui vient joliment palier à un manque pénible de m2eclipse : l'absence d'un vrai outil d'analyse de dépendances.

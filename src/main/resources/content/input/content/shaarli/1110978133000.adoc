@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cube
+:jbake-tags: software,freeware,open-source,jeu,linux,windows,macosx,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110978133000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cubeengine.com%2F&searchtags=software+freeware+open-source+jeu+linux+windows+macosx+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cubeengine.com/[Cube]
+
+Cube is an open source multiplayer and singleplayer first person shooter game built on an entirely new and very unconventional engine. Cube is a landscape-style engine that pretends to be an indoor FPS engine, which combines very high precision dynamic oc

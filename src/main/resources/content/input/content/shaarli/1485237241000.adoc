@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why I perceived code as being a commodity – Sam On Software
+:jbake-tags: carrière,programming,_mois_janv.,_année_2017
+:jbake-date: 2017-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1485237241000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.samuelpath.com%2F2017%2F01%2F16%2Fcode-commodity%2F&searchtags=carri%C3%A8re+programming+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.samuelpath.com/2017/01/16/code-commodity/[Why I perceived code as being a commodity – Sam On Software]
+
+Un assez bon article sur la perception des développeurs par les chefs de projets et assimilés.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Manish sur Twitter : "sorry folks rewriting in rust is inevitable… "
+:jbake-tags: humour,évolution,rust,programming,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579246893000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FManishEarth%2Fstatus%2F1218049534007435265&searchtags=humour+%C3%A9volution+rust+programming+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ManishEarth/status/1218049534007435265[Manish sur Twitter : "sorry folks rewriting in rust is inevitable… "]
+
+J'aime beaucoup cette blague évolutionnaire. C'est chic (et complètement nerd, il faut l'avouer).

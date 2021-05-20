@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bitoduc.fr : la référence selon nous-mêmes sur les termes informatiques en français
+:jbake-tags: français,informatique,traduction,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580023820000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbitoduc.fr%2F&searchtags=fran%C3%A7ais+informatique+traduction+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://bitoduc.fr/[Bitoduc.fr : la référence selon nous-mêmes sur les termes informatiques en français]
+
+Oh le bon site ! Avec ça, plus question d'anglicismes !

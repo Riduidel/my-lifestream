@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RSS: there's nothing better
+:jbake-tags: web,rss,media,_mois_nov.,_année_2017
+:jbake-date: 2017-11-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1510589370000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdavidyat.es%2F2017%2F05%2F18%2Frss-nothing-better%2F&searchtags=web+rss+media+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://davidyat.es/2017/05/18/rss-nothing-better/[RSS: there's nothing better]
+
+Comme c'est vrai. Et pour les amateurs de RSS, comme moii, c'est toujours un sacrifice de passer par Twitter ou une autre sous-expérience

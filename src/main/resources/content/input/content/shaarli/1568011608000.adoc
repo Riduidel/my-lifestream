@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: hecrj/iced: A renderer-agnostic GUI library for Rust, inspired by Elm
+:jbake-tags: rust,programming,library,gui,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568011608000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fhecrj%2Ficed&searchtags=rust+programming+library+gui+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/hecrj/iced[hecrj/iced: A renderer-agnostic GUI library for Rust, inspired by Elm]
+
+Je crois qu'il va falloir que je teste ce truc ... même si ça m'a l'air bien bizarre (autrement dit bien loin des événements classiques de Swing/AWT)

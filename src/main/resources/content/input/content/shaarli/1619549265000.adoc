@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Running Tests Sequentially in Rust | by Ferdinand de Antoni | Medium
+:jbake-tags: rust,cargo,test,performance,debugger,_mois_avr.,_année_2021
+:jbake-date: 2021-04-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1619549265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffdeantoni.medium.com%2Frunning-tests-sequentially-in-rust-eed7566f63f0&searchtags=rust+cargo+test+performance+debugger+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://fdeantoni.medium.com/running-tests-sequentially-in-rust-eed7566f63f0[Running Tests Sequentially in Rust | by Ferdinand de Antoni | Medium]
+
+Il est bon cargo : il exécute toujours les tests parallèlement. Mais quand je débugge des tests d'intégration, c'est quand même un peu plus pratique d'exécuter les tests en série. Heureusement, cargo a tout prévu !

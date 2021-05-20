@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zen Koans - AshidaKim.com
+:jbake-tags: web,zen,_mois_mars,_année_2005
+:jbake-date: 2005-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1109846906000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ashidakim.com%2Fzenkoans%2Fzenindex.html&searchtags=web+zen+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ashidakim.com/zenkoans/zenindex.html[Zen Koans - AshidaKim.com]
+
+These koans, or parables, were translated into English from a book called the Shaseki-shu (Collection of Stone and Sand), written late in the thirteenth century by the Japanese Zen teacher Muju (the "non-dweller"), and from anecdotes of Zen monks taken fr

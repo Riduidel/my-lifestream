@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Greg Knauss on Twitter: "James Gosling, the inventor of Java, is the father of actor Ryan Gosling. ...is a rumor I want to start."
+:jbake-tags: conspiracy,humour,java,_mois_sept.,_année_2017
+:jbake-date: 2017-09-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1506670077000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgknauss%2Fstatus%2F913565793987653633&searchtags=conspiracy+humour+java+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/gknauss/status/913565793987653633[Greg Knauss on Twitter: "James Gosling, the inventor of Java, is the father of actor Ryan Gosling. ...is a rumor I want to start."]
+
+C'est pour ça qu'on trouve "Java inside" derrière tous les lecteurs BluRay

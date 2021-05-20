@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cygwin/X
+:jbake-tags: freeware,software,windows,x-server,_mois_janv.,_année_2005
+:jbake-date: 2005-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1105012030000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fx.cygwin.com%2F&searchtags=freeware+software+windows+x-server+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://x.cygwin.com/[Cygwin/X]
+
+Cygwin/X is a port of the X Window System to the Microsoft Windows family of operating systems. Cygwin/X runs on all recent consumer and business versions of Windows; as of 2003-12-27 those versions are specifically Windows 95, Windows 98, Windows Me, Win

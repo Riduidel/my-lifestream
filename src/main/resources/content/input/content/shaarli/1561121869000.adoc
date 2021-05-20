@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: zupzup/rust-async-web-example: Asyncified Actix 1.0 Web App Example using Rust
+:jbake-tags: rust,programming,web,actix,exemple,_mois_juin,_année_2019
+:jbake-date: 2019-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1561121869000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fzupzup%2Frust-async-web-example&searchtags=rust+programming+web+actix+exemple+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/zupzup/rust-async-web-example[zupzup/rust-async-web-example: Asyncified Actix 1.0 Web App Example using Rust]
+
+Un chouette exemple d'application développée avec Actix-web. Ca aide, parce que la doc est ... curieuse (les exemples semblent ne pas toujours bien marcher ...)

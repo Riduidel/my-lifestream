@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JSP Syntax
+:jbake-tags: java,jsp,langage,documentation,reference,programming,_mois_avr.,_année_2005
+:jbake-date: 2005-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1112629800000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fproducts%2Fjsp%2Ftags%2Ftags.html&searchtags=java+jsp+langage+documentation+reference+programming+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://java.sun.com/products/jsp/tags/tags.html[JSP Syntax]
+
+Reference for the JSP language

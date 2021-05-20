@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Every JavaScript framework tutorial written more than 5 minutes ago
+:jbake-tags: programming,javascript,satire,framework,documentation,_mois_sept.,_année_2017
+:jbake-date: 2017-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1505368911000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.freecodecamp.org%2Fevery-javascript-framework-tutorial-written-more-than-5-minutes-ago-f96642d4f05&searchtags=programming+javascript+satire+framework+documentation+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.freecodecamp.org/every-javascript-framework-tutorial-written-more-than-5-minutes-ago-f96642d4f05[Every JavaScript framework tutorial written more than 5 minutes ago]
+
+Aucun rapport avec la réalité, non vraiment :-D

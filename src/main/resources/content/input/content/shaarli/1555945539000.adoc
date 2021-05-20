@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mike Kerr on Twitter: "I need to absorb and map out a large complex legacy system as the main lead of our team transitions to another team. I need to capture DB Tables, APIs, Business Logic and present to my Director in a few weeks. What is the best way/tool to organize all that?"
+:jbake-tags: architecture,documentation,automatisation,_mois_avr.,_année_2019
+:jbake-date: 2019-04-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1555945539000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodecareercoach%2Fstatus%2F1118511098997567488&searchtags=architecture+documentation+automatisation+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/codecareercoach/status/1118511098997567488[Mike Kerr on Twitter: "I need to absorb and map out a large complex legacy system as the main lead of our team transitions to another team. I need to capture DB Tables, APIs, Business Logic and present to my Director in a few weeks. What is the best way/tool to organize all that?"]
+
+La question que se bossent tous les architectes quand ils arrivent sur une mission ...

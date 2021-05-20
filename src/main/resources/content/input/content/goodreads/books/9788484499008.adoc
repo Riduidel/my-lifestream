@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz /17
+:jbake-tags:  combat, monstre, mort,_année_2014,_mois_mai,_note_2,rayon-bd,read
+:jbake-date: 2014-05-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9788484499008.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332710550l/2824340._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1332710550l/2824340._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2824340
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Kurono, tras averiguar lo que es posible realizar al alcanzar los 100 puntos se lanza a misiones con energías renovadas. Kurono y los suyos se entrenan día a día para aumentar sus posibilidades de supervivencia. De repente, son enviados a una nueva misión en la que tendrán que enfrentarse a los "demonienses", así como a un grupo organizado de seres inteligentes y capaces de hablar. ¡¡Empieza la pelea contra los extraterrestres que conocen incluso los puntos flacos de los trajes!!
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+* link:../authors/1134860.html[Marc Bernabé]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+De la baston, de la baston, de la baston.<br/>Enorme, décomplexée, et absolument mortelle pour tout le monde, aussi bien les méchants, que les gentils, que les témoins innocents. Du coup, mon intérêt décroche un peu. Normal, non ?
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gavin King 🐘 on Twitter: "I don't think it's a mistake to try things out at scale to see if they work. We now know checked exceptions don't work at scale, which we would not have known otherwise. But I do think it's a mistake that we have not yet disabled checking of exceptions in newer Java compilers.… https://t.co/QpnFR1euVj"
+:jbake-tags: citation,programming,java,exception,_mois_avr.,_année_2018
+:jbake-date: 2018-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1522732326000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F1ovthafew%2Fstatus%2F979812355562405888&searchtags=citation+programming+java+exception+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/1ovthafew/status/979812355562405888[Gavin King 🐘 on Twitter: "I don't think it's a mistake to try things out at scale to see if they work. We now know checked exceptions don't work at scale, which we would not have known otherwise. But I do think it's a mistake that we have not yet disabled checking of exceptions in newer Java compilers.… https://t.co/QpnFR1euVj"]
+
+Les checked exceptions sont-elles une erreur de conception du Java ? Peut-être bien ...

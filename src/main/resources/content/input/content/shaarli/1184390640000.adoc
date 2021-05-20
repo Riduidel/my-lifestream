@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Nokia N800
+:jbake-tags: article,comparison,design,matériel,n800,usability,_mois_juil.,_année_2007
+:jbake-date: 2007-07-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1184390640000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcs.gmu.edu%2F%7Esean%2Fstuff%2Fn800%2F&searchtags=article+comparison+design+mat%C3%A9riel+n800+usability+_mois_juil.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://cs.gmu.edu/~sean/stuff/n800/[The Nokia N800]
+
+Une description exceptionnellement complète du N800 vu par un vieux fan de l'Apple Newtion. ca refroidit un peu mon enthousiasme, mais ça reste très intéressant.

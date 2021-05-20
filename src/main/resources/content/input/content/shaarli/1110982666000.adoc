@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XFactor - Truly innovative mac p2p.
+:jbake-tags: software,freeware,macosx,réseau,p2p,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110982666000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.xfactor.cc%2F&searchtags=software+freeware+macosx+r%C3%A9seau+p2p+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.xfactor.cc/[XFactor - Truly innovative mac p2p.]
+
+Access 3 major p2p networks (Kazaa, Gnutella, OpenFT) seamlessly using giFT. (cross platform modular network daemon)

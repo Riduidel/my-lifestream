@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dungeon Master Java
+:jbake-tags: freeware,jeu,java,rpg,software,windows,linux,macosx,_mois_févr.,_année_2007
+:jbake-date: 2007-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1171531755000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cs.pitt.edu%2F%7Ealandale%2Fdmjava%2Findex.html&searchtags=freeware+jeu+java+rpg+software+windows+linux+macosx+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.cs.pitt.edu/~alandale/dmjava/index.html[Dungeon Master Java]
+
+Un clone de Dungeon Master en Java, utilisable sur la plupart des OS

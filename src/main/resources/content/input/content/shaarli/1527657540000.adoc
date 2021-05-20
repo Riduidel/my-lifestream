@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Autonomous Spaceplane Travels to 10 km, Lands Safely 200 km Away | Hackaday
+:jbake-tags: raspberrypi,hack,espace,_mois_mai,_année_2018
+:jbake-date: 2018-05-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1527657540000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2018%2F05%2F30%2Fautonomous-spaceplane-travels-to-10-km-lands-safely-200-km-away%2F&searchtags=raspberrypi+hack+espace+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://hackaday.com/2018/05/30/autonomous-spaceplane-travels-to-10-km-lands-safely-200-km-away/[Autonomous Spaceplane Travels to 10 km, Lands Safely 200 km Away | Hackaday]
+
+La vidéo de ce planneur autonome piloté par un Raspberry me laisse rêveur ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: pemistahl/grex: A command-line tool and library for generating regular expressions from user-provided test cases
+:jbake-tags: regexp,générateur,exemple,rust,open-source,_mois_avr.,_année_2021
+:jbake-date: 2021-04-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1619704687000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fpemistahl%2Fgrex&searchtags=regexp+g%C3%A9n%C3%A9rateur+exemple+rust+open-source+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/pemistahl/grex[pemistahl/grex: A command-line tool and library for generating regular expressions from user-provided test cases]
+
+Bon sang de bois ! Un générateur d'expression régulière à partir d'exemples. C'est cool !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hot Dates with CSS by Christian Montoya, christianmontoya.com
+:jbake-tags: css,design,tutorial,documentation,_mois_juil.,_année_2006
+:jbake-date: 2006-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1152263118000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flab.christianmontoya.com%2Fcss-dates%2F&searchtags=css+design+tutorial+documentation+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://lab.christianmontoya.com/css-dates/[Hot Dates with CSS by Christian Montoya, christianmontoya.com]
+
+Un tutorial complet d'affichage des dates en CSS

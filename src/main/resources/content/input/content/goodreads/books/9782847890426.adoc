@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Topkapi (Travis, #6.2)
+:jbake-tags:  complot, cyberpunk, nano, rayon-bd, ville,_année_2012,_mois_mars,_note_4,combat,read
+:jbake-date: 2012-03-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782847890426.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330795973l/7864793._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1330795973l/7864793._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/7864793
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Istanbul, 31 mai 2053. Vlad Nyrki et Pacman apprennent que d'anciens gros bras des cyberneurs sont encore en vie. Ces derniers vendent leurs services aux sociétés qui se livrent une guerre sans merci pour contrôler la reconstruction d'Istanbul, ville martyre depuis un terrible tremblement... <br />Lire la suite
+</div>
+++++
+
+
+## Authors
+* link:../authors/503981.html[Fred Duval]
+* link:../authors/5764269.html[Ludwig Alizon]
+
+## Series
+* link:../series/Travis.html[Travis]
+
+## Review
+
+++++
+Clairement dans l'esprit du cyberpunk, ce tome de Travis, exceptionnellement dessiné par un petit nouveau (très talentueux), nous envoie dans une ville pour laquelle j'éprouve une espèce d'attachement totallement irrationnel : Istambul, la ville des deux continents.<br/>Et mettre dans cette ville une espèce de brute de l'accabit de Vlad Nykry, c'est réellement quelque chose de réjouissant (surtout que l'action semble tirée d'une espèce de version survitaminée de Léon).<br/>Bref, c'est bien, très bien même.
+++++

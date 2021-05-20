@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: KarlFish/7guis-tornadofx: Kotlin implementaion of https://github.com/eugenkiss/7guis/wiki
+:jbake-tags: programming,kotlin,javafx,exemple,gradle,_mois_sept.,_année_2017
+:jbake-date: 2017-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1505281583000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FKarlFish%2F7guis-tornadofx&searchtags=programming+kotlin+javafx+exemple+gradle+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/KarlFish/7guis-tornadofx[KarlFish/7guis-tornadofx: Kotlin implementaion of https://github.com/eugenkiss/7guis/wiki]
+
+Une implémentation de 7guis avec TornadoFX. Je vais peut-être bien reprendre ce code pour démarrer "facilement"

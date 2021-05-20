@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - muesli/beehive: A flexible event/agent & automation system with lots of bees 🐝
+:jbake-tags: go,programming,web,connecteur,ifttt,alternatives,open-source,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590657092000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmuesli%2Fbeehive%2F&searchtags=go+programming+web+connecteur+ifttt+alternatives+open-source+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/muesli/beehive/[GitHub - muesli/beehive: A flexible event/agent & automation system with lots of bees 🐝]
+
+Une alternative open-source (évidement), auto-hébergée (bien sûr) qui tourne sur mon Raspberry (quoi d'autre) à IFTTT. C'est en Go, c'est raisonnablement bien foutu, même si il y a quelques bugs.

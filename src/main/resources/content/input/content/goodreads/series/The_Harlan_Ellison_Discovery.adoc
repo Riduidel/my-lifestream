@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Harlan Ellison Discovery
+:jbake-tags: serie
+:jbake-date: 2005-12-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Harlan_Ellison_Discovery.adoc
+:jbake-source: https://www.goodreads.com/series/49552
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780515043013.html[Involution Ocean]

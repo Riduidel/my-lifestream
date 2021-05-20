@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ayerdhal
+:jbake-tags: author
+:jbake-date: 2003-05-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/873466.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1371663398p5/873466.jpg
+:jbake-source: https://www.goodreads.com/author/show/873466
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782277238218.html[Sexomorphoses]
+* link:../books/9782290325391.html[Étoiles mourantes]

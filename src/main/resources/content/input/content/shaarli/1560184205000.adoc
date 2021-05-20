@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: shyiko/jabba: (cross-platform) Java Version Manager
+:jbake-tags: java,command-line,install,windows,linux,macosx,open-source,_mois_juin,_année_2019
+:jbake-date: 2019-06-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1560184205000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fshyiko%2Fjabba&searchtags=java+command-line+install+windows+linux+macosx+open-source+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/shyiko/jabba[shyiko/jabba: (cross-platform) Java Version Manager]
+
+Mais pourquoi je l'utilise pas déja ? Ah je crois que c'est parce que la plupart de mon code peut utiliser Java8

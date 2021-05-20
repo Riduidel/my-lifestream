@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Igal Tabachnik on Twitter: "Who needs generics, if you've got an editor??… "
+:jbake-tags: programming,critique,troll,go,_mois_févr.,_année_2019
+:jbake-date: 2019-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1550655822000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhmemcpy%2Fstatus%2F1097588977534726148&searchtags=programming+critique+troll+go+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/hmemcpy/status/1097588977534726148[Igal Tabachnik on Twitter: "Who needs generics, if you've got an editor??… "]
+
+Le langage Go, mesdames et messieurs ! (oui c'est un troll, mais parfois, il faut)

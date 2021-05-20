@@ -1,0 +1,19 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pierre Pevel
+:jbake-tags: author
+:jbake-date: 2003-06-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1201844.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1374250949p5/1201844.jpg
+:jbake-source: https://www.goodreads.com/author/show/1201844
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070448531.html[Les Lames du Cardinal]
+* link:../books/9782070448630.html[L'Alchimiste des ombres]
+* link:../books/9782070448647.html[Le dragon des Arcanes]
+* link:../books/9782266130493.html[Les ombres de Wielstadt (Wielstadt, #1)]
+* link:../books/9782266143066.html[Les masques de Wielstadt (Wielstadt, #2)]
+* link:../books/9782266155045.html[Le chevalier de Wielstadt (Wielstadt, #3)]
+* link:../books/9782811214036.html[Le Chevalier (Haut-Royaume #1)]

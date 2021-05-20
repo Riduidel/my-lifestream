@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why's (Poignant) Guide to Ruby
+:jbake-tags: programming,langage,ruby,guide,comics,_mois_févr.,_année_2005
+:jbake-date: 2005-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1107340094000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.poignantguide.net%2Fruby%2F&searchtags=programming+langage+ruby+guide+comics+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.poignantguide.net/ruby/[Why's (Poignant) Guide to Ruby]
+
+A very clever visual / comic book programming guide for the Ruby scripting language.

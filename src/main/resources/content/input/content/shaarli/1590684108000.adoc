@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nouvelles de World of Tanks : jeu de chars gratuit, site officiel de World of Tanks | World of Tanks
+:jbake-tags: gaming,world-of-tanks,actualité,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590684108000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fworldoftanks.eu%2Ffr%2Fnews%2F&searchtags=gaming+world-of-tanks+actualit%C3%A9+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://worldoftanks.eu/fr/news/[Nouvelles de World of Tanks : jeu de chars gratuit, site officiel de World of Tanks | World of Tanks]
+
+Les dernières nouvelles de World of Tanks : contenu des mises à jour, événements spéciaux, ... C'est pratique quand on essaye de jouer de façon un poil optimisée.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Close and delete your Gmail account
+:jbake-tags: google,gmail,tutorial,_mois_juin,_année_2014
+:jbake-date: 2014-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1403870276000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.webdevelopersnotes.com%2Ftips%2Fgmail%2Fclose-delete-gmail-account.php&searchtags=google+gmail+tutorial+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.webdevelopersnotes.com/tips/gmail/close-delete-gmail-account.php[Close and delete your Gmail account]
+
+Un bon guidage pas à pas pour supprimer mon adresse GMail, puisqu'il semble que Google veuille faire disparaître l'IMAP. Pas une raison suffisante, vous dites ? Personnellement, je trouve que si.

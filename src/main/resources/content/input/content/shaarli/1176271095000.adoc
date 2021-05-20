@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iGTD
+:jbake-tags: freeware,gtd,macosx,productivité,software,_mois_avr.,_année_2007
+:jbake-date: 2007-04-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1176271095000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbargiel.home.pl%2FiGTD%2F&searchtags=freeware+gtd+macosx+productivit%C3%A9+software+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://bargiel.home.pl/iGTD/[iGTD]
+
+Un nouveau concurrent dans le domaine, incluant une intégration avancée à Quicksilver, un look plutôt sympa, et apparement tout un paquet de bonnes idées.

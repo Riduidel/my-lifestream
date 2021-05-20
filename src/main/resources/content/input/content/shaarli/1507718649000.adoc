@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pencil and Paper Games
+:jbake-tags: jeu,offline,papier,_mois_oct.,_année_2017
+:jbake-date: 2017-10-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1507718649000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.papg.com%2Findex.html&searchtags=jeu+offline+papier+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.papg.com/index.html[Pencil and Paper Games]
+
+Un chouette site listant des jeux se jouant simplement avec un papier et des crayons

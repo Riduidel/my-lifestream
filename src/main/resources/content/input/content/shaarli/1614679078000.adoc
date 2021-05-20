@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: diagramsascode/diagramsascode: Generate valid diagrams from source code
+:jbake-tags: dsl,java,plantuml,uml,diagram,générateur,library,open-source,_mois_mars,_année_2021
+:jbake-date: 2021-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1614679078000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdiagramsascode%2Fdiagramsascode&searchtags=dsl+java+plantuml+uml+diagram+g%C3%A9n%C3%A9rateur+library+open-source+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://github.com/diagramsascode/diagramsascode[diagramsascode/diagramsascode: Generate valid diagrams from source code]
+
+Je vais changer un bout de code beaucoup trop complexe pour utiliser cet intéressant DSL

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A list of seminal or otherwise notable IDEs or "development environments" by year.
+:jbake-tags: conférence,histoire,programming,ide,marketing,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549632065000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgist.github.com%2Fpeterc%2F717176d3fb973401cd324dfe0f05798e&searchtags=conf%C3%A9rence+histoire+programming+ide+marketing+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://gist.github.com/peterc/717176d3fb973401cd324dfe0f05798e[A list of seminal or otherwise notable IDEs or "development environments" by year.]
+
+Une liste d'IDE influents dans l'histoire.

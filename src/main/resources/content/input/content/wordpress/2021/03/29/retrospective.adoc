@@ -1,0 +1,190 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rétrospective
+:jbake-tags: entreprise,motivation,zenika,_mois_mars,_année_2021
+:jbake-date: 2021-03-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/03/29/retrospective.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/03/29/retrospective/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Il y a à peu près un an, le gouvernement français décidait le premier confinement suite à l'épidémie de coronavirus (je précise au cas où quelqu'un l'ignore). Et je me suis dit que les choses se sont suffisamment calmées (disons plutôt que l'anormal est devenu suffisamment normal) pour que je puisse me permettre de faire l'exercice d'une rétrospective de cette année particulière (et en fait particulièrement chiante). Mais d'abord, un poil de mon histoire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avant le premier confinement, j'étais directeur technique d'une agence de Zenika, en mission d'architecte transverse dans une équipe d'une vingtaine de personnes. La mission se passait assez bien, en revanche le rôle de directeur technique était plutôt plus compliqué que ce que je croyais, à cause d'un désengagement croissant (mais j'en reparlerai). Et puis, au premier confinement, tout s'est arrêté. La mission a été arrêtée par le client (qui dans le bâtiment où je travaillais à l'époque a arrêté toutes les missions de développement). Et j'ai été mis au chômage partiel pour des raisons compréhensibles. J'ai alors passé le printemps sans aucune activité professionnelle, avant de reprendre tout doucement avec une journée par semaine de direction technique. Pendant cette journée, j'ai tenté de maintenir un lien avec les consultants, tout autant confinés que moi. Quelque part, ça a été une nouveauté pour moi, parce que le fait de contacter chaque consultant pour lui demander comment il vivait le confinement était vraiment un travail social, évidement pas ma compétence la plus développée à priori. Fin août, j'ai également repris une mission dans un contexte très différent d'archéologie logicielle à temps plein, donc sans avoir vraiment la possibilité de continuer mon rôle de directeur technique. Et depuis, les choses avancent en télétravail permanent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Qu'est-ce qui a bien marché ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Je suis plutôt surpris d'avoir aussi bien vécu la transition au télétravail : je ne suis absolument pas gêné par le fait de ne pas voir les gens. Je dois remercier pour ça la pratique de l'open-source, qui est déjà une forme de télétravail très avancée.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je suis également assez content d'avoir pu écrire, pendant le premier confinement, une série d'articles sur <a href="https://riduidel.wordpress.com/architecturer-agilement-avec-c4-structurizr/">l'architecture agile</a>, qui m'a permis de poser un certain nombre d'idées élaborées pendant mes missions. Et dans la même veine, ça m'a donné le temps de lancer <a href="https://github.com/Riduidel/agile-architecture-documentation-system/">agile-architecture-documentation-system</a>, que j'ai utilisé dans ma mission avec beaucoup de plaisir.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'une manière un peu plus vaste, ça a été aussi l'occasion pour moi de voir certains pans de mon entreprise se réinventer avec beaucoup de talent et d'envie (et parfois, ça fait rêver).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Qu'est-ce qui n'a pas marché ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D'une façon assez évidente pour ceux qui y travaillent, le lien social qu'on a essayé de maintenir avec les consultants chez Zenika a disparu. J'y vois plusieurs raisons.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première est assez simple : loin des yeux, loin du coeur. Parce que pour un employé d'une société de service, qui travaille donc quotidiennement dans une autre entreprise, garder un lien avec ses collègues a moins d'intérêt, moins de sens que de maintenir un lien avec les collègues de mission. Chez Zenika, l'astuce traditionnelle pour maintenir le lien consistait à attirer les consultants par tous les moyens ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par des événements techniques bien sûr</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/ZenikaLille\/status\/1220051371166224385","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ZenikaLille" class="screenName"><img src="http://pbs.twimg.com/profile_images/1267807590815326214/YASyAZma_mini.jpg" alt="profile of Cabinet d'#innovation technologique, managériale et organisationnelle. Il accompagne les entreprises dans leur #transfonum. Some news : https://t.co/ufklNtHJ1V"/>ZenikaLille</a>
+		<span class="name">Zenika Lille</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ZenikaLille/status/1 220 051 371 166 224 385" class="date">22 janv. 2020 à 19:31:29</a>
+
+	<span class="content">
+	
+	<span class="text">Ce soir chez Zenika Lille, on parle TDD et on est super content de voir autant de gens pour en parler https://t.co/AzmZNWHlaK</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EO5-Pq_WsAE31z-.jpg" alt="1 220 051 356 767 137 793"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Mais aussi du vrai team-building</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/ZenikaLille\/status\/1311591863481139200","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ZenikaLille" class="screenName"><img src="http://pbs.twimg.com/profile_images/1267807590815326214/YASyAZma_mini.jpg" alt="profile of Cabinet d'#innovation technologique, managériale et organisationnelle. Il accompagne les entreprises dans leur #transfonum. Some news : https://t.co/ufklNtHJ1V"/>ZenikaLille</a>
+		<span class="name">Zenika Lille</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ZenikaLille/status/1 311 591 863 481 139 200" class="date">1 oct. 2020 à 11:00:43</a>
+
+	<span class="content">
+	
+	<span class="text">Après la #ZenikaRoulette, voici la #NeoZRoulette !! Belle activité pour les Z au @RIDEONLILLE. La photo, c'était avant de jouer 😬Après, ils avaient nettement moins de dents ! Mais c'était bien fun en tout cas ! #luludemarreunecarriereenroller https://t.co/aqaR3gCZyj</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EjO12VkWsAEpjCR.jpg" alt="1 311 591 861 602 136 065"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div><figcaption>Et figurez-vous que c'est après cette super séance de hockey-roller que j'ai commencé à vraiment avoir <a href="https://riduidel.wordpress.com/2021/02/05/extreme-confinement/">mal au dos</a></figcaption></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et même grâce à l'appel du ventre</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/ZenikaLille\/status\/1305519943014920192","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ZenikaLille" class="screenName"><img src="http://pbs.twimg.com/profile_images/1267807590815326214/YASyAZma_mini.jpg" alt="profile of Cabinet d'#innovation technologique, managériale et organisationnelle. Il accompagne les entreprises dans leur #transfonum. Some news : https://t.co/ufklNtHJ1V"/>ZenikaLille</a>
+		<span class="name">Zenika Lille</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ZenikaLille/status/1 305 519 943 014 920 192" class="date">14 sept. 2020 à 16:53:04</a>
+
+	<span class="content">
+	
+	<span class="text">Même nos voitures respectent la distanciation sur notre parking 👍A partir de demain, on rouvre l'agence chaque mardi et jeudi, en respectant les split team et notre PRA 😷les placards et frigo sont pleins, on a les masques, le gel, et les pinces pour les bonbons ! A demain ! https://t.co/9isuSJ1xq2</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/Eh4jdz1WsAAEsYs.jpg" alt="1 305 519 937 021 194 240"/>
+		</span>
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/Eh4jdy1WsAYAUQr.jpg" alt="1 305 519 936 752 758 790"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et si vous y réfléchissez un poil, dans ce contexte épidémique où on ne sait pas si on sera confiné demain, <strong>plus aucune de ces méthodes</strong> n'est applicable. Autrement dit, l'outillage classique d'une entreprise de conseil n'est plus accessible maintenant, et risque fort de ne plus jamais être accessible, puisque l'un des impacts les plus évidents de l'épidémie est le changement de paradigme culturel avec la culture du télétravail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bref, aujourd'hui, le lien avec les consultants est malheureusement redevenu un lien d'ordre contractuel : Zenika paye des gens pour accomplir des missions chez ses clients, et ces gens reçoivent un salaire Si on y réfléchit bien, il n'existe plus trop de différence avec des consultants indépendants pour lesquels Zenika serait un intermédiaire offrant un bon catalogue de mission, et l'assurance d'être payé même en-dehors des missions ... Et c'est triste.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour le dire autrement, si les valeurs de Zenika sont la transparence, le partage, et la convivialité, la disparition de cette dernière a détruit la capacité de l'entreprise à exprimer les deux premières. Alors, comment faire ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Comment faire mieux ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Plus exactement, comment m'adapter à ce contexte transformé ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pendant cette année, j'ai essayé de maintenir ce fameux lien sans avoir vraiment d'autre objectif que de parler aux gens. Ca c'est révélé assez inutile. Je pense maintenant qu'il vaut mieux aller de l'avant, et voir ce que ça produit. Mais ça veut dire quoi aller de l'avant ? Ca veut dire qu'il serait bien que j'utilise mon temps de directeur technique pour produire du contenu mémorable, et que cette production de contenu incite mes collègues à agir, attirés par l'exemple. Et bien sûr, le fait que cet article soit public est une partie de ce plan de communication. Mais à part cet article, c'est quoi du contenu mémorable ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eh bien par exemple une présentation plus poussée de C4, ainsi que des composants additionnels pour faciliter la vie de l'architecte au maximum. Ca peut aussi être une explication d'un usage sympa de la reconnaissance d'image dans un plugin Keepass. Ca peut être enfin l'utilisation de Mindustry comme support de présentation, et d'expériences, sur l'informatique d'entreprise. Et encore d'autres idées très chouettes.</p>
+<!-- /wp:paragraph -->
+++++

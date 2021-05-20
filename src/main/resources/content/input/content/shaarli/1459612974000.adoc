@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Police Body Cameras: What Do You See? - The New York Times
+:jbake-tags: surveillance,police,_mois_avr.,_année_2016
+:jbake-date: 2016-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1459612974000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2016%2F04%2F01%2Fus%2Fpolice-bodycam-video.html%3Fsmid%3Dtw-nytimes%26smtyp%3Dcur%26_r%3D2&searchtags=surveillance+police+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.nytimes.com/interactive/2016/04/01/us/police-bodycam-video.html?smid=tw-nytimes&smtyp=cur&_r=2[Police Body Cameras: What Do You See? - The New York Times]
+
+Un article absolument fascinant, qui montre bien que les caméras des flics ne sont pas forcément des preuves à décharge.

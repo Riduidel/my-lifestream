@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Camille Fournier
+:jbake-tags: author
+:jbake-date: 2019-05-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/14801119.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1585006749p5/14801119.jpg
+:jbake-source: https://www.goodreads.com/author/show/14801119
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781491973899.html[The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change]

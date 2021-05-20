@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing Hippie
+:jbake-tags: junit,java,test,for:clownny59,_mois_janv.,_année_2010
+:jbake-date: 2010-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1262595852000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkent.spillner.org%2Fblog%2Fwork%2F2009%2F11%2F10%2Fintroducing-hippie.html&searchtags=junit+java+test+for%3Aclownny59+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://kent.spillner.org/blog/work/2009/11/10/introducing-hippie.html[Introducing Hippie]
+
+Des tests jUnit qui envoient des notifications Nagios ... très pratique quand on n'est pas sûr de la fiabilité de certains composants.

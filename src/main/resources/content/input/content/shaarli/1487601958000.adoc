@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ongoing by Tim Bray · Geek Career Paths
+:jbake-tags: emploi,carrière,informatique,_mois_févr.,_année_2017
+:jbake-date: 2017-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1487601958000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.tbray.org%2Fongoing%2FWhen%2F201x%2F2017%2F02%2F18%2FGeek-Career-Paths&searchtags=emploi+carri%C3%A8re+informatique+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.tbray.org/ongoing/When/201x/2017/02/18/Geek-Career-Paths[ongoing by Tim Bray · Geek Career Paths]
+
+Intéressant. Malheureusement, en France, 90% de l'emploi informatique est aux mains des sociétés de conseil

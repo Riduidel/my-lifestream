@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Live Refreshing Cargo Docs
+:jbake-tags: rust,programming,documentation,generated,reload,_mois_août,_année_2018
+:jbake-date: 2018-08-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1535092725000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbenjamincongdon.me%2Fblog%2F2018%2F08%2F22%2FLive-Refreshing-Cargo-Docs%2F&searchtags=rust+programming+documentation+generated+reload+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://benjamincongdon.me/blog/2018/08/22/Live-Refreshing-Cargo-Docs/[Live Refreshing Cargo Docs]
+
+Rafraichir la doc dès que le code change, c'est vraiment chou !

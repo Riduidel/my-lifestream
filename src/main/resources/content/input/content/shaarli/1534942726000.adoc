@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Windows, qu'est-ce que t'as encore fait ?
+:jbake-tags: windows,twitter,web,_mois_août,_année_2018
+:jbake-date: 2018-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1534942726000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3F7hyprg&searchtags=windows+twitter+web+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?7hyprg[Windows, qu'est-ce que t'as encore fait ?]
+
+Il n'y a que chez moi ... Que Windows a décidé depuis ce matin d'ouvrir les liens vers Twitter sur lesquels je clique dans Thunderbird dans l'infâme application Twitter (au lieu de les envoyer vers Firefox)

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GoT books to series
+:jbake-tags: livre,fantasy,visualisation,série,_mois_mai,_année_2019
+:jbake-date: 2019-05-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1557147323000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgot-books-to-series.surge.sh%2F&searchtags=livre+fantasy+visualisation+s%C3%A9rie+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://got-books-to-series.surge.sh/[GoT books to series]
+
+Une analyse - très chouette - des liens entre les livres et la série game of Thrones. Résultat ? comme d'habitude, adaptation EST trahison.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robert J. Sawyer
+:jbake-tags: author
+:jbake-date: 1998-01-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/25883.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1543370297p5/25883.jpg
+:jbake-source: https://www.goodreads.com/author/show/25883
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290047033.html[Expérience Terminale]

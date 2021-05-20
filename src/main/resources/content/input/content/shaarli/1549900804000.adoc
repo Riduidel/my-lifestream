@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: reiz/nginx_proxy: NGinx forward proxy
+:jbake-tags: nginx,https,proxy,_mois_févr.,_année_2019
+:jbake-date: 2019-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1549900804000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Freiz%2Fnginx_proxy&searchtags=nginx+https+proxy+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/reiz/nginx_proxy[reiz/nginx_proxy: NGinx forward proxy]
+
+Une solution de forward proxy https basée sur nginx. ca va m'aider pour cette sale histoire de kafka.

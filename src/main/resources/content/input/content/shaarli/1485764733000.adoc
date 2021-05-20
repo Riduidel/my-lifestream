@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CNIL on Twitter: "Le mot de passe de votre boite e-mail sécurise tout votre écosystème numérique ! Il doit être solide+unique→ https://t.co/mkM5599Ksq #jpd17 https://t.co/HcCtnR0m47"
+:jbake-tags: confidentialité,web,email,_mois_janv.,_année_2017
+:jbake-date: 2017-01-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1485764733000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCNIL%2Fstatus%2F825312474312241152&searchtags=confidentialit%C3%A9+web+email+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CNIL/status/825312474312241152[CNIL on Twitter: "Le mot de passe de votre boite e-mail sécurise tout votre écosystème numérique ! Il doit être solide+unique→ https://t.co/mkM5599Ksq #jpd17 https://t.co/HcCtnR0m47"]
+
+Peut-être la commission nationale qui fait le mieux son boulot.

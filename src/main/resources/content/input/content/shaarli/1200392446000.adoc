@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bloodmasters
+:jbake-tags: freeware,fps,jeu,multiplayer,online,software,windows,_mois_janv.,_année_2008
+:jbake-date: 2008-01-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1200392446000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bloodmasters.com%2F&searchtags=freeware+fps+jeu+multiplayer+online+software+windows+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.bloodmasters.com/[Bloodmasters]
+
+Un petit jeu d'action vu du dessus

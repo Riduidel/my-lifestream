@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Things Work sur Twitter : "This is the Mercator projection vs the true size of each country… "
+:jbake-tags: carte,projection,politique,_mois_oct.,_année_2019
+:jbake-date: 2019-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1570432485000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FThingsWork%2Fstatus%2F1072194806590398464&searchtags=carte+projection+politique+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/ThingsWork/status/1072194806590398464[How Things Work sur Twitter : "This is the Mercator projection vs the true size of each country… "]
+
+Est-ce que c'est pour ça que les européens aiment la projection Mercator ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Benchmarking the Raspberry Pi 4 – Gareth Halfacree – Medium
+:jbake-tags: raspberrypi,benchmark,_mois_juin,_année_2019
+:jbake-date: 2019-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1561534863000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40ghalfacree%2Fbenchmarking-the-raspberry-pi-4-73e5afbcd54b&searchtags=raspberrypi+benchmark+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/@ghalfacree/benchmarking-the-raspberry-pi-4-73e5afbcd54b[Benchmarking the Raspberry Pi 4 – Gareth Halfacree – Medium]
+
+Ce nouveau Raspberry a de telles capacités que de vieux projets que j'avais en tête redeviennent envisageables : un rasberry-nas, ou même un raspberry motorisant un ordinateur portable (avec écran 17", parce que.).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 4 Rules for Intuitive UX – Learn UI Design
+:jbake-tags: design,web,interface,gui,tutorial,_mois_août,_année_2019
+:jbake-date: 2019-08-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1566287567000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flearnui.design%2Fblog%2F4-rules-intuitive-ux.html&searchtags=design+web+interface+gui+tutorial+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://learnui.design/blog/4-rules-intuitive-ux.html[4 Rules for Intuitive UX – Learn UI Design]
+
+Un très très bon résumé de règles de design simples, mais souvent oubliées (au moins par moi). J'aime particulièrement la partie sur les checkbox

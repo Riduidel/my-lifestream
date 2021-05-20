@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jybe! - CoSurfing re-invented
+:jbake-tags: freeware,software,windows,IE,Firefox,web,co-browsing,plugin,_mois_févr.,_année_2005
+:jbake-date: 2005-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1108039032000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jybe.com%2F&searchtags=freeware+software+windows+IE+Firefox+web+co-browsing+plugin+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.jybe.com/[Jybe! - CoSurfing re-invented]
+
+Jybe is a spy ware free plug-in to Internet Explorer and Firefox that enables you to surf the web with your peers in real-time.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: yukoba: Windows FUSE "Dokan" become open source !!
+:jbake-tags: software,windows,java,driver,open-source,fuse,dokan,_mois_janv.,_année_2010
+:jbake-date: 2010-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1262706486000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fyukoba.accelart.jp%2F2008%2F05%2Fwindows-fuse-dokan-become-open-source.html&searchtags=software+windows+java+driver+open-source+fuse+dokan+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://yukoba.accelart.jp/2008/05/windows-fuse-dokan-become-open-source.html[yukoba: Windows FUSE "Dokan" become open source !!]
+
+Un binding Java pour Dokan ... A quoi ça sert ? Par exemple à faire une application, visible comme un morceal de filesystem, permettant d'éditer mes entrées posterous, voire même de faire un backup encore plus simple que la version précédente.

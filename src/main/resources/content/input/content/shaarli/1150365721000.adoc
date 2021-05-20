@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Main Page - Globulation2
+:jbake-tags: freeware,software,windows,linux,macosx,jeu,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150365721000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fglobulation2.org%2Fwiki%2FMain_Page&searchtags=freeware+software+windows+linux+macosx+jeu+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://globulation2.org/wiki/Main_Page[Main Page - Globulation2]
+
+Un jeu de stratégie en temps réel sans doute original.

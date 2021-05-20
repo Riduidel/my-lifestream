@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Slack Harms Projects – Silas Reinagel
+:jbake-tags: slack,message,critique,projet,organisation,communication,_mois_août,_année_2019
+:jbake-date: 2019-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1565773082000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.silasreinagel.com%2Fblog%2F2019%2F08%2F12%2Fhow-slack-harms-projects%2F&searchtags=slack+message+critique+projet+organisation+communication+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.silasreinagel.com/blog/2019/08/12/how-slack-harms-projects/[How Slack Harms Projects – Silas Reinagel]
+
+Un article clair, avec constat et plan d'action, pour lutter d'abord contre Slack, mais aussi contre les autres messageries instantanées (Messenger, Jabber, ...). C'est bien écrit, et clair.

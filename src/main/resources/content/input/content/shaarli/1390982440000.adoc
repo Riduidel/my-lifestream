@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quiz: rions un peu avec la DGSE | Slate
+:jbake-tags: sécurité,humour,transparence,_mois_janv.,_année_2014
+:jbake-date: 2014-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1390982440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.fr%2Fstory%2F82001%2Fquiz-dgse-marches-publics&searchtags=s%C3%A9curit%C3%A9+humour+transparence+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.slate.fr/story/82001/quiz-dgse-marches-publics[Quiz: rions un peu avec la DGSE | Slate]
+
+Un article fascinant. C'est le genre de truc où, pour moi, il faudrait pousser le bouchon encore plus loin en utilisant l'argument classique de "ben quoi, vous lisez mes mails, non ? Alors pourquoi je peux pas donner votre nom ? Hein ? POURQUOI ?" La sécurité nationale ? Elle n'est même pas en danger si les gens de la DGSE changent assez vite. via http://sebsauvage.net/links/?IxJEMg

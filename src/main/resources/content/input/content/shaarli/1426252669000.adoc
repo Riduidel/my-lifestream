@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TwoWheeledTank on Twitter: "The state of the Middle East. A pretty accurate description I'd say: #tweko http://t.co/X3XGS4u0xd"
+:jbake-tags: politique,international,_mois_mars,_année_2015
+:jbake-date: 2015-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1426252669000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FTwoWheeledTank%2Fstatus%2F576287811579604992%2Fphoto%2F1&searchtags=politique+international+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/TwoWheeledTank/status/576287811579604992/photo/1[TwoWheeledTank on Twitter: "The state of the Middle East. A pretty accurate description I'd say: #tweko http://t.co/X3XGS4u0xd"]
+
+Un bon résumé de ce qui se passe au moyen-orient

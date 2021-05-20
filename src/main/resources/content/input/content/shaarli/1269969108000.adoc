@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alternatives to Amazon API « Bibliographic Wilderness
+:jbake-tags: isbn,api,article,documentation,programming,_mois_mars,_année_2010
+:jbake-date: 2010-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1269969108000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbibwild.wordpress.com%2F2009%2F05%2F19%2Falternatives-to-amazon-api%2F&searchtags=isbn+api+article+documentation+programming+_mois_mars+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://bibwild.wordpress.com/2009/05/19/alternatives-to-amazon-api/[Alternatives to Amazon API « Bibliographic Wilderness]
+
+Quasiment l'algorithme de recherche idéal d'image à partir de l'isbn

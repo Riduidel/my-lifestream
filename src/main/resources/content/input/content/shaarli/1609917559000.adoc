@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction - TypeScript Deep Dive
+:jbake-tags: documentation,typescript,programming,langage,web,javascript,_mois_janv.,_année_2021
+:jbake-date: 2021-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1609917559000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbasarat.gitbook.io%2Ftypescript%2F&searchtags=documentation+typescript+programming+langage+web+javascript+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://basarat.gitbook.io/typescript/[Introduction - TypeScript Deep Dive]
+
+Pour le jour où je ferais du TypeScript (pas demain, donc). Ce livre risque de m'être très pratique ...

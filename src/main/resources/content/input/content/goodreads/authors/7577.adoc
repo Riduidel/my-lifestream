@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Anne Rice
+:jbake-tags: author
+:jbake-date: 1998-08-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/7577.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1383250078p5/7577.jpg
+:jbake-source: https://www.goodreads.com/author/show/7577
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782265079625.html[Entretien avec un vampire]

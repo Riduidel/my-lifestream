@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Codemanship on Twitter: "Don't be that young dev who thinks ideas that date back more than 20 years must be irrelevant now. Almost every good idea in computing is decades older than you think"
+:jbake-tags: citation,programming,culture,histoire,_mois_avr.,_année_2018
+:jbake-date: 2018-04-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1523294751000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodemanship%2Fstatus%2F975303766000963586&searchtags=citation+programming+culture+histoire+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/codemanship/status/975303766000963586[Codemanship on Twitter: "Don't be that young dev who thinks ideas that date back more than 20 years must be irrelevant now. Almost every good idea in computing is decades older than you think"]
+
+Carrément ... J'ai beau n'avoir que vingt ans d'expérience, ça me frappe déjà de voir l'aveuglement des jeunes développeurs

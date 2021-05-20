@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - AstusRush/AMaDiA: Astus' Mathematical Display Application : A GUI for Mathematics (Calculator, LaTeX Converter, Plotter, ... )
+:jbake-tags: python,windows,linux,macosx,mathématiques,calculator,open-source,_mois_juin,_année_2020
+:jbake-date: 2020-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1591176523000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FAstusRush%2FAMaDiA&searchtags=python+windows+linux+macosx+math%C3%A9matiques+calculator+open-source+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/AstusRush/AMaDiA[GitHub - AstusRush/AMaDiA: Astus' Mathematical Display Application : A GUI for Mathematics (Calculator, LaTeX Converter, Plotter, ... )]
+
+Les dépendances sont bien dégueulasses, mais l'idée d'avoir un système mathématique sous Windows me plaît bien ...

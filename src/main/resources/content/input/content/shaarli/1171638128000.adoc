@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quick Sequence Diagram Editor - Summary
+:jbake-tags: software,freeware,java,UML,_mois_févr.,_année_2007
+:jbake-date: 2007-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1171638128000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsdedit.sourceforge.net%2Findex.html&searchtags=software+freeware+java+UML+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://sdedit.sourceforge.net/index.html[Quick Sequence Diagram Editor - Summary]
+
+Un outil pour créer des diagrammes de séquence facilement à partir d'un petit script tout bête. Beaucoup plus pratique pour faire de la doc que les grosses mécaniques qui marchent assez mal. Ca doit pouvoir compléter assez bien UMLet

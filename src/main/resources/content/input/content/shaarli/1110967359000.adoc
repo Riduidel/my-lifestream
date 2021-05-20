@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SourceForge.net: Project Info - System Tool Kit X
+:jbake-tags: software,freeware,open-source,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110967359000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sourceforge.net%2Fprojects%2Fstkx%2F&searchtags=software+freeware+open-source+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sourceforge.net/projects/stkx/[SourceForge.net: Project Info - System Tool Kit X]
+
+System Tool Kit X, is a graphical interface for Mac OSX, that provides GUI controls for various command line tools, some of which are: fsck, ipfw, top, ps, chown, chmod, cron, man and more...

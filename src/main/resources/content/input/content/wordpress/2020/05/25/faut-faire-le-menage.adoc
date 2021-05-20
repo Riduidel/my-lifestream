@@ -1,0 +1,66 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Faut faire le ménage
+:jbake-tags: mavie,rss,veille,_mois_mai,_année_2020
+:jbake-date: 2020-05-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/25/faut-faire-le-menage.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/25/faut-faire-le-menage/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Dans la suite des articles précédents, j'allais naïvement m'engager dans une liste à la Prévert des flux RSS que je suis, quand je me suis rendu compte de deux choses</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/riduidel\/status\/1264285775396515847","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 264 285 775 396 515 847" class="date">23 mai 2020 à 22:03:12</a>
+
+	<span class="content">
+	
+	<span class="text">@nmahoude Je viens de jeter un oeil ... j'ai une centaine de flux RSS ! Du coup ça va être vraiment fastidieux. Je vais peut-être en faire un ou deux par jours, en mode vite fait ... on verra</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Bon, ça, c'est la première chose : j'ai beaucoup de flux qui traînent. Parce que la deuxième, un peu moins visible, mais néanmoins évidente une fois que je regarde les logs de rrss2imap, c'est qu'un nombre certain (mais pour l'instant inconnu) sont en fait morts.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">[2020-05-25 10:00:01.553545 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 1/91 from https://xkcd.com/rss.xml[2020-05-25 10:00:01.766933 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2020-05-25 08:00:01 while previous read date is 2020-05-22 04:00:00[2020-05-25 10:00:01.784650 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 2/91 from http://bricablog.net/dotclear/index.php/feed/atom[2020-05-25 10:00:02.243409 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2018-03-08 17:37:08 while previous read date is 2018-03-08 19:37:08[2020-05-25 10:00:02.245046 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 3/91 from https://moijuliettef.wordpress.com/feed/[2020-05-25 10:00:02.554085 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2017-10-05 22:35:23 while previous read date is 2019-03-20 18:51:36[2020-05-25 10:00:02.555533 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 4/91 from http://www.linesandcolors.com/feed/[2020-05-25 10:00:04.247961 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2020-05-14 21:05:55 while previous read date is 2020-05-14 20:59:44[2020-05-25 10:00:04.249122 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 5/91 from http://manchu-sf.blogspot.com/feeds/posts/default[2020-05-25 10:00:04.563142 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2020-05-23 07:38:34.091 while previous read date is 2020-05-20 19:52:15.710[2020-05-25 10:00:04.567645 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 6/91 from https://margauxmotin.typepad.fr/margaux_motin/rss.xml[2020-05-25 10:00:05.250799 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2018-03-02 20:33:46 while previous read date is 2018-03-02 20:33:46[2020-05-25 10:00:05.251818 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 7/91 from http://zepworld.blog.lemonde.fr/feed/[2020-05-25 10:00:05.600096 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2018-04-17 16:35:44 while previous read date is 2018-04-17 16:35:44[2020-05-25 10:00:05.601766 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 8/91 from http://feeds.feedburner.com/zenpencils[2020-05-25 10:00:05.731067 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2020-03-12 01:57:47 while previous read date is 2019-10-07 07:17:29[2020-05-25 10:00:05.732688 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 9/91 from http://fr.rec.arts.fantasy.narkive.com/rss[2020-05-25 10:00:06.177723 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2020-05-25 08:00:06 while previous read date is 2019-12-01 09:00:09[2020-05-25 10:00:06.182928 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 10/91 from http://fr.rec.arts.sf.narkive.com/rss[2020-05-25 10:00:06.602247 +02:00] INFO [rrss2imap::feed_reader] src/feed_reader.rs:65: Feed date is 2020-05-25 08:00:06 while previous read date is 2020-04-21 16:35:30[2020-05-25 10:00:06.616145 +02:00] INFO [rrss2imap::feed] src/feed.rs:87: Reading feed 11/91 from http://generationscience-fiction.hautetfort.com/atom.xml[2020-05-25 10:00:07.907775 +02:00] ERROR [rrss2imap::feed] src/feed.rs:101: Content ar http://generationscience-fiction.hautetfort.com/atom.xml is neither Atom, nor RSS Could not parse XML as Atom or RSS from input.TODO check real content type to help user.</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>Là, par exemple, sur dix flux, je pense que seuls deux ou trois ont encore un contenu à jour.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc avant de pouvoir donner une liste de trucs intéressants à lire, il va falloir que je fasse le tri dans cette liste (ou plutôt que je vous donne le reader's digest, sans les trucs vraiment à la noix). Ce qui me fait d'ailleurs penser que je dois faire la même chose dans mon Shaarli, qui doit être plein à craquer de vieux sites morts ... Et ce qui me fait à nouveau penser à une idée délirante que j'ai eu à un moment : faire de mon Shaarli une espèce de réservoir de liens multi-usages : si j'annote un lien avec <strong>@for_rss2imap</strong>, j'écris un simple script qui génère le fichier OPML à partir de cette catégorie, et j'ai une belle mémoire bien propre.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je pense que je vais mettre ça dans mes idées de développement à la noix (idées qu'il faut d'ailleurs que je retravaille, parce que je crois que pour l'instant, ça n'a aucun support autre qu'un quelconque "<strong>@...</strong>" dans Shaarli). Mais rien de tout ça ne vous aide, en fait ...</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What is/is not considered to be good OO programming
+:jbake-tags: programming,documentation,concepts,oop,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112191629000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tonymarston.net%2Fphp-mysql%2Fgood-bad-oop.html&searchtags=programming+documentation+concepts+oop+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.tonymarston.net/php-mysql/good-bad-oop.html[What is/is not considered to be good OO programming]
+
+

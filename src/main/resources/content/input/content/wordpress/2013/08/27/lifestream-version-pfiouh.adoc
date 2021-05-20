@@ -1,0 +1,41 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lifestream version ... pfiouh
+:jbake-tags: java,lifestream,maven,mavie,_mois_août,_année_2013
+:jbake-date: 2013-08-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/08/27/lifestream-version-pfiouh.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/08/27/lifestream-version-pfiouh/
+:jbake-style: wordpress
+
+++++
+<p>
+Le titre dit à peu près tout, mais pas tout.
+</p>
+<p>
+J'ai donc décidé il y a quelques temps de me relancer dans la n-ième version de mon lifestream.
+</p>
+<p>
+Tout est parti, en fait, de <a title="Un plus joli shaarli …" href="http://riduidel.wordpress.com/2013/06/17/un-plus-joli-shaarli/">shaarli</a>. Shaarli, c'est quand même la base de la réappropriation des données : on part d'un service web bien connu (delicious), et on se dit qu'il serait bien mieux à la maison. Et puis après, en discutant avec d'autres shaarlieurs, on se dit que ce serait super cool de pouvoir discuter entre nous via shaarli (comme les tweets, mais en version décentralisée). Et encore après, en fouillant un peu, je tombe sur une communauté de développeurs qui bossent précisément dans ce genre de domaines - hélas, je n'ai apparement pas conservé de lien - ou la recherche de Shaarli ne marche pas encore assez bien).
+</p>
+<p>
+Ces développeurs expliquent, en gros, qu'il ya  plusieurs façons de faire du lifestream
+<br/>
+<ol>
+<br/>
+<li>Tout écrire dans une interface, et faire en sorte que les messages soient postés sur les bons service</li>
+<br/>
+<li>Ecrire dans chaque service, et rappatrier les données via un sweetcron, par exemple</li>
+<br/>
+</ol>
+<br/>
+Bon, ben j'ai choisi, et c'est la deuxième solution que je prends maintenant avec mon nouveau projet <a href="https://github.com/Riduidel/lifestream">lifestream</a>.
+</p>
+<p>
+Cette fois-ci, j'assume complètement mon côté vieux en reprenant tout en java/maven tout ce que j'avais déja fait pour Goodreads en Groovy ... et je dois bien avouer que ça va vachement vite à écrire pour un monoculturel comme moi.
+</p>
+<p>
+En bonus, je me suis offert quelques gadgets rigolos : les articles sont tous transformés en Markdown, je vais utiliser JBake pour produire le site web (et les wagons maven pour le distribuer). Bref, je m'amuse pas mal.
+</p>
+++++

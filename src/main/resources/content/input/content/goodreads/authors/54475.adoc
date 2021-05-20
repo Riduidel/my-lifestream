@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mike Resnick
+:jbake-tags: author
+:jbake-date: 2002-07-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/54475.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1324507257p5/54475.jpg
+:jbake-source: https://www.goodreads.com/author/show/54475
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780812524246.html[A Miracle of Rare Design (Birthright #21)]
+* link:../books/9782070415830.html[Kirinyaga]
+* link:../books/9782070428106.html[Santiago: A Myth of the Far Future (Santiago #1)]
+* link:../books/9782207249291.html[Markham ou La dévoration]
+* link:../books/9782207306024.html[Le faiseur de veuves]

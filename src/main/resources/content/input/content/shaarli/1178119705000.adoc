@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CocoaWget
+:jbake-tags: freeware,macosx,software,web,_mois_mai,_année_2007
+:jbake-date: 2007-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1178119705000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fen.cocoawget.nobody.jp%2F&searchtags=freeware+macosx+software+web+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://en.cocoawget.nobody.jp/[CocoaWget]
+
+Une interface graphique pour wget sur le mac. peut-être plus pratique que sitesucker ...

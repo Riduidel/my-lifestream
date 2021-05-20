@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zep
+:jbake-tags: author
+:jbake-date: 2017-02-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/261321.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1327091312p5/261321.jpg
+:jbake-source: https://www.goodreads.com/author/show/261321
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782369812579.html[Romance et macchabées]

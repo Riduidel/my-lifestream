@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SiteSucker Home Page
+:jbake-tags: software,freeware,macosx,réseau,web,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111398131000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sitesucker.us%2Fhome.html&searchtags=software+freeware+macosx+r%C3%A9seau+web+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sitesucker.us/home.html[SiteSucker Home Page]
+
+Small application that can download an entire Web site for offline browsing.

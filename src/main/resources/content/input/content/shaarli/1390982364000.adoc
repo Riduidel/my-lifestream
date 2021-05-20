@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gare aux pickpockets électroniques ! (par Pirates Magazine)
+:jbake-tags: sécurité,banque,rfid,_mois_janv.,_année_2014
+:jbake-date: 2014-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1390982364000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.acbm.com%2Finedits%2Fpickpocket-electronique.html&searchtags=s%C3%A9curit%C3%A9+banque+rfid+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.acbm.com/inedits/pickpocket-electronique.html[Gare aux pickpockets électroniques ! (par Pirates Magazine)]
+
+Brrrr .... Ca fait vraiment froid dans le dos, ces histoires. Quant à la possibilité d'être assuré, faut pas déconner, je vois pas trop les banques dire "oh, ben oui, on va vous assurer contre les vols par RFID qu'on vous a imposé"

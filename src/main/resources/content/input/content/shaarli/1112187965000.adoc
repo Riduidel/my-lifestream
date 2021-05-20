@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: andrew cooke: writing: free computing books
+:jbake-tags: software,freeware,programming,documentation,ebook,_mois_mars,_année_2005
+:jbake-date: 2005-03-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1112187965000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.acooke.org%2Fandrew%2Fwriting%2Ffree-comp-books.html&searchtags=software+freeware+programming+documentation+ebook+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.acooke.org/andrew/writing/free-comp-books.html[andrew cooke: writing: free computing books]
+
+

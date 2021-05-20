@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: David Eddings
+:jbake-tags: author
+:jbake-date: 2010-08-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/8732.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1223870462p5/8732.jpg
+:jbake-source: https://www.goodreads.com/author/show/8732
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266033749.html[La reine des sortilèges (La Belgariade, #2)]
+* link:../books/9782266033756.html[Le Pion blanc des présages (La Belgariade #1)]
+* link:../books/9782266041546.html[La tour des maléfices (La Belgariade, #4)]
+* link:../books/9782266041553.html[La fin de partie de l'enchanteur (La Belgariade, #5)]
+* link:../books/9782266051071.html[Les Gardiens du Ponant (La Mallorée, #1)]
+* link:../books/9782266051088.html[Le Roi des Murgos (La Mallorée, #2)]
+* link:../books/9782266055604.html[La Sorcière de Darshiva (La Mallorée, #4)]
+* link:../books/9782266055611.html[Le Démon Majeur de Karanda (La Mallorée, #3)]
+* link:../books/9782266055628.html[La Sibylle de Kell (La Mallorée, #5)]
+* link:../books/9782266170994.html[Le Gambit du magicien (La Belgariade, #3)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Holiday Calendar 2016 (Day 6): Be Lazy With Java 8 - DZone Java
+:jbake-tags: java,programming,lazy,api,_mois_déc.,_année_2016
+:jbake-date: 2016-12-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1482839820000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdzone.com%2Farticles%2Fjava-holiday-calendar-2016-be-lazy-with-java-8&searchtags=java+programming+lazy+api+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://dzone.com/articles/java-holiday-calendar-2016-be-lazy-with-java-8[Java Holiday Calendar 2016 (Day 6): Be Lazy With Java 8 - DZone Java]
+
+Ooooh Alors ça c'est une bonne astuce que je réutiliserai pour les prochains challenges Codingame

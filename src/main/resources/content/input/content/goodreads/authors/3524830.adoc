@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: J. Gregory Keyes
+:jbake-tags: author
+:jbake-date: 2004-09-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3524830.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/3524830
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266163248.html[Les démons du Roi Soleil (L'âge de la déraison, #1)]
+* link:../books/9782266163255.html[L'algèbre des anges (L'âge de la déraison, #2)]
+* link:../books/9782266163279.html[Les ombres de Dieu (L'âge de la déraison, #4)]

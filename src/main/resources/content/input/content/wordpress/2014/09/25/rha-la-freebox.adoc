@@ -1,0 +1,52 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rha la freebox !
+:jbake-tags: freebox,travaux,_mois_sept.,_année_2014
+:jbake-date: 2014-09-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/09/25/rha-la-freebox.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/09/25/rha-la-freebox/
+:jbake-style: wordpress
+
+++++
+<p>
+Bon, je ne vais pas vous parler du fait que <a href="http://www.freenews.fr/spip.php?article15164">la freebox va enfin passer à Android TV, </a>parce que ça n'est qu'une rumeur (même si c'est une rumeur très intéressante).
+</p>
+<p>
+Non, je vais vous parler du problème classique des freenautes : les petits détails gênants. En l'occurence, le détail gênant, c'est la gestion de la surchauffe apr la freebox revolution server. Ou plutôt, dans mon cas, sa non gestion.
+</p>
+<p>
+Voyez-vous, j'ai récement légèrement réaménagé mon salon : j'ai remplacé une jolie étagère Fly sur laquelle était posée la Freebox Server par une <a href="http://www.ikea.com/fr/fr/catalog/products/30263844/">bibliothèque Billy</a> que j'ai légèrement améliroé en y forant des trous pour passer tous les câbles de la freebox derrière le meuble, ce qui est moins disgracieux (j'en connais qui parleraient de <a href="http://www.wikiwand.com/fr/Wife_acceptance_factor">WOF</a>, mais soyons sérieux, je trouve les câbles électriques ou réseau d'une laideur abyssale). Et il semble que le fait de placer ma Freebox Server dans une bibliothèque nuise gravement à ses performances, ou plutôt à son aération, puisque depuis ce changement, je perds l'utilisation d'internet, de la télé ET du téléphone à peu près tous le sjours.
+</p>
+<p>
+Insupportable.
+</p>
+<p>
+J'avais d'abord accusé le transformateur CPL, mais même en le mettant plus à l'air, rien n'y fait, les déconnexions continuent. J'ai donc le choix entre
+<br/>
+<ul>
+<br/>
+<li>ouvrir la freebox pour l'aérer (facile à faire apparement mais un peu sale sur le long terme),</li>
+<br/>
+<li>tenter de la poser sur une plaque métallique elle-même ventilée avec un ventilateur USB par exemple</li>
+<br/>
+<li>la déplacer vers un endroit plus aéré</li>
+<br/>
+</ul>
+<br/>
+J'ai bien l'impression que je vais choisir la troisième solution ...
+</p>
+<p>
+Cela dit, il y a là un autre élément gênant.
+</p>
+<p>
+Quand j'ai quitté le googleverse, j'ai installé un paquet de servcies sur mon NAS (qui marche très bien, <strong>lui</strong>). Parmi ces services, on peut évidement compter shaarli, krissfeed et deux ou trois autres trucs Indispensables au travailleur du savoir que je suis. Problème : aucun de ces services n'est accessible aujourd'hui, puisque ma freebox s'est arrêtée !
+</p>
+<p>
+Et ça, ça s'appelle un Single Point Of Failure ou je ne m'y connais pas ...
+</p>
+<p>
+Ce qui me rappelle furieusement le projet <a href="http://techblog.netflix.com/2012/07/chaos-monkey-released-into-wild.html">Chaos Monkey</a> de Netflix : si on veut savoir comment se comporte un système quand un composant, il n'y a qu'une seule bonne façon de vérifier : en débranchant le composant pour voir ce qui se passe.
+</p>
+++++

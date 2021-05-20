@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fear makes you a worse programmer - Julia Evans
+:jbake-tags: programming,psychologie,entreprise,organisation,_mois_avr.,_année_2018
+:jbake-date: 2018-04-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1522862691000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjvns.ca%2Fblog%2F2014%2F12%2F21%2Ffear-makes-you-a-worse-programmer%2F&searchtags=programming+psychologie+entreprise+organisation+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://jvns.ca/blog/2014/12/21/fear-makes-you-a-worse-programmer/[Fear makes you a worse programmer - Julia Evans]
+
+J'aime quand les développeurs arrivent à sortir de la technique pour parler des aspects humains du développement

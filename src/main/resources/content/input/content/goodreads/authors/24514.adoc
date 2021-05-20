@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brian K. Vaughan
+:jbake-tags: author
+:jbake-date: 2008-10-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/24514.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1557530189p5/24514.jpg
+:jbake-source: https://www.goodreads.com/author/show/24514
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785121039.html[Ultimate X-Men Collection, Book 5]
+* link:../books/9782809422276.html[Ultimate X-Men, tome 6: Nord magnétique]
+* link:../books/9782914409490.html[Les Cent Premiers Jours (Ex Machina #1)]

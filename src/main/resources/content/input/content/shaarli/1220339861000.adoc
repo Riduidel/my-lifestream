@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Caffeine Induced Ramblings - Jasper Potts’s Blog » Blog Archive » Nimbus UIManager UIDefaults
+:jbake-tags: java,documentation,lnf,css,_mois_sept.,_année_2008
+:jbake-date: 2008-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1220339861000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jasperpotts.com%2Fblog%2F2008%2F08%2Fnimbus-uimanager-uidefaults%2F&searchtags=java+documentation+lnf+css+_mois_sept.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.jasperpotts.com/blog/2008/08/nimbus-uimanager-uidefaults/[Caffeine Induced Ramblings - Jasper Potts’s Blog » Blog Archive » Nimbus UIManager UIDefaults]
+
+Comment skinner une appli nimbus (donc toute appli Java moderne) facilement ...

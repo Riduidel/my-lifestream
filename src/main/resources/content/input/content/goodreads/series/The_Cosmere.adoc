@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Cosmere
+:jbake-tags: serie
+:jbake-date: 2015-07-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Cosmere.adoc
+:jbake-source: https://www.goodreads.com/series/135117
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253177128.html[Warbreaker]

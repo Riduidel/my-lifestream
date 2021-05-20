@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arnaud Héritier sur Twitter : "Ridicule. Nous (développeu/se/r/s ) bénévoles sur des projets open-sources ne devont rien à personne. Les mécontents peuvent contribuer ou sont libres d’utiliser autre chose." / Twitter
+:jbake-tags: open-source,économie,google,_mois_févr.,_année_2021
+:jbake-date: 2021-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1612867712000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Faheritier%2Fstatus%2F1358747131952181248&searchtags=open-source+%C3%A9conomie+google+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/aheritier/status/1358747131952181248[Arnaud Héritier sur Twitter : "Ridicule. Nous (développeu/se/r/s ) bénévoles sur des projets open-sources ne devont rien à personne. Les mécontents peuvent contribuer ou sont libres d’utiliser autre chose." / Twitter]
+
+La tragédie des biens communs, version open-source. Google a les moyens de contribuer / financer chaque projet open-source utilisé. Mais, dans une démarche contractualisée classique, il préfère faire payer le poids de la conformité aux bénévoles open-source.

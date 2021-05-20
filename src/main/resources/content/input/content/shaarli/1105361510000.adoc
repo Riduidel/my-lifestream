@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mooter - Web Search
+:jbake-tags: web,search,_mois_janv.,_année_2005
+:jbake-date: 2005-01-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1105361510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mooter.com%2Fmoot&searchtags=web+search+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mooter.com/moot[Mooter - Web Search]
+
+semantico. Tipo Kartoo. Emergente e potente

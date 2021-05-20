@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: hawt.io - manage your server stuff and stay cool!
+:jbake-tags: java,framework,devops,web,_mois_avr.,_année_2014
+:jbake-date: 2014-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1397122032000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhawt.io%2F&searchtags=java+framework+devops+web+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://hawt.io/[hawt.io - manage your server stuff and stay cool!]
+
+Hey pas mal, cette console d'administration en total HTML5. Je me demande bien ce que ça vaut avec notre Glassfish bien chargé ...

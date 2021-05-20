@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brian Mastenbrook on Twitter: "Not a crisis: not everybody can code. Actually a crisis: programmers don't know ethics, history, sociology, psychology, or the law."
+:jbake-tags: citation,programming,culture,_mois_août,_année_2017
+:jbake-date: 2017-08-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1502390498000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbmastenbrook%2Fstatus%2F793104148732469248&searchtags=citation+programming+culture+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/bmastenbrook/status/793104148732469248[Brian Mastenbrook on Twitter: "Not a crisis: not everybody can code. Actually a crisis: programmers don't know ethics, history, sociology, psychology, or the law."]
+
+Il est effectivement incroyable de voir à quel point ces sujets sont ignorés, avec des conséquences toujours désastreuses

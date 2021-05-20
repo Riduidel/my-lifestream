@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Canola 2 Beta
+:jbake-tags: n800,software,mp3,player,podcast,upnp,vidéo,_mois_juin,_année_2008
+:jbake-date: 2008-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1213351634000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fopenbossa.indt.org%2Fcanola%2F&searchtags=n800+software+mp3+player+podcast+upnp+vid%C3%A9o+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://openbossa.indt.org/canola/[Canola 2 Beta]
+
+Le meilleur lecteur audio/vidéo pour tablette Nokia. Les vidéos que j'ai pu voir me font carrément penser à l'ipod touch ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 1 heure de visualisation Netflix équivaut à 100 gEqCO2. Et alors ? - Greenspector
+:jbake-tags: écologie,web,informatique,analyse,_mois_avr.,_année_2021
+:jbake-date: 2021-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1618574274000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgreenspector.com%2Ffr%2Fune-heure-de-visualisation-netflix-cest-100geqco2-et-alors%2F&searchtags=%C3%A9cologie+web+informatique+analyse+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://greenspector.com/fr/une-heure-de-visualisation-netflix-cest-100geqco2-et-alors/[1 heure de visualisation Netflix équivaut à 100 gEqCO2. Et alors ? - Greenspector]
+
+Très bon article partant d'un chiffre apparemment bien sourcé, et tentant d'en tirer tous les enseignements. Je retiens en particulier la comparaison avec d'autres activités, qui est toujours utilisée, mais souvent très faussée.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How management by metrics leads us astray – Jakob Greenfeld – Experiments in Entrepreneurship and Learning
+:jbake-tags: management,mesure,vision,_mois_janv.,_année_2021
+:jbake-date: 2021-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1611737959000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjakobgreenfeld.com%2Fmetrics&searchtags=management+mesure+vision+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://jakobgreenfeld.com/metrics[How management by metrics leads us astray – Jakob Greenfeld – Experiments in Entrepreneurship and Learning]
+
+Ca porte un nom dans le management moderne : OKR ... Avoir des métriques qui ne soient pas portées par une vision, c'est quand même un peu con.

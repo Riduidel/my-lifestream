@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Snapsort
+:jbake-tags: photographie,guide,comparison,review,_mois_janv.,_année_2010
+:jbake-date: 2010-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1263992867000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsnapsort.com%2F&searchtags=photographie+guide+comparison+review+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://snapsort.com/[Snapsort]
+
+Un excellent comparateur d'appareils photos, pour tous ceux qui se posent des questions ...

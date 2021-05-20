@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Qui a vraiment besoin d’héberger soi-même ses données ?
+:jbake-tags: web,@toblog,auto-hébergement,_mois_juin,_année_2013
+:jbake-date: 2013-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1370958885000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpolitiquedunetz.sploing.fr%2F2013%2F06%2Fqui-a-vraiment-besoin-dheberger-soi-meme-ses-donnees%2F&searchtags=web+%40toblog+auto-h%C3%A9bergement+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://politiquedunetz.sploing.fr/2013/06/qui-a-vraiment-besoin-dheberger-soi-meme-ses-donnees/[Qui a vraiment besoin d’héberger soi-même ses données ?]
+
+Va falloir bloguer là-dessus, justement parce que c'est l'opposé de ce que je fais de plus en plus

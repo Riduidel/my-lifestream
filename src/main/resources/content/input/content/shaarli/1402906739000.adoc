@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Choosing an OSS license doesn’t need to be scary - ChooseALicense.com
+:jbake-tags: programming,open-source,_mois_juin,_année_2014
+:jbake-date: 2014-06-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1402906739000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchoosealicense.com%2F&searchtags=programming+open-source+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://choosealicense.com/[Choosing an OSS license doesn’t need to be scary - ChooseALicense.com]
+
+Chouette façon de décrire les différentes lciences open-source et leurs avantages comparatifs.

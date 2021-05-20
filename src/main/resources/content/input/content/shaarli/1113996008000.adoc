@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dorgem - Open Source Webcam Capture Application
+:jbake-tags: software,freeware,open-source,windows,multimedia,webcam,capture,_mois_avr.,_année_2005
+:jbake-date: 2005-04-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1113996008000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdorgem.sourceforge.net%2F&searchtags=software+freeware+open-source+windows+multimedia+webcam+capture+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://dorgem.sourceforge.net/[Dorgem - Open Source Webcam Capture Application]
+
+Dorgem is a webcam capture application for Windows 9x and up. Any Video for Windows compatible webcam (or other digital camera) is supported. It has unlimited storage events that can put the captured image on an FTP site as well as a local disk, all w

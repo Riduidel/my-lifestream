@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zaya
+:jbake-tags: serie
+:jbake-date: 2012-02-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Zaya.adoc
+:jbake-source: https://www.goodreads.com/series/78316
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782505003519.html[Zaya 1 (Zaya, #1)]
+* link:../books/9782505014973.html[Zaya 2 (Zaya, #2)]
+* link:../books/9782505016687.html[Zaya tome 3 (Zaya, #3)]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SIMBL
+:jbake-tags: software,macosx,hack,driver,plugin,_mois_juin,_année_2006
+:jbake-date: 2006-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1150357768000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.culater.net%2Fsoftware%2FSIMBL%2FSIMBL.php&searchtags=software+macosx+hack+driver+plugin+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.culater.net/software/SIMBL/SIMBL.php[SIMBL]
+
+Un gestionnaire d'input manager avec la possibilité d'ajouter des plugins, trouvé grâce à Visor mentionné sur The tao of mac.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dan Woods on Twitter: "I’m starting to think the industry didn’t get the point of “infrastructure as code”. That people believe codified infrastructure is checking YAMLs into a git repo is troubling."
+:jbake-tags: yaml,infrastructure,management,devops,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546419696000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdanveloper%2Fstatus%2F1078870433246662656&searchtags=yaml+infrastructure+management+devops+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/danveloper/status/1078870433246662656[Dan Woods on Twitter: "I’m starting to think the industry didn’t get the point of “infrastructure as code”. That people believe codified infrastructure is checking YAMLs into a git repo is troubling."]
+
+L'argument est \*très\* intéressant : ce n'est pas tant YAML qui est pénible que le fait qu'il décrive des aspects dont je ne dois pas me soucier !

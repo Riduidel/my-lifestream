@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Soot: a Java Optimization Framework
+:jbake-tags: software,freeware,programming,java,qualité,profiler,library,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112363354000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.sable.mcgill.ca%2Fsoot%2F&searchtags=software+freeware+programming+java+qualit%C3%A9+profiler+library+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.sable.mcgill.ca/soot/[Soot: a Java Optimization Framework]
+
+Soot is a Java optimization framework. It provides four intermediate representations for analyzing and transforming Java bytecode:

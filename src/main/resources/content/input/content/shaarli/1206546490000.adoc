@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Feature: Turn Your PC into a DVD Ripping Monster
+:jbake-tags: dvd,freeware,geek,guide,film,software,tutorial,windows,_mois_mars,_année_2008
+:jbake-date: 2008-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1206546490000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flifehacker.com%2F371636%2Fturn-your-pc-into-a-dvd-ripping-monster&searchtags=dvd+freeware+geek+guide+film+software+tutorial+windows+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://lifehacker.com/371636/turn-your-pc-into-a-dvd-ripping-monster[Feature: Turn Your PC into a DVD Ripping Monster]
+
+Un très bon tutoriel sur la copie de DVD

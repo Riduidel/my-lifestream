@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La radio raspberry avance ... doucement
+:jbake-tags: raspberrypi,webradio,_mois_mai,_année_2018
+:jbake-date: 2018-05-28
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/05/28/la-radio-raspberry-avance-doucement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/05/28/la-radio-raspberry-avance-doucement/
+:jbake-style: wordpress
+
+++++
+<p>
+Après avoir passé mon midi à faire souder des câbles par un collègue trop sympa, où en est ma radio
+<br/>
+<ul>
+<br/>
+<li>Je peux brancher les boutons du dessus (mais je dois encore acheter</li>
+<br/>
+<li>Je cherche un écran pour Raspberry d'à peu près 6,2 cm de diagonale</li>
+<br/>
+<li>Et un moyen de brancher la télécommande</li>
+<br/>
+<li>Et un support pour poser correctement le Raspberry dans le boîtier</li>
+<br/>
+</ul>
+<br/>
+&#160;
+</p>
+++++

@@ -1,0 +1,74 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: eclipse-php, ça réconcilie presque
+:jbake-tags: debugger,ide,php,_mois_avr.,_année_2016
+:jbake-date: 2016-04-05
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/05/eclipse-php-ca-reconcilie-presque.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/05/eclipse-php-ca-reconcilie-presque/
+:jbake-style: wordpress
+
+++++
+<p>
+Presque, hein.
+</p>
+<p>
+Depuis quelques temps, j'avais quelques bridges rss cassés : TheOatmeal, LesJoiesDuCode, Freenews, ...
+</p>
+<p>
+J'ai essayé la semaine dernière d'utiliser la méthode classique d'ajout de print, mais sans trop de succès. Mais comme dit sur Twitter
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/CodeWisdom" class="screenName"><img src="http://pbs.twimg.com/profile_images/705003311083229184/qTBCIxpk_mini.jpg" alt="profile of Programming wisdom and quotes throughout the years.
+</p>
+<p>
+The Knuth, the whole Knuth, and nothing but the Knuth, so help me Codd."/>CodeWisdom</a>
+<br/>
+<span class="name">Programming Wisdom</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/CodeWisdom/status/713 797 485 626 580 992" class="date">26 mars 2016 à 19:39:16</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">"In the real world one big split is between people who use symbolic debuggers and people who use print statements." - Peter Seibel</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Clairement, je fais partie de ceux qui préfèrent un débuggeur symbolique. Donc comme je n'arrivais à rien avec mes print, j'ai pris le taureau par les cornes, et j'ai téléchargé <a href="https://www.eclipse.org/pdt/">eclipse for php</a>. Et, évidement, comme eclipse n'est qu'un IDE, j'ai aussi dû télécharger <a href="https://www.apachefriends.org/index.html">XAMPP </a>et l'installer (avec en bonus XDebug pour pouvoir faire du remote debugging).
+</p>
+<p>
+Et du coup, après, trouver mes bugs a été ... beaucoup plus rapide ! Ce qui renforce nettement la leçon déjà apprise avec <a href="https://riduidel.wordpress.com/2016/03/01/jai-appris-le-python-et-un-truc-sur-groovy/">Python </a>et officialise ma méthode de dév : quelquesoit le langage, si je veux travailler vite, le plus efficace n,'est pas de prendre le meilleur outil, mais d'installer le build Eclipse le plus récent adapté à ce langage.
+</p>
+<p>
+Une conséquence de ça, c'est que je vois de moins en moins d'intérêt à tenter de passer à IntelliJ Idea : si à chaque fois que je change de langage, je dois chercher un IDE spécifique dans un coin perdu d'internet, ça ne risque pas d'être efficace. Autrement dit, je suis vraiment un Eclipseboy.
+</p>
+++++

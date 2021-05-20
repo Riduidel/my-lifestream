@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tunatic: free music identification software
+:jbake-tags: desktop,freeware,macosx,mp3,software,social,search,_mois_oct.,_année_2006
+:jbake-date: 2006-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1161346566000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.wildbits.com%2Ftunatic%2F&searchtags=desktop+freeware+macosx+mp3+software+social+search+_mois_oct.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.wildbits.com/tunatic/[Tunatic: free music identification software]
+
+Un moteur de recherche sonore de musique, c'est-à-dire qui permettre de rechercher une chanson simplement en l'écoutant.

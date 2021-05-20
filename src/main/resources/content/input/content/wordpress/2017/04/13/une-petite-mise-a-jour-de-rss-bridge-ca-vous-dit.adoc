@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une petite mise à jour de rss-bridge, ça vous dit ?
+:jbake-tags: raspberrypi,rss,_mois_avr.,_année_2017
+:jbake-date: 2017-04-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/04/13/une-petite-mise-a-jour-de-rss-bridge-ca-vous-dit.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/04/13/une-petite-mise-a-jour-de-rss-bridge-ca-vous-dit/
+:jbake-style: wordpress
+
+++++
+<p>
+Suite aux mises à jour de Sexactu, j'ai dû réécrire le bridge correspondant, et j'en ai donc profité pour mettre à jour <a href="https://github.com/RSS-Bridge/rss-bridge">rss-bridge</a>.
+</p>
+<p>
+Et même si je n'aime pas spécialement le PHP, je dois dire que les choix d'API sont quand même vachement pratiques.
+</p>
+<p>
+En bonus, avec <a href="https://www.apachefriends.org/index.html">xampp </a>et <a href="http://www.eclipse.org/pdt/">Eclipse-PDT</a>, c'est quand même super facile de bosser.
+</p>
+<p>
+Du coup, j'en ai profité pour mettre à jour tous mes bridges ... et évidement les envoyer sur github. Et franchement, c''était facile. Bravo à l'équipe rss-bridge.
+</p>
+++++

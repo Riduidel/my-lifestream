@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Luciole - Typeface
+:jbake-tags: police,texte,_mois_juin,_année_2019
+:jbake-date: 2019-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1560884166000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.luciole-vision.com%2F&searchtags=police+texte+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.luciole-vision.com/[Luciole - Typeface]
+
+Une police conçue pour l'accessibilité ... et avec les ligatures et tous les gadgets modernes.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Désinstaller application du Windows store
+:jbake-tags: windows,application,installation,_mois_août,_année_2018
+:jbake-date: 2018-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1534943453000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsocial.technet.microsoft.com%2FForums%2Ffr-FR%2Fb25cfead-84ea-4fa5-a557-9d4090d288a5%2Fdsinstaller-application-du-windows-store&searchtags=windows+application+installation+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://social.technet.microsoft.com/Forums/fr-FR/b25cfead-84ea-4fa5-a557-9d4090d288a5/dsinstaller-application-du-windows-store[Désinstaller application du Windows store]
+
+Heureusement, j'ai trouvé comment désinstaller réellement ces cochonneries de navigateurs cachés ... merci PowerShell :-/

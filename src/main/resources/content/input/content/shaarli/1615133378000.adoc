@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Calca - The Text Editor that Loves Math
+:jbake-tags: software,open-source,markdown,mathématiques,editor,_mois_mars,_année_2021
+:jbake-date: 2021-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1615133378000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcalca.io%2F&searchtags=software+open-source+markdown+math%C3%A9matiques+editor+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://calca.io/[Calca - The Text Editor that Loves Math]
+
+Un éditeur markdown qui inclut un solveur mathématique, c'est très chouette !

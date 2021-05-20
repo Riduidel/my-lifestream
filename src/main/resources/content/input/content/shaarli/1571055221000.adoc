@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Essential architectural thinking - Speaker Deck
+:jbake-tags: software,architecture,présentation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1571055221000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fufried%2Fessential-architectural-thinking&searchtags=software+architecture+pr%C3%A9sentation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://speakerdeck.com/ufried/essential-architectural-thinking[Essential architectural thinking - Speaker Deck]
+
+Une chouette présentation sur l'architecture logicielle et ses enjeux

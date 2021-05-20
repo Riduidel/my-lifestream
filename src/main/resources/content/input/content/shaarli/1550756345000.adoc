@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: COI - Chat Over IMAP
+:jbake-tags: protocole,imap,chat,_mois_févr.,_année_2019
+:jbake-date: 2019-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1550756345000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.coi-dev.org%2F&searchtags=protocole+imap+chat+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.coi-dev.org/[COI - Chat Over IMAP]
+
+Je suis au bord de l'orgasme technologique là. J'ai toujours trouvé IMAP invraissemblablement plus pratique que ces bêtises à base d'applications web. Alors monter un protocole de chat dessus, c'est à la fois simple et pratique. Il ne me reste plus qu'à créer un client COI en rust et la boucle sera bouclée !

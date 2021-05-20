@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Getting started with Ruby (Loud Thinking)
+:jbake-tags: software,langage,ruby,documentation,_mois_janv.,_année_2005
+:jbake-date: 2005-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1106575830000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.loudthinking.com%2Farc%2F000199.html&searchtags=software+langage+ruby+documentation+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.loudthinking.com/arc/000199.html[Getting started with Ruby (Loud Thinking)]
+
+What Ruby lacks more than anything is good starting points for getting into the language. There's a bunch of absolutely excellent resources out there, though. I've attempted to summarize the best of them by category.

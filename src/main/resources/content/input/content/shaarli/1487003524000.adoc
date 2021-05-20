@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Du CSS qui s'adapte à l'environnement du visiteur - Le Hollandais Volant
+:jbake-tags: css,web,couleur,_mois_févr.,_année_2017
+:jbake-date: 2017-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1487003524000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flehollandaisvolant.net%2F%3Fd%3D2010%2F05%2F29%2F14%2F14%2F00-du-css-qui-sadapte-a-lenvironnement-du-visiteur&searchtags=css+web+couleur+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://lehollandaisvolant.net/?d=2010/05/29/14/14/00-du-css-qui-sadapte-a-lenvironnement-du-visiteur[Du CSS qui s'adapte à l'environnement du visiteur - Le Hollandais Volant]
+
+Très chouette, cette idée. J'apprécie beaucoup l'idée de s'intégrer à l'environnement de l'utilisateur.

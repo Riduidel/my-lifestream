@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dan Creswell on Twitter: "Conway’s Law implies that many orgs are incompatible with good architectural practice even if they claim to want it."
+:jbake-tags: organisation,citation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1483079834000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdancres%2Fstatus%2F814019912989638660&searchtags=organisation+citation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/dancres/status/814019912989638660[Dan Creswell on Twitter: "Conway’s Law implies that many orgs are incompatible with good architectural practice even if they claim to want it."]
+
+Alors ça c'est assez profond

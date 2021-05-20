@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Codex - An Atlas of History
+:jbake-tags: graph,database,histoire,_mois_juil.,_année_2018
+:jbake-date: 2018-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1530473097000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthe-codex.net%2F&searchtags=graph+database+histoire+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://the-codex.net/[The Codex - An Atlas of History]
+
+Oh la vache, une énorme base de données graphes de l'histoire du monde. C'est presqu'aussi chouette que Wikidata

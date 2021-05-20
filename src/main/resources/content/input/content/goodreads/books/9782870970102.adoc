@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La Marque jaune (Blake et Mortimer, #6)
+:jbake-tags:  enquête, voleurs,_année_2015,_mois_sept.,_note_5,rayon-bd,read
+:jbake-date: 2015-09-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782870970102.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328455374l/628648._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328455374l/628648._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/628648
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Les murs de la City ne résonnent plus que des incroyables exploits de la " Marque Jaune ". Ce mystérieux criminel multiplie les actions spectaculaires : raid contre la banque d’Angleterre, vol du Gainsborough de la National Galery, et même vol de la couronne royale d’Angleterre…<br /><br />Rien ne semble pouvoir l’arrêter. Son audace va jusqu’à prévenir à l’avance la police du lieu de l’accomplissement de ses forfaits, ridiculisant à chaque fois un peu plus Scotland Yard.<br /> L’apparente facilité avec laquelle il se déjoue des dispositifs policiers finit par inquiéter les plus hautes instances du pays. Le capitaine Francis Blake est dépêché par le Home Office auprès de Scotland Yard pour élucider l’affaire et découvrir l’identité de l’homme qui se cache derrière la Marque Jaune.<br /><br />Le capitaine s’adjoint tout de suite les services de son vieil ami, le professeur Philip Mortimer, dont les connaissances scientifiques s’avéreront précieuses dans cette affaire extrêmement complexe.<br /> Mais voici qu’aux vols succèdent les enlèvements. Un médecin réputé, un éditorialiste fameux, un juge éminent, disparaissent tour à tour, enlevés sous les yeux impuissants de la police. Les trois hommes se connaissaient. Ils faisaient tous trois partis du " Centaur Club " et étaient amis, ainsi que le professeur Septimus. Ce dernier, psychiatre de renom, est persuadé que la Marque Jaune est un génie du mal et qu’il sera le prochain de la liste…<br /><br />Qui se cache derrière la Marque Jaune ? Quels sont ses mobiles, ses motivations ?… Blake et Mortimer auront fort à faire pour venir à bout de l’inquiétant individu aux pouvoirs quasi-surnaturels…
+</div>
+++++
+
+
+## Authors
+* link:../authors/272058.html[Edgar P. Jacobs]
+
+## Series
+* link:../series/Blake_&_Mortimer_(Carlsen).html[Blake & Mortimer (Carlsen)]
+* link:../series/Blake_&_Mortimer_(Cinebook).html[Blake & Mortimer (Cinebook)]
+* link:../series/Blake_et_Mortimer.html[Blake et Mortimer]
+
+## Review
+
+++++
+Malgré son âge certain, cette histoire garde tout son charme et son dynamisme.
+++++

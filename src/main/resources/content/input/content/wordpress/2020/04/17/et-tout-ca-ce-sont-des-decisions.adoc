@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Et tout ça, ce sont des décisions ...
+:jbake-tags: architecture_agile,décision,_mois_avr.,_année_2020
+:jbake-date: 2020-04-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/17/et-tout-ca-ce-sont-des-decisions.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/17/et-tout-ca-ce-sont-des-decisions/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série sur la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture</a> agile en utilisant la méthode C4.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nous avons donc vu tous les aspects de la documentation d'une architecture sauf un, qui gagne en force en ce moment : l'historisation des décisions. Dans la plupart des sites et livres traitant d'architecture logicielle, on parle d'ADR (regardez ces différents sites : <a href="http://adr.github.io">adr.github.io</a>, <a href="https://github.com/joelparkerhenderson/architecture_decision_record">architecture_decision_record</a>, <a href="https://blog.jdriven.com/2018/10/lightweight-architecture-decision-records/">Lightweight Architecture Decision Records</a>, ou même la <a href="https://en.wikipedia.org/wiki/Architectural_decision">wikipedia</a>). Et dans le modèle de Simon Brown, il s'agit simplement du chapitre <a href="https://structurizr.com/help/documentation/decision-log">decision log</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je ne vais pas vous faire de long discours, parce qu'il y a dans ces liens assez d'alternatives. Je vais juste vous préciser ce qui compte à mon avis dans une décision. D'abord, il y a évidement la motivation de la décision : pourquoi ce sujet est à cet instant important (oui, il s'agit bien de remettre la décision dans son <a href="https://riduidel.wordpress.com/2020/04/08/tout-est-une-question-de-contexte/">contexte</a>). C'est fondamental, parce qu'aucune décision n'est valide sans un contexte. Ensuite, il convient de présenter différentes alternatives, avec leurs avantages et inconvénients spécifiques. Et avant de donner l"état de la décision (est-elle en discussion, adoptée, remplacée par une autre décision), je pense qu'il est utile de rappeler qui porte la décision. Vous savez, l'infâme <a href="https://fr.wikipedia.org/wiki/RACI">RACI</a>. Et bien c'est utile pour montrer d'où vient cette décision.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sur le principe, j'aime beaucoup le fait de noter les décisions prises. Ca a toute sa place dans le <a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">métier de l'architecte</a> en tant que conteur du projet. Ca a aussi toute sa place dans la documentation d'architecture, parce qu'un conteur n'est pas scalable, et aussi parce qu'il faut pouvoir se souvenir des décisions. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En revanche, exactement comme pour le changelog, je ne crois pas que la place de la discussion, ni même de l'état de la décision, soit dans la documentation d'architecture. Parce que la documentation d'architecture, dans ma vision, est elle aussi un système logiciel. Elle a donc son propre bugtracker (c'est pour ça que la documentation inclut des moyens de signaler des erreurs) qui, comme dans l'article de ce matin, hébergera les discussions sur les décisions. De ce fait, la documentation d'architecture va continuer à lire des données depuis des systèmes conçus pour les héberger, en l'occurence un gestionnaire de ticket. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais ça n'est après tout que mon opinion, si vous pensez que la discussion sur les décisions a sa place directement dans la documentation, mettez-la dedans. Après tout, c'est votre document, concernant votre système logiciel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cet article conclut la liste des chapitres du modèle de Simon Brown. En revanche, je ne suis pas sûr que ça conclue ce que je souhaite écrire sur ce sujet. Et si vous avez des questions, des remarques, n'hésitez pas !</p>
+<!-- /wp:paragraph -->
+++++

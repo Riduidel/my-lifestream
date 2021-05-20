@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Sonic
+:jbake-tags: jeu,open-source,linux,windows,freeware,_mois_nov.,_année_2011
+:jbake-date: 2011-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1321535109000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fopensnc.sourceforge.net%2Fhome%2Findex.php&searchtags=jeu+open-source+linux+windows+freeware+_mois_nov.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://opensnc.sourceforge.net/home/index.php[Open Sonic]
+
+Ca tombe bien, je commence à en avoir marre de voir ma fille jouer à Runman en minuscule.

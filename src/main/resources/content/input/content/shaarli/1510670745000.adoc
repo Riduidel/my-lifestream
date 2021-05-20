@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Running nano in docker container - Stack Overflow
+:jbake-tags: docker,linux,nano,configuration,_mois_nov.,_année_2017
+:jbake-date: 2017-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1510670745000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fa%2F27826763%2F15619&searchtags=docker+linux+nano+configuration+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://stackoverflow.com/a/27826763/15619[Running nano in docker container - Stack Overflow]
+
+La prochaine fois que je dois installer nano dans un conteneur, faudra pas que j'oublie de rajouter cette ligne

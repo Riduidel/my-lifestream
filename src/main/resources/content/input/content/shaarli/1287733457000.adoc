@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Action(s) - app.jbbres.com
+:jbake-tags: java,software,freeware,workflow,image,vidéo,file,system,management,_mois_oct.,_année_2010
+:jbake-date: 2010-10-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1287733457000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fapp.jbbres.com%2Factions%2F&searchtags=java+software+freeware+workflow+image+vid%C3%A9o+file+system+management+_mois_oct.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://app.jbbres.com/actions/[Action(s) - app.jbbres.com]
+
+Un clone d'Automator en java ! Trop génial. Avec ça, on peut faire tout ce qu'on veut comme on veut.

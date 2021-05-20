@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mathieu Gaborit
+:jbake-tags: author
+:jbake-date: 2003-08-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/279191.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1422363735p5/279191.jpg
+:jbake-source: https://www.goodreads.com/author/show/279191
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290328279.html[Abyme (Abyme #1-2)]
+* link:../books/9782842614188.html[Confessions d'un automate mangeur d'opium]

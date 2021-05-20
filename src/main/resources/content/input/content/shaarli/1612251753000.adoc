@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ben Sandofsky sur Twitter : "The hardest problem in computer science is building a chat service as good as IRC in 1996." / Twitter
+:jbake-tags: citation,critique,informatique,histoire,startup,_mois_févr.,_année_2021
+:jbake-date: 2021-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1612251753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsandofsky%2Fstatus%2F1356370704271200259&searchtags=citation+critique+informatique+histoire+startup+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/sandofsky/status/1356370704271200259[Ben Sandofsky sur Twitter : "The hardest problem in computer science is building a chat service as good as IRC in 1996." / Twitter]
+
+La citation qui fait mal (et la réponse sur les forums "aussi bien qu'usenet" est encore plus douloureuse pour moi).

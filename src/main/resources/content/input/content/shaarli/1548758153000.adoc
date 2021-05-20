@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Great Divide | CSS-Tricks
+:jbake-tags: javascript,programming,écosystème,évolution,_mois_janv.,_année_2019
+:jbake-date: 2019-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1548758153000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcss-tricks.com%2Fthe-great-divide%2F&searchtags=javascript+programming+%C3%A9cosyst%C3%A8me+%C3%A9volution+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://css-tricks.com/the-great-divide/[The Great Divide | CSS-Tricks]
+
+Super intéressant. ca me permet de mieux comprendre certains aspects du fossé qui peut exister entre les développeurs JS professionnels et moi

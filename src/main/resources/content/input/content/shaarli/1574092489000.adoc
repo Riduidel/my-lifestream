@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Load or Performance Testing (IDE based) · authorjapps/zerocode Wiki
+:jbake-tags: junit,performance,test,http,_mois_nov.,_année_2019
+:jbake-date: 2019-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1574092489000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fauthorjapps%2Fzerocode%2Fwiki%2FLoad-or-Performance-Testing-%28IDE-based%29&searchtags=junit+performance+test+http+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/authorjapps/zerocode/wiki/Load-or-Performance-Testing-(IDE-based)[Load or Performance Testing (IDE based) · authorjapps/zerocode Wiki]
+
+Zerocode a l'air bien chouette pour faire du test de charge, mais il y a des interactions bizarres avec l'initialisation des tests JUnit (typiquement mes contextes Spring sont regénérés à chaque appel).

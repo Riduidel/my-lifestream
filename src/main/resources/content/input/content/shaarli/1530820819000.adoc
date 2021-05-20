@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visual Studio Live Share | Visual Studio
+:jbake-tags: programming,partage,vscode,_mois_juil.,_année_2018
+:jbake-date: 2018-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1530820819000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvisualstudio.microsoft.com%2Ffr%2Fservices%2Flive-share%2F%3Frr%3Dhttps%253A%252F%252Fcode.visualstudio.com%252Fblogs%252F2017%252F11%252F15%252Flive-share&searchtags=programming+partage+vscode+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://visualstudio.microsoft.com/fr/services/live-share/?rr=https%3A%2F%2Fcode.visualstudio.com%2Fblogs%2F2017%2F11%2F15%2Flive-share[Visual Studio Live Share | Visual Studio]
+
+Je crois que je vais jouer avec ça avec @lhauspie

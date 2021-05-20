@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TagScanner - The Ultimate Tag Editor
+:jbake-tags: windows,software,mp3,_mois_mai,_année_2018
+:jbake-date: 2018-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1526354394000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.xdlab.ru%2Fen%2Findex.htm&searchtags=windows+software+mp3+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.xdlab.ru/en/index.htm[TagScanner - The Ultimate Tag Editor]
+
+Puisqu'Helium Music Manager nbe semble plus vouloir marcher, il va être temps de tester un autre éditeur de tag

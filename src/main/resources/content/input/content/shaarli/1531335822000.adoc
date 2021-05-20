@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rob England on Twitter: "had a conversation today about how we have normalised the fact that IT is shit. It's not acceptable that Most IT projects are late or failed. Most businesses are dissatisfied with IT. Most IT people aren't having fun. Most orgs are exposed to fragile insecure systems."
+:jbake-tags: informatique,organisation,_mois_juil.,_année_2018
+:jbake-date: 2018-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1531335822000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftheitskeptic%2Fstatus%2F1016926852877676545&searchtags=informatique+organisation+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/theitskeptic/status/1016926852877676545[Rob England on Twitter: "had a conversation today about how we have normalised the fact that IT is shit. It's not acceptable that Most IT projects are late or failed. Most businesses are dissatisfied with IT. Most IT people aren't having fun. Most orgs are exposed to fragile insecure systems."]
+
+C'est très vrai, et très triste. Malheureusement il n'existe pas d'incitation à transformer ce modèle pourri par quelque chose de mieux

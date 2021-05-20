@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mitmproxy - an interactive HTTPS proxy
+:jbake-tags: programming,web,http,proxy,_mois_juin,_année_2018
+:jbake-date: 2018-06-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1528090225000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmitmproxy.org%2F&searchtags=programming+web+http+proxy+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://mitmproxy.org/[mitmproxy - an interactive HTTPS proxy]
+
+Ce serait pas mal que j'y jette un oeil, parce que Fiddler est quand même assez ... moyen

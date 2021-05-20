@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thomas on Twitter: "Oh and @github, can you PLEASE stop having emoji inserted in my text everytime I want a colon « : » (which comes after a space in many languages, including french). #usability #uxdesign #coding… https://t.co/nci6EYBGJP"
+:jbake-tags: web,design,critique,github,_mois_mars,_année_2018
+:jbake-date: 2018-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1521446399000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftchaumeny%2Fstatus%2F974243103044526080&searchtags=web+design+critique+github+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/tchaumeny/status/974243103044526080[Thomas on Twitter: "Oh and @github, can you PLEASE stop having emoji inserted in my text everytime I want a colon « : » (which comes after a space in many languages, including french). #usability #uxdesign #coding… https://t.co/nci6EYBGJP"]
+
+Ce serait effectivement assez pratique, parce que voir apparaître cette liste déroulante d'icônes ... ben c'est chiant.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Rust optimizes async/await: Part 1 - Tyler Mandry
+:jbake-tags: rust,asynchronous,programming,documentation,article,_mois_août,_année_2019
+:jbake-date: 2019-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1566465018000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftmandry.gitlab.io%2Fblog%2Fposts%2Foptimizing-await-1%2F&searchtags=rust+asynchronous+programming+documentation+article+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://tmandry.gitlab.io/blog/posts/optimizing-await-1/[How Rust optimizes async/await: Part 1 - Tyler Mandry]
+
+Une description assez précise des bases de l'implémentation d'async/await en Rust. C'est vraiment bien écrit, très clair, et franchement fascinant.

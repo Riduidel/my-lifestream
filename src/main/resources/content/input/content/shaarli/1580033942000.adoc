@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JUnit Pioneer - JUnit Pioneer
+:jbake-tags: java,programming,test,junit,library,open-source,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580033942000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjunit-pioneer.org%2F&searchtags=java+programming+test+junit+library+open-source+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://junit-pioneer.org/[JUnit Pioneer - JUnit Pioneer]
+
+Si pour vous JUnit 5 n'est pas encore assez bien, Pioneer rajoute quelques fonctionnalités marrantes (comme les tests en échec qui se relancent tout seuls)

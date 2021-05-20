@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: rotoclone/strategic-communication: A best-of-breed language with a holistic approach to moving the needle
+:jbake-tags: programming,langage,interpreter,fun,management,_mois_sept.,_année_2020
+:jbake-date: 2020-09-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1600954101000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frotoclone%2Fstrategic-communication&searchtags=programming+langage+interpreter+fun+management+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/rotoclone/strategic-communication[rotoclone/strategic-communication: A best-of-breed language with a holistic approach to moving the needle]
+
+Un langage interprété n'utilisant que le lingo stratégique. Les programmes sont aussi illisibles que des plaquettes de direction, c'est incroyable.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Non, personne n'a écrit de manifeste à Google disant que les femmes ne sont pas faites pour l'informatique | Slate.fr
+:jbake-tags: sexisme,liberté,expression,entreprise,_mois_août,_année_2017
+:jbake-date: 2017-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1503914811000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slate.fr%2Fstory%2F149598%2Fpersonne-ecrit-de-manifeste-anti-diversite-google&searchtags=sexisme+libert%C3%A9+expression+entreprise+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.slate.fr/story/149598/personne-ecrit-de-manifeste-anti-diversite-google[Non, personne n'a écrit de manifeste à Google disant que les femmes ne sont pas faites pour l'informatique | Slate.fr]
+
+Le résumé de la sombre anecdote du mémo google par Peggy Sastre remet quelques pendules à l'heure (au moins dans ma tête)

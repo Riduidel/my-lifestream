@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VerbalExpressions/JavaVerbalExpressions
+:jbake-tags: java,library,regexp,_mois_janv.,_année_2016
+:jbake-date: 2016-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1451989928000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FVerbalExpressions%2FJavaVerbalExpressions&searchtags=java+library+regexp+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/VerbalExpressions/JavaVerbalExpressions[VerbalExpressions/JavaVerbalExpressions]
+
+Oh, yeah ! une version de VerbalExpressions en Java !

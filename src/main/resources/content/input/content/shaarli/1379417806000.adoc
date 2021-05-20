@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: In bed with… Remi Forax au ParisJUG S06E01
+:jbake-tags: java,article,développement,langage,_mois_sept.,_année_2013
+:jbake-date: 2013-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1379417806000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.touilleur-express.fr%2F2013%2F09%2F12%2Fin-bed-with-remi-forax-au-parisjug-s06e01%2F&searchtags=java+article+d%C3%A9veloppement+langage+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.touilleur-express.fr/2013/09/12/in-bed-with-remi-forax-au-parisjug-s06e01/[In bed with… Remi Forax au ParisJUG S06E01]
+
+Chouette article sur les arcanes de Java 8 et invokeDynamics

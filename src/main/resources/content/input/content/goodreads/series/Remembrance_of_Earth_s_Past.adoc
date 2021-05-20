@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Remembrance of Earth's Past
+:jbake-tags: serie
+:jbake-date: 2019-05-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Remembrance_of_Earth_s_Past.adoc
+:jbake-source: https://www.goodreads.com/series/189931
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782330113551.html[Le Problème à trois corps (Le Problème à trois corps #1)]

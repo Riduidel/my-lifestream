@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 'Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain • The Register
+:jbake-tags: neural,réseau,processor,ia,_mois_août,_année_2016
+:jbake-date: 2016-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1471948488000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theregister.co.uk%2F2016%2F08%2F22%2Fsamsung_m1_core%2F&searchtags=neural+r%C3%A9seau+processor+ia+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.theregister.co.uk/2016/08/22/samsung_m1_core/['Neural network' spotted deep inside Samsung's Galaxy S7 silicon brain • The Register]
+
+Des réseaux de neurones pour la prédiction de branche ? C'est impressionant .. et logique

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ben Northrop - The Myth of Architect as Chess Master
+:jbake-tags: software,architecture,process,_mois_janv.,_année_2020
+:jbake-date: 2020-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1579248806000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bennorthrop.com%2FEssays%2F2020%2Fmyth-of-software-architect-as-chess-master.php&searchtags=software+architecture+process+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.bennorthrop.com/Essays/2020/myth-of-software-architect-as-chess-master.php[Ben Northrop - The Myth of Architect as Chess Master]
+
+Et ouais, le rôle de l'architecte, c'est de poser des questions.

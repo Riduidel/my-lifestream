@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Succession
+:jbake-tags: serie
+:jbake-date: 2007-10-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Succession.adoc
+:jbake-source: https://www.goodreads.com/series/40579
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266148658.html[Les Légions immortelles (Succession, #1)]
+* link:../books/9782266159777.html[Le Secret de l'empire (Succession, #2)]

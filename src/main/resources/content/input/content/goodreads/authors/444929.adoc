@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John Romita Jr.
+:jbake-tags: author
+:jbake-date: 2010-11-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/444929.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1266561754p5/444929.jpg
+:jbake-source: https://www.goodreads.com/author/show/444929
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782809409994.html[Le premier vrai super-héros (Kick-Ass, #1: 1-4)]
+* link:../books/9782809415605.html[Brume Rouge (Kick-Ass, #1: 5-8)]

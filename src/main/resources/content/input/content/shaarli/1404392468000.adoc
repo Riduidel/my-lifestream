@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Practically Groovy: MVC programming with Groovy templates
+:jbake-tags: groovy,template,programming,_mois_juil.,_année_2014
+:jbake-date: 2014-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1404392468000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Flibrary%2Fj-pg02155%2Findex.html%23code6&searchtags=groovy+template+programming+_mois_juil.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.ibm.com/developerworks/library/j-pg02155/index.html#code6[Practically Groovy: MVC programming with Groovy templates]
+
+C'est en lisant cet article que j'ai compris que 1 - les templates simples peuvent lire des fichiers 2 - on peut utiliser la syntaxe JSP même dans les templates simples

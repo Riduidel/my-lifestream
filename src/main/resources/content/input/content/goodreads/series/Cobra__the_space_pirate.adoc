@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cobra, the space pirate
+:jbake-tags: serie
+:jbake-date: 2015-12-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Cobra__the_space_pirate.adoc
+:jbake-source: https://www.goodreads.com/series/124770
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782374120058.html[Cobra Tome 1]
+* link:../books/9782374120065.html[Cobra Tome 2]

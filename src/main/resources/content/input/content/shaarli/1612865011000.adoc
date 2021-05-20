@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SwiftOnSecurity sur Twitter : "The world we have today was not designed. It is the result of designs - independent and irreconcilable. Designs incepted on the shoulders of bold ventures into the dark by people before us. A world not discovered, but built. They were solving their problems in naïveté of fate." / Twitter
+:jbake-tags: citation,system,société,histoire,design,architecture,_mois_févr.,_année_2021
+:jbake-date: 2021-02-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1612865011000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2FSwiftOnSecurity%2Fstatus%2F1358961109991124992&searchtags=citation+system+soci%C3%A9t%C3%A9+histoire+design+architecture+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/SwiftOnSecurity/status/1358961109991124992[SwiftOnSecurity sur Twitter : "The world we have today was not designed. It is the result of designs - independent and irreconcilable. Designs incepted on the shoulders of bold ventures into the dark by people before us. A world not discovered, but built. They were solving their problems in naïveté of fate." / Twitter]
+
+J'ai rarement lu une citation expliquant aussi bien l'état désastreux des systèmes qui nous entourent.

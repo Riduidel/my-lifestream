@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Quicksilver Tutorials at Forever Geek
+:jbake-tags: tutorial,macosx,launcher,_mois_mars,_année_2005
+:jbake-date: 2005-03-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1110795440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.forevergeek.com%2Fapple%2Fquicksilver_tutorials.php&searchtags=tutorial+macosx+launcher+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.forevergeek.com/apple/quicksilver_tutorials.php[Quicksilver Tutorials at Forever Geek]
+
+When I got my Mac it was recommended to me by many people that I go and get Quicksilver because it "changes the way you use your computer" or some silly thing like that. Well I did go get it and opened it up and threw it away. I wasn't in the mood to mess

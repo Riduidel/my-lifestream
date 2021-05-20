@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Grand Tour
+:jbake-tags: serie
+:jbake-date: 2008-07-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Grand_Tour.adoc
+:jbake-source: https://www.goodreads.com/series/51185
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266141642.html[Mars]

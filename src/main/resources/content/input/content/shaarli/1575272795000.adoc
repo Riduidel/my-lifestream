@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Almond
+:jbake-tags: open-source,voix,assistant,_mois_déc.,_année_2019
+:jbake-date: 2019-12-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1575272795000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Falmond.stanford.edu%2F&searchtags=open-source+voix+assistant+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://almond.stanford.edu/[Almond]
+
+Un assistant vocal open-source (cool) développé par Stanford (très cool)

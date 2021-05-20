@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gantz/13
+:jbake-tags:  combat, monstre, mort,_année_2014,_mois_mai,_note_3,rayon-bd,read
+:jbake-date: 2014-05-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9781595825872.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352762985l/8620601._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1352762985l/8620601._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/8620601
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dinosaurs. Seriously, can the frantic world of Gantz get any more scary? How about a giant doughboy with crazy fangs and a strange outie bellybutton? Yeah, it's not just scary; it's a very strange world for Kei!. At least this time the Gantz crew have a new weapon! It's an awesome state-of-the-art uni-motorcycle thing! And one of the characters uses a massive space samurai sword. It's Gantz!<br /><br />Each volume of Gantz comes shrink-wrapped and carries an 18+ content advisory.
+</div>
+++++
+
+
+## Authors
+* link:../authors/304949.html[Hiroya Oku]
+
+## Series
+* link:../series/Gantz.html[Gantz]
+
+## Review
+
+++++
+Bon ben voilà, hein, des monstres comme s'il en pleuvait, et pas mal d'actes de bravoure.
+++++

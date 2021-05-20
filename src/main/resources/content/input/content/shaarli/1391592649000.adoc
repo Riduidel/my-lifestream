@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Craftsman Recipes : Soignez vos tests unitaires
+:jbake-tags: java,test,programming,bdd,_mois_févr.,_année_2014
+:jbake-date: 2014-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1391592649000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.xebia.fr%2F2014%2F01%2F15%2Fcraftsman-recipes-soignez-vos-tests-unitaires%2F&searchtags=java+test+programming+bdd+_mois_f%C3%A9vr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.xebia.fr/2014/01/15/craftsman-recipes-soignez-vos-tests-unitaires/[Craftsman Recipes : Soignez vos tests unitaires]
+
+Il est bien cet article sur les tests unitaires. On croirait que c'est Eric Lefebvre qui l'a écrit. Il se trouve que c'est ce que je fais de plus en plus : des tests linéaires, dont les méthodes portent des noms expliquant le comportement testé. Et surtout, SURTOUT, des tests réalisés avec hamcrest ou FEST-assert pour avoir le fameux assertThat(bidule, is(machin));

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EnblendGUI
+:jbake-tags: software,freeware,open-source,windows,multimedia,image,_mois_avr.,_année_2005
+:jbake-date: 2005-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1113486458000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.digitalretrograde.com%2FProjects%2FEnblendGUI%2F&searchtags=software+freeware+open-source+windows+multimedia+image+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.digitalretrograde.com/Projects/EnblendGUI/[EnblendGUI]
+
+Enblend GUI is a front end for Enblend which is an image blending tool used for the construction of high-resolution panoramic and mosaic images. Enblend GUI supports drag 'n drop as well as the creation of project files and batch processing of multiple p

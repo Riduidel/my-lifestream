@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laurent Genefort
+:jbake-tags: author
+:jbake-date: 2013-04-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/857413.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/857413
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070455171.html[Les Opéras de l'espace]
+* link:../books/9782072752049.html[Ce qui relie (Spire #1)]
+* link:../books/9782072752148.html[Ce qui révèle (Spire #3)]
+* link:../books/9782207109656.html[Omale, tome 1]
+* link:../books/9782253132950.html[Lum'en]

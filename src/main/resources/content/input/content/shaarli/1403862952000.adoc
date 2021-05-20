@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: About Feminism
+:jbake-tags: féminisme,diversité,_mois_juin,_année_2014
+:jbake-date: 2014-06-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1403862952000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faboutfeminism.me%2Ffr%2F&searchtags=f%C3%A9minisme+diversit%C3%A9+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://aboutfeminism.me/fr/[About Feminism]
+
+J'ose même pas envoyer ça sur la ML de @lescastcodeurs ... j'ai peur d'abuser.

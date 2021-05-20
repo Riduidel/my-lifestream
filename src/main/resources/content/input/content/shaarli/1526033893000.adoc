@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jess Telford on Twitter: "Maintain OSS? Be beginner friendly, and set these words as errors in your syntax highlighter: - obviously - basically - simply - of course - clearly - just - everyone knows - however - so, - easy… https://t.co/rBWJFuKQTj"
+:jbake-tags: citation,programming,open-source,communication,_mois_mai,_année_2018
+:jbake-date: 2018-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1526033893000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjesstelford%2Fstatus%2F992756386160234497&searchtags=citation+programming+open-source+communication+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/jesstelford/status/992756386160234497[Jess Telford on Twitter: "Maintain OSS? Be beginner friendly, and set these words as errors in your syntax highlighter: - obviously - basically - simply - of course - clearly - just - everyone knows - however - so, - easy… https://t.co/rBWJFuKQTj"]
+
+Pas bête du tout !

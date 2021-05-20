@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un midiconf sur Keepass
+:jbake-tags: keepass,présentation,sécurité,_mois_sept.,_année_2018
+:jbake-date: 2018-09-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/09/29/un-midiconf-sur-keepass.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/09/29/un-midiconf-sur-keepass/
+:jbake-style: wordpress
+
+++++
+<p>
+Chez Zenika, on aime bien partager des trucs avec des collègues.
+</p>
+<p>
+Ca peut être l'apprentissage d'un nouveau langage, d'un nouveau framework, d'un nouvel outil.
+</p>
+<p>
+Et j'en ai fait une il y a quelques semaines sur Keepass.
+</p>
+<p>
+Parce que j'aime cet outil, et que je suis toujours effaré par les gens qui ne se servent pas d'un gestionnaire de mot de passe.
+</p>
+<p>
+Et comme (encore une fois) j'aime bien partager, mes présentations sont accessibles sur Github. En particulier celle-ci, sous le titre <a href="https://github.com/Riduidel/conferences/blob/master/keepass/src/slides/asciidoc/index.adoc">Keepass</a> (je suis follement original).
+</p>
+++++

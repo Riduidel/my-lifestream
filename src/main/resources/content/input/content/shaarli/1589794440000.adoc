@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Software_Engineering_Whispers_PrePrint.pdf
+:jbake-tags: représentation,logiciel,discussion,évolution,_mois_mai,_année_2020
+:jbake-date: 2020-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1589794440000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frodijolak.com%2Fpdf%2FSoftware_Engineering_Whispers_PrePrint.pdf&searchtags=repr%C3%A9sentation+logiciel+discussion+%C3%A9volution+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://rodijolak.com/pdf/Software_Engineering_Whispers_PrePrint.pdf[Software_Engineering_Whispers_PrePrint.pdf]
+
+Retenez que la représentation graphique d'un logiciel suscite plus la discussion que sa représentation textuelle.

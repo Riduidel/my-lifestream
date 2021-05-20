@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cargo-hublish/README.md at master · chasinglogic/cargo-hublish
+:jbake-tags: rust,cargo,release,_mois_févr.,_année_2019
+:jbake-date: 2019-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1550679290000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fchasinglogic%2Fcargo-hublish%2Fblob%2Fmaster%2FREADME.md&searchtags=rust+cargo+release+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/chasinglogic/cargo-hublish/blob/master/README.md[cargo-hublish/README.md at master · chasinglogic/cargo-hublish]
+
+Hé mais c'est à peu près ce qui me manquait ! Si en plus j'ai un moyen d'y lier le résultat d'un appel à git journal, ce sera très cool !

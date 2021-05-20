@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What makes Groovy groovy?
+:jbake-tags: développement,groovy,présentation,écosystème,_mois_oct.,_année_2013
+:jbake-date: 2013-10-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1383126419000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fglaforge%2Fwhat-makes-groovy-groovy-jax-london-2013&searchtags=d%C3%A9veloppement+groovy+pr%C3%A9sentation+%C3%A9cosyst%C3%A8me+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://speakerdeck.com/glaforge/what-makes-groovy-groovy-jax-london-2013[What makes Groovy groovy?]
+
+Très très chouette présentation sur Groovy. Bravo ! (en bonus, je découvre Geb qui m'a l'air bien pratique). Au passage, en tant que fan du code compilé, j'aimerais bien savoir si on peut faire en sorte que le @StaticCompile soit "par défaut" dans un projet ...

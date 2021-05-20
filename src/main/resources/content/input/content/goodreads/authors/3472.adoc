@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Margaret Atwood
+:jbake-tags: author
+:jbake-date: 2017-10-25
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3472.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1282859073p5/3472.jpg
+:jbake-source: https://www.goodreads.com/author/show/3472
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782221203323.html[La Servante écarlate]
+* link:../books/9782264043153.html[Le Dernier Homme]

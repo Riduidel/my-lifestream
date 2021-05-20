@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SantoALT.com - flash games, funny videos, funny pictures, and jokes
+:jbake-tags: web,vidéo,bizarre,fun,_mois_avr.,_année_2005
+:jbake-date: 2005-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1112529007000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.santoalt.com%2F&searchtags=web+vid%C3%A9o+bizarre+fun+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.santoalt.com/[SantoALT.com - flash games, funny videos, funny pictures, and jokes]
+
+

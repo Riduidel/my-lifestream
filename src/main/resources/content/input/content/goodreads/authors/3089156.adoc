@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Randall Munroe
+:jbake-tags: author
+:jbake-date: 2021-02-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3089156.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1406058780p5/3089156.jpg
+:jbake-source: https://www.goodreads.com/author/show/3089156
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780525537090.html[How To: Absurd Scientific Advice for Common Real-World Problems]

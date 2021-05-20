@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: off.icio.us
+:jbake-tags: web,folksonomie,aggregator,concepts,_mois_avr.,_année_2005
+:jbake-date: 2005-04-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1112715538000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkk.hopto.org%2Fofficious%2F&searchtags=web+folksonomie+aggregator+concepts+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://kk.hopto.org/officious/[off.icio.us]
+
+officious - n. informal; unofficial. off.icio.us is kind of like a del.icio.us swiss army knife, serving popular sites (i tried not to copy anyone else's methods) and stats. grabs a copy of the popular page and main page every 5 minutes and extracts some

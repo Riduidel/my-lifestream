@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Book of Ash
+:jbake-tags: serie
+:jbake-date: 2009-01-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Book_of_Ash.adoc
+:jbake-source: https://www.goodreads.com/series/53959
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782070359578.html[La Guerrière oubliée (Book of Ash, #1)]
+* link:../books/9780380805501.html[Carthage Ascendant (Book of Ash, #2)]
+* link:../books/9780380811137.html[The Wild Machines (Book of Ash, #3)]
+* link:../books/9782070361007.html[La dispersion des tenebres (Book of Ash, #4)]

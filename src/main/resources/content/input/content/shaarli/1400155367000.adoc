@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: What it's like to own a Tesla Model S - A cartoonist's review of his magical space car - The Oatmeal
+:jbake-tags: voiture,écologie,électrique,_mois_mai,_année_2014
+:jbake-date: 2014-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1400155367000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftheoatmeal.com%2Fcomics%2Ftesla_model_s&searchtags=voiture+%C3%A9cologie+%C3%A9lectrique+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://theoatmeal.com/comics/tesla_model_s[What it's like to own a Tesla Model S - A cartoonist's review of his magical space car - The Oatmeal]
+
+Si ça c'est pas un consomateur content ! Cela dit, le coup de la recharge chaque nuit me refroidit un peu ... Uniquement parce que je n'ai pas de garage !

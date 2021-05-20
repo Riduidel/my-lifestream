@@ -1,0 +1,37 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hitchhiker's guide to diversity in tech
+:jbake-tags: culture,féminisme,société,_mois_nov.,_année_2018
+:jbake-date: 2018-11-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/11/19/hitchhikers-guide-to-diversity-in-tech.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/11/19/hitchhikers-guide-to-diversity-in-tech/
+:jbake-style: wordpress
+
+++++
+<p>
+A l'invitation d'à peu près tout Twitter, j'ai regardé ce week-end la keynote d'Audrey Neveu à bdx.io.
+</p>
+<p>
+https://www.youtube.com/watch?v=znX4pFJdiYg&#160;
+</p>
+<p>
+Et ce qu'elle dit dans cette présentation est à la fois très juste, et particulièrement frappant. Je ne vais pas paraphraser (parce que vous pouvez regarder la vidéo - ça ne prend que 45 minutes, et ça vaut vraiment le coup), mais plutôt vous parler des aspects qui m'ont marqué.
+</p>
+<p>
+Le premier, qu'Audrey passe sous silence (sans doute parce que c'est assez pénible à expliquer clairement et que je vais échouer), est le côté séparateur de l'humour : généralement, quand on fait une blague, on la fait au dépens d'un groupe de personnes. De cette manière, on sépare le monde entre ceux qui rient et ceux dont on rit. Et évidement, on ne rit qu'assez peu de ceux qui ont le pouvoir, ou qui le représentent. Donc on rit des minorités : les femmes, les personnes racisées, les personnes aux sexualités différentes. C'est moche. J'ai beau le faire (de moins en moins souvent, j'espère), c'est quand même très moche. Et franchement, il est plus intéressant (dans ma position d'homme blanc hétérosexuel) de se moquer de ceux qui ont le pouvoir. C'est évidement un peu moins facile, mais plus gratifiant.
+</p>
+<p>
+Le second, et là, Audrey en a bien parlé, c'est l'empathie. Sans elle, il est impossible de comprendre pourquoi la douzième blague sur le ménage dans la journée va taper sur les nerfs de la seule collègue du plateau. Sans vouloir pinailler, je relève toutefois que cette empathie s'oppose de façon frontale aux stéréotypes de genres des hommes, d'une part, et de l'aspect sociopathe des structures de pouvoir des entreprises. Et c'est peut-être le point qui rend la lutte contre les discriminations difficiles dans l'informatique : elle implique des qualités qui n'entrent pas dans le moule culturel de notre milieu.
+</p>
+<p>
+Notez bien que je ne cherche pas là des excuses. Au contraire, je pense que ce que dit Audrey dans cette conférence est parfaitement juste. J'aimerais pouvoir lui dire que je m'excuse pour les abrutis qu'elle a pu rencontrer, parce que clairement, elle n'est pas tombée sur des génies.
+</p>
+<p>
+Enfin, j'ai beaucoup apprécié l'émotion qui se dégageait de l'ensemble de cette présentation. Il n'était manifestement pas évident pour Audrey de faire cette présentation, et je la remercie pour ces efforts, en étant conscient d'un point spécifique : qu'une femme vienne faire une présentation à une conférence, c'est toujours bien. Que les femmes soient cantonnées à des présentations sur la diversité, ben c'est pourri. Je préfère dix fois qu''une femme vienne m'expliquer du Javascript ou d'un autre sujet technique plutôt que de diversité. Je n'étais pas sur place, je n'ai donc pas pu lui demander, mais j'ai l'impression qu'elle partage mon point de vue, et que ça, en plus de la standing ovation et du sujet évidement sensible, a pu rendre Audrey un peu émue en fin de présentation. Parce qu'elle est émue, ça se voit. Et (même si je me répète) je comprend parfaitement son émotion. J'aurais évidement préféré qu'elle n'ait jamais à faire cette présentation, mais malheureusement tout le monde n'est pas forcément capable de comprendre l'intérêt d'avoir de la diversité dans son équipe.
+</p>
+<p>
+En tout cas, regardez cette présentation, c'est important.
+</p>
+++++

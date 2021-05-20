@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Architect's Clue Bucket
+:jbake-tags: architecture,software,_mois_nov.,_année_2016
+:jbake-date: 2016-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1480429535000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2FRufM%2Fthe-architects-clue-bucket&searchtags=architecture+software+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.slideshare.net/RufM/the-architects-clue-bucket[The Architect's Clue Bucket]
+
+Une présentation réellement fascinante, sur tout ce qu'implique le fait de pratiquer l'architecture

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Légendes des contrées oubliées
+:jbake-tags: serie
+:jbake-date: 2012-09-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Legendes_des_contrees_oubliees.adoc
+:jbake-source: https://www.goodreads.com/series/76971
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782840550440.html[Légendes des contrées oubliées, intégrale]

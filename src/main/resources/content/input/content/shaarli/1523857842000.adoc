@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Love your bugs - Allison Kaptur
+:jbake-tags: debug,programming,@todo,présentation,_mois_avr.,_année_2018
+:jbake-date: 2018-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1523857842000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fakaptur.com%2Fblog%2F2017%2F11%2F12%2Flove-your-bugs%2F&searchtags=debug+programming+%40todo+pr%C3%A9sentation+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://akaptur.com/blog/2017/11/12/love-your-bugs/[Love your bugs - Allison Kaptur]
+
+Il va falloir relire ça au calme

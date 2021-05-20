@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tap Compare Testing with Diferencia and Java Microservices
+:jbake-tags: test,api,méthode,junit,extension,_mois_mars,_année_2019
+:jbake-date: 2019-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1552406840000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.infoq.com%2Farticles%2Ftap-compare-diferencia&searchtags=test+api+m%C3%A9thode+junit+extension+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.infoq.com/articles/tap-compare-diferencia[Tap Compare Testing with Diferencia and Java Microservices]
+
+Un concept super intéressant pour le test d'API !

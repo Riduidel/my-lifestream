@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Schneier on Security: New Details on Skype Eavesdropping
+:jbake-tags: skype,sécurité,software,_mois_juin,_année_2013
+:jbake-date: 2013-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1371813014000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.schneier.com%2Fblog%2Farchives%2F2013%2F06%2Fnew_details_on.html&searchtags=skype+s%C3%A9curit%C3%A9+software+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.schneier.com/blog/archives/2013/06/new_details_on.html[Schneier on Security: New Details on Skype Eavesdropping]
+
+Et pouf, on désinstalle Skype qui est clairement une gentille entreprise citoyenne qui fait ce qu'elle eput pour aider la NSA.

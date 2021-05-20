@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Morgane Saysana
+:jbake-tags: author
+:jbake-date: 2019-01-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2954924.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/2954924
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782264070982.html[La destinée, la mort et moi, comment j'ai conjuré le sort]

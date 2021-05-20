@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""There is always one more bug." - Lubarsky's Law of Cybernetic Entomology"
+:jbake-tags: programming,debug,citation,_mois_juin,_année_2016
+:jbake-date: 2016-06-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1466663845000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F745342350440955904&searchtags=programming+debug+citation+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/745342350440955904[Programming Wisdom on Twitter: ""There is always one more bug." - Lubarsky's Law of Cybernetic Entomology"]
+
+Très intelligent

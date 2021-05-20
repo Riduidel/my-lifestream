@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Installation of Java on the NAS under fun_plug
+:jbake-tags: dns-323,java,documentation,tutorial,@toinstall,_mois_janv.,_année_2013
+:jbake-date: 2013-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1358329150000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnas-tweaks.net%2F419%2Finstallation-of-java-on-the-nas-under-fun_plug%2F&searchtags=dns-323+java+documentation+tutorial+%40toinstall+_mois_janv.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://nas-tweaks.net/419/installation-of-java-on-the-nas-under-fun_plug/[Installation of Java on the NAS under fun_plug]
+
+OMG ! Je vais enfin pouvoir faire du Java directement sur mon NAS ?!? (bon d'accord ce sera léger, mais ce sera déja ça)

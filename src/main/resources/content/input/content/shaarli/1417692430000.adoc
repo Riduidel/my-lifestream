@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Doesn’t Suck – You’re Just Using it Wrong
+:jbake-tags: java,programming,architecture,_mois_déc.,_année_2014
+:jbake-date: 2014-12-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1417692430000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jamesward.com%2F2014%2F12%2F03%2Fjava-doesnt-suck-youre-just-using-it-wrong&searchtags=java+programming+architecture+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.jamesward.com/2014/12/03/java-doesnt-suck-youre-just-using-it-wrong[Java Doesn’t Suck – You’re Just Using it Wrong]
+
+Très chouette article, qui montre bien que le mauvais côté de Java, c'est essentiellement sa mauvaise utilisation.

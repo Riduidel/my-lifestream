@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SysExporter v1.10
+:jbake-tags: freeware,software,system,windows,_mois_oct.,_année_2004
+:jbake-date: 2004-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1096879959000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nirsoft.net%2Futils%2Fsysexp.html&searchtags=freeware+software+system+windows+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.nirsoft.net/utils/sysexp.html[SysExporter v1.10]
+
+SysExporter utility allows you to grab the data stored in standard list-views, tree-views, list boxes, and combo boxes from almost any application running on your system, and export it to text, HTML or XML file. Here's some examples for data that you ca

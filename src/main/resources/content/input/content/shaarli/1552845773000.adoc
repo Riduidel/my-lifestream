@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Map.merge() - One method to rule them all
+:jbake-tags: java,programming,documentation,_mois_mars,_année_2019
+:jbake-date: 2019-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1552845773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nurkiewicz.com%2F2019%2F03%2Fmapmerge-one-method-to-rule-them-all.html&searchtags=java+programming+documentation+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.nurkiewicz.com/2019/03/mapmerge-one-method-to-rule-them-all.html[Map.merge() - One method to rule them all]
+
+Très chouette nouvelle méthode ! Ca pourrait changer pas mal de code ...

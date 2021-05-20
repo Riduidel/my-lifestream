@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Effectively Sealed Classes in Java – { 4Comprehension }
+:jbake-tags: programming,java,kotlin,_mois_août,_année_2018
+:jbake-date: 2018-08-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1534410008000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F4comprehension.com%2Feffectively-sealed-classes-in-java%2F&searchtags=programming+java+kotlin+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://4comprehension.com/effectively-sealed-classes-in-java/[Effectively Sealed Classes in Java – { 4Comprehension }]
+
+Franchement, les sealed classes, c'est le truc le moins spectaculaire du monde pour moi ...

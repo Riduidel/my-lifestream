@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jeff Atwood on Twitter: "After seeing users struggle with YAML and the “two spaces at end of a line for a linebreak” rule in Markdown, I can definitively say that any tool which hinges important semantics on invisible characters ... is a mistake."
+:jbake-tags: yaml,python,critique,design,programming,ergonomie,_mois_févr.,_année_2019
+:jbake-date: 2019-02-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1550655998000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcodinghorror%2Fstatus%2F1097985562743431168&searchtags=yaml+python+critique+design+programming+ergonomie+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/codinghorror/status/1097985562743431168[Jeff Atwood on Twitter: "After seeing users struggle with YAML and the “two spaces at end of a line for a linebreak” rule in Markdown, I can definitively say that any tool which hinges important semantics on invisible characters ... is a mistake."]
+
+Malheureusement, ça s'applique aussi à Python (mais honnêtement, si on perd YAML, ce sera déja bien)

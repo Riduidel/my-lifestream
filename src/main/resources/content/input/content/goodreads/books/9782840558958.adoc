@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arcanes, Tome 3 : Le dossier Karadine
+:jbake-tags:  combat, complot, fantastique, rayon-emprunt, voyage,_année_2012,_mois_juin,_note_2,rayon-bd,read
+:jbake-date: 2012-06-04
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840558958.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338728325l/11698110._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1338728325l/11698110._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/11698110
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+L'agence Stargate se voit confier un étrange marché : le multimilliardaire Karadine léguera un jeu de carte très ancien en échange de sa protection jusqu'à sa mort. Évènement imminent car l'homme souffre d'un cancer en phase terminale. Une protection contre qui ? Contre un joueur concurrent et rancunier...
+</div>
+++++
+
+
+## Authors
+* link:../authors/4941957.html[Boyan Kovasevic]
+* link:../authors/5621260.html[Jean-Pierre Pécau]
+
+## Series
+* link:../series/Arcanes.html[Arcanes]
+
+## Review
+
+++++
+Curieuse histoire, intégrant néanmoins la fameuse <a href="https://fr.wikipedia.org/wiki/L'Île_des_morts_(peinture)">île des morts</a> sinon dans l'intrigue du moins dans le paysage.<br/>J'ai pas bien compris le passage par le monastère des soeurs de l'éternel je sais plus quoi. Mais bon, le reste est assez classique.
+++++

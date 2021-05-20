@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: asciidoctor/asciidoclet: A Javadoc Doclet based on Asciidoctor that lets you write Javadoc in the AsciiDoc syntax.
+:jbake-tags: java,javadoc,asciidoc,_mois_janv.,_année_2017
+:jbake-date: 2017-01-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1484563837000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fasciidoctor%2Fasciidoclet%2F%23additional-features&searchtags=java+javadoc+asciidoc+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/asciidoctor/asciidoclet/#additional-features[asciidoctor/asciidoclet: A Javadoc Doclet based on Asciidoctor that lets you write Javadoc in the AsciiDoc syntax.]
+
+Evidement. Mais EVIDEMENT que ça existe et que c'est une bonne idée.

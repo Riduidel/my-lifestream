@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Clean Coder Blog
+:jbake-tags: emploi,diversité,opinion,_mois_août,_année_2017
+:jbake-date: 2017-08-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1502393714000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.cleancoder.com%2Funcle-bob%2F2017%2F08%2F09%2FThoughtPolice.html&searchtags=emploi+diversit%C3%A9+opinion+_mois_ao%C3%BBt+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://blog.cleancoder.com/uncle-bob/2017/08/09/ThoughtPolice.html[Clean Coder Blog]
+
+Un point de vue un peu différent, mais néanmoins intéressant

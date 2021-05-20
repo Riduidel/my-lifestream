@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brigitte Mariot
+:jbake-tags: author
+:jbake-date: 2016-07-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/34866.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/34866
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782756402963.html[Déraison et Sentiments (La Première Loi #2)]

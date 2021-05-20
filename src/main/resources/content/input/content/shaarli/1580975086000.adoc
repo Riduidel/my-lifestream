@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architecture Playbook — Architecture Playbook 1.3 documentation
+:jbake-tags: architecture,documentation,reference,list,_mois_févr.,_année_2020
+:jbake-date: 2020-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1580975086000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farchitectureplaybook.readthedocs.io%2Fen%2Flatest%2Findex.html&searchtags=architecture+documentation+reference+list+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://architectureplaybook.readthedocs.io/en/latest/index.html[Architecture Playbook — Architecture Playbook 1.3 documentation]
+
+Très chouette document rempli (à ras bord) de bonnes idées sur l'architecture.

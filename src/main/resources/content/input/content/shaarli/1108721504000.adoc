@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PCkado : Destockage informatique, ordinateur portable d'occasion, ordinateur d'occasion
+:jbake-tags: web,boutique,ordinateur,_mois_févr.,_année_2005
+:jbake-date: 2005-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1108721504000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pckado.com%2FMain.php&searchtags=web+boutique+ordinateur+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pckado.com/Main.php[PCkado : Destockage informatique, ordinateur portable d'occasion, ordinateur d'occasion]
+
+PCkado à l'ambition d’être le plus grand magasin virtuel français de matériel informatique reconditionné.

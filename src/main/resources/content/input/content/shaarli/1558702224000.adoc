@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "the best part of dev (at least for me) is when I have an idea, am convinced it is doable, but do not know yet how I’ll do it. It gets the brain started. The second best part is the face people make when I start with “I have an idea""
+:jbake-tags: idée,inspiration,citation,_mois_mai,_année_2019
+:jbake-date: 2019-05-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1558702224000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1131867081748697088&searchtags=id%C3%A9e+inspiration+citation+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1131867081748697088[Geoffroy Couprie on Twitter: "the best part of dev (at least for me) is when I have an idea, am convinced it is doable, but do not know yet how I’ll do it. It gets the brain started. The second best part is the face people make when I start with “I have an idea""]
+
+"relatable", comme ils disent outre-atlantique

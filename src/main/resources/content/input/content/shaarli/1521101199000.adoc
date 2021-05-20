@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Meecrowave :: the customizable server
+:jbake-tags: java,programming,server,microservices,_mois_mars,_année_2018
+:jbake-date: 2018-03-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1521101199000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fopenwebbeans.apache.org%2Fmeecrowave%2Findex.html&searchtags=java+programming+server+microservices+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://openwebbeans.apache.org/meecrowave/index.html[Meecrowave :: the customizable server]
+
+Chouette ! Un serveur Java idéalement taillé pour les applications à base de microservices

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: milo-minderbinder/AWS-PlantUML: PlantUML sprites, macros, and other includes for AWS components.
+:jbake-tags: plantuml,macro,library,aws,_mois_janv.,_année_2017
+:jbake-date: 2017-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1483360736000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmilo-minderbinder%2FAWS-PlantUML&searchtags=plantuml+macro+library+aws+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/milo-minderbinder/AWS-PlantUML[milo-minderbinder/AWS-PlantUML: PlantUML sprites, macros, and other includes for AWS components.]
+
+Et un chouette exemple AWS d'utilisation de ces macros

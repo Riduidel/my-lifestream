@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #ProgX
+:jbake-tags: programming,concepts,documentation,design,pattern,exemple,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112276719000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.progx.org%2Findex.php%3Fsection%3Darticles&searchtags=programming+concepts+documentation+design+pattern+exemple+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.progx.org/index.php?section=articles[#ProgX]
+
+Pour rÃ©sumer, les motifs de conception servent Ã offrir un catalogue de solutions objets, Ã identifier ces solutions pour faciliter le dialogue entre architectes logiciels et pour tirer pleinement parti des caractÃ©ristiques de la programmation

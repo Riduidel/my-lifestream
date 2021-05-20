@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Trace in the Sand, Software Architecture Journal by Ruth Malan
+:jbake-tags: software,architecture,présentation,_mois_oct.,_année_2017
+:jbake-date: 2017-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1507555315000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ruthmalan.com%2FJournal%2Fjournalcurrent.htm&searchtags=software+architecture+pr%C3%A9sentation+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.ruthmalan.com/Journal/journalcurrent.htm[A Trace in the Sand, Software Architecture Journal by Ruth Malan]
+
+Wow, c'est quand même un sacré métier

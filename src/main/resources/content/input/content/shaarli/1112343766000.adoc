@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Toys - dhtml libraries, demos and applications
+:jbake-tags: web,html,javascript,dhtml,library,software,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112343766000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cross-browser.com%2Ftoys%2F&searchtags=web+html+javascript+dhtml+library+software+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.cross-browser.com/toys/[Toys - dhtml libraries, demos and applications]
+
+nice

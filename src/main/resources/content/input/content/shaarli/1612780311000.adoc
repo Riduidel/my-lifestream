@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The endless browser wars [LWN.net]
+:jbake-tags: web,browser,économie,open-source,standard,_mois_févr.,_année_2021
+:jbake-date: 2021-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1612780311000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flwn.net%2FArticles%2F843607%2F&searchtags=web+browser+%C3%A9conomie+open-source+standard+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://lwn.net/Articles/843607/[The endless browser wars [LWN.net]]
+
+La guerre des n'évoque n'existe que parce que les gafam essayent toujours de tuer la concurrence au nom du marché (chromium n'est que le rejeton de l'approche "embrace, extinguish and extinct" de Microsoft). Alors faites-leur plaisir, passez à Firefox !

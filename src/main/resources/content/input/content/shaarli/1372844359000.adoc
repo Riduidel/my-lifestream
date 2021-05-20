@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GoodUI
+:jbake-tags: ergonomie,marketing,web,_mois_juil.,_année_2013
+:jbake-date: 2013-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1372844359000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgoodui.org%2F&searchtags=ergonomie+marketing+web+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://goodui.org/[GoodUI]
+
+Un chouette référentiel de bonnes idées pour faire du web qui vend bien

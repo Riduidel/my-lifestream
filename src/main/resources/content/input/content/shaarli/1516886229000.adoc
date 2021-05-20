@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Docker file ADD with URL should using cache without download · Issue #12361 · moby/moby
+:jbake-tags: docker,web,url,_mois_janv.,_année_2018
+:jbake-date: 2018-01-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1516886229000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmoby%2Fmoby%2Fissues%2F12361&searchtags=docker+web+url+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/moby/moby/issues/12361[Docker file ADD with URL should using cache without download · Issue #12361 · moby/moby]
+
+Les mecs de Docker ont quand même des choix d'architecture louche : le ADD  ne fournit pas de cache, parce que certains serveurs font n'importe quoi ... C'aurait a mon sens été un peu mieux d'être propre, ou d'avoir une option ...

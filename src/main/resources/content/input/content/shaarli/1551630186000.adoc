@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une start-up propose de manipuler son conjoint grâce à de la publicité ciblée
+:jbake-tags: startup,économie,intimité,_mois_mars,_année_2019
+:jbake-date: 2019-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1551630186000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lefigaro.fr%2Fsecteur%2Fhigh-tech%2F2019%2F02%2F14%2F32001-20190214ARTFIG00250-une-start-up-propose-de-manipuler-son-conjoint-grace-a-de-la-publicite-ciblee.php&searchtags=startup+%C3%A9conomie+intimit%C3%A9+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://www.lefigaro.fr/secteur/high-tech/2019/02/14/32001-20190214ARTFIG00250-une-start-up-propose-de-manipuler-son-conjoint-grace-a-de-la-publicite-ciblee.php[Une start-up propose de manipuler son conjoint grâce à de la publicité ciblée]
+
+A 29$ la manipulation de conjoint, je parie que l'objectif est en fait d'alimenter une base de contacts qualifiés (et c'est le cas ici, puisque c'est le conjoint qui fournit l'essentiel des infos). Quant à l'éthique de la boîte, elle me fait vomir.

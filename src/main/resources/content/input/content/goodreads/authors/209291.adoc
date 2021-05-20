@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nathalie Serval
+:jbake-tags: author
+:jbake-date: 2001-09-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/209291.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/209291
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070418077.html[Je suis une légende]

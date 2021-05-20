@@ -1,0 +1,44 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Deuxième semaine de confinement
+:jbake-tags: épidémie,confinement,mavie,_mois_mars,_année_2020
+:jbake-date: 2020-03-30
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/03/30/deuxieme-semaine-de-confinement.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/03/30/deuxieme-semaine-de-confinement/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Et oui, la deuxième semaine est déja finie ! (en vérité, je suis même en retard pour ce message, mais c'est bon signe, non ?)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, dans cette semaine, les éléments mis en place pendant la première ont pu se confirmer : les enfants travaillent bien, ma femme s’approprie correctement les outils de visio-conférence et je continue tranquillement. Autrement dit, tout va bien. Hélas, je sais déja que ça ne va pas durer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En effet, magie de la société de service, mon client actuel réduit fortement la voilure, ce qui pousse mon employeur à me proposer le chômage partiel. Je comprend tout à fait l'intérêt de la manoeuvre, mais ça va me plonger dans une situation inédite : depuis quinze ans, je n'ai pas eu plus de 5 semaines de non-activité professionnelle dans l'année. J'ai bien conscience que c'est un problème de riche, mais quand même ... comment occuper ce temps ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heureusement, j'ai déja prévu une liste d'activités que je vais livrer en vrac</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Quelques travaux domestiques (refaire les joints d'un carrelage, refaire des enduits, détapisser une montée d'escalier)</li><li>Des contributions open-sources (à ce sujet, je rappelle que GitHub a une chouette page listant <a href="https://github.com/issues">tous les issues créés par vous-même</a>).<ul><li>Mon lifestream à remettre à jour (youpie du Java)</li><li>Un bug à corriger dans rrss2imap (youpie du Rust)</li><li>Quelques améliorations à apporter à structuriz</li></ul></li><li>Des articles de blog à écrire ... par dizaines, en fait<ul><li>Sur l'architecture as code (ou l'architecture agile, on verra)</li><li>Sur le Darwin Driven Development</li><li>Sur l'intérêt ou pas des microservices</li><li>Sur le gitisme</li><li>Sur le communautarisme dans le monde du développement</li></ul></li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Ce qui m'amène à plusieurs réflexions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première, c'est qu'il semble évident que cette période va être propice à un bouillonnement de créativité. Il y a forcément des tonnes de gens qui vont lancer des tonnes de projets. C'est bien (même si encore une fois le fossé social va être creusé entre ceux qui travaillent comme des malades parce qu'ils ont un boulot "posté", et ceux qui sont mis au chômage partiel ou en télétravail parce que c'est possible).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La seconde, c'est qu'écrire tout ça, c'est m'engager. Et c'est précisément ce que je veux : faire en sorte que ces promesses deviennent réalité.</p>
+<!-- /wp:paragraph -->
+++++

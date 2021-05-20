@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guietta! — guietta 0.3.3 documentation
+:jbake-tags: python,interface,generation,_mois_juil.,_année_2020
+:jbake-date: 2020-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1593794265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.guietta.com%2F&searchtags=python+interface+generation+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://www.guietta.com/[Guietta! — guietta 0.3.3 documentation]
+
+Eh mais c'est marrant cette librairie de génération d'interface graphique !

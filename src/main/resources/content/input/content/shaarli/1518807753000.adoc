@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L’enfer de la maison intelligente | InternetActu.net
+:jbake-tags: domotique,iot,interface,communication,sécurité,_mois_févr.,_année_2018
+:jbake-date: 2018-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1518807753000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.internetactu.net%2Fa-lire-ailleurs%2Flenfer-de-la-maison-intelligente%2F&searchtags=domotique+iot+interface+communication+s%C3%A9curit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://www.internetactu.net/a-lire-ailleurs/lenfer-de-la-maison-intelligente/[L’enfer de la maison intelligente | InternetActu.net]
+
+L'expérience utilisateur de l'IoT est décrite d'une façon très décevante, qui cadre pas mal avec mes observations (je connais quelques personnes qui ont tenté de faire de la domotique). Ca mérite une vraie réflexion en termes d'UX et d'interconnexion.

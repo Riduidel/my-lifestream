@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mobydock: Welcome to the Official Site
+:jbake-tags: desktop,dock,freeware,software,shell,windows,_mois_juin,_année_2006
+:jbake-date: 2006-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1149252252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mobydock.com%2F&searchtags=desktop+dock+freeware+software+shell+windows+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.mobydock.com/[Mobydock: Welcome to the Official Site]
+
+Un dock pour Windows

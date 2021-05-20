@@ -1,0 +1,96 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Quand une documentation devient un problème (et que faire alors)
+:jbake-tags: design,documentation,interface,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-quand-une-documentation-devient-un-probleme-et-que-faire-alors.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-quand-une-documentation-devient-un-probleme-et-que-faire-alors/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+D’abord, la doc, il faut en écrire, mais il ne faut pas répondre RTFM aux utilisateurs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+Chez Criteo, ils ont donc une stack classique : Jenkins, Gerrit, Perpetuo/Rundeck, …​ Avec de la doc (environ 250 pages dans Confluence) raisonnablement bien faite : de la doc utilisateur, de la doc de référence.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+Pourtant, chaque jour, il y a des utilisateurs qui posent des questions sur Slack …​ qui ont déja la réponse dans la doc. Parce que les utilisateurs ne lisent pas la doc. D’ailleurs, la FAQ non plus n’est pas lue.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+Et quand les gens lisent la doc, parfois ils n’y croient pas. Ou alors ils la dupliquent. Et c’est mal. Et enfin, elle n’est jamais assez bien écrite.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-14">
+</p>
+<p>
+Comment éviter ça ? Benoît essaye d’arrêter d'écrire de la doc. A la place, il fait en sorte que les outils soient simples à utiliser. Et pour ça, si il faut supprimer des fonctionnalités …​ il les supprime. Par ailleurs, donnez immédiatement l’information utile, sans passer par des intermédiaires. (par exemple, pas de "allez voir dans les logs de machin", mais un lien direct vers "les logs de machin"). Il met aussi en place des interfaces dédiées aux différentes catégories d’utilisateurs.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Enfin, supprimer les exceptions ! C’est-à-dire faire en sorte qu’il n’y ait pas de cas exceptionnels.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-22">
+</p>
+<p>
+Autrement dit, la documentation utile, mais elle a un coût d’entrée et de maintenance. Si il faut expliquer un outil c’est qu’il faut le simplifier.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-24">
+<br/>
+<h2 id="truemon_avis">Mon avis</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+C’est bien de montrer que la doc révèle souvent un manque dans la conception de l’interface d’un logiciel. Mais il y a en revanche des cas où elle reste utile. Et dans ces cas-là, on fait quoi ?
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

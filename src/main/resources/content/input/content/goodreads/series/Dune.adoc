@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dune
+:jbake-tags: serie
+:jbake-date: 2020-12-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Dune.adoc
+:jbake-source: https://www.goodreads.com/series/45935
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266027250.html[Le Messie de Dune]
+* link:../books/9782266027229.html[Les Enfants de Dune]
+* link:../books/9782266027236.html[L'Empereur-Dieu de Dune]
+* link:../books/9782266028134.html[Les Hérétiques de Dune]
+* link:../books/9782266035125.html[La Maison des mères]
+* link:../books/9782266026659.html[Dune *]
+* link:../books/9782266026642.html[Dune **]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why I Won't Accept ANY Magic Number
+:jbake-tags: programming,java,style,_mois_janv.,_année_2015
+:jbake-date: 2015-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1420136197000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffeeds.dzone.com%2F%7Er%2Fjavalobby%2Ffrontpage%2F%7E3%2FACPaBT6s-mY%2Fwhy-i-wont-accept-any-magic&searchtags=programming+java+style+_mois_janv.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://feeds.dzone.com/~r/javalobby/frontpage/~3/ACPaBT6s-mY/why-i-wont-accept-any-magic[Why I Won't Accept ANY Magic Number]
+
+J'approuve (même si je n'applique pas systématiquement)

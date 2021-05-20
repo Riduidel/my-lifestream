@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""Beware of programmers who carry screwdrivers." - Leonard Brandwein"
+:jbake-tags: citation,programming,danger,_mois_oct.,_année_2016
+:jbake-date: 2016-10-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1477482566000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F790970935180492800&searchtags=citation+programming+danger+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/790970935180492800[Programming Wisdom on Twitter: ""Beware of programmers who carry screwdrivers." - Leonard Brandwein"]
+
+C'était très vrai avant, mais à mon avis ça reste pertinent

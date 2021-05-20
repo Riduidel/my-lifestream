@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 💬1 - Screenly - Screenly Open Source Edition
+:jbake-tags: raspberrypi,écran,_mois_mai,_année_2019
+:jbake-date: 2019-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1558468900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.screenly.io%2Fose%2F&searchtags=raspberrypi+%C3%A9cran+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.screenly.io/ose/[💬1 - Screenly - Screenly Open Source Edition]
+
+Si j'avais connu cet outil il y a quatre ans, j'aurais fait des choses bien différentes

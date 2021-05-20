@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Windos/BurntToast: Module for creating and displaying Toast Notifications on Microsoft Windows 10.
+:jbake-tags: windows,notification,system,_mois_sept.,_année_2019
+:jbake-date: 2019-09-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1567502488000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FWindos%2FBurntToast&searchtags=windows+notification+system+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/Windos/BurntToast[Windos/BurntToast: Module for creating and displaying Toast Notifications on Microsoft Windows 10.]
+
+Donc pour les notifications façon Windows 10, il y a ce script PowerShell ... qui écoute aussi sur le réseau

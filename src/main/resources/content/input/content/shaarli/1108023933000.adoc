@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Generator Blog
+:jbake-tags: web,bizarre,générateur,_mois_févr.,_année_2005
+:jbake-date: 2005-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1108023933000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgeneratorblog.blogspot.com%2F&searchtags=web+bizarre+g%C3%A9n%C3%A9rateur+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://generatorblog.blogspot.com/[The Generator Blog]
+
+\-- a log of online widget thingies to generate everything from barcodes to hobbit names

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [ADEO Dev Summit] Another on bites the Rust - Nicolas Delsaux - YouTube
+:jbake-tags: rust,présentation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1570714266000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMj88oWvj71Q%26list%3DPLTzNapVaggug3Iz1guwleQrRvtgqlAKLe%26index%3D5%26t%3D0s&searchtags=rust+pr%C3%A9sentation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=Mj88oWvj71Q&list=PLTzNapVaggug3Iz1guwleQrRvtgqlAKLe&index=5&t=0s[[ADEO Dev Summit] Another on bites the Rust - Nicolas Delsaux - YouTube]
+
+45 minutes sur Rust sans parler du borrow checker ;-)

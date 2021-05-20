@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: An Overly In-Depth Logic Guide : Mindustry
+:jbake-tags: jeu,programming,langage,assembly,documentation,mindustry,_mois_mars,_année_2021
+:jbake-date: 2021-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1615668244000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.reddit.com%2Fr%2FMindustry%2Fcomments%2Fkfea1e%2Fan_overly_indepth_logic_guide%2F&searchtags=jeu+programming+langage+assembly+documentation+mindustry+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.reddit.com/r/Mindustry/comments/kfea1e/an_overly_indepth_logic_guide/[An Overly In-Depth Logic Guide : Mindustry]
+
+Dans mindustry 6 il y a un microprocesseur, utilisant un langage assembleur spécifique. Je suis au bord du trou noir : je peux apprendre un nouveau langage de programmation, qui ne sert à presqu'aussi peu de choses que RoboCom (qui n'existe plus)

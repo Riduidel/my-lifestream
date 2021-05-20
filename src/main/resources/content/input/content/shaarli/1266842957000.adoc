@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TuneGlue° | Relationship Explorer
+:jbake-tags: réseau,visualisation,musique,inspiration,_mois_févr.,_année_2010
+:jbake-date: 2010-02-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1266842957000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faudiomap.tuneglue.net%2F&searchtags=r%C3%A9seau+visualisation+musique+inspiration+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://audiomap.tuneglue.net/[TuneGlue° | Relationship Explorer]
+
+Un moteur de décovuerte musicale qui a l'air plus souple que le système de suggestions de grooveShark.

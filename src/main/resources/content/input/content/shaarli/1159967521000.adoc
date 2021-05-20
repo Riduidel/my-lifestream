@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ultimate Ubuntu Dapper Look Like OSX · supriyadisw dot net
+:jbake-tags: customize,desktop,documentation,guide,macosx,open-source,software,thème,tutorial,ubuntu,_mois_oct.,_année_2006
+:jbake-date: 2006-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1159967521000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.supriyadisw.net%2F2006%2F09%2Fultimate-ubuntu-dapper-look-like-osx&searchtags=customize+desktop+documentation+guide+macosx+open-source+software+th%C3%A8me+tutorial+ubuntu+_mois_oct.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.supriyadisw.net/2006/09/ultimate-ubuntu-dapper-look-like-osx[Ultimate Ubuntu Dapper Look Like OSX · supriyadisw dot net]
+
+Un tutorial pour donner à une belle Ubuntu le look d'un mac ... Pourquoi pas, mais ça ne vaut sûrement pas e17

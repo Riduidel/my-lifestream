@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Unit Testing Anti-Patterns, Full List
+:jbake-tags: programming,test,software,_mois_déc.,_année_2018
+:jbake-date: 2018-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1544646790000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2018%2F12%2F11%2Funit-testing-anti-patterns.html&searchtags=programming+test+software+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.yegor256.com/2018/12/11/unit-testing-anti-patterns.html[Unit Testing Anti-Patterns, Full List]
+
+Très bon article, qui montre bien la complexité de faire des tests propres ... et surtout de les maintenir en état !

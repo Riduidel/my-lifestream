@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ANAVI Infrared pHAT for Raspberry Pi | Indiegogo
+:jbake-tags: raspberrypi,infrarouge,extension,_mois_mars,_année_2017
+:jbake-date: 2017-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1490687660000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.indiegogo.com%2Fprojects%2Fanavi-infrared-phat-for-raspberry-pi%23%2F&searchtags=raspberrypi+infrarouge+extension+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.indiegogo.com/projects/anavi-infrared-phat-for-raspberry-pi#/[ANAVI Infrared pHAT for Raspberry Pi | Indiegogo]
+
+Un HAT infrarouge pour le Raspberry ... Oui, j'en ai besoin.

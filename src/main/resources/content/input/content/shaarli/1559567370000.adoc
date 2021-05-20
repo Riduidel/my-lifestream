@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Simon Phipps on Twitter: "For clarity: in the expression "open-source business model", if the "model" breaks you need to change the "business" and not the "open source" since it's your "business" but everyone's "open source" that you are exploiting with the "model"."
+:jbake-tags: open-source,entreprise,_mois_juin,_année_2019
+:jbake-date: 2019-06-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1559567370000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fwebmink%2Fstatus%2F1134936732812632065&searchtags=open-source+entreprise+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/webmink/status/1134936732812632065[Simon Phipps on Twitter: "For clarity: in the expression "open-source business model", if the "model" breaks you need to change the "business" and not the "open source" since it's your "business" but everyone's "open source" that you are exploiting with the "model"."]
+
+Le point de vue est intéressant, et raisonnablement juste : l'open-source n'est pas la variable d'ajustement.

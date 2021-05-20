@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Carmageddon 2 lan problem/cant detect hosted games, please help!! - TechSpot Troubleshooting
+:jbake-tags: documentation,tutorial,windows,jeu,réseau,IPX,_mois_févr.,_année_2006
+:jbake-date: 2006-02-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1139320755000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.techspot.com%2Fvb%2Fall%2Fwindows%2Ft-20104-Carmageddon-2-lan-problemcant-detect-hosted-games-please-help.html&searchtags=documentation+tutorial+windows+jeu+r%C3%A9seau+IPX+_mois_f%C3%A9vr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.techspot.com/vb/all/windows/t-20104-Carmageddon-2-lan-problemcant-detect-hosted-games-please-help.html[Carmageddon 2 lan problem/cant detect hosted games, please help!! - TechSpot Troubleshooting]
+
+

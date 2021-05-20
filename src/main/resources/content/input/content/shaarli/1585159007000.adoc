@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 91-DIVOC : Flip the script on COVID-19
+:jbake-tags: épidémie,visualisation,_mois_mars,_année_2020
+:jbake-date: 2020-03-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1585159007000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F91-divoc.com%2Fpages%2Fcovid-visualization%2F&searchtags=%C3%A9pid%C3%A9mie+visualisation+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://91-divoc.com/pages/covid-visualization/[91-DIVOC : Flip the script on COVID-19]
+
+Une très belle étude à grande échelle, qui démontre d'une manière surprenante certaines disparités de santé publique. Attention,c 'est une échelle exponentielle !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gallifreyan translator
+:jbake-tags: art,calligraphie,extra-terrestres,science-fiction,_mois_déc.,_année_2018
+:jbake-date: 2018-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1544205826000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fadrian17.github.io%2FGallifreyan%2F&searchtags=art+calligraphie+extra-terrestres+science-fiction+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://adrian17.github.io/Gallifreyan/[Gallifreyan translator]
+
+Si toi aussi tu aime Doctor Who, et que l'écriture gallifréienne t'intéresse, ben ce site te permet d'écrire joliment

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Watchtower
+:jbake-tags: docker,conteneur,orchestrator,_mois_avr.,_année_2020
+:jbake-date: 2020-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1586808097000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcontainrrr.github.io%2Fwatchtower%2F&searchtags=docker+conteneur+orchestrator+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://containrrr.github.io/watchtower/[Watchtower]
+
+Watchtower, c'est vachement bien quand on fait tourner des conteneurs "démon" en local. Essayez, c'est vraiment convaincant ! Et au cas où, la ligne de commande pour Windows est "docker run -d --name watchtower -v /var/run/docker.sock:/var/run/docker.sock --restart always containrrr/watchtower"

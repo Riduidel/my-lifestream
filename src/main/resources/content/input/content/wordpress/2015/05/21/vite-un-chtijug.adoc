@@ -1,0 +1,128 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vite, un chtijug !
+:jbake-tags: chtijug,java,test,web,_mois_mai,_année_2015
+:jbake-date: 2015-05-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/05/21/vite-un-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/05/21/vite-un-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+Et oui, parce que hier soir, encore une fois, il y avait chtijug.
+</p>
+<p>
+Et encore mieux, une session spécial quickies. Je dois bien avouer que j'ai pensé à un moment proposer un sujet (<a href="http://wisdom-framework.org/">Wisdom </a>? <a href="http://www.ractivejs.org/">RactiveJS </a>? je ne savais pas trop). Mais mon emploi du temps m'empêchant actuellement radicalement ce genre d'activité, j'ai ... laissé tomber.
+</p>
+<p>
+Heureusement, des présentateurs bien plus motivés et bien plus efficaces que moi sont venus me raconter des trucs sérieux (pendant qu'un vieux fan me glissait des trucs salaces à l'oreille, et réciproquement, si vous voyez ce que je veux dire). Bref ...
+<br/>
+<h4>Webjars</h4>
+<br/>
+La présentation est téléchargeable sur <a href="https://github.com/awillemant/webjars-prez">github.com/awillemant/webjars-prez </a>essentiellement parce qu'elle utilise des webjars pour récupérer <a href="http://lab.hakim.se/reveal-js/#/">reveal.js</a>
+</p>
+<p>
+Force m'est de reconnaître que le sujet ne m'était <a href="https://riduidel.wordpress.com/2014/12/11/apres-deux-mois-de-javascript-on-se-sent-comment/">pas totallement inconnu</a> ... Pour être honnête, au moment où le speaker a expliqué qu'il était facile de demander un novueau webjar, je n'ai pas pu m'empêcher d'expliquer à mon voisin que j'avais déja <a href="https://github.com/webjars/webjars/issues?q=is%3Aissue+author%3ARiduidel+is%3Aclosed">fait ajouter plusieurs librairies javascript</a> ... Vanité, quand tu nous tient.
+</p>
+<p>
+Cela dit, curieusement, mon voisin n'a pas semblé convaincu alors que, personnellement, je trouve que les webjars sont la seule façon saine de faire du front-end dans Maven (avec Wisdom, bien sûr, que <a href="https://jhipster.github.io/">JHipster </a>ou le <a href="https://github.com/eirslett/frontend-maven-plugin">frontend-maven-plugin</a> ne font qu'essayer de copier grossièrement).
+<br/>
+<h4>Workflows Jenkins</h4>
+<br/>
+Bon, je venais principallement pour cette présentation, pour plusieurs raisons
+<br/>
+<ol>
+<br/>
+<li> Je voulais voir le petit Nicolas Géraud (que j'avais connu jeune développeur chez Sogeti) faire le barbu :-)</li>
+<br/>
+<li>Le terme me rappelait quelque chose qui m'avait paru vraiment très intéressant</li>
+<br/>
+<li>J'avais assez trollé sur twitter</li>
+<br/>
+</ol>
+<br/>
+Et j'ai bien cru que j'allais être salement déçu.
+</p>
+<p>
+La première partie, avec le build pipeline plugin et le parameterized trigger me rappelait des errements que j'avais connu, et qui m'avaient donné l'impression que Jenkins "scalait" assez mal sur les gros projets d'entreprise. Et j'aiv raiment eu peur que Nicolas n'en sorte pas.
+</p>
+<p>
+Heureusement, la deuxième partie, sur le workflow plugin lui-même, a répondu à toutes mes attentes.
+</p>
+<p>
+Parce qu'avec ce plugin, au lieu de créer un job jenkins dans un clickodrome d'une esthétique qui sera discutée plus tard, on crée son job avec ... Groovy. Et, franchement, vous le savez, si il y a du Groovy, ça ne peut pas être mauvais. Et, en bonus, le job écrit en groovy peut être tiré par Jenkins d'un SCM ! C'est-à-dire que le SCM ne contient plus seulement le POM du projet à builder, mais aussi comment on peut le builder. Si on veut être fou, on peut même releaser le job d'un projet comme un des livrables de ce projet (en termes maven, ça revient à prendre le job dans un dossier sous src, genre <code>src/build/jenkins.groovy</code>). Bref, un outil enthousiasmant, et une présentation rondement menée, puisque Nicolas a exploité avec un certain talent chacune des 15 minutes disponibles.
+</p>
+<p>
+Et même mon voisin n'a pas fait le grognon, alors qu'il fait du Gradle.
+</p>
+<p>
+C'est juste dommage que sa présentation ne soit disponible nulle part sur le web :-)
+<br/>
+<h4>Les CSS pour les moches</h4>
+<br/>
+Dans cette présentation, Hubert (le faux jumeau officiel de Nicolas) nous donne les bases - et un peu plus - du box model CSS.
+<br/>
+Je ne vais pas avoir l'air de négliger cette présentation, parce q'elle était chouette, bien menée, bien remplie, claire, bref, professionnelle. Mais je connais le sujet depuis ... 2004, d'après mon <a href="http://nicolas-delsaux.hd.free.fr/Shaarli/?VSOvCA">Shaarli</a>. Alors je n'ai aps été surpris que je l'aurais pu, mis à part lors de l'irruption inopinée d'un <code>display: inline block;</code>
+<br/>
+<h4>jmh</h4>
+<br/>
+Si vous suivez des twittos Java, vous en avez forcément entendu parler.
+</p>
+<p>
+<a href="http://openjdk.java.net/projects/code-tools/jmh/">jmh</a>, c'est l'outil préféré des Rémi Forax et autres fans des microbenchmarks. Pour les développeurs "entreprise", c'est un peu moins important ... mis à part à la machine à café. Cela dit, la présentation de <span>Nicolas précisait bien la raison principale de l'existence de cet outil : le fait que la JVM fasse un gros paquet de trucs dans le dos du développeur (que, curieusement, mon voisin connaissait au moins aussi bien que moi - mais je le savais depuis bien longtemps). Bref, intéressant pour les tests exploratoires aux échelles micro.</span>
+</p>
+<p>
+Personnellement, dans la vraie vie, j'ai tendance à lui préfer <a href="http://databene.org/contiperf">contiperf </a>qui
+<br/>
+<ol>
+<br/>
+<li>S'intègre dans jUnit</li>
+<br/>
+<li>Permet de répondre à la question "est-ce que mon code va assez vite" plutôt qu'à la question "quel code va le plus vite"</li>
+<br/>
+</ol>
+<br/>
+Même si jmh tient bien mieux compte des phases de démarrage de la VM.
+<br/>
+<h4>Testez avec Sérénité</h4>
+<br/>
+ou plutôt avec <a href="http://www.thucydides.info/#/">Serenity</a>. C'est un outil de BDD qui, d'après ce que j'ai cru comprendre, est une surcouche à JBehave qui ajoute un tas de choses vraiment chouettes. Comme de la coloration syntaxique des scénarios, ou des fixtures vraiment faciles à écrire. Et c'est tant mieux parce que, quand je vois le bazar que ça peut devenir avec Fitnesse, j'ai tendance à me dire que toute autre solution ne peut être que meilleure.
+</p>
+<p>
+L'idée présentée est donc prometteuse.
+</p>
+<p>
+Malheureusement, je dois dire que l'effet du stress sur le speaker pendant la session de live-coding (qui lui a fait garder une main dans la poche façon Jamel Debouze, et lui a fait oublier de s'asseoir, ce qui l'aurait sans doute aidé à coder plus vite), m'a un peu agacé, puisque je sentais bien qu'il aurait pu nous en montrer bien plus, si il avait été un peu moins tendu.
+</p>
+<p>
+J'imagine que ça n'est que partie remise.
+<br/>
+<h4>Un classement</h4>
+<br/>
+C'est méchant de me demander ça. Et vous me connaissez, la méchanceté ... j'aime ça.
+</p>
+<p>
+Voici donc un classement subjectif de ces présentations, de la plus frappante à la ... moins frappante :-)
+<br/>
+<ol>
+<br/>
+<li>Workflow Jenkins, parce que j'étais venu pour ça, parce que Nicolas était clair, et que j'avais plein d'idées à la fin (dont une a déja été envoyée aux bonnes personnes).</li>
+<br/>
+<li>Serenity, qui comble un autre vide béant, et pour laquelle je pense que Guillaume devrait, avec un peu d'expérience de ce genre d'exercice, se révéler un chouette speaker</li>
+<br/>
+<li>jmh, qui ne correspond pas à mes besoins, et qui n'a pas eu droit à son live-coding ... Même si j'imagine très bien que ce soit un peu plus délicat à mettre en oeuvre</li>
+<br/>
+<li>webjars que je connaissais déja, et pour lequel le speaker a oublié de parler des différents composants côté serveur permettant de ne pas taper ce trop pénible numéro de version de javascript (de mémoire, Wisdom - évidement - Play Framework, et au moins une implémentation de Servlet spécialement conçue pour raccourcir autant que possible le chemin)</li>
+<br/>
+<li>css, parce que même si Hubert est un speaker rompu à l'exercice, le sujet m'a paru .. un peu ... désuet ? (à un moment, je me suis même dit que j'aurais préféré revoir le fash 30 vu au bureau sur <a href="http://www.w3.org/TR/css3-flexbox/">flexbox</a>). Mais encore une fois, hubert est un chouettte speaker, et a quand même bien réussi son truc</li>
+<br/>
+</ol>
+<br/>
+Et encore une fois, c'est un classement totalement subjectif.
+</p>
+<p>
+Cela dit, j'ai passé une super soirée, merci encore au chtijug.
+</p>
+++++

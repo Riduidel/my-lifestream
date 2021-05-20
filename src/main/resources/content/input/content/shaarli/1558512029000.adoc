@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: gunnarmorling/awesome-annotation-processing: A curated list of resources related to the Java annotation processoring API (JSR 269)
+:jbake-tags: java,annotation,processor,list,_mois_mai,_année_2019
+:jbake-date: 2019-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1558512029000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fgunnarmorling%2Fawesome-annotation-processing%2F&searchtags=java+annotation+processor+list+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/gunnarmorling/awesome-annotation-processing/[gunnarmorling/awesome-annotation-processing: A curated list of resources related to the Java annotation processoring API (JSR 269)]
+
+Elle est chouette cette page sur l'annotation processing. Et je connais quelqu'un qui sera content d'y voir listé spoon !

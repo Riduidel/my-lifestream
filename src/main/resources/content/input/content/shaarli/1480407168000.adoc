@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Famous-Quote.net on Twitter: "You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing. -TSowell"
+:jbake-tags: citation,organisation,_mois_nov.,_année_2016
+:jbake-date: 2016-11-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1480407168000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ffamousquotenet%2Fstatus%2F803166800087126020&searchtags=citation+organisation+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/famousquotenet/status/803166800087126020[Famous-Quote.net on Twitter: "You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing. -TSowell"]
+
+Et la bureaucratie se cache ... partout

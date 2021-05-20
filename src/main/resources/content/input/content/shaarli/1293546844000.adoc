@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: flyway - Project Hosting on Google Code
+:jbake-tags: database,java,maven,software,développement,migration,_mois_déc.,_année_2010
+:jbake-date: 2010-12-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1293546844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcode.google.com%2Fp%2Fflyway%2F&searchtags=database+java+maven+software+d%C3%A9veloppement+migration+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://code.google.com/p/flyway/[flyway - Project Hosting on Google Code]
+
+Un outil de migration de base de données. Il me semble plus simple que Liquibase, et surtout sans fichiers XMl (oui, je commence à détester ça)

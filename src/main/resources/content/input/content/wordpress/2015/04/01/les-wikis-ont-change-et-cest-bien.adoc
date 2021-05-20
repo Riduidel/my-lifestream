@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les wikis ont changé, et c'est bien !
+:jbake-tags: groovy,java,web,wiki,_mois_avr.,_année_2015
+:jbake-date: 2015-04-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/04/01/les-wikis-ont-change-et-cest-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/04/01/les-wikis-ont-change-et-cest-bien/
+:jbake-style: wordpress
+
+++++
+<p>
+Depuis des années, dans les projets auxquels je participais, on utilise des wikis "simples", comme typiquement mediawiki. C'était pratique, mais dès qu'on sortait des pages de texte, on était embêté.
+<br/>
+Il fallait alors installer, si on en avait le courage, un logiciel de forum, ou de blog interne, ou tant d'autres choses.Honnêtement, c'était assez peu pratique. Suffisamment, d'ailleurs, pour donner aux utilisateurs peu intéressés comme moi l'impression d'un monde déjà fermé.Et puis j'ai du jeter un oeil, pour différentes raisons, à XWiki (la plus importante étant sans doute <a href="http://lescastcodeurs.com/2015/02/28/lcc-119-interview-business-open-source-ludovic-dubost-vincent-massol/">l'interview donnée par les patrons de l'entreprise éponyme aux castcodeurs</a>). Et là, le choc :
+<br/>
+<ul>
+<br/>
+<li>Joli</li>
+<br/>
+<li>Avec un éditeur WYSIWYG</li>
+<br/>
+<li>Extensible par une multitude d'applications (forum, gestionnaire de tâches, outil de microblogging, ...)</li>
+<br/>
+<li>Scriptable en Velocity et en <strong>Groovy !</strong></li>
+<br/>
+<li>Installable facilement dans tous les environnements</li>
+<br/>
+</ul>
+<br/>
+Bref, une révolution.
+</p>
+<p>
+Il y a certes deux ou trois choses gênantes, comme le manque de certains imports/exports, mais rien de dramatique à mon sens.
+</p>
+<p>
+Du coup, forcément, je vais tester plus de choses avec cet outil aussi puissant que bien fichu.
+</p>
+++++

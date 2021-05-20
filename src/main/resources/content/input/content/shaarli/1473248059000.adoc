@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How the JVM compares your strings using the craziest x86 instruction you've never heard of · Jackson Davis
+:jbake-tags: x86,programming,java,optimisation,_mois_sept.,_année_2016
+:jbake-date: 2016-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1473248059000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjcdav.is%2F2016%2F09%2F01%2FHow-the-JVM-compares-your-strings%2F&searchtags=x86+programming+java+optimisation+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://jcdav.is/2016/09/01/How-the-JVM-compares-your-strings/[How the JVM compares your strings using the craziest x86 instruction you've never heard of · Jackson Davis]
+
+Je ne savais pas que les puces x86 avaient ce genre d'instruction ...

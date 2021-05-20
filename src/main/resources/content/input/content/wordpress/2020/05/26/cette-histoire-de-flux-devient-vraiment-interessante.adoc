@@ -1,0 +1,47 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cette histoire de flux devient vraiment intéressante ...
+:jbake-tags: groovy,maven,opml,rrss2imap,rss,shaarli,xslt,_mois_mai,_année_2020
+:jbake-date: 2020-05-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/05/26/cette-histoire-de-flux-devient-vraiment-interessante.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/05/26/cette-histoire-de-flux-devient-vraiment-interessante/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Donc, suite à <a href="https://riduidel.wordpress.com/2020/05/25/faut-faire-le-menage/">l'article d'hier</a>, j'y ai réfléchi ... un peu plus.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai donc d'un côté un fichier <a href="https://fr.wikipedia.org/wiki/Outline_Processor_Markup_Language">OPML</a> assez frustre généré par rrss2imap (et en fait généré <a href="https://github.com/Riduidel/raspberrypi-server/blob/master/ansible/roles/install_rss2imap/tasks/main.yml#L87">toutes les nuits</a>). Ce fichier ressemble à ça</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:preformatted -->
+<pre class="wp-block-preformatted">    &#60;outline title="RSS/work" text="RSS/work"&#62;
+      &#60;outline xmlUrl="http://feeds.feedburner.com/GeekAndPoke" type="rss" text="http://feeds.feedburner.com/GeekAndPoke" /&#62;
+      &#60;outline type="rss" text="https://blog.codinghorror.com/rss/" xmlUrl="https://blog.codinghorror.com/rss/" /&#62;
+      &#60;outline xmlUrl="https://what-if.xkcd.com/feed.atom" type="rss" text="https://what-if.xkcd.com/feed.atom" /&#62;      &#60;outline xmlUrl="http://tumourrasmoinsbete.blogspot.com/feeds/posts/default" type="rss" text="http://tumourrasmoinsbete.blogspot.com/feeds/posts/default" /&#62;
+      &#60;outline xmlUrl="http://strangepaths.com/feed/fr/" type="rss" text="http://strangepaths.com/feed/fr/" /&#62;      &#60;outline xmlUrl="http://feeds.feedburner.com/SociologicalImagesSeeingIsBelieving" type="rss" text="http://feeds.feedburner.com/SociologicalImagesSeeingIsBelieving" /&#62;
+      &#60;outline type="rss" text="https://informationisbeautiful.net/feed/" xmlUrl="https://informationisbeautiful.net/feed/" /&#62;      &#60;outline type="rss" text="http://abstrusegoose.com/feed" xmlUrl="http://abstrusegoose.com/feed" /&#62;
+      &#60;outline text="https://taoofmac.com/rss" type="rss" xmlUrl="https://taoofmac.com/rss" /&#62;
+    &#60;/outline&#62;</pre>
+<!-- /wp:preformatted -->
+
+<!-- wp:paragraph -->
+<p>Ayant moi-même écrit le code Rust qui génère ça, je sais précisément pourquoi c'est aussi frustre. Mais en tant qu'utilisateur, je trouve assez laid de vous balancer ça dans les dents.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et comme j'ai déjà en projet un super outil de lifestream (qui commence à marcher efficacement, mais lentement), je me suis dit que la meilleure chose à faire serait d'améliorer cet export avec un titre, des infos de rafraîchissement, et une description, qui pourrait être tirée de Shaarli avant de prendre cet export pour en faire un fichier Asciidoc que je mettrais ensuite dans mon lifestream. Si vous vous dites que c'est inutilement complexe ... vous avez peut-être raison, mais peut-être pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que franchement, lire un fichier OPML, rajouter des infos, ça m'a pas l'air bien compliqué. En fait, ça m'a l'air totalement faisable ... en Groovy ! (et vous savez comme j'aime ce langage de script). Et générer un fichier Asciidoc avec ... c'est une simple histoire de XSLT, non ? Et en plus, je peux mettre tout ça dans un profil Maven. Et ça, c'est vraiment chouette.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Allez, on va essayer ça, ça va être marrant cinq minutes !</p>
+<!-- /wp:paragraph -->
+++++

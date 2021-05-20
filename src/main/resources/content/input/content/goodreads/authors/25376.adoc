@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ian McDonald
+:jbake-tags: author
+:jbake-date: 2009-09-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/25376.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1372533252p5/25376.jpg
+:jbake-source: https://www.goodreads.com/author/show/25376
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9785553372484.html[Desolation Road (Desolation Road Universe, #1)]

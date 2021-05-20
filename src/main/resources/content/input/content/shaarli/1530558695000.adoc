@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sarah Drasner on Twitter: "I miss the useless web. I miss your grandpa’s blog. I miss weird web art projects that trolled me. I miss fan pages for things like hippos. I wish I didn’t feel like the web was collapsing into just a few sites plus a thousand resumes."
+:jbake-tags: citation,web,histoire,_mois_juil.,_année_2018
+:jbake-date: 2018-07-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1530558695000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsarah_edo%2Fstatus%2F1013427276350873600&searchtags=citation+web+histoire+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/sarah_edo/status/1013427276350873600[Sarah Drasner on Twitter: "I miss the useless web. I miss your grandpa’s blog. I miss weird web art projects that trolled me. I miss fan pages for things like hippos. I wish I didn’t feel like the web was collapsing into just a few sites plus a thousand resumes."]
+
+C'est vrai qu'avec toutes ces bêtises de Javascript, nodejs, et autres frameworks d'intégration, plus personne n'a l'idée de faire des simples effets en vanillajs. Et c'est triste. Le web est effectivement en train de devenir une galerie marchande (à quelques espaces d'expérimentation près)

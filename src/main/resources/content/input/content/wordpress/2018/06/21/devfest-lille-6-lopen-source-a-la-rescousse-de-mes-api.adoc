@@ -1,0 +1,154 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DevFest Lille 6 : L’open-source à la rescousse de mes API
+:jbake-tags: api,gravitee,keycloak,sécurité,_mois_juin,_année_2018
+:jbake-date: 2018-06-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/06/21/devfest-lille-6-lopen-source-a-la-rescousse-de-mes-api.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/06/21/devfest-lille-6-lopen-source-a-la-rescousse-de-mes-api/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Dans cette présentation, David et Guillaume mettent en oeuvre un API manager Gravitee sur une application assez simple, qui permet néanmoins de voir la plupart des cas d’utilisation de Gravitee pour sécuriser une API.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_créer_une_application">Créer une application</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+David avait déja fait <a href="https://riduidel.wordpress.com/2017/06/29/chtijug-et-barbecue/">cette présentation au chtijug</a>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_cors">CORS</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Il est facile de rajouter les entêtes CORS dans une API avec Gravitee (vraiment facile).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_authentification_et_autorisation">Authentification et autorisation</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Ben là, le plus simple, c’est de passer par Keycloak (qui a également <a href="https://riduidel.wordpress.com/2017/11/30/keycloak-au-chtijug/">été présenté au chtijug</a> !).
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_création_du_realm">Création du realm</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pour le coup, onv a utiliser Keycloak en authentifieur OpenID. Il faut donc créer un <code>CLIENT_ID</code> pour l’application.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_connexion_de_linterface_web_à_keycloak">Connexion de l’interface web à Keycloak</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Pas bien compliqué, puisque Keycloak fournit l’api JS pour s’authentifier auprès du serveur Keycloak. Et on peut évidement utiliser tout un tas de fournisseurs OpenID.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_sécurisation_dapi">Sécurisation d’API</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2">
+<br/>
+<h3 id="_identification">Identification</h3>
+<br/>
+<div class="paragraph">
+</p>
+<p>
+Dans ce cas, il faut créer pour le client (l’interface web en l’occurence) une clé d’API qui lui permettra d’accéder aux ressources qui sont protégées par le plan définissant cette clé. Ce qui n’est pas une clé d’autorisation : c’est juste une identification. === Autorisation Pour autoriser l’accès à l’API, on va encore une fois passer par Keycloak, qui sera cette fois le provider OAuth2.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1">
+<br/>
+<h2 id="_conclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph">
+</p>
+<p>
+L’un des intérêts du coupe Gravitee + Keycloak, c’est qu’on peut ajouter des fonctionnalités à l’application sans jamais toucher au serveur backend. Et ça, en terme d'évolutivité, c'est top !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

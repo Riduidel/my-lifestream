@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Data in, Brilliance Out | Tableau Public
+:jbake-tags: software,freeware,web,programming,visualisation,graphics,_mois_févr.,_année_2010
+:jbake-date: 2010-02-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1266594910000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tableausoftware.com%2Fpublic%2F&searchtags=software+freeware+web+programming+visualisation+graphics+_mois_f%C3%A9vr.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://www.tableausoftware.com/public/[Data in, Brilliance Out | Tableau Public]
+
+Je me demande si c'est pas avec ce truc de dingues que je vais pouvoir faire enfin des statistiques intéressantes de mes lectures ...

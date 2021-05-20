@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: XSLT 2.0 Reference @ZVON.org
+:jbake-tags: xml,xsl,reference,documentation,_mois_juin,_année_2017
+:jbake-date: 2017-06-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1496415943000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.zvon.org%2Fcomp%2Fr%2Fref-XSLT_2.html&searchtags=xml+xsl+reference+documentation+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.zvon.org/comp/r/ref-XSLT_2.html[XSLT 2.0 Reference @ZVON.org]
+
+Chouette référence XSLT 2

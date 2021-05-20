@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: This page is a truly naked, brutalist html quine.
+:jbake-tags: css,html,quine,fun,_mois_oct.,_année_2020
+:jbake-date: 2020-10-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1603262270000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsecretgeek.github.io%2Fhtml_wysiwyg%2Fhtml.html&searchtags=css+html+quine+fun+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://secretgeek.github.io/html_wysiwyg/html.html[This page is a truly naked, brutalist html quine.]
+
+L'idée de quine appliquée à une page HTML est en fait assez marrante, et m'a appris deux ou trois astuces sur le CSS moderne. Et ... "bring back the world weird web" 🥰

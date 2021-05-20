@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Allô SAV : problème de têtes d'impression chez Lexmark
+:jbake-tags: matériel,imprimante,_mois_juin,_année_2014
+:jbake-date: 2014-06-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1403450365000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lesnumeriques.com%2Fallo-sav-probleme-tetes-impression-lexmark-n19076.html%23page-4&searchtags=mat%C3%A9riel+imprimante+_mois_juin+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.lesnumeriques.com/allo-sav-probleme-tetes-impression-lexmark-n19076.html#page-4[Allô SAV : problème de têtes d'impression chez Lexmark]
+
+J'ai la funeste impression que mon imprimante est touchée ... En bonus, je n'arrive pas à la mettre à jour via le wifi ... Damn. je déteste ces machines du malin : elles tombent \*toujours\* en panne pour des raisons à la noix

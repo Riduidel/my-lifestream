@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Stéphane Bortzmeyer: Quad9, un résolveur DNS public, et avec sécurité
+:jbake-tags: web,dns,sécurité,_mois_nov.,_année_2017
+:jbake-date: 2017-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1510904766000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bortzmeyer.org%2Fquad9.html&searchtags=web+dns+s%C3%A9curit%C3%A9+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.bortzmeyer.org/quad9.html[Blog Stéphane Bortzmeyer: Quad9, un résolveur DNS public, et avec sécurité]
+
+Chouette, encore un DNS indépendant. Et encore plus chouette, il supporte TLS

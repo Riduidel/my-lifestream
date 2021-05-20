@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Forever War
+:jbake-tags: serie
+:jbake-date: 2002-05-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/The_Forever_War.adoc
+:jbake-source: https://www.goodreads.com/series/54376
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290308257.html[La Guerre éternelle]

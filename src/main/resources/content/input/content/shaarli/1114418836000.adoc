@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dictionary of Algorithms and Data Structures
+:jbake-tags: programming,concepts,algorithme,documentation,catalog,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114418836000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nist.gov%2Fdads%2F&searchtags=programming+concepts+algorithme+documentation+catalog+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.nist.gov/dads/[Dictionary of Algorithms and Data Structures]
+
+This is a dictionary of algorithms, algorithmic techniques, data structures, archetypical problems, and related definitions.

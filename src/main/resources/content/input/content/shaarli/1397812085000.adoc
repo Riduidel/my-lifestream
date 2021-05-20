@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Moving your profile folder - MozillaZine Knowledge Base
+:jbake-tags: firefox,thunderbird,software,configuration,_mois_avr.,_année_2014
+:jbake-date: 2014-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1397812085000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fkb.mozillazine.org%2FMoving_your_profile_folder&searchtags=firefox+thunderbird+software+configuration+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://kb.mozillazine.org/Moving_your_profile_folder[Moving your profile folder - MozillaZine Knowledge Base]
+
+Comment déplacer le fichier profil d'une application Mozilla quelconque (Firefox, Thunderbird, ...) Utile pour, par exemple, placer ce profil dans un conteneur TrueCrypt (la meilleure façon de sécuriser l'accès à mes mails)

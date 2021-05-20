@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing Jenkins X: a CI/CD solution for modern cloud applications on Kubernetes
+:jbake-tags: web,programming,devops,jenkins,_mois_mars,_année_2018
+:jbake-date: 2018-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1521560374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjenkins.io%2Fblog%2F2018%2F03%2F19%2Fintroducing-jenkins-x%2F&searchtags=web+programming+devops+jenkins+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://jenkins.io/blog/2018/03/19/introducing-jenkins-x/[Introducing Jenkins X: a CI/CD solution for modern cloud applications on Kubernetes]
+
+Très chouette proposition de Jenkins, qui a eu la bonne idée d'attendre la coalescence dans le domaine des orchestrateurs de conteneurs (qui est hélas s'est faite à l'avantage de Kubernetes)

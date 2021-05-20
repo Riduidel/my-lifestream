@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Connie Willis
+:jbake-tags: author
+:jbake-date: 2003-02-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/14032.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1529284935p5/14032.jpg
+:jbake-source: https://www.goodreads.com/author/show/14032
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782277237617.html[Le Grand Livre]
+* link:../books/9782290044292.html[Remake]
+* link:../books/9782290071021.html[Black-out]
+* link:../books/9782290071908.html[All Clear]
+* link:../books/9782290097991.html[Les Veilleurs]
+* link:../books/9782290143537.html[Interférences]
+* link:../books/9782290324912.html[Sans parler du chien]
+* link:../books/9782290356906.html[Passage]

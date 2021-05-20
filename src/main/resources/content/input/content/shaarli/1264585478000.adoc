@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visual Understanding Environment
+:jbake-tags: software,productivité,visualisation,graphics,windows,linux,macosx,_mois_janv.,_année_2010
+:jbake-date: 2010-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1264585478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvue.tufts.edu%2Findex.cfm&searchtags=software+productivit%C3%A9+visualisation+graphics+windows+linux+macosx+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://vue.tufts.edu/index.cfm[Visual Understanding Environment]
+
+Ca pourrait m'aider à expliquer les détails les plus cryptiques de gaedo au grand public ...

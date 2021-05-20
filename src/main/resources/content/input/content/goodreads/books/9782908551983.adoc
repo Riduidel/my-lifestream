@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blues
+:jbake-tags:  musique, rayon-bd,_année_2013,_mois_sept.,_note_4,fantastique,read
+:jbake-date: 2013-09-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782908551983.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378321258l/2314094._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1378321258l/2314094._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2314094
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Deux récits fantastiques mettent en scène des joueurs de Blues dans l'Amérique profonde.<br /><br />La première histoire, Blues, réalisée en Italie pour la revue Corto Maltese en 1990, nous conte les errances d'un saxophoniste noir dans l'Amérique des années quarante. Les petits malfrats de la mafia ne pèsent pas lourd avec leurs Smith &amp; Wesson lorsque retentissent quelques notes de Blues.<br /><br />La seconde histoire, L'héritier, dessinée en 2007, est une création originale pour les Editions Mosquito. Le maestro nous plonge dans les racines du Blues à la fin du dix-neuvième siècle, quand Vaudou et musique jouent une semblable partition
+</div>
+++++
+
+
+## Authors
+* link:../authors/555180.html[Sergio Toppi]
+
+
+
+## Review
+
+++++
+Deux chouettes histoires habitées du fantastique morbide et du dessin absolument génial de Toppi.<br/>J'ai une légère préférence pour la seconde, mais la première est quand même sacrément chouette.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AnneOgborn#WontBeErased on Twitter: "ok, one more - keep a collection of short (10-50ms) sound effects around, and insert calls to play different ones at the entry point to important encapsulation structures. When run, the software will make warbling, hooting sounds. You can debug the 'gestalt'.… https://t.co/CtlIGSeoGZ"
+:jbake-tags: debug,programming,hack,_mois_juin,_année_2019
+:jbake-date: 2019-06-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1561537380000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FAnnieTheObscure%2Fstatus%2F1142842421954244608&searchtags=debug+programming+hack+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/AnnieTheObscure/status/1142842421954244608[AnneOgborn#WontBeErased on Twitter: "ok, one more - keep a collection of short (10-50ms) sound effects around, and insert calls to play different ones at the entry point to important encapsulation structures. When run, the software will make warbling, hooting sounds. You can debug the 'gestalt'.… https://t.co/CtlIGSeoGZ"]
+
+C'est une idée ... curieuse, mais qui porte un certain sens ...

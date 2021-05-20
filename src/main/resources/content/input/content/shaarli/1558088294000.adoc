@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Optional parameters in Rust | KeiruaProd
+:jbake-tags: rust,programming,design,arguments,_mois_mai,_année_2019
+:jbake-date: 2019-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1558088294000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.keiruaprod.fr%2F2019%2F05%2F11%2Foptional-parameters-in-rust%2F&searchtags=rust+programming+design+arguments+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+http://blog.keiruaprod.fr/2019/05/11/optional-parameters-in-rust/[Optional parameters in Rust | KeiruaProd]
+
+Donc on peut utiliser des paramètres optionnels en Rust ... mais ça n'est pas forcément super intuitif.

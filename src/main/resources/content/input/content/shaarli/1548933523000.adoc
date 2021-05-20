@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kelly Sommers on Twitter: "A DB that is natively GraphQL which you can git push business logic code written in *any* language that compiles to webassembly. These functions automatically get exposed as graphql functions you can now call or they can stream process incoming data or at index time. Thoughts?"
+:jbake-tags: citation,web,concepts,architecture,_mois_janv.,_année_2019
+:jbake-date: 2019-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1548933523000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fkellabyte%2Fstatus%2F1090274322768322560&searchtags=citation+web+concepts+architecture+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/kellabyte/status/1090274322768322560[Kelly Sommers on Twitter: "A DB that is natively GraphQL which you can git push business logic code written in *any* language that compiles to webassembly. These functions automatically get exposed as graphql functions you can now call or they can stream process incoming data or at index time. Thoughts?"]
+
+Un vrai concept du 21ème siècle ! Et quand je regarde les réponses, un certain nombre pointent vers PostgreSQL ...

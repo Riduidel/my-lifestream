@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: datedropper - jQuery Dates Plugin
+:jbake-tags: web,javascript,programming,library,date,_mois_févr.,_année_2015
+:jbake-date: 2015-02-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1424692796000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffelicegattuso.com%2Fprojects%2Fdatedropper%2F&searchtags=web+javascript+programming+library+date+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://felicegattuso.com/projects/datedropper/[datedropper - jQuery Dates Plugin]
+
+Chouette librairie javascript de saisie de date. Le site web est impressionant !

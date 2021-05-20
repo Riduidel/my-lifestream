@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 7sDream/fontfor: Find fonts which can show a specified character and preview them in terminal or browser.
+:jbake-tags: rust,programming,open-source,freeware,command-line,font,_mois_févr.,_année_2020
+:jbake-date: 2020-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1580890586000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2F7sDream%2Ffontfor&searchtags=rust+programming+open-source+freeware+command-line+font+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/7sDream/fontfor[7sDream/fontfor: Find fonts which can show a specified character and preview them in terminal or browser.]
+
+Un outil pour voir quelle police de caractère affiche un caractère particulier. C'est très chouette (et c'est en Rust)

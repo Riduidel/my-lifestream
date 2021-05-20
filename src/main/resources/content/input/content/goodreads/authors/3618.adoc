@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Philip Pullman
+:jbake-tags: author
+:jbake-date: 2021-02-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/3618.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/3618
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070348190.html[Les Royaumes du Nord (À la croisée des mondes, #1)]
+* link:../books/9782070348206.html[La Tour des anges (À la croisée des mondes, #2)]
+* link:../books/9782070348213.html[Le Miroir d'ambre (À la croisée des mondes, #3)]

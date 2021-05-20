@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architectural Katas: Practicing Architecture
+:jbake-tags: architecture,kata,tutorial,formation,_mois_juin,_année_2016
+:jbake-date: 2016-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1466497466000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farchkatas.herokuapp.com%2Findex.html&searchtags=architecture+kata+tutorial+formation+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://archkatas.herokuapp.com/index.html[Architectural Katas: Practicing Architecture]
+
+Très chouette site de présentation des katas d'architecture.

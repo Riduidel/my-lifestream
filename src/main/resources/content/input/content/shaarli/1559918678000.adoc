@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kafka, Streams and Avro serialization – Moshe Sayag – Software Development
+:jbake-tags: kafka,avro,tutorial,documentation,_mois_juin,_année_2019
+:jbake-date: 2019-06-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1559918678000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmsayag.github.io%2FKafka%2F%23avro-serialization&searchtags=kafka+avro+tutorial+documentation+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://msayag.github.io/Kafka/#avro-serialization[Kafka, Streams and Avro serialization – Moshe Sayag – Software Development]
+
+L'un des rares tutoriels compréhensibles que j'aie vu sur l'écriture de données AVRO dans Kafka

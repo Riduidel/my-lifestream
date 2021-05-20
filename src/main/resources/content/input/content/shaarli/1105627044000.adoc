@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PXES Universal Linux Thin Client
+:jbake-tags: freeware,windows,linux,thinclient,_mois_janv.,_année_2005
+:jbake-date: 2005-01-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1105627044000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpxes.sourceforge.net%2F&searchtags=freeware+windows+linux+thinclient+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://pxes.sourceforge.net/[PXES Universal Linux Thin Client]
+
+PXES is the micro Linux distribution allowing you to build thin clients or diskless workstations. Hardware not suitable for other uses like current desktop OS can be recycled and converted into a thin client. See the complete list of features. The conf

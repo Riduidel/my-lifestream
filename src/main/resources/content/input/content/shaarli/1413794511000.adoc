@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 100 % de revue de code
+:jbake-tags: programming,team,qualité,_mois_oct.,_année_2014
+:jbake-date: 2014-10-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1413794511000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftut-tuuut.github.io%2F100-pourcents-de-revue-de-code%2F%23%2F&searchtags=programming+team+qualit%C3%A9+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://tut-tuuut.github.io/100-pourcents-de-revue-de-code/#/[100 % de revue de code]
+
+Excellente présentation sur les code review, qui mettent bien en valeur l'un des points négatifs que je vois : les interruptions de dev.

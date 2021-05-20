@@ -1,0 +1,119 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment passer facilement pour un streameur de talent avec OBS
+:jbake-tags: conférence,hack,vidéo,windows,_mois_nov.,_année_2020
+:jbake-date: 2020-11-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/11/22/comment-passer-facilement-pour-un-streameur-de-talent-avec-obs.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/11/22/comment-passer-facilement-pour-un-streameur-de-talent-avec-obs/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Aujourd'hui, je tente le titre putassier, parce que le sujet l’est un peu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Que je vous explique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La semaine prochaine, j'anime quelques conférences aux sujets que j'espère intéressants. Mais comme nous sommes confinés, je ne vais pas pouvoir me mettre dans la super salle de conférences de Zenika</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/ZenikaLille\/status\/1044155343994060800","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/ZenikaLille" class="screenName"><img src="http://pbs.twimg.com/profile_images/1267807590815326214/YASyAZma_mini.jpg" alt="profile of Cabinet d'#innovation technologique, managériale et organisationnelle. Il accompagne les entreprises dans leur #transfonum. Some news : https://t.co/ufklNtHJ1V"/>ZenikaLille</a>
+		<span class="name">Zenika Lille</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/ZenikaLille/status/1 044 155 343 994 060 800" class="date">24 sept. 2018 à 11:23:28</a>
+
+	<span class="content">
+	
+	<span class="text">Et on continue.... Avec @riduidel sur @rustlang https://t.co/calIxBLAtP</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/Dn2VvajXgAIi10f.jpg" alt="1 044 155 330 433 875 970"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et l'un des trucs les plus intéressants en conférence, c'est de présenter de façon unifiée le bonhomme (moi en l’occurrence) et le contenu (et franchement, cette présentation a un titre qui claque). Or, avec les outils de visio-conférences habituels, il n'est pas vraiment possible d'incruster le présentateur dans la présentation. Et je trouve ça dommage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Heureusement, les streameurs (et <a href="https://lhauspie.wordpress.com/2020/05/19/remplacer-arriere-plan-visio-par-fond-virtuel/">Logan</a>, par la bande) ont la solution : <a href="https://obsproject.com/fr/">OBS Studio</a> ! C'est un outil génial qui permet de construire un flux pour le streamer vers des tonnes de plateformes web. Et c'est vraiment bien pour assembler l'image de ma webcam et d'une application avant de l'envoyer "ailleurs", comme dans cet exemple</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":5985,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://riduidel.files.wordpress.com/2020/11/2020-11-21-19_35_23-obs-26.0.2-64-bit-windows-profil_-sans-nom-scenes_-sans-nom.png"><img src="https://riduidel.files.wordpress.com/2020/11/2020-11-21-19_35_23-obs-26.0.2-64-bit-windows-profil_-sans-nom-scenes_-sans-nom.png?w=1024" alt="" class="wp-image-5985" /></a><figcaption>Les couleurs sont curieusement déglinguées, mais vous voyez l'idée</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Bon, je triche, parce que je ne voulais pas en parler tout de suite.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si vous voyez ma tronche sans le canapé, c'est parce que j'utilise un logiciel de détourage virtuel qui marche franchement bien : <a href="https://www.xsplit.com/vcam">XSplit VCam</a>. Certes, c'est la version gratuite qui limite les effets utilisables. Mais quand même, c'est déjà saisissant, non ? Et il y a mieux ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que franchement, la webcam de mon ordinateur n'est pas terrible, surtout quand la lumière n'est pas bonne (et au mois de Novembre, une mauvaise lumière, c'est hélas fréquent). Alors, que faire ? J'ai longuement hésité à acheter <a href="https://pimp-ton-pc.fr/carte-acquisition-hdmi-usb-le-comparatif/">une carte d'acquisition</a> pour brancher un appareil photo sur mon ordinateur. Mais ça me paraissait bien compliqué, pour un résultat un peu incertain (parce que ça dépend du support de la sortie HDMI par l'appareil photo, et les informations à ce sujet sont toujours incertaines). Donc, j'ai choisi la solution plus simple : installer DroidCam sur mon smartphone et sur mon ordinateur, et router l'image de mon smartphone à travers XSplit VCam jusqu'à OBS Studio. Vous verrez, je pense, d'ici la semaine prochaine, mais le résultat est vraiment meilleur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il ne reste plus qu'une chose à régler ... mettre le smartphone à la hauteur de mon visage quand je suis debout. Parce que je crois à la colonne d'air et à la position debout pour être dynamique pendant ma présentation. Et pour ça, vous n'allez peut-être pas le croire, mais ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/riduidel\/status\/1330201894707400705","type":"rich","providerNameSlug":"twitter","responsive":true,"className":""} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 330 201 894 707 400 705" class="date">21 nov. 2020 à 18:30:20</a>
+
+	<span class="content">
+	
+	<span class="text">Est-ce que c'est vraiment une bonne idée, à moins d'une semaine d'une après-midi de présentations, de se lancer dans le tri de mes #lego pour construire un pied de téléphone ?</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Sans doute que la meilleure façon sera de me créer un pied Lego. La réponse la semaine prochaine, je pense ...</p>
+<!-- /wp:paragraph -->
+++++

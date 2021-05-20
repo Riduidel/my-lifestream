@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FizzBuzz – SIMD Style! - Gunnar Morling
+:jbake-tags: java,programming,nombres,api,optimisation,langage,_mois_mars,_année_2021
+:jbake-date: 2021-03-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1615225694000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.morling.dev%2Fblog%2Ffizzbuzz-simd-style%2F&searchtags=java+programming+nombres+api+optimisation+langage+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.morling.dev/blog/fizzbuzz-simd-style/[FizzBuzz – SIMD Style! - Gunnar Morling]
+
+Oh je connais des joueurs de Codingame à qui cette API va beaucoup plaire !

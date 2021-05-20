@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Benlog » Don’t Hash Secrets
+:jbake-tags: programming,sécurité,algorithme,cryptographie,for:clownny59,_mois_janv.,_année_2010
+:jbake-date: 2010-01-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1264414040000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbenlog.com%2Farticles%2F2008%2F06%2F19%2Fdont-hash-secrets%2F&searchtags=programming+s%C3%A9curit%C3%A9+algorithme+cryptographie+for%3Aclownny59+_mois_janv.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://benlog.com/articles/2008/06/19/dont-hash-secrets/[Benlog » Don’t Hash Secrets]
+
+Ah, si j'aivas su ça plus tôt !

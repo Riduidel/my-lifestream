@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reif Larsen
+:jbake-tags: author
+:jbake-date: 2012-08-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/2685732.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1523975632p5/2685732.jpg
+:jbake-source: https://www.goodreads.com/author/show/2685732
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253159766.html[L'extravagant voyage du jeune et prodigieux T. S. Spivet]

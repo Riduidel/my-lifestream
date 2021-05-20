@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AntiVir Personal Edition
+:jbake-tags: software,freeware,windows,antivirus,_mois_janv.,_année_2005
+:jbake-date: 2005-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1105000428000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.free-av.com%2F&searchtags=software+freeware+windows+antivirus+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.free-av.com/[AntiVir Personal Edition]
+
+Free anti-virus software.

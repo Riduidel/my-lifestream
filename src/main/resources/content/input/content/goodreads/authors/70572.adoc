@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jean Bonnefoy
+:jbake-tags: author
+:jbake-date: 2002-11-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/70572.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/70572
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070358052.html[Gens de la Lune]
+* link:../books/9782070418343.html[Gros temps]
+* link:../books/9782070419173.html[Sorcière (Gaïa 2)]
+* link:../books/9782070419180.html[Démon]
+* link:../books/9782070423316.html[Schismatrice +]
+* link:../books/9782070425587.html[Les Mailles Du Réseau]
+* link:../books/9782253072362.html[Le Code Enigma (Cryptonomicon, #1)]
+* link:../books/9782253098706.html[Accelerando]

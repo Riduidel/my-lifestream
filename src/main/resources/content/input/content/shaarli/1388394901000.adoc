@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blob Game
+:jbake-tags: software,freeware,windows,macosx,linux,platform,jeu,_mois_déc.,_année_2013
+:jbake-date: 2013-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1388394901000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblobgame.com%2F&searchtags=software+freeware+windows+macosx+linux+platform+jeu+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://blobgame.com/[Blob Game]
+
+Chouette jeu de plateforme. La vidéo d'introduction est vraiment chouette, je trouve via http://sebsauvage.net/links/?hmz4fQ

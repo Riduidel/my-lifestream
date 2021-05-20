@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""In programming, as in everything else, to be in error is to be reborn." - Alan Perlis"
+:jbake-tags: citation,programming,debug,_mois_sept.,_année_2017
+:jbake-date: 2017-09-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1504764210000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F905194582761144320&searchtags=citation+programming+debug+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/905194582761144320[Programming Wisdom on Twitter: ""In programming, as in everything else, to be in error is to be reborn." - Alan Perlis"]
+
+Ca pourrait me servir pour une prochaine présentation ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Java Performance Portal
+:jbake-tags: java,performance,profiling,software,tuning,_mois_sept.,_année_2004
+:jbake-date: 2004-09-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1095166413000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.java-performance-portal.org%2F&searchtags=java+performance+profiling+software+tuning+_mois_sept.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.java-performance-portal.org/[Java Performance Portal]
+
+a portal about performance on the java platform

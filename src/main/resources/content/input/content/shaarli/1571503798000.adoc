@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Embedded Architectural Decision Records | e-adr
+:jbake-tags: java,architecture,décision,documentation,library,annotation,_mois_oct.,_année_2019
+:jbake-date: 2019-10-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1571503798000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fadr.github.io%2Fe-adr%2F&searchtags=java+architecture+d%C3%A9cision+documentation+library+annotation+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://adr.github.io/e-adr/[Embedded Architectural Decision Records | e-adr]
+
+Ah, des adr directement le code Java, c'est marrant !

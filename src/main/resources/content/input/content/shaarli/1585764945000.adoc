@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My basics for business strategy - HackerNoon.com - Medium
+:jbake-tags: carte,stratégie,entreprise,organisation,transformation,_mois_avr.,_année_2020
+:jbake-date: 2020-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1585764945000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fhackernoon%2Fmy-basics-for-mapping-a-business-5b20f364b216&searchtags=carte+strat%C3%A9gie+entreprise+organisation+transformation+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://medium.com/hackernoon/my-basics-for-mapping-a-business-5b20f364b216[My basics for business strategy - HackerNoon.com - Medium]
+
+OK, je crois que je comprends le rôle des cartes de Wardley. Ca me fait penser au lean startup canvas, mais avec une approche extrêmement différente qui me paraît plus capable de s'adapter à mon travail (atterrir dans un contexte préexistant et itérer dessus).

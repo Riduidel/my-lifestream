@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Schwebke Softwareentwicklung: jRegExAnalyser
+:jbake-tags: java,regexp,analyse,application,_mois_août,_année_2020
+:jbake-date: 2020-08-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1598596843000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.schwebke.com%2Findex.php%2F10%2F18%2F&searchtags=java+regexp+analyse+application+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.schwebke.com/index.php/10/18/[Schwebke Softwareentwicklung: jRegExAnalyser]
+
+Un analyseur d'expression régulières Java (c'est cool) disponible via Java Web Start (c'est tout aussi cool, mais je ne suis même pas sûr que ça marche avec les versions récentes de Java).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Single-File HTML - Docs-as-Code
+:jbake-tags: asciidoc,html,data,partage,_mois_sept.,_année_2019
+:jbake-date: 2019-09-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1569000130000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs-as-co.de%2Fnews%2Fsingle-file-html%2F&searchtags=asciidoc+html+data+partage+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://docs-as-co.de/news/single-file-html/[Single-File HTML - Docs-as-Code]
+
+Je ne connaissais pas cette astuce, mais elle m'a l'air sacrément pratique pour partager des documents HTML

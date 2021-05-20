@@ -1,0 +1,42 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sérialiser des données en Rust
+:jbake-tags: json,rust,sérialisation,xml,_mois_août,_année_2018
+:jbake-date: 2018-08-12
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/08/12/serialiser-des-donnees-en-rust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/08/12/serialiser-des-donnees-en-rust/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme dans tous les langages, il y a des bibliothèques ubiquitaires en Rust, celles qu'on va trouver dans chaque projet, et dont on se demande pourquoi elles ne sont pas standard, tant elles sont utiles et bien foutues.
+</p>
+<p>
+Coup de bol, en Rust, la sérialisation fait partie de ces outils non inclus dans le SDK standard, mais gérée par une bibliothèque bien foutue (de mon avis informé de débutant ;-)). En l’occurrence, la bibliothèque qui fait ça s''appelle <a href="https://serde.rs/">Serde</a>. Avec serde, on peut, avec quelques annotations assez faciles à écrire, (dé)sérialiser des structures dans "quelques" formats : JSON, YAML, TOML. Je ne vais pas mettre XML, parce que seule la lecture (désérialisation) est fournie - et c'est bien dommage.
+</p>
+<p>
+Comment ça marche ? Facilement : d'abord, vous créez votre structure Rust, ensuite vous y ajoutez quelques annotations (ou plus exactement des macros) :
+<br/>
+<pre>#[derive(Serialize, Deserialize, Debug)]
+<br/>
+struct Point {
+<br/>
+x: i32,
+<br/>
+y: i32,
+<br/>
+}
+<br/>
+</pre>
+<br/>
+Et il n'y a plus qu'à lire ou écrire dans un flux. (mais c'est un simple appel de méthode, qui ne vaut pas la peine qu'on en parle).
+</p>
+<p>
+Le bonus, c'est qu'on peut facilement personnaliser la sérialisation en renommant des champs, en les rendant non sérialisables, ou même en n'activant la sérialisation que sous certaines conditions (le cas le plus typique étant de ne pas sérialiser une <code>Option</code> <code>None</code> avec <a href="https://serde.rs/field-attrs.html#serdeskipserializingif--path"><code>skip_serializing_if="Option::is_none"</code></a>).
+</p>
+<p>
+C'est vraiment bien foutu, et vraiment très pratique ... même si il manque la sérialisation XML (mais j'y reviendrai). Honnêtement, on est au niveau d'un <a href="https://github.com/FasterXML/jackson">Jackson</a>.
+</p>
+++++

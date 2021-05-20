@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.
+:jbake-tags: documentation,template,tutorial,_mois_août,_année_2019
+:jbake-date: 2019-08-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1566465980000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fkylelobo%2FThe-Documentation-Compendium&searchtags=documentation+template+tutorial+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/kylelobo/The-Documentation-Compendium[GitHub - kylelobo/The-Documentation-Compendium: 📢 Various README templates & tips on writing high-quality documentation that people want to read.]
+
+Bon, ça fait un moment que j'essaye trouver des bons templates de README. J'en ai un assez correct. Mais là, ce repository fournit des exemples, des patterns pour toute la doc. Et ça, c'est vraiment bien.

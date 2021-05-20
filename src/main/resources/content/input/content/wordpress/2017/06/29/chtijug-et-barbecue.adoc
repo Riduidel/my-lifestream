@@ -1,0 +1,464 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chtijug et barbecue
+:jbake-tags: api,chtijug,web,_mois_juin,_année_2017
+:jbake-date: 2017-06-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/06/29/chtijug-et-barbecue.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/06/29/chtijug-et-barbecue/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/880 103 967 337 979 904" class="date">28 juin 2017 à 18:41:52</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Ready to start! https://t.co/7wSB1KzYMZ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DDbB4RGW0AAoPd9.jpg" alt="880 103 949 604 409 344"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-1">
+<br/>
+<h2 id="truegravitee">Gravitee</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Bon, je connais les speakers depuis …​ 10 ans facile. Et ça fait plaisir de les voir sur scène !
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/880 112 112 890 261 504" class="date">28 juin 2017 à 19:14:14</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">C'est parti pour @GraviteeIO avec @brasseld et @NicolasGeraud https://t.co/FtWoQtRn8b</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DDbJPh2XoAEdarv.jpg" alt="880 112 045 819 142 145"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-5">
+<br/>
+<h3 id="truegravitee_un_api_manager">Gravitee, un API Manager</h3>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+Donc l’API management (voir la session chez Kiabi - et la page Wikipedia de définition), ça permet de créer et de publier des API, de les maintenir en état de marche, et enfin de collecter des statistiques d’usage.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+D’un point de vue architecture, il y a principalement deux composants
+</p>
+<p>
+</div>
+<br/>
+<div class="olist arabic data-line-11">
+<br/>
+<ol class="arabic">
+<br/>
+<li>Un portail d’API, permettant l’enregistrement d’utilisateurs, la découverte des API.</li>
+<br/>
+<li>Une gateway, qui va exécuter les appels en les dispatchant auprès des services backend.</li>
+<br/>
+</ol>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-14">
+</p>
+<p>
+Pour les clients, ça peut être
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-16">
+<br/>
+<ul>
+<br/>
+<li>Une façon d’exposer une API</li>
+<br/>
+<li>Un reverse proxy</li>
+<br/>
+<li>Un ESB pour les API REST (mais ça c’est faux : il y a tout un tas de différences entre l’API manager et l’ESB)</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-20">
+<br/>
+<h3 id="truegravitee_le_produit">Gravitee, le produit</h3>
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Existe depuis 2015, et nos speakers ont créé la société GraviteeSource pour fournir le conseil, la formation autour du produit.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect3 data-line-23">
+<br/>
+<h4 id="trued_monstration_de_cr_ation_d_api">Démonstration de création d’API</h4>
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+A partir d’un serveur exposant l’API, on peut facilement créer les éléments dans Gravitee grâce …​ à un wizard ! Il faut noter que, dans le wizard simple, la notion de plan de consomation (pour pouvoir facturer facilement, évidement). Par ailleurs, on peut importer facilement de la doc RAML/SWAGGER/Markdown. Et c’est fini, l’API est déployable
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-29">
+<br/>
+<h4 id="trueconsomation_d_api">Consomation d’API</h4>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Une fois l’API créée, il faut créer une souscription pour pouvoir l’utiliser.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-32">
+</p>
+<p>
+Et là, les petits gars, vous avez déja de quoi remplir quelques rapports de bugs pour améliorer vos présentations ;-)
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+Cela dit, les écrans d’administration sont sacrément bien fichus, avec une vision complète des temps de réponse et de la qualité des réponses.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-36">
+<br/>
+<h4 id="truer_criture_de_la_r_ponse">Réécriture de la réponse</h4>
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+L’un des éléments intéressants d’un API manager, c’est la possibilité de modifier les requêtes pendant leur exécution grâce à des politiques de transformation préconçues (des transformations simples) ou …​ du Groovy (j’aime beaucoup), ou aussi de créer un cache au niveau de la gateway.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-39">
+<br/>
+<h3 id="trued_veloppement_de_policy">Développement de policy</h3>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Comme gravitee est développé en Java avec des mécanismes de plugins typiques, ajouter une policy, c’est assez facile, et c’est parti …​ avec un archétype Maven ! Et je dois dire que le code produit par la génération d’archétype est, un peu comme pour Wisdom, assez complet.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-43">
+<br/>
+<h2 id="trueweb_multi_crans">Web multi-écrans</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-44">
+</p>
+<p>
+J’ai déja vu la présentation sur Youtube, mais en live, ça n’est évidement pas pareil …​
+</p>
+<p>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/880 126 556 709 978 113" class="date">28 juin 2017 à 20:11:37</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Ça continue avec le web multi écrans avec @hsablonniere https://t.co/ijPkNv51Wh</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DDbWX0JXoAMe8y0.jpg" alt="880 126 481 820 786 691"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Un truc marrant dès le début de la présentation : Hubert nous parle de 2008 et de ses deux écrans. De mémoire, avec mon voisin de derrière, en 2009, on bossait dans une boîte où chaque poste avait 3 écrans sur deux machines avec Synergy …​ Et encore, ça n'était pas ma première fois avec plusieurs écrans.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-48">
+</p>
+<p>
+Donc, plusieurs écrans, et des interfaces avec plusieurs écrans. Dans le web.
+</p>
+<p>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/hsablonniere" class="screenName"><img src="http://pbs.twimg.com/profile_images/854028880046379008/Bm-ygvTm_mini.jpg" alt="profile of 😜 Curious and passionate Web developer working for 💡☁️ @clever_cloud"/>hsablonniere</a>
+<br/>
+<span class="name">Hubert SABLONNIÈRE</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/hsablonniere/status/880 400 516 286 754 817" class="date">29 juin 2017 à 14:20:14</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@riduidel @chtijug Merci pr l'article 😉
+<br/>
+Slides difficiles à partager mais il y a ces deux vidéos :
+</p>
+<p>
+https://t.co/4TF3lKZXPj
+<br/>
+https://t.co/UKYBrNaQ1L</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-50">
+</p>
+<p>
+Un truc très intéressant dans sa présentation, c’est qu’il intègre un avis contraire, celui de quelqu’un qui affirme ne travailler qu’avec un seul écran.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+Et Hubert enchaîne ensuite avec les différentes techniques permettant la communication : window.open, et autres hacks. J’ai malheureusement un trou dans mes notes. Dans mes souvenirs, il y a un ou deux hacks, et une technologie parfaite pour les applis du futur, mais pas forcément disponible partout.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-55">
+</p>
+<p>
+Cela dit, il y a une faille dans cette présentation (formellement impressionante) : le cas d’usage est quand même super limité : faire du web, sur plusieurs écrans, sans serveur …​ mis à part TiddliWiki, je connais peu de projets sur ce créneau. D’ailleurs, même les applications comme Atom, Brackets, Code ont un serveur web (oui, dans le même process, mais conceptuellement, il y a quand même un client, et un serveur). Personnellement, quand j’ai le genre de besoin dont Hubert parle (avoir des clients qui communiquent entre eux), je reste simple et je mets du websocket sur mon serveur.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h2>Conclusion</h2>
+<br/>
+Les sujets étaient assez spécifiques, mais les speakers étaient très chouettes, et la soirée s'est finie tranquillement sur les pelouses de Norsys
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/880 131 428 758 978 563" class="date">28 juin 2017 à 20:30:59</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">BBQ en préparation juste après les sessions. Merci @norsyseasymaker https://t.co/tAJmr85FVW</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DDba1WzW0AMlx-g.jpg" alt="880 131 387 386 417 155"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+++++

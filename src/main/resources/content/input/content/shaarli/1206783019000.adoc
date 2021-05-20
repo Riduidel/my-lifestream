@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Developpement photo et tirage photo numerique sur internet - Photoweb
+:jbake-tags: laboratoire,numérique,photographie,printing,_mois_mars,_année_2008
+:jbake-date: 2008-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1206783019000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.photoweb.fr%2F&searchtags=laboratoire+num%C3%A9rique+photographie+printing+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.photoweb.fr/[Developpement photo et tirage photo numerique sur internet - Photoweb]
+
+Un autre laboratoire, qui me paraît assez sérieux.

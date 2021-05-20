@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jessie frazelle 👩🏼‍🚀 on Twitter: "Strong agree. Everyone wants actual isolation, but tbh I’m not sure k8s is the best abstraction for the job. It’s so complex and leaves so much room for error. One config gone wrong or one missed patch and it’s game over for your cluster.… https://t.co/nvbsUZI4yl"
+:jbake-tags: kubernetes,sécurité,citation,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546417922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjessfraz%2Fstatus%2F1078057723231641600&searchtags=kubernetes+s%C3%A9curit%C3%A9+citation+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/jessfraz/status/1078057723231641600[jessie frazelle 👩🏼‍🚀 on Twitter: "Strong agree. Everyone wants actual isolation, but tbh I’m not sure k8s is the best abstraction for the job. It’s so complex and leaves so much room for error. One config gone wrong or one missed patch and it’s game over for your cluster.… https://t.co/nvbsUZI4yl"]
+
+Un avis très intéressant (et particulièrement bien informé) au sujet de la confiance dans une infrastructure K8s

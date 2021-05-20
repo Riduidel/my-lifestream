@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AForge.NET :: GRATF
+:jbake-tags: c#,library,open-source,image,ocr,@project_keepass_ocr,_mois_févr.,_année_2021
+:jbake-date: 2021-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1612372650000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.aforgenet.com%2Fprojects%2Fgratf%2F&searchtags=c%23+library+open-source+image+ocr+%40project_keepass_ocr+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://www.aforgenet.com/projects/gratf/[AForge.NET :: GRATF]
+
+Je ne suis pas sûr, mais je pense que c'est là-dedans que je trouverai le code qui me permettra de reconnaître les chiffres des fameux sites bancaires

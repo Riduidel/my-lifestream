@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Theory and practice
+:jbake-tags: citation,science,théorie,_mois_janv.,_année_2017
+:jbake-date: 2017-01-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1484821031000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.johndcook.com%2Fblog%2F2011%2F05%2F13%2Ftheory-and-practice%2F&searchtags=citation+science+th%C3%A9orie+_mois_janv.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.johndcook.com/blog/2011/05/13/theory-and-practice/[Theory and practice]
+
+"The best theory is inspired by practice. The best practice is inspired by theory." Donald Knuth

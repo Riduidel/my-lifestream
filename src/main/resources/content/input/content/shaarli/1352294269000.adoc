@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeSynd
+:jbake-tags: windows,jeu,open-source,freeware,software,_mois_nov.,_année_2012
+:jbake-date: 2012-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1352294269000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffreesynd.sourceforge.net%2Fss.php&searchtags=windows+jeu+open-source+freeware+software+_mois_nov.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://freesynd.sourceforge.net/ss.php[FreeSynd]
+
+Oh bon sang ! J'ai dû finir Syndicate au moins deux fois ... Je me demande si c'est encore inéressant aujourd'hui ..

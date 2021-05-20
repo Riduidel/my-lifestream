@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VisualVM: Home
+:jbake-tags: java,performance,profiler,_mois_avr.,_année_2020
+:jbake-date: 2020-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1587635976000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvisualvm.github.io%2F&searchtags=java+performance+profiler+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://visualvm.github.io/[VisualVM: Home]
+
+J'ignorai que VisualVM était maintenant livré indépendament du JDK ... C'est sympa pour ceux (comme moi) qui sont passés à OpenJDK 14

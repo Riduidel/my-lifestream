@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why My Blog is Closed-Source
+:jbake-tags: open-source,discussion,méthode,développement,web,_mois_avr.,_année_2021
+:jbake-date: 2021-04-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1618654794000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.joshwcomeau.com%2Fblog%2Fwhy-my-blog-is-closed-source%2F&searchtags=open-source+discussion+m%C3%A9thode+d%C3%A9veloppement+web+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/[Why My Blog is Closed-Source]
+
+Donc le mec a créé sa propre plateforme de blog. ok ... Et il la garde en source fermée parce que globalement, il a peur de ce que pourraient faire les gens si ils voyaient le code source. PAS OK DU TOUT. Franchement, à sa place, j'aurais pris un wordpress qui gère déja tous les problèmes ... même si c'est pas hype. (en fait, surtout parce que c'est pas hype).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: wiigee - a java-based gesture recognition library for the Wii remote
+:jbake-tags: java,programming,bluetooth,library,wii,freeware,open-source,_mois_avr.,_année_2009
+:jbake-date: 2009-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1239200780000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiigee.sourceforge.net%2F&searchtags=java+programming+bluetooth+library+wii+freeware+open-source+_mois_avr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://wiigee.sourceforge.net/[wiigee - a java-based gesture recognition library for the Wii remote]
+
+Ca pourrait être ultra-pratique si je voulais faire du développement en Java utilisant la wiimote. Ca n'est évidement pas d'actualité pour l'instant, mais ça pourrait bien sûr le devenir ....

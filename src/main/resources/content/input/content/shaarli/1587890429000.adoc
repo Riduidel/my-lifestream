@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le traçage anonyme, dangereux oxymore
+:jbake-tags: intimité,droit,épidémie,_mois_avr.,_année_2020
+:jbake-date: 2020-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1587890429000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frisques-tracage.fr%2F&searchtags=intimit%C3%A9+droit+%C3%A9pid%C3%A9mie+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://risques-tracage.fr/[Le traçage anonyme, dangereux oxymore]
+
+Même si le dessin n'est pas fameusement beau, le propos est excessivement clair : le traçage anonyme n'est ... pas vraiment possible.

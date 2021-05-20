@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iPhone Bugs Are Too Valuable to Report to Apple - Motherboard
+:jbake-tags: sécurité,informatique,_mois_juil.,_année_2017
+:jbake-date: 2017-07-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1499678457000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmotherboard.vice.com%2Fen_us%2Farticle%2Fgybppx%2Fiphone-bugs-are-too-valuable-to-report-to-apple&searchtags=s%C3%A9curit%C3%A9+informatique+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://motherboard.vice.com/en_us/article/gybppx/iphone-bugs-are-too-valuable-to-report-to-apple[iPhone Bugs Are Too Valuable to Report to Apple - Motherboard]
+
+Le monde de la sécurité informatique est bien étrange ...

@@ -1,0 +1,165 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C'est quoi la résilience applicative ?
+:jbake-tags: concepts,résilience,_mois_avr.,_année_2020
+:jbake-date: 2020-04-29
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/29/cest-quoi-la-resilience-applicative.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/29/cest-quoi-la-resilience-applicative/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Le domaine de l'informatique est rempli de métaphores plus ou moins discutables. L'une des métaphores plus efficaces est celle de <a href="https://fr.wikipedia.org/wiki/R%C3%A9silience">résilience</a>. Mais c'est quoi ? Un début d'explication de cette métaphore se trouve évidement sur la wikipedia, que je vais me permettre de citer</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>en informatique, la résilience est la capacité d'un système ou d'une architecture réseau à continuer de fonctionner en cas de panne</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Je trouve cette définition particulièrement faible. En effet, elle n'inclut pas l'un des aspect les plus intéressants, qui est celui de retour à un état de plein fonctionnement après la panne. C'est bien mieux expliqué par ce diagramme</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/cyetain\/status\/1254484775089459200","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/cyetain" class="screenName"><img src="http://pbs.twimg.com/profile_images/1376166733606760453/z9ZxfVKV_mini.jpg" alt="profile of Global Transformation Office @redhat :: Gonzo Philosophy & Design for Industry & the Academy - PhD @CMUDesign ~2021… Interested in Proprioception & Questions"/>cyetain</a>
+		<span class="name">Jabe Bloom</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/cyetain/status/1 254 484 775 089 459 200" class="date">26 avr. 2020 à 20:57:32</a>
+
+	<span class="content">
+	
+	<span class="text">System performance and state transition to describe resilience (adapted from Henry and Ramirez-Marquez) https://t.co/1677y5A3zB</span>
+	
+	<span class="medias">
+		<span class="media media-photo">
+			<img src="http://pbs.twimg.com/media/EWjTQOnWsAEPSc0.jpg" alt="1 254 484 771 977 211 905"/>
+		</span>
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Le diagramme est raisonnablement lisible.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans l'état initial (<strong>Reliability</strong>), le système fonctionne correctement et est stable. Bref, tout va bien. Et puis, un peu comme dans <a href="https://en.wikipedia.org/wiki/Hero's_journey">la vision campbellienne du héros</a>, il arrive une disruption, et on se trouve en pleine <strong>vulnerability</strong>. Ensuite, le système revient à uyn état stable dans la phase de <strong>recoverability</strong>. Tout ça, c'est bien, mais c'est de la théorie. En pratique, comment ça se passe ? Parce que pour en arriver là, il faut réussir deux choses : identifier les disruptions, et permettre au système de se réparer (idéalement de façon automatique).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais avant tout ça, il y a une étape indispensable que chacun doit faire, parce que c'est de l'ordre de la psychologie. Il faut, avant de commencer à réfléchir à la moindre approche, comprendre qu'un système, quel qu'il soit, est faillible. Et que les erreurs arriveront. Relisez cette partie. Je n'écris pas que les erreurs arriveront parce que vous n'êtes pas assez bons. Je n'écris pas non plus les erreurs arriveront si vous ne respectez pas telle ou telle méthode. Non. <strong>Les erreurs arriveront</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une fois cette compréhension atteinte, on peut parler de sujets un peu plus utiles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Comment détecter les erreurs ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D'abord, qu'est-ce qu'une erreur ? Pour un développeur Java, généralement, ce sera une pile d'exception. Et que fait un développeur d'une exception ? Deux possibilités</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Soit il la catche et fournit un traitement alternatif parce qu'il sait comment éviter l'erreur (c'est de la résilience interne à l'application)</li><li>Soit il ne la catche pas parce qu'il ne sait pas comment la traiter, et <strong>écrit un message de log clair</strong>. Ce message de log sera le premier pas pour passer de la vulnérabilité à la réparation, mais j'y reviendrai</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>On voit immédiatement deux choses : on a séparé ici l'inconnu connu de l'inconnu inconnu. Autrement dit on a borné l'espace des problèmes qu'on savait résoudre automatiquement de ceux nécessitant une intervention manuelle.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>On va s'intéresser au cas de l'exception loggée, parce que le développeur n'envisageait pas cette erreur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comment en faire quelque chose ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avant tout, il faut être capable de lire ce message d'erreur. Ca implique que les logs de l'application doivent être aggrégées et visualisés, par exemple à travers les outils de la stack <a href="https://www.elastic.co/fr/what-is/elk-stack">ELK </a>ou équivalents (et <a href="https://duckduckgo.com/?t=ffab&#38;q=alternative+to+elk&#38;ia=software">ils sont nombreux</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une fois ces logs récupérés, il faut pouvoir distinguer les logs d'activité normale des logs d'erreur, ce qui se fait habituellement à travers des tableaux de bord.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En parlant de tableaux de bord, les alimenter uniquement à partir des logs applicatifs n'est sans doute pas une bonne idée ... par exemple, vous pouvez très bien détecter une erreur simplement en constatant que le nombre d'utilisateurs connectés à votre application chute, ou toute autre métrique que peut vous fournir votre application. Et ça, ce sont des outils comme <a href="https://prometheus.io/docs/introduction/overview/">Prometheus</a>/<a href="https://grafana.com/">Grafana </a>ou <a href="https://www.datadoghq.com/">Datadog</a> qui vous permettront de le savoir.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A partir de ça, vous pourrez mettre en place des corrections de votre application, plus ou moins rapides selon le degré de facilité de résolution de l'erreur ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais tout ça, c'est du travail manuel, en dehors du cadre de la résilience telle qu'on aime la voir.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Alors, comment rendre le système résilient ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dans un système résilient, vous n'avez pas à intervenir pour réparer votre système quand il rencontre un problème. Ca implique que votre système (qui ne dispose que d'une gamme de réponses limitée) est capable de choisir la réponse appropriée à une erreur donnée. On est là dans le cadre des inconnus connus : le système peut réagir à un problème, pour peu que celui-ci entre dans la gamme des problèmes pour lesquels des corrections sont connues.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ces erreurs, ce sont typiquement les erreurs de prod, celles qui font se lever les collègues au milieu de la nuit (et franchement, je n'aime pas cette idée de gens devant sauver des machines). Typiquement, ça pourra être</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Le serveur a crashé, il faut redéployer l'application ailleurs</li><li>La connexion réseau s'effondre</li><li>Un système dépendant a crashé, une partie de l'application ne fonctionne plus</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Il y a  d'autres cas typiques, évidement, mais ceux-là sont les plus courants (de mon point de vue).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Le serveur a crashé ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Si votre application est dépendante d'un serveur physique, je dois dire que vous avez du chemin à faire. En effet, la révolution informatique des dernières années s'appelle Docker. Et, grâce aux orchestrateurs, elle a résolu ce problème. En effet, aujourd'hui, une application n'est plus déployée directement sur une instance de Docker, mais dans un orchestrateur (comme Kubernetes, Nomad, Rancher). Et ceux-ci vous demandent de mettre en place des <a href="https://www.ianlewis.org/en/using-kubernetes-health-checks">healthchecks</a> de votre application, qui vont la redémarrer si elle a planté (et vous pourrez également configurer votre tableau de bord pour vous alerter quand les redémarrages sont trop nombreux). Mais aussi de définir des <a href="https://dzone.com/articles/kubernetes-autoscaling-explained">contraintes de déploiement</a>, comme le nombre minimum d'instances devant être présentes dans l'orchestrateur, ou la manière dont votre application va scaler automatiquement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>La connexion réseau s'effondre ? Un système dépendant n'est plus accessible ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dans les deux cas, on est ci dans le cadre de ce qu'on appelle maintenant les circuit breakers : des composants techniques qui vont observer la qualité d'une connexion pour adapter les événements en attente aux capacités du système appelé. Ca peut se mettre en place dans l'application (ça se fait beaucoup dans Vert.x, <a href="https://spring.io/guides/gs/circuit-breaker/">Spring</a>, <a href="https://quarkus.io/guides/microprofile-fault-tolerance">Quarkus</a>, ...) ou en dehors (avec un <a href="https://www.abhishek-tiwari.com/a-sidecar-for-your-service-mesh/">service mesh</a>). Dans tous les cas, ça permettra d'isoler - un peu - l'appelant et l'appelé.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Et dans les autres cas ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>J'ai fait une présentation très succinte de quelques éléments pouvant vous permettre d'approcher de la résilience (et je veux bien reconnaître que c'est sans doute trop rapide). Cela dit, les concepts s'appliquent aussi ailleurs : les responsables de porte-conteneurs logiciels (c'est bien plus rigolo qu'orchestrateurs, non ?) vont monitorer leur machine et éventuellement en provisionner dynamiquement avec des outils comme Terraform. Les développeurs Javascript vont eux aussi mettre en place des circuit breakers pour s'isoler autant que possible des erreurs de leur backend.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dans tous les cas, l'objectif demeure le même : s'assurer que le système logiciel survive aux pannes. Et si cette résilience est un besoin de l'application, elle doit être testée. Pas forcément avec du <a href="https://blog.myagilepartner.fr/index.php/2018/06/24/quest-ce-que-le-chaos-monkey/">chaos monkey</a>, même si c'est très cool. Mais au minimum en étant capable de définir la catégorie d'erreurs vis-à-vis desquelles votre application doit être résiliente, et en les mettant en scène dans votre intégration continue. Ca n'est pas forcément facile, mais c'est quand même très pratique de pouvoir être sûr que l'application survit aux erreurs qu'elle rencontrera <strong>forcément </strong>en prod.</p>
+<!-- /wp:paragraph -->
+++++

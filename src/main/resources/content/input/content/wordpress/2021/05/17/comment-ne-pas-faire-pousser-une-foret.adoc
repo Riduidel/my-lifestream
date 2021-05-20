@@ -1,0 +1,64 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment ne pas faire pousser une forêt
+:jbake-tags: codingame,performance,rust,_mois_mai,_année_2021
+:jbake-date: 2021-05-17
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/05/17/comment-ne-pas-faire-pousser-une-foret.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/05/17/comment-ne-pas-faire-pousser-une-foret/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cette semaine, c'était le challenge Codingame de printemps.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il s'agissait cette fois-ci de faire pousser des arbres, en évitant de subir l'ombre de l'adversaire. Et du fait du contexte épidémique actuel, je ne pouvais pas participer comme je l'aurai souhaité : j'ai arrêté de coder mercredi soir, et j'ai choisi très volontairement, de coder en Rust, qui n'est pas le langage le plus simple (franchement l'un des plus complexes que je connaisse, en fait).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et comme un bonheur n'arrive jamais seul, les règles incluaient certains éléments qui ont clairement augmenté la complexité du problème.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>D'abord le fait que le terrain soit hexagonal ajoute une complexité certaine : le stockage de données dans un tableau de tableaux n'est <em>à priori</em> pas utilisable (j'écris <em>à priori</em> très volontairement parce que je conservais, depuis <a href="https://www.codingame.com/multiplayer/bot-programming/coders-of-the-caribbean">Coders of the Carribean</a>, un excellent article de référence sur la <a href="https://www.redblobgames.com/grids/hexagons/">modélisation de terrains hexagonaux</a>).</li><li>Par ailleurs, l'unité de tour de jeu, le jour, n'est en fait pas atomique : les deux joueurs vont effectuer alternativement autant d'opérations qu'ils le peuvent, en continuant même si l'adversaire n'a plus d'actions possibles. Pour moi, ça a ajouté beaucoup de complexité.</li><li>En plus, chaque joueur a deux échelles à optimiser : le nombre de points de soleil produits chaque jour, et le score final (qui dépend des arbres récoltés, de leur ordre de récolte et de la position de la récolte).</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Franchement, quand on ajoute tout ça, ça donne un résultat facilement complexe. Et comme je n'avais aucune intuition géniale, j'ai utilisé un modèle de programmation hyper classique (pour moi) :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Décrire chaque entité du jeu dans un type (on a donc une Action qui est un <a href="https://doc.rust-lang.org/book/ch06-01-defining-an-enum.html"><code>enum</code></a> Rust, un <a href="https://doc.rust-lang.org/book/ch05-01-defining-structs.html"><code>struct</code></a> pour chaque arbre, et enfin un modèle représentant le terrain). Petite subtilité : j'avais commencé par représenter le terrain via l'une des structures indiqué dans l'article mentionné plus haut, avant de me rendre compte que le moteur de jeu fournissait la géométrie du terrain au démarrage, du coup, il était bien plus simple de simplement stocker la géométrie dans un <a href="https://doc.rust-lang.org/std/vec/struct.Vec.html"><code>Vec</code></a>, et le contenu dans un autre <a href="https://doc.rust-lang.org/std/vec/struct.Vec.html"><code>Vec</code></a>.</li><li>A partir de là, déterminer toutes les actions possibles</li><li>Éliminer les actions dont le coût est supérieur aux points de soleil disponilbe</li><li>Et trier les actions selon une heuristique</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Avec ça, j'arrive à <a href="https://github.com/Riduidel/codingame/blob/master/multiplayer/spring-challenge-2021/src/lib.rs">cette solution</a> qui atteint le niveau argent. Pas trop mal en sachant que j'ai arrêté de coder mercredi ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, là; je me donne des excuses faciles.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En vérité, je savais dès Lundi, en particulier à la lecture de cet article sur les échecs "<a href="https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/">A step-by-step guide to building a simple chess AI</a>" que ce que je faisais n'avait pas du tout les moyens d'atteindre le haut niveau. Sauf que j'ai été intellectuellement bloqué par le fait que ce que je voyais comme l'unité de durée du tour (la journée) ne l'était pas. Et je pense sincèrement que c'est un blocage psychologique stupide de ma part. Ca veut dire quelque chose sur moi, et quelque chose de pas très chouette (mais que je sais déjà). J'ai bien l'impression d'être incapable de tenter des solutions authentiquement innovantes (pour moi) quand je suis pris par la pression du temps. Pour le dire autrement, le <a href="https://fr.wikipedia.org/wiki/Ancrage_(psychologie)">biais d'ancrage</a> est fort. Suffisamment fort pour que, la prochaine fois que je suis tenté de faire un challenge codingame, je m'oblige à utiliser ces fameuses techniques de Monte-Carlo, de min-max et autres, qui impliqueront des solutions pas forcément répétables, mais ça n'est pas trop grave. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'il y a quand même des choses qui ont bien marché !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J'ai enfin réussi à comprendre le sens des <a href="https://doc.rust-lang.org/book/ch10-03-lifetime-syntax.html">lifetimes Rust</a> ! Et ça implique que j'ai réussi à écrire du code avec beaucoup moins de clone(). Et ça implique à son tour que ce code, qui certes ne fait pas grand chose, est beaucoup plus efficace que mes précédentes solutions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>En bonus, mon article précédent expliquant <a href="https://riduidel.wordpress.com/2021/05/01/pou-bien-demarrer-codingame-en-rust/">comment démarrer une solution Rust</a> m'a vraiment beaucoup aidé : je n'ai eu aucun mal à produire une solution raisonnablement intéressante.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bref, j'ai encore appris beaucoup sur moi, et c'est ce que je demande à Codingame !</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,45 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mon NAS .... amélioré
+:jbake-tags: mldonkey,python,raspberrypi,_mois_août,_année_2016
+:jbake-date: 2016-08-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/08/16/mon-nas-ameliore.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/08/16/mon-nas-ameliore/
+:jbake-style: wordpress
+
+++++
+<p>
+Il y a quelques temps, <a href="https://riduidel.wordpress.com/2016/03/10/jai-demi-perdu-mon-nas-cest-grave/">j'avais failli perdre mon NAS</a>. J'avais donc remplacé mes disques, et <a href="https://riduidel.wordpress.com/2016/03/16/nas-en-remission/">remplacé le firmware d'origine par Alt-F</a>. Et ça marchait ... à peu près bien.
+</p>
+<p>
+J'avais juste un problème lié au fait que rss2imap prenait environ 100% du CPU, tout en ramant comme un malade et en empêchant totalement mldonkey de fonctionner ben quoi, moi aussi je télécharge des distributions Linux).
+</p>
+<p>
+J'y ai donc un peu réfléchi ... et je me suis donné deux pistes de résolution pendant mes vacances
+<br/>
+<ol>
+<br/>
+<li>Transformer mon vieil iBook en serveur : je peux y faire tourner du Python (merci <a href="https://www.macports.org/">MacPorts</a>) et xDonkey</li>
+<br/>
+<li>Acheter (argh) un Raspberry PI, et y installer tout ce qu'il faut</li>
+<br/>
+</ol>
+<br/>
+Comme mes vacances sont finies (re-argh), j'ai pu tester ces deux pistes, et j'en ai tiré quelques conclusions
+<br/>
+<ol>
+<br/>
+<li>Utiliser l'iBook marche bien pour rss2imap, par contre xDonkey refusait de se connecter aux serveurs du web</li>
+<br/>
+<li>J'ai donc fait l'acquisition d'un Raspberry Pi 3 (avec le wifi, le bluetooth, et tout ce dont on peut rêver) ... et ça marche bien !</li>
+<br/>
+</ol>
+<br/>
+Donc, oui, j'ai maintenant un raspberry caché sous ma freebox (et non pas dans ma freebox) sur lequel j'ai l'intention de faire tourner l'ensemble des éléments consomateurs de ressource (Python, mldonkey, lighttpd) pour ne laisser sur le NAS que la diffusion de contenu (donc le serveur ssh, et minidlna).
+</p>
+<p>
+Du coup, j'ai à nouveau un iBook qui ne sert à rien, que j'ai posé à côté des deux ordinateurs de bureau que j'ai à la cave (et qui ne servent eux aussi à rien). Que faire de tout ça ?
+</p>
+++++

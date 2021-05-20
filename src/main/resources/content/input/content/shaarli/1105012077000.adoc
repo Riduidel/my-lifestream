@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ultr@VNC - Remote Control for All
+:jbake-tags: freeware,software,windows,réseau,remote,_mois_janv.,_année_2005
+:jbake-date: 2005-01-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1105012077000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fultravnc.sourceforge.net%2F&searchtags=freeware+software+windows+r%C3%A9seau+remote+_mois_janv.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://ultravnc.sourceforge.net/[Ultr@VNC - Remote Control for All]
+
+Ultr@VNC is a client/server software that allows you to remotely control a computer over any TCP/IP connection as if you were in front of it. It is Free and distributed under the terms of the GNU General Public Licence

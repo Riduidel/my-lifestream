@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ansible, AWS CLI and Kubectl in portable Docker OpsBox | DevOps Solution
+:jbake-tags: ansible,kubernetes,docker,conteneur,packaging,_mois_août,_année_2018
+:jbake-date: 2018-08-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1535362580000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fitsvit.com%2Four-solution%2Fportable-ansible-aws-cli-kubectl-runtime-environment%2F&searchtags=ansible+kubernetes+docker+conteneur+packaging+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://itsvit.com/our-solution/portable-ansible-aws-cli-kubectl-runtime-environment/[Ansible, AWS CLI and Kubectl in portable Docker OpsBox | DevOps Solution]
+
+Un conteneur Docker avec kubectl, aws cli et Ansible déja installés. Ca pourrait me dépanner (et plus d'une fois)

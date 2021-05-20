@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Garrett Files
+:jbake-tags: serie
+:jbake-date: 2008-08-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Garrett_Files.adoc
+:jbake-source: https://www.goodreads.com/series/49491
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9780451450708.html[Sweet Silver Blues (Garrett P.I., #1)]

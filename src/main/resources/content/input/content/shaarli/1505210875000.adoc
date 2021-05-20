@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The better way to learn a new programming language - Code Without Rules
+:jbake-tags: programming,apprentissage,langage,_mois_sept.,_année_2017
+:jbake-date: 2017-09-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1505210875000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcodewithoutrules.com%2F2017%2F09%2F09%2Flearn-a-new-programming-language%2F&searchtags=programming+apprentissage+langage+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://codewithoutrules.com/2017/09/09/learn-a-new-programming-language/[The better way to learn a new programming language - Code Without Rules]
+
+Cette méthode me parle pas mal ... Même si j'aurais du mal à trouver un projet Kotlin, je pense

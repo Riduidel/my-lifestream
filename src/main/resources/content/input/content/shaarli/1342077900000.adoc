@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DrDivX's blog | DivX Labs
+:jbake-tags: divx,vidéo,open-source,converter,windows,freeware,software,_mois_juil.,_année_2012
+:jbake-date: 2012-07-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1342077900000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flabs.divx.com%2FDrDivX&searchtags=divx+vid%C3%A9o+open-source+converter+windows+freeware+software+_mois_juil.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://labs.divx.com/DrDivX[DrDivX's blog | DivX Labs]
+
+Pour corriger les fichiers AVI foireux sur la freebox

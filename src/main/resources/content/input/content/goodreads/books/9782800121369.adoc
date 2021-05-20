@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Confessions express (Soda, #6)
+:jbake-tags:  enquête, new-york, rayon-policier-noir,_année_2011,_mois_sept.,_note_3,rayon-bd,read
+:jbake-date: 2011-09-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782800121369.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392149071l/2777736._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1392149071l/2777736._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2777736
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Faux pasteur pour sa maman un peu cardiaque, vrai flic pour la profession, David Solomon, dit "Soda" — trois doigts seulement à la main gauche, et l'on saura un jour comment c'est arrivé —, affronte jour et nuit l'enfer des bas-fonds new-yorkais. Les véritables cauchemars se rêvent debout, colt Python au poing, dans l'une des métropoles les plus civilisées du monde.
+</div>
+++++
+
+
+## Authors
+* link:../authors/1179493.html[Bruno Gazzotti]
+* link:../authors/172554.html[Tome]
+
+## Series
+* link:../series/Soda.html[Soda]
+
+## Review
+
+++++
+Bon, positionner toute une histoire dans la durée d'un check-up médical de la gentille Mary, c'est techniquement intéressant pour hacher l'action et la rendre plus dynamique (même si on n'a pas vraiment besoin). Seulement, Mary, personnellement, je peux pas trop la sentir : elle est bien trop mièvre pour notre pasteur (même si elle justifie son style vestimentaire).<br/>Bref, il se passe encore des tonnes de truc, la mise en page est encore habilement travaillée (avec une jolie case verticale sur la chute du maire du pont de Brooklyn), mais j'accroche moyennement aux différents personnages secondaire présentés (typiquement, le tueur à gage vétéran de l'armée et les autres salopiauds manquent de charisme pour faire face correctement à Soda).
+++++

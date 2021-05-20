@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La NSA surveille aussi les cartes bancaires
+:jbake-tags: web,sécurité,transaction,_mois_sept.,_année_2013
+:jbake-date: 2013-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1379423655000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tomsguide.fr%2Factualite%2Fnsa-transactions-bancaires%2C22556.html&searchtags=web+s%C3%A9curit%C3%A9+transaction+_mois_sept.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.tomsguide.fr/actualite/nsa-transactions-bancaires,22556.html[La NSA surveille aussi les cartes bancaires]
+
+Il faudrait donc pour ma sécurité que je remplace ma visa international par une carte Western union ?

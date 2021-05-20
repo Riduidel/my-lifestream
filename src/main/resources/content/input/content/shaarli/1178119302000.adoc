@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSS Diagrams
+:jbake-tags: css,dessin,documentation,javascript,programming,visualisation,web,_mois_mai,_année_2007
+:jbake-date: 2007-05-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1178119302000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.surfare.net%2F%7Etoolman%2Ftemp%2Fdiagram.html&searchtags=css+dessin+documentation+javascript+programming+visualisation+web+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.surfare.net/~toolman/temp/diagram.html[CSS Diagrams]
+
+Comment faire un graphe uniquement en CSS

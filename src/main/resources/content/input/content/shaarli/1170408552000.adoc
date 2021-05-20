@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: logger in Ruby on Rails
+:jbake-tags: développement,rails,ruby,logging,_mois_févr.,_année_2007
+:jbake-date: 2007-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1170408552000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiki.rubyonrails.org%2Frails%2Fpages%2Flogger&searchtags=d%C3%A9veloppement+rails+ruby+logging+_mois_f%C3%A9vr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://wiki.rubyonrails.org/rails/pages/logger[logger in Ruby on Rails]
+
+Comment logger dans Rails, très important.

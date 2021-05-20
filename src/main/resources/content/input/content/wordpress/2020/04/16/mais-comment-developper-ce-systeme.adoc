@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais comment développer ce système ?
+:jbake-tags: architecture_agile,_mois_avr.,_année_2020
+:jbake-date: 2020-04-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/16/mais-comment-developper-ce-systeme.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/16/mais-comment-developper-ce-systeme/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cet article fait partie d'une série sur la documentation d'architecture agile avec C4.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maintenant que le code est <a href="https://riduidel.wordpress.com/2020/04/15/deployer-cest-le-dernier-combat/">déployé</a> jusqu'en prod, est-ce que le <a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">rôle de l'architecte</a> s'arrête ? En fait, la question est assez incorrectement posée. En effet, n'importe quel développeur pourra vous dire que le <a href="https://riduidel.wordpress.com/2020/04/14/nous-avons-bien-concu-codons-maintenant/">code</a> (et donc les moyens pour les développeurs de travailler sur ce système) vient évidement avant le déploiement. Alors pourquoi Simon Brown place la partie concernant l'<a href="https://structurizr.com/help/documentation/development-environment">environnement de développement</a> après le déploiement ? Mon avis sur le sujet est assez simple : l'environnement de développement n'a pas de valeur métier, il est donc bien moins important que les moyens d'aller jusqu'à la prod. De ce fait, il paraît légitime de le placer après. Néanmoins, ça n'est pas pour autant une section inutile. En effet, si votre système logiciel comprend plusieurs composants, potentiellement écrits avec des technologies différentes, il faut bien permettre aux développeurs de travailler dans ces différents environnements. Et comme le rôle de l'architecte est de faciliter le travail des développeurs, il me semble normal que cet environnement soit documenté.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Néanmoins, il ne faut pas tomber dans l'archétype de l'architecte donneur d'ordre. Je me vois mal, par exemple, dire aux gens qu'il faut utiliser Eclipse, NetBeans ou autre en Java. En revanche, il me semble beaucoup plus approprié de dire (toujours dans le cadre de Java) quelle version de la JVM et quel outil de build utiliser. Autrement dit, donner un cadre, c'est aussi donner de la liberté, ne serait-ce que pour que les développeurs puissent apporter leurs innovations.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'un truc qu'on oublie d'écrire (même si il me semble l'avoir écrit dans mon article sur le rôle de l'<a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">architecte</a>), c'est que les développeurs avec lesquels un architecte travaille sont à la fois aussi intelligents, aussi compétents et aussi impliqués dans le projet. Il n'y a donc pas de raison qu'ils aient de mauvaises idées sur ce qui leur semble nécessaire pour travailler intelligemment. Ca implique aussi que cette partie doit absolument être co-écrite : vous pouvez, en tant qu'architecte, être le secrétaire. Mais vous ne devez pas définir cette partie du cadre ! En revanche, vous pouvez éclairer certains points.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Par exemple, si votre application utilise un mécanisme d'authentification/autorisation qui peut potentiellement les empêcher de travailler en local, vous pouvez (et en fait vous devez) fournir dans cette partie les infos sur la configuration en utilisant des outils comme <a href="https://github.com/luisfarzati/localdots">localdots</a> ou <a href="https://github.com/FiloSottile/mkcert">mkcert</a> ... Dans le même ordre d'idée, si vous utilisez des outils un peu sophistiqués comme <a href="https://www.testcontainers.org/">TestContainers</a>, vous devez fournir la documentation de démarrage, et cette partie est le bon endroit pour ça.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Est-ce que ça veut dire que cette partie peut prendre la forme d'un guide de démarrage ? Sans doute, oui, mais il n'y a pas que ça : il y a aussi les pièges (que vous devez bien sûr essayer d'éviter), et donc une FAQ des développeurs à écrire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avec ça, vos développeurs sont prêts au travail dans les meilleures conditions. Et puisque le déploiement a déjà été décrit, il ne reste plus qu'à opérer votre logiciel.</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PTHPasteboard
+:jbake-tags: software,freeware,macosx,system,clipboard,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111048576000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pth.com%2FPTHPasteboard%2F&searchtags=software+freeware+macosx+system+clipboard+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pth.com/PTHPasteboard/[PTHPasteboard]
+
+PTHPasteboard is a pasteboard buffer application. It keeps track of the last 20 (changeable in preferences) items that you copied/cut and allows you to paste them at any time. You should move this application to one of your Applications directories and se

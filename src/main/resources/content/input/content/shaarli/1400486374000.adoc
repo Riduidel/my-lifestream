@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Key Management and Certificates - 0955_peter_gutmann.pdf
+:jbake-tags: cryptographie,programming,réseau,web,sécurité,_mois_mai,_année_2014
+:jbake-date: 2014-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1400486374000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fregmedia.co.uk%2F2014%2F05%2F16%2F0955_peter_gutmann.pdf&searchtags=cryptographie+programming+r%C3%A9seau+web+s%C3%A9curit%C3%A9+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://regmedia.co.uk/2014/05/16/0955_peter_gutmann.pdf[Key Management and Certificates - 0955_peter_gutmann.pdf]
+
+La crypto, de nos jours, c'est plus aussi sûr que ça ...

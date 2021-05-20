@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laser Pointers, Blue, Green & Red Lasers
+:jbake-tags: technologie,science,laser,_mois_août,_année_2006
+:jbake-date: 2006-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1155542842000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwickedlasers.com%2Fvideos.php&searchtags=technologie+science+laser+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://wickedlasers.com/videos.php[Laser Pointers, Blue, Green & Red Lasers]
+
+Un site démontrant toutes les capacités des lasers

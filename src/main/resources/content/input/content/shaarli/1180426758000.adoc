@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Meteociel - Météo, observations en temps réel et prévisions pour la France
+:jbake-tags: météo,france,_mois_mai,_année_2007
+:jbake-date: 2007-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1180426758000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.meteociel.fr%2F&searchtags=m%C3%A9t%C3%A9o+france+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.meteociel.fr/[Meteociel - Météo, observations en temps réel et prévisions pour la France]
+
+Un site de météo bien fait avec des observations très détaillées

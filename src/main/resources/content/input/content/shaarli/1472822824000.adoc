@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: david-gpu/srez: Image super-resolution through deep learning
+:jbake-tags: ia,python,programming,_mois_sept.,_année_2016
+:jbake-date: 2016-09-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1472822824000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fdavid-gpu%2Fsrez&searchtags=ia+python+programming+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/david-gpu/srez[david-gpu/srez: Image super-resolution through deep learning]
+
+L'utilisation du deep learning pour faire du super-zoom est techniquement chouette, mais me fait flipper.

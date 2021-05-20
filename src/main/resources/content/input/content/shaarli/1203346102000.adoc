@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NetPro Technologies - Ruby Programming, Rails Web Development - Farmington Hills, Michigan - Web Development and Programming
+:jbake-tags: database,développement,open-source,file,programming,ruby,texte,yaml,_mois_févr.,_année_2008
+:jbake-date: 2008-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1203346102000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.netpromi.com%2Fkirbybase_ruby.html&searchtags=database+d%C3%A9veloppement+open-source+file+programming+ruby+texte+yaml+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.netpromi.com/kirbybase_ruby.html[NetPro Technologies - Ruby Programming, Rails Web Development - Farmington Hills, Michigan - Web Development and Programming]
+
+Vous vous demandez peut-être ce que cette chose bizarre fait dans mes liens ... Eh bien c'est simple : j'ai l'intentiond e m'en servir pour développer mon script de récupération d'infos Amazon et autres. Enfin, l'intention, j'y pense, quoi.

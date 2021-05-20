@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programmer un écran Nextion pour un relais MMDVM
+:jbake-tags: raspberrypi,webradio,écran,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555433680000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.f5uii.net%2Ftutorial-nextion-screen-on-mmdvm-raspberry-pi%2F&searchtags=raspberrypi+webradio+%C3%A9cran+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.f5uii.net/tutorial-nextion-screen-on-mmdvm-raspberry-pi/[Programmer un écran Nextion pour un relais MMDVM]
+
+Je crois que j'ai enfin trouvé un écran branchable sur mon Raspberry radio

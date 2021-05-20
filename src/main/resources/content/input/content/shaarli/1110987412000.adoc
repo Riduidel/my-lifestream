@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Programmer's Guide to the Mind
+:jbake-tags: documentation,science,programming,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110987412000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F209.87.142.42%2Fy%2Fpro.htm&searchtags=documentation+science+programming+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://209.87.142.42/y/pro.htm[A Programmer's Guide to the Mind]
+
+This book is a Programmerâ⊘s Guide to the Mind. In it, we will attempt to do two things: We will try to explain how the mind works, and we will also show how a person can make it operate more effectively. If we compare the task of developing the mind

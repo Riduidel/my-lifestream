@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "“More good code has been written in languages denounced as “bad” than in languages proclaimed “wonderful” - much more.” - Bjarne Stroustrup"
+:jbake-tags: citation,programming,langage,qualité,_mois_juil.,_année_2017
+:jbake-date: 2017-07-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1499066860000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F880501896225705984&searchtags=citation+programming+langage+qualit%C3%A9+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/880501896225705984[Programming Wisdom on Twitter: "“More good code has been written in languages denounced as “bad” than in languages proclaimed “wonderful” - much more.” - Bjarne Stroustrup"]
+
+Est-ce parce que les "beaux" langages ne sont en fait pas pratiques ?

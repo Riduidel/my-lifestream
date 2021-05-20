@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AI challenge in 78 lines (top 5%)
+:jbake-tags: codingame,ia,algorithme,jeu,programming,_mois_juin,_année_2020
+:jbake-date: 2020-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1591386572000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvks.ai%2F2016-09-07-ai-challenge-in-78-lines&searchtags=codingame+ia+algorithme+jeu+programming+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://vks.ai/2016-09-07-ai-challenge-in-78-lines[AI challenge in 78 lines (top 5%)]
+
+Alors ça c'est une démonstration spectaculaire d'un concept important de Codingame : une bonne idée vaut mieux que beaucoup de littérature.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jSpirit – Java Unconference — Spirits, Ski & Java
+:jbake-tags: java,conférence,_mois_janv.,_année_2020
+:jbake-date: 2020-01-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1580025235000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjspirit.org%2F&searchtags=java+conf%C3%A9rence+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://jspirit.org/[jSpirit – Java Unconference — Spirits, Ski & Java]
+
+Cette conférence a l'air vraiment chouette, non ?

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A pattern language for microservices
+:jbake-tags: web,architecture,programming,microservices,pattern,_mois_août,_année_2018
+:jbake-date: 2018-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1535707943000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmicroservices.io%2Fpatterns%2Findex.html&searchtags=web+architecture+programming+microservices+pattern+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://microservices.io/patterns/index.html[A pattern language for microservices]
+
+Ce site fournit un ensemble de patrons d'architecture pour applications microservices. C'est très cool.

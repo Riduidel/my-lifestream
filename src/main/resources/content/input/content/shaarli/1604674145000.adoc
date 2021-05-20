@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plugging React-Admin To Google Sheets
+:jbake-tags: google,data,administration,javascript,react,library,_mois_nov.,_année_2020
+:jbake-date: 2020-11-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1604674145000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmarmelab.com%2Fblog%2F2020%2F11%2F05%2Freact-admin-data-provider-based-on-google-sheets.html&searchtags=google+data+administration+javascript+react+library+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://marmelab.com/blog/2020/11/05/react-admin-data-provider-based-on-google-sheets.html[Plugging React-Admin To Google Sheets]
+
+C'est une idée joliment drôle ... Et ça a complètement du sens, pour peu qu'on embrasse Google

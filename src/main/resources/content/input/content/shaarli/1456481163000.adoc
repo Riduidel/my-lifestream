@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Architects Should Code: The Architect's Misconception
+:jbake-tags: management,architecture,programming,_mois_févr.,_année_2016
+:jbake-date: 2016-02-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1456481163000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.infoq.com%2Farticles%2Farchitects-should-code-bryson%3Futm_content%3Dbufferbdf01%26utm_medium%3Dsocial&searchtags=management+architecture+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.infoq.com/articles/architects-should-code-bryson?utm_content=bufferbdf01&utm_medium=social[Architects Should Code: The Architect's Misconception]
+
+Effectivement, je connais des architectes qui ne codent pas ... Et ça me désole parce qu'ils deviennent très vite non pertinents.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - vmware/octant: A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
+:jbake-tags: kubernetes,debug,software,freeware,open-source,_mois_août,_année_2019
+:jbake-date: 2019-08-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1565601879000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fvmware%2Foctant&searchtags=kubernetes+debug+software+freeware+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/vmware/octant[GitHub - vmware/octant: A web-based, highly extensible platform for developers to better understand the complexity of Kubernetes clusters.]
+
+Un outil qui mérite d'être testé (parce que parfois, comprendre ce qui se passe sur un cluster est ... délicat - au moins pour moi)

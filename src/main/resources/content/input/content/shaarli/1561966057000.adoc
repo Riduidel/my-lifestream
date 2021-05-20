@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to pick a random number from 1-10
+:jbake-tags: mathématiques,statistiques,aléatoire,algorithme,_mois_juil.,_année_2019
+:jbake-date: 2019-07-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1561966057000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftorvaney.github.io%2Fprojects%2Fhuman-rng&searchtags=math%C3%A9matiques+statistiques+al%C3%A9atoire+algorithme+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://torvaney.github.io/projects/human-rng[How to pick a random number from 1-10]
+
+Oh tiens, un algorithme pour obtenir un nombre réellement aléatoire à partir de gens - en tenant compte du fait que leurs réponses ne sont pas correctement distribuées !

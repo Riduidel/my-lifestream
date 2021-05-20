@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Explained from First Principles at Articles
+:jbake-tags: science,technologie,concepts,documentation,_mois_mai,_année_2021
+:jbake-date: 2021-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1621270921000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fexplained-from-first-principles.com%2F%23articles&searchtags=science+technologie+concepts+documentation+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://explained-from-first-principles.com/#articles[Explained from First Principles at Articles]
+
+Ca m'a l'air d'un site sacrément intéressant !

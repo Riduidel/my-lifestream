@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: YouTube - pepsi mania
+:jbake-tags: fun,bizarre,science,art,_mois_juin,_année_2006
+:jbake-date: 2006-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1150809970000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DDxrKPaKRdZE%26search%3Dmentos%2520pepsi&searchtags=fun+bizarre+science+art+_mois_juin+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.youtube.com/watch?v=DxrKPaKRdZE&search=mentos%20pepsi[YouTube - pepsi mania]
+
+Le sommet du trip pepsi-menthos avec cette féérie digne des grandes eaux de Versailles

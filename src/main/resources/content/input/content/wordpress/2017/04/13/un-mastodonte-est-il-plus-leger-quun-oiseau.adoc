@@ -1,0 +1,91 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un mastodonte est-il plus léger qu'un oiseau ?
+:jbake-tags: open-source,twitter,web,_mois_avr.,_année_2017
+:jbake-date: 2017-04-13
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/04/13/un-mastodonte-est-il-plus-leger-quun-oiseau.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/04/13/un-mastodonte-est-il-plus-leger-quun-oiseau/
+:jbake-style: wordpress
+
+++++
+<p>
+Ouais, bon, je tente le titre accrocheur.
+</p>
+<p>
+Donc, j'ai entendu parler toute la semaine dernière de mastodon, un réseau social de microblogging décentralisé.
+</p>
+<p>
+Autrement dit, un équivalent de twitter (avec une limite des messages à 500 caractères) qui présente l'avantage (en termes de scalabilité) de permettre l'ajout de nouvelles instances au réseau. Pour être plus clair, le réseau social n'est plus un unique site web, mais un ensemble de sites web sur des serveurs différents, dans des pays différents.
+</p>
+<p>
+Ca me plaisait pas mal (moins d'adhérence à la silicon valley, plus de possibilité de survie du réseau, tout ça tout ça.
+</p>
+<p>
+J'attendais juste de trouver une instance "sympathique".
+</p>
+<p>
+Et soudain, grâce à Camille Gévaudan, la lumière
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/khomille" class="screenName"><img src="http://pbs.twimg.com/profile_images/1247882748439564290/TCbunZ8k_mini.jpg" alt="profile of J'écris dans @LibeSciences – étoiles, planètes, comètes, rovers, fusées, chats. Le @56kast reviendra. ✉ c.gevaudan(at)liberation(.)fr"/>khomille</a>
+<br/>
+<span class="name">Camille Gévaudan</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/khomille/status/852 516 386 433 904 640" class="date">13 avr. 2017 à 15:38:40</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Eh les libristes, venez jouer avec nous.
+<br/>
+Suis @khomille@framapiaf.org https://t.co/PwrCc70z6S</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Donc j'y suis allé, j'y ai créé un compte.
+</p>
+<p>
+Pour l'instant, c'est sûr que le réseau est encore peut-être un peu jeune. Mais
+<br/>
+<ul>
+<br/>
+<li>Les fonctionnalités sont équivalentes à celle de Twitter</li>
+<br/>
+<li>La liberté est plaisante</li>
+<br/>
+<li>Le nombre d'instances est déjà élevé</li>
+<br/>
+</ul>
+<br/>
+Je vais donc tenter la migration complète vers mastodon : envoyer le flux RSS de Shaarli vers mastodon, puis générer un flux RSS de mastodon et l'envoyer vers Twitter.
+</p>
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 6 useful Rust macros that you might not have seen before
+:jbake-tags: rust,programming,macro,catalog,_mois_avr.,_année_2019
+:jbake-date: 2019-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1556034295000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40benmcdonald_11671%2F6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5&searchtags=rust+programming+macro+catalog+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5[6 useful Rust macros that you might not have seen before]
+
+Toutes ces macros Rust sont hyper ultra chouettes !

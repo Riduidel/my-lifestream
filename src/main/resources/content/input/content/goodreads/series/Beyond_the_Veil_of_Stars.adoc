@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Beyond the Veil of Stars
+:jbake-tags: serie
+:jbake-date: 2003-11-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Beyond_the_Veil_of_Stars.adoc
+:jbake-source: https://www.goodreads.com/series/292775
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253072478.html[Béantes Portes Du Ciel]

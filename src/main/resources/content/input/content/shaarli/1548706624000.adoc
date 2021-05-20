@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jessie Frazelle's Blog: The Life of a GitHub Action
+:jbake-tags: github,devops,configuration,docker,_mois_janv.,_année_2019
+:jbake-date: 2019-01-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1548706624000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.jessfraz.com%2Fpost%2Fthe-life-of-a-github-action%2F&searchtags=github+devops+configuration+docker+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.jessfraz.com/post/the-life-of-a-github-action/[Jessie Frazelle's Blog: The Life of a GitHub Action]
+
+Très très chouette explication de la configuration nécessaire à l'exécution d'une action GitHub.

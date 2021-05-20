@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How to Create a Simple PHP Templating Function - Daggerhart
+:jbake-tags: php,template,programming,tutorial,_mois_oct.,_année_2019
+:jbake-date: 2019-10-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1570606618000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.daggerhart.com%2Fcreate-simple-php-templating-function%2F&searchtags=php+template+programming+tutorial+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.daggerhart.com/create-simple-php-templating-function/[How to Create a Simple PHP Templating Function - Daggerhart]
+
+Pas mal cette solution pour utiliser correctement PHP comme outil de templating

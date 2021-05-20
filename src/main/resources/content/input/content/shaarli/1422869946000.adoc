@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: System Rules
+:jbake-tags: java,programming,test,system,_mois_févr.,_année_2015
+:jbake-date: 2015-02-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1422869946000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstefanbirkner.github.io%2Fsystem-rules%2F&searchtags=java+programming+test+system+_mois_f%C3%A9vr.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://stefanbirkner.github.io/system-rules/[System Rules]
+
+Chouette idée pour tester les modifications faites au système.

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Darwin's Radio
+:jbake-tags: serie
+:jbake-date: 2011-07-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Darwin_s_Radio.adoc
+:jbake-source: https://www.goodreads.com/series/51172
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782221099360.html[Les Enfants de Darwin]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vlad Mihalcea sur Twitter : "For a software developer, a legacy system triggers a fight-or-flight response." / Twitter
+:jbake-tags: programming,psychologie,citation,danger,_mois_sept.,_année_2020
+:jbake-date: 2020-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1600774558000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvlad_mihalcea%2Fstatus%2F1307164273525882881&searchtags=programming+psychologie+citation+danger+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/vlad_mihalcea/status/1307164273525882881[Vlad Mihalcea sur Twitter : "For a software developer, a legacy system triggers a fight-or-flight response." / Twitter]
+
+Cette citation sera en introduction de ma prochaine présentation. Et vous allez voir, ce sera ... différent.

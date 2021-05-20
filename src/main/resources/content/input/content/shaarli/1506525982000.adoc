@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Public Urban Terror map server - A CDN for Urban Terror maps
+:jbake-tags: web,server,urban-terror,configuration,open-source,_mois_sept.,_année_2017
+:jbake-date: 2017-09-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1506525982000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsebsauvage.net%2Fq3ut4%2F&searchtags=web+server+urban-terror+configuration+open-source+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://sebsauvage.net/q3ut4/[Public Urban Terror map server - A CDN for Urban Terror maps]
+
+WOW, je découvre que SebSauvage a un CDN dédié à Urban Terror. TROP CHOUETTE !

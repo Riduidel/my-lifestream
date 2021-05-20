@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SoundEditor
+:jbake-tags: client,ftp,réseau,software,windows,_mois_oct.,_année_2004
+:jbake-date: 2004-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1096880338000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freesoundeditor.com%2Fincagen.html%3FDropUpLoad.htm%7Emain&searchtags=client+ftp+r%C3%A9seau+software+windows+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.freesoundeditor.com/incagen.html?DropUpLoad.htm~main[SoundEditor]
+
+DropUpLoad is a very light, simple, strong and usefull Upload spooler for FTP

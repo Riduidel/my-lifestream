@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ORA-01591: lock held by in-doubt distributed transaction string | Xanadu
+:jbake-tags: database,oracle,transaction,debug,_mois_mars,_année_2017
+:jbake-date: 2017-03-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1488464820000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftazlambert.wordpress.com%2F2011%2F11%2F24%2Fora-01591-lock-held-by-in-doubt-distributed-transaction-string%2F&searchtags=database+oracle+transaction+debug+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://tazlambert.wordpress.com/2011/11/24/ora-01591-lock-held-by-in-doubt-distributed-transaction-string/[ORA-01591: lock held by in-doubt distributed transaction string | Xanadu]
+
+Merci à cet article, qui me donne enfin une piste sérieuse pour un problème vraiment tordu

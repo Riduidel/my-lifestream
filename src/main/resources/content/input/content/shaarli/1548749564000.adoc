@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tef’s public account on Twitter: "[poll] please participate in my 2019 developer survey"
+:jbake-tags: sondage,programming,_mois_janv.,_année_2019
+:jbake-date: 2019-01-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1548749564000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftef_ebooks%2Fstatus%2F1088975322274562048&searchtags=sondage+programming+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/tef_ebooks/status/1088975322274562048[tef’s public account on Twitter: "[poll] please participate in my 2019 developer survey"]
+
+Un état du monde du développement ... intéressant

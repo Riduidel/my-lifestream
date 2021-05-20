@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VisArch sur Twitter : "Back when HP still did medical products, a team showed me a hidden part where the (hw and sw) team’s signatures had been set in the mold, as a gesture of recognition. Authors, not of a book, but a life-saving device. I don’t think it floats, however... https://t.co/V2jygxmY4W" / Twitter
+:jbake-tags: développeur,carrière,méthode,produit,citation,_mois_août,_année_2020
+:jbake-date: 2020-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1597760543000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fruthmalan%2Fstatus%2F1295029197430296578&searchtags=d%C3%A9veloppeur+carri%C3%A8re+m%C3%A9thode+produit+citation+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ruthmalan/status/1295029197430296578[VisArch sur Twitter : "Back when HP still did medical products, a team showed me a hidden part where the (hw and sw) team’s signatures had been set in the mold, as a gesture of recognition. Authors, not of a book, but a life-saving device. I don’t think it floats, however... https://t.co/V2jygxmY4W" / Twitter]
+
+Il y avait à un moment dans le jeu vidéo une tradition de lister les développeurs sur un écran "à propos". J'aimerais beaucoup que cette tradition s'étende à toutes les applications, ne serait-ce que pour pousser les développeurs à être fiers des produits réalisés, plutôt que des méthodes appliquées.

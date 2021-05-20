@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bestguy/ractive-animatecss
+:jbake-tags: javascript,css,animation,open-source,library,_mois_juin,_année_2016
+:jbake-date: 2016-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1465816066000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fbestguy%2Fractive-animatecss&searchtags=javascript+css+animation+open-source+library+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/bestguy/ractive-animatecss[bestguy/ractive-animatecss]
+
+ooooh, très chouette façon d'ajouter des animations. Ractive et son écosystème sont vraiment chouettes !

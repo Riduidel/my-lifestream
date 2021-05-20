@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: From Concentrate Software
+:jbake-tags: software,freeware,macosx,countdown,_mois_avr.,_année_2005
+:jbake-date: 2005-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1114435634000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.fromconcentratesoftware.com%2FCountdown%2F&searchtags=software+freeware+macosx+countdown+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.fromconcentratesoftware.com/Countdown/[From Concentrate Software]
+
+Sometimes you just gotta wait for something to happen. You keep waiting and waiting. And finally you realize that you are to late. The train left, your class started, or your cake is now a burnt, inedible biscuit. With Countdown, you'll never have to eat

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sonia Gupta sur Twitter : "Sometimes I think microservices architecture is just an excuse for developers to build a lot of unnecessary shit. Something tech is really good at doing."
+:jbake-tags: citation,architecture,microservices,complexité,_mois_nov.,_année_2019
+:jbake-date: 2019-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1572856684000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsoniagupta504%2Fstatus%2F1190934599007899648&searchtags=citation+architecture+microservices+complexit%C3%A9+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/soniagupta504/status/1190934599007899648[Sonia Gupta sur Twitter : "Sometimes I think microservices architecture is just an excuse for developers to build a lot of unnecessary shit. Something tech is really good at doing."]
+
+J'aurais pu l'imprimer et l'afficher sur le plateau, ça ...

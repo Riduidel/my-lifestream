@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Font Awesome, the iconic font designed for Bootstrap
+:jbake-tags: twitter-bootstrap,css,icon,font,_mois_déc.,_année_2013
+:jbake-date: 2013-12-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1386681265000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffortawesome.github.io%2FFont-Awesome%2F&searchtags=twitter-bootstrap+css+icon+font+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://fortawesome.github.io/Font-Awesome/[Font Awesome, the iconic font designed for Bootstrap]
+
+Des icônes packacgées dans une police, et apparement spécialement conçues pour bien rendre avec Twitter Bootstrap

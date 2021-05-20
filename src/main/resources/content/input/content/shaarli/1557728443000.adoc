@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rory Gibson on Twitter: "Good software architecture is a) collaborative, b) often emergent c) pragmatic and d) not about Word documents Governance is important, but reaching the correct design is best achieved with a few solid tech folks, a whiteboard and some pens. #cto #agile #advice"
+:jbake-tags: citation,architecture,équipe,communication,_mois_mai,_année_2019
+:jbake-date: 2019-05-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1557728443000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frorygibson%2Fstatus%2F1127546967461113857&searchtags=citation+architecture+%C3%A9quipe+communication+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/rorygibson/status/1127546967461113857[Rory Gibson on Twitter: "Good software architecture is a) collaborative, b) often emergent c) pragmatic and d) not about Word documents Governance is important, but reaching the correct design is best achieved with a few solid tech folks, a whiteboard and some pens. #cto #agile #advice"]
+
+C'est ce que je dis à peu près .... tout le temps :-)

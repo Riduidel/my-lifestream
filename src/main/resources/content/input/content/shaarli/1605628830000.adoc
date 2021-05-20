@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Type hints cheat sheet (Python 3) — Mypy 0.790 documentation
+:jbake-tags: python,type,validation,programming,_mois_nov.,_année_2020
+:jbake-date: 2020-11-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1605628830000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmypy.readthedocs.io%2Fen%2Fstable%2Fcheat_sheet_py3.html&searchtags=python+type+validation+programming+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html[Type hints cheat sheet (Python 3) — Mypy 0.790 documentation]
+
+Je découvre que Python 3 supporte le type hinting. C'est vraiment chouette !

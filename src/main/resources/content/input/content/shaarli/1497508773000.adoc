@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Speedment
+:jbake-tags: java,programming,framework,open-source,database,_mois_juin,_année_2017
+:jbake-date: 2017-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1497508773000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.speedment.com%2F&searchtags=java+programming+framework+open-source+database+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://www.speedment.com/[Speedment]
+
+Des streams pour accéder à la base de donnée, c'est pas mal du tout. Et en plus, il y a de la génération de code. MIAM

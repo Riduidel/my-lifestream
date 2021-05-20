@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Kubernetes is The New Application Server - RHD Blog
+:jbake-tags: programming,déploiement,kubernetes,_mois_juin,_année_2018
+:jbake-date: 2018-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1530273892000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdevelopers.redhat.com%2Fblog%2F2018%2F06%2F28%2Fwhy-kubernetes-is-the-new-application-server%2F&searchtags=programming+d%C3%A9ploiement+kubernetes+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://developers.redhat.com/blog/2018/06/28/why-kubernetes-is-the-new-application-server/[Why Kubernetes is The New Application Server - RHD Blog]
+
+Ca donne \*vraiment\* à réfléchir

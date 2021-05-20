@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le faiseur d'histoire
+:jbake-tags:  amour, rayon-imaginaire, romantique,_année_2012,_mois_avr.,_note_4,read,uchronie
+:jbake-date: 2012-04-27
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070439966.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327966872l/11326477._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327966872l/11326477._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/11326477
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Le choc frontal entre Michael Young, thésard en histoire à Cambridge, et le professeur Zuckermann, vieux physicien obsédé par l'une des périodes les plus sombres du XXe siècle, va changer l'histoire – littéralement. Mais pour cela, il faut aussi compter sur une pilule miracle, sur le rival oublié d’un petit teigneux autrichien et sur la fatale élasticité du temps. Le pire n'est jamais certain, mais le mieux ne se trouve pas forcément non plus là où on l'attendait...
+</div>
+++++
+
+
+## Authors
+* link:../authors/4841835.html[Axel Orgeret-Dechaume]
+* link:../authors/94314.html[Patrick Marcel]
+* link:../authors/10917.html[Stephen Fry]
+
+
+
+## Review
+
+++++
+ce très intéressant roman met en scène une gallerie de personnages que, bien que j'hésite les qualifier de typiquement anglais, personne ne pourrait confondre avec des héros américains : pas de machoires carrées, d'épaules larges et de décisions à l'emporte-pièce ici, mais beaucoup d'erreurs, d'excuses et de tentatives désastreuses de réparer ce qui fonctionne aussi bien que possible, en l'occurence l'histoire du XXème siècle.<br/>On y suit donc Michael Young, jeune étudiant en histoire spécialiste de la jeunesse d'Hitler, et Leo Zuckerman, physicien obsédé par le Reich. Ensemble, ils vont construire machine tout à fait typique des histoires de savant fou, pour remplacer Hitler par ... quelque chose d'autre. une fois cette opération effectuée, on bondit dans un monde digne de Retour vers le futur, mais avec une espèce de finesse que j'ai beaucoup appréciée. C'est-à-dire que plutôt que de nous placer une grosse intrigue remplie de bang et de boum, on s'attache beaucoup plus ici aux relations entre Mike et les gens qui l'entourent (en particulier le jeune Steeve). Et si cette rencontre est l'opportunité pour Mike et pour nous de découvrir de nouvelles formes de relations amoureuses, celles-ci sont décrites avec une pudeur que j'ai trouvé particulièrement touchante. D'ailleurs, cette pudeur, ce traitement que j'ose qualifier de typiquement anglais couvre tout le récit, pour lui donner une forme de réalité assez surprenante.<br/>Alors bien sûr, le thème de l'existence (ou pas) d'Hitler et de ses conséquences est archi-rebattu, et le traitement qui en est fait n'est pas follement original. Mais il me semble particulièrement bien étayé par des recherches historiques en profondeur (l'enfance d'Hitler, typiquement), et décrit avec une précision qui fait plaisir à voir. Tellement plaisir à voir, d'ailleurs, que le changement de trame historique passe particulièrement naturellement, avec en bonus des aspects inattendus sur notre personnage principal.<br/>Autrement dit, j'ai bien aimé cette histoire. Elle ne conviendra clairement pas aux adeptes d'une SF hollywoodienne, tout en explosions et scènes d'action, ni d'ailleurs aux fans de la hard-science qui n'aiment rien tant qu'explorer les impacts de collisions entre bosons de Higgs. En revanche, pour les amateurs d'une SF sensible, se revendiquant de la lignée de, par exemple link:9782070420643.html[Thomas le Rimeur], link:9782290324912.html[Sans parler du chien], ceux-là trouveront dans ce récit traité avec beaucoup d'originalité une lecture particulièrement stimulante.
+++++

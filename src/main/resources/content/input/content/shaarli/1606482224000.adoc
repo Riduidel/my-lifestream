@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Updating version in preparation for Maven 4 · apache/maven@3736be9
+:jbake-tags: maven,histoire,version,événement,_mois_nov.,_année_2020
+:jbake-date: 2020-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1606482224000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fapache%2Fmaven%2Fcommit%2F3736be9c15122d65e6ef675557eb0f882f82b012&searchtags=maven+histoire+version+%C3%A9v%C3%A9nement+_mois_nov.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/apache/maven/commit/3736be9c15122d65e6ef675557eb0f882f82b012[Updating version in preparation for Maven 4 · apache/maven@3736be9]
+
+😱😱😱 C'est la fin de maven 3 et le début de maven 4

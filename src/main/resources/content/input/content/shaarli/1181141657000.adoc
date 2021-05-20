@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tailor - DarcsWiki
+:jbake-tags: code,développement,linux,programming,software,synchronisation,tool,utilities,_mois_juin,_année_2007
+:jbake-date: 2007-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1181141657000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.darcs.net%2FDarcsWiki%2FTailor&searchtags=code+d%C3%A9veloppement+linux+programming+software+synchronisation+tool+utilities+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.darcs.net/DarcsWiki/Tailor[Tailor - DarcsWiki]
+
+Un système de synchronisation de dépots pour différents logiciels de SCM. Très utile à l'heure où l bataille fait rage entre Subversion et Darcs (au moins chez nous).

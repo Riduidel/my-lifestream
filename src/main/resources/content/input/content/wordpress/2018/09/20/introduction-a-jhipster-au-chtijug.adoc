@@ -1,0 +1,554 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introduction à JHipster au chtijug
+:jbake-tags: chtijug,java,javascript,open-source,spring,_mois_sept.,_année_2018
+:jbake-date: 2018-09-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/09/20/introduction-a-jhipster-au-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/09/20/introduction-a-jhipster-au-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ippontech" class="screenName"><img src="http://pbs.twimg.com/profile_images/1037335349897375745/0SSQ5A2f_mini.jpg" alt="profile of Cabinet de conseil - Discovery to Delivery
+<br/>
+La Matinale 👉 https://t.co/cMCL39P4jA
+<br/>
+#Design #Digital #Data #Cloud #Fullstack #Marketing #Agilite"/>ippontech</a>
+<br/>
+<span class="name">Ippon Technologies</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ippontech/status/1 042 818 412 580 356 096" class="date">20 sept. 2018 à 18:50:58</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Salle comble à #Lille pour le @chtijug avec @juliendubois pour présenter @java_hipster #JHipster #OpenSource https://t.co/JifZMnJ51b</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DnjVaO_WwAEAV8-.jpg" alt="1 042 817 960 413 413 377"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DnjVd17WwAAhUUq.jpg" alt="1 042 818 022 405 226 496"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DnjVoZ7XcAEKpRY.jpg" alt="1 042 818 203 867 639 809"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Julien Dubois vient donc nous présenter le framework qu’il a créé …​ <a href="https://www.jhipster.tech/">JHipster</a>. <a href="https://spring.io/projects/spring-framework">Spring</a>, c’est un gros paquet d’ingrédients. <a href="https://spring.io/projects/spring-boot">Spring Boot</a>, c’est la même chose bien packagée. Et JHipster, c’est ce package encore décoré. Autrement dit, c’est un générateur d’application full stack avec Spring Boot en back-end, Angular et React en front-end (mais Vuejs arrive bientôt), et préconfiguré pour être facilement déployable.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+A noter que JHipster est 100% open-source sous licence Apache (la meilleure pour le commerce, quand même).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+C’est un projet qui réussit : 22 développeurs dans la core team, 500 contributeurs, des conférences, des étoiles GitHub, …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-13">
+<br/>
+<h2 id="truepourquoi">Pourquoi ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+JHipster fait gagner du temps au démarrage (avec des études qui montrent un gain de 6 semaines au démarrage), au build (comme le projet est très utilisé, le code généré est stable et fiable), et au run (le monitoring est déja prévu).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-17">
+<br/>
+<h2 id="truestack_technique">Stack technique</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="sect2 data-line-19">
+<br/>
+<h3 id="truefront_end">front-end</h3>
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+JHipster propose une stack complète, avec des front bien connus. Mais attention : tous les widgets de l’univers ne sont pas supportés. Parce que ça fait trop de code d’une part, mais aussi parce que ce sont des technologies qui évoluent très rapidement.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-23">
+<br/>
+<h3 id="trueback_end">back-end</h3>
+<br/>
+<div class="paragraph data-line-24">
+</p>
+<p>
+Evidement, le back est intégralement Spring .. il y a toutefois quelques choix qui sont faits (par exemple, JHipster utilise toujours <a href="https://metrics.dropwizard.io/">DropWizard Metrics</a>, parce que la communauté n’est pas fan des nouvelles <a href="https://micrometer.io/">métriques Spring</a>).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-26">
+<br/>
+<h3 id="trueoutillage">Outillage</h3>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+Les tests de base sont déja préparés. En revanche, les tests Gatling ou <a href="http://www.protractortest.org/#/">Protactor</a> sont optionnels …​ mais ajoutables facilement.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-30">
+</p>
+<p>
+Par ailleurs, JHipster suppose que vous utilisez Docker …​ parce que c’est pratique et c’est quasiment un standard. Cependant, si vous voulez utilisez MySQL ou Elastic, il faudra en passer par là.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-33">
+</p>
+<p>
+Le déploiement est préparé pour heroku (beaucoup utilisé parce que gratuit), Kubernetes, OpenShift, …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-35">
+<br/>
+<h3 id="truearchitecture">Architecture</h3>
+<br/>
+<div class="paragraph data-line-36">
+</p>
+<p>
+JHipster permet de générer une architecture microservice, en créant un module par service de back-end et un ou plusieurs modules de front-end.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-38">
+</p>
+<p>
+Il peut aussi utiliser une service registry (celle de <a href="https://github.com/Netflix/eureka">Netflix</a> ou de <a href="https://www.consul.io/">Consul</a> sont intégrées) ou une API gateway.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+L’objectif étant d’avoir la même expérience développeur que pour un monolithe. Ca paraît séduisant sur le papier …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+Et enfin, il est possible de créer des microservices réactifs utilisant Spring Boot 2 …​ et les composants Spring réactifs, évidement.
+</p>
+<p>
+Toutefois, sur le sujet des microservices, je me dois d'avouer qu'à mon ens on est déja là dans une démarche dépassée : aujourd'hui, le marché semble converger vers les service meshs (<a href="https://istio.io/">Istio</a>, <a href="https://www.consul.io/intro/getting-started/connect.html">Consul Connect</a>, ou <a href="https://conduit.io/">Conduit</a>). Et franchement, continuer à implémenter la couche de service dans l'application ... c'est lourd, c'est peu efficace, et ça rajoute de la complexité au mauvais endroit.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-44">
+<br/>
+<h2 id="trued_mo">Démo</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Et c’est parti pour la démo à la cool !
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-48">
+<br/>
+<h3 id="trueinstallation">Installation</h3>
+<br/>
+<div class="paragraph data-line-49">
+</p>
+<p>
+On peut <a href="https://www.jhipster.tech/installation/">installer JHipster</a> avec npm (wat ?), Homebrew, Chocolatey, …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-51">
+</p>
+<p>
+Mais on peut aussi, comme pour <a href="https://start.spring.io/">Spring boot</a> (ou <a href="http://wisdom-framework.org/download">Wisdom Framework</a>), créer le projet depuis le site web de JHipster. Donc on se connecte, et grâce à l’intégration GitHub/GitLab, le projet est directement créé dans le gestionnaire de source (comme avec <a href="https://jenkins-x.io/commands/jx_create_jhipster/">Jenkins-X</a>).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-54">
+</p>
+<p>
+Les options de création de projet sont assez nombreuses (monitoring, authentification, base de données, …​). C’est l’un des intérêts de JHipster : gérer des sujets auxquels Spring Boot ne s’intéresse pas. L’impact évident, c’est que le démarrage est plus lent que Spring Boot …​ qui n’est déja pas fameux sur ce sujet. Parce que JHipster démarre un EHCache, un hibernate, …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-59">
+</p>
+<p>
+En dehors de ça, JHipster peut gérer l’accès à ElasticSearch, ou Kafka. Dans le cas d’Elastic, ça a un impact sur le front et sur le back (parce que JHipster génère les outils d’accès, et l’interface de recherche). Qui plus est, le <code>docker-compose.yaml</code> sera également généré pour le développement avec Elastic.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-63">
+</p>
+<p>
+Et lorsqu’on clique sur "generate on GitHub", le projet est automatiquement généré avec les bons <code>*ignore</code>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-65">
+<br/>
+<h3 id="trueouverture_du_projet">Ouverture du projet</h3>
+<br/>
+<div class="paragraph data-line-67">
+</p>
+<p>
+Donc le projet a été généré avec un <code>pom.xml</code> pour maven, et un <code>package.xml</code> pour générer le front-end. Et au lancement, on démarre node et maven, le front et le back se lance (pour le front, après avoir copié 1/2 Go de dépendances Node). Ca me trouble un chouaï, parce que je ne vois pas pourquoi il faut lancer deux outils de build différents ... pour produire les deux morceaux de la même application.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-70">
+</p>
+<p>
+Spring-boot et webpack sont configurés pour faire du rechargement à chaud, ce qui fait qu’il n’y a pas besoin de relancer les outils de build. C'est quelque chose qu'on a aussi dans Spring-Boot, dans Wisdom Framework - mais bien mieux (désolé, mais c'est vrai) ou même en Rust avec <a href="https://github.com/passcod/cargo-watch">cargo watch</a>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-72">
+</p>
+<p>
+L’application est générée avec de l’authentification, ce qui est cool, mais aussi tout un tas d'écrans d’administration. On peut voir les métriques, les niveaux de logs (et les changer), …​ C’est franchement pratique.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-76">
+</p>
+<p>
+Il y a également un <a href="https://www.browsersync.io/">browser-sync</a>, qui permet d’avoir plusieurs clients synchronisés (c’est typiquement pratique pour le développement web avec des écrans réactifs).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-78">
+</p>
+<p>
+Et encore la configuration Docker …​ avec le fichier de configuration permettant l’accès à la base de données.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-80">
+</p>
+<p>
+Et beaucoup de configuration Java, pour optimiser les performances de Jackson, par exemple, ou pour corriger des implémentations pas optimales, ou pour lier le front-end et le back-end. Une librairie équivalente existe évidement côté Javascript, encore une fois pour faciliter la vie du développeur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-83">
+</p>
+<p>
+Et enfin les bases d’une application : un utilisateur, ses droits, les repository Spring Data, les contrôleurs web permettant d’y accéder, et même les messages internationalisés.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect3 data-line-85">
+<br/>
+<h4 id="trueecrire_du_code">Ecrire du code</h4>
+<br/>
+<div class="paragraph data-line-86">
+</p>
+<p>
+JHipster fournit des sous-générateurs. Donc pour créer une nouvelle entité, il suffit de taper <code>jhipster entity Foo</code> par exemple.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-89">
+<br/>
+<h4 id="truejhipster_studio"><a href="https://start.jhipster.tech/jdl-studio/">JHipster Studio</a></h4>
+<br/>
+<div class="paragraph data-line-90">
+</p>
+<p>
+Avec ce studio, on peut décrire facilement des entités dans un DSL …​ qui ressemble <strong>furieusement</strong> à un descripteur UML. Ce studio est utilisable dans une interface web, ou via un plugin Eclipse (cool). Et le modèle peut être appliqué sur une application préexistante. L’avantage du studio web, c’est qu’il génère une pull request automatiquement, ce qui est cool. Ce qui l’est moins, c’est que <strong>110 fichiers</strong> ont été générés pour 4 entités. 110 fichiers ! C’est pas un peu beaucoup ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-98">
+</p>
+<p>
+Si, mais il y a quand même un front-end, un back-end, et toute la connexion entre les deux. C’est malgré tout impressionnant.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-101">
+</p>
+<p>
+Même si ça ne marche pas.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-103">
+<br/>
+<h4 id="truem_ta_mod_le">Méta-modèle</h4>
+<br/>
+<div class="paragraph data-line-104">
+</p>
+<p>
+Julien rencontre à ce moment-là une difficulté qui l’oblige à tout régénérer …​. y compris le code Java. Pour ça, JHipster maintient un méta-modèle avec lequel il génère le code Java et le code Javascript.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-107">
+</p>
+<p>
+Ca ne marche pas mieux après, mais c’est néanmoins impressionnant.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-109">
+</p>
+<p>
+Surtout quand je me rends compte qu’en fait, JHipster est un outil de génération à base de modèle UML. Modèles qui sont bien cachés, c’est vrai, mais qui se révèlent bien pratiques.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-112">
+<br/>
+<h4 id="truediff_rence_dev_prod">Différence dev-prod</h4>
+<br/>
+<div class="paragraph data-line-113">
+</p>
+<p>
+Pour aller plus loin, Julien nous montre que l’application, quand elle se lance en mode production, démarre plus lentement, parce que les comportements sont différents :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-115">
+<br/>
+<ul>
+<br/>
+<li>Le code Angular est minifié</li>
+<br/>
+<li>Les stratégies de cache côté serveur sont plus aggressives</li>
+<br/>
+<li>Les descripteurs Swagger peuvent (ou pas) être générés</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-119">
+<br/>
+<h4 id="truetests">Tests</h4>
+<br/>
+<div class="paragraph data-line-120">
+</p>
+<p>
+Sur cette application, 160 tests sont générés pour le back et 152 pour le front. Et c’est là qu’on voit tout ce que cache ce générateur …​. Il y a 5 entités. Et ça mérite 300 tests ? J’imagine que oui, bien sûr.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-123">
+<br/>
+<h4 id="truemise_jour">Mise à jour</h4>
+<br/>
+<div class="paragraph data-line-124">
+</p>
+<p>
+La ligne de commande contient une commande <code>jhipster update</code> qui permet de mettre à jour le projet par rapport à une version suivante, via un merge git. C’est conceptuellement vraiment, mais alors vraiment balaize. Et ça facilite évidement énormément les mises à jour de version.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect3 data-line-128">
+<br/>
+<h4 id="truemise_en_prod">Mise en prod</h4>
+<br/>
+<div class="paragraph data-line-129">
+</p>
+<p>
+Pour finir, il existe des sous-générateurs permettant de déployer l’application dans les infrastructures de prod. Julien prend donc l’exemple de <code>jhipster heroku</code> …​ qui déploie chez heroku (dingue).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-132">
+</p>
+<p>
+Et les différents cloudeurs ont produit des optimisations spécifiques. Par exemple, Google App Engine déploie le front-end sur son CDN, et les requêtes qui arrivent sur votre "serveur" sont celles qui concernent le back uniquement.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-135">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-136">
+</p>
+<p>
+Julien vend particulièrement bien son outil. Et honnêtement, il a raison : JHipster est bien fichu, et fournit un certain nombre de services spectaculairement pratiques. L’un des plus importants, mais des moins visibles, est la mise en place d’une approche MDA pragmatique et efficace. En revanche, ayant utilisé pendant un certain temps Wisdom Framework, je trouve le choix de se baser sur Spring pour construire un générateur d’applications magnifié me paraît …​ discutable : je trouve la quantité d'éléments générés hallucinante, pour un résultat qui est raisonnablement joli, mais pas non plus fascinant (typiquement, les démos de Julien n’ont montré que Twitter Bootstrap (aucun des éléments visuels ne nécessitait Angular ou React). Malheureusement, je pense qu’il est de moins en moins pertinent de "gâcher" du CPU en fournissant un échafaudage de projet - aussi poussé soit-il. En effet, on voit maintenant émerger des approches - type "Function as a service" - qui interdisent totalement ce genre d’outillage.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-143">
+</p>
+<p>
+Alors certes ça n’est pas la cible.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-145">
+</p>
+<p>
+Mais quand même. Quelle application déployer avec JHipster ? Un outil "léger" non critique ? Quel genre d’outil peut encore avoir besoin de la "puissance" de la JVM, en étant toutefois assez simple pour être développable en PHP ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-148">
+</p>
+<p>
+Autrement dit, simplifier Spring, pour moi, est une "solution" qui ne me paraît pas, malgré tous les exemples de mise en oeuvre présentés - avec brio, je dois dire - par Julien, être applicable à un cas "utile". Quelque part, c’est avant tout un outil de commodisation du développement, applicable dans les cas où le logiciel ne doit pas être un obstacle à une tâche, mais ne doit pas non plus être un facteur de succès.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

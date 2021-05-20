@@ -1,0 +1,448 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: T’as vu ? Un chtijug !
+:jbake-tags: chtijug,javascript,web,_mois_mars,_année_2018
+:jbake-date: 2018-03-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/03/21/tas-vu-un-chtijug.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/03/21/tas-vu-un-chtijug/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-4">
+</p>
+<p>
+Le monde change, et le chtijug s’adapte donc. Et ce soir, l’adaptation, c’est un framework Javascript assez connu : VueJS. J’en ai <a href="https://riduidel.wordpress.com/2017/09/09/mais-quest-ce-que-vous-avez-fait-de-javascript/">déja parlé un peu</a>, voyons voir si les speakers vont m’aider à revoir mon opinion …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-6">
+</p>
+<p>
+Mais avant, deux mots. D'abord, Sarah Habchi veut interviewer des développeurs Android qui ont utilisé le Linter. Pour s’inscrire, c’est <a class="bare" href="http://bit.ly/Android-Lint">http://bit.ly/Android-Lint</a>. Allez-y, c’est pour l’INRIA.
+</p>
+<p>
+(attention, cette fois-ci, c'est moi qui parle directement, et pas le chtijug) Ensuite, regardez ces photos de la soirée
+</p>
+<p>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/976 158 548 861 378 560" class="date">20 mars 2018 à 19:08:28</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">C’est parti pour @vuejs avec @posva chez @PictimeGroupe https://t.co/uKZHfblSgZ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DYwDBHVXUAAvRI0.jpg" alt="976 158 536 915 963 904"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DYwDBHYW4AEsqxK.jpg" alt="976 158 536 928 518 145"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Comptez approximativement le nombre de présents ... Et comparez avec le nombre d'inscrits sur <a href="https://www.meetup.com/fr-FR/ChtiJUG/events/248437205/">Meetup</a> ... Où il y avait 78 personnes sur liste d'attente. Si vous vous êtes inscrits, mais que vous n'êtes pas venu, vous avez pris la place de quelqu'un. C'est assez moche. Donc la prochaine fois, ne soyez pas moche, annulez plutôt.
+</p>
+<p>
+Revenons-en à notre sujet ...
+<br/>
+<div class="paragraph data-line-6">Vous pouvez trouvez les slides de la présentation à cette adresse : <a href="https://slides.com/posva/vue-simple-yet-scalable/live">https://slides.com/posva/vue-simple-yet-scalable/live</a> et si vraiment vous voulez revoir la présentation dans les conditions du direct, le chtijug a ce qu'il faut :</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/chtijug" class="screenName"><img src="http://pbs.twimg.com/profile_images/1179656487326617600/2uFfDuut_mini.jpg" alt="profile of Le Java User Group des Ch'tis d'un Ch'nord"/>chtijug</a>
+<br/>
+<span class="name">Ch'ti JUG</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/chtijug/status/976 521 660 634 484 736" class="date">21 mars 2018 à 19:11:21</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Quoi?
+<br/>
+T'as pas @vuejs @posva au @chtijug hier soir chez @PictimeGroupe ?
+<br/>
+Pas de panique!
+<br/>
+C'est en "replay" par ici: https://t.co/Xs0AXQcfz0</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+</div>
+<br/>
+&#160;
+</p>
+<p>
+</div>
+<br/>
+<h1 id="truevuejs_vite_fait" class="sect0">Vuejs vite fait</h1>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Donc, Vuejs ! Ou plutôt l'écosystème de Vuejs. Notre speaker <a href="https://twitter.com/posva">posva</a> n’est pas un amateur, parce qu’il fait partie de la core team vue, et s’occupe d’un certain nombre de librairies vue.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Ecosystème ? oui, parce qu’effectivement, vue-router, vuex, vue-devtools et autres vue-test-utils sont des outils assez pratiques pour travailler autour de Vuejs. Il faut noter que ces composants additionnels sont développés par l'équipe Vuejs, ce qui facilite la communication entre les développeurs, et fournit aussi une sacrée visibilité à ces "extensions".
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Créer une application Vuejs simple, c’est facile. Regardez cet exemple de Hello World :
+</p>
+<p>
+</div>
+<br/>
+<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">&lt;!DOCTYPE html&gt;
+<br/>
+&lt;html lang="en"&gt;
+<br/>
+&lt;meta&gt;
+<br/>
+&lt;meta charset="UTF-8"&gt;
+<br/>
+&lt;title&gt;Hello World in Vue.js&lt;/title&gt;
+<br/>
+&lt;/meta&gt;
+</p>
+<p>
+&lt;body&gt;
+</p>
+<p>
+&lt;div id="hello-world-app"&gt;
+<br/>
+&lt;h1&gt;{{ msg }}&lt;/h1&gt;
+<br/>
+&lt;/div&gt;
+</p>
+<p>
+&lt;script
+<br/>
+src="//cdnjs.cloudflare.com/ajax/libs/vue/2.1.6/vue.min.js"&gt;
+<br/>
+&lt;/script&gt;
+</p>
+<p>
+&lt;script&gt;
+<br/>
+new Vue({
+<br/>
+el: "#hello-world-app",
+<br/>
+data() {
+<br/>
+return {
+<br/>
+msg: "Hello World!"
+<br/>
+}
+<br/>
+}
+<br/>
+});
+<br/>
+&lt;/script&gt;
+</p>
+<p>
+&lt;/body&gt;
+<br/>
+&lt;/html&gt;</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre><div class="paragraph data-line-15">
+</p>
+<p>
+Et ça permet tout de suite de montrer le lien entre le template et le modèle de données : le contenu de <code>{{message}}</code> sera automatiquement remplacé par sa valeur.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+Ca rend Vuejs assez abordable, puisqu’on peut commencer par un simple composant et l'étendre assez rapidement (contrairement à React et Angular, il semble).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-19">
+</p>
+<p>
+Un autre intérêt de Vuejs, c’est le format .vue, où les différents éléments d’un composant sont déclarés dans le même fichier. C’est <strong>très</strong> dérangeant pour quelqu’un qui a fait du MVC avec un modèle, une vue et un contrôleur séparé. Mais ça plaît à certains. Et je dois bien reconnaître qu’il est assez confortable d’avoir les aspects d’un composant réunis au même endroit, même si j’aurais préféré avoir trois fichiers séparés dans le même dossier (par exemple).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Parce qu'évidement, Vuejs fait du MVC. Ce MVC relie donc d’un côté le DOM et de l’autre le modèle Javascript à travers des event listeners et un <a href="https://tonyfreed.blog/what-is-virtual-dom-c0ec6d6a925c">virtual DOM</a>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Dans le document HTML, enfin dans le fragment HTML contenu dans un composant Vuejs, on utilise des directives comme <code>v-if</code> qui commencent toutes par <code>v-</code>. Vuejs supporte aussi les templates JSX. Mais franchement, utiliser des du JSX, c’est un peu comme faire une JSP à l’ancienne : c’est à peu près la garantie de perdre la séparation entre la vue et le modèle, et donc de rendre le code bien pourri.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+Le meilleur morceau de Vuejs, c’est évidement le binding : quand on change une donnée, elle est immédiatement mise à jour dans toutes les vues qui l’affichent.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-27">
+</p>
+<p>
+Et c’est tout pour le "comment ça marche".
+</p>
+<p>
+</div>
+<br/>
+<h1 id="truel_cosyst_me" class="sect0">L'écosystème</h1>
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Voyons maintenant pourquoi Vuejs est aussi adaptable à l'échelle de l’application, en partant d’un simple rendu déclaratif, puis en intégrant les composants, le routage, la gestion d'état, le système de build. Évidement, tous ces éléments sont optionnels.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect1 data-line-33">
+<br/>
+<h2 id="trued_marrer_un_projet">Démarrer un projet</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+Donc, pour commencer, la CLI, ou <a href="https://poi.js.org/#/">POI</a>, c’est bien, parce que ça permet de démarrer facilement un projet sans s’embêter avec la configuration Webpack (et ça, c’est bien).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-36">
+<br/>
+<h2 id="truele_routeur">Le routeur</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+Ensuite, quand vous avez une barre de navigation qui change le contenu de la page, vous êtes tenté de mettre une batterie de if. Et c’est là que le routeur prend son intérêt, puisqu’il suffira de déclarer les différents composants, et donner à ces composants le nom d’une variable qui sera alimentée par un binding. Et là, pouf, ça marchera. Et en bonus, on peut changer l’url (pour peu qu’on accepte de ne pas supporter IE 9). La méthode présentée semble un peu …​ astucieuse, mais c’est assez cool de pouvoir avoir une URL qui suit l'état de la page web.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-39">
+</p>
+<p>
+Ca devient un peu moins drôle quand on aborde les <a href="https://vuejs.org/v2/guide/events.html#Event-Modifiers">modifieurs</a>, comme <code>.prevent</code>. Comme on peut les ajouter derrière un événement, ça change son sens d’une façon …​ qui me satisfait assez peu intellectuellement.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-41">
+<br/>
+<h2 id="trueg_rer_l_tat">Gérer l'état</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+Comme les composants n’ont que des relations hiérarchiques, pour communiquer des informations entre composants, ça n’est pas toujours trivial : le parent peut modifier l'état d’un enfant, mais l’enfant doit envoyer des événements auxquels le parent doit s’abonner. Et comme Vuex est assez verbeux (une fonction par mutation d'état), on peut essayer d'éviter ça de deux façons
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-44">
+<br/>
+<h3 id="true_root">$root</h3>
+<br/>
+<div class="paragraph data-line-45">
+</p>
+<p>
+C’est le composant racine, instancié à partir du moment où on a fait <code>new Vue(....)</code> C’est clairement l’utilisation d’une variable globale pour stocker l'état. C’est sale. Avec une ou deux astuces, on peut simplifier ça, mais franchement, je trouve ça sale …​ Et franchement inmaintenable.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-47">
+</p>
+<p>
+Par contre, ça peut rendre service pour les fonctions "globales", justement, comme par exemple l’authentification : en définissant une fonction login globale, on peut facilement authentifier l’utilisateur depuis n’importe quelle hiérarchie de composant (mais en y réfléchissant, c’est assez peu utile).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-49">
+<br/>
+<h3 id="truepartager_un_tat">Partager un état</h3>
+<br/>
+<div class="paragraph data-line-50">
+</p>
+<p>
+Là, ça parlera au javaiste en moi : si je crée un objet, que je passe à la construction d’un conteneur (et que le conteneur mémorise comme <code>data</code>), il sera partagé entre tous les conteneurs qui utilisent cet objet. Et ça fera un chouette état partagé.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-52">
+<br/>
+<h3 id="truevuex">Vuex</h3>
+<br/>
+<div class="paragraph data-line-53">
+</p>
+<p>
+C’est quoi <a href="https://vuex.vuejs.org/fr/">Vuex</a> ? ou plutôt qu’est-ce que ça offre ? Avant tout, comme Vuex enregistre tous les changements de l'état global, ça permet de voyager dans le temps …​ et par exemple de rejouer les bugs de l’utilisateur (classe !). Du copu, quand changer ? Par exemple, quand on a déja 5 morceaux du modèle codant l'état, et qu’on en ajoute encore.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect3 data-line-55">
+<br/>
+<h4 id="truemigrer_vuex">Migrer à Vuex</h4>
+<br/>
+<div class="paragraph data-line-56">
+</p>
+<p>
+D’abord, il faut créer le <code>Store</code>. Ensuite il faut créer les mutations. Et les actions. Et il faudra injecter le store dans l’instance root. Avant de tout refactorer pour remplacer le <code>$root</code> par <code>$store</code>.Ca a l’air bien compliqué, en fait.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<h1 id="truecommencer_vuejs" class="sect0">Commencer Vuejs</h1>
+<br/>
+<div class="paragraph data-line-59">
+</p>
+<p>
+Le plus simple, c’est évidement de lire <a href="https://vuejs.org/v2/guide/">le guide</a> (qui est effectivement bien fichu). Ensuite, utilisez vue-devtools, et les fichiers <code>.vue</code>. Si vous utilisez VSCode, <a href="https://marketplace.visualstudio.com/items?itemName=octref.vetur">vetur</a> est bien pratique (anecdote marrante, le présentateur nous parle d’emacs, de vi, d’Atom, …​ et c’est tout !).
+<br/>
+<h1>Conclusion</h1>
+<br/>
+J'ai trouvé ce tour d'horizon du monde Vue assez rapide. Pour tout dire, j'aurais vraiment apprécié de voir quelques exemples en live-coding (le cas le plus typique étant Vuex, dont je ne comprend pas l'intérêt).
+</p>
+<p>
+Et même si je l'ai déja dit, je vais me répéter.
+</p>
+<p>
+Cette présentation n'a malheureusement pas changé l'opinion que j'ai de Vuejs. C'est chouette, et évidement bien mieux que les saloperies que sont React ou Angular. Malheureusement, ça n'est pas au niveau de <a href="https://ractive.js.org/">Ractivejs</a>, que je continue à croire être le meilleur framework JS existant. Pour tout dire, et c'est quand même une interrogation majeure, je ne comprend pas pourquoi Vuejs a percé et pas Ractivejs, puisqu'ils offrent globalement les mêmes fonctionnalités, avec à mon sens une plus grand expressivité de Ractivejs.
+</p>
+<p>
+</div>
+</p>
+++++

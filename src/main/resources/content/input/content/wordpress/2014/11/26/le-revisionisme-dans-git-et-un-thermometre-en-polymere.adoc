@@ -1,0 +1,204 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le révisionisme dans Git, et un thermomètre en polymère.
+:jbake-tags: arduino,chtijug,conférence,git,java,polymer,_mois_nov.,_année_2014
+:jbake-date: 2014-11-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/11/26/le-revisionisme-dans-git-et-un-thermometre-en-polymere.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/11/26/le-revisionisme-dans-git-et-un-thermometre-en-polymere/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ThibaudVibes" class="screenName"><img src="http://pbs.twimg.com/profile_images/702616851805822976/SBweXzU-_mini.jpg" alt="profile of DevOps Director chez Mediatech-cx, développeur #JAVA avant tout.
+</p>
+<p>
+Brasseur amateur."/>ThibaudVibes</a>
+<br/>
+<span class="name">Thibaud VIBES</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ThibaudVibes/status/537 290 756 600 651 777" class="date">25 nov. 2014 à 18:04:33</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@riduidel tu viens toujours au chtijug? Je suis en bas</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Oui, j'y étais.
+</p>
+<p>
+Hier soir, j'ai été assister à <a href="http://chtijug.org/soiree-chtools-in-action-git-iot-et-web-component/">une chouette session du chtijug sur trois sujets</a>, traités assez rapidement ...
+<br/>
+<h3>Avoir de beaux historiques dans git</h3>
+<br/>
+Cyril et Hubert nous on fait un duo à base de <a href="http://www.pierrefeuilleciseaux.fr/pierre-papier-ciseaux-lezard-spock/">pierre-feuille-papier-ciseaux-lézard-spock</a> sur le thème des historiques dans git. C'est apparement une session qu'ils avaient déja présentée à Devoxx, puisqu'ils sont déja sur <a href="https://www.parleys.com/play/535a2846e4b03397a8eee892/chapter0/about">Parleys</a>. Et tant mieux, parce qu'on a eu droit du coup à une présentation bien rôdée.
+</p>
+<p>
+Ils nous y ont donc parlé de l'intérêt d'avoir un historique git beau et propre, sans commits avec des messages comme (je regarde dans mon projet ...)
+<br/>
+<ul>
+<br/>
+<li>"WTF ? was lacking ?" (ça c'est moi)</li>
+<br/>
+<li>"" (oui, rien, ça arrive bien trop souvent)</li>
+<br/>
+<li>"modif Nicolas afin de prendre en compte les interfaces héritées" (ça c'est quand je commite depuis le poste d'un collègue)</li>
+<br/>
+<li>"PB-0005104,PB-0004951,PB-0005108,PB-0005006,PB-0004981,PB-0005173,PB-0005112 ,PB-0005037,PB-0005012,PB-0005164,PB-0005143,PB-0005010,PB-0004995,PB-0004955,PB-0004956" (le pire message du monde : pleind e bugs résolus sur plein de fichiers différents)</li>
+<br/>
+</ul>
+<br/>
+Et donc, pour éviter ça, Hubert nous propose d'adopter le format Angular/Karma/...
+</p>
+<p>
+Le format proposé n'est pas idiot, même si la description n'inclue que de façon très sommaire les liens vers les bugtracker (github issues en particulier a déja des outils bien pratiques, qu'il aurait été bon de mentionner).
+</p>
+<p>
+Je passe par contre sur les lignes de commandes insupportables de git (surtout que <a href="http://blogs.atlassian.com/2014/06/interactive-rebase-sourcetree/">SourceTree fournit le même workflow</a> sans en passer par vi).
+</p>
+<p>
+Cela dit, une question n'est pas posée : dans quel mesure ce travail est-il réellement utile par rapport à la mise en lien avec un bugtracker ? Autrement dit, quelle est la valeur ajoutée de ce travail d'esthétique de l'historique ?
+</p>
+<p>
+Tiens, et une autre qui em vient comme ça : dans quelle mesure on essaye de faire de git une espèce d'<a title="La prochaine frontière ? l’ALM" href="http://riduidel.wordpress.com/2013/10/24/la-prochaine-frontiere-lalm/">ALM </a>du pauvre quand des outils comme Tuleap existent ?
+<br/>
+<h3>Un thermomètre dans ton web</h3>
+<br/>
+Très chouette démonstration liant de l'Arduino, du Java8 et du Simple HTTP Server. Tout le code est sur <a href="https://github.com/mathieubolla/thermoduino">Github</a>, mais honnêtement, le code, là-dedans, c'est pas grand chose. Je cite :
+</p>
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/ClementDevos" class="screenName"><img src="http://pbs.twimg.com/profile_images/1085874552830332929/Hc5_fEy2_mini.jpg" alt="profile of JS Developer @WeLoveDevs, France.
+<br/>
+Likes 🍺,🎧 and 🚙 but also 🚴‍♂️"/>ClementDevos</a>
+<br/>
+<span class="name">Clément Devos 👪</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/ClementDevos/status/537 312 418 930 892 801" class="date">25 nov. 2014 à 19:30:38</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Blagues salaces et effet démo, c'est chaud ce soir au @chtijug #thermoduino http://t.co/2tGu3X7mJy</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/B3TqypmIIAE2HXs.jpg" alt="537 312 411 444 060 161"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+</p>
+<p>
+Et encore, il manque le slide avec la tronche du chimpanzé .... et le fameux étalonage du thermomètre (qui m'a en fait très peu surpris, puisque comme l'a justement dit Mathieu, c'est réellement la façon professionnelle d'étalonner).
+</p>
+<p>
+Une session à voir pour le style
+<br/>
+<h3>Des superhéros polymérisés</h3>
+<br/>
+Peut-être la session la plus proche de ce que je fais en ce moment avec <a href="http://www.ractivejs.org/">Ractive</a>. Il s'agissait en gros de produire un web-component avec <a href="https://www.polymer-project.org/">polymer </a>pour afficher de jolies fiches de super-héros.
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/537318858789756928
+<br/>
+</div>
+</p>
+<p>
+Bon, par contre, il n'y a pas plus de version internet que pour le thermomètre, puisqu'il s'agissait là aussi de pur livecoding (ou plutôt, live-template-using, puisque Julien avait préparé des templates par dizaines pour que le ryhtme de la démo soit tenu, une très bonne idée).
+</p>
+<p>
+Je retiens deux ou trois choses
+<br/>
+<ul>
+<br/>
+<li>Polymer est vraiment très très proche de <a href="http://www.ractivejs.org/">Ractive</a> : des templates utilisant Mustache, du two-way binding facile avec le modèle, et une grande simplicité du code</li>
+<br/>
+<li>Le modèle des composants déja existants dans Flex est loin d'être mort. Thibaud parlait de JSF, mais ça remonte en fait bien plus loin ... je dirais ... <a href="http://www.wikiwand.com/en/Motif_%28software%29">Motif</a> (quoi que je n'arrive pas à me souvenir si les composants étaient définis de façon duale par une construction statique + du code pour les événements).</li>
+<br/>
+<li>Apparement, la spec derrière Polymer évolue encore assez régulièrement (la petite anecdote de Romain sur les trois réécritures de leur projet depuis Devoxx 2014 - donc 6 mois - m'a fait un peu flipper). Donc c'est pas encore complètement prêt à l'usage. C'est en revanche clairement la directionv ers laquelle converge le web.</li>
+<br/>
+</ul>
+<br/>
+<h3>Je suis un people</h3>
+<br/>
+Et c'est qui la tête d'oeuf au premier rang ?
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/537303607977459713
+<br/>
+</div>
+</p>
+<p>
+Ben ouais.
+</p>
+<p>
+Bon, par contre, je pense que je tenterai l'after la prochaine fois, parce que le chtijug, c'est aussi ça
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/537357891515449344
+<br/>
+</div>
+</p>
+++++

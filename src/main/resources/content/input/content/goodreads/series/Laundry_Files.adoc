@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Laundry Files
+:jbake-tags: serie
+:jbake-date: 2009-06-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Laundry_Files.adoc
+:jbake-source: https://www.goodreads.com/series/50764
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782253123682.html[Le Bureau des atrocités (Laundry Files #1)]
+* link:../books/9782253087847.html[Jennifer Morgue]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A lot of people have been moving to the Mac lately, so I thought I'd jot down a few notes about my experience over the last four years or so. The motives for anyone switching are pretty much irrelevant, and will not be discussed here - discussing relative
+:jbake-tags: documentation,tutorial,macosx,_mois_nov.,_année_2005
+:jbake-date: 2005-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1131981631000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthe.taoofmac.com%2Fspace%2FHOWTO%2FSwitch%2520To%2520The%2520Mac&searchtags=documentation+tutorial+macosx+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://the.taoofmac.com/space/HOWTO/Switch%20To%20The%20Mac[A lot of people have been moving to the Mac lately, so I thought I'd jot down a few notes about my experience over the last four years or so. The motives for anyone switching are pretty much irrelevant, and will not be discussed here - discussing relative]
+
+

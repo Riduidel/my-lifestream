@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Warzone 2100 Resurrection
+:jbake-tags: software,freeware,windows,linux,jeu,multiplayer,stratégie,open-source,_mois_nov.,_année_2008
+:jbake-date: 2008-11-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1227618070000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwz2100.net%2F&searchtags=software+freeware+windows+linux+jeu+multiplayer+strat%C3%A9gie+open-source+_mois_nov.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://wz2100.net/[Warzone 2100 Resurrection]
+
+Un remake de Warzone 2100, quid evrait pouvoir m'occuper un moment (voir même un sacré moment).

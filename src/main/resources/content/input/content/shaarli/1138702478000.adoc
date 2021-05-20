@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Behaviour : Using CSS selectors to apply Javascript behaviours
+:jbake-tags: javascript,programming,css,dynamic,library,software,ajax,_mois_janv.,_année_2006
+:jbake-date: 2006-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1138702478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbennolan.com%2Fbehaviour%2F&searchtags=javascript+programming+css+dynamic+library+software+ajax+_mois_janv.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://bennolan.com/behaviour/[Behaviour : Using CSS selectors to apply Javascript behaviours]
+
+

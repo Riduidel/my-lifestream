@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alchemy - A Rust GUI Framework
+:jbake-tags: rust,gui,framework,open-source,_mois_mars,_année_2020
+:jbake-date: 2020-03-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1584694478000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Falchemy.rs%2F&searchtags=rust+gui+framework+open-source+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://alchemy.rs/[Alchemy - A Rust GUI Framework]
+
+Hé mais ça l'air intéressant ça !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Scansion Documentation
+:jbake-tags: xmpp,client,test,scénario,software,open-source,_mois_juin,_année_2019
+:jbake-date: 2019-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1559746158000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmatthewwild.co.uk%2Fprojects%2Fscansion%2F&searchtags=xmpp+client+test+sc%C3%A9nario+software+open-source+_mois_juin+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://matthewwild.co.uk/projects/scansion/[Scansion Documentation]
+
+Un drôle d'outil de test XMPP. L'idée est chouette, mais le mélange fonctionnel/XML est ... difficilement supportable à mes yeux.

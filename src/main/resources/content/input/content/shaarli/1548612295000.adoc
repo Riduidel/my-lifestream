@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: matthewp/if-else
+:jbake-tags: web,javascript,template,_mois_janv.,_année_2019
+:jbake-date: 2019-01-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1548612295000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmatthewp%2Fif-else&searchtags=web+javascript+template+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/matthewp/if-else[matthewp/if-else]
+
+C'est très plaisant, ça !

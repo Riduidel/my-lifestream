@@ -1,0 +1,55 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'immutabilité est un effet de bord de la programmation fonctionnelle
+:jbake-tags: troll,_mois_mars,_année_2018
+:jbake-date: 2018-03-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/03/25/limmutabilite-est-un-effet-de-bord-de-la-programmation-fonctionnelle.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/03/25/limmutabilite-est-un-effet-de-bord-de-la-programmation-fonctionnelle/
+:jbake-style: wordpress
+
+++++
+<p>
+Le titre fait un peu tarte à la crème, mais vous allez voir, le raisonnement, s'il risque de heurter l'esprit des mathématiciens, n'en détient pas moins un certain intérêt.
+</p>
+<p>
+Vous connaissez évidement la <a href="https://fr.wikipedia.org/wiki/Programmation_fonctionnelle">programmation fonctionnelle</a> ... qu'on réduit malheureusement à flat/map/reduce (mais la page wikipedia montre bien que le domaine est plus vaste). Quant à l'immutabilité, c'est le paradigme, notamment poussé par Erlang, il me semble, qui dit que les variables d'un programme doivent toutes être immutable (c'est-à-dire impossibles à modifier). C'est très chouette ... dans certains cas.
+</p>
+<p>
+L'un des aspects clés de la programmation fonctionnelle, c'est qu'on peut décrire un programme informatique comme une fonction, c'est-à-dire <code>y = f(x)</code>, avec
+<br/>
+<ul>
+<br/>
+<li><code>x</code> qui est l'espèce de structure magique des valeurs d'entrée, laquelle est évidement multidimensionnelle, et où certaines valeurs sont à leur tour multidimensionnelles.</li>
+<br/>
+<li><code>f</code> qui est notre programme</li>
+<br/>
+<li><code>y</code> qui est la structure magique des valeurs de sortie, laquelle n'est pas décrite dans le même ensemble de dimensions que <code>x</code>.</li>
+<br/>
+</ul>
+<br/>
+Si votre fonction <code>f</code> est pure, tout va bien : <code>x</code> est bien l'ensemble des valeurs d'entrée, et <code>y</code> est bien l'ensemble des valeurs de sortie. Les choses se gâtent si, par exemple, vous voulez ... lire depuis un périphérique de stockage ou d'entrée ... ou écrire sur un tel périphérique. C'est ce qu'on appelle des effets de bords : ils sont invisibles dans la déclaration de la fonction. Et franchement, sans ces périphériques, votre fonction est joliment pure, mais surtout bien cantonnée dans le monde des idées. Interagir avec le monde réel nécessite donc de rendre votre fonction impure. Et c'est mal.
+</p>
+<p>
+Maintenant que les termes sont posés, relisons l'énoncé au ralenti.
+</p>
+<p>
+L'immutabilité est un effet de bord de la programmation fonctionnelle.
+</p>
+<p>
+C'est louche, hein.
+</p>
+<p>
+Ce que je veux dire par là, c'est que les gens qui font de la programmation fonctionnelle pensent que l'immutabilité est importante, voire même nécessaire, alors qu'en fait elle découle de la définition pseudo-mathématique d'un programme en tant que fonction. Regardez, dans <code>y = f(x)</code>, est-ce que <code>x</code> ou <code>y</code> changent ? Non. Du coup, ils sont immuables. Quel effort ai-je fait pour obtenir ce résultat ? Aucun. Et je vais vous affirmer que c'est absolument indispensable ...
+</p>
+<p>
+Amusant.
+</p>
+<p>
+D'une manière anecdotique, dans la programmation objet, l'immutabilité est tout autant possible, et tout aussi cool. Le principal inconvénient est que les langages favorisant le style objet n'ont pour l'instant pas encore compris que rendre les objets immuables par défaut pouvait être une bonne idée. Qui plus est, la plupart des outils actuels (ORM &#38; co) n'ont pas vraiment cette idée en tête.
+</p>
+<p>
+Evidement, ça sonne un peu hérétique comme vision. Du coup, si vous vous sentez attaqué, n'hésitez pas à répondre ;-)
+</p>
+++++

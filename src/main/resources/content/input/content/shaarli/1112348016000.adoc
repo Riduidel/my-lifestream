@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CSS Rounded Corners example - redmelon.net
+:jbake-tags: web,css,langage,html,tutorial,expérience,design,usability,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112348016000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.redmelon.net%2Ftstme%2F4corners%2F&searchtags=web+css+langage+html+tutorial+exp%C3%A9rience+design+usability+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.redmelon.net/tstme/4corners/[CSS Rounded Corners example - redmelon.net]
+
+

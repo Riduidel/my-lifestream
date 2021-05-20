@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hadi Hariri sur Twitter : "Git is not a success story. Git is a failure as a system with a crap user experience that forces you to learn more about the tool you're using that about getting your work done." / Twitter
+:jbake-tags: citation,git,critique,interface,_mois_oct.,_année_2020
+:jbake-date: 2020-10-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1602505689000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fhhariri%2Fstatus%2F1314178925610885120&searchtags=citation+git+critique+interface+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/hhariri/status/1314178925610885120[Hadi Hariri sur Twitter : "Git is not a success story. Git is a failure as a system with a crap user experience that forces you to learn more about the tool you're using that about getting your work done." / Twitter]
+
+Malheureusement, je suis d'accord. L'interface de git est absolument infâme, même en utilisant un outil alternatif. C'est la plus parfaite expression de l'élitisme qui pourrit notre métier.

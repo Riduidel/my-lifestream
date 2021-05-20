@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My favorite rust function
+:jbake-tags: rust,mémoire,management,_mois_oct.,_année_2019
+:jbake-date: 2019-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1571209918000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.jabid.in%2F2019%2F10%2F11%2Fdrop.html&searchtags=rust+m%C3%A9moire+management+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.jabid.in/2019/10/11/drop.html[My favorite rust function]
+
+Une explication sympa du mode de gestion de mémoire de Rust à travers l'énigmatique fonction drop(...)

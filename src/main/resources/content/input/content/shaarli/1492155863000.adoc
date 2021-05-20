@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Sync your Mastodon back to Twitter – Tim Perry – Medium
+:jbake-tags: web,rss,mastodon,twitter,_mois_avr.,_année_2017
+:jbake-date: 2017-04-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1492155863000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40pimterry%2Fsync-your-mastodon-back-to-twitter-3c72f2bc8626&searchtags=web+rss+mastodon+twitter+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://medium.com/@pimterry/sync-your-mastodon-back-to-twitter-3c72f2bc8626[Sync your Mastodon back to Twitter – Tim Perry – Medium]
+
+Un bon exemple d'applet IFTTT pour envoyer mes pouets sur twitter.

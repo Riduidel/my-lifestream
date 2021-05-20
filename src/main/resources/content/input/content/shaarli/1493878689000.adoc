@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: CG puzzles stats
+:jbake-tags: codingame,programming,jeu,_mois_mai,_année_2017
+:jbake-date: 2017-05-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1493878689000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcgstats.crocoware.com%2F%3Flevel%3Dmedium%26pid%3D1539245&searchtags=codingame+programming+jeu+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://cgstats.crocoware.com/?level=medium&pid=1539245[CG puzzles stats]
+
+Une chouette page permettant de lister tous les puzzles solo déjà résolus ... Il m'en manque un paquet !

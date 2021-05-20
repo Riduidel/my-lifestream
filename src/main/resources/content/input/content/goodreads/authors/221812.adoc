@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Kenichi Sonoda
+:jbake-tags: author
+:jbake-date: 2010-07-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/221812.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/m_200x266-d279b33f8eec0f27b7272477f09806be.png
+:jbake-source: https://www.goodreads.com/author/show/221812
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9781593077488.html[Gunsmith Cats: Volume 1]
+* link:../books/9781593077686.html[Gunsmith Cats Omnibus, Volume 2]

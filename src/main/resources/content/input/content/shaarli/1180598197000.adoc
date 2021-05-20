@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ruby FTP Examples Source Code
+:jbake-tags: ruby,ftp,tutorial,_mois_mai,_année_2007
+:jbake-date: 2007-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1180598197000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.example-code.com%2Fruby%2Frubyftp.asp&searchtags=ruby+ftp+tutorial+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.example-code.com/ruby/rubyftp.asp[Ruby FTP Examples Source Code]
+
+Pour une extension future du bliki, je vais avoir besoin de faire ça, ou alors de copier via des commandes systèmes mes fichiers .yaml sur un serveur distant.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les influences nazies du management moderne
+:jbake-tags: management,travail,histoire,_mois_janv.,_année_2020
+:jbake-date: 2020-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1578565091000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.franceculture.fr%2Femissions%2Fla-grande-table-idees%2Fdu-crime-nazi-au-management-moderne-une-histoire-commune&searchtags=management+travail+histoire+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.franceculture.fr/emissions/la-grande-table-idees/du-crime-nazi-au-management-moderne-une-histoire-commune[Les influences nazies du management moderne]
+
+La proximité affichée dans ce court résumé me paraît au minimum troublante. (même si le concept même de l'émission franchit le point Godwin)

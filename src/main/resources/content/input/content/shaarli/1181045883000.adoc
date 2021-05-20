@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SourceForge.net: ZoneOS ZoneScreen
+:jbake-tags: software,freeware,réseau,open-source,windows,dual-screen,vnc,_mois_juin,_année_2007
+:jbake-date: 2007-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1181045883000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fzonescreen%2F&searchtags=software+freeware+r%C3%A9seau+open-source+windows+dual-screen+vnc+_mois_juin+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://sourceforge.net/projects/zonescreen/[SourceForge.net: ZoneOS ZoneScreen]
+
+Un concurrent gratuit et open-source de Maxivista, c'est forcément une excellente idée. Dommage, cependant, que cette application ait des latences aussi énormes ! A mon avis, le développeur devrait relire un peu le code de TightVNC, par exemple, pour

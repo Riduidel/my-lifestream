@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: filters.css - CSS only library to apply color filters.
+:jbake-tags: css,library,image,effets,open-source,_mois_sept.,_année_2020
+:jbake-date: 2020-09-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1600338789000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fbansal.io%2Ffilters-css&searchtags=css+library+image+effets+open-source+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://bansal.io/filters-css[filters.css - CSS only library to apply color filters.]
+
+Oh c'est vraiment une très chouette idée : plutôt que de s'embêter à faire plein de variations de la même image, il vaut mieux plutôt laisser le navigateur s'en occuper.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: socat. I learned about socat a few years ago… | by Cindy Sridharan | Medium
+:jbake-tags: réseau,sécurité,software,command-line,transformation,_mois_mars,_année_2021
+:jbake-date: 2021-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1616865666000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcopyconstruct.medium.com%2Fsocat-29453e9fc8a6&searchtags=r%C3%A9seau+s%C3%A9curit%C3%A9+software+command-line+transformation+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://copyconstruct.medium.com/socat-29453e9fc8a6[socat. I learned about socat a few years ago… | by Cindy Sridharan | Medium]
+
+Je connais un sécuman fan de socat qui trouvera sans doute cet article très intéressant. Pour ma part, je me garde ça sous le coude (parce que socat semble malgré tout un truc de malade à avoir dans sa boîte à outils)

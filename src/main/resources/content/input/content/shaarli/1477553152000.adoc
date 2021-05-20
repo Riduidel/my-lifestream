@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Search Risk - How Google Almost Killed ProtonMail - ProtonMail Blog
+:jbake-tags: concurrence,économie,web,google,_mois_oct.,_année_2016
+:jbake-date: 2016-10-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1477553152000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fprotonmail.com%2Fblog%2Fsearch-risk-google%2F&searchtags=concurrence+%C3%A9conomie+web+google+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://protonmail.com/blog/search-risk-google/[Search Risk - How Google Almost Killed ProtonMail - ProtonMail Blog]
+
+Google est une entreprise, et tenter de marcher sur ses plate-bandes est ... risqué

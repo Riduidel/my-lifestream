@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Untitled - 280 Slides
+:jbake-tags: ajax,javascript,macosx,online,présentation,productivité,slideshow,_mois_juin,_année_2008
+:jbake-date: 2008-06-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1212743592000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F280slides.com%2FEditor%2F&searchtags=ajax+javascript+macosx+online+pr%C3%A9sentation+productivit%C3%A9+slideshow+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://280slides.com/Editor/[Untitled - 280 Slides]
+
+Un impressionant gadget ajaxisé pour créer des présentations en ligne

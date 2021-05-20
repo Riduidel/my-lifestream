@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Datomic: The most innovative DB you've never heard of (August Lilleaas' blog)
+:jbake-tags: software,programming,database,_mois_janv.,_année_2016
+:jbake-date: 2016-01-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1453392213000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Faugustl.com%2Fblog%2F2016%2Fdatomic_the_most_innovative_db_youve_never_heard_of%2F&searchtags=software+programming+database+_mois_janv.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://augustl.com/blog/2016/datomic_the_most_innovative_db_youve_never_heard_of/[Datomic: The most innovative DB you've never heard of (August Lilleaas' blog)]
+
+Très intéressant. Reste à vérifier si ces promesses sont vérifiées.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mitigations landing for new class of timing attack | Mozilla Security Blog
+:jbake-tags: web,sécurité,_mois_janv.,_année_2018
+:jbake-date: 2018-01-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1515053699000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.mozilla.org%2Fsecurity%2F2018%2F01%2F03%2Fmitigations-landing-new-class-timing-attack%2F&searchtags=web+s%C3%A9curit%C3%A9+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/[Mitigations landing for new class of timing attack | Mozilla Security Blog]
+
+AH LA VACHE ! Les attaques basées sur Spectre/Meltdown ne sont pas seulement utilisables entre VM, mais aussi entre pages web. C'est très très très moche. Il est temps de devenir (un peu plus) paranoïaque

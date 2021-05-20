@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - luisfarzati/localdots: HTTPS domains for localhost. 🏠
+:jbake-tags: docker,https,certificat,générateur,open-source,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577897255000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fluisfarzati%2Flocaldots&searchtags=docker+https+certificat+g%C3%A9n%C3%A9rateur+open-source+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/luisfarzati/localdots[GitHub - luisfarzati/localdots: HTTPS domains for localhost. 🏠]
+
+Ah, c'est une solution bien plus propre que celle que j'utilise actuellement ...

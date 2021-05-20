@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robocode Home
+:jbake-tags: jeu,java,programming,open-source,freeware,_mois_mars,_année_2008
+:jbake-date: 2008-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1206541320000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frobocode.sourceforge.net%2F&searchtags=jeu+java+programming+open-source+freeware+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://robocode.sourceforge.net/[Robocode Home]
+
+Un jeu de pilotage de tanks robots, assez sympa, complètement Java, mais pas trop compliqué au début.

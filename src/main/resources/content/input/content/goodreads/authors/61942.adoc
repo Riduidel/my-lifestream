@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Edmond Hamilton
+:jbake-tags: author
+:jbake-date: 2003-08-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/61942.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1338135286p5/61942.jpg
+:jbake-source: https://www.goodreads.com/author/show/61942
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070428090.html[Les Loups des étoiles]

@@ -1,0 +1,20 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Greg Bear
+:jbake-tags: author
+:jbake-date: 2002-04-12
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/16024.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1223822211p5/16024.jpg
+:jbake-source: https://www.goodreads.com/author/show/16024
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070316434.html[La Musique du sang]
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]
+* link:../books/9782221071595.html[La Reine des Anges]
+* link:../books/9782221099360.html[Les Enfants de Darwin]
+* link:../books/9782253068235.html[Oblique]
+* link:../books/9782253071624.html[Éon]
+* link:../books/9782253071648.html[Éternité]
+* link:../books/9782253072348.html[Héritage]

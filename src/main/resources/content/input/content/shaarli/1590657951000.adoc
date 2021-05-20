@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: danluu.com/
+:jbake-tags: blog,informatique,science,mathématiques,statistiques,_mois_mai,_année_2020
+:jbake-date: 2020-05-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1590657951000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdanluu.com%2F&searchtags=blog+informatique+science+math%C3%A9matiques+statistiques+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://danluu.com/[danluu.com/]
+
+Le blog est franchement minimaliste, et c'est cool, parce que vu la densité du contenu, il vaut mieux une mise en forme claire. Tous els articles suivent le même schéma, Dan plonge tête la première dans un sujet, et n'en ressort que quand c'est clair pour lui. Et pour ça, il va parfois très très loin.

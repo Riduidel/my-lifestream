@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MoonEdit
+:jbake-tags: software,freeware,linux,windows,programming,collaborative,editor,_mois_mars,_année_2005
+:jbake-date: 2005-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1111668594000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.moonedit.com%2F&searchtags=software+freeware+linux+windows+programming+collaborative+editor+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.moonedit.com/[MoonEdit]
+
+Tom Dobrowolski's multi-platform collaborative text editor.

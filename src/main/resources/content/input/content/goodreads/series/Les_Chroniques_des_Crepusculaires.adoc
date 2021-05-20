@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Chroniques des Crépusculaires
+:jbake-tags: serie
+:jbake-date: 2003-09-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Les_Chroniques_des_Crepusculaires.adoc
+:jbake-source: https://www.goodreads.com/series/51599
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290328279.html[Abyme (Abyme #1-2)]

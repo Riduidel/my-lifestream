@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pi to 1,000,000 places
+:jbake-tags: fun,mathématiques,science,bizarre,_mois_déc.,_année_2005
+:jbake-date: 2005-12-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1134048570000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2F3.141592653589793238462643383279502884197169399375105820974944592.com%2F&searchtags=fun+math%C3%A9matiques+science+bizarre+_mois_d%C3%A9c.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://3.141592653589793238462643383279502884197169399375105820974944592.com/[Pi to 1,000,000 places]
+
+

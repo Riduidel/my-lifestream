@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NowDoThis
+:jbake-tags: jabber,gtd,inspiration,productivité,todo,tool,web,simple,_mois_sept.,_année_2010
+:jbake-date: 2010-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1285251288000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnowdothis.com%2F&searchtags=jabber+gtd+inspiration+productivit%C3%A9+todo+tool+web+simple+_mois_sept.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://nowdothis.com/[NowDoThis]
+
+Une façon vraiment sympa de présenter la tâche en cours, et les suivantes

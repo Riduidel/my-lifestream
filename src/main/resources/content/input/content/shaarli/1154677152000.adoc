@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Practical UML⊘: A Hands-On Introduction for Developers
+:jbake-tags: design,documentation,tutorial,uml,langage,_mois_août,_année_2006
+:jbake-date: 2006-08-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1154677152000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbdn.borland.com%2Farticle%2F0%2C1410%2C31863%2C00.html&searchtags=design+documentation+tutorial+uml+langage+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://bdn.borland.com/article/0,1410,31863,00.html[Practical UML⊘: A Hands-On Introduction for Developers]
+
+Une introduction à UML pour les développeurs

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: lauthieb/awesome-cfp: A collection of awesome Call For Papers to never miss to speak anymore 🗣
+:jbake-tags: conférence,france,_mois_juin,_année_2018
+:jbake-date: 2018-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1530275120000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Flauthieb%2Fawesome-cfp%2F&searchtags=conf%C3%A9rence+france+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/lauthieb/awesome-cfp/[lauthieb/awesome-cfp: A collection of awesome Call For Papers to never miss to speak anymore 🗣]
+
+Tu veux participer à une conf mais tu sais pas quand tu peux t'inscrire ? Ce site est pour toi (et pour moi)

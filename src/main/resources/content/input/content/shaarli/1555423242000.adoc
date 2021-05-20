@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Analysing National Budgets With File System Tools | Hackaday
+:jbake-tags: file,analyse,system,_mois_avr.,_année_2019
+:jbake-date: 2019-04-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1555423242000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackaday.com%2F2019%2F04%2F15%2Fanalysing-national-budgets-with-file-system-tools%2F&searchtags=file+analyse+system+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hackaday.com/2019/04/15/analysing-national-budgets-with-file-system-tools/[Analysing National Budgets With File System Tools | Hackaday]
+
+J'aime beaucoup cette idée, et ça n'est pas utilisable que pour un budget d'état, mais pour toutes sortes de budgets

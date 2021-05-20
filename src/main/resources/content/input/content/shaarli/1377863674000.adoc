@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Google et le gouvernement des États-Unis main dans la main selon Julian Assange - Framablog
+:jbake-tags: prism,sécurité,liberté,google,lobby,_mois_août,_année_2013
+:jbake-date: 2013-08-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1377863674000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.framablog.org%2Findex.php%2Fpost%2F2013%2F08%2F27%2Fassange-google-nsa&searchtags=prism+s%C3%A9curit%C3%A9+libert%C3%A9+google+lobby+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.framablog.org/index.php/post/2013/08/27/assange-google-nsa[Google et le gouvernement des États-Unis main dans la main selon Julian Assange - Framablog]
+
+Un très bon article démontant les relations entre Google et le DoS (NSA et autres) américain . Cette citation est particulièrement ... éclairante "Une étude publiée récemment montre que Google dépense maintenant plus d’argent que Lockheed Martin pour payer les lobbyistes à Washington."

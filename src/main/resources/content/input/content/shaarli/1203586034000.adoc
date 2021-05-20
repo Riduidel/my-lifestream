@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hagus.net
+:jbake-tags: freeware,iphoto,plugin,software,macosx,web,flash,_mois_févr.,_année_2008
+:jbake-date: 2008-02-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1203586034000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hagus.net%2FiPhotoExport&searchtags=freeware+iphoto+plugin+software+macosx+web+flash+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.hagus.net/iPhotoExport[Hagus.net]
+
+Mais pourquoi est-ce que je m'embête à faire un système compliqué avec du Ruby, de l'exif, et d'autres trucs barbants, alors qu'il y a des petits exports sympas comme celui-ci ? Ah, oui, je sais, parce que je veux garder mes photos d'origine et obteni

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: cλementd on Twitter: "🌶️ A reverse proxy should be as simple as possible. Integrating support for different config protocols in the proxy is a bad idea."
+:jbake-tags: citation,programming,proxy,architecture,_mois_avr.,_année_2018
+:jbake-date: 2018-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1522731494000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fclementd%2Fstatus%2F976405255863881728&searchtags=citation+programming+proxy+architecture+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/clementd/status/976405255863881728[cλementd on Twitter: "🌶️ A reverse proxy should be as simple as possible. Integrating support for different config protocols in the proxy is a bad idea."]
+
+Je crois qu'un jour, je ferais une présentation sur la jungle des reverse proxies .. Ce sera drôle

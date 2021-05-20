@@ -1,0 +1,41 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La pop-culture informatique ?
+:jbake-tags: culture,innovation,_mois_nov.,_année_2013
+:jbake-date: 2013-11-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/11/20/la-pop-culture-informatique.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/11/20/la-pop-culture-informatique/
+:jbake-style: wordpress
+
+++++
+<p>
+Là, vous vous dites <a href="https://www.destroyallsoftware.com/talks/wat">WAT ?</a>, comme moi.
+</p>
+<p>
+Et vous avez tord. je ne vais pas vous parler de cet excellent lightning talk sur Javascript, même si je devrais.
+</p>
+<p>
+Non, je vais plutôt vous parler de cet article au sujet du reactive manifesto : <a href="http://pchiusano.blogspot.fr/2013/11/the-reactive-manifesto-is-not-even-wrong.html">the reactive manfiesto is not even wrong !</a>
+</p>
+<p>
+Le titre est pas mal trouvé, mais la perle se trouve quelque part dans le contenu ... ici, pour être précis :
+<br/>
+<blockquote>No, the reactive manifesto is a piece of pop culture, which I mean in the sense used by Alan Kay:
+</p>
+<p>
+Computing spread out much, much faster than educating unsophisticated people can happen. In the last 25 years or so, we actually got something like a pop culture, similar to what happened when television came on the scene and some of its inventors thought it would be a way of getting Shakespeare to the masses. But they forgot that you have to be more sophisticated and have more perspective to understand Shakespeare. What television was able to do was to capture people as they were. So I think the lack of a real computer science today, and the lack of real software engineering today, is partly due to this pop culture.</blockquote>
+<br/>
+Ca m'a fait bien réfléchir ...
+</p>
+<p>
+L'auteur y dit donc que les développements informatiques vont plus vite qu'on ne peut former les gens, et qu'il est donc "normal" de voir apparaître une forme de culture informatique non fondée sur la connaissance directe et l'expérimentation, mais sur une forme de culture et de mode. Parce que bon, par exemple, la programmation réactive n'est qu'une réinvention de la programmation événementielle. Et le vocabulaire désormais utilisé pour parler des nouveaux frameworks/langages/outils emprunte clairement au monde de la mode : c'est tendance, ça buzze, ...
+</p>
+<p>
+Est-ce que je veux dire par là qu'utiliser node.js pour faire un client git est une connerie quand on peut le faire en AIR/Qt/JavaFX ? Par exemple, oui.
+</p>
+<p>
+Est-ce que je veux dire par là qu'aucune de ces technologies nvoatrices n'a d'intérêt ? Je vais faire le vieux et répondre qu'il vaut mieux attendre que l'agitation s'appaise un peu pour commencer à évaluer sereinement un produit. Autrement dit, suivre les tendances, c'est bien pour se faire mousser, par contre ça risque d'être facilement épuisant.
+</p>
+++++

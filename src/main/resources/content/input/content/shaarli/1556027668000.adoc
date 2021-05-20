@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: jq, JSON comme un pro - Devoxx France 2019 - Tools-in-Action - Speaker Deck
+:jbake-tags: jq,programming,présentation,command-line,_mois_avr.,_année_2019
+:jbake-date: 2019-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1556027668000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeakerdeck.com%2Fslecache%2Fjq-json-comme-un-pro-devoxx-france-2019-tools-in-action&searchtags=jq+programming+pr%C3%A9sentation+command-line+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://speakerdeck.com/slecache/jq-json-comme-un-pro-devoxx-france-2019-tools-in-action[jq, JSON comme un pro - Devoxx France 2019 - Tools-in-Action - Speaker Deck]
+
+Cette présentation sur jq devait être vraiment chouette, je la regarderai dès qu'elle sera sur Youtube !

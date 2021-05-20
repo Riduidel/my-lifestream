@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hallon
+:jbake-tags: software,freeware,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1110979497000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhomepage.mac.com%2Fpgw3%2Fhallon%2F&searchtags=software+freeware+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://homepage.mac.com/pgw3/hallon/[Hallon]
+
+Hallon can create bookmarks in many applications (like iTunes) that usually can't create bookmarks and they are always accessible from a menu whatever you are doing. If you want, you can write notes and set a due date with alarm for each of the bookmarks

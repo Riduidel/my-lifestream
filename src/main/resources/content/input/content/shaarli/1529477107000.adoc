@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Arshia on Twitter: "are you an underrepresented minority in tech interested in learning (or getting better at) Rust? 1) apply for a scholarship to attend @rustconf here! https://t.co/c5EMpbhY2M 2) register to attend @RustBridge (taught by urs truly & @spacekookie) here! https://t.co/s6EMBG7D54"
+:jbake-tags: programming,rust,communauté,intégration,_mois_juin,_année_2018
+:jbake-date: 2018-06-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1529477107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Farshia__%2Fstatus%2F1009093045999030273&searchtags=programming+rust+communaut%C3%A9+int%C3%A9gration+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/arshia__/status/1009093045999030273[Arshia on Twitter: "are you an underrepresented minority in tech interested in learning (or getting better at) Rust? 1) apply for a scholarship to attend @rustconf here! https://t.co/c5EMpbhY2M 2) register to attend @RustBridge (taught by urs truly & @spacekookie) here! https://t.co/s6EMBG7D54"]
+
+Je ne suis pas encore assez dans la communauté Rust pour pouvoir vraiment confirmer, mais les efforts d'inclusion y sont notoires, et c'est vraiment bien.

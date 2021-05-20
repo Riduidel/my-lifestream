@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Principes fondamentaux de strategie militaire
+:jbake-tags:  guerre, politique,_année_2019,_mois_oct.,_note_2,histoire,read
+:jbake-date: 2019-10-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782842059712.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/39405818
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/67848.html[Carl von Clausewitz]
+
+
+
+## Review
+
+++++
+Un essai intéressant sur l'art de la guerre à l'époque napoléonienne.<br/>Les éléments typiques y sont évoqués : la marche, le contournement, l'approvisionnement, ...<br/>Et si l'écriture est typiquement pénible de l'époque, certains aspects transcendent l'époque. En particulier, il est question du moral du chef de guerre, et du choix de ses objectifs. C'est intéressants, mais malheureusement insuffisant.
+++++

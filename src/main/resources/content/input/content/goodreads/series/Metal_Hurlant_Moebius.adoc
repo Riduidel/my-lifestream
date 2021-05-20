@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Metal Hurlant Moebius
+:jbake-tags: serie
+:jbake-date: 2011-11-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Metal_Hurlant_Moebius.adoc
+:jbake-source: https://www.goodreads.com/series/263935
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782731623765.html[Arzach Classique]

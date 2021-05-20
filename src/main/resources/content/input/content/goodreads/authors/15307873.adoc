@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Thomas  Day
+:jbake-tags: author
+:jbake-date: 2014-06-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/15307873.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1485902053p5/15307873.jpg
+:jbake-source: https://www.goodreads.com/author/show/15307873
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782723498043.html[Wika et la fureur d'Obéron (Wika, #1)]

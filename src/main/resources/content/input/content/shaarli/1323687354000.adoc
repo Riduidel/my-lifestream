@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: http://www.nintendomax.com/viewforum.php?f=88
+:jbake-tags: forum,ds,dsi,download,nintendo,Nintendo,DS,_mois_déc.,_année_2011
+:jbake-date: 2011-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1323687354000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.nintendomax.com%2Fviewforum.php%3Ff%3D88&searchtags=forum+ds+dsi+download+nintendo+Nintendo+DS+_mois_d%C3%A9c.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.nintendomax.com/viewforum.php?f=88[http://www.nintendomax.com/viewforum.php?f=88]
+
+Un forum rempli a ras-bord de liens bien pratiques pour la DS

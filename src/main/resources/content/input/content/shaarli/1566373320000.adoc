@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: timqian/chart.xkcd: xkcd styled chart lib
+:jbake-tags: graph,library,javascript,dessin,open-source,_mois_août,_année_2019
+:jbake-date: 2019-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1566373320000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Ftimqian%2Fchart.xkcd&searchtags=graph+library+javascript+dessin+open-source+_mois_ao%C3%BBt+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/timqian/chart.xkcd[timqian/chart.xkcd: xkcd styled chart lib]
+
+Il me semble avoir vu un équivalent en Python. Mais dans tous les cas, des librairies de charting façon dessin, c'est très cool

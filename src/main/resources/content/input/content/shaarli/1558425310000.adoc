@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nadia Eghbal | The tyranny of ideas
+:jbake-tags: mémétique,mème,introduction,_mois_mai,_année_2019
+:jbake-date: 2019-05-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1558425310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnadiaeghbal.com%2Fideas&searchtags=m%C3%A9m%C3%A9tique+m%C3%A8me+introduction+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://nadiaeghbal.com/ideas[Nadia Eghbal | The tyranny of ideas]
+
+redécouvre les concepts de la mémétique ...

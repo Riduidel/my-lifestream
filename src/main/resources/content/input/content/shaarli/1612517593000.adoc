@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Martin Heinz - Personal Website & Blog
+:jbake-tags: docker,tutorial,optimisation,build,_mois_févr.,_année_2021
+:jbake-date: 2021-02-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1612517593000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2FTr%C3%A8s+bon+rehttps%3A%2F%2Fmartinheinz.dev%2Fblog%2F42&searchtags=docker+tutorial+optimisation+build+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+http://Très bon rehttps://martinheinz.dev/blog/42[Martin Heinz - Personal Website & Blog]
+
+Très bon récapitulatif sur la construction d'images Docker. J'ai particulièrement apprécié la déclinaison des exemples en Java, JavaScript et python

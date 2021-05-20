@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robo Home - Robo Wiki -= Collecting Robocode Knowledge =-
+:jbake-tags: java,documentation,tutorial,jeu,programming,robocode,robot,_mois_déc.,_année_2008
+:jbake-date: 2008-12-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1229262823000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frobowiki.net%2Fcgi-bin%2Frobowiki%3FRobo_Home&searchtags=java+documentation+tutorial+jeu+programming+robocode+robot+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://robowiki.net/cgi-bin/robowiki?Robo_Home[Robo Home - Robo Wiki -= Collecting Robocode Knowledge =-]
+
+L'ancien wiki de robocode me semble actuellement plus fourni que le nouveau, et surtout rempli de robots prêts à l'usage. Bon, évidement, ce ne sont que des sources d'inspiration, sinon il n'y a aucun challenge ;-)

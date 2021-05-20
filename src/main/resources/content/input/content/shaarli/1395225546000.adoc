@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DOGE2048
+:jbake-tags: web,online,jeu,doge,mème,_mois_mars,_année_2014
+:jbake-date: 2014-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1395225546000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fdoge2048.com%2F&searchtags=web+online+jeu+doge+m%C3%A8me+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://doge2048.com/[DOGE2048]
+
+Cette version de 2048 est tellement plus wow much fun Autant dire que Doge Intensifies

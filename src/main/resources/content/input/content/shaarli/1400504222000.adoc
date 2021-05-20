@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Infinite Space Between Words
+:jbake-tags: performance,cpu,mémoire,ordinateur,_mois_mai,_année_2014
+:jbake-date: 2014-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1400504222000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.codinghorror.com%2Fthe-infinite-space-between-words%2F&searchtags=performance+cpu+m%C3%A9moire+ordinateur+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.codinghorror.com/the-infinite-space-between-words/[The Infinite Space Between Words]
+
+J'ai l'impression de devenir de plus en plus idiot, ou alors que Jeff Atwood devient plus intelligent plus vite que moi, parce que chacun de ses articles me parle plus justement que le précédent. Et cette histoire de performance, j'en avais entendu parler dans les castcodeurs, mais la voir écrite de cette façon, c'est vraiment spectaculaire.

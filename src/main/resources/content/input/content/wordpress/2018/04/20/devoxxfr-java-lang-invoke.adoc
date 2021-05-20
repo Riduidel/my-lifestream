@@ -1,0 +1,179 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - java.lang.Invoke
+:jbake-tags: java,jvm,optimisation,_mois_avr.,_année_2018
+:jbake-date: 2018-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/04/20/devoxxfr-java-lang-invoke.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/04/20/devoxxfr-java-lang-invoke/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Finir Devoxx avec Rémi, c’est toujours cool.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-5"></div>
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+On va s’intéresser aux loggers quand ils ne loggent pas. Et plus précisément quel est le coût d’exécution d’un logger qui ne logge pas ? Avec JMH, on a le résultat : ça prend 1 ns avec log4j2.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Et avec une lambda ? Ou un <code>logger.isDebugEnabled()</code> ? Ca prend autant de temps.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Normalement, le <code>logger.isDebugEnabled()</code> est un ensemble d’appels à des valeurs constantes. Et ça prend du temps parce que …​
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+<strong>La JVM ne croit pas que les champs <code>final</code> sont des constantes.</strong>
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-17">
+</p>
+<p>
+A cause de la …​ (de)serialization !!! Autrement dit, comme la JVM peut (dé)sérialiser tous les champs final ne peut pas inliner leurs appels.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-20">
+<br/>
+<h2 id="true_code_java_lang_invoke_code"><code>java.lang.invoke</code></h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-21">
+</p>
+<p>
+Avec cette API, on peut appeler du code dynamiquement d’une façon plus efficace que l’introspection pour plusieurs raisons :
+</p>
+<p>
+</div>
+<br/>
+<div class="ulist data-line-23">
+<br/>
+<ul>
+<br/>
+<li>Mise en cache de la sécurité</li>
+<br/>
+<li>Pas de boxing</li>
+<br/>
+</ul>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-26">
+</p>
+<p>
+L’API est plus riche pour implémenter des langages. Elle est utilisée pour les lambdas, et pour la concaténation de chaînes de caractères en Java9.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-29">
+</p>
+<p>
+Avec cet API on crée un <code>MethodHandle</code> qui est une espèce de pointeur de fonction. Il permet aussi de faire de l’invocation partielle. Et l'élément sur lequel il sera bindé sera considéré par le JIT comme une constante. En plus, il permet d’ajout des arguments qui ne seront pas passés à la méthode. Et de créer des MethodHandle vides ou de placer des gardes sur le MethodHandle.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-35">
+</p>
+<p>
+Avec tout ça, Rémi recréée son Logger en utilisant exclusivement des MethodHandle. Le code est verbeux, mais on sent bien qu’il est particulièrement optimisé.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+Bon, ça marche pas aussi bien que prévu. Allons donc voir le code source …​ de la JVM !
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Le seul cas qui soit exploitable, c’est celui des classes anonymes (au sens de la JVM, pas du langage). Et ces classes anonymes au sens du langage sont les lambdas.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-42">
+</p>
+<p>
+Ca marche bien.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-44">
+</p>
+<p>
+Allons voir plus loin.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Avec une simple boucle et un <code>logger.debug(…​)</code> mais cette fois-ci avec log4j, on se retrouve avec des temps d’exécution différents là où il ne devraient pas être différents. Le tout à cause d’un <code>volatile</code> dans log4j. Ca amène Rémi à nous parler de <code>SwitchPoint</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-50">
+</p>
+<p>
+Et tout ce code est dans le projet <a href="https://github.com/forax/beautiful_logger">Beautiful Logger</a>. Qui lui est capable de ne pas logger sans consommer de temps CPU. En utilisant les mêmes techniques, Rémi a créé un projet de <a href="https://github.com/forax/exotic">classes exotiques</a>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<h2>Mon avis</h2>
+<br/>
+Je savais que ça allait dépoter, et je n'ai pas été déçu. Rémi nous en a mis plein la tronche avec des phrases qui se retrouveront sur <a href="https://twitter.com/RemiForaxOff">son compte Twitter</a> (ça n'est pas vraiment lui qui twitte).
+</p>
+<p>
+</div>
+</p>
+++++

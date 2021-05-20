@@ -1,0 +1,272 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Comment bien débugger ?
+:jbake-tags: debug,méthode,science,_mois_juin,_année_2020
+:jbake-date: 2020-06-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/06/03/comment-bien-debugger.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/06/03/comment-bien-debugger/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Comme <a href="https://twitter.com/b0rk">Julia Evans</a> écrit en ce moment un <a href="https://wizardzines.com/zines/bugs/">zine</a> qui sera sans doute très chouette sur le debugging, je profite de l'opportunité pour communiquer ma vision de ce qu'est, ou plutôt de ce que doit être le debug. Et pour les collègues, cet article est issu d'une présentation que j'ai donné avec Elya il y a quelques années.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Commençons sereinement</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>La première chose à savoir au sujet des bugs, c'est qu'il n'existe pas de code sans bug. Parce que dans le fond, un bug, c'est quoi ? Le <a href="https://fr.wikipedia.org/wiki/Bug_(informatique)">wikipedia</a> (évidement que je vais citer la wikipedia, vous croyez quoi ?) nous dit que c'est un dysfonctionnement. La définition est parfaite, parce que dès le départ, elle se place du point de vue de l'utilisateur. Et c'est normal parce que, (retenez bien, c'est important pour moi), un logiciel est fait pour être utilisé. Et c'est l'utilisateur qui voit apparaître le bug.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le fait que l'utilisateur voit le bug en premier n'est pas anodin, parce qu'un bug, en fait, c'est conceptuellement un effet de bord non maîtrisé du code que le développeur a écrit. En effet, si le développeur sait exactement et entièrement ce qu'il fait, le bug ne pourra pas apparaître (c'est, figurez-vous, l'argument de base des <a href="https://fr.wikipedia.org/wiki/M%C3%A9thode_formelle_(informatique)">méthodes formelles</a> et des langages qui en dérivent). Les bugs apparaissent donc toujours dans les creux du logiciel, les cas limite, les parties plus ou moins bien comprises. Les franges du système logiciel, en fait.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nous allons donc maintenant voir ensemble comment résoudre les bugs, en appliquant les leçons des séries télé, mais pas que. Parce que souvenez-vous</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>La vie n'imite pas l'art, elle imite la mauvaise télévision</p><cite><a href="http://evene.lefigaro.fr/citation/vie-imite-art-imite-mauvaise-television-34788.php">Woody Allen, Maris et femmes</a></cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading -->
+<h2>Quels modèles choisir ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ou plus exactement, de qui s'inspirer pour résoudre un bug ? Un bug, avant tout, est un mystère. Il nous faut donc des personnes habiles à résoudre les mystères ... comme <a href="https://fr.wikipedia.org/wiki/Sherlock_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)">Sherlock</a>, ou <a href="https://fr.wikipedia.org/wiki/Dr_House">House</a>, ... ou <a href="https://fr.wikipedia.org/wiki/Marie_Curie">Marie Curie</a> (croyez-moi, je ne peux pas ne pas parler de Marie Curie - vous saviez qu'elle est la seule personne ... au monde ... à avoir deux prix Nobel dans deux disciplines différentes ? - écoutez donc <a href="https://www.podcastscience.fm/dossiers/2016/01/02/dossier-marie-curie/">PodcastScience</a>).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"left","width":181,"height":238,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://pufflesandhoneyadventures.files.wordpress.com/2017/11/marie-curie.jpg" alt="" width="181" height="238" /></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"left","width":159,"height":239,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="https://pmcdeadline2.files.wordpress.com/2016/12/sherlock-december-30.jpg?w=647" alt="" width="159" height="239" /></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:image {"align":"left","width":178,"height":238,"sizeSlug":"large"} -->
+<div class="wp-block-image"><figure class="alignleft size-large is-resized"><img src="http://images1.fanpop.com/images/photos/2200000/House-dr-gregory-house-2245497-466-622.jpg" alt="" width="178" height="238" /></figure></div>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais pourquoi ces modèles ? Parce que nous utiliser des méthodes inspirées de ces modèles pour résoudre nos bugs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Histoire de clarifier un peu, je pense qu'on doit utiliser les méthodes de l'enquête policière, de la recherche scientifique et du diagnostic médical pour identifier et corriger les bugs.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>C'est quoi le processus de correction d'un bug ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D'une manière assez classique, on peut distinguer ce processus en plusieurs phases</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li><strong>Découverte</strong> du bug par un utilisateur, par un log, ou même par un autre moyen</li><li><strong>Identification</strong> du bug, cette phase où on passe de l'impression que ça ne marche pas à l'identification précise du composant, du code qui ne marche pas</li><li><strong>Correction</strong> du bug , la modification du système logiciel pour qu'il n'expose plus ce comportement</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Nous allons essayer de voir comment les méthodes citées précédemment peuvent nous aider dans chacune de ces phases.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Découverte d'un bug</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Comment savez-vous qu'un bug est apparu dans votre système ? Vous ne le savez souvent pas, en fait. Si vous avez de la chance, vous aurez une erreur, une exception qui vous mettra sur la piste. Mais comme les bugs viennent des zones "creuses" de votre système logiciel, vous n'avez généralement pas de logs d'erreur et vous devez attendre qu'un utilisateur vous rapporte ce bug.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Votre utilisateur, généralement, se contentera de vous dire que "ça ne marche pas". Et c'est là que les méthodes de l'enquêteur peuvent vous aider. En effet, recueillir un témoignage, comme c'est le cas ici, n'est pas aussi simple que de demander à l'utilisateur "qu'est-ce qui ne marche pas ?". Il vous faut généralement reconstruire la séquence d'événements menant à ce bug. D'où la grande question "qu'est-ce que vous avez fait avant ?". D'ailleurs, c'est l'étape durant laquelle nous avons la chance de bénéficier de spécialistes. En effet, chez les éditeurs de logiciels pour lesquels j'ai bossé, il y a toujours au moins un "responsable QA" (Geoffrey, Mélanie, des bisous) dont une partie du métier est précisément l'interrogatoire de ces utilisateurs pour n'en tirer qu'une chose : un <strong>cas reproductible minimal</strong>. Ce cas reproductible minimal, c'est le livrable de cette étape. Parce que c'est ce qui permettra ensuite aux développeurs de travailler sereinement</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Mais que faire si les témoignages sont incohérents ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D'abord, il ne faut jamais oublier ce que dit Gregory House</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Tout le monde ment</p><cite>Grégory House</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Vos utilisateurs ne vous disent que rarement toute la vérité. Souvent, échouer à reproduire le bug indique que l'utilisateur ne racontait pas tout. Et c'est là qu'il faut s'appuyer sur les autres sources d'information (les logs, où qu'ils soient, l'état interne du système). A ce sujet, je me permets de vous rappeler que la seule raison d'exister des logs est précisément de vous aider à comprendre l'état de votre système au moment des bugs, quelle que soit la source de ces bugs. Si vous n'avez pas de bugs pour une partie du système et qu'un utilisateur rencontre un bug dans cette partie du logiciel, vous risquez fort de devoir ajouter ces logs rapidement pour comprendre ce que veut votre utilisateur (et c'est le moment où une intégration continue et un déploiement continu seront vraiment utiles). Donc, si votre utilisateur ne vous dit pas tout, lisez les logs ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Evidement, ça n'est même pas aussi simple. J'ai souvenir d'avoir déjà cherché un bug pendant quinze jours parce qu'il était faiblement reproductible. C'est-à-dire qu'il arrivait une fois sur dix.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Un enquêteur n'est pas un constructeur</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>C'est le moment idéal pour vous rappeler cette notion de base. Lorsque vous corrigez un bug (que vous cherchiez à le débusquer, à l'identifier où à implémenter une correction), vous n'êtes plus un développeur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Un développeur, avant tout, c'est quelqu'un qui cherche à construire un logiciel. En ce sens, c'est un peu un maçon : il assemble des briques pour produire des fonctionnalités. Ca exige de la rigueur, de l'imagination, de la capacité à se projeter dans un état idéal du système.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Corriger un bug, c'est une enquête. Les qualités d'un enquêteur doivent être toutes autres. A mon sens, la première, c'est la <a href="https://fr.wiktionary.org/wiki/pugnacit%C3%A9">pugnacité</a>. C'est-à-dire l'envie de corriger le bug, quels que soient le temps, l'énergie et les moyens qu'il faudra y consacrer. Se questionner sur le fait d'abandonner la correction d'un bug ne doit pas être une option. C'est dur, parce que la personnalité des développeurs qui vise avant tout l'implémentation de nouvelles choses pousse parfois à choisir la voie de la facilité, du contournement. Lorsque vous corrigez un bug, vous ne devez jamais renoncer. L'abandon de la correction devrait à mon sens ne jamais être décidé par la personne en charge du bug, mais pas un arbitre différent.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Maintenant que je vous ai regonflé (ou pas), revenons-en à notre bug.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Un peu de paperasse</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lorsque votre utilisateur vous a rapporté ce bug, vous avez naturellement créé un ticket dans votre bug tracker (à mon avis l'outil le plus important du processus de développement d'un produit logiciel). Quel que soit le nom de cet outil, la fonction est la même : tracer les bugs rencontré, ainsi que la façon dont ils ont été corrigés (ou pas). Que les bugs soient corrigés ou pas n'est pas si important, en fait. Ca dépend de la nature du produit, de la philosophie de l'équipe concernant la qualité perçue, de la qualité des rapports de bugs. En revanche, il est essentiel d'y mémoriser tous les bugs du logiciels et ce qui en a été fait. Il faut juste, à mon avis, un peu de méthode. Dans un rapport de bug, on doit trouver</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Ce que l'utilisateur a constaté, clairement identifié</li><li>Le contexte dans lequel le bug s'est produit (version de l'application, informations pertinentes sur l'utilisateur)</li><li>Les différentes théories, expériences, approches, qui ont été testées</li><li>L'approche de correction sélectionnée</li><li>Eventuellement la liste des nouveaux tests</li><li>L'impact de cette approche.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Vous avez vu comme ça ressemble aux ADR ? J'espère que ça aide à éclairer un peu <a href="https://riduidel.wordpress.com/2020/04/17/et-tout-ca-ce-sont-des-decisions/">mon propos à leur sujet</a>. Normalement, à la fin de cette première phase de découverte, votre rapport de bug ne doit contenir que deux de ces choses</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Ce que l'utilisateur a constaté</li><li>Le contexte dans lequel le bug s'est produit</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Le premier point est, si vous avez de la chance, correctement écrit par l'utilisateur. Si vous avez un peu moins de chance, ou une organisation plus spécifique (par exemple un bug tracker public pour vos utilisateurs, et un bug tracker interne pour votre équipe de développement), cette partie est écrite par votre équipe QA (ou vous-même, si vraiment vous n'avez pas de chance). Ce point doit contenir le <strong>cas minimal reproductible</strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Le second point est avant tout validé par la QA. C'est cette équipe qui a pris le temps de vérifier chaque version déployée (même si, comme vous n'êtes pas ignoble, vous avez tout fait pour les aider en exposant les versions des différentes briques de façon claire - pour la QA). Et si vous pensez que c'est sans intérêt ... Rappelez-vous juste que ça vous permet de vous mettre sur le bon code source. Parce que débugger un autre code que celui que l'utilisateur a vu, c'est sans intérêt.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, maintenant, notre bug est correctement découvert, identifions-le.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Identification d'un bug</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Qu'est-ce que ça veut dire ? Tout simplement qu'il faut faire un lien entre le comportement constaté par l'utilisateur et le code source de l'application. Autrement dit, identifier ce qui est radioactif (pour prendre l'exemple de Marie Curie) ou la maladie donnant ces symptômes (pour prendre à nouveau celui de House).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Comment identifier un bug ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Je vais prendre comme hypothèse que vous avez votre cas minimal reproductible et m'appuyer, pour une fois, sur un truc qui marche en informatique : les tests.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première chose à faire, c'est écrire un premier test, au niveau de l'utilisateur, exposant le bug. C'est ce que je faisais il y a des années quand j'ai écrit <a href="https://github.com/riduidel/gaedo/issues?q=is%3Aissue+is%3Aclosed">gaedo</a>, et croyez-moi, ça marche très bien. Parce que ce premier test va vous permettre de tester vos théories beaucoup plus rapidement.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4} -->
+<h4>Mais comment tester une théorie ?</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Une théorie, c'est une hypothèse qui pourrait expliquer pourquoi le code se comporte de cette façon. Ce que dit la méthode scientifique, c'est qu'une théorie, pour être validée, doit être mise en valeur par une expérience. Et ça, ça nécessite trois étapes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Expliciter cette théorie, c'est-à-dire l'écrire (évidement dans votre rapport de bug, afin de ne pas tenter deux fois d'expliquer le bug par la même théorie)</li><li>Concevoir une expérience validant cette théorie. Attention, cette expérience ne doit valider que cette théorie. Elle va évidement prendre la forme d'un test unitaire plus précis que celui correspondant à ce qu'a observé l'utilisateur.</li><li>Valider ou pas cette théorie par l'exécution du test unitaire</li></ol>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Si votre expérience n'est pas valide, c'est-à-dire si votre théorie concernant le bug est fausse, ça n'est pas grave. En fait, c'est même bien : ça veut juste dire que, comme House, vous avez écarté une cause possible du bug. Et c'est bien, parce qu'au bout d'un moment, quand vous aurez écarté toutes les mauvaises théories, il ne restera plus que la bonne.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>La pugnacité, encore</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Evidement, cette phase est la plus longue et la plus frustrante. Mais si vous la réalisez de cette manière, elle va vous apporter beaucoup de choses. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, vous comprendre beaucoup mieux votre système logiciel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, vous gagnerez en confiance en votre système logiciel. Parce que vous aurez essayé de le casser de multiples manières pour chaque bug que vous avez rencontré.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Enfin vous gagnerez en confiance dans la méthode. Parce qu'au début, vous aurez l'impression de perdre du temps à écrire tous ces tests. Mais de mon point de vue, cette méthode vaut dix fois mieux que TDD. Parce que vous construisez votre harnais de test autour de l'usage réel de l'application, et pas autour de l'usage imaginé par un PO ou (pire encore) un développeur. Je ne veux pas écrire qu'il ne faut pas faire de TDD. Je veux juste clarifier un point douteux : TDD est bâti autour de l'hypothèse que le PO et les développeurs connaissent l'espace réel d'utilisation de l'application. Mais cette hypothèse est démontrée chaque jour par tous les bugs du monde comme fausse. Justement parce que les logiciels ont des zones sombres, que les bugs et ces tests viennent éclairer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>On fait quoi de ces tests une fois le bug corrigé ?</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>J'ai déja vu des équipes supprimer les tests correspondant aux bugs saisis par les utilisateurs, au prétexte qu'ils ralentissent l'intégration continue. A mon sens, c'est la pire erreur de qualité qui puisse se faire. Ca revient à dire qu'il vaut mieux risquer de nouvelles erreurs pour livrer plus vite. En sachant que le gain espéré est souvent de moins d'une heure. Et quand bien même il faudrait une journée entière pour jouer les tests, c'est la meilleure politique qualité du monde, parce que ces tests correspond aux erreurs constatées dans le monde réel et qui ont été corrigées.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>On a trouvé la bonne théorie expliquant le bug !</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Parce que pendant qu'on parlait accumulation de tests, un débuggeur pugnace a pris le temps de tester différentes théories, de les noter dans le bug report, en a trouvé une qui expliquait correctement le bug, a implémenté un test l'expérimentant, et ce test donne le résultat attendu (c'est-à-dire qu'il plante quand le test utilisateur plante). Donc on peut le féliciter. Et surtout, on peut noter quelle est la bonne théorie dans le rapport de bug et commiter les tests associés.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et on peut passer à la correction.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Correction d'un bug</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>L'avantage de cette méthode, c'est qu'elle munit rapidement votre code d'un ensemble de tests signifiants. Vous pouvez donc corriger votre bug de la manière la plus simple <strong>n'entraînant pas de régression par ailleurs</strong>. Et pour ça, je vous fait confiance, vous êtes développeurs, construire quelque chose avec un ensemble de contraintes est à mon avis assez familier à vos yeux. Je vais donc laisser cette partie de côté, surtout que c'est généralement celle sur laquelle insistent les docs de produits comme JUnit, TestNG, et tous les autres frameworks de tests.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Efficacité de la méthode</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>En guise de conclusion, j'aimerai rappeler pourquoi cette méthode est efficace.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Avant tout, comme toute méthode, elle offre un cadre. Et si avoir un cadre est souvent contraignant, c'est aussi très utile dans les situations délicates. Or corriger un bug est une expérience psychologiquement délicate : vous devez faire le deuil de certaines de vos illusions (comme par exemple croire que vous savez écrire du code libre de bugs, ou que vous livrerez votre produit dans les temps), vous êtes soumis à une certaine pression. Et ce sont précisément dans ces conditions que le cadre devient rassurant, parce qu'il va vous permettre de reconstruire une progression là ou vous n'en voyez initialement pas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, cette méthode s'appuie sur deux ou trois choses qui marchent : la méthode scientifique a, je pense, fait ses preuves. La méthode d'enquête également.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Enfin,c'est toujours ce schéma qui est utilisé par les équipes de développement, mais il n'est que très rarement explicite. Et c'est vraiment dommage, parce que ça permettrait à mon avis de restaurer une communication correcte (c'est-à-dire ni culpabilisante, ni infantilisante) autour d'un sujet toujours crispant.</p>
+<!-- /wp:paragraph -->
+++++

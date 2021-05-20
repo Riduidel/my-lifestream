@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: ""If the code and the comments disagree, then both are probably wrong." - Norm Schryer"
+:jbake-tags: citation,programming,documentation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1481525351000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F807254230109224960&searchtags=citation+programming+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/807254230109224960[Programming Wisdom on Twitter: ""If the code and the comments disagree, then both are probably wrong." - Norm Schryer"]
+
+Et dans ce cas-là, pour diminuer la quantité de mensonge, il suffit d'enlever la doc

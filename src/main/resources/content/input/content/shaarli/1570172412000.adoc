@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: electricityMap | Emissions CO2 de la consommation électrique en temps réel
+:jbake-tags: électrique,web,carte,écologie,_mois_oct.,_année_2019
+:jbake-date: 2019-10-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1570172412000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.electricitymap.org%2F%3Fpage%3Dcountry%26solar%3Dfalse%26remote%3Dtrue%26wind%3Dfalse%26countryCode%3DFR&searchtags=%C3%A9lectrique+web+carte+%C3%A9cologie+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.electricitymap.org/?page=country&solar=false&remote=true&wind=false&countryCode=FR[electricityMap | Emissions CO2 de la consommation électrique en temps réel]
+
+Une chouette carte en temps réel de la production électrique mondiale avec notamment l'impact environnemental

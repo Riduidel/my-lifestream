@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Issue 265 - microblog-purple - Port to twitter API v1.1? - Libpurple (Pidgin) plug-in supporting microblog services like Twi...
+:jbake-tags: twitter,pidgin,bug,oauth,_mois_juin,_année_2013
+:jbake-date: 2013-06-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1371117076000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcode.google.com%2Fp%2Fmicroblog-purple%2Fissues%2Fdetail%3Fid%3D265&searchtags=twitter+pidgin+bug+oauth+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://code.google.com/p/microblog-purple/issues/detail?id=265[Issue 265 - microblog-purple - Port to twitter API v1.1? - Libpurple (Pidgin) plug-in supporting microblog services like Twi...]
+
+Et voilà pourquoie je suis privé de twitter !

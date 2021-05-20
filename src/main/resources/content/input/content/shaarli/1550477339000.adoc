@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ctop
+:jbake-tags: performance,docker,conteneur,monitoring,_mois_févr.,_année_2019
+:jbake-date: 2019-02-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1550477339000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fctop.sh%2F&searchtags=performance+docker+conteneur+monitoring+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://ctop.sh/[ctop]
+
+Un équivalent de htop pour les conteneurs, c'est bien pratique !

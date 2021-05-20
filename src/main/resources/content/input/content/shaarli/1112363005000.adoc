@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ImportScrubber
+:jbake-tags: software,freeware,open-source,java,programming,qualité,coding,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112363005000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fimportscrubber.sourceforge.net%2F&searchtags=software+freeware+open-source+java+programming+qualit%C3%A9+coding+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://importscrubber.sourceforge.net/[ImportScrubber]
+
+No more unnecessary imports, no more import on demand - just good old single type imports. And they're sorted, too!

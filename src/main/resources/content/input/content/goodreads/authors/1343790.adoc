@@ -1,0 +1,14 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Daryl Gregory
+:jbake-tags: author
+:jbake-date: 2017-01-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1343790.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1496872645p5/1343790.jpg
+:jbake-source: https://www.goodreads.com/author/show/1343790
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266229708.html[L'Éducation de Stony Mayhall]
+* link:../books/9782266277594.html[Nous allons tous très bien, merci]

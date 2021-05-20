@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Requiem Chevalier Vampire #7-8
+:jbake-tags: serie
+:jbake-date: 2012-05-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Requiem_Chevalier_Vampire_#7-8.adoc
+:jbake-source: https://www.goodreads.com/series/232074
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782914420235.html[La Reine des âmes mortes (Requiem chevalier vampire #8)]
+* link:../books/9782914420198.html[Le Couvent des soeurs de sang (Requiem chevalier vampire #7)]

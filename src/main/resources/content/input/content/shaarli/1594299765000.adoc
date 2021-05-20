@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Video that keeps your team connected and inspired · Rewatch Blog
+:jbake-tags: vidéo,web,alternatives,_mois_juil.,_année_2020
+:jbake-date: 2020-07-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1594299765000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.rewatch.tv%2Fpost%2F2020%2F07%2F08%2Fconnected-and-inspired%2F&searchtags=vid%C3%A9o+web+alternatives+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://blog.rewatch.tv/post/2020/07/08/connected-and-inspired/[Video that keeps your team connected and inspired · Rewatch Blog]
+
+Nom de Zeus ! Un service de vidéo (initialement développé pour les besoins internes de GitHub) qui inclut les transcriptions automatiques des vidéos !!!

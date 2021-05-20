@@ -1,0 +1,92 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Développeurs, il est temps de changer le monde !
+:jbake-tags: informatique,web,_mois_sept.,_année_2016
+:jbake-date: 2016-09-01
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/09/01/developpeurs-il-est-temps-de-changer-le-monde.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/09/01/developpeurs-il-est-temps-de-changer-le-monde/
+:jbake-style: wordpress
+
+++++
+<p>
+A la suite de <a href="https://riduidel.wordpress.com/2016/08/29/les-politiciens-professionnels-ont-fucked-up-ma-democratie/">mon article précédent</a>, j'ai réfléchi (un peu).
+</p>
+<p>
+Et plusieurs idées ce sont assemblées dans ma tête. Je vais essayer de les articuler correctement, mais ça n'est pas si facile ...
+</p>
+<p>
+Vous vous souvenez de la matinée sur le rôle social du développeur à <a href="https://riduidel.wordpress.com/tag/devoxx/">Devoxx </a>ce printemps ? Non ? Dans ce cas-là, j'en ai parlé :
+<br/>
+<ul>
+<br/>
+<li>
+<br/>
+<p class="entry-title"><a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-software-development-responsibility-and-ethics-the-coming-crisis/">Software development, responsibility and ethics: the coming crisis</a></p>
+<br/>
+</li>
+<br/>
+<li>
+<br/>
+<p class="entry-title"><a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-le-service-public-a-lheure-dinternet/">Le Service Public à l’heure d’internet</a></p>
+<br/>
+</li>
+<br/>
+<li>
+<br/>
+<p class="entry-title"><a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-algorithmes-les-nouveaux-pouvoirs-du-developpeur/">Algorithmes, les nouveaux pouvoirs du développeur</a></p>
+<br/>
+</li>
+<br/>
+<li>
+<br/>
+<p class="entry-title"><a href="https://riduidel.wordpress.com/2016/04/23/devoxxfr-de-lutopie-de-la-fin-du-travail-au-digital-labour/">De l’utopie de la fin du travail au digital labour</a></p>
+<br/>
+</li>
+<br/>
+</ul>
+<br/>
+Et je vous invite à relire ces articles pour bien comprendre de quoi il s'agit. L'idée que j'ai tiré, sans originalité, il est vrai, de ces quatre conférences, c'est que la révolution industrielle de l'informatique va changer la donne, comme les précédentes. Pour mémoire, la révolution de l'imprimerie n'a pas vraiment été une bonne chose pour les moines copistes.
+</p>
+<p>
+Il est déjà évident que la plupart des tâches pilotées par des workflows sont maintenant totalement définies par l'ordinateur (pensez par exemple aux centres d'appels, à la gestion des interventions des grandes entreprises, les remboursements de notes de frais, ...).
+</p>
+<p>
+Mais d'autres domaines vont bientôt tomber dans l'escarcelle des informaticiens : la bancassurance, la médecine. Le plus important étant évidement l'implémentation de la loi. En effet, si la loi est implémentée par du code (c'est le cas du code des impôts, par exemple), ce n'est plus vraiment le politicien qui choisit comme l'impôt est prélevé, mais le code écrit par un informaticien, quand bien même c'est un sous-traitant d'une grosse SSII en contrat avec le gouvernement.
+</p>
+<p>
+Or actuellement, nos représentants politiques (députés, maires, ministres), sont là pour ... nous représenter, parce que leur connaissance de la loi est plus grande, parce qu'ils sont des personnes clé.
+</p>
+<p>
+En conséquence, on retrouve par exemple dans l'assemblée nationale (je ne retrouve plus les statistiques que j'avais pu consulter il y a quelques années)
+<br/>
+<ul>
+<br/>
+<li>des avocats</li>
+<br/>
+<li>des notaires</li>
+<br/>
+<li>des médecins</li>
+<br/>
+<li>des fonctionnaires (je sais, ça n'est pas un métier, mais un statut), au premier rang desquels une palanquée d'inspecteurs des impôts.</li>
+<br/>
+<li>et un agriculteur</li>
+<br/>
+</ul>
+<br/>
+Est-ce qu'il y a des informaticiens dans le tas ? je ne crois pas, non.
+</p>
+<p>
+Est-ce qu'il y a des gens qui comprennent ce qu'est réellement la révolution numérique ? Je suis à peu près certain que non.
+</p>
+<p>
+Alors ?
+</p>
+<p>
+Qu'est-ce qu'il faut faire ?
+</p>
+<p>
+Vous vous doutez bien de la terrible réponse que je vais apporter : nous, les pionniers du digital, devons trouver des représentants, des champions, et les aider à prendre des responsabilités politiques, pour éviter que les politiques ne décident un jour que toutes ces histoires d'ordinateurs sont décidément trop dangereuses pour leur pouvoir, ce qui arrivera forcément.
+</p>
+++++

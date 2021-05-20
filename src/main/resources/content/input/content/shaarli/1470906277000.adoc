@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: BBQScreen · Share your Android screen on your PC
+:jbake-tags: software,freeware,windows,linux,macosx,android,remote,_mois_août,_année_2016
+:jbake-date: 2016-08-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1470906277000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fscreen.bbqdroid.org%2F&searchtags=software+freeware+windows+linux+macosx+android+remote+_mois_ao%C3%BBt+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://screen.bbqdroid.org/[BBQScreen · Share your Android screen on your PC]
+
+Très chouette : ça fait l'affichage, le clavier virtuel, et le son.

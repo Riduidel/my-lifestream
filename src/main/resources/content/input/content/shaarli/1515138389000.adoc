@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Erik McClure on Twitter: ""Exploiting Speculative Execution via Javascript" is possibly one of the most terrifying lines of text I've ever seen, especially since this… https://t.co/6KEr4lrD9y"
+:jbake-tags: web,sécurité,bug,javascript,_mois_janv.,_année_2018
+:jbake-date: 2018-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1515138389000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fblackhole0173%2Fstatus%2F948687448053182464&searchtags=web+s%C3%A9curit%C3%A9+bug+javascript+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/blackhole0173/status/948687448053182464[Erik McClure on Twitter: ""Exploiting Speculative Execution via Javascript" is possibly one of the most terrifying lines of text I've ever seen, especially since this… https://t.co/6KEr4lrD9y"]
+
+Le pire dans Spectre/Meltdown, c'est que l'exploitation \*en javascript\* est super simple

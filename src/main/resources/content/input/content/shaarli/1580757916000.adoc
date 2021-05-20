@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Aral Balkan 🕷 (@aral@mastodon.ar.al) sur Twitter : "Imagine the web without view source, where it’s an order of magnitude harder to filter surveillance, etc. That’s WebAssembly. Couple that with HTTP2/3 & you have a surveillance capitalist’s wet dream. Heck, it’s almost like they’re writing the standards. Wait a minute, they are!… https://t.co/QuBJTr6BBz"
+:jbake-tags: webassembly,javascript,w3c,standard,_mois_févr.,_année_2020
+:jbake-date: 2020-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1580757916000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faral%2Fstatus%2F1206173737730674688&searchtags=webassembly+javascript+w3c+standard+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/aral/status/1206173737730674688[Aral Balkan 🕷 (@aral@mastodon.ar.al) sur Twitter : "Imagine the web without view source, where it’s an order of magnitude harder to filter surveillance, etc. That’s WebAssembly. Couple that with HTTP2/3 & you have a surveillance capitalist’s wet dream. Heck, it’s almost like they’re writing the standards. Wait a minute, they are!… https://t.co/QuBJTr6BBz"]
+
+Ah tiens, cette critique de WebAssembly me semble assez intéressante.

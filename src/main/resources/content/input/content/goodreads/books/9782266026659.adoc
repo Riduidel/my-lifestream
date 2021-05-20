@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Dune *
+:jbake-tags:  anticipation, d-sert,_année_2020,_mois_déc.,_note_4,rayon-imaginaire,read
+:jbake-date: 2020-12-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782266026659.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1881916
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Tome 2 : <a target="_blank" rel="noopener nofollow" href="https://www.goodreads.com/book/show/1881844">https://www.goodreads.com/book/show/1...</a><br /><br />Il n'y a pas, dans tout l'Empire, de planète plus inhospitalière que Dune. Partout des sables à perte de vue. Une seule richesse : l'épice de longue vie, née du désert, et que tout l'univers achète à n'importe quel prix.<br /> Richesse très convoitée : quand Leto Atréides reçoit Dune en fief, il flaire le piège. Il aura besoin des guerriers Fremen qui, réfugiés au fond du désert, se sont adaptés à une vie très dure en préservant leur liberté, leurs coutumes et leur foi mystique. Ils rêvent du prophète qui proclamera la guerre sainte et qui, à la tête des commandos de la mort, changera le cours de l'histoire.<br /> Cependant les Révérendes Mères du Bene Gesserit poursuivent leur programme millénaire de sélection génétique ; elles veulent créer un homme qui concrétisera tous les dons latents de l'espèce. Tout est fécond dans ce programme y compris ses défaillances.<br /> Le Messie des Fremen est-il déjà né dans l'Empire ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/58.html[Frank Herbert]
+
+## Series
+* link:../series/Dune.html[Dune]
+
+## Review
+
+++++
+Dans cette première partie, on voit les Atreides prendre possession d'Arrakis, dans un contexte de piège assez évident, et dans une ambiance totalement paranoïaque. Ça n'empêche pas le roman d'avoir une analyse des différents personnages fine et nuancée, qui donne même du corps à cette ordure d'Harkonnen.
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Christophe Thibaut on Twitter: "#OpinionDrivenDevelopment - We don't unit test, it's too expensive. - How much do you spend on rework? - I don't know."
+:jbake-tags: citation,programming,metrics,productivité,_mois_févr.,_année_2017
+:jbake-date: 2017-02-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1486968297000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FToF_%2Fstatus%2F830452568312672256&searchtags=citation+programming+metrics+productivit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/ToF_/status/830452568312672256[Christophe Thibaut on Twitter: "#OpinionDrivenDevelopment - We don't unit test, it's too expensive. - How much do you spend on rework? - I don't know."]
+
+Pas bête du tout

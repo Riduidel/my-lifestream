@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mario Fusco on Twitter: "Abstractions are always a mental burden. They do make sense when they solve a problem. When they don't they only set an additional cost"
+:jbake-tags: citation,programming,abstraction,concepts,_mois_déc.,_année_2016
+:jbake-date: 2016-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1481885754000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmariofusco%2Fstatus%2F808750551815114755&searchtags=citation+programming+abstraction+concepts+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/mariofusco/status/808750551815114755[Mario Fusco on Twitter: "Abstractions are always a mental burden. They do make sense when they solve a problem. When they don't they only set an additional cost"]
+
+Pas bête du tout

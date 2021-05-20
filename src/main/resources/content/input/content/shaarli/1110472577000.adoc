@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rainer Brockerhoff :: Nudge Contextual Menu
+:jbake-tags: software,freeware,macosx,system,_mois_mars,_année_2005
+:jbake-date: 2005-03-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1110472577000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.brockerhoff.net%2Fnudge%2F&searchtags=software+freeware+macosx+system+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.brockerhoff.net/nudge/[Rainer Brockerhoff :: Nudge Contextual Menu]
+
+This Contextual Menu "nudges" the Finder to update the information it displays about a file or folder. Use it on any item (or groups of items) if you suspect the Finder hasn't updated its view. This should work for most attribute changes, icon changes, si

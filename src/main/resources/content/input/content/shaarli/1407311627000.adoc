@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Xfennec/cv · GitHub
+:jbake-tags: linux,shell,_mois_août,_année_2014
+:jbake-date: 2014-08-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1407311627000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FXfennec%2Fcv&searchtags=linux+shell+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://github.com/Xfennec/cv[Xfennec/cv · GitHub]
+
+Mmmh ... Je me demande si ça marcherait sur mon DNS-323, ce truc ... Parce que quand je copie des gros fichiers, je trouve plutôt pénible d'attendre la fin de la commande.

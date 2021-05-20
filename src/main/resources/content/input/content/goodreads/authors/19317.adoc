@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Spider Robinson
+:jbake-tags: author
+:jbake-date: 2017-06-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/19317.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1248450944p5/19317.jpg
+:jbake-source: https://www.goodreads.com/author/show/19317
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782917689813.html[La Danse des étoiles]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: InstallPad - Get programs faster
+:jbake-tags: configuration,freeware,geek,install,management,open-source,productivité,software,windows,update,utilities,_mois_janv.,_année_2008
+:jbake-date: 2008-01-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1199711371000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Finstallpad.com%2F&searchtags=configuration+freeware+geek+install+management+open-source+productivit%C3%A9+software+windows+update+utilities+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://installpad.com/[InstallPad - Get programs faster]
+
+Ca m'a tout l'air d'être une excellente idée,c e petit logiciel qui peut permettre d'installer tous les indispensables en une fois. Faudrait le testeer dans les conditions du réel pour voir ce qu'il vaut ...

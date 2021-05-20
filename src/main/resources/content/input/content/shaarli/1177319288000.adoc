@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home Zone - Adapting your Mac to wherever you are
+:jbake-tags: software,freeware,macosx,system,réseau,_mois_avr.,_année_2007
+:jbake-date: 2007-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1177319288000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmetaquark.de%2Fhomezone%2F&searchtags=software+freeware+macosx+system+r%C3%A9seau+_mois_avr.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://metaquark.de/homezone/[Home Zone - Adapting your Mac to wherever you are]
+
+Un petit logiciel pour reconfigurer le réseau du mac selon les réseaux wifi disponibles (par exemple)

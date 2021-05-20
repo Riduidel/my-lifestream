@@ -1,0 +1,18 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ben Aaronovitch
+:jbake-tags: author
+:jbake-date: 2016-05-01
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/363130.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1569267834p5/363130.jpg
+:jbake-source: https://www.goodreads.com/author/show/363130
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290040386.html[Murmures souterrains (Le Dernier Apprenti Sorcier, #3)]
+* link:../books/9782290040393.html[Magie noire à Soho (Le Dernier Apprenti Sorcier, #2)]
+* link:../books/9782290040416.html[Les Rivières de Londres (Le Dernier Apprenti Sorcier #1)]
+* link:../books/9782290081068.html[Le Rêve de l'Architecte (Le Dernier Apprenti Sorcier, #4)]
+* link:../books/9782290081075.html[Les Disparues de Rushpool (Le Dernier Apprenti Sorcier, #5)]
+* link:../books/9782290172865.html[L'Arbre des pendus (Le Dernier Apprenti Sorcier, #6)]

@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shaolin Cowboy
+:jbake-tags: serie
+:jbake-date: 2015-11-14
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Shaolin_Cowboy.adoc
+:jbake-source: https://www.goodreads.com/series/109290
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9781616557263.html[The Shaolin Cowboy: Shemp Buffet]

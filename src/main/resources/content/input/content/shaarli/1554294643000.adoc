@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Prashant Deva on Twitter: "JS Programmer Evolution: 1. Java sucks! With JS I just write code and it does stuff 2. Hmm OOP is cool = ES6 classes 3. Build systems really do help = Webpack 4. Wow Type safety is neat = TypeScript 5. So IDEs > Editors = VS Code 6. 'Write once, run anywhere' = WebAssembly"
+:jbake-tags: citation,humour,critique,javascript,_mois_avr.,_année_2019
+:jbake-date: 2019-04-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1554294643000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fpdeva%2Fstatus%2F1112067968257544192&searchtags=citation+humour+critique+javascript+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/pdeva/status/1112067968257544192[Prashant Deva on Twitter: "JS Programmer Evolution: 1. Java sucks! With JS I just write code and it does stuff 2. Hmm OOP is cool = ES6 classes 3. Build systems really do help = Webpack 4. Wow Type safety is neat = TypeScript 5. So IDEs > Editors = VS Code 6. 'Write once, run anywhere' = WebAssembly"]
+
+Bisou à tous mes collègues qui font du javascript :-)

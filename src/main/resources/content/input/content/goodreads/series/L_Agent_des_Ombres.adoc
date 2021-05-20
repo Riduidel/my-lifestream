@@ -1,0 +1,17 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: L'Agent des Ombres
+:jbake-tags: serie
+:jbake-date: 2008-06-29
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/L_Agent_des_Ombres.adoc
+:jbake-source: https://www.goodreads.com/series/73312
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782266174138.html[L'ange du chaos (L'agent des ombres, #1)]
+* link:../books/9782266174145.html[Coeur de Loki (L'agent des ombres, #2)]
+* link:../books/9782266192576.html[Sang-pitié (L'agent des ombres, #3)]
+* link:../books/9782266192750.html[Hors-Destin (L'agent des ombres, #4)]
+* link:../books/9782266192767.html[Belle de Mort (L'agent des ombres, #5)]
+* link:../books/9782266220552.html[Guerrier des lunes (L'agent des ombres, #6)]

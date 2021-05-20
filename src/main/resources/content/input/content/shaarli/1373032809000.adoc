@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: shaarliTV
+:jbake-tags: shaarli,vidéo,web,_mois_juil.,_année_2013
+:jbake-date: 2013-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1373032809000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnexen.mkdir.fr%2Fshaarli-tv%2F&searchtags=shaarli+vid%C3%A9o+web+_mois_juil.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://nexen.mkdir.fr/shaarli-tv/[shaarliTV]
+
+Alors ça aussi c'est cool (et c'est \*encore\* grâce à l'exploitation des flux RSS qu'on peut arriver à ça). Donc, la shaarli-tv recense les vidéos partagées sur les différents shaarli. Avec ça, on comprend que shaarli devient, via les différents outils qui utilisent son RSS, un outil de curation collaborative aussi riche que sa communauté est inventive.

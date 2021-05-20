@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GeneRally
+:jbake-tags: freeware,jeu,multiplayer,windows,_mois_janv.,_année_2008
+:jbake-date: 2008-01-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1200046632000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgenerally.cjb.net%2F&searchtags=freeware+jeu+multiplayer+windows+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://generally.cjb.net/[GeneRally]
+
+Le jeu de bagnoles avec le plus petit nombre de polygones. Pas forcément très dur, mais assez fun et vraiment très jouable.

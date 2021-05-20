@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Palimpseste
+:jbake-tags:  combat, mort, rayon-emprunt, rayon-imaginaire, voyage,_année_2012,_mois_avr.,_note_4,read,temps
+:jbake-date: 2012-04-02
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782290035726.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328804588l/10753368._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328804588l/10753368._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/10753368
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Drame écologique, guerre nucléaire, catastrophe naturelle... À plus ou moins long terme, toute civilisation est vouée à disparaître. Cela s'est d'ailleurs produit des millions de fois depuis la formation de notre planète.<br /> Pour préserver l'humanité de ces inévitables apocalypses, des agents venus d'un lointain futur voyagent tout au long de l'histoire de la Terre : à chaque fin du monde, ils sauvent ce qui peut l'être, et permettent ainsi à notre espèce de renaître de ses cendres. Mais toute intervention sur l'histoire a des conséquences, parfois tragiques...<br /> Pierce est l'un de ces agents, un patrouilleur du temps promis à une brillante carrière. Pourtant, sa vie bascule le jour où sa famille et l'époque qui l'abritait sont « effacées » par une nouvelle version de l'histoire, tel un palimpseste. Son seul espoir réside à la fin des temps, où sont archivés tous les pans disparus de l'histoire.<br /> Dans l'infini des possibles, retrouvera-t-il celle qu'il aime ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/8794.html[Charles Stross]
+* link:../authors/2771857.html[Florence Dolisi]
+
+
+
+## Review
+
+++++
+Dans ce très court roman (160 pages !), on suit l'ascencion de Pierce, jeune agent de la Stase - chargée de protéger une lignée historique privilégiée nous menant des milliards d'années dans le futur. cette ascencion nous fera d'abord passer par son initiation (moment difficile entre tous, puisqu'il doit devenir un être paradoxal), avant d ele voir plongé dans ses premières missions, sa réalisation de ce qu'il a perdu, avant qu'enfin n'arrive la compréhension de ce qu'est la Stase.<br/><br/>Bon, c'est difficile de parler d'un roman qui manie à ce point le concept du palimpseste temporel, mais je vais quand même essayer. D'abord, le palimpseste, vous savez ce que c'est : un aprchemin sur lequel un deuxième auteur a gratté le texte précédent pour y réécrire le sien. Grâce à une théorie historique assez simple, <a class="DirectAuthorReference destination_Author" href="../authors/8794.html">Charles Stross</a> choisit de faire de l'histoire un palimpseste dans lequel les agents de la Stase (seuls à se promener dans le Temps) sont libres de réécrire à leur convenance (enfin, à la convenance de la Stase, mais c'est assez proche) des parties de l'Histoire, qu'elles soient courtes ou longues. Et ils ne s'en privent pas. C'est ainsi que le personnage principal sera déja mort plusieurs fois (toutes réécrites) avant la fin de sa formation. C'est également ainsi que les membres de la Stase peuvent sembler se démulitiplier, dans un troublant jeu de miroirs temporels formidablement exposé par le personnage de Kafka (que j'imagine sans peine être une référence à l'oeuvre du vrai Kafka - en particuler la scène où Pierce visite les bureaux de Kafka). C'est comme toujours chez cet auteur magistralement pensé et plutôt bien écrit.<br/><br/>Qui plus est, je trouve le choix de l'instance de Pierce utilisé comme personnage principal particulièrement bien pensé : Stross aurait pu sans problème utiliser le Pierce héroïque. Au lieu deça, il prend celui qui sera indubitablement un témoin passif de la réussite de son alter ego.<br/><br/>D'ailleurs, en parlant de cet alter ego, j'ai bien cru voir dans les scènes finales des citations, voire des redites, de l'Oecumène d'or et de son personnage de Phaéton ... efnin, c'est l'impression que j'en ai eu.<br/><br/>C'est en tout cas une lecture singulière, plutôt sombre par ce qu'elle dit d'un univers en perpétuelle expansion (et perpétuel refroidissement), mais néanmoins terriblement subtile dans sa réflexion sur ce que peut être la nature d'un Temps dans lequel certains seraient libres de se balader dans la direction de leur choix.
+++++

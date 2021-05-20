@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: maemo.org - USBnetworkingWinXP
+:jbake-tags: n800,réseau,tutorial,documentation,usb,windows,XP,_mois_août,_année_2007
+:jbake-date: 2007-08-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1187704280000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmaemo.org%2Fcommunity%2Fwiki%2Fusbnetworkingwinxp%2F&searchtags=n800+r%C3%A9seau+tutorial+documentation+usb+windows+XP+_mois_ao%C3%BBt+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://maemo.org/community/wiki/usbnetworkingwinxp/[maemo.org - USBnetworkingWinXP]
+
+Complémentaire de l'utilisation de Synergy, comment connecter le n800 à une machine Windows XP en USB

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Facial recognition technology can expose political orientation from naturalistic facial images | Scientific Reports
+:jbake-tags: ia,reconnaissance,image,éthique,politique,_mois_janv.,_année_2021
+:jbake-date: 2021-01-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1610962696000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nature.com%2Farticles%2Fs41598-020-79310-1&searchtags=ia+reconnaissance+image+%C3%A9thique+politique+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.nature.com/articles/s41598-020-79310-1[Facial recognition technology can expose political orientation from naturalistic facial images | Scientific Reports]
+
+Absolument pas effrayant. Parce qu'avec ça, même plus besoin de ficher les gens, il suffit de laisser l'ordinateur les regarder. Et pour le coup, ce serait vraiment bien de comprendre quelles features permettent la détection

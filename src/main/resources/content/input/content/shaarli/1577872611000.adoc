@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jason Fried sur Twitter : "If your company requires you to work nights and weekends, your company is broken. This is a managerial problem, not your problem. This is a process problem, not a personal problem. This is an ownership problem, not an individual problem."
+:jbake-tags: citation,travail,informatique,organisation,_mois_janv.,_année_2020
+:jbake-date: 2020-01-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1577872611000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fjasonfried%2Fstatus%2F1209115637148274690&searchtags=citation+travail+informatique+organisation+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/jasonfried/status/1209115637148274690[Jason Fried sur Twitter : "If your company requires you to work nights and weekends, your company is broken. This is a managerial problem, not your problem. This is a process problem, not a personal problem. This is an ownership problem, not an individual problem."]
+
+A l'heure des infrastructures auto-scalables, auto-redéployables, les astreintes perdent du sens, sauf pour ceux qui gèrent le "vrai" matériel critique (les infrastructures réseau, quoi)

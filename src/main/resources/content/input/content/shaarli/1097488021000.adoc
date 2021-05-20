@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AST : Association Science et télévision
+:jbake-tags: culture,science,_mois_oct.,_année_2004
+:jbake-date: 2004-10-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1097488021000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.science-television.com%2Faccueil.php%3Flang%3Dfr&searchtags=culture+science+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.science-television.com/accueil.php?lang=fr[AST : Association Science et télévision]
+
+Une association valorisant les échanges entre scientifiques et "télévisuels"

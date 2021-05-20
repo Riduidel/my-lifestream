@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Music Browser
+:jbake-tags: @toinstall,dns-323,freeware,mp3,streaming,software,php,_mois_sept.,_année_2012
+:jbake-date: 2012-09-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1347366183000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmusicbrowser.sourceforge.net%2F&searchtags=%40toinstall+dns-323+freeware+mp3+streaming+software+php+_mois_sept.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://musicbrowser.sourceforge.net/[Music Browser]
+
+A installer sur le DNS-323 pour pouvoir écouter la musique partout !

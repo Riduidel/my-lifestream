@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NIP.IO - wildcard DNS for any IP Address
+:jbake-tags: web,service,dns,_mois_oct.,_année_2017
+:jbake-date: 2017-10-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1508938510000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnip.io%2F&searchtags=web+service+dns+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://nip.io/[NIP.IO - wildcard DNS for any IP Address]
+
+On me souffle à l'oreille que ce service est plus stable que xip.io

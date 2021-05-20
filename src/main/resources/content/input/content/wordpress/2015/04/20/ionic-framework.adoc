@@ -1,0 +1,59 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ionic framework ?
+:jbake-tags: chtijug,javascript,mobile,web,_mois_avr.,_année_2015
+:jbake-date: 2015-04-20
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/04/20/ionic-framework.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/04/20/ionic-framework/
+:jbake-style: wordpress
+
+++++
+<p>
+Eh mais la semaine dernière, il y avait ...
+</p>
+<p>
+<div class='twitter'>
+<br/>
+https://twitter.com/cyril_lakech/status/585523134629031937
+<br/>
+</div>
+</p>
+<p>
+Et je n'en ai pas encore parlé ? C'est MOCHE.
+</p>
+<p>
+Donc, ionic framework ...
+</p>
+<p>
+pour lequel Loïc fournit les slides :
+</p>
+<p>
+[slideshare id=47142410&#38;doc=chtijug-15-04-2015-150418081628-conversion-gate01]
+</p>
+<p>
+Comme ça, je n'aurais pas à vous résumer le truc, mais juste à donner mon avis.
+</p>
+<p>
+Ionic est donc une surcouche d'<a href="https://cordova.apache.org/">Apache Cordova</a> pour y faciliter l'intégration d'AngluarJS et d'autres trucs. Ca permet de faire facilement des applis hybrides pour mobiles.
+</p>
+<p>
+Les applis hybrides étant, pour ceux qui ne le sauraient pas, des applications web packagées pour ressembler aux applications système.
+</p>
+<p>
+Au passage, un petit tacle à ceux qui croient que c'est moche : les jeux de chez Wargaming utilisent ce type d'application pour les garages de World of <a href="http://worldoftanks.eu/fr/content/guide/newcomers-guide/garage/">Tank</a>/Warplanes/Battleships. Et pourtant, ça ressemble assez peu à un site web, il me semble. Donc dire que l'hybride est forcément une mauvaise solution me paraît un peu abusif.
+</p>
+<p>
+Bref. On retrouve donc avec Ionic la possibilité de construire une appli mobile en web. Et, malheureusement, avec Angular. je dis malheureusement, parce que franchement, angular me sort autant par les yeux que JSF, et c'est pas peu dire.
+</p>
+<p>
+Cela dit, la présentation était sympa.
+</p>
+<p>
+J'ai même été particulièrement bluffé par l'intégration de Firebase. Je savais que cette base de données "as a service" existait. Mais je ne savais pas que c'était aussi chouette. Tellement que ça a éclipsé dans mon esprit toutes les idées du genre "mais pourquoi ne pas remplacer angular par Ractive ?"
+</p>
+<p>
+Donc, une présentation réussie, mais pas pour son sujet principal.
+</p>
+++++

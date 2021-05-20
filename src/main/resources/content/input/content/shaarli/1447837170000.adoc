@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ça y est : les attentats mis sur le dos du chiffrement - Rue89 - L'Obs
+:jbake-tags: politique,numérique,sécurité,confidentialité,_mois_nov.,_année_2015
+:jbake-date: 2015-11-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1447837170000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frue89.nouvelobs.com%2F2015%2F11%2F17%2Fca-y-est-les-attentats-mis-dos-chiffrement-262154&searchtags=politique+num%C3%A9rique+s%C3%A9curit%C3%A9+confidentialit%C3%A9+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://rue89.nouvelobs.com/2015/11/17/ca-y-est-les-attentats-mis-dos-chiffrement-262154[Ça y est : les attentats mis sur le dos du chiffrement - Rue89 - L'Obs]
+
+Donc après l'espionnage généralisé des communications numériques (qui n'a manifestement servi à rien), l'étape suivante sera l'interdiction du chiffrement efficace comme en Angleterre.

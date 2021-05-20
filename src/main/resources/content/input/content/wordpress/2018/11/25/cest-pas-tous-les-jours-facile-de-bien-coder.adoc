@@ -1,0 +1,25 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: C'est pas tous les jours facile de bien coder
+:jbake-tags: android,groovy,open-source,_mois_nov.,_année_2018
+:jbake-date: 2018-11-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/11/25/cest-pas-tous-les-jours-facile-de-bien-coder.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/11/25/cest-pas-tous-les-jours-facile-de-bien-coder/
+:jbake-style: wordpress
+
+++++
+<p>
+Pendant Hacktoberfest, j'ai voulu participer à un projet d'application médicale pour Android qui a l'air bien cool : <a href="https://github.com/citiususc/calendula/">Calendula</a>. C'est une application qui permet de suivre la prise de médicaments, et d'y inscrire les médicaments depuis une base nationale. Comme l'application est développée par un espagnol, elle utilise la base de données des médicaments espagnole, ce qui la rend moins utile en France.
+</p>
+<p>
+Heureusement, en France, la <a href="http://base-donnees-publique.medicaments.gouv.fr/telechargement.php">HAS</a> fournit une base équivalente.
+</p>
+<p>
+Malheureusement, il faut convertir cette base dans le format de Calendula. J'ai donc écrit <a href="https://github.com/Riduidel/calendula-france">un script Groovy</a> qui fait ça (et qui marche bien, et c'est cool). Mais j'ai foiré mon script. Parce que celui-ci télécharge à chaque fois les fichiers de la HAS. Or, comme je veux pouvoir le releaser facilement, je me suis dit que je pourrais utiliser <a href="https://jitpack.io">jitpack</a>. Et celui-ci permet de faire une release à partir de chaque <a href="https://blog.github.com/2013-07-02-release-your-software/">release GitHub</a>. Cette release peut être <a href="https://circleci.com/blog/publishing-to-github-releases-via-circleci/">générée à partir de CircleCI</a>, mais il faut pour cela avoir tous les fichiers ... y compris les fichiers de la HAS ! Je vais donc devoir réécrire ce script pour utiliser les fichiers locaux. Ca n'est en vérité pas un gros travail. Mais il faut le faire ... Et ça retarde encore la livraison de ce bout de code.
+</p>
+<p>
+Encore une leçon pour le débutant que je suis : parfois, le mode de livraison impacte l'architecture du logiciel à livrer.
+</p>
+++++

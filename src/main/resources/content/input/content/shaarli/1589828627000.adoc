@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Debloating Windows 10 and increasing privacy with SharpApp
+:jbake-tags: windows,sécurité,intimité,protection,_mois_mai,_année_2020
+:jbake-date: 2020-05-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1589828627000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.bleepingcomputer.com%2Fnews%2Fmicrosoft%2Fdebloating-windows-10-and-increasing-privacy-with-sharpapp%2F&searchtags=windows+s%C3%A9curit%C3%A9+intimit%C3%A9+protection+_mois_mai+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.bleepingcomputer.com/news/microsoft/debloating-windows-10-and-increasing-privacy-with-sharpapp/[Debloating Windows 10 and increasing privacy with SharpApp]
+
+J'ai l'impression que ça vaudrait le coup de voir ce qui se passe avec ce truc.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+) | Adrian Mejia Blog
+:jbake-tags: programming,langage,javascript,python,_mois_oct.,_année_2016
+:jbake-date: 2016-10-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1477466030000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fadrianmejia.com%2Fblog%2F2016%2F10%2F19%2FOverview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015%2F&searchtags=programming+langage+javascript+python+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://adrianmejia.com/blog/2016/10/19/Overview-of-JavaScript-ES6-features-a-k-a-ECMAScript-6-and-ES2015/[Overview of JavaScript ES6 features (a.k.a ECMAScript 6 and ES2015+) | Adrian Mejia Blog]
+
+Clairement, Python s'invite dans ES6

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Opinion | We Built an ‘Unbelievable’ (but Legal) Facial Recognition Machine - The New York Times
+:jbake-tags: intimité,sécurité,surveillance,webcam,_mois_avr.,_année_2019
+:jbake-date: 2019-04-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1556082083000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nytimes.com%2Finteractive%2F2019%2F04%2F16%2Fopinion%2Ffacial-recognition-new-york-city.html&searchtags=intimit%C3%A9+s%C3%A9curit%C3%A9+surveillance+webcam+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.nytimes.com/interactive/2019/04/16/opinion/facial-recognition-new-york-city.html[Opinion | We Built an ‘Unbelievable’ (but Legal) Facial Recognition Machine - The New York Times]
+
+Une expérience sérieusement flippante (et totalement faisable en France)

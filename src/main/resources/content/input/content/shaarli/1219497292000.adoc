@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: JHeader Java EXIF/JFIF Header Library
+:jbake-tags: exif,java,software,freeware,open-source,editor,_mois_août,_année_2008
+:jbake-date: 2008-08-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1219497292000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjheader.sourceforge.net%2Fscreenshots.html&searchtags=exif+java+software+freeware+open-source+editor+_mois_ao%C3%BBt+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://jheader.sourceforge.net/screenshots.html[JHeader Java EXIF/JFIF Header Library]
+
+Une application d'édition de métadonnées EXIF. Un peu dans l'esprit de mon projet secret, mais sûrement moins joli que ce que je veux faire ...

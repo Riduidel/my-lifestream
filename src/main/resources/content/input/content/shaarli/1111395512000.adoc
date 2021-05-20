@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Morpheus Software - Gamer's Internet Tunnel
+:jbake-tags: software,freeware,réseau,windows,jeu,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111395512000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.morpheussoftware.net%2Fgit%2F&searchtags=software+freeware+r%C3%A9seau+windows+jeu+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.morpheussoftware.net/git/[Morpheus Software - Gamer's Internet Tunnel]
+
+Gamer's Internet Tunnel (GIT) is a free utility to link LANs together over the Internet for network gameplay. It can also be used to bridge many configurations of IPX or IPv4 packets and frames from once point to another. Formerlly known as the Gamer's I

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Monter une partition d’un serveur distant via ftp avec fuse et curlftpfs
+:jbake-tags: documentation,tutorial,linux,ubuntu,réseau,ftp,system,_mois_mars,_année_2007
+:jbake-date: 2007-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1174123162000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.coagul.org%2Farticle.php3%3Fid_article%3D466&searchtags=documentation+tutorial+linux+ubuntu+r%C3%A9seau+ftp+system+_mois_mars+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.coagul.org/article.php3?id_article=466[Monter une partition d’un serveur distant via ftp avec fuse et curlftpfs]
+
+Un tutorial complet pour se rajouter une partition FTP grâce à curlftpfs et Fuse

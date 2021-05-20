@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Écriture inclusive et risques de sécurité | Tactical Grace
+:jbake-tags: web,sécurité,langue,france,_mois_avr.,_année_2018
+:jbake-date: 2018-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1523611054000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.patpro.net%2Fblog%2Findex.php%2F2018%2F03%2F01%2F3101-ecriture-inclusive-et-risques-de-securite%2F&searchtags=web+s%C3%A9curit%C3%A9+langue+france+_mois_avr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.patpro.net/blog/index.php/2018/03/01/3101-ecriture-inclusive-et-risques-de-securite/[Écriture inclusive et risques de sécurité | Tactical Grace]
+
+ah ah, c'est marrant cette histoire de vulnérabilité potentielle ...

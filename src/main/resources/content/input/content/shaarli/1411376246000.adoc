@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Solving ORM - Keep the O, Drop the R, no need for the M
+:jbake-tags: mapping,java,orm,graph,sgbd,_mois_sept.,_année_2014
+:jbake-date: 2014-09-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1411376246000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.jhades.org%2Fsolving-orm-complexity-keep-the-o-drop-the-r-no-need-for-the-m%2F&searchtags=mapping+java+orm+graph+sgbd+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.jhades.org/solving-orm-complexity-keep-the-o-drop-the-r-no-need-for-the-m/[Solving ORM - Keep the O, Drop the R, no need for the M]
+
+Il y a un truc dans cet article qui est vrai : les bases graphes simplifient considérablement le mapping. Tellement que j'ai pu moi-même écrire une telle API de mapping ... qui a même quelques avantages par rapport à Hibernate OGM.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: chaica/feed2tweet: Parse rss feed and tweet new posts to Twitter
+:jbake-tags: python,web,rss,twitter,_mois_avr.,_année_2017
+:jbake-date: 2017-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1493131413000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fchaica%2Ffeed2tweet&searchtags=python+web+rss+twitter+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/chaica/feed2tweet[chaica/feed2tweet: Parse rss feed and tweet new posts to Twitter]
+
+Intéressant : je pourrais peut-être me débarasser d'IFTTT (qui n'est pas si mal)

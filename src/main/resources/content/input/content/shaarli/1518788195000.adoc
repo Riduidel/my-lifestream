@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Listen to your code: Problem-solving techniques in programming - Advanced Web Machinery
+:jbake-tags: debug,programming,présentation,_mois_févr.,_année_2018
+:jbake-date: 2018-02-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1518788195000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fadvancedweb.hu%2F2017%2F11%2F06%2Fproblem-solving-techniques%2F&searchtags=debug+programming+pr%C3%A9sentation+_mois_f%C3%A9vr.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://advancedweb.hu/2017/11/06/problem-solving-techniques/[Listen to your code: Problem-solving techniques in programming - Advanced Web Machinery]
+
+Il va être temps que je lance ma série d'articles équivalent ... Et j'en ai des choses à dire !

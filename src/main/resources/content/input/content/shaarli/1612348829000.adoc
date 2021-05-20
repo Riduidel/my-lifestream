@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Mockup Blog: Reading tables from images with magick
+:jbake-tags: image,analyse,ocr,algorithme,méthode,@project_keepass_ocr,_mois_févr.,_année_2021
+:jbake-date: 2021-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1612348829000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fthemockup.blog%2Fposts%2F2021-01-18-reading-tables-from-images-with-magick%2F&searchtags=image+analyse+ocr+algorithme+m%C3%A9thode+%40project_keepass_ocr+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://themockup.blog/posts/2021-01-18-reading-tables-from-images-with-magick/[The Mockup Blog: Reading tables from images with magick]
+
+L'article est vraiment impressionnant, et contient quelques étapes qui vont me servir dans un prochain projet.

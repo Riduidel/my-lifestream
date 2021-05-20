@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Source Software for Windows- Suggested Applications
+:jbake-tags: software,freeware,open-source,windows,library,_mois_mai,_année_2005
+:jbake-date: 2005-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1115654382000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.jairlie.com%2Foss%2Fsuggestedapplications.html&searchtags=software+freeware+open-source+windows+library+_mois_mai+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.jairlie.com/oss/suggestedapplications.html[Open Source Software for Windows- Suggested Applications]
+
+A decent, lightly dated look at Open Source software for Windows

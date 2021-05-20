@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vendor Excuses on Twitter: "The bug wasn't ours. It was in an open source project we use, but do not fund or contribute to in any way."
+:jbake-tags: software,open-source,_mois_déc.,_année_2015
+:jbake-date: 2015-12-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1449492013000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fvendorexcuses%2Fstatus%2F623226330092544000&searchtags=software+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/vendorexcuses/status/623226330092544000[Vendor Excuses on Twitter: "The bug wasn't ours. It was in an open source project we use, but do not fund or contribute to in any way."]
+
+Mouaip ... Si les entreprises informatiques contribuaient (ne serait-ce qu'en signalant les bugs), l'open-source irait bien mieux. Hélas, c'est souvent interdit.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Blog Alsacr‽ations : XHTML, CSS et Standards web
+:jbake-tags: web,blog,standard,css,html,xhtml,dhtml,javascript,w3c,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112346586000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.alsacreations.com%2F&searchtags=web+blog+standard+css+html+xhtml+dhtml+javascript+w3c+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://blog.alsacreations.com/[Blog Alsacr‽ations : XHTML, CSS et Standards web]
+
+Tutoriels CSS, news (blog) et exemples de fil RSS et Atom

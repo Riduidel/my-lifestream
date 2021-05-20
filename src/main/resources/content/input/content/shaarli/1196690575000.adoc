@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Enterprise Java Community: Using OpenID
+:jbake-tags: j2ee,java,open-source,sécurité,tutorial,documentation,_mois_déc.,_année_2007
+:jbake-date: 2007-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1196690575000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theserverside.com%2Ftt%2Farticles%2Farticle.tss%3Fl%3DOpenID&searchtags=j2ee+java+open-source+s%C3%A9curit%C3%A9+tutorial+documentation+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.theserverside.com/tt/articles/article.tss?l=OpenID[Enterprise Java Community: Using OpenID]
+
+Un article clair et complet sur l'authentification OpenID et son intégration dans une application Java. Ca me plaît bien, cette idée. je me demande pourquoi Wicket-security ne l'incorpore pas encore ...

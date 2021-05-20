@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Luis Fraile on Twitter: "Interesting things you find in friend’s offices #DevOps #DeployFirst #Payvision… "
+:jbake-tags: programming,manifesto,devops,architecture,_mois_juil.,_année_2018
+:jbake-date: 2018-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1531303556000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flfraile%2Fstatus%2F1016306697202257920&searchtags=programming+manifesto+devops+architecture+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/lfraile/status/1016306697202257920[Luis Fraile on Twitter: "Interesting things you find in friend’s offices #DevOps #DeployFirst #Payvision… "]
+
+Alors ça c'est un manifeste qui crée du sens !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Melvin Burgess
+:jbake-tags: author
+:jbake-date: 2009-07-28
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/56977.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1206545905p5/56977.jpg
+:jbake-source: https://www.goodreads.com/author/show/56977
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780765340146.html[Bloodtide (Blood, #1)]

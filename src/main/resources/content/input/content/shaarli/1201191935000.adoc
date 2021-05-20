@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visible Body | 3D Human Anatomy
+:jbake-tags: biologie,online,science,3d,_mois_janv.,_année_2008
+:jbake-date: 2008-01-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1201191935000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.visiblebody.com%2Fstart&searchtags=biologie+online+science+3d+_mois_janv.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.visiblebody.com/start[Visible Body | 3D Human Anatomy]
+
+Un très bel outil d'exploration de l'anatomie humaine. Dommage qu'il soit aussi gourmand !

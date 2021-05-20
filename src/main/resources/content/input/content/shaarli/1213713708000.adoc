@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Windows Vista: How to Make Windows Vista Less Annoying
+:jbake-tags: software,reference,vista,windows,_mois_juin,_année_2008
+:jbake-date: 2008-06-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1213713708000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flifehacker.com%2F5016951%2Fhow-to-make-windows-vista-less-annoying&searchtags=software+reference+vista+windows+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://lifehacker.com/5016951/how-to-make-windows-vista-less-annoying[Windows Vista: How to Make Windows Vista Less Annoying]
+
+Des trucs pour que le m1330 marche bien

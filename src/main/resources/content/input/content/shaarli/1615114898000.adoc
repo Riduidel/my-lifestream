@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why doesn't java.util.Optional implement Iterable? - Stack Overflow
+:jbake-tags: java,langage,ergonomie,question,_mois_mars,_année_2021
+:jbake-date: 2021-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1615114898000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fstackoverflow.com%2Fq%2F40023850%2F15619&searchtags=java+langage+ergonomie+question+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://stackoverflow.com/q/40023850/15619[Why doesn't java.util.Optional implement Iterable? - Stack Overflow]
+
+C'est une bonne question, tiens, et la réponse ne me satisfait pas complètement, puisqu'une bonne partie des améliorations de Java sont d'ordre ergonomique, et on ajouterait là un peu d'ergonomie

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Isolation
+:jbake-tags: sociologie,communication,_mois_nov.,_année_2015
+:jbake-date: 2015-11-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1447080505000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1601%2F&searchtags=sociologie+communication+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://xkcd.com/1601/[Isolation]
+
+C'est la classique confusion entre sociable (qui veut communiquer) et grégaire (qui veut juste être "dans le troupeau").

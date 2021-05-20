@@ -1,0 +1,60 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tous les modèles sont faux
+:jbake-tags: architecture_agile,réflexion,_mois_avr.,_année_2020
+:jbake-date: 2020-04-21
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/21/tous-les-modeles-sont-faux.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/21/tous-les-modeles-sont-faux/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cette article servira de conclusion à cette série concernant la <a href="https://riduidel.wordpress.com/2020/04/07/comment-documenter-une-architecture-ou-pourquoi-jutilise-c4-structurizr-asciidoc/">documentation d'architecture </a>agile en utilisant C4.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Vous connaissez sans doute cette citation : "Tous les modèles sont faux, mais certains sont utiles". Elle est tellement pertinente que j'ai failli la mettre dans le modèle de document que je génère avec mon <a href="https://github.com/Riduidel/agile-architecture-documentation-archetype">archétype maven</a>. Pourquoi ? Tout simplement parce que ce que vous créez dans votre documentation d'architecture est un modèle du code qui est écrit, voire même pire, une métaphore. Et que ce soit l'un ou l'autre, il est éloigné de la réalité pour tout un tas de raisons, concrètes ou non. Voici quelques exemples</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Si vous utilisez un bus de message, comment avez-vous indiqué quels topics/queues sont utilisés, quelle est la rétention dans ces topics/queues, quel est le format de message (ça, vous l'avez peut-être mis)</li><li>Si vous utilisez une forme quelconque de chiffrement, votre documentation inclut peut-être l'algorithme, mais sûrement pas la clé, ni le salt</li><li>Si vous décrivez un algorithme, vous ne le décrivez pas complètement, sinon votre documentation <strong>serait</strong> le code. Et vous vous retrouveriez avec deux versions potentiellement incompatibles (pardon, je voulais écrire incompatibles à terme).</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Bref, parce que cette documentation n'est que l'histoire que vous souhaitez raconter, elle est forcément incomplète : vous ne traitez pas de chaque détail de votre système, vous choisissez un point de vue. C'est normal. Ce qui l'est moins, c'est de prétendre ne pas choisir ce point de vue ou d'être exhaustif. Et ça, c'est l'un des dangers qui vous menace directement. Parce que vous avez créé une histoire autour du travail de vos développeurs, vous allez avoir tendance à croire à votre histoire plus qu'à la réalité. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Comment lutter contre cette tendance mythomane ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'abord, et avant tout, en vous mettant sous le contrôle de vos développeurs. C'est-à-dire en leur faisant relire ce que vous produisez quand vous le produisez, et en les invitant aux présentations que vous faites de leur travail. Il y a plusieurs raisons à ça. La raison évidente est que ça leur permet de vous corriger pendant ou après ces présentations. Mais aussi, et peut-être surtout, en leur permettant de voir plus ou mieux le contexte dans lequel ils travaillent. Parce que si le contexte apparaît en premier, c'est parce que c'est l'une des principales forces qui modèlent le système que votre équipe développe. Et qu'en tant que relais, vous devez travailler dans les deux sens.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, en faisant en sorte qu'aussi peu de votre documentation ne soit un travail de rédaction de votre part. Vous devez absolument faire en sorte que votre documentation soit autant que possible une espèce de rapport intelligent du système que vous documentez. C'est la raison pour laquelle l'archétype que je fournis s'appuie maintenant sur une interface <a href="https://github.com/Riduidel/agile-architecture-documentation-system/blob/master/base/src/main/java/org/ndx/agile/architecture/base/ModelEnhancer.java"><code>ModelEnhancer</code></a> (certes assez mal documentée) qui va permettre de produire à partir de l'architecture fournie par Structurizr d'autres informations. Et cette interface, je l'ai déja utilisée pour</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Récupérer les README des différents composants pour les inclure dans la documentation</li><li>Générer les diagrammes de composants des composants Spring Boot</li><li>Me connecter à Vault pour récupérer la configuration des différents environnements afin de donner les bonnes adresses de base de données dans les diagrammes de déploiement</li><li>Me connecter à un cluster Kubernetes pour vérifier que les composants sont bien déployés dans les versions que j'indique dans la documentation</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Tous ces éléments peuvent évidement être écrits à la main.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Mais pourquoi le faire manuellement (et risquer la désynchronisation) quand on peut le faire automatiquement (et garantir que le modèle colle à la réalité, et que la réalité est conforme aux besoins) ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Cela dit, tout n'est pas récupérable automatiquement (même si grâce à l'infra as code, on peut aller très loin). Il y aura donc toujours une partie que vous rédigerez. Et cette partie sera le modèle que vous avez construit sur le système logiciel développé. Et c'est dans cette partie que vous serez le plus sujet à la mythomanie. Mais comme le disent les philosophes, le premier pas vers la vérité, c'est de savoir qu'on se trompe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Armé de cette connaissance, vous pourrez documenter correctement, au sens de la création de modèles faux, mais utiles, plutôt que de créer des modèles faux <strong>et</strong> inutiles, comme peuvent parfois l'être certains documents ...</p>
+<!-- /wp:paragraph -->
+++++

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sirtur sur Twitter : "The big 3 cloud providers have spawned an industry of “Solution Architects” that approach any problem with architecture diagrams of 20 proprietary cloud services and microservices hell when that problem could literally be solved with an express server hosted on heroku for 5$." / Twitter
+:jbake-tags: citation,architecture,cloud,produit,concepts,_mois_mars,_année_2021
+:jbake-date: 2021-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1615899837000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsirtur2%2Fstatus%2F1371513810146762753&searchtags=citation+architecture+cloud+produit+concepts+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/sirtur2/status/1371513810146762753[sirtur sur Twitter : "The big 3 cloud providers have spawned an industry of “Solution Architects” that approach any problem with architecture diagrams of 20 proprietary cloud services and microservices hell when that problem could literally be solved with an express server hosted on heroku for 5$." / Twitter]
+
+C'est vrai qu'on peut toujours coder une solution. Mais normalement, le fait d'utiliser tous ces services rend scalable à l'infini, pour peu qu'on en ait besoin ...

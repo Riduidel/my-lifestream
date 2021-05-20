@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tests — Ansible Documentation
+:jbake-tags: programming,ansible,_mois_août,_année_2018
+:jbake-date: 2018-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1533631847000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdocs.ansible.com%2Fansible%2Flatest%2Fuser_guide%2Fplaybooks_tests.html%23version-comparison&searchtags=programming+ansible+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://docs.ansible.com/ansible/latest/user_guide/playbooks_tests.html#version-comparison[Tests — Ansible Documentation]
+
+Les mecs d'Ansible sont des gentils : entre la version 2.4 et la version 2.5, ils ont changé le nom de tout un paquet de tests ... La rétrocompatibilité, c'est pas trop leur truc apparement ...

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marcus Müller on Twitter: "Sunday horror code: md5('240610708') == md5('QNKCDZO') The two strings have different hashes. PHP just converts the strings, which both start with "0e" to floating point numbers of value 0.0; and these are equal. #PHP #LongestRunningJokeInWebHistory"
+:jbake-tags: programming,langage,php,_mois_juin,_année_2018
+:jbake-date: 2018-06-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1528691388000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FdEnergy_dTime%2Fstatus%2F1005775112027693056&searchtags=programming+langage+php+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/dEnergy_dTime/status/1005775112027693056[Marcus Müller on Twitter: "Sunday horror code: md5('240610708') == md5('QNKCDZO') The two strings have different hashes. PHP just converts the strings, which both start with "0e" to floating point numbers of value 0.0; and these are equal. #PHP #LongestRunningJokeInWebHistory"]
+
+PHP ne me déçoit jamais

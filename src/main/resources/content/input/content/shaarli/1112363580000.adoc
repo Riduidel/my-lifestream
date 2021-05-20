@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EclipsePlugins : hi! Find your plugin for Eclipse here.
+:jbake-tags: programming,software,freeware,library,java,eclipse,plugin,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112363580000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Feclipse-plugins.2y.net%2Feclipse%2F&searchtags=programming+software+freeware+library+java+eclipse+plugin+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://eclipse-plugins.2y.net/eclipse/[EclipsePlugins : hi! Find your plugin for Eclipse here.]
+
+hi! Find your plugin for Eclipse here.

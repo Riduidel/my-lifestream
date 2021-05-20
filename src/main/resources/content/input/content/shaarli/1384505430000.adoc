@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Codeless Code: Table of Contents
+:jbake-tags: @todo,développement,concepts,philosophie,programming,_mois_nov.,_année_2013
+:jbake-date: 2013-11-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1384505430000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthecodelesscode.com%2Fcontents&searchtags=%40todo+d%C3%A9veloppement+concepts+philosophie+programming+_mois_nov.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://thecodelesscode.com/contents[The Codeless Code: Table of Contents]
+
+Très bon site expliquant pourquoi certaines choses sont mauvaises à l'aide de koans zen. Ce projet, et le manque de version française, me donne sacrément envie d'y contribuer .... au moins pour traduire des koans. Je sens que je vais en reparler ...

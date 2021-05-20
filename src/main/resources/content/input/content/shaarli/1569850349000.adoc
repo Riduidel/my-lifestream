@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Note:
+:jbake-tags: kubernetes,erreur,râlerie,_mois_sept.,_année_2019
+:jbake-date: 2019-09-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1569850349000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3FPyQKCg&searchtags=kubernetes+erreur+r%C3%A2lerie+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?PyQKCg[Note:]
+
+Je cite "The DeploymentConfig "nifi-runner" is invalid: spec.template.spec.containers\[0\].ports\[1\].name: Invalid value: "zookeeper-client": must be no more than 15 characters" Kubernetes de merde, on n'est pas censés être en 2019 ?!\#%$

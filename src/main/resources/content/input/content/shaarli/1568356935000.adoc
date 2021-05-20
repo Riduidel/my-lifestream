@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "RT @ShekoHex: *rustc* *me* https://t.co/E4c5fuE2Si" / Twitter
+:jbake-tags: rust,humour,mémoire,borrowing,_mois_sept.,_année_2019
+:jbake-date: 2019-09-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1568356935000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1172222135462506498&searchtags=rust+humour+m%C3%A9moire+borrowing+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1172222135462506498[Geoffroy Couprie on Twitter: "RT @ShekoHex: *rustc* *me* https://t.co/E4c5fuE2Si" / Twitter]
+
+Si tu comprends pas la blague, c'est que t'as jamais fait de Rust. Et perso, je ne la comprend que trop 😢

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Code Snippets: Store, sort and share source code, with tag goodness
+:jbake-tags: web,folksonomie,programming,_mois_avr.,_année_2005
+:jbake-date: 2005-04-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1112969080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bigbold.com%2Fsnippets%2F&searchtags=web+folksonomie+programming+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.bigbold.com/snippets/[Code Snippets: Store, sort and share source code, with tag goodness]
+
+Collection of code snippets, tagged.

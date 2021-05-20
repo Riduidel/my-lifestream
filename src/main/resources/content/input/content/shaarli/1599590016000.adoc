@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Reading Code is a Skill – Trisha Gee
+:jbake-tags: programming,code,écriture,lecture,opinion,@project_conf_archeologie,_mois_sept.,_année_2020
+:jbake-date: 2020-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1599590016000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftrishagee.com%2F2020%2F09%2F07%2Freading-code-is-a-skill%2F&searchtags=programming+code+%C3%A9criture+lecture+opinion+%40project_conf_archeologie+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://trishagee.com/2020/09/07/reading-code-is-a-skill/[Reading Code is a Skill – Trisha Gee]
+
+Un très bon article expliquant bien pourquoi la lecture de code est une compétence spécifique, et d'autant plus importante qu'on lit beaucoup plus de code qu'on en écrit

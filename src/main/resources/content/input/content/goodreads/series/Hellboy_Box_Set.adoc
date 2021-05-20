@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hellboy Box Set
+:jbake-tags: serie
+:jbake-date: 2011-12-19
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Hellboy_Box_Set.adoc
+:jbake-source: https://www.goodreads.com/series/138497
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782840554172.html[Hellboy, tome 5 : le diable dans la boîte]
+* link:../books/9782840555599.html[Hellboy, Tome 4: La Main Droite De La Mort]

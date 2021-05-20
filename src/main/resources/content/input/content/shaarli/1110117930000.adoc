@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Home of the Underdogs - About Home of the Underdogs
+:jbake-tags: software,jeu,_mois_mars,_année_2005
+:jbake-date: 2005-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1110117930000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.the-underdogs.org%2Fabout.php&searchtags=software+jeu+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.the-underdogs.org/about.php[Home of the Underdogs - About Home of the Underdogs]
+
+Home of the Underdogs is a non-profit site dedicated to the preservation and promotion of underrated PC games (and a few non-PC games) of all ages: good games that deserve a second chance after dismal sales or critical reviews that we feel are unwarranted

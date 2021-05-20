@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: geoGreeting!
+:jbake-tags: web,geohack,police,_mois_août,_année_2013
+:jbake-date: 2013-08-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1376901435000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.geogreeting.com%2Fmain.html&searchtags=web+geohack+police+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.geogreeting.com/main.html[geoGreeting!]
+
+Hé mais ça fait une jolie police personnalisée ça !

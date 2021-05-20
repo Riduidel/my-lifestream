@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: amos - I want off Mr. Golang's Wild Ride
+:jbake-tags: rust,go,comparatif,programming,langage,concepts,_mois_mars,_année_2020
+:jbake-date: 2020-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1583093486000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffasterthanli.me%2Fblog%2F2020%2Fi-want-off-mr-golangs-wild-ride%2F&searchtags=rust+go+comparatif+programming+langage+concepts+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride/[amos - I want off Mr. Golang's Wild Ride]
+
+Le texte est long, mais la lecture est éclairante.

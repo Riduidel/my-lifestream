@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trust, Pay, Loose
+:jbake-tags: développeur,organisation,contrôle,_mois_nov.,_année_2017
+:jbake-date: 2017-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1511278272000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.yegor256.com%2F2017%2F11%2F21%2Ftrust-pay-lose.html&searchtags=d%C3%A9veloppeur+organisation+contr%C3%B4le+_mois_nov.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.yegor256.com/2017/11/21/trust-pay-lose.html[Trust, Pay, Loose]
+
+Comme toujours avec Yegor, c'est assez tranché, mais très intéressant. Et en l'occurence, j'ai déja été dans la situation du développeur qui aurait bien voulu un peu plus d'analyse des risques

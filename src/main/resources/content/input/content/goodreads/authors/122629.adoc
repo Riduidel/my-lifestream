@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Colin Greenland
+:jbake-tags: author
+:jbake-date: 2003-10-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/122629.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1421277241p5/122629.jpg
+:jbake-source: https://www.goodreads.com/author/show/122629
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782290316092.html[Le Pays de Cocagne]

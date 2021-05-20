@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Endgame on Google Maps: News
+:jbake-tags: fun,jeu,carte,online,stratégie,web,_mois_août,_année_2006
+:jbake-date: 2006-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1155544625000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gmworldwar.com%2Fnews.php&searchtags=fun+jeu+carte+online+strat%C3%A9gie+web+_mois_ao%C3%BBt+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.gmworldwar.com/news.php[Endgame on Google Maps: News]
+
+Une version de Risk utilisant Google Maps comme terrain de jeu ... A tester

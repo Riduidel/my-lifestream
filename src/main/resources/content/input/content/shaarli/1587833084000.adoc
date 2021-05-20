@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Complexity Explorables | Explorables
+:jbake-tags: complexité,exploration,algorithme,visualisation,science,_mois_avr.,_année_2020
+:jbake-date: 2020-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1587833084000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.complexity-explorables.org%2Fexplorables%2F&searchtags=complexit%C3%A9+exploration+algorithme+visualisation+science+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.complexity-explorables.org/explorables/[Complexity Explorables | Explorables]
+
+C'est un site très chouette pour explorer des modèles de complexité plutôt sophistiqués

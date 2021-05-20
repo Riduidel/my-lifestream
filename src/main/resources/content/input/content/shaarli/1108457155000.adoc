@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FutureMail
+:jbake-tags: web,email,gtd,_mois_févr.,_année_2005
+:jbake-date: 2005-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1108457155000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffuturemail.bensinclair.com%2Fhome%2F&searchtags=web+email+gtd+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://futuremail.bensinclair.com/home/[FutureMail]
+
+FutureMail lets you send messages to yourself and have them delivered on any date you choose. Use FutureMail to send yourself reminders, notes, or any information you want to have in the future. You can even share your future items in a public RSS fee

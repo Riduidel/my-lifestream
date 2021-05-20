@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Palette de 4096 couleurs version 2.1
+:jbake-tags: web,software,design,couleur,html,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112358858000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ficml.org%2Fjemimap%2Fstyle%2Fcolor%2Fcouleur.html&searchtags=web+software+design+couleur+html+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.ficml.org/jemimap/style/color/couleur.html[Palette de 4096 couleurs version 2.1]
+
+4096 Couleurs

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Visualiser la radioactivité avec une chambre à brouillard
+:jbake-tags: science,vidéo,radioactivité,_mois_oct.,_année_2014
+:jbake-date: 2014-10-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1414506649000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fvisualiser-radioactivite-chambre-brouillard%2F&searchtags=science+vid%C3%A9o+radioactivit%C3%A9+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/visualiser-radioactivite-chambre-brouillard/[Visualiser la radioactivité avec une chambre à brouillard]
+
+C'est bien la première fois que je \*vois\* de la radioactivité. C'est curieusement spectaculaire, tout en étant très appaisant.

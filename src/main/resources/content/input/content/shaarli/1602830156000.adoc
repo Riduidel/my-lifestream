@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Download links broken · Issue #222 · rakyll/hey
+:jbake-tags: open-source,maintenance,réflexion,_mois_oct.,_année_2020
+:jbake-date: 2020-10-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1602830156000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Frakyll%2Fhey%2Fissues%2F222&searchtags=open-source+maintenance+r%C3%A9flexion+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/rakyll/hey/issues/222[Download links broken · Issue #222 · rakyll/hey]
+
+L'open-source, c'est cool. Mais quand le mec qui gère un projet arrête de payer son abonnement Google Cloud, et du coup ne fournit plus de release, c'est triste 😥

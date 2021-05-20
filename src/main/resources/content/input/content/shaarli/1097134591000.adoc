@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bruce Eckel's MindView, Inc. Exceptional Learning Experiences
+:jbake-tags: développement,guru,java,software,_mois_oct.,_année_2004
+:jbake-date: 2004-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1097134591000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.bruceeckel.com%2F&searchtags=d%C3%A9veloppement+guru+java+software+_mois_oct.+_ann%C3%A9e_2004
+:jbake-style: shaarli
+
+http://www.bruceeckel.com/[Bruce Eckel's MindView, Inc. Exceptional Learning Experiences]
+
+Bruce Eckel's site

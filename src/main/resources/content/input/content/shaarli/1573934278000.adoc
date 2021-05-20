@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: System design hack: Postgres is a great pub/sub & job server
+:jbake-tags: postgres,messaging,kafka,rabbitmq,performance,sql,_mois_nov.,_année_2019
+:jbake-date: 2019-11-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1573934278000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flayerci.com%2Fblog%2Fpostgres-is-the-answer%2F&searchtags=postgres+messaging+kafka+rabbitmq+performance+sql+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://layerci.com/blog/postgres-is-the-answer/[System design hack: Postgres is a great pub/sub & job server]
+
+ok, cette fois-ci, c'est sûr, je vais lancer cette présentation "tous les systèmes de messagerie d'entreprise auxquels vous ne pensez pas"

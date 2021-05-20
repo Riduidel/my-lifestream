@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hg-Git Mercurial Plugin - GitHub
+:jbake-tags: dvcs,git,github,hg,integration,code,plugin,programming,_mois_juin,_année_2010
+:jbake-date: 2010-06-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1276609120000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fgithub.com%2Fblog%2F439-hg-git-mercurial-plugin&searchtags=dvcs+git+github+hg+integration+code+plugin+programming+_mois_juin+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://github.com/blog/439-hg-git-mercurial-plugin[Hg-Git Mercurial Plugin - GitHub]
+
+Et dans la guerre git vs mercurial, mercurial marque pour moi un énorme point avec ce plugin qui en fait un client universel.

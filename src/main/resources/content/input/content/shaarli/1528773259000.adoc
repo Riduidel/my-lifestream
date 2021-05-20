@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: plantuml.com/stdlib
+:jbake-tags: plantuml,icon,library,_mois_juin,_année_2018
+:jbake-date: 2018-06-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1528773259000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fplantuml.com%2Fstdlib&searchtags=plantuml+icon+library+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://plantuml.com/stdlib[plantuml.com/stdlib]
+
+Trop cool, des librairies d'icônes utilisables dans PlantUML !

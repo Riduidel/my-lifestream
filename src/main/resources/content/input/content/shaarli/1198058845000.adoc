@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NicEdit.com - Micro Inline WYSIWYG
+:jbake-tags: editor,javascript,tool,web,jebliki,wysiwyg,_mois_déc.,_année_2007
+:jbake-date: 2007-12-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1198058845000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fnicedit.com%2Findex.php&searchtags=editor+javascript+tool+web+jebliki+wysiwyg+_mois_d%C3%A9c.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://nicedit.com/index.php[NicEdit.com - Micro Inline WYSIWYG]
+
+Un petit éditeur wisywig pour les formulaires web, apparement facile à intégrer dans une page.

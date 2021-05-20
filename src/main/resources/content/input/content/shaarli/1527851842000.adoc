@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Step 4: The paths object (OpenAPI tutorial) | Document REST APIs
+:jbake-tags: web,documentation,openapi,_mois_juin,_année_2018
+:jbake-date: 2018-06-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1527851842000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fidratherbewriting.com%2Flearnapidoc%2Fpubapis_openapi_step4_paths_object.html&searchtags=web+documentation+openapi+_mois_juin+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://idratherbewriting.com/learnapidoc/pubapis_openapi_step4_paths_object.html[Step 4: The paths object (OpenAPI tutorial) | Document REST APIs]
+
+Ah, une doc sur OpenApi que j'arrive à lire. Ca va m'aider pour mon histoire de Gravitee ...

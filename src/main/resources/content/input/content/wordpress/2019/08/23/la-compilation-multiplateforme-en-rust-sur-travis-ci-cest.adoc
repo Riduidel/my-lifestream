@@ -1,0 +1,88 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: La compilation multiplateforme en Rust sur Travis-CI, c'est ...
+:jbake-tags: rust,travis-ci,_mois_août,_année_2019
+:jbake-date: 2019-08-23
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/08/23/la-compilation-multiplateforme-en-rust-sur-travis-ci-cest.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/08/23/la-compilation-multiplateforme-en-rust-sur-travis-ci-cest/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Vous savez que je fais un peu de Rust le soir chez moi ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et comme je suis un développeur moderne, je fais de l'intégration continue en SaaS (parce que je ne vais pas déployer un Jenkins sur mon Raspberry pour compiler du Rust, quand même). Donc, d'après la recommandation d'un développeur Rust influent (pour moi)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/gcouprie" class="screenName"><img src="http://pbs.twimg.com/profile_images/1145723087440273409/LPgQkFYS_mini.jpg" alt="profile of systems restartability engineer, weird projects @clever_cloud: sozu proxy, nom parsers, biscuit token - crypto, safe and fast protocols in Rust - he/him"/>gcouprie</a>
+		<span class="name">Geoffroy Couprie</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/gcouprie/status/1 118 492 892 501 303 297" class="date">17 avr. 2019 à 14:34:20</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel I use travis for CI: https://t.co/ajCv3EvcgW
+for multiple paltforms, there are other services like appveyor</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/gcouprie" class="screenName"><img src="http://pbs.twimg.com/profile_images/1145723087440273409/LPgQkFYS_mini.jpg" alt="profile of systems restartability engineer, weird projects @clever_cloud: sozu proxy, nom parsers, biscuit token - crypto, safe and fast protocols in Rust - he/him"/>gcouprie</a>
+		<span class="name">Geoffroy Couprie</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/gcouprie/status/1 118 492 892 501 303 297" class="date">17 avr. 2019 à 14:34:20</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel I use travis for CI: https://t.co/ajCv3EvcgW
+for multiple paltforms, there are other services like appveyor</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>j'ai créé un profil sur <a href="https://travis-ci.org/Riduidel/rrss2imap">TravisCI</a> pour mon projet, et j'ai commencé à tenter de configurer le truc. Ca a bien commencé, et je suis tombé dans l'enfer de la compilation croisée en Rust. Oui, parce qu'en Rust, il y a <a href="https://github.com/rust-embedded/cross">cross </a>qui est là pour ça, mais j'ai des problèmes assez curieux : <a href="https://travis-ci.org/Riduidel/rrss2imap/jobs/575833969#L241">No command 'cross' found</a>. Et là où c'est un enfer particulier, c'est qu'il n'y a absolument aucune doc à ce sujet sur le site de Travis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors que pourtant, en fouillant un peu sur <a href="https://github.com/search?utf8=%E2%9C%93&#38;q=filename%3A.travis.yml+language%3A+rust+cross&#38;type=Code&#38;ref=advsearch&#38;l=&#38;l=">GitHub</a>, on tombe sur des projets qui utilisent cross !</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je vais devoir pousser encore un peu plus ma connaissance de TravisCI, mais sans doute un peu plus tard ...</p>
+<!-- /wp:paragraph -->
+++++

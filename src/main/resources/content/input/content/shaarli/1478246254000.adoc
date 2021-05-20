@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fuck you, Debian. – Broken Window – Medium
+:jbake-tags: debian,linux,python,packaging,_mois_nov.,_année_2016
+:jbake-date: 2016-11-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1478246254000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2Fbroken-window%2Ffuck-you-debian-ebe8cede37ed%23.hq8fbfgjk&searchtags=debian+linux+python+packaging+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://medium.com/broken-window/fuck-you-debian-ebe8cede37ed#.hq8fbfgjk[Fuck you, Debian. – Broken Window – Medium]
+
+Et parfois c'est pire : mitmproxy s'installe avec pip, mais certains libs Python ont des déps natives ...

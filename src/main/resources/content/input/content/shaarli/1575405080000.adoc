@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: TLDR Digital Safety Checklist | a TLDR guide to personal digital security
+:jbake-tags: sécurité,online,tutorial,_mois_déc.,_année_2019
+:jbake-date: 2019-12-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1575405080000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhongkonggong.github.io%2Ftldr-digital-security%2F&searchtags=s%C3%A9curit%C3%A9+online+tutorial+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hongkonggong.github.io/tldr-digital-security/[TLDR Digital Safety Checklist | a TLDR guide to personal digital security]
+
+Très bon article sur la sécurisation en ligne. C'est vraiment bien fait, vraiment progressig, vraiment très intéressant.

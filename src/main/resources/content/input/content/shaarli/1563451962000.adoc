@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RPG Name Generation | Graham Wihlidal
+:jbake-tags: jdr,rust,programming,tutorial,_mois_juil.,_année_2019
+:jbake-date: 2019-07-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1563451962000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.wihlidal.com%2Fblog%2Fgeneral%2F2019-07-14-name-generation%2F&searchtags=jdr+rust+programming+tutorial+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://www.wihlidal.com/blog/general/2019-07-14-name-generation/[RPG Name Generation | Graham Wihlidal]
+
+L'objectif est assez marrant (même si je regrette un tout petit peu l'absence d'un outil de templating propre), et les moyens sont ... énormes (pour un résultat qui vaut le coup)

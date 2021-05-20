@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Insee - Conditions de vie-Société - Taux de criminalité en 2012
+:jbake-tags: société,criminalité,violence,_mois_août,_année_2013
+:jbake-date: 2013-08-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1375871450000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.insee.fr%2Ffr%2Fthemes%2Ftableau.asp%3Freg_id%3D0%26id%3D186&searchtags=soci%C3%A9t%C3%A9+criminalit%C3%A9+violence+_mois_ao%C3%BBt+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.insee.fr/fr/themes/tableau.asp?reg_id=0&id=186[Insee - Conditions de vie-Société - Taux de criminalité en 2012]
+
+Et attention, ce ne sont pas des %, mais des pour mille. Et quand je vois ça et le nombre de séries mettant en scène des meurtres, je me dis que la France réelle est bien moins violente que la France fantasmée

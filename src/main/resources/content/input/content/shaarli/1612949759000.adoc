@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cédric Champeau sur Twitter : "Just finished the POC of having a Gradle task implemented in Rust via wasm :) https://t.co/2IBficIOVi Obviously extremely simple at this stage." / Twitter
+:jbake-tags: java,wasm,interopérabilité,_mois_févr.,_année_2021
+:jbake-date: 2021-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1612949759000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2FCedricChampeau%2Fstatus%2F1359278061099896837&searchtags=java+wasm+interop%C3%A9rabilit%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/CedricChampeau/status/1359278061099896837[Cédric Champeau sur Twitter : "Just finished the POC of having a Gradle task implemented in Rust via wasm :) https://t.co/2IBficIOVi Obviously extremely simple at this stage." / Twitter]
+
+En regardant le code de ce très chouette poc, je découvre que wasmer fournit des bindings Java. Et j'ai beau comprendre la démarche, je ne vois pas trop l'intérêt (parce que l'écosystème Java est déjà riche et garantit la portabilité) sauf à vouloir appeler depuis Java un exécutable naïf sur n'importe quelle plate-forme sans se soucier de sa disponibilité locale.

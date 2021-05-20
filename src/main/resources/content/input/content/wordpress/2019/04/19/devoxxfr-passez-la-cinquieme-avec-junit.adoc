@@ -1,0 +1,101 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Passez la cinquième avec JUnit
+:jbake-tags: devoxx,junit,test,_mois_avr.,_année_2019
+:jbake-date: 2019-04-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/19/devoxxfr-passez-la-cinquieme-avec-junit.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/19/devoxxfr-passez-la-cinquieme-avec-junit/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Et paf, la conf démarre tout de suite, sans présentations des speakers ni rien. Heureusement, parce qu'ils n'ont que 30 minutes !
+</p>
+<p>
+Dans JUnit 5, il n’y a plus une dépendance, mais trois, pour bien séparer les responsabilités. Il y a donc un <code>org.junit.vintage</code>pour exécuter des vieux tests avec JUnit 5.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-6">
+</p>
+<p>
+Il y a aussi un <code>junit-jupiter</code> pour la plateforme. Et enfin un tooling pour les éditeurs. Et évidement, il faut mettre à jour le <code>maven-surefire-plugin</code> pour avoir une version supérieure à la <code>1.22</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Il y a tout un tas de changements de noms qui n’ont pas d’autre intérêt que d'éviter de se marcher sur les pieds.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+Les rules ont été supprimées. C’est bien ! Pour les exceptions, il y a maintenant un <code>assertThrows(…​)</code> qui prend en paramètre une lambda.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+Dans le même genre d’asserts, il y a maintenant un <code>assertAll(…​.)</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+Dans les facilités, il y a aussi l'écriture des tests paramétrés qui est bien plus simple grâce à <code>@ParameterizedTest</code> et <code>@ValueSource</code>. Attention, pour envoyer <code>null</code>, il faut utiliser <code>@NullSource</code>. Il y a aussi <code>@CsvSource</code> pour passer plusieurs paramètres d’un coup. Et même <code>@MethodSource</code> pour récupérer les paramètres depuis un appel de méthode.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+Si on a deux tests qui s’initialisent de la même manière, on peut mettre ces tests dans une classe commune …​ et mettre cette séquence d’initialisation dans un <code>@BeforeEach</code>.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-22">
+</p>
+<p>
+Et si le code nécessite une intégration avec l’extérieur (par exemple Spring), on peut utiliser <code>@ExtendedWith(…​)</code> qui va permettre d’ajouter du comportement autour de Spring. Évidement, on peut les écrire soi-même. Ce qui est très pratique pour, par exemple, injecter un paramètre dan les différents test. Évidement, on peut lire les annotations de l’appel d test pour y faire ce qu’on veut.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-25">
+</p>
+<p>
+A nboter que JUnit fournit maintenant un`@DisplayNameGenerator` qui va faciliter la lecture des noms des tests.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+On peut aussi avoir des tests …​ dans des interfaces. C’est à priori pratique pour créer des tests sur des implémentations d’interface.
+<br/>
+<h2>Conclusion</h2>
+<br/>
+C'était vraiment bien. Parce que si j'ai déja utilisé JUnit 5, certains de ces éléments m'étaient un peu obscurs. <a href="https://twitter.com/@ju_derancourt">Juliette</a> et <a href="https://www.twitter.com/@JulienTopcu">Julien</a> ont réussi un super truc à base de live-coding !
+</p>
+<p>
+</div>
+</p>
+++++

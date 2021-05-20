@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Creating a GUI with JFC/Swing: Table of Contents
+:jbake-tags: programming,langage,java,documentation,tutorial,gui,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112361989000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fjava.sun.com%2Fdocs%2Fbooks%2Ftutorial%2Fuiswing%2FTOC.html&searchtags=programming+langage+java+documentation+tutorial+gui+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://java.sun.com/docs/books/tutorial/uiswing/TOC.html[Creating a GUI with JFC/Swing: Table of Contents]
+
+

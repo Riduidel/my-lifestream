@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: PDFBox - Java PDF Library
+:jbake-tags: programming,java,library,pdf,open-source,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112364896000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pdfbox.org%2F&searchtags=programming+java+library+pdf+open-source+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.pdfbox.org/[PDFBox - Java PDF Library]
+
+A JAVA PDF library

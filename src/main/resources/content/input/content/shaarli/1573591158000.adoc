@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: bayard-search/bayard: Bayard is a full-text search and indexing server written in Rust.
+:jbake-tags: rust,programming,application,search-engine,_mois_nov.,_année_2019
+:jbake-date: 2019-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1573591158000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fbayard-search%2Fbayard&searchtags=rust+programming+application+search-engine+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/bayard-search/bayard[bayard-search/bayard: Bayard is a full-text search and indexing server written in Rust.]
+
+Oh bon sang de bon soir une alternative à Elastic codée en Rust !

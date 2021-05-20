@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guido van Rossum on Twitter: "Important presentation tip for #PyCon speakers. When using screenshots, use a LIGHT theme. Dark themes are hard to read. Also, use larger fonts in the screenshot. Your audience will thank you! Squintingly, #pycon2019"
+:jbake-tags: présentation,couleur,handicap,_mois_mai,_année_2019
+:jbake-date: 2019-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1556871920000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgvanrossum%2Fstatus%2F1124005225348702208&searchtags=pr%C3%A9sentation+couleur+handicap+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gvanrossum/status/1124005225348702208[Guido van Rossum on Twitter: "Important presentation tip for #PyCon speakers. When using screenshots, use a LIGHT theme. Dark themes are hard to read. Also, use larger fonts in the screenshot. Your audience will thank you! Squintingly, #pycon2019"]
+
+Ca fait un moment que j'y pense ... il va vraiment falloir que je change mon template reveal pour utiliser un thème clair

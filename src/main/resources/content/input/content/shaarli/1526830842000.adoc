@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Rust Using Visual Studio Code | mobiarch
+:jbake-tags: rust,vscode,programming,configuration,_mois_mai,_année_2018
+:jbake-date: 2018-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1526830842000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobiarch.wordpress.com%2F2015%2F06%2F16%2Frust-using-visual-studio-code%2F&searchtags=rust+vscode+programming+configuration+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://mobiarch.wordpress.com/2015/06/16/rust-using-visual-studio-code/[Rust Using Visual Studio Code | mobiarch]
+
+Développer en Rust avec Code, c'est ... finalement assez cool.

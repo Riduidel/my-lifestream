@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tristan K☢️min on Twitter: "Pas de billet de blog ce soir, mais un petit #thread d'actualité. Des choses exotiques ont eu lieu sur le système électrique français ce week-end, et méritent qu'on en dise un mot ! #Nucléaire #EnR"
+:jbake-tags: électrique,nucléaire,france,_mois_mars,_année_2019
+:jbake-date: 2019-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1551808642000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FTristanKamin%2Fstatus%2F1102620969808658432&searchtags=%C3%A9lectrique+nucl%C3%A9aire+france+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/TristanKamin/status/1102620969808658432[Tristan K☢️min on Twitter: "Pas de billet de blog ce soir, mais un petit #thread d'actualité. Des choses exotiques ont eu lieu sur le système électrique français ce week-end, et méritent qu'on en dise un mot ! #Nucléaire #EnR"]
+
+Un aperçu extrêmement intéressant du travail - complexe - d'équilibrage de la production électrique en France

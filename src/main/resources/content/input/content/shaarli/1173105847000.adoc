@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Compost 1.8 - Automatic Trash Management for Mac OS X
+:jbake-tags: trash,system,software,shareware,macosx,_mois_mars,_année_2007
+:jbake-date: 2007-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1173105847000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mac-compost.com%2F&searchtags=trash+system+software+shareware+macosx+_mois_mars+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.mac-compost.com/[Compost 1.8 - Automatic Trash Management for Mac OS X]
+
+Un petit utilitaire limitant la taille de la poubelle sur un Mac

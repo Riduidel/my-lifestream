@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: April King 🌀 on Twitter: "This is a public service announcement that Firefox 57.0.4 has just been released. It contains mitigations for the Spectre and Meltdown timin… https://t.co/nnYlkfKYBP"
+:jbake-tags: web,sécurité,spectre,_mois_janv.,_année_2018
+:jbake-date: 2018-01-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1515139099000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Faprilmpls%2Fstatus%2F949053354642235392&searchtags=web+s%C3%A9curit%C3%A9+spectre+_mois_janv.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/aprilmpls/status/949053354642235392[April King 🌀 on Twitter: "This is a public service announcement that Firefox 57.0.4 has just been released. It contains mitigations for the Spectre and Meltdown timin… https://t.co/nnYlkfKYBP"]
+
+Ne perdez pas de temps, mettez à jour (j'y suis déja)

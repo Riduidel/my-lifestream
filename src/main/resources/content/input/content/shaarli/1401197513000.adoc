@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tuleap 7.0 est disponible
+:jbake-tags: équipe,productivité,software,programming,open-source,_mois_mai,_année_2014
+:jbake-date: 2014-05-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1401197513000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Flinuxfr.org%2Fnews%2Ftuleap-7-0-est-disponible&searchtags=%C3%A9quipe+productivit%C3%A9+software+programming+open-source+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://linuxfr.org/news/tuleap-7-0-est-disponible[Tuleap 7.0 est disponible]
+
+Il n'y a rien qui me motive plus à quitter mon job actuel que de voir que Tuleap est encore mieux et que, alors que j'ai proposé son utilisation il y a près d'un an, il soit dans un tiroir et qu'on utilise toujours une version pourrie de mantis à la place. Si j'ajoute que notre mantis ne supporte même pas Eclipse Mylyn, la déprime atteint une sorte de sommet ...

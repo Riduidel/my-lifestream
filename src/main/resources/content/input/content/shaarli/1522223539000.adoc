@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Catherynne Valente on Twitter: "Oh, wow, you’re kidding me, the company named Palantir turned out to be an evil way to see into people’s most private lives and manipulate them? Who could have seen this coming? There was just no way anyone could have known."
+:jbake-tags: citation,entreprise,politique,moral,_mois_mars,_année_2018
+:jbake-date: 2018-03-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1522223539000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fcatvalente%2Fstatus%2F978663433041334272&searchtags=citation+entreprise+politique+moral+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/catvalente/status/978663433041334272[Catherynne Valente on Twitter: "Oh, wow, you’re kidding me, the company named Palantir turned out to be an evil way to see into people’s most private lives and manipulate them? Who could have seen this coming? There was just no way anyone could have known."]
+
+En vrai, les palantirs, au début c'était bien ... Et palantir faisait des trucs bien au début (ils avaient d'ailleurs un super blog technique). Et comme dans le Seigneur des Anneaux, ils ont pivoté ...

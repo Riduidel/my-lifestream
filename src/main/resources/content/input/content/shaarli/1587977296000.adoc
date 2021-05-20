@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Code Speaks On Its Own, NOT - DEV Community 👩‍💻👨‍💻
+:jbake-tags: code,programming,littérature,_mois_avr.,_année_2020
+:jbake-date: 2020-04-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1587977296000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fvidelalvaro%2Fthe-code-speaks-on-its-own-not-3jf9&searchtags=code+programming+litt%C3%A9rature+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://dev.to/videlalvaro/the-code-speaks-on-its-own-not-3jf9[The Code Speaks On Its Own, NOT - DEV Community 👩‍💻👨‍💻]
+
+C'est très chouette d'utiliser des notions de littérature pour parler du contexte du code, même si c'est pour l'instant à un niveau non architectural. Cela dit, le terme de paratexte est beaucoup, beaucoup trop significatif ...

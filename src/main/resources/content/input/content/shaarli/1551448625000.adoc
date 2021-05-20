@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: severe-weather.EU on Twitter: "Spectacular cloud-to-ground lightning bolt - Bolt from the Blue - over Lake Maracaibo, Venezuela - Catatumbo lightning. Photo: Jonas Piontek Photography… https://t.co/cwGCW29DTx"
+:jbake-tags: nature,photographie,art,météo,_mois_mars,_année_2019
+:jbake-date: 2019-03-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1551448625000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FsevereweatherEU%2Fstatus%2F1101459593119567872&searchtags=nature+photographie+art+m%C3%A9t%C3%A9o+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/severeweatherEU/status/1101459593119567872[severe-weather.EU on Twitter: "Spectacular cloud-to-ground lightning bolt - Bolt from the Blue - over Lake Maracaibo, Venezuela - Catatumbo lightning. Photo: Jonas Piontek Photography… https://t.co/cwGCW29DTx"]
+
+Impressionant

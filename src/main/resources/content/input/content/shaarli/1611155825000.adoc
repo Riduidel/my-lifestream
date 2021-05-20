@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How I Build JavaScript Apps In 2021
+:jbake-tags: javascript,frontend,programming,principe,simple,_mois_janv.,_année_2021
+:jbake-date: 2021-01-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1611155825000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftimdaub.github.io%2F2021%2F01%2F16%2Fweb-principles%2F&searchtags=javascript+frontend+programming+principe+simple+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://timdaub.github.io/2021/01/16/web-principles/[How I Build JavaScript Apps In 2021]
+
+Les principes exposés ressemblent à la manière dont j'aimerais coder du front-end (si je devais faire ça, ce qui n'est pas le cas).

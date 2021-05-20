@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Un lycéen risque la prison pour un outil de communication chiffré
+:jbake-tags: justice,intimité,liberté,_mois_févr.,_année_2016
+:jbake-date: 2016-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1455178342000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.numerama.com%2Ftech%2F144720-un-lyceen-risque-la-prison-pour-un-outil-de-communication-chiffre.html&searchtags=justice+intimit%C3%A9+libert%C3%A9+_mois_f%C3%A9vr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.numerama.com/tech/144720-un-lyceen-risque-la-prison-pour-un-outil-de-communication-chiffre.html[Un lycéen risque la prison pour un outil de communication chiffré]
+
+Le juge qui va devoir traiter cette affaire a intérêt à bien suivre les tripotées d'experts ... parce qu'il ne va rien y comprendre. Et j'imagine parfaitement que ce jeune hébergeur va jouer les victimes sacrificielles et tout faire pour paraître coupable ...

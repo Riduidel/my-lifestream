@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Acer Aspire Z5610 AIO Opening / Teardown / Takeapart - YouTube
+:jbake-tags: vidéo,documentation,matériel,démontage,_mois_juin,_année_2015
+:jbake-date: 2015-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1433483409000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWorQRkTr0UE&searchtags=vid%C3%A9o+documentation+mat%C3%A9riel+d%C3%A9montage+_mois_juin+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://www.youtube.com/watch?v=WorQRkTr0UE[Acer Aspire Z5610 AIO Opening / Teardown / Takeapart - YouTube]
+
+Comment démonter mon ordinateur qui m'a claqué deux fois entre les doigts hier à cause de la chaleur

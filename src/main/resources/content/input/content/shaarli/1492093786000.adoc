@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vos flux RSS sur le réseau social Mastodon avec le bot Feed2toot | Le blog de Carl Chenet
+:jbake-tags: rss,mastodon,python,library,open-source,_mois_avr.,_année_2017
+:jbake-date: 2017-04-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1492093786000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcarlchenet.com%2Fvos-flux-rss-sur-le-reseau-mastodon-avec-le-bot-feed2toot%2F&searchtags=rss+mastodon+python+library+open-source+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://carlchenet.com/vos-flux-rss-sur-le-reseau-mastodon-avec-le-bot-feed2toot/[Vos flux RSS sur le réseau social Mastodon avec le bot Feed2toot | Le blog de Carl Chenet]
+
+Ca m'a l'air bien plus facile d'envoyer mes flux RSS dans mastodon que dans Twitter ...

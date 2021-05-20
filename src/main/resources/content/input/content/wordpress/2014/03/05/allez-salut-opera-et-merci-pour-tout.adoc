@@ -1,0 +1,46 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Allez salut Opera, et merci pour tout !
+:jbake-tags: évolution,firefox,opera,_mois_mars,_année_2014
+:jbake-date: 2014-03-05
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/03/05/allez-salut-opera-et-merci-pour-tout.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/03/05/allez-salut-opera-et-merci-pour-tout/
+:jbake-style: wordpress
+
+++++
+<p>
+Depuis plus de dix ans, j'étais un utilisateur heureux d'Opera.
+</p>
+<p>
+Et puis ils ont changé.
+</p>
+<p>
+Ils ont décidé l'année dernière de <a href="http://www.webmonkey.com/2013/02/presto-is-dead-long-live-opera/">ne plus utiliser leur moteur de rendu, mais celui de Chrome</a>. Et du coup, les dernières versions d'Opera ne sont rien d'autres que des chrome-like avec juste un autre look.
+</p>
+<p>
+Mais il n'y a plus de mouse gestures.
+</p>
+<p>
+Il n'y a plus de remplissage automagique de formulaire.
+</p>
+<p>
+Il n'y a plus de barre de rechercher séparée.
+</p>
+<p>
+Il n'y a plus de possibilité de remplacer Google par un autre moteur de recherche.
+</p>
+<p>
+Il n'y a plus de preview des onglets.
+</p>
+<p>
+Je pourrais continuer longtemps comme ça, mais autant le dire en une fois : l'esprit d'Opera semble avoir disparu.
+</p>
+<p>
+Et puisque c'est comme ça, il est temps de revenir aux fondamentaux. Et en l'occurence, plutôt que Firefox (qui est fort bien), je vais préférer <a href="http://www.seamonkey-project.org">Seamonkey</a>, parce que j'aime bien avoir mes mails et mon web dans le même écran. Ah non, en fait, non non non non non non non.
+</p>
+<p>
+Parce que SeaMonkey, ça n'est rien d'autre que l'ancestral Netscape Navigator utilisant un moteur "moderne". Et si je n'ai rien contre le moteur, j'ai tout contre le design de cette applpication, qui est un peu une honte de l'ergonomie des années 90. Bon, ben du coup, je crois que ce sera Firefox, à moins bien sûr que je ne trouve quelque chose de mieux sur <a href="http://alternativeto.net/software/opera/?platform=windows">AlternativesTo </a>....
+</p>
+++++

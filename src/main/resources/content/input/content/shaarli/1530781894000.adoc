@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alexander “my mom fled East Germany” Payne on Twitter: "If I shouldn't write it, then it shouldn't compile. Compilation is permission.… "
+:jbake-tags: programming,compilateur,citation,_mois_juil.,_année_2018
+:jbake-date: 2018-07-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1530781894000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmyrrlyn%2Fstatus%2F1014766027333296128&searchtags=programming+compilateur+citation+_mois_juil.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/myrrlyn/status/1014766027333296128[Alexander “my mom fled East Germany” Payne on Twitter: "If I shouldn't write it, then it shouldn't compile. Compilation is permission.… "]
+
+C'est l'esprit de Rust, et j'adore cette idée !

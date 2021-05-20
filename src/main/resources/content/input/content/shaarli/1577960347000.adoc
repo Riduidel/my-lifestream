@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Altruism Kills!
+:jbake-tags: management,travail,informatique,organisation,économie,_mois_janv.,_année_2020
+:jbake-date: 2020-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1577960347000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.yegor256.com%2F2019%2F12%2F24%2Faltruism-kills.html&searchtags=management+travail+informatique+organisation+%C3%A9conomie+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.yegor256.com/2019/12/24/altruism-kills.html[Altruism Kills!]
+
+L'article ressemble à un brûlot contre l'open-source ... mais contient cette perle pour les managers "Fire those who are ready to work overtime without any compensation." (qui fait de Yegor un de mes auteurs les plus poil à gratter)

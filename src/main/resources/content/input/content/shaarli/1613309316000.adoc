@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Alexander Zeitler sur Twitter : "Programmer: a person who converts coffee into technical debt." / Twitter
+:jbake-tags: citation,humour,critique,développeur,culture,_mois_févr.,_année_2021
+:jbake-date: 2021-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1613309316000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2Flxztlr%2Fstatus%2F1360703174374490122&searchtags=citation+humour+critique+d%C3%A9veloppeur+culture+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/lxztlr/status/1360703174374490122[Alexander Zeitler sur Twitter : "Programmer: a person who converts coffee into technical debt." / Twitter]
+
+Cette version de la phrase traditionnelle est à mon avis bien meilleure que l'originale (même si la vérité se situe entre les deux)

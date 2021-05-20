@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gary C Martin MacOS X development
+:jbake-tags: software,freeware,macosx,desktop,_mois_mars,_année_2005
+:jbake-date: 2005-03-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1111049176000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.garycmartin.com%2Fosx%2F&searchtags=software+freeware+macosx+desktop+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.garycmartin.com/osx/[Gary C Martin MacOS X development]
+
+home of EarthGlobe (displays earth on the desktop) and MoonDock (displays moon phases on the desktop)

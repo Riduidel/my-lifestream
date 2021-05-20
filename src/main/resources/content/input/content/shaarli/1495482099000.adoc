@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nicolas Frankel on Twitter: "Zone of Proximal Development by @jesslynnrose at #vdathens #learning #comfortzone https://t.co/DOXk26T2xb"
+:jbake-tags: @toblog,illustration,programming,_mois_mai,_année_2017
+:jbake-date: 2017-05-22
+:jbake-depth: ../
+:jbake-uri: shaarli/1495482099000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fnicolas_frankel%2Fstatus%2F865569738377842688&searchtags=%40toblog+illustration+programming+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/nicolas_frankel/status/865569738377842688[Nicolas Frankel on Twitter: "Zone of Proximal Development by @jesslynnrose at #vdathens #learning #comfortzone https://t.co/DOXk26T2xb"]
+
+Ca va me servir dans un prochain article ...

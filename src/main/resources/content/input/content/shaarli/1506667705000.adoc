@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Payer son smartphone avec ses données personnelles - Standblog
+:jbake-tags: open-source,économie,intimité,_mois_sept.,_année_2017
+:jbake-date: 2017-09-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1506667705000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstandblog.org%2Fblog%2Fpost%2F2017%2F09%2F29%2FPayer-son-smartphone-avec-ses-donn%25C3%25A9es-personnelles&searchtags=open-source+%C3%A9conomie+intimit%C3%A9+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://standblog.org/blog/post/2017/09/29/Payer-son-smartphone-avec-ses-donn%C3%A9es-personnelles[Payer son smartphone avec ses données personnelles - Standblog]
+
+C'est parfaitement juste ... à un détail : avec des distributions comme Paranoïd Android et autres, on sort complètement de ce jeu de dupes ... merci l'open-source !

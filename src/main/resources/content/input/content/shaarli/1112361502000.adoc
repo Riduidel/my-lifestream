@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A critique of Java
+:jbake-tags: programming,langage,java,documentation,evangelism,_mois_avr.,_année_2005
+:jbake-date: 2005-04-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1112361502000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.uclic.ucl.ac.uk%2Fharold%2Fsrf%2Fjavaspae.html&searchtags=programming+langage+java+documentation+evangelism+_mois_avr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.uclic.ucl.ac.uk/harold/srf/javaspae.html[A critique of Java]
+
+

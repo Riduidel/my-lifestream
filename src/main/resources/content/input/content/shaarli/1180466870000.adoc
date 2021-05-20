@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chamonix
+:jbake-tags: chm,reader,macosx,_mois_mai,_année_2007
+:jbake-date: 2007-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1180466870000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fsourceforge.net%2Fprojects%2Fchamonix%2F&searchtags=chm+reader+macosx+_mois_mai+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://sourceforge.net/projects/chamonix/[Chamonix]
+
+Un lecteur de fichiers CHM pour Mac, j'espère meilleur que Chmox qui n'est pas bien fameux ...

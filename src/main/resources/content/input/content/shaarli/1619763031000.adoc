@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: following the dopamine sur Twitter : "i'm sharing the set questions i often use to interview people for devops/automation/sysadmin jobs. i don't ask trivia. i don't give homework. anything i need to know about someone, i can find out by asking these questions and followup questions based on their answers. https://t.co/UNWjxfqTd4" / Twitter
+:jbake-tags: recrutement,entreprise,entretien,question,réflexion,_mois_avr.,_année_2021
+:jbake-date: 2021-04-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1619763031000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Frandileeharper%2Fstatus%2F1387507272679444481&searchtags=recrutement+entreprise+entretien+question+r%C3%A9flexion+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/randileeharper/status/1387507272679444481[following the dopamine sur Twitter : "i'm sharing the set questions i often use to interview people for devops/automation/sysadmin jobs. i don't ask trivia. i don't give homework. anything i need to know about someone, i can find out by asking these questions and followup questions based on their answers. https://t.co/UNWjxfqTd4" / Twitter]
+
+J'adore ces questions d'entretien ! Et à mon avis, elles s'appliquent tout autant à des développeurs.

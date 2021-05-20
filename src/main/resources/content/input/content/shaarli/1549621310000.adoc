@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Plugin Development - KeePass
+:jbake-tags: keepass,windows,plugin,programming,@project_keepass_ocr,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549621310000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fkeepass.info%2Fhelp%2Fv2_dev%2Fplg_index.html&searchtags=keepass+windows+plugin+programming+%40project_keepass_ocr+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://keepass.info/help/v2_dev/plg_index.html[Plugin Development - KeePass]
+
+La doc d'écriture de plugins pour Keepass est sacrément claire. C'est chouette !

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: How Your Wi-Fi Signal Can Expose Everything You Type | The Daily Dot
+:jbake-tags: software,wifi,sécurité,clavier,_mois_sept.,_année_2016
+:jbake-date: 2016-09-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1472722549000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.dailydot.com%2Flayer8%2Fkeystroke-recognition-wifi-signal%2F&searchtags=software+wifi+s%C3%A9curit%C3%A9+clavier+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.dailydot.com/layer8/keystroke-recognition-wifi-signal/[How Your Wi-Fi Signal Can Expose Everything You Type | The Daily Dot]
+
+Un keylogger basé sur les distorsions du signal wifi liées à la position des mains. Ca va très loin.

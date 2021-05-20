@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Chocolatey Gallery | Packages
+:jbake-tags: software,freeware,windows,system,packaging,_mois_juin,_année_2013
+:jbake-date: 2013-06-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1370439553000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fchocolatey.org%2Fpackages&searchtags=software+freeware+windows+system+packaging+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://chocolatey.org/packages[Chocolatey Gallery | Packages]
+
+Va vraiment falloir que je teste cet apt-get pour Windows, parce que parfois, je trouve npackd limité en nombre de packages.

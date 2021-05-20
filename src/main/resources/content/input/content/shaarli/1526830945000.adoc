@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Installing Rust on Windows | jeremiah
+:jbake-tags: rust,programming,windows,configuration,_mois_mai,_année_2018
+:jbake-date: 2018-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1526830945000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ffacility9.com%2F2016%2F03%2Finstalling-rust-on-windows%2F&searchtags=rust+programming+windows+configuration+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://facility9.com/2016/03/installing-rust-on-windows/[Installing Rust on Windows | jeremiah]
+
+Configurer correcter Rust sous Windows, c'est pas très dur ... mais il ne faut pas oublier d'installer Visual Studio Build Tools (ce que j'avais oublié la première fois)

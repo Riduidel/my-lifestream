@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: /dev/lawyer Our Ethics, Not Yours
+:jbake-tags: droit,informatique,license,éthique,moral,_mois_oct.,_année_2019
+:jbake-date: 2019-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1570473922000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwriting.kemitchell.com%2F2019%2F09%2F28%2FEthics.html&searchtags=droit+informatique+license+%C3%A9thique+moral+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://writing.kemitchell.com/2019/09/28/Ethics.html[/dev/lawyer Our Ethics, Not Yours]
+
+Alors ça c'est très très très intéressant. Le débat qui s'entame autour de l'usage éthique de l'informatique et de son support légale est bien aliment dans cet article, et me donne un nouvel axe de réflexion. (et ne loupez pas les licences proposées)

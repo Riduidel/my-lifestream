@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: asmble - Compile WebAssembly to JVM and other WASM tools - Kotlin Resources
+:jbake-tags: webassembly,java,library,open-source,_mois_févr.,_année_2020
+:jbake-date: 2020-02-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1580566074000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.kotlinresources.com%2Flibrary%2Fasmble%2F&searchtags=webassembly+java+library+open-source+_mois_f%C3%A9vr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.kotlinresources.com/library/asmble/[asmble - Compile WebAssembly to JVM and other WASM tools - Kotlin Resources]
+
+Donc avec ça on peut prendre du code compilé en WASM et le faire tourner dans la JVM (qui encore une fois n'est pas morte, loin de là).

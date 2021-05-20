@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tipue
+:jbake-tags: javascript,library,search,tool,web,webgen,_mois_mars,_année_2008
+:jbake-date: 2008-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1206611234000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.tipue.com%2F&searchtags=javascript+library+search+tool+web+webgen+_mois_mars+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.tipue.com/[Tipue]
+
+J'hésitais à intégrer google search dans mon futur webgen, mais avec Tipue, je crois que j'ai un concurrent sympa sous la main ...

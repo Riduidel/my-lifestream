@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hexagonal Grids
+:jbake-tags: programming,algorithme,data,structure,_mois_avr.,_année_2017
+:jbake-date: 2017-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1492265427000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.redblobgames.com%2Fgrids%2Fhexagons%2F&searchtags=programming+algorithme+data+structure+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.redblobgames.com/grids/hexagons/[Hexagonal Grids]
+
+Très bon article sur les grilles hexagonales ... Je vais devoir utiliser tout ça (soupir)

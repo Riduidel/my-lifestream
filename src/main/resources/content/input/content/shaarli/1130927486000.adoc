@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Marginalia » Blog Archive » The Seven Habits of Highly Dysfunctional Design
+:jbake-tags: ,_mois_nov.,_année_2005
+:jbake-date: 2005-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1130927486000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fadamconnor.org%2F%3Fp%3D40&searchtags=+_mois_nov.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://adamconnor.org/?p=40[Marginalia » Blog Archive » The Seven Habits of Highly Dysfunctional Design]
+
+Serie of reading concerning poor software design

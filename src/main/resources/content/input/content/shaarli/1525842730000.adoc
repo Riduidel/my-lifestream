@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: John O'Nolan @ 🇨🇦 on Twitter: "At the point of seriously considering paid access to issue tracker. Code still open source, everything still licensed the same. But you want *time* from the core team to work on your bug/feature request? Maybe that should be based on paid tiers. Maybe. I don’t know"
+:jbake-tags: programming,management,_mois_mai,_année_2018
+:jbake-date: 2018-05-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1525842730000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FJohnONolan%2Fstatus%2F993663437828898816&searchtags=programming+management+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/JohnONolan/status/993663437828898816[John O'Nolan @ 🇨🇦 on Twitter: "At the point of seriously considering paid access to issue tracker. Code still open source, everything still licensed the same. But you want *time* from the core team to work on your bug/feature request? Maybe that should be based on paid tiers. Maybe. I don’t know"]
+
+Une idée de génie !

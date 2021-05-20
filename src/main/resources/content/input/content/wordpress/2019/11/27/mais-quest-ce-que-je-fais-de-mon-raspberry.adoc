@@ -1,0 +1,68 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais qu’est-ce que je fais de mon Raspberry ?
+:jbake-tags: mail,maison,raspberrypi,rss,twitter,_mois_nov.,_année_2019
+:jbake-date: 2019-11-27
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/11/27/mais-quest-ce-que-je-fais-de-mon-raspberry.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/11/27/mais-quest-ce-que-je-fais-de-mon-raspberry/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Puisqu’il y a en ce moment un hashtag <a href="https://twitter.com/search?q=IUseMyRaspberryPiFor&#38;src=typd">#IUseMyRaspberryFor</a> qui expose des usages du Raspberry plus ou moins intéressants, laissez-moi vous parler de mon infrastructure domestique. En préambule, mon Raspberry est branché en Ethernet à la freebox <strong>et </strong>alimenté par le port USB de la freebox. Parce que ce Rasbperry est uniquement un device réseau.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_quest_ce_que_jhéberge">Qu’est-ce que j’héberge ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sur mon Raspberry, j’ai donc</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Un serveur Apache qui sert<ul><li><a href="https://nicolas-delsaux.hd.free.fr/Shaarli/">Une instance</a>&#160;<a href="https://github.com/shaarli/Shaarli">Shaarli</a>&#160;dans laquelle j’ai migré mes liens delicious, et qui commence à être raisonnablement remplie (6367 liens à l’heure actuelle)</li><li><a href="https://nicolas-delsaux.hd.free.fr/tweetledee/homerss.php">Une instance</a>&#160;<a href="https://github.com/tweetledee/tweetledee">tweetledee</a>&#160;pour lire Twitter en RSS (mais vous allez voir plus loin que je ne fais pas exactement ça).</li><li><a href="https://nicolas-delsaux.hd.free.fr/rss-bridge/">Une instance</a>&#160;<a href="https://github.com/RSS-Bridge/rss-bridge">rss-bridge</a>&#160;pour récupérer encore plus de flux RSS depuis des sources diverses (GQMagazine, World of Tanks, Facebook)</li></ul></li><li>Une instance mldonkey (ben oui, ça marche toujours, tant que je télécharge uniquement des "vieux" fichiers)</li><li>Un script&#160;<a href="https://github.com/rcarmo/rss2imap">rss2imap</a>&#160;(et maintenant&#160;<a href="https://github.com/Riduidel/rrss2imap">rrss2imap</a>) pour envoyer mes flux RSS dans ma boîte IMAP.</li><li>Et deux-trois scripts shell pour faire des backups de configuration.</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Je n’ai pas installé de&#160;<a href="https://pi-hole.net/">pi-hole</a>&#160;dessus (même si j’y ai souvent pensé). Je n’ai pas non plus de media-center qui tourne dessus (parce que je l’ai migré sur mon NAS - c’est plus rapide et plus fiable). Par contre, j’utilise régulièrement mon Raspberry en tant que machine de rebond SSH pour sortir de chez certains clients pénibles. Et pour ça, il ne me faut que le serveur SSH, qui est installé d’office par Raspbian.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_mais_attends_comment_ça_sintègre">Mais attends, comment ça s’intègre ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Parce que bon, me contenter de dire j’ai ça, c’est mignon, mais il y a dans tout ça un but. Le but officiel, c’est que ce Raspberry, qui est exposé sur internet, me serve de mémoire et de noeud central dans ma méthode de collecte et d’organisation d’information. Je vous montre (ben oui, <a href="https://plantuml.com/fr/">PlantUML</a>, c’est quand même bien chouette pour présenter de l’information)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image -->
+<figure class="wp-block-image"><img src="http://localhost:18888/png/bLBTRjCm5BxtKtYzwYISGD5k4AhQJIcg6ElMP721KEJ69uqrnpQsisgWlH8lmOlX94sJIhqekSdn-SxtdT-PTTIugXJeWa7E9U3bpUhkSNsB2-Uq_H26Xkw2BNT5jQaic4n91z85cIf3LsdApFjG2ofh2S8zId8VGQmst84DdoV1k-0jkk0o4nM3oeXEF_GAfPA1RdAVm1iTkWEhIY1NeTjnvy2S5n-2V0QXDAJgx0GvpM2ZrDFP16DjQdzMrC3_Dd54G_Q9IqqDBR4VYLRIZpTsBmAmHoS8BUPNQV9jcIJHUhpdNmwTQVpmE5z7OyDPnHc8DtWqw-nH6xcOtqJNgzNdSTTZxKwZkw_HxUe-IbVZalAQTwt-_d60wvTdPa9L32yNIPAWdFjwFZryeLlwonz9exgEuovt3i0kaLGCiA5MRy2O5_mROVyTUi9-NXDUKjsuSoKO63pND2jW7teSFlBwPECxsS88KrlJszU9sBYWr0X-0abs04u0WvRsYbuHQfEIxmLd3EIFQQzyi0uWcNRQ-_y06MYZ_MQ8WDmT8Rr9feS9z7bwNpr3SXpJ66HQxmFrmoU3Whk54iEtXHiYNRbjGUqMkxFuI4Zhc85a_ih-0G00" alt="infos.png" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Bon, évidement, le schéma n’est pas super super clair. Mais comme je crois aux qualités de&#160;<a href="https://plantuml.com/fr/">PlantUML</a>&#160;…​ je vais le laisser comme ça 😀. Et surtout, je n’ai pas mis dans ce schéma mldonkey (parce que ça aurait rajouté de la complexité inutile).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Donc, Shaarli mémorise tout, et IFTTT envoie ça dans ma timeline Twitter. A côté de ça, rss2imap lit les flux RSS depuis RSS-Bridge, Tweetledee, et tout un paquet de "vrais" flux RSS. Et évidement, le contenu de ces flux est envoyé dans ma boîte mail (ce qui m’offre grâce à l’IMAP une lecture synchronsiée sur tous mes devices à un coût dérisoire). Avec ça, j’ai enfin atteint à mon avis le graal de la lecture de flux RSS (en tout modestie, bien sûr) : j’utilise un protocole standard, optimisé pour du texte, afin de récupérer mon texte où que je sois, la lecture est synchronisée, et j’ai une interface de lecture vraiment top (parce que les clients mails sont conçus pour gérer un gros volume de messages)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_et_comment_je_le_maintiens">Et comment je le maintiens ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Cette question-là, je me la suis posée plusieurs fois …​ parce que mon Raspberry a déja mangé quelques cartes micro-SD (vous n’avez qu’à regarder dans&#160;<a href="https://riduidel.wordpress.com/tag/raspberry/">les archives du blog</a>). Et donc, j’ai maintenant un playbook Ansible qui me permet de reconstruire le Raspberry "presque" automatiquement. Ce script inclut (et c’est sans doute la meilleure partie) un cronjob qui, tous les jours, copie les fichiers de configuration de toutes ces applications sur mon NAS. Et ce script marche bien puisque j’ai réinstallé mon Raspberry il y a moins d’un mois à partir de ces fichiers de configuration. Donc, je sais qu’il me faut moins de deux heures d’exécution de script (et environ 10 minutes d’intervention manuelle) pour remettre mon Raspberry en état quand la carte mémoire claque (ce qui arrive beaucoup trop régulièrement).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 id="_comment_faire_mieux">Comment faire mieux ?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>D’abord, ce serait peut-être bien d’exposer mon fichier OPML quelque part dans Apache, ça m’aiderait bien à communiquer sur mes sources. Ensuite, j’aimerai beaucoup remplacer IFTTT par&#160;<a href="https://github.com/muesli/beehive">Beehive</a>, qui s’exécuterait sur le Raspberry. Et c’est, je crois, à peu près tout pour ce Raspberry. Parce que j’ai toujours dans un coin de ma tête ce projet de webradio …​</p>
+<!-- /wp:paragraph -->
+++++

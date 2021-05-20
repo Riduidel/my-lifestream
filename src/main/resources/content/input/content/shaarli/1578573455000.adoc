@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vegapit
+:jbake-tags: rust,programming,mémoire,tutorial,_mois_janv.,_année_2020
+:jbake-date: 2020-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1578573455000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvegapit.com%2Farticle%2Fmutability-in-rust-for-functions-and-closures&searchtags=rust+programming+m%C3%A9moire+tutorial+_mois_janv.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://vegapit.com/article/mutability-in-rust-for-functions-and-closures[Vegapit]
+
+Une très bonne explication des impacts de l'ownership Rust sur les appels de fonction. C'est vraiment clair !

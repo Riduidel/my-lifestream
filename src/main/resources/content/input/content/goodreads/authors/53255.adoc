@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Megan Lindholm
+:jbake-tags: author
+:jbake-date: 2007-03-20
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/53255.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1205023699p5/53255.jpg
+:jbake-source: https://www.goodreads.com/author/show/53255
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780765311924.html[The Gypsy]

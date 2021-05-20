@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tony Morris on Twitter: "OH: Scala is like the McDonald's of Functional Programming."
+:jbake-tags: citation,programming,functionnal,scala,_mois_déc.,_année_2018
+:jbake-date: 2018-12-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1545207821000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fdibblego%2Fstatus%2F1074741050583830533&searchtags=citation+programming+functionnal+scala+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/dibblego/status/1074741050583830533[Tony Morris on Twitter: "OH: Scala is like the McDonald's of Functional Programming."]
+
+Parfois je comprend que les amateurs de Scala soient obligés de se construire une image de surhommes,a vec toute la merde qu'ils se prennent des javaistes comme des fonctionnalistes. Mais après je regarde du Scala, et je ris.

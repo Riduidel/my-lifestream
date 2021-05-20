@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Open Web Design - Download Free Web Design Templates
+:jbake-tags: css,freeware,gallerie,library,reference,webdesign,webgen,_mois_juin,_année_2008
+:jbake-date: 2008-06-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1214313730000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.openwebdesign.org%2F&searchtags=css+freeware+gallerie+library+reference+webdesign+webgen+_mois_juin+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.openwebdesign.org/[Open Web Design - Download Free Web Design Templates]
+
+Une collection de templates de poages web à réutiliser, pour le jour où mon générateur de sites web sera prêt.

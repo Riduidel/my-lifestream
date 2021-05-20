@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DSM-G600, DNS-323 and TS-I300 Hack Forum / FTP Client
+:jbake-tags: ftp,documentation,freeware,install,tutorial,dns-323,_mois_mars,_année_2009
+:jbake-date: 2009-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1236446199000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fforum.dsmg600.info%2Fp6043-20070905-152036.html&searchtags=ftp+documentation+freeware+install+tutorial+dns-323+_mois_mars+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://forum.dsmg600.info/p6043-20070905-152036.html[DSM-G600, DNS-323 and TS-I300 Hack Forum / FTP Client]
+
+Un client FTP pour le DNS-323. Un bon point pour écrire un script de synchronisation entre le disque dur réseau et la freebox HD (enfin, au moins un bon départ).

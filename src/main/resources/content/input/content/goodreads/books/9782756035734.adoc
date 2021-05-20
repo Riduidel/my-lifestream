@@ -1,0 +1,30 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Les Indes fourbes
+:jbake-tags:  amérique, aventure, histoire, religion, voleurs, voyage,_année_2019,_mois_sept.,_note_5,rayon-bd,read
+:jbake-date: 2019-09-24
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782756035734.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/49612237
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Fripouille sympathique, don Pablos de Ségovie fait le récit de ses aventures picaresques dans cette Amérique qu'on appelait encore les Indes au siècle d'or. Tour à tour misérable et richissime, adoré et conspué, ses tribulations le mèneront des bas-fonds aux palais, des pics de la Cordillère aux méandres de l'Amazone, jusqu'à ce lieu mythique du Nouveau Monde : l'Eldorado !
+</div>
+++++
+
+
+## Authors
+* link:../authors/876891.html[Alain Ayroles]
+* link:../authors/300529.html[Juanjo Guarnido]
+
+
+
+## Review
+
+++++
+Cette épaisse bande-dessinée reprend un thème assez classique, mais avec une ampleur et une texture rarement atteinte.<br/>C'est très bien scénarisé, et tout aussi bien dessiné.<br/>Et la conclusion est proprement incroyable, avec les nains de la cour d'Espagne et les ménines (qui font donc une référence classique à Picasso ou Velasquez). Vraiment, c'est très très très chouette.
+++++

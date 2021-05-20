@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Rusty Advent of Code - Casey Primozic
+:jbake-tags: rust,programming,challenge,performance,_mois_janv.,_année_2019
+:jbake-date: 2019-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1546416308000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fcprimozic.net%2Fblog%2Fa-rusty-aoc%2F&searchtags=rust+programming+challenge+performance+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://cprimozic.net/blog/a-rusty-aoc/[A Rusty Advent of Code - Casey Primozic]
+
+J'ai deux collègues qui seront intéressés par cet advent of code Rust

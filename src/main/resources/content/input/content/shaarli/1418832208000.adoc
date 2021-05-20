@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Introducing Libscore.com — Medium
+:jbake-tags: javascript,développement,programming,web,search,_mois_déc.,_année_2014
+:jbake-date: 2014-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1418832208000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmedium.com%2F%40Shapiro%2Fintroducing-libscore-com-be93165fa497&searchtags=javascript+d%C3%A9veloppement+programming+web+search+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://medium.com/@Shapiro/introducing-libscore-com-be93165fa497[Introducing Libscore.com — Medium]
+
+Ca existe aussi en Java, mais je ne sais plus trop où

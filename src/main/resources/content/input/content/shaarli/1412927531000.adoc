@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Naurne
+:jbake-tags: littérature,web,fantastique,urbain,_mois_oct.,_année_2014
+:jbake-date: 2014-10-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1412927531000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lenaurne.fr%2F&searchtags=litt%C3%A9rature+web+fantastique+urbain+_mois_oct.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.lenaurne.fr/[Le Naurne]
+
+C'est étrange, bizarre, et la mise en page est prodigieusement adaptée au support.

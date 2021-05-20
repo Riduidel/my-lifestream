@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: MacSpirographic software
+:jbake-tags: software,freeware,macosx,display,dessin,_mois_mars,_année_2005
+:jbake-date: 2005-03-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1111398841000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.databrevity.com%2Fmacspiro%2F&searchtags=software+freeware+macosx+display+dessin+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.databrevity.com/macspiro/[MacSpirographic software]
+
+This freeware Macintosh program lets you create spirograph patterns. You control the size of two spirograph discs and the position and colour of a moving and rotating pen. Your creations can be printed, exported in a variety of formats, or saved as MacSpi

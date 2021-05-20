@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Axis
+:jbake-tags:  amour, extra-terrestres, mutant, voyage,_année_2018,_mois_août,_note_2,rayon-imaginaire,read
+:jbake-date: 2018-08-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782070464319.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445497271l/27253593._SY160_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1445497271l/27253593._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/27253593
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Menacée par un Soleil qui se transformera bientôt en nova, la Terre vit ses dernières années.<br /><br />Pour la plupart, les hommes ont franchi l'arc des Hypothétiques et se sont installés sur le Nouveau Monde, Equatoria, notamment dans sa capitale, Port Magellan.<br /><br />C'est à partir de cette agglomération tentaculaire, hétérogène telle l'humanité, que Lise Adams cherche son père, un scientifique qui a disparu depuis bien longtemps et avait peut-être découvert quelque chose sur l'énigme que représentent les Hypothétiques. Alors que Lise tient enfin une piste sérieuse, grâce à son ancien amant Turk Findley, d'étranges cendres se mettent à tomber sur le Nouveau Monde.<br /><br />Et si celui-ci, tout comme la Terre, était condamné à brève échéance ?
+</div>
+++++
+
+
+## Authors
+* link:../authors/86222.html[Gilles Goullet]
+* link:../authors/27276.html[Robert Charles Wilson]
+
+## Series
+* link:../series/Spin_Saga.html[Spin Saga]
+
+## Review
+
+++++
+Les mystères des hypothétiques dont fascinants, et les personnages sont bien construits.<br/>Mais la volonté de l'auteur de passer à côté du coeur de l'intrigue est frustrante. 
+++++

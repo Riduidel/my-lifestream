@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une ballade dans les arbres
+:jbake-tags: art,architecture,promenade,nature,_mois_mars,_année_2015
+:jbake-date: 2015-03-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1426253512000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fune-ballade-dans-les-arbres%2F&searchtags=art+architecture+promenade+nature+_mois_mars+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/une-ballade-dans-les-arbres/[Une ballade dans les arbres]
+
+Ca me fait curieusement penser à un monument de Séville, qui offre la même hauteur, mais sur la ville

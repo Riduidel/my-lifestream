@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Jay Fields Thoughts: Rake: Tasks with parameters
+:jbake-tags: ruby,task,compilateur,_mois_févr.,_année_2008
+:jbake-date: 2008-02-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1204290249000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.jayfields.com%2F2006%2F10%2Frake-tasks-with-parameters.html&searchtags=ruby+task+compilateur+_mois_f%C3%A9vr.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://blog.jayfields.com/2006/10/rake-tasks-with-parameters.html[Jay Fields Thoughts: Rake: Tasks with parameters]
+
+Pour éviter d'installer cygwin, je crois que je vais améliorer le script de compilation de TaskJuggler. Pour ça, je vais devoir passer des paramètres à rake ...

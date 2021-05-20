@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Agility and Architecture - Vanguard EA
+:jbake-tags: architecture,agile,communication,entreprise,motivation,process,_mois_juil.,_année_2020
+:jbake-date: 2020-07-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1594106109000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fvanguardea.com%2Fagility-and-architecture%2F&searchtags=architecture+agile+communication+entreprise+motivation+process+_mois_juil.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+http://vanguardea.com/agility-and-architecture/[Agility and Architecture - Vanguard EA]
+
+Un article vraiment intéressant pour comprendre comment l'architecture d'entreprise et l'agilité s'articulent

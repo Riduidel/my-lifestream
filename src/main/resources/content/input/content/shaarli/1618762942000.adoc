@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Web Captioner
+:jbake-tags: web,voix,reconnaissance,transcription,automatisation,_mois_avr.,_année_2021
+:jbake-date: 2021-04-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1618762942000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwebcaptioner.com%2F&searchtags=web+voix+reconnaissance+transcription+automatisation+_mois_avr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://webcaptioner.com/[Web Captioner]
+
+Ca me rappelle une présentation très cool d'un collègue, et ça me redonne envie de travailler à un plugin pour revealjs qui fasse ça "automagiquement".

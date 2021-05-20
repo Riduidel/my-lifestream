@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Robert Reed
+:jbake-tags: author
+:jbake-date: 2003-11-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/57814.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1455117424p5/57814.jpg
+:jbake-source: https://www.goodreads.com/author/show/57814
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780445207455.html[The Hormone Jungle]
+* link:../books/9782253072478.html[Béantes Portes Du Ciel]
+* link:../books/9782253195023.html[Le Grand Vaisseau (Great Ship, #1)]
+* link:../books/9782253195160.html[Un puits dans les étoiles]

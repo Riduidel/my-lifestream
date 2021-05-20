@@ -1,0 +1,142 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Devoxxfr - Le bonheur au travail, au-delà du bullshit
+:jbake-tags: bonheur,devoxx,travail,_mois_avr.,_année_2019
+:jbake-date: 2019-04-19
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/04/19/devoxxfr-le-bonheur-au-travail-au-dela-du-bullshit.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/04/19/devoxxfr-le-bonheur-au-travail-au-dela-du-bullshit/
+:jbake-style: wordpress
+
+++++
+<p>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/idriss_neumann" class="screenName"><img src="http://pbs.twimg.com/profile_images/1297261824371556352/9yMdakwV_mini.jpg" alt="profile of IoT, SRE, DevOps and μservices addict w/ docker, k8s, kafka, elasticstack, redis, python and vert.x. On Linux since 2000. https://t.co/oO8rew0Wy4, https://t.co/IOP8YBASPN, https://t.co/bhdkfzmNnG"/>idriss_neumann</a>
+<br/>
+<span class="name">Idriss Neumann ∞ 🐧 🐳 ☸️</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/idriss_neumann/status/1 118 777 155 436 072 961" class="date">18 avr. 2019 à 09:23:54</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">The happiness at work by Christian Fauré at @DevoxxFR #keynote https://t.co/JaZuobjxyu</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4ax3j2X4AA0H-I.jpg" alt="1 118 777 125 522 366 464"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4ax3_-XoAAIhXL.jpg" alt="1 118 777 133 072 097 280"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4ax4ZAX4AEMHZ8.jpg" alt="1 118 777 139 791 388 673"/>
+<br/>
+</span>
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/D4ax40eW0AAxwDU.jpg" alt="1 118 777 147 164 905 472"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+<a href="https://twitter.com/ChristianFaure">Christian Fauré</a> commence sa présentation avec un parallèle avec le bonheur des dames …​ une espèce de grand magasin où tout est possible. Une autre vision serait celle de simplement ne rien faire, façon Gaston. Ou encore l’american way of life, séparant d’un côté le rêve d’une minorité et de l’autre la grande masse des malheureux.
+</p>
+<p>
+</div>
+<br/>
+<img class="alignnone size-full wp-image-5378" src="https://riduidel.files.wordpress.com/2019/04/american-way.jpg" alt="american-way" width="680" height="522" />
+<br/>
+<div class="paragraph data-line-7">
+</p>
+<p>
+<a href="https://fr.wikipedia.org/wiki/David_Graeber">David Graeber</a>, penseur d’Occupy Wall Street (et auteur du livre "Bullshit Jobs"), a aidé notre speaker à comprendre que l’informatique, avant tout, ce sont des formulaires. Et quand on regarde son livre bullshit jobs …​ peut-être que notre travail y ressemble. En tout cas, on est tous confrontés à des bullshit tasks.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-9">
+</p>
+<p>
+Finalement, c’est quoi le bonheur au travail ?
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-11">
+</p>
+<p>
+<a href="https://fr.wikipedia.org/wiki/Karl_Marx">Marx</a> décrit les éléments du bonheur (ou du bien-être) au travail. Pour lui, la <a href="https://fr.wikipedia.org/wiki/Prol%C3%A9tariat">prolétarisation</a> consiste à priver un sujet de ses savoirs (être, faire, …​). Et d’après notre orateur, si vous vous prolétarisez, il y a de fortes chances que vous soyez malheureux au travail. A l'époque de Marx, l’ouvrier est prolétarisé par la révolution industrielle. Aujourd’hui, tous nos métiers sont prolétarisés …​ tout au moins tous ceux qui utilisent des outils informatiques (même le développeur qui utilise un framework est prolétarisé …​ ou <a href="https://fr.wikipedia.org/wiki/Alan_Greenspan">Alan Greenspan</a> qui prétend ne rien comprendre à la crise des subprimes). Evidement, quelqu’un qui est prolétarisé se retrouve désœuvré, et ne peut pas être heureux. Autrement dit, pour être heureux, il ne faut pas être désœuvré.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-13">
+</p>
+<p>
+<a href="https://fr.wikipedia.org/wiki/Matthew_Crawford">Matthew Crawford</a>, ancien consultant, a préféré devenir garagiste et a écrit le livre "<a href="https://fr.wikipedia.org/wiki/%C3%89loge_du_carburateur">Eloge du carburateur</a>" qui explique comment retrouver du bonheur au travail, en s’investissant dans son travail. Ce livre est une référence dans le software craftmanship parce qu’il montre le sens qu’il y a à réaliser son travail.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-15">
+</p>
+<p>
+Ce qui émerge, c’est la distinction entre l’emploi et le travail. Ce sont de choses différences, thématisées par exemple par <a href="https://fr.wikipedia.org/wiki/Bernard_Stiegler">Bernard Stiegler</a> (voir par exemple "L’emploi est mort, vive le travail)". Ca va avec la notion d’amateur …​ au sens où les gens aiment ce qu’ils font (des passionnés autrement dit).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-18">
+</p>
+<p>
+Pour Christian, Devoxx est avant tout une opération de déprolétarisation (en permettant aux auditeurs d’obtenir de nouveaux savoirs).
+<br/>
+<h4>Mon avis</h4>
+<br/>
+Le propos est intéressant. Mais réduire le bonheur au travail à l'aspect "sens" me paraît assez réducteur. Par ailleurs, c'est oublier que l'une des premières conditions de l'épanouissement est un environnement (lire un cadre, un manager) intéressant. Et puis mon entreprise actuelle m'offre les différents éléments me "garantissant" ce bonheur.
+</p>
+<p>
+Un autre point concerne le thème du travail sans emploi, que Christian a soigneusement contourné. Dans l'avenir, si tous les métiers sont prolétarisés, un certain nombre vont arrêter d'exister. Que faire de ces gens qui n'auront authentiquement plus de place sur le marché du travail ? Pour le dire autrement, quand est-ce qu'on arrête de se voiler la face sur le fait qu'on arrive à la civilisation post-emploi ? Ce serait bien de voir des gens s'inspirer des oeuvres de Banks qui traite ... pas mal ... du sujet !
+</p>
+<p>
+</div>
+</p>
+++++

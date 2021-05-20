@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Eric Elliott sur Twitter : "How to speed up developers: * Give them one task at a time to focus on * Avoid context switches * Cut meetings * Avoid interruptions"
+:jbake-tags: citation,travail,développeur,réunion,_mois_déc.,_année_2019
+:jbake-date: 2019-12-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1577815966000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2F_ericelliott%2Fstatus%2F1208883679281463296&searchtags=citation+travail+d%C3%A9veloppeur+r%C3%A9union+_mois_d%C3%A9c.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/_ericelliott/status/1208883679281463296[Eric Elliott sur Twitter : "How to speed up developers: * Give them one task at a time to focus on * Avoid context switches * Cut meetings * Avoid interruptions"]
+
+ok, il va vraiment falloir travailler en ce sens.

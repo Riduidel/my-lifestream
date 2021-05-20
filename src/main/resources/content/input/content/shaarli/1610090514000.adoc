@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Leapp - One step away from your Cloud
+:jbake-tags: cloud,authentification,windows,macosx,linux,open-source,_mois_janv.,_année_2021
+:jbake-date: 2021-01-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1610090514000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.leapp.cloud%2F&searchtags=cloud+authentification+windows+macosx+linux+open-source+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.leapp.cloud/[Leapp - One step away from your Cloud]
+
+Ca m'a l'air sacrément intéressant comme outil d'abstraction d'authentification ...

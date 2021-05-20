@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: QSOS
+:jbake-tags: software,open-source,qualité,_mois_janv.,_année_2011
+:jbake-date: 2011-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1295260412000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.qsos.org%2F&searchtags=software+open-source+qualit%C3%A9+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.qsos.org/[QSOS]
+
+Un outil d'évaluation de la pérenité et de l'utilisabilité de logiciels open-sources. Ca va être très utile pour convaincre les décideurs pressés ...

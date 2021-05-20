@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Secrets from the Robocode masters: A collection of hints, tips, and advice from the Robocode masters
+:jbake-tags: programming,tutorial,java,robocode,tips,_mois_déc.,_année_2008
+:jbake-date: 2008-12-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1229014250000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ibm.com%2Fdeveloperworks%2Flibrary%2Fj-robotips%2Findex.html&searchtags=programming+tutorial+java+robocode+tips+_mois_d%C3%A9c.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.ibm.com/developerworks/library/j-robotips/index.html[Secrets from the Robocode masters: A collection of hints, tips, and advice from the Robocode masters]
+
+Il y a bien longtemps, j'avais joué un peu avec Robocode. Mes collègues m'ont récement relancé, et j'ai besoin d'un peu de doc avancée. Merci, donc, IBM pour cette page de doc. Et comme je suis fair play, je les en fait profiter histoire que tout le monde soit au même niveau

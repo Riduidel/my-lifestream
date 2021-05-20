@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: xkcd: Landing
+:jbake-tags: science,espace,exploration,direct,_mois_nov.,_année_2014
+:jbake-date: 2014-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1415803246000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fxkcd.com%2F1446%2F&searchtags=science+espace+exploration+direct+_mois_nov.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://xkcd.com/1446/[xkcd: Landing]
+
+Suivez l'atterissage de Rosetta en direct ... et en petits dessins bien clairs

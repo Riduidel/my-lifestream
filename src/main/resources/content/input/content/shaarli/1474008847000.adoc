@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Brian Guthrie on Twitter: "Git has seemingly convinced a generation of devs that better software development revolves around finding the right branching strategy."
+:jbake-tags: citation,programming,git,source,_mois_sept.,_année_2016
+:jbake-date: 2016-09-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1474008847000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbguthrie%2Fstatus%2F776163773522534406&searchtags=citation+programming+git+source+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/bguthrie/status/776163773522534406[Brian Guthrie on Twitter: "Git has seemingly convinced a generation of devs that better software development revolves around finding the right branching strategy."]
+
+Ca s'applique aussi à Docker, aux microservices, et à toutes ces modes. Ce qui compte, c'est de livrer vite et bien.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Cave Story (Doukutsu Monogatari), A Tribute Site
+:jbake-tags: jeu,freeware,_mois_nov.,_année_2012
+:jbake-date: 2012-11-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1352294335000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.cavestory.org%2F&searchtags=jeu+freeware+_mois_nov.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+http://www.cavestory.org/[Cave Story (Doukutsu Monogatari), A Tribute Site]
+
+Ca vaut peut-être le coup de montrer ça aux enfants

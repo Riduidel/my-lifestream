@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: tef e. birbs sur Twitter : "programmers tend to read essays until they getting to the first line they disagree with and then tweet about it, like a compiler" / Twitter
+:jbake-tags: citation,programming,psychologie,_mois_sept.,_année_2020
+:jbake-date: 2020-09-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1601033670000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Ftef_ebooks%2Fstatus%2F1108101434141298695&searchtags=citation+programming+psychologie+_mois_sept.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/tef_ebooks/status/1108101434141298695[tef e. birbs sur Twitter : "programmers tend to read essays until they getting to the first line they disagree with and then tweet about it, like a compiler" / Twitter]
+
+Cette citation est incroyablement juste, et frappante.

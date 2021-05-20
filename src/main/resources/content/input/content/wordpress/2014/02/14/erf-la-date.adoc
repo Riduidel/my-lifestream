@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Erf, la date
+:jbake-tags: devops,linux,macosx,ntp,_mois_févr.,_année_2014
+:jbake-date: 2014-02-14
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/02/14/erf-la-date.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/02/14/erf-la-date/
+:jbake-style: wordpress
+
+++++
+<p>
+Vous avez sans doute lu <a href="http://riduidel.wordpress.com/2014/02/11/erf-subversion/">mon dernier article</a> avec une espèce de curiosité un peu malsaine ....
+</p>
+<p>
+Bon, je vous explique. J'utilise au bureau Jenkins, très bon outil d'intégration continue. Ce outil, je lui fait faire des trucs pas forcément catholiques (comme par exemple émuler les releases maven).
+</p>
+<p>
+Bien, dans la release maven, il ya une étape où on crée un tag, et ensuite on change la version maven dans ce tag. Donc pour ça, on crée le tag (ça je crois que je l'ai déja dit), et on fait un checkout du tag.
+</p>
+<p>
+Et c'est ce checkout qui ne marche pas, ce qui m'a fait m'arracher les cheveux (bon, je n'en ai plus depuis un moment, mais c'est tout comme) depuis une semaine. Pourquoi ?
+</p>
+<p>
+Vous allez rire, j'en suis sûr.
+</p>
+<p>
+Parce que, comme toute bonne histoire de DevOps, c'est la couche en laquelle j'avais confiance qui a foiré.
+</p>
+<p>
+En l'occurence, le serveur Subversion, l'esclave Jenkins et Jenkins ne sont pas à la même heure ... il y a même un décalage de <strong>10 minutes</strong> entre eux. Jenkins est dans le passé des deux autres. Donc, comme je fais la création de tag dans un job, et le switch dans un autre, eh bien ce deuxième job démarre avec un timestamp fourni par Jenkins (donc 10 minutes dans son propre passé). A cet instant, évidement, le tag n'existe pas, et le switch ne peut que mal se passer.
+</p>
+<p>
+J'ai donc enfilé mon meilleur costume de Linuxien fou et cherché comment configurer un serveur de temps, sur la machine Subversion (une <a href="https://help.ubuntu.com/lts/serverguide/NTP.html">Ubuntu</a>), sur l'esclave (un <a href="http://fr.wikipedia.org/wiki/Xserve">XServe </a>sous <a href="http://blog.irrashai.com/blog/2009/03/how-to-setup-an-ntp-server-in-mac-os-x/">MacOS</a>), et Jenkins. Hélas, la machine virtuelle hébergeant ce dernier n'a pas d'accès réseau. Je n'ai donc pas pu configurer NTP et j'ai dû, à la main, <a href="http://www.cyberciti.biz/faq/howto-set-date-time-from-linux-command-prompt/">changer la date de Linux</a>. La honte, non ?
+</p>
+<p>
+Du coup, je vais devoir ajouter un job dans Jenkins pour vérifier qu'il n'y a pas un décalage trop important (voire, et j'en ai honte, pour  <a href="http://www.commandlinefu.com/commands/view/9153/synchronize-date-and-time-with-a-server-over-ssh">synchroniser la date</a> de la machine Jenkins avec celle de la machine Subversion (comme ça, plus de décalage possible) !
+</p>
+++++

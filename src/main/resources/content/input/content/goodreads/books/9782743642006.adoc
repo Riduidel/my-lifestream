@@ -1,0 +1,29 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Station Eleven
+:jbake-tags:  art, maladie, mort, musique, post-apo, théatre,_année_2018,_mois_nov.,_note_5,rayon-imaginaire,read
+:jbake-date: 2018-11-05
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782743642006.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526133142l/40107796._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1526133142l/40107796._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/40107796
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Dans un monde où la civilisation s’est effondrée suite à une pandémie foudroyante, une troupe d’acteurs et de musiciens nomadise entre de petites communautés de survivants pour leur jouer du Shakespeare. Un répertoire qui en est venu à représenter l’espoir et l’humanité au milieu de la désolation.
+</div>
+++++
+
+
+## Authors
+* link:../authors/2786093.html[Emily St. John Mandel]
+
+
+
+## Review
+
+++++
+Ce roman est assez complexe à décrire ...<br/>On y assiste à une représentation du roi Lear.<br/>On y voit la vie de l'acteur principal y défiler.<br/>On y voit la vie d'une troupe musicale et théatrale ambulante s'y dérouler vingt après la fin du monde.<br/>On y comprend, peut-être, le sens que peut avoir l'art dans un monde ayant quasiment disparu.<br/>J'y ai également lu, malgré tout, la fragilité de notre mode de vie technologique, rendue justement par son impossible survie à la fin du monde. Une fragilité qui est peut-être le coeur de cette oeuvre.<br/>Pas parce que ces objets y sont importants. Au contraire, les personnages n'ont, globalement, que peu d'attrait pour ces objets. C'est - peut-être - ce qui facilite la survie des trop rares survivants. Par contre, la capacité à vouloir faire plus que survivre, comme le décrit particulièrement bien la troupe ambulante, est aussi un des éléments clés de cette histoire : chaque humain semble avoir des aspirations plus grande que d'aller jusqu'au lendemain, des aspirations qui peuvent certes le tuer, mais qui sont de formidables ressorts de motivation. Ca rend d'ailleurs les personnages principaux vivants, réels.<br/>De ce point de vue, j'ai trouvé l’écriture d'une légèreté, d'une subtilité que j'avais rarement vue, sauf peut-être dans link:9782757833780.html[Cloud Atlas : Cartographie des nuages]. Ouvrage avec lequel il partage d'ailleurs un attachement à l'écrit : il s'agit ici d'une oeuvre auto-référente, puisque Station Eleven est, dans station Eleven, le titre d'une oeuvre fictionnelle ... qui rattache encore plus ce roman aux genres de  l'imaginaire.<br/>Il y a bien d'autres choses à dire de ce roman, sur ce qu'il dit de la fragilité de nos existences - ou plutôt de notre mode de vie, sur l'insignifiance de l'existence.<br/>Mais tout cela est dit d'une façon tellement délicate, tellement légère, que j'ai du mal à en rendre compte.<br/>Alors que pourtant, j'ai apprécié ce récit, énormément même. Et franchement, vous apprécierez également, à moins que la fin du monde ne vous terrifie.
+++++

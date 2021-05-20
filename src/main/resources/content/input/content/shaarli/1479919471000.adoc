@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RaspyFi - Pi never sounded so good!
+:jbake-tags: webradio,raspberrypi,musique,distribution,linux,_mois_nov.,_année_2016
+:jbake-date: 2016-11-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1479919471000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.raspyfi.com%2F&searchtags=webradio+raspberrypi+musique+distribution+linux+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.raspyfi.com/[RaspyFi - Pi never sounded so good!]
+
+Et voilà comment me relancer sur le sujet de la radio Raspberry

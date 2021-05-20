@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VeoLuz: A generative art tool visualizing the paths of photons, built using rust+reasonml
+:jbake-tags: rust,programming,webassembly,art,expérience,lumière,_mois_nov.,_année_2019
+:jbake-date: 2019-11-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1573584787000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjaredforsyth.com%2Fveoluz%2F&searchtags=rust+programming+webassembly+art+exp%C3%A9rience+lumi%C3%A8re+_mois_nov.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jaredforsyth.com/veoluz/[VeoLuz: A generative art tool visualizing the paths of photons, built using rust+reasonml]
+
+Comme quoi on peut faire des trucs bien dingues avec du Rust ... et du WebAssembly !

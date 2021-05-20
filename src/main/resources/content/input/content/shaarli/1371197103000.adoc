@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Create a list of some remarkable CSS for shaarli · Issue #93 · sebsauvage/Shaarli
+:jbake-tags: shaarli,rss,css,feature,github,_mois_juin,_année_2013
+:jbake-date: 2013-06-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1371197103000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsebsauvage%2FShaarli%2Fissues%2F93&searchtags=shaarli+rss+css+feature+github+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+https://github.com/sebsauvage/Shaarli/issues/93[Create a list of some remarkable CSS for shaarli · Issue #93 · sebsauvage/Shaarli]
+
+Une proposition de création de liste de stypes CSS applicables à un shaarli. Dans l'idéal, ça pourrait aboutir à une extension/application annexe affichant la CSS courante de shaarli et permettant de télécharger l'une de celles trouvables depuis le planet shaarli. D'ailleurs, est-ce que le planet shaarli a un flux RSS des sites disponibles ? (ce serait plus simple que de parcourir les N derniers messages à la recherche de sites différents)

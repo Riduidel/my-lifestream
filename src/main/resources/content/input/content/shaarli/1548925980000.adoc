@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Overview · All Contributors
+:jbake-tags: github,open-source,social,_mois_janv.,_année_2019
+:jbake-date: 2019-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1548925980000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fall-contributors.js.org%2Fdocs%2Fen%2Foverview&searchtags=github+open-source+social+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://all-contributors.js.org/docs/en/overview[Overview · All Contributors]
+
+C'est une chouette idée, et il y a même un bot qui peut automatiser le processus (et ça, franchement, j'adore).

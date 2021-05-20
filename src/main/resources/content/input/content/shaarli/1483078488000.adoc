@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Design Visualization: Smoke and Mirrors (slides)
+:jbake-tags: architecture,visualisation,_mois_déc.,_année_2016
+:jbake-date: 2016-12-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1483078488000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.slideshare.net%2FRufM%2Fdesign-visualization-smoke-and-mirrors-slides-55822413&searchtags=architecture+visualisation+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.slideshare.net/RufM/design-visualization-smoke-and-mirrors-slides-55822413[Design Visualization: Smoke and Mirrors (slides)]
+
+Très bonne présentation sur le métier d'architecte

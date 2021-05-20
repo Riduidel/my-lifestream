@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: arc42 - arc42
+:jbake-tags: documentation,architecture,agile,_mois_août,_année_2018
+:jbake-date: 2018-08-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1534259246000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Farc42.org%2F&searchtags=documentation+architecture+agile+_mois_ao%C3%BBt+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://arc42.org/[arc42 - arc42]
+
+A cause de docToolchain, je replonge dans arc42 ... et c'est assez séduisant, je dois dire ...

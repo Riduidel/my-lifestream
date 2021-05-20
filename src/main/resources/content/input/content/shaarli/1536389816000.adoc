@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Matt Stine on Twitter: "had another opportunity to do an architecture review for a monolith to microservices migration today...observations to come:"
+:jbake-tags: programming,architecture,microservices,_mois_sept.,_année_2018
+:jbake-date: 2018-09-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1536389816000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fmstine%2Fstatus%2F1038171399695867904&searchtags=programming+architecture+microservices+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/mstine/status/1038171399695867904[Matt Stine on Twitter: "had another opportunity to do an architecture review for a monolith to microservices migration today...observations to come:"]
+
+Très intéressants conseils sur le vrai sens de l'architecture microservices

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom on Twitter: "“Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet.” - Michael A. Jackson"
+:jbake-tags: citation,performance,optimisation,_mois_avr.,_année_2016
+:jbake-date: 2016-04-25
+:jbake-depth: ../
+:jbake-uri: shaarli/1461602919000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F723551785592467460&searchtags=citation+performance+optimisation+_mois_avr.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/723551785592467460[Programming Wisdom on Twitter: "“Rules of Optimization: Rule 1: Don't do it. Rule 2 (for experts only): Don't do it yet.” - Michael A. Jackson"]
+
+Tellement vrai, et pourtant tellement difficile.

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SIM 356 BA - Marché rénovation et neuf dans le résidentiel
+:jbake-tags: maison,travaux,bricolage,domotique,_mois_mai,_année_2014
+:jbake-date: 2014-05-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1401356955000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.theben.fr%2Ffr%2FProduits%2FRegulation-de-chauffage%2FThermostats-programmables%2FDigital%2FVersion-a-piles%2FSIM-356-BA&searchtags=maison+travaux+bricolage+domotique+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.theben.fr/fr/Produits/Regulation-de-chauffage/Thermostats-programmables/Digital/Version-a-piles/SIM-356-BA[SIM 356 BA - Marché rénovation et neuf dans le résidentiel]
+
+Mon thermostat domestique ... qui ne marche plus si bien. La question du jour étant : puis-je le remplacer par du DIY à base de raspberry ?

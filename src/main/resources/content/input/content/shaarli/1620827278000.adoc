@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A Misleading C.D.C. Number - The New York Times
+:jbake-tags: science,traduction,statistiques,épidémie,_mois_mai,_année_2021
+:jbake-date: 2021-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1620827278000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.nytimes.com%2F2021%2F05%2F11%2Fbriefing%2Foutdoor-covid-transmission-cdc-number.html&searchtags=science+traduction+statistiques+%C3%A9pid%C3%A9mie+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.nytimes.com/2021/05/11/briefing/outdoor-covid-transmission-cdc-number.html[A Misleading C.D.C. Number - The New York Times]
+
+Cette histoire des statistiques de contamination en extérieur par le coronavirus est intéressante, et traduit le problème de la traduction, et les défauts de la science sans recul.

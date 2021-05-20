@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: stagemonitor
+:jbake-tags: java,monitoring,open-source,web,_mois_déc.,_année_2016
+:jbake-date: 2016-12-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1481266846000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.stagemonitor.org%2F&searchtags=java+monitoring+open-source+web+_mois_d%C3%A9c.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.stagemonitor.org/[stagemonitor]
+
+Mais, ça m'a l'air d'être aussi génial que libre

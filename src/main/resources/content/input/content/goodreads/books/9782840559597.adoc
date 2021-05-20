@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Coq De Combat, Tome 1 (Shamo, #1)
+:jbake-tags:  japon, prison, rayon-bd, rayon-emprunt,_année_2013,_mois_août,_note_2,combat,read
+:jbake-date: 2013-08-26
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840559597.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png
+:jbake-smallImage: https://s.gr-assets.com/assets/nophoto/book/50x75-a91bf249278a81aabab721ef782c4a74.png
+:jbake-source: https://www.goodreads.com/book/show/1939387
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+
+</div>
+++++
+
+
+## Authors
+* link:../authors/881554.html[Akio Tanaka]
+* link:../authors/881553.html[Izô Hashimoto]
+
+## Series
+* link:../series/Shamo.html[Shamo]
+
+## Review
+
+++++
+Ce premier tome me laisse une impression bizarre.<br/>D'abord à cause du choc initial des cent premières pages : le personnage principal se retrouve en prison, violé, puis se défend d'une façon particulièrement violente.<br/>Et pourtant, d'une façon curieuse, on sent bien que tout cela n'est, en quelque sorte, qu'une "mauvaise passe".<br/>Et dès la fin de ce premier tome, les choses semblent commencer à s'améliorer.<br/>Mais je ne suis pas dupe : je me doute bien que ce personnage principal sera soumis à des pressions de plus en plus fortes, jusqu'à recraquer.
+++++

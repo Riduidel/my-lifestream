@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Go is on a trajectory to become the next enterprise programming language
+:jbake-tags: programming,fud,go,langage,_mois_mai,_année_2019
+:jbake-date: 2019-05-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1556865658000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fhackernoon.com%2Fgo-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e&searchtags=programming+fud+go+langage+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://hackernoon.com/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e[Go is on a trajectory to become the next enterprise programming language]
+
+On sent le bon fanboy Go. Parce que ce qu'il dit là peut être dit d'un paquet de langages (pour rappel, le côté "simplified OO" était \*déjà\* le moteur de l'adoption de Java)

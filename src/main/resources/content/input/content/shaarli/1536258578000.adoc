@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hello, World! - Rust and WebAssembly
+:jbake-tags: rust,programming,tutorial,webassembly,_mois_sept.,_année_2018
+:jbake-date: 2018-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1536258578000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frustwasm.github.io%2Fbook%2Fgame-of-life%2Fhello-world.html&searchtags=rust+programming+tutorial+webassembly+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://rustwasm.github.io/book/game-of-life/hello-world.html[Hello, World! - Rust and WebAssembly]
+
+Il va falloir que je lise ça en détail ...

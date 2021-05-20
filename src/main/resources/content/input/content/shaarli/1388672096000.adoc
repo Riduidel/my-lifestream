@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: riot.js
+:jbake-tags: javascript,framework,web,programming,mvc,mvp,_mois_janv.,_année_2014
+:jbake-date: 2014-01-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1388672096000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmoot.it%2Fblog%2Ftechnology%2Friotjs-the-1kb-mvp-framework.html&searchtags=javascript+framework+web+programming+mvc+mvp+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://moot.it/blog/technology/riotjs-the-1kb-mvp-framework.html[riot.js]
+
+Chouette micro-framework MVP en Javascript ... J'aime beaucoup le fait qu'il s'appuie autant que possible sur jQuery, qui me paraît - de loin - être quand même une sacrément bonne idée pour faire du "bon" Javascript événementiel

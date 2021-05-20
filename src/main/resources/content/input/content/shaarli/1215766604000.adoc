@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Writing iPhoto Exif Data :: High Earth Orbit
+:jbake-tags: exif,iphoto,metadata,photographie,script,_mois_juil.,_année_2008
+:jbake-date: 2008-07-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1215766604000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fhighearthorbit.com%2F289%2F&searchtags=exif+iphoto+metadata+photographie+script+_mois_juil.+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://highearthorbit.com/289/[Writing iPhoto Exif Data :: High Earth Orbit]
+
+Oh, un script d'export des métadonnées d'iPhoto que je n'avais pas encore vu. je vais le tester avant de commencer à faire mes horreurs en Java.

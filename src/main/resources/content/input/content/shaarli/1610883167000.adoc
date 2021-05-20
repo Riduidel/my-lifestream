@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RNC Mobile - Carte des antennes relai Free Mobile
+:jbake-tags: free,télécom,carte,_mois_janv.,_année_2021
+:jbake-date: 2021-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1610883167000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.rncmobile.net%2Fmap&searchtags=free+t%C3%A9l%C3%A9com+carte+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://www.rncmobile.net/map[RNC Mobile - Carte des antennes relai Free Mobile]
+
+Je découvre ce site qui liste de façon \*très\* précise, carte à l'appui, toutes les antennes freemobile (et j'imagine que la même chose existe pour les autres opérateurs mobiles)

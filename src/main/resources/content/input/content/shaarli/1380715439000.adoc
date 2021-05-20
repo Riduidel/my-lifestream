@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Twitter Timeline Height
+:jbake-tags: science,statistiques,mort,_mois_oct.,_année_2013
+:jbake-date: 2013-10-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1380715439000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwhat-if.xkcd.com%2F65%2F&searchtags=science+statistiques+mort+_mois_oct.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://what-if.xkcd.com/65/[Twitter Timeline Height]
+
+Et donc, simplement vouloir savoir quelle taille font tous les tweets suffit à déterminer la date de fin de twitter ... Epatant. Et le détour par les tanks allemands de la seconde guerre mondiale est époustouflant (et très Randall Waterhouse, pour ceux qui ont lu le cryptonomicon)

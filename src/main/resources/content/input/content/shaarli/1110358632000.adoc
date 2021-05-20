@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: NixSTEP
+:jbake-tags: software,freeware,windows,shell,_mois_mars,_année_2005
+:jbake-date: 2005-03-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1110358632000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftecnik.freelinuxhost.com%2F&searchtags=software+freeware+windows+shell+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://tecnik.freelinuxhost.com/[NixSTEP]
+
+NixSTEP is a free set of programs for WindowsXP to work with or replace the existing shell.

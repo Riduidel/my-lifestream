@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: "Le vote démocratique en ligne : on fait comment ?" - LaPrimaire.org
+:jbake-tags: vote,blockchain,_mois_nov.,_année_2016
+:jbake-date: 2016-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1478076616000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Flaprimaire.org%2Fcitoyen%2Fvote%2Ftutorial&searchtags=vote+blockchain+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://laprimaire.org/citoyen/vote/tutorial["Le vote démocratique en ligne : on fait comment ?" - LaPrimaire.org]
+
+Wow, la primaire utilise la blockchain et des mécanismes de vote un peu plus fins que le majoritaire

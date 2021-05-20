@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: policeman-tools/forbidden-apis: Policeman's Forbidden API Checker
+:jbake-tags: programming,java,i18n,_mois_mars,_année_2018
+:jbake-date: 2018-03-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1522149588000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fpoliceman-tools%2Fforbidden-apis&searchtags=programming+java+i18n+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/policeman-tools/forbidden-apis[policeman-tools/forbidden-apis: Policeman's Forbidden API Checker]
+
+C'est un problème assez spécifique, mais très intéressant ...

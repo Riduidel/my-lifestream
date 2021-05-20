@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Security In A Box | outils et tactiques de sécurité numérique
+:jbake-tags: sécurité,catalog,freeware,software,_mois_févr.,_année_2012
+:jbake-date: 2012-02-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1328277549000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fsecurity.ngoinabox.org%2Ffr&searchtags=s%C3%A9curit%C3%A9+catalog+freeware+software+_mois_f%C3%A9vr.+_ann%C3%A9e_2012
+:jbake-style: shaarli
+
+https://security.ngoinabox.org/fr[Security In A Box | outils et tactiques de sécurité numérique]
+
+Un ensemble de guides de configuration pour des logiciels raisonnablement sécurisés. Quand je pense à tous ces gens qui bossent en SSII ou ailleurs, et qui se retrouvent à utiliser des ordinateurs contrôlés par d'autres, eh bien je me dis que ces logiciels sont quasiment indispensables (pour peu évidement qu'on sache les installer).

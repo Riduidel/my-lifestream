@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sunng87/cargo-release: Cargo subcommand "release": everything about releasing a rust crate.
+:jbake-tags: cargo,rust,release,plugin,rrss2imap,_mois_févr.,_année_2019
+:jbake-date: 2019-02-08
+:jbake-depth: ../
+:jbake-uri: shaarli/1549623057000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsunng87%2Fcargo-release&searchtags=cargo+rust+release+plugin+rrss2imap+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://github.com/sunng87/cargo-release[sunng87/cargo-release: Cargo subcommand "release": everything about releasing a rust crate.]
+
+Oh, les développeurs Rust ont l'équivalent de mvn release ! C'est cool, parce que ça permet de synchroniser correctement le poste de dév et le gestionnaire de sources

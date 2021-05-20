@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Terrorisme : les systèmes d’analyse des comportements sont inefficaces
+:jbake-tags: sécurité,algorithme,_mois_févr.,_année_2017
+:jbake-date: 2017-02-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1486714055000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.lemonde.fr%2Fpixels%2Farticle%2F2017%2F02%2F09%2Fterrorisme-les-systemes-d-analyse-des-comportements-sont-inefficaces_5077173_4408996.html&searchtags=s%C3%A9curit%C3%A9+algorithme+_mois_f%C3%A9vr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.lemonde.fr/pixels/article/2017/02/09/terrorisme-les-systemes-d-analyse-des-comportements-sont-inefficaces_5077173_4408996.html[Terrorisme : les systèmes d’analyse des comportements sont inefficaces]
+
+Donc manifestement, il est impossible actuellement de repérer un terroriste "à l'oeil nu".

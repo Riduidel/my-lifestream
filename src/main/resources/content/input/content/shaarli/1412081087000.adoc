@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: percol
+:jbake-tags: linux,command-line,shell,grep,programming,software,_mois_sept.,_année_2014
+:jbake-date: 2014-09-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1412081087000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fonethingwell.org%2Fpost%2F98800794899&searchtags=linux+command-line+shell+grep+programming+software+_mois_sept.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://onethingwell.org/post/98800794899[percol]
+
+Oh, tiens, de l'interactivité dans le shell. Ca fait plaisir (pas seulement percol, mais aussi le shell qui auto-complète comme un maboul).

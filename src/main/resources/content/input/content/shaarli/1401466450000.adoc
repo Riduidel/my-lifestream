@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Common fonts to all versions of Windows & Mac equivalents (Browser safe fonts) - Web design tips & tricks
+:jbake-tags: web,font,windows,macosx,_mois_mai,_année_2014
+:jbake-date: 2014-05-30
+:jbake-depth: ../
+:jbake-uri: shaarli/1401466450000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.ampsoft.net%2Fwebdesign-l%2FWindowsMacFonts.html&searchtags=web+font+windows+macosx+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.ampsoft.net/webdesign-l/WindowsMacFonts.html[Common fonts to all versions of Windows & Mac equivalents (Browser safe fonts) - Web design tips & tricks]
+
+Bien pratique quand on veut être sûr que la police de caractère est disponible ...

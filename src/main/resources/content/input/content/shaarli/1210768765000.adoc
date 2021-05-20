@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Welcome to Allegiance
+:jbake-tags: software,freeware,jeu,multiplayer,online,open-source,rpg,_mois_mai,_année_2008
+:jbake-date: 2008-05-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1210768765000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.freeallegiance.org%2F&searchtags=software+freeware+jeu+multiplayer+online+open-source+rpg+_mois_mai+_ann%C3%A9e_2008
+:jbake-style: shaarli
+
+http://www.freeallegiance.org/[Welcome to Allegiance]
+
+

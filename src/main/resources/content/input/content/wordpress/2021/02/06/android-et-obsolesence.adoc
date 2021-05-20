@@ -1,0 +1,16 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Android et obsolesence
+:jbake-tags: _mois_févr.,_année_2021
+:jbake-date: 2021-02-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/02/06/android-et-obsolesence.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/02/06/android-et-obsolesence/
+:jbake-style: wordpress
+
+++++
+<p>
+Comme je le disais hier, je suis coincé dans mon lit. Heureusement je m'étais préparé avant cette opération à la phase de convalescence qui devait se faire couché. je vais donc récupérer une tablette qui traînait à la maison sur laquelle j'ai installé les différentes applications utiles. Enfin, j'ai essayé d'installer ces applications. En effet, même si Android et bien plus récent que Windows, l'obsolescence frappe l'écosystème logiciel. Pour donner quelques exemples, swype keyboard, Firefox, cosy Drive, ne sont pas disponibles sous Android Kit-Kat. plus exactement ils ne sont plus disponibles pour cette version parce que je me souviens très bien avoir installé swipe keyboard sur mon premier téléphone Wiko il y a désormais quelques années. Alors, pourquoi ces applications ne sont-elles plus disponibles ? Est-ce que la Fondation Mozilla ne livre Firefox que pour les version récente d'Android ? Est-ce que Microsoft ne livre swipe keyboard que pour les dernières versions ? où est la salle de l'illustration valable de la balkanisation du marché des distributions Android chez les fabricants de téléphones ? J'ai tendance à penser que la dernière question est la bonne puisque plutôt que de désigner un unique coupable dans une espèce de théorie du complot un peu facile elle mais plutôt en avant les différents intérêts politiques qui secoue cet écosystème. En effet Google a beau produire le système d'exploitation, celui-ci est installé dans les matériels par les fabricants qui rajoute des surcouche du bloatware et qui choisissent sans doute (mais je ne sais pas) la politique de mise à jour. Cela dit ce voyage dans le passé d'Android a quelques avantages d'abord il me permet de tester AnySoftKeyboard qui permet beaucoup plus facilement à mon goût que swipe keyboard de tester de nouvelles dispositions clavier ( par exemple le Bepo). Par ailleurs il me permet également de tester comme pour cet article la saisie vocale de d'Android. et je dois dire qu'une fois qu'on met de côté les contraintes de protection des données personnelles liées au fait que la reconnaissance vocale soit effectuée sur les serveurs de Google ( ce qui n'est pas une question sur laquelle je m'assieds facilement), il est très agréable de dicter son texte et de le voir apparaître l'écran. C'est une manière beaucoup plus fluide de communiquer avec son lectorat même si je crains que ça ne donne à ce texte une tournure plus orale et puis ça me rappelle Terry Pratchett qui, dans la préface de son dernier livre "je m'habillerai de nuit" explique justement avoir dû passer à cette technique pour d'autres raisons, bien plus graves, que les miennes.
+</p>
+++++

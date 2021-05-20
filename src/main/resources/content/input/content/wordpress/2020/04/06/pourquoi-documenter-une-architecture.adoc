@@ -1,0 +1,97 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pourquoi documenter une architecture ?
+:jbake-tags: architecture_agile,documentation,histoire,_mois_avr.,_année_2020
+:jbake-date: 2020-04-06
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/04/06/pourquoi-documenter-une-architecture.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/04/06/pourquoi-documenter-une-architecture/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Maintenant que nous avons une idée raisonnable de ce qu'est <a href="https://riduidel.wordpress.com/2020/04/02/cest-quoi-une-architecture-logicielle/">une architecture</a>, et de ce qu'est <a href="https://riduidel.wordpress.com/2020/04/03/cest-quoi-un-architecte-logiciel/">le métier d'architecte</a>, nous allons nous concentrer plus en détail sur la documentation en commençant par la classique question : pourquoi ? Pourquoi faire l'effort de documenter un système logiciel quand le système lui-même explique, si il est bien conçu, le comment ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/Grady_Booch\/status\/1198374117692411905","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/Grady_Booch" class="screenName"><img src="http://pbs.twimg.com/profile_images/1350371022067781634/0mw7Irfk_mini.jpg" alt="profile of scientist, storyteller, philosopher"/>Grady_Booch</a>
+		<span class="name">Grady Booch</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/Grady_Booch/status/1 198 374 117 692 411 905" class="date">23 nov. 2019 à 23:53:49</a>
+
+	<span class="content">
+	
+	<span class="text">The best formal and unambiguous specification of a software-intensive system is its executable code.
+
+A specification that is, however, insufficient for visualizing, reasoning about, understanding, and communicating about that system.</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Parce qu'effectivement, si le logiciel est la meilleure façon d'expliquer comment le logiciel marche (quand il est bien conçu), il ne contient que des explications sur le "comment", et jamais le "qui", ni le "pourquoi". Et encore moins le contexte, ou plutôt les contextes - politiques, techniques - dans lesquels le logiciel s'exécute. Autrement dit le logiciel fonctionne, mais il n'explique rien de son histoire.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Or une différence assez claire entre les humains et les ordinateurs est que les premiers aiment nettement plus les histoires que les seconds. Tellement d'ailleurs que le <a href="https://fr.wikipedia.org/wiki/Storytelling_%28technique%29">storytelling </a>est un moyen efficace de captiver une audience, que ce soit dans le cadre d'un récit de fiction ou pas ... Ce qui mène évidement à des excès (qu'on peut voir en ce moment)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"https:\/\/twitter.com\/swardley\/statuses\/1243883521300717568","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/swardley" class="screenName"><img src="http://pbs.twimg.com/profile_images/180727117/Simon_mini.jpg" alt="profile of I like ducks, they're fowl but not through choice. 
+Thought Lord, Junior DevOpper, Chaotic Evil.
+Created #Wardleymaps ... not the hashtag. RT ≠ +1"/>swardley</a>
+		<span class="name">Simon Wardley</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/swardley/status/1 243 883 521 300 717 568" class="date">28 mars 2020 à 13:51:56</a>
+
+	<span class="content">
+	
+	<span class="text">X : You don't like storytellers?
+Me : I think it's great for theatre. But powerful storytellers in environments with no effective means of challenging the stories they create are not a good combination when it comes to running peoples lives. I'm looking at Trump and ... well.</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Alors certes, il peut y avoir des excès, et ça n'exclut évidement pas le récit de la construction d'un logiciel. Mais cette histoire mérite d'être racontée. Et si elle ne peut pas l'être par le code, quels autres artefacts peuvent la fournir sinon ... un document d'architecture ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Voilà donc pourquoi l'architecte écrit une documentation d'architecture. Pour que, comme dans <a href="https://fr.wikipedia.org/wiki/Cycle_de_la_Compagnie_noire">les annales de la compagnie noire</a> (les trois premiers tomes sont très bien, les suivants un peu moins), les nouveaux arrivants sur le projet puissent accéder aux motivations qui ont poussé leur prédécesseurs à prendre certaines décisions.</p>
+<!-- /wp:paragraph -->
+++++

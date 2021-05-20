@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grady Booch sur Twitter : "There is no stable end state to the architecture of any complex software-intensive system: there may be many intermediate states that are stable for a short while, but every vibrant system that matters must embrace practices that allow that system's architecture to evolve." / Twitter
+:jbake-tags: architecture,software,citation,design,vie,_mois_août,_année_2020
+:jbake-date: 2020-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1597738912000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGrady_Booch%2Fstatus%2F1295437723633717248&searchtags=architecture+software+citation+design+vie+_mois_ao%C3%BBt+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/Grady_Booch/status/1295437723633717248[Grady Booch sur Twitter : "There is no stable end state to the architecture of any complex software-intensive system: there may be many intermediate states that are stable for a short while, but every vibrant system that matters must embrace practices that allow that system's architecture to evolve." / Twitter]
+
+Alors ça ça fait du bien parce que ça fait beaucoup de mal. On a toujours tendance à croire que les composants d'un système logiciel sont stables dans le temps, alors qu'en fait, pas du tout.

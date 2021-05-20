@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Grady Booch sur Twitter : "Because the code is the truth, but not the whole truth.… "
+:jbake-tags: citation,architecture,vérité,_mois_avr.,_année_2020
+:jbake-date: 2020-04-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1587627417000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FGrady_Booch%2Fstatus%2F1253062981283221504&searchtags=citation+architecture+v%C3%A9rit%C3%A9+_mois_avr.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/Grady_Booch/status/1253062981283221504[Grady Booch sur Twitter : "Because the code is the truth, but not the whole truth.… "]
+
+Cette citation pourrait réellement être mise en exergue des documents d'architecture ...

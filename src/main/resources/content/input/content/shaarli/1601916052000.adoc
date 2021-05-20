@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: mufeedvh/binserve: A blazingly fast static web server in a single binary you can set up with zero code.
+:jbake-tags: rust,web,server,open-source,_mois_oct.,_année_2020
+:jbake-date: 2020-10-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1601916052000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmufeedvh%2Fbinserve&searchtags=rust+web+server+open-source+_mois_oct.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/mufeedvh/binserve[mufeedvh/binserve: A blazingly fast static web server in a single binary you can set up with zero code.]
+
+Un serveur web en Rust/Actrix très léger ... Je ne peux pas m'empêcher d'avoir envie de l'utiliser 😍

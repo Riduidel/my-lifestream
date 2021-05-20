@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Design patterns
+:jbake-tags: programming,documentation,concepts,design,pattern,catalog,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112275972000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fexciton.cs.oberlin.edu%2FJavaResources%2FDesignPatterns%2F&searchtags=programming+documentation+concepts+design+pattern+catalog+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://exciton.cs.oberlin.edu/JavaResources/DesignPatterns/[Design patterns]
+
+Design patterns form a cohesive language that can be used to describe classic solutions to common object oriented design problems. These patterns enable us to discuss systems of objects as quasi-encapsulated entities. By using design patterns to solve p

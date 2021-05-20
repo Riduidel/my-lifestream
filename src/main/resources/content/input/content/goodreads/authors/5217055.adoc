@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: A.A. Attanasio
+:jbake-tags: author
+:jbake-date: 2004-03-30
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/5217055.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1328326006p5/5217055.jpg
+:jbake-source: https://www.goodreads.com/author/show/5217055
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782253043324.html[Radix]

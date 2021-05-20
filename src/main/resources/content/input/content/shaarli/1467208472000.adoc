@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ndpar/gitmaven: How to release Maven projects hosted in Git
+:jbake-tags: maven,git,release,programming,_mois_juin,_année_2016
+:jbake-date: 2016-06-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1467208472000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fndpar%2Fgitmaven&searchtags=maven+git+release+programming+_mois_juin+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/ndpar/gitmaven[ndpar/gitmaven: How to release Maven projects hosted in Git]
+
+Un bon guide des effets de la release maven classique sur un repository git

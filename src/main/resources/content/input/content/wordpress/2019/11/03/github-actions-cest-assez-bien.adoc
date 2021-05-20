@@ -1,0 +1,98 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub Actions, c'est ... assez bien
+:jbake-tags: build,devops,rrss2imap,rust,_mois_nov.,_année_2019
+:jbake-date: 2019-11-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2019/11/03/github-actions-cest-assez-bien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2019/11/03/github-actions-cest-assez-bien/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Vous le savez peut-être, j'ai un projet de réécriture Rust d'un vieux script Python ... rrss2imap.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Au début, je buildais ce projet avec Travis CI (sur un compte gratuit). J'avais choisi ça à cause de la ferveur populaire (en l’occurrence une personne me l'avait conseillé). Et comme j'utilisais l'offre d'essai gratuite, au bout de 80 builds, j'ai cherché autre chose. Heureusement, GitHub a lancé au même moment <a href="https://github.com/features/actions">GitHub Actions</a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Je me suis donc lancé (parce que comme rrss2imap est open-source - et que le repository est ouvert - j'ai une offre illimitée).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Qu'est-ce que j'en pense ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>La première chose, c'est que c'est du YAML.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:core-embed/twitter {"url":"<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/clementplop" class="screenName"><img src="http://pbs.twimg.com/profile_images/1059135799147540480/AXaLqunC_mini.jpg" alt="profile of Doing reactive stuff @ Red hat. Java Champion. #quarkus #vertx #microprofile #smallrye. Opinions are mine not of my employer."/>clementplop</a>
+		<span class="name">Clement Escoffier</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/clementplop/status/1 033 420 487 316 127 745" class="date">25 août 2018 à 20:26:58</a>
+
+	<span class="content">
+	
+	<span class="text">Spent half a day writing #yaml files... The other half debugging it... Embrace Cloud-Native they say...</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>","type":"rich","providerNameSlug":"","className":""} -->
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/clementplop" class="screenName"><img src="http://pbs.twimg.com/profile_images/1059135799147540480/AXaLqunC_mini.jpg" alt="profile of Doing reactive stuff @ Red hat. Java Champion. #quarkus #vertx #microprofile #smallrye. Opinions are mine not of my employer."/>clementplop</a>
+		<span class="name">Clement Escoffier</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/clementplop/status/1 033 420 487 316 127 745" class="date">25 août 2018 à 20:26:58</a>
+
+	<span class="content">
+	
+	<span class="text">Spent half a day writing #yaml files... The other half debugging it... Embrace Cloud-Native they say...</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:core-embed/twitter -->
+
+<!-- wp:paragraph -->
+<p>Au-dela de ça, on retrouve les forces et les faiblesses de tous les outils de "CI/CD" basés sur des conteneurs : chaque commande est un nouveau conteneur, lancé dans le même contexte. C'est pas follement interactif. Pour ne rien ajouter, passer du contenu d'un job à un autre requiert une action spécifique.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Alors oui ça marche, oui c'est fait par GitHub. Mais ça n'est pas mieux que TravisCI, ni CircleCI, ni GitlabCI. Et pour le dire franchement, c'est bien moins riche que Jenkins (mais Jenkins n'est pas tendance, lui ...).</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Bon, au moins, j'ai appris un nouveau truc ...</p>
+<!-- /wp:paragraph -->
+++++

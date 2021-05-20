@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Le Sang des princes
+:jbake-tags: serie
+:jbake-date: 2019-01-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Le_Sang_des_princes.adoc
+:jbake-source: https://www.goodreads.com/series/204080
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782072713682.html[L'Appel des illustres (Le Sang des princes, #1)]
+* link:../books/9782072798504.html[L'Éveil des réprouvés (Le Sang des princes, #2)]

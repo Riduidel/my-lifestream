@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: julia's drawings · julia's drawings
+:jbake-tags: programming,ordinateur,documentation,comics,_mois_nov.,_année_2016
+:jbake-date: 2016-11-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1479134884000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdrawings.jvns.ca%2F&searchtags=programming+ordinateur+documentation+comics+_mois_nov.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://drawings.jvns.ca/[julia's drawings · julia's drawings]
+
+Chouette, un site de crobbards de l'excellente Julia Evans pour un peu mieux comprendre ce qu'on fait

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hébergement : présentation de mes sphères (mise à jour)
+:jbake-tags: server,software,auto-hébergement,_mois_juin,_année_2013
+:jbake-date: 2013-06-28
+:jbake-depth: ../
+:jbake-uri: shaarli/1372433855000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpostblue.info%2Fhebergement-presentation-de-mes-spheres%2F&searchtags=server+software+auto-h%C3%A9bergement+_mois_juin+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://postblue.info/hebergement-presentation-de-mes-spheres/[Hébergement : présentation de mes sphères (mise à jour)]
+
+Chouette article décrivant tous les éléments d'un système auto-hébergé.

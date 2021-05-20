@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Julia Evans on Twitter: ""no feigning surprise" (from the wonderful @recurse manual: https://t.co/Zk7ZQZqSbL) https://t.co/ZPc07LlFle"
+:jbake-tags: pédagogie,communication,enthousiasme,_mois_mars,_année_2017
+:jbake-date: 2017-03-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1490801630000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fb0rk%2Fstatus%2F846864384731365376&searchtags=p%C3%A9dagogie+communication+enthousiasme+_mois_mars+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/b0rk/status/846864384731365376[Julia Evans on Twitter: ""no feigning surprise" (from the wonderful @recurse manual: https://t.co/Zk7ZQZqSbL) https://t.co/ZPc07LlFle"]
+
+Elle a complètement raison. Et plus je vieillis, plus je suis content d'apprendre des trucs aux gens

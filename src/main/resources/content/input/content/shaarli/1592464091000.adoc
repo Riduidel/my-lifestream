@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Senior Oops Engineer sur Twitter : "If your incident review template has a "where we got lucky" section, I recommend adding a "where we were _prepared_" section. Expertise can make difficult, intentional work look easy or accidental. (Woods's Law of Fluency)" / Twitter
+:jbake-tags: citation,incident,analyse,_mois_juin,_année_2020
+:jbake-date: 2020-06-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1592464091000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FReinH%2Fstatus%2F1272963989975138304&searchtags=citation+incident+analyse+_mois_juin+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://twitter.com/ReinH/status/1272963989975138304[Senior Oops Engineer sur Twitter : "If your incident review template has a "where we got lucky" section, I recommend adding a "where we were _prepared_" section. Expertise can make difficult, intentional work look easy or accidental. (Woods's Law of Fluency)" / Twitter]
+
+Un excellent conseil pour les analyses d'incident (dont je me rends compte qu'elles auraient tout à fait leur place dans une documentation d'architecture)

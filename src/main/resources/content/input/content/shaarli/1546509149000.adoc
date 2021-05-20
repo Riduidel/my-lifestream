@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: brenda m. michelson on Twitter: "But, unfortunately, historically the practice of information technology in the enterprise is wild pendulum swings: No architecture to severe architecture to rare architecture Distributed org to central orgs to central with pocket orgs to ...… https://t.co/JohkNV4gTK"
+:jbake-tags: citation,informatique,mode,histoire,_mois_janv.,_année_2019
+:jbake-date: 2019-01-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1546509149000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fbmichelson%2Fstatus%2F1080551472516030465&searchtags=citation+informatique+mode+histoire+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/bmichelson/status/1080551472516030465[brenda m. michelson on Twitter: "But, unfortunately, historically the practice of information technology in the enterprise is wild pendulum swings: No architecture to severe architecture to rare architecture Distributed org to central orgs to central with pocket orgs to ...… https://t.co/JohkNV4gTK"]
+
+Un jour, ce serait bien d'avoir une présentation sur l'histoire des tendances en informatique ...

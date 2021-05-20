@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: [davenicolette] After years of agile conferences, many software developers are proficient with Lego but don’t know what Single Responsibility Principle is.
+:jbake-tags: citation,agile,lego,_mois_nov.,_année_2015
+:jbake-date: 2015-11-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1446465419000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Friduidel%2Fstatuses%2F661077525930631168&searchtags=citation+agile+lego+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://twitter.com/riduidel/statuses/661077525930631168[[davenicolette] After years of agile conferences, many software developers are proficient with Lego but don’t know what Single Responsibility Principle is.]
+
+

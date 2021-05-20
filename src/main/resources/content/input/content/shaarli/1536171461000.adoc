@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: AltSysrq/proptest: Hypothesis-like property testing for Rust
+:jbake-tags: rust,test,framework,properties,_mois_sept.,_année_2018
+:jbake-date: 2018-09-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1536171461000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Faltsysrq%2Fproptest&searchtags=rust+test+framework+properties+_mois_sept.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/altsysrq/proptest[AltSysrq/proptest: Hypothesis-like property testing for Rust]
+
+Je ne vais pas m'en servir tout de suite, mais cet outil de property testing Rust m'a l'air ... chouette

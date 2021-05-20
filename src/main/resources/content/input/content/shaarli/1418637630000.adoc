@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: True in software, true in life.
+:jbake-tags: architecture,programming,développement,_mois_déc.,_année_2014
+:jbake-date: 2014-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1418637630000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ftistil.tumblr.com%2Fpost%2F105093502473%2Fprograms-v-software&searchtags=architecture+programming+d%C3%A9veloppement+_mois_d%C3%A9c.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://tistil.tumblr.com/post/105093502473/programs-v-software[True in software, true in life.]
+
+Un texte très court, mais très frappant, sur l'intérêt des microservices

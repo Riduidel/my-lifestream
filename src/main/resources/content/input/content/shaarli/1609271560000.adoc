@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Fantasy UIs
+:jbake-tags: interface,cinéma,catalog,gui,exemple,inspiration,_mois_déc.,_année_2020
+:jbake-date: 2020-12-29
+:jbake-depth: ../
+:jbake-uri: shaarli/1609271560000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.pushing-pixels.org%2Ffui%2F&searchtags=interface+cin%C3%A9ma+catalog+gui+exemple+inspiration+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://www.pushing-pixels.org/fui/[Fantasy UIs]
+
+Encore un chouette catalogue d'interfaces de films !

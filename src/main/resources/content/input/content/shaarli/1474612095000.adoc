@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why Your Web Developers Are Grumpy (And How To Talk To Them)
+:jbake-tags: management,programming,_mois_sept.,_année_2016
+:jbake-date: 2016-09-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1474612095000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fbigcom.com%2F2016%2F09%2Fwhy-your-web-developers-are-grumpy%2F&searchtags=management+programming+_mois_sept.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://bigcom.com/2016/09/why-your-web-developers-are-grumpy/[Why Your Web Developers Are Grumpy (And How To Talk To Them)]
+
+J'aime ce genre d'article qui parlent de développeurs comme d'animaux de ferme

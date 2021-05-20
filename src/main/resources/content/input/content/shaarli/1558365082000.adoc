@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Note:
+:jbake-tags: rust,gui,open-source,library,programming,_mois_mai,_année_2019
+:jbake-date: 2019-05-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1558365082000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnicolas-delsaux.hd.free.fr%2FShaarli%2F%3FoMeSVA&searchtags=rust+gui+open-source+library+programming+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://nicolas-delsaux.hd.free.fr/Shaarli/?oMeSVA[Note:]
+
+En voyant azul.rs et orbtk, j'ai une immédiate envie de relancer un vieux projet de logiciel avec GUI, juste pour voir à quel moment ça va craquer

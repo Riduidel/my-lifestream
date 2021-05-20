@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: programming languages study
+:jbake-tags: web,programming,langage,list,comparison,_mois_févr.,_année_2005
+:jbake-date: 2005-02-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1108398553000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmerd.sourceforge.net%2Fpixel%2Flanguage-study%2F&searchtags=web+programming+langage+list+comparison+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://merd.sourceforge.net/pixel/language-study/[programming languages study]
+
+presentations, comparison, history and other things about programming languages

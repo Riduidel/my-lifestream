@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Planetfall
+:jbake-tags: serie
+:jbake-date: 2019-10-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Planetfall.adoc
+:jbake-source: https://www.goodreads.com/series/182847
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290137079.html[Planetfall]
+* link:../books/9782290153673.html[After Atlas]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: square/kotlinpoet: A Kotlin API for generating .kt source files.
+:jbake-tags: kotlin,programming,source,générateur,_mois_sept.,_année_2017
+:jbake-date: 2017-09-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1505455472000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fsquare%2Fkotlinpoet&searchtags=kotlin+programming+source+g%C3%A9n%C3%A9rateur+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/square/kotlinpoet[square/kotlinpoet: A Kotlin API for generating .kt source files.]
+
+Oh, un générateur de source Kotlin. J'adore ce genre de truc !

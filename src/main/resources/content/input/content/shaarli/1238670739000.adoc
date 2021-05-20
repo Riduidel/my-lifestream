@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: SR 3D Builder
+:jbake-tags: design,3d,tool,lego,cad,software,freeware,_mois_avr.,_année_2009
+:jbake-date: 2009-04-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1238670739000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fstaff.polito.it%2Fsergio.reano%2F&searchtags=design+3d+tool+lego+cad+software+freeware+_mois_avr.+_ann%C3%A9e_2009
+:jbake-style: shaarli
+
+http://staff.polito.it/sergio.reano/[SR 3D Builder]
+
+Un éditeur de lego en 3D, qui a l'air sacrément chouette.

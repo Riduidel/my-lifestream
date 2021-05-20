@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: StatSVN - Repository Statistics - Introduction
+:jbake-tags: subversion,tool,metrics,java,développement,_mois_janv.,_année_2011
+:jbake-date: 2011-01-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1295271196000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.statsvn.org%2Findex.html&searchtags=subversion+tool+metrics+java+d%C3%A9veloppement+_mois_janv.+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://www.statsvn.org/index.html[StatSVN - Repository Statistics - Introduction]
+
+un outil d'analyse de repository SVn pour en tirer des informations utiles ... ou pas

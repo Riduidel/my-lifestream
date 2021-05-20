@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Why isn't the internet more fun and weird?
+:jbake-tags: web,design,css,html,_mois_janv.,_année_2019
+:jbake-date: 2019-01-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1548923028000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjarredsumner.com%2Fcodeblog%2F&searchtags=web+design+css+html+_mois_janv.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jarredsumner.com/codeblog/[Why isn't the internet more fun and weird?]
+
+Mais dites donc c'est super intéressant cette histoire de CodeBlog ! c'est en tout cas bien plus facile à utiliser que GitHub Pages

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Where does programming effort go?
+:jbake-tags: programming,concepts,planning,_mois_mars,_année_2018
+:jbake-date: 2018-03-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1521830248000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.johndcook.com%2Fblog%2F2009%2F03%2F18%2Fwhere-does-the-programming-effort-go%2F&searchtags=programming+concepts+planning+_mois_mars+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://www.johndcook.com/blog/2009/03/18/where-does-the-programming-effort-go/[Where does programming effort go?]
+
+Sacrément intéressant

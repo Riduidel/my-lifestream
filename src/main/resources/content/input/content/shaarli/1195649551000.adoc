@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: v3ga » Processing slides
+:jbake-tags: list,reference,programming,langage,graphics,visualisation,_mois_nov.,_année_2007
+:jbake-date: 2007-11-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1195649551000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.v3ga.net%2Fblog%2Fprocessing-slides%2F&searchtags=list+reference+programming+langage+graphics+visualisation+_mois_nov.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.v3ga.net/blog/processing-slides/[v3ga » Processing slides]
+
+Quelques slides sur Processing, qui me para^^it très bien pour tester des idées de représentations graphiques, ou de graphismes tout court.

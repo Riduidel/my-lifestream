@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: e. hashman sur Twitter : "I am real mad about the Elastic relicense so I'm going to vent a bit." / Twitter
+:jbake-tags: open-source,license,entreprise,politique,commerce,_mois_janv.,_année_2021
+:jbake-date: 2021-01-23
+:jbake-depth: ../
+:jbake-uri: shaarli/1611423025000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fehashdn%2Fstatus%2F1352698287535525888&searchtags=open-source+license+entreprise+politique+commerce+_mois_janv.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/ehashdn/status/1352698287535525888[e. hashman sur Twitter : "I am real mad about the Elastic relicense so I'm going to vent a bit." / Twitter]
+
+Je suis franchement d'accord avec ce coup de gueule d'un contributeur Elastic. Et la vision d'AWS en tant qu'ogre de l'open-source (ce qu'ils sont dans bon nombre de cas) ne change pas grand chose à l'affaire : les engagements moraux ne valent que s'ils sont tenus même dans les circonstances difficiles.

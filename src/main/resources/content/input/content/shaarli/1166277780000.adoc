@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Monkey GTD
+:jbake-tags: gtd,freeware,hack,html,javascript,manager,productivité,projet,software,_mois_déc.,_année_2006
+:jbake-date: 2006-12-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1166277780000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmonkeygtd.tiddlyspot.com%2F&searchtags=gtd+freeware+hack+html+javascript+manager+productivit%C3%A9+projet+software+_mois_d%C3%A9c.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://monkeygtd.tiddlyspot.com/[Monkey GTD]
+
+Un concurrent de GTD TiddlyWiki qui a un look plus applicatif que TiddlyWiki

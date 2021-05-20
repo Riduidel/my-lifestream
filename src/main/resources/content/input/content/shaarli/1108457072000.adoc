@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mail To The Future: Logon Page
+:jbake-tags: web,email,gtd,_mois_févr.,_année_2005
+:jbake-date: 2005-02-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1108457072000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.mailtothefuture.com%2Fpublic%2Flogon%3Fhttp%3A%2F%2Fwww.mailtothefuture.com%2F&searchtags=web+email+gtd+_mois_f%C3%A9vr.+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.mailtothefuture.com/public/logon?http://www.mailtothefuture.com/[Mail To The Future: Logon Page]
+
+What is Mail to the Future? The purpose of this site is to allow you to send mail to yourself or others at a specified date and time.. in the future! It's simple, it's fun, and it's futuristic! (Of course..)

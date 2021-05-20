@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Don't Put Fat Jars in Docker Images
+:jbake-tags: docker,java,build,maven,dépendances,_mois_oct.,_année_2019
+:jbake-date: 2019-10-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1571055698000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fphauer.com%2F2019%2Fno-fat-jar-in-docker-image%2F&searchtags=docker+java+build+maven+d%C3%A9pendances+_mois_oct.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://phauer.com/2019/no-fat-jar-in-docker-image/[Don't Put Fat Jars in Docker Images]
+
+J'avais déja vu ce conseil, et le voir développé me fait assez plaisir, parce que c'est une sacrément bonne idée.

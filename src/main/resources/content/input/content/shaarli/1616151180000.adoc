@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gary Bernhardt sur Twitter : "~2000: "We can and should rigidly formalize all data. RDF, XHTML, SOAP/WS-*, etc. Just a matter of time. It's right so it will win!" ~2020: Nothing is formalized. All data is wrong. We use ML at massive scale to try to make sense of it, often incorrectly, consequences be damned." / Twitter
+:jbake-tags: citation,histoire,informatique,format,xml,communication,_mois_mars,_année_2021
+:jbake-date: 2021-03-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1616151180000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgarybernhardt%2Fstatus%2F1372593643362607106&searchtags=citation+histoire+informatique+format+xml+communication+_mois_mars+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://twitter.com/garybernhardt/status/1372593643362607106[Gary Bernhardt sur Twitter : "~2000: "We can and should rigidly formalize all data. RDF, XHTML, SOAP/WS-*, etc. Just a matter of time. It's right so it will win!" ~2020: Nothing is formalized. All data is wrong. We use ML at massive scale to try to make sense of it, often incorrectly, consequences be damned." / Twitter]
+
+A noter que ce genre de choses a échoué à cause des fainéants, et des "c'est trop verbeux". Encore une fois, la réification de la stupidité est un enfer pour tous.

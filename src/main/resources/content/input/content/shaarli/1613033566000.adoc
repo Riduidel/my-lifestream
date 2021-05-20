@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom sur Twitter : ""Beyond basic mathematical aptitude, the difference between good programmers and great programmers is verbal ability." – Marissa Mayer" / Twitter
+:jbake-tags: citation,talent,programming,_mois_févr.,_année_2021
+:jbake-date: 2021-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1613033566000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fmobile.twitter.com%2FCodeWisdom%2Fstatus%2F1359496600175935490&searchtags=citation+talent+programming+_mois_f%C3%A9vr.+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://mobile.twitter.com/CodeWisdom/status/1359496600175935490[Programming Wisdom sur Twitter : ""Beyond basic mathematical aptitude, the difference between good programmers and great programmers is verbal ability." – Marissa Mayer" / Twitter]
+
+Je vais dire d'une façon assez prétentieuse que je suis franchement d'accord

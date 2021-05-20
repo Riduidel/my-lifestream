@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Stan Nicholls
+:jbake-tags: author
+:jbake-date: 2008-09-10
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/58325.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1338565338p5/58325.jpg
+:jbake-source: https://www.goodreads.com/author/show/58325
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782811200145.html[La Compagnie de la Foudre (Orcs, #1)]

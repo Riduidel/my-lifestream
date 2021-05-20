@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Hello Sasha - Sneakers pour femmes
+:jbake-tags: travail,exploitation,web,_mois_avr.,_année_2017
+:jbake-date: 2017-04-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1493297784000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.hellosasha.co%2Fweneedyou&searchtags=travail+exploitation+web+_mois_avr.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://www.hellosasha.co/weneedyou[Hello Sasha - Sneakers pour femmes]
+
+Oh ouais, trop hype, des vacances passées à coder une web-boutique dans une villa au soleil. Si les corps sont sexys et huilés, et que les caméras sont cachées, ça ne sera pas un hasard. C'est clairement le retour de la startup d'exploitation. Mais non marchande, hein, parce qu'on est cools ...

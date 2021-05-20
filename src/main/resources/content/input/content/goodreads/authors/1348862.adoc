@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Guillaume Guéraud
+:jbake-tags: author
+:jbake-date: 2009-09-09
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/1348862.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1541621688p5/1348862.jpg
+:jbake-source: https://www.goodreads.com/author/show/1348862
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070358298.html[La Brigade De L'oeil]

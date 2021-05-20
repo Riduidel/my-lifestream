@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: VSCodium - The advanced editor
+:jbake-tags: programming,editor,open-source,windows,linux,macosx,_mois_avr.,_année_2019
+:jbake-date: 2019-04-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1555313241000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fvscodium.com%2F&searchtags=programming+editor+open-source+windows+linux+macosx+_mois_avr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://vscodium.com/[VSCodium - The advanced editor]
+
+Si vous cherchez un VSCode vraiment libre (lire sans les trackeurs de Microsoft), cette version est pour vous.

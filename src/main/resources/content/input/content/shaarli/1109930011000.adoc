@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UML Tutorial - What is UML?
+:jbake-tags: web,tutorial,documentation,programming,uml,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109930011000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fpigseye.kennesaw.edu%2F%7Edbraun%2Fcsis4650%2FA&searchtags=web+tutorial+documentation+programming+uml+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://pigseye.kennesaw.edu/~dbraun/csis4650/A[UML Tutorial - What is UML?]
+
+A very handy tutorial and documentation about UML

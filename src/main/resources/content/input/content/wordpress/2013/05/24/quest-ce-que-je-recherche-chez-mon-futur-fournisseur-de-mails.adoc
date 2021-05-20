@@ -1,0 +1,42 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Qu'est-ce que je recherche chez mon futur fournisseur de mails ?
+:jbake-tags: gmail,google,mail,webmail,_mois_mai,_année_2013
+:jbake-date: 2013-05-24
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2013/05/24/quest-ce-que-je-recherche-chez-mon-futur-fournisseur-de-mails.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2013/05/24/quest-ce-que-je-recherche-chez-mon-futur-fournisseur-de-mails/
+:jbake-style: wordpress
+
+++++
+<p>
+Eh ouais, il est temps de passer sérieusement à la phase de recherche d'une altnernative.
+</p>
+<p>
+Donc.
+</p>
+<p>
+Qu'est-ce qu'à GMail qui me plaît ?
+<br/>
+<ul>
+<br/>
+<li>Les tags dans les mails ? L'expérience m'a montré que je m'en servais en fait comme des dossiers. Donc n'importe quel fournisseur offrant des dossiers IMAP devrait me satisfaire</li>
+<br/>
+<li>Une grosse capacité de stockage. Là, effectivement, c'est intéressant, parce que ça permet de ne pas se poser de questions. Pour mémoire, mes mails occupent actuellement, d'après Google, <em>Using 0.6 GB of your 10.1 GB</em>. Du coup, n'importe quel fournisseur offrant au moins 1G devrait me satisfaire pendant au moins ... 5 ans ? Et bien plus, j'imagine que si je vire tous les mails archivés par GMAME (plus question de compter sur Google Groups, évidement), je gagnerai une bonne partie de l'espace ...</li>
+<br/>
+<li>Un bon antispan. Et c'est sans doute là que Google est le plus fort. Son antispam est à la fois puissant et précis.</li>
+<br/>
+<li>Un client mail "universel". Pas question pour moi de me faire arrêter par une politique d'entreprise à la noix : dans mes mails, je mets toutes les ML de projets open-source auxquelles je souscris (comme par exemple <a href="https://truezip.java.net/">TrueZip</a> hier). Du coup, il faut une méthode de consultation simple (un webmail) et une possibilité de passer par IMAP/SMTP pour utiliser Opera Mail, par exemple, ou Thunderbird.</li>
+<br/>
+</ul>
+<br/>
+Alors qui pour le remplacer ?
+</p>
+<p>
+Evidement, <a href="http://alternativeto.net/software/gmail/">alternativesto</a> a une liste de candidats ... et je peux en trouver <a href="http://savedelete.com/10-alternatives-to-gmail.html">d'autres</a> <a href="http://nerdbusiness.com/blog/neomailbox-gmail-alternative">un peu</a> <a href="https://nuxli.wordpress.com/2010/01/23/alternative-gmail/">partout</a> sur le web.
+</p>
+<p>
+Mais bon, je pense que je vais d'abord mûrir un peu le projet ...
+</p>
+++++

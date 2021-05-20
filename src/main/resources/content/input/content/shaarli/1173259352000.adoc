@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: iSleep - A Mac Sleep Timer & Alarm Clock
+:jbake-tags: freeware,macosx,software,musique,utilities,_mois_mars,_année_2007
+:jbake-date: 2007-03-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1173259352000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fisleep.free.fr%2F&searchtags=freeware+macosx+software+musique+utilities+_mois_mars+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://isleep.free.fr/[iSleep - A Mac Sleep Timer & Alarm Clock]
+
+Un réveil-matin pour le Mac, plus pratique que les scripts à base d'iCal+iTunes

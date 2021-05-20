@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une visualisation de la gravité avec du lycra
+:jbake-tags: science,vidéo,expérience,pédagogie,_mois_déc.,_année_2013
+:jbake-date: 2013-12-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1386321782000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fune-visualisation-de-la-gravite-avec-du-lycra%2F&searchtags=science+vid%C3%A9o+exp%C3%A9rience+p%C3%A9dagogie+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/une-visualisation-de-la-gravite-avec-du-lycra/[Une visualisation de la gravité avec du lycra]
+
+Alors ça c'est de la leçon de science bien fichue ! Visualiser les puits gravitationnels est souvent difficile, mais avec cette expérience à base de lycra, c'est vraiment bien. Je ne suis cependant pas sûr que le meilleur moment soit la partie sur la matière noire, mais plutôt, simplement, la présentation d'un système avec un soleil, une planète et un satellite.

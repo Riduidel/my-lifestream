@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Overview - Actix Raft
+:jbake-tags: rust,library,distribué,consensus,_mois_sept.,_année_2019
+:jbake-date: 2019-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1567763731000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frailgun-rs.github.io%2Factix-raft%2Foverview.html&searchtags=rust+library+distribu%C3%A9+consensus+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://railgun-rs.github.io/actix-raft/overview.html[Overview - Actix Raft]
+
+Qui veut refaire Consul/Kafka/whatever en Rust ? Parce que maintenant ... c'est un peu plus facile !

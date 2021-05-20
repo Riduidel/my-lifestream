@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Nate Schutta on Twitter: "Architecture as a Service. AaaS. Pronounced just like you think. No one could have predicted this. @simonbrown #OReillySACon https://t.co/IwLEkdZbF8"
+:jbake-tags: marketing,architecture,cloud,programming,_mois_oct.,_année_2017
+:jbake-date: 2017-10-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1508311658000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fntschutta%2Fstatus%2F920281582186979328&searchtags=marketing+architecture+cloud+programming+_mois_oct.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/ntschutta/status/920281582186979328[Nate Schutta on Twitter: "Architecture as a Service. AaaS. Pronounced just like you think. No one could have predicted this. @simonbrown #OReillySACon https://t.co/IwLEkdZbF8"]
+
+\#notinmyname (même si en tant qu'architecte dans une société de services - pardon une ESN), c'est ce que je fais

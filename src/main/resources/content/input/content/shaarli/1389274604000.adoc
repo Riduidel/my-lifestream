@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Shortcodes — Support — WordPress.com
+:jbake-tags: web,wordpress,lifestream,_mois_janv.,_année_2014
+:jbake-date: 2014-01-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1389274604000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fen.support.wordpress.com%2Fshortcodes%2F&searchtags=web+wordpress+lifestream+_mois_janv.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://en.support.wordpress.com/shortcodes/[Shortcodes — Support — WordPress.com]
+
+Wordpress supporte un sacré paquet de services web à travers ces shortcodes. Et c'est bien pratique pour les problèmes du projet Euler, par exemple (et pour les vidéos Youtube). J'espère juste que le HTML généré est facilement parsable pour que le lifestream puisse les aspirer et ainsi éviter leur perte - quoique je n'ai pas encore suffisament travaillé avec web archive pour m'assurer si il permet ce que je crois : faire un snapshot des données liées.

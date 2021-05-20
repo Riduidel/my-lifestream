@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: sample log4j.properties
+:jbake-tags: log4j,log,exemple,java,programming,documentation,_mois_mars,_année_2006
+:jbake-date: 2006-03-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1141395024000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.johnmunsch.com%2Fprojects%2FPresentations%2Fdocs%2FLog4J%2Flog.properties&searchtags=log4j+log+exemple+java+programming+documentation+_mois_mars+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.johnmunsch.com/projects/Presentations/docs/Log4J/log.properties[sample log4j.properties]
+
+

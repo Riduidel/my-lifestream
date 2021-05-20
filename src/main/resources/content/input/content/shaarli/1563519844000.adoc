@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Your nines are not my nines
+:jbake-tags: cloud,entreprise,relation,commerce,supervision,_mois_juil.,_année_2019
+:jbake-date: 2019-07-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1563519844000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Frachelbythebay.com%2Fw%2F2019%2F07%2F15%2Fgiant%2F&searchtags=cloud+entreprise+relation+commerce+supervision+_mois_juil.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://rachelbythebay.com/w/2019/07/15/giant/[Your nines are not my nines]
+
+Un point \*très\* intéressant sur les relations avec les GCP/AWS/Azure en tant que client : ils s'en foutent littéralement de perdre des clients, parce qu'ils en ont \*trop\*.

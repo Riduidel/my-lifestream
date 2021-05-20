@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tom Maddox
+:jbake-tags: author
+:jbake-date: 2004-01-16
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/503226.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1517649987p5/503226.jpg
+:jbake-source: https://www.goodreads.com/author/show/503226
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782207504512.html[Mozart En Verres Miroirs]

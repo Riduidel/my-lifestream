@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: UpUp - The Offline First Library
+:jbake-tags: web,javascript,offline,_mois_août,_année_2015
+:jbake-date: 2015-08-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1441004012000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fwww.talater.com%2Fupup%2F&searchtags=web+javascript+offline+_mois_ao%C3%BBt+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+https://www.talater.com/upup/[UpUp - The Offline First Library]
+
+Très chouette script permettant facilement de transformer un site web en site web supportant le offline et les service workers.

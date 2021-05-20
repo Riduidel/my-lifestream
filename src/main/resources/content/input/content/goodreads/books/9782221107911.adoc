@@ -1,0 +1,32 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Terremer
+:jbake-tags:  bateau, rayon-emprunt, voyage,_année_2011,_mois_mars,_note_2,rayon-imaginaire,read
+:jbake-date: 2011-03-21
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782221107911.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346236579l/3246448._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1346236579l/3246448._SY75_.jpg
+:jbake-source: https://www.goodreads.com/book/show/3246448
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+ISBN 2221094611, same as 2nd edition<br /><br />Ici, il y a des dragons.<br />Et là où il y a des dragons, il y a des enchanteurs, une mer immense, et des îles.<br />Mais le monde Terremer n'est pas un univers conventionnel de fantaisie. Il n'appartient ni à notre passé ni à notre avenir. Il est ailleurs. C'est un univers où la magie fonctionne et s'enseigne comme la science et la technologie dans le nôtre.<br /><br /><i>Terremer</i> contient trois livre : <i>Le Sorcier de Terremer</i> raconte l'initiation de Ged en l'île de Roke, comment il devient un sorcier convenable capable de commander aux éléments et d'affronter les dragons, et aussi comment son audace faillit le perdre. <i>Les Tombeaux d'Atuan</i> évoquent la terrible histoire de la petite fille, Tenar, choisie pour devenir la Grande Prêtresse des Tombeaux, qui haïra Ged et finira par combattre avec lui l'emprise des Innommables. Et enfin <i>L'Ultime Rivage</i>, où le pouvoir des sorciers sera soumis à celui du temps, le grand rongeur.
+</div>
+++++
+
+
+## Authors
+* link:../authors/3049766.html[Françoise Maillet]
+* link:../authors/1272497.html[Philippe R. Hupp]
+* link:../authors/874602.html[Ursula K. Le Guin]
+
+## Series
+* link:../series/Earthsea_Cycle.html[Earthsea Cycle]
+
+## Review
+
+++++
+Ce volume regroupe sous une seule couverture trois romans traitant du monde de Terremer, et en particulier d'Epervier, le plus fameux sorcier que la terre ait porté. Laissez-moi donc vous détailler un peu tout ça.<br/><br/>Le Sorcier de Terremer<br/><br/>Dans ce premier roman, on découvre l'initiation d'Epervier à la magie, à la fois de la aprt des vieilles sorcières de village, mais aussi dans le cadre plus prestifieux de l'école de magie de Terremer. On est toutefois dans ce cas à l'opposé du Poudlard de Harry Potter, et cette école apprend surtout aux sorciers à se soucier de l'équilibre que leurs actions trop puissantes peuvent détruire.<br/>Ce sera naturellement le cas d'Epervier, qui passera ensuite pas mal de temps à le rétablir.<br/><br/>Les Tombeaux d'Atuan<br/><br/>Dans ce second roman, Epervier part en quête de la rune perdue de la Paix, cachée au fond des tombeaux d'Atuan. Il est toutefois un peu réducteur de parler de ce roman de cette façon, puisque le personnage principal n'en est pas Epervier, mais Ténar, prétresse des ténèbres.<br/><br/>L'Ultime Rivage<br/><br/>Dans ce dernier roman, Epervier posera le pied sur les rivages de la mort, à la recherche du trou dans le monde.<br/><br/>Mon avis tout d'un coup<br/><br/>Il m'est triste d'avouer qu'à mon avis, je lis ces romans bien trop tard. En effet, si ils étaient sans doute formidables de puissance évocatrice dans les années 70, cette puissance a décliné avec le renouvellement du genre fantasy dans les années 90/2000. En particulier, des romans (de bien moindres qualité) comme l'apprenti assassin ont ressassé jusqu'à la nausée les thèlmes de l'apprentissage et de l'introspection, tant est si bien qu'en lisant ces romans aujourd'hui, je les trouve vides de sens.<br/><br/>Oh, bien sûr, Terremer est un bel endroit, et cet archipel (qui n'est pas sans m'évoquer celui de <a class="DirectBookReference destination_Book" href="9782290356869.html">Windhaven</a>) réjouit mon âme maritime de par la multiplicité des voyages nautiques qu'il offre.<br/>Toutefois, je trouve le cadre un peu vide : quand Epervier se promène, il parle à peine aux habitants des différents lieux (quand il les comprend), et les endroits ne sont pas beaucoup plus décrits qu'une lande ou une dune.<br/><br/>Il y a de plus un aspect que l'auteur, comme dans <a class="DirectBookReference destination_Book" href="9782221028827.html">La Main gauche de la nuit</a> (mais d'une façon moins spectaculaire) évacue purement et simplement : le sexe. Enfin, les relations entre les hommes et les femmes. Car Epervier a des opportunités de relations avec les femmes. Et ces relations seront à peine décrites. Et il ne s'agit pas simpement d'une pudeur face aux corps nus, puisque même les sentiments disparaissent (aussi bien chez Epervier que chez Ténar dans le second roman, d'ailleurs). Je trouve ça excessivement troublant. Passe encore, en fait, qu'une femme choisisse de reproduire dans son roman une structure que je trouve passablement patriarcale. Mais qu'elle nie à ce point la complexité des relations pouvant s'installer entre les deux sexes me surprend réellement. <br/><br/>Bon, c'est peut-être (sans doute, même) de ma part une vision sexualisée du monde. Mais je trouve qu'entre ce roman et le précédent, l'auteur manifeste bien peu de sensibilité de ce point de vue, alors même qu'elle nous décrit Epervier comme un parangon d'humanisme. je dois bien reconnaître que ça a troublé ma lecture.<br/><br/>Ca et le côté déséspérément vide de ces îles m'ont, je dois le dire, rendu la lecture de ce volume un peu fastidieuse. Pour paraphraser Raoul Abdaloff "Urusla Le Guin, c'est bien, mais c'est un peu chiant". cela dit, si vous aimez les voyages à pied (en tout cas pas plus vite qu'un sorcier se promenant dans la lande bretonne), lisez-le, vous ne serez pas déçus.
+++++

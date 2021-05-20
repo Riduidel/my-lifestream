@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: RhinoSpike : Foreign Language Audio on Demand!
+:jbake-tags: audio,collaboration,langage,mp3,audiobooks,_mois_juin,_année_2010
+:jbake-date: 2010-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1277124079000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Frhinospike.com%2F&searchtags=audio+collaboration+langage+mp3+audiobooks+_mois_juin+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://rhinospike.com/[RhinoSpike : Foreign Language Audio on Demand!]
+
+Un site pour apprendre une nouvelle langue en écoutant des gens la parler sur des phrases connues.

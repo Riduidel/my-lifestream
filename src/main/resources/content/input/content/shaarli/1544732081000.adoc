@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: The Cube Rule
+:jbake-tags: nourriture,classification,visualisation,_mois_déc.,_année_2018
+:jbake-date: 2018-12-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1544732081000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fcuberule.com%2F&searchtags=nourriture+classification+visualisation+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+http://cuberule.com/[The Cube Rule]
+
+Classification de la nourriture par la forme des parois en pâte. C'est ... intriguant, mais intéressant.

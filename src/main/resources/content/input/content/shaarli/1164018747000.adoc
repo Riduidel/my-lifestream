@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Pok3d!
+:jbake-tags: jeu,software,windows,linux,freeware,open-source,_mois_nov.,_année_2006
+:jbake-date: 2006-11-20
+:jbake-depth: ../
+:jbake-uri: shaarli/1164018747000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.pok3d.com%2F&searchtags=jeu+software+windows+linux+freeware+open-source+_mois_nov.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.pok3d.com/[Pok3d!]
+
+Un jeu de poker pour Windows et Linux, jouable sur Internet. Il manque "juste" une version Mac ...

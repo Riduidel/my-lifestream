@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bare Bones Software : PRODUCTS : TEXTWRANGLER
+:jbake-tags: software,freeware,macosx,editor,_mois_mars,_année_2005
+:jbake-date: 2005-03-04
+:jbake-depth: ../
+:jbake-uri: shaarli/1109973814000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.barebones.com%2Fproducts%2Ftextwrangler%2F&searchtags=software+freeware+macosx+editor+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://www.barebones.com/products/textwrangler/[Bare Bones Software : PRODUCTS : TEXTWRANGLER]
+
+TextWrangler 2 is the powerful general purpose text editor, and Unix and server administrator's tool.

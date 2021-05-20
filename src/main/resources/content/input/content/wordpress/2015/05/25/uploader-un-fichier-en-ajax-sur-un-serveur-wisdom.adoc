@@ -1,0 +1,81 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Uploader un fichier en ajax sur un serveur Wisdom
+:jbake-tags: java,javascript,web,_mois_mai,_année_2015
+:jbake-date: 2015-05-25
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2015/05/25/uploader-un-fichier-en-ajax-sur-un-serveur-wisdom.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2015/05/25/uploader-un-fichier-en-ajax-sur-un-serveur-wisdom/
+:jbake-style: wordpress
+
+++++
+<p>
+Je pose ça là pour bien être sûr que j'ai bien tout essayé.
+</p>
+<p>
+Donc, j'ai un scénario assez basique : dans une popup, écrite avec du Ractivejs/Bootstrap, j'ai un formulaire avec lequel je veux pouvoir uploader un fichier sur mon serveur écrit en Wisdom. Facile, non ?
+</p>
+<p>
+Sauf que pour l'instant, ça ne marche pas.
+</p>
+<p>
+Tout le code est dans <a href="<pre class='github'>
+<br/>
+<code>
+<br/>
+<html><head></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">	@Route(method = HttpMethod.POST, uri = "/{portal}/config/{page}/upload")
+<br/>
+public Result uploadFileFor(@Parameter("portal") String portalId,
+<br/>
+@Parameter("page") String pageId,
+<br/>
+@FormParameter("fileInputChooser") FileItem uploaded) throws IOException {
+<br/>
+// Et là, pas la peine de voir le code : uploaded est null !
+<br/>
+}
+<br/>
+</pre></body></html>
+<br/>
+</code>
+<br/>
+</pre>">ce gist </a>(que Wordpress ne semble vouloir inclure via ses smartcodes)
+</p>
+<p>
+Le formulaire HTML semble correct. Et le javascript a l'air tout aussi normal.
+</p>
+<p>
+En bonus, quand je passe en mode debug, j'arrive bien dans la bonne méthode de Wisdom.
+</p>
+<p>
+Du coup, je jette un oeil à l'onglet network de Chrome, qui me donne ces infos
+</p>
+<p>
+<a href="https://riduidel.files.wordpress.com/2015/05/2015-05-24-10_41_46-p.png"><img class="alignnone size-medium wp-image-2826" src="https://riduidel.files.wordpress.com/2015/05/2015-05-24-10_41_46-p.png?w=300" alt="2015-05-24 10_41_46-p" width="300" height="163" /></a>
+</p>
+<p>
+Et là, si je ne me trompe pas, ça semble vouloir dire (en particulier, par exemple, <strong>Content-Length:44</strong>) que le fichier que je veux envoyer n'est pas là.
+</p>
+<p>
+OK, donc c'est un problème côté client ...
+</p>
+<p>
+Et en fait, c'est une sale histoire entre jQuery et FormData. Ca me soulage : j'ai eu peur que Wisdom soit de la partie. Il me reste maintenant à corriger ce problème de Javascript ... Qui se corrige en remplissant le Formdata avec le contenu de fileInputChooser.
+</p>
+<p>
+Comme ça :
+<br/>
+<pre>
+<br/>
+var file = $('#fileInputChooser')[0]
+<br/>
+var formData = new FormData();
+<br/>
+// Seems like auto-loading a FormData from a form do not work that well ... crap !
+<br/>
+formData.append("fileInputChooser", file.files[0])
+<br/>
+</pre>
+</p>
+++++

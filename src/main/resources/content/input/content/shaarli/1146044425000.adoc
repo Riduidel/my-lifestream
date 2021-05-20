@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: FreeOSZoo homepage
+:jbake-tags: linux,image,software,freeware,open-source,emulator,ordinateur,macosx,windows,utilities,tool,_mois_avr.,_année_2006
+:jbake-date: 2006-04-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1146044425000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Ffree.oszoo.org%2Findex-2.html&searchtags=linux+image+software+freeware+open-source+emulator+ordinateur+macosx+windows+utilities+tool+_mois_avr.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://free.oszoo.org/index-2.html[FreeOSZoo homepage]
+
+

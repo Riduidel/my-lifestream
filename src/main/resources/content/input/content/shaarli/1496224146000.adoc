@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: My JavaFX: TreeView with a data source
+:jbake-tags: java,javafx,tree,programming,tutorial,_mois_mai,_année_2017
+:jbake-date: 2017-05-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1496224146000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fmyjavafx.blogspot.com%2F2012%2F03%2Ftreeview-with-data-source.html&searchtags=java+javafx+tree+programming+tutorial+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://myjavafx.blogspot.com/2012/03/treeview-with-data-source.html[My JavaFX: TreeView with a data source]
+
+Comment séparer la mise à jour du modèle d'un TreeView et de son rendu ? Avec cette classe !

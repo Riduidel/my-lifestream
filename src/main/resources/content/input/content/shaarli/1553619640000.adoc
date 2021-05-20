@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Charlie Owen on Twitter: "The expectation of free swag by highly paid people attending events on their employers dime is pretty symbolic of the web industry in the early 21st century. https://t.co/HZs4uhSZaw"
+:jbake-tags: citation,programming,industry,conférence,_mois_mars,_année_2019
+:jbake-date: 2019-03-26
+:jbake-depth: ../
+:jbake-uri: shaarli/1553619640000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fsonniesedge%2Fstatus%2F1109456023763472384&searchtags=citation+programming+industry+conf%C3%A9rence+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/sonniesedge/status/1109456023763472384[Charlie Owen on Twitter: "The expectation of free swag by highly paid people attending events on their employers dime is pretty symbolic of the web industry in the early 21st century. https://t.co/HZs4uhSZaw"]
+
+Je n'ai plus la place pour en parler dans ma prochaine présentation, mais j'apprécie énormément cette réflexion

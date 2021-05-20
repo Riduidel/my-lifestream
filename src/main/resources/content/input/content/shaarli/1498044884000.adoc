@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wiktenauer, the world's largest library of Historical European Martial Arts books and manuscripts ~☞ Insquequo omnes gratuiti fiunt
+:jbake-tags: histoire,illustration,armes,combat,_mois_juin,_année_2017
+:jbake-date: 2017-06-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1498044884000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwiktenauer.com%2Fwiki%2FMain_Page&searchtags=histoire+illustration+armes+combat+_mois_juin+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://wiktenauer.com/wiki/Main_Page[Wiktenauer, the world's largest library of Historical European Martial Arts books and manuscripts ~☞ Insquequo omnes gratuiti fiunt]
+
+Une wikipedia de l'escrime médiévale ! Et avec des scans librement accessibles ! Trop cool

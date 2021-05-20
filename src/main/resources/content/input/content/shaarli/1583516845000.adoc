@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: GitHub - monitoror/monitoror: Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+:jbake-tags: monitoring,go,programming,écran,_mois_mars,_année_2020
+:jbake-date: 2020-03-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1583516845000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmonitoror%2Fmonitoror&searchtags=monitoring+go+programming+%C3%A9cran+_mois_mars+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://github.com/monitoror/monitoror[GitHub - monitoror/monitoror: Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.]
+
+Oh ca a l'air chouette ! J'ai de quoi le mettre à l'oeuvre vite ... et bien !

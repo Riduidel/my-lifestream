@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keith Giffen
+:jbake-tags: author
+:jbake-date: 2014-11-08
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/32598.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1249308668p5/32598.jpg
+:jbake-source: https://www.goodreads.com/author/show/32598
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782365775540.html[La balade de Lobo]

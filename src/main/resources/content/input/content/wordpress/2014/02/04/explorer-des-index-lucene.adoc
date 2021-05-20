@@ -1,0 +1,22 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Explorer des index Lucene
+:jbake-tags: ca sert à presque rien,interface,java,_mois_févr.,_année_2014
+:jbake-date: 2014-02-04
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2014/02/04/explorer-des-index-lucene.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2014/02/04/explorer-des-index-lucene/
+:jbake-style: wordpress
+
+++++
+<p>
+Petit retour de la rubrique "ça sert à presque rien".
+</p>
+<p>
+J'avais aujourd'hui un problème de lenteur de mon application suite à <a href="https://github.com/Riduidel/gaedo/issues/68">une réécriture de Gaedo</a>. J'avais la sensation confuse, vu la nature de la lenteur, qu'elle pouvait provenir d'un problème dans les index de Lucene. Du coup, la question immédiate devenait "comment explorer l'index Lucene de Neo4j" ? Question à laquelle l'article <a href="http://architects.dzone.com/articles/peeking-behind-neo4j-lucene">Peeking Behind the Neo4j Lucene Index</a> répond d'une façon très internetienne en me disant d'aller voir <a href="https://code.google.com/p/luke/">Luke</a>. Pas le minable pleurnichard, hein. Un Luke beaucoup plus puissant.
+</p>
+<p>
+Bon, alors, évidement, vous me direz que l'interface est d'une laideur rarement vue. Et que le thème Swing utilisé n'arrange absolument rien. C'est vrai. Mais quand même, cet outil m'a permis de trouver que mon bug ne venait pas de Lucene (ça m'aurait étonné, mais je devais vérifier quand même, non ?), mais plutôt d'une <a href="https://github.com/Riduidel/gaedo/issues/74">désoptimisation introduite par l'usage massif des indexes</a>.
+</p>
+++++

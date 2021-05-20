@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Ernest Cline
+:jbake-tags: author
+:jbake-date: 2015-07-22
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/31712.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1310753539p5/31712.jpg
+:jbake-source: https://www.goodreads.com/author/show/31712
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782266242332.html[Player One]

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DICEWARS - Flash game
+:jbake-tags: freeware,jeu,web,online,stratégie,_mois_juil.,_année_2006
+:jbake-date: 2006-07-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1153729717000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.gamedesign.jp%2Fflash%2Fdice%2Fdice.html&searchtags=freeware+jeu+web+online+strat%C3%A9gie+_mois_juil.+_ann%C3%A9e_2006
+:jbake-style: shaarli
+
+http://www.gamedesign.jp/flash/dice/dice.html[DICEWARS - Flash game]
+
+Un jeu de stratégie à la Risk, mais encore plus simple. Via Cedric Beust

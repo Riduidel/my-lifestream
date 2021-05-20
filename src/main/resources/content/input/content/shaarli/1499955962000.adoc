@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: java/structurizr-annotations.md at master · structurizr/java
+:jbake-tags: programming,java,architecture,_mois_juil.,_année_2017
+:jbake-date: 2017-07-13
+:jbake-depth: ../
+:jbake-uri: shaarli/1499955962000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fstructurizr%2Fjava%2Fblob%2Fmaster%2Fdocs%2Fstructurizr-annotations.md&searchtags=programming+java+architecture+_mois_juil.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://github.com/structurizr/java/blob/master/docs/structurizr-annotations.md[java/structurizr-annotations.md at master · structurizr/java]
+
+Les annotations dans Structurizr, c'est \*très\* cool

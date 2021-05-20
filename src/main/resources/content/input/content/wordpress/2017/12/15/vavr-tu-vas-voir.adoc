@@ -1,0 +1,508 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Vavr, tu vas voir !
+:jbake-tags: chtijug,java,_mois_déc.,_année_2017
+:jbake-date: 2017-12-15
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/12/15/vavr-tu-vas-voir.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/12/15/vavr-tu-vas-voir/
+:jbake-style: wordpress
+
+++++
+<p>
+<div id="preamble">
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-3">
+</p>
+<p>
+Merci à Norsys, qui offre le food truck ce soir (!). (par contre, le chauffage semble être mort dans la soirée).
+</p>
+<p>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/Noplopy" class="screenName"><img src="http://pbs.twimg.com/profile_images/420712031827009536/nTzQOD2l_mini.jpeg" alt="profile of je suis né à l'âge de 0 an."/>Noplopy</a>
+<br/>
+<span class="name">Noham Pamuła</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/Noplopy/status/941 378 521 078 943 744" class="date">14 déc. 2017 à 19:45:04</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">@chtijug #VAVR at @norsyseasymaker with @glours https://t.co/ki51BpLemZ</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DRByvyHXkAAo4sf.jpg" alt="941 378 487 352 528 896"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-5">
+</p>
+<p>
+Guillaume nous vient de chez Saagie (où je connais quelqu’un …​ depuis pas mal de temps) dans l'équipe d’outillage. Et quand il parle, j’ai presque l’impression d’entendre parler un collègue tout aussi barbu, mais plus rancheros …​
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-7">
+<br/>
+<h2 id="truela_programmation_fonctionnelle">La programmation fonctionnelle</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-8">
+</p>
+<p>
+C’est de la programmation sans effet de bords, et c’est cool. Et pour faciliter ça, les fonctions sont des éléments essentiels du langage, les variables sont immutables (ça n’a pas de rapport avec la programmation fonctionnelle, en vrai, mais ça fait maintenant partie du canon fonctionnel).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-10">
+</p>
+<p>
+Enfin, ce qui est important pour Guillaume, c’est aussi la transparence référentielle (ou referential transparency) qui garantit que deux appels à la même fonction retourneront le même résultat.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-12">
+</p>
+<p>
+Par exemple, <code>Math.random()</code> ne respecte pas cet aspect, mais <code>Math.max(1, 2)</code> oui.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-14">
+<br/>
+<h2 id="truejava_8_est_d_ja_fonctionnel">Java 8 est déja fonctionnel ?</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-16">
+</p>
+<p>
+Ben oui, avec les lambda, les streams, les <code>Optional&#60;?&#62;</code>, c’est un début. Mais pour Guillaume il manque des trucs.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-18">
+<br/>
+<h2 id="truevavr_anciennement_javaslang">Vavr …​ anciennement Javaslang</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-20">
+</p>
+<p>
+La librairie a été créée par un développeur Scala frustré par Java. Et le nouveau logo retourne joliment Java …​
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-22">
+<br/>
+<h3 id="trueles_collections_java_c_est_pas_pratique">Les collections Java, c’est pas pratique</h3>
+<br/>
+<div class="paragraph data-line-23">
+</p>
+<p>
+Il y en a en java …​ mais c’est loin d'être pratique. Parce qu'à la base les collections sont conçues pour être mutables (et pas parce qu’ils n’ont pas compris l’immutabilité). Autrement dit, elles ne sont pas joliment immuables, ce qui fâche les puristes. Donc vavr redéfinit ses collections (y compris un <code>Vector</code>).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-26">
+</p>
+<p>
+Typiquement, les méthodes <code>Collection.stream()</code> et <code>Stream.collect()</code> n’existent pas en vavr, parce que les collections sont conçues autour de concepts fonctionnels.
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-28">
+</p>
+<p>
+Guillaume mentionne ensuite un point intéressant : en programmation fonctionnelle, on n’aime pas trop les exceptions parce qu’elles ne respectent pas trop le flux d’opérations.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-30">
+<br/>
+<h3 id="truestreams_inconsistents">Streams inconsistents</h3>
+<br/>
+<div class="paragraph data-line-31">
+</p>
+<p>
+Parfois, les streams Java démarrent leurs opérations un peu en avance. Du coup, deux appels successifs à Stream.map`(…​.)` peuvent balancer des exceptions, ce qui est insupportable pour Guillaume …​ Peut-être pas autant pour moi.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-33">
+<br/>
+<h3 id="truestreams_de_map">Streams de Map</h3>
+<br/>
+<div class="paragraph data-line-34">
+</p>
+<p>
+En Java, utiliser un stream sur une map, c’est l’enfer (il faut faire le stream sur l' <code>entrySet()</code> et reconstruire la Map au moment du collect). Par contre, en vavr, c’est super facile parce que vavr va mapper les couples clé/valeur vers des <code>Tuple</code>.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-36">
+<br/>
+<h2 id="truevalue_types">Value types</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-37">
+</p>
+<p>
+Ils arriveront en Java 10, peut-être (il faudrait demander à Rémi Forax). En revanche, il y en a un paquet dans vavr, inspirés de Scala, évidement.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-39">
+<br/>
+<h3 id="trueoption">Option</h3>
+<br/>
+<div class="paragraph data-line-40">
+</p>
+<p>
+Hey, mais l' <code>Option</code> de vavr est sérialisable ! C’est très cool !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-42">
+<br/>
+<h3 id="truetry">Try</h3>
+<br/>
+<div class="paragraph data-line-43">
+</p>
+<p>
+Qui permet d’encapsuler du code susceptible de lancer une exception. L’exception sera gentiment catchée et conservée. C’est pas bête du tout.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-45">
+<br/>
+<h3 id="trueeither">Either</h3>
+<br/>
+<div class="paragraph data-line-46">
+</p>
+<p>
+Là, on est en plein dans la scalaterie. Ca permet de retourner deux types différents en disant que le retour est soit l’un soit l’autre. Bon, jusque là, c’ets un tuple. La particularité d' <code>Either</code>, c’est qu’on prend comme convention que le bon cas est celui de droite …​ autrement dit le deuxième …​ Je trouve ça pénible et un authentique retour en arrière.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-48">
+<br/>
+<h3 id="truevalidation">Validation</h3>
+<br/>
+<div class="paragraph data-line-49">
+</p>
+<p>
+Qui ressemble furieusement à Bean Validation dans l’objectif …​ mais pas du tout dans l’implémentation, puisque c’est encore un Tuple, voire même un Either particulier.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-51">
+<br/>
+<h2 id="truedes_fonctions">Des fonctions</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-52">
+</p>
+<p>
+vavr ajoute aux <code>Function</code> et <code>BiFunction</code> des interfaces permettant d’utiliser jusqu'à 8 paramètres. Ca n’est pas très pur fonctionnellement, mais c’est bien pratique.
+</p>
+<p>
+</div>
+<br/>
+<div class="sect2 data-line-54">
+<br/>
+<h3 id="truecomposition">Composition</h3>
+<br/>
+<div class="paragraph data-line-55">
+</p>
+<p>
+Mais bien sûr qu’on peut composer des fonctions avec vavr !
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-57">
+<br/>
+<h3 id="truelifting">Lifting</h3>
+<br/>
+<div class="paragraph data-line-58">
+</p>
+<p>
+Chez les fonctionnalistes, c’est la transformation d’une fonction impure en fonction pure. Et je dois bien dire que c’est assez propre.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-60">
+<br/>
+<h3 id="trueapplication_partielle_de_fonctions">Application partielle de fonctions</h3>
+<br/>
+<div class="paragraph data-line-61">
+</p>
+<p>
+Là aussi, ça fait rêver tous les haskelliens, et c’est assez simplement réalisé. Mais mon voisin pose une excellente question : si j’applique ma fonction partielle à 5 paramètres, lequel reste à utiliser ? Le premier ou le dernier ?
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-63">
+<br/>
+<h3 id="truecurryfication">Curryfication</h3>
+<br/>
+<div class="paragraph data-line-64">
+</p>
+<p>
+A priori, c’est très semblable à l’application partielle, tout en étant subtilement différent.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect2 data-line-66">
+<br/>
+<h3 id="truem_moisation">Mémoisation</h3>
+<br/>
+<div class="paragraph data-line-67">
+</p>
+<p>
+Un peu comme un cache, en fait …​ mais sans avoir besoin de réécrire à chaque fois.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-69">
+<br/>
+<h2 id="trueet_maintenant_le_pattern_matching">Et maintenant, le pattern matching</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-70">
+</p>
+<p>
+Alors là ça va être un peu fou …​ Toujours est-il que, vous le savez maintenant, le pattern matching, c’est un switch sous stéroïdes (mais alors beaucoup de stéroïdes). Par contre, comme vavr reste du Java, c’est la syntaxe habituelle qui est utilisée. Et du coup, c’est moins surprenant puisque l’instruction langage est remplacée par des appels de méthode dans tous les sens. Ca n’est pas forcément très lisible à mon sens, mais bon. En revanche, ce qui est vraiment moche, c’est que le cas d’usage typique, c’est pour faire des <code>instanceOf</code> plus propres de la manière suivante :
+</p>
+<p>
+</div>
+<br/>
+<div class="literalblock data-line-73">
+<br/>
+<div class="content">
+<br/>
+<pre>Number plusOne = Match(obj).of(
+<br/>
+Case($(instanceOf(Integer.class)), i -&#62; i + 1),
+<br/>
+Case($(instanceOf(Double.class)), d -&#62; d + 1),
+<br/>
+Case($(), o -&#62; { throw new NumberFormatException(); })
+<br/>
+);</pre>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="paragraph data-line-79">
+</p>
+<p>
+Bon, ben là, franchement, je suis désolé, mais il n’y a aucune espèce de gain par rapport au simple <code>instanceof</code>dans un if (qui est un foutu antipattern).
+</p>
+<p>
+</div>
+<br/>
+<div class="paragraph data-line-81">
+</p>
+<p>
+Par contre, pour filtrer une liste d’adresses entre valides et invalides, c’est pas mal du tout (merci <code>Either</code>).
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-83">
+<br/>
+<h2 id="trueproperty_checking">Property Checking</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-84">
+</p>
+<p>
+On parle ici de la génération automatique de cas de tests. Et il y a pour les différents types de variables simples, des générateurs aléatoires inclus. Ca n’est pas inintéressant …​ mais le test est salement pollué par tout le code supplémentaire nécessaire pour gérer ce contenu aléatoire. Il me semble qu’il y a d’autres outils qui fournissent le même genre de services
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+<br/>
+<div class='twitter'>
+<br/>
+<span class="twitter_status">
+</p>
+<p>
+<span class="author">
+</p>
+<p>
+<a href="http://twitter.com/glours" class="screenName"><img src="http://pbs.twimg.com/profile_images/851392147563696128/xfVcQjXP_mini.jpg" alt="profile of Sr Software engineer @docker - Member of @DevoxxFr  - @glours@framapiaf.org"/>glours</a>
+<br/>
+<span class="name">Guillaume🐻</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<a href="https://twitter.com/glours/status/941 401 921 381 982 208" class="date">14 déc. 2017 à 21:18:03</a>
+</p>
+<p>
+<span class="content">
+</p>
+<p>
+<span class="text">Quel accueil pour l'after @chtijug 💕
+<br/>
+Merci @norsyseasymaker pour le food truck et la bière ! https://t.co/8f1tpDtmlf</span>
+</p>
+<p>
+<span class="medias">
+<br/>
+<span class="media media-photo">
+<br/>
+<img src="http://pbs.twimg.com/media/DRCIA9KW4AENws0.jpg" alt="941 401 872 119 816 193"/>
+<br/>
+</span>
+<br/>
+</span>
+</p>
+<p>
+</span>
+</p>
+<p>
+<span class="twitter_status_end"/>
+<br/>
+</span>
+<br/>
+</div>
+<br/>
+<div class="sect1 data-line-86">
+<br/>
+<h2 id="trueconclusion">Conclusion</h2>
+<br/>
+<div class="sectionbody">
+<br/>
+<div class="paragraph data-line-88">
+</p>
+<p>
+La présentation était intéressante et Guillaume sacrément motivé pour nous convaincre (et ça, c’est très cool). Néanmoins, je ne peux pas m'ôter de la tête l’idée que vavr est avant tout un exercice de style, une espèce de figure imposée éventuellement utilisable sur un projet, mais dont ça n’est pas le but premier. Pour moi, le but de ce genre de librairie (comme ça a pu l'être quand j’ai écrit gaedo), c’est avant tout de tester la faisabilité d’un concept. Après, pour l’utiliser, il faut quand même avoir des besoins qui sont à mon sens particulier (surtout si quelqu’un veut sortir de Java 8 pour utiliser vavr). L’idée est néanmoins intéressante, et certains aspects m’ont paru particulièrement séduisants.
+</p>
+<p>
+</div>
+<br/>
+</div>
+<br/>
+</div>
+</p>
+++++

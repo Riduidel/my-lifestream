@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: DeltaCopy - Rsync for Windows
+:jbake-tags: windows,freeware,software,réseau,rsync,_mois_mars,_année_2016
+:jbake-date: 2016-03-16
+:jbake-depth: ../
+:jbake-uri: shaarli/1458139988000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.aboutmyip.com%2FAboutMyXApp%2FDeltaCopy.jsp&searchtags=windows+freeware+software+r%C3%A9seau+rsync+_mois_mars+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+http://www.aboutmyip.com/AboutMyXApp/DeltaCopy.jsp[DeltaCopy - Rsync for Windows]
+
+Une autre interface à rsync pour Windows, mais un peu plus professionnelle, celle-là (et avec une intégration dans le gestionnaire des tâches, ce qui est assez cool)

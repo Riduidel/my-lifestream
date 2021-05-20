@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Earth wind map
+:jbake-tags: carte,vent,mer,_mois_déc.,_année_2013
+:jbake-date: 2013-12-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1387372534000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fflowingdata.com%2F2013%2F12%2F17%2Fearth-wind-map%2F&searchtags=carte+vent+mer+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://flowingdata.com/2013/12/17/earth-wind-map/[Earth wind map]
+
+Très jolie carte des vents, qui permet bien de voir certaines distributions curieuses des masses d'air.

@@ -1,0 +1,15 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Adam Kubert
+:jbake-tags: author
+:jbake-date: 2010-06-18
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/61330.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1270670936p5/61330.jpg
+:jbake-source: https://www.goodreads.com/author/show/61330
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9780785108689.html[Ultimate X-Men, Vol. 2: Return to Weapon X]
+* link:../books/9780785110910.html[Ultimate X-Men, Vol. 6: Return of the King]
+* link:../books/9782809400007.html[Ultimate X-Men: L'homme de demain (Ultimate X-Men, #1)]

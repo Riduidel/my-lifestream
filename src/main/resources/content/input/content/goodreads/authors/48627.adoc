@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Gregor Hohpe
+:jbake-tags: author
+:jbake-date: 2020-04-03
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/48627.adoc
+:jbake-bigImage: https://images.gr-assets.com/authors/1585677013p5/48627.jpg
+:jbake-source: https://www.goodreads.com/author/show/48627
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/0785342200683.html[Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions]

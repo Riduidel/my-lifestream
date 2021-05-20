@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: So you want to be a wizard - Julia Evans
+:jbake-tags: apprentissage,réflexion,informatique,_mois_févr.,_année_2019
+:jbake-date: 2019-02-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1549873379000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fjvns.ca%2Fblog%2Fso-you-want-to-be-a-wizard%2F&searchtags=apprentissage+r%C3%A9flexion+informatique+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://jvns.ca/blog/so-you-want-to-be-a-wizard/[So you want to be a wizard - Julia Evans]
+
+J'aime beaucoup ce que fait Julia Evans. Et cette présentation devait être vraiment chouette à voir, parce que le transcript est déja très intéressant.

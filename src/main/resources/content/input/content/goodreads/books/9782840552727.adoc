@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Samuel Earp (Carmen Mc Callum #4)
+:jbake-tags:  nano,_année_2010,_mois_déc.,_note_4,rayon-bd,read
+:jbake-date: 2010-12-11
+:jbake-depth: ../../
+:jbake-uri: goodreads/books/9782840552727.adoc
+:jbake-bigImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339592755l/2741176._SX98_.jpg
+:jbake-smallImage: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1339592755l/2741176._SX50_.jpg
+:jbake-source: https://www.goodreads.com/book/show/2741176
+:jbake-style: goodreads goodreads-book
+
+++++
+<div class="book-description">
+Pour le compte de l'ONU, Carmen et Naoko participent à l'arrestation de Samuel Earp, un industriel recherché pour avoir provoqué un accident technologique dramatique au Nevada.
+</div>
+++++
+
+
+## Authors
+* link:../authors/503981.html[Fred Duval]
+* link:../authors/95146.html[Gess]
+
+## Series
+* link:../series/Carmen_Mc_Callum.html[Carmen Mc Callum]
+
+## Review
+
+++++
+Très bon début d'une histoire, dynamique comme toujours, qui nous plonge cette fois dans des états-unis enfin soumis (à peu près) à l'ONu, et hébergeant un complexe militaro-industriel qui ne joue pas forcément le jeu selon les règles.<br/>Ne croyez pas que Carmen Mc Callum y mettra bon ordre. Elle va juste tellement le saccager qu'après, il sera bon à jeter.
+++++

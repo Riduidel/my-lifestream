@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Leon Bambrick on Twitter: "Tabs and spaces have different semantic meanings. Spaces mean "I am indenting this code" while tabs mean "I am a monster"."
+:jbake-tags: citation,programming,typographie,_mois_sept.,_année_2017
+:jbake-date: 2017-09-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1504704634000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FsecretGeek%2Fstatus%2F900476388481802240&searchtags=citation+programming+typographie+_mois_sept.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/secretGeek/status/900476388481802240[Leon Bambrick on Twitter: "Tabs and spaces have different semantic meanings. Spaces mean "I am indenting this code" while tabs mean "I am a monster"."]
+
+I AM MONSTER and I like it !

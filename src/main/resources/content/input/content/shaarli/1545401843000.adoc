@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Luxon.js on Twitter: "Oh hell yes… "
+:jbake-tags: javascript,date,library,i18n,_mois_déc.,_année_2018
+:jbake-date: 2018-12-21
+:jbake-depth: ../
+:jbake-uri: shaarli/1545401843000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fluxonjs%2Fstatus%2F1075810929688875010&searchtags=javascript+date+library+i18n+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://twitter.com/luxonjs/status/1075810929688875010[Luxon.js on Twitter: "Oh hell yes… "]
+
+C'est pas tous les jours qu'une librairie Javascript fait à ce point envie ...

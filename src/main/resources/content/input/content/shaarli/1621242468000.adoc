@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Things you can’t do in Rust (and what to do instead) - LogRocket Blog
+:jbake-tags: rust,programming,concepts,_mois_mai,_année_2021
+:jbake-date: 2021-05-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1621242468000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.logrocket.com%2Fwhat-you-cant-do-in-rust-and-what-to-do-instead%2F&searchtags=rust+programming+concepts+_mois_mai+_ann%C3%A9e_2021
+:jbake-style: shaarli
+
+https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/[Things you can’t do in Rust (and what to do instead) - LogRocket Blog]
+
+C'est pas mal cette liste de trucs impossibles en Rust

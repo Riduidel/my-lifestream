@@ -1,0 +1,132 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Mais la revue de code, ça sert à rien ?
+:jbake-tags: équipe,communication,conception,_mois_avr.,_année_2021
+:jbake-date: 2021-04-03
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2021/04/03/mais-la-revue-de-code-ca-sert-a-rien.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2021/04/03/mais-la-revue-de-code-ca-sert-a-rien/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>Cette semaine, j'ai vu passer plusieurs messages au sujet de la revue de code, qui fait partie des pratiques essentielles de l'artisanat logiciel tel qu'il est promu.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tout a commencé par un superbe article par Jessica Kerr : <a href="https://jessitron.com/2021/03/27/those-pesky-pull-request-reviews/">Those Pesky Pull Requests Reviews</a>. Elle revient dans cet article sur les revues de code des pull requests, et de leur imapct potentiel sur cette équipe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ca m'a fait réagir</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/riduidel\/status\/1377152564437807108","type":"rich","providerNameSlug":"twitter","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/riduidel" class="screenName"><img src="http://pbs.twimg.com/profile_images/684981155/santang-conan-le-barbarux_mini.png" alt="profile of A telepresence bot for Riduidel, which has now left that network in favor of @Riduidel@framapiaf.org mastodon bot ... but nevertheless is happy at @ZenikaLille"/>riduidel</a>
+		<span class="name">Nicolas Delsaux</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/riduidel/status/1 377 152 564 437 807 108" class="date">31 mars 2021 à 08:55:32</a>
+
+	<span class="content">
+	
+	<span class="text">J'aime bien la réflexion que mène cet article, même si je désapprouve plutôt, par conviction personnelle, sa conclusion https://t.co/6KoaPXGxKd</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Et j'ai été mis au défi de détailler mon propos</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https:\/\/twitter.com\/XDetant\/status\/1377184142543056906","type":"rich","providerNameSlug":"twitter","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<div class='twitter'>
+<span class="twitter_status">
+
+	<span class="author">
+	
+		<a href="http://twitter.com/XDetant" class="screenName"><img src="http://pbs.twimg.com/profile_images/793148942556987392/vep76sPK_mini.jpg" alt="profile of Software Crafter and CTO @ Great place to work, he/him"/>XDetant</a>
+		<span class="name">Xavier Detant</span>
+		
+	</span>
+	
+	<a href="https://twitter.com/XDetant/status/1 377 184 142 543 056 906" class="date">31 mars 2021 à 11:01:01</a>
+
+	<span class="content">
+	
+	<span class="text">@riduidel Je veux bien que tu développe ta conviction personnelle :)</span>
+	
+	<span class="medias">
+	</span>
+	
+	</span>
+	
+	
+	<span class="twitter_status_end"/>
+</span>
+</div>
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Ce que je vais tenter ici.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour ceux qui n'ont jamais pratiqué,  les pull requests sont le moyen chez GitHub d'intégrer du code d'une branche dans la branche principale. Et la revue de code, c'est une relecture par un développeur du code écrit par un autre développeur de l'équipe. L'objectif théorique de la revue de code est de permettre à un développeur de s'améliorer grâce à la critique constructive de ses collègues. En quelque sorte, ça apporte au développeur un côté auteur, avec les autres développeurs jouant le rôle des éditeurs dans la littérature : permettre à l'artefact produit d'être aussi bon qu'il est possible de l'être, en correspondant au style de l'équipe.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et quelque part, une partie de la difficulté de la revue de code tient à ce changement de rôle : passer de celui de constructeur d'une solution technique à critique stylistique n'est humainement pas facile, et le contexte des projets aide rarement. Parce que dans un projet, le facteur temps, s'il n'est pas essentiel, est souvent important. Et pousser un collègue a améliorer sa construction stylistique est rarement facile quand on arrive après la bataille (mais j'y reviendrai). Ca explique en partie le peu d'attrait que j'ai pour les revues de code, et que Jessica explique fort bien : réaliser une revue de code, ça implique de se plonger dans le code à relire. De s'y plonger ... totalement, en fait. C'est-à-dire comprendre l'objectif fonctionnel et les contraintes techniques qui ont mené à la création de ce code. Et ça n'est que le début ! Parce qu'il faut ensuite comprendre l'intention du développeur, la manière qu'il a eu de coder cette solution. Et le pire, c'est de se placer au bon niveau de jugement : une revue de code qui demande au codeur de tout recommencer pour satisfaire au souhait "stylistique" du relecteur n'est pas une revue, mais une démolition. Et je ne vais pas parler de tout le côté humain : l'auteur du code est forcément impliqué émotionnellement avec ce qu'il a produit. Et même les mots magiques comme "c'est ton code tant qu'il n'est que sur ta machine. Et quand entre dans git/svn/pijul/whatever, il n'est plus ton code, mais celui de l'équipe" ne suffisent pas, parce que les relecteurs auront tendance à poser les questions qui détendent comme "mais pourquoi tu as fait ça".</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>A mon avis, tout ces éléments font de la revue de code une solution inadaptée à un vrai problème qui est de maintenir la cohérence d'une base de code.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et la solution de Jessica, de faire des séances de refactoring en groupe, ne me paraît pas mieux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que ces deux solutions au problème de cohérence arrivent en fait au mauvais moment. En effet, elles arrivent après que le code a été écrit. Autrement dit, on demande à quelqu'un qui est allé quelque part d'aller ailleurs, bref de refaire du travail. Et ce nouveau travail, qui apparaît magiquement une fois le code écrit, en est d'autant plus frustrant.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>alors que faire ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>D'expérience, je pense qu'il faut remplacer la revue de code par la revue de conception.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>C'est-à-dire demander d'abord aux développeurs de définir comment ils vont résoudre un problème en écrivant le plan de leur solution technique. Et ensuite de relire et de commenter cette conception. D'expérience, discuter de la solution avant de l'implémenter dans le code permet une discussion plus créative, parce que le codeur n'a pas la fameuse <a href="https://fr.wikipedia.org/wiki/Aversion_%C3%A0_la_perte">aversion à la perte</a> liée au fait que le code, lors de la revue de code, a été écrit. Par ailleurs, on évite peut-être le plus gros écueil de la revue de code, dont je n'ai même pas parlé jusqu'à présent : la <a href="https://fr.wikipedia.org/wiki/Loi_de_futilit%C3%A9_de_Parkinson">loi de la futilité</a>. Vous savez, ce truc qui fait que l'équipe de développement va passer deux heures à passer d'une modification de 5 lignes, mais 5 minutes à parler d'une modification de 20.000 lignes, tout simplement parce que personne n'aura fait l'effort de relire ce gros paquet de code. Je sais bien que certaines équipes font des efforts désespérants pour éviter les grosses modifications de code, justement pour permettre aux développeurs de relire ces modifications. Donc, en faisant de la revue de conception, on va éviter cet effet. Parce qu'une modification simple ne présente pas d'intérêt en terme de la conception, et que la conception sera donc triviale. En revanche, une modification plus complexe nécessitera une vraie réflexion préalable, qui sera d'autant plus importante que les composants impliqués seront nombreux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Il y a en revanche une vraie difficulté à faire la revue de conception ... C'est évidement que les développeurs doivent réfléchir avant de coder. Franchement, j'ai moi-même eu parfois du mal à me retenir de plonger dans mon IDE. Mais ce temps a toujours été bien investi. Parce qu'il m'a permis d'appréhender l'ensemble des impacts d'une modification avant de l'attaquer. Et que cette appréhension m'a souvent aidé à décomposer correctement la solution, pour faciliter les composants à développer ou faire évoluer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Autrement dit, et pour conclure, si vous n'aimez pas la revue de code ... je suis bien d'accord avec vous. Et je pense sincèrement que vous devriez lui préférer la revue de conception (qui s'applique aussi bien à la correction de bugs qu'au développement de nouvelles fonctionnalités).</p>
+<!-- /wp:paragraph -->
+++++

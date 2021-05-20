@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Tabitha Jute
+:jbake-tags: serie
+:jbake-date: 2003-10-06
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Tabitha_Jute.adoc
+:jbake-source: https://www.goodreads.com/series/44442
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782290316092.html[Le Pays de Cocagne]

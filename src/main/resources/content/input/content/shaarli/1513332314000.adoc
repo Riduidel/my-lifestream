@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Programming Wisdom sur Twitter : ""Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches." - Paul… https://t.co/0F8dHbXCUu"
+:jbake-tags: citation,programming,concepts,oop,_mois_déc.,_année_2017
+:jbake-date: 2017-12-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1513332314000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2FCodeWisdom%2Fstatus%2F939208310481440768&searchtags=citation+programming+concepts+oop+_mois_d%C3%A9c.+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+https://twitter.com/CodeWisdom/status/939208310481440768[Programming Wisdom sur Twitter : ""Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches." - Paul… https://t.co/0F8dHbXCUu"]
+
+Et relativement à la présentation vavr que j'ai vu hier, je ne suis pas sûr que le fonctionnalisme actuel offre les mêmes garanties ...

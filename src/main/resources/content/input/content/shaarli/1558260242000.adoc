@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Bill the Lizard on Twitter: "One of the biggest differences I discovered between students and experienced programmers is that a student will write 100+ lines of code before ever trying to run it. I'll only write 2-3 lines of code before testing to make sure they work."
+:jbake-tags: citation,expérience,développeur,_mois_mai,_année_2019
+:jbake-date: 2019-05-19
+:jbake-depth: ../
+:jbake-uri: shaarli/1558260242000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Flizardbill%2Fstatus%2F1129885631214227461&searchtags=citation+exp%C3%A9rience+d%C3%A9veloppeur+_mois_mai+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/lizardbill/status/1129885631214227461[Bill the Lizard on Twitter: "One of the biggest differences I discovered between students and experienced programmers is that a student will write 100+ lines of code before ever trying to run it. I'll only write 2-3 lines of code before testing to make sure they work."]
+
+Ah ah ah ! C'est tellement vrai !

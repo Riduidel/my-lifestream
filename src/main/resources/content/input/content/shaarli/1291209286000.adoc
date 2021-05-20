@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Zero-K - Home
+:jbake-tags: jeu,freeware,software,windows,linux,rts,_mois_déc.,_année_2010
+:jbake-date: 2010-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1291209286000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fzero-k.info%2Findex.php&searchtags=jeu+freeware+software+windows+linux+rts+_mois_d%C3%A9c.+_ann%C3%A9e_2010
+:jbake-style: shaarli
+
+http://zero-k.info/index.php[Zero-K - Home]
+
+Ca a l'air sacrément chouette ! Au moins aussi bien que warZone 2100 (qui me consomme déja un temps considérable).

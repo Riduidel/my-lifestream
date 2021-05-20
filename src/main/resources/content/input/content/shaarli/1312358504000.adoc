@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Free PDF Reader - Sumatra PDF by Krzysztof Kowalczyk
+:jbake-tags: software,freeware,windows,utilities,_mois_août,_année_2011
+:jbake-date: 2011-08-03
+:jbake-depth: ../
+:jbake-uri: shaarli/1312358504000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.kowalczyk.info%2Fsoftware%2Fsumatrapdf%2Ffree-pdf-reader.html&searchtags=software+freeware+windows+utilities+_mois_ao%C3%BBt+_ann%C3%A9e_2011
+:jbake-style: shaarli
+
+http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html[Free PDF Reader - Sumatra PDF by Krzysztof Kowalczyk]
+
+Et encore un elcteur PDF. J'espère qu'il marchera mieux que celui que j'utilise actuellement (qui est pas forcément fameux, sans être aussi mauvas qu'Acrobat Reader).

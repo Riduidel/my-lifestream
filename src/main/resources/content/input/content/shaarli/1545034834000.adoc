@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Babylonpartners/shipcat: Deploy right meow!
+:jbake-tags: rust,programming,configuration,kubernetes,open-source,_mois_déc.,_année_2018
+:jbake-date: 2018-12-17
+:jbake-depth: ../
+:jbake-uri: shaarli/1545034834000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2FBabylonpartners%2Fshipcat&searchtags=rust+programming+configuration+kubernetes+open-source+_mois_d%C3%A9c.+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://github.com/Babylonpartners/shipcat[Babylonpartners/shipcat: Deploy right meow!]
+
+OH BON SANG DE BON SOIR ! Un outil de gestion de configuration Kubernetes en Rust ! D'un coup, j'ai presqu'envie de faire du K8s ! Bon je me suis emporté. C'est plus un validateur/pré-compilateur de YAML. Et du coup c'est (un peu) décevant

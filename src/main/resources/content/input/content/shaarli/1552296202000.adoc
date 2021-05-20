@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Geoffroy Couprie on Twitter: "Silicon Valley is an echo chamber of bad tech solutions. And the rest of the world, instead of inventing stuff, spends time filtering the actual good insights from all the ideas optimized to throw millions at it… https://t.co/8YvQNCTzev"
+:jbake-tags: citation,économie,conscience,réflexion,_mois_mars,_année_2019
+:jbake-date: 2019-03-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1552296202000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Ftwitter.com%2Fgcouprie%2Fstatus%2F1105003602618265602&searchtags=citation+%C3%A9conomie+conscience+r%C3%A9flexion+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://twitter.com/gcouprie/status/1105003602618265602[Geoffroy Couprie on Twitter: "Silicon Valley is an echo chamber of bad tech solutions. And the rest of the world, instead of inventing stuff, spends time filtering the actual good insights from all the ideas optimized to throw millions at it… https://t.co/8YvQNCTzev"]
+
+Tellement vrai : Uber, Facebook, toutes ces merdes qui n'ont pour seules boussoles morales que la quête d'un profit avant le prochain trimestre ...

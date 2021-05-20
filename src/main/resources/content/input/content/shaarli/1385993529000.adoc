@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Consulter le sujet - La TV de FREE sur XBMC • Le Forum de Numa
+:jbake-tags: xbmc,software,freeware,tutorial,freebox,_mois_déc.,_année_2013
+:jbake-date: 2013-12-02
+:jbake-depth: ../
+:jbake-uri: shaarli/1385993529000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.numa001.fr%2Fla-tv-de-free-sur-pc-f12%2Fla-tv-de-free-sur-xbmc-t176.html&searchtags=xbmc+software+freeware+tutorial+freebox+_mois_d%C3%A9c.+_ann%C3%A9e_2013
+:jbake-style: shaarli
+
+http://www.numa001.fr/la-tv-de-free-sur-pc-f12/la-tv-de-free-sur-xbmc-t176.html[Consulter le sujet - La TV de FREE sur XBMC • Le Forum de Numa]
+
+Un chouette tutorial expliquant comment récupérer la plupart des fonctionnalités utilisables avec VLC dans XBMC.

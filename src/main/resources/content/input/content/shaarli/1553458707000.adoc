@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: In Defense of YAML
+:jbake-tags: programming,configuration,yaml,_mois_mars,_année_2019
+:jbake-date: 2019-03-24
+:jbake-depth: ../
+:jbake-uri: shaarli/1553458707000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fblog.atomist.com%2Fin-defense-of-yaml%2F&searchtags=programming+configuration+yaml+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://blog.atomist.com/in-defense-of-yaml/[In Defense of YAML]
+
+Une défense intéressante du yaml, qui me semble toutefois le restreindre dans un domaine d'utilisation assez réduit.

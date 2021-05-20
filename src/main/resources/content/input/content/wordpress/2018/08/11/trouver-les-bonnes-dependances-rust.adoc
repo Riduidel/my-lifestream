@@ -1,0 +1,28 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Trouver les bonnes dépendances Rust
+:jbake-tags: build,cargo,dépendances,rust,_mois_août,_année_2018
+:jbake-date: 2018-08-11
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2018/08/11/trouver-les-bonnes-dependances-rust.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2018/08/11/trouver-les-bonnes-dependances-rust/
+:jbake-style: wordpress
+
+++++
+<p>
+Rust, comme tous les langages, vaut par son écosystème.
+</p>
+<p>
+Et Rust, contrairement à un langage rétro-futuriste, gère correctement les dépendances avec <a href="https://doc.rust-lang.org/cargo/">Cargo</a> (l'équivalent local de maven, mais avec beaucoup moins de configurabilité par projet - ce qui est bien).
+</p>
+<p>
+Cargo est très cool, et peut télécharger les dépendances Rust (je m'y attendais à moitié) depuis crates.io. Et l'avantage, c'est que <a href="https://crates.io">crates.io</a> mélange le repository central (à la maven central) et le site de recherche de dépendances.
+</p>
+<p>
+Du coup, quand vous avez besoin, par exemple, d'une  librairie de parsing XML ou d'un client HTTP, vous allez sur crates.io, vous mettez dans la zone de recherche ce dont vous avez besoin, et pouf ! crates.io vous sort pour chaque dépendance possible le nom, la dernière version, le <code>README.md</code> du projet (joliment mis en forme) et le lien vers le projet (au cas où la doc ne suffirait pas).
+</p>
+<p>
+C'est vraiment très chouette.
+</p>
+++++

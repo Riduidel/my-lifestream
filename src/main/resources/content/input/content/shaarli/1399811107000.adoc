@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Looking for Your Twitter RSS Feed after the API Change? Here's How to Make a New One
+:jbake-tags: web,rss,twitter,php,rss-bridge,_mois_mai,_année_2014
+:jbake-date: 2014-05-11
+:jbake-depth: ../
+:jbake-uri: shaarli/1399811107000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fblog.pixsy.net%2Fhow-to-make-a-twitter-rss-feed-after-api-change%2F&searchtags=web+rss+twitter+php+rss-bridge+_mois_mai+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://blog.pixsy.net/how-to-make-a-twitter-rss-feed-after-api-change/[Looking for Your Twitter RSS Feed after the API Change? Here's How to Make a New One]
+
+Tiens tiens tiens ... Tweetledee m'a l'air d'être un approche complémentaire à rss-bridge, non ?

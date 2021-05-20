@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Maven - Who's Using ehcache?
+:jbake-tags: jebliki,java,j2ee,server,cache,open-source,library,programming,_mois_oct.,_année_2007
+:jbake-date: 2007-10-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1191240034000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fehcache.sourceforge.net%2Fwho_is_using.html&searchtags=jebliki+java+j2ee+server+cache+open-source+library+programming+_mois_oct.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://ehcache.sourceforge.net/who_is_using.html[Maven - Who's Using ehcache?]
+
+Je ne veux pas utiliser de base de donnée, ça ne veut pas dire pour autant que je veux tout coder à la main. Je mettrais donc tous mes objets dans un joli EhCache qui va s'occuper de les sauver pour moi.

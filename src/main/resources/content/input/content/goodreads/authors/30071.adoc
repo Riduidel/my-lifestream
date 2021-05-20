@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Freddy Michalski
+:jbake-tags: author
+:jbake-date: 2006-10-15
+:jbake-depth: ../../
+:jbake-uri: goodreads/authors/30071.adoc
+:jbake-bigImage: https://s.gr-assets.com/assets/nophoto/user/u_200x266-e183445fd1a1b5cc7075bb1cf7043306.png
+:jbake-source: https://www.goodreads.com/author/show/30071
+:jbake-style: goodreads goodreads-author no-index
+
+## Books
+* link:../books/9782070422401.html[Fight club]

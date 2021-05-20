@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: You might not need machine learning
+:jbake-tags: ia,optimisation,algorithme,performance,programming,codingame,_mois_déc.,_année_2020
+:jbake-date: 2020-12-01
+:jbake-depth: ../
+:jbake-uri: shaarli/1606828252000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fnullprogram.com%2Fblog%2F2020%2F11%2F24%2F&searchtags=ia+optimisation+algorithme+performance+programming+codingame+_mois_d%C3%A9c.+_ann%C3%A9e_2020
+:jbake-style: shaarli
+
+https://nullprogram.com/blog/2020/11/24/[You might not need machine learning]
+
+Le titre est trompeur : le machine learning est utilisé pour choisir les paramètres de son moteur polynomial. Cela dit, utiliser l'approximation polynomiale est souvent \*très\* efficace.

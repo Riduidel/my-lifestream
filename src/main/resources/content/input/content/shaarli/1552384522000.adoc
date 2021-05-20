@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Keeping Open Source Open – Open Distro for Elasticsearch | AWS Open Source Blog
+:jbake-tags: amazon,concurrence,open-source,éthique,_mois_mars,_année_2019
+:jbake-date: 2019-03-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1552384522000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Faws.amazon.com%2Fde%2Fblogs%2Fopensource%2Fkeeping-open-source-open-open-distro-for-elasticsearch%2F&searchtags=amazon+concurrence+open-source+%C3%A9thique+_mois_mars+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://aws.amazon.com/de/blogs/opensource/keeping-open-source-open-open-distro-for-elasticsearch/[Keeping Open Source Open – Open Distro for Elasticsearch | AWS Open Source Blog]
+
+embrace, extend, extinguish façon Amazon. Manifestement, ils ont décidé de concurrencer tous les produits open-source. C'est ... mal. Personnellement, ça rend Amazon non compatible avec le buisness

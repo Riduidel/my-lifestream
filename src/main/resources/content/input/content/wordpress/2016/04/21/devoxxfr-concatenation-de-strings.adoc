@@ -1,0 +1,67 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: #devoxxfr - concaténation de strings
+:jbake-tags: java,string,_mois_avr.,_année_2016
+:jbake-date: 2016-04-22
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2016/04/21/devoxxfr-concatenation-de-strings.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2016/04/21/devoxxfr-concatenation-de-strings/
+:jbake-style: wordpress
+
+++++
+<p>
+Je connais Rémi Forax via une mailing-list ou une autre depuis ...au moins 2007 (vérifié dans mes archives mail).
+</p>
+<p>
+Alors quand il parle, je l'écoute. Et donc, là, il nous parle de la concaténation de chaines en Java8 et Java9.
+</p>
+<p>
+Donc on prend une concaténation à coups de "+" magiques, et qu'est-ce qu'il se passe ?
+</p>
+<p>
+D'abord dans le bytecode.
+</p>
+<p>
+Et Rémi a déja dit basiquement.
+</p>
+<p>
+Donc en bytecode, ce sont des appels vers des StringBuilder.append (enfin, en Java8).
+</p>
+<p>
+basiquement.
+</p>
+<p>
+Mais bon, dixit "le bytecode, c'est relativement marrant à lire, mais en vrai ça sert à rien". Donc un coup de javap, et nous pouvons voir le bytecode qui sera utilisé sous forme de code Java.
+</p>
+<p>
+Et comme ça ne sert à rien, passons à l'assembleur. Oui, le vrai assembleur x64 (pas le x86 qui est moins bien).
+</p>
+<p>
+Et franchement, c'est compliqué.
+</p>
+<p>
+Maintenant, petit jeu de conversion int=&#62;string. ""+4 va plus vite que Integer.toString(4) parce que le JIT ne remplit pas le tableau de la chaîne de caractère de 0 avant d'y mettre l'entier !
+</p>
+<p>
+Comme les optimisations de performances de la JVM sont conçues pour les applications les plus utilisées, il vaut mieux coder crétin comme un Websphere ou un Weblogic 6 plutôt que de faire le mariole.
+</p>
+<p>
+Et en plus, l'optimisation de toString ne marche vraiment pas toujours. Autrement dit, elle ne marche sûrement pas dans votre code.
+</p>
+<p>
+Bon, et alors là, basiquement, pour résoudre tout un tas de problèmes d'optimisation de toString, on peut sortir le marteau magique d'invokedynamic pour améliorer le toString.
+</p>
+<p>
+Et du coup, en Java9, on peut mettre en place toute une série de stratégies de toString selon le contenu.
+</p>
+<p>
+En plus, on s'est rendu compte en Java8 qu'il y avait plein de strings dans les applications Java. Et du coup, dans G1 en version Java9, il fait de la déduplication de chaînes à la volée. Un peu façon String.intern(), quoi.
+</p>
+<p>
+Pour continuer avec les détails, les chaînes de caractère Java9 sont maintenant des tableaux de byte. Et je serai tenté de dire que ça va être un beau bazar. Et en fait, c'est le calcul de la valeur du coder (encodage du tableau de bytes) qui va augmenter la taille de l'assembleur.
+</p>
+<p>
+Ca donne en fait une présentation assez chouette, qui montre encore une fois toute la palette des usages d'invokedynamic.
+</p>
+++++

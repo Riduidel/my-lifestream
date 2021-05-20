@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: ESS-Model
+:jbake-tags: software,freeware,uml,programming,concepts,reverse,_mois_mars,_année_2005
+:jbake-date: 2005-03-31
+:jbake-depth: ../
+:jbake-uri: shaarli/1112279614000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fessmodel.sourceforge.net%2Fdownload.html&searchtags=software+freeware+uml+programming+concepts+reverse+_mois_mars+_ann%C3%A9e_2005
+:jbake-style: shaarli
+
+http://essmodel.sourceforge.net/download.html[ESS-Model]
+
+ESS-MODEL: The fastest and easiest to use UML reversing tool on the market!

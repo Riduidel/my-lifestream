@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wisdom Framework - Home
+:jbake-tags: java,framework,web,programming,osgi,_mois_avr.,_année_2014
+:jbake-date: 2014-04-10
+:jbake-depth: ../
+:jbake-uri: shaarli/1397137249000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwisdom-framework.org%2F&searchtags=java+framework+web+programming+osgi+_mois_avr.+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://wisdom-framework.org/[Wisdom Framework - Home]
+
+Mais alors quelle claque, ce truc ! Les contrôleurs en pur Java, le hot-reload, les messages d'i18n qui utilisent le header Accept-Language, la détermination des autres urls "simplement" avec un reverseUrl... Ce truc me fait un effet maximum, bien plus que tout ce que j'ai pu voir ailleurs. Le meilleur étant évidement l'OSGi et le déploiement direct (même si j'aurais bien aimé le voir dans un Glassfish).

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Demo authoring: now and then | Speckdrumm
+:jbake-tags: windows,programming,scripting,lua,_mois_sept.,_année_2019
+:jbake-date: 2019-09-09
+:jbake-depth: ../
+:jbake-uri: shaarli/1568012514000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fspeckdrumm.github.io%2Fdemo-authoring%2F&searchtags=windows+programming+scripting+lua+_mois_sept.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://speckdrumm.github.io/demo-authoring/[Demo authoring: now and then | Speckdrumm]
+
+Faire des démos en 2019 (pas des démos de produit, hein, des démos de skill, de technique pure), c'est plus comme au XXème siècle ...

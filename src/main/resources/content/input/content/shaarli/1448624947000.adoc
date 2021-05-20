@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Une promenade avec un réseau neuronal
+:jbake-tags: science,informatique,image,_mois_nov.,_année_2015
+:jbake-date: 2015-11-27
+:jbake-depth: ../
+:jbake-uri: shaarli/1448624947000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.laboiteverte.fr%2Fune-promenade-avec-un-reseau-neuronal%2F&searchtags=science+informatique+image+_mois_nov.+_ann%C3%A9e_2015
+:jbake-style: shaarli
+
+http://www.laboiteverte.fr/une-promenade-avec-un-reseau-neuronal/[Une promenade avec un réseau neuronal]
+
+Les progrès de la reconnaissance d'images sont fascinants

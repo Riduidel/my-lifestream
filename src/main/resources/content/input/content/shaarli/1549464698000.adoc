@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Best engineering practices: how to fix a bug? - DEV Community 👩‍💻👨‍💻
+:jbake-tags: programming,debug,tutorial,méthode,_mois_févr.,_année_2019
+:jbake-date: 2019-02-06
+:jbake-depth: ../
+:jbake-uri: shaarli/1549464698000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fdev.to%2Fwemake-services%2Fbest-engineering-practices-how-to-fix-a-bug-58g5&searchtags=programming+debug+tutorial+m%C3%A9thode+_mois_f%C3%A9vr.+_ann%C3%A9e_2019
+:jbake-style: shaarli
+
+https://dev.to/wemake-services/best-engineering-practices-how-to-fix-a-bug-58g5[Best engineering practices: how to fix a bug? - DEV Community 👩‍💻👨‍💻]
+
+Ca me donne envie de relancer ma proposition de présentation sur ce sujet ... Et je crois bien que je vais le faire

@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: melix/deck2pdf
+:jbake-tags: java,software,groovy,open-source,pdf,web,_mois_mars,_année_2014
+:jbake-date: 2014-03-05
+:jbake-depth: ../
+:jbake-uri: shaarli/1394030833000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fmelix%2Fdeck2pdf&searchtags=java+software+groovy+open-source+pdf+web+_mois_mars+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+https://github.com/melix/deck2pdf[melix/deck2pdf]
+
+Un outil de transformation PDF de slides écrits en utilisant divers outils HTML/Javascript. Ca fournit un bon catalogue des outils qui marchent "bien".

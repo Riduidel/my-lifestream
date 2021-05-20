@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Decision Theory: The Language of Adaptive Agent Software
+:jbake-tags: ia,documentation,présentation,@toread,_mois_juil.,_année_2007
+:jbake-date: 2007-07-14
+:jbake-depth: ../
+:jbake-uri: shaarli/1184394046000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.norvig.com%2Fadaptive%2Findex.htm&searchtags=ia+documentation+pr%C3%A9sentation+%40toread+_mois_juil.+_ann%C3%A9e_2007
+:jbake-style: shaarli
+
+http://www.norvig.com/adaptive/index.htm[Decision Theory: The Language of Adaptive Agent Software]
+
+Une présentation sur l'IA et les agents intelligents. A lrie un jour ...

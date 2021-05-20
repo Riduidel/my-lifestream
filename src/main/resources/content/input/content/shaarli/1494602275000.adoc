@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Conférence - Twisted_Java.pdf
+:jbake-tags: java,programming,trick,_mois_mai,_année_2017
+:jbake-date: 2017-05-12
+:jbake-depth: ../
+:jbake-uri: shaarli/1494602275000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fthecodersbreakfast.net%2Fpublic%2F2017-04-14_Twisted_Java%2FTwisted_Java.pdf&searchtags=java+programming+trick+_mois_mai+_ann%C3%A9e_2017
+:jbake-style: shaarli
+
+http://thecodersbreakfast.net/public/2017-04-14_Twisted_Java/Twisted_Java.pdf[Conférence - Twisted_Java.pdf]
+
+Alors là chapeau, c'est du bon Java bien foireux

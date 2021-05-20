@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Informatique : les talents manquent, les salaires grimpent - Capital.fr
+:jbake-tags: salaire,informatique,_mois_août,_année_2014
+:jbake-date: 2014-08-18
+:jbake-depth: ../
+:jbake-uri: shaarli/1408365164000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=http%3A%2F%2Fwww.capital.fr%2Fcarriere-management%2Fspecial-salaires%2F2014%2Finformatique-les-talents-manquent-les-salaires-grimpent&searchtags=salaire+informatique+_mois_ao%C3%BBt+_ann%C3%A9e_2014
+:jbake-style: shaarli
+
+http://www.capital.fr/carriere-management/special-salaires/2014/informatique-les-talents-manquent-les-salaires-grimpent[Informatique : les talents manquent, les salaires grimpent - Capital.fr]
+
+Article intéressant sur les rémunérations ... C'est juste dommage qu'on considère que la carrière d'un développeur en France ne dure que dix ans.

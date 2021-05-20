@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: knowhowlab/keepass-maven-plugin: Maven plugin to integrate KeePass into build process
+:jbake-tags: maven,keepass,programming,plugin,_mois_oct.,_année_2016
+:jbake-date: 2016-10-07
+:jbake-depth: ../
+:jbake-uri: shaarli/1475822708000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fgithub.com%2Fknowhowlab%2Fkeepass-maven-plugin&searchtags=maven+keepass+programming+plugin+_mois_oct.+_ann%C3%A9e_2016
+:jbake-style: shaarli
+
+https://github.com/knowhowlab/keepass-maven-plugin[knowhowlab/keepass-maven-plugin: Maven plugin to integrate KeePass into build process]
+
+Une intégration de keepass et maven. C'est une chouette idée !

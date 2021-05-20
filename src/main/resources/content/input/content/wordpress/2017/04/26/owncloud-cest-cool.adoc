@@ -1,0 +1,31 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: OwnCloud, c'est cool
+:jbake-tags: owncloud,raspberrypi,synchronisation,_mois_avr.,_année_2017
+:jbake-date: 2017-04-26
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2017/04/26/owncloud-cest-cool.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2017/04/26/owncloud-cest-cool/
+:jbake-style: wordpress
+
+++++
+<p>
+J'ai installé il y a un bout de temps OwnCloud sur mon Raspberry, mais pendant longtemps, je n'en avais rien fait.
+</p>
+<p>
+Hier, j'ai enfin installé le client de synchronisation sur ma machine Windows et mon téléphone.
+</p>
+<p>
+Et surtout, j'ai déplacé tout le contenu de mon dossier Dropbox dans le dossier OwnCloud.
+</p>
+<p>
+Et franchement, ça marche rudement bien.
+</p>
+<p>
+De mon point de vue de simple utilisateur, ça marche aussi bien que Dropbox.
+</p>
+<p>
+Du coup, adieu Dropbox !
+</p>
+++++

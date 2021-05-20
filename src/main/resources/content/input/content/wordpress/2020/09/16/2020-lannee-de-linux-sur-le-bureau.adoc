@@ -1,0 +1,40 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: 2020, l'année de Linux sur le bureau ?
+:jbake-tags: linux,maison,ordinateur,recyclage,_mois_sept.,_année_2020
+:jbake-date: 2020-09-16
+:jbake-depth: ../../../../
+:jbake-uri: wordpress/2020/09/16/2020-lannee-de-linux-sur-le-bureau.adoc
+:jbake-excerpt: 
+:jbake-source: https://riduidel.wordpress.com/2020/09/16/2020-lannee-de-linux-sur-le-bureau/
+:jbake-style: wordpress
+
+++++
+<!-- wp:paragraph -->
+<p>En tout cas, il y a des chances que ce soit chez moi ...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Parce que j'ai quelques ordinateurs qui ont quelques années, et sur lesquels Windows ne tourne plus si bien. Jugez un peu :</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><li>Un portable <a href="https://alainkerbrat.blogspot.com/2011/10/un-grand-bravo-mon-pc-toshiba-u400-11u.html">Toshiba U400-11U</a></li><li>Un tout en un <a href="https://www.lesnumeriques.com/ordinateur/acer-aspire-az5610-p8005/test.html">Acer Aspire Z5610</a></li><li>Un Dell Optiplex 3020M</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Dans tous les cas, ce sont des ordinateurs qui marchent assez correctement, mais pour lesquels Windows n'est ... plus approprié.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pendant longtemps, j'ai refusé le changement là-dessus, parce que mes essais d'Ubuntu étaient toujours un peu ... gênants. Bon, je sais que c'est parce que mon dernier serveur utilisant cet OS a fini un peu trop ouvert sur Internet. Donc j'étais très prudent. Mais depuis cette période, j'ai appris : la seule machine de mon réseau local exposée sur Internet est un Raspberry. Ces trois ordinateurs, destinés à un usage bureautique ou à peu près, ne seront jamais exposés. Du coup, j'ai longtemps cherché une distribution Linux <strong>vraiment</strong> facile à utiliser. Et en lisant les articles de Rui Carno, je me suis dit que ça vaudrait vraiment le coup de tester <a href="https://taoofmac.com/space/os/Linux/Distributions/Elementary">Elementary OS</a>. Et mon test, quoique rapide, m'a stupéfait : j'ai retrouvé la simplicité, l'élégance de mon iBook G4. J'ai aussi, en bonus, retrouvé la base Linux que je connais maintenant assez bien grâce aux différents serveurs que j'ai pu utiliser.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Du coup, ni une ni deux, j'ai installé la dernière version d'<a href="https://www.elementaryos-fr.org/">Elementary OS</a> sur ces différentes machines, à chaque fois avec une facilité assez déconcertante. Et à chaque fois, j'ai également installé les outils d'administration "basiques" : OpenSSH et x11vnc. Avec ça, si mes utilisateurs ont le moindre problème, je pourrais me connecter sur leur machine et les dépanner.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Et pour l'instant, je suis franchement content à la fois de la procédure, mais aussi du résultat : des vieilles machines ont retrouvé un système fonctionnel, efficace, et élégant. L'étape suivante, la plus risquée, sera évidement de faire moi-même la migration sur ma machine de travail. Mais là, c'est un autre niveau de migration (que je tenterai peut-être avec ma prochaine machine, si elle arrive un jour).</p>
+<!-- /wp:paragraph -->
+++++

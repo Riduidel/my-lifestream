@@ -1,0 +1,13 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: EFAIL
+:jbake-tags: email,sécurité,_mois_mai,_année_2018
+:jbake-date: 2018-05-15
+:jbake-depth: ../
+:jbake-uri: shaarli/1526362366000.adoc
+:jbake-source: https://nicolas-delsaux.hd.free.fr/Shaarli?searchterm=https%3A%2F%2Fefail.de%2F&searchtags=email+s%C3%A9curit%C3%A9+_mois_mai+_ann%C3%A9e_2018
+:jbake-style: shaarli
+
+https://efail.de/[EFAIL]
+
+C'est moi ou c'est un peu de la bouffonerie ? Pour pirater un mail chiffré avec PGP, il faut ... avoir le mail ?!\#

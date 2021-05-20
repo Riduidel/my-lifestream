@@ -1,0 +1,12 @@
+:jbake-type: post
+:jbake-status: published
+:jbake-title: Wolverine Origin
+:jbake-tags: serie
+:jbake-date: 2013-03-13
+:jbake-depth: ../../
+:jbake-uri: goodreads/series/Wolverine_Origin.adoc
+:jbake-source: https://www.goodreads.com/series/295947
+:jbake-style: goodreads goodreads-serie no-index
+
+## Books
+* link:../books/9782809420111.html[Wolverine, les origines]
